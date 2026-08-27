@@ -16,7 +16,12 @@ concurrency:
 
 jobs:
   digest:
-    runs-on: ubuntu-latest
+    # Self-hosted runner on your own machine — runs on your home IP, where YouTube
+    # does not block transcript fetches. Runs when your PC is on (see README).
+    runs-on: self-hosted
+    defaults:
+      run:
+        shell: bash  # Git Bash on Windows, so the commit script below works
     steps:
       - uses: actions/checkout@v4
 
