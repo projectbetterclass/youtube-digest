@@ -61,8 +61,11 @@ pytest
 ## Deploy on GitHub (daily, in the cloud)
 
 1. Push this repo to GitHub.
-2. **Settings → Secrets and variables → Actions → New repository secret**: add
-   `ANTHROPIC_API_KEY`. (No other secret is needed — delivery uses the built-in token.)
+2. **Settings → Secrets and variables → Actions → New repository secret**, add:
+   - `ANTHROPIC_API_KEY` — your Claude API key.
+   - `WEBSHARE_PROXY_USERNAME` + `WEBSHARE_PROXY_PASSWORD` — residential proxy creds
+     (see [Transcripts on the cloud](#transcripts-on-the-cloud-residential-proxy) below).
+   (Delivery itself needs no secret — it uses the built-in token.)
 3. **Actions tab → Daily YouTube Digest → Run workflow** to trigger it once by hand.
    Confirm a digest is committed and an Issue is opened.
 4. After that it runs automatically on the schedule in
@@ -92,13 +95,30 @@ channels:
 
 ---
 
+## Transcripts on the cloud (residential proxy)
+
+YouTube **blocks transcript requests from cloud-provider IPs**, including GitHub
+Actions runners (`RequestBlocked`). It works from your home IP but not from the
+runner, so the cloud job needs a **residential proxy**:
+
+1. Create a **[Webshare](https://www.webshare.io/)** account and buy their
+   **Residential** proxy (their datacenter proxies are also blocked by YouTube —
+   it must be *residential*). Transcripts are tiny text, so bandwidth use is minimal.
+2. From the Webshare dashboard, copy your **Proxy username** and **Proxy password**.
+3. Add them as the `WEBSHARE_PROXY_USERNAME` / `WEBSHARE_PROXY_PASSWORD` repo secrets.
+
+The code auto-detects those env vars and routes transcript fetches through the proxy
+(`youtube-transcript-api` supports Webshare natively). With no proxy set it runs
+proxy-free — fine locally, blocked on the cloud. Any generic HTTP/HTTPS proxy works
+too via `YTDIGEST_PROXY_HTTP_URL` / `YTDIGEST_PROXY_HTTPS_URL`.
+
 ## Good to know (limits)
 
 - **No captions → no transcript.** Videos without captions are *not* transcribed
   (out of scope); the brief is still built from the description + any materials, and
   says the transcript was missing.
-- **Transcript fetching can be rate-limited** on shared cloud IPs. Failures are
-  skipped gracefully rather than crashing the run.
+- **Cloud IPs are blocked** for transcripts — see the residential-proxy section above.
+  Any transcript failure is skipped gracefully rather than crashing the run.
 - **RSS shows ~15 latest videos per channel.** Daily runs make missing anything unlikely.
 - **Only allowlisted documents are downloaded** (https-only, size-capped, content-type
   checked); everything else is listed, never fetched.
