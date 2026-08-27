@@ -25,13 +25,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-          cache: pip
-
+      # This self-hosted runner already has Python 3.12 (via the `py` launcher).
+      # actions/setup-python needs admin/registry access to install Python and
+      # fails on a non-elevated runner, so build a venv from the local interpreter.
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          py -3.12 -m venv .venv
+          .venv/Scripts/python.exe -m pip install --upgrade pip
+          .venv/Scripts/python.exe -m pip install -r requirements.txt
 
       - name: Run digest
         env:
@@ -41,7 +42,7 @@ jobs:
           WEBSHARE_PROXY_PASSWORD: ${{ secrets.WEBSHARE_PROXY_PASSWORD }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python scripts/run.py
+        run: .venv/Scripts/python.exe scripts/run.py
 
       - name: Commit results
         run: |
