@@ -1,6 +1,6 @@
 # ── YouTube Digest watchlist ─────────────────────────────────────────────
 # Add one entry per channel. You need each channel's `channel_id` (starts with
-# "UC..."). To find it, run:
+# "UC..."). To find one, run:
 #     python scripts/resolve_channel.py https://www.youtube.com/@SomeHandle
 # and paste the printed YAML snippet below.
 
@@ -9,8 +9,8 @@ settings:
   # Override to claude-sonnet-5 for richer briefs (higher cost).
   model: claude-haiku-4-5
 
-  # Only summarize videos published within this many days. Keeps the very first
-  # run from summarizing a channel's whole back-catalogue.
+  # Only summarize videos published within this many days. Also the "missed a day"
+  # catch-up window if the PC was off (self-hosted runner).
   max_age_days: 3
 
   # Preferred caption languages, in order. First available wins.
@@ -23,8 +23,41 @@ settings:
   max_videos_per_run: 50
 
 channels:
-  # ── Examples — replace with your own channels ──
-  - name: Two Minute Papers
-    channel_id: UCbfYPyITQ-7l4upoX8nvctg
-  - name: 3Blue1Brown
-    channel_id: UCYO_jab_esuFRV4b17AJtAw
+  - name: "Aswath Damodaran"
+    channel_id: UCLvnJL8htRR1T9cbSccaoVw
+  - name: "Greg Isenberg"
+    channel_id: UCPjNBjflYl0-HQtUvOx0Ibw
+  - name: "Ticker Symbol: YOU"
+    channel_id: UC7kCeZ53sli_9XwuQeFxLqw
+  - name: "Felix & Friends (Goat Academy)"
+    channel_id: UCJtfma0mE_XrBAD9uakcjfA
+  - name: "HealthyGamerGG"
+    channel_id: UClHVl2N3jPEbkNJVx-ItQIQ
+  - name: "BWB - Business With Brian"
+    channel_id: UCyqlbzLoYtpqDXwRI9Yh5LA
+  - name: "Chris Raroque"
+    channel_id: UC4x3CR25WSlvMJUtSPPzwwg
+  - name: "Riley Brown"
+    channel_id: UCMcoud_ZW7cfxeIugBflSBw
+  - name: "Chris Williamson"
+    channel_id: UCIaH-gZIVC432YRjNVvnyCA
+  - name: "The Diary Of A CEO"
+    channel_id: UCGq-a57w-aPwyi3pW7XLiHw
+  - name: "New Money"
+    channel_id: UCvSXMi2LebwJEM1s4bz5IBA
+  - name: "Starter Story"
+    channel_id: UChhw6DlKKTQ9mYSpTfXUYqA
+  - name: "Alex Hormozi"
+    channel_id: UCUyDOdBWhC1MCxEjC46d-zw
+  - name: "Vinh Giang"
+    channel_id: UC9K9Wnz6t4cLnCdTzAVrXqQ
+  - name: "Leila Hormozi"
+    channel_id: UCxCcu9pet4dljrBLf8R5nwA
+  - name: "Ben Yanes"
+    channel_id: UCTwuK33U_RjE4bLkQJzG-cQ
+  - name: "Justin Sung"
+    channel_id: UC2Zs9v2hL2qZZ7vsAENsg4w
+  - name: "Tom Nash"
+    channel_id: UCJwKCyEIFHwUOPQQ-4kC1Zw
+  - name: "David Carbutt"
+    channel_id: UC__d7jgOunIVFz6TU_t1QOQ
