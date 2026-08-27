@@ -1,0 +1,30 @@
+# ── YouTube Digest watchlist ─────────────────────────────────────────────
+# Add one entry per channel. You need each channel's `channel_id` (starts with
+# "UC..."). To find it, run:
+#     python scripts/resolve_channel.py https://www.youtube.com/@SomeHandle
+# and paste the printed YAML snippet below.
+
+settings:
+  # Claude model for the summaries. Haiku is cheap + fast and fine for briefs.
+  # Override to claude-sonnet-5 for richer briefs (higher cost).
+  model: claude-haiku-4-5
+
+  # Only summarize videos published within this many days. Keeps the very first
+  # run from summarizing a channel's whole back-catalogue.
+  max_age_days: 3
+
+  # Preferred caption languages, in order. First available wins.
+  transcript_languages: [en]
+
+  # Politeness spacing (seconds) between channel feed fetches.
+  request_delay_seconds: 1.0
+
+  # Hard cap on how many new videos to summarize in a single run (cost guard).
+  max_videos_per_run: 50
+
+channels:
+  # ── Examples — replace with your own channels ──
+  - name: Two Minute Papers
+    channel_id: UCbfYPyITQ-7l4upoX8nvctg
+  - name: 3Blue1Brown
+    channel_id: UCYO_jab_esuFRV4b17AJtAw

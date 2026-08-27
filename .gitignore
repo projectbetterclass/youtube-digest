@@ -1,0 +1,14 @@
+# Secrets / local env
+.env
+
+# Ephemeral downloads (binaries are never committed; only extracted .txt is kept)
+tmp_downloads/
+*.pdf
+*.pptx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/

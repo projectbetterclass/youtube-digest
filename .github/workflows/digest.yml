@@ -1,0 +1,49 @@
+name: Daily YouTube Digest
+
+on:
+  schedule:
+    # 06:00 UTC daily. Adjust with https://crontab.guru/
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}  # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write   # commit state + digests back to the repo
+  issues: write     # open the digest Issue (delivery/notification)
+
+concurrency:
+  group: youtube-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/run.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # -A tolerates data/ or digests/ not existing yet (e.g. a run with no new videos).
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "digest: update $(date -u +%Y-%m-%d)"
+            git push
+          fi

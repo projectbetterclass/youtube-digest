@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015"
+      xmlns:media="http://search.yahoo.com/mrss/"
+      xmlns="http://www.w3.org/2005/Atom">
+  <title>Test Channel</title>
+  <yt:channelId>UCtest0000000000000000</yt:channelId>
+  <entry>
+    <id>yt:video:RECENT12345</id>
+    <yt:videoId>RECENT12345</yt:videoId>
+    <yt:channelId>UCtest0000000000000000</yt:channelId>
+    <title>Neural Rendering, Explained</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=RECENT12345"/>
+    <author>
+      <name>Test Channel</name>
+      <uri>https://www.youtube.com/channel/UCtest0000000000000000</uri>
+    </author>
+    <published>2026-08-26T14:00:00+00:00</published>
+    <updated>2026-08-26T14:05:00+00:00</updated>
+    <media:group>
+      <media:title>Neural Rendering, Explained</media:title>
+      <media:description>A walkthrough of the paper.
+Slides: https://example.com/talk-deck.pdf
+Code: https://github.com/example/neural-render
+Preprint: https://arxiv.org/abs/2408.00001</media:description>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:OLD67890000</id>
+    <yt:videoId>OLD67890000</yt:videoId>
+    <yt:channelId>UCtest0000000000000000</yt:channelId>
+    <title>An Older Upload</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=OLD67890000"/>
+    <author>
+      <name>Test Channel</name>
+      <uri>https://www.youtube.com/channel/UCtest0000000000000000</uri>
+    </author>
+    <published>2026-08-01T09:00:00+00:00</published>
+    <updated>2026-08-01T09:10:00+00:00</updated>
+    <media:group>
+      <media:title>An Older Upload</media:title>
+      <media:description>No links here.</media:description>
+    </media:group>
+  </entry>
+</feed>
