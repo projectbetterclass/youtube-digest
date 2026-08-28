@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+import logging
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from typing import Optional
@@ -11,8 +13,21 @@ import requests
 from .config import Channel
 from .models import Video
 
+log = logging.getLogger(__name__)
+
 FEED_URL = "https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-USER_AGENT = "ytdigest/0.1 (+https://github.com/) RSS reader"
+# A browser-like UA + EU consent cookie avoids YouTube's consent wall, which can
+# otherwise return transient 404s for the RSS feed from EU/cloud IPs.
+_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
+    "Cookie": "CONSENT=YES+1",
+}
+# Statuses that are transient for YouTube's RSS endpoint (consent/throttle), worth retrying.
+_RETRY_STATUS = {404, 429, 500, 502, 503}
 
 # XML namespaces used in the YouTube Atom feed.
 _ATOM = "{http://www.w3.org/2005/Atom}"
@@ -76,10 +91,33 @@ def fetch_channel_videos(
     channel: Channel,
     session: Optional[requests.Session] = None,
     timeout: int = 20,
+    retries: int = 3,
 ) -> list[Video]:
-    """Download and parse one channel's feed. Raises on network/HTTP errors."""
+    """Download and parse one channel's feed, retrying transient failures.
+
+    Raises the last error if every attempt fails (the caller skips that channel).
+    """
     url = FEED_URL.format(channel_id=channel.channel_id)
     sess = session or requests.Session()
-    resp = sess.get(url, timeout=timeout, headers={"User-Agent": USER_AGENT})
-    resp.raise_for_status()
-    return parse_feed(resp.content, channel)
+    last_exc: Optional[Exception] = None
+    for attempt in range(retries):
+        try:
+            resp = sess.get(url, timeout=timeout, headers=_HEADERS)
+            if resp.status_code == 200:
+                return parse_feed(resp.content, channel)
+            if resp.status_code in _RETRY_STATUS and attempt < retries - 1:
+                log.info("Feed %s returned %s, retrying (%d/%d)",
+                         channel.name, resp.status_code, attempt + 1, retries - 1)
+                time.sleep(1.5 * (attempt + 1))
+                continue
+            resp.raise_for_status()
+            return parse_feed(resp.content, channel)
+        except requests.RequestException as exc:
+            last_exc = exc
+            if attempt < retries - 1:
+                time.sleep(1.5 * (attempt + 1))
+                continue
+            raise
+    if last_exc:
+        raise last_exc
+    return []
