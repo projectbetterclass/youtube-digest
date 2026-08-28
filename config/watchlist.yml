@@ -2,15 +2,13 @@
 # Add one entry per channel. You need each channel's `channel_id` (starts with
 # "UC..."). To find one, run:
 #     python scripts/resolve_channel.py https://www.youtube.com/@SomeHandle
-# and paste the printed YAML snippet below.
 
 settings:
-  # Claude model for the summaries. Haiku is cheap + fast and fine for briefs.
-  # Override to claude-sonnet-5 for richer briefs (higher cost).
+  # Claude model for the daily briefs. Haiku is cheap + fast.
   model: claude-haiku-4-5
 
-  # Only summarize videos published within this many days. Also the "missed a day"
-  # catch-up window if the PC was off (self-hosted runner).
+  # Only summarize new videos published within this many days (also the "missed a
+  # day" catch-up window if the PC was off).
   max_age_days: 5
 
   # Preferred caption languages, in order. First available wins.
@@ -19,47 +17,69 @@ settings:
   # Politeness spacing (seconds) between channel feed fetches.
   request_delay_seconds: 1.0
 
-  # Hard cap on new videos per run. Kept modest so a big backlog is spread over
-  # several daily runs instead of bursting YouTube's transcript rate limit (IpBlocked).
-  # A backlog still drains within the max_age_days window.
+  # Cap on NEW videos summarized per run (spreads bursts so they don't trip
+  # YouTube's transcript rate limit).
   max_videos_per_run: 20
 
+  # Back-catalog drip: how many PAST videos to import per run (transcripts only).
+  # Raise to backfill faster, but YouTube's per-IP transcript limit caps the real rate.
+  backfill_budget_per_run: 10
+
+# Per channel, add `backfill: N` to import that channel's N most-recent PAST videos
+# (transcripts only, dripped in slowly over days). Omit it (or 0) = new uploads only.
 channels:
   - name: "Aswath Damodaran"
     channel_id: UCLvnJL8htRR1T9cbSccaoVw
+    backfill: 100
   - name: "Greg Isenberg"
     channel_id: UCPjNBjflYl0-HQtUvOx0Ibw
+    backfill: 100
   - name: "Ticker Symbol: YOU"
     channel_id: UC7kCeZ53sli_9XwuQeFxLqw
+    backfill: 100
   - name: "Felix & Friends (Goat Academy)"
     channel_id: UCJtfma0mE_XrBAD9uakcjfA
+    backfill: 100
   - name: "HealthyGamerGG"
     channel_id: UClHVl2N3jPEbkNJVx-ItQIQ
+    backfill: 100
   - name: "BWB - Business With Brian"
     channel_id: UCyqlbzLoYtpqDXwRI9Yh5LA
+    backfill: 100
   - name: "Chris Raroque"
     channel_id: UC4x3CR25WSlvMJUtSPPzwwg
+    backfill: 100
   - name: "Riley Brown"
     channel_id: UCMcoud_ZW7cfxeIugBflSBw
+    backfill: 100
   - name: "Chris Williamson"
     channel_id: UCIaH-gZIVC432YRjNVvnyCA
   - name: "The Diary Of A CEO"
     channel_id: UCGq-a57w-aPwyi3pW7XLiHw
   - name: "New Money"
     channel_id: UCvSXMi2LebwJEM1s4bz5IBA
+    backfill: 30
   - name: "Starter Story"
     channel_id: UChhw6DlKKTQ9mYSpTfXUYqA
+    backfill: 100
   - name: "Alex Hormozi"
     channel_id: UCUyDOdBWhC1MCxEjC46d-zw
+    backfill: 30
   - name: "Vinh Giang"
     channel_id: UC9K9Wnz6t4cLnCdTzAVrXqQ
+    backfill: 30
   - name: "Leila Hormozi"
     channel_id: UCxCcu9pet4dljrBLf8R5nwA
+    backfill: 30
   - name: "Ben Yanes"
     channel_id: UCTwuK33U_RjE4bLkQJzG-cQ
+    backfill: 100
   - name: "Justin Sung"
     channel_id: UC2Zs9v2hL2qZZ7vsAENsg4w
+    backfill: 100
   - name: "Tom Nash"
     channel_id: UCJwKCyEIFHwUOPQQ-4kC1Zw
+    backfill: 100
   - name: "David Carbutt"
     channel_id: UC__d7jgOunIVFz6TU_t1QOQ
+    backfill: 100

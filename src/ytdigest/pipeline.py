@@ -12,6 +12,7 @@ import requests
 from anthropic import Anthropic
 
 from . import config as C
+from .backfill import run_backfill
 from .config import Settings
 from .delivery import deliver_github_issue
 from .digest import render_digest, write_digest
@@ -169,12 +170,22 @@ def run(
     else:
         log.info("No new videos — nothing to summarize.")
 
+    # Slow back-catalog drip (transcripts only), after the forward pass.
+    imported = 0
+    if not dry_run:
+        try:
+            imported = run_backfill(settings, channels, state, library)
+            if imported:
+                log.info("Back-catalog: imported %d transcript(s) this run.", imported)
+        except Exception as exc:  # noqa: BLE001 — backfill is best-effort
+            log.warning("Backfill error: %s", exc)
+
     if not dry_run:
         state["last_run"] = when.isoformat()
         save_state(C.STATE_PATH, state)
-        if briefs:
+        if briefs or imported:
             save_library(C.LIBRARY_PATH, library)
             write_index(C.INDEX_PATH, library)
-            log.info("Updated library index (%d videos).", len(library.get("videos", {})))
+            log.info("Library index now has %d videos.", len(library.get("videos", {})))
 
     return briefs

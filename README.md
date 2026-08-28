@@ -74,6 +74,30 @@ transcripts, and answers with **citations** to the specific creators/videos. The
   (that's Phase 2). Retrieval is Claude Code's built-in search — plenty until the
   library gets very large, at which point an index/embeddings step can be added.
 
+## Import a channel's back-catalog
+
+By default the tool only sees a channel's ~15 latest uploads (RSS limit), so the library
+grows *forward*. To also pull in **past** videos, add a `backfill: N` to a channel — it
+imports that channel's **N most-recent past videos** (transcripts only, no AI brief, so
+it costs ~nothing in API):
+
+```yaml
+  - name: "Justin Sung"
+    channel_id: UC2Zs9v2hL2qZZ7vsAENsg4w
+    backfill: 100        # import the last 100 videos' transcripts
+```
+
+It runs as a **slow auto-drip**: each daily run imports up to `backfill_budget_per_run`
+(default 10) old videos and resumes day after day until each channel's target is met. It
+reuses `state.json`, so it never re-imports and self-terminates. Enumeration uses `yt-dlp`
+(metadata only — no video downloads).
+
+**Reality check:** the binding constraint is YouTube's per-IP transcript rate limit
+(you're not using a proxy), so deep backfills across many channels drip in over
+**weeks**, not hours — a block just defers and resumes next run. Raise
+`backfill_budget_per_run` to push harder (more block risk), or add a residential proxy
+(see below) to go much faster.
+
 ## Configuration (`config/watchlist.yml`)
 
 ```yaml

@@ -33,6 +33,8 @@ class Settings:
     # (seen as IpBlocked). Steady-state runs are small, so this is cheap.
     transcript_delay_seconds: float = 4.0
     max_videos_per_run: int = 50
+    # How many back-catalog videos to import per run (slow auto-drip). See Channel.backfill.
+    backfill_budget_per_run: int = 10
     # Cost / safety guards (not exposed in the yaml, but easy to change here):
     max_transcript_chars: int = 200_000
     max_material_chars: int = 60_000
@@ -44,6 +46,7 @@ class Channel:
     name: str
     channel_id: str
     visual: str = "auto"  # Phase 2 hint: auto | always | never
+    backfill: int = 0  # import up to this many most-recent past videos (transcripts only)
 
 
 def load_config(path: Path | str | None = None) -> tuple[Settings, list[Channel]]:
@@ -59,6 +62,7 @@ def load_config(path: Path | str | None = None) -> tuple[Settings, list[Channel]
         transcript_languages=list(s.get("transcript_languages") or ["en"]),
         request_delay_seconds=float(s.get("request_delay_seconds", Settings.request_delay_seconds)),
         max_videos_per_run=int(s.get("max_videos_per_run", Settings.max_videos_per_run)),
+        backfill_budget_per_run=int(s.get("backfill_budget_per_run", Settings.backfill_budget_per_run)),
     )
 
     channels: list[Channel] = []
@@ -71,6 +75,7 @@ def load_config(path: Path | str | None = None) -> tuple[Settings, list[Channel]
                 name=(entry.get("name") or cid).strip(),
                 channel_id=cid,
                 visual=(entry.get("visual") or "auto").strip(),
+                backfill=int(entry.get("backfill") or 0),
             )
         )
     return settings, channels
