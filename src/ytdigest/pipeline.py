@@ -75,6 +75,7 @@ def process_video(
         verdict=data.get("verdict", "skim"),
         verdict_reason=data.get("verdict_reason", ""),
         materials_notes=data.get("materials_notes", ""),
+        reality_check=data.get("reality_check", ""),
         listed_links=[ln for ln in links if ln.kind == "list"],
         downloaded_materials=materials,
         archive_dir=archive_dir,

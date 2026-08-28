@@ -25,6 +25,10 @@ settings:
   # Raise to backfill faster, but YouTube's per-IP transcript limit caps the real rate.
   backfill_budget_per_run: 10
 
+  # Add a critical "reality check" line to each brief (flags hype/overconfidence, bias,
+  # missing risks; leans hardest on finance; never gives advice). Set false to turn off.
+  reality_check: true
+
 # Per channel, add `backfill: N` to import that channel's N most-recent PAST videos
 # (transcripts only, dripped in slowly over days). Omit it (or 0) = new uploads only.
 channels:

@@ -35,6 +35,8 @@ class Settings:
     max_videos_per_run: int = 50
     # How many back-catalog videos to import per run (slow auto-drip). See Channel.backfill.
     backfill_budget_per_run: int = 10
+    # Add a critical "reality check" counterweight to each brief (and library answers).
+    reality_check: bool = True
     # Cost / safety guards (not exposed in the yaml, but easy to change here):
     max_transcript_chars: int = 200_000
     max_material_chars: int = 60_000
@@ -63,6 +65,7 @@ def load_config(path: Path | str | None = None) -> tuple[Settings, list[Channel]
         request_delay_seconds=float(s.get("request_delay_seconds", Settings.request_delay_seconds)),
         max_videos_per_run=int(s.get("max_videos_per_run", Settings.max_videos_per_run)),
         backfill_budget_per_run=int(s.get("backfill_budget_per_run", Settings.backfill_budget_per_run)),
+        reality_check=bool(s.get("reality_check", Settings.reality_check)),
     )
 
     channels: list[Channel] = []

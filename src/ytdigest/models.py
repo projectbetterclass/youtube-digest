@@ -55,6 +55,7 @@ class Brief:
     verdict: str  # skip | skim | watch
     verdict_reason: str
     materials_notes: str = ""
+    reality_check: str = ""  # critical counterweight (adaptive; empty when disabled)
     listed_links: list[Link] = field(default_factory=list)
     downloaded_materials: list[Material] = field(default_factory=list)
     archive_dir: str = ""

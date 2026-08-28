@@ -6,6 +6,7 @@ free-text JSON parsing. Model + token budgets come from Settings.
 
 from __future__ import annotations
 
+import copy
 import logging
 from typing import Optional
 
@@ -26,6 +27,25 @@ SYSTEM_PROMPT = (
     "  - 'skim': a few useful bits; jump around or read the key points here.\n"
     "  - 'skip': low value, promotional, or fully captured by the key points.\n"
 )
+
+# Appended to the system prompt (and adds the field below) when reality_check is on.
+REALITY_CHECK_INSTRUCTION = (
+    "\n\nAlso fill in 'reality_check': a short, critical counterweight so the reader does "
+    "not take the video at face value. Call out claims stated as certainty that are really "
+    "opinion or prediction, FOMO/hype framing, signs the creator may be selling something, "
+    "sponsored, or talking their own position, and any risks or counterarguments they "
+    "skipped. Lean hardest on finance/investing content and ALWAYS note there that it is "
+    "speculation, not financial advice — never tell the reader what to buy, sell, or do. "
+    "Be proportional: if the video is measured and evidence-based, keep it to something "
+    "like 'Measured and evidence-based — no major caveats.' Base it only on the provided "
+    "transcript/description; do not invent bias you cannot support."
+)
+
+REALITY_CHECK_FIELD = {
+    "type": "string",
+    "description": "A short critical counterweight (see instructions), proportional to how "
+    "overstated the content is. Never financial/other advice.",
+}
 
 BRIEF_TOOL = {
     "name": "submit_brief",
@@ -117,11 +137,19 @@ def summarize(
     client = client or Anthropic()
     content = _build_content(video, transcript_text, transcript_ok, materials, listed_links, settings)
 
+    system = SYSTEM_PROMPT
+    tool = BRIEF_TOOL
+    if settings.reality_check:
+        system = SYSTEM_PROMPT + REALITY_CHECK_INSTRUCTION
+        tool = copy.deepcopy(BRIEF_TOOL)
+        tool["input_schema"]["properties"]["reality_check"] = REALITY_CHECK_FIELD
+        tool["input_schema"]["required"].append("reality_check")
+
     message = client.messages.create(
         model=settings.model,
-        max_tokens=1500,
-        system=SYSTEM_PROMPT,
-        tools=[BRIEF_TOOL],
+        max_tokens=1800,
+        system=system,
+        tools=[tool],
         tool_choice={"type": "tool", "name": "submit_brief"},
         messages=[{"role": "user", "content": content}],
     )
@@ -134,6 +162,7 @@ def summarize(
             data.setdefault("materials_notes", "")
             data.setdefault("verdict", "skim")
             data.setdefault("verdict_reason", "")
+            data.setdefault("reality_check", "")
             return data
 
     raise RuntimeError("Claude did not return a submit_brief tool call")

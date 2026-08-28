@@ -54,3 +54,11 @@ def test_render_flags_missing_transcript():
 def test_render_pluralizes_multiple():
     md = render_digest("2026-08-27", [_brief(), _brief()])
     assert "2 new videos across your watchlist." in md
+
+
+def test_render_includes_reality_check_when_present():
+    md = render_digest("2026-08-27", [_brief(reality_check="FOMO framing; speculation, not advice.")])
+    assert "🔍 Reality check:" in md
+    assert "FOMO framing; speculation, not advice." in md
+    # absent by default (no empty line noise)
+    assert "🔍 Reality check:" not in render_digest("2026-08-27", [_brief()])

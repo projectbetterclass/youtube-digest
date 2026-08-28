@@ -23,6 +23,13 @@ treat `data/archive/` as the knowledge base and answer from it:
 5. **Be honest about coverage:** say when the library has little on the topic. Answers
    are based on transcripts + linked slide/PDF text — **not** on-screen visuals (that
    visual-capture step, "Phase 2", isn't built yet).
+6. **Stay critical — don't just parrot the creators.** These are opinionated YouTubers,
+   not peer-reviewed sources. Distinguish claims stated as certainty from opinion or
+   prediction; note when a creator may be selling something, sponsored, or talking their
+   own position; surface risks/counterarguments they skipped; and when creators disagree,
+   show the disagreement. For finance/investing questions, make clear it is speculation,
+   **not financial advice** — never tell the user what to buy, sell, or do. Aim for a
+   balanced, "here's the other side too" answer.
 
 **Refresh before asking:** the digest runs on a self-hosted runner and pushes new data
 to GitHub, so run `git pull` to include the latest videos.

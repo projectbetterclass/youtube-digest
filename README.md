@@ -98,6 +98,15 @@ reuses `state.json`, so it never re-imports and self-terminates. Enumeration use
 `backfill_budget_per_run` to push harder (more block risk), or add a residential proxy
 (see below) to go much faster.
 
+## Reality-check lens
+
+Every brief includes a **🔍 Reality check** — a short critical counterweight that flags
+hype, overconfidence, undisclosed bias/selling, and skipped risks, leaning hardest on
+finance/investing (and never giving buy/sell advice — it's speculation, not advice). It's
+adaptive: strong pushback on hype, and just a quick "no major caveats" on measured
+content. Your "ask the library" answers stay balanced the same way (see `CLAUDE.md`).
+Turn it off with `reality_check: false` in the watchlist settings.
+
 ## Configuration (`config/watchlist.yml`)
 
 ```yaml

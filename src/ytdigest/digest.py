@@ -39,6 +39,9 @@ def render_brief(brief: Brief) -> str:
     if brief.takeaway:
         out += [f"**Takeaway:** {brief.takeaway}", ""]
 
+    if brief.reality_check:
+        out += [f"**🔍 Reality check:** {brief.reality_check}", ""]
+
     # Notable materials: extracted docs first, then mention-only links.
     material_lines = []
     for m in brief.downloaded_materials:
