@@ -29,6 +29,9 @@ class Settings:
     max_age_days: int = 3
     transcript_languages: list[str] = field(default_factory=lambda: ["en"])
     request_delay_seconds: float = 1.0
+    # Space out transcript fetches so a burst doesn't trip YouTube's per-IP rate limit
+    # (seen as IpBlocked). Steady-state runs are small, so this is cheap.
+    transcript_delay_seconds: float = 4.0
     max_videos_per_run: int = 50
     # Cost / safety guards (not exposed in the yaml, but easy to change here):
     max_transcript_chars: int = 200_000

@@ -121,7 +121,9 @@ def run(
 
     client = Anthropic() if new_videos else None
     briefs: list[Brief] = []
-    for v in new_videos:
+    for i, v in enumerate(new_videos):
+        if i > 0:
+            time.sleep(settings.transcript_delay_seconds)  # throttle transcript fetches
         try:
             brief = process_video(v, settings, client=client, session=session)
         except Exception as exc:  # noqa: BLE001 — skip a failed video, keep the run going

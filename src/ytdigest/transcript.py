@@ -20,10 +20,16 @@ from __future__ import annotations
 
 import logging
 import os
+import time
 
 from youtube_transcript_api import YouTubeTranscriptApi
 
 log = logging.getLogger(__name__)
+
+
+def _is_ip_block(exc: Exception) -> bool:
+    """True for YouTube per-IP rate-limit errors (IpBlocked / RequestBlocked)."""
+    return "Blocked" in type(exc).__name__ or "blocking requests from your IP" in str(exc)
 
 
 def _build_proxy_config():
@@ -61,12 +67,22 @@ def fetch_transcript(video_id: str, languages: list[str]) -> tuple[str, bool, st
     error: short reason when ok is False (for logging / the brief)
     """
     proxy_config = _build_proxy_config()
-    try:
-        api = YouTubeTranscriptApi(proxy_config=proxy_config) if proxy_config else YouTubeTranscriptApi()
-        fetched = api.fetch(video_id, languages=list(languages))
-    except Exception as exc:  # noqa: BLE001 — any failure means "no usable transcript"
-        reason = f"{type(exc).__name__}: {exc}".strip()
-        log.info("No transcript for %s (%s)", video_id, reason)
+    fetched = None
+    reason = ""
+    for attempt in range(2):  # one retry, only for a transient IP block
+        try:
+            api = YouTubeTranscriptApi(proxy_config=proxy_config) if proxy_config else YouTubeTranscriptApi()
+            fetched = api.fetch(video_id, languages=list(languages))
+            break
+        except Exception as exc:  # noqa: BLE001 — any failure means "no usable transcript"
+            reason = f"{type(exc).__name__}: {exc}".strip()
+            if _is_ip_block(exc) and attempt == 0:
+                log.info("Transcript for %s IP-blocked; backing off 20s then retrying", video_id)
+                time.sleep(20)
+                continue
+            log.info("No transcript for %s (%s)", video_id, reason)
+            return "", False, reason
+    if fetched is None:
         return "", False, reason
 
     parts = []

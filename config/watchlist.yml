@@ -19,8 +19,10 @@ settings:
   # Politeness spacing (seconds) between channel feed fetches.
   request_delay_seconds: 1.0
 
-  # Hard cap on how many new videos to summarize in a single run (cost guard).
-  max_videos_per_run: 50
+  # Hard cap on new videos per run. Kept modest so a big backlog is spread over
+  # several daily runs instead of bursting YouTube's transcript rate limit (IpBlocked).
+  # A backlog still drains within the max_age_days window.
+  max_videos_per_run: 20
 
 channels:
   - name: "Aswath Damodaran"
