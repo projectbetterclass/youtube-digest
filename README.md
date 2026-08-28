@@ -53,6 +53,27 @@ a Windows service instead (needs admin).
 
 ---
 
+## Ask your library
+
+Every run adds the full transcript + extracted slide/PDF text to `data/archive/`, so the
+repo becomes a growing **knowledge base** of what your channels say. To query it, just
+**open Claude Code in this folder and ask** — no separate app, no embeddings:
+
+```bash
+git pull                        # get the newest videos first
+# then, in Claude Code, ask e.g.:
+#   "Across my channels, what's the consensus on pricing a new offer?"
+```
+
+Claude reads `data/archive/INDEX.md` (a table of every archived video), searches the
+transcripts, and answers with **citations** to the specific creators/videos. The
+[`CLAUDE.md`](CLAUDE.md) file primes it to do this and to cite sources.
+
+- Build/refresh the index without waiting for a run: `python scripts/build_index.py`.
+- Scope: answers draw on transcripts + linked slide/PDF text, **not** on-screen visuals
+  (that's Phase 2). Retrieval is Claude Code's built-in search — plenty until the
+  library gets very large, at which point an index/embeddings step can be added.
+
 ## Configuration (`config/watchlist.yml`)
 
 ```yaml

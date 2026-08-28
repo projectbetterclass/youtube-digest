@@ -16,6 +16,7 @@ from .config import Settings
 from .delivery import deliver_github_issue
 from .digest import render_digest, write_digest
 from .feeds import fetch_channel_videos
+from .library import add_brief, load_library, save_library, write_index
 from .links import classify_links
 from .materials import gather_materials
 from .models import Brief, Material, Video
@@ -109,6 +110,7 @@ def run(
 ) -> list[Brief]:
     settings, channels = C.load_config(config_path)
     state = load_state(C.STATE_PATH)
+    library = load_library(C.LIBRARY_PATH)
     session = requests.Session()
 
     new_videos = _discover(settings, channels, state, session, channel_filter, now)
@@ -132,6 +134,7 @@ def run(
                 had_materials=brief.had_materials,
                 transcript_available=brief.transcript_available,
             )
+            add_brief(library, brief)
 
     when = now or datetime.now(timezone.utc)
     if briefs:
@@ -154,5 +157,9 @@ def run(
     if not dry_run:
         state["last_run"] = when.isoformat()
         save_state(C.STATE_PATH, state)
+        if briefs:
+            save_library(C.LIBRARY_PATH, library)
+            write_index(C.INDEX_PATH, library)
+            log.info("Updated library index (%d videos).", len(library.get("videos", {})))
 
     return briefs
