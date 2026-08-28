@@ -1,0 +1,5 @@
+# Solo founder built a $50K/month app with this exact tech stack:
+
+<https://www.youtube.com/shorts/cZE5AOQpjw4>
+
+What's your whole stack to run an app that makes $50,000 a month like this? >> Uh yeah, solo founder. I have help now I think it's inevitable. In terms of running uh everything I use Firebase for the database, authentication, and cloud functions within the app. Superwall for paywall and subscription management. He's OpenAI for AI API. I use [music] Mixpanel for in-app analytics. And of course, Cloud Code the absolute best tool for actually building the app. And then for marketing, Grow for influencer tracking and payments. SideShift for UGC creator [music] sourcing, tracking, and payments. Instantly for emails is great for sending out mass emails for influencer outreach. Uh Cal for booking meetings. Agree for contracts. And then Google Sheets feel like I have to mention sort of run everything through that. And then just general business tools use QuickBooks for accounting keeps everything super clean. And then One Password for password manager. On a personal note, absolute life changer. Could not recommend any more to set up a [music] One Password.

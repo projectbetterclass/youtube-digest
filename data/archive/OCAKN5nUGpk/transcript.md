@@ -1,0 +1,5 @@
+# Fastest way to improve your communication!
+
+<https://www.youtube.com/shorts/OCAKN5nUGpk>
+
+Record a video of you speaking for 5 minutes. Leave it for a day so you're less critical of yourself. The first time you grab your phone to review the video, put it on mute. [music] Just look at yourself. And then as you're looking at yourself, take notes. What am I doing with my hands? How are my facial expressions? What am I doing with my legs? How am I moving? Then after that, turn the volume up, turn the phone around, play, just listen. And as you're listening now, listen to the vocal qualities. What do you like about your voice? What don't you [music] like? What can you hear? How's your rate of speech? How's your volume? Then the last step is get it transcribed. So once you transcribe it, now you can see the way you communicate in a completely different perspective. You might notice you speak in circles. I repeated the same thing [music] four times. What am I doing? Right? And you'll see different things. If you just go through that process once, you'll get a list of five to 10 things. Right? That's how you begin your [music] journey of self-awareness.
