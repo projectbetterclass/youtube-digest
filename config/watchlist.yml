@@ -11,7 +11,7 @@ settings:
 
   # Only summarize videos published within this many days. Also the "missed a day"
   # catch-up window if the PC was off (self-hosted runner).
-  max_age_days: 3
+  max_age_days: 5
 
   # Preferred caption languages, in order. First available wins.
   transcript_languages: [en]
