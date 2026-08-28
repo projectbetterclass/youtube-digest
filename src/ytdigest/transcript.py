@@ -27,6 +27,10 @@ from youtube_transcript_api import YouTubeTranscriptApi
 log = logging.getLogger(__name__)
 
 
+class TranscriptBlocked(Exception):
+    """Raised when transcript fetching is IP rate-limited — transient, retry later."""
+
+
 def _is_ip_block(exc: Exception) -> bool:
     """True for YouTube per-IP rate-limit errors (IpBlocked / RequestBlocked)."""
     return "Blocked" in type(exc).__name__ or "blocking requests from your IP" in str(exc)
@@ -59,38 +63,39 @@ def _build_proxy_config():
     return None
 
 
-def fetch_transcript(video_id: str, languages: list[str]) -> tuple[str, bool, str]:
-    """Return (text, ok, error).
+def fetch_transcript(video_id: str, languages: list[str]) -> tuple[str, bool, bool, str]:
+    """Return (text, ok, blocked, reason).
 
-    text : space-joined caption text (empty when ok is False)
-    ok   : whether a transcript was retrieved
-    error: short reason when ok is False (for logging / the brief)
+    text    : space-joined caption text (empty when ok is False)
+    ok      : whether a transcript was retrieved
+    blocked : True if the failure was an IP rate-limit (transient) — caller should
+              DEFER the video and retry it on a later run, not finalize it.
+    reason  : short reason when ok is False (for logging / the brief)
     """
     proxy_config = _build_proxy_config()
-    fetched = None
     reason = ""
     for attempt in range(2):  # one retry, only for a transient IP block
         try:
             api = YouTubeTranscriptApi(proxy_config=proxy_config) if proxy_config else YouTubeTranscriptApi()
             fetched = api.fetch(video_id, languages=list(languages))
-            break
         except Exception as exc:  # noqa: BLE001 — any failure means "no usable transcript"
             reason = f"{type(exc).__name__}: {exc}".strip()
-            if _is_ip_block(exc) and attempt == 0:
+            blocked = _is_ip_block(exc)
+            if blocked and attempt == 0:
                 log.info("Transcript for %s IP-blocked; backing off 20s then retrying", video_id)
                 time.sleep(20)
                 continue
             log.info("No transcript for %s (%s)", video_id, reason)
-            return "", False, reason
-    if fetched is None:
-        return "", False, reason
+            return "", False, blocked, reason
 
-    parts = []
-    for snippet in fetched:
-        piece = (getattr(snippet, "text", "") or "").replace("\n", " ").strip()
-        if piece:
-            parts.append(piece)
-    text = " ".join(parts).strip()
-    if not text:
-        return "", False, "empty transcript"
-    return text, True, ""
+        parts = []
+        for snippet in fetched:
+            piece = (getattr(snippet, "text", "") or "").replace("\n", " ").strip()
+            if piece:
+                parts.append(piece)
+        text = " ".join(parts).strip()
+        if not text:
+            return "", False, False, "empty transcript"
+        return text, True, False, ""
+
+    return "", False, True, reason  # both attempts were IP-blocked

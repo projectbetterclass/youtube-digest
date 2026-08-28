@@ -22,7 +22,7 @@ from .materials import gather_materials
 from .models import Brief, Material, Video
 from .state import load_state, mark_processed, save_state, select_new_videos
 from .summarize import summarize
-from .transcript import fetch_transcript
+from .transcript import TranscriptBlocked, fetch_transcript
 
 log = logging.getLogger(__name__)
 
@@ -55,7 +55,11 @@ def process_video(
     session: Optional[requests.Session] = None,
 ) -> Brief:
     session = session or requests.Session()
-    transcript_text, transcript_ok, _ = fetch_transcript(video.video_id, settings.transcript_languages)
+    transcript_text, transcript_ok, blocked, _ = fetch_transcript(video.video_id, settings.transcript_languages)
+    if blocked:
+        # Transient IP rate-limit: defer this video (don't spend an API call or finalize
+        # it) so a later run retries it with a transcript once the IP recovers.
+        raise TranscriptBlocked(video.video_id)
     links = classify_links(video.description)
     materials = gather_materials(links, settings, session=session)
 
@@ -126,6 +130,15 @@ def run(
             time.sleep(settings.transcript_delay_seconds)  # throttle transcript fetches
         try:
             brief = process_video(v, settings, client=client, session=session)
+        except TranscriptBlocked:
+            # IP is rate-limited now; every remaining transcript would block too.
+            # Stop here and leave the rest unprocessed so a later run retries them.
+            log.warning(
+                "Transcript IP-block hit — deferring %d video(s) to a later run "
+                "(left unprocessed so they're retried once the IP recovers).",
+                len(new_videos) - i,
+            )
+            break
         except Exception as exc:  # noqa: BLE001 — skip a failed video, keep the run going
             log.exception("Failed to process '%s' (%s): %s", v.title, v.video_id, exc)
             continue
