@@ -49,6 +49,9 @@ class Channel:
     channel_id: str
     visual: str = "auto"  # Phase 2 hint: auto | always | never
     backfill: int = 0  # import up to this many most-recent past videos (transcripts only)
+    materials: bool = False  # during backfill, also download linked slides/PDFs for this channel
+    skip_playlist_titles: list[str] = field(default_factory=list)  # exclude videos in playlists whose title contains any of these
+    backfill_scan: int = 0  # how many uploads to scan when filtering (0 = just `backfill`)
 
 
 def load_config(path: Path | str | None = None) -> tuple[Settings, list[Channel]]:
@@ -79,6 +82,9 @@ def load_config(path: Path | str | None = None) -> tuple[Settings, list[Channel]
                 channel_id=cid,
                 visual=(entry.get("visual") or "auto").strip(),
                 backfill=int(entry.get("backfill") or 0),
+                materials=bool(entry.get("materials") or False),
+                skip_playlist_titles=list(entry.get("skip_playlist_titles") or []),
+                backfill_scan=int(entry.get("backfill_scan") or 0),
             )
         )
     return settings, channels

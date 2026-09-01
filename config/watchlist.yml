@@ -35,6 +35,14 @@ channels:
   - name: "Aswath Damodaran"
     channel_id: UCLvnJL8htRR1T9cbSccaoVw
     backfill: 100
+    materials: true          # also download his slide PDFs (no screenshots needed)
+    backfill_scan: 1500      # dig past the lectures to find his standalone analysis videos
+    skip_playlist_titles:    # courses already done — excluded from backfill
+      - "Valuation Undergraduate"
+      - "Valuation MBA"
+      - "Valuation Class"
+      - "Valuation ("
+      - "Investment Philosophies"
   - name: "Greg Isenberg"
     channel_id: UCPjNBjflYl0-HQtUvOx0Ibw
     backfill: 100

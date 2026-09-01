@@ -98,6 +98,15 @@ reuses `state.json`, so it never re-imports and self-terminates. Enumeration use
 `backfill_budget_per_run` to push harder (more block risk), or add a residential proxy
 (see below) to go much faster.
 
+**Per-channel extras:**
+- `materials: true` — also download that channel's linked slide/PDF decks during
+  backfill (great for slide-heavy creators like Aswath Damodaran — no screenshots needed).
+- `skip_playlist_titles: ["..."]` + `backfill_scan: N` — exclude videos in playlists whose
+  title contains any of those strings (e.g. courses you've already watched) and scan `N`
+  uploads deep to find the rest. After setting these, run
+  `python scripts/prepare_backfill.py` to build the filtered queue at
+  `data/backfill_queue/<channel_id>.json`.
+
 ## Reality-check lens
 
 Every brief includes a **🔍 Reality check** — a short critical counterweight that flags
