@@ -22,6 +22,14 @@ from ytdigest.pipeline import run  # noqa: E402
 
 
 def main() -> int:
+    # The Windows CI console is cp1252 and can't encode emoji; force UTF-8 so printing
+    # briefs (or logging unicode titles) can never crash the run after work is done.
+    for _stream in (sys.stdout, sys.stderr):
+        try:
+            _stream.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:  # noqa: BLE001 — best-effort; older/redirected streams
+            pass
+
     parser = argparse.ArgumentParser(description="Build the YouTube digest for new videos.")
     parser.add_argument("--config", default=None, help="Path to watchlist.yml (default: config/watchlist.yml)")
     parser.add_argument("--dry-run", action="store_true", help="Process + print, but don't save state or open an Issue")
