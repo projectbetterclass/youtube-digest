@@ -22,6 +22,50 @@
       "url": "https://www.youtube.com/shorts/0C2qldDF8HY",
       "verdict": "skim"
     },
+    "0pTXwulvxzA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Information Timing and Release: The Debate over Quarterly Reporting and Fed Guidance!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/0pTXwulvxzA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=0pTXwulvxzA",
+      "verdict": ""
+    },
+    "1s5K9XLuHts": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-08-31T14:07:58+00:00",
+      "takeaway": "Functional training is reframed as a lower-intensity version of standard lifting—not a magical alternative, but simply less demanding resistance work.",
+      "title": "Functional Training = Lifetime Deload",
+      "transcript_available": true,
+      "transcript_path": "data/archive/1s5K9XLuHts/transcript.md",
+      "url": "https://www.youtube.com/shorts/1s5K9XLuHts",
+      "verdict": "skip"
+    },
+    "1yqs3xDKS3Y": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-08-31T15:00:10+00:00",
+      "takeaway": "\nSuffering arises primarily from two sources: trying to control things outside your control, and refusing to accept that change is inevitable. Letting go of unrealistic expectations and resistance to change reduces suffering.\n",
+      "title": "Where Does Suffering Come From?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/1yqs3xDKS3Y/transcript.md",
+      "url": "https://www.youtube.com/shorts/1yqs3xDKS3Y",
+      "verdict": "skim"
+    },
+    "3ofbvoV94Us": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-08-30T15:23:42+00:00",
+      "takeaway": "Muscles respond to external force, not conscious control; \"functional training\" isn't fundamentally different from lifting—it's just lower force applied the same way. Understanding how anatomy responds to force prevents blaming exercises or your body when things go wrong.",
+      "title": "Why \"Functional Training\" Isn't Real (How Muscles Actually Work) | Biomechanics Academy Podcast #4",
+      "transcript_available": true,
+      "transcript_path": "data/archive/3ofbvoV94Us/transcript.md",
+      "url": "https://www.youtube.com/watch?v=3ofbvoV94Us",
+      "verdict": "watch"
+    },
     "3s74f-yA0J4": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -42,6 +86,28 @@
       "transcript_available": false,
       "transcript_path": "data/archive/4Bo8tPrzHjU/transcript.md",
       "url": "https://www.youtube.com/shorts/4Bo8tPrzHjU",
+      "verdict": "skim"
+    },
+    "4Ez05s0Pvsg": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-08-30T22:38:19+00:00",
+      "takeaway": "\nEffective selling comes from asking questions that lead prospects to convince themselves, minimizing your own pitches, and using analogies to bridge the gap between your offer and their desire to solve a problem—not from being more aggressive or talking more.\n",
+      "title": "“How Do I Sell Without Pushing?”",
+      "transcript_available": true,
+      "transcript_path": "data/archive/4Ez05s0Pvsg/transcript.md",
+      "url": "https://www.youtube.com/shorts/4Ez05s0Pvsg",
+      "verdict": "skim"
+    },
+    "4klivapz4Gw": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-08-31T15:00:25+00:00",
+      "takeaway": "Three credentialed geopolitical analysts debate existential threats to global order, focusing on US decline, China's rise, Iran conflict, and internal American instability—but the alarmist framing and lack of transcript access makes verification difficult.",
+      "title": "WW3 DEBATE: “We’re On the Brink of Global Collapse”",
+      "transcript_available": false,
+      "transcript_path": "data/archive/4klivapz4Gw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=4klivapz4Gw",
       "verdict": "skim"
     },
     "4u8dR2Dxcdc": {
@@ -66,6 +132,17 @@
       "url": "https://www.youtube.com/watch?v=7MykFJ7TByM",
       "verdict": "watch"
     },
+    "8hsdCjUafHI": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-08-31T16:18:42+00:00",
+      "takeaway": "Position a contractor's repair cost as a negotiation opening to secure a discount—framing small issues as leverage works if you make them a big deal.",
+      "title": "I Learned This Trick At 23",
+      "transcript_available": true,
+      "transcript_path": "data/archive/8hsdCjUafHI/transcript.md",
+      "url": "https://www.youtube.com/shorts/8hsdCjUafHI",
+      "verdict": "skip"
+    },
     "9SUB33ph1pw": {
       "channel": "Leila Hormozi",
       "had_materials": false,
@@ -76,6 +153,17 @@
       "transcript_path": "data/archive/9SUB33ph1pw/transcript.md",
       "url": "https://www.youtube.com/watch?v=9SUB33ph1pw",
       "verdict": "watch"
+    },
+    "AAi9QIl6gw8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "AI's Bar Mitzvah Moment? From Hype & Hope to Business Questions!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/AAi9QIl6gw8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=AAi9QIl6gw8",
+      "verdict": ""
     },
     "APSqtwTbCCI": {
       "channel": "Chris Raroque",
@@ -98,6 +186,17 @@
       "transcript_path": "data/archive/ARQ80zO8SVo/transcript.md",
       "url": "https://www.youtube.com/watch?v=ARQ80zO8SVo",
       "verdict": "skim"
+    },
+    "BA_fC95p43c": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "published": "2026-08-30T17:00:22+00:00",
+      "takeaway": "\nFastlane's rapid growth to $69K/MRR in 2 months was driven primarily by obsessive customer discovery (2,000 calls) and rigorous iteration informed by direct user feedback, not by a unique tech stack or novel AI—the repeatable lesson is that talking to customers early and often is the highest-leverage activity for early-stage SaaS founders.\n",
+      "title": "How This SaaS Hit $69K/Month In Just 2 Months",
+      "transcript_available": true,
+      "transcript_path": "data/archive/BA_fC95p43c/transcript.md",
+      "url": "https://www.youtube.com/watch?v=BA_fC95p43c",
+      "verdict": "watch"
     },
     "EIrH2aM9r8s": {
       "channel": "HealthyGamerGG",
@@ -132,6 +231,28 @@
       "url": "https://www.youtube.com/shorts/FDMkO6tjTqo",
       "verdict": "skim"
     },
+    "GpOzFKrnvdU": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Finding your Investing Lodestar: In Search of an Investment Philosophy!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/GpOzFKrnvdU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=GpOzFKrnvdU",
+      "verdict": ""
+    },
+    "IzwRBWMb8JQ": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": false,
+      "published": "2026-08-29T21:30:33+00:00",
+      "takeaway": "Vaping's lower harm profile compared to cigarettes masks a significant public health risk: it recruits new nicotine users (especially youth) who might otherwise never smoke, and poses unique addiction and developmental risks to adolescents.",
+      "title": "THE BIG VAPING LIE!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/IzwRBWMb8JQ/transcript.md",
+      "url": "https://www.youtube.com/shorts/IzwRBWMb8JQ",
+      "verdict": "skim"
+    },
     "JSQaAQndlyg": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -152,6 +273,28 @@
       "transcript_available": true,
       "transcript_path": "data/archive/JZd5mUPg1XM/transcript.md",
       "url": "https://www.youtube.com/shorts/JZd5mUPg1XM",
+      "verdict": "skim"
+    },
+    "Jxs-A7ROWgA": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "published": "2026-08-30T17:45:19+00:00",
+      "takeaway": "Kyle recruited two non-technical friends to co-build his app Cardstock with a three-way revenue split, teaching them to code; their two products now generate ~$120K/month combined.",
+      "title": "Bro recruited his friends to build his app so they wouldnt have to work dumb jobs.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Jxs-A7ROWgA/transcript.md",
+      "url": "https://www.youtube.com/shorts/Jxs-A7ROWgA",
+      "verdict": "skim"
+    },
+    "JyAc0TunBhM": {
+      "channel": "Vinh Giang",
+      "had_materials": false,
+      "published": "2026-08-29T19:13:21+00:00",
+      "takeaway": "Two body language habits to avoid: the steepled-fingers gesture signals excessive dominance, and hand movements that mimic talking to children undermine your credibility when combined with an authoritative speaking style.",
+      "title": "Never do this with your body language! 🤯",
+      "transcript_available": true,
+      "transcript_path": "data/archive/JyAc0TunBhM/transcript.md",
+      "url": "https://www.youtube.com/shorts/JyAc0TunBhM",
       "verdict": "skim"
     },
     "L9mMfAFwbl4": {
@@ -198,6 +341,28 @@
       "url": "https://www.youtube.com/watch?v=MPHn-nW30QU",
       "verdict": "skim"
     },
+    "NDFxq5eKBpA": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-08-30T15:00:23+00:00",
+      "takeaway": "Anxiety is fundamentally a physiological problem requiring body-based interventions like exercise and breathing techniques, not just mental health treatment focused on thoughts.",
+      "title": "The Biggest Reason Why Anxiety is On The Rise",
+      "transcript_available": true,
+      "transcript_path": "data/archive/NDFxq5eKBpA/transcript.md",
+      "url": "https://www.youtube.com/shorts/NDFxq5eKBpA",
+      "verdict": "skim"
+    },
+    "NQKIJU7TmTc": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "The Numbers are in: A Post-Prospectus SpaceX Valuation!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/NQKIJU7TmTc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=NQKIJU7TmTc",
+      "verdict": ""
+    },
     "NtgKqFwOgq0": {
       "channel": "Vinh Giang",
       "had_materials": false,
@@ -208,6 +373,17 @@
       "transcript_path": "data/archive/NtgKqFwOgq0/transcript.md",
       "url": "https://www.youtube.com/shorts/NtgKqFwOgq0",
       "verdict": "skip"
+    },
+    "O0cDM9i6wVQ": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-08-31T01:04:07+00:00",
+      "takeaway": "The best concrete veteran benefits are zero-down VA home loans, lifetime healthcare, and education funding; quality of VA services varies significantly by location.",
+      "title": "What Are The Benefits Of Being A Veteran",
+      "transcript_available": true,
+      "transcript_path": "data/archive/O0cDM9i6wVQ/transcript.md",
+      "url": "https://www.youtube.com/shorts/O0cDM9i6wVQ",
+      "verdict": "skim"
     },
     "O7EhJvnW6pY": {
       "channel": "Chris Williamson",
@@ -230,6 +406,39 @@
       "transcript_path": "data/archive/OCAKN5nUGpk/transcript.md",
       "url": "https://www.youtube.com/shorts/OCAKN5nUGpk",
       "verdict": "skim"
+    },
+    "OVC6HpNo8yM": {
+      "channel": "Felix & Friends (Goat Academy)",
+      "had_materials": false,
+      "published": "2026-08-31T13:00:07+00:00",
+      "takeaway": "Bond yields are the master control lever for all financial markets and personal wealth; rising U.S. debt combined with government money-printing will likely erode the purchasing power of cash savings, while gold and understanding bond spreads serve as practical hedges.",
+      "title": "If You Don't Understand Bonds, You Don't Understand Money",
+      "transcript_available": true,
+      "transcript_path": "data/archive/OVC6HpNo8yM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=OVC6HpNo8yM",
+      "verdict": "watch"
+    },
+    "OYg6BTjb90E": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": false,
+      "published": "2026-08-31T07:00:13+00:00",
+      "takeaway": "Friedberg, a Trump science advisor and entrepreneur, argues the US is in decline due to government-inflated costs in healthcare, education, and housing, creating inevitable socialism. He's optimistic about AI jobs (historical precedent) and life extension, but pessimistic about near-term politics and the path from labor-based to asset-based wealth for the 63% struggling paycheck-to-paycheck.",
+      "title": "Top White House Advisor: The US Empire Is Declining And Socialism Is Coming Next! | David Friedberg",
+      "transcript_available": true,
+      "transcript_path": "data/archive/OYg6BTjb90E/transcript.md",
+      "url": "https://www.youtube.com/watch?v=OYg6BTjb90E",
+      "verdict": "watch"
+    },
+    "QID0UbRuIYk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "The Market's Narrative: How Investors are pricing in the Iran War!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/QID0UbRuIYk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=QID0UbRuIYk",
+      "verdict": ""
     },
     "R7McLmx73Xw": {
       "channel": "Alex Hormozi",
@@ -296,6 +505,17 @@
       "transcript_path": "data/archive/WHtSlLF2vhQ/transcript.md",
       "url": "https://www.youtube.com/shorts/WHtSlLF2vhQ",
       "verdict": "skim"
+    },
+    "WhY5EF1_LjQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "To Trillion(s) and Beyond: The SpaceX IPO Odyssey",
+      "transcript_available": true,
+      "transcript_path": "data/archive/WhY5EF1_LjQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=WhY5EF1_LjQ",
+      "verdict": ""
     },
     "XgkW4A6lrDY": {
       "channel": "Riley Brown",
@@ -385,6 +605,28 @@
       "url": "https://www.youtube.com/shorts/cZE5AOQpjw4",
       "verdict": "skim"
     },
+    "dNEWqinHrW8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Lessons from Leo: The Dark Side of Investment Conviction!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/dNEWqinHrW8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=dNEWqinHrW8",
+      "verdict": ""
+    },
+    "fbesNIjd_pY": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "The Indexing Question: Should SpaceX, OpenAI and Anthropic be in the S&P 500?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/fbesNIjd_pY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=fbesNIjd_pY",
+      "verdict": ""
+    },
     "g-yLqW3xvms": {
       "channel": "David Carbutt",
       "had_materials": false,
@@ -395,6 +637,17 @@
       "transcript_path": "data/archive/g-yLqW3xvms/transcript.md",
       "url": "https://www.youtube.com/shorts/g-yLqW3xvms",
       "verdict": "skip"
+    },
+    "gEiVGylOgZw": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-08-30T22:00:07+00:00",
+      "takeaway": "Anxiety-driven lack of motivation isn't actually low motivation—it's high avoidance motivation; the fix is reducing anxiety and threat perception, not forcing more willpower.",
+      "title": "The Link Between Anxiety & Motivation",
+      "transcript_available": true,
+      "transcript_path": "data/archive/gEiVGylOgZw/transcript.md",
+      "url": "https://www.youtube.com/shorts/gEiVGylOgZw",
+      "verdict": "skim"
     },
     "ggDh_I7CVZ0": {
       "channel": "Leila Hormozi",
@@ -417,6 +670,17 @@
       "transcript_path": "data/archive/h8tBPhNkjN0/transcript.md",
       "url": "https://www.youtube.com/shorts/h8tBPhNkjN0",
       "verdict": "skim"
+    },
+    "ig2ewJ9wx2Y": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "An Ode to Restraint: Lessons from the Tim Cook Legacy!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ig2ewJ9wx2Y/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ig2ewJ9wx2Y",
+      "verdict": ""
     },
     "kCY86gxv-h0": {
       "channel": "Tom Nash",
@@ -484,6 +748,28 @@
       "url": "https://www.youtube.com/shorts/ovdJagfSMwM",
       "verdict": "skip"
     },
+    "q7XCDolG_JI": {
+      "channel": "Leila Hormozi",
+      "had_materials": false,
+      "published": "2026-08-30T16:44:22+00:00",
+      "takeaway": "Guilt often fades naturally if you allow yourself to feel it without resistance or judgment, rather than suppressing or acting on it—and this leads to better decision-making.",
+      "title": "The One Emotion Costing You Millions",
+      "transcript_available": true,
+      "transcript_path": "data/archive/q7XCDolG_JI/transcript.md",
+      "url": "https://www.youtube.com/shorts/q7XCDolG_JI",
+      "verdict": "skim"
+    },
+    "qHs_1kgkzKU": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-08-31T14:06:02+00:00",
+      "takeaway": "Functional training, Pilates, and yoga aren't fundamentally different from lifting—they're all force-management tools on a continuum. Lifting carries higher injury risk *because* you can push harder, not because it's inherently worse for longevity.",
+      "title": "Functional Training = Lifetime Deload",
+      "transcript_available": true,
+      "transcript_path": "data/archive/qHs_1kgkzKU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=qHs_1kgkzKU",
+      "verdict": "skim"
+    },
     "qbQQ8o4VOsg": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -517,6 +803,28 @@
       "url": "https://www.youtube.com/shorts/r_FT9q4ucgw",
       "verdict": "skip"
     },
+    "rvPn-mIMzJU": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-08-31T13:21:02+00:00",
+      "takeaway": "Barbell injuries usually stem from poor technique or programming, not the tool itself; blaming the implement and abandoning the modality entirely is a cognitive shortcut that wastes training potential.",
+      "title": "\"Barbells are dangerous\"",
+      "transcript_available": true,
+      "transcript_path": "data/archive/rvPn-mIMzJU/transcript.md",
+      "url": "https://www.youtube.com/shorts/rvPn-mIMzJU",
+      "verdict": "skim"
+    },
+    "sres2R8etKA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Country Risk: Determinants, Measures and Implications - The 2026 Edition",
+      "transcript_available": true,
+      "transcript_path": "data/archive/sres2R8etKA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=sres2R8etKA",
+      "verdict": ""
+    },
     "tJIDnwdTCZA": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -539,6 +847,17 @@
       "url": "https://www.youtube.com/shorts/tszAuL3v2NY",
       "verdict": "skip"
     },
+    "u8XIg3V9Cn4": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-08-29T22:00:21+00:00",
+      "takeaway": "Schizophrenia's most dangerous feature is not vivid psychosis but progressive amotivation and self-neglect, compounded by medication side effects—a slow erosion of health and lifespan.",
+      "title": "The Scary Side of Schizoprenia",
+      "transcript_available": true,
+      "transcript_path": "data/archive/u8XIg3V9Cn4/transcript.md",
+      "url": "https://www.youtube.com/shorts/u8XIg3V9Cn4",
+      "verdict": "skim"
+    },
     "xvsvFd09Z3M": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -560,6 +879,17 @@
       "transcript_path": "data/archive/ywc0XluwQgY/transcript.md",
       "url": "https://www.youtube.com/shorts/ywc0XluwQgY",
       "verdict": "skip"
+    },
+    "z0_pGihLTEo": {
+      "channel": "Vinh Giang",
+      "had_materials": false,
+      "published": "2026-08-30T18:11:09+00:00",
+      "takeaway": "Use six topic areas (past, patterns, preferences, pet peeves, possibilities, dreams) to steer small talk toward more meaningful conversation by asking about things that reveal personality and values.",
+      "title": "How to ACTUALLY make small talk! 👀",
+      "transcript_available": true,
+      "transcript_path": "data/archive/z0_pGihLTEo/transcript.md",
+      "url": "https://www.youtube.com/shorts/z0_pGihLTEo",
+      "verdict": "skim"
     }
   }
 }

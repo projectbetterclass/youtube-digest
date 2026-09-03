@@ -1,0 +1,5 @@
+# THE BIG VAPING LIE!
+
+<https://www.youtube.com/shorts/IzwRBWMb8JQ>
+
+Vaping is not as harmful as cigarettes on paper, but because the odor is not as offensive, it's easier to hide. You could do it much quicker and get a bigger dose because it feels like it's not as harmful. Many more people can get hooked on it. >> All my friends that vape never smoked. >> That's the issue of it. It gets people who maybe would have been turned off by smoking to try. And the chemicals found inside are really rewarding to the brain, nicotine being a prime example of it. And the more dangerous part of it is with kids who have a developing frontal lobe, meaning that the part of their brain that is responsible for complex decision-making is not yet fully formed. So, they're incredibly susceptible to anything that can build a tolerance, a dependence, an addiction to. And it could change the chemistry of their brain moving forward. So, we don't want to make it easier for them to start smoking. Vaping should be used as a tool, as a way of getting you off of cigarettes, not as a way of introducing you to cigarettes or nicotine at all.

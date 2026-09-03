@@ -1,0 +1,318 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/SpaceXIPO.pdf
+
+I’m sorry, Dave. I’m afraid I can’t do that!
+Hal in 2001: A Space Odyssey
+2
+§The SpaceX IPO is drawing attention for three reasons:
+§The first is that in a market where there are many young companies 
+all trying to claim to be futuristic in their offerings, SpaceX clearly 
+stands out as the real thing, with rockets, satellites and AI all 
+residing under its corporate umbrella. 
+§The second is its founder (Elon Musk) is the richest person in 
+the world, and has upended one legacy business (autos), bought a 
+social media company as a soapbox and made his presence felton 
+the the political stage. 
+§Third, if the private market pricing feeds into the public offering, 
+SpaceX could very well become the most valuable IPO of all 
+time, joining the rarefied list of trillion-dollar companies, on listing. 
+§That said, I may be getting a little ahead of the game here, 
+because SpaceX has not filed a public prospectus yet, and 
+little is known about its financials other that drabs of 
+information that have been leaked to the press.
+3
+§At its founding in 2002, Musk stated the goals for SpaceX as 
+reducing the costs of space transportation and travel to Mars,
+butwas viewed as having little chance of success by the space 
+establishment, composed then of government agencies (NASA) 
+and a few defense firms (Boeing and Northrop Grumman). 
+§SpaceX applied the lessons of modular engineering from the 
+software business and over the next few years, it launched Falcon 
+1, its first space launch vehicle in September 2008. That successful 
+launch led to a NASA contract for $1.6 billion and rescued the 
+company from near bankruptcy. In subsequent years, SpaceX 
+developed Falcon 9, a reusable and heavier vehicle, and became 
+the first commercial entity to deliver cargo to the International 
+Space Station. 
+§In 2013, SpaceX launched its first mission for a private 
+customer and quickly secured a dominant market share of 
+commercial launch contract market.
+4
+§Along the way, the company added to its business mix, first with 
+The Boring Company, acompany that specialized in building 
+tunnels that could be used to transport people, in 2017, before 
+spinning it off as a separate entity.
+§More significantly, in 2019, the company also launched sixty 
+Starlink satellites, with the end game of offering 
+internetservices to customers, especially in areas where 
+conventional internet service was limited. That endeavor has 
+now grown to include thousands of satellites and had more than 
+ten million active subscribers spread across the world, at 
+the end of 2025. 
+§In February 2026, the company developed its third business 
+arm, with its acquisition of xAI, the parent to Grok, the Musk-
+developed competitor in the LLM space.
+5
+§SpaceX had a slow start financially, as its initial years were 
+spent developing the Falcon 1 rocket, and even after that 
+development, the dependence on the US government and 
+commercial satellite launchers resulted in revenues growing much 
+more slowly than they did at Tesla, Musk's other high-profile 
+creation. 
+§Even as late as 2021, the company reported revenues of just 
+over $2 billion, almost entirely from its launch business, but 
+Starlink's subscriber based model has allowed revenues to 
+increase more than five-fold since, reaching an estimated 
+$15.5 billion in 2025, with just under 30% coming from the launch 
+business ($4.1 billion) about the rest from Starlink subscriptions 
+($11.4 billion); xAI, which was acquired in 2026, had 
+subscription revenues of roughly $100 million in 2025.
+§Without full financials to back up the statement, it is estimated that 
+SpaceX generated an EBITDA of $8 billion in 2025, though with 
+depreciation and other expenses incorporated, it is not clear how 
+much profits the company delivered (as operating or net profit).
+6
+§Elon Musk used a portion of his winnings ($180 million) from 
+his PayPal exit as seed money ($100 million) for founding 
+SpaceX, but the company required multiple rounds of venture 
+capital to fund its infrastructure needs. 
+§The first venture capital round of about $12 million was in 2002, but 
+there have at least thirty additional infusions amounting to 
+more than $12 billion. 
+§While SpaceX counts big name VCs in its investing roster 
+(Founders Fund, Andreessen Horowitz and Sequoia), it has also 
+seen increasing investments from public equity investors such as 
+Fidelity and public tech companies such as Google. 
+§While these venture capital investments have diluted Musk's 
+ownership over the years, he continues to own about 42% of the 
+equity in the company , and with differential voting rights, 
+close to 80% of the total voting rights in the company.
+7
+§It is true that intrinsic valuation, at least in its discounted cash 
+flow avatar, is much easier at companies that have many years 
+of historical data and peer groups of companies in the same 
+business. 
+§If you use that framework, it is easy to see why so many view 
+SpaceX as a company that cannot be valued, given that you 
+don’t even have a single year of financial statements (let alone 
+a long history) and there are no truly comparable companies.
+§That said, if you define intrinsic value as the value of a business 
+based upon its capacity to generate cash flows in the future, there 
+is nothing in that definition that requires either historical data 
+or peer group information. 
+§I have long argued that you can estimate the value of young 
+companies with minimal data, as long asyou build a 
+valuation around a business narrative, and accept that this 
+valuation will change, as circumstances do. With SpaceX, I will 
+get a chance to put this argument into practice.
+8
+§Thelaunch business, which is where SpaceX was born, is still 
+its most identifiable business, and frames the company's story 
+not just as a futuristic company, but one that was able to 
+overcome some of the most significant technological 
+challenges of any start up and not just survive but thrive. 
+§SpaceX has established such a robust andlong-standing cost 
+advantageover its competitors in the business, stemming from 
+its existing infrastructure investments and reusable rocket 
+technology , and had a market share in excess of80% of the 
+market in 2025. 
+§Its competition will come from some private and 
+government-funded players, who may be able to capture 
+market share, notwithstanding their higher costs, due to 
+security and nationalistic concerns.
+9
+§The space launch market is estimated to be about $30 billion in 
+2026 and is expected to grow to $100 billion in 2036, as 
+governments and private business demand increases. 
+§SpaceX will continue to dominate the business, albeit with a 
+slightly less dominant market share (70%, down from >80% in 
+2025) of the total market and as costs decrease with scale, 
+operating margins will increase over time to 40%.
+§I am being conservative in my estimates, insofar as I am 
+ignoring space travel and expanded business opportunities in 
+space, but I don't think, at the moment, that either offers a 
+viable path to augmenting revenues).
+10
+§At the end of 2025, Starlink had close to 10,000 satellites in space, 
+about two thirds of the entire global count, and is adding to that 
+number every month.  That has allowed it to double its 
+subscriber numbers to just over 10 million, and while Amazon's 
+acquisition of GlobalStarhas brought a potential competitor into 
+the mix, GlobalStarhas a fraction of the satellites that Starlink does. 
+§The challenge for any satellite-based internet service provider is 
+that notwithstanding the use of low-earth orbit (LEO) satellites to 
+improve service, it lags more conventional internet technology 
+(fiber optic and cable) in much of the world, leaving it (at least 
+for the moment) with a niche market of rural areas, countries with 
+damaged or no infrastructure and airplane/train travelers. 
+§Thus, while the total internet service market is estimated to be 
+close to a trillion and a half dollars globally, in 2025, satellite-
+based service accounted for about 1% in 2025, accounting for 
+just over $12 billion in revenues, with StarLinkhaving a dominant 
+market share.
+11
+§The satellite internet services market will continue to 
+grow, as technology improves service quality and the 
+airline/public transit demand for better wifigrows, from 
+$15 billion to $160 billion (from less than 1% to 10% ofof the 
+internet service market) over time. 
+§Starlink will see more competitors, but its lead in satellites 
+and capacity to use its launch business to get more into 
+space, will give it a substantial advantageand a market 
+share of 75% of the overall market). 
+§The cost of customer acquisition will ease over time, as 
+business customers become a larger portion of the business, 
+and operating margins will approach 60% in steady state, as 
+the market consolidates.
+12
+§Grok lags the other LLMs in terms of revenues and reach. In terms of 
+usage, Anthropic (with Claude), OpenAI (with ChatGPT) and Google (with 
+Gemini) are not only more widely used than Grok, but are further along in 
+converting them into businesses, with subscription models. 
+§While Grok has been bundled into the X Premium subscriptions, and 
+earned $80 million in revenues in 2025, it seems to be focusing more on 
+individual consumers than businesses.
+§This is the most diffuse and volatile of the three markets, in terms of 
+potential market, since the potential market can run from the tens of 
+billions (if they remain subscription-based) to hundreds of billions or even 
+trillions (if they become replacements for human labor or massive 
+productivity boosters). 
+§It is entirely possible that Grok may concede the larger and more 
+competitive business space to Claude and ChatGPT and focus instead 
+on consumer subscriptions, giving it a smaller market, but one with less 
+competition. 
+§The recent acquisition of Cursor, an AI company focused on coding 
+applications suggests that Grokhasnot thrown in the towel on business 
+application.
+13
+§The LLM market will continue to grow, but more in business 
+applications than in consumer apps. 
+§In my storyline, xAIwill target primarily consumer 
+subscription revenuesand use in niche business applications, 
+such as coding, leaving the more messywhite-collar 
+applications to its competitors. 
+§That will give it a smaller market ($80 billion in 2036), but 
+one with less competition and higher margins (50% operating 
+margin), and less reinvestment as it avoids going head-to-head 
+with Anthropic, OpenAI and Google for business use.
+14
+§It is undeniable that SpaceX, as a lead player in three fast-
+growing and volatile businesses, may be able to use its 
+infrastructure toexpand each of thesebusinessesalong the 
+way. 
+§The space launch business, which has generally focused on 
+delivering commercial or government loads and satellites into 
+outer space may very well become a springboard for space 
+travel, for leisure, research or business.
+§With its satellite broadband offerings, the possibility exists that the 
+technology and the reach will improve to a point where they 
+can compete with fiber-optic and cable broadband offerings, 
+perhaps at much lower cost. 
+§With xAI, the possibility that Grok finds a way to outflank its LLM 
+rivals, including Claude, Gemini and ChatGPT,in terms of 
+business offerings may be low, but it does exist. In truth, these are 
+all options that may not be viable at the moment, but if they become 
+viable, could add immense value.
+15
+17
+§With my story and inputs, the value that I derive is $1.2 trillion, 
+about 10% below the private market pricing and about a third 
+below the expected IPO pricing, but still astonishingly high for a 
+company with $15.5 billion in revenues in the most recent year, and 
+a host of question marks about corporate governance. 
+§Note that in this iteration, I have ignored cash and debt, since I do 
+not have the company's financial statements, but it is unlikely that 
+either will have much of an impact on the value of equity for a 
+company with this high a value for its operating assets.
+§As you can see, the SpaceX story not only has many moving parts, 
+but is fraught with uncertainty, and without full financials, it does 
+not have a good starting point. 
+§As the initial public offering is fleshed out, we will have access to 
+the full financial statements of the company, including its cash 
+holdings and indebtedness, as well as the capital invested in the 
+firm by venture capitalists over its lifetime.
+18
+§Uncertaintyisa feature, not a bug, and valuing SpaceX 
+requires becoming comfortable with its presence.
+§Iamuncertainabout every input in the SpaceX valuation, but
+§Iamlessuncertainaboutsomeestimates(revenues and margins 
+from the launchandinternet service businesses) than I am about 
+others (revenues and margins in the LLM and expansion 
+businesses)
+§If you are wondering why this uncertainty is not showing up in a 
+higher cost of capital, it is because the risk is specific to the 
+company and cuts in both directions (upside and downside)
+§If there are outliers, they are far more likely to be on the upside than 
+thedownside
+§Ratherthanhidefromtheuncertainty,Iwillembraceit,and
+makemybestjudgmentsonhow uncertain in feel in a 
+simulation.
+20
+§In an initial public offering, companies are priced, not 
+valued, by bankers (for the offering price), by investors (as 
+the stock starts trading) and by observers to make judgments 
+(on whether it over or underpriced).
+§Thus, you can make the argument that the valuation, with 
+all ofits moving parts, is irrelevant, and that you should 
+price SpaceX, not value it, if your intent is to trade on the IPO.
+§That is a legitimate critique, but the argument that pricing 
+somehow dispenses with the need to make assumptions 
+about market size and profitability or does not have the 
+same uncertainties is not.
+21
+22
+23
+§The bigger challenge in pricing SpaceX will bein the second step, 
+where you have tofind comparable firms (or a peer group) to 
+base your pricing on. 
+§On the space launch business, using publicly traded aerospace and 
+defense companies like Boeing and Northrop Grumman is a non-starter, 
+because they are in low growth, lower-margin businesses than SpaceX. 
+Palantir may seem like a logical fallback, and while it may have 
+similar growth potential, it is a data/software company that does 
+not have the infrastructure. 
+§On the internet service business again, there are conventional telecom 
+firms like V erizon and T-Mobile, but the economics of their offerings 
+are different, and they are not growth companies. 
+§Finally, on xAI, there are other LLMs, almost all of which are private 
+companies now, and while you can use the pricing from most 
+recent VC rounds, you are on shaky grounds. 
+§Even if you forged ahead with a peer group of high-growth, tech 
+companies, your pricing will almost certainly have to revolved 
+around revenues, rather than profits, and based upon very 
+small samples.
+24
+25
+§The one part of pricing that you will almost certainly see is the 
+story telling, especially with analysts who are locked into 
+finding SpaceX to be a buy, with the pricing more of an ex-post 
+rationalization than aanalytical tool. 
+§No matter what peer group you pick, SpaceX will be priced 
+higher than comparable firms, and to back the argument that it 
+is still a good investment, you will hear stories of its large 
+potential market, significant competitive advantages and 
+profitability. 
+§All ofthese stories have a kernel of truth to them, but they are 
+empty if they remain stories. To truly control for differences in 
+growth and margins, you have toestimate how much the market 
+is paying for each.
+26
+§SpaceX is Musk's most impressive contribution, an engineering marvel 
+that has shown its naysayers, which included almost every luminary 
+in the space community , to be wrong. 
+§As with all of Musk's creations, SpaceX will be a shape shifting entity, 
+frustrating investors who expect companies to follow linear paths in the 
+corporate life cycle, going from young growth to maturity, instead shifting 
+from one narrative to another, often with no advance warning.
+§When I bought Tesla in 2019, after its stock had taken a beating, I 
+described the company as a corporate teenager, and with Musk in full 
+control, SpaceX is likely to follow the same meandering path. 
+§That makes it a difficult company to buy , but it makes it an even more 
+dangerous company to sell short, as Tesla short sellers have discovered in the 
+last two decades. 
+§In a business world, where so many companies to be unique and one-of-a-
+kind, SpaceX qualifies, and while I would not be interested in buying at the 
+rumored IPO pricing of $1.75 trillion, it is perhaps one big correction away from 
+being fairly pricedor even cheap. If that happens, I will be a buyer,  butwill do so 
+with the recognition that this company comes packaged with a founder who is 
+both uniquely gifted and flawed, and complaining about the parts of Musk you do 
+not like, while enjoying the fruits of the aspects that you do, is unfair.

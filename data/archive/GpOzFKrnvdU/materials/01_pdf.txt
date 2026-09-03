@@ -1,0 +1,279 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/InvPhil.pdf
+
+The pathway to investment serenity!
+2
+§During periods of uncertainty in markets, it is natural to feel 
+unsettled and off balance. I find that it helps to have a core set of 
+beliefs about markets and investing to go back to, during these 
+times, to get back to stable ground.
+§There are two classes that I teach at New York University's 
+Stern School of Business every year -a class on corporate 
+finance to the first-year MBAs and two classes on valuation, one to 
+the second-year MBAs and one to undergraduates. There is a third 
+class that I do teach in the certificate programthat I have never 
+taught in-person at New Y ork University, and it is a class on 
+investment philosophies. It is the least technical of my classes, 
+and while I find it the most nettlesomeof the three classes I teach, 
+it is also the one that I learn the most from, even as I am teaching it. 
+§I not only have a free online version of this class as well, but also 
+a book that I wrote to accompany it, close to two decades ago, with 
+a third edition available soonat your local bookseller.
+3
+§In the late 1990s, I was approached by the Stern School of 
+Business about serving as the organizer for a class on 
+investing, where MBA students would hear from successful 
+investors of all stripes in one session a week, and discuss what 
+they learned from that talk in the second session each week. 
+§Over the course of the semester, the class had fourteen 
+speakers, and it drew from a range of investing types. The 
+speakers approached investing in very different ways and had 
+different perspectives on financial markets and how to exploit 
+their mistakes, but they all had been successful in delivering 
+investment success.
+§I noticed students in my class develop whiplash, as they 
+instinctively try to incorporate those views and practices 
+into their thinking.  As the weeks went on, that became a 
+problem, since other than investment success, the speakers 
+shared very little, and their views about markets were 
+sometimes contradictory.
+4
+§There are very few active investors,  who win consistently over time: Since you 
+can match the market or even investment style (value, growth etc.) by 
+investing in index funds, active investing has the unenviable task of 
+trying to be better than average, and by enough to cover the costs 
+associated with being active. 
+§Even with those successful few, it is very difficult to separate luck from 
+skill:Much as investment books and classes claim otherwise, investing 
+results are affected by so many forces that are out of your control that 
+disentangling how much of your final returns can be attributed to skill 
+and how much to luck is very difficult to do.
+§These successful investors have widely different pathways to delivering 
+success:If you were to make a list of the hundred investors who have had 
+the most success in markets in the last century, I would wager that you 
+would be looking at a very diverse group, not just in terms of how they 
+succeeded, but also in terms of personality. 
+§Imitating successful investors does not seem to provide much payoff: The 
+practices of successful investors are probed and investigated by other 
+investors and journalists, and some of them have dozens of books that 
+claim to tell you the secret of their success. Imitating those practices 
+does not seem to deliver the same returns.
+5
+§I should start with a definition of what I mean by an investment 
+philosophy, and perhaps the best way to do that is by 
+describing what it is not. 
+§First, an investment philosophy is much richer and complete than 
+an investment strategy, with the latter often coming out of the 
+former. 
+§Second, an investment philosophy is not an investment slogan. 
+"Buy low, sell high" is an investment slogan, and a meaningless one 
+at that, since that is the end game of almost every investment 
+philosophy.
+§Everyone needs an investment philosophy , a set of 
+centralized beliefs about markets and how they work.
+6
+§Chasing winners: If you don't have an investment philosophy, it is 
+almost a given that you will find yourself drawn to whatever 
+strategies worked best in the recent past. Y our portfolio will 
+suffer from whiplashas you chase last year's winners and while 
+your turnover and transactions costs rise, you will have little to 
+show for those costs in terms of returns.
+§Scam target:Without an investment philosophy constraining you, 
+you will be an easy mark for investment scams, where the 
+scammers will promise you exceptional alphas (excess returns) 
+from novel strategies.
+§Empty investing cupboards: If you do find an investment strategy 
+that works at delivering returns, it is worth remembering that the 
+clock is ticking, and that imitation and market corrections will 
+cause that strategy to stop working, sooner rather than later. If 
+that is all you brought to the market, your investing cupboard will 
+be empty and you will find yourself running to stay in place.
+7
+8
+§If, as we noted in the last section, doing nothing can deliver 
+returns approximating the average, and nine out of ten 
+investors who try to beat the average fail, there is no shame in 
+adopting a passive indexing philosophy, where your 
+allocation across asset classes is determined by your risk 
+aversion and need for liquidity, and index funds fill out the rest 
+of the dance card. 
+§It is human nature, though, to seek to be better than 
+average, and it is perhaps that desire that drives many into 
+active investing choices, and there are multiple pathways that 
+they can adopt.
+9
+10
+§Price traders, and perhaps largest grouping, uses the 
+information on prices and trading volume to detect shifts in 
+mood and momentum, with charts and technical indicators as 
+tools, to try and generate profits. 
+§Information traders, trades around information releases, in 
+the form of earnings reports, acquisition announcements or 
+even insider trades, with some trading ahead of the news, some 
+at the time the news is announced and some in the aftermath, 
+all trying to take advantage of what they see as market mistakes 
+in reacting to that information. 
+§Arbitrageurs, focused on finding the same or related assets 
+trading on different markets, looking for mispricing across 
+these markets, and locking in that mispricing as excess 
+returns.
+11
+12
+§In market timing, your focus is less on individual and more 
+on deciding whether a market (equities, bonds, real estate 
+etc.) is under or overpriced. 
+§Returning to the investment process, your focus is on allocating 
+your portfolio across asset classes, based on your market views, 
+underweighting "expensive" classes and overweighting "cheap" 
+ones.
+§In stock/asset picking, you take the market as a given and try 
+to find the best individual investments within each investment 
+class for you -the cheapest stocks, bonds and real estate 
+that you can find. 
+§There is an ironic contradiction in making this choice. It is 
+undeniable that a successful market timer will make far 
+more money than a good stock picker, but it is also true that 
+it is much more difficult to be a successful market timer 
+than it is to be a good stock picker.
+13
+14
+§Even the firmest believer in efficient markets will 
+concedethat markets not only make mistakes, but they 
+sometimes make big ones, but the divergence between them and 
+active investors lies in what these mistakes will look like. 
+§In an efficient market, market mistakes will be random, and since 
+there is no systematic pattern to them, there is no pathway for active 
+investors to find these mistakes, even with access to data and powerful 
+tools. 
+§Active investors, in contrast, believe that there are systematic patterns 
+that you can use to find these mistakes, and take advantage of them, 
+with traders believing that those patterns are in the pricing and volume 
+data and investors hewing more to fundamentals.
+§That said, active investors can and will disagree about the types of 
+market mistakes, with some buying into the notion that markets 
+learn slowly, whereas others believe that markets overreact.For 
+markets to function, it is healthy for investors to disagree about 
+market mistakes and corrections.
+15
+16
+§On the transactions cost front, the brokerage trading cost is 
+just a small part of the overall cost, with two other costs that can 
+often be much larger. The first is the bid-ask spread, small for 
+large, very liquid stocks, but much larger for smaller and less 
+liquid investments. The second is price impact, again non-
+existent if you are a small investor buying or selling shares in a 
+large market-cap company, but substantial if you are a large 
+investor trading on an obscure stock.
+§On the tax front, some strategies will create more tax costs 
+than others, partly because of how investment income is taxed 
+(dividends create immediate tax consequences but capital 
+gains require trading to incur tax liabilities) and partly because 
+of how much trading your strategy will require of you. Trading 
+strategies, built around momentum, can require you to trade 
+multiple times in a day, and that turnover will have tax effects.
+17
+§Capital to invest: If you are just starting on your investment journey, and have 
+only a small amount of capital to invest, your choices in terms of investment 
+strategies narrow. The good news is that you continue to build up your capital, 
+your investment choices will widen, and you can modify your portfolio 
+accordingly. At the other end of the spectrum, and this is perhaps more the case 
+if you are managing other people's money, you can have so much capital to 
+invest that some investment strategies become infeasible again. 
+§Time horizon: The truth is that for most investors, time horizon is as much 
+determined by external factors, such as age, health and liquidity needs, as it is 
+by internal motivations. If you have to pay tuition for your children or expect to 
+have substantial hospital bills in the near future, your time horizon just became 
+shorter, and that has to be factored into your choice of investment strategies.
+§Risk exposure:As with time horizon, the willingness to take risk is partly a 
+function of your personal makeup and partly determined by your life standing.
+§Personal qualities: Your personality and characteristics also come into play in 
+your choice of investment philosophy and strategies. If you are, by nature, 
+impatient, it is unlikely that you will be able to sustain a strategy of buying 
+undervalued companies and waiting for a long time for mistakes to correct.
+18
+§Economic setting: Over time, economic settings and structures change, and 
+investment philosophies have to adapt or even be abandoned. 
+§Market lessons:Yo u r  v iew s o n  m arke t m istake s c o m e  fro m  lo o k in g  at d ata 
+and your own experiences in the market, and as a consequence, they 
+should be revisited as markets change over time. Just in this century, it is 
+becoming increasingly obvious that assets across classes (stocks, real 
+estate etc) and geographies are moving far more in sync than they did in 
+the last century. That reality has to be integrated into your market views 
+and the investment philosophy/strategies that you use.
+§Trading microstructure: It is undeniable that access to information and 
+trading on most assets has become easier over the last few decades. That 
+is good, but it does come with a cost. Investment philosophies built around 
+the assumption that most investors, especially retail and individual, would 
+not be able to access data or trade easily, may need tweaking, adapting or 
+even abandonment.
+§Personal changes: It won't come as no secret to you, but you will older, the 
+amount of capital you have to invest will change, your health and family 
+obligations will shift, and you may evenbecome more or less patient or 
+more or less susceptible to peer pressure. Those factors will all feed into 
+your investment philosophy.
+Chapter Coverage
+1 An Investment Philosophy?
+2 Risk
+3-4 Accounting & Valuation
+5 Transactions costs & taxes
+6 Testing investment strategies
+7 Technical analysis
+8 Value Investing
+9 Growth Investing
+10 Trading on information
+11 Arbitrage & Long/Short 
+12 Market Timing
+13 Doing nothing?
+14 Alternative Investments
+15 Finding your philosophy
+Session Coverage
+1 An Investment Philosophy?
+2-4 Risk
+5 Accounting & Valuation
+6 Transactions costs & taxes
+7-8 Testing investment strategies
+9-11 Technical analysis
+12-16 Value Investing
+17-21 Growth Investing
+22-26 Trading on information
+27-29 Arbitrage & Long/Short 
+30-34 Market Timing
+35-37 Passive Indexing
+38-41 Alternative Investments
+42 Finding your philosophy
+21
+§We all share the same end game in investing, which is that we 
+want to generate the highest returns on the capital we invest, 
+though there are wide variations in how much risk we are 
+willing to take and how long we will wait before cashing out. 
+§That is the definition of investment success but given that there 
+are so many forces that are out of our control, you can do 
+everything right and still fail in meeting your objectives. 
+§It is for that reason that a better endgame for investors is to 
+seek out investment serenity, where you choose an investment 
+path that you are comfortable with, and accept the results that 
+emerge from it, good or bad.
+22
+§Intrinsic value matters: It is no secret that I believe that every asset (anything that generates cash 
+flows) has a intrinsic value, and that with imagination and a willingness to be wrong, you can 
+estimate that intrinsic value for any company, from start-ups to companies on the verge of default. 
+§Markets are for the most part right, but make mistakes during periods of uncertainty and change: 
+In an age where we have turned over our choices on what movies to watch to Rotten Tomatoes and 
+which restaurant to eat at to Yelp!, it is worth remembering that markets were the original fount for 
+crowd wisdom. That said, it is also true that markets have provided us with examples of crowd 
+madness, where the collective wisdom is hopelessly wrong, and I believe that this is the case 
+when investors face uncommon uncertainty, as is the case when companies transition from one 
+stage of the life cycle to another, when entire industry groups are faced with the threat of 
+disruption and when markets are put into upheaval by crises.
+§Do no harm: While I seek out investments to make that will beat the market, I am cognizant of the 
+reality that I am not entitled to rewards, just because I put in the work, and that luck and chance 
+still can wreak havoc on my best-laid plans. In particular, I have learned, through experience, that 
+my biggest mistakes come from overreach and overactivity, and I build that learning into my 
+investment philosophy by:
+§Spreading my bets: I must confess that I don’t share the conviction that concentrated investors bring to the 
+game, and not only spread my portfolio over three dozen stocks, but also follow rigid rules on not letting any 
+single investment exceed 15% of my portfolio.
+§Staying away from my weaknesses: I steer away from active market timing and sector bets for a simple reason. I 
+am not good at either.
+§Being aware of my blind spots: I try to be self-aware, though I don’t always succeed. I know that I am thrown off 
+my game plan by taxes (I don’t like playing them, and that sometimes gets in the way of doing what I should be 
+doing) and I sometimes fall in love with company narratives, because I want them to be true.

@@ -1,0 +1,148 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/countryrisk2026.pdf
+
+Yo u  c an  r u n , bu t yo u  c an n o t h id e !
+2
+§I am a creature of habit in both my personal and professional lives, 
+and in the context of the content that I post online, there is a ritual 
+that I follow with my data updates that I stick with every year. 
+§I start the year with mygeneral data update online, andfollow up 
+with a series of posts where I examine the implications for 
+investing and corporate finance. 
+§Since 2008, I have also done annual updates on equity risk 
+premiums in March of each year, withthe link to the 2026 update 
+here, and country risk in July of each year, where I look at the 
+topics in more details, paying attention to newer research on each 
+topic. 
+§This year's country risk update isnow available,and as in prior 
+years, I will spend this post looking what causes risk to vary across 
+countries, how to measure those risk variations and the 
+implications for businesses and investors.
+3
+§In my business school years, country risk was given short 
+shrift, reflecting a dollar-. For those who raised it as an issue, 
+the response was that you could, as a company or investor with 
+global exposure, diversify it away. 
+§For businesses, the exposure to country risk comes from both the 
+revenue side, as larger portions of every company's revenues 
+come from foreign markets, and the cost side, as production 
+gets outsourced to cheaper locales overseas. 
+§For investors, the initial draw of investing in foreign markets might 
+have been diversificationbut the greater pull has come from 
+greed, i.e., the belief that you can higher returns in the rest of 
+the world. 
+§At the risk of being hyperbolic, there is no place to hide from 
+country risk, for either businesses or investors, and 
+ignoring or dismissing country risk is not an option.
+4
+§I don't think that there would be much disagreement, if I assert 
+that it is riskier to invest in some parts of the world than 
+others, but there is likely to be plenty of disagreement on why 
+there are risk differences and which parts of the world are 
+riskiest. 
+§In the broadest sense, I have argued that variation in business 
+risk across countries can be traced to four factors 
+§the political structure of the country (democracy vs authoritarian), 
+§the prevalence of corruptionin the country (operating as a hidden 
+tax and distorting business outcomes)
+§the extent of violence in the country (from internal and external 
+forces) 
+§the strength of the legal system in enforcing contractual 
+obligations.
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+§I started estimating country equity risk premiums, and while 
+the details and data that I use have changed over the last three 
+decades, the basic structure has remained unchanged. 
+§I start with an estimate of the equity risk premium for a mature 
+market, and build a country risk premium, if needed, for riskier 
+countries.
+§Until 2025, I estimated the mature market premium by computing an 
+implied equity risk premium for the S&P 500, and using that as the 
+base, arguing that the US, as a Aaarated country (at least according 
+to Moody's), represented a mature market. 
+§The Moody's downgrade for the US, from Aaato Aa1, has thrown a 
+wrench into that approach, requiring adaptation.
+16
+17
+18
+19
+20
+21
+22
+§For a multinational is many businesses, the project cost of 
+equity will have to then also reflect the business the project is 
+in, in addition to country risk. 
+§Thus, the cost of equity for a GE Appliances for a project in India 
+should reflect the beta for the appliance business, in addition to the 
+country risk for India. 
+§In contrast, a GE aircraft project in Hungary should be computed 
+using the beta for an aircraft project and the country risk for 
+Hungary. It is also possible that country risk is not easy to isolate, if 
+the production facilities are in one country but revenues are 
+generated in another. 
+§If the GE appliance factory in India will be producing products that 
+will be sold in Japan, should we be showing the country risk of India 
+or Japan in the cost of equity calculation? The answer, as was the 
+case in the earlier section on valuation, is that it depends on where 
+the company sees risk coming from.
+23
+§For some of you, it may seem odd that I have spent almost an 
+entire post talking about country risk without talking about 
+currencies. 
+§The reason is simple. Currencies are measurement 
+mechanisms, and while they may be affected by the same 
+political and economic factors that drive country risk, they 
+don't determine country risk. 
+§It is true that hurdle rates are affected by both the equity risk 
+premiums that you estimate and the riskfree rate that you use, 
+and that riskfree rates vary across currencies.
+24
+25
+§While this may sound farfetched, the value that you derive for 
+the project or company should be the same using either 
+currency, if you are consistent about estimating your cash flows 
+in the same currency:
+§Since much or almost all ofthe difference in riskfree rates 
+come from inflation differentials, matching the high discount 
+rate in a currency with high inflation with a high growth in 
+cashflows for the same reason and the low discount rate in a 
+low inflation currency with the low growth in cashflows 
+estimated in the same currency will yield results that are 
+consistent.
+26
+§The riskfree rate in any currency can be computed from a base 
+currency (dollar or Euro) riskfree rate and the difference in 
+expected inflation between the local and base currencies:
+§The implication of this approach is that currency pegs, when 
+they do exist, will hold only if the inflation in the pegged 
+currency matches or is close to the inflation in the index 
+currency to which it is pegged. 
+§It is true that the estimates of riskfree rates will only be as good 
+as the expected inflation rates that are embedded in the 
+estimation, but the good news is that being wrong on expected 
+inflation will be largely offsetting, since both your cashflows 
+and your discount rates will be wrong in the same direction.
+27
+§In my posts on globalization, I talked about the side costs of its 
+rise in the last few decades. One of the side costs is that there 
+are fewer companies that are entirely local-country focused in 
+both their revenues and production, and as a result, almost 
+every business and investor is exposed to risk in other parts of 
+the world.
+§The problem with country risk is that while its consequences 
+are economic, it has its sources in history, politics and 
+governance structures. The measures of country risk, whether 
+they be entity-based like sovereign ratings, or market 
+estimates like sovereign CDS spreads, reflect this interplay.
+§My equity risk premiums are works-in-progress and reflect 
+simplistic assumptions and short cuts that I have taken, and I am 
+open to suggestions on improvements that I can make.

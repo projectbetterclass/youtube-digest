@@ -1,6 +1,54 @@
 {
-  "last_run": "2026-09-02T15:21:37.785565+00:00",
+  "last_run": "2026-09-03T19:09:14.291797+00:00",
   "processed": {
+    "0pTXwulvxzA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:09:55.689416+00:00",
+      "published": null,
+      "title": "Information Timing and Release: The Debate over Quarterly Reporting and Fed Guidance!",
+      "transcript_available": true
+    },
+    "1s5K9XLuHts": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:07:49.035352+00:00",
+      "published": "2026-08-31T14:07:58+00:00",
+      "title": "Functional Training = Lifetime Deload",
+      "transcript_available": true
+    },
+    "1yqs3xDKS3Y": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:08:17.013871+00:00",
+      "published": "2026-08-31T15:00:10+00:00",
+      "title": "Where Does Suffering Come From?",
+      "transcript_available": true
+    },
+    "3ofbvoV94Us": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:04:05.459278+00:00",
+      "published": "2026-08-30T15:23:42+00:00",
+      "title": "Why \"Functional Training\" Isn't Real (How Muscles Actually Work) | Biomechanics Academy Podcast #4",
+      "transcript_available": true
+    },
+    "4Ez05s0Pvsg": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:06:02.260131+00:00",
+      "published": "2026-08-30T22:38:19+00:00",
+      "title": "\u201cHow Do I Sell Without Pushing?\u201d",
+      "transcript_available": true
+    },
+    "4klivapz4Gw": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:09:00.580261+00:00",
+      "published": "2026-08-31T15:00:25+00:00",
+      "title": "WW3 DEBATE: \u201cWe\u2019re On the Brink of Global Collapse\u201d",
+      "transcript_available": false
+    },
     "4u8dR2Dxcdc": {
       "channel": "BWB - Business With Brian",
       "had_materials": false,
@@ -9,12 +57,52 @@
       "title": "21 YouTubers Agree on 5 Stocks.  My Entry Points",
       "transcript_available": true
     },
+    "8hsdCjUafHI": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:09:14.291797+00:00",
+      "published": "2026-08-31T16:18:42+00:00",
+      "title": "I Learned This Trick At 23",
+      "transcript_available": true
+    },
+    "AAi9QIl6gw8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-03T19:09:32.064794+00:00",
+      "published": null,
+      "title": "AI's Bar Mitzvah Moment? From Hype & Hope to Business Questions!",
+      "transcript_available": true
+    },
+    "BA_fC95p43c": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:04:51.270180+00:00",
+      "published": "2026-08-30T17:00:22+00:00",
+      "title": "How This SaaS Hit $69K/Month In Just 2 Months",
+      "transcript_available": true
+    },
     "EIrH2aM9r8s": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
       "processed_at": "2026-08-28T07:05:41.598815+00:00",
       "published": "2026-08-25T15:00:04+00:00",
       "title": "Your Phone is Killing Your Love Life",
+      "transcript_available": true
+    },
+    "GpOzFKrnvdU": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-03T19:12:15.781338+00:00",
+      "published": null,
+      "title": "Finding your Investing Lodestar: In Search of an Investment Philosophy!",
+      "transcript_available": true
+    },
+    "IzwRBWMb8JQ": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:03:00.462286+00:00",
+      "published": "2026-08-29T21:30:33+00:00",
+      "title": "THE BIG VAPING LIE!",
       "transcript_available": true
     },
     "JSQaAQndlyg": {
@@ -33,6 +121,22 @@
       "title": "What Gets You Rolled Off The Yard",
       "transcript_available": true
     },
+    "Jxs-A7ROWgA": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:05:16.998858+00:00",
+      "published": "2026-08-30T17:45:19+00:00",
+      "title": "Bro recruited his friends to build his app so they wouldnt have to work dumb jobs.",
+      "transcript_available": true
+    },
+    "JyAc0TunBhM": {
+      "channel": "Vinh Giang",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:02:46.620677+00:00",
+      "published": "2026-08-29T19:13:21+00:00",
+      "title": "Never do this with your body language! \ud83e\udd2f",
+      "transcript_available": true
+    },
     "L9mMfAFwbl4": {
       "channel": "Two Minute Papers",
       "had_materials": false,
@@ -49,12 +153,60 @@
       "title": "The Super Investors Are Buying BIG.",
       "transcript_available": true
     },
+    "NDFxq5eKBpA": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:03:48.502357+00:00",
+      "published": "2026-08-30T15:00:23+00:00",
+      "title": "The Biggest Reason Why Anxiety is On The Rise",
+      "transcript_available": true
+    },
+    "NQKIJU7TmTc": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-03T19:10:50.338604+00:00",
+      "published": null,
+      "title": "The Numbers are in: A Post-Prospectus SpaceX Valuation!",
+      "transcript_available": true
+    },
+    "O0cDM9i6wVQ": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:06:15.103993+00:00",
+      "published": "2026-08-31T01:04:07+00:00",
+      "title": "What Are The Benefits Of Being A Veteran",
+      "transcript_available": true
+    },
     "OCAKN5nUGpk": {
       "channel": "Vinh Giang",
       "had_materials": false,
       "processed_at": "2026-08-28T07:05:13.939069+00:00",
       "published": "2026-08-25T14:00:10+00:00",
       "title": "Fastest way to improve your communication!",
+      "transcript_available": true
+    },
+    "OVC6HpNo8yM": {
+      "channel": "Felix & Friends (Goat Academy)",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:07:00.802856+00:00",
+      "published": "2026-08-31T13:00:07+00:00",
+      "title": "If You Don't Understand Bonds, You Don't Understand Money",
+      "transcript_available": true
+    },
+    "OYg6BTjb90E": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:06:44.051357+00:00",
+      "published": "2026-08-31T07:00:13+00:00",
+      "title": "Top White House Advisor: The US Empire Is Declining And Socialism Is Coming Next! | David Friedberg",
+      "transcript_available": true
+    },
+    "QID0UbRuIYk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-03T19:11:41.443381+00:00",
+      "published": null,
+      "title": "The Market's Narrative: How Investors are pricing in the Iran War!",
       "transcript_available": true
     },
     "RFaKieqL5No": {
@@ -71,6 +223,14 @@
       "processed_at": "2026-08-28T07:06:36.634205+00:00",
       "published": "2026-08-25T21:30:30+00:00",
       "title": "Reentering the Workforce Does NOT Mean Starting Over",
+      "transcript_available": true
+    },
+    "WhY5EF1_LjQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-03T19:11:16.015577+00:00",
+      "published": null,
+      "title": "To Trillion(s) and Beyond: The SpaceX IPO Odyssey",
       "transcript_available": true
     },
     "YkKQL7BCo8A": {
@@ -97,6 +257,30 @@
       "title": "Solo founder built a $50K/month app with this exact tech stack:",
       "transcript_available": true
     },
+    "dNEWqinHrW8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-03T19:09:45.200782+00:00",
+      "published": null,
+      "title": "Lessons from Leo: The Dark Side of Investment Conviction!",
+      "transcript_available": true
+    },
+    "fbesNIjd_pY": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-03T19:10:32.602364+00:00",
+      "published": null,
+      "title": "The Indexing Question: Should SpaceX, OpenAI and Anthropic be in the S&P 500?",
+      "transcript_available": true
+    },
+    "gEiVGylOgZw": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:05:44.259980+00:00",
+      "published": "2026-08-30T22:00:07+00:00",
+      "title": "The Link Between Anxiety & Motivation",
+      "transcript_available": true
+    },
     "ggDh_I7CVZ0": {
       "channel": "Leila Hormozi",
       "had_materials": false,
@@ -111,6 +295,14 @@
       "processed_at": "2026-08-28T07:06:43.029919+00:00",
       "published": "2026-08-25T22:00:11+00:00",
       "title": "The Rise of Hardcore P*rn Explained",
+      "transcript_available": true
+    },
+    "ig2ewJ9wx2Y": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-03T19:11:05.732262+00:00",
+      "published": null,
+      "title": "An Ode to Restraint: Lessons from the Tim Cook Legacy!",
       "transcript_available": true
     },
     "kCY86gxv-h0": {
@@ -143,6 +335,54 @@
       "processed_at": "2026-08-28T07:06:31.444158+00:00",
       "published": "2026-08-25T20:23:32+00:00",
       "title": "You\u2019d Be Surprised How People Perceive You... \ud83d\udc4f",
+      "transcript_available": true
+    },
+    "q7XCDolG_JI": {
+      "channel": "Leila Hormozi",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:04:19.861900+00:00",
+      "published": "2026-08-30T16:44:22+00:00",
+      "title": "The One Emotion Costing You Millions",
+      "transcript_available": true
+    },
+    "qHs_1kgkzKU": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:07:35.497857+00:00",
+      "published": "2026-08-31T14:06:02+00:00",
+      "title": "Functional Training = Lifetime Deload",
+      "transcript_available": true
+    },
+    "rvPn-mIMzJU": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:07:19.739840+00:00",
+      "published": "2026-08-31T13:21:02+00:00",
+      "title": "\"Barbells are dangerous\"",
+      "transcript_available": true
+    },
+    "sres2R8etKA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-03T19:10:20.388120+00:00",
+      "published": null,
+      "title": "Country Risk: Determinants, Measures and Implications - The 2026 Edition",
+      "transcript_available": true
+    },
+    "u8XIg3V9Cn4": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:03:13.424451+00:00",
+      "published": "2026-08-29T22:00:21+00:00",
+      "title": "The Scary Side of Schizoprenia",
+      "transcript_available": true
+    },
+    "z0_pGihLTEo": {
+      "channel": "Vinh Giang",
+      "had_materials": false,
+      "processed_at": "2026-09-03T19:05:29.661550+00:00",
+      "published": "2026-08-30T18:11:09+00:00",
+      "title": "How to ACTUALLY make small talk! \ud83d\udc40",
       "transcript_available": true
     }
   }

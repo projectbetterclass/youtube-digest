@@ -1,0 +1,248 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/LessonsfromLeo.pdf
+
+Themixed blessings of investment conviction!
+2
+§Earlier this year, I was asked what I thought about Leopold 
+Aschenbrenner and I admitted that I knew little about him other 
+than what I had read about him, more in social media, than in the 
+press -that he was a 25-year-old wunderkind who had started at 
+OpenAI but had left to start a hedge fund. 
+§That hedge fund, built entirely around a bet that AI would pay 
+off big time and near term, buying companies in the AI orbit 
+and selling short on the businesses (especially software) that 
+AI would disrupt, had been able to raise billions of dollars from 
+well-heeled and presumably sophisticated investors, and 
+hadposted eye-popping returns, up almost 450% through late 
+June. 
+§In this case, the fall from grace was precipitous, and over the 
+course of four weeks, the fund not only lost more than two 
+thirds of its value, but was also forced to liquidate, with Citadel 
+buying almost all ofits public equity holdings.
+3
+§For older investors, the lesson was that you can be blessed 
+with intelligence, but that wisdom required experience, which, 
+at least in their saying, conveniently comes with age. 
+§For value investors, many of whom chafed at Leo being hailed 
+as the next Buffett, there was vindication that there will never 
+be another Buffett. 
+§For AI skeptics, who have long been on the lookout for 
+catalysts that will break AI fever, there was at least brief 
+momentof hope that this was the catalyst. 
+§There is some truth and some overreach in each of these 
+responses,and I don't plan to rehash them. Instead, I would 
+like to use this story to talk aboutinvesting conviction, words 
+used mostly in a favorable way, when people talk about success 
+in markets.
+4
+§The short version of his life story is that he was born in 
+Germany in 2001, andenrolled at Columbia University when he 
+was 15. 
+§After graduating with a degree in economics in 2021, doing 
+research briefly at Oxford University and working at Sam 
+Bankman-Fried's FTX fund, Leo joined OpenAI as part of the 
+team working on AI safety. 
+§He was fired in 2024 for leaking data on the firm, though his 
+motivations for doing so are murky and he contests the 
+allegation, and he publisheda long (167 page) paper titled 
+"Situational Awareness: The Decade Ahead",which was not 
+only widely circulated, but also became the blueprint for the 
+fund that he created.
+5
+6
+§In market time, where decades of over performance are 
+needed to separate luck than skill, a fund that has been 
+successful for a little more than two years qualifies more 
+as a shooting starthan as a beacon of light. 
+§Todeliver returns of this magnitude, you not only have to be 
+right in your guesses, but those guesses must be super-
+charged by adding substantial leverage to your strategy, 
+either explicitly (by borrowing) or implicitly (by using options). 
+§Thefund followed the classic 2% (of funds under 
+management) and 20 (% of specified upside) fee structure, 
+an abomination that not only creates an almost insurmountable 
+handicap, in the long term, for investors in the fund, but also 
+encourages reckless risk taking on the part of management.
+7
+8
+§Leo's core belief that AI would win the battle with the status 
+quo in most businesses, and that the win would be decisive 
+and quick, was not unique, and not only are there other 
+investors who shared that view, but there are also companies 
+that are investing in AI cap ex, driven by that view. 
+§That said, to get from that view to a hedge fund built entirely 
+around buying AI winners and selling AI losers requires that 
+the belief to be deeply set and using debt to magnify those 
+returns suggests strong conviction.
+9
+As you can see, the elevation of conviction as something to be sought 
+after in investing is because in the complete absence of conviction, 
+you will not act and that paralysis can result in portfolios entirely 
+or almost entirely held as cash.
+10
+11
+§Your assessment of "fair" price is right(or at least more 
+right than the market consensus)
+§The market will correct, i.e., that the market price will move 
+to, or towards, your fair price
+§This correction will happen during the time you plan to 
+hold the investment (your time horizon), either because the 
+investment has an expiration date (maturity) or because you 
+feel that there will be a catalyst that causes the correction.
+12
+1. Private information: Yo u  may be in possession of information about an 
+investment that is not available (or at least widely enough available to 
+the public to be priced in) that you believe will change its price.
+2. Information processing: To the extent that private information is rarely 
+available to investors, and even if available, difficult to act on legally, 
+much of active investing is built around collecting and processing 
+information that is available to the market. If you are using this 
+information to assess a fair price, it is because you believe that you have 
+found patterns in the data that others have not.
+3. Business understanding: In some cases, your fair price will derive from 
+your belief that you understand the business economics for a company 
+better than other public investors do, with your superior understanding 
+coming either from working in the business or from technical training. 
+4. Pricing mistake:There are some investment theses that start with a 
+market mistake, whether it be in pricing an individual asset or a pair of 
+assets. With a pair of assets, often with similar fundamentals, the 
+mispricing manifests with one of the assets being mispriced against the 
+other, and the correction take place when the mispricing disappears.
+13
+§Finite maturity versus indeterminate end game: An investment with a finite 
+maturity date comes with a greater likelihood that prices will correct than 
+one without. A bond that is mispriced, by itself, or against other bonds of 
+equal maturity, comes with a greater chance of correction than a stock that 
+is mispriced against its own fundamentals or a paired stock. 
+§Market frictions: Market mispricing can sometimes reflect market 
+inattention or irrational trading, but they more often are the consequence 
+of market frictions, including restrictions on selling short and exerting 
+control over an investment (such as buying and liquidating a company). 
+§Market liquidity and depth: In equity markets, where there is no date by 
+which mispricing has to disappear, corrections often require catalysts, i.e., 
+events that lead market participants to reassess a market price, and to 
+correct it. Those catalysts can come from corporate disclosures (earnings 
+reports, for instance) by the mispriced company, corporate restructuring 
+(divestitures and spin offs) or high-profile investors (activists taking a 
+stake in a under priced company or selling short an overpriced one). 
+§Investment time horizon: Being able to wait for longer periods, for market 
+corrections, should not only give you a greater chance of gaining from a 
+market correction, but also give you more conviction in your investment, 
+other things being equal.
+14
+§Intelligence and educational background:The smarter an investor is, and 
+the more exceptional his or her educational background (the right 
+schools, credentials and certification), the greater the conviction that 
+investor is likely to bring to investments. One reason is that it becomes 
+easier to attribute perceived market mistakes to the lack of 
+intelligence of other market participants than it is to take a closer look 
+at real reasons why they may not be mistakes in the first place.
+§Personality: Like conviction, self confidence falls on a spectrum with 
+wide differences across human beings. Some investors measure low on 
+the self confidence scale, and look to others for big decisions. Others 
+measure higher on the self-confidence scale and are willing to make 
+decisions with incomplete information and in the face of uncertainty and 
+disagreement. Still others have so much self confidence and so little self 
+doubt that they risk having convictions that are out of sync with reality.
+§Track record: It is undeniable that some of the worst investment lessons are 
+learned from that success. Much as Wall Street likes its adages of "not 
+mistaking dumb luck for skill", investors are quick to forget them when 
+an investment bet that they make pays off, especially when their 
+success leads to iconic and admiring profiles ("the next Buffett") and 
+investor capital pouring in.
+15
+§Conviction matters in investing because it affects two choices 
+that investors make 
+-the sizing of positions (with more conviction leading to larger
+-positions in the same investment) and the use of financial leverage 
+(with more conviction often translating into a willingness to borrow 
+more money to fund the investment).
+-If the conviction is well-founded, there is nothing wrong with 
+concentrating your investment or borrowing money to fund it, 
+but if it is overstated (because you misread your initial pricing 
+edge or overestimated the presence of market catalysts or are 
+overconfident), the same actions (concentration and 
+borrowing) can be deadly.
+16
+17
+18
+19
+§Using a life cycle framework, you can see that you can be more tolerant of 
+concentrated portfolios, with debt added on, when you invest in 
+mature companies than you should be when investing in younger 
+companies. 
+§By the same token, investors who find pricing mistakes in younger 
+companies, but are daunted by the noisiness of their estimates or 
+uncertainty about markets correcting, and thus are low on the conviction 
+scale, can overcome their reluctance to act by spreading their bets across 
+many such companies. 
+§As some of you may be aware, I did value SpaceX at the time of its IPO 
+at about $100 a share, and as the price has drifted down towards that 
+price, I may very well be faced with an underpriced stock (where the 
+market price drops below $100). Given the uncertainty that is associated 
+with my estimate, and you can see itin the simulation that I reported in my 
+post,it is unlikely that I would ever have sufficient conviction to make 
+SpaceX the biggest or only investment in my portfolio, but I stand ready to 
+buy the stock as part of a portfolio, where it is one of many bets that I make 
+on markets.
+20
+§I have no issues with Leo's story of AI winning big in the near-term 
+and buying the winners and selling the losers that will result. It is 
+macro story investing, and it has worked for some in the past 
+and failed for others, but if timed right, it can deliver 
+significant returns. 
+§I also have no bone to pick with investors using financial 
+leverage to supercharge their returns, albeit with low-risk 
+investments, though I remain concerned that the (2 & 20) fee 
+structure may lead them to use too much debt. 
+§My concern with Situational Awareness, as a fund, and this would 
+have been true on June 19, even at it peak, is that combining a 
+macro story about AI winning with maximal leverage creates a 
+time bomb. The AI story , no matter how well told, has multiple 
+obstacles to overcome, some related to business economics 
+and some to politics and regulation, and is a risky bet, and it 
+makes sense to fund it with significant amounts of debt.
+21
+§If you look at the composition of Situation Awareness portfolio 
+through much of its rise and fall, the long positions were 
+primarily in companies that benefit from the build-up of Ai 
+architecture, selling their products and services to the hyper 
+scalers and LLM companies, and the short positions were in 
+software and other businesses that would be disrupted by the 
+rise of AI. 
+§With both groups, Situational Awareness was taking bets that 
+were in line with what the market was pricing in already, albeit 
+in a more concentrated and leveraged form. 
+§While market observers were quick to link both the rise and fall of 
+Situational Awareness to the AI story, you can make just as strong a 
+case that much of that happened at the fund over its brief 
+existence can be explained by momentum, with leverage acting 
+as a super charger; continued momentum generated the outsized 
+return though June 19, and the market reversal in July caused the 
+correction.
+22
+§The legend of smart money persists in markets, where investors 
+who are smarter than the rest of us, with access to information and 
+capital that others do not possess, deliver supersize returns for 
+themselves and those that they invite into their inner circle. 
+§That legend serves everyone's interests, since the smart money 
+uses its reputation to attract more capital and the not-so-smart 
+money has someone else (hedge funds, insiders, activists) to 
+blame for investment setbacks. 
+§The problem with smart money is that its self-regard makes its 
+susceptible to attributing more precision to its own 
+convictions, than merited by the circumstances, and that, in 
+turn, results in overreach. 
+§Investors, in my view, are better served by humble money , quick 
+to recognize that winning is often due to luck, not skill, and 
+open to self doubt.
+23
+§I hope that you don't view this as a hit piece on Leo or AI, 
+since that was not my intent. 
+§In fact, I hope that Leo persists and perhaps even comes 
+back as a fund manager, sincehe strikes me as an original 
+thinker who is willing to take a stand, both scarce qualities 
+among active fund managers. 
+§I also hope that he has learned some lessons, especially on 
+humility and restraint, for his next go around, and that he 
+adopts a fee structure that gives his investors a chance of 
+beating the market in the long term.

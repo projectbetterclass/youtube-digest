@@ -1,0 +1,5 @@
+# Functional Training = Lifetime Deload
+
+<https://www.youtube.com/shorts/1s5K9XLuHts>
+
+Functional training is basically just a lifetime deload. No matter what you do, you are dealing with force. What people call functional training, people disguise as a mystical, magical alternative to the bad, spooky, ooh, thing we called lifting. In reality, functional training is generally just less stressful lifting. It is lifting in its essence, i.e. force imposed on the body, our muscles respond to that, that we just call something else. So, the crazy exercise where someone is doing a hip thrust at the same time that they're doing a chest press at the same time they're doing, you know, some a pullover with the opposite arm, right? This The list goes on of crazy things people do. Standing on a Bosu ball with a single leg doing a lateral raise into a dumbbell curl into a reverse lunge. Things we call functional training in general or longevity-based training or just basically less stressful, less forceful versions of lifting.

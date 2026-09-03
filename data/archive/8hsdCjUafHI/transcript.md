@@ -1,0 +1,5 @@
+# I Learned This Trick At 23
+
+<https://www.youtube.com/shorts/8hsdCjUafHI>
+
+I'll give you another fun one I got from one of my first business mentors. So, we just got this lobby installed at my second location La Habra. We spent $3,000. So, for us it was like this thing's the Taj Mahal. And uh my partner looked at it as the you know, the guy was doing the final walk-through or whatever. And like right on the corner there was a little nick. So, my partner asked him and I I watched this whole thing. I'm like 23, 24 years old. And he says, "Hey man, what would it take to uh you know, fix that fix that crack?" And the guy was like, "Oh, dude, I'd have to I'd have to take the whole thing apart. We'd have to take it back to the shop." Um And he's like, "Well, how much do you think that would cost?" And he was like, "I mean, probably a thousand bucks." And he was like, "That sounds like a great place to start for a discount." >> [laughter] >> And the guy was And he's like, "Fucking nailed him." And I saw that and I was like, >> [laughter]

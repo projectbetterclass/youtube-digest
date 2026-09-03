@@ -1,0 +1,213 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/Indexology.pdf
+
+Investing in the age of Index Funds!
+2
+§While much of the discussion in the last few weeks has been about what 
+SpaceX, Anthropic and OpenAI are worth (and will be priced at, there has 
+been another heated debate about indices and index inclusion 
+criteria, a usually bland topic, but one that has become heated on the 
+questions of whether these new mega-cap additions to the market should 
+be included in the S&P 500. 
+§I am skeptical, since I see a combination of hidden agendas and 
+misguided viewsabout investing behind each of the three groups that are 
+most vehemently against inclusions. 
+§First, you have a cadre of active investors, losers in a battle against index funds 
+and ETFS, arguing that inclusion is a risk to passive investing and an 
+argument for paying these active investors significant portions to avoid that 
+risk. 
+§Second, you have investing experts and academics who claim to be looking at 
+for retail investors and retirees and view including inclusion as dangerous for 
+the savings and retirement funds of the "small" investors and retirees.
+§Third, you have politicians piping up about how including these large 
+companies in government pension funds will reward billionaires, who at 
+least in their playbook, are the villains in the storylines.
+3
+§Constituents: he first and perhaps most critical determinant of an 
+index are its constituents, and what determines their inclusion. 
+Take, for instance, the S&P 500, which Standard & Poor's (its 
+creator) describes as the "gauge of large-cap US equities", and is 
+without doubt the most widely tracked and followed index in 
+global market. 
+§Weights:The first is toweight every company in an index 
+equally,with the benefit being simplicity but the cost being a 
+skew away from weighted performance. The second, and one used 
+by some older indices like the Dow 30, isprice-weighting, where 
+the companies with the highest price per share are weighted more 
+than companies that have lower priced shares. The third and most 
+widely used mechanism for construction indices ismarket 
+capitalization, with tweaks sometimes added on for float (traded 
+shares). The S&P 500, as I noted earlier, uses market capitalization, 
+based on free float, and as a consequence, Meta punches in below 
+its true weight, since the bulk of class B shares (which are voting 
+shares held by Zuckerberg) are not counted, as does Walmart, 
+where family-controlled holdings are treated as non-traded.
+4
+§Once constructed, an index has to be measured, and to the extent that these indices are designed to capture market prices, the first step is creating a mechanism for converting 
+market prices on the constituents to an index level. 
+§Consider, for instance, the S&P 500 which ended trading on June 15, 2026, at 7554.29, and 
+relating that number to the market capitalization of the companies that make up the index. At close of trading on June 15, 2026, the cumulative float-adjusted market capitalization 
+of the 500 companies in the index was $63,498.44 billion and the index units for the 
+conversion can be computed as follows:
+Index units = Index level / Float-adjusted market capitalization = 7554.29/ 63498.44 = 0.1190
+§Indices of assets that are not continuously traded, most notably real estate (like the S&P 
+Case-Shiller home price index), try to overcome the absence of price data on the assets by 
+extrapolating from the pricing of the subset of assets that get traded, leading to noisier estimates and lags in price adjustment.
+§Even the best constructed indices have to confront change and have mechanism to deal 
+with that change that is transparent and quick to put into practice. Since you do not want 
+abrupt changes in the index level coming just from replacing a company with a low market cap with one with a much higher market cap, the adjustment has to come from changing 
+the index units. Thus, assume that a company goes public with a trillion-dollar market cap 
+and that it will be replacing a company with a one-billion market cap, the adjusted index 
+units for the S&P 500 will be as follows:
+Index units = Index level / Float-adjusted market capitalization + Market cap of added firm -Market cap 
+of eliminated firm = 7554.29/ (63498.44+ 1000 -1) = 0.1170
+5
+§When I started in equity markets in 1981, and at that time, indices 
+were primarily measures of market performance. Indices continue to 
+perform that role, though our access to data has changed dramatically, with 
+real time updates on our devices occurring all through the day.
+§From the measurement perspective, it is worth looking back at index 
+construction and asking questions about the indices that best capture 
+what you are trying to measure. The reason that the S&P 500 has 
+acquired primacy is that while it includes only 500 companies in a US 
+equity market that has almost 6000 publicly traded companies, the fact that 
+these are the companies with the largest market capitalization means that 
+the index represents more than 80% of the market capitalization of all US 
+equities, and as a result, it is the single best proxy for aggregate equity 
+market performance in the index. 
+§That said, a different framing of the measurement question can lead 
+you to a different index choice. Thus, if you are trying to measure how the 
+average US equity did during a period, you may be better served using an 
+equal-weighted equity index for that measurement.
+6
+7
+8
+9
+10
+11
+•Pre-inclusion run up: Most companies that get added to the S&P 500 
+have had a pre-inclusion run up in stock prices. That can cause tests to 
+be skewed or biased.
+•Inclusion bump:  There has historically been a bump in stock price on 
+the date when it is announced that a company will be added to or 
+deleted from the index.
+•Changes over time: The index inclusion effect has weakened over 
+time, and more recent studies are hard pressed to find any effect.
+12
+13
+§As the funds invested in index funds and ETFs has surged, the argument 
+that some are making is that being added to an index gives you a boost, 
+largely because of index fund flows to companies in that index, and 
+more of a boost if you are a large cap company. 
+§Since the money flows from other stocks, this line of thought also suggests 
+that fundamentals will receive less attention and more disconnect 
+from prices, especially because there are fewer people doing research 
+and looking for market inefficiencies.  In addition, they note that since 
+indices are mostly market cap weighted, this momentum benefits larger 
+market cap companies, in effect allowing them to become larger. 
+§As evidence in favor of this argument, they point to the fact that markets 
+have become top heavy, where a few winners are carrying the entire 
+market, that the small cap premium, an enduring feature of equity 
+markets in the twentieth century , has largely disappeared in this one 
+and the dominance of momentum in investing success in the last 
+decade. I concede that these phenomena are consistent with the "passive 
+investing feeds momentum" story, but I am skeptical for the following 
+reasons.
+14
+§Momentum can cut in both directions: It is true that funds flowing into index 
+funds flow into the companies in that index, with more flowing into large cap 
+companies, but it is also true that funds can flow out of index funds, and when 
+that happens, the momentum can cut in the other direction. 
+§Winner-take-all economics: If momentum is the reason for the big companies 
+winning, there should be divergence between small and big companies on 
+how fundamentals get priced. Put simply, you should see the pricing metrics 
+(PE ratios, EV to EBITDA) for large cap companies increasing relative to small 
+cap companies, as passive investing surges. Looking back at the fading small 
+cap effect and top-heavy markets of the last decade or two, I would note that not 
+all large cap companies have been winners, and the ones that have won have 
+delivered a disproportionate portion of increased earnings. 
+§Active investing and equity research: In my view, the notion that most 
+analysts and active investors are looking for market inefficiencies and 
+seeking out information strikes me as delusional. Much of active investing 
+is built around publicly available information and a belief in the power of 
+mean reversion, not original research and seeking information. It is true that 
+there is a subset of active investors and equity research analysts who contribute 
+to making prices more informative, but it is a small one, and one that is better 
+equipped to survive the passive investing shift.
+15
+§Even if the argument that passive investing is making markets 
+less efficient and more momentum-driven is true, I am unsure 
+about the implications for investing. 
+§Asking individual investors, retirees and endowment funds 
+topay fees to professionals to manage their money while 
+underperforming indices, in service to the larger cause of 
+market efficiency is tone deaf and a non-starter. In fact, any 
+endowment or pension fund manager who uses this argument to 
+steer endowment funds to active money managers would be in 
+violation of his or her fiduciary responsibility. 
+§Perhaps, the argument is being made to regulators to restrict 
+index funds (on which indices they can index, how much money 
+they can manage), I can see why active money managers may be in 
+favor, because I understand that they are trying to protect their 
+livelihood, but they should dispense with any talk about protecting 
+individual investors.
+16
+§An undercurrent in some of the opinion pieces that I have read 
+about why SpaceX should not be included in the S&P 500, 
+written by investment experts and academics, is that it will 
+expose retail investors and retirees to risks that they are 
+unaware they are taking, or even if made aware of the fact, 
+should not be taking in the first place. 
+§These opinion-writers seem to be arguing that the risks 
+associated with investing in a big, money-losing 
+companies (like SpaceX, and presumably OpenAI and 
+Anthropic, when they go public) are so large that individual 
+investors and retirees would not invest in these companies, 
+and even they would, they should not be allowed to do so.
+§I find this chain of reasoning to be both misguided, and 
+insultingto individual investors, and reflective of 
+misconceptions that are deeply and widely held in the 
+investment expert class:
+17
+§Risk and Diversification:Investing just in a portfolio of a few companies 
+like SpaceX would be imprudent, but an investor in a S&P 500 index 
+fund is far less exposed to underperforming the market than the 
+typical active money manager who either over invests in SpaceX (if it 
+goes down) or chooses not to invest in it (if it goes up).
+§Smart and Stupid Money: The belief that small investors are 
+uninformed and naïve and will be exploited by smart money is 
+misplaced. Much of what is labeled smart money is not only not that smart 
+but more driven by herd following and momentum than what is labeled 
+naïve or stupid money. 
+§Good businesses and good investments: The weakest link in the argument 
+against putting your money in money-losing companies is the implicit 
+belief that money-making companies are good (safe) investments and 
+that money-losing companies are bad (risky) ones. I will wager than an 
+investor who was constrained to invest only in money-making 
+businesses in the last two decades would have under performed an 
+investor operating without those constraints, and without paying a 
+risk penalty. At the right price, a money-losing company can be a good 
+investment and at the wrong price, a company with solid and stable profits 
+can be a bad investment.
+18
+§In the week prior to the SpaceX IPO, S&P removed some of the suspense in 
+the question of whether the company would be included in the index by 
+announcing that they would stick with their requirement that a company 
+be listed and traded at least a year before becoming eligible for index 
+inclusion. That decision also means that OpenAI and Anthropic, if they do go 
+public this year, will also have to wait a year for consideration. 
+§I am glad that S&P is not changing the rules to allow these companies to jump 
+the queue to get into the index, but I hope that it is not framed as a decision 
+that was taken to protect investors or in the hope that these companies 
+would become magically money making, better governed and working 
+business models.  The truth is that S&P needs the time to manage the transition 
+of three trillion-dollar companies into the index, even as it confronts the 
+challenge of claiming to be a large cap index that does not include three of the 
+largest market cap stocks in the market.
+§As for the companies (SpaceX, OpenAI and Anthropic), I will wager that they 
+will lose little in market momentum from not being included in the index, 
+and that their price paths will be determined by how the AI story continues to 
+play out in terms of both substance (growth, unit economics, reinvestment) and 
+perception (hype and momentum). 
+§The bottom line is that S&P needs these companies in its index more than 
+they need to be in the index, with the consequence that the companies will not 
+go out of their way to meet index requirements that they feel are costly to them.

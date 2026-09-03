@@ -1,0 +1,5 @@
+# "Barbells are dangerous"
+
+<https://www.youtube.com/shorts/rvPn-mIMzJU>
+
+If, for instance, you have a bad experience with a barbell and you hear someone saying, "Oh, barbells are bad for you." you will latch on to that tribe of people because they've just validated your experience. And what you gain from that, okay, I hurt myself with a barbell, all these people actually just told me barbells are inherently bad and I wasn't the problem. It's not my fault. Then what you do is you write off an entire category of training, an entire opportunity of training, which could be super beneficial for you in many ways or your clients if you're a coach or a rehab specialist. But instead, no, you've written it off because it's actually the most convenient thing to do to blame the implement and to blame the name of the thing rather than to actually inspect your approach. And when you recognize that all of this stuff is actually about force adjustment. Oh, the reason I hurt my shoulder with a barbell is not because the barbell, it's because of my approach to the barbell.

@@ -1,0 +1,276 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/SpaceXpostprospectus.pdf
+
+Separating the wheat from the chaff in financial 
+statements!
+2
+§Ina post a few weeks ago, I assessed the value of SpaceX 
+ahead of its initial public offering, with the admission that I was 
+making my estimates with drabs of data, some of it coming 
+from unofficial sources. 
+§I also promised to revisit my valuation, when the prospectus 
+came out, and now that it has, I will use this post to examine 
+how the information it contains has changed my view of the 
+company and its valuation. 
+§I will also use this post to talk about the information gained by 
+having access to a company's financials, and why the 
+information you glean from those financials is different at 
+younger companies, with growth potential, relative to mature 
+companies.
+3
+§In a paper focusing on IPOs from a couple of years ago, I noted that 
+prospectuses have become more bloated over time, often 
+running four to five times longer than those filed by companies 
+that went public four decades ago, but not necessarily more 
+informative. 
+§TheSpaceX prospectus that we made public on May 20, 2026, is 
+277 pages long, with an addendum that runs another 100 
+pages, with dozens of pictures (mostly of spaceships going into 
+orbit) and a soaring story, but with weak links and distractions 
+galore.
+§To get a measure of how the prospectus changes my pre-
+prospectus story and valuation, 
+§I will start with the easy part of the update, where I use the numbers 
+from the financial statements in the prospectus to replace my pre-
+prospectus estimates. 
+§I will then move on to the weightier part, where I assess how the 
+information in the prospectus change my story line and value for the 
+company.
+4
+Operating Numbers
+Financing Numbers
+5
+§Share count: In my initial valuation, I used the private 
+company pricing per share in conjunction with estimated 
+market cap to back out a share count of 2467 million 
+shares. 
+§With the prospectus, we get a clearer sense of shares outstanding, 
+with a basic share count of 12,535 million shares reported in the 
+prospectus (pages 246 & 247) in computing per share numbers. 
+§That share count does not include the new shares that will be 
+issued in the offering, but that share count will be determined by 
+the magnitude of the offering as well as the expected issuance 
+price or the restricted stock units held by employees (see 
+prospectus, page 18) and that information is still not blanked out in 
+the prospectus.
+§Use of proceeds: It is estimated that SpaceX plans to raise $75-
+$80 billion from the offering, and the prospectus specifies 
+that the company plans to hold the proceeds to cover 
+infrastructure investments in these businesses.
+6
+§The prospectus also lays bare the governance questions that 
+will overhang the firm, with information that there will betwo 
+classes of shares- 6,932 million class A shares with one vote per 
+share and 5,602 million class B shares with ten votes per share. 
+§The public offering will be class A shares, and with Elon Musk 
+holding all of the class B shares, he will control more than 
+85% of the voting rights in the company.
+§The prospectus is long and filled with distractions, but there 
+is almost nothing in it that surprises me. As anticipated, SpaceX 
+is a growing company that is money-losing and cash-
+burning, but growing in the aggregate, that will be a Elon 
+Musk vehicle.
+7
+8
+9
+10
+11
+§I will stick with my estimates for target markets for the 
+space launch and connectivity businesses, since the TAMs in 
+the prospectus are, in my view, overreaches, and I will slow 
+growth in the near years, to reflect that these businesses will 
+take time to mature. 
+§In the AI business, I disagree with the magnitude of the TAM 
+in the prospectus, but the acquisition of Cursor and the 
+indications in the prospectus suggest that xAI very much wants 
+to be part of the enterprise solutions space, notwithstanding its 
+immense capitalization needs, and I will double my target 
+revenues for AI from $80 billion to $160 billion, reflecting 
+my estimate of a TAM of about $3 trillion to $4 trillion for AI 
+products and services.
+12
+13
+§On the space launch business, the cost of launching payloads at 
+SpaceX have been trending down, making its already large cost 
+advantages in the business even larger:
+§On the connectivity businesses, there is bad news and good news 
+on the per user front. The bad news is that the revenues, per 
+month, per subscriber, declined from $99 in monthly revenues 
+in 2024 to $66 in monthly revenues in the first quarter of 2026. 
+The good news is that the number of subscribers has doubled 
+from 5 million in the first quarter of 2025 to 10.3 million in the 
+first quarter of 2026, with the bonus that the company has been 
+able to improve its profitability (see gross margins in the table 
+above) over time.
+§On the AI business, there is not much to go on, on the 
+profitability front, since the focus in the prospectus is more on the 
+increase in compute capacity (see nameplate compute draw on 
+Page 90 of the prospectus) than it is on revenues, especially on the 
+enterprise front.
+14
+§The unit economics for the space businesses, in conjunction 
+with the recognition that there are no other substantial 
+operating expenses (outside of the misclassified R&D expense) 
+in either business, lead me to increase the target margin for 
+the business to 45%, from 40%. 
+§I will leave intact the target margin of 60% for the 
+connectivity business, because once the satellites that service 
+this business are in space, the operating margins will continue 
+their upward march. 
+§My biggest shift is in the target margin that I estimate for the AI 
+business, where the dynamics that are pushing gross 
+margins down, i.e., increased competition and high costs 
+of delivering AI services, will persist; my estimated 
+operating margin drops from 45% to 25%.
+15
+16
+§Given that SpaceX is continuing to invest substantial amounts in 
+its space launch and connectivity businesses, I will increase 
+reinvestment in the near term (years 1-5) by lowering how 
+much they will generate as additional revenues for every 
+additional dollar of capital invested (lower sales to capital 
+ratios). 
+§With AI, where I was already assuming that reinvestment 
+would be large (with a low sales to capital ratio), the tripling of 
+target revenues will result in a surge in reinvestment to 
+generate the higher sales.
+17
+19
+§There are a multitude of risks that SpaceX faces in each of its 
+businesses, but the one that I would be concerned about the 
+most is that it will overreach in the AI business, beginning 
+with an overestimate of the target market for AI products and 
+services and its own competitive position in that market, and 
+following through with investments that reflect those misplaced 
+assessments. 
+§Those concerns are heightened by a voting share structure 
+that locks in Elon Musk's control of the company, since 
+there is little that shareholders can do to restrain the 
+company, if it doubles down on capital expenditures and 
+acquisitions in the AI space, even after it becomes clear that the 
+AI market is much smaller than anticipated and/or that xAI's 
+offerings are not as good as the competition.
+20
+§Financial analysis and valuation, going back to Ben Graham's 
+Security Analysis, has always been centered on financial 
+statements, and that focus has become more intense over the 
+last few decades as access to data and analysis tools has 
+expanded. 
+§In fact, much of what passes for valuation has become financial 
+modeling, where line items are forecast based upon the historical 
+time series, with the proverbial bottom lines being earnings and 
+cash flows. 
+§Along the way, ratios computed from numbers in financial 
+statements, with accounting returns on equity and capital taking a 
+lead role, are used to screen companies for investment quality. 
+§The SpaceX prospectus is a case study in why this approach to 
+investing is myopic and often misleading, and why the 
+informational value of financial statements will shift as companies 
+grow and mature.
+21
+22
+23
+§If you allow for the fact that all three of SpaceX's businesses 
+are young, falling in the young to high growth categories, 
+the big questions driving value are about market size and unit 
+economics, since the former provides the basis for revenue 
+growth and the latter determines profitability. 
+§That is why, when looking at the prospectus for the company , 
+it was the data on unit economics and capital intensity that 
+had a much bigger impact on value, and this information, for 
+the most part, was in the footnotes to the financials, rather than 
+in the financial statements themselves.
+§The mix of good news and bad news in the prospectus 
+creating offsetting impacts and left the overall value almost 
+unchanged.
+24
+§There are many good arguments that can be made about why you 
+should not invest in SpaceX, but basing that conclusion on the 
+fact that they are money-losing or have negative cash flows is 
+both lazy and unconvincing. 
+§In contrast, making a case against investing in SpaceX because 
+you believe that the target markets for its businesses will be far 
+smaller than the company thinks they will be, or that cost and 
+competitive pressures will drive margins down or even that you 
+find its corporate governance structure and dependence on a 
+personality (Elon Musk) off-putting is perfectly reasonable. 
+§If you do make that case, though, it is worth remembering that you 
+don't have a monopoly on the truth and that disagreements 
+about market size and profitability across investors, 
+especially in young companies, are natural and healthy. 
+§In short, based on my inputs and story, I think that SpaceX is 
+worth about $1.25-$1.3 trillion, but if you contend that it is worth 
+$3 trillion or only half a trillion, it is neither my job nor place to 
+convince you that I am right and that you are wrong.
+25
+26
+§Looking at the IPO from SpaceX perspective, the public offering will 
+provide benefits. 
+§For the owners in the company in its private form, including venture capitalists 
+from early in its life to public investors in more recent years, becoming publicly 
+listed will allow them to cash out, albeit after the lock-out period expires in a 
+few months. 
+§For the company, the increased access to capital from being a public company 
+will allow it to cover the capital expenditures and investment needs that emanate 
+from the company's ambitions in the AI business. 
+§For Elon Musk, the public offer ing has the potential to make him the first 
+trillionaire in history, in addition to unlocking new pathways to further 
+enrichment for meeting specified targets (including getting a million people on 
+Mars).
+§Since many of these benefits have been in existence for many years, the 
+fact that company stayed private for that period is an indication that there 
+are costs to going public. 
+§The first is that, notwithstanding Musk's voting control of the company, become a 
+public company will open SpaceX to market scrutiny , in the form of earnings 
+reports every quarter and insider trading reports. 
+§The second is that the market is fickle, and while it is rewarding companies that 
+invest in AI with high market prices today, it can change its mind and punish them 
+for the same reason.
+27
+§I am more investor than trader, and I say that without 
+judgment, since the end game in markets is to make money, not 
+score intellectual points. 
+§In fact, my valuation of SpaceX was driven by my interest in the 
+company and my belief that it is in unique, cutting-edge 
+businesses, and my decision on whether to buy into the 
+offering is therefore driven by my assessment of its value. 
+§While there is no offer price listed yet, at the rumored pricing 
+of $1.8 to $ 2 trillion for the company, it is too richly priced for 
+my tastes, given my valuation of $1.25-$1.35 trillion for the 
+equity in the company. 
+§That does not imply that I will never buy the stock, since the 
+market does change its mind, and if the price does drop by 
+enough, my decision would change accordingly
+28
+§If you are a trader, though, the game changes. Y our judgment on 
+whether you seek to partake in the SpaceX offering will depend 
+on your reading of market mood and momentum. 
+§I would not be surprised in the least to see the offering priced 
+at $1.8 trillion, and see a jump in the price on the day of or in the 
+weeks after the offering, and if that is your most likely scenario, 
+being able to get into the offering at the offer price or even in the 
+first few hours or days of trading will be a winning strategy. 
+§The risk, of course, is that momentum can shift quickly, causing 
+a significant price drop, effectively making timing your trades 
+right key to your trading strategy.
+§The shifting and often unpredictable forces of mood and 
+momentum are also the reason that as an investor, I would not sell 
+short, notwithstanding my value assessment, even if the pricing 
+for the company pushes from $1.8 trillion to $2 trillion or more.
+29
+§As the IPO process for SpaceX heats up in the coming weeks, you 
+should prepare yourself for a flood of selling from the company 
+and its bankers, with talk of possibilities and potential 
+predominating. 
+§If you are on the receiving end of these sales pitches, you should listen 
+but check the numbers for plausibility and make your own 
+judgments on value. 
+§For the bankers involved and the issuing company , the biggest 
+danger to a successful offering is not that there will be near-term 
+reality checks on their hype, but that the market mood will shift, either 
+in the aggregate or specifically related to AI, in the weeks leading up to 
+the offering.
+§No matter what your views are about the SpaceX IPO, positive or 
+negative, there is no denying that this company is a loaded bet 
+on futuristic technology and Elon Musk, and while that may 
+concern some of you, there are others who will look at Musk's track 
+record with Tesla and feel the odds are in their favor.
