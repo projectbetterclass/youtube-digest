@@ -1,0 +1,5 @@
+# Past Lives Are Real and There Will Never Be Proof
+
+<https://www.youtube.com/shorts/GzqQ895qO40>
+
+The moment that you realize this existence that you have is not bounded by this body. The moment that you realize that this consciousness will inhabit this body and then this body and this body and then this body this body. The moment that you have this conception of time where a lifetime becomes a day then lifetimes aren't worth very much. But in order to do that you have to operate from this scale from the scale on the side of consciousness. And if we think about our daily existence how much time do we spend Very little. How much time do we spend in our material body underneath the ocean? A lot. So your perspective will change. If y'all want to understand all this stuff like asuras and devas and past lives and siddhis and Brahman and all this kind of like these weird esoteric concepts. All of it's real. You have to explore it. There's never going to be proof of it because proof and objectivity are features of the physical realm. They're not features of the non-material realm.

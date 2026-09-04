@@ -1,0 +1,262 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/AIScenarios.pdf
+
+Possible? Plausible? Probable?
+2
+§For much of the two years, the AI story has been told by its 
+advocates and salespeople, and the companies in the AI 
+ecosystem have benefited. 
+§Not surprisingly, given that its narrators benefit from its growth, that 
+story has emphasized the positive, with dazzling AI use cases and 
+extrapolation of productively gains. 
+§In the last few months, we have seen cracks emerge in the story, 
+with investors wondering when, and in what form, the monstrously 
+large investments in AI architecture will pay off, and how if they pay 
+off, the businesses that they disrupt will fare. 
+§That disquiet has played out as negative market reactions to 
+new AI investments at Meta and Amazon, a markdown in 
+software company market capitalizations and last week, in a sell 
+off on Monday (February 23rd) in response, at least partially, to 
+an AI scenario assessment from Citrini Research, a 
+publisher of macro and stock research.
+3
+§TheCitrini AI assessmentcame out on February 22, 2026, and it 
+starts with a preface stating that it is presenting a scenario, not a 
+prediction. 
+§The report lays out a story for AI that unfolds with a dark end game 
+for the economy by June 30, 2028, where unemployment has risen 
+above 10% and the market has sold off, down almost 40% from its highs. 
+§There have been other AI doomsayers, but many of those doomsday 
+scenarios are built around the storyline that AI does not live up to its 
+promise, and the pain those scenarios comes from having invested 
+trillions of dollars in building its architecture. 
+§In contrast, the Citrini AIstory is built on the expectation that not only 
+does AI work well at doing tasks currently performed by white 
+collar professionals, across a range of firms, but its adoption 
+happens very quickly . 
+§The pain in the Citrini story comes from that disruption creating 
+substantial job losses, and especially so among higher-earning 
+workers, and their loss of income driving them to cut back on 
+consumption. The ripple effects play out across businesses, with 
+default risks and spreads rising, private credit collapsing and the 
+market and economy pricing in the pain.
+4
+§I do think that there are major flaws in the steps leading to the 
+economic implosion in the Citrini assessment, but if we look at 
+the flaws, credit should be given where it is due. 
+§I have always been troubled by how much we have worshiped at 
+the altar of disruption in this century, putting the founders of 
+disruptors on pedestals and preaching its virtue. 
+§In keeping with Joseph Schumpeter's description of capitalism as 
+built around creative destruction, I do believe that a vibrant and 
+dynamic economy needs a shake-up and challenging of the 
+status quo, but disruption comes with costs, not just to the 
+businesses that are disrupted, but also to the people who work in 
+them. 
+§The reason that many AI advocates took issue with the report was 
+precisely because it bought into their sales pitch of how AI bots 
+can not only do what lawyers, bankers, software engineers and 
+consultants do, but do them better, and then asked the 
+question of "what then?.
+5
+§While I was not surprised to see Goldman Sachs,Moody'sandJP 
+Morganjump in with their AI scenarios, with more benign 
+outcomes, where the job and income effects from AI are modest 
+and temporary, I was surprised to see Citadel wade into the 
+argument, with adirect rebuttal to Citrini,
+§In their scenario, which sees a much more positive end game from 
+AI disruption, is built around three pillars. 
+§The first is current data on jobs and layoffs in the businesses most 
+directly targeted by AI, such as software, where they note that while jobs 
+have been shed, the job losses have been modest, and AI adoption 
+trends, where you don’t see breakouts consistent with what you would 
+need for the speedy disruption predicted by Citrini. 
+§The second is history, where they look at disruptions in the past (PCs, 
+the internet) and note that none of them have created the job losses or 
+economic collapses predicted in the doomsday scenario. 
+§The third is grounded in macroeconomics, where they point to the 
+inconsistency of a large positive productive shock, from AI’s success, 
+playing out as large negative shock to the economy in which it happens.
+6
+§The problem with all these AI scenarios is that they are rooted in 
+the weakest of responses to uncertainty , which is to pick a 
+scenario and describe it in detail, without establishing, at least in 
+qualitative terms, how likely the scenario is, in the first place. 
+§It is entirely possible that what Citrini was presenting was a 
+"worst-case" scenario(I read through the report multiple times 
+and could not get a sense of if this was so, and the subsequent 
+responses from Citrini have only muddied the waters), a "low 
+likelihood" scenario or the "likely scenario" of how AI will unfold. 
+§If it is a likely scenario, and you buy into the pitch, the investment and 
+personal consequences will be dramatic, since it is entirely possible 
+that, if you are a white-collar worker, you will have lost your job by June 
+2028, and your savings, if invested in stocks, would have taken a 
+beating. 
+§If it is a "low likelihood" scenario, and you are exposed, because of 
+your job, age and portfolio composition, you should consider buying 
+protection, but if it is a worst-case scenario, it is almost entirely 
+useless, except to get people’s attention.
+7
+§For much of its history, financial analysis has been built around 
+point estimates, where you identify key drivers, estimate the 
+effects on your bottom line (earnings, cash flows) and make your 
+best judgments. 
+§I have always wondered why finance and economics have been so 
+slow in adopting and using probabilistic approaches, where 
+point estimates are replaced by distributions, and a single 
+judgment by a distribution. 
+§One reason, at least early on, is that economists and financial analysts 
+often did not have rich enough data or powerful enough tools to 
+adopt decision trees, simulations or scenario analysis in making their 
+macroeconomic and investment judgments, but that no longer is true. 
+§Another reason may be that many in this group are uncomfortable 
+with statistical distributionsor probability estimates and stay away 
+from using them. 
+§The third reason, at least for a subset of analysts, is a concern that being 
+open about estimates and the errors in those estimates, which is visible 
+to all in probabilistic approaches, will be viewed as a sign of 
+weakness or lack of convictionon the part of those that use their 
+estimates.
+8
+§In its most sloppy form, and one that has been around for 
+decades, scenario analysis has taken the form of best case -
+base case -worst case scenarios, an almost useless exercise, 
+since there are almost no risky investments that are going to 
+pass muster under the worst case scenario, no matter how good 
+they are, or are going to fail under the best case scenario, no 
+matter how bad they are. 
+§A scenario analysis, done right, should look at scenarios that 
+cover all possible outcomes,and for completion, need 
+probabilities attached to these scenarios, which can then be 
+used by a decision maker to estimate expected values. 
+§That will be almost impossible to do if you are trying to work 
+out future pathways to AI, since it is so early in the process and 
+so little is known about outcomes.
+9
+10
+§Will AI displace workers in businesses, or will it provide them 
+with more powerful tools?
+If you listen to some of AI’s strongest advocates, such as Anthropic’ s
+Dario Amodei, AI will have the capacity to displace and replace 
+workers across multiple businesses, as it develops strengths that 
+go beyond the purely mechanical. (Citrini assumes broad disruption 
+whereas Citadel sees more narrow disruption)
+§How quickly will the AI disruption happen?
+Here again, there is disagreement, with some AI optimists believing 
+that its disruption of regular businesses is imminent, whether 
+displacing workers or in giving them tools. Others believe that AI 
+adoption willtake time, partly because the tools need work and partly 
+because businesses and workers are slow to adapt to change.(Citrini 
+sees speedy disruption whereas Citadel sees slower disruption)
+11
+12
+§With AI, the positive effects will take the form ofhigher 
+productivity, as it presumably either allows people to do their 
+jobs more efficiently (with the tools) or actually replaces
+people and does their jobs instead. 
+§Relating back to the different pathways that AI disruption can 
+take, both in form and in form and speed, I would hypothesize 
+that these disruption benefits will be a function of how the 
+disruption plays out.
+§Proposition 1: The disruption benefits from AI disruption will be 
+greater from people displacement than from tools.
+§Proposition 2: The productivity effects from AI disruption will 
+decrease, at least in econom ic value ter m s, the longer it takes for the 
+AI disruption to unfold.
+13
+§The negative effects of AI, in purely economic terms, will come 
+from the immediatedisplacement of people,if AI replaces 
+labor, or from thedecrease in employees neededto get tasks 
+done, if AI makes existing employees more efficient. Here 
+again, I would hypothesize that these disruption costs will 
+be function of how the disruption plays out.
+§Proposition 3: The disruption costs from AI disruption will be greater 
+from people displacement than from tools, as those laid off lose 
+income and spending power.
+§Proposition 4: The productivity costs from AI disruption will 
+decrease, at least in economic value terms, the longer it takes for 
+the AI disruption to unfold, since time will allow new entrants into 
+labor markets to adjust to a disrupted businessworld.
+14
+15
+My justification for slower:
+1.AI products still have glitches to work through and are still not 
+ready for autonomy.
+2.History, where no disruption has ever unfolded without delays and 
+drawbacks.
+3.Human nature, where reluctance to change is deep, especially in 
+older workers and more established businesses.
+My justification for substantial, but not overwhelming
+1.AI is not ChatGPT on steroids
+2.Businesses have made more of their work rule-driven and devoid 
+of human ingenuity.
+More likely
+§Yo u n g companies, with 
+younger employees (inertia 
+weakest)
+§High gross margins and 
+profitability
+§Mechanical and rule-based 
+products and services.
+§No or weak system 
+protection from regulators, 
+legal system etc.
+Less Likely
+§Older companies, with 
+aging workforces (inertia 
+strongest)
+§Lower gross margins and 
+buffer
+§People-based products and 
+services.
+§Strong system dependence 
+and protection from rule-
+writers and regulators.
+17
+§At first sight, almost most of the AI scenarios yield net benefits, but it is possible 
+that the net benefits accrue to a few businesses (andindividuals), leaving the rest 
+(businesses and individuals) with net costs.
+1. The interests of the AI companies and the rest the economy/market will 
+diverge on AI disruption, with the former benefiting if the disruption is across 
+many businesses and happens quickly, and the latter benefiting from a slower 
+disruption restricted to a few businesses.
+2. The last few major disruptions have all tilted the playing field in many 
+businesses towards larger companies, making businesses more winner-take-
+all. It is likely that the AI disruption will play out in similar ways, with the winners 
+winning big, and lots of companies losing out.
+3. At the individual level, it is not just plausible, but also likely, that a strong AI 
+disruption will make wealth and income inequality worse, with founders of AI 
+businesses joining the ranks of the deca-billionaires and centi-billionaires.
+§A job is not just a source of income for many , but also a source of self esteem 
+and worth. When software engineers who pride themselves on their coding skills, 
+bankers who have spent decades becoming excel ninjas, and consultants who have 
+found inventive ways of packaging cookbook solutions as new and inventive, all find 
+that AI can do what they can do almost effortlessly, the psychic damage is 
+significant.
+18
+§Just about two years ago, I wrote about an AI entity called the Damodaran 
+Bot, that was being developed by Vasant Dhar, my colleague at NYU. I have 
+watched that bot develop, with quirks and occasionalhiccups, to a point where 
+it can replicate much of my content almost effortlessly. At the time, though, I did 
+write about what I could do to keep the moat at bay, including thefollowing:
+1. Generalist vs Specialists: I am a dabbler, an expert in nothing and interested in lots of 
+different things, and I do think that gives me an advantage over a bot that is trained to 
+focus on a topic and drill down.
+2. Left and Right Brain: If the legend of the right and left brains holds, where the left 
+brain controls logic and numbers and the right brain drives your imagination, a bot 
+will have a tougher time replicating what you do. That said, I have seen the 
+Damodaran Bot get much better at story telling in the two years that I have watched it 
+grow, and I need to up my game.
+3. Reasoning muscle: As we move into a time, where the answer to every question 
+is online, on Google Search and ChatGPT, we are losing the need to exercise those 
+reasoning muscles, and exposing ourselves to our bots.
+4. An idle mind:  I don't have much real work to do, I also have plenty of vacant time, with 
+nothing to do. I use that time to daydream and ponder about questions on , including 
+why someone would pay billions of dollars for a sports franchise, how to deal with the 
+risk of lava from a volcano hitting a spa and ruining its valuation and how Netflix has 
+broken the entertainment business. None of these posts include Nobel prize-worthy 
+insights, but my guess is that the Damodaran bot would have trouble with my 
+wandering mind.
+19
+§Yo u  s h o u l d  be  a c t i n g  a s  i f  a  bo t  wi t h  yo u r  n a me  i s  l o o k i n g  ove r  
+your shoulder and trying to learn what you do, and think about 
+what you can do to keep that bot at bay.

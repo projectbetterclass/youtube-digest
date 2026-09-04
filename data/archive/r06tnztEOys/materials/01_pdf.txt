@@ -1,0 +1,84 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate5for2026.pdf
+
+Danger + Opportunity = Risk
+2
+§In my first four posts, I looked at markets -equity, debt and 
+collectibles -in the aggregate performed in 2025. 
+§In this session, I turn my attention to divergences in risk 
+across companies, looking at alternative measures of risk, 
+some based on prices and others at earnings
+§I also look at how these differences play out in hurdle rates, 
+a necessary ingredient for businesses trying to determine 
+whether and how much to invest in individual projects and for 
+investors making that same judgment, when looking at 
+companies.
+3
+§For a concept that is so central to investing and corporate 
+finance as risk, it is astonishing how much divergence there 
+is across even finance experts and academics on what it is, 
+and consequently on how to measure it.  
+§I have heard some describe it as uncertainty, essentially 
+substituting one fuzzy word for another, othersastheriskof
+(large) lossand still others more generally as bad outcomes. 
+§If you have taken a finance class, and I confess to having a part 
+in this, you may define risk as volatility or standard deviation, 
+or even bring Greek alphabets into play.
+4
+§My favorite definition of risk and one that I start my corporate 
+finance class with is that Chinese symbol for crisis or big 
+risk:
+§The first of the two symbols is the one for danger and the 
+second is a symbol for opportunity. In effect, by bunding 
+together danger and opportunity, the risk measure captures 
+how risk both attracts (to get to opportunity) and repels (with 
+the threat of danger).
+§It explains why avoiding risk is generally not a good 
+business strategy and nor is a reckless pursuit of 
+opportunity.
+5
+1. Upside versus Downside: If you start with a generic definition 
+of risk as receiving an outcome that is different from what your 
+expectation, it is worth recognizing that some of these outcomes 
+will be positive (better than expected) and some will be 
+negative (worse than expected), and that it is the latter than 
+investors and businesses dislike. 
+2. Price-based versus accounting-based: Risk measures that are 
+based upon data can be built on market prices, for publicly 
+traded firms, or on accounting data, especially earnings. Price-
+based measures have the advantage of constant updating, 
+giving you more data, but are sometimes contaminated by the 
+noise and volatility that come from trading. Accounting 
+measures yield more stability, but since they are updated 
+infrequently, and accounting smooths changes over time, they 
+can offer stale or distorted values.
+3. Total versus Non-diversifiable: The risk in an investment, 
+whether a project or a business, can come from many different 
+sources, but some of the risks are more investment-specific 
+whereas others are market-wide:
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+§To run a business or invest in one, you need hurdle rates, and 
+that is what costs of equity and debt should be measuring.
+§While models and equations may be how you get these 
+numbers, it is always worth going back to first principles, 
+whenever you face questions on what to do. 
+§As we enter 2026, we are now in our fourth year with US dollar 
+riskfree rates around 4%, and companies and investors seem to 
+have become acclimatized to the resulting costs of capital, and 
+the shock of seeing dollar riskfree rates surge in 2022, 
+pushing up costs of capital across the board seem to have 
+faded.

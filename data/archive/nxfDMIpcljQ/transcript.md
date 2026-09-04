@@ -1,0 +1,5 @@
+# MISTAKE NO. 1/10 ✶ Not adding Google / Apple login 🤦‍♂️
+
+<https://www.youtube.com/shorts/nxfDMIpcljQ>
+
+When I launched my app, Amy, I only supported email login. I didn't think it was a big deal, but only 40% of the people [music] who downloaded the app ended up signing up, which is kind of crazy. Why would you download an app if you're not going to sign up? Then someone told me, "Hey Chris, I think you should add Google and Apple login." I didn't really think it would make a big difference, but I had nothing to lose, so I thought, "Okay, let's go do it." I implemented it, and over the next few days, that 40% sign-up rate jumped to 100%. This was a huge wake-up call for me. I'm never launching an app without Google and Apple login ever again. And honestly, with Coding Agents now, you could literally add both in under an hour. So, if you're building an app, learn from my mistakes, just go ahead and implement it. I'm doing a series documenting my top 10 mistakes. This was one of 10, so follow along for the other nine.

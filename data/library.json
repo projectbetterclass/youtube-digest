@@ -33,6 +33,17 @@
       "url": "https://www.youtube.com/watch?v=0pTXwulvxzA",
       "verdict": ""
     },
+    "1Bq1_U4ENO4": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-01T21:00:26+00:00",
+      "takeaway": "No transcript available; this is a short-form clip directing viewers to watch the full episode elsewhere, likely discussing why staying comfortable can be a disadvantage.",
+      "title": "Be Aware Of Remaining Comfortable",
+      "transcript_available": false,
+      "transcript_path": "data/archive/1Bq1_U4ENO4/transcript.md",
+      "url": "https://www.youtube.com/shorts/1Bq1_U4ENO4",
+      "verdict": "skip"
+    },
     "1s5K9XLuHts": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -54,6 +65,28 @@
       "transcript_path": "data/archive/1yqs3xDKS3Y/transcript.md",
       "url": "https://www.youtube.com/shorts/1yqs3xDKS3Y",
       "verdict": "skim"
+    },
+    "3X6rah8r4Do": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 7 for 2026: Debt and Taxes",
+      "transcript_available": true,
+      "transcript_path": "data/archive/3X6rah8r4Do/transcript.md",
+      "url": "https://www.youtube.com/watch?v=3X6rah8r4Do",
+      "verdict": ""
+    },
+    "3fc56wCjDK8": {
+      "channel": "David Carbutt",
+      "had_materials": false,
+      "published": "2026-09-01T19:26:08+00:00",
+      "takeaway": "Cheaper open-source AI models don't destroy demand for chips—they expand it. Jevons Paradox suggests lower inference costs will unlock new AI applications across the economy, driving higher total compute demand and benefiting hardware makers like NVIDIA and AMD even as model costs fall.",
+      "title": "The UNTHINKABLE is About to Happen to AMD & NVIDIA",
+      "transcript_available": true,
+      "transcript_path": "data/archive/3fc56wCjDK8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=3fc56wCjDK8",
+      "verdict": "watch"
     },
     "3ofbvoV94Us": {
       "channel": "Ben Yanes",
@@ -121,6 +154,39 @@
       "url": "https://www.youtube.com/watch?v=4u8dR2Dxcdc",
       "verdict": "skim"
     },
+    "5AO6szlhG3E": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-01T15:00:35+00:00",
+      "takeaway": "If you have a deviated septum, you can still do breathing practices; options include full-nostril techniques (bellows, fire breath, cooling breath), mental visualization of alternate nostril breathing, or surgical correction if severity warrants it.",
+      "title": "Can You Do Breathing Exercises with a Deviated Septum?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/5AO6szlhG3E/transcript.md",
+      "url": "https://www.youtube.com/shorts/5AO6szlhG3E",
+      "verdict": "skim"
+    },
+    "5vBgs_L5fs8": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "published": "2026-09-01T18:46:56+00:00",
+      "takeaway": "Jack built Profit.ai, a Shopify analytics app generating $30K MRR in under a year, using Claude Code and a lean tech stack. The video is a brief showcase of his tools and rapid development approach.",
+      "title": "This guy built a $30k MRR app in one day with Claude Code. Here's the tools he uses.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/5vBgs_L5fs8/transcript.md",
+      "url": "https://www.youtube.com/shorts/5vBgs_L5fs8",
+      "verdict": "skim"
+    },
+    "6JLvhmGzeuQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 4 for 2026: A Tumultuous Year (2025) for Global Markets!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/6JLvhmGzeuQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=6JLvhmGzeuQ",
+      "verdict": ""
+    },
     "7MykFJ7TByM": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -130,6 +196,17 @@
       "transcript_available": false,
       "transcript_path": "data/archive/7MykFJ7TByM/transcript.md",
       "url": "https://www.youtube.com/watch?v=7MykFJ7TByM",
+      "verdict": "watch"
+    },
+    "8ZC1G1ezN5o": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": "2026-08-31T18:45:11+00:00",
+      "takeaway": "A \"marketing engineer\" is a new high-value role that uses AI agents, data, code, and taste to build systems that turn market signals into pipeline—combining traditional marketing skills with product/engineering thinking. Isenberg outlines six concrete systems (customer truth, content engine, outbound, creative testing, AI search visibility, growth cockpit) and a 30-day learning plan for anyone wanting to develop this skillset.",
+      "title": "Marketing Engineer: The $1M Job with AI Agents",
+      "transcript_available": true,
+      "transcript_path": "data/archive/8ZC1G1ezN5o/transcript.md",
+      "url": "https://www.youtube.com/watch?v=8ZC1G1ezN5o",
       "verdict": "watch"
     },
     "8hsdCjUafHI": {
@@ -198,6 +275,28 @@
       "url": "https://www.youtube.com/watch?v=BA_fC95p43c",
       "verdict": "watch"
     },
+    "BzG8M74BfrY": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 2 for 2026: A Test for US Equities",
+      "transcript_available": true,
+      "transcript_path": "data/archive/BzG8M74BfrY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=BzG8M74BfrY",
+      "verdict": ""
+    },
+    "DnzuNesLBt0": {
+      "channel": "Vinh Giang",
+      "had_materials": false,
+      "published": "2026-09-01T14:25:21+00:00",
+      "takeaway": "\nTo think and speak faster in conversations, pause before answering (rather than rushing), and practice improvisation exercises like the random-word association game to strengthen the neural connection between thinking and speaking.\n",
+      "title": "Think faster in ANY conversation",
+      "transcript_available": true,
+      "transcript_path": "data/archive/DnzuNesLBt0/transcript.md",
+      "url": "https://www.youtube.com/shorts/DnzuNesLBt0",
+      "verdict": "skim"
+    },
     "EIrH2aM9r8s": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -242,6 +341,17 @@
       "url": "https://www.youtube.com/watch?v=GpOzFKrnvdU",
       "verdict": ""
     },
+    "GzqQ895qO40": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-01T15:00:30+00:00",
+      "takeaway": "Past lives and esoteric spiritual concepts are real but unfalsifiable by definition, because they exist outside the material realm where proof and objectivity operate—requiring individual exploration rather than empirical evidence.",
+      "title": "Past Lives Are Real and There Will Never Be Proof",
+      "transcript_available": true,
+      "transcript_path": "data/archive/GzqQ895qO40/transcript.md",
+      "url": "https://www.youtube.com/shorts/GzqQ895qO40",
+      "verdict": "skip"
+    },
     "IzwRBWMb8JQ": {
       "channel": "The Diary Of A CEO",
       "had_materials": false,
@@ -274,6 +384,17 @@
       "transcript_path": "data/archive/JZd5mUPg1XM/transcript.md",
       "url": "https://www.youtube.com/shorts/JZd5mUPg1XM",
       "verdict": "skim"
+    },
+    "Jq55_yR_wJ4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 3 for 2026: The Trust Deficit - From Bonds to Gold to Bitcoin!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Jq55_yR_wJ4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Jq55_yR_wJ4",
+      "verdict": ""
     },
     "Jxs-A7ROWgA": {
       "channel": "Starter Story",
@@ -340,6 +461,28 @@
       "transcript_path": "data/archive/MPHn-nW30QU/transcript.md",
       "url": "https://www.youtube.com/watch?v=MPHn-nW30QU",
       "verdict": "skim"
+    },
+    "MnmMyuMnfOY": {
+      "channel": "David Carbutt",
+      "had_materials": false,
+      "published": "2026-09-01T22:50:50+00:00",
+      "takeaway": "Musk criticizes EU regulatory frameworks as overly restrictive and argues innovation ecosystems should favor startup growth over incumbent protection.",
+      "title": "Elon Musk Stuns The EU",
+      "transcript_available": true,
+      "transcript_path": "data/archive/MnmMyuMnfOY/transcript.md",
+      "url": "https://www.youtube.com/shorts/MnmMyuMnfOY",
+      "verdict": "skip"
+    },
+    "MuF2unxpOXo": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-01T01:10:37+00:00",
+      "takeaway": "\nA former gang member reflects that Christianity initially felt weak after a life of violence and status-seeking, but he came to see that moral restraint and forgiveness actually demand greater strength than aggression.\n",
+      "title": "How Hard Was It To Become Christian?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/MuF2unxpOXo/transcript.md",
+      "url": "https://www.youtube.com/shorts/MuF2unxpOXo",
+      "verdict": "skip"
     },
     "NDFxq5eKBpA": {
       "channel": "HealthyGamerGG",
@@ -462,6 +605,17 @@
       "url": "https://www.youtube.com/shorts/RFaKieqL5No",
       "verdict": "watch"
     },
+    "SRpJEkzJpKs": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 8 for 2026: Dividends and Buybacks - The Investing Harvest!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/SRpJEkzJpKs/transcript.md",
+      "url": "https://www.youtube.com/watch?v=SRpJEkzJpKs",
+      "verdict": ""
+    },
     "SXhkSyopG74": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -495,6 +649,17 @@
       "url": "https://www.youtube.com/shorts/TCoecZ6PkEo",
       "verdict": "skim"
     },
+    "TbOAtQU89eA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "AI Disruption: Doomsday Scenario or Fizzle?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/TbOAtQU89eA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=TbOAtQU89eA",
+      "verdict": ""
+    },
     "WHtSlLF2vhQ": {
       "channel": "Leila Hormozi",
       "had_materials": false,
@@ -504,6 +669,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/WHtSlLF2vhQ/transcript.md",
       "url": "https://www.youtube.com/shorts/WHtSlLF2vhQ",
+      "verdict": "skim"
+    },
+    "WfPyhQZEvkQ": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-01T17:56:43+00:00",
+      "takeaway": "The Navy sometimes disbands entire SEAL platoons when leadership fails to control highly aggressive personnel who are combat-effective but behaviorally unmanageable; the challenge is balancing recruitment of extreme operators with strong command oversight.",
+      "title": "Why The Navy Disbands Entire Platoons",
+      "transcript_available": true,
+      "transcript_path": "data/archive/WfPyhQZEvkQ/transcript.md",
+      "url": "https://www.youtube.com/shorts/WfPyhQZEvkQ",
       "verdict": "skim"
     },
     "WhY5EF1_LjQ": {
@@ -516,6 +692,17 @@
       "transcript_path": "data/archive/WhY5EF1_LjQ/transcript.md",
       "url": "https://www.youtube.com/watch?v=WhY5EF1_LjQ",
       "verdict": ""
+    },
+    "XfX2y3o1IZY": {
+      "channel": "Leila Hormozi",
+      "had_materials": false,
+      "published": "2026-08-31T17:22:08+00:00",
+      "takeaway": "Applying hyper-independent, aggressive work behaviors to personal relationships backfires; success requires developing different interpersonal approaches for different contexts.",
+      "title": "Hyper-Independent? It’s Costing You.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/XfX2y3o1IZY/transcript.md",
+      "url": "https://www.youtube.com/shorts/XfX2y3o1IZY",
+      "verdict": "skim"
     },
     "XgkW4A6lrDY": {
       "channel": "Riley Brown",
@@ -539,6 +726,28 @@
       "url": "https://www.youtube.com/shorts/Y9DKkM0cqlw",
       "verdict": "skim"
     },
+    "YFmiFkW8xpE": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-02T05:00:39+00:00",
+      "takeaway": "Three business models exist based on risk type: solving problems better than competitors (execution risk, most reliable), inventing unknown problems (product-market risk, highest upside), or solving notoriously hard problems (technical risk, also high upside).",
+      "title": "The 3 Ways to Start a Business (And Which Makes the Most Money)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/YFmiFkW8xpE/transcript.md",
+      "url": "https://www.youtube.com/shorts/YFmiFkW8xpE",
+      "verdict": "skim"
+    },
+    "YTTtEaVfehQ": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-08-31T22:00:04+00:00",
+      "takeaway": "\nStimulating the brain's temporoparietal junction with an electrode can trigger out-of-body experiences, a reproducible phenomenon that hints consciousness or the sense of self may not be strictly bound to the physical body.\n",
+      "title": "The Electrode That Pulls You Out of Your Body",
+      "transcript_available": true,
+      "transcript_path": "data/archive/YTTtEaVfehQ/transcript.md",
+      "url": "https://www.youtube.com/shorts/YTTtEaVfehQ",
+      "verdict": "skim"
+    },
     "YYxej3cD5FU": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -548,6 +757,17 @@
       "transcript_available": false,
       "transcript_path": "data/archive/YYxej3cD5FU/transcript.md",
       "url": "https://www.youtube.com/shorts/YYxej3cD5FU",
+      "verdict": "skim"
+    },
+    "YgukBZIL_Lk": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-02T01:15:21+00:00",
+      "takeaway": "Prison status hierarchy in general population (mainly California system) ranks gang members and those \"solid\" at the top, with sex offenders and snitches at the bottom; inmates with serious charges (\"jackets\") are typically segregated into protective custody before entering mainline.",
+      "title": "What’s the Status Hierarchy Inside Prison",
+      "transcript_available": true,
+      "transcript_path": "data/archive/YgukBZIL_Lk/transcript.md",
+      "url": "https://www.youtube.com/shorts/YgukBZIL_Lk",
       "verdict": "skim"
     },
     "YkKQL7BCo8A": {
@@ -616,6 +836,17 @@
       "url": "https://www.youtube.com/watch?v=dNEWqinHrW8",
       "verdict": ""
     },
+    "f_BmT1yaSQY": {
+      "channel": "Ticker Symbol: YOU",
+      "had_materials": false,
+      "published": "2026-08-31T20:39:00+00:00",
+      "takeaway": "Three competing neo-cloud infrastructure startups (CRWV, NBIS, IREN) are positioned to serve the fastest-growing slice of AI spending, each with different risk/reward profiles: CoreWeave for lowest execution risk, Nebius for balanced growth, IREN for highest upside if execution succeeds.",
+      "title": "I Got Rich Off NVIDIA. I'm Buying These Stocks Next.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/f_BmT1yaSQY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=f_BmT1yaSQY",
+      "verdict": "skim"
+    },
     "fbesNIjd_pY": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -671,6 +902,28 @@
       "url": "https://www.youtube.com/shorts/h8tBPhNkjN0",
       "verdict": "skim"
     },
+    "hNn8Vg5dSIY": {
+      "channel": "Leila Hormozi",
+      "had_materials": false,
+      "published": "2026-09-02T04:59:09+00:00",
+      "takeaway": "Before firing someone, assess whether they're in the wrong role or seat — no amount of coaching or effort will fix a fundamental misalignment.",
+      "title": "Before You Fire Someone Listen to This",
+      "transcript_available": true,
+      "transcript_path": "data/archive/hNn8Vg5dSIY/transcript.md",
+      "url": "https://www.youtube.com/shorts/hNn8Vg5dSIY",
+      "verdict": "skim"
+    },
+    "hscEYvWELPk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Trillion dollar Market Caps: Fairy Tale Pricing or Great Businesses?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/hscEYvWELPk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=hscEYvWELPk",
+      "verdict": ""
+    },
     "ig2ewJ9wx2Y": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -681,6 +934,17 @@
       "transcript_path": "data/archive/ig2ewJ9wx2Y/transcript.md",
       "url": "https://www.youtube.com/watch?v=ig2ewJ9wx2Y",
       "verdict": ""
+    },
+    "izz6uCIZVyI": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "published": "2026-08-31T17:44:22+00:00",
+      "takeaway": "Fastlane reduces short-form video marketing to a single, Tinder-like workflow backed by extensive customer research, achieving significant early traction ($69K/month in just 2 months) by solving the speed and decision-paralysis problem for solopreneurs.",
+      "title": "This founder turned a Tinder-style swipe into a $70K/month SaaS.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/izz6uCIZVyI/transcript.md",
+      "url": "https://www.youtube.com/shorts/izz6uCIZVyI",
+      "verdict": "skim"
     },
     "kCY86gxv-h0": {
       "channel": "Tom Nash",
@@ -737,6 +1001,28 @@
       "url": "https://www.youtube.com/shorts/nTWoZKj_Ug8",
       "verdict": "skim"
     },
+    "nvR2gxNREHM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 1 for 2026: The Push and Pull of Data",
+      "transcript_available": true,
+      "transcript_path": "data/archive/nvR2gxNREHM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=nvR2gxNREHM",
+      "verdict": ""
+    },
+    "nxfDMIpcljQ": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": "2026-08-31T22:00:09+00:00",
+      "takeaway": "Adding Google and Apple login as authentication options increased the creator's app signup rate from 40% to 100%, suggesting that offering multiple login methods removes friction for users.",
+      "title": "MISTAKE NO. 1/10 ✶ Not adding Google / Apple login 🤦‍♂️",
+      "transcript_available": true,
+      "transcript_path": "data/archive/nxfDMIpcljQ/transcript.md",
+      "url": "https://www.youtube.com/shorts/nxfDMIpcljQ",
+      "verdict": "skim"
+    },
     "ovdJagfSMwM": {
       "channel": "Vinh Giang",
       "had_materials": false,
@@ -781,6 +1067,17 @@
       "url": "https://www.youtube.com/shorts/qbQQ8o4VOsg",
       "verdict": "skim"
     },
+    "r06tnztEOys": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 5 for 2026: Risk and Hurdle Rates - The 2026 Edition!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/r06tnztEOys/transcript.md",
+      "url": "https://www.youtube.com/watch?v=r06tnztEOys",
+      "verdict": ""
+    },
     "r0fa_y5BFYw": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -812,6 +1109,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/rvPn-mIMzJU/transcript.md",
       "url": "https://www.youtube.com/shorts/rvPn-mIMzJU",
+      "verdict": "skim"
+    },
+    "sp35as2kPWw": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-01T15:00:35+00:00",
+      "takeaway": "Chris Williamson quizzes comedian Jimmy Carr on Victorian-era slang meanings, then pivots to a loose discussion about language simplicity, compression in comedy, and word choice—mostly a personality-driven format piece.",
+      "title": "Jimmy Carr vs Victorian Slang: Can He Get It Right?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/sp35as2kPWw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=sp35as2kPWw",
       "verdict": "skim"
     },
     "sres2R8etKA": {
@@ -857,6 +1165,28 @@
       "transcript_path": "data/archive/u8XIg3V9Cn4/transcript.md",
       "url": "https://www.youtube.com/shorts/u8XIg3V9Cn4",
       "verdict": "skim"
+    },
+    "ufG0-8sYgRQ": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-09-01T12:45:54+00:00",
+      "takeaway": "A single-arm cable tricep extension in internal rotation and horizontal adduction preferentially recruits the lateral and medial tricep heads while building shoulder stability through load variability—worth trying if your shoulder tolerates it, with clear progressions for those who need modifications.",
+      "title": "A Must-Tri Exercise | Biomechanics Explained",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ufG0-8sYgRQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ufG0-8sYgRQ",
+      "verdict": "watch"
+    },
+    "wipmKevNjAk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 6 for 2026: In Search of Profitability and Value!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/wipmKevNjAk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=wipmKevNjAk",
+      "verdict": ""
     },
     "xvsvFd09Z3M": {
       "channel": "Chris Williamson",

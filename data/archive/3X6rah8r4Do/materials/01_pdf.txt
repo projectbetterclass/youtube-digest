@@ -1,0 +1,86 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate7for2026.pdf
+
+”Neither a borrower nor a lender be”
+2
+§In my last two data updates, I focused first on hurdle rates, in my 
+fifth data update and then looked at profitability/return 
+measures in my sixth data update.  Both can be affected by how 
+much debt companies choose to have in their financing structure, 
+and it did enter explicitly into my cost of capital calculations, both 
+through the costs of equity/debt and the mix of the two, and into 
+my accounting return calculations, at least for return on equity. 
+§In this session, I will start with an examination of the trade off 
+that all businesses face when it comes to choosing between 
+debt and equity to finance themselves and then look the debt 
+choices that companies made in 2025 to fund their operations. 
+§As with every other one of my data updates this year, AI enters this 
+conversation not only of the huge investments that are being 
+made into AI architecture, but also because a non-trivial portion 
+of this investment is coming from debt, with private credit as a 
+lead contributor.
+3
+4
+5
+6
+7
+8
+1. Marginal Tax Rates: The marginal tax rate reflects taxes paid 
+on the last dollar of taxable income, and thus comes from the 
+statutory tax code of the domicile that the business operates 
+in. While there are a few companies that try to report these 
+tax rates, you are more likely to uncover them by going into 
+the tax code.
+2. Effective tax rates: The effective tax rate is an accounting 
+measure, reflecting the taxes paid and taxable income line 
+items in the income statement, which follows accrual 
+accounting principles.
+3. Cash tax rates: The cash tax rates also come from accounting 
+statements, with the information in the statement of cash 
+flows used to convert accrual taxes paid to cash taxes paid, 
+and are reflective of what companies actually pay to 
+governments during the course of the year.
+9
+10
+In 2025, the average cash tax rate across companies 
+with taxable income was 25.86% (21.02%) for global 
+(US) firms, about 1% higher than the effective tax 
+rate in both cases.
+11
+12
+§While the low defaults in 2025 were a positive sign for lenders, 
+especially given the economic turmoil created by tariffs and 
+trade wars, there were some worrying trends as well.
+§During the year, Moody’s estimate of the probability of default 
+at US companies spiked to 9.2% in May 2025, a post-2008 
+high.
+§On the bond ratings front, you had more ratings downgrades 
+than upgrades during 2025, estimates of the probability of 
+default spiked during the year and almost $60 billion in 
+corporate bonds slipped below investment grade during the 
+year.
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+§If you agree with my contention that companies are collectively 
+over investing in AI, driven by the big market delusion, there 
+will be a time when that delusion will dissipate, and markets 
+will have to correct. 
+§In an all or mostly-equity driven space, the pain will be borne 
+by shareholders or owners of these companies, but while painful to 
+them, its ripple effects will be limited. 
+§When debt enters the picture, as it has with some of the AI 
+investment, the effects of a correction will no longer be isolated 
+to equity investors in these companies, and as private credit 
+gets repriced (from the marking of debt down to reflect higher 
+default risk), the pain to the rest of the economy increases. 
+§Private credit has had a good run, in terms of delivering returns 
+to investors in it, but a shakeout is overdue, which will 
+separate the sloppy lenders from the good ones, and perhaps 
+shrink private credit to healthier levels.

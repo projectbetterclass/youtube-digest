@@ -1,0 +1,102 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate8for2026.pdf
+
+Cash returns as investment harvest!
+2
+§In the data update sessions this year, I have wended my way from 
+the macro (equities collectives, the bond market and other asset 
+classes) to the micro, starting with hurdle rates and returns in posts 
+five and six and the debt/equity choice in my seventh post. 
+§In this session, I will look at the decision by businesses on how 
+much cash to return to their owners, and in what form 
+(dividends or buybacks), and how that decision played out 
+globally in 2025. 
+§I will argue that dividend policy , more than any other aspect of 
+corporate finance, is dysfunctional both on the sides of the firms 
+that choose to return the cash and the investors who receive that 
+cash. 
+§It is also telling that there are many who seem to view the very act 
+of returning cash as a sign of failure on the part of firms that do 
+so, even though it is the end game for every successful business.
+3
+4
+§Inertia: In many companies, dividend policy is set on auto pilot, 
+with dividends this year set equal to dividends in the last year. 
+It is for that reason that the word I would use to describe 
+dividend policy , at least when it comes to conventional 
+dividends, is 'sticky’.
+§Me-tooism: In most companies, managers look to peer group 
+dividend policyfor guidance on how much, if any , to pay in 
+dividends. Thus, if you are a bank or a utility, it is likely that you 
+will pay high dividends, because everyone else in the sector 
+does so a well, whereas technology companies will pay no or 
+low dividends, because that is industry practice.
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+§As buybacks have soared in the United States, misconceptions 
+and myths about buybacks have also surged.
+§Somehave used to back up the argument that buybacks are at 
+the heart of every business problem in the US and should 
+therefore be banned. Theytakeissueswith buybacksas:
+§They are a primarily a US phenomenon
+§Buybacksarewastefuland reduce corporate investment
+§Buybacks are debt-funded and are increasing distress risk
+§Buybacks are value-destroying, because companies buy back 
+shares at prices that are too high.
+§Others present it as the basis for a cannot-lose strategy to 
+beatthe market, because
+§Buybackscanbevaluecreating, if they are the right price
+§Buybacks increase share prices, because they reduce share count
+17
+18
+19
+20
+§Warren Buffett was late to the buyback party, but when he 
+initiated buybacks at Berkshire Hathaway, he introduced a 
+constraint, which is that he would do buybacks only if he 
+believed that the company's stock price was less than 
+intrinsic value. 
+§That does seem like value destruction, but a cash return can 
+neither add nor destroy value, but it can transfer wealth. In 
+the case of stock buybacks at too high a price, wealth is 
+transferred from those who remain loyal shareholders in 
+the firm to those who sell their shares. 
+§While there is hand wringing about this, I have little sympathy 
+for complaining shareholders, since they had a choice, in a 
+buyback, to sell or hold on, and made the wrong choice.
+21
+§This is the inverse of the argument that buybacks are value 
+destroying, and they are both grounded in a misclassification 
+of buybacks as projects, rather than cash return, competing 
+with investment projects for the company's dollars. 
+§The truth again is that a stock that buys back stock at lower than 
+fair value is transferring wealth from those who sell back to 
+those who remain, and here again, if you are on the wrong 
+side of wealth transfer, it was your choice to sell back that made 
+you the loser.
+22
+23
+24
+§There are a whole host of misalignments between what 
+companies return to their shareholders, either as 
+dividends or in buybacks, and what they can, as potential 
+dividends. 
+§That suggests to me, and perhaps I am wrong, that investment 
+strategies that are built around cash return, whether they be 
+dividends or buybacks, are likely to go off the tracks. 
+§Furthermore, any strategy that is built entirely around 
+dividends, as is the case with strategies where you load up on high 
+dividend yield stocks or buy a handful of heavy dividend payers, 
+such as the Dow Dogs, misses the essence of equity investing. 
+§A stock is not a bond, where dividends replace coupons, and you 
+get some price appreciation on top, and treating it as such will only 
+create disappointment.

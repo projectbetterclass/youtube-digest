@@ -1,0 +1,5 @@
+# Hyper-Independent? It’s Costing You.
+
+<https://www.youtube.com/shorts/XfX2y3o1IZY>
+
+I have found that in my personal relationships with my husband and with friendships is that like my ability to be super hyper independent and career-oriented does not help my relationships at all. In fact, it's quite the opposite. [music] Like they actually doesn't help them. Like I have had to learn how to have multiple hats. If I show up how I show up at work >> [music] >> with my friends and with my family, with my husband, it has not gotten me what I want in life. Because [music] think of the skills that help you get ahead in the business. It's like being direct, being assertive, telling people what to do, >> [music] >> being aggressive. I don't really want a guy who's going to act like that towards me. My husband were to come home and be aggressive and direct [music] and assertive with me, like maybe certain situations that's fine. But But like within the greater [music] context of a relationship, I'd be like, "Dude, chill out. You're being an asshole." Because I want someone who's warm and empathetic and kind and all these other things.
