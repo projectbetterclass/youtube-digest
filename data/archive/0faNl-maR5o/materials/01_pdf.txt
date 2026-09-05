@@ -1,0 +1,87 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/MktTiming2025.pdf
+
+The Impossible Dream!
+§In 1996, Alan Greenspan use the words "irrational exuberance" to 
+describe the stock market, and those words not only became the 
+title of Robert Shiller's cautionary book on market bubbles, but 
+also the beginnings of the belief that central bankers had the 
+wisdom to be market timers and the power to bend the economy 
+to their views. 
+§I was reminded of Greenspan's words when I read that Jerome Powell, 
+the current Fed chair, had described the market as "fairly highly 
+valued". 
+§For much of this year, and especially since April, the question that 
+market observers and investors have is whether stocks, especially in 
+the United States, are pushing into “bubble” territory and headed for a 
+correction. 
+§I think that Powell is right in his assessment that stocks are richly 
+priced, but that said, I will try to explain why making the leap into 
+concluding that stocks are in a bubble, and acting on that 
+conclusion are much more difficult to do.
+Aswath Damodaran 2
+Aswath Damodaran 3
+Aswath Damodaran 5
+Based on market cap at the start of 2025
+Based on Price to Book at start of 2025
+Based on % Price Change in 2024
+Aswath Damodaran 7
+Aswath Damodaran 8
+§It is undeniable that this market is richly priced on every 
+metric, from PE ratios to the earnings yield, net of treasuries, to 
+intrinsic value measures like the equity risk premium, thus 
+providing backing for Powell's "fairly highly valued" market. 
+§If you trust in mean reversion to historical averages, it seems 
+reasonable to conclude that stocks are in fact overpriced, and 
+due for a correction. 
+§In this section, we will examine why, even if you come to this 
+conclusion, it is difficult to convert it into action and more 
+importantly actions that generate profits.
+1.Do nothing: The essence of being a non-market timer is that you do not alter any 
+aspect of your portfolio to reflect your market views. 
+2.Hold on to/ build cash holdings: For the most part, you match what you would have 
+done in the do nothing response in terms of overall asset allocation mix and 
+holdings, but you not only put your portfolio hold-ins into cash (treasury bills, 
+money market funds) but when you act, it will be more likely to be selling and 
+existing holding (that you view as over valued) than buying a new one. 
+3.Change asset allocation mix: In this response, you revisit your preferred asset 
+allocation mix, which was set based on your age, cash needs and risk aversion, and 
+alter it to reflect your market timing views. Thus, if you believe that stocks are 
+overpriced, but you view bonds as fairly or even under priced, you will decrease 
+your allocation to the former and increase your allocation to the latter . 
+4.Buy protection: You can buy puts on the index or sell index futures, if you think 
+equities are overpriced, and benefit from the fact that these derivatives will make 
+you money, if there is a correction.
+5.Make leveraged bets of market correction: The most aggressive way to take 
+advantage of market timing is to make leveraged bets on market correction, using 
+either derivatives markets (puts or futures) or selling short on either all of the stocks 
+in an index, or a subset of the most overpriced.
+1.Choose the pricing metric: As noted in the last section, this can be the percentage 
+increase in stock prices over a recent period, the current or normalized pricing ratio 
+(PE, PBV, EV to EBITDA) or the equity risk premium/intrinsic value for the index.
+2.Create your action rule: The action rule specifies the threshold for the metric, where 
+you will act on your market timing. You could, for instance, decide that you will 
+increase your equity exposure if the PE ratio is more than 25% below the median 
+value for the market's PE ratios over the previous 25, 50 or 100 years, and reduce 
+your equity exposure if the PE ratio is more than 25% higher than the median value 
+over the period. Note that the trade off on setting the threshold is that setting it to 
+a larger value (say 50%) will create a more conservative timing strategy, but one 
+where there is less timing action response.
+3.Choose your market timing response: You specify how much your will increase or 
+decrease your equity exposure in response to the market timing signal. Thus, if you 
+have base asset allocation mix of 60% equities, 40% bonds, you can decide that if 
+your threshold (from step 2) is breached, and the PE ratio drops by more than 25% 
+below the median, your equity exposure will increase (decrease) to 80% (40%) and 
+your bond exposure reduced (increased) to 20% (60
+§I describe myself as someone who does not time markets, and 
+while that is not quite true, the reason is not that markets cannot 
+be valued or that I don’t have a point of view on whether stocks 
+collectively are more likely overpriced or underpriced.
+§It is because acting on that belief of market overpricing or 
+underpricing does not seem to provide the promised payoff, 
+charts and correlations notwithstanding.
+§While I do not alter asset allocations or my stock picks 
+significantly because of my market view, I do adjust my 
+behavior at the margin, holding more of the inflows in my 
+portfolio in cash and not being in as much of a hurry to reinvest 
+cash that I get from selling stocks that I believe have hit their 
+past due dates.

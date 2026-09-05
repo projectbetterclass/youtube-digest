@@ -1,0 +1,112 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/CountryRisk2025.pdf
+
+Politics, Economics and Business!
+§At the start of July 2025, I updated my estimates of equity risk 
+premiums for countries, in a ritual that goes back almost three 
+decades. As with some of my other data updates, I have mixed 
+feelings about doing so. 
+§On the one hand, I have no qualms about sharing these 
+estimates, which I use when I value companies, because there is no 
+secret sauce or special insight embedded in them. 
+§On the other, I worry about people using these premiums in their 
+valuations, without understanding the choices and assumptions 
+that I had to make to get to them. 
+§Country risk, in particular, has many components to it, and 
+while you must ultimately capture them in numbers, I wanted to 
+use this post to draw attention to the many layers of risk that 
+separate countries. I hope, and especially if you are a user of 
+my risk premiums, that you read this post, and if you do
+Aswath Damodaran 2
+Aswath Damodaran 3
+Aswath Damodaran 5
+¨7
+Aswath Damodaran 8
+1. Sovereign Default Risk:  The most widely accessible 
+measures of country risk focus on just default risk. 
+a. Sovereign Ratings:  The ratings agencies that rate companies for 
+default risk also rate governments with sovereign ratings, using 
+the same alphabet ratings from Aaato D.
+b.Sovereign CDS spreads:  You can buy insurance against default 
+risk in the sovereign CDS market, when you invest in the 
+government bonds issued by a subset of countries.
+2. Composite Country Risk: There are services that measure 
+country risk, looking at all the dimensions of country risk, 
+and converting them into scores. The services vary in what 
+they look at and the scores are neither standardized nor 
+comparable.
+Aswath Damodaran 9
+§Start with a mature market premium, i.e., the equity risk premium 
+you would charge in a mature equity market.
+§For decades, the standard approach has been to use the US as the base 
+mature market and use the historical risk premium earned by stocks 
+over treasuries as the mature market premium.
+§This approach is flawed for two reasons. 
+§The historical premium is backward-looking, noisy and reflective of a vry
+different global economy (from the twentieth century_). I think that we get 
+better estimates with forward-looking and implied premiums.
+§In May 2025, Moody’s downgraded the US from Aaato Aa1, implying that it is 
+now riskier than other Aaarated countries.
+§Adjust that equity risk premium by estimating an added premium 
+for markets that are not mature.
+§The default approach used by many analysts is to add the default 
+spread for the country to the mature market premium.
+§In my modified approach,  I scale up the default spread for the higher 
+risk of equity , relative to government bonds.
+§I have shared my equity risk premiums, by country, and I am 
+flattered that there are analysts that have found use for it. 
+§One reason may be that it is free, but I do have concerns 
+sometimes that they may be misused, and the fault is mine for 
+not clarifying how they should be used. 
+§In this section, I will lay out steps in using these equity risk 
+premiums in corporate finance and valuation practice, and if I 
+have still left areas of grey, please let me know.
+§The equity risk premium is a measure of the “extra” return that 
+investors need to make, over and above the riskfree rate, to 
+compensate for the higher risk that they are exposed to, on an 
+equity investment. 
+§In the context of country risk, it implies that investments in 
+riskier countries will need higher returns to beat benchmarks 
+in safer countries. 
+§It is also worth recognizing how equity risk premiums play out 
+investing and valuation. Increasing the equity risk premium will 
+raise the rate of return you need to make on an investment, and 
+by doing so, reduce its value.
+§Not all companies or projects are average risk, for equity investors 
+in them, and you need ameasure of this relative risk. The betais 
+one measure, but as I have argued elsewhere, I am completely at 
+home with alternative measures of relative equity risk. 
+Cost of equity = Riskfree rate + Beta×Equity Risk Premium
+The beta (relative risk measure) measures the risk of the business that the 
+company/project is in, and for a diversified investor, captures only risk 
+that cannot be diversified away.
+§For the cost of debt, you need to estimate the default spread that 
+the company will face. If the company has a bond rating, you can 
+use this rating to estimate the default spread, and if it is not, you 
+can use the company's financials to assess a synthetic rating.
+§Cost of debt =Riskfree Rate + Default spread
+Harking back to the discussion of riskfree rates, a company in a country 
+with sovereign default risk will often bear a double burden, carrying 
+default spreads for both itself and the country.
+§The currency choice made in step 2 determines not only the 
+discount rates that you will be using but also the expected cash 
+flows, with expected inflation driving both inputs.
+§Thus, if you analyze a Turkish project in lira, where the expected 
+inflation rate is 15%, you should expect to see costs of equity and 
+capital that exceed 20%, but you should also see growth rates in the 
+cash flows to be inflated the same expected inflation. 
+§If you assess the same project in Euros, where the expected inflation 
+is 2%, you should expect to see much lower discount rates, high 
+county risk notwithstanding, but the expected growth in cash flows 
+will also be muted, because of the low inflation.
+§My Annual Update on country risk
+§This is a long and boring paper, but it provides the details of 
+everything that I know about country risk.
+§Country Risk Determinants: Determinants, Measures and 
+Implications -The 2025 Edition
+§Datasets on beta and ERP
+§This spreadsheet contains the gory details of my ERP calculations.
+§Equity Risk Premiums, by country -July 2025
+§Spreadsheets
+§If you are interested in seeing the mechanics of computing a 
+forward-looking premium, try this spreadsheet.
+§Implied Equity Risk Premium for S&P 500 on July 1, 2025

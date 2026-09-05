@@ -1,0 +1,5 @@
+# How This Coach Solved Shoulder Pain Using Biomechanics
+
+<https://www.youtube.com/watch?v=gqi8qlUwqPs>
+
+How did what I teach you help you with a client? >> did this initially, I had him come like this, didn't feel good. And it was like he'd do like seven or eight reps. I'm like, "Hey man, what do you feel?" >> Yeah. >> A lot of shoulder, yeah, not too much chest. >> And then the after was like a lot of chest, no pain. >> Yeah, it was more like perfect setup. I made him go like this, drop his shoulders, find out where that aligns in terms of the handle, align it correctly, shorten the range. It was perfect. >> Yeah, and the cool thing about this, too, you already said to me about the Smith machine is like you have the principle here, and when you have the principle of like, "Oh, where do I start? Let me reverse engineer from that." You do that same thing over there. You do that same thing on the row, on the press. >> So, I found not only through him, but other other clients, too, is just like most clients are not going to be able to get that far back, even myself. >> Yeah. Good. Thank you, dude. >> You got it.

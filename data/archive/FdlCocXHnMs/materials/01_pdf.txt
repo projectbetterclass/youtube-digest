@@ -1,0 +1,296 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/Goldin2025.pdf
+
+GOLD’S PRICE SURGE IN 2025: 
+MACRO SIGNAL OR PRICING 
+NOISE?
+The Golden Rule (Is there one)?
+2
+AGreatYearforStocks,BondsandGold?
+¨In 2025, as stock and bond markets have climbed walls of worry 
+almost nonchalantly to reach new highs, gold has been a 
+surprisingly big winner, building on a recovery that started in 2022 
+to crest $4000 an ounce. 
+¤For long term proponents of investing in gold, this has been vindication, 
+but even for investors who have never held gold in their portfolios, there is 
+a message from the gold's rise that we ignore at our own peril. 
+¤I must confess that I have never felt the draw of gold, and have never held 
+it in my portfolio, but I have always been fascinated by the hold that gold 
+has on some investors, and the reasons for its longevity. 
+¨In this post, I will start by first positioning gold in the investment 
+continuum and then examining its price movements, both in 2025 
+and with a longer-term perspective, to get a handle on the drivers 
+of these movements.
+3
+Gold: What is it?
+To value Toprice
+Assets Can be valued based upon
+expected cashflows, with 
+higher cashflows& lower 
+risk = higher value.
+Can be priced against 
+similar assets, after 
+controllingfor cash flows 
+and risk.
+Commodity Can be value based upon 
+utilitarian demand and 
+supply, but with long lags
+in both.
+Can bepriced against its 
+own history (normalized 
+price over time)
+Currency Cannot be value Can bepriced against 
+other currencies, with 
+greater acceptance & more 
+stable purchasing power = 
+higher price.
+Collectible Cannot be value Can be pricedbased upon 
+scarcity and desirability.
+4
+Assessing Gold
+• Itisaninefficientcurrency,andwhilethereare
+undoubtedlytransactionswheregoldcoinshavebeen
+usedastender,difficultiesassociatedwithchecking
+authenticity,securityandbreakingdownintosmallunits
+havelimiteditsusethroughhistory.
+• Itcanbeusedasacommodity,asisthecasewhenitis
+usedtomakejewelryorstatues(orintoothfillings),but
+evenwhenusedinthiscontext,itisoftenheldmorefor
+itsvalueasacollectiblethanforaestheticreasons.
+• Itisasacollectiblethatgoldhasstoodout,with
+governments,banksandindividualsattachingvaluetoit
+overtime.
+5
+Implications
+• Sincegold,absentcashflows,cannotbevalued,arguing
+whethergoldisunderorovervaluedisapointlessone,
+justasitisforbitcoin.Infact,ifyourinvestment
+philosophyisstrictlytetheredtofindinginvestmentsthat
+areundervaluedbythemarket,goldwillnothavea
+placeinyourportfolio,explainingWarrenBuffett's
+longstandingaversiontoit,asaninvestment.
+• Goldispricedeveryday,andthatpricingprocessis
+drivenbydemandandsupply,andwhilewewilloutline
+macrovariablesthatcanaffectoneorboth,itis
+ultimatelyaprocesswheremoodandmomentumwill
+carrytheday.
+6
+Is it a good collectible?
+1. Scarcity:Atthestartof2025,therewereapproximately244,000metric
+tonsofgoldintheworld,heldinavarietyofforms(jewelry ,goldbars&
+coinsetc.).
+¤Whilegoldproductionin2024amountedadded3,000tonstothisquantity,itis
+estimatedthatthatthereabout60,000metrictonsofgoldthatarestillinreserves.
+¤Thatputsitinasweetspotbetweenelementslikeplatinumthataretooscarce
+(about10,000metrictons)tobewidelyheld,andmoredifficulttoextract,and
+elementsthataretooplentifultoholdtheirvalue.
+2. Durability:Foracollectibletoholditsvalue,ithastobedurable,andone
+ofthereasonsthatgoldacquireditscollectiblestatusisbecauseitisso
+chemicallystable,malleableanddoesnotoxidizeorcorrode(whenit
+comesintocontactwithacidsandotheragents).
+3. Desirability:Thereissomethingaboutgoldthatexertsaholdonhuman
+beings.FromtheGreekmythofMidas,thekingwhosetouchturned
+everythingtogold,tothelegendofElDorado,acitymadeofgold,that
+ledtheSpanishtocrosstheoceantoseekitoutinSouthAmerica,gold
+hasdrivennarrativesandalteredhistory.
+7
+Gold: A History of Usage
+¨ Goldhasbeenvaluedaspreciousbycivilizationsgoingbackmillennia,withevidenceofusagein
+theformofcoinsgoingbacktotheLydiancivilization,locatedinTurkeyin600BC,withtheGreeks
+andtheRomansfollowing.
+¨ Issuers(governmentsandkingdom)offiatcurrenciestiedthemtogoldtogetskepticalpopulaces
+toholdthem.Inthenineteenthcentury,thislinkagewasformalizedinthegoldstandards,where
+papercurrencyissuancewasbackedbyholdingsingold,withpapermoneyconvertibleintogold.
+¤ Englandadoptedadefactobimetallic(silverandgold)standardintheearly1700s,butamiscalculationby
+IsaacNewtononthesilver/goldratio,wheresilverwasoverpricedrelativetogold,madeitagoldstandard.
+¤ WhileEnglanddidnotformallyadoptthegoldstandarduntil1818,theUnitedStates,atitsbirthasa
+country,andeagertohaveitsnewcurrency(thedollar)beacceptedascurrency,followedEngland’smodel,
+withabriefbreakduringthecivilwar.
+¨ Inthesecondhalfofthenineteenthcentury,thegoldstandardbecamethebaseformostmajor
+currencies,buttwoeventsintheearlytwentiethcenturyputittothetest.
+¤ ThefirstwastheFirstWorldWar,governmentsinneedofmoneytofundtheirarmiesfoundtheirhandstied
+bytheconstraintsofgold,andmanywereforcedtoabandonconvertibility.
+¤ TheUnitedStatesstayedwiththegoldstandardintotheGreatDepression,withsomeeconomistsblaming
+theFed’sactionstryingtodefenditforworseningtheeconomiccollapse.
+¤ AftertheSecondWorldWar,theUnitedStatesemergedastheeconomicsuperpower,andwiththeBretton-
+Woodsagreement,theUSdollartooktheplaceofgoldatthecenteroftheglobalmonetarysystem,withthe
+dollarconvertibletogoldatafixedprice.
+8
+A Pricing History: Gold In 2025
+9
+Gold Prices: From 1963 to 2025
+10
+Drivers of Gold Prices
+¨There is an alternate route that can be used to estimate 
+the "fundamental" value of a commodity by gauging 
+the demand for the commodity (based on its uses) and 
+the supply. 
+¨While that may work, at least in principle, for industrial 
+commodities, it is tough to put into practice with 
+precious metalsin general, and gold because the 
+demand is not driven primarily by practical uses. 
+¨While gold does not have an intrinsic value, there are at 
+least three factors historically that have influenced the 
+price of gold-inflation, fear of crises and real interest 
+rates.
+11
+1. Inflation and Gold Prices
+% Change in Gold price = -0.06 + 3.92 (Inflation rate)R squared = 18.8%
+12
+InvestmentClassReturns:ByDecade
+13
+2. RiskandCrises
+%ChangeinGoldPrice=-0.13+5.21(ERP) Rsquared=5.02%
+%ChangeinGoldPrice=0.13-1.32(BaaRate-T.BondRate) Rsquared=0.20%
+14
+3. Gold and Real Rates
+% Change in Gold price = 0.18 –4.69 (T.BondRate -Inflation Rate)
+(5.34)(4.20) R Squared = 21.9%
+15
+The Bottom Line
+¨Gold is often touted as a hedge against inflation and crises, but 
+the evidence from history is nuanced. With inflation, it is a better 
+hedge against unexpected inflation than expected inflation, and 
+even with unexpected inflation, only for increases that put inflation 
+above normal bounds. In short, it is a hedge against hyper inflation 
+but not just higher-than-usual inflation that falls within normal 
+bounds.. 
+¨With crises as well, the evidence is mixed, since gold prices are, for 
+the most part, unaffected by movements in equity and bond risk 
+measures that fall within historical bounds, butincrease during risk 
+events that are uncommon and potentially catastrophic. 
+¨Investors who add gold to their portfolios because of the 
+protection it offers should recognize it more akin to buying 
+insurance against extreme events, and more useful if the bulk of 
+their wealth is in financial assets.
+16
+Is Gold overpriced? An inflation test!
+17
+Against Silver!
+18
+The Bottom Line
+¨If you believe that history is your best guide for the future and 
+that mean reversion will win out, it is undeniable that gold is 
+overpriced against almost every metric it is usually priced against. 
+In fact, you could argue that the rise of gold prices in the last 
+decade is unprecedented since it has not been accompanied by 
+raging inflation or by market crises (though there have been 
+economic crises).
+¨The counter is that using historical data as a guide, gold has been 
+overpriced over the last decade, a period over which its price has 
+increased almost four-fold, from $1060/oz at the end of 2015 to 
+$4,118 on October 24, 2025. 
+¨When an investment stays overpriced for that long, it is legitimate 
+to question whether the pricing metric is flawed, and whether 
+there a structural shift has occurred that has shifted the 
+distribution.
+19
+Structural Changes
+1. Morepathwaystobuying/holdinggold:TheriseofGoldexchangetradedfundshasreducedor
+removedbothconstraintsallowingmoreinvestorsentreeintothegoldmarket.
+2. Mistrustofcentralbanks:Investmentsinfinancialassets(stocksandbonds)areareflectionofthe
+trustincentralbanks(andgovernment)workingtopreservethebuyingpowerofthecurrencies
+thattheyissue.Intheaftermathofcentralbankingactivism,post-2008,thattrusthasdepleted,at
+leastforasegmentofthepopulation,leadingtoashifttogold(andbitcoin).
+3. SlippageoftheUSdollar:EvenaftertheUSremoveditslastformalconnectiontothegold
+standardin1971,thestrengthofthedollarandthecentralityoftheUSeconomyallowedinvestors
+touseitasasafehaven,asasubstituteforgold.ItisundeniablethattheUSeconomyanddollar
+havebeenunderstressforthelastdecadeormore,withtheratingsdowngradefortheUSbeing
+onlyamanifestationofthesestresses.Withnootherglobalcurrencyreadytotaketheplaceofthe
+dollar,youcanarguethatgoldisonceagainassertingitsroleassafehave,andthattheriseinits
+pricereflectsthatstatus.
+4. TheTrumpeffect:Whilethefirsttwofactorshavebeeninplayfordecades,thisyearhasseen
+unusualturmoil,astariffthreatsandeconomicwarsthreatentounravelaneconomicworldorder
+thathasgovernedmarketsandeconomiesformuchofthelastcentury.Whiletherearesomewho
+willwelcomethatdevelopment,itisnotclearwhatthereplacementwillbe,andthepossibilityof
+acatastrophicoutcomeisperhapsgreaterthanitwasayearortwoago.
+20
+Gold’s Place in your Portfolio
+¨Gold as a core investment: There are some investors who have 
+built their portfolios, with gold as a central component, 
+representing a significant portion of their wealth.
+¨Goldasinsurance: For investors with the bulk of their portfolios in 
+financial assets (stocks and bonds), gold holdings can help insure 
+their portfolios, at least partially, against inflation and 
+market/economic crises.
+¨Gold as a trade: In trading, the key to winning istiming, buying 
+when prices are low and selling when they are high, and there are 
+some who make their money on gold by timing its ups and downs 
+well.
+¨Goldasasignal: There are many investors who have no desire or 
+or are averse to holding gold in their portfolios, butuse gold prices 
+as signals of either hyperinflation or economic catastrophes to 
+structure their portfolios.
+21
+1. Core Investment
+¨The Draw: For investors who have a deep attachment to gold combined 
+with a distrust of financial assets, governments and central banks, the net 
+effect of holding a portfolio dominated by gold is that it improves their 
+odds of passing the sleep test, i.e., you don't lose sleep wondering how 
+your portfolio is doing.
+22
+2. Insurance
+¨Trade off: Gold has been only a weak hedge against inflation and market 
+crises that fall within normal bounds, but has done much better as aedge 
+against hyperinflation and catastrophic market/economic risks. Adding 
+gold to a financial asset dominated portfolio can provide insurance 
+against the latter, but only if held in large enough quantity to make a 
+difference.
+¨Thedraw:All investors should be concerned about catastrophic risks, but 
+it is undeniable that this concern varies across investors, with older and 
+more risk averse investors more inclined to have that concern. It is also 
+true that worries about catastrophes vary over time, increasing across 
+investors in troubled times.
+23
+3. Trade
+¨Tradeoff:Gettingthetimingrightintradingiseasiersaidthat
+done.Whilethepeaksandbottomsofgoldpricesareeasyto
+pinpointinhindsight,itisworthrememberingthatmanyinvestors
+whobecamerichridingthegoldpriceboomfrom1977-1979lostit
+allinnextfiveyears.Thetraderswhoboughtgoldin2022are
+ridinghigh,atthemoment,afterathree-yearsurgeingoldprices,
+buttheytoomaybelookingatdisappointment,iftheydonotcash
+outattherighttime.
+¨Thedraw:Tradingisapricinggame,andsincepriceisdetermined
+morebymoodandmomentum,successingoldtradingcomes
+downtodetectingmomentumshiftsbeforetheyoccur,andtrading
+onthatbasis.Forsomegoldtraders,thiscapacitymaycomefrom
+examiningchartsongoldpricesandvolume,andforothers,itmay
+beinreadingthemacroeconomictealeaves,especiallyoninflation.
+24
+4. Signal
+¨Tradeoff:Theallureofgoldasasignalofinflationandmarketcrises
+comesfromhistory,wheregoldpriceshavetendedtoriseduringperiods
+ofhighinflationandeconomicuncertainty.Muchoftherelationship,
+though,iscontemporaneous,i.e,,goldpricesriseinperiodswhen
+inflationishighandriskssurge,andthereisonlyweakevidenceofgold
+pricesbeingaleadingindicatoroffuturechanges.
+¨Thedraw:Sinceportfolioscomposedprimarilyorentirelyoffinancial
+assetsarebadlydamagedbyunexpectedinflationoramarketmeltdown,
+havingapredictor,evenaflawedone,thatcangiveadvancewarninghas
+bigpayoffs.Inparticular,ifgoldpricesrisingisasignalthatinflationwill
+behigherthanexpectedinthefuture,youcouldalteryourasset
+allocation,shiftingmoneyfromstocksandlongtermsbondstoshortterm
+billsandcommercialpaper,orevenyourassetselection,movingmoney
+fromcompaniesthathavelittlepricingpowerandsignificantoperating
+risktocompanieswithsubstantialpricingpowerandpredictableearnings
+streams.
+25
+TheBottomLineonGold
+¨ Gold has had a good run this year, and I will not begrudge those who got into 
+it early. Some undoubtedly just got lucky to be at the right place at the right 
+time, but some were prescient in detecting a shift in the market vibe, 
+especially in 2025. 
+¨ The truth is that the market for gold has been and always will be a niche 
+market, drawing a subset of investors, but that niche shrinks and expands 
+over time. 
+¤ When the world is stable and times are good, the niche is composed almost entirely of true 
+believers, a mix of gold bugs, conspiracy theorists and doomsday cultists who believe that fiat 
+currencies are more paper than money and that financial asset markets are insider-controlled 
+scams.
+¤ In scarier times, the niche expands, drawing in investors who normally invest in stocks and 
+bonds, but decide, either because of distrust of central banks or perceived market bubbles, 
+that they need the safety of gold. 
+¨ While I do not have a listing of everyone holding gold in October 2025, I will 
+wager that it includes names that you would normally expect to see in the list, 
+drawing in investors from financial asset markets who see signs of a market 
+bubble or an economic catastrophe.

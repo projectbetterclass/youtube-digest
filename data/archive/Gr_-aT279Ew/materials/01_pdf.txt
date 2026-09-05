@@ -1,0 +1,144 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/MoodysDowngrade.pdf
+
+Aaano more!
+§I was on vacation with my family in August 2011 when I received an email 
+from a journalist asking me what I thought about the S&P ratings 
+downgrade for the US from AAA, the highest sovereign rating that can be 
+granted to a country, to AA+, reflecting their concerns about both the fiscal 
+challenges faced by the country, with mounting trade and budget deficits, 
+as well as the willingness of its political institutions to flirt with the 
+possibility of default. 
+§For more than a decade, S&P remained the outlier, but in 2023, Fitch joined 
+it by alsodowngrading the US from AAA to AA+, citing the same reasons.
+§That left Moody's, the third of the major sovereign ratings agencies, as the 
+only one that persisted with a Aaa(Moody's equivalent of AAA) for the US, 
+but that changed on May 16, 2025, when it too downgraded the US from 
+Aaa(negative) to Aa1 (stable). Since the ratings downgrade happened 
+after close of trading on a Friday, there was concern that markets would 
+wake up last Monday (May 19) to a wave of selling, and while that did not 
+materialize, the rest of the week was a down week for both stocks and US 
+treasury bonds, especially at the longest end of the maturity spectrum. 
+Aswath Damodaran 2
+Aswath Damodaran 3
+§Default has a negative impact on the economy, with real GDP dropping 
+between 0.5% and 2%, but the bulk of the decline is in the first year after 
+the default and seems to be short lived.
+§Default does affect a country’s long-term sovereign rating and 
+borrowing costs. In the same vein, defaulting countries have borrowing 
+costs that are about 0.5 to 1% higher than countries that have not 
+defaulted. Here again, though, the effects of default dissipate over time.
+§Sovereign default can cause trade retaliation. One study indicates a 
+drop of 8% in bilateral trade after default, with the effects lasting for up to 
+15 years, and another one that uses industry level data finds that export-
+oriented industries are particularly hurt by sovereign default.
+§Sovereign default can make banking systems more fragile. A study of 
+149 countries between 1975 and 2000 indicates that the probability of a 
+banking crisis is 14% in countries that have defaulted, an eleven 
+percentage-point increase over non-defaulting countries.
+§Sovereign default also increases the likelihood of political change.. A 
+study of devaluations between 1971 and 2003 finds a 45% increase in the 
+probability of change in the top leader (prime minister or president) in the 
+country and a 64% increase in the probability of change in the finance 
+executive (minister of finance or head of central bank).
+Aswath Damodaran 5
+¨7
+Aswath Damodaran 8
+Aswath Damodaran 9
+§Ratings are upward biased: Ratings agencies have been accused of 
+being far too optimistic in their assessments of both corporate and 
+sovereign ratings. 
+§There is herd behavior: When one ratings agency lowers or raises a 
+sovereign rating, other ratings agencies seem to follow suit. 
+§Too little, too late: To price sovereign bonds (or set interest rates on 
+sovereign loans), investors (banks) need assessments of default risk that 
+are updated and timely. 
+§Vicious Cycle: Once a market is in crisis, there is the perception that 
+ratings agencies sometimes overreact and lower ratings too much, thus 
+creating a feedback effect that makes the crisis worse. This is especially 
+true for small countries that are mostly dependent on foreign capital for 
+their funds.
+§Regional biases: There are many, especially in Asia and Latin America, 
+that believe that the ratings agencies are too lax in assessing default risk 
+for North America and Europe, overrating countries in those regions, 
+while being too stringent and narrow in their assessments of default in 
+Asia, Latin America and Africa, underrating countries in those regions.
+§A sovereign default has both economic and political roots, 
+since a government that is intent on preserving its credit 
+standing will often find ways to pay its debt and avoid default. 
+§For decades now, the US has enjoyed special status with 
+markets and institutions (like ratings agencies), built as much 
+on its institutional stability (legal and regulatory) as it was on its 
+economic power. 
+§The Moody's downgrade seems to me a signal that those days 
+might be winding down, and that the United States, like the rest 
+of the world, will face more accountability for lack of discipline 
+in its fiscal and monetary policy.
+§Lack of surprise effect: While the timing of the Moody's 
+downgrade was unexpected, the downgrade itself was not 
+surprising for two reasons. First, since S&P and Fitch had already 
+downgraded the US, Moody's was the outlier in giving the US a Aaa
+rating, and it was only a matter of time before it joined the other 
+two agencies. Second, Moody's changed its outlook for the US to 
+negative in November 2023, and while the rating remained 
+unchanged until May 2025, it was clearly considering the 
+downgraded in the months leading up to it.
+§Magnitude of private capital: The immediate effect of a 
+sovereign ratings downgrade is on government borrowing, and 
+what the US does borrow vast amounts, private capital (in the form 
+of equity and debt) is a far bigger source of financing and funding 
+for the economy.
+§Ratings change: The ratings downgrade wsmore of a blow to 
+pride than to finances, since the default risk (and default spread) 
+difference between an Aaarating and a Aa1 rating is small.
+§In principle, the riskfree rate is what you will earn on a 
+guaranteed investment in a currency, and any risk premiums, 
+either for investing in equity (equity risk premium) or in fixed 
+income securities (default spreads), are added to it. 
+§It is standard practice in many textbooks and classrooms to use 
+the government bond rate as the risk free rate, but that is built 
+on the presumption that governments cannot default (at least 
+on bonds issued in the local currency). 
+§Using a Aaa(AAA) rating as a (lazy) proxy for default-free, that 
+is the rationale used to justify government bond rates as 
+riskfree rates at the start of 2025.
+§Now that the US is no longer Aaarated, we have to follow a 
+similar process to get a riskfree rate in US dollars:
+§US 10-year treasury bond rate on May 30, 2025 = 4.41%
+§Default spread based on Aa1 rating on May 30, 2025 = 0.40%
+§Riskfree rate in US dollars on May 30, 2025 = US 10-year treasury 
+rate -Aa1 default spread = 4.41% -0.40% = 4.01%
+§This adjustment yields a riskfree rate of 4.01% in US dollars, 
+and it is also built on the presumption that the default 
+spread manifested after the Moody's downgrade on May 16, 
+when the more realistic reading is that US treasury markets 
+have been carrying a default spread embedded in them for 
+years, and that we are not making it explicit.
+§Incorporating the effects of the downgrade changes the 
+composition of that expected return, resulting in a lower 
+riskfree rate and a higher equity risk premium. 
+§Thus, while the expected return for the average stock remains 
+at 8.64%, the expected return increasing slightly for riskier 
+stocks and decreases slightly for safer stocks, but the effects 
+are so small that investors hardly notice. 
+§If there is a lesson for analysts here, it is that the downgrade's 
+effects on the discount rates (costs of equity and capital) are 
+minimal, and that staying with the conventional approach (of 
+using the ten-year US treasury bond rate as the riskfree 
+rate and using that rate to compute the equity risk 
+premium) will continue to work.
+§The financial and economic consequences, at least so far, have 
+been inconsequential, with equity and bond markets shrugging off 
+the downgrade, perhaps because the surprise factor was minimal. 
+§The downgrade also has had only a minimal impact on costs of equity 
+and capital for US companies, and while that may change, the changes 
+will come from macroeconomic news or from crises. 
+§For the most part, analysts should be able to continue to work with the 
+US treasury rate as a riskfree rate and forward-looking equity risk 
+premiums, as they did before the downgrade. 
+§With all of that said, though, the Moody's action does carry 
+symbolic weight, another indicator that US exceptionalism, which 
+allowed the US to take actions that would have brought blowback 
+for other countries, especially in emerging markets, without much 
+pushback, is coming to an end. That is healthy, in the long term, for 
+both the United States and the rest of the world, but it will come 
+with short term pain.

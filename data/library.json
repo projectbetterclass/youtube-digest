@@ -22,6 +22,17 @@
       "url": "https://www.youtube.com/shorts/0C2qldDF8HY",
       "verdict": "skim"
     },
+    "0faNl-maR5o": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "A \"Fairly Highly Valued\" (Stock) Market: The Fed Chair Opines but should anyone listen?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/0faNl-maR5o/transcript.md",
+      "url": "https://www.youtube.com/watch?v=0faNl-maR5o",
+      "verdict": ""
+    },
     "0pTXwulvxzA": {
       "channel": "Aswath Damodaran",
       "had_materials": false,
@@ -154,6 +165,17 @@
       "url": "https://www.youtube.com/watch?v=4u8dR2Dxcdc",
       "verdict": "skim"
     },
+    "4vr65t9n_uI": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-02T15:00:08+00:00",
+      "takeaway": "\nA political scientist argues the US could realistically attempt territorial expansion into Canada, Greenland, and Venezuela—at roughly 20% probability—driven by unresolved male social isolation and domestic instability, with Trump already signaling intent through leadership talks and rhetorical groundwork.\n",
+      "title": "“Trump Might Actually Do the Unthinkable”",
+      "transcript_available": true,
+      "transcript_path": "data/archive/4vr65t9n_uI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=4vr65t9n_uI",
+      "verdict": "skim"
+    },
     "5AO6szlhG3E": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -229,6 +251,28 @@
       "transcript_available": false,
       "transcript_path": "data/archive/9SUB33ph1pw/transcript.md",
       "url": "https://www.youtube.com/watch?v=9SUB33ph1pw",
+      "verdict": "watch"
+    },
+    "9_SZFIW7tus": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": "2026-09-02T18:15:30+00:00",
+      "takeaway": "Five open-source GitHub repos can help founders and creators automate workflows: No AI Slop removes AI writing patterns, an agent-first CRM maintains relationships automatically, Video Use lets agents edit footage, SkillSpector scans skills for security issues, and Phone Harness connects agents to mobile devices.",
+      "title": "5 GitHub Repos: Kill AI Slop, Go Viral, Make Money",
+      "transcript_available": true,
+      "transcript_path": "data/archive/9_SZFIW7tus/transcript.md",
+      "url": "https://www.youtube.com/watch?v=9_SZFIW7tus",
+      "verdict": "watch"
+    },
+    "9lsnEn0tih4": {
+      "channel": "Riley Brown",
+      "had_materials": false,
+      "published": "2026-09-02T13:00:06+00:00",
+      "takeaway": "You can equip a Grok AI bot with its own email address (using AgentMail with webhooks) and a virtual credit card (via Stripe's Link) to enable autonomous email monitoring and purchasing—all set up in 5–10 minutes.",
+      "title": "I Gave GrokBot Its Own Email and Credit Card (It Actually Worked)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/9lsnEn0tih4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=9lsnEn0tih4",
       "verdict": "watch"
     },
     "AAi9QIl6gw8": {
@@ -308,6 +352,17 @@
       "url": "https://www.youtube.com/shorts/EIrH2aM9r8s",
       "verdict": "skim"
     },
+    "EZ-mpb6b-i8": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "published": "2026-09-02T18:27:26+00:00",
+      "takeaway": "A founder grew Fastlane to $69K/month by embedding a prominent in-app button offering 7 days of free access in exchange for a call, which drove 2,000 customer conversations in weeks with minimal promotional effort.",
+      "title": "$69K MRR founder put a rainbow button in his app offering 7 days of free access.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/EZ-mpb6b-i8/transcript.md",
+      "url": "https://www.youtube.com/shorts/EZ-mpb6b-i8",
+      "verdict": "skim"
+    },
     "EoNH3Tn8wYE": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -330,6 +385,17 @@
       "url": "https://www.youtube.com/shorts/FDMkO6tjTqo",
       "verdict": "skim"
     },
+    "FdlCocXHnMs": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "A Golden Year: Gold's Price Surge in 2025 - Macro Signal or Pricing Noise?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/FdlCocXHnMs/transcript.md",
+      "url": "https://www.youtube.com/watch?v=FdlCocXHnMs",
+      "verdict": ""
+    },
     "GpOzFKrnvdU": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -339,6 +405,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/GpOzFKrnvdU/transcript.md",
       "url": "https://www.youtube.com/watch?v=GpOzFKrnvdU",
+      "verdict": ""
+    },
+    "Gr_-aT279Ew": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Ratings Redux: The Moody's US Ratings Downgrade and Aftermath",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Gr_-aT279Ew/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Gr_-aT279Ew",
       "verdict": ""
     },
     "GzqQ895qO40": {
@@ -351,6 +428,17 @@
       "transcript_path": "data/archive/GzqQ895qO40/transcript.md",
       "url": "https://www.youtube.com/shorts/GzqQ895qO40",
       "verdict": "skip"
+    },
+    "I0WoAw2Wn4o": {
+      "channel": "Leila Hormozi",
+      "had_materials": false,
+      "published": "2026-09-02T13:00:05+00:00",
+      "takeaway": "Before firing or giving up on a team member, diagnose whether they're actually the wrong person or simply misplaced—wrong role, wrong season of life, or wrong reporting relationship. Strategic replacement often recovers value that coaching alone cannot.",
+      "title": "Right Person, Wrong Seat | BUILD",
+      "transcript_available": true,
+      "transcript_path": "data/archive/I0WoAw2Wn4o/transcript.md",
+      "url": "https://www.youtube.com/watch?v=I0WoAw2Wn4o",
+      "verdict": "watch"
     },
     "IzwRBWMb8JQ": {
       "channel": "The Diary Of A CEO",
@@ -427,6 +515,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/L9mMfAFwbl4/transcript.md",
       "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+      "verdict": ""
+    },
+    "LTDZCLjCa-E": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Country Risk 2025: The Story behind the Numbers!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/LTDZCLjCa-E/transcript.md",
+      "url": "https://www.youtube.com/watch?v=LTDZCLjCa-E",
       "verdict": ""
     },
     "Lf5oqGOCRCM": {
@@ -550,6 +649,17 @@
       "url": "https://www.youtube.com/shorts/OCAKN5nUGpk",
       "verdict": "skim"
     },
+    "OEQ7Bpi01cA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The Imitation Game: Defending against AI's Dark Side!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/OEQ7Bpi01cA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=OEQ7Bpi01cA",
+      "verdict": ""
+    },
     "OVC6HpNo8yM": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -572,6 +682,17 @@
       "url": "https://www.youtube.com/watch?v=OYg6BTjb90E",
       "verdict": "watch"
     },
+    "OfPOtN51MpM": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-02T15:00:22+00:00",
+      "takeaway": "\nSimple affirmations alone rarely rewire brains because they ignore both the hidden structural advantages of the person giving advice and the two core mechanisms needed for real change: implanting new thoughts into a focused mind, and separating present-moment fears from past trauma. Most of our suffering is self-generated by layering old experiences onto new situations.\n",
+      "title": "Why You Can't Just \"Rewire\" Your Brain",
+      "transcript_available": true,
+      "transcript_path": "data/archive/OfPOtN51MpM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=OfPOtN51MpM",
+      "verdict": "watch"
+    },
     "QID0UbRuIYk": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -583,6 +704,17 @@
       "url": "https://www.youtube.com/watch?v=QID0UbRuIYk",
       "verdict": ""
     },
+    "R1U3_7fmdqk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": "2026-09-02T17:15:28+00:00",
+      "takeaway": "Scaling is not always the right path for every business, yet venture capital, public equity markets, and cultural factors have systematically tilted incentives toward scaling over profitability—creating larger, riskier failures and companies whose business models may never work.",
+      "title": "The Scaling and Profitability Trade-off: Venture Capital's weakest link!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/R1U3_7fmdqk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=R1U3_7fmdqk",
+      "verdict": "watch"
+    },
     "R7McLmx73Xw": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -593,6 +725,17 @@
       "transcript_path": "data/archive/R7McLmx73Xw/transcript.md",
       "url": "https://www.youtube.com/watch?v=R7McLmx73Xw",
       "verdict": "skim"
+    },
+    "REKvZ-oY9Z4": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-09-02T14:00:13+00:00",
+      "takeaway": "Placing weight plates on your knees during wall sits doesn't effectively increase difficulty—the exercise works by pushing your feet backward into the wall via quad extension, so weight on the knees can actually reduce foot slide and paradoxically make it easier.",
+      "title": "The truth about wall sits...",
+      "transcript_available": true,
+      "transcript_path": "data/archive/REKvZ-oY9Z4/transcript.md",
+      "url": "https://www.youtube.com/shorts/REKvZ-oY9Z4",
+      "verdict": "watch"
     },
     "RFaKieqL5No": {
       "channel": "Ben Yanes",
@@ -649,6 +792,17 @@
       "url": "https://www.youtube.com/shorts/TCoecZ6PkEo",
       "verdict": "skim"
     },
+    "TUN8Y8__QGU": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "published": "2026-09-02T17:00:29+00:00",
+      "takeaway": "\nA developer's SaaS grew from $100/month to $10K/month by simplifying the product from a complicated node system to a chat interface and switching to subscriptions—proving that reducing user friction and persistence matter more than feature richness or marketing spend.\n",
+      "title": "I was stuck at $100 for 2 years until I made one change. Now my app makes $10K/month",
+      "transcript_available": true,
+      "transcript_path": "data/archive/TUN8Y8__QGU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=TUN8Y8__QGU",
+      "verdict": "watch"
+    },
     "TbOAtQU89eA": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -658,6 +812,28 @@
       "transcript_available": true,
       "transcript_path": "data/archive/TbOAtQU89eA/transcript.md",
       "url": "https://www.youtube.com/watch?v=TbOAtQU89eA",
+      "verdict": ""
+    },
+    "UiApJNxW4nQ": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-02T21:00:10+00:00",
+      "takeaway": "\nDon't spend your life chasing future milestones; recognize that waiting for the \"right time\" to live often means you never actually do, and achieving external goals won't fix internal dissatisfaction.\n",
+      "title": "Don't Fall For The Trap Of Waiting",
+      "transcript_available": true,
+      "transcript_path": "data/archive/UiApJNxW4nQ/transcript.md",
+      "url": "https://www.youtube.com/shorts/UiApJNxW4nQ",
+      "verdict": "skim"
+    },
+    "VzKuSqiwc3s": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "To Bitcoin or not to Bitcoin: The Corporate Cash Question",
+      "transcript_available": true,
+      "transcript_path": "data/archive/VzKuSqiwc3s/transcript.md",
+      "url": "https://www.youtube.com/watch?v=VzKuSqiwc3s",
       "verdict": ""
     },
     "WHtSlLF2vhQ": {
@@ -770,6 +946,17 @@
       "url": "https://www.youtube.com/shorts/YgukBZIL_Lk",
       "verdict": "skim"
     },
+    "Yji5goqrjAs": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-09-02T13:00:13+00:00",
+      "takeaway": "\nPain is a non-diagnostic signal; fixing it requires dropping the need to know 'why' and instead systematically experimenting with movement, loading, and lifestyle variables until you find what feels good. The framework matters more than any single technique.\n",
+      "title": "How To Fix Pain | Biomechanics Academy Podcast #5",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Yji5goqrjAs/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Yji5goqrjAs",
+      "verdict": "watch"
+    },
     "YkKQL7BCo8A": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -814,6 +1001,28 @@
       "url": "https://www.youtube.com/watch?v=_0XAJUI33VQ",
       "verdict": "watch"
     },
+    "bGl1rnc6ioc": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-09-02T12:51:35+00:00",
+      "takeaway": "Ben Yanes reflects on past training dogmas he once believed without questioning—wide chest presses, chest flies, upright rows, internal shoulder rotation, rounded deadlifts, and others—and urges viewers to examine whether they hold similar unexamined beliefs.",
+      "title": "I used to think this. Do you still?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/bGl1rnc6ioc/transcript.md",
+      "url": "https://www.youtube.com/shorts/bGl1rnc6ioc",
+      "verdict": "skim"
+    },
+    "bOELybHE1X8": {
+      "channel": "Vinh Giang",
+      "had_materials": false,
+      "published": "2026-09-02T13:32:06+00:00",
+      "takeaway": "Accents are not a barrier to being understood; poor articulation and pronunciation are. The video demonstrates this with a heavily muffled Australian accent example and recounts the creator's own experience seeking clarity in America.",
+      "title": "Your accent isn't the problem...",
+      "transcript_available": true,
+      "transcript_path": "data/archive/bOELybHE1X8/transcript.md",
+      "url": "https://www.youtube.com/shorts/bOELybHE1X8",
+      "verdict": "skim"
+    },
     "cZE5AOQpjw4": {
       "channel": "Starter Story",
       "had_materials": false,
@@ -834,6 +1043,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/dNEWqinHrW8/transcript.md",
       "url": "https://www.youtube.com/watch?v=dNEWqinHrW8",
+      "verdict": ""
+    },
+    "dRBc9uFgD_A": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 26: The End Game",
+      "transcript_available": true,
+      "transcript_path": "data/archive/dRBc9uFgD_A/transcript.md",
+      "url": "https://www.youtube.com/watch?v=dRBc9uFgD_A",
       "verdict": ""
     },
     "f_BmT1yaSQY": {
@@ -891,6 +1111,17 @@
       "url": "https://www.youtube.com/shorts/ggDh_I7CVZ0",
       "verdict": "skim"
     },
+    "gqi8qlUwqPs": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-09-02T20:27:02+00:00",
+      "takeaway": "Shoulder pain and poor muscle recruitment during chest flyes can be solved through individualized machine alignment and ROM adjustment based on the client's anatomy—a principle that applies across other exercises too.",
+      "title": "How This Coach Solved Shoulder Pain Using Biomechanics",
+      "transcript_available": true,
+      "transcript_path": "data/archive/gqi8qlUwqPs/transcript.md",
+      "url": "https://www.youtube.com/watch?v=gqi8qlUwqPs",
+      "verdict": "watch"
+    },
     "h8tBPhNkjN0": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -935,6 +1166,17 @@
       "url": "https://www.youtube.com/watch?v=ig2ewJ9wx2Y",
       "verdict": ""
     },
+    "ivLw_W1Pwwg": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-02T16:07:13+00:00",
+      "takeaway": "\nDoubling sales often doesn't require a better pitch—it requires removing friction in lead follow-up. Hiring someone to call leads immediately and exclusively can dramatically lift closure rates and ROI, even on a small volume of leads.\n",
+      "title": "“How Do I Double My Sales?”",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ivLw_W1Pwwg/transcript.md",
+      "url": "https://www.youtube.com/shorts/ivLw_W1Pwwg",
+      "verdict": "skim"
+    },
     "izz6uCIZVyI": {
       "channel": "Starter Story",
       "had_materials": false,
@@ -968,6 +1210,17 @@
       "url": "https://www.youtube.com/shorts/kDh66K-jyJc",
       "verdict": "skim"
     },
+    "kyZ1KjV49nE": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Alternative Investing: Promise and  Performance!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/kyZ1KjV49nE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=kyZ1KjV49nE",
+      "verdict": ""
+    },
     "lkseJAJNPOs": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -989,6 +1242,39 @@
       "transcript_path": "data/archive/mHqSBCHEZOY/transcript.md",
       "url": "https://www.youtube.com/watch?v=mHqSBCHEZOY",
       "verdict": "watch"
+    },
+    "mK6il-F0cIE": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The Greed & Fear Tango: The Markets in April 2025!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/mK6il-F0cIE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=mK6il-F0cIE",
+      "verdict": ""
+    },
+    "mU9Rb9ab2R8": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-02T17:00:38+00:00",
+      "takeaway": "Success on dating apps may not correlate with being a good spouse; in fact, the traits that make someone successful on apps (higher dark triad traits: narcissism, Machiavellianism, psychopathy) may be opposite to what makes a good partner.",
+      "title": "Why Dating App Winners Make Bad Spouses",
+      "transcript_available": true,
+      "transcript_path": "data/archive/mU9Rb9ab2R8/transcript.md",
+      "url": "https://www.youtube.com/shorts/mU9Rb9ab2R8",
+      "verdict": "skim"
+    },
+    "nNlvhJj86pw": {
+      "channel": "Felix & Friends (Goat Academy)",
+      "had_materials": false,
+      "published": "2026-09-02T13:00:06+00:00",
+      "takeaway": "\nJapan's bond crisis and global yield spike signal an imminent dollar devaluation similar to the yen's decades-long erosion; most people think they own gold but hold only paper promises that will fail when panic hits.\n",
+      "title": "The UNTHINKABLE is About to Happened to Japan & the Dollar (Gold Isn’t Ready)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/nNlvhJj86pw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=nNlvhJj86pw",
+      "verdict": "skim"
     },
     "nTWoZKj_Ug8": {
       "channel": "Felix & Friends (Goat Academy)",
@@ -1045,6 +1331,17 @@
       "url": "https://www.youtube.com/shorts/q7XCDolG_JI",
       "verdict": "skim"
     },
+    "q9b39OrDdIY": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-02T15:00:05+00:00",
+      "takeaway": "Therapy's purpose is not just catharsis; it's to process emotions clearly enough to think straight and then decide what to do about the situation.",
+      "title": "What People Get Wrong with Therapy",
+      "transcript_available": true,
+      "transcript_path": "data/archive/q9b39OrDdIY/transcript.md",
+      "url": "https://www.youtube.com/shorts/q9b39OrDdIY",
+      "verdict": "skim"
+    },
     "qHs_1kgkzKU": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -1055,6 +1352,17 @@
       "transcript_path": "data/archive/qHs_1kgkzKU/transcript.md",
       "url": "https://www.youtube.com/watch?v=qHs_1kgkzKU",
       "verdict": "skim"
+    },
+    "qKvotUBFuj4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 28: The Fat Lady is Singing!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/qKvotUBFuj4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=qKvotUBFuj4",
+      "verdict": ""
     },
     "qbQQ8o4VOsg": {
       "channel": "Ben Yanes",
@@ -1177,6 +1485,17 @@
       "url": "https://www.youtube.com/watch?v=ufG0-8sYgRQ",
       "verdict": "watch"
     },
+    "wK165GmLEiE": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-02T19:01:24+00:00",
+      "takeaway": "Rather than chase AI predictions and risks, focus on identifying and defending what won't change in your business, and ruthlessly filter content by actionability.",
+      "title": "“WILL AI KILL MY BUSINESS?”",
+      "transcript_available": true,
+      "transcript_path": "data/archive/wK165GmLEiE/transcript.md",
+      "url": "https://www.youtube.com/shorts/wK165GmLEiE",
+      "verdict": "skim"
+    },
     "wipmKevNjAk": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -1219,6 +1538,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/z0_pGihLTEo/transcript.md",
       "url": "https://www.youtube.com/shorts/z0_pGihLTEo",
+      "verdict": "skim"
+    },
+    "zI9okZtalGk": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": false,
+      "published": "2026-09-02T10:43:16+00:00",
+      "takeaway": "David Friedberg argues that while socialism may become inevitable in America due to economic inequality, AI will ultimately create abundance and opportunity rather than destroy jobs, drawing parallels to previous technological revolutions.",
+      "title": "THE NEXT LEADER WILL BE SOCIALIST!?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/zI9okZtalGk/transcript.md",
+      "url": "https://www.youtube.com/shorts/zI9okZtalGk",
       "verdict": "skim"
     }
   }

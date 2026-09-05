@@ -1,0 +1,190 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/BitcoinCash.pdf
+
+MicroStrategy:RoleModelorException?
+§There are two disparate and very different topics that I have 
+written about in the past. 
+§The first is the role thatcash holdings play in a business, an extension of 
+the dividend policy question, and the reason why businesses may and 
+often should not pay out what they have available to shareholders. 
+§The second isbitcoin, which can be viewed as either a currency or a 
+collectible, and I have said pretty much all that I have to say in series of 
+posts where I argue that bitcoin can only be priced, not valued, making 
+debates about whether to buy or not to buy entirely a function of 
+perception. 
+§While there may be little that seemingly connects the two, I was 
+drawn to write this post because of a debate that seems to be 
+heating up on whether companies should put some or a large 
+portion of their cash balances into bitcoin, with the success of 
+MicroStrategy, a high-profile beneficiary of this action, a driving 
+factor for the shift. 
+Aswath Damodaran 2
+Aswath Damodaran 3
+§In my introductory finance classes, there was little discussion of 
+cash holdings in companies, outside of the sessions on working 
+capital. In those sessions, cash was introduced as alubricant for 
+businesses, necessary for day-to-day operations. In fact, there 
+were rules of thumb that were developed on how much cash a 
+company needed to have for its operations. As the world shifts 
+away from cash to digital and online payments, this need for cash 
+has decreased, but clearly not disappeared. 
+§For some companies, at least, the rationale for holding far more 
+cash than justified by their operating needs is that it can operate as 
+ashock absorber, something that they can fall back on during 
+periods of crisis or to cover unexpected expenses. That is the 
+reason that cyclical and commodity firms have often offered for 
+holding large cash balances (as a percent of their overall firm 
+value), since a recession or a commodity price downturn can 
+quickly turn profits to losses.
+Aswath Damodaran 5
+§There is a final rationale for holding cash that is rooted in 
+corporate governance and the control and power that comes 
+from holding cash. 
+§I have long argued that absent pressure from shareholders, 
+managers at most publicly traded firms would choose to return 
+none of the cash that they generate, since that cash balance not 
+only makes them much sought after (by bankers and 
+consultants who are endlessly inventive about uses that the 
+cash can be put to) but also gives them the power to use that 
+cash to further their own interests.
+¨7
+Aswath Damodaran 8
+Aswath Damodaran 9
+§The origin story for Bitcoin matters since it helps us understand both its 
+appeal and its structure. It was born in November 2008, two months 
+into one of the worst financial crises of the last century, with banks and 
+governments viewed as largely responsible for the mess. 
+§Not surprisingly, Bitcoin was built on the presumption that you cannot 
+trust these institutions, and its biggest innovation was theblockchain, 
+designed as a way of crowd-checking transactions and preserving 
+transaction integrity. 
+§I have long described Bitcoin as a currency designed by the paranoid for 
+the paranoid, and I have never meant that as a critique, since in 
+the untrustworthy world that we live in, paranoia is a justifiable 
+posture.
+§With bitcoin, this classification allows us to cut through the many 
+distractions that pop up during discussions of its pricing level, 
+since it can be framed either as a currency or a collectible, and 
+thus only priced, not valued. 
+§Seventeen years into its existence, Bitcoin has struggled on the 
+currency front, and while there are pockets where it has gained 
+acceptance, its design had made it inefficientand its volatility has 
+impeded its adoption as a medium of exchange. 
+§As a collectible, Bitcoin starts with the advantage of scarcity, restricted 
+as it is to 21 million units, but it has not quite measured up, at least so far, 
+when it comes to holding its value (or increasing it) when financial 
+assets are in meltdown mode. In every crisis since 2008, Bitcoin has 
+behaved more like risky stock, falling far more than the average stock, 
+when stocks are down, and rising more, when they recover. 
+§The bottom line is that discussions of whether Bitcoin is cheap or 
+expensive are often pointless and sometimes frustrating, since it 
+depends almost entirely on your perspective on how the demand 
+for Bitcoin will shift over time.
+§The company’s CEO, Michael Saylor, has been a vocal and 
+highly visible promoter of Bitcoin, and has converted many of 
+his shareholders into fellow-evangelists and convinced at least 
+some of them of being prescient in detecting price movements. 
+§In fact, in recent years, he has been public in his plans to issue 
+increasing amounts of stock and using the proceeds to buy 
+more bitcoin.
+§At least at this point in time, MicroStrategy is less a software 
+company and more a Bitcoin SPAC or closed-end fund, where 
+investors are trusting Saylor to make the right trading 
+judgments on when to buy (and sell) bitcoin, and hoping to 
+benefit from the profits.
+§Bitcoin does not meet the cash motives: Replacing cash with its low 
+volatility with bitcoin, a much more volatile asset, would undercut this 
+objective. 
+§Bitcoin can step on your operating business narrative: It creates 
+confusion about why a company with a solid business narrative from which 
+it can derive value would seek to make money on a side investment. 
+Second, the ebbs and flows of bitcoin can affect financial statements, 
+making it more difficult to connect operating results to story lines.
+§Managers as traders?When companies are given the license to move 
+their cash into bitcoin or other non-operating investments, you are trusting 
+managers to get the timing right, in terms of when to buy and sell these 
+investments. 
+§Leave it to shareholders: Even if you are unconvinced by the first two 
+reasons, and you are a bitcoin advocate or enthusiast, you will be better 
+served pushing companies that you are a shareholder in, to return their 
+cash to you, to invest in bitcoin, gold or any other investment at the time of 
+your choice. 
+§License for abuse: Giving managers the permission to trade crypto 
+tokens, bitcoin or other collectibles can open the door for self dealing and 
+worse.
+§if a company has a leader (usually a CEO or CFO) who is viewed as 
+someone who is good at gauging bitcoin price direction, it is possible 
+that shareholders in the company may be willing to grant him or her 
+the license to trade bitcoin on their behalf. 
+§This is, of course, not unique to bitcoin, and you can argue that 
+investors in Berkshire Hathaway have paid a premium for its stock, and
+allowed it leeway to hold and deploy immense amounts of cash 
+because they trusted Warren Buffett to make the right investment 
+judgments.
+§Thebigquestioniswhetheryoucanseparateskill from luck, when it 
+comes to getting big moves in bitcoin right.
+§For some companies, holding bitcoin may be part and parcel of 
+their business operations, less a substitute for cash and more 
+akin to inventory.
+§PayPal and Coinbase, both of which hold large amounts of 
+bitcoin, would fall into this carveout, since both companies 
+have business that requires that holding.
+§Onetestofthismotiveiswhetherthebitcoinholdingsofthe
+companytracktheportionofthecompany’sbusinessthatis
+denominatedordrivenbybitcoin.
+§As some of you may be aware, I noted thatMercado Libre, a 
+Latin American online retail firm, is on my buy list, and it is a 
+company with a fairly substantialbitcoin holding. 
+§While part of that holding may relate to the operating needs of 
+their fintech business, it is worth noting that Mercado Libre is 
+an Argentine company, and the Argentine peso has been a 
+perilous currency to hold on to, making bitcoin a viable option 
+for cash holdings. 
+§Generalizing, companies in countries with failed 
+currencies may conclude that holding their cash in bitcoin 
+is less risky than holding it in the fiat currencies of the 
+locations they operate in.
+§There is a final grouping of companies that I would put in the 
+meme stock category, withAMC and Gamestopheading that 
+list. 
+§These companies have operating business models that have 
+broken down or have declining value, but they have become, 
+by design or through accident, trading plays, where the price 
+bears no resemblance to operating fundamentals and is instead 
+driven by mood and momentum. 
+§If that is the case, it may make sense for these companies to 
+throw in the towel on operating businesses entirely and instead 
+make themselves even more into trading vehicles by moving 
+into bitcoin, with the increased volatility adding to their 
+"meme" allure.
+1.Shareholder buy-in: If you are a publicly traded company considering 
+investing some or much of the company's cash in bitcoin, it behooves 
+you to get shareholder approval for that move, since it is shareholder 
+cash that is being deployed.
+2.Transparency about Bitcoin transactions/holdings: Once a company 
+invests in bitcoin, it is imperative that there be full and clear disclosure 
+not only on those holdings but also on trading (buying and selling) that 
+occurs. After all, if it is a company's claim that it can time its bitcoin 
+trades better than the average investor, it should reveal the prices at 
+which it bought and sold its bitcoin.
+3.Clear mark-to-market rules: If a company invests its cash in bitcoin, I 
+will assume that the value of that bitcoin will be volatile, and 
+accounting rules have toclearly specify how that bitcoin gets marked to 
+market, and where the profits and losses from that marking to market 
+will show up in the financial statements.
+§The benefits of getting companies and institutional investors to 
+buy into bitcoin is that it increases demand,andwithafixed
+supply,economicsdrivesthepriceupwards.
+§That may seem like an unmixed blessing, but there will be costs 
+that, in the long run, may lead at least some advocates to regret 
+this push:
+§Differentinvestorbase: Drawing in institutional investors and 
+companiesintothebitcoin market will not only change its 
+characteristics, butput traders who may know how to play the 
+market now at a disadvantage, as it shifts dynamics.
+§Heretoday,gone tomorrow?Bitcoin may be in vogue now, but what 
+will the consequences be if it halves in price over the next six 
+months. Institutions and companies are notoriously ”sheep like”, 
+and what is in vogue today may be abandoned tomorrow.
+§Correlationwithfinancial assets: Every investment class that has 
+been securitized and brought into institutional investing has started 
+behaving like a financial asset.

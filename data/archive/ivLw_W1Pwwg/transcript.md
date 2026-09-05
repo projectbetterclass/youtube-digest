@@ -1,0 +1,5 @@
+# “How Do I Double My Sales?”
+
+<https://www.youtube.com/shorts/ivLw_W1Pwwg>
+
+There's a roofer who came here, and he was closing 55% of his leads. Um and they were not word-of-mouth [music] leads. They were only like from manufacturer referral vendors. So, like they were a little colder. Now, [music] the thing is is he paid his aunt $60,000 a year. The only job she had was that when a lead comes in, he was only getting two or three a day, yeah, that she stop whatever she's doing and call the leads. That was the only job she had. Two to three leads a day. And he said, and he, you know, he was a little bit, yeah. Uh he was closing 50% of his leads and they were cold. Um but the but the to make the point, he was like, "If she's sleeping with her husband, she stops and she calls the lead. So, like that's the deal. She's in a movie theater with her kids, she stops and she calls the lead. That's the deal. She has no other work besides these three calls a day. I just don't know when they're coming." The difference between closing 30% and 55% is was like two million a year for him. And so, him paying 60 grand is the best deal I've ever

@@ -1,0 +1,212 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/Alternatives.pdf
+
+VC, PE and Crypto
+§It is true that most investing lessons are directed at those who invest in 
+stocks and bonds, and mostly with long-only strategies. 
+§It is also true that in the process, we are ignoring vast swaths of the 
+investment universe, fromother asset classes(real estate, collectibles, 
+cryptos) toprivate holdings(VC, PE) tostrategies that short stocks or use 
+derivatives(hedge funds). 
+§In the last two decades, alternative investments have entered the 
+mainstream, first with choices directed at institutional investors, but more 
+recently, in offerings for individual investors. 
+§Without giving too much away, the sales pitch for adding alternative 
+investments to a portfolio composed primarily of stocks and bonds is that 
+the melding will create abetter risk-return tradeoff, albeit with two 
+different rationales. 
+§The first is that they havelow correlationswith financial assets (stocks and 
+bonds), allowing for classic diversification benefits and 
+§the second is some of these alternative asset groupings (VC, PE and hedge funds, 
+in particular) have thepotential to earn excess returns or alphas. 
+Aswath Damodaran 2
+Aswath Damodaran 3
+§This general framework allows for variants, accommodating 
+different view on markets (from those who believe that markets 
+are efficient to stock pickers and market timers) as well as 
+investors with very different time horizons and risk levels, but 
+those variants revolve around
+§Themixofstocks,bondsandcashtohold
+§How to pick the individual stocks and bonds to invest in..
+§However, there are clearly large segments of investing that are 
+left out of this mix from private businesses(since they are not 
+listed and traded) to short selling (where you can have 
+negative portfolio weights not just on individual investments 
+but on entire markets) to asset classes that are not traded. 
+§In fact, the best way to structure the alternative investing 
+universe if by looking at alternative through the lens of these 
+missing pieces.
+§Many institutional investors, including most mutual, pension and 
+endowment funds, are restricted from taking short position on 
+investments, with exceptions sometimes carved out for hedging. 
+For close to a century, at least in the United States,hedge 
+fundshave been given the freedom to short traded assets.
+§Whilethey do not always use the power to short to benefit, it is 
+undeniable that having that power allows an investor to create 
+return distributions (in terms of expected returns, volatility 
+and other distributional parameters) that ae different from 
+those faced by long-only investors. Within the hedge fund 
+universe, there are diverse strategies that not only augment long-
+only strategies (value, growth) but also invest across multiple 
+markets (stocks, bonds and convertibles) and geographies.
+§The opening up ofderivatives marketshasallowed some 
+investors to create investment positions and orstructured 
+productsthat use options, futures, swaps and forwards to create 
+cash flow and return profiles that diverge from stock and bond 
+market returns.
+Aswath Damodaran 5
+§While much of our attention is spent on publicly traded stocks and 
+bonds, there is a large segment of the economy that is composed 
+of private businesses that are not listed or traded. Many of these 
+businesses are owned and funded by their owners, but a 
+significant proportion do need outside equity capital, and 
+historically, there have been two providers:
+§For young private businesses, and especially those that aspire to 
+become bigger and eventually go public, it is venture capital that fills 
+the void, covering a spectrum from ideal companies (with angel 
+financing) to growth capital (for young businesses). 
+§For more established private businesses, some of which need capital to 
+grow and some of which have owners who want to cash out, the capital 
+has come from private equity investors. 
+§On the debt front, the public debt and bank debt market is 
+supplemented by private credit, where investors pool funds to 
+lend to private businesses that need them, with negotiated rates 
+and terms
+§Real estate: For much of the twentieth century, real estate remained 
+outside the purview of public markets, with a segmented investor 
+base and illiquid investments, requiring localized knowledge. That 
+started to change with the creation of real estate investment trusts, 
+in the 1970s, and in the 1980s with the advent of mortgage-backed 
+securitiesin various forms. That said, real estate punches well 
+below its weight, in market value terms, in public markets.
+§Collectibles: The collectible asset class spans a wide array of 
+investment, most of which generate little or no cash flows, but 
+derive their pricing from scarcity and enduring demand. The first 
+and perhaps the longest standing collectible is gold, a draw for 
+investors during crises or when they lose faith in fiat currencies 
+and governments. The second is art, ranging from paintings from 
+the Middle Ages to digital art (non-fungible tokens or NFTs), that 
+presumably offers owners not just financial returns but emotional 
+dividends. At the risk of raising the ire of crypto-enthusiasts, I 
+would argue that much of the crypto space (and especially 
+bitcoin) also fall into this grouping, with a combination of scarcity 
+and trading demand determining pricing.
+¨7
+§The strongest pitch for adding alternative investments to a 
+portfolio dominated by publicly traded stocks and bonds 
+comes from a basic building block for portfolio theory, which is 
+that adding investments that have low correlation to the 
+existing holdingsin a portfolio can create better risk/return 
+tradeoffs for investors.
+§That pitch has been supplemented in the last two decades with 
+arguments that alternative investments also offer a greater 
+chance of finding market mistakes and inefficiencies, partly 
+because they can be easier to find in these markets and 
+partly because of superior management skills on the part of 
+alternative investment managers, particularly hedge funds 
+and private equity.
+Aswath Damodaran 8
+Aswath Damodaran 9
+§The correlation-based argument for adding alternative 
+investments to a portfolio is neither new nor controversial, 
+since it is built on core portfolio theory arguments for 
+diversification. 
+§For some advocates of alternative investments, though, that 
+captures only a portion of the advantage of adding alternative 
+investments. 
+§They argue that the investment classes from alternative investments 
+draw on, which include non-traded real estate, collectibles and 
+private businesses (young and old), are also the classes where 
+market mistakes are more likely to persist, and 
+§that alternative asset managers have the localized knowledge and 
+intellectual capacity to find and take advantage of these 
+mistakes. The payoff from doing so takes the form of "excess 
+returns" which will supplement the benefits that flow from just 
+diversification.
+§While alternative investing advocates will take issue with the 
+Ennis findings, on empirical and statistical bases, even long-
+term beneficiaries from alternative investing seem to have 
+become more skeptical about its benefits over time. 
+§Ina 2018 paper, Fragkiskos, Ryan and Markov noted that 
+among Ivy League endowments, properly adjusting for risk 
+causes any benefitsin terms of Sharpe ratios, from adding 
+alternative investments to the mix, to disappear. 
+§In perhaps the most telling sign that the bloom is off the 
+alternative investing rose, Y ale's endowmentannounced its 
+intent to sell of billions of dollars of private equity holdings in 
+June 2025,after years of under performance on its holdings in 
+that investment class.
+§Pricing lags; Unlike publicly traded equities and bonds, where 
+there is an observable market price from current transactions, 
+most private assets are not liquidand the pricing is based upon 
+appraisals. In theory, these appraisers are supposed to mark-
+to-market, but in practice, the pricing that they attach to private 
+assets lag market changes. 
+§Market crises: While correlations between investment classes 
+are often based upon long periods, and across up and down 
+markets, the truth is that investors care most about risk (and 
+correlations) during crises, and many investment classes that 
+exhibit low correlation during sideways or stable markets can 
+have lose that feature and move in lock step with public 
+markets during crisis.
+§Even the strongest advocates for alternative investments accept 
+that they are less liquid than public market investments but 
+argue that for investors with long time horizons and clearly defined 
+cash flow needs thatilliquidity should not be a deal breaker. 
+§The problem with this argument is that much as investors like to believe 
+that they control their time horizons and cash needs, they do not and 
+find their need for liquidity rising during acute market crises or 
+panics. 
+§The other problem with illiquidity is that it manifests in transactions 
+costs, manifesting both in terms of bid-ask spreads and in price impact 
+that drains from returns.
+§The other aspect of the private investment market that is 
+mentioned but then glossed over is that they tend to be opaque in 
+terms of governance structure and reporting.Again, that 
+absence of transparency may be ignored in good times but could 
+make bad times worse.
+§When alternative investing first became accessible to institutional 
+investors, the presumption was that market-beating 
+opportunities abounded in private markets, and that hedge 
+fund, private equity and venture capital managers brought 
+superior abilities to the investment game. 
+§That may have been true then, but that perception has faded for 
+many reasons. 
+§First, as the number of funds and money under management in these 
+investment vehicles has increased, the capacity to make easy money 
+has also faded, and in my view, the average venture capital, private 
+equity or hedge fund manager is now no better or worse than the 
+average mutual fund manager. 
+§Second, the investment game has also become more difficult to win, 
+as the investment world has become flatter, with many of the advantages 
+that fund managers used to extract excess returns dissipating over time. 
+§Third, the entry of passive investment vehicles like exchange traded 
+funds (ETFS) that can spot and replicate active investors who are 
+beating the market has meant that excess returns, even if present, do 
+not last for long.
+§Most alternative investments have a management fee, set as a 
+percent of assets under management, and a performance fee, 
+where they get an additionalfee,foroutperforminga
+benchmark.
+§Theclassic2 & 20 fee entitles thehedgefundor PE investor to 
+collect 2% of funds under management every year, and 20% of 
+returns overthebenchmark. Both have been trending down:
+§Be picky about alternatives: Given that the alpha pitch has lost its heft, it is 
+correlations that should guide investor choices on alternative investments. That 
+will reduce the attractiveness of private equity and hedge funds, as investment 
+vehicles, and increase the draw of some hedge funds, gold and many 
+collectibles. 
+§Avoid high-cost and exotic vehicles: Investing is a tough enough game to win, 
+without costs, and adding high-cost vehicles makes it even more difficult. On a 
+related noted, alternative investments that are based upon strategies that are so 
+complex that neither the seller nor buyer has an intuitive sense of what exactly 
+they are trying to do should be avoided.
+§Be realistic about time horizon and liquidity needs: On this front, individual 
+investors need to be honest with themselves about how susceptible they are to 
+panic attacks and peer-group pressure, and institutional investors have to
+recognize that their time horizon is determined by their clients, and not by their 
+own preferences.
+§Be wary of correlation matrices and historical alphas: If there is one 
+takeaway from this post, I hope that it is that historical correlations, especially 
+when you have non-traded investments at play, are untrustworthy and that 
+alphas fade over time, and more so when the vehicles that delivered them are 
+sold relentlessly.
