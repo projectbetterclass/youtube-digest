@@ -1,0 +1,5 @@
+# You Can Tell In The First Week If They're A Leader
+
+<https://www.youtube.com/shorts/6gwd_gctnp4>
+
+I've never had somebody that I was like, oh, I'm unsure about them, and then they end up working out. It's always like I end up firing them 6 months later or a year later, or whatever it is. Anybody that's been a great leader, it's like in the first week, I'm like, oh, this feels good. >> Just use a hypothetical extreme. If I come into your company, right? And let's say I'm not Alex Hormozi, I'm just generic dude, but I have the same skills. And you put me in charge of the sales team, and the sales team's used to going to you. The first day, I'll be like, here's how things are going to go from here on out. You will talk to me. I will be source of truth because I will help you make more money than you've ever made before. You also work harder than you've ever worked before, but you become better than you've ever been. Any questions? Great. Like, you don't talk to him anymore. I will I will help you do everything you want to have happen in life. That guy is a leader. He's going to come in, and he's going to take charge.

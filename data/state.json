@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-05T10:34:31.967659+00:00",
+  "last_run": "2026-09-06T10:29:57.922472+00:00",
   "processed": {
     "0faNl-maR5o": {
       "channel": "Aswath Damodaran",
@@ -39,6 +39,14 @@
       "processed_at": "2026-09-03T19:08:17.013871+00:00",
       "published": "2026-08-31T15:00:10+00:00",
       "title": "Where Does Suffering Come From?",
+      "transcript_available": true
+    },
+    "2d4u80LmRQ8": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:26:42.581256+00:00",
+      "published": "2026-09-03T15:00:38+00:00",
+      "title": "Why Working Harder Won\u2019t Make You Rich - Codie Sanchez",
       "transcript_available": true
     },
     "3X6rah8r4Do": {
@@ -121,6 +129,30 @@
       "title": "Data Update 4 for 2026: A Tumultuous Year (2025) for Global Markets!",
       "transcript_available": true
     },
+    "6gwd_gctnp4": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:29:57.922472+00:00",
+      "published": "2026-09-04T07:01:34+00:00",
+      "title": "You Can Tell In The First Week If They're A Leader",
+      "transcript_available": true
+    },
+    "7-3kySR5bA4": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:28:53.565105+00:00",
+      "published": "2026-09-03T22:00:39+00:00",
+      "title": "This is Why You Cant Stay Motivated",
+      "transcript_available": true
+    },
+    "7IHreZHXE98": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-06T10:36:25.561673+00:00",
+      "published": null,
+      "title": "Buy the Dip? The Allure and Dangers of Contrarian Investing",
+      "transcript_available": true
+    },
     "8ZC1G1ezN5o": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -161,6 +193,22 @@
       "title": "AI's Bar Mitzvah Moment? From Hype & Hope to Business Questions!",
       "transcript_available": true
     },
+    "Ah8iX7Oh2CY": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:27:20.141035+00:00",
+      "published": "2026-09-03T17:00:00+00:00",
+      "title": "Why Poverty Rewires Who You Want To Date",
+      "transcript_available": true
+    },
+    "B2f-iIevZzI": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:26:19.653727+00:00",
+      "published": "2026-09-03T15:00:01+00:00",
+      "title": "The Scary Mistake That Most Therapists Make",
+      "transcript_available": true
+    },
     "BA_fC95p43c": {
       "channel": "Starter Story",
       "had_materials": false,
@@ -175,6 +223,22 @@
       "processed_at": "2026-09-04T18:55:15.881528+00:00",
       "published": null,
       "title": "Data Update 2 for 2026: A Test for US Equities",
+      "transcript_available": true
+    },
+    "CERMihGaLlA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-06T10:30:20.998083+00:00",
+      "published": null,
+      "title": "Session 25: Valuation - The Final Frontier!",
+      "transcript_available": true
+    },
+    "CUB3BasbrJA": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:29:08.732713+00:00",
+      "published": "2026-09-04T00:02:52+00:00",
+      "title": "Take 5 Minutes Before Every Meeting (and Win Immediately)",
       "transcript_available": true
     },
     "DnzuNesLBt0": {
@@ -193,6 +257,14 @@
       "title": "Your Phone is Killing Your Love Life",
       "transcript_available": true
     },
+    "ETy8XX5I-U8": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:27:52.887176+00:00",
+      "published": "2026-09-03T19:00:32+00:00",
+      "title": "YOUR PHONE IS RUINING YOUR SLEEP",
+      "transcript_available": true
+    },
     "EZ-mpb6b-i8": {
       "channel": "Starter Story",
       "had_materials": false,
@@ -207,6 +279,14 @@
       "processed_at": "2026-09-05T10:34:49.901728+00:00",
       "published": null,
       "title": "A Golden Year: Gold's Price Surge in 2025 - Macro Signal or Pricing Noise?",
+      "transcript_available": true
+    },
+    "FjlewLCLsmM": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:28:08.498873+00:00",
+      "published": "2026-09-03T19:01:59+00:00",
+      "title": "\u201cWhy Can\u2019t I Find Good Leaders?\u201d",
       "transcript_available": true
     },
     "GpOzFKrnvdU": {
@@ -233,12 +313,28 @@
       "title": "Past Lives Are Real and There Will Never Be Proof",
       "transcript_available": true
     },
+    "HwmBqsMySTg": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-06T10:36:11.314612+00:00",
+      "published": null,
+      "title": "Session 22: Dividend Trade offs",
+      "transcript_available": true
+    },
     "I0WoAw2Wn4o": {
       "channel": "Leila Hormozi",
       "had_materials": false,
       "processed_at": "2026-09-05T10:28:44.226648+00:00",
       "published": "2026-09-02T13:00:05+00:00",
       "title": "Right Person, Wrong Seat | BUILD",
+      "transcript_available": true
+    },
+    "IzZ-P26eyFQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-06T10:42:28.229014+00:00",
+      "published": null,
+      "title": "The Anatomy of a Crisis: Tariff Talk and Market Reaction!",
       "transcript_available": true
     },
     "IzwRBWMb8JQ": {
@@ -289,6 +385,22 @@
       "title": "Never do this with your body language! \ud83e\udd2f",
       "transcript_available": true
     },
+    "Ka_oFIhWmwo": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-06T10:36:46.083115+00:00",
+      "published": null,
+      "title": "Session 21: Dividends and Cash Return - First Steps",
+      "transcript_available": false
+    },
+    "Kk7BEn3Y4XY": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-06T10:36:58.064257+00:00",
+      "published": null,
+      "title": "Session 20: Debt Design",
+      "transcript_available": true
+    },
     "L9mMfAFwbl4": {
       "channel": "Two Minute Papers",
       "had_materials": false,
@@ -311,6 +423,14 @@
       "processed_at": "2026-08-28T07:05:09.093802+00:00",
       "published": "2026-08-25T13:35:02+00:00",
       "title": "The Super Investors Are Buying BIG.",
+      "transcript_available": true
+    },
+    "MGxcosNuC8k": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": true,
+      "processed_at": "2026-09-06T10:25:35.676896+00:00",
+      "published": "2026-09-03T07:00:05+00:00",
+      "title": "Andrew Huberman: My Exact Routine To Optimize Brain & Body, I Do All Of These Every Day!",
       "transcript_available": true
     },
     "MnmMyuMnfOY": {
@@ -393,6 +513,22 @@
       "title": "Why You Can't Just \"Rewire\" Your Brain",
       "transcript_available": true
     },
+    "PURtGKUA0ms": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:25:50.724292+00:00",
+      "published": "2026-09-03T10:02:21+00:00",
+      "title": "Spend 100% of Your Check and You'll Miss Every Big Opportunity",
+      "transcript_available": true
+    },
+    "Q-fNarRKs8s": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:29:41.742984+00:00",
+      "published": "2026-09-04T05:01:04+00:00",
+      "title": "The Best Talent Is Always in the Future",
+      "transcript_available": true
+    },
     "QID0UbRuIYk": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -425,6 +561,14 @@
       "title": "Don't Do THIS On Leg Extensions...",
       "transcript_available": true
     },
+    "RNyx2zZiObE": {
+      "channel": "David Carbutt",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:27:05.708496+00:00",
+      "published": "2026-09-03T15:35:52+00:00",
+      "title": "Wall Street Makes The Biggest Bet in American History",
+      "transcript_available": true
+    },
     "SRpJEkzJpKs": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -447,6 +591,14 @@
       "processed_at": "2026-09-04T18:53:07.896923+00:00",
       "published": null,
       "title": "AI Disruption: Doomsday Scenario or Fizzle?",
+      "transcript_available": true
+    },
+    "UHqZQ7MavrY": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:27:36.031148+00:00",
+      "published": "2026-09-03T18:57:05+00:00",
+      "title": "Bro's TikTok ad made $15,000 on 5M views with simple app demos.",
       "transcript_available": true
     },
     "UiApJNxW4nQ": {
@@ -487,6 +639,14 @@
       "processed_at": "2026-09-03T19:11:16.015577+00:00",
       "published": null,
       "title": "To Trillion(s) and Beyond: The SpaceX IPO Odyssey",
+      "transcript_available": true
+    },
+    "XDDAUfVqP1g": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:24:17.190801+00:00",
+      "published": "2026-09-02T22:00:30+00:00",
+      "title": "The Mindset That Keeps You a Victim",
       "transcript_available": true
     },
     "XfX2y3o1IZY": {
@@ -561,6 +721,14 @@
       "title": "Your accent isn't the problem...",
       "transcript_available": true
     },
+    "bm1zE4wCQvI": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-06T10:30:44.727646+00:00",
+      "published": null,
+      "title": "Session 24: Closure on Dividends and First Steps on Valuation",
+      "transcript_available": true
+    },
     "cZE5AOQpjw4": {
       "channel": "Starter Story",
       "had_materials": false,
@@ -584,6 +752,14 @@
       "published": null,
       "title": "Session 26: The End Game",
       "transcript_available": true
+    },
+    "fTZL5l_C3nQ": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:24:46.019095+00:00",
+      "published": "2026-09-03T01:00:21+00:00",
+      "title": "Why Rivals Protect Each Other In Prison",
+      "transcript_available": false
     },
     "f_BmT1yaSQY": {
       "channel": "Ticker Symbol: YOU",
@@ -673,6 +849,22 @@
       "title": "This founder turned a Tinder-style swipe into a $70K/month SaaS.",
       "transcript_available": true
     },
+    "juhEybZYE2M": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-06T10:35:59.067161+00:00",
+      "published": null,
+      "title": "Session 23: Assessing Dividend (and Cash Return) Policy",
+      "transcript_available": true
+    },
+    "jv-mk7lpIdg": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-06T10:37:12.089286+00:00",
+      "published": null,
+      "title": "Session 19: The APV and Peer Group Approaches to Financing Mix",
+      "transcript_available": true
+    },
     "kCY86gxv-h0": {
       "channel": "Tom Nash",
       "had_materials": false,
@@ -697,6 +889,14 @@
       "title": "Alternative Investing: Promise and  Performance!",
       "transcript_available": true
     },
+    "lpKjqV_W1-w": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:26:04.170015+00:00",
+      "published": "2026-09-03T13:05:28+00:00",
+      "title": "The most important lat activation technique",
+      "transcript_available": true
+    },
     "mK6il-F0cIE": {
       "channel": "Aswath Damodaran",
       "had_materials": false,
@@ -711,6 +911,14 @@
       "processed_at": "2026-09-05T10:32:31.489971+00:00",
       "published": "2026-09-02T17:00:38+00:00",
       "title": "Why Dating App Winners Make Bad Spouses",
+      "transcript_available": true
+    },
+    "mk5mgbX7UvY": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:24:00.468905+00:00",
+      "published": "2026-09-02T21:45:25+00:00",
+      "title": "ARE STUDENT LOANS A MASSIVE SCAM?",
       "transcript_available": true
     },
     "nNlvhJj86pw": {
@@ -753,6 +961,14 @@
       "title": "You\u2019d Be Surprised How People Perceive You... \ud83d\udc4f",
       "transcript_available": true
     },
+    "q3zrIPuy0tM": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:29:26.361481+00:00",
+      "published": "2026-09-04T01:00:16+00:00",
+      "title": "Why Americans Now Bet More Than They Read",
+      "transcript_available": true
+    },
     "q7XCDolG_JI": {
       "channel": "Leila Hormozi",
       "had_materials": false,
@@ -793,6 +1009,14 @@
       "title": "Data Update 5 for 2026: Risk and Hurdle Rates - The 2026 Edition!",
       "transcript_available": true
     },
+    "rkAF9xi7m3U": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:28:37.488719+00:00",
+      "published": "2026-09-03T21:00:09+00:00",
+      "title": "What To Do When You\u2019re Poor",
+      "transcript_available": true
+    },
     "rvPn-mIMzJU": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -825,6 +1049,14 @@
       "title": "The Scary Side of Schizoprenia",
       "transcript_available": true
     },
+    "uK3agwRdhmQ": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "processed_at": "2026-09-06T10:28:20.949512+00:00",
+      "published": "2026-09-03T19:32:41+00:00",
+      "title": "Only advanced lifters know....",
+      "transcript_available": true
+    },
     "ufG0-8sYgRQ": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -855,6 +1087,14 @@
       "processed_at": "2026-09-03T19:05:29.661550+00:00",
       "published": "2026-08-30T18:11:09+00:00",
       "title": "How to ACTUALLY make small talk! \ud83d\udc40",
+      "transcript_available": true
+    },
+    "zDbBR8-myEQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-06T10:42:40.517239+00:00",
+      "published": null,
+      "title": "Session 18: Finishing up with Cost of Capital Optimization",
       "transcript_available": true
     },
     "zI9okZtalGk": {

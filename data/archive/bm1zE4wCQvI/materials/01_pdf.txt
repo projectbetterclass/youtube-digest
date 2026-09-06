@@ -1,0 +1,64 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session24test.pdf
+
+Session	  24:	  Post	  Class	  tests	  
+1. Rutherford	  Inc.	  is	  a	  publicly	  traded	  company	  that	  reported	  net	  income	  of	  $100	  
+million	  in	  the	  most	  recent	  year,	  after	  depreciation	  of	  $	  50	  million.	  The	  firm	  
+reported	  capital	  expenditures	  of	  $75	  million	  and	  an	  increase	  in	  working	  capital	  
+of	  $20	  million.	  If	  total	  debt	  at	  Rutherford	  increased	  by	  $15	  million	  during	  the	  
+course	  of	  the	  year,	  how	  much	  could	  Rutherford	  have	  afforded	  to	  pay	  out	  in	  
+dividends	  during	  the	  course	  of	  the	  year?	  
+a. $5	  million	  
+b. $20	  million	  
+c. $30	  million	  
+d. $55	  million	  
+e. $70	  million	  
+2. In	  the	  last	  example,	  what	  would	  your	  answer	  be	  if	  working	  capital	  decreased	  by	  
+$20	  million	  and	  total	  debt	  decreased	  by	  $15	  million?	  
+a. $20	  million	  
+b. $30	  million	  
+c. $60	  million	  
+d. $80	  million	  
+e. $95	  million	  
+3. Alibaba	  Inc.	  is	  an	  all	  equity-­‐funded	  company	  that	  generated	  $80	  million	  in	  net	  
+income	  during	  the	  course	  of	  the	  most	  recent	  year.	  The	  firm	  had	  capital	  
+expenditures	  of	  $60	  million,	  depreciation	  of	  $30	  million	  and	  no	  working	  capital	  
+investments.	  If	  the	  cash	  balance	  at	  the	  company	  increased	  by	  $15	  million	  during	  
+the	  course	  of	  the	  year,	  how	  much	  cash	  did	  the	  company	  return	  to	  its	  
+stockholders?	  
+a. $5	  million	  
+b. $20	  million	  
+c. $35	  million	  
+d. $65	  million	  
+e. $	  95	  million	  
+f. None	  of	  the	  above	  
+4. Kenna	  Software	  is	  a	  growing	  technology	  company	  that	  has	  just	  become	  
+profitable,	  reporting	  $15	  million	  in	  the	  net	  income	  for	  the	  most	  recent	  year.	  An	  
+institutional	  investor	  is	  pushing	  the	  company	  to	  pay	  a	  dividend,	  since	  it	  is	  now	  a	  
+money	  making	  company.	  Would	  you	  agree?	  
+a. Yes	  
+b. No	  
+c. It	  depends	  (specify	  on	  what)	  
+5. Klarman	  Inc.	  reported	  $150	  million	  as	  net	  income	  on	  revenues	  of	  $1	  billion	  in	  
+the	  most	  recent	  year;	  capital	  expenditures	  were	  $100	  million,	  depreciation	  was	  
+$60	  million	  and	  non-­‐cash	  working	  capital	  was	  $80	  million.	  Its	  revenues,	  earnings,	  
+capital	  expenditures	  and	  depreciation	  are	  expected	  to	  grow	  10%	  next	  year,	  
+while	  non-­‐cash	  working	  capital	  will	  remain	  at	  the	  same	  percent	  of	  revenues	  that	  
+it	  was	  in	  the	  most	  recent	  year.	  If	  Klarman	  pays	  out	  60%	  of	  its	  earnings	  as
+dividends	  and	  currently	  has	  a	  cash	  balance	  of	  $200	  million,	  what	  will	  its	  cash	  
+balance	  be	  at	  the	  end	  of	  next	  year?	  
+a. $188	  million	  
+b. $214	  million	  
+c. $242	  million	  
+d. $260	  million	  
+e. None	  of	  the	  above	  
+6. You	  are	  an	  activist	  investor	  looking	  to	  put	  pressure	  on	  companies	  that	  have	  
+accumulated	  too	  much	  cash	  to	  return	  cash	  to	  stockholders.	  Which	  of	  the	  
+following	  companies	  would	  you	  put	  the	  most	  pressure	  on	  to	  return	  cash?	  (You	  
+can	  assume	  that	  they	  all	  have	  a	  cost	  of	  capital	  of	  10%	  and	  an	  optimal	  debt	  ratio	  
+of	  40%)	  
+a. Company	  A:	  ROC	  =	  25%,	  Actual	  debt	  ratio	  =	  40%	  
+b. Company	  B:	  ROC	  =25%,	  Actual	  debt	  ratio	  =	  60%	  
+c. Company	  C:	  ROC	  =	  25%,	  Actual	  debt	  ratio	  =	  10%	  
+d. Company	  D:	  ROC	  =	  5%,	  Actual	  debt	  ratio	  =	  40%	  
+e. Company	  E:	  ROC	  =5%,	  Actual	  debt	  ratio	  =	  60%	  
+f. Company	  F:	  ROC	  =	  5%,	  Actual	  debt	  ratio	  =	  10%

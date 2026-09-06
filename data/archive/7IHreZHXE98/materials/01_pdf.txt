@@ -1,0 +1,220 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/Contrarian.pdf
+
+What goes down always goes up, right?
+§Whenmarkets are in free fall, there is a great deal of advice that is 
+meted out to investors, and one is tojust buy the dip, i.e., buy the 
+stocks that have been beaten down the most, in the hope that they 
+will recover, or the entire market, if it is down. 
+§"Buying the dip" falls into a broad group of investment strategies 
+that can be classified as "contrarian", where investors act in 
+contrast to what the rest of the market is doing at the time, buying 
+(selling) when the vast majority are selling (buying) , and it has 
+been around through all of market history. 
+§Contrarian investing can take different forms, each based on 
+different assumptions about market behavior, and present the 
+evidence that we have on the success and failure of each one. 
+§Even if you are swayed intellectually by the arguments for going 
+against the crowd, it may not work for you, if you are not 
+psychologically attuned to the stresses that contrarian 
+strategies bring with them.
+Aswath Damodaran 2
+§All contrarian investing is built around a common theme of 
+buying an investment, when its price goes down significantly, 
+but there are wide variations in how it is practiced. 
+§In the first,knee-jerk contrarianism, you use a bludgeon, buying 
+either individual companies or the entire market when they are 
+down, on the expectation that you will benefit from an inevitable 
+recovery in prices. 
+§In the second,technical contrarianism, you buy beaten-up stocks 
+or the entire market, but only if charting or technical indicator 
+support the decision. 
+§In the third,constrained contrarianism, you buy the stocks that 
+are down, but only if they pass your screens for qualify and safety. 
+§In the fourth,opportunistic contrarianism, you use a price 
+markdown as an opportunity to buy companies that you have always 
+wanted to hold, buthad not been able to buy because they were 
+priced too high.
+§The simplest and most direct version of contrarian investing is 
+to buy any traded asset where the price is down 
+substantially from its highs, with the asset sometimes being 
+an individual company, sometimes a sector and sometimes the 
+entire market. 
+§Implicit in this strategy is the belief that what goes down will 
+almost always go back up, and that buying at the beaten 
+down price and being willing to wait will therefore pay off.
+§The evidence to back up this strategy comes from studies of 
+overall market returns, much of it based upon historical data in 
+the US going back a long time, as well as studies of returns to 
+buying ”loser” stocks.
+Aswath Damodaran 4
+Aswath Damodaran 5
+§The first is that there isselection bias,where using historical 
+data from the United States, one of the most successful equity 
+markets of the last century, to draw general conclusions about 
+the risk and returns of investing in equities will lead you to 
+under estimaterisk and overestimate returns. 
+§The second is that, even with US equities, an investor who 
+bought stocks just before a major downturnwould have to 
+wait a long time before being made whole again.Thus, 
+investors who put their money in stocks in 1929, just ahead of 
+the Great Depression, would not have recovered until 1954.
+¨7
+Aswath Damodaran 8
+§Setting aside the mixed evidence for the moment, the biggest 
+danger in knee-jerk contrarian investing at the market level is 
+that buying the dip in the market is akin to catching a falling 
+knife, since that initial market drop can be a prelude to a much 
+larger sell off, and to the extent that there was an economic or 
+fundamental reason for the sell off (a banking crisis, a severe 
+recession), there will be no quick or even long term recovery. 
+§With individual stocks, that danger gets multiplied, with 
+investors buying stocks that are being sold off to for 
+legitimate reasons (a broken business model, dysfunctional 
+management, financial distress) and waiting for a market 
+correction that never comes. 
+Aswath Damodaran 9
+§In technical contrarianism, you start with the same basis as 
+knee-jerk contrarianism, by looking at stocks and markets that 
+have dropped significantly, but withan added requirement 
+that the price has tomeet a charting or technical indicator 
+constraint before becoming a buy. 
+§While there are many who consign technical analysis to voodoo 
+investing, I believe that charting patterns and technical 
+indicators can provide signals of shifts in mood and 
+momentum that drive price movements, at least in the near 
+term. 
+§Thus, you can view technical contrarianism as buying stocks or 
+markets when they are down, but only if the charts and 
+technical indicators point to a shift in market mood.
+§One of the problems with testing technical contrarianism, to see if 
+it works, is that even among technical analysts, there seems to be 
+no consensus as to the best indicator to us, but broadly 
+speaking, these indicators can be based on either price and/or 
+volume movements. 
+§They range in sophistication from simple measures like relative 
+strength (where you look at percentage price changes over a 
+period) and moving averages to complex ones that combine price 
+and volume. 
+§In recent decades, investors have added pricing in newer 
+markets to the mix, with the VIX (a traded volatility index) as well 
+as the relative pricing of puts and calls in the options market also 
+being used in market timing. 
+§In sum, all ofthese indicators are directed at measuring fear in the 
+market, with a "market capitulation" viewed as a sign that the 
+market has bottomed out.
+§Itis quite ironic that some of the best defenses of technical analysis 
+have been offered by academics.Lo, Wang, and Mamayskypresent 
+a fairly convincingdefense of technical analysis from the 
+perspective of financial economists 
+§They use daily returns of stocks on the New Y ork Stock Exchange and 
+NASDAQ from 1962 and 1996 and employ the most sophisticated 
+computational techniques(rather than human visualization) to look 
+for pricing patterns. 
+§They find that the most common patterns in stocks are double tops and 
+bottoms, followed by the widely used head and shoulders pattern. In 
+other words, they find evidence that some of the most common 
+patterns used by technical analysts exist in prices. 
+§Lest this be cause for too much celebration among chartists, they 
+also point out that these patterns offer only marginal 
+incremental returns (an academic code word for really small) 
+and offer the caveat that these returns may not survive transaction 
+costs.
+§If you are in the old-time value investing camp, your approach 
+to contrarian investing will reflect that worldview, where you 
+will buy stocks that have dropped in value, but only if they 
+meet the other criteria that you have for good companies. 
+§In short, you will start with a list of beaten-up stocks, and then 
+screen them for high profitability , strong moats and low 
+risk, hoping to separate companies that are cheap from those 
+that deserve to be cheap.
+§As a constrained contrarian, you arehoping to avoid value 
+traps, every value investor's nightmare , where a company 
+looks cheap on a pricing basis (low PE, low price to book) and 
+proceeds to become even cheaper as you hold it.
+§The evidence on whether screening helps avoid value traps 
+comes largely from studies of the interplay between proxies 
+of value (such as lowprice to book ratios) and proxies for 
+quality , including measures for both operating/capital 
+efficiency (margins and returns on capital) and low risk (low 
+debt ratios and volatility). 
+§Proponents of quality screens note that while value proxies 
+alone no longer seem to deliver excess returns, incorporating 
+quality screens seems to preserve these excess returns.
+§While much of the research on quality has been built around 
+value and small cap investing, the findings can be extrapolated 
+to contrarian investing, with the lesson being that rather than 
+buy the biggest losers, you should be buying the losers that 
+pass screening tests for highprofitability (high returns on 
+equity or capital) and low risk (low debt ratios and 
+volatility)
+§I again returned to the universe of about 6000 publicly traded 
+US stocks on April 18, 2025, and after removing any firms with 
+market capitalizations less than $100 million (with the rationale 
+that these companies will have more liquidity risk and 
+transactions costs), I screened first for stocks that have lost 
+more than 20% of their market capitalization between March 28 
+and April 18, and then added three value screens:
+a)a PE ratio less than 15, putting the stock in the bottom 
+quintile of US stocks as of December 31, 2024
+b)a dividend yield that exceeded 1%, a paltry number by 
+historical norms, but ensuring that the company was 
+dividend-paying in 2024, a year in which 60% of US stocks 
+paid no dividends
+c)a net debt/EBITDA ratio of less than two, dropping it into 
+the bottom quintile of US companies in terms of debt load
+§In a fourth variant of contrarian investing, you use a market 
+meltdown as an opportunity to buy companies that youhave 
+always wanted to own but could not because they were 
+overpriced before the price dropbut look under priced 
+after. 
+§The best place to start an assessment of opportunistic investing 
+is with my post on why good companies are not always good 
+investments, with the first being determined by all ofthe 
+considerations that go into separating great businesses from 
+badbusinesses, including growth and profitability, and the 
+second by the price you have topay to buy them.
+§At the time that you first value them, you are likely to find 
+them to be over valued, which will undoubtedly be frustration.  
+Yo u  may  be  t e mp t e d  t o  p l ay  wi t h  t h e  nu mbe r s  t o  ma ke  t h e s e  
+companies look undervalued, but a better path is to put 
+them on your list of companies you would like to own, and
+leave them there. 
+§During a market crisis, and especially when investors are 
+marking down the prices of everything, without discriminating 
+between good and bad companies, you should revisit that list, 
+with a caveat that you cannot compare the post-correction 
+price to your original valuation of your company. 
+§Instead, you will have to revalue the company , with 
+adjustments to expected cash flows and risk premiums, 
+given the crisis, and if that value exceeds the price, you 
+should buy the stock.
+§The Mindset: Investing against the market will not come easily 
+to those who are easily swayed by peer pressure, since they 
+will have to buy, just as other investors (the peer group) will be 
+selling, and often in companies that the market has turned 
+against. 
+§The Time Horizon: To be a contrarian, you don't always need a 
+long timehorizon, since correlations can sometimes happen 
+quickly, but you have tobe willing to wait for a long period, if 
+that is what is necessary for the correction. 
+§The Stomach: Even if your buy decision is based on the best 
+thought-through contrarian investing strategies, it is likely that 
+in the aftermath of that decision, momentum will continue to 
+push prices down, testing your faith. Without a strong stomach, 
+you will capitulate, and while your decision may have been 
+right in the long term, your investment will not reflect that 
+success.
+§I have the luxury of a long timehorizon and the luck of a 
+strong stomach, for market surprises. 
+§I am not easily swayed by peer pressure, but I am not 
+immune from it either. I know that buying stocks in the face of 
+market selling will not come easily to me, and that is the reason 
+that I initiated limit buys on three companies that I have wanted 
+to have in my portfolio, BYD, the Chinese electric car maker, 
+Mercado Libre, the Latin American online retail/fintech firm, 
+and Palantir, a company that I believe is closest to delivering 
+on thee promise of AI products and services. 
+§The limit buy kicked in on BYDon April 7, when it briefly 
+dipped below $80, my limit price, and while Palantir and 
+Mercado Libre have a way to go before they hit my price limits, 
+the crisis is youngand the order is good until canceled.

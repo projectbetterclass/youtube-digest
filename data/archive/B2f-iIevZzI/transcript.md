@@ -1,0 +1,5 @@
+# The Scary Mistake That Most Therapists Make
+
+<https://www.youtube.com/shorts/B2f-iIevZzI>
+
+I think it's like super scary, but I have had so many patients who have people in their life who are in therapy for years, and it appears that from my lens of working with my patient that their therapist is missing this person's personality disorder. And it's shocking like I would say the most common example of this is I will be working with someone who is dating someone who has borderline personality disorder. And that person is in therapy, but the therapist seems to think that they have severe anxiety. Bipolar disorder is a very common misdiagnosis of borderline personality disorder. And so it seems like they just are working with them for years and like nothing is getting better. Now, is that actually what's going on? Like I don't know because the problem with that is my patient is in a relationship with someone with BPD, they have a therapist, and I'm like, "Oh my god, the therapist is misdiagnosing them." But maybe it's my patient who is narcissistic or borderline or whatever and represents this other person in a bad light.

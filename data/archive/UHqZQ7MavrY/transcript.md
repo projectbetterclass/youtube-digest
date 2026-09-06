@@ -1,0 +1,5 @@
+# Bro's TikTok ad made $15,000 on 5M views with simple app demos.
+
+<https://www.youtube.com/shorts/UHqZQ7MavrY>
+
+you just break down a couple of Tik Tok ads that are working for you. >> For example, that's just one of our best videos we had. It's pretty simple. We are just mainly showing the app itself, how our user is using the app. This ad alone generated us over $15,000 in revenue and got close to 5 million views. >> If you're all you're doing is running ads, are you actually profitable and how profitable is this? >> Yeah, sure. I recently did a tweet about this and I made an April >> [music] >> $43,700 and we have a total profit margin of around 25% after all of our costs. So, the majority of the cost is the ad spend, around $20,000 in ad spend and the [music] Apple fees, around 15% and made a total profit of around 11 and 1/2 thousand dollars. >> I think actually these numbers are pretty standard, especially for people that are running paid ads. The benefit of paid ads is you don't spend a whole lot of time on it.
