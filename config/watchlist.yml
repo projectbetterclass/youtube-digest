@@ -22,8 +22,8 @@ settings:
   max_videos_per_run: 20
 
   # Back-catalog drip: how many PAST videos to import per run (transcripts only).
-  # Raise to backfill faster, but YouTube's per-IP transcript limit caps the real rate.
-  backfill_budget_per_run: 10
+  # Aggressive pace: 40/run × 3 runs/day ≈ 120/day. Watch the Webshare bandwidth.
+  backfill_budget_per_run: 40
 
   # Add a critical "reality check" line to each brief (flags hype/overconfidence, bias,
   # missing risks; leans hardest on finance; never gives advice). Set false to turn off.
