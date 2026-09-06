@@ -1,0 +1,144 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate1for2025.pdf
+
+Playing Moneyball (again)!
+§For the last four decades, I have spent the first week 
+of each year collecting and analyzing data on 
+publicly traded companies and sharing what I find 
+with anyone who is interested. 
+§It is the end of the first week in 2025, and my data 
+update for the year is now up and running, and I plan 
+to use this post to describe my data sample, my 
+processes for computing industry statistics and the 
+links to finding them. 
+§I will also repeat the caveats about how and where 
+the data is best used, that I have always added to my 
+updates.
+Aswath Damodaran 2
+§Fact-checking assertions: In corporate finance and investing, 
+which are areas that I work in, I find myself doing double takes 
+as I listen to politicians, market experts and economists making 
+statements about company and market behavior that don't hold 
+up to scrutiny.
+§Noise in predictions: One reason that the expert class is 
+mistrusted, it is because of the unwillingness on the part of 
+many in this class to admit to uncertainty in their forecasts 
+about what will happen in the future. If those predictions are 
+based upon data, it is almost always the case that predictions 
+come with error (noise) and that admitting to this is not a sign 
+of weakness. 
+Aswath Damodaran 3
+§There is an enduring belief that data is objective, at least if it 
+takes numerical form. In the hands of analysts who are biased 
+or have agendas, they can find ways to mold the data to fit their 
+pre-conceptions. 
+§I would like to claim to have no bias, but that would be a lie, 
+since biases are often engrained and unconscious, but I have 
+tried, as best as I can, to be transparent about the sample that I 
+use, the data that I work with and how I compute my statistics.
+Aswath Damodaran 5
+§Investors and companies often use the past to predict the 
+future, and while that is entirely understandable, there is a 
+reason why every investment pitch comes with the disclaimer 
+that“past performance is not a reliable indicator of future 
+performance”.
+§I havewritten about how mean reversion is at the heart of 
+many active investing strategies, and why assuming that history 
+will repeat can be a mistake. 
+§Thus, as you peruse my historical data on implied equity risk 
+premiums or PE ratios for the S&P 500 over time, you may be 
+tempted to compute averages and use them in your investment 
+strategies, but you should hold back.
+Aswath Damodaran 6
+§We live in a time, when data is more accessible and available 
+then ever before, and I am a beneficiary. I draw my data from 
+many raw data sources, some of which are freely available to 
+everyone, some of which I pay for and some of which I have 
+access to, because I work at a business school in a university. 
+§For company data, my primary source is S&P Capital IQ, augmented 
+with data from a Bloomberg terminal. 
+§For the segment of my data that is macroeconomic, my primary 
+source is FRED, the Fed’s St. Louis dataset, but I supplement with 
+other data that I found online, including NAICS for bond spread data 
+and Political Risk Services (PRS) for country risk scores.
+Aswath Damodaran 7
+Aswath Damodaran 10
+Aswath Damodaran 11
+§I do create a more detailed breakdown of companies into 94 
+industry groups, loosely structured to stay with industry 
+groupings that I originally created in the 1990s from Value Line 
+data, to allow for comparisons across time. 
+§I know that this is at odds with the industry classifications based 
+upon SIC or NAICS codes, but it works well enough for me, at 
+least in the context of corporate finance and valuation. 
+§The industry averages that I report are also provided using the 
+regional breakdown above. If you want to check out which 
+industry group a company falls into, pleaseclick on this file(a 
+very large one that may take a while to download) for that 
+detail.
+Aswath Damodaran 12
+Aswath Damodaran 13
+§These datasets were all compiled in the last four days and 
+reflect data available at the start of 2025. 
+§For market numbers, like market capitalization, interest rates and 
+risk premiums, these numbers are current, reflecting the market's 
+judgments at the start of 2025. 
+§For company financial numbers, I am reliant on accounting 
+information, which gets updated on a quarterly basis.As a 
+consequence, the accounting numbers reflect the most recent 
+financial filings (usually September 30, 2024), and I use the trailing 
+12-month numbers through the most recent filing for flow numbers 
+(income statement and cash flow statements) and the most recent 
+balance sheet for stock numbers (balance sheet values).
+§While this may seem inconsistent, it reflects what investors in 
+the market have available to them, to price stocks.
+§Since I updated most of the data only once a year, it will age as 
+we go through 2025, but that aging will be most felt, if you use 
+my pricing multiples (PE, PBV , EV to EBITDA etc.) and not so 
+much with the accounting ratios (accounting returns). 
+§To the extent that interest rates and risk premiums will change 
+over the course of the year, the data sets that use them (cost of 
+capital) allow for updating these macro numbers. 
+§In short, if the ten-year treasury rate climbs to 5% and equity 
+risk premiums surge, you can update those numbers in thecost 
+of capital worksheet, and get updated values.
+§While I compute the data variables by company, I am restricted 
+from sharing company-specific data by my raw data providers, 
+and most of the data I report is at the industry level. That said, I 
+have wrestled with how best to estimate and report industry 
+statistics, since almost every statistical measure comes with 
+caveats.
+§Since I include all publicly traded firms in my sample, with 
+disclosure requirements varying across firms, there are 
+variables where data is missing. Rather than throw out these 
+firms from the sample entirely, I keep them in my universe, but 
+report values for only the firms with non-missing data. 
+§On an upbeat note, though, and speaking from the perspective 
+of someone who has been doing this for a few decades, 
+accounting standards around the world are less divergent now 
+than in the past, and the data, even in small emerging markets, 
+has far fewer missing items than ten or twenty years ago.
+§The data that you will find on my website is for public 
+consumption, and I have tried to organize it to make it easily 
+accessible on my webpage. Note that the current year’s data 
+can be accessed here:
+https://pages.stern.nyu.edu/~adamodar//New_Home_Page/datacurr
+ent.html
+§If you are interested in getting the data from previous years, it 
+should be available in the archived data section on my 
+webpage:
+https://pages.stern.nyu.edu/~adamodar//New_Home_Page/dataarch
+ived.html
+§The data is intended primarily for practitioners doing 
+valuation, and I hope that I can save time and help in valuations 
+in real time. If you are a researcher, you are welcome to use the 
+archived data, but it will require contortions and compromises. 
+§As for acknowledgements when using the data, I will repeat 
+that I said in prior years. If you use my data and want to 
+acknowledge that usage, I thank you, but if you skip that 
+acknowledgement, I will not view it as a slight, and I certainly 
+am not going to threaten you with legal consequences.
+§As a final note, please recognize that this I don't have a team 
+working for me, and while that gives me the benefit of 
+controlling the process, unlike the pope, I am extremely fallible. 
+If you find mistakes or missing links, please let me know and I 
+will fix them as quickly as I can.

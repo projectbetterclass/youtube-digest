@@ -1,0 +1,110 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate4for2025.pdf
+
+Change is the only constant!
+§We started 2024 with the consensus wisdom that rates would 
+dropduring the year, driven by rate cuts from the Fed. 
+§The Fed did keep its end of the bargain, cutting the Fed Funds 
+rate three times during the course ofthe year, but the bond 
+markets did not stick with the script, and market interest rates 
+roseduring the course ofthe year, revealing yet again the 
+delusions behind "the Fed sets rates" argument. 
+§In this post, I will begin by looking at movements in treasury 
+rates, across maturities, during 2024, and the resultant shifts 
+in yield curves. I will follow up by examining changes in 
+corporate bond rates, across the default ratings spectrum, 
+trying to get a measure of how the price of risk in bond 
+markets changed during 2024.
+Aswath Damodaran 2
+Aswath Damodaran 3
+Aswath Damodaran 5
+§Over the last two decades, for better or worse, we (as 
+investors, consumers and observers) have come to accept as a 
+truism the notion that central banks set interest rates. 
+§Thus, the answer to not only to questions about past interest 
+rate movements (the low rates between 2008 and 2021, the 
+spike in rates in 2022) but also to where interest rates will go in 
+the future has been to look to central banking smoke signals. 
+§In this section, I will argue that the interest rates ultimately are 
+driven by macro fundamentals, and that the power of central 
+banks comes from preferential access to data about these 
+fundamentals and their capacity to alter those fundamentals 
+(in good and bad ways).
+Aswath Damodaran 6
+§If you set the abstractions aside, and remove default risk from 
+consideration (because the borrower is default-free), a riskfree interest 
+rate in nominal terms can be viewed as the sum of the expected inflation 
+rate and an expected real interest rate:
+Nominal interest rate = Expected inflation + Expected real interest rate
+1. Expected inflation: I use the current year's inflation rate as a proxy for 
+expected inflation. Clearly, this is simplistic, since you can have unusual 
+events during a year that cause inflation in that year to spike. (In an 
+alternate calculation, I use an average inflation rate over the last ten 
+years as the expected inflation rate._
+2. Expected real interest rate: In the last two decades, we have been able 
+to observe a real interest rate, at least in the US, using inflation-
+protected treasury bonds(TIPs). Since I am trying to estimate an 
+intrinsic real interest rate, I use the growth rate in real GDP as my proxy 
+for the real interest rate. That is clearly a stretch when it comes to year-
+to-year movements, but in the long term, the two should converge.
+Aswath Damodaran 7
+¨Aswath Damodaran ¨9
+Aswath Damodaran 10
+Aswath Damodaran 11
+§Information: It is true that the Fed collects substantial data on 
+consumer and business behavior that it can use to make more 
+reasoned judgments about where inflation and real growth are 
+headed than the rest of the market, and its actions often are 
+viewed as a signal of that information
+§Central bank credibility: Implicit in the signaling argument is 
+the belief that the central bank is serious in its intent to keep 
+inflation in check, and that is has enough independence from 
+the government to be able to act accordingly. 
+§Interest rate level:If the primary mechanism for central banks 
+signaling intent remains the Fed Funds rate (or its equivalent in 
+other markets), with rate rises indicating that the 
+economy/inflation is overheating and rate cuts suggesting the 
+opposite, there is an inherent problem that central banks face if 
+interest rates fall towards zero.
+§Shouldyou forecast? It is unclear to me what any expert, no 
+matter how credentialed, can bring to the table that gives them an 
+edge in my forecasting. In mayvaluations, this plays out in an 
+assumption where I do not try to second guess the bond market, 
+and replace current treasury bond rates with fanciful estimates of 
+normalized or forecasted rates
+§Ifyoudoforecast rates..:Any forecast of interest rates has be
+backed up by a story about changing inflation or real growth.
+§Higher interest rates driven by higher inflation will generally have 
+neutral effects on value, for companies with pricing power, and negative 
+effects for companies that do not. 
+§Higher interest rates precipitated by stronger real growth is more likely 
+to be neutral for the market, since higher earnings (from the stronger 
+economy) can offset the higher rates. 
+§The most emptyforecasts of interest rates are the ones where 
+the forecaster's only reason for predicting higher or lower rates is 
+central banks, and I am afraid that the discussion of interest rates 
+has become vacuous over the last two decades, as the delusion 
+that the Fed sets interest rates becomes deeply engrained.
+§The corporate bond market gets less attention that the treasury 
+bond market, partly because rates in that market are very much 
+driven by what happens in the treasury market. 
+§Last year, as the treasury bond rate rose from 3.88% to 4.58%, it 
+should come as no surprise that corporate bond rates rose as 
+well, but there isinformation in the rate differences between 
+the two markets. 
+§That rate difference, of course, is the default spread, and it will 
+vary across different corporate bonds, based almost entirely on 
+perceived default risk.
+Default spread = Corporate bond rate -Treasury bond rate on 
+bond of equalmaturity
+§I must confess that I find the bond market far less interesting, 
+since so much of the focus is on the downside, and while I am 
+glad that there are other people who care about that, I prefer to 
+inhabit a more upbeat space. 
+§That said, though, I dabble in bond markets because what 
+happens in those markets, unlike what happens in Las Vegas, 
+does not stay there. 
+§Thespillover effects into equity markets can be substantial, 
+and in some cases, devastating. In my posts looking back at 
+2022, I noted how a record bad year for bond markets, as both 
+treasury and corporate bonds took a beating for the ages, very 
+quickly found its ways into stocks, dragging the market down.

@@ -1,0 +1,191 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/FedDelusions.pdf
+
+FED UP WITH FED TALK? CENTRAL 
+BANKS AND INTEREST RATES –
+FAIRY TALES AND FACTS
+The Fed did it!
+2
+The Fed acts (finally)…
+¨The big story on Wednesday, September 18, was that the 
+Federal Reserve’s open market committee finally got around 
+to “cutting rates”,  a n ddoing so by more than expected. 
+¨This action, much debated and discussed during all of 2024, 
+was greeted as big news, and market prognosticators argued 
+that it was a harbinger of big market moves, both in interest 
+rates and stock prices. 
+¨The market seemed to initially be disappointed in the action, 
+dropping after the Fed’s announcement on Wednesday, but it 
+did climb on Thursday. 
+¨As a long-time skeptic about the Fed’s (or any Central Bank’s) 
+capacity to alter much more than talk, I decided now would 
+be as good a time as any to confront some widely held beliefs 
+about central banking powers, and counter them with data.
+3
+Myths about the Fed (frommostfantastic
+toleast)…
+¨The Fed as rate setter: In this myth, the Fed (or central 
+banks) set the interest rates that we encounter as 
+consumers and businesses in ourday-to-dayaffairs.
+¨The Fed as rate leader: In this one, theFed may not 
+directly set rates, but its actions determine the future 
+course of interest rates.
+¨TheFedas signalman: The Fed, with its superior access 
+to data, sends signals to markets, which then determines 
+their next moves.
+¨The Fed as stock market whisperer: The Fed, in this 
+myth, whispers to stock markets (with its actions), and 
+they behave accordingly.
+4
+1. The Fed as Rate Setter
+¨As I drove to the grocery story on Fed Cut Wednesday, I had 
+the radio on, and in the news at the top of the hour, I was 
+told that the Fed had just cut interest rates, implying that 
+consumers would soon see lower rates on their mortgages 
+and businesses on their loan. 
+¨That delusion is not restricted to newscasters, since it seems 
+to be widely held among politicians, economists and even 
+market watchers.
+¨The truth, though, is that the Fed sets only one interest rate, 
+the Fed Funds rate, and that none of the rates that we face 
+in our lives, either as consumers (on mortgages, credit cards 
+or fixed deposits) or businesses (business loans and bonds), 
+face interest rates that are set by or even indexed to the Fed 
+Funds Rate.
+5
+The Fed Funds Rate
+¨The place to start to dispel the “Fed sets rates” myth is 
+with an understanding of the Fed Funds rate,an 
+overnight intra-bank borrowing rate is one that most of 
+us will never ever encounter in our lives. 
+¨The Federal Open Market Committee (FOMC) has the 
+power to change this rate, which it uses at intervals, in 
+response to economic, market and political 
+developments.
+¤Inmostcases,theratechangescomeatone of the eight 
+regularly scheduled FOMC meetings.
+¤In a few cases, the rate changes come after emergency 
+meetings, usually in response to a crisis (2001, 2008, 2020)
+6
+A History of Fed Action (and Inaction)
+7
+The Effective Fed Funds Rate
+8
+Market-set Rates
+9
+Institution-set Rates
+10
+2. The Fed as Rate Leader
+¨Even if you accept that the Fed does not set the 
+interest rates that we face as consumers and 
+businesses, you may still believe that the Fed 
+influences these rates with these changes. 
+¨Thus, in your world, a rise (fall) in the Fed Funds rate 
+will trigger subsequent rises (falls) in both market-
+set and institution-set rates.
+¨TheFed,withitssuperiordataandskills, is the 
+market leader in this world, at least when it comes 
+to interest rates.
+11
+The Superficial Backing…
+12
+A Better Test: Fed Funds Rate Changes & 
+Market Interest Rate
+13
+Fed Funds Rate Changes and Other 
+Interest Rates
+14
+But the Fed kept interest rates low last 
+decade, right?
+15
+3. The Fed as Signalman
+¨ IfyouarewillingtoacceptthattheFeddoesnotsetrates,
+andthatitdoesnotleadthemarketoninterestrates,you
+maystillarguethatFedratechangesconveyinformationto
+markets,thatmayleadthemtorepricebondsandstocks.
+¨ItisundeniablethattheFederalReserve,withitstwelve
+regionaldistrictsactingasoutposts,collectsdataaboutthe
+economythatbecomeaninputintoitsdecisionmaking.Itis
+signaling,withitsFedFundratechanges,whatithaslearned
+fromthatdata.
+¨Thatsaid,therearetwomajormacroeconomicdimensions
+onwhichtheFedcollectsdata,withthefirstbeingreal
+economicgrowth(howrobustitis,andwhetherthereare
+changeshappening)andinflation(howhighitisandwhether
+ittooischanging).
+16
+The Signals in the Fed Rate Cut
+¨YoucanseethattherearetwocontraryreadsoftheFedFundsrate
+cutof50basispointsonWednesdays.
+¤Ifyouareanoptimist,youcouldtakethattomeanthattheFedisfinally
+convincedthatinflationhasbeenvanquished,andthatlowerinflationis
+heretostay.
+¤Ifyouareapessimist,thefactthatitwasafiftybasispointdecrease,
+ratherthantheexpectedtwentyfivebasispoints,canbeconstruedasa
+signthattheFedisseeingmoreworryingsignsofaneconomicslowdown
+thanhaveshownupinthepublicdataonemploymentandgrowth.
+¤Thereisofcoursethecynicalthirdperspective,whichisthattheFedrate
+cuthaslittletodowithinflationandrealgrowth,andmoretodowithan
+electionthatislessthanfiftydaysaway.
+¨ Insum,signalingstoriesarealluring,andyouwillheartheminthe
+comingdays,fromallsidesofthespectrum(optimists,pessimists
+andcynics),butthetruthliesinthemiddle,wherethisratecutis
+goodnews,badnewsandnonewsatthesametime.
+17
+4. The Fed as Equity Market Whisperer
+¨It is entirely possible that you are with me so far, in my 
+arguments that the Fed's capacity to influence the 
+interest rates that matter is limited, but you may still 
+hold on to the belief that the Fed's actions have 
+consequences for stock returns. 
+¨In fact, Wall Street has its share of investing mantras, 
+including "Don't fight the Fed", where the implicit 
+argument is that the direction of the stock market can be 
+altered by Fed actions.
+¨There is some basis for this argument, and especially 
+during market crises, where timely actions by the Fed 
+may alter market mood and momentum.
+18
+In non-crises periods, the Fed’s effect on 
+stock prices is…
+Aswath Damodaran
+18
+If you remove the Fed's role in crises, andfocus on just its 
+actions on the Fed Funds rate, the effect of the Fed on equity 
+market becomes murkier .
+19
+The Reality: The Fed as Chanticleer…
+¨ ThereisanancientstoryaboutaroosternamedChanticleer.Chanticleerwas
+anointedtherulerofthefarmyardthathelivedin,becausetheother
+barnyardanimalsbelievedthatitwashiscrowingeverymorningthatcaused
+thesuntorise,andthatwithouthim,theywouldbedestinedforalifetimeof
+darkness.Thatbeliefcamefromtheundeniablefactthateverymorning,
+Chanticleer'scrowscoincidedwithsunriseanddaylight.Thestorynowtakes
+adarkturn,whenoneday,Chanticleersleepsinandthesunrisesanyway,
+revealinghisabsenceofpower.
+¨ TheFed(andeveryothercentralbank)inmyviewislikeChanticleer,with
+investorsendowingitwithpowerstosetinterestratesanddrivestockprices,
+sincetheFed'sactionsandmarketmovementsseemsynchronized.
+¤ AswithChanticleer,thetruthisthattheFedisactinginresponsetochangesinmarketsrather
+thandrivingthoseactions,anditisthusmorefollowerthanleader.
+¤ Thatsaid,thereistheveryrealpossibilitythattheFedmaystarttobelieveitsownhype,and
+thathubristiccentralbankersmaydecidethattheysetratesanddrivestockmarkets,rather
+thantheotherwayaround.
+20
+The Fed Delusion: Time to let go?
+¨Iknowthatthispostcutsagainstthegrain,sincethenotionthattheFed
+hassuperpowershasonlybecomestrongeroverthelasttwodecades.
+Pushedtoexplainwhyinterestrateswereathistoriclowsformuchofthe
+lastdecade,theresponseyouoftenheardwas"theFeddidit".
+¤Activeinvestors,whenaskedwhyactiveinvestinghaditsworstdecadeinhistory,
+losingouttoindexfundsandtopassiveinvestors,pointedfingerstheFed.
+¤Markettimers,whohadbuilttheirreputationsaroundusingmetricsliketheShiller
+PE,defendedtheirfailuretocallmarketmovesinthelastfifteenyears,bypointing
+totheFed.
+¤Economistswhoarguedthatinvertedyieldcurveswereasurefirepredictorof
+recessionsblamedtheFedfortheabsenceofarecession,afteryearsoftwoyears
+plusofthephenomena.Howconvenient?
+¨IbelievethatitistimeforustoputtheFeddelusiontorest.Ithas
+distractedusfromtalkingaboutthingsthattrulymatter,whichinclude
+growinggovernmentdebt,inflation,growthandhowglobalizationmaybe
+feedingintorisk,andallowedustobelievethatcentralbankershavethe
+powertorescueusfromwhatevermistakeswemaybemaking.

@@ -1,0 +1,184 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/Nvidia2024.pdf
+
+THE POWER OF EXPECTATI0NS: 
+NVIDIA’S EARNINGS AND THE 
+MARKET’S REACTION!
+The expectations game!
+2
+The Lead In
+¨LastWednesday(August28),themarketwaitedwithbatedbreath
+forNvidia’searningcall,scheduledforafterthemarketclosed.
+¨Thatcall,atfirstsight,containedgoodnews,withrevenuesand
+earningscominginaboveexpectations,butthestockfellinthe
+aftermath,withthestockdown8%inThursday’stradingand
+continuingitsdeclineinthefollowingdays.
+¨Thisdancebetweencompaniesandinvestors,playingoutin
+expectationsandactualearnings,andafeatureofeveryearnings
+season,especiallysointheUnitedStates,hasalwaysfascinated
+me.
+¨Inthissession,IwillusetheNvidiaearningsreleasetoexamine
+whatnews,ifany,iscontainedinearningsreportsandhowtraders
+andinvestorsusethatnewstoreframetheirthinkingaboutstocks.
+3
+Earnings Releases
+¨When I was first exposed to financial markets in a 
+classroom, I was taught about information being 
+delivered to markets, where that information is 
+processed and converted into prices. 
+¨I was fascinated by the process, and it was the subject of 
+my doctoral thesis, on how distortions in information 
+delivery (delays, lies, mistakes) affects stock returns. 
+¨In the real world, that fascination has led me to pay 
+attention to earnings reports, which while overplayed, 
+remain the primary mechanism for companies to convey 
+information about their performance and prospects to 
+markets.
+4
+1. The Timing
+¨TheSecuritiesExchangeActof1934requiredannualandquarterly
+reportsfrompubliclytradedcompaniesbemadeinatimelymanner,with
+a1946stipulationtheannualfilingsbeingmadewithin90daysofthe
+fiscalyear-end,andthequarterlyreportswithin45calendardaysofthe
+quarterlydayend.
+¨Ifyoucouplethetimingregularityincompanyfilingswiththefactthat
+almost65%oflistedcompanieshavefiscalyearsthatcoincidewith
+calendaryears,itshouldcomeasnosurprisethatearningsreportstend
+togetbunchedupatcertaintimesoftheyear(mid-January,mid-April,
+mid-Julyandmid-October),creating“earningsseasons”.
+¨Thatsaid,therearequiteafewcompanies,manyofthemhigh-profile,
+thatpreservequirkyfiscalyears,andsinceNvidia’searningsreport
+triggeredthispost,itisworthnotingthatNvidiahasafiscalyearthat
+endsonJanuary31ofeachyear,withquartersendingonApril30,July31
+andOctober31.
+5
+2. The Expectations Game
+¨Asignificantportionofsellsideequityresearchisdedicatedtoforecasting
+thecontentsofthenextearningreport,especiallyearningspershare,
+withrevisionsmadetotheexpectedearnings,asyougetcloserandcloser
+tothenextearningsreport.
+¨Inmakingtheirearningsjudgmentsandrevisions,analystsdrawonmany
+sources,including:
+1.Thecompany’shistory:Analystsconsideracompany’shistoricaltrendlinesinforecasting
+revenuesandearnings.
+2.Peergroupreporting:Itisnaturaltoconsiderthepositiveornegativetheoperating
+resultsfromothercompaniesinthegroup,thatmayhavereportedaheadofyour
+company.
+3.Otheranalysts’estimates:Muchasanalystsclaimtobeindependentthinkers,itis
+humannaturetobeaffectedbywhatothersinthegrouparedoing.
+4.Macronews:Whilemacroeconomicnews(abouttheeconomy,inflationorcurrency
+exchangerates)cutsacrossthemarket,somecompaniesmaybemoreexposedthan
+others,andanalystswillhavetorevisitearningsestimatesinlightofnewinformation.
+6
+Nvidia:The Expectations Set
+¨Nvidia is one of the most widely followed companies in the world, 
+and most of the seventy analysts who publicly track the firm play 
+the estimation game, leading into the earnings reports. 
+¨Ahead of the most recent second quarter earnings report, the 
+analyst consensus was that the company would report revenues of 
+$28.42 billion for the quarter, and fully diluted earnings per share 
+of 64 cents; in the 30 days leading into the report, the earnings 
+estimates had drifted up mildly (about 0.1%), with the delay in the 
+Blackwell (NVidia’s new AI chip) not expected to affect revenue 
+growth near term. 
+¨It is worth noting that not all analysts tracking the stock forecast 
+every metric, and that there was disagreement among them, which 
+is also captured in the range on the estimates; on earnings per 
+share, for instance, the estimates ranged from 60 to 68 cents, and 
+on revenues, from $26 to $30 billion.
+7
+TheStockPrice lead in..
+8
+And uncertainty (volatility)…
+9
+3. The Event: Nvidia’s Earnings Report
+10
+The Guidance
+¨Over the last two decades, companies have supplemented the 
+financial reports withguidance on key metrics, particularly 
+revenues, margins and earnings, in future quarters. 
+¨That guidance has two objectives, with the first directed at 
+investors, with the intent of providing information to the market 
+and the second at analysts, to frame expectations for the next 
+quarter . 
+¨As a company that has played the expectations game well, it should 
+come as no surprise that Nvidia provided guidance for future 
+quarters in its second quarter report, and here too, there were 
+reminders that comparisons would get more challenging in future 
+quarters, as they predicted that revenue growth rates would come 
+back to earth, and that margins would, at best, level off or perhaps 
+even decline.
+11
+The Rest of the News
+¨Finally, in an overlooked news story, Nvidia announced 
+that it would hadauthorized$50 billion in buybacks, 
+over an unspecified time frame. 
+¨While that cash return is not surprising for a company 
+that has became a profit machine, it is at odds with the 
+story that some investors were pricing into the stock of a 
+company with almost unlimited growth opportunities in 
+an immense new market (AI). 
+¨Just as Meta and Alphabet’s dividend initiations signaled 
+that they were approaching middle age, Nvidia’s buyback 
+announcement may be signaling that the company is 
+entering a new phase in the life cycle, intentionally or by 
+accident.
+12
+4. The Reaction: Earnings reports and 
+Stock Prices
+13
+Nvidia’s Earnings Surprises
+1.Nvidia, as with many other technology companies, has enough discretion 
+in both its expenditures (especially in R&D) and in its revenue 
+recognition, that it can use it to beat what analysts expect. 
+2.The speed with which the demand for AI chips has grown has surprised 
+everyone in the space (company, analysts, investors) and that the results 
+reflect the undershooting on forecasts.
+14
+Losing the expectations game!
+¨Focusing specifically on the 2025 second quarter, Nvidia beat 
+analyst expectations, delivering earnings per share of 68 cents 
+(above the 64 cents forecast) and revenues of $30 billion (again 
+higher than the $28.4 billion forecast), but the percentage by which 
+it beat expectations was smaller than in the most recent quarters. 
+¨That may sound like nitpicking, but the expectations game is an 
+insidious one, where investors move the goal posts constantly, and 
+more so, if you have been successful in the past. 
+¨On August 28, after the earnings report, Nvidia saw share prices 
+drop by 8% and not only did that loss persist through the next 
+trading day, the stock hascontinued to lose ground, and was 
+trading at $106 at the start of trading on September 6, 2028.
+15
+Earnings reports: Reading the tea leaves!
+16
+The Trader’s Take on Nvidia
+¨For Nvidia, the second quarter report contained good news, if good 
+is defined as beating expectations, but the earnings beat was lower 
+than in prior quarters. 
+¨Coupled with sober guidance and a concern the stock had gone up 
+too much and too fast, as its market cap had increased from less 
+than half a trillion to three trillion over the course of two years, the 
+stage was set for a mood and momentum shift, and the trading 
+since the earnings release indicates that it has happened. 
+¨Note, though, that this does not mean that something else could 
+not cause the momentum to shift back, but before you, as an 
+Nvidia manager or shareholder, are tempted to complain about the 
+vagaries of momentum, recognize that for much of the last two 
+years, no stock has benefited more from momentum than Nvidia.
+17
+The Investor Take on Nvidia
+19
+Caveats… Buyer and Seller beware!
+¨I value companies for myself, and while my valuations 
+animate my decisions to buy or sell stocks, they should not 
+determine your choices. That is why my spreadsheet is 
+available not just for download, but for modification, to allow 
+you to tell your own story for Nvidia, yielding a different 
+value. 
+¨The second is that this is a tool for investors, not traders, and 
+if you are playing the trading game, you will have to reframe 
+the analysis and think in terms of mood and momentum. 
+¨All in all, looking back, I am at peace with the decision made 
+in the summer of 2023 to shed half my Nvidia shares, and 
+hold on to half. While I left money on the table, with the half 
+that I sold, I have been richly compensated for holding on to 
+the other half. I am going to count that as a win and move on!

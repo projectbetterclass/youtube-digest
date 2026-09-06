@@ -1,0 +1,163 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/cfexams/CelsiusPresentation.pdf
+
+To snack or not to snack!
+2
+3
+§Based upon the riskiness of this project and the targeted debt mix of 20%, 
+the beta for this project, when fully operational, is 0.82, the cost of equity 
+is 9.53% and the cost of capital is 8.56%.
+§From an accounting return standpoint, the return on capital computed 
+using the average operating income (without allocated G&A) and capital 
+invested over the period is  about 10--15%, depending on what you 
+include in book value, and whether you consider side costs & benefits. 
+§The net present value of just the cash flows on the  project, discounted at 
+8.56% (for most of the years..)
+§is -$16 million, for a finite life of 15 years without counting side effects 
+(increased beverage sales) & $185 million, with side costs and benefits 
+considered.
+§is -$ 22 million, under the assumption of an infinite life, with higher capital 
+expenditures during the project life, without counting the side effects (increased 
+beverage sales). With the side effects considered, the net present value is $329 
+million.
+§I would recommend rejecting the investment. Without the benefits of 
+added beverage sales, the net present value is negative, and the company 
+has a lot of room in the beverage business to consolidate and fight off 
+competition…
+4
+5
+Average = 9.01%
+Median = 8.57%
+Lowest = 7.29%
+Highest = 12.27%
+6
+Removing the allocated G&A from the mix increases the return on 
+capital to 25-30%.
+7
+Average = 14.51%
+Median = 9.5%
+Lowest = -75.43%
+Highest = 95.39%
+8
+§Incremental Effects
+§The  money spent already is ignored for purposes of cash flow 
+computation, since it is non-incremental. 
+§When analyzing the cost of the logistics center, we consider the 
+cost of the system in year 5 ($ 225.1 million) but we show the 
+savings in year 11 ($276.85 million). Similarly, for depreciation, we 
+show the depreciation on the  system of $22.51 million from years 6-
+12, but show the differential depreciation between the two systems 
+(-$5.17 million) in years 13-15. 
+§Since we are planning on wrapping up the business in 15 years, 
+there is no need for significant capital maintenance 
+expenditures.
+§Both working capital investments and product investments are 
+assumed to occur at the start of the year and are therefore 
+shown at the end of the previous year.
+9
+What will happen if I take the investment?
+-Run out of capacity earlier (in year 5)
+-Spend $225.1 million in year 5
+-Depreciate this straight line over 10 years
+What will happen if I take the investment?
+-Run out of capacity later in year 11
+-Spend $276.9 million in year 11
+-Depreciate this straight line over 10 years
+What is the effect on present value?
+-PV of spending earlier rather than later = $225.1/1.08565 –
+$276.9/1.085611
+-Depreciate the earlier investment starting in year 6 versus year 12
+If you take Celsius Eats, there is a second investment thatyouhave to make in year 13 that I 
+don’t consider for two reasons. First, Celsius Eats, when all of its products are in production 
+uses only 88% of capacity and it is unfair to charge it with two investments, especially since 
+in the finite life casae.
+10
+11
+12
+In computing the side benefits from beverage sales, I used the pre-tax 
+operating margin of 17.01% from the most recent year and discounted 
+the net after-tax earnings change at Celsius beverage cost of capital of 
+13.69%
+13
+Average = $122.6
+Median = -$20.9
+Lowest = -$773
+Highest = $3,339
+# +veNPV = 12
+# -veNPV = 17
+14
+§While the case does ask you to extend the life of the project, it 
+does not specify over what duration. I assumed that it was 
+long enough to treat it as a perpetuity.
+§When extending the project life to infinity, I did make some 
+changes to the assumptions about capital maintenance. 
+§Starting in year 1, I start with capital maintenance, setting it 
+equal to depreciation in each year, with an inflation adjustment. 
+Thus, to get capital maintenance in year 3 = 25 (1.03)3  = $27.32 
+million.
+§Advertising expenses continue beyond year 15.
+§Working capital will continue to grow to keep up with revenues
+§The side benefits (from increased beverage sales) now 
+continue in perpetuityas well.
+15
+16
+§I assumed a perpetual life. 
+§Did I have to?
+§What are the alternatives?
+§Cash flow to the firm in year 16
+= EBIT (1-t) + Depreciation –Cap Ex –Change in WC
+= $ 143.2 + $ 192.0 –$ 197.8 -$ 3.39 = $ 149.88 million
+(Capital expenditures exceed depreciation by the inflation rate
+§Terminal Value in year 15
+= CF in year 16/ (Cost of capital –g)
+= $149.88/(.0856-.03) = $ 2,697.88  million
+17
+18
+19
+Average = $ 1,376
+Median = $1,194
+Lowest = $44
+Highest = $4,395
+# +veNPV = 29
+# -veNPV = 0
+20
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+<$ 100 $100-$300 $300-$500 $500 - $1000 $1000-$1500 $1500-$2000 >$ 200 0
+Effect of lengthening project life
+21
+After year 15 Capital Expenditure Assumption
+Project ends No (or very low) capital maintenance
+Let assets run down towards end of life
+Infinite life; g=0% Capital maintenance = Depreciation
+Maintain invested capital at base level
+Infinite life; g= inflationCapital maintenance > Depreciation
+Capital invested has to grow at inflation rate
+Infinite life; g> inflationCapital investment to increase capacity
+Capital maintenance > Depreciation
+Capital invested has to grow to reflect real 
+growth
+22
+§Of the 30 groups that turned in numbers, 17 groups chose to 
+invest, and 12 groups suggested rejection.
+§There was at least one group that had a conditional decision, 
+i.e., reject with a 15-year life and accept with a longer life. 
+§If you believe in crowd wisdom, the crowd judgment was that 
+the project has a negative NPV in the 15-year life, a large 
+positive NPV with the longer life, and that the company 
+should accept the investment.
+§If you accepted the project, even though the NPV in the finite life 
+case was negative, what went into your decision?
+§If you rejected the project, even though the NPV in the longer life 
+case was positive, what went into your decision?
+§Does the fact that the company (Celsius) is young and has 
+broken through into a business (beverage) that is notoriously 
+hard to crack play a role in your decision?

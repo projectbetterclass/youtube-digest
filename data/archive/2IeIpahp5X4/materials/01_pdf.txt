@@ -1,0 +1,97 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate6for2025.pdf
+
+The Swiss Army Knife of Finance!
+§In the first five posts, I have looked at the macro numbers 
+from interest rates to risk premiums, and it is not my 
+preferred habitat. 
+§I prefer the far less rarefied air of corporate finance and 
+valuation, where businesses try to decide what projects to 
+invest in, and investors attempt to estimate business value. 
+§A key tool in both endeavors is a hurdle rate –a rate of return that 
+you determine as your required return for business and investment 
+decisions.
+§In this post, I will drill down to what it is that determines the 
+hurdle rate for a business, bringing in what business it is in, how 
+much debt it is burdened with and what geographies it operates in.
+Aswath Damodaran 2
+§Yo u  d o n ' t  n e e d  t o  h ave  t a ke n  a  c o r p o ra t e  f i n a n c e  o r  va l u a t i o n  
+class to get acquainted with hurdle rates, and going through a 
+finance class both deepens the acquaintance and ruins it. 
+§It deepens the acquaintance because you encounter costs of 
+capital in almost every aspect of finance. 
+§It ruins it, by making it all about equations and models. Most 
+finance professionals, when asked whatacost of capital is, fall back 
+on these models.
+§A few years ago, I wrote a paper for practitioners on the cost of 
+capital, where I described the cost of capital as the Swiss 
+Army knife of finance, because of its many uses.
+Aswath Damodaran 3
+Aswath Damodaran 5
+Aswath Damodaran 6
+Aswath Damodaran 7
+§The first is, of course,the riskfree rate, a number that varies 
+across time (as you saw in post on US treasury rates in data 
+update 4) and across currencies (in my post on currencies in 
+data update 5).
+§The second set of inputs are prices of risk, in both the equity 
+and debt markets, with the former measured byequity risk 
+premiums, and thelatter by default spreads. 
+§In data update 2, I looked at equity risk premiums in the United 
+Statesand then expanded that discussion to equity risk premiums 
+in the rest of the worldin data update 5). 
+§In data update 4, I looked at movements in corporate default 
+spreadsduring 2024.
+§Inbothcases, I emphasized that these numbers were volatile, 
+reflecting investor hopes and fears shifting over time.
+AswathDamodaran ¨9
+Aswath Damodaran 10
+§Corporate Default Risk, i.e, a measure of how much default 
+risk there is in a company , with higher default risk translating 
+into higher default spreads. 
+§For a  large subset of firms, a bond rating may stand in as this 
+measure, but even in its absence, you have no choice but to estimate 
+it. 
+§For firms without abondrating,you are assessing whether the 
+company has the earnings capability to cover its contractual 
+debt payments, in measuring its default risk.
+§Adding to the estimation challenge is the fact that as a 
+company borrows more money, it will play out in the default 
+risk (increasing it), with consequences for both the cost of 
+equity and debt (increasing those as well).
+Aswath Damodaran 11
+§Cost of capital calculation:The full cost of capital calculation is 
+not complex, but it does require inputs about operating risk, 
+leverage and default risk that can be hard to assess for young 
+companies or companies with little history (operating and market). 
+For those companies, I often use the distribution to estimate the 
+cost of capital to use in valuing the company
+§Detect fantasy hurdle rates: In my experience, investors and 
+companies make up hurdle rates, the former to value companies 
+and the latter to use inn investment analysis. These hurdle rates are 
+either hopeful thinking on the part of investors who want to make 
+that return or reflect inertia, where these hurdle rates were set in 
+stone years ago and have never been revisited. 
+§Time-varying hurdle rates: When valuing companies, I believe in 
+maintaining consistency within, and one of the places I would 
+expect it to show up is in hurdle rates that change over time, as the 
+company's story changes.
+§Corporate hurdle rate: As I noted in my section on costs of capital, by 
+sector and industry, the notion that there is a corporate hurdle rate that can 
+be used to assess investments across the company is a myth, and one with 
+dangerous consequences. 
+§Reality check on hurdle rates: All too often, I have heard CFOs of 
+companies, when confronted with a cost of capital calculated using market 
+risk parameters and the company's risk profile, say that it looks too low, 
+especially in the decade of low interest rates, or sometimes, too high, 
+especially if they operate in anrisky , high-interest rate environment. 
+§Hurdle rates are dynamic: In both corporate and investment settings, 
+there is this almost desperate desire to find hurdle rates that are stable and 
+don't change much over time. I understand the pull, and it is easier to run a 
+business when hurdle rates are not volatile, but again, the market acts as a 
+reality check. 
+§Hurdle rates are not where business/valuation battles are won or lost: 
+It is true that costs of capital are the D in a DCF , but they are not and should 
+never be what makes or breaks a valuation. In my four decades of 
+valuation, I have made been badly mistaken many times, and the culprit 
+almost always has been and error on forecasting growth, profitability or 
+reinvestment (all of which leadinto the cash flows), not the discount rate

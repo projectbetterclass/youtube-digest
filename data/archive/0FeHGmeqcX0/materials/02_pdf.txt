@@ -1,0 +1,32 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session11soln.pdf
+
+Session	  11:	  	  Post	  class	  test	  solutions	  
+1. a.	  $261.12	  million.	  To	  compute	  the	  market	  value	  of	  the	  debt,	  discount	  the	  
+expected	  interest	  expenses	  and	  the	  principal	  on	  the	  debt	  at	  the	  pre-­‐tax	  cost	  of	  
+debt	  
+• Market	  value	  of	  debt	  =	  =12.5*(1-1.04-5)/0.04+250/1.045 = $261.12 m	  
+• The	  first	  term	  is	  the	  present	  value	  of	  $12.5	  million	  as	  an	  annuity	  for	  5	  
+years,	  discounted	  back	  at	  4%.	  The	  second	  term	  is	  the	  present	  value	  of	  the	  
+face	  value	  of	  the	  debt	  at	  the	  end	  of	  year	  5.	  
+2. c.	  $77.56	  million.	  The	  debt	  value	  of	  leases	  is	  the	  present	  value	  of	  the	  operating	  
+leases	  at	  the	  pre-­‐tax	  cost	  of	  debt.	  
+• Debt	  value	  of	  leases	  =	  PV	  of	  annuity	  of	  $12	  million	  @5%	  for	  8	  years	  =	  
+$77.56	  million	  
+3. d.	  6.6%.	  The	  first	  step	  is	  to	  compute	  the	  market	  value	  weights	  of	  debt	  and	  equity	  
+• Debt	  to	  capital	  ratio	  =	  80/(120+80)	  =	  40%	  
+• Cost	  of	  capital	  =	  9%(.6)	  +	  4%	  (1-­‐.4)	  (.4)	  =	  6.36%	  
+4. c.	  7.55%.	  The	  first	  step	  is	  to	  decompose	  the	  convertible	  bond	  into	  its	  debt	  and	  
+equity	  components.	  To	  do	  this,	  value	  the	  convertible	  bond	  as	  if	  it	  were	  a	  straight	  
+bond	  by	  discounting	  the	  coupons	  and	  face	  value	  back	  at	  the	  pre-­‐tax	  cost	  of	  debt:	  
+• Value	  of	  straight	  bond	  portion	  =	  $2	  million	  (PV	  of	  annuity	  for	  10	  years	  
+@5%)	  +	  $100	  million/1.0510	  =	  $76.83	  million	  
+• Value	  of	  conversion	  option	  =	  Market	  value	  of	  convertible	  –	  Straight	  bond	  
+value	  =	  $120	  -­‐	  $76.83	  =	  $43.17	  million	  
+• Overall	  value	  of	  equity	  =	  $143.17	  million	  
+• Cost	  of	  capital	  =	  10%	  (143.17/(143.17+76.83))	  +	  5%	  (1-­‐.4)	  
+(76.83/(143.17+76.83))	  =	  7.55%	  
+5. a.	  8.78%.	  First,	  compute	  the	  preferred	  dividend	  yield,	  which	  is	  also	  the	  cost	  of	  
+preferred	  stock:	  
+• Preferred	  dividend	  yield	  =	  $6/80	  =	  7.5%	  
+• Cost	  of	  capital	  =	  12%(200/400)+	  6%(1-­‐.4)(100/400)+7.5%(100/400)	  =	  
+8.78%

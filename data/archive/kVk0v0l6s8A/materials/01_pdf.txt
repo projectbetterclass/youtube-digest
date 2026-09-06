@@ -1,0 +1,57 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate7for2025.pdf
+
+The Swiss Army Knife of Finance!
+§I am in week three of the corporate finance class that I teach at 
+NYU Stern, and my students have been lulled into a false sense of 
+complacency about what's coming, since I have not used a single 
+metric or number in my class yet. In fact, we have almost four 
+session (that is 15% of the class) talking about the end game in 
+business. 
+§In an age when ESG, sustainability and stakeholder wealth 
+maximization have all tried to elbow their way to the front of the 
+line, all laying claim to being what business should be about, I 
+have burnished my "moral troglodyte" standing by sticking with 
+my belief that the end game in business is to maximize value, with 
+earnings and cash flows driving that value, and that . 
+§In this session, I will focus on how companies around the world, 
+and in different sectors performed on that dimension, by first 
+focusing on profitability differences across businesses, and then 
+converting profitability into returns, and comparing to the hurdle 
+rates that I talked about in my last data update.
+Aswath Damodaran 2
+§While accountants remain focused on balance sheets, and with 
+an unholy fixation of bringing intangibles on to the balance and 
+marking everything up to the market, much of the information 
+that we need to assess the value of a business comes from 
+income and cash flow statements. 
+§I am not an accountant, but I do rely on accounting statements 
+for the raw data that I use in corporate finance and valuation. I 
+have tried my hand at financial statement analysis, as practiced 
+by accountants, and discovered that for the most part, the 
+analysis create more smoke than clarity, and that by mixing in 
+the big with the small, they can distract you. 
+Aswath Damodaran 3
+Aswath Damodaran 5
+Aswath Damodaran 6
+Aswath Damodaran 7
+AswathDamodaran ¨9
+Aswath Damodaran 10
+Aswath Damodaran 11
+1.Makingmoneyisnotenoughforsuccess:Inmanybusinesses,publicor
+private,managersandevenownersseemtothinkthatmakingmoney
+(havingapositiveprofit)representssuccess,notrecognizingthatthe
+capitalinvestedinthesebusinessescouldhavebeeninvestedelsewhereto
+earnreturns
+2.Corporategovernanceisanecessity;MartyLipton,arenownedcorporate
+lawyerandcriticofthisthingsactivistarguedthatactivistinvestingwasnot
+necessarybecausemostcompaniesarewellmanaged,anddon'tneed
+proddingtomaketherightchoices.Thedatainthispostsuggests
+otherwise,withmostcompaniesneedingremindersfromoutsideinvestors
+abouttheopportunitycostofcapital.
+3.Companiesarenotfattedcalves:Inthelastfewyears,twogroupsofpeople
+havetargetedcompanies-politiciansarguingthatcompaniesareprice-
+gougingandthevirtuecrowd(ESG,sustainabilityandstakeholderwealth
+maximizers)pushingforcompaniestospendmoreonmakingtheworlda
+betterplace.Implicitinbothcasesistheassumptionthatcompaniesare,at
+leastcollectively,immenselyprofitableandthattheycanaffordtoshare
+someofthosespoilswithotherstakeholders.Theyarenot.

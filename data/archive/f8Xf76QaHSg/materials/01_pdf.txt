@@ -1,0 +1,71 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate9for2025.pdf
+
+Inertia and Me-tooism
+§In my ninth (and last) data session for 2025, I look at cash 
+returned by businesses across the world, looking at both the 
+magnitude and the form of return. 
+§I start with a framework for thinking about how much cash a 
+business can return to its owners, and then argue that, in the 
+real world, this decision is skewed by inertia and me-tooism. 
+§I also look at a clear and discernible shift away from dividends 
+to stock buybacks, especially in the US, and examine both good 
+and bad reasons for this shift, 
+§After reporting on the total cash returned during the year, by 
+public companies, in the form of dividends and buybacks, I 
+scale the cash returned to earnings (payout ratios) and to 
+market cap (yield) and present the cross sectionaldistribution 
+of both statistics across global companies.
+Aswath Damodaran 2
+§The decision of whether to return cash, and how much to 
+return, should, at least in principle, be the simplest of the 
+three corporate finance decisions, since it does not require 
+the estimation uncertainties that go with investment decisions 
+and the angst of trading of tax benefits and default risk 
+involved in financing decisions. 
+§In practice, though, there is probably more dysfunctionality 
+in the cash return decision, partly driven by deeply held, but 
+misguided views, of what returning cash does or does not do to 
+a business and partly by the psychology that returning cash to 
+shareholders is an admission that a company's growth days are 
+numbered or over. 
+Aswath Damodaran 3
+§f companies following this sequence to determine, it is quite 
+clear that the cash returned should not only vary 
+§from year to year, with more (less) cash available for return in good 
+(bad) years), but also across firms, as firms that struggle on 
+profitability or have large reinvestment needs might find that not 
+only dothey not have any cash to return, but that they might have to 
+raise fresh capital from equity investors to keep going. 
+§It also follows that the investment, financing, and dividend 
+decisions, at most firms, are interconnected, since for any given set 
+of investments, borrowing more money will free up more cash flows 
+to return to shareholders.
+Aswath Damodaran 5
+Aswath Damodaran 6
+¨8
+Aswath Damodaran 9
+Aswath Damodaran 10
+§One of the delusions that both buyback supporters and 
+opponents use, i.e., that buybacks create or destroy value. 
+§Thus, buyback supporters argue that a company that is buying 
+back its own shares at a price lower than its underlying value, is 
+effectively taking an investment with a positive net present value, 
+andis thus creating value. That is not true, since that action just 
+transfers value from shareholders who sell back (at the too low a 
+price) to the shareholders who hold on to their shares. 
+§Similarly, buyback opponents note that many companies buy back 
+their shares, when their stock prices hit new highs, and thus risk 
+paying too high a price, relative to value, thus destroying value. This 
+too is false, since paying too much for shares also is a wealth 
+transfer, this time from those who remain shareholders in the firm to 
+those who sell back their shares.
+§Whiledividendsweremettobeforresidual cash flows, they 
+have evolvedovertime to take on more weighty meaning, and 
+companies have adopted dividend policies that are at odds 
+with their capacity to return cash.
+§Therearetwo forces that feed dividend dysfunction:
+§Inertia:Onceacompanyinitiates a dividend policy, itisreluctant to 
+back away from it, even though circumstances change.
+§Me-tooism:Companiesadoptcashreturnpoliciestomatchtheir
+peergroups,payingdividendsbecause other companies are also 
+paying dividends, or buying back stock for the same reasons.

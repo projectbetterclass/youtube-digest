@@ -1,0 +1,5 @@
+# ChatGPT was a chatbot.  Now it has its own computer.
+
+<https://www.youtube.com/shorts/yqMBDSZbmOg>
+
+This is insane. Open AI just launched a new feature directly inside Chat GPT. Now, when you use Chat GPT on your phone, it can open a computer in the cloud, use a real browser, and even let you securely sign in to websites without ever showing the model your username or password. All you have to do is enable Chat GPT work at the top of the screen, which basically turns Chat GPT into a general agent that has access to a computer. This computer runs in the cloud, and sometimes it needs a password to log into things. So, when it hits one of these screens, it pauses, and then it gives you a secure sign-in screen. Your credentials go straight to the remote browser, and the model never sees or stores them. As soon as you sign in, Chat GPT work picks the task right back up and keeps working, even if you close Chat GPT or switch devices. You could see where all of this is going, right? Chat GPT was once a chatbot. Now, with Chat GPT work, it's turning into a full AI agent running in the cloud with their own computers and browsers.

@@ -1,0 +1,473 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/BigTech.pdf
+
+THESHERMAN ACT COMESFOR
+BIG TECH: CUI BONO?
+They’re big and maybe bad…
+2
+The Lead In
+¨In a court filing on October 9, 2024, the US Department of Justice 
+(DOJ) let it be known that it was considering a break-up of 
+Alphabet, with the addendum that it would also be pushing for the 
+company to share the data it collects across its multiple platforms 
+with competitors. 
+¨It is entirely possible that these are threats designed to extract 
+more concessions from the company, but the break-up talk is a 
+continuation of a debate about the power accumulated by big tech 
+companies, in general, and with Microsoft, Amazon, Apple, 
+Alphabet and Meta, in particular, andwhat should be done about 
+that power . 
+¨With politicians, economists and lawyers all in the mix, offering 
+widely divergent solutions, I look at the evolution of anti-trust law 
+in the United States, and whether that law can or should be used to 
+counter big tech.
+3
+Anti-trustLaw:Robber Baron Origins
+¨ In the latter part of the nineteenth century, as the United States was 
+transitioning from an emerging market to a global economic power, its growth 
+was powered by three industries -steel, railroads and oil -all requiring large 
+investments in infrastructure. 
+¨ In each one of these businesses, powerful men earned their "robber baron" 
+standing by squashing competition and building dominant companies that 
+aspired for pricing power . 
+¤ In oil, it was John D. Rockefeller, who started Standard Oil and built a sprawling empire across 
+the nation, acquiring other players in the still nascent oil business. 
+¤ With Carnegie Steel as his vehicle, Andrew Carnegie took control of the growing steel market, 
+before selling his business to J.P . Morgan, who took it public as US Steel. 
+¤ In railroads, a network of tycoons controlledswathes of the country, with Cornelius Vanderbilt, 
+Jay Gold and Leland Stanford all playing starring roles, as heroes and villains. 
+¨ Along the way, they created the trust structure, organizations of companies 
+which controlled production and prices, effectively monopolizing the 
+businesses.
+4
+TheBacklash:TheShermanActand Teddy 
+Roosevelt
+¨As these companies laid waste to competition, exploited labor and 
+overcharged customers, a political and economic backlash ensued, 
+manifesting in the Sherman Anti-trust Act of 1890 and the election of a 
+Teddy Roosevelt, campaigning as a trust buster.
+¨TheSherman Actused the constitutional power of Congress to regulate 
+interstate commerce to authorize the federal government to break up the 
+trusts and "restore competition", with the latter words vaguely defined. 
+¤While the law outlawed "every contract, combination, or conspiracy in restraint of 
+trade," and any "monopolization, attempted monopolization, or conspiracy or 
+combination to monopolize", the Supreme Court added the constraint that the law 
+only forbade competitive restraints that were "unreasonable".
+¤That vagueness initially worked against the government, in its enforcement of the 
+act, with the Supreme Court ruling against it in its attempt to break down the 
+American Sugar Refining Company, in 1896, but the kinks were worked out in the 
+next decade.
+¤In 1911, President Taft used the act to break up Standard Oil into multiple oil 
+businesses, and the entrails of that breakup can be found in many of the largest oil 
+companies of today.
+5
+Augmenting Antitrust Law: The Clayton Act
+¨In1914,CongresspassedtheClaytonActtoclarifyandaugmentthe
+ShermanAct,andexpandeditsreachtocoverawholehostofactivities
+thatitclassifiedasanti-competitive,includingsomemergers,predatory
+pricingandsalesties.
+¨Italsobarredindividualsfromsittingonboardsofcompetingcompanies
+andcreatedtheFederalTradeCommission(FTC)asaninstitutionto
+providethespecificsonwhatconstitutesunfaircompetitionandtowork
+withtheDepartmentofJustice,toenforcetheserules.
+¨Insubsequentyears,Congressreturnedtoaddprovisionsandmodifythe
+act,including
+¤theRobinson-PatmanActin1936,whichreinforcedthelawsagainstprice
+discrimination
+¤theCeller-KefauverActof1950,whichfilledingapsonthemergerprovisions,and
+¤theHart-Scott-Rodino(HSR)Actof1976,whichintroducedtheneedforany
+companyplanninganacquisitionthatexceededatransactionvaluethreshold(reset
+atregularintervals)tofileapre-mergernotificationwiththeJusticeDepartment
+andtowaitatleastthirtydaysbeforeconsummatingtheacquisition.
+6
+Enforcement Agents
+¨The effectiveness of laws at dealing with the problems 
+that they purport to solve depends in large part on how 
+they are enforced. In fact, one reason that the Clayton 
+Act created the Federal Trade Commission in 1914 was 
+to enforce the anti-trust laws
+¤TheFTCstates its missionas protecting"the public from 
+deceptive or unfair business practices and from unfair methods 
+of competition through law enforcement, advocacy, research 
+and education." 
+¤In carrying out this mission, the FTC often relies on the 
+Department of Justice (DOJ), where anantitrust divisionwas 
+created specifically for this purpose, in 1919.
+¨Ultimately, though, it is the courts that decide whether 
+the FTC (or DOJ’s) case has merit.
+7
+The Ebbs and Flows
+¨Through the history of anti-trust laws in the United States, the 
+enforcement has ebbed and flowed, partly as a result ofchanging 
+administrations bringing in very different idealogicalperspectives 
+on its need, partly in response to Court judgments in its favor or 
+against it, but mostly because of questions aboutwhether the 
+central objective of the laws is to enhance competition or to protect 
+consumers. 
+¨The divide between enhanced competition and consumers played 
+out in competing viewpoints, with one school, led byRobert Bork, 
+arguing that the original intent of the law is consumer protection, 
+and the other pushing back that the end game of the law is to stop 
+cartels and monopolies, i.e., enhancing competition. 
+¨That tension continues to underlie much of the debate of the law 
+today, in both political and economic circles, and will come into 
+play if the DOJ pushes ahead trying for a big tech breakup.
+8
+BigTech:TheLina Khan Argument
+¨ For most of the last few decades, the consumer protection argument has 
+resonated more strongly with courts and has played out as a restraint on what 
+actions the FTC can take, and how far it can go in enforcing antitrust law.
+¨ It is this context that Joe Biden's choice of Lina Khan as the youngest person 
+to head the FTC was viewed a signal of change in focus, since Ms. Khan's most 
+well-read treatise,Amazon's Antitrust Paradox, written while she was still a 
+student at Yale, argued that the company's increasing power was hurting both 
+competitors and consumers. 
+¨ In that paper, she posited that platform-based companies prioritized growth 
+over profits, using their platform size to decimate competition, and that 
+antitrust laws would have to be retooled to rein in these companies. 
+¨ The central part of her argument is that while Amazon’s consumers benefit in 
+the short term, because of lower prices and better service, they would lose 
+out in the long term because less competition leads to less innovation and 
+fewer choices.
+9
+The Lina Khan Effect: Muted…
+10
+But higher profile, in public…
+¨That graph, though, does obscure the fact that the 
+government has been more aggressive about challenging 
+high profile mergers, and publicly proclaiming its intent 
+to do so, in others. 
+¨The results have been mixed, with wins in a few cases 
+coming with losses in several others, with the failure to 
+stop Microsoft's acquisition of Activision representing 
+one of its highest profile losses. 
+¨In short, while Ms. Khan's argument for use of antitrust 
+laws to restrain platforms may have found a receptive 
+audience among some legal thinkers and politicians, it 
+has not won over the courts (at least as of now).
+11
+TheRemedies
+1. Operating Restraints and Changes
+¨The anti-trust laws give the government the power to 
+affect how a company operates by stopping it from 
+acting (by acquiring another company, introducing a new 
+product or entering a new market) or changing its 
+behavior (in terms of pricing it products and operating its 
+business), in the interests of increased competitiveness. 
+¨In doing so, though, the courts require the government 
+to make the case that the actions that it is stopping or 
+the behavior it is altering areunreasonableand that it 
+meets the "rule-of-reason" threshold, i.e., thatthere are 
+anticompetitive effects that exceed any pro-competitive 
+effects.
+12
+a. Merger Challenges
+¨Corporate mergers in the United States, where the transaction value 
+exceeded $111.3 million in 2023, required the acquiring company tofile a 
+pre-merger notificationwith the Justice department, with consummation 
+of the merger happening only after approval. 
+¨In its most recent update to requirements on pre-merger notifications, 
+the DOJ expanded its information disclosure requirements to include 
+transaction-related documents from deal teams and more complete 
+information about both the products and services offered by the 
+companies, as well as about corporate governance. 
+¨ In areportthat it is required to file under the Hart-Scott-RodinoAct for 
+the 2023 fiscal year, the DOJ listed out the number of merger challenges 
+for the year (16), breaking them down into wins (1), consent agreements 
+(4), ongoing litigation (1) and abandonments/restructured complaints 
+(10).
+13
+Most challenged industries
+14
+b. Operating changes
+• Forced divestitures: As part of a settlement allowing a proposed merger 
+of VistraCorporation to acquire nuclear plants owned by Energy Harbor 
+Corporation, where the FTC raised concerns about less competition and 
+higher energy prices for consumers, Vistraagreedto divestits power 
+plant in Ohio. 
+• Product bundling/Pricing: As a condition for allowing Amgen to move 
+forward on its acquisition of Horizon Therapeutics, where the FTC feared 
+that Amgen would use its large drug portfolio to pressure pharmacies to 
+push Horizon's two monopoly products, the FTC secured a consent order 
+where Amgen agreed not to condition any of its product pricing or 
+rebates on whether Horizon drugs were prescribed.
+• Corporate governance: In EQT's acquisition of Quantum, the FTC's 
+concern was that as these companies were direct competitors, giving EQT 
+a seat on the board and a large shareholding in Quantum would reduce 
+competition. Consequently, EQT was forced to divest its EQT shares and 
+was prohibited from having a board seat.
+15
+c. Pricing Oversight
+¨If it is price fixing by a company that has drawn the 
+attention of the antitrust enforcers, it is possible that the 
+remedies sought will reflect changes in the way a 
+company prices its products and services. 
+¤In 1996, Archer Daniels Midland (ADM) pleaded guilty to fixing 
+prices for Lysine, an animal feed, in collaboration with Japanese 
+and Korean companies. The company, in addition topaying a 
+large fine and having top executives face jail time,was also 
+required to change its pricing processes. 
+¤In 2024, the FTCpublished a warningthat the use of algorithms 
+by multiple competitors in the same business, to set prices, can 
+violate antitrust laws,andsued RealPage, a property 
+management software, for allegedly allowing landlords to use its 
+algorithms to drive up rental prices.
+16
+2. Breaking up –The Standard Oil Breakup 
+(1911)
+17
+The AT&T Breakup
+18
+The (almost) Microsoft Breakup
+Aswath Damodaran
+18
+¨The third breakup, albeit one that did not go 
+through,targeted Microsoft in 2000, where the DOJ 
+sought to break up the company, separating its operating 
+system (Windows) from its application software and 
+browsing businesses (Office and Internet Explorer). 
+¨The courts initially found in the government's favor, but 
+that ruling was subsequently set aside. 
+¨Eventually, the company settled,agreeing to share some 
+of its application programming interfacewith third-party 
+company, but avoided major restructuring.
+19
+3. Regulated Monopoly
+¨ The phone business was still in its nascency, when theWillis Graham Act was 
+passed in 1921, arguing that "(t)here are monopolies which ought to exist in the 
+interest of economy and good service in the public welfare, monopolies which 
+must be promoted instead of being forbidden."
+¤That act allowed AT&T , then the leading phone company in the United States, to acquire 
+its mostly troubled competitors to create a monopoly, with a catch. That catch was that 
+the company's pricing power would be regulated to deliver a reasonable rate of return 
+for its investors, thus creating the basis for regulated monopolies.
+¤The notion of a naturalmonopoly was not restricted to just telecommunications, and 
+was used for other utilities, such as water and power, with the only difference being that 
+most of the companies offering those utilities obtained local monopolies rather than 
+national ones. 
+¨ Arguably, the decision delivered benefits for customers, as the services were 
+extended to almost every part o the country, albeit at the cost of innovation. As a 
+side benefit, these regulated monopolies, protected from competition, had the 
+capacity use their surplus funds to support activities that had societal benefits, 
+that they wouldnothavein a competitive setting.
+20
+The End Game
+21
+The Big Tech Dilemma
+¨This session was precipitated by the Justice department’s 
+targeting of Alphabet, with threats of a break-up and 
+requiring the company to share its data. 
+¨While neither threat has been made explicit, it is 
+worthwhile thinking about how the big tech companies 
+measure on the competitiveness scale, and whether 
+antitrust law can or should be used to cut them down to 
+size. 
+¨The challenge, as we will see, is that we all agree that big 
+tech has become perhaps too big, but the question of 
+how it got that big has tobe answered before we 
+respond to the bigness.
+22
+1. Big tech is big (in market cap)
+23
+Andinoperatingmetrics
+24
+And in day-to-day life
+¨There is a final component on which you can measure 
+how big these companies have become, and that is to 
+look at how much of our time and lives is spent on one 
+or more of their platforms. 
+¨In aNew York Times article from 2020, the writer talked 
+about trying to live without big tech for six weeks, and 
+how difficult she found the consequences to be. 
+¨During the same year, I chronicled in a post how much 
+time I spent each day on the platforms on one or more 
+of the big tech companies, essentially concluding that I 
+was in their grip for all but fifteen minutes of the day.
+25
+Pathways to Bigness
+1. Core Business Dominance
+26
+2. Shaky Side Businesses (with one 
+exception)
+¨ Largely funded by cashflows from their core businesses, the big tech companies 
+have tried to enter new businesses, mostly with little to show for their 
+investments. 
+¤ Alphabet has been most open about its ambitions to be in multiple businesses and its 
+renaming was largely a signal of that intent. 
+¤ Amazon's ambitions to be a disruption machine have been widely documented, with forays 
+into logistics, entertainment and even health care. 
+¤ Apple has been more restrained, but it too has tried its hand at entertainment and other 
+businesses. 
+¤ Meta, after facing market backlash for its badly framed entry into the Metaverse, has retooled 
+itself and is trying for success in AI and virtual reality. 
+¨ For the most part, these side businesses have been cash drains, and added little in 
+value, with one exception. 
+¤ For three of these companies, Amazon, Alphabet and Microsoft, thecloud businesshas 
+become not only a large part of their revenue base, but also an even bigger contributor to 
+their profitability. 
+¤ With Apple, the services business is offering promise in terms of growth and is a gold mine 
+when it comes to profitability, but it draws much of its value from the iPhone franchise.
+27
+3. Consumer Subsidization
+¨These companies have also created subsidy mechanisms for 
+consumers, offering them products and services that are "free" or 
+"bargains", at least on the surface. 
+¤Amazon Prime remains one of the best deals in the world for consumers, 
+since for an annual fee of $139, you get free shipping, entertainment and a 
+host of other services. In fact, Amazon makes explicit the cost of the 
+shipping subsidy in its annual reports each year, and it has spent tens of 
+billion each year for the last decade, supporting that service. 
+¤Alphabet offers a whole range of products, from Google Docs to Google 
+maps, at no explicit cost, and there are hundreds of millions that use 
+WhatsApp around the world, with no monthly charges or fees. 
+¨Apple and Microsoft, befitting their standing as the elder 
+statesmen in this group, have been more stingyabout providing 
+free add ons, but they too have sweeteners that they offer, usually 
+in exchange for data from users.
+28
+The Unfairness Arguments
+1. Subsidizetheirproductofferings:Oneofthecritiquesoftechcompaniesisthat
+theyusethemassiveprofitstheygeneratefromtheirbusinesses,coreandcloud,
+tosubsidizetheirproductofferingstocustomers.
+2. Networkingbenefits:Mostofthesecompanieshavelargeplatforms,andinthe
+businessesthattheyoperatein,thatcanworkintheirfavor.
+3. Useofprivatedata:Whenusersspendtheirtimeonthetechcompanyplatforms,
+theyareprovidingdatatothesecompaniesthatcanbeusedtotheirbenefit.
+4. Squashingcompetingtechnologies:Whenyourplatformsbecomeubiquitous,
+yourcompetitorsmightneedyourpermissiontoplayontheseplatforms,andthe
+bigtechcompaniesoftenmakeiteithermoredifficulttoplayorclaimalarge
+chunkofrevenues.
+5. Notpayingfairpriceforcontent:Manyofthebigtechplatformsallowusersto
+accesscontentforfree,withthecontentdevelopersfeelingshortchanged.Thebig
+techcompaniesbenefitfromthiscontentaccess,becausethataccessincreases
+platformusageandtheirrevenues(fromadvertising,devicesalesetc.),butina
+fairsystem,theyshouldbesharingthisrevenuewiththecontentdevelopersand
+providers
+29
+Theconclusions
+1. Hurtcompetitors,subsidizeconsumers:Asyoulookatthecritiqueofbig
+tech,itisclearthatthedamagefrombigtechcompanybehaviorhasbeen
+feltmostlybycompetitors.Infact,consumersforthemostparthave
+benefitedfromthesubsidiesthattheyhavereceived,andiftheyare
+aggrievedabouttheuseofthedatathattheyhavesharedwiththe
+companies,itisunclearhowmuchtheyhavebeenhurtbythatsharing.
+2. CurrentversusProspectivesins:Extendingthefirstpoint,eventhemost
+severecriticsofbigtecharguethatthecostsofallowingthemto
+dominatewillbeinthefuture,LinaKhan'scriticismofAmazonisthat
+whilecustomersbenefitrightnowfromAmazonPrimeandother
+freebies,therewillbecoststheybearinthefuturethatwilloutweighthe
+benefits.Inparticular,shearguesthattherewillbelesschoiceand
+innovation,becauseofAmazon'sdominance,andthatAmazonwill
+eventuallybecomepowerfulenoughtoraiseprices,andconsumerswill
+havenowheretogo.TheproblemthatMs.Khanandothersinhercamp
+willfaceisthatthereisnothinginthecompany'sbehaviorcurrentlythat
+wouldleadustoextrapolatetothosedireendings.
+30
+The Choices
+1. Break up
+¨ While you can think of the multiple platforms that Alphabet operates as separate, 
+the truth is that the core business is advertising, and whether you are on the 
+Google search box, YouTube or on Android, that business derives its value from 
+keeping users in the Google ecosystem, rather than on independent platforms. 
+¨ There is an added reason why breaking either Alphabet or Facebook into 
+individual platforms makes no economic sense. Online advertising is a business 
+with networking benefits, and any solution that pushes you away from 
+consolidation, may create more competition, but will worsen business efficiency 
+and health. 
+¨ You can demand that Alphabet be forced to divest itself of all of it non-ad related 
+bets, but very few of these businesses can stand alone. It is true that the cloud 
+businesses have the capacity to stand alone, but what is the argument that you 
+would use for forcing divestiture? After all, in the three companies that have 
+significant cloud businesses -Alphabet, Microsoft and Amazon, their success in 
+the cloud had little or nothing to do with core business domination and 
+divestitures make it less likely that consumers gets subsidized products, which will 
+make them worse off.
+31
+2. Regulated Monopoly
+• Theregulatedmonopoliesofthelastcenturyagreedtothepricing
+restrictionquidquoprobecausethegovernmentgavethemmonopoly
+powerinthefirstplace.Withtechcompanies,whatexactlywouldthe
+governmentbeofferingthesecompaniesinreturnforthelossofpricing
+power?WithAlphabetandMeta,theonlineadvertisingmarketisnotthe
+government'stogiveaway,andwithsmartphone(Apple)andonlineretail
+(Amazon),itbecomesanevenbiggerreach.
+• If,infact,thegovernmentdidgetcontrolofpricingpoweratthese
+companies,whowouldbethebeneficiaries?Withonlineads,thebenefits
+wouldflowtotheadvertisers,atransferofwealthfromonesetof
+companies(theBigTechadvertisingcompanies)toanothersetof
+businesses(themanycompaniesthatadvertiseonthetechplatforms),
+andthatisneitherfairnotequitable.
+• Iftheendgameisinnovation,andwithtechnology,itisthelubricantfor
+success,creatingregulatedmonopoliesandrequiringthemtoearntheir
+costofcapitalwillnotonlydestroyincentivestoinnovate,butleavethese
+companiesexposedtodisruptorsfromothermarkets.
+32
+3a. Targeted actions (that may work)
+1. Platformaccess:Ifyouownaplatformwhereuserscongregate,youcannotmake
+theroadblockstothirdpartiesbeingontheplatformsoonerousthattheyareput
+atanalmostinsurmountabledisadvantage.IthinkthatAppleandAlphabetwillbe
+pushedtomaketheirplatformsmoreaccessible(technicallyandeconomically)
+thantheyarerightnow.
+2. Payingforcontent:AsAIloomslarger,thefightovercontentownershipwillget
+moreintense,sinceAIcannotonlybeamonstrouslylargeconsumerofcontent,
+butcandosowithlittleheedtowherethecontentcomesfrom,orwhoownsit.
+Contentownersanddevelopedmayneedanassistfromthegovernment,when
+theyfighttoreclaimthecontentthatbelongstothem.
+3. CustomerandUserRecourse:Thepowerdynamicswhenyouuseatechplatform
+areimbalanced,andasauserorcustomer,youoftenhavenopoweragainstthe
+companyoperatingtheplatform,ifitchoosestoactagainstyou.Assomeonewho
+haskeptmyblogonGoogleBloggerandmyvideosonYouTube,thereisalmost
+nothingIcandoifAlphabetdecidestoshutthembothdown,otherthanappeal
+tothecompanyandhopetogetafairhearing.Governmentsmaypushmore
+formalappealsprocesses,withindependentarbiters,toprovideformorebalance.
+33
+3b. And probably will not…
+1. Sharedatawithcompetitors:Itispossiblethatthegovernmentwilltrytoget
+techcompaniestosharethedatatheycollect,butIbelievethatthisisneither
+fairnoracompetitiveplus.Whilehavingthedatagivesthemanadvantage
+overtheircompetitors,thatcanbesaidaboutcompetitiveadvantagesin
+manyotherbusinesses,andcompaniesinthosebusinessesarenotaskedto
+dotheequivalent.
+2. Nocrosssubsidization:Theproblemisthatcrosssubsidizationispartof
+almosteverylargecompany,wheresuccessful,cash-richportionsofthe
+companysubsidizecash-poorportions,perhapswithgrowthpotential.Those
+subsidiescansometimeshurtshareholdersofthecompany,butitisnotthe
+DOJ'sjobtoprovidethemwithprotection.Infact,thebigtechcompanies
+havenotbeenimmunefrominvestorbacklash,asMetafoundout,whenit
+pusheditsMetaverseinvestingplansforwardwithnoclearpathwayto
+monetization.
+3. DeviceCompatability:Muchasthismayfrustrateus,asconsumers,no
+companyshouldbeobligatedtomakeiteasierforcompetitorstotake
+businessaway,andgovernmentattemptstosuggestotherwisewillbeheavy
+handedandineffective.
+34
+4. Do nothing
+¨Tech life cycles are short: Tech companies age in dog years, 
+scaling up much faster, not lasting at the top as long and 
+declining much more quickly than non-tech companies.
+¨As an extension of the first point, if innovation costs money, 
+and life cycles are short, companies have tobe allowed to 
+make money during their brief stints at the top, to justify 
+innovation.
+¨To the extent that big tech companies are tempted to play it 
+safe, cutting back on innovation and using their market power 
+to increase prices on customers, i.e., the Lina Khan doomsday 
+scenario, they expose themselves to disruption far more than 
+manufacturing or consumer product companies do.
+35
+Conclusion
+¨ It is clear that Ido not see eye to eye with Lina Khan, but I will start with the 
+presumption that she has good intentions and that her argument is deeply 
+thought through. 
+¨ My concerns with her big tech views are two-fold. The first is that she is a lawyer, 
+and law schools around the world do an awful job on teaching their graduates 
+about business. The second is that she is a true believer, and if you start with the 
+view that big tech companies are evil, you will undoubtedly find good reasons to 
+cut them down to size.
+¨ Idorecognizethattherearenon-economicconsiderationsatplay,andthatyou
+mayfeartheeffectthatbigtechplatformsarehavingonourpoliticsandsocial
+discourse.Isharethatconcern,butIamnotsurethatthereisaneconomic
+solutiontothatproblem
+¨ IfyouthinkthatbreakingupGoogleandMetawillleadtomorepolitediscourse
+onsocialmediaandareturntotheculturalnormsofyesteryear,youarebeing
+naive,sincetheproblemliesnotinTwitter,FacebookorReddit,butinourselves.I
+amafraidthatwehaveopenedPandora'sbox,andthereisnoshuttingitnow!

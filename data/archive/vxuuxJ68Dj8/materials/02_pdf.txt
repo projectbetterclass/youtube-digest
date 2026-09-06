@@ -1,0 +1,63 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session13test.pdf
+
+Session	  13:	  Post	  Class	  tests	  
+1. You	  are	  looking	  at	  project	  with	  a	  10-­‐year	  life.	  The	  initial	  investment	  is	  $100	  
+million	  and	  is	  depreciable	  straight-­‐line	  to	  a	  salvage	  value	  of	  $20	  million	  and	  the	  
+after-­‐tax	  operating	  income	  each	  year	  is	  $12	  million.	  	  There	  are	  no	  capital	  
+maintenance	  or	  working	  capital	  requirements.	  The	  cost	  of	  capital	  for	  the	  
+company	  taking	  the	  project	  is	  8%	  but	  this	  project	  is	  in	  a	  riskier	  business,	  with	  a	  
+cost	  of	  capital	  of	  12%.	  The	  marginal	  tax	  rate	  is	  40%.	  What	  is	  the	  correct	  NPV	  of	  
+this	  project?	  
+a. -­‐$7.68	  million	  
+b. $1.36	  million	  
+c. $13.00	  million	  
+d. $19.44	  million	  
+e. $43.47	  million	  
+2. You	  have	  been	  asked	  to	  analyze	  the	  net	  present	  value	  of	  building	  a	  toll	  road	  in	  
+Asia.	  You	  estimate	  that	  building	  the	  road	  will	  cost	  you	  $50	  million	  up	  front	  and	  
+that	  you	  will	  generate	  $	  4	  million	  in	  cash	  flows	  next	  year	  and	  that	  these	  cash	  
+flows	  will	  grow	  10%	  a	  year	  for	  the	  following	  four	  years	  (Years	  2-­‐5).	  After	  year	  5,	  
+you	  expect	  the	  cash	  flows	  to	  continue	  to	  grow	  at	  the	  inflation	  rate	  (2%).	  
+Assuming	  a	  cost	  of	  capital	  of	  8%,	  what	  is	  the	  NPV	  of	  this	  project	  to	  you?	  
+a. $19.04	  
+b. $31.96	  
+c. $35.65	  
+d. $36.98	  
+e. None	  of	  the	  above	  
+3. Now	  assume	  that	  you	  believe	  that	  you	  can	  double	  your	  cash	  flows	  for	  the	  next	  5	  
+years	  in	  the	  toll	  road	  investment	  described	  in	  problem	  2,	  if	  you	  cut	  back	  on	  
+maintenance.	  If	  you	  do	  this,	  though,	  you	  will	  no	  longer	  be	  able	  to	  operate	  it	  as	  a	  
+toll	  road	  after	  year	  5	  and	  will	  have	  to	  sell	  it	  to	  the	  government	  for	  $20	  million.	  
+Assuming	  the	  cost	  of	  capital	  remains	  at	  8%,	  what	  is	  the	  NPV	  of	  the	  project	  to	  
+you?	  
+a. -­‐$	  11.56	  million	  
+b. $1.04	  million	  
+c. $2.05	  million	  
+d. $	  8.43	  million	  
+e. None	  of	  the	  above	  
+4. Revere	  Inc.	  is	  a	  publicly	  traded	  company	  that	  manufactures	  kitchen	  utensils;	  it	  
+has	  100	  million	  shares	  outstanding,	  trading	  at	  $15/share.	  It	  has	  decided	  to	  
+acquire	  Luzo	  Inc.,	  a	  small	  competitor,	  for	  $150	  million.	  If	  Revere’s	  stock	  price	  
+drops	  to	  $14.50/share	  on	  the	  announcement,	  what	  is	  the	  value	  that	  the	  market	  is	  
+attaching	  to	  Luzo	  Inc.?	  
+a. $50	  million	  
+b. $100	  million	  
+c. $150	  million	  
+d. $200	  million	  
+e. None	  of	  the	  above
+5. The	  NPV	  of	  an	  investment	  is	  the	  PV	  of	  the	  cash	  flows	  over	  the	  life	  of	  the	  
+investment.	  Lengthening	  the	  life	  of	  a	  project,	  holding	  the	  discount	  rate	  constant,	  
+will	  therefore	  always	  increase	  the	  NPV.	  
+a. True	  
+b. False	  
+6. You	  have	  computed	  the	  NPV	  of	  a	  project	  to	  be	  $25	  million,	  using	  expected	  cash	  
+flows	  and	  a	  risk-­‐adjusted	  discount	  rate.	  You	  are,	  however,	  concerned	  that	  you	  
+may	  have	  made	  errors	  on	  estimating	  the	  cash	  flows	  and	  the	  discount	  rate.	  Which	  
+of	  the	  following	  make	  you	  feel	  more	  comfortable	  with	  taking	  the	  project,	  given	  
+this	  fear?	  
+a. The	  project	  has	  a	  long	  payback	  period	  
+b. In	  your	  best	  case	  scenario,	  the	  project	  has	  a	  NPV	  of	  $80	  million	  
+c. The	  standard	  deviation	  in	  the	  NPV,	  when	  you	  do	  a	  Monte	  Carlo	  simulation	  
+yields	  a	  high	  value	  
+d. In	  your	  worst	  case	  scenario,	  the	  project	  has	  a	  NPV	  of	  $2	  million	  
+e. The	  project	  NPV	  is	  very	  sensitive	  to	  changes	  in	  your	  discount	  rate

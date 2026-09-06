@@ -1,0 +1,339 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/CLC/slides/Ch16.pdf
+
+CHAPTER 16: 
+INVESTING IN 
+MIDDLE AGE
+Aswath Damodaran
+§The Screeners: Investors in this camp 
+believe that mature companies, especially 
+those with stable earnings and solid cash 
+flows, are often undervalued by investors 
+because they are boring and predictable. 
+§The Contrarians: Contrarian value 
+investors start with the presumption that 
+mature companies are, for the most part, 
+fairly valued by the market, but that they 
+get mis-valued in the aftermath of big 
+information announcements (earnings 
+reports, change in management etc.), with 
+markets overreacting to the news in these 
+announcements. 
+§The Buy-and-Hold: The adherents to this 
+third strand of value investing believe that 
+companies in good businesses, and run 
+by superior managers, will outperform 
+the market over the long term. 
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+§It is a proxy for missed risk: In their 1992 
+paper, Famaand French argued that 
+companies that trade at low price to book 
+ratios are more likely to be distressed and 
+that risk and return models were not 
+doing an adequate job of capturing that 
+risk. They were arguing that rather than 
+be a stamp of approval for value investing, 
+these studies indicate risks that may not 
+show up in near term returns or in 
+traditional risk and return models. 
+§It is a sign of market inefficiency: During 
+the 1980s, as behavioral finance became 
+more popular, academics also became 
+more willing to accept and even welcome 
+the notion that markets make systematic 
+mistakes and that investors less 
+susceptible to these behavioral quirks 
+could take advantage of these mistakes. 
+Aswath Damodaran
+Aswath Damodaran
+§Investing in low PE or low PBV stocks 
+would not be considered true value 
+investing, by most of its adherents. 
+§In fact, most value investors would argue 
+that the while you may start with these 
+stocks, the real payoff to value investing 
+comes in from the additional analysis that 
+you do, whether it be in bringing in other 
+quantitative screens (following up on Ben 
+Graham) and qualitative ones (good 
+management, moats). 
+§If we call this active value investing, the 
+true test of value investing then becomes 
+whether following value investing 
+precepts and practices andpicking 
+stocks generates returnsthat exceed 
+the returns on a value index fund, created 
+by investing in an index fund invested in 
+low price to book or low PE stocks. 
+Aswath Damodaran
+§Henry Oppenheimer examined the 
+returns on stocks, picked using the 
+Graham screens, between 1970 and 1983, 
+and found that they delivered average 
+annual returns of 29.4% a year, as 
+opposed to 11.5% of the index. 
+§There are other studies that do come to 
+the same conclusion, looking at screening 
+over the period, but they all suffer from 
+two fundamental problems. 
+§The first is that one of the value screens 
+that invariably gets used is low PE and 
+low PBV ,and we already know that these 
+stocks delivered significantly higher returns 
+than the rest of the. 
+§The second is that the ultimate test of a 
+philosophy is not in whether its strategies 
+work on paper, but in whether the 
+investors who use those strategies make 
+money on actual portfolios.
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+§Many value investors will blanch at the idea of letting 
+indexed value investors into this group, but there 
+can be no denying the fact that funds have flowed 
+into tilted index funds, with many of the tilts 
+reflecting historical value factors (low price to book, 
+small cap, low volatility). 
+§The sales pitch for these funds is more often that you 
+can not only get a higher return, because of your 
+factor tilts, but also a bigger bang (return) for your 
+risk (standard deviation) rather than a higher 
+return per se (higher ratios of returns to standard 
+deviation). 
+§The jury is still out, and our view is that tilted index 
+funds are an oxymoron, and that these funds should 
+be categorized as minimalist value funds, where you 
+try to minimize your activity, to lower your costs.
+§The earliest studies of mutual funds looked at them as a 
+group, andconcluded that they collectively 
+underperformed the market. 
+§None of these studies have found any evidence that value 
+fund managers are more likely to beat their index 
+counterparts than their growth fund counterparts. 
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+1. This is a passing phase! Even in its glory days, 
+during the last century, there were extended 
+periods (like the 1990s) when low PE and low PBV 
+stocks underperformed, relative to high PE and 
+high PBV stocks. 
+2. The Fed did it!: Starting with the 2008 crisis and 
+stretching into the last decade, central banks 
+around the world have become much more active 
+players in markets. With quantitative easing, the 
+Fed and other central banks have contributed not 
+only to keeping interest rates lower (than they 
+should be, given fundamentals) but also provided 
+protection for risk taking at the expense of 
+conservative investing.
+3. The Investment World has become flatter! As data 
+has become easier to get, accounting more 
+standardized and analytical tools more accessible, 
+there is very little competitive advantage to 
+computing ratios (PE, PBV , debt ratio etc.) from 
+financial statements and running screens to find 
+cheap stocks.
+4. The global economy has changed! At the risk of 
+sounding cliched, the shift in economic power to 
+more globalized companies, built on technology 
+and immense user platforms, has made many old 
+time value investing nostrums useless.
+Aswath Damodaran
+§It has become rigid: Value investing's focus on 
+dividends has caused adherents to concentrate 
+their holdings in utilities, financial service 
+companies and older consumer product 
+companies, as younger companies have shifted 
+away to returning cash in buybacks.
+§It has become ritualistic: The rituals of value 
+investing are well established, from the annual 
+trek to Omaha, to the claim that your 
+investment education is incomplete unless you 
+have read Ben Graham's Intelligent Investor 
+and Security Analysis to an almost 
+unquestioning belief that anything said by 
+Warren Buffett or Charlie Munger must be 
+right.
+§It has become righteous: While investors of all 
+stripes believe that their "investing ways" will 
+yield payoffs, some value investors seem to 
+feel entitled to high returns because they have 
+followed all the rules and rituals. In fact, they 
+view investors who deviate from the script as 
+shallow speculators but are convinced that 
+they will fail in the "long term".
+Aswath Damodaran
+§Let’s start with what makes a company 
+a good one. 
+§Yo u  c o u ld  start with profitability, 
+arguing that a more profitable business is 
+better than a less profitable one, but that 
+may not be true if the business is capital 
+intensive (and the profits generated are 
+small relative to the capital invested) or a 
+risky business, where you are waiting for 
+the other shoe to drop.
+§Yo u  c o u ld  look at growth, but growth, as 
+we noted earlier in this book, can be 
+good, bad or neutral and a company can 
+have high growth, while destroying value. 
+§To us, the best measure the corporate 
+quality is a high excess return, i.e., a 
+return on capital that is vastly higher than 
+its cost of capital. 
+Aswath Damodaran
+AswathDamodaran
+Aswath Damodaran
+Aswath Damodaran
+Multiple CheapCompany ExpensiveCompany
+PE LowPE,Highgrowth,LowEquity
+Risk,HighPayout
+HighPE,Lowgrowth,HighEquity
+Risk,LowPayout
+PEG LowPEG,LowGrowth,Low
+EquityRisk,HighPayout
+HighPEG,HighGrowth,High
+EquityRisk,LowPayout
+PBV LowPBV,HighGrowth,Low
+EquityRisk,HighROE
+HighPBV,LowGrowth,HighEquity
+Risk,LowROE
+EV/Invest
+ed
+Capital
+LowEV/IC,HighGrowth,Low
+OperatingRisk,HighROIC
+HighEV/IC,LowGrowth,High
+OperatingRisk,LowROIC
+EV/SalesLowEV/Sales,HighGrowth,Low
+OperatingRisk,HighOperating
+Margin
+HifhEV/Sales,LowGrowth,High
+OperatingRisk,HighOperating
+Margin
+EV/EBIT
+DA
+LowEV/EBITDA,HighGrowth,
+LowOperatingRisk,LowTax
+Rate
+HighEV/EBITDA,LowGrowth,
+HighOperatingRisk,HighTaxRate
+Aswath Damodaran
+Company’s Business Company’s ManagersCompany Pricing Investment 
+Decision
+Good (Strong 
+competitive 
+advantages, Growing 
+market)
+Good (Optimize 
+investment, financing, 
+dividend decisions)
+Good (Price < Value) Emphatic Buy
+Good (Strong 
+competitive 
+advantages, Growing 
+market)
+Bad (Sub-optimal 
+investment, financing, 
+dividend decisions)
+Good (Price < Value) Buy & hope for 
+management change
+Bad (No competitive 
+advantages, Stagnant or 
+shrinking market)
+Good (Optimize 
+investment, financing, 
+dividend decisions)
+Good (Price < Value) Buy & hope that 
+management does 
+not change
+Bad (No competitive 
+advantages, Stagnant or 
+shrinking market)
+Bad (Sub-optimal 
+investment, financing, 
+dividend decisions)
+Good (Price < Value) Buy, hope for 
+management change 
+& pray it survives
+Good (Strong 
+competitive 
+advantages, Growing 
+market)
+Good (Optimize 
+investment, financing, 
+dividend decisions)
+Bad (Price > Value) Admire but don’t buy
+Good (Strong 
+competitive 
+advantages, Growing 
+market)
+Bad (Sub-optimal 
+investment, financing, 
+dividend decisions)
+Bad (Price > Value) Wait for management 
+change
+Bad (No competitive 
+advantages, Stagnant or 
+shrinking market)
+Good (Optimize 
+investment, financing, 
+dividend decisions)
+Bad (Price > Value) Sell
+Bad (No competitive 
+advantages, Stagnant or 
+shrinking market)
+Bad (Sub-optimal 
+investment, financing, 
+dividend decisions)
+Bad (Price > Value) Emphatic Sell
+§Be clearerabout the distinction between value 
+and price:While value and price are often 
+used interchangeably by some market 
+commentators and investors, they are the 
+results of very different processes and require 
+different tools to assess and forecast.
+§Rather than avoid uncertainty, face up to it: 
+Many value investors view uncertainty as 
+"bad" and "something to be avoided", and it 
+is this perspective that has led them away from 
+investing in growth companies, where you 
+have tograpple with forecasting the future and 
+towards investing in mature companies with 
+tangible assets. 
+§In fact, we looked at uncertainty , as it plays out 
+across the life cycle, and noted that it changes, 
+both in terms of magnitude and type, as 
+companies age. 
+§While it is true that there is less uncertainty, when 
+valuing more mature companies in stable 
+markets, you are more likely to find market 
+mistakes in companies where the uncertainty 
+is greatest about the future, either because they 
+are young or distressed, or because the 
+macroeconomic environment is challenging. 
+Aswath Damodaran
+Aswath Damodaran
+§It is undeniable that value investing 
+has an accounting focus, with 
+earnings and book value playing a 
+central role in investing strategies. 
+§There is good reason to trust those 
+numbers less now than in decades past, 
+for a few reasons. 
+§One is that companies have become 
+much more aggressive in playing 
+accounting games, using pro forma 
+income statements to skew the numbers 
+in their favor. 
+§The second is that as the center of 
+gravity in the economy has shifted 
+away from manufacturing companies to 
+technology and service companies, 
+accounting has struggled to keep up. 
+Aswath Damodaran
+Aswath Damodaran

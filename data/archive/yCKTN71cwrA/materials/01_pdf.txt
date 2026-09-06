@@ -1,0 +1,95 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate2for2025.pdf
+
+Playing Moneyball (again)!
+§In my last post, I noted that the US has extended its dominance 
+of global equities in recent years, increasing its share of market 
+capitalization from 42% in at the start of 2023 to 44% at the start 
+of 2024 to 49% at the start of 2025. 
+§That rise was driven by a surge in US equity values during 
+2024, with stocks delivering returns of close to 25%, all the 
+more impressive, given that stocks delivered returns in excess 
+of 26% in 2023. 
+§In this session, I will zero in on US equities, in the aggregate, 
+first by looking at month-by-month returns during 2024, and 
+then putting their performance in the last two years in a 
+historical context.
+Aswath Damodaran 2
+Aswath Damodaran 3
+Aswath Damodaran 5
+§Looking at the 24.88% return in 2024 in terms of rankings, it ranks 
+as the 27th best year across the last 97 years, indicating that 
+while it was a good year, there have been far better years for US 
+stocks. 
+§Combining 2023 and 2024 returns yield a cumulative a two-year 
+return for the S&P 500 of 57.42%, making it one the ten best two-
+year periods in US market history.
+§The riskless alternative to investing in US stocks during this 
+period, in US dollar terms, are US treasuries, and in 2024, that 
+contest was won hands down by US equities:
+§Equity risk premium earned in 2024, over 3-month treasury bills
+= Return on stocks -Return on 3-month treasuries (averaged over 2024)
+= 24.88% -4.97% = 19.91%
+§Equity risk premium earned in 2024, over 10-year treasuries
+= Return on stocks -Return on 10-year treasury
+= 24.88% -1.64% = 26.52%
+Aswath Damodaran 6
+Aswath Damodaran 7
+§Many valuation practitioners use these historical averages, 
+when forecasting equity risk premiums in the future, but it is a 
+practice that deserves scrutiny, partly because 
+§it is backward looking (with the expectation that things will revert 
+back to the way they used to be)
+§but mostly because the estimates that you get for the equity risk 
+premium have significant error terms (see standard errors listed 
+below the estimates in the table). 
+§Thus, if are using the average equity risk premium for the last 
+97 years of 5.44% (7.00%), i.e., the arithmetic or geometric 
+averages, it behooves you to also inform users that the standard 
+error of 2.12% will create a range of about 4% on either side of 
+the estimate.
+Aswath Damodaran 9
+Aswath Damodaran 10
+§The earning to price ratio is the expected return on stocks only 
+if you make one of two assumptions:
+§That there will be no growth in earnings in the future, i.e., you will 
+earn last year's earnings every year in perpetuity, making stocks 
+into glorified bonds.
+§In a more subtle variants, there will be growth, but that growth will 
+come from investments that earn returns equal to the cost of equity.
+§The problem with both assumptions is that they are in conflict 
+with the data. 
+§First, the earnings on the S&P 500 companies has increased 
+6.58% a year between 2000 and 2024, making the no-growth 
+assumption a non-started. 
+§Second, the return on equity for the S&P 500 companies was 
+20.61% in 2023, and has averaged 16.38% since 2000, both 
+numbers well in excess of the cost of equity
+Aswath Damodaran 11
+Aswath Damodaran 12
+§Every argument about markets (from them being in a bubble to 
+basement level bargains) can be restated in terms of the equity 
+risk premium. 
+§If you believe that the equity risk premium today (4.33%) is too low, 
+you are, in effect, stating that stocks are overvalued, and if you view 
+it as too high, you are taking the opposite position.
+§If you are truly not in the market timing business, you take the 
+current premium as a fair premium and move on.
+§I will not hide behind the "one hand, other hand" dance that so 
+many strategists do. I think that we face significant volatility 
+(inflation, tariffs, war) in the year to come, and I would be more 
+comfortable with a higher ERP . At the same time, I don't fall into 
+the bubble crowd, since the ERP is not 2%, as it was at the end 
+of 1999.
+§I don't dish out market advice, and as one whose market timing 
+skills are questionable, you should not take my (or anyone 
+else’s) assessments at face value, especially heading into a 
+year, where change will be the byword. 
+§It is possible that lower taxes and less regulation may cause to 
+come in higher than expected, and that global investment fund 
+flows will keep interest rates and equity risk premiums low. 
+§My advice is that you download thevaluation spreadsheet, 
+change the inputs to reflect your views of the world, and value 
+the index yourself. 
+§Good investing requires taking ownership of the decisions and 
+judgments you make, and I am glad to provide tools that help 
+you in that process.

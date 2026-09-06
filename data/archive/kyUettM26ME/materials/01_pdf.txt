@@ -1,0 +1,156 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/ROESimple.pdf
+
+Back to Basics
+§While I was working on my last two data updates for 2025, I got 
+sidetracked, as I am wont to do, by two events. 
+§The first was the response that I received tomy last data update, 
+where I looked at the profitability of businesses, and specifically 
+at how acomparison of accounting returns on equity (capital) to 
+costs of equity (capital) can yield a measure of excess returns. 
+§The second was a comment that I made on a LinkedIn postthat 
+had built on my implied equity premium approach to the Indian 
+market but had run into a roadblock because of an assumption that, 
+in an efficient market, the return on equity would equate to the cost 
+of equity. 
+§I pointed to the flaw in the logic, but the comments thereafter 
+suggested such deep confusion about what returns on 
+equity or capital measure, and what comprises an efficient 
+market, that I think it does make sense to go back to basics and 
+see if some of the confusion can be cleared up.
+Aswath Damodaran 2
+Aswath Damodaran 3
+§On business A, the story has to beone of strong barriers to 
+entrythat allow it to sustain its excess returns in perpetuity, 
+and those could include anything from a superlative brand 
+name to patent protection to exclusive access to a natural 
+resource. In the absence of these competitive advantages, these 
+excess returns would have faded very quickly over time.
+§On business B, you have a challenge, since it does seem 
+irrational that an entrepreneur would enter a bad business, and 
+while that irrationality cannot be ruled out (perhaps the 
+entrepreneur thinks that earning any profit makes for a good 
+business), the reality is that outside events can wreak havoc 
+on the bet paid plans of businesses. For instance, it is 
+possible that the entrepreneur’s initial expectations were that 
+he or she would earn much more than 5%, but a competitor 
+launching a much better product or a regulatory change could 
+have changed those expectations.
+Aswath Damodaran 5
+§If markets are efficient, the price to book ratios will reflect the 
+quality of these companies.
+§In this example, for instance, business A, with a market value of 
+equity of $150 million and a book value of equity of $60 million, will 
+trade at 2.50 times book value, whereas company B with a market 
+value of equity of $30 million and a book value of equity of $60 
+million will trade at half of book value. 
+§Both companies would be fairly valued, though the first trades at 
+well above book value and the second at well below
+§This is why a lazy variant of value investing, built almost 
+entirely on buying stocks that trade at low price to book ratio,, 
+will lead you to holding bad businesses, not undervalued ones.
+Aswath Damodaran 6
+§The working definition that some commenters used for return 
+on equity was obtained bydividing the net income by the 
+market value of equity. 
+§That is not return on equity, but an earnings to price ratio, i.e., 
+the earnings yield, and in these examples,with no growth and 
+perpetual (constant) net income, that earnings yield will be 
+equal to the cost of equity in an efficient market.
+§However, in a world with growth and reinvestment, the 
+relationship between earnings yield and cost of equity will not 
+yield a conclusion about market efficiency.
+¨8
+§To illustrate with our simple example, assume that half the 
+money invested in business A is in R&D, which accountants 
+expense, instead of capitalizing. 
+§That business will report a loss of $15 million (with the R&D 
+expense of $30 million more than wiping out the profit of $15 
+million) in the first year on book capital of $30 million (the 
+portion of the capital invested that is not R&D), but in the years 
+following, it will report a return on equity of 50% (since net 
+income will revert back to $15 million, and equity will stay at 
+$30 million). 
+§Carrying this through to the real world, you should not be 
+surprised to see technology and pharmaceutical 
+companies, the two biggest spenders on R&D, report much 
+higher accounting returns than they are actually earning on 
+their investments..
+Aswath Damodaran 9
+§As assets age, two tensions appear that can throw off book 
+value, the first beinginflation, which if not adjusted for, will 
+result in the book value being understated, and accounting 
+returns overstated. 
+§The other isaccounting depreciation, which often has little to 
+do with economic depreciation (value lost from aging), and 
+subject to gaming. 
+§Extrapolating, projects and companies with older assets will 
+tend to have overstated accounting returns, as inflation and 
+depreciation lay waste to book values. In fact, with an aging 
+company, and adding in stock buybacks, the book value of 
+equity can become negative(and is negative for about 10% 
+of the companies in my company data sample).
+Aswath Damodaran 10
+§In my view, fair value accounting is pointless, and I can use my 
+simple example to illustrate why. 
+§If you marked the assets of both company A and company B to 
+market, you would end with book values of $150 million and 
+$30 million for the two companies and returns on equity of 10% 
+for both firms. 
+§In short, if fair value accounting does what it is supposed to do, 
+every firm in the market will earn a return on equity (capital) equal 
+to the cost of equity (capital), rendering it useless as a metric for 
+separating good and bad businesses. 
+§If fair value accounting fails at what it is supposed to do, which is 
+the more likely scenario, you will end up with book values of equity 
+that measure neither original capital invested nor current market 
+value, and returns on equity and capital that become noise.
+§Introducing growth into the equation changes none of the 
+conclusions that we have drawn so far, butit makes reading both 
+the return on equity and the earnings yield much messier.
+§To see why, assume that company A in the example continues to have no 
+growth, but company B expects to see compounded annual growth of 
+50% a year in its net income of $3 million for the next decade.
+§We can no longer consign company B to the bad business pile as easily, 
+and the current earnings to price ratio for that company will no longer 
+be equal to the cost of equity, even if markets are efficient. 
+§Incorporating growth into the analysis will also mean that net 
+income is not equal to cash flow, since some or a large portion of 
+that net income will have to get reinvested back to deliver the 
+growth. 
+§In fact, this is the argument that I used inmy second data updateto 
+explain why comparing the earnings yield to the treasury bond 
+rate is unlikely to yield a complete assessment of whether stocks 
+are under or over valued, since it ignores growth and reinvestment 
+entirely.
+§This example also helps to bring home why it is so difficult for 
+companies in bad businesses to fix their "badness" or exit their 
+businesses. 
+§In the case of company B, for instance, telling the manager to 
+find projects that earn more than 10% is advice that can be 
+freely dished out, but how exactly do you invent good projects 
+in a business that has turned bad? 
+§While exiting the business seems to be a better choice, that 
+presupposes that you will get your capital ($60 million) back 
+when you do, but in the real world, potential buyers will 
+discount that value. 
+§In fact, if you divest or sell the bad business for less than $30 
+million, you are actually worse off than staying in the business and 
+continuing to generate $3 million a year in perpetuity, which has a 
+$30 million value.
+§Many of the comments on my seventh data update and on my 
+explanation about why ROE and cost of equity don’t have to be 
+equal in an efficient market came from people with degrees and 
+certifications in finance, and quite a few of the commenters had 
+“finance professional” listed in their profile. 
+§Rather than take issue with them, I would argue that this 
+misunderstanding of basics is a damning indictment of how we 
+teach these concepts and topics in the classroom, and one 
+reason that I wrote this post is to remind myself that I have to 
+revisit the basics, before making ambitious leaps into corporate 
+financial analysis and valuation. 
+§For those of you who are not finance professionals, but rely on them 
+for advice, I hope this is a cautionary note on taking these 
+professionals (consultants, appraisers, bankers) at their word. 
+Some of them throw buzzwords and metrics around, with little 
+understanding of what they mean and how they are related, and it 
+is caveat emptor.

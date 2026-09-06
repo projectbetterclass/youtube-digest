@@ -1,5 +1,16 @@
 {
   "videos": {
+    "-X13GINFYOY": {
+      "channel": "Vinh Giang",
+      "had_materials": false,
+      "published": "2026-09-04T14:00:20+00:00",
+      "takeaway": "The main barrier to joining conversations isn't lack of knowledge—it's assuming you must have expertise to contribute. Instead, ask curious questions, signal your desire to participate with body language and small vocal cues, and practice systematically.",
+      "title": "How to Join Conversations Without Feeling Awkward",
+      "transcript_available": true,
+      "transcript_path": "data/archive/-X13GINFYOY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=-X13GINFYOY",
+      "verdict": "skim"
+    },
     "0B3s8uoH5X4": {
       "channel": "The Diary Of A CEO",
       "had_materials": false,
@@ -22,6 +33,17 @@
       "url": "https://www.youtube.com/shorts/0C2qldDF8HY",
       "verdict": "skim"
     },
+    "0FeHGmeqcX0": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 11: Hurdle Rates Closure and First Steps on Investment Returns",
+      "transcript_available": true,
+      "transcript_path": "data/archive/0FeHGmeqcX0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=0FeHGmeqcX0",
+      "verdict": ""
+    },
     "0faNl-maR5o": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -31,6 +53,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/0faNl-maR5o/transcript.md",
       "url": "https://www.youtube.com/watch?v=0faNl-maR5o",
+      "verdict": ""
+    },
+    "0o1MQ7bzaEw": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Beat you Bot: Building your moat against AI!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/0o1MQ7bzaEw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=0o1MQ7bzaEw",
       "verdict": ""
     },
     "0pTXwulvxzA": {
@@ -55,6 +88,17 @@
       "url": "https://www.youtube.com/shorts/1Bq1_U4ENO4",
       "verdict": "skip"
     },
+    "1gLQS2v6rqE": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "For the fun of it: An Open House for my Spring 2025 Classes",
+      "transcript_available": true,
+      "transcript_path": "data/archive/1gLQS2v6rqE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=1gLQS2v6rqE",
+      "verdict": ""
+    },
     "1s5K9XLuHts": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -75,6 +119,28 @@
       "transcript_available": true,
       "transcript_path": "data/archive/1yqs3xDKS3Y/transcript.md",
       "url": "https://www.youtube.com/shorts/1yqs3xDKS3Y",
+      "verdict": "skim"
+    },
+    "2IeIpahp5X4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 6 for 2025: From Macro to Micro - The Hurdle Rate Question",
+      "transcript_available": true,
+      "transcript_path": "data/archive/2IeIpahp5X4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=2IeIpahp5X4",
+      "verdict": ""
+    },
+    "2UOZrF6koII": {
+      "channel": "Vinh Giang",
+      "had_materials": false,
+      "published": "2026-09-05T14:00:14+00:00",
+      "takeaway": "Pausing before answering a question gives your brain time to organize thoughts, reduces anxiety, and produces more coherent responses than answering immediately.",
+      "title": "Life hack: Pause before answering",
+      "transcript_available": true,
+      "transcript_path": "data/archive/2UOZrF6koII/transcript.md",
+      "url": "https://www.youtube.com/shorts/2UOZrF6koII",
       "verdict": "skim"
     },
     "2d4u80LmRQ8": {
@@ -154,6 +220,17 @@
       "url": "https://www.youtube.com/shorts/4Ez05s0Pvsg",
       "verdict": "skim"
     },
+    "4ZWSccnMaa4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 16: The Debt Equity Tradeoff",
+      "transcript_available": true,
+      "transcript_path": "data/archive/4ZWSccnMaa4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=4ZWSccnMaa4",
+      "verdict": ""
+    },
     "4klivapz4Gw": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -198,6 +275,28 @@
       "url": "https://www.youtube.com/shorts/5AO6szlhG3E",
       "verdict": "skim"
     },
+    "5T6okaHVqAU": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-04T22:00:17+00:00",
+      "takeaway": "Bipolar disorder causes excessive rather than insufficient motivation, with the challenge being to regulate it through sleep and self-pacing rather than suppress it.",
+      "title": "How Does BPD Affect Your Motivation",
+      "transcript_available": true,
+      "transcript_path": "data/archive/5T6okaHVqAU/transcript.md",
+      "url": "https://www.youtube.com/shorts/5T6okaHVqAU",
+      "verdict": "skim"
+    },
+    "5rhild0Juf4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 1: Class themes, structure and logistics",
+      "transcript_available": true,
+      "transcript_path": "data/archive/5rhild0Juf4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=5rhild0Juf4",
+      "verdict": ""
+    },
     "5vBgs_L5fs8": {
       "channel": "Starter Story",
       "had_materials": false,
@@ -207,6 +306,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/5vBgs_L5fs8/transcript.md",
       "url": "https://www.youtube.com/shorts/5vBgs_L5fs8",
+      "verdict": "skim"
+    },
+    "67WBfwi5Ruw": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-04T15:00:33+00:00",
+      "takeaway": "Reality dating shows exploit our evolutionary drive for gossip and social intelligence, but pose a developmental risk—especially for young viewers—by creating unrealistic beauty and relationship expectations when they lack real-world dating experience.",
+      "title": "Why Are We Obsessed with Reality Dating Shows",
+      "transcript_available": true,
+      "transcript_path": "data/archive/67WBfwi5Ruw/transcript.md",
+      "url": "https://www.youtube.com/shorts/67WBfwi5Ruw",
       "verdict": "skim"
     },
     "6JLvhmGzeuQ": {
@@ -319,6 +429,28 @@
       "url": "https://www.youtube.com/watch?v=9lsnEn0tih4",
       "verdict": "watch"
     },
+    "9qCpo3nVHlc": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "A Big Tech Breakup: Cui Bono?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/9qCpo3nVHlc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=9qCpo3nVHlc",
+      "verdict": ""
+    },
+    "9xpEYFWUIyM": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-04T15:00:24+00:00",
+      "takeaway": "Popular romance narratives teach women to interpret emotional unavailability and instability as desirable, rewarding dysfunction with attention and leaving men with little incentive to be emotionally mature or committed.",
+      "title": "Why Women Never Choose The Nice Guy",
+      "transcript_available": true,
+      "transcript_path": "data/archive/9xpEYFWUIyM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=9xpEYFWUIyM",
+      "verdict": "skim"
+    },
     "AAi9QIl6gw8": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -362,6 +494,17 @@
       "transcript_path": "data/archive/Ah8iX7Oh2CY/transcript.md",
       "url": "https://www.youtube.com/shorts/Ah8iX7Oh2CY",
       "verdict": "skim"
+    },
+    "AvbfOyLSrfk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 3 for 2025: The times they are a'changin...",
+      "transcript_available": true,
+      "transcript_path": "data/archive/AvbfOyLSrfk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=AvbfOyLSrfk",
+      "verdict": ""
     },
     "B2f-iIevZzI": {
       "channel": "HealthyGamerGG",
@@ -417,6 +560,39 @@
       "transcript_path": "data/archive/CUB3BasbrJA/transcript.md",
       "url": "https://www.youtube.com/shorts/CUB3BasbrJA",
       "verdict": "skim"
+    },
+    "CncUmN65lDs": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 12: Incremental, time-weighted Cash Flow Returns",
+      "transcript_available": true,
+      "transcript_path": "data/archive/CncUmN65lDs/transcript.md",
+      "url": "https://www.youtube.com/watch?v=CncUmN65lDs",
+      "verdict": ""
+    },
+    "CqwuN4dLLFg": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 2: The End Game in Business",
+      "transcript_available": true,
+      "transcript_path": "data/archive/CqwuN4dLLFg/transcript.md",
+      "url": "https://www.youtube.com/watch?v=CqwuN4dLLFg",
+      "verdict": ""
+    },
+    "D9UUm4oeeuU": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Just do it! Brand Name Lessons from Nike's Troubles!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/D9UUm4oeeuU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=D9UUm4oeeuU",
+      "verdict": ""
     },
     "DnzuNesLBt0": {
       "channel": "Vinh Giang",
@@ -561,6 +737,17 @@
       "url": "https://www.youtube.com/watch?v=I0WoAw2Wn4o",
       "verdict": "watch"
     },
+    "IPTe5Ww2kOk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 3: Corporate Governance - Power abhors a vacuum!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/IPTe5Ww2kOk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=IPTe5Ww2kOk",
+      "verdict": ""
+    },
     "IzZ-P26eyFQ": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -594,6 +781,17 @@
       "url": "https://www.youtube.com/watch?v=JSQaAQndlyg",
       "verdict": "watch"
     },
+    "JW916OxHP4U": {
+      "channel": "Vinh Giang",
+      "had_materials": false,
+      "published": "2026-09-04T13:51:22+00:00",
+      "takeaway": "Roleplay difficult conversations in advance to find and rehearse your key words and ideas, so you can deliver them clearly under pressure instead of rambling when it matters.",
+      "title": "The power of roleplaying hard conversations",
+      "transcript_available": true,
+      "transcript_path": "data/archive/JW916OxHP4U/transcript.md",
+      "url": "https://www.youtube.com/shorts/JW916OxHP4U",
+      "verdict": "skim"
+    },
     "JZd5mUPg1XM": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -604,6 +802,17 @@
       "transcript_path": "data/archive/JZd5mUPg1XM/transcript.md",
       "url": "https://www.youtube.com/shorts/JZd5mUPg1XM",
       "verdict": "skim"
+    },
+    "JZzuZznpgfc": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 5 for 2025: It is a small world after all!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/JZzuZznpgfc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=JZzuZznpgfc",
+      "verdict": ""
     },
     "Jq55_yR_wJ4": {
       "channel": "Aswath Damodaran",
@@ -638,6 +847,17 @@
       "url": "https://www.youtube.com/shorts/JyAc0TunBhM",
       "verdict": "skim"
     },
+    "KDw5AUzFi20": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The Sugar Daddy Effect? Corporate Venture Capital, Sovereign Wealth Funds and Green Investing!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/KDw5AUzFi20/transcript.md",
+      "url": "https://www.youtube.com/watch?v=KDw5AUzFi20",
+      "verdict": ""
+    },
     "Ka_oFIhWmwo": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -660,6 +880,17 @@
       "url": "https://www.youtube.com/watch?v=Kk7BEn3Y4XY",
       "verdict": ""
     },
+    "L1pI-bxewHQ": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-04T21:00:11+00:00",
+      "takeaway": "Williamson argues that extreme productivity in high-achievers often stems from anxiety and fear-based motivation rather than inherent discipline or joy in work.",
+      "title": "Why Successful People Are So Productive",
+      "transcript_available": true,
+      "transcript_path": "data/archive/L1pI-bxewHQ/transcript.md",
+      "url": "https://www.youtube.com/shorts/L1pI-bxewHQ",
+      "verdict": "skip"
+    },
     "L9mMfAFwbl4": {
       "channel": "Two Minute Papers",
       "had_materials": false,
@@ -671,6 +902,17 @@
       "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
       "verdict": ""
     },
+    "LAUzEketa5o": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-04T17:00:28+00:00",
+      "takeaway": "As you age, you must evolve your approach and values beyond what made you successful when young; failing to do so leaves you stuck, miserable, and chasing validations that no longer fit.",
+      "title": "The Hidden Cost Of Never Leveling Up",
+      "transcript_available": true,
+      "transcript_path": "data/archive/LAUzEketa5o/transcript.md",
+      "url": "https://www.youtube.com/shorts/LAUzEketa5o",
+      "verdict": "skim"
+    },
     "LTDZCLjCa-E": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -680,6 +922,28 @@
       "transcript_available": true,
       "transcript_path": "data/archive/LTDZCLjCa-E/transcript.md",
       "url": "https://www.youtube.com/watch?v=LTDZCLjCa-E",
+      "verdict": ""
+    },
+    "LacfrEOh8kw": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 8 for 2025: The Draw and Drawbacks of Debt",
+      "transcript_available": true,
+      "transcript_path": "data/archive/LacfrEOh8kw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=LacfrEOh8kw",
+      "verdict": ""
+    },
+    "LejPvcakKpE": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "The Wisdom (and Madness) of Crowds: Political Markets as Election Predictors!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/LejPvcakKpE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=LejPvcakKpE",
       "verdict": ""
     },
     "Lf5oqGOCRCM": {
@@ -781,6 +1045,17 @@
       "url": "https://www.youtube.com/shorts/NtgKqFwOgq0",
       "verdict": "skip"
     },
+    "NzNI5B-E-74": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-05T15:00:03+00:00",
+      "takeaway": "Secure relationships require intentional design and explicit agreements rather than relying on love alone; quick repair of conflicts and understanding the neurobiology of threat response are essential to prevent long-term damage to the relationship.",
+      "title": "Couples Therapist: Why Your Brain Turns Your Partner Into An Enemy - Stan Tatkin",
+      "transcript_available": true,
+      "transcript_path": "data/archive/NzNI5B-E-74/transcript.md",
+      "url": "https://www.youtube.com/watch?v=NzNI5B-E-74",
+      "verdict": "watch"
+    },
     "O0cDM9i6wVQ": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -836,6 +1111,17 @@
       "url": "https://www.youtube.com/watch?v=OVC6HpNo8yM",
       "verdict": "watch"
     },
+    "OYSeBGkbDPM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The Siren Song of Sustainability: The Theocratic Trifecta's Third Leg!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/OYSeBGkbDPM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=OYSeBGkbDPM",
+      "verdict": ""
+    },
     "OYg6BTjb90E": {
       "channel": "The Diary Of A CEO",
       "had_materials": false,
@@ -846,6 +1132,17 @@
       "transcript_path": "data/archive/OYg6BTjb90E/transcript.md",
       "url": "https://www.youtube.com/watch?v=OYg6BTjb90E",
       "verdict": "watch"
+    },
+    "Oax7apxhUP8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 16: Investing in Middle Age",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Oax7apxhUP8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Oax7apxhUP8",
+      "verdict": ""
     },
     "OfPOtN51MpM": {
       "channel": "HealthyGamerGG",
@@ -869,6 +1166,17 @@
       "url": "https://www.youtube.com/shorts/PURtGKUA0ms",
       "verdict": "skim"
     },
+    "Pt-tJJZNFPo": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 4 for 2025: Interest Rates, Inflation and the Fed!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Pt-tJJZNFPo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Pt-tJJZNFPo",
+      "verdict": ""
+    },
     "Q-fNarRKs8s": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -891,6 +1199,17 @@
       "url": "https://www.youtube.com/watch?v=QID0UbRuIYk",
       "verdict": ""
     },
+    "QSLmM2lli4w": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-09-04T13:48:53+00:00",
+      "takeaway": "The forward-and-backward lean variation in rowing distributes muscular demand across erectors, lats, rear delts, and upper-back stabilizers, making it a more comprehensive back builder than staying in one torso position.",
+      "title": "What makes this row special?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/QSLmM2lli4w/transcript.md",
+      "url": "https://www.youtube.com/shorts/QSLmM2lli4w",
+      "verdict": "watch"
+    },
     "R1U3_7fmdqk": {
       "channel": "Aswath Damodaran",
       "had_materials": false,
@@ -911,6 +1230,17 @@
       "transcript_available": false,
       "transcript_path": "data/archive/R7McLmx73Xw/transcript.md",
       "url": "https://www.youtube.com/watch?v=R7McLmx73Xw",
+      "verdict": "skim"
+    },
+    "RAVhAF3Xo2g": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-05T07:01:26+00:00",
+      "takeaway": "To outcompete someone, you typically need to do 10–30x their visible volume, not just match or slightly exceed it—because they're also doing unseen work behind the scenes.",
+      "title": "You Need to Work 10-30x More Than You Think",
+      "transcript_available": true,
+      "transcript_path": "data/archive/RAVhAF3Xo2g/transcript.md",
+      "url": "https://www.youtube.com/shorts/RAVhAF3Xo2g",
       "verdict": "skim"
     },
     "REKvZ-oY9Z4": {
@@ -935,6 +1265,17 @@
       "url": "https://www.youtube.com/shorts/RFaKieqL5No",
       "verdict": "watch"
     },
+    "RNeCC28qbVI": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 10: Debt and the Cost of Debt",
+      "transcript_available": true,
+      "transcript_path": "data/archive/RNeCC28qbVI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=RNeCC28qbVI",
+      "verdict": ""
+    },
     "RNyx2zZiObE": {
       "channel": "David Carbutt",
       "had_materials": false,
@@ -945,6 +1286,39 @@
       "transcript_path": "data/archive/RNyx2zZiObE/transcript.md",
       "url": "https://www.youtube.com/watch?v=RNyx2zZiObE",
       "verdict": "watch"
+    },
+    "RdmYUULKf7s": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-05T15:00:06+00:00",
+      "takeaway": "\nAddictive personality stems from an imbalance between pleasure/pain drives and willpower, manifesting as compulsive chasing of pleasure when in pain or when excited. The solution is mental detachment—learning to sit with discomfort and joy without obsessing or using one to escape the other, while still taking constructive action.\n",
+      "title": "Why Normal Life Feels So Boring",
+      "transcript_available": true,
+      "transcript_path": "data/archive/RdmYUULKf7s/transcript.md",
+      "url": "https://www.youtube.com/watch?v=RdmYUULKf7s",
+      "verdict": "watch"
+    },
+    "RpuuRS6mkx8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Fed up with Fed Talk: Central Banking Fairy Tales and Facts!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/RpuuRS6mkx8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=RpuuRS6mkx8",
+      "verdict": ""
+    },
+    "SCpqqrW-rrc": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 1 for 2025: The Draw (and Dangers) of Data!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/SCpqqrW-rrc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=SCpqqrW-rrc",
+      "verdict": ""
     },
     "SRpJEkzJpKs": {
       "channel": "Aswath Damodaran",
@@ -1034,6 +1408,17 @@
       "url": "https://www.youtube.com/shorts/UiApJNxW4nQ",
       "verdict": "skim"
     },
+    "VgGdPZH0Aqs": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "published": "2026-09-04T15:55:32+00:00",
+      "takeaway": "Piotr's solo-built AI rendering tool for architects went from $100/mo to $10K/mo in 6 months after simplifying the product from a complex node-based interface to a simple chat interface—proving the bottleneck was UX, not marketing.",
+      "title": "Bro was stuck at $100/month for 2 years. Then one pivot scalled him to $10K MRR.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/VgGdPZH0Aqs/transcript.md",
+      "url": "https://www.youtube.com/shorts/VgGdPZH0Aqs",
+      "verdict": "watch"
+    },
     "VzKuSqiwc3s": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -1088,6 +1473,17 @@
       "transcript_path": "data/archive/XDDAUfVqP1g/transcript.md",
       "url": "https://www.youtube.com/shorts/XDDAUfVqP1g",
       "verdict": "skim"
+    },
+    "XdQYzxD4mt8": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-05T05:00:57+00:00",
+      "takeaway": "\nBusiness success depends on expanding the gap between customer acquisition cost and lifetime profit per customer—not just chasing high-revenue sales that destroy margins.\n",
+      "title": "You're Spending $50 to Make $10 in Profit",
+      "transcript_available": true,
+      "transcript_path": "data/archive/XdQYzxD4mt8/transcript.md",
+      "url": "https://www.youtube.com/shorts/XdQYzxD4mt8",
+      "verdict": "watch"
     },
     "XfX2y3o1IZY": {
       "channel": "Leila Hormozi",
@@ -1221,6 +1617,39 @@
       "url": "https://www.youtube.com/watch?v=_0XAJUI33VQ",
       "verdict": "watch"
     },
+    "_SxIBHEGhbo": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 5: Closure on the end game and first steps on risk",
+      "transcript_available": true,
+      "transcript_path": "data/archive/_SxIBHEGhbo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=_SxIBHEGhbo",
+      "verdict": ""
+    },
+    "_wkLQuIW8CY": {
+      "channel": "Felix & Friends (Goat Academy)",
+      "had_materials": false,
+      "published": "2026-09-05T13:00:21+00:00",
+      "takeaway": "Gold ETFs are \"paper gold\" that shrink annually and don't provide real insurance; physical allocated metal, mining stocks, and royalty companies each serve different purposes within a modest 5–15% portfolio tilt.",
+      "title": "I Am NEVER Buying 'Gold' Again",
+      "transcript_available": true,
+      "transcript_path": "data/archive/_wkLQuIW8CY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=_wkLQuIW8CY",
+      "verdict": "watch"
+    },
+    "awEyDWhEdhg": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 9: More on beta - bottom up betas and private company betas",
+      "transcript_available": true,
+      "transcript_path": "data/archive/awEyDWhEdhg/transcript.md",
+      "url": "https://www.youtube.com/watch?v=awEyDWhEdhg",
+      "verdict": ""
+    },
     "bGl1rnc6ioc": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -1252,6 +1681,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/bm1zE4wCQvI/transcript.md",
       "url": "https://www.youtube.com/watch?v=bm1zE4wCQvI",
+      "verdict": ""
+    },
+    "cLotdkcvdd4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 4: Closure on the End Game - Stakeholders, Sustainability and ESG",
+      "transcript_available": true,
+      "transcript_path": "data/archive/cLotdkcvdd4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=cLotdkcvdd4",
       "verdict": ""
     },
     "cZE5AOQpjw4": {
@@ -1287,6 +1727,28 @@
       "url": "https://www.youtube.com/watch?v=dRBc9uFgD_A",
       "verdict": ""
     },
+    "f8Xf76QaHSg": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 9 for 2025: Dividends and Buybacks - Inertia and Me-tooism!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/f8Xf76QaHSg/transcript.md",
+      "url": "https://www.youtube.com/watch?v=f8Xf76QaHSg",
+      "verdict": ""
+    },
+    "fNG3DjdvX9s": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-04T10:03:26+00:00",
+      "takeaway": "Rebranding your lowest-tier offering as 'The Minimum Package' uses linguistic framing to nudge prospects toward seeing it as a baseline they should accept, rather than a discount option they might reject.",
+      "title": "Name Your Cheapest Package 'The Minimum Package'",
+      "transcript_available": true,
+      "transcript_path": "data/archive/fNG3DjdvX9s/transcript.md",
+      "url": "https://www.youtube.com/shorts/fNG3DjdvX9s",
+      "verdict": "skim"
+    },
     "fTZL5l_C3nQ": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -1320,6 +1782,28 @@
       "url": "https://www.youtube.com/watch?v=fbesNIjd_pY",
       "verdict": ""
     },
+    "fdEnaqWUYzM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 17: Optimizing the Debt Mix with Cost of Capital approach",
+      "transcript_available": true,
+      "transcript_path": "data/archive/fdEnaqWUYzM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=fdEnaqWUYzM",
+      "verdict": ""
+    },
+    "fx5jnE5HnhE": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "DeepSeek crashes the AI Party: Story break, change or shift?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/fx5jnE5HnhE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=fx5jnE5HnhE",
+      "verdict": ""
+    },
     "g-yLqW3xvms": {
       "channel": "David Carbutt",
       "had_materials": false,
@@ -1330,6 +1814,17 @@
       "transcript_path": "data/archive/g-yLqW3xvms/transcript.md",
       "url": "https://www.youtube.com/shorts/g-yLqW3xvms",
       "verdict": "skip"
+    },
+    "g3VT_cclr4U": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Dealing with Decline: Intel, Walgreens and Starbucks put to the test!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/g3VT_cclr4U/transcript.md",
+      "url": "https://www.youtube.com/watch?v=g3VT_cclr4U",
+      "verdict": ""
     },
     "gEiVGylOgZw": {
       "channel": "HealthyGamerGG",
@@ -1352,6 +1847,17 @@
       "transcript_path": "data/archive/ggDh_I7CVZ0/transcript.md",
       "url": "https://www.youtube.com/shorts/ggDh_I7CVZ0",
       "verdict": "skim"
+    },
+    "gogGFGDyF9c": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Investing Politics: Making Sense of Trump, Tariffs and Tesla!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/gogGFGDyF9c/transcript.md",
+      "url": "https://www.youtube.com/watch?v=gogGFGDyF9c",
+      "verdict": ""
     },
     "gqi8qlUwqPs": {
       "channel": "Ben Yanes",
@@ -1452,6 +1958,17 @@
       "url": "https://www.youtube.com/watch?v=jv-mk7lpIdg",
       "verdict": ""
     },
+    "k7fGl2kvq-U": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 14: Choosing between investments and Side Costs/Benefits",
+      "transcript_available": true,
+      "transcript_path": "data/archive/k7fGl2kvq-U/transcript.md",
+      "url": "https://www.youtube.com/watch?v=k7fGl2kvq-U",
+      "verdict": ""
+    },
     "kCY86gxv-h0": {
       "channel": "Tom Nash",
       "had_materials": false,
@@ -1473,6 +1990,28 @@
       "transcript_path": "data/archive/kDh66K-jyJc/transcript.md",
       "url": "https://www.youtube.com/shorts/kDh66K-jyJc",
       "verdict": "skim"
+    },
+    "kVk0v0l6s8A": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 7 for 2025: The End Game in Business",
+      "transcript_available": true,
+      "transcript_path": "data/archive/kVk0v0l6s8A/transcript.md",
+      "url": "https://www.youtube.com/watch?v=kVk0v0l6s8A",
+      "verdict": ""
+    },
+    "kyUettM26ME": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "ROE, Returns to Shareholders, Good/Bad Companies and Efficient Markets: Back to Basics",
+      "transcript_available": true,
+      "transcript_path": "data/archive/kyUettM26ME/transcript.md",
+      "url": "https://www.youtube.com/watch?v=kyUettM26ME",
+      "verdict": ""
     },
     "kyZ1KjV49nE": {
       "channel": "Aswath Damodaran",
@@ -1551,6 +2090,17 @@
       "url": "https://www.youtube.com/shorts/mk5mgbX7UvY",
       "verdict": "skim"
     },
+    "nGXi-YnQqao": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 7: Equity Risk Premiums and Betas",
+      "transcript_available": true,
+      "transcript_path": "data/archive/nGXi-YnQqao/transcript.md",
+      "url": "https://www.youtube.com/watch?v=nGXi-YnQqao",
+      "verdict": ""
+    },
     "nNlvhJj86pw": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -1560,6 +2110,28 @@
       "transcript_available": true,
       "transcript_path": "data/archive/nNlvhJj86pw/transcript.md",
       "url": "https://www.youtube.com/watch?v=nNlvhJj86pw",
+      "verdict": "skim"
+    },
+    "nQ9OFaatyPA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 8: Expected returns and Costs of Equity",
+      "transcript_available": true,
+      "transcript_path": "data/archive/nQ9OFaatyPA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=nQ9OFaatyPA",
+      "verdict": ""
+    },
+    "nStxEbIDdtM": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-05T00:01:37+00:00",
+      "takeaway": "Hire specialists for teaching-through-execution (paid coaching) rather than outsourced hands-off management—you'll learn faster, retain control, and reduce dependency.",
+      "title": "Pay the Expert to Teach You, Not to Do the Work",
+      "transcript_available": true,
+      "transcript_path": "data/archive/nStxEbIDdtM/transcript.md",
+      "url": "https://www.youtube.com/shorts/nStxEbIDdtM",
       "verdict": "skim"
     },
     "nTWoZKj_Ug8": {
@@ -1595,6 +2167,17 @@
       "url": "https://www.youtube.com/shorts/nxfDMIpcljQ",
       "verdict": "skim"
     },
+    "oeRtLInQTAM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 6: Riskfree Rates and Equity Risk Premiums",
+      "transcript_available": true,
+      "transcript_path": "data/archive/oeRtLInQTAM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=oeRtLInQTAM",
+      "verdict": ""
+    },
     "ovdJagfSMwM": {
       "channel": "Vinh Giang",
       "had_materials": false,
@@ -1605,6 +2188,17 @@
       "transcript_path": "data/archive/ovdJagfSMwM/transcript.md",
       "url": "https://www.youtube.com/shorts/ovdJagfSMwM",
       "verdict": "skip"
+    },
+    "pz2hF0_ygm4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 15: Celsius Case Analysis, Real Options and Investment Post-mortems",
+      "transcript_available": true,
+      "transcript_path": "data/archive/pz2hF0_ygm4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=pz2hF0_ygm4",
+      "verdict": ""
     },
     "q3zrIPuy0tM": {
       "channel": "Chris Williamson",
@@ -1659,6 +2253,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/qKvotUBFuj4/transcript.md",
       "url": "https://www.youtube.com/watch?v=qKvotUBFuj4",
+      "verdict": ""
+    },
+    "qOGZk9Ypk1Y": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "The Power of Expectations: Nvidia's Earnings Report and Market Reaction",
+      "transcript_available": true,
+      "transcript_path": "data/archive/qOGZk9Ypk1Y/transcript.md",
+      "url": "https://www.youtube.com/watch?v=qOGZk9Ypk1Y",
       "verdict": ""
     },
     "qbQQ8o4VOsg": {
@@ -1793,6 +2398,28 @@
       "url": "https://www.youtube.com/shorts/uK3agwRdhmQ",
       "verdict": "skip"
     },
+    "uaLNfijnp-8": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-04T14:00:02+00:00",
+      "takeaway": "\nA dental practice scaled from $2M to on-track $3.3M annual revenue (and $500k/month) in 90 days by removing the founder's bottleneck, shifting to upfront payment, raising prices without losing sales, and improving speed-to-lead—not by opening new locations or major marketing changes.\n",
+      "title": "This Video Should Be Required Viewing for Business Owners",
+      "transcript_available": true,
+      "transcript_path": "data/archive/uaLNfijnp-8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=uaLNfijnp-8",
+      "verdict": "watch"
+    },
+    "ubzhh4kMCLo": {
+      "channel": "Riley Brown",
+      "had_materials": false,
+      "published": "2026-09-04T16:54:09+00:00",
+      "takeaway": "ChatGPT Work enables cloud-based AI agents to autonomously manage business tasks like hiring, content research, and reporting by connecting to multiple apps and running on daily/monthly schedules.",
+      "title": "8 Agents That Make ChatGPT 10x MORE Powerful",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ubzhh4kMCLo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ubzhh4kMCLo",
+      "verdict": "watch"
+    },
     "ufG0-8sYgRQ": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -1803,6 +2430,17 @@
       "transcript_path": "data/archive/ufG0-8sYgRQ/transcript.md",
       "url": "https://www.youtube.com/watch?v=ufG0-8sYgRQ",
       "verdict": "watch"
+    },
+    "vxuuxJ68Dj8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Session 13: Dealing with uncertainty and more project analyses",
+      "transcript_available": true,
+      "transcript_path": "data/archive/vxuuxJ68Dj8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=vxuuxJ68Dj8",
+      "verdict": ""
     },
     "wK165GmLEiE": {
       "channel": "Alex Hormozi",
@@ -1835,6 +2473,28 @@
       "transcript_available": false,
       "transcript_path": "data/archive/xvsvFd09Z3M/transcript.md",
       "url": "https://www.youtube.com/watch?v=xvsvFd09Z3M",
+      "verdict": "skim"
+    },
+    "yCKTN71cwrA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Data Update 2 for 2025: The Party Continued for US Equities",
+      "transcript_available": true,
+      "transcript_path": "data/archive/yCKTN71cwrA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=yCKTN71cwrA",
+      "verdict": ""
+    },
+    "yqMBDSZbmOg": {
+      "channel": "Riley Brown",
+      "had_materials": false,
+      "published": "2026-09-04T17:42:19+00:00",
+      "takeaway": "OpenAI has launched ChatGPT Work, a feature that allows ChatGPT to control a cloud-based browser and computer to complete tasks autonomously, with secure credential handling that keeps usernames and passwords away from the model.",
+      "title": "ChatGPT was a chatbot.  Now it has its own computer.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/yqMBDSZbmOg/transcript.md",
+      "url": "https://www.youtube.com/shorts/yqMBDSZbmOg",
       "verdict": "skim"
     },
     "ywc0XluwQgY": {

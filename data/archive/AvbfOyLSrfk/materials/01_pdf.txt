@@ -1,0 +1,80 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate3for2025.pdf
+
+Change is the only constant!
+§In my first two data posts for 2025, I looked at the strong year 
+that US equities had in 2024, but a very good year for the 
+overall market does not always translate into equivalent 
+returns across segments of the market. 
+§I will remain focused on US equities, but classify them first by 
+sector, to see return variations across different industry 
+groupings, and then follow up by looking at companies broken 
+down by market capitalization. I also look how much the market 
+owes its winnings to its biggest companies, with a focus on the 
+Mag Seven.
+§In the next section, I look at stock returns for companies in 
+different price to book deciles, in a loose assessment of the 
+value premium. 
+Aswath Damodaran 2
+Aswath Damodaran 3
+Aswath Damodaran 5
+Aswath Damodaran 6
+Aswath Damodaran 7
+§Momentum story: A reasonable argument can be made that increasing 
+access to information and easing trading, for both individual and 
+institutional investing, with a boost from social media, has increased 
+momentum, and the stock prices of large cap stocks. The dark side of this 
+story, though, is that if the momentum ever shifted, these large cap stocks 
+could lose trillions in value.
+§Passive investing: Since many passive investing vehicles hold all ofthe 
+stocks in the index in proportion to their market cap, there presence and 
+growth creates fund flows into large cap stocks that keeps their prices 
+elevated.Here again, the dark side is that if fund flows reversed and 
+became negative, i.e., investors start pulling money out of markets, large 
+cap stocks will be disproportionately hurt.
+§Industry economics: In writing about the disruption unleashed by tech 
+start-ups, especially in the last two decades, I noted the they have changed 
+industry economics in many established businesses, replacing splintered, 
+dispersed competition with consolidation. As industries consolidate, we 
+are likely to see them dominated by a few, big winners, which will play out 
+in the stock market as well
+¨Aswath Damodaran ¨9
+Aswath Damodaran 10
+Aswath Damodaran 11
+§Price to book ≠ Value: It is true that using low price to book as an 
+indicator of value is simplistic, and that there are multiple other factors 
+(good management, earnings quality, moats) to consider before making a 
+value judgment. It is also true that as the market's center of gravity has 
+shifted towards companies with intangible assets, the troubles that 
+accountants have had in putting a number on intangible asset investments 
+has made book value less and less meaningful at companies, making it a 
+poorer and poorer indicator of what a company's assets are worth.
+§Momentum: In markets, return to value investing has generally moved 
+inversely with the strength of momentum. Thus, the same forces that have 
+strengthened the power of momentum, that we noted in the context of the 
+fading of the small cap premium, may also have diluted the power of value 
+investing.
+§Structural Shifts: At the heart of the premium earned by low price to book 
+ratios is mean reversion, with the high returns earned by these stocks 
+coming from moving towards the average over time. While that worked in 
+the twentieth century, when the US was the most mean-reverting and 
+predictable market/economy of all time, it has lost its power as disruption 
+and globalization have weakened mean reversion.
+§For investors:Active investing, as practiced today, since much of it is 
+based upon history and mean reversion. A mutual fund manager who 
+screens stocks for low PE ratios and high growth, while demanding a hefty 
+management fee, deserves to be replaced by an ETF or index fund, and 
+that displacement will continue, pruning the active management 
+population.
+§For traders:Traders live and die on momentum, and as market momentum 
+continues to get stronger, making money will look easy, until momentum 
+shifts. 
+§For companies:Companies that measure their success through stock 
+market returns may find that the market pricier has become a noisier 
+judge of their actions.Thus, a company that takes a value destructive path 
+that feeds into momentum may find the market rewarding it with a higher 
+price, but it is playing a dangerous game that could turn against it.
+§For regulators:With momentum comes volatility and corrections, as 
+momentum shifts, and those corrections will cause some ito lose money, 
+perhaps even their life savings. Regulators will feel the pressure to step in 
+and protect these investors from their overreach, but it will be futile, since 
+literally any investment can be an instrument for speculation.

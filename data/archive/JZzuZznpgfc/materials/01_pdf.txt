@@ -1,0 +1,99 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate5for2025.pdf
+
+Change is the only constant!
+§If the title sounds familiar, it is because is one of Disney’s most 
+iconic rides,  and is a mainstay of every Disney theme park, 
+from the original Disneyland in Anaheim to the newer theme 
+parks in Paris, Hong Kong and Shanghai. 
+§For those of who have never been on it, it is the favored ride for 
+anyone who is less than five in your group, since you spend ten 
+minutes in a boat going through the world as Disney would like 
+you to see it, full of peace, happiness, and goodwill. 
+§In this post, I will expand my analysis of data in 2024, which has 
+a been mostly US-centric in the first four of my posts, to my 
+version of the Disney ride, but on this trip, I have no choice but 
+to face the world as is, with all ofthe chaos it includes, with 
+tariffs and trade wars looming.
+Aswath Damodaran 2
+Aswath Damodaran 3
+§There are two problems with comparing returns in indices. 
+§First, they are indices and reflect a subset of stocks in each 
+market, with different criteria determining how each index is 
+constructed, and varying numbers of constituents. 
+§Second, they are in local currencies, and in nominal terms. Thus, 
+the 172.52% return in the Mervalbecomes less impressive when 
+inflation in Argentina is taken into account. 
+§It is for this reason that I chose to compute returns differently, 
+using the following constructs:
+§I included all publicly traded stocks in each market, or at least 
+those with a market capitalization available for them.
+§I converted all ofthe market capitalizations into US dollars, just to 
+make them comparable.
+§I aggregated the market capitalizations of all stocks at the end of 
+2023 and the end of 2024, andcomputed the percentage change.
+Aswath Damodaran 5
+Aswath Damodaran 6
+Aswath Damodaran 7
+¨Aswath Damodaran ¨9
+§If you start with a riskfree rate in a currency where you can 
+estimate it (sayUS dollars, Swiss Francs or Euros), all you need to 
+estimate a riskfree rate in another currency is the differential 
+inflation between the two currencies. 
+§Thus, if the US treasury bond rate (4.5%) is the riskfree rate in US 
+dollars, and the expected inflation rates in US dollars and Brazilian 
+reals are 2.5% and 7.5% respectively, the riskier rate in 
+Brazilianreals:
+Riskfree rate in $R = (1+ US 10-year T.BondRate) * (1 + Expected 
+inflation rate in $R)/ (1+ Expected inflation rate in US $) -1 = 1.045 
+*(1.075/1.025) -1 = 9.60%
+In approximate terms, this can be written as
+Riskfree rate in $R = US 10-year T.BondRate + (Expected inflation 
+rate in $R) -Expected inflation rate in US $) -1 = 4.5% -(7.5% -
+2.5%) = 9.50%
+Aswath Damodaran 10
+Aswath Damodaran 11
+§Treating the US as default-free is questionable, now that it has 
+threatened default multiple times in the last decade and has 
+lost its Aaarating with every ratings agency, other than 
+Moody’s. 
+§That is an easily fixable problem, though, since if you decide to use 
+S&P'sAA+ rating for the US, all it would require is that you net out 
+the default spread of 0.40% (for aAA+ rating at the start of 2025) 
+from the US ERP to get a mature market premium of 3.93% (4.33% 
+minus 0.40%). 
+§Rating agencies are not always thebest assessors of default 
+risk, especially when there are dramatic changes in a country, 
+or when they are biased (towards or against a region). 
+§That too has a fix, at least for theroughly 80 countries where there 
+are trade sovereign CDS spreads, and it can be used instead of the 
+ratings-based spreads for those countries.
+§I stay with trailing values for net income, revenues and EBITDA, 
+because too many of the firms in my 48,000 firm sample have 
+no analysts following them, and hence no forward numbers.
+§I compute two values for each country (region), an aggregated 
+version and the median value. 
+§While the latter is simple, i.e., it is the median number across all 
+companies in a country or region, the former is calculated across all 
+companies, by aggregating the values across companies. 
+§Thus, the aggregated PE ratio for the United States is 20.51, and it 
+computed by adding up the market capitalizations of all traded US 
+stocks and dividing by the sum of the net income earned by all 
+traded firms, including money losers. Think of it a weighted-
+average PE, with no sampling bias.
+§This week has been a rocky one for global markets, and the trigger has 
+come from the United States. The tariffs may have been delayed, and 
+perhaps may not even come into effect, but it seems, at least to me, a signal 
+that globalization, unstoppable for much of the last four decades, has 
+crested, and that nationalism, in politics and economics, is reemerging.
+§Tariffs have been part of global trade as long as there has been trade, 
+and the end game, if tariffs and trade wars become commonplace, may be 
+a less vibrant global economy, but as with any major macroeconomic 
+policy, there will be winners and losers.
+§There is, I am sure, a sense of schadenfreude among people in 
+emerging marketsas they watch developed markets start to exhibit the 
+behavior (unpredictable government policy, subservient central banks, 
+challenging of legal and political norms) that emerging markets were 
+critiqued for two decades ago. 
+§Before celebrating, it is worth remembering the painful truth that if a large 
+developed market (like the US) goes through pain, that pain is magnified 
+in emerging markets.

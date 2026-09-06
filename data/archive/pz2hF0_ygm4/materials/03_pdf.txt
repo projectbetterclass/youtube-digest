@@ -1,0 +1,36 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session15test.pdf
+
+Session	  15:	  Post	  Class	  tests	  
+1. Giving	  a	  project	  a	  longer	  life	  will	  always	  make	  its	  NPV	  increase.	  
+a. True	  
+b. False	  
+2. You	  are	  analyzing	  a	  project	  with	  a	  five-­‐year	  life.	  The	  project	  requires	  an	  initial	  
+investment	  of	  $10	  million,	  depreciable	  straight	  line	  over	  5	  years	  to	  a	  salvage	  
+value	  of	  zero.	  The	  expected	  after-­‐tax	  operating	  income	  is	  expected	  to	  remain	  
+constant	  each	  year	  over	  time	  and	  the	  NPV	  is	  $5.97	  million	  with	  a	  five-­‐year	  life,	  
+based	  on	  a	  cost	  of	  capital	  of	  8%.	  If	  you	  want	  to	  want	  to	  continue	  this	  project	  in	  
+perpetuity,	  what	  NPV	  would	  you	  assess	  for	  this	  project?	  
+a. <	  $5.97	  million	  
+b. $	  5.97	  million	  
+c. $15	  million	  
+d. $40	  million	  
+e. None	  of	  the	  above	  
+3. Assume	  that	  you	  are	  analyzing	  whether	  Facebook	  should	  introduce	  a	  new	  
+smartphone.	  Based	  upon	  your	  estimates	  of	  the	  cash	  flows	  from	  the	  phone,	  you	  
+estimate	  a	  net	  present	  value	  of	  -­‐$400	  million.	  However,	  you	  believe	  that	  the	  
+phone	  will	  increase	  advertising	  revenues	  on	  Facebook	  by	  $80	  million	  next	  year,	  
+growing	  2%	  in	  perpetuity.	  The	  cost	  of	  capital	  for	  smartphones	  is	  12%,	  the	  cost	  of	  
+capital	  for	  the	  advertising	  business	  is	  10%	  and	  the	  marginal	  tax	  rate	  is	  40%.	  
+What	  is	  the	  net	  value	  effect	  to	  Facebook	  of	  introducing	  the	  smartphone?	  
+a. -­‐$320	  million	  
+b. $	  80	  million	  
+c. $200	  million	  
+d. $	  600	  million	  
+e. None	  of	  the	  above	  
+4. You	  are	  comparing	  two	  projects.	  Project	  A	  is	  a	  ten-­‐year	  project,	  with	  a	  10%	  cost	  
+of	  capital	  and	  an	  NPV	  of	  $	  $55	  million.	  	  Project	  B	  is	  a	  seven-­‐year	  project	  with	  an	  
+8%	  cost	  of	  capital	  and	  an	  NPV	  of	  $45	  million.	  If	  they	  are	  mutually	  exclusive,	  
+which	  one	  would	  you	  invest	  in?	  
+a. Project	  A.	  	  
+b. Project	  B	  
+Explain.

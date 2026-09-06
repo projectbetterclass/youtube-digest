@@ -1,0 +1,204 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/PolMkts.pdf
+
+THE WISDOM AND MADNESS OF 
+CROWDS: POLITICAL MARKETS AS 
+A CASE STUDY
+Beyond polling…
+2
+Not a political post…
+¨The focus of this blog has always been on markets and companies, 
+more micro than macro, and I am sure that you will find my 
+spouting off about my political views off-putting, much as I do, 
+when celebrities and sports stars tell me their voting plans. 
+¨This post, though, does have a political angle, with a market twist. 
+During the just-concluded presidential election, we saw election 
+markets (about almost every aspect of the election) not only open 
+up but insert themselves into the political discourse. 
+¨I would like to use this post to expand the discussion to cover what 
+markets do well, what they do badly and the consequences, i.e., 
+revisit an age-old divide between those who believe in the wisdom 
+of crowds and and those that point to their madness.
+Aswath Damodaran
+2
+3
+Election Forecasts: History
+¨ As in the movie “Conclave” , I am sure that the actual conclaves that have characterized 
+papal succession for centuries have used informal polling as a way of forecasting who 
+will win election for centuries. 
+¨ In fact, going back in time to the very first democracies inGreekandRomantimes, 
+where notwithstanding the restrictions on who could vote, there were attempts to 
+assess election winners and losers, ahead of the event.
+¨ The first reported example of formal polling occurred ahead of the 1824 presidential 
+election, when the Raleigh Star and North Carolina Gazette polled 504 votes to 
+determine that Andrew Jackson would beat John Quincy Adams. 
+¤ Starting in 1916, The Literary Digest started a political survey, asking its readers, and after correctly 
+predicting the next four elections, failed badly in 1936 (predicting that Alf Landon would beat FDR in the 
+election that year .
+¤ In 1948, polling had one of its early dark moments, when predictions that Thomas Dewey would beat Harry 
+Truman were upended onElection Day, leading to one of the most famous headlines of all time (in the 
+Chicago Tribune). 
+¨ In the decades after, polling did learn valuable lessons about sampling bias and with an 
+assist from technological advancements, and the number of pollsters has proliferated.
+Aswath Damodaran
+3
+4
+Poll Aggregators
+5
+Poll Judgments
+Aswath Damodaran
+5
+6
+Polymarket: Political Market
+Aswath Damodaran
+6
+7
+Kalshi: An alternative…
+Aswath Damodaran
+7
+8
+Poly vs Kalshi
+Aswath Damodaran
+8
+9
+Vindication?
+Aswath Damodaran
+9
+¨At least on this election, the answer is yes, since unlike most of the 
+pollster and poll aggregators, the political markets led into Election 
+Day, expecting a decisive victory for Trump in the electoral college. 
+¨However, political markets did notexpect Trump to win the popular 
+vote, which he did, and that can be taken as evidence that markets 
+are surprised sometimes, as well. 
+¨In the weeks leading into the election, there were two dimensions 
+on which political markets varied from the polls and aggregators.
+¤On the plus side, the political markets were more dynamic, reflecting in 
+real time, responses to events like the debates, interviews and 
+endorsements; Polymarket'sodds of a Trump win dropped by almost 10% 
+after the debate. 
+¤On the minus side, political markets were volatile, with swings driven 
+sometimes by large trades; the Wall Street Journal highlight one trader 
+who put almost $30 million into the market on the Trump win, pushing up 
+the price.
+10
+The Wisdom of Crowds
+¨In an earlier part of this post, I talked about going to the movies, 
+and it is indicative of the times we live in that my movie choice was 
+made, not by reading movie reviews on the newspaper, but 
+bymovie ratings on Rotten Tomatoes
+¨. Once the movie was done, the restaurant choice I made was 
+determined by Yelp reviews, and without boring you further, you 
+can see this pattern unfold as you think about how you choose the 
+products you buy on Amazon or even the services (plumbing, 
+electrical, landscaping) that you go with, as a consumer . 
+¨On a less personal and larger scale, I have described the block 
+chains that underlie Bitcoin transactions as crowd sourcing the 
+checking process (performed by fiats and banks, with conventional 
+currency), and you can argue that trusting social media to deliver 
+you information is essentially crowd-sourcing your news.
+11
+Markets: Crowds, with restricted entry…
+¨With all of these examples, you can see one of the dangers of 
+crowd judgments, and that is that in all the crowds described 
+above (Rotten Tomatoes, Yelp, Amazon product reviews and 
+social media), there is no cost to entry, or to offer an opinion, 
+and that can dilute the power of the judgments. 
+¨With markets, we introduce an entry fee to those who want 
+to join the crowd in the form of price, and demand more to 
+amplify those views.In the words of Nassim Taleb, 
+opinionated people with no skin in the game can make 
+outlandish predictions, often with no accountability. 
+¨No matter what you think about the experience or 
+motivations of traders on a market, they have to put money 
+behind their views, and more money, if they want the views 
+to have more weight.
+12
+Three reasons why markets are wise…
+Aswath Damodaran
+12
+1. Information aggregation: One of the magical aspects of well-functioning 
+markets is how pieces of information possessed by individual traders 
+about whatever is being traded get aggregated, delivering a composite 
+price that is effectively a reflection of all of the information.
+2. Real time adjustments to news: While experts (rightfully) take their time 
+to absorb new information and reflect that information in their 
+assessments, markets do not have the luxury of waiting. Consequently, 
+markets react in real time, often in the moment, to events as they unfold. 
+That allows market prices to always be more updated than any expert 
+forecast or assessment.
+3. Law of large numbers: It is true that individual traders in a markets can 
+not only mistakes, often big ones, in their assessments of value, but can 
+sometimes also let their preconceptions and biases drive their trading. To 
+the extent that the mistakes can lie on both sides, they will average out, 
+allowing the "right' price to emerge from several wrong judgments.
+13
+Fox versus Hedgehog!
+Aswath Damodaran
+13
+¨Phil Tetlock, co-author of thebook on super 
+forecasting, chronicles the dismal record of expert 
+forecasts, and argues that the best forecasts come 
+from foxes (knows many things, but not in depth) 
+and not hedgehogs (with deep expertise in the 
+discipline).
+¨In short, his argument is that the deep knowledge 
+that experts have in their subject matter skews their 
+thinking and traps them into forecasts that do not 
+reflect reality.
+14
+The Madness of Crowds
+Aswath Damodaran
+14
+¨It is worth remembering that well before we had any of these resources 
+existed , we had financial markets, and in those markets, prices are crowd 
+judgments on the value of the traded instruments. 
+¨Our experience in financial markets is that while markets allow for 
+information aggregation and consensus judgments that are almost 
+magical in their promptness and power, they are also capable of making 
+mistakes, sometimes monumental ones.
+¨ One of my favorite books remainsExtraordinary Popular Delusions and 
+the Madness of Markets, published in 1841, and chronicling how market 
+mistakes form and grow, using the South Sea Bubble and the Tulip Bulb 
+Craze as illustrative examples. 
+¨To those who believe that markets have somehow evolved since then to 
+avoid these mistakes, behavioral finance provides the counter, which is 
+that markets reflect behavioral quirks that are part of the human make-
+up, and thus always be part of markets.
+15
+And what creates the madness…
+Aswath Damodaran
+15
+1. Noise drowns out information: While noise exists in even the best-functioning markets, 
+there is enough information in those markets to offset the noise effect, and bring prices back 
+into sync with value. However, if noise is the dominant force in a market, it can drown out 
+information, causing prices to delink from information.
+2. Momentum versus Fundamentals: On a related note, it is worth remembering that the 
+strongest force in markets is momentum, where price movements in a period are driven 
+more by price movements in past periods, than by fundamentals. 
+3. Participant bias: While markets require skin in the game from traders, that requires money, 
+and that biases markets against people with little or no money.
+4. Market Manipulation: The history of financial markets also includes clear cases where 
+markets have been manipulated, to deliver profits to the manipulators. That problem 
+becomes worse in markets with limited liquidity, where big trades can move prices, and 
+where market insiders have access to data that outsiders do not.
+5. Feedback loop: There are times where market prices can affect the fundamentals, and 
+through them, the value of what is being traded. With the political markets, this feedback 
+loop manifested itself in my social media feeds, where I often saw the Polymarketor Kashi 
+charts being used by candidates to convince potential voters that they were winning (to get 
+them to jump on the bandwagon) or losing (to get people to give them money).
+16
+To “crowd” or “not to crowd”
+¨Iamconvincedthatinmakingourchoicesasconsumersandcitizens,we
+willbefacingthechoicebetweenmarket-basedassessmentsandexpert
+assessmentonmoreandmoredimension.Aswefacethesechoices,
+therewillbetwocampsaboutwhethermarketpricesshouldbetrusted.
+One,rootedinthewisdomofmarkets,willpushustoacceptmorecrowd-
+sourcingandcrowd-judgments,andtheother,buildingonmarket
+madness,willpointtoallthethingsthatmarketscangetwrong.
+¨ WhileIdobelievethat,inbalance,thewisdomwilloffsetthemadnessin
+mostmarkets,thereareplaceswhereIwillstaywary,asauserofmarket
+prices.Ifyouareplanningtotradeonthesemarkets
+¨Thereisanotheruseforthesepoliticalmarketsecuritiesthatyoumay
+wanttoconsider.Totheextentthatyoufeelemotionallyinvestedinone
+candidatewinning,andyoudon'thavemuchfaithinyourprobability
+assessments,youmaywanttoconsiderbuyingsharesintheother
+candidate.

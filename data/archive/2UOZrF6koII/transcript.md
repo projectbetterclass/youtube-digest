@@ -1,0 +1,5 @@
+# Life hack: Pause before answering
+
+<https://www.youtube.com/shorts/2UOZrF6koII>
+
+A lot of people are afraid to pause before they answer because they feel they need to answer straight away. But if I'm answering straight away, it causes me no anxiety. Right? Because I'm answering straight and then I'm thinking, oh how am I going to finish this sentence? How am I going to do And then your brain is frazzled. Whereas if you ask me that question again, >> What do you think about spirituality? >> [snorts] >> When I think about spirituality, I really believe that there are different chapters in life. And it doesn't mean that you have to be spiritual where you are right now with the chapter that you're in. That chapter's waiting for you. I was able to think of that path in the 4-second pause that I took. Because when you don't see the path clearly, then you're making up the path as you go. But when you can think of the path and see it clearly, then you can walk the path without being always distracted.

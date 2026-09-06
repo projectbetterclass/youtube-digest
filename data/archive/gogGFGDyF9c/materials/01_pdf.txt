@@ -1,0 +1,208 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/InvestingPolitics.pdf
+
+Globalization Backlash and Government Disruption!
+§I see the world in shades of gray, and in a world where more 
+and more people see only black and white, that makes me an 
+outlier. Thus, if you are reading this post expecting me to post a 
+diatribe or a tribute to Trump, tariffs or Tesla, you are likely to 
+be disappointed. 
+§The second is that much of my work is in the micro world, 
+where I value companies and analyze their corporate finance 
+policies, and the work that I do on macro topicsor variables 
+is to help me in that pursuit. 
+§That said, to value companies today , I have no choice but to 
+bring in the economics and politics of the world that these 
+companies inhabit. 
+§The problem with doing so, though, is that it is easy to be reactive, 
+and to let your political leanings drive your conclusions. That is 
+why I want to step back and look at the two larger forces that have 
+brought us to this moment,.
+Aswath Damodaran 2
+§Globalization has taken different forms through the ages, 
+with some violent and toxic variants, but the currentversion of 
+globalization kicked into high gear in the 1980s, transforming 
+every aspect of our lives. 
+§I am no historian, but in this section, I will start with a very short 
+and personal history of how globalization has played out in my 
+classroom, examine its winners and losers, and end with an 
+assessment of how the financial crisis of 2008 caused the 
+movement to crest and create a political and economic 
+backlash that has led us to today.
+Aswath Damodaran 3
+§When I started my teaching journey at the University of California 
+at Berkeley in 1984, business education was dollar-centric, with 
+business schools around the world using textbooks and cases 
+written with US data and starring US companies. My class had a 
+sprinkling of European and Japanese students but students from 
+much of the rest of the world were underrepresented, and they 
+went to work for companies that were primarily domestic in 
+operations.
+§Today, business education, both in terms of location and material, 
+has become global, with European and Asian business schools 
+routinely making the top business school list, and class materials 
+reflecting this trend. 
+§As businesses have globalized, consumers and investors have 
+had no choice but to follow, and the things we buy (from food to 
+furniture) and the companies that we invest in all reflecting these 
+global influences.
+Aswath Damodaran 5
+2. Consumers:Consumers have benefited from globalization in many 
+ways, starting withmore products to choose fromand often atlower 
+pricesthan in pre-globalization days. 
+3. Global Institutions: While the World Bank and the IMF predate 
+globalization, their power has amped up, at least in many emerging 
+markets, ]and the developed world has created its own institutions 
+and agreements (EU and NAFTA, to name just two) making it easier for 
+businesses and individuals to operate outside their domestic borders. 
+4. Financial Markets (and their centers): Over the last few decades, not 
+only have more companies been able to list themselves on financial 
+markets, but these markets has become more central to public policy. 
+As financial markets have risen in value and importance, the cities (New 
+Yo rk , L o n d o n , F ran k fu r t, Sh an g h ai, To kyo  an d  M u m b ai) wh e re  th e se  
+markets are centered have gained in importance and wealth, if not in 
+livability, at the expense of the rest of the world.
+5. Experts: We have always looked to experts for guidance, but 
+globalization has given rise to a new cadre of experts, who are 
+positioned to identify what they believe are the world’s biggest 
+problems and offer their solutions in forums like Davos and Aspen, with 
+the world’s policy makers as their audience.
+Aswath Damodaran 6
+2.Consumers, on control: . From food to furniture, consumers 
+lost in terms of control of where their products were made, 
+and by whom. 
+3.Small businesses: While there are a host of other factors that 
+have also contributed to the decline of small businesses, 
+globalization has been a major contributor, as smaller 
+businesses now find themselves competing against 
+companies who make their products thousands of miles 
+away, often with very different cost structures and rules 
+restricting them. Thedisappearance of the small firm effect, 
+where small firms historically have earned higher returns 
+than large cap companies, and globalization is a contributing 
+factor.
+¨8
+Aswath Damodaran 9
+Aswath Damodaran 10
+§Coming into this century, the march of globalization seemed 
+unstoppable, but the wave crested in 2008, with the financial 
+market crisis. That crisis exposed the failures of the expert class, 
+leading to a loss of trust that has never been recovered. 
+§While the initial responses to the financial crisis were incremental, 
+the perception that the world was still being run by hidden 
+(global) forces, unelected and largely unaccountable to 
+anyone, has continued, and I believe that it has played a significant 
+role in British voters choosing Brexit, the rise of nationalist parties 
+in Europe, and in the election of Donald Trump in the United States. 
+§To those who are nostalgic for a return to the old times, I don't 
+believe that the globalization genie can go back into the bottle, 
+as it has permeated not only every aspect of business but also 
+portions of our personal lives. The world that will prevail, if a trade 
+war plays out, will be very different than the one that existed 
+before globalization took off.
+§Find a business to disrupt: The best businesses to disrupt arelarge (in 
+terms of dollars spent on their products/services), inefficient in how they 
+make and sell these products, and filled with dissatisfied players, where no 
+one (or at least very few) is happy. 
+§Target their weakestlinks: Legacy businesses have a mix of products 
+and services,withprofitableproducts/services servicing less profitable, 
+but still necessary products/services. Disruptors go after the former, 
+leaving legacy businesses with a less profitable and viable product mix.
+§Move quickly and scale up: Speed is of the essence in disruption, since 
+moving quickly puts status quo companies at a disadvantage. With access 
+to significant capital from venture capital, private equity and even public 
+investors, disruptors can scale up quickly, unencumbered by the need to 
+have well formed business models or show profits.
+§Break rules, ask for permission later: A willingness to break rules and 
+norms, knowing that their status quo competitors will be more averse to 
+doing so, and that the rule makers and regulators will take time to 
+respond.
+§There is no alternative: By the timethe regulators or legal system 
+catches up with the disrupters, they seem to have become so ascendant, 
+and the status quo so damaged, that there is no going back to the old ways.
+§The obvious winners from disruption are the disruptors, but 
+since many of them scaled up with unformed business models, it is 
+less in the form of profits, and more in terms of their market 
+capitalizations, driven by investors dazzled by their potentials, and 
+making founders, employees & investors wealthy. As these 
+disrupted businesses prioritized scaling over profitability, 
+consumers benefited from bargain-basement prices, sometimes 
+below cost.
+§The clearest loser from disruption is the status quo. As legacy 
+companies melt down, in terms of profitability and value, the 
+damage is felt in concentric circles, with employees who faced 
+wage cuts and job losses, and investors seeing write downs in their 
+holdings 
+§The peripheral damage is to the regulatory structures that 
+governed these businesses, as the rule breakers became 
+ascendant, leaving rule makers impotent and often on the side 
+lines. To the extent that these regulations and rules were designed 
+to protect the environment and the public, there are side costs for 
+society as well.
+§For much of its history, disruption has been restricted to the business 
+spaceand it has had only limited success when directed at systemic 
+inefficiencies in less business-driven settings. 
+§In governments, NayibBukele, in El Salvador, and Javier Milei, in 
+Argentina, have not just pushed back against the norms, but have reveled 
+in doing so, and they were aided by the fact that the governments were so 
+broken that many of their citizenry viewed any change as improvement. 
+§As we watch Elon Musk and DOGE move at hyper speed (by government 
+standards), break age-old systems and push rules and laws to breaking 
+point, I see the disruption playbook at play, and I am torn between two 
+opposing perspectives. 
+§On the one hand, it is clear the US government has been broken for decades 
+and tinkering at its edges has accomplished little to reduce the 
+dysfunctionalities of the system.
+§On the other, though,, since breaking the US government is not the same as 
+breaking companiesereare millions of vulnerable people and a break that is 
+not fixed quickly could be catastrophic. There is a middle ground here, and 
+unless DOGE finds it quickly, this disruption story will have lots of casualties
+§There is another way in which you can reframe how the shifts in politics 
+and economics will play out in valuation. I havelong argued that every 
+valuation is a bridge between stories and numbers,and that to value a 
+company, you have a start with a business story for the company, check to 
+make sure that it ispossible, plausible and probable,and connect the story 
+to valuation inputs (revenue growth, margins, reinvestment and risk). 
+§Staying with that structure, the value of a company can sometimes be 
+affected by its political connections or by the government acting as an 
+ally or an adversary, making the government a key player in the 
+company's story. 
+§While that feature is not uncommon in many emerging market 
+companies, when analyzing US and European companies, you had the 
+luxury , historically , of keeping governments out of company stories, 
+other than in the roles of tax collectors and regulators. 
+§That time may well have passed, and it is entirely possible that when 
+valuing companies now, you have tobring the government into the story, 
+and in some cases, a company's political connections can make or 
+break the story.
+1. A rethinking the "electric cars are inevitable" story: For the last few 
+years, it has become conventional wisdom that electric cars would 
+eventually displace gas cars, and the question was more about when 
+that would happen, rather than whether. In 2024, you sawdoubts creep 
+into that narrative, as hybrids made a comeback, and the environmental 
+consequences of having millions of electric cars on the road came into 
+focus.
+2. The rise of BYD as a competitor for electric cars: Since its founding, 
+Tesla has been the symbol of the rise of electric cares, and legacy car 
+makers have struggled to keep up with it. in 2024, BYD, the Chinese 
+electric car company,sold more electric cars than Tesla for the first time 
+in history, and it is clearly beating Tesla not just in China, but in most 
+Asian markets and even in Europe, with lower prices and more choices.
+3. The politicization of the Tesla story: There has been a backlash 
+building from those who do not like Musk's political stancesand it is 
+spilling over into Tesla's sales,in Europeand the United States. As long 
+asMusk remains at the center of the news cycle, this is likely to 
+continue, and there is the added concern, even for Tesla shareholders 
+who agree with Musk's politics, that he is too distracted now to provide 
+direction to the company.
+§While it is easy to blame market uncertainty on tariffs and trade 
+wars for the moment, the truth is that the forces that have led 
+us here have been building for years, both in our political 
+and economic arenas. 
+§In short, even if the tariffs cease to be front page news, and the 
+fears of an immediate trade war ease, the underlying forces of 
+anti-globalizationthat gave rise to them will continue to play 
+out in global commerce and markets. 
+§For investors, that may require a shift away from the large cap 
+technology companies that have been the market leaders in 
+the last two decades back to smaller cap companies with a 
+more domestic focus.
