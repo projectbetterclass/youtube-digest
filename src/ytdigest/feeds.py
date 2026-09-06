@@ -12,6 +12,7 @@ import requests
 
 from .config import Channel
 from .models import Video
+from .proxies import youtube_proxy_url
 
 log = logging.getLogger(__name__)
 
@@ -99,10 +100,12 @@ def fetch_channel_videos(
     """
     url = FEED_URL.format(channel_id=channel.channel_id)
     sess = session or requests.Session()
+    purl = youtube_proxy_url()
+    proxies = {"http": purl, "https": purl} if purl else None
     last_exc: Optional[Exception] = None
     for attempt in range(retries):
         try:
-            resp = sess.get(url, timeout=timeout, headers=_HEADERS)
+            resp = sess.get(url, timeout=timeout, headers=_HEADERS, proxies=proxies)
             if resp.status_code == 200:
                 return parse_feed(resp.content, channel)
             if resp.status_code in _RETRY_STATUS and attempt < retries - 1:

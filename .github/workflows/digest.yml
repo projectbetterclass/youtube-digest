@@ -4,7 +4,7 @@ on:
   schedule:
     # Every 8h (06:00 / 14:00 / 22:00 UTC) — aggressive backfill pace. https://crontab.guru/
     - cron: "0 6,14,22 * * *"
-  workflow_dispatch: {}  # lets you run it on demand from the Actions tab
+  workflow_dispatch: {}  # run on demand from the Actions tab
 
 permissions:
   contents: write   # commit state + digests back to the repo
@@ -16,44 +16,37 @@ concurrency:
 
 jobs:
   digest:
-    # Self-hosted runner on your own machine — runs on your home IP, where YouTube
-    # does not block transcript fetches. Runs when your PC is on (see README).
-    runs-on: self-hosted
-    defaults:
-      run:
-        shell: powershell  # Windows PowerShell 5.1, always present (no bash needed)
+    # GitHub-hosted cloud runner — no PC required. Transcripts go through the
+    # Webshare residential proxy (secrets), which is what makes cloud viable now.
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      # This self-hosted runner already has Python 3.12 (via the `py` launcher).
-      # actions/setup-python needs admin/registry access to install Python and
-      # fails on a non-elevated runner, so build a venv from the local interpreter.
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
       - name: Install dependencies
-        run: |
-          py -3.12 -m venv .venv
-          .\.venv\Scripts\python.exe -m pip install --upgrade pip
-          .\.venv\Scripts\python.exe -m pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run digest
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          # Optional here (home IP isn't blocked); kept so a proxy still works if added.
           WEBSHARE_PROXY_USERNAME: ${{ secrets.WEBSHARE_PROXY_USERNAME }}
           WEBSHARE_PROXY_PASSWORD: ${{ secrets.WEBSHARE_PROXY_PASSWORD }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: .\.venv\Scripts\python.exe scripts\run.py
+        run: python scripts/run.py
 
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          $changed = git status --porcelain
-          if ([string]::IsNullOrWhiteSpace($changed)) {
-            Write-Host "No changes to commit."
-          } else {
-            $date = (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd")
-            git commit -m "digest: update $date"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "digest: update $(date -u +%Y-%m-%d)"
             git push
-          }
+          fi

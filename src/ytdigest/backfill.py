@@ -24,12 +24,20 @@ from .library import add_brief
 from .links import classify_links
 from .materials import gather_materials
 from .models import Brief, Video
+from .proxies import youtube_proxy_url
 from .state import is_processed, mark_processed
 from .transcript import TranscriptBlocked, fetch_transcript
 
 log = logging.getLogger(__name__)
 
-_FLAT = {"quiet": True, "no_warnings": True, "extract_flat": True, "skip_download": True}
+
+def _opts(**extra) -> dict:
+    """Base yt-dlp options, routed through the residential proxy when configured."""
+    o = {"quiet": True, "no_warnings": True, "skip_download": True, **extra}
+    purl = youtube_proxy_url()
+    if purl:
+        o["proxy"] = purl
+    return o
 
 
 def enumerate_channel(channel_id: str, limit: int) -> list[tuple[str, str]]:
@@ -37,7 +45,7 @@ def enumerate_channel(channel_id: str, limit: int) -> list[tuple[str, str]]:
     import yt_dlp
 
     url = f"https://www.youtube.com/channel/{channel_id}/videos"
-    with yt_dlp.YoutubeDL({**_FLAT, "playlistend": limit}) as ydl:
+    with yt_dlp.YoutubeDL(_opts(extract_flat=True, playlistend=limit)) as ydl:
         info = ydl.extract_info(url, download=False)
     return [(e["id"], e.get("title") or "") for e in (info.get("entries") or []) if e.get("id")]
 
@@ -47,7 +55,7 @@ def enumerate_playlists(channel_id: str) -> list[tuple[str, str]]:
     import yt_dlp
 
     url = f"https://www.youtube.com/channel/{channel_id}/playlists"
-    with yt_dlp.YoutubeDL(_FLAT) as ydl:
+    with yt_dlp.YoutubeDL(_opts(extract_flat=True)) as ydl:
         info = ydl.extract_info(url, download=False)
     return [(e["id"], e.get("title") or "") for e in (info.get("entries") or []) if e.get("id")]
 
@@ -56,7 +64,7 @@ def enumerate_playlist(playlist_id: str, limit: int = 10000) -> list[str]:
     """Video IDs in a playlist."""
     import yt_dlp
 
-    with yt_dlp.YoutubeDL({**_FLAT, "playlistend": limit}) as ydl:
+    with yt_dlp.YoutubeDL(_opts(extract_flat=True, playlistend=limit)) as ydl:
         info = ydl.extract_info(f"https://www.youtube.com/playlist?list={playlist_id}", download=False)
     return [e["id"] for e in (info.get("entries") or []) if e.get("id")]
 
@@ -64,7 +72,7 @@ def enumerate_playlist(playlist_id: str, limit: int = 10000) -> list[str]:
 def _fetch_description(video_id: str) -> str:
     import yt_dlp
 
-    with yt_dlp.YoutubeDL({"quiet": True, "no_warnings": True, "skip_download": True}) as ydl:
+    with yt_dlp.YoutubeDL(_opts()) as ydl:
         info = ydl.extract_info(f"https://www.youtube.com/watch?v={video_id}", download=False)
     return info.get("description") or ""
 
