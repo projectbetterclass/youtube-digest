@@ -1,0 +1,329 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/CLC/slides/Ch3.pdf
+
+THE CORPORATE LIFE 
+CYCLE –MEASURES 
+& DETERMINANTS
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Highest growth industry groups in 2022
+Lowest growth industry groups in 2022
+Aswath Damodaran
+Life cycle 
+stage Start up
+Young 
+Growth
+High 
+Growth
+Mature 
+Growth
+Mature 
+Stable Decline
+Revenue 
+Growth
+NA at pre-
+revenue, 
+Very high 
+for initial 
+revenues 
+Very HighHigh Moderate Low
+Close to 
+zero or 
+negative
+Operating 
+Margin
+Very 
+negative
+Negative, 
+perhaps 
+becoming 
+more so 
+over time.
+Negative, 
+but getting 
+less so 
+over time
+Positive, 
+and 
+getting 
+more so 
+over time
+Stable and 
+predictabl
+e
+Positive, 
+but 
+declining
+Reinvest
+ment
+High Very high
+High, but 
+stable, 
+relative to 
+revenues
+High, but 
+declining 
+relative to 
+revenues
+Low, and a 
+function of 
+revenues
+Divestment 
+and 
+shrinkage
+Free cash 
+flows
+Very 
+negative
+Very 
+negative, 
+perhaps 
+getting 
+more so.
+Negative, 
+but getting 
+less so 
+over time
+Positive, 
+and 
+growing 
+faster than 
+revenues 
+and 
+earnings
+Positive 
+and stable
+More 
+positive 
+that 
+earnings.
+Aswath Damodaran
+Aswath Damodaran
+§The first is the length of the life cycle, 
+the period over which a business exists, 
+with some businesses a lot longer than 
+others. 
+§The second is the height of the life 
+cycle, characterizing the peak of the 
+business.
+§The third dimension is the steepness in 
+the life cycle curve, reflecting how 
+quickly a founder or business novice is 
+able toscale up a company’s size, as 
+well as how quickly it scales down. 
+§The final dimension in the flattening 
+part of the life cycle, a measure of how 
+long a business is able tostay at the top, 
+once it becomes mature.
+Aswath Damodaran
+§Type of Business: There are some businesses that have more 
+staying power than others, because the products and services 
+they offer have durable demand. 
+§Time to build business: Businesses where it takes time to 
+establish the business are more likely to have long lives than 
+those that can ramp up production and be in business 
+quickly. 
+§Competitive barriers to entry: The decline and demise of 
+businesses often comes from new players entering the 
+market and having strong and long-standing barriers to entry 
+can allow companies to stay in business far longer than if they 
+operate in free-for-all settings. 
+§Macroeconomic conditions: A business that operates in a 
+more volatile macroeconomic environment will face more 
+risks that could potentially shorten its life than an otherwise 
+similar business in a stable environment. 
+§Ownership structure and governance: For a business to 
+keep going, it needs management continuity. A business that 
+is dependent on a key person or persons for its continued 
+operations will have a shorter life than one that has a 
+management team and well-established succession plans. 
+§Time horizon: In a point related to ownership structure, one 
+reason why a successful family business may have a much 
+longer life than a successful publicly traded company is the 
+incentive structure of the decision makers who build the 
+business, and how it may affect business life. 
+Aswath Damodaran
+§Potential market for product or service: The choices made 
+by a business on whether to offer a product or service to a 
+niche market or a mass market can determine how much it can scale up. 
+§Geographical reach: In the last three decades, companies 
+all over the world have learned to look past their local 
+markets for growth. That has allowed companies that would 
+have been historically constrained to be small, because they 
+operated in small domestic markets, to expand in foreign markets, and increase their size.
+§Technological and Economic Innovation: There have been 
+innovations in history that have opened the door for firms to 
+expand to levels they could not, prior to those innovations. 
+The internet and smart phones have allowed for scaling up in many businesses that were local and constrained before they 
+came along.
+§Networking benefits: One feature of the tech revolution has 
+been a competitive advantage that is endows companies that 
+are able to establish dominance early in a market. These 
+companies find that their dominance makes it easier for them to attract customers and resources, as they get bigger, i.e., 
+networking benefits. In this winner-take-all environment, you 
+can end up with two or three very large players in a market, 
+with each of these players capable of delivering much higher 
+revenues
+§Regulatory constraints: The potential for a company to grow can be restricted by laws that crack down on 
+oligopolies and natural monopolies, putting caps on market 
+share and growth for larger companies. 
+Aswath Damodaran
+§Capital intensity: It takes more time to build a 
+business and start generating positive cash flows in 
+capital intensive industries than in capital light 
+settings. 
+§Capital access: Even for capital-light businesses 
+like Airbnb and Uber, access to capital to fund 
+investments is critical for rapid growth. When capital 
+is freely accessible and available as it is in large 
+quantities, companies can climb the life cycle 
+quicker than when there is limited or no capital 
+access. 
+§Customer inertia: In marketing, customer inertia 
+refers to the phenomenon of customers remaining 
+attached to offering from the status quo (existing 
+businesses that dominate the market), reluctant to try 
+products or services from newcomers. What sets 
+customer inertia apart from customer loyalty is that 
+this attachment to existing offerings is rooted less in 
+their meeting customer needs and more from a fear 
+of trying something new. That said, customer inertia 
+varies across different businesses, sometimes across 
+cultures and perhaps across age groups. 
+§Regulatory restrictions: Start-ups in businesses that 
+require licensing or regulatory approval to expand 
+are, by their very nature, constrained in how quickly 
+they can start showing operating success. 
+Aswath Damodaran
+Brand Name Switching 
+Costs
+Network 
+Effect
+Cost 
+Advantages
+Efficient 
+Scale
+Wide Coca Cola: Just 
+sugar water 
+but consumers 
+pay a premium
+Oracle: Ties to 
+integrated 
+databases 
+make 
+switching very 
+expensive
+Chicago 
+Mercantile 
+Exchange: 
+Clearing 
+house function 
+creates 
+captive 
+volume.
+UPS: Past 
+logistics 
+investments 
+result in low 
+marginal costs 
+of delivery
+International 
+Speedway: 
+Owns the one 
+NASCAR track 
+that each 
+metro area can 
+support.
+Narrow Snapple: Solid 
+brand, but 
+with less 
+pricing power 
+Salesforce: 
+Popular, but 
+weaker costs 
+to switching
+NYSE 
+Euronext: 
+Leader in 
+market, but 
+leadership 
+does not 
+create as much 
+of a network 
+effect. 
+FedEx: Higher 
+fixed-costs 
+from air 
+express 
+segment 
+create smaller 
+cost 
+advantages
+Southern 
+Company: 
+Natural 
+geographic 
+monopoly, 
+backed by 
+regulators.
+No Moat Cott: Generic 
+player with no 
+brand loyalty 
+or pricing 
+power
+TIBCO: High-
+end software 
+but low or no 
+costs to 
+switching to 
+competitors
+Knight Capital: 
+An order-
+taker/market 
+maker, with 
+little in 
+networking 
+benefits.
+Con-way: 
+Trucking 
+company, but 
+fragmented 
+business with 
+few cost 
+advantages.
+Valero: Refiner 
+that has tobe a 
+price-taker in 
+a commodity 
+business
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+§While much of the debate on disruption has focused on the disruptors, it is worth focusing just as much attention 
+on the disrupted. Global ride-sharing companies have 
+laid waste to the smaller and localized taxicab 
+companies, and Google and Facebook have decimated traditional advertising businesses. 
+§From a practical standpoint, you could argue that there is 
+now a far greater chance of being disrupted today, for companies in almost every business, than just a few years 
+ago, and that must show up in business and investment 
+practices. 
+§First, the assumption of mean reversion that is at the heart 
+of how many analysts run and evaluate businesses must 
+be re-examined, i.e., a decline in margins at a company 
+with a long history of earning high margins may not be 
+temporary, if there is a chance of disruption, and assuming that there will be a bounce back to historical 
+margins may not be merited. 
+§Second, even companies with strong competitive advantages (brand name, licensing, economies of scale) 
+should have contingency plans, since change from 
+disruption, when it happens, will be abrupt and 
+damaging. 
+§Third, regulators and lawmakers must consider the 
+possibilities that the rules and laws that they write to keep 
+existing companies in check, often with the best of 
+intentions (increase competition, protect customers), can 
+handicap them, when disruptors enter the game. 
+Aswath Damodaran

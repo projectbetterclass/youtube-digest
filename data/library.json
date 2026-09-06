@@ -88,6 +88,17 @@
       "url": "https://www.youtube.com/shorts/1Bq1_U4ENO4",
       "verdict": "skip"
     },
+    "1esgFI00KUE": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 12: Valuing Mature Firms",
+      "transcript_available": true,
+      "transcript_path": "data/archive/1esgFI00KUE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=1esgFI00KUE",
+      "verdict": ""
+    },
     "1gLQS2v6rqE": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -153,6 +164,28 @@
       "transcript_path": "data/archive/2d4u80LmRQ8/transcript.md",
       "url": "https://www.youtube.com/watch?v=2d4u80LmRQ8",
       "verdict": "watch"
+    },
+    "2sC-szm7tfE": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 2: The Corporate Life Cycle - Basics",
+      "transcript_available": true,
+      "transcript_path": "data/archive/2sC-szm7tfE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=2sC-szm7tfE",
+      "verdict": ""
+    },
+    "35SFBIaoyjw": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "published": "2026-09-05T15:39:42+00:00",
+      "takeaway": "Kyle Fowler built two niche card-scanning apps (Cardstock for sports cards, Scanémon for Pokémon) by identifying a gap in his own hobby; they now generate $120K/month MRR across ~18K active subscriptions.",
+      "title": "3 guys went from a basement to $1.5M a year with two app ideas 😱",
+      "transcript_available": true,
+      "transcript_path": "data/archive/35SFBIaoyjw/transcript.md",
+      "url": "https://www.youtube.com/shorts/35SFBIaoyjw",
+      "verdict": "skim"
     },
     "3X6rah8r4Do": {
       "channel": "Aswath Damodaran",
@@ -286,6 +319,17 @@
       "url": "https://www.youtube.com/shorts/5T6okaHVqAU",
       "verdict": "skim"
     },
+    "5p_BBdfvzgQ": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Making $$$ with Loop Engineering",
+      "transcript_available": true,
+      "transcript_path": "data/archive/5p_BBdfvzgQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=5p_BBdfvzgQ",
+      "verdict": ""
+    },
     "5rhild0Juf4": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -352,6 +396,17 @@
       "url": "https://www.youtube.com/shorts/7-3kySR5bA4",
       "verdict": "skim"
     },
+    "73F6gyg5xwo": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-05T21:00:16+00:00",
+      "takeaway": "Williamson identifies a psychological pattern where scarcity triggers attraction while abundance (genuine interest) triggers doubt—a dynamic he frames as a generational dating problem.",
+      "title": "How To Approach Your Love Life",
+      "transcript_available": true,
+      "transcript_path": "data/archive/73F6gyg5xwo/transcript.md",
+      "url": "https://www.youtube.com/shorts/73F6gyg5xwo",
+      "verdict": "skim"
+    },
     "7IHreZHXE98": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -373,6 +428,50 @@
       "transcript_path": "data/archive/7MykFJ7TByM/transcript.md",
       "url": "https://www.youtube.com/watch?v=7MykFJ7TByM",
       "verdict": "watch"
+    },
+    "7pVTQSA4s5I": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "GPT 5.6 SOL IS HERE! How to use it.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/7pVTQSA4s5I/transcript.md",
+      "url": "https://www.youtube.com/watch?v=7pVTQSA4s5I",
+      "verdict": ""
+    },
+    "7s3-Xb2gnTY": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 20: Lessons for the Road",
+      "transcript_available": true,
+      "transcript_path": "data/archive/7s3-Xb2gnTY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=7s3-Xb2gnTY",
+      "verdict": ""
+    },
+    "83fWzQSWB10": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "AI Agents are the new SaaS",
+      "transcript_available": true,
+      "transcript_path": "data/archive/83fWzQSWB10/transcript.md",
+      "url": "https://www.youtube.com/watch?v=83fWzQSWB10",
+      "verdict": ""
+    },
+    "83r-hp2xqLo": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-05T15:00:11+00:00",
+      "takeaway": "Social media platforms deliberately minimize friction (autoplay, aesthetic enhancement, rapid content) to compete for your attention, making high-effort hobbies feel comparatively exhausting.",
+      "title": "Why Do Your Hobbies Feel Like Work Now?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/83r-hp2xqLo/transcript.md",
+      "url": "https://www.youtube.com/shorts/83r-hp2xqLo",
+      "verdict": "skim"
     },
     "8ZC1G1ezN5o": {
       "channel": "Greg Isenberg",
@@ -438,6 +537,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/9qCpo3nVHlc/transcript.md",
       "url": "https://www.youtube.com/watch?v=9qCpo3nVHlc",
+      "verdict": ""
+    },
+    "9vMxyAL1dB0": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 15: Investing in Youth",
+      "transcript_available": true,
+      "transcript_path": "data/archive/9vMxyAL1dB0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=9vMxyAL1dB0",
       "verdict": ""
     },
     "9xpEYFWUIyM": {
@@ -506,6 +616,17 @@
       "url": "https://www.youtube.com/watch?v=AvbfOyLSrfk",
       "verdict": ""
     },
+    "Aw_ljPKgFVw": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 8: Cash Return (Dividends) across the Life Cycle",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Aw_ljPKgFVw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Aw_ljPKgFVw",
+      "verdict": ""
+    },
     "B2f-iIevZzI": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -517,6 +638,17 @@
       "url": "https://www.youtube.com/shorts/B2f-iIevZzI",
       "verdict": "skim"
     },
+    "B4aqTpXPLD8": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-09-06T15:59:29+00:00",
+      "takeaway": "\nLeaning forward by positioning yourself farther back on a reverse fly machine changes the relative arm angle, shifting the load from primarily trapezius to primarily rear delts—a subtle postural change with large muscle-activation consequences for trainees who struggle to isolate rear delts.\n",
+      "title": "This Changed My Rear Delt Training Forever | Biomechanics Explained",
+      "transcript_available": true,
+      "transcript_path": "data/archive/B4aqTpXPLD8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=B4aqTpXPLD8",
+      "verdict": "watch"
+    },
     "BA_fC95p43c": {
       "channel": "Starter Story",
       "had_materials": false,
@@ -527,6 +659,17 @@
       "transcript_path": "data/archive/BA_fC95p43c/transcript.md",
       "url": "https://www.youtube.com/watch?v=BA_fC95p43c",
       "verdict": "watch"
+    },
+    "BiYnujj_S1w": {
+      "channel": "Vinh Giang",
+      "had_materials": false,
+      "published": "2026-09-06T14:26:07+00:00",
+      "takeaway": "Vinh Giang argues that limiting beliefs rooted in background (postcode, ethnicity) create self-imposed barriers, and that strong communication skills enable you to \"negotiate\" past them to achieve goals like becoming a keynote speaker.",
+      "title": "Don't let your postcode dictate your success",
+      "transcript_available": true,
+      "transcript_path": "data/archive/BiYnujj_S1w/transcript.md",
+      "url": "https://www.youtube.com/shorts/BiYnujj_S1w",
+      "verdict": "skim"
     },
     "BzG8M74BfrY": {
       "channel": "Aswath Damodaran",
@@ -616,6 +759,17 @@
       "url": "https://www.youtube.com/shorts/EIrH2aM9r8s",
       "verdict": "skim"
     },
+    "EP-RSiVtwA0": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 9: Valuation and Pricing 101",
+      "transcript_available": true,
+      "transcript_path": "data/archive/EP-RSiVtwA0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=EP-RSiVtwA0",
+      "verdict": ""
+    },
     "ETy8XX5I-U8": {
       "channel": "The Diary Of A CEO",
       "had_materials": false,
@@ -641,13 +795,24 @@
     "EoNH3Tn8wYE": {
       "channel": "Greg Isenberg",
       "had_materials": false,
-      "published": "2026-08-26T18:40:21+00:00",
-      "takeaway": "\nWebMCP lets websites become agent-ready by exposing conditional tools through the browser UI, unlocking a new market where agents can autonomously complete transactions—and the episode maps three concrete business models semi-technical founders can launch today.\n",
+      "published": null,
+      "takeaway": "",
       "title": "WebMCP: Let AI Agents pay you money",
-      "transcript_available": false,
+      "transcript_available": true,
       "transcript_path": "data/archive/EoNH3Tn8wYE/transcript.md",
       "url": "https://www.youtube.com/watch?v=EoNH3Tn8wYE",
-      "verdict": "watch"
+      "verdict": ""
+    },
+    "EzQAgnjTq2k": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "My top secrets to running an AI Agent Workforce",
+      "transcript_available": true,
+      "transcript_path": "data/archive/EzQAgnjTq2k/transcript.md",
+      "url": "https://www.youtube.com/watch?v=EzQAgnjTq2k",
+      "verdict": ""
     },
     "FDMkO6tjTqo": {
       "channel": "Starter Story",
@@ -748,6 +913,17 @@
       "url": "https://www.youtube.com/watch?v=IPTe5Ww2kOk",
       "verdict": ""
     },
+    "Il53UHCjZ4E": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-05T17:00:26+00:00",
+      "takeaway": "The clip speculates that speech-to-text tools may reduce writing and reading habits, prompted by the creator's observation that tools like WhisperFlow make creating content easier and could discourage traditional writing skills.",
+      "title": "Is Reading & Writing Going Extinct?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Il53UHCjZ4E/transcript.md",
+      "url": "https://www.youtube.com/shorts/Il53UHCjZ4E",
+      "verdict": "skip"
+    },
     "IzZ-P26eyFQ": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -768,6 +944,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/IzwRBWMb8JQ/transcript.md",
       "url": "https://www.youtube.com/shorts/IzwRBWMb8JQ",
+      "verdict": "skim"
+    },
+    "JCEiDEg5z8g": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-06T05:01:19+00:00",
+      "takeaway": "Entrepreneurial success is fundamentally about frustration tolerance—repeatedly acting despite uncertainty, failure, and negative feedback until something works.",
+      "title": "You Need Frustration Tolerance",
+      "transcript_available": true,
+      "transcript_path": "data/archive/JCEiDEg5z8g/transcript.md",
+      "url": "https://www.youtube.com/shorts/JCEiDEg5z8g",
       "verdict": "skim"
     },
     "JSQaAQndlyg": {
@@ -791,6 +978,17 @@
       "transcript_path": "data/archive/JW916OxHP4U/transcript.md",
       "url": "https://www.youtube.com/shorts/JW916OxHP4U",
       "verdict": "skim"
+    },
+    "JWhICz1QR8M": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Why Graph Engineering will 10x your Claude/Codex",
+      "transcript_available": true,
+      "transcript_path": "data/archive/JWhICz1QR8M/transcript.md",
+      "url": "https://www.youtube.com/watch?v=JWhICz1QR8M",
+      "verdict": ""
     },
     "JZd5mUPg1XM": {
       "channel": "Chris Williamson",
@@ -858,6 +1056,17 @@
       "url": "https://www.youtube.com/watch?v=KDw5AUzFi20",
       "verdict": ""
     },
+    "KL35R8yern4": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-05T19:13:56+00:00",
+      "takeaway": "Don't copy competitors because you won't understand the underlying principles that made it work, can't fix it when it breaks, and it signals you lack confidence in your own ideas—originality is the only way to stay ahead.",
+      "title": "Why Copying Makes You A Coward",
+      "transcript_available": true,
+      "transcript_path": "data/archive/KL35R8yern4/transcript.md",
+      "url": "https://www.youtube.com/shorts/KL35R8yern4",
+      "verdict": "skim"
+    },
     "Ka_oFIhWmwo": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -902,6 +1111,17 @@
       "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
       "verdict": ""
     },
+    "LAQgCRuGnLs": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-05T22:00:28+00:00",
+      "takeaway": "\nDr. K's core argument is that stress management and success often require questioning whether your goals are worth pursuing in the first place, not just optimizing performance in situations you've accepted as non-negotiable.\n",
+      "title": "How Does Dr. K Decompress From Stress",
+      "transcript_available": true,
+      "transcript_path": "data/archive/LAQgCRuGnLs/transcript.md",
+      "url": "https://www.youtube.com/shorts/LAQgCRuGnLs",
+      "verdict": "skim"
+    },
     "LAUzEketa5o": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -922,6 +1142,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/LTDZCLjCa-E/transcript.md",
       "url": "https://www.youtube.com/watch?v=LTDZCLjCa-E",
+      "verdict": ""
+    },
+    "LYomocq6Dpo": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "AI Apps Are Making $10K/Month. Here's Exactly How.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/LYomocq6Dpo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=LYomocq6Dpo",
       "verdict": ""
     },
     "LacfrEOh8kw": {
@@ -957,6 +1188,17 @@
       "url": "https://www.youtube.com/watch?v=Lf5oqGOCRCM",
       "verdict": "watch"
     },
+    "LvsQR7Vc4fQ": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Grok 4.5 is a bigger deal than Fable 5",
+      "transcript_available": true,
+      "transcript_path": "data/archive/LvsQR7Vc4fQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=LvsQR7Vc4fQ",
+      "verdict": ""
+    },
     "M3Y7xsWyHxo": {
       "channel": "New Money",
       "had_materials": false,
@@ -978,6 +1220,17 @@
       "transcript_path": "data/archive/MGxcosNuC8k/transcript.md",
       "url": "https://www.youtube.com/watch?v=MGxcosNuC8k",
       "verdict": "watch"
+    },
+    "MNNfat_QP0E": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Cloudflare will make 1000+ AI millionaires",
+      "transcript_available": true,
+      "transcript_path": "data/archive/MNNfat_QP0E/transcript.md",
+      "url": "https://www.youtube.com/watch?v=MNNfat_QP0E",
+      "verdict": ""
     },
     "MPHn-nW30QU": {
       "channel": "Alex Hormozi",
@@ -1154,6 +1407,17 @@
       "transcript_path": "data/archive/OfPOtN51MpM/transcript.md",
       "url": "https://www.youtube.com/watch?v=OfPOtN51MpM",
       "verdict": "watch"
+    },
+    "PHlERmgzSHM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 19: Aging with grace!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/PHlERmgzSHM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=PHlERmgzSHM",
+      "verdict": ""
     },
     "PURtGKUA0ms": {
       "channel": "Alex Hormozi",
@@ -1353,6 +1617,17 @@
       "url": "https://www.youtube.com/shorts/SdIx__D3vXk",
       "verdict": "skip"
     },
+    "SkY-tR9kf-k": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Claude Code New Features, Explained",
+      "transcript_available": true,
+      "transcript_path": "data/archive/SkY-tR9kf-k/transcript.md",
+      "url": "https://www.youtube.com/watch?v=SkY-tR9kf-k",
+      "verdict": ""
+    },
     "TCoecZ6PkEo": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -1386,6 +1661,39 @@
       "url": "https://www.youtube.com/watch?v=TbOAtQU89eA",
       "verdict": ""
     },
+    "Tf-VW0XiQtM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 6: Business Investing across the Life Cycle",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Tf-VW0XiQtM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Tf-VW0XiQtM",
+      "verdict": ""
+    },
+    "U-5A4Xon4WI": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-06T15:00:12+00:00",
+      "takeaway": "People generally behave within the limits of their circumstances and knowledge; replacing judgment with compassionate understanding of constraints reduces emotional harm and wasted effort.",
+      "title": "What Patients Taught Dr K About People",
+      "transcript_available": true,
+      "transcript_path": "data/archive/U-5A4Xon4WI/transcript.md",
+      "url": "https://www.youtube.com/shorts/U-5A4Xon4WI",
+      "verdict": "skim"
+    },
+    "U2hogriGmEw": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Marketing Agents Are Too Good Now",
+      "transcript_available": true,
+      "transcript_path": "data/archive/U2hogriGmEw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=U2hogriGmEw",
+      "verdict": ""
+    },
     "UHqZQ7MavrY": {
       "channel": "Starter Story",
       "had_materials": false,
@@ -1407,6 +1715,17 @@
       "transcript_path": "data/archive/UiApJNxW4nQ/transcript.md",
       "url": "https://www.youtube.com/shorts/UiApJNxW4nQ",
       "verdict": "skim"
+    },
+    "V1UcOCHTmFM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 18: Managing across the life cycle",
+      "transcript_available": true,
+      "transcript_path": "data/archive/V1UcOCHTmFM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=V1UcOCHTmFM",
+      "verdict": ""
     },
     "VgGdPZH0Aqs": {
       "channel": "Starter Story",
@@ -1462,6 +1781,17 @@
       "transcript_path": "data/archive/WhY5EF1_LjQ/transcript.md",
       "url": "https://www.youtube.com/watch?v=WhY5EF1_LjQ",
       "verdict": ""
+    },
+    "Wnmu73z55E8": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-06T00:01:42+00:00",
+      "takeaway": "Hormozi used deceptive persona-switching and fake testimonials as a sales tactic to build false credibility and social proof when recruiting gym members.",
+      "title": "I Pretended to Be Multiple Employees at My Gym",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Wnmu73z55E8/transcript.md",
+      "url": "https://www.youtube.com/shorts/Wnmu73z55E8",
+      "verdict": "skim"
     },
     "XDDAUfVqP1g": {
       "channel": "HealthyGamerGG",
@@ -1584,6 +1914,28 @@
       "url": "https://www.youtube.com/watch?v=YkKQL7BCo8A",
       "verdict": "skim"
     },
+    "YoLM9EatW2s": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": "2026-09-06T15:11:08+00:00",
+      "takeaway": "Memory (DRAM/NAND)—particularly Micron and SanDisk—are the true scarcity chokepoint in AI data center buildout, not power/cooling, as evidenced by Nvidia's $279B supply commitment and memory makers' 35–41 point gross margin expansions; three stocks passed the constraint test, with Micron trading at high valuation multiples despite outsized profitability.",
+      "title": "Nvidia Can't Buy Enough of It. I Found 2 Ways In",
+      "transcript_available": true,
+      "transcript_path": "data/archive/YoLM9EatW2s/transcript.md",
+      "url": "https://www.youtube.com/watch?v=YoLM9EatW2s",
+      "verdict": "watch"
+    },
+    "YwLAdkHYvAc": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The Corporate Life Cycle: The Key Ideas",
+      "transcript_available": false,
+      "transcript_path": "data/archive/YwLAdkHYvAc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=YwLAdkHYvAc",
+      "verdict": ""
+    },
     "ZSk2C6qqjq0": {
       "channel": "Leila Hormozi",
       "had_materials": false,
@@ -1628,6 +1980,17 @@
       "url": "https://www.youtube.com/watch?v=_SxIBHEGhbo",
       "verdict": ""
     },
+    "_jGSgzBkzrY": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Jack Dorsey's Buzz: Clearly Explained (and how to use it)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/_jGSgzBkzrY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=_jGSgzBkzrY",
+      "verdict": ""
+    },
     "_wkLQuIW8CY": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -1637,6 +2000,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/_wkLQuIW8CY/transcript.md",
       "url": "https://www.youtube.com/watch?v=_wkLQuIW8CY",
+      "verdict": "watch"
+    },
+    "_yaFnSrFDcw": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-06T10:02:19+00:00",
+      "takeaway": "Unrealistic timelines for extreme growth can sabotage viable long-term strategies; adjusting expectations to a realistic runway (10 years instead of 12 months) often unlocks the path that actually works.",
+      "title": "You're Shooting Yourself in the Foot Trying to Grow Too Fast",
+      "transcript_available": true,
+      "transcript_path": "data/archive/_yaFnSrFDcw/transcript.md",
+      "url": "https://www.youtube.com/shorts/_yaFnSrFDcw",
       "verdict": "watch"
     },
     "awEyDWhEdhg": {
@@ -1683,6 +2057,17 @@
       "url": "https://www.youtube.com/watch?v=bm1zE4wCQvI",
       "verdict": ""
     },
+    "c6EGmxjMpPw": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-06T07:01:08+00:00",
+      "takeaway": "Stop waiting to find your passion before taking action; pursue something profitable instead, and you'll learn to love it as you improve—passion often follows competence, not the other way around.",
+      "title": "You're Using Passion as an Excuse to Avoid Hardness",
+      "transcript_available": true,
+      "transcript_path": "data/archive/c6EGmxjMpPw/transcript.md",
+      "url": "https://www.youtube.com/shorts/c6EGmxjMpPw",
+      "verdict": "skim"
+    },
     "cLotdkcvdd4": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -1705,6 +2090,17 @@
       "url": "https://www.youtube.com/shorts/cZE5AOQpjw4",
       "verdict": "skim"
     },
+    "csv55UtVMZM": {
+      "channel": "Ticker Symbol: YOU",
+      "had_materials": false,
+      "published": "2026-09-05T20:18:20+00:00",
+      "takeaway": "\nAI spending is accelerating far faster than Wall Street models predict and is power-constrained at the foundation; the creator maps infrastructure winners across a five-layer model and recommends broadly diversifying across dominant players at each layer rather than picking single winners.\n",
+      "title": "98% of Investors Miss The REAL AI Winners (My Full Map)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/csv55UtVMZM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=csv55UtVMZM",
+      "verdict": "watch"
+    },
     "dNEWqinHrW8": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -1725,6 +2121,39 @@
       "transcript_available": true,
       "transcript_path": "data/archive/dRBc9uFgD_A/transcript.md",
       "url": "https://www.youtube.com/watch?v=dRBc9uFgD_A",
+      "verdict": ""
+    },
+    "dhbcVxYhWaQ": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The $1,000/hour Solo AI business (Full Course)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/dhbcVxYhWaQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=dhbcVxYhWaQ",
+      "verdict": ""
+    },
+    "dkstj88dw1E": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 5: Corporate Finance 101",
+      "transcript_available": true,
+      "transcript_path": "data/archive/dkstj88dw1E/transcript.md",
+      "url": "https://www.youtube.com/watch?v=dkstj88dw1E",
+      "verdict": ""
+    },
+    "erRg4CL13VM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 4: Corporate Life Cycle - Transitions",
+      "transcript_available": true,
+      "transcript_path": "data/archive/erRg4CL13VM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=erRg4CL13VM",
       "verdict": ""
     },
     "f8Xf76QaHSg": {
@@ -1837,6 +2266,17 @@
       "url": "https://www.youtube.com/shorts/gEiVGylOgZw",
       "verdict": "skim"
     },
+    "gGSHee8BWkA": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-06T01:00:32+00:00",
+      "takeaway": "\nA playful quiz of obscure Victorian slang terms paired with a brief observation that language change is decentralized and emergent rather than top-down controlled.\n",
+      "title": "Can You Guess These Victorian Slang Words?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/gGSHee8BWkA/transcript.md",
+      "url": "https://www.youtube.com/shorts/gGSHee8BWkA",
+      "verdict": "skip"
+    },
     "ggDh_I7CVZ0": {
       "channel": "Leila Hormozi",
       "had_materials": false,
@@ -1903,6 +2343,17 @@
       "url": "https://www.youtube.com/watch?v=hscEYvWELPk",
       "verdict": ""
     },
+    "i80avS70k8E": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 10: Valuing and Pricing Start-ups and Young High Growth Firms",
+      "transcript_available": true,
+      "transcript_path": "data/archive/i80avS70k8E/transcript.md",
+      "url": "https://www.youtube.com/watch?v=i80avS70k8E",
+      "verdict": ""
+    },
     "ig2ewJ9wx2Y": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -1935,6 +2386,17 @@
       "transcript_path": "data/archive/izz6uCIZVyI/transcript.md",
       "url": "https://www.youtube.com/shorts/izz6uCIZVyI",
       "verdict": "skim"
+    },
+    "jJIOA4GroBw": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "\"Learn AI” Is Bad Advice. Learn This Instead",
+      "transcript_available": true,
+      "transcript_path": "data/archive/jJIOA4GroBw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=jJIOA4GroBw",
+      "verdict": ""
     },
     "juhEybZYE2M": {
       "channel": "Aswath Damodaran",
@@ -2035,6 +2497,17 @@
       "url": "https://www.youtube.com/shorts/lkseJAJNPOs",
       "verdict": "skim"
     },
+    "loRxUyfqMEk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 7: Business Financing across the Life Cycle",
+      "transcript_available": true,
+      "transcript_path": "data/archive/loRxUyfqMEk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=loRxUyfqMEk",
+      "verdict": ""
+    },
     "lpKjqV_W1-w": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -2045,6 +2518,17 @@
       "transcript_path": "data/archive/lpKjqV_W1-w/transcript.md",
       "url": "https://www.youtube.com/shorts/lpKjqV_W1-w",
       "verdict": "watch"
+    },
+    "mD7JpNHLT70": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Marketing Agents Masterclass (GROW your startup)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/mD7JpNHLT70/transcript.md",
+      "url": "https://www.youtube.com/watch?v=mD7JpNHLT70",
+      "verdict": ""
     },
     "mHqSBCHEZOY": {
       "channel": "Riley Brown",
@@ -2089,6 +2573,17 @@
       "transcript_path": "data/archive/mk5mgbX7UvY/transcript.md",
       "url": "https://www.youtube.com/shorts/mk5mgbX7UvY",
       "verdict": "skim"
+    },
+    "mpx-__Trhak": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 13: Valuing and Pricing Declining Firms",
+      "transcript_available": true,
+      "transcript_path": "data/archive/mpx-__Trhak/transcript.md",
+      "url": "https://www.youtube.com/watch?v=mpx-__Trhak",
+      "verdict": ""
     },
     "nGXi-YnQqao": {
       "channel": "Aswath Damodaran",
@@ -2266,6 +2761,17 @@
       "url": "https://www.youtube.com/watch?v=qOGZk9Ypk1Y",
       "verdict": ""
     },
+    "qQluNEfSVHk": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Making $$$ with Grok Bot",
+      "transcript_available": true,
+      "transcript_path": "data/archive/qQluNEfSVHk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=qQluNEfSVHk",
+      "verdict": ""
+    },
     "qbQQ8o4VOsg": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -2275,6 +2781,17 @@
       "transcript_available": false,
       "transcript_path": "data/archive/qbQQ8o4VOsg/transcript.md",
       "url": "https://www.youtube.com/shorts/qbQQ8o4VOsg",
+      "verdict": "skim"
+    },
+    "qoMMCMgztVA": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "published": "2026-09-06T15:46:37+00:00",
+      "takeaway": "A rapidly growing content-generation SaaS relies heavily on managed services (Convex, Vercel, Railway) and AI models (Claude, OpenAI) to scale quickly, with Claude Code positioned as essential for development speed.",
+      "title": "$1M ARR SaaS founder shares his entire tech stack:",
+      "transcript_available": true,
+      "transcript_path": "data/archive/qoMMCMgztVA/transcript.md",
+      "url": "https://www.youtube.com/shorts/qoMMCMgztVA",
       "verdict": "skim"
     },
     "r06tnztEOys": {
@@ -2309,6 +2826,17 @@
       "transcript_path": "data/archive/r_FT9q4ucgw/transcript.md",
       "url": "https://www.youtube.com/shorts/r_FT9q4ucgw",
       "verdict": "skip"
+    },
+    "rioTguFIH3U": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 11: Valuing Growth Firms",
+      "transcript_available": true,
+      "transcript_path": "data/archive/rioTguFIH3U/transcript.md",
+      "url": "https://www.youtube.com/watch?v=rioTguFIH3U",
+      "verdict": ""
     },
     "rkAF9xi7m3U": {
       "channel": "Chris Williamson",
@@ -2354,6 +2882,17 @@
       "url": "https://www.youtube.com/watch?v=sres2R8etKA",
       "verdict": ""
     },
+    "tBXho7i8_8Q": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 17: Investing in Decline",
+      "transcript_available": true,
+      "transcript_path": "data/archive/tBXho7i8_8Q/transcript.md",
+      "url": "https://www.youtube.com/watch?v=tBXho7i8_8Q",
+      "verdict": ""
+    },
     "tJIDnwdTCZA": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -2386,6 +2925,17 @@
       "transcript_path": "data/archive/u8XIg3V9Cn4/transcript.md",
       "url": "https://www.youtube.com/shorts/u8XIg3V9Cn4",
       "verdict": "skim"
+    },
+    "u8_J1Z4Mt2w": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 14: Investment Philosophies 101",
+      "transcript_available": true,
+      "transcript_path": "data/archive/u8_J1Z4Mt2w/transcript.md",
+      "url": "https://www.youtube.com/watch?v=u8_J1Z4Mt2w",
+      "verdict": ""
     },
     "uK3agwRdhmQ": {
       "channel": "Ben Yanes",
@@ -2431,6 +2981,28 @@
       "url": "https://www.youtube.com/watch?v=ufG0-8sYgRQ",
       "verdict": "watch"
     },
+    "vJEy3nP2_C8": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Most Valuable Skill of 2026: Managing AI Agents",
+      "transcript_available": true,
+      "transcript_path": "data/archive/vJEy3nP2_C8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=vJEy3nP2_C8",
+      "verdict": ""
+    },
+    "vg6H9248onQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 1: The Search for a Unifying Theory",
+      "transcript_available": true,
+      "transcript_path": "data/archive/vg6H9248onQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=vg6H9248onQ",
+      "verdict": ""
+    },
     "vxuuxJ68Dj8": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -2453,6 +3025,17 @@
       "url": "https://www.youtube.com/shorts/wK165GmLEiE",
       "verdict": "skim"
     },
+    "wOtNDXOypQg": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-06T15:00:32+00:00",
+      "takeaway": "Postpartum psychosis is a severe break from reality involving hallucinations and delusions (not a choice), affecting 2–3 per 10,000 births; the Lindsay Clancy case has sparked unnecessary relationship rifts because most people conflate mental illness with moral culpability and don't understand what psychosis actually is.",
+      "title": "“I Worked At Lindsay Clancy’s Psychiatric Ward. Here’s My Thoughts.” - Dr K HealthyGamer",
+      "transcript_available": true,
+      "transcript_path": "data/archive/wOtNDXOypQg/transcript.md",
+      "url": "https://www.youtube.com/watch?v=wOtNDXOypQg",
+      "verdict": "watch"
+    },
     "wipmKevNjAk": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -2462,6 +3045,50 @@
       "transcript_available": true,
       "transcript_path": "data/archive/wipmKevNjAk/transcript.md",
       "url": "https://www.youtube.com/watch?v=wipmKevNjAk",
+      "verdict": ""
+    },
+    "x7dbavHECfc": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "published": null,
+      "takeaway": "",
+      "title": "Chapter/Session 3: The Corporate Life Cycle - Measures and Determinants",
+      "transcript_available": true,
+      "transcript_path": "data/archive/x7dbavHECfc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=x7dbavHECfc",
+      "verdict": ""
+    },
+    "xBlIQ0eVcFk": {
+      "channel": "Felix & Friends (Goat Academy)",
+      "had_materials": false,
+      "published": "2026-09-06T13:00:00+00:00",
+      "takeaway": "Retirees should stress-test their pension holdings against their actual spending needs, resist panic into cash, and deliberately de-risk overexposed areas while accepting they may miss some gains for peace of mind.",
+      "title": "How to Financially Prepare for Retirement",
+      "transcript_available": true,
+      "transcript_path": "data/archive/xBlIQ0eVcFk/transcript.md",
+      "url": "https://www.youtube.com/shorts/xBlIQ0eVcFk",
+      "verdict": "skim"
+    },
+    "xHsftiyT9pQ": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How I Use Skills + AI Agents to Run My Life",
+      "transcript_available": true,
+      "transcript_path": "data/archive/xHsftiyT9pQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=xHsftiyT9pQ",
+      "verdict": ""
+    },
+    "xa-9O5cDm3c": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "GLM 5.2: What you need to know",
+      "transcript_available": true,
+      "transcript_path": "data/archive/xa-9O5cDm3c/transcript.md",
+      "url": "https://www.youtube.com/watch?v=xa-9O5cDm3c",
       "verdict": ""
     },
     "xvsvFd09Z3M": {
@@ -2474,6 +3101,17 @@
       "transcript_path": "data/archive/xvsvFd09Z3M/transcript.md",
       "url": "https://www.youtube.com/watch?v=xvsvFd09Z3M",
       "verdict": "skim"
+    },
+    "y3cim4d4iWo": {
+      "channel": "New Money",
+      "had_materials": false,
+      "published": "2026-09-06T14:32:04+00:00",
+      "takeaway": "Phil Town argues that beaten-down SaaS stocks like Salesforce offer generational buying opportunities because market-wide sell-offs overestimate the threat from AI, while companies with true moats—like Salesforce's irreplaceable customer record systems—will survive and recover.",
+      "title": "The SaaSpocalypse Isn't What Investors Think.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/y3cim4d4iWo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=y3cim4d4iWo",
+      "verdict": "watch"
     },
     "yCKTN71cwrA": {
       "channel": "Aswath Damodaran",
@@ -2540,6 +3178,17 @@
       "transcript_path": "data/archive/zI9okZtalGk/transcript.md",
       "url": "https://www.youtube.com/shorts/zI9okZtalGk",
       "verdict": "skim"
+    },
+    "zXysLUTLjw4": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "FDE: The $1M/Year AI Job Explained",
+      "transcript_available": true,
+      "transcript_path": "data/archive/zXysLUTLjw4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=zXysLUTLjw4",
+      "verdict": ""
     }
   }
 }

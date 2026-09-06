@@ -1,0 +1,107 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/CLC/slides/Ch9.pdf
+
+CHAPTER 9: 
+VALUATION AND 
+PRICING 101
+Aswath Damodaran
+§Putting intrinsic valuation into practice 
+requires grappling not only with how to 
+define cash flows and incorporate risk 
+into value, but also how to factor in the 
+time value of money. 
+Aswath Damodaran
+Aswath Damodaran
+§In theory, a publicly traded company 
+can continue as a going concern for 
+decades or even centuries. 
+§To impose closure on the exercise, and 
+one practice that valuation analysts use 
+is to assume that cash flows beyond a 
+point in time in the future will grow at a 
+constant rate forever. 
+§That assumption allows us to capture 
+the present value of all cash flows 
+beyond with a “terminal value”.
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Cash ﬂows from existing assets
+The base earnings will reﬂect the 
+earnings power of the existing 
+assets of the ﬁrm, net of taxes and 
+any reinvestment needed to sustain 
+the base earnings.
+Value of growth
+The future cash ﬂows will reﬂect expectations of how quickly earnings will grow in the future (as a positive) and how much 
+the company will have to reinvest to generate that growth (as a negative). The net effect will determine the value of growth.
+Expected Cash Flow in year t = E(CF) = Expected Earnings in year t - Reinvestment needed for growth
+Risk in the Cash ﬂows
+The risk in the investment is captured in the discount rate as a beta in the cost of equity and the default spread in the cost 
+of debt.
+Steady state
+The value of growth comes from 
+the capacity to generate excess 
+returns. The length of your growth 
+period comes from the strength & 
+sustainability of your competitive 
+advantages.
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+§Intrinsic value is a constant: The notion of the 
+intrinsic value of a business as the present value of 
+the expected cash flows from that business, over 
+time, applies for companies across the life cycle. 
+§With very different cash flow paths: With young 
+companies, struggling with building business 
+models, the cash flows will be negative in the early 
+years, and turn positive only as they approach high 
+growth, and grow rapidly before settle into stability. 
+With mature companies, you are far more likely to 
+see positive cash flows immediately, but with far less 
+growth in future years. With declining companies, 
+you may see shrinkage in the cash flows over time, as 
+businesses get smaller.
+§And a changing dependence on terminal value: 
+Earlier in this chapter, we noted that the value of a 
+business today will be the sum of the present value of 
+its expected cash flows in the forecast period and the 
+present value of the terminal value, capturing cash 
+flows beyond the forecast period. Y oung companies, 
+with negative cash flows in the early years and 
+positive and growing cash flows later, will get a much 
+large proportion of their values from the cash flows in 
+the later years and the termina value than more 
+mature companies. 
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+The Market Price
+Mood and Momentum
+Price is determined in large part 
+by mood and momentum, 
+which, in turn, are driven by 
+behavioral factors (panic, fear, 
+greed).
+Liquidity & Trading Ease
+While the value of an asset may 
+not change much from period to 
+period, liquidity and ease of 
+trading can, and as it does, so 
+will the price.
+Incremental information
+Since you make money on 
+price changes, not price levels, 
+the focus is on incremental 
+information (news stories, 
+rumors, gossip) and how it 
+measures up, relative to 
+expectations
+Group Think
+To the extent that pricing is 
+about gauging what other 
+investors will do, the price can 
+be determined by the "herd".
+Aswath Damodaran
+Aswath Damodaran

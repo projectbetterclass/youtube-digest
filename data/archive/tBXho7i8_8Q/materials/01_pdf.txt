@@ -1,0 +1,371 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/CLC/slides/Ch17.pdf
+
+CHAPTER 17: 
+INVESTING IN 
+DECLINE
+Aswath Damodaran
+Aswath Damodaran
+While there is no reason why private equity, in its non-VC 
+form, and activist investors cannot target companies across 
+the life cycle, the nature of how they add value will result in 
+them targeting mature and declining firms, for their buyouts.
+Aswath Damodaran
+Aswath Damodaran
+Institution Headquarters Capital raised ($ millions)
+KKR New York $                         126,508.00 
+Blackstone New York $                           82,457.00 
+EQT Stockholm $                           57,287.00 
+CVC Capital Partners Luxembourg $                           55,414.00 
+Thoma Bravo San Francisco $                           50,257.00 
+The Carlyle Group Washington DC $                           48,441.00 
+General Atlantic New York $                           44,832.00 
+Clearlake Capital Group Santa Monica $                           42,350.00 
+Hellman & Friedman San Francisco $                           40,925.00 
+Insight Partners New York $                           40,131.00
+Aswath Damodaran
+§Large free cash flows: Given that many 
+buyouts are funded with debt, they look 
+for large positive free cash flows from 
+operations that can be used to service 
+and pay down debt.
+§Cheap: While the objective in a buyout 
+may be fixing up a poorly run firm and 
+flipping it back to the market, at a much 
+higher price, private equity firms improve 
+their odds of high returns, if they can 
+acquire target firms at low prices. 
+§Potential for operating improvement: One 
+simple, and flawed, measure of the 
+potential for operating improvement is a 
+comparison of the operating margins or 
+returns on invested capital of the targeted 
+firm to that of its peer group, and here too, 
+the evidence is supportive of the notion 
+that companies that lag their peer 
+group in profitability and investment 
+returns are more likely to be targeted 
+in buyouts.
+Aswath Damodaran
+Aswath Damodaran
+Activist Targets (by Sector)
+Sector 201820192020
+Basic Materials 9% 11% 9%
+Communication Services 3% 4% 3%
+Consumer Cyclical 16% 15% 13%
+Consumer Defensive 5% 6% 4%
+Energy 6% 5% 4%
+Financial Services 11% 12% 13%
+Investment Funds 3% 5% 5%
+Healthcare 10% 10% 10%
+Industrials 17% 14% 18%
+Real Estate 5% 4% 5%
+Technology 11% 12% 12%
+Utilities 3% 3% 4%
+Activist Targets (by Market Cap)
+201820192020
+Large Cap (>$10 b) 23% 21% 27%
+Mid Cap ($2-$10 b) 17% 18% 16%
+Small Cap ($250 m -$2 b) 23% 24% 25%
+Micro Cap($50-$250 m) 18% 19% 18%
+Nano Cap (< $50 m) 18% 18% 14%
+Aswath Damodaran
+§Asset Redeployment: Private equity 
+investors reduce capital expenditures 
+marginally, do not cut back on R&D or other 
+investments and redeploy assets to other 
+businesses.
+§Profitability:  Profit margins improve
+§Financial leverage: Debt increases..
+Aswath Damodaran
+ Operating Income Operating Margin 
+Period Buyout firms Adjusted for Industry Buyout firms Adjusted for Industry 
+ -2 to -1 11.40% -1.20% -1.70% -1.90% 
+ -1 to +1 15.60% -2.70% 7.10% 12.40% 
+ -1 to +2 30.70% 0.70% 11.90% 23.30% 
+ -1 to +3 42.00% 24.10% 19.30% 34.80% 
+ 
+ Excess CF LBOs Cash Shortfall LBOs All Firms 
+Year Mean Median Mean Median Mean Median 
+Year -2 45.30% 40.00% 48.80% 41.70% 47.50% 41.00% 
+Year -1 41.30% 40.80% 46.80% 44.10% 44.70% 43.20% 
+Year of LBO 73.10% 69.50% 75.80% 77.50% 74.80% 75.40% 
+Year +1 74.80% 69.60% 76.70% 78.70% 76.00% 77.60% 
+Year +2 80.00% 76.00% 84.50% 77.60% 82.70% 77.50%
+Aswath Damodaran
+Activist Demand # Campaigns % of Sample % Success Rate
+Strategic and Operating Changes
+SaleofCompanyto
+3rdparty
+159 31.55% 32.08%
+Operating
+restructuring
+69 13.69% 34.78%
+Converttoprivate
+(frompublic)
+52 10.52% 40.38%
+Capital Structure and Dividend Policy
+Moredividends&
+buybacks
+78 15.48% 16.67%
+Increasedebtload 22 4.37% 31.82%
+M&A
+Back out of
+announcedmerger
+63 12.50% 28.57%
+Corporate Governance
+Remove CEO,
+SeparateCEOfrom
+BoardChair
+27 5.36% 18.52%
+Reduce executive
+compensation
+20 3.97% 15.00%
+Increasedisclosure14 2.78% 35.71%
+§The failure rate in activist investing is very 
+high, with two-thirds of activist investors 
+quitting before making any formal demands of 
+the target. 
+§Among those activist investors who persist, 
+less than 20% request a board seat, about 
+10% threaten a proxy fight and only 7% 
+carry through on that threat.
+§Activists who push through and make demands 
+of managers are most successful (success 
+rate in percent next to each action) when 
+they demand the taking private of a target 
+(41%), the sale of a target (32%), 
+restructuring of inefficient operations (35%) 
+or additional disclosure(36%). They are 
+least successful when they ask for higher 
+dividends/buybacks (17%), removal of the 
+CEO (19%) or executive compensation 
+changes (15%). 
+§Overall, activists succeed about 29% of the 
+timein their demands of management.
+Aswath Damodaran
+§Asset deployment and operating performance:There is evidence that firms targeted by individual activists do 
+see an improvement in return on capital and other 
+profitability measures, relative to their peer groups, 
+whereas firms targeted by hedge fund activists don’t see a similar jump in profitability measures.
+§Capital Structure: On financial leverage, there is a 
+moderate increase of about 10% in debt ratios at firms that are targeted by activist hedge funds, but the increase 
+is not dramatic nor is it statistically significant. There are 
+dramatic increases in financial leverage at a small subset 
+of firms that are targets of activism. 
+§Dividend policy:The firms that are targeted by activists 
+generally increase their dividends and return more cash 
+to stockholders, with the cash returned as a percentage 
+of earnings increasing by about 10% to 20%.
+§Corporate governance:The biggest effect is on 
+corporate governance. 
+§The likelihood of CEO turnover jumps at firms that have been targeted by activists, increasing 5.5% over the year 
+prior to the activism. In addition, 
+§CEO compensation decreases in the targeted firms in the years after the activism, with pay tied more closely to 
+performance.
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+§Activist mutual funds seem to have had the 
+lowest payoff to their activism, with little 
+change accruing to the corporate governance, 
+performance or stock prices of targeted firms.
+§Markets seem to recognize this, with studies that 
+have examined proxy fights finding that there is 
+little or no stock price reaction to proxy proposals 
+by activist institutional investors. 
+§Activist hedge funds, on the other hand, seem to 
+earn substantial excess returns, ranging from 7-
+8% on an annualized basis at the low end to 20% 
+or more at the high end.
+§Individual activists seem to fall somewhere in 
+the middle, earning higher returns than 
+institutions but lower returns than hedge funds.
+§While the average excess returns earned by 
+hedge funds and individual activists is 
+positive, there is substantial volatility in 
+these returns and the magnitude of the excess 
+return is sensitive to the benchmark used and 
+the risk adjustment process..
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+§The Liquidators: We valued private companies, 
+we noted that the values of some of these 
+companies, as going concerns, run by 
+management in denial, can be lower than the 
+values of their assets, in liquidation. There are 
+investors who notice this disparity, target these 
+companies for acquisitions, and once acquired, 
+liquidate them. 
+§The Break-up Specialists: Break-up specialists 
+start with the same premise that liquidators do, 
+i.e., that their targeted companies should not 
+continue as going concerns, but rather than 
+liquidate assets, they aim to split up, break up 
+or spin off the company into sub-parts, each of 
+which continues to operate as a going concern. 
+§The Traders: This group includes those who 
+believe that while declining companies may 
+face dark future, there are trading profits to be 
+made, during decline and distress. In some 
+cases, those profits can come from 
+understanding the legal process of 
+bankruptcy, and the restructuring of 
+companies that occur around the process, and 
+trading ahead of the market on developments 
+in both, either on equity or on debt. 
+AswathDamodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+§The board of directors will have to 
+assent to the liquidation, and once 
+received, a liquidator is appointed. 
+§The liquidator sells the assets in the 
+market for cash and equivalents, and 
+usually has the legal power to act on 
+behalf of the company. 
+§Once the assets have been liquidated, 
+the liquidator will follow the order of 
+obligations, starting with the most 
+senior debt first, then subordinated 
+debt and mezzanine financing and the 
+residual cash goes to equity investors. 
+Aswath Damodaran
+§As you acquire the target firm, you must 
+ensure that you do not bid up the price 
+to a level that is higher than 
+liquidation value, an obvious 
+requirement, but one that is often 
+difficult to meet, in practice.
+§The costs associated with liquidation, 
+including any discounts that you may 
+have to offer for speedier asset sales 
+and taxes due, must be controlled, to 
+leave you with excess profits. 
+§Liquidation investing is more likely to 
+succeed when the target company’s 
+assets are more liquid, to begin with, 
+and when the market value is much 
+lower than the liquidation value.
+Aswath Damodaran
+§Spin off: In a spin off , the parent company takes 
+a portion of its business (a subsidiary, a 
+geography etc.) and creates an independent 
+company, with a stand-alone governance 
+structure. The shareholders in the parent 
+company receive a proportional 
+shareholding in the spun off entity.
+§Split off: A split-off follows the same script as a 
+spin off, in terms of the parent company 
+creating an independent company that owns a 
+portion of its business. However, shareholders 
+in the parent company are then given a choice 
+of exchanging their shares in the parent 
+company for the split-off company’s shares 
+or staying on as shareholders in just the 
+public company.
+§Split up: In a split-up, the parent company is 
+broken down into two or more entities, and the 
+parent company is liquidated, with its 
+shareholders receiving shares in the new 
+entities that emerge.
+Aswath Damodaran
+§Market mistakes:The simplest rationale for a 
+breakup is that the market is mistakenly valuing 
+the whole company at less than the sum of its 
+pieces. 
+§Contaminated Parts: One division of a company 
+may be saddled with actual, perceived or 
+potential liabilities that are so large that they drag 
+down the valuations of the rest of the company. 
+This was the rationale for tobacco companies, 
+faced with potential billion-dollar payouts on 
+lawsuits brought by smokers, spinning of their 
+non-tobacco businesses. 
+§The efficiency story: If multi-businesses are less 
+well run than the competition, perhaps because 
+managers are spread too thin across business or 
+because there is cross subsidization, then 
+breaking them up into their individual businesses 
+should increase efficiency, profits and value. 
+§The simplicity story: Breaking up the companies 
+in bite size pieces that are easier to value, and that 
+may increase what investors are willing to pay, 
+especially if you are in a "crisis" market.
+§The tax story: When tax codes are complex, 
+companies may be able to lower their tax bills by 
+breaking themselves up. 
+Aswath Damodaran
+§Loss of economies of scale: Combining 
+businesses into a company can create 
+cost savings. Thus, a group of consumer 
+product businesses may benefit from 
+being consolidated into one unit, with 
+shared advertising and distribution costs. 
+Breaking up with result in a loss of these 
+savings.
+§Reduced access to capital (and higher 
+cost): If external capital markets (stock 
+and bond) are undeveloped or under 
+stress, combining businesses into a 
+consolidated company can provide 
+access to capital. How? The excess cash 
+flows from cash rich businesses can be 
+used to finance reinvestment needs in 
+cash poor businesses.
+§Lost synergies: In some multi-business 
+companies, businesses feed off each 
+other's successes, thus making the whole 
+greater than the sum of its parts. 
+Aswath Damodaran
+§Liquidation: The liquidation process, under 
+bankruptcy, is similar in structure to a 
+voluntary liquidation with two potentially 
+significant differences. First, the liquidator is 
+appointed by and answerable to the 
+bankruptcy court, rather than the board of 
+directors or equity investors. Second, court-
+driven liquidations tend to be more costly, 
+with liquidation costs becoming a bigger drag 
+on proceeds.
+§Reorganization: Any plan that emerges must 
+be voted on, and accepted, by creditors, 
+bondholders and shareholders, and 
+confirmed by the court. Ultimately, the court 
+can disregard the vote and still confirm the 
+plan if it finds that the plan treats creditors and 
+stockholders fairly.
+§Merger: There is a third option, albeit only in a 
+subset of cases, where a merger with a 
+healthy firmreduces distress or makes it less 
+imminent and allows for an exit from the 
+bankruptcy process.
+Aswath Damodaran
+§Operating comeback: The most painless way 
+out of bankruptcy is a return to operating 
+profitability, perhaps even with growth, at the 
+distressed firm. In some cases, this recovery 
+can be driven by a 
+§Liquidation/Merger Valuation: In cases where 
+an operating comeback is not in the cards, 
+investors in a distressed company can benefit 
+if a liquidation delivers much more in 
+proceeds than expected, or if a potential buyer 
+of the business is willing to pay a premium. 
+§Reorganization sweepstakes: In both private 
+and court-overseen reorganizations, there will 
+be a restructuring of claims, and some 
+claimholders will be made better off at the 
+expense of others. 
+§Market mispricing:  To the extent that markets 
+make mistakes on their price judgments, 
+traders can exploit these differences by 
+buying underpriced or selling short on 
+overpriced securities. In some cases, traders 
+may even be able to lock in the mispricing and 
+deliver guaranteed profits, i.e., arbitrage.
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran

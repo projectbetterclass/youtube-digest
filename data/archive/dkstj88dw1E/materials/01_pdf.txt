@@ -1,0 +1,89 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/CLC/slides/Ch5.pdf
+
+CORPORATE 
+FINANCE 101
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+§While the notion that a business should 
+consider the interests of all ofits different 
+stakeholders is unexceptional, it fails, in 
+our view, for two reasons: 
+§It leaves businesses rudderless: While all 
+stakeholders provide key ingredients for a 
+business to succeed, they do have very 
+different interests in the firm, and those 
+interests will often collide. 
+§It leaves managers unaccountable: If 
+decision makers in a business are 
+accountable to all stakeholders, we would 
+argue that they are effectively accountable 
+to none of them. 
+§The shareholder value maximization 
+objective is not perfect, by any stretch of 
+the imagination, but the notion that it is 
+inimical to the well-being of the other 
+stakeholders is neither logical, nor 
+backed by data. 
+Aswath Damodaran
+Aswath Damodaran
+Type of Risk/Uncertainty The Difference Why we care in corporate 
+finance
+Estimation versus Economic Economic uncertainty refers to 
+the unexpected changes doled 
+out by fate that no amount of 
+research or information is going 
+to give us insight into. Estimation 
+uncertainty relates to judgments 
+in investing and valuation that 
+can be improved by collecting 
+more information and using it 
+better.
+Businesses must make decisions 
+in the face of uncertainty, and 
+while more due diligence and 
+research will reduce estimation 
+uncertainty, they will have no 
+effect on economic uncertainty.    
+Micro versus Macro Micro uncertainty is at the 
+company-level and comes from 
+management decisions, legal 
+entanglements and even from 
+immediate competitors. Macro 
+uncertainty can be traced back 
+to larger forces, i.e., the swings 
+in fortune caused by changes in 
+inflation, interest rates and 
+economic cycles.
+The managers of a business can 
+affect only the micro component, 
+with better decisions translating 
+into better payoffs. However, 
+they cannot control the macro 
+component, coming from overall 
+economic or country risk.
+Discrete versus Continuous Continuous risk is risk that you 
+are exposed to on a continuous 
+basis, though the moment-to-
+moments will tend to be small. 
+Discrete risk is risk that is 
+uncommon but potentially 
+catastrophic.
+Risk management systems often 
+are built to manage continuous 
+risk, partly because you get 
+constant reminders of its 
+presence, and ignore or 
+underplay discrete risks.Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Matched debt
+Unmatched debt
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran

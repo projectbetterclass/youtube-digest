@@ -1,0 +1,5 @@
+# How to Financially Prepare for Retirement
+
+<https://www.youtube.com/shorts/xBlIQ0eVcFk>
+
+But but somebody who's 65 and can't sit through a lost decade, what do they need to kind of understand about that pension that nobody's told them? >> Well, first of all, look at what's in it. Look at what ability you have to manage it. That'll be a good thing to do. Don't panic sell. Please don't go into cash because that's definitely going to lose money. But look at like what percentage of that you need to spend. You know, what's your what's your cash flow looking like? And then you're going to want to move some of that into assets that are less related to what's the biggest risk right now. And to me, that's it's inflation and which is so the cash will be the risk. And the second is just AI exposure. And it might well keep running for a while. Like I spoke to Jim Rogers about 2 weeks ago. He's a bit of a gold and silver bug and he founded the the Founders Fund with George Soros. And that guy has basically sold pretty much everything. And he says, "I'm perfectly happy to miss out on a rally because I feel secure and safe."
