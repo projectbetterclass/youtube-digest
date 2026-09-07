@@ -132,6 +132,17 @@
       "url": "https://www.youtube.com/shorts/1s5K9XLuHts",
       "verdict": "skip"
     },
+    "1x0aB2hSNxY": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-07T01:02:03+00:00",
+      "takeaway": "In sales, deflect hard objections by asking clarifying questions about what the prospect really needs, rather than giving direct answers that force you to defend a position you might lose on.",
+      "title": "Don't Answer the Question, Ask a Question About the Question",
+      "transcript_available": true,
+      "transcript_path": "data/archive/1x0aB2hSNxY/transcript.md",
+      "url": "https://www.youtube.com/shorts/1x0aB2hSNxY",
+      "verdict": "skim"
+    },
     "1yqs3xDKS3Y": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -164,6 +175,17 @@
       "transcript_path": "data/archive/2UOZrF6koII/transcript.md",
       "url": "https://www.youtube.com/shorts/2UOZrF6koII",
       "verdict": "skim"
+    },
+    "2Vcn2bAu2FA": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Claude Skills: Build Your Own AI Employees",
+      "transcript_available": true,
+      "transcript_path": "data/archive/2Vcn2bAu2FA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=2Vcn2bAu2FA",
+      "verdict": ""
     },
     "2d4u80LmRQ8": {
       "channel": "Chris Williamson",
@@ -350,6 +372,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/5rhild0Juf4/transcript.md",
       "url": "https://www.youtube.com/watch?v=5rhild0Juf4",
+      "verdict": ""
+    },
+    "5uCDHmr0xdE": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I Spent $289 So AI Could Build My Business",
+      "transcript_available": true,
+      "transcript_path": "data/archive/5uCDHmr0xdE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=5uCDHmr0xdE",
       "verdict": ""
     },
     "5vBgs_L5fs8": {
@@ -671,6 +704,17 @@
       "url": "https://www.youtube.com/watch?v=ARQ80zO8SVo",
       "verdict": "skim"
     },
+    "AcK_zgJjnoo": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": true,
+      "published": "2026-09-07T07:00:10+00:00",
+      "takeaway": "\nThis episode translates cutting-edge psychology research on deception detection and dark personality traits into actionable strategies for managing toxic people in work, dating, and family contexts—debunking popular myths (like eye contact as a lie detector) along the way.\n",
+      "title": "Gaslighting Expert: Catch Psychopaths Hiding In Plain Sight By Asking This! | Dr Leanne Ten Brinke",
+      "transcript_available": true,
+      "transcript_path": "data/archive/AcK_zgJjnoo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=AcK_zgJjnoo",
+      "verdict": "watch"
+    },
     "Ah8iX7Oh2CY": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -759,6 +803,17 @@
       "url": "https://www.youtube.com/shorts/BiYnujj_S1w",
       "verdict": "skim"
     },
+    "Bs7sBbcwn60": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I Built an Entire App with OpenAI's Codex and 8 AI Agent Employees",
+      "transcript_available": false,
+      "transcript_path": "data/archive/Bs7sBbcwn60/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Bs7sBbcwn60",
+      "verdict": ""
+    },
     "BzG8M74BfrY": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -836,6 +891,28 @@
       "url": "https://www.youtube.com/watch?v=D9UUm4oeeuU",
       "verdict": ""
     },
+    "DW4a1Cm8nG4": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I got a private lesson on Claude Cowork & Claude Code",
+      "transcript_available": true,
+      "transcript_path": "data/archive/DW4a1Cm8nG4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=DW4a1Cm8nG4",
+      "verdict": ""
+    },
+    "Dll36oKiovU": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Inside the AI Startup That Added $1M ARR in 7 Days",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Dll36oKiovU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Dll36oKiovU",
+      "verdict": ""
+    },
     "DnzuNesLBt0": {
       "channel": "Vinh Giang",
       "had_materials": false,
@@ -846,6 +923,17 @@
       "transcript_path": "data/archive/DnzuNesLBt0/transcript.md",
       "url": "https://www.youtube.com/shorts/DnzuNesLBt0",
       "verdict": "skim"
+    },
+    "DvKZlIiiQGM": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "9 REQUIRED Finance Lessons for Founders",
+      "transcript_available": true,
+      "transcript_path": "data/archive/DvKZlIiiQGM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=DvKZlIiiQGM",
+      "verdict": ""
     },
     "EIrH2aM9r8s": {
       "channel": "HealthyGamerGG",
@@ -957,6 +1045,17 @@
       "url": "https://www.youtube.com/shorts/FjlewLCLsmM",
       "verdict": "watch"
     },
+    "G-5bInklwRQ": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Claude Skills Built Me an AI Agent Army (They Run Everything Now)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/G-5bInklwRQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=G-5bInklwRQ",
+      "verdict": ""
+    },
     "GpOzFKrnvdU": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -989,6 +1088,17 @@
       "transcript_path": "data/archive/GzqQ895qO40/transcript.md",
       "url": "https://www.youtube.com/shorts/GzqQ895qO40",
       "verdict": "skip"
+    },
+    "HhspudqFSvU": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I Watched Dan Koe Break Down His AI Workflow OMG",
+      "transcript_available": true,
+      "transcript_path": "data/archive/HhspudqFSvU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=HhspudqFSvU",
+      "verdict": ""
     },
     "HwmBqsMySTg": {
       "channel": "Aswath Damodaran",
@@ -1043,6 +1153,28 @@
       "transcript_available": true,
       "transcript_path": "data/archive/I_wbc5ND79o/transcript.md",
       "url": "https://www.youtube.com/watch?v=I_wbc5ND79o",
+      "verdict": ""
+    },
+    "Ias7J4TjyYw": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Genspark's Super AI Agent is INSANE",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Ias7J4TjyYw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Ias7J4TjyYw",
+      "verdict": ""
+    },
+    "IjYKIqvTyXg": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I gave away $1M to prove anyone can build with AI",
+      "transcript_available": true,
+      "transcript_path": "data/archive/IjYKIqvTyXg/transcript.md",
+      "url": "https://www.youtube.com/watch?v=IjYKIqvTyXg",
       "verdict": ""
     },
     "Il53UHCjZ4E": {
@@ -1342,6 +1474,17 @@
       "url": "https://www.youtube.com/watch?v=Lf5oqGOCRCM",
       "verdict": "watch"
     },
+    "LuOZ2PKvd4s": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "10 Unknown Apps Making $50K+ MRR (Copy Them)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/LuOZ2PKvd4s/transcript.md",
+      "url": "https://www.youtube.com/watch?v=LuOZ2PKvd4s",
+      "verdict": ""
+    },
     "LvsQR7Vc4fQ": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -1595,6 +1738,17 @@
       "url": "https://www.youtube.com/watch?v=OfPOtN51MpM",
       "verdict": "watch"
     },
+    "P2hjcIE9SQI": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Startup idea someone should steal",
+      "transcript_available": true,
+      "transcript_path": "data/archive/P2hjcIE9SQI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=P2hjcIE9SQI",
+      "verdict": ""
+    },
     "PHlERmgzSHM": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -1616,6 +1770,28 @@
       "transcript_path": "data/archive/PURtGKUA0ms/transcript.md",
       "url": "https://www.youtube.com/shorts/PURtGKUA0ms",
       "verdict": "skim"
+    },
+    "Pl_nmulyjqI": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Sahil Bloom Gives You a Plan for 2026",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Pl_nmulyjqI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Pl_nmulyjqI",
+      "verdict": ""
+    },
+    "PrP_aGVLBMI": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Watch me use AI to make millions in ecommerce",
+      "transcript_available": true,
+      "transcript_path": "data/archive/PrP_aGVLBMI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=PrP_aGVLBMI",
+      "verdict": ""
     },
     "Pt-tJJZNFPo": {
       "channel": "Aswath Damodaran",
@@ -1648,6 +1824,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/QID0UbRuIYk/transcript.md",
       "url": "https://www.youtube.com/watch?v=QID0UbRuIYk",
+      "verdict": ""
+    },
+    "QNh4SUQuts4": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I Tested Gemini 3 as a Designer. It’s Terrifyingly Good.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/QNh4SUQuts4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=QNh4SUQuts4",
       "verdict": ""
     },
     "QPAy9R9V1rA": {
@@ -1793,6 +1980,17 @@
       "url": "https://www.youtube.com/watch?v=RpuuRS6mkx8",
       "verdict": ""
     },
+    "RpvQH0r0ecM": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "\"Ralph Wiggum\" AI Agent will 10x Claude Code/Amp",
+      "transcript_available": true,
+      "transcript_path": "data/archive/RpvQH0r0ecM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=RpvQH0r0ecM",
+      "verdict": ""
+    },
     "SCpqqrW-rrc": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -1803,6 +2001,17 @@
       "transcript_path": "data/archive/SCpqqrW-rrc/transcript.md",
       "url": "https://www.youtube.com/watch?v=SCpqqrW-rrc",
       "verdict": ""
+    },
+    "SH_peVFs4oo": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-07T07:01:11+00:00",
+      "takeaway": "You can become \"good enough\" at nearly anything in 20 hours of focused work, but fear of judgment keeps most people from starting, wasting years of delay.",
+      "title": "It Takes 20 Hours — But People Wait a Decade to Start",
+      "transcript_available": true,
+      "transcript_path": "data/archive/SH_peVFs4oo/transcript.md",
+      "url": "https://www.youtube.com/shorts/SH_peVFs4oo",
+      "verdict": "skim"
     },
     "SRpJEkzJpKs": {
       "channel": "Aswath Damodaran",
@@ -1925,6 +2134,28 @@
       "url": "https://www.youtube.com/watch?v=U2hogriGmEw",
       "verdict": ""
     },
+    "U5HyW5tDXYM": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The Complete AI Stack and Workflow for 100M+ Video Views",
+      "transcript_available": true,
+      "transcript_path": "data/archive/U5HyW5tDXYM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=U5HyW5tDXYM",
+      "verdict": ""
+    },
+    "U8kXfk8enrY": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Clawdbot/OpenClaw Clearly Explained (and how to use it)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/U8kXfk8enrY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=U8kXfk8enrY",
+      "verdict": ""
+    },
     "UHqZQ7MavrY": {
       "channel": "Starter Story",
       "had_materials": false,
@@ -1969,6 +2200,17 @@
       "url": "https://www.youtube.com/shorts/VgGdPZH0Aqs",
       "verdict": "watch"
     },
+    "Vt0ZV9JTXRo": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Make $1M+ in 2026 with this Trend (IRL is back)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Vt0ZV9JTXRo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Vt0ZV9JTXRo",
+      "verdict": ""
+    },
     "VzKuSqiwc3s": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -1990,6 +2232,17 @@
       "transcript_path": "data/archive/WHtSlLF2vhQ/transcript.md",
       "url": "https://www.youtube.com/shorts/WHtSlLF2vhQ",
       "verdict": "skim"
+    },
+    "WNJmTvqraW8": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Claude's Agent Mode was LEAKED (First Look)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/WNJmTvqraW8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=WNJmTvqraW8",
+      "verdict": ""
     },
     "WfPyhQZEvkQ": {
       "channel": "Chris Williamson",
@@ -2068,6 +2321,17 @@
       "url": "https://www.youtube.com/watch?v=XgkW4A6lrDY",
       "verdict": "watch"
     },
+    "Xob-2a1OnvA": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Anthropic releases method to 10× Claude Code / Opus 4.5",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Xob-2a1OnvA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Xob-2a1OnvA",
+      "verdict": ""
+    },
     "Y9DKkM0cqlw": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -2100,6 +2364,17 @@
       "transcript_path": "data/archive/YLmIv35RK50/transcript.md",
       "url": "https://www.youtube.com/shorts/YLmIv35RK50",
       "verdict": "skim"
+    },
+    "YRhGtHfs1Lw": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How I Use Clawdbot to Run My Business and Life 24/7",
+      "transcript_available": true,
+      "transcript_path": "data/archive/YRhGtHfs1Lw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=YRhGtHfs1Lw",
+      "verdict": ""
     },
     "YTTtEaVfehQ": {
       "channel": "HealthyGamerGG",
@@ -2277,6 +2552,17 @@
       "url": "https://www.youtube.com/shorts/_yaFnSrFDcw",
       "verdict": "watch"
     },
+    "a_ORzZ9eG40": {
+      "channel": "Ticker Symbol: YOU",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I'm Buying Every Share I Can (Investors Aren't Ready)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/a_ORzZ9eG40/transcript.md",
+      "url": "https://www.youtube.com/watch?v=a_ORzZ9eG40",
+      "verdict": ""
+    },
     "awEyDWhEdhg": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -2418,6 +2704,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/dRBc9uFgD_A/transcript.md",
       "url": "https://www.youtube.com/watch?v=dRBc9uFgD_A",
+      "verdict": ""
+    },
+    "dYb6DGBhBBk": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "OpenAI's NEW AI Agent Builder Replaces n8n & Zapier",
+      "transcript_available": true,
+      "transcript_path": "data/archive/dYb6DGBhBBk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=dYb6DGBhBBk",
       "verdict": ""
     },
     "dhbcVxYhWaQ": {
@@ -2728,6 +3025,17 @@
       "url": "https://www.youtube.com/watch?v=i13XK-uUOLQ",
       "verdict": ""
     },
+    "i43kYARbSGM": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Vercel's CEO Shares 5 AI Startup Ideas So Good You’ll Quit Your Job",
+      "transcript_available": true,
+      "transcript_path": "data/archive/i43kYARbSGM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=i43kYARbSGM",
+      "verdict": ""
+    },
     "i80avS70k8E": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -2737,6 +3045,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/i80avS70k8E/transcript.md",
       "url": "https://www.youtube.com/watch?v=i80avS70k8E",
+      "verdict": ""
+    },
+    "iHyK-CW3ciI": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "OpenAI Releases ChatGPT AI Agent Skills",
+      "transcript_available": true,
+      "transcript_path": "data/archive/iHyK-CW3ciI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=iHyK-CW3ciI",
       "verdict": ""
     },
     "ig2ewJ9wx2Y": {
@@ -2781,6 +3100,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/jJIOA4GroBw/transcript.md",
       "url": "https://www.youtube.com/watch?v=jJIOA4GroBw",
+      "verdict": ""
+    },
+    "jSWuepkuFrU": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How I Design Apps 10x Better (Free Course)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/jSWuepkuFrU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=jSWuepkuFrU",
       "verdict": ""
     },
     "juhEybZYE2M": {
@@ -2882,6 +3212,28 @@
       "url": "https://www.youtube.com/watch?v=l-J8RodcM_A",
       "verdict": ""
     },
+    "la7OEAf9XAg": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-07T10:01:47+00:00",
+      "takeaway": "To explain what you do to anyone, start with what they already do (buy things, make recommendations), then show them how they could earn money doing it—not by leading with your title or jargon.",
+      "title": "How to Explain What You Do to Anyone",
+      "transcript_available": true,
+      "transcript_path": "data/archive/la7OEAf9XAg/transcript.md",
+      "url": "https://www.youtube.com/shorts/la7OEAf9XAg",
+      "verdict": "skim"
+    },
+    "li788UL1qyI": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Be a 10x Vibe Coder (Claude Code + Cursor + MCP)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/li788UL1qyI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=li788UL1qyI",
+      "verdict": ""
+    },
     "lkseJAJNPOs": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -2892,6 +3244,17 @@
       "transcript_path": "data/archive/lkseJAJNPOs/transcript.md",
       "url": "https://www.youtube.com/shorts/lkseJAJNPOs",
       "verdict": "skim"
+    },
+    "loNrCpi5dkw": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Side Hustle King: 6 $60K/Mo Businesses Nobody's Doing",
+      "transcript_available": true,
+      "transcript_path": "data/archive/loNrCpi5dkw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=loNrCpi5dkw",
+      "verdict": ""
     },
     "loRxUyfqMEk": {
       "channel": "Aswath Damodaran",
@@ -3047,6 +3410,17 @@
       "url": "https://www.youtube.com/shorts/nTWoZKj_Ug8",
       "verdict": "skim"
     },
+    "nt8gUax1Aj0": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How I'd use Sora 2 + Claude to hit 1M+ views on AI videos",
+      "transcript_available": true,
+      "transcript_path": "data/archive/nt8gUax1Aj0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=nt8gUax1Aj0",
+      "verdict": ""
+    },
     "nvR2gxNREHM": {
       "channel": "Aswath Damodaran",
       "had_materials": false,
@@ -3080,6 +3454,17 @@
       "url": "https://www.youtube.com/watch?v=nyO60uzTnP4",
       "verdict": ""
     },
+    "oDl-A2Uez58": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Inside $180B Co-Founder's AI Agent System",
+      "transcript_available": true,
+      "transcript_path": "data/archive/oDl-A2Uez58/transcript.md",
+      "url": "https://www.youtube.com/watch?v=oDl-A2Uez58",
+      "verdict": ""
+    },
     "oLu32YpiIJw": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -3091,6 +3476,17 @@
       "url": "https://www.youtube.com/watch?v=oLu32YpiIJw",
       "verdict": ""
     },
+    "oVjNM18jtgQ": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "3 Days in San Francisco's AI Gold Rush",
+      "transcript_available": true,
+      "transcript_path": "data/archive/oVjNM18jtgQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=oVjNM18jtgQ",
+      "verdict": ""
+    },
     "oeRtLInQTAM": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -3100,6 +3496,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/oeRtLInQTAM/transcript.md",
       "url": "https://www.youtube.com/watch?v=oeRtLInQTAM",
+      "verdict": ""
+    },
+    "og7R9C_N3Zg": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Google's Gemini 3.0: The Most Powerful LLM Ever",
+      "transcript_available": true,
+      "transcript_path": "data/archive/og7R9C_N3Zg/transcript.md",
+      "url": "https://www.youtube.com/watch?v=og7R9C_N3Zg",
       "verdict": ""
     },
     "ovdJagfSMwM": {
@@ -3123,6 +3530,17 @@
       "transcript_path": "data/archive/pz2hF0_ygm4/transcript.md",
       "url": "https://www.youtube.com/watch?v=pz2hF0_ygm4",
       "verdict": ""
+    },
+    "q3-6JnmwnfA": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-07T05:01:34+00:00",
+      "takeaway": "After closing a sale, ask the customer \"Who else do you know?\" with specificity rather than open-ended questions—this simple referral ask typically converts at ~33% and can double your sales volume without changing close rates.",
+      "title": "Ask \"Who Else Do You Know?\" After Every Sale",
+      "transcript_available": true,
+      "transcript_path": "data/archive/q3-6JnmwnfA/transcript.md",
+      "url": "https://www.youtube.com/shorts/q3-6JnmwnfA",
+      "verdict": "watch"
     },
     "q3zrIPuy0tM": {
       "channel": "Chris Williamson",
@@ -3255,6 +3673,28 @@
       "transcript_path": "data/archive/r0fa_y5BFYw/transcript.md",
       "url": "https://www.youtube.com/shorts/r0fa_y5BFYw",
       "verdict": "skip"
+    },
+    "rO3dIBMXD2g": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Blueprint to Build a $1M SaaS From Scratch",
+      "transcript_available": true,
+      "transcript_path": "data/archive/rO3dIBMXD2g/transcript.md",
+      "url": "https://www.youtube.com/watch?v=rO3dIBMXD2g",
+      "verdict": ""
+    },
+    "rQgaQ1p4tKU": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "My AI Videos Hit 1M+ Views (Veo3 + Sora 2 Demo)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/rQgaQ1p4tKU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=rQgaQ1p4tKU",
+      "verdict": ""
     },
     "r_FT9q4ucgw": {
       "channel": "Alex Hormozi",
@@ -3421,6 +3861,17 @@
       "url": "https://www.youtube.com/watch?v=ubzhh4kMCLo",
       "verdict": "watch"
     },
+    "ud0bv2J3xWY": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The Best Vibe Coding Tools in 2026",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ud0bv2J3xWY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ud0bv2J3xWY",
+      "verdict": ""
+    },
     "ufG0-8sYgRQ": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -3485,6 +3936,28 @@
       "transcript_available": true,
       "transcript_path": "data/archive/vyLaimDeK_g/transcript.md",
       "url": "https://www.youtube.com/watch?v=vyLaimDeK_g",
+      "verdict": ""
+    },
+    "vyZX0oQozzc": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Reviewing Claude Opus 4.5",
+      "transcript_available": true,
+      "transcript_path": "data/archive/vyZX0oQozzc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=vyZX0oQozzc",
+      "verdict": ""
+    },
+    "w1OU6IdxF0Y": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Glif AI: The $10 App That Replaces a Full Creative Team",
+      "transcript_available": true,
+      "transcript_path": "data/archive/w1OU6IdxF0Y/transcript.md",
+      "url": "https://www.youtube.com/watch?v=w1OU6IdxF0Y",
       "verdict": ""
     },
     "wK165GmLEiE": {
@@ -3672,6 +4145,28 @@
       "transcript_available": true,
       "transcript_path": "data/archive/zXysLUTLjw4/transcript.md",
       "url": "https://www.youtube.com/watch?v=zXysLUTLjw4",
+      "verdict": ""
+    },
+    "zYeJZu1hkdM": {
+      "channel": "Ticker Symbol: YOU",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "These Stocks Will Make Millionaires By 2029",
+      "transcript_available": true,
+      "transcript_path": "data/archive/zYeJZu1hkdM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=zYeJZu1hkdM",
+      "verdict": ""
+    },
+    "zxMjOqM7DFs": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Claude Code Clearly Explained (and how to use it)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/zxMjOqM7DFs/transcript.md",
+      "url": "https://www.youtube.com/watch?v=zxMjOqM7DFs",
       "verdict": ""
     }
   }
