@@ -49,6 +49,7 @@ channels:
   - name: "Ticker Symbol: YOU"
     channel_id: UC7kCeZ53sli_9XwuQeFxLqw
     backfill: 100
+    visual: true             # chart-heavy — capture on-screen slides (self-hosted visuals job)
   - name: "Felix & Friends (Goat Academy)"
     channel_id: UCJtfma0mE_XrBAD9uakcjfA
     backfill: 100
@@ -95,3 +96,4 @@ channels:
   - name: "David Carbutt"
     channel_id: UC__d7jgOunIVFz6TU_t1QOQ
     backfill: 100
+    visual: true             # chart-heavy — capture on-screen slides (self-hosted visuals job)

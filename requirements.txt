@@ -4,9 +4,14 @@ requests>=2.31.0            # RSS + document downloads + GitHub Issue delivery
 youtube-transcript-api>=1.2.0,<2.0  # captions without the YouTube Data API (1.x uses current YouTube endpoints)
 pypdf>=4.0.0               # PDF text extraction
 python-pptx>=0.6.23        # PPTX text extraction
-yt-dlp>=2024.1.1          # enumerate a channel's back-catalog (metadata only, no downloads)
+yt-dlp>=2024.1.1          # enumerate a channel's back-catalog; download video for Phase 2 visuals
 PyYAML>=6.0               # watchlist config
 python-dotenv>=1.0.0       # load ANTHROPIC_API_KEY from .env for local runs
+
+# Phase 2 — on-screen visual capture (only needed on the self-hosted visuals runner)
+opencv-python-headless>=4.9.0  # keyframe extraction (scene change, flatness/line prior)
+imagehash>=4.3.1               # perceptual-hash de-dup of near-identical frames
+Pillow>=10.0.0                 # image encode for the Claude vision call
 
 # Dev / tests
 pytest>=8.0.0

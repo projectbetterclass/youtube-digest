@@ -2,8 +2,9 @@
 
 This repo is two things:
 1. **A tool** (`src/ytdigest/`) that summarizes new YouTube videos into a daily digest.
-2. **A growing knowledge library** of what those videos say — full transcripts and
-   extracted slide/PDF text under `data/archive/<video_id>/`.
+2. **A growing knowledge library** of what those videos say — full transcripts,
+   extracted slide/PDF text, and (for chart-heavy channels) on-screen slides/charts
+   read by Claude vision, all under `data/archive/<video_id>/`.
 
 ## Answering questions from the library ("ask your library")
 
@@ -12,17 +13,22 @@ treat `data/archive/` as the knowledge base and answer from it:
 
 1. **Read `data/archive/INDEX.md` first** — it lists every archived video (channel,
    title, link, date, one-line takeaway). Use it to pick which videos are relevant.
-2. **Search the transcripts:** `Grep` across `data/archive/**/transcript.md` (and
-   `data/archive/**/materials/*.txt`) for the concepts in the question — try several
+2. **Search the transcripts:** `Grep` across `data/archive/**/transcript.md` (plus
+   `data/archive/**/materials/*.txt` for slide/PDF text and `data/archive/**/visuals.md`
+   for on-screen slides/charts) for the concepts in the question — try several
    phrasings, since wording in the transcript may differ from the question.
-3. **Read the most relevant transcripts/materials** and synthesize a **concrete,
+3. **Read the most relevant transcripts/materials/visuals** and synthesize a **concrete,
    specific** answer. Favor actionable detail (numbers, steps, named tactics) over
-   generalities.
+   generalities. `visuals.md` holds figures the narration often skips (chart values,
+   labeled diagrams) — use it for the numbers, but note its text is vision-read and may
+   contain OCR errors.
 4. **Cite every claim** as `[Channel — Video Title](youtube-url)`, using the links in
    INDEX.md. If creators disagree, say so and attribute each view.
 5. **Be honest about coverage:** say when the library has little on the topic. Answers
-   are based on transcripts + linked slide/PDF text — **not** on-screen visuals (that
-   visual-capture step, "Phase 2", isn't built yet).
+   are based on transcripts + linked slide/PDF text, plus on-screen slides/charts for
+   the chart-heavy channels opted in to visual capture (`visual: true`). Channels
+   without it have **no** on-screen visuals captured — say so rather than guessing what
+   was shown.
 6. **Stay critical — don't just parrot the creators.** These are opinionated YouTubers,
    not peer-reviewed sources. Distinguish claims stated as certainty from opinion or
    prediction; note when a creator may be selling something, sponsored, or talking their

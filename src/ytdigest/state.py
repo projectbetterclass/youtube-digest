@@ -14,11 +14,12 @@ def load_state(path: Path | str) -> dict:
     """Load state, returning a fresh skeleton if the file does not exist yet."""
     path = Path(path)
     if not path.exists():
-        return {"last_run": None, "processed": {}}
+        return {"last_run": None, "processed": {}, "visuals": {}}
     with open(path, "r", encoding="utf-8") as fh:
         data = json.load(fh)
     data.setdefault("processed", {})
     data.setdefault("last_run", None)
+    data.setdefault("visuals", {})  # video_id -> {slides, error, at}: Phase 2 visual-capture ledger
     return data
 
 
@@ -49,6 +50,20 @@ def mark_processed(
         "processed_at": datetime.now(timezone.utc).isoformat(),
         "had_materials": had_materials,
         "transcript_available": transcript_available,
+    }
+
+
+def visual_done(state: dict, video_id: str) -> bool:
+    """True once Phase 2 has attempted visual capture for this video (success or hard skip)."""
+    return video_id in state.get("visuals", {})
+
+
+def mark_visual_done(state: dict, video_id: str, *, slides: int = 0, error: str = "") -> None:
+    """Record a visual-capture attempt so it is not repeated (video downloads are expensive)."""
+    state.setdefault("visuals", {})[video_id] = {
+        "slides": slides,
+        "error": error,
+        "at": datetime.now(timezone.utc).isoformat(),
     }
 
 
