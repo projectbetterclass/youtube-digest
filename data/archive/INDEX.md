@@ -1,10 +1,11 @@
 # 📚 Library index
 
-474 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+514 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Transcript |
 |---|---|---|---|---|---|
+| 2026-09-08 | Chris Williamson | [The U.K's New Wealth Tax](https://www.youtube.com/shorts/pNsKE9xLAYg) | skim | A wealth tax could address inequality but risks capital flight if the UK doesn't remain competitively attractive compared to other nations. | [transcript](pNsKE9xLAYg/transcript.md) |
 | 2026-09-07 | HealthyGamerGG | [Is Your Phone Stopping You From Processing Your Life?](https://www.youtube.com/shorts/dRdjgX68KUE) | watch | Regular periods without phones or distraction are essential for emotional processing; filling all "idle" moments with technology may impair your brain's ability to metabolize negative experiences and could increase trauma risk. | [transcript](dRdjgX68KUE/transcript.md) |
 | 2026-09-07 | Chris Williamson | [What's The Biggest Irrational Fear You Have?](https://www.youtube.com/shorts/HPrxhoKz_mI) | skip | Without a transcript, this appears to be a short-form personal anecdote or soundbite about irrational fears, bundled with promotions for the creator's podcast, book list, and energy drink. | [transcript](HPrxhoKz_mI/transcript.md) |
 | 2026-09-07 | Riley Brown | [GPT-6 Astra Feels Like AGI (Here’s Everything It Can Do)](https://www.youtube.com/watch?v=Ju41cQSe7hY) | watch | GPT-6 Astra integrated with Codex represents a significant leap in AI agency—the ability to autonomously create, test, and iterate on complex projects (games, 3D models, software) with minimal human guidance now feels qualitatively different from prior models. | [transcript](Ju41cQSe7hY/transcript.md) |
@@ -175,7 +176,6 @@ Each transcript link points to the full text under this folder.
 | 2026-08-26 | Vinh Giang | [Do you struggle to share your ideas?](https://www.youtube.com/shorts/NtgKqFwOgq0) | skip | Most people worry unnecessarily about others' judgment because they overestimate how much others think about them; realizing this can free you to share your ideas more openly. | [transcript](NtgKqFwOgq0/transcript.md) |
 | 2026-08-26 | Two Minute Papers | [DeepSeek’s New AI System Shouldn’t Be Possible](https://www.youtube.com/watch?v=L9mMfAFwbl4) | — | — | [transcript](L9mMfAFwbl4/transcript.md) |
 | 2026-08-26 | Leila Hormozi | [7 Conversations Every Ambitious Person Needs to Hear \| Dear Leila](https://www.youtube.com/watch?v=9SUB33ph1pw) | watch | This is an unscripted advice series examining the real costs of ambition on relationships, with Leila Hormozi addressing common fears among driven people building careers—emphasizing that you must own your ambition, accept the trade-offs, and choose partners/relationships that support your vision. | [transcript](9SUB33ph1pw/transcript.md) |
-| 2026-08-26 | Felix & Friends (Goat Academy) | [The UNTHINKABLE is About to Happened to the Dollar (& Why Gold and Silver are Next)](https://www.youtube.com/watch?v=SXhkSyopG74) | skip | This is a gold and silver promotion video arguing that dollar devaluation and central bank demand create a compelling case for precious metals as inflation hedges, using macro economic events and price charts as supporting evidence. | [transcript](SXhkSyopG74/transcript.md) |
 | 2026-08-26 | David Carbutt | [History is About to be Made (Get Ready!!)](https://www.youtube.com/watch?v=ARQ80zO8SVo) | skim | Tesla is making a major strategic bet on humanoid robots with Optimus, shuttering legacy car production to retool factories—a high-risk move that could reshape the company if successful. | [transcript](ARQ80zO8SVo/transcript.md) |
 | 2026-08-26 | Ben Yanes | [WTF Happened to Lengthened Partials? \| Biomechanics Academy Podcast #3](https://www.youtube.com/watch?v=ZVWM5f4my0c) | watch | Lengthened partials fell out of favor because they often underload the lengthened range despite heavier loading elsewhere; training across a spectrum of muscle lengths produces more complete strength development. | [transcript](ZVWM5f4my0c/transcript.md) |
 | 2026-08-26 | David Carbutt | [The $500 billion AI Alliance Between Nvidia and Wall Street](https://www.youtube.com/shorts/SdIx__D3vXk) | skip | Unable to determine substantive content value—no transcript available, and the description is dominated by promotional material rather than content summaries. | [transcript](SdIx__D3vXk/transcript.md) |
@@ -199,12 +199,17 @@ Each transcript link points to the full text under this folder.
 | 2026-08-25 | New Money | [The Super Investors Are Buying BIG.](https://www.youtube.com/watch?v=M3Y7xsWyHxo) | skim | Top institutional investors are making significant portfolio moves across tech, payments, and emerging markets—buying undervalued growth businesses with strong cash generation, though conflicting signals on Amazon show nuanced views on spending vs. returns. | [transcript](M3Y7xsWyHxo/transcript.md) |
 | 2026-08-25 | Felix & Friends (Goat Academy) | [This Will Surprise US Investors](https://www.youtube.com/shorts/nTWoZKj_Ug8) | skim | Jim Rogers, a legendary investor with a proven track record, has moved to cash as markets hit all-time highs, arguing that mass euphoria is a reason to question the market rather than follow conventional buy-and-hold advice. | [transcript](nTWoZKj_Ug8/transcript.md) |
 | 2026-08-25 | Ben Yanes | [Why You Never Feel Your Back \| Biomechanics Explained](https://www.youtube.com/watch?v=JSQaAQndlyg) | watch | Lat activation depends less on the exercise type and more on whether the arm moves toward the torso and the scapula moves as a unit through a large range; most people neglect scapular movement and instead only move their upper arm, missing the opportunity to fully engage the lats. | [transcript](JSQaAQndlyg/transcript.md) |
+| — | Ticker Symbol: YOU | [If You Missed Nvidia (NVDA) - This Stock Is Next!](https://www.youtube.com/watch?v=-OYNQ74oG9k) | — | — | [transcript](-OYNQ74oG9k/transcript.md) |
+| — | Ticker Symbol: YOU | [Michael Burry's Big Short on Nvidia & Palantir Will Make Millionaires (Here's How)](https://www.youtube.com/watch?v=-_R1dPYPbxU) | — | — | [transcript](-_R1dPYPbxU/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying Palantir Stock (PLTR) After Earnings - Here's Why](https://www.youtube.com/watch?v=-zOE636nDpE) | — | — | [transcript](-zOE636nDpE/transcript.md) |
 | — | Aswath Damodaran | [Session 11: Hurdle Rates Closure and First Steps on Investment Returns](https://www.youtube.com/watch?v=0FeHGmeqcX0) | — | — | [transcript](0FeHGmeqcX0/transcript.md) |
+| — | Ticker Symbol: YOU | [My Top 2 Stocks to Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=0Wts6YiNzaw) | — | — | [transcript](0Wts6YiNzaw/transcript.md) |
 | — | Greg Isenberg | [Using AI Tools (Manus, FreePik etc) to Create Viral IG Reels](https://www.youtube.com/watch?v=0b8qQx3FaLE) | — | — | [transcript](0b8qQx3FaLE/transcript.md) |
 | — | Aswath Damodaran | [A "Fairly Highly Valued" (Stock) Market: The Fed Chair Opines but should anyone listen?](https://www.youtube.com/watch?v=0faNl-maR5o) | — | — | [transcript](0faNl-maR5o/transcript.md) |
+| — | Ticker Symbol: YOU | [If I Could Only Buy 1 Stock in 2026, THIS Would Be It (Here's Why)](https://www.youtube.com/watch?v=0i2qkboRQRQ) | — | — | [transcript](0i2qkboRQRQ/transcript.md) |
 | — | Aswath Damodaran | [Beat you Bot: Building your moat against AI!](https://www.youtube.com/watch?v=0o1MQ7bzaEw) | — | — | [transcript](0o1MQ7bzaEw/transcript.md) |
 | — | Aswath Damodaran | [Information Timing and Release: The Debate over Quarterly Reporting and Fed Guidance!](https://www.youtube.com/watch?v=0pTXwulvxzA) | — | — | [transcript](0pTXwulvxzA/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! My Top 4 AI Stocks to Get Rich in 2025 (Without Getting Lucky)](https://www.youtube.com/watch?v=0y23kpnRW6k) | — | — | [transcript](0y23kpnRW6k/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying Every Share I Can (Investors Aren't Ready)](https://www.youtube.com/watch?v=1K0OgUBolXc) | — | — | [transcript](1K0OgUBolXc/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 12: Valuing Mature Firms](https://www.youtube.com/watch?v=1esgFI00KUE) | — | — | [transcript](1esgFI00KUE/transcript.md) |
 | — | Aswath Damodaran | [For the fun of it: An Open House for my Spring 2025 Classes](https://www.youtube.com/watch?v=1gLQS2v6rqE) | — | — | [transcript](1gLQS2v6rqE/transcript.md) |
@@ -223,9 +228,11 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [AI Agents run my business and life (Andrew Wilkinson)](https://www.youtube.com/watch?v=65IAqRUxg3c) | — | — | [transcript](65IAqRUxg3c/transcript.md) |
 | — | Aswath Damodaran | [Data Update 4 for 2026: A Tumultuous Year (2025) for Global Markets!](https://www.youtube.com/watch?v=6JLvhmGzeuQ) | — | — | [transcript](6JLvhmGzeuQ/transcript.md) |
 | — | Greg Isenberg | [How I Use Obsidian + Claude Code to Run My Life](https://www.youtube.com/watch?v=6MBq1paspVU) | — | — | [transcript](6MBq1paspVU/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In THIS AI Data Center Stock](https://www.youtube.com/watch?v=6gRGpDEkqHU) | — | — | [transcript](6gRGpDEkqHU/transcript.md) |
 | — | Greg Isenberg | [The Claude Code Skill My Smartest Friends Use](https://www.youtube.com/watch?v=71ES9jzqa0Q) | — | — | [transcript](71ES9jzqa0Q/transcript.md) |
 | — | Aswath Damodaran | [Buy the Dip? The Allure and Dangers of Contrarian Investing](https://www.youtube.com/watch?v=7IHreZHXE98) | — | — | [transcript](7IHreZHXE98/transcript.md) |
 | — | Greg Isenberg | [WTF Is an "AI Agent Loop"? Genius or Hype?](https://www.youtube.com/watch?v=7clJ8IH784Q) | — | — | [transcript](7clJ8IH784Q/transcript.md) |
+| — | Ticker Symbol: YOU | [Trump's China Tariffs Will Make (Smart) Investors Rich - Here's How](https://www.youtube.com/watch?v=7jdEG5F62s4) | — | — | [transcript](7jdEG5F62s4/transcript.md) |
 | — | Greg Isenberg | [GPT 5.6 SOL IS HERE! How to use it.](https://www.youtube.com/watch?v=7pVTQSA4s5I) | — | — | [transcript](7pVTQSA4s5I/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 20: Lessons for the Road](https://www.youtube.com/watch?v=7s3-Xb2gnTY) | — | — | [transcript](7s3-Xb2gnTY/transcript.md) |
 | — | Greg Isenberg | [AI Agents are the new SaaS](https://www.youtube.com/watch?v=83fWzQSWB10) | — | — | [transcript](83fWzQSWB10/transcript.md) |
@@ -239,6 +246,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Data Update 3 for 2025: The times they are a'changin...](https://www.youtube.com/watch?v=AvbfOyLSrfk) | — | — | [transcript](AvbfOyLSrfk/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 8: Cash Return (Dividends) across the Life Cycle](https://www.youtube.com/watch?v=Aw_ljPKgFVw) | — | — | [transcript](Aw_ljPKgFVw/transcript.md) |
 | — | Greg Isenberg | [The $1M+ Solo AI Agent Business (Full Course)](https://www.youtube.com/watch?v=BI-MNjm1tTQ) | — | — | [transcript](BI-MNjm1tTQ/transcript.md) |
+| — | Ticker Symbol: YOU | [NVIDIA CEO Jensen Huang Leaves Everyone SPEECHLESS (Supercut)](https://www.youtube.com/watch?v=B_UeixjySSg) | — | — | [transcript](B_UeixjySSg/transcript.md) |
 | — | Greg Isenberg | [I Built an Entire App with OpenAI's Codex and 8 AI Agent Employees](https://www.youtube.com/watch?v=Bs7sBbcwn60) | — | — | [transcript](Bs7sBbcwn60/transcript.md) |
 | — | Aswath Damodaran | [Data Update 2 for 2026: A Test for US Equities](https://www.youtube.com/watch?v=BzG8M74BfrY) | — | — | [transcript](BzG8M74BfrY/transcript.md) |
 | — | Greg Isenberg | [Paperclip: Hire AI Agents Like Employees (Live Demo)](https://www.youtube.com/watch?v=C3-4llQYT8o) | — | — | [transcript](C3-4llQYT8o/transcript.md) |
@@ -247,6 +255,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 12: Incremental, time-weighted Cash Flow Returns](https://www.youtube.com/watch?v=CncUmN65lDs) | — | — | [transcript](CncUmN65lDs/transcript.md) |
 | — | Aswath Damodaran | [Session 2: The End Game in Business](https://www.youtube.com/watch?v=CqwuN4dLLFg) | — | — | [transcript](CqwuN4dLLFg/transcript.md) |
 | — | Aswath Damodaran | [Just do it! Brand Name Lessons from Nike's Troubles!](https://www.youtube.com/watch?v=D9UUm4oeeuU) | — | — | [transcript](D9UUm4oeeuU/transcript.md) |
+| — | Ticker Symbol: YOU | [WARNING: If You Hold NVIDIA Stock (NVDA)... GET READY](https://www.youtube.com/watch?v=DALSsGX8nBE) | — | — | [transcript](DALSsGX8nBE/transcript.md) |
 | — | Greg Isenberg | [I got a private lesson on Claude Cowork & Claude Code](https://www.youtube.com/watch?v=DW4a1Cm8nG4) | — | — | [transcript](DW4a1Cm8nG4/transcript.md) |
 | — | Greg Isenberg | [Inside the AI Startup That Added $1M ARR in 7 Days](https://www.youtube.com/watch?v=Dll36oKiovU) | — | — | [transcript](Dll36oKiovU/transcript.md) |
 | — | Greg Isenberg | [9 REQUIRED Finance Lessons for Founders](https://www.youtube.com/watch?v=DvKZlIiiQGM) | — | — | [transcript](DvKZlIiiQGM/transcript.md) |
@@ -256,14 +265,18 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [WebMCP: Let AI Agents pay you money](https://www.youtube.com/watch?v=EoNH3Tn8wYE) | — | — | [transcript](EoNH3Tn8wYE/transcript.md) |
 | — | Greg Isenberg | [My top secrets to running an AI Agent Workforce](https://www.youtube.com/watch?v=EzQAgnjTq2k) | — | — | [transcript](EzQAgnjTq2k/transcript.md) |
 | — | Aswath Damodaran | [A Golden Year: Gold's Price Surge in 2025 - Macro Signal or Pricing Noise?](https://www.youtube.com/watch?v=FdlCocXHnMs) | — | — | [transcript](FdlCocXHnMs/transcript.md) |
+| — | Ticker Symbol: YOU | [Top 5 Stocks I'm Buying Before The Fed Cuts Rates!](https://www.youtube.com/watch?v=FrWFsSrTCfw) | — | — | [transcript](FrWFsSrTCfw/transcript.md) |
 | — | Greg Isenberg | [Claude Skills Built Me an AI Agent Army (They Run Everything Now)](https://www.youtube.com/watch?v=G-5bInklwRQ) | — | — | [transcript](G-5bInklwRQ/transcript.md) |
 | — | Aswath Damodaran | [Finding your Investing Lodestar: In Search of an Investment Philosophy!](https://www.youtube.com/watch?v=GpOzFKrnvdU) | — | — | [transcript](GpOzFKrnvdU/transcript.md) |
 | — | Aswath Damodaran | [Ratings Redux: The Moody's US Ratings Downgrade and Aftermath](https://www.youtube.com/watch?v=Gr_-aT279Ew) | — | — | [transcript](Gr_-aT279Ew/transcript.md) |
 | — | Ticker Symbol: YOU | [This Is A Historic Buying Opportunity (98% Will Miss It)](https://www.youtube.com/watch?v=GxKra1L2TCY) | — | — | [transcript](GxKra1L2TCY/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Buying This AI Chip Stock (Even Over NVIDIA Stock)](https://www.youtube.com/watch?v=HfOEENEHi9c) | — | — | [transcript](HfOEENEHi9c/transcript.md) |
 | — | Greg Isenberg | [I Watched Dan Koe Break Down His AI Workflow OMG](https://www.youtube.com/watch?v=HhspudqFSvU) | — | — | [transcript](HhspudqFSvU/transcript.md) |
 | — | Aswath Damodaran | [Session 22: Dividend Trade offs](https://www.youtube.com/watch?v=HwmBqsMySTg) | — | — | [transcript](HwmBqsMySTg/transcript.md) |
+| — | Ticker Symbol: YOU | [WARNING: If You Hold Nvidia & Palantir Stock... GET READY](https://www.youtube.com/watch?v=IAdc4QebyYA) | — | — | [transcript](IAdc4QebyYA/transcript.md) |
 | — | Greg Isenberg | [9 biggest startup ideas right now (AI, B2C, mobile etc)](https://www.youtube.com/watch?v=IFLY6L3YPGo) | — | — | [transcript](IFLY6L3YPGo/transcript.md) |
 | — | Aswath Damodaran | [Session 3: Corporate Governance - Power abhors a vacuum!](https://www.youtube.com/watch?v=IPTe5Ww2kOk) | — | — | [transcript](IPTe5Ww2kOk/transcript.md) |
+| — | Ticker Symbol: YOU | [WARNING: If You Hold NVIDIA Stock (NVDA)... GET READY](https://www.youtube.com/watch?v=IVSQ5oVt1iA) | — | — | [transcript](IVSQ5oVt1iA/transcript.md) |
 | — | Greg Isenberg | [Claude Code built me a $273/Day online directory](https://www.youtube.com/watch?v=I_wbc5ND79o) | — | — | [transcript](I_wbc5ND79o/transcript.md) |
 | — | Greg Isenberg | [Genspark's Super AI Agent is INSANE](https://www.youtube.com/watch?v=Ias7J4TjyYw) | — | — | [transcript](Ias7J4TjyYw/transcript.md) |
 | — | Greg Isenberg | [I gave away $1M to prove anyone can build with AI](https://www.youtube.com/watch?v=IjYKIqvTyXg) | — | — | [transcript](IjYKIqvTyXg/transcript.md) |
@@ -274,6 +287,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Why Graph Engineering will 10x your Claude/Codex](https://www.youtube.com/watch?v=JWhICz1QR8M) | — | — | [transcript](JWhICz1QR8M/transcript.md) |
 | — | Aswath Damodaran | [Data Update 5 for 2025: It is a small world after all!](https://www.youtube.com/watch?v=JZzuZznpgfc) | — | — | [transcript](JZzuZznpgfc/transcript.md) |
 | — | Aswath Damodaran | [Data Update 3 for 2026: The Trust Deficit - From Bonds to Gold to Bitcoin!](https://www.youtube.com/watch?v=Jq55_yR_wJ4) | — | — | [transcript](Jq55_yR_wJ4/transcript.md) |
+| — | Ticker Symbol: YOU | [Is It Too Late to Buy Palantir Stock (PLTR) After Earnings?](https://www.youtube.com/watch?v=JzXuCs4u2co) | — | — | [transcript](JzXuCs4u2co/transcript.md) |
 | — | Aswath Damodaran | [The Sugar Daddy Effect? Corporate Venture Capital, Sovereign Wealth Funds and Green Investing!](https://www.youtube.com/watch?v=KDw5AUzFi20) | — | — | [transcript](KDw5AUzFi20/transcript.md) |
 | — | Ticker Symbol: YOU | [NVIDIA's Competition Is Here (Most Investors Missed It)](https://www.youtube.com/watch?v=KS_cIBPbE_o) | — | — | [transcript](KS_cIBPbE_o/transcript.md) |
 | — | Aswath Damodaran | [Session 21: Dividends and Cash Return - First Steps](https://www.youtube.com/watch?v=Ka_oFIhWmwo) | — | — | [transcript](Ka_oFIhWmwo/transcript.md) |
@@ -289,9 +303,11 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [10 Unknown Apps Making $50K+ MRR (Copy Them)](https://www.youtube.com/watch?v=LuOZ2PKvd4s) | — | — | [transcript](LuOZ2PKvd4s/transcript.md) |
 | — | Greg Isenberg | [Grok 4.5 is a bigger deal than Fable 5](https://www.youtube.com/watch?v=LvsQR7Vc4fQ) | — | — | [transcript](LvsQR7Vc4fQ/transcript.md) |
 | — | Greg Isenberg | [Become AI Native in less than 60 mins](https://www.youtube.com/watch?v=LztPaNmcWGU) | — | — | [transcript](LztPaNmcWGU/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In The Figma Stock IPO (Here's Why)](https://www.youtube.com/watch?v=MLVEvIRIbKo) | — | — | [transcript](MLVEvIRIbKo/transcript.md) |
 | — | Greg Isenberg | [Cloudflare will make 1000+ AI millionaires](https://www.youtube.com/watch?v=MNNfat_QP0E) | — | — | [transcript](MNNfat_QP0E/transcript.md) |
 | — | Ticker Symbol: YOU | [E24: I Tested NVIDIA's Self Driving Car... Is Tesla In Trouble?](https://www.youtube.com/watch?v=MSmSA8uTn8Y) | — | — | [transcript](MSmSA8uTn8Y/transcript.md) |
 | — | Greg Isenberg | [The Next $100B Market: Selling to AI Agents](https://www.youtube.com/watch?v=MlptIfpoLlw) | — | — | [transcript](MlptIfpoLlw/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! Top 3 AI Stocks I'm Buying Now (Even Over Nvidia Stock)](https://www.youtube.com/watch?v=N9KNPyCaHVM) | — | — | [transcript](N9KNPyCaHVM/transcript.md) |
 | — | Ticker Symbol: YOU | [E26: NVIDIA Just Changed The Course of AI Forever](https://www.youtube.com/watch?v=NPD5gT-ZWho) | — | — | [transcript](NPD5gT-ZWho/transcript.md) |
 | — | Aswath Damodaran | [The Numbers are in: A Post-Prospectus SpaceX Valuation!](https://www.youtube.com/watch?v=NQKIJU7TmTc) | — | — | [transcript](NQKIJU7TmTc/transcript.md) |
 | — | Ticker Symbol: YOU | [Claude Will Crash Stocks Within 257 Days (Prepare Now)](https://www.youtube.com/watch?v=NlPHuk1Rjo8) | — | — | [transcript](NlPHuk1Rjo8/transcript.md) |
@@ -300,6 +316,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [The Siren Song of Sustainability: The Theocratic Trifecta's Third Leg!](https://www.youtube.com/watch?v=OYSeBGkbDPM) | — | — | [transcript](OYSeBGkbDPM/transcript.md) |
 | — | Ticker Symbol: YOU | [Jensen Huang's Biggest AI Announcements at NVIDIA GTC 2026 (Supercut)](https://www.youtube.com/watch?v=OaZMdjC_how) | — | — | [transcript](OaZMdjC_how/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 16: Investing in Middle Age](https://www.youtube.com/watch?v=Oax7apxhUP8) | — | — | [transcript](Oax7apxhUP8/transcript.md) |
+| — | Ticker Symbol: YOU | [E21: NVIDIA'S HUGE AI Chip Breakthroughs Change Everything](https://www.youtube.com/watch?v=OoKRnWK30JY) | — | — | [transcript](OoKRnWK30JY/transcript.md) |
 | — | Greg Isenberg | [Startup idea someone should steal](https://www.youtube.com/watch?v=P2hjcIE9SQI) | — | — | [transcript](P2hjcIE9SQI/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 19: Aging with grace!](https://www.youtube.com/watch?v=PHlERmgzSHM) | — | — | [transcript](PHlERmgzSHM/transcript.md) |
 | — | Greg Isenberg | [Sahil Bloom Gives You a Plan for 2026](https://www.youtube.com/watch?v=Pl_nmulyjqI) | — | — | [transcript](Pl_nmulyjqI/transcript.md) |
@@ -314,18 +331,25 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 10: Debt and the Cost of Debt](https://www.youtube.com/watch?v=RNeCC28qbVI) | — | — | [transcript](RNeCC28qbVI/transcript.md) |
 | — | Aswath Damodaran | [Fed up with Fed Talk: Central Banking Fairy Tales and Facts!](https://www.youtube.com/watch?v=RpuuRS6mkx8) | — | — | [transcript](RpuuRS6mkx8/transcript.md) |
 | — | Greg Isenberg | ["Ralph Wiggum" AI Agent will 10x Claude Code/Amp](https://www.youtube.com/watch?v=RpvQH0r0ecM) | — | — | [transcript](RpvQH0r0ecM/transcript.md) |
+| — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on AMD vs Nvidia Stock (NVDA) Any Longer](https://www.youtube.com/watch?v=RuemIwA9Dak) | — | — | [transcript](RuemIwA9Dak/transcript.md) |
+| — | Ticker Symbol: YOU | [Top 10 Stocks I'm Buying to Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=SBs4LV0_PjA) | — | — | [transcript](SBs4LV0_PjA/transcript.md) |
 | — | Aswath Damodaran | [Data Update 1 for 2025: The Draw (and Dangers) of Data!](https://www.youtube.com/watch?v=SCpqqrW-rrc) | — | — | [transcript](SCpqqrW-rrc/transcript.md) |
 | — | Aswath Damodaran | [Data Update 8 for 2026: Dividends and Buybacks - The Investing Harvest!](https://www.youtube.com/watch?v=SRpJEkzJpKs) | — | — | [transcript](SRpJEkzJpKs/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is About to Happened to the Dollar (& Why Gold and Silver are Next)](https://www.youtube.com/watch?v=SXhkSyopG74) | — | — | [transcript](SXhkSyopG74/transcript.md) |
 | — | Greg Isenberg | [How AI agents & Claude skills work (Clearly Explained)](https://www.youtube.com/watch?v=S_oN3vlzpMw) | — | — | [transcript](S_oN3vlzpMw/transcript.md) |
 | — | Greg Isenberg | [Claude Code New Features, Explained](https://www.youtube.com/watch?v=SkY-tR9kf-k) | — | — | [transcript](SkY-tR9kf-k/transcript.md) |
+| — | Ticker Symbol: YOU | [I Can't Stay Quiet on Google Stock (GOOG) Any Longer](https://www.youtube.com/watch?v=TAoAGrF5c-w) | — | — | [transcript](TAoAGrF5c-w/transcript.md) |
 | — | Ticker Symbol: YOU | [SpaceX: The Most Tragic IPO In Stock Market History](https://www.youtube.com/watch?v=TEimEZVjN9o) | — | — | [transcript](TEimEZVjN9o/transcript.md) |
 | — | Aswath Damodaran | [AI Disruption: Doomsday Scenario or Fizzle?](https://www.youtube.com/watch?v=TbOAtQU89eA) | — | — | [transcript](TbOAtQU89eA/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 6: Business Investing across the Life Cycle](https://www.youtube.com/watch?v=Tf-VW0XiQtM) | — | — | [transcript](Tf-VW0XiQtM/transcript.md) |
+| — | Ticker Symbol: YOU | [WARNING: If You Hold Nvidia Stock (NVDA)… GET READY](https://www.youtube.com/watch?v=Tqqd-fCFUa0) | — | — | [transcript](Tqqd-fCFUa0/transcript.md) |
 | — | Greg Isenberg | [Marketing Agents Are Too Good Now](https://www.youtube.com/watch?v=U2hogriGmEw) | — | — | [transcript](U2hogriGmEw/transcript.md) |
 | — | Greg Isenberg | [The Complete AI Stack and Workflow for 100M+ Video Views](https://www.youtube.com/watch?v=U5HyW5tDXYM) | — | — | [transcript](U5HyW5tDXYM/transcript.md) |
 | — | Greg Isenberg | [Clawdbot/OpenClaw Clearly Explained (and how to use it)](https://www.youtube.com/watch?v=U8kXfk8enrY) | — | — | [transcript](U8kXfk8enrY/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 18: Managing across the life cycle](https://www.youtube.com/watch?v=V1UcOCHTmFM) | — | — | [transcript](V1UcOCHTmFM/transcript.md) |
+| — | Ticker Symbol: YOU | [These 7 AI Stocks Will Make Millionaires (New Magnificent 7)](https://www.youtube.com/watch?v=VMGR-v0ZoPs) | — | — | [transcript](VMGR-v0ZoPs/transcript.md) |
 | — | Greg Isenberg | [Make $1M+ in 2026 with this Trend (IRL is back)](https://www.youtube.com/watch?v=Vt0ZV9JTXRo) | — | — | [transcript](Vt0ZV9JTXRo/transcript.md) |
+| — | Ticker Symbol: YOU | [My Top 4 AI Investments To Get Rich in 2025 (DON'T MISS OUT)](https://www.youtube.com/watch?v=VxXN9a4t_Kw) | — | — | [transcript](VxXN9a4t_Kw/transcript.md) |
 | — | Aswath Damodaran | [To Bitcoin or not to Bitcoin: The Corporate Cash Question](https://www.youtube.com/watch?v=VzKuSqiwc3s) | — | — | [transcript](VzKuSqiwc3s/transcript.md) |
 | — | Greg Isenberg | [Claude's Agent Mode was LEAKED (First Look)](https://www.youtube.com/watch?v=WNJmTvqraW8) | — | — | [transcript](WNJmTvqraW8/transcript.md) |
 | — | Aswath Damodaran | [To Trillion(s) and Beyond: The SpaceX IPO Odyssey](https://www.youtube.com/watch?v=WhY5EF1_LjQ) | — | — | [transcript](WhY5EF1_LjQ/transcript.md) |
@@ -335,6 +359,8 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Stop Vibe Coding. Start Getting Customers.](https://www.youtube.com/watch?v=YeoGehNsrLc) | — | — | [transcript](YeoGehNsrLc/transcript.md) |
 | — | Greg Isenberg | [My Claude Code workflow to A/B startups in seconds](https://www.youtube.com/watch?v=YiitvyQGbkc) | — | — | [transcript](YiitvyQGbkc/transcript.md) |
 | — | Aswath Damodaran | [The Corporate Life Cycle: The Key Ideas](https://www.youtube.com/watch?v=YwLAdkHYvAc) | — | — | [transcript](YwLAdkHYvAc/transcript.md) |
+| — | Ticker Symbol: YOU | [I'm Buying This AI Stock Hand Over Fist (Here's Why)](https://www.youtube.com/watch?v=ZHlFIctxBDs) | — | — | [transcript](ZHlFIctxBDs/transcript.md) |
+| — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on GOOGLE vs NVIDIA Any Longer](https://www.youtube.com/watch?v=ZZ2nWg1QhR4) | — | — | [transcript](ZZ2nWg1QhR4/transcript.md) |
 | — | Aswath Damodaran | [Session 5: Closure on the end game and first steps on risk](https://www.youtube.com/watch?v=_SxIBHEGhbo) | — | — | [transcript](_SxIBHEGhbo/transcript.md) |
 | — | Greg Isenberg | [Jack Dorsey's Buzz: Clearly Explained (and how to use it)](https://www.youtube.com/watch?v=_jGSgzBkzrY) | — | — | [transcript](_jGSgzBkzrY/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying Every Share I Can (Investors Aren't Ready)](https://www.youtube.com/watch?v=a_ORzZ9eG40) | — | — | [transcript](a_ORzZ9eG40/transcript.md) |
@@ -342,10 +368,12 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Claude Code Built My $450K Marketing Campaign](https://www.youtube.com/watch?v=b1mjQIiH7r4) | — | — | [transcript](b1mjQIiH7r4/transcript.md) |
 | — | Greg Isenberg | [Claude Fable 5 is BANNED. What to do?](https://www.youtube.com/watch?v=bdhUBBACglw) | — | — | [transcript](bdhUBBACglw/transcript.md) |
 | — | Aswath Damodaran | [Session 24: Closure on Dividends and First Steps on Valuation](https://www.youtube.com/watch?v=bm1zE4wCQvI) | — | — | [transcript](bm1zE4wCQvI/transcript.md) |
+| — | Ticker Symbol: YOU | [IT'S OVER! What GPT-5 Means For AMD vs NVIDIA Stock (NVDA)](https://www.youtube.com/watch?v=cDgu9zE_360) | — | — | [transcript](cDgu9zE_360/transcript.md) |
 | — | Aswath Damodaran | [Session 4: Closure on the End Game - Stakeholders, Sustainability and ESG](https://www.youtube.com/watch?v=cLotdkcvdd4) | — | — | [transcript](cLotdkcvdd4/transcript.md) |
 | — | Greg Isenberg | [How I use iMessage and AI to run my life](https://www.youtube.com/watch?v=dNASCxGFoHg) | — | — | [transcript](dNASCxGFoHg/transcript.md) |
 | — | Aswath Damodaran | [Lessons from Leo: The Dark Side of Investment Conviction!](https://www.youtube.com/watch?v=dNEWqinHrW8) | — | — | [transcript](dNEWqinHrW8/transcript.md) |
 | — | Aswath Damodaran | [Session 26: The End Game](https://www.youtube.com/watch?v=dRBc9uFgD_A) | — | — | [transcript](dRBc9uFgD_A/transcript.md) |
+| — | Ticker Symbol: YOU | [I Can't Stay Quiet on CoreWeave Stock (CRWV) Any Longer](https://www.youtube.com/watch?v=dT2sUPF52lg) | — | — | [transcript](dT2sUPF52lg/transcript.md) |
 | — | Greg Isenberg | [OpenAI's NEW AI Agent Builder Replaces n8n & Zapier](https://www.youtube.com/watch?v=dYb6DGBhBBk) | — | — | [transcript](dYb6DGBhBBk/transcript.md) |
 | — | Greg Isenberg | [The $1,000/hour Solo AI business (Full Course)](https://www.youtube.com/watch?v=dhbcVxYhWaQ) | — | — | [transcript](dhbcVxYhWaQ/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 5: Corporate Finance 101](https://www.youtube.com/watch?v=dkstj88dw1E) | — | — | [transcript](dkstj88dw1E/transcript.md) |
@@ -355,6 +383,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Data Update 9 for 2025: Dividends and Buybacks - Inertia and Me-tooism!](https://www.youtube.com/watch?v=f8Xf76QaHSg) | — | — | [transcript](f8Xf76QaHSg/transcript.md) |
 | — | Ticker Symbol: YOU | [Huge AI Memory Breakthrough & Warning for AMD Stock Holders](https://www.youtube.com/watch?v=fP8qzwNg7-Q) | — | — | [transcript](fP8qzwNg7-Q/transcript.md) |
 | — | Greg Isenberg | [AI marketing Masterclass: From beginner to expert in 60 minutes](https://www.youtube.com/watch?v=fVUlrpaWNxg) | — | — | [transcript](fVUlrpaWNxg/transcript.md) |
+| — | Ticker Symbol: YOU | [I Can't Stay Quiet on OpenAI & AMD vs NVIDIA Stock (NVDA) Any Longer](https://www.youtube.com/watch?v=fX05yIuHD_4) | — | — | [transcript](fX05yIuHD_4/transcript.md) |
 | — | Aswath Damodaran | [The Indexing Question: Should SpaceX, OpenAI and Anthropic be in the S&P 500?](https://www.youtube.com/watch?v=fbesNIjd_pY) | — | — | [transcript](fbesNIjd_pY/transcript.md) |
 | — | Greg Isenberg | [I fixed OpenClaw so it actually works (full setup)](https://www.youtube.com/watch?v=fd4k16REDOU) | — | — | [transcript](fd4k16REDOU/transcript.md) |
 | — | Aswath Damodaran | [Session 17: Optimizing the Debt Mix with Cost of Capital approach](https://www.youtube.com/watch?v=fdEnaqWUYzM) | — | — | [transcript](fdEnaqWUYzM/transcript.md) |
@@ -362,6 +391,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Dealing with Decline: Intel, Walgreens and Starbucks put to the test!](https://www.youtube.com/watch?v=g3VT_cclr4U) | — | — | [transcript](g3VT_cclr4U/transcript.md) |
 | — | Greg Isenberg | [Claude Opus 4.6 vs GPT-5.3 Codex](https://www.youtube.com/watch?v=gmSnQPzoYHA) | — | — | [transcript](gmSnQPzoYHA/transcript.md) |
 | — | Aswath Damodaran | [Investing Politics: Making Sense of Trump, Tariffs and Tesla!](https://www.youtube.com/watch?v=gogGFGDyF9c) | — | — | [transcript](gogGFGDyF9c/transcript.md) |
+| — | Ticker Symbol: YOU | [I'm Buying THIS AI Stock To Get Rich (Without Getting Lucky)](https://www.youtube.com/watch?v=hCe1-09Igag) | — | — | [transcript](hCe1-09Igag/transcript.md) |
 | — | Ticker Symbol: YOU | [Top 3 AI Stocks I'm Buying Now (Even Over NVIDIA Stock)](https://www.youtube.com/watch?v=hfzdMnuuGSg) | — | — | [transcript](hfzdMnuuGSg/transcript.md) |
 | — | Aswath Damodaran | [Trillion dollar Market Caps: Fairy Tale Pricing or Great Businesses?](https://www.youtube.com/watch?v=hscEYvWELPk) | — | — | [transcript](hscEYvWELPk/transcript.md) |
 | — | Greg Isenberg | [Making $$$ with OpenClaw](https://www.youtube.com/watch?v=i13XK-uUOLQ) | — | — | [transcript](i13XK-uUOLQ/transcript.md) |
@@ -369,6 +399,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Chapter/Session 10: Valuing and Pricing Start-ups and Young High Growth Firms](https://www.youtube.com/watch?v=i80avS70k8E) | — | — | [transcript](i80avS70k8E/transcript.md) |
 | — | Greg Isenberg | [OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI) | — | — | [transcript](iHyK-CW3ciI/transcript.md) |
 | — | Aswath Damodaran | [An Ode to Restraint: Lessons from the Tim Cook Legacy!](https://www.youtube.com/watch?v=ig2ewJ9wx2Y) | — | — | [transcript](ig2ewJ9wx2Y/transcript.md) |
+| — | Ticker Symbol: YOU | [WARNING: If You Hold NVIDIA Stock (NVDA)... GET READY](https://www.youtube.com/watch?v=j6f96AdBvZA) | — | — | [transcript](j6f96AdBvZA/transcript.md) |
 | — | Greg Isenberg | ["Learn AI” Is Bad Advice. Learn This Instead](https://www.youtube.com/watch?v=jJIOA4GroBw) | — | — | [transcript](jJIOA4GroBw/transcript.md) |
 | — | Greg Isenberg | [How I Design Apps 10x Better (Free Course)](https://www.youtube.com/watch?v=jSWuepkuFrU) | — | — | [transcript](jSWuepkuFrU/transcript.md) |
 | — | Aswath Damodaran | [Session 23: Assessing Dividend (and Cash Return) Policy](https://www.youtube.com/watch?v=juhEybZYE2M) | — | — | [transcript](juhEybZYE2M/transcript.md) |
@@ -379,6 +410,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [ROE, Returns to Shareholders, Good/Bad Companies and Efficient Markets: Back to Basics](https://www.youtube.com/watch?v=kyUettM26ME) | — | — | [transcript](kyUettM26ME/transcript.md) |
 | — | Aswath Damodaran | [Alternative Investing: Promise and  Performance!](https://www.youtube.com/watch?v=kyZ1KjV49nE) | — | — | [transcript](kyZ1KjV49nE/transcript.md) |
 | — | Greg Isenberg | [What is Perplexity Computer?](https://www.youtube.com/watch?v=l-J8RodcM_A) | — | — | [transcript](l-J8RodcM_A/transcript.md) |
+| — | Ticker Symbol: YOU | [If You Hold Palantir Stock (PLTR)... GET READY!](https://www.youtube.com/watch?v=lcOLKSdsQ9c) | — | — | [transcript](lcOLKSdsQ9c/transcript.md) |
 | — | Greg Isenberg | [Be a 10x Vibe Coder (Claude Code + Cursor + MCP)](https://www.youtube.com/watch?v=li788UL1qyI) | — | — | [transcript](li788UL1qyI/transcript.md) |
 | — | Greg Isenberg | [Side Hustle King: 6 $60K/Mo Businesses Nobody's Doing](https://www.youtube.com/watch?v=loNrCpi5dkw) | — | — | [transcript](loNrCpi5dkw/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 7: Business Financing across the Life Cycle](https://www.youtube.com/watch?v=loRxUyfqMEk) | — | — | [transcript](loRxUyfqMEk/transcript.md) |
@@ -421,6 +453,8 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Chapter/Session 14: Investment Philosophies 101](https://www.youtube.com/watch?v=u8_J1Z4Mt2w) | — | — | [transcript](u8_J1Z4Mt2w/transcript.md) |
 | — | Greg Isenberg | [The Best Vibe Coding Tools in 2026](https://www.youtube.com/watch?v=ud0bv2J3xWY) | — | — | [transcript](ud0bv2J3xWY/transcript.md) |
 | — | Greg Isenberg | [Most Valuable Skill of 2026: Managing AI Agents](https://www.youtube.com/watch?v=vJEy3nP2_C8) | — | — | [transcript](vJEy3nP2_C8/transcript.md) |
+| — | Ticker Symbol: YOU | [Top 10 AI Stocks I'm Buying Now (Even Over Palantir Stock)](https://www.youtube.com/watch?v=vXpdMCcUZl4) | — | — | [transcript](vXpdMCcUZl4/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This UNSTOPPABLE AI Chip Company](https://www.youtube.com/watch?v=vYrMr2dAeao) | — | — | [transcript](vYrMr2dAeao/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 1: The Search for a Unifying Theory](https://www.youtube.com/watch?v=vg6H9248onQ) | — | — | [transcript](vg6H9248onQ/transcript.md) |
 | — | Greg Isenberg | [Claude Fable 5 is BACK](https://www.youtube.com/watch?v=vjdHAWvVCP4) | — | — | [transcript](vjdHAWvVCP4/transcript.md) |
 | — | Aswath Damodaran | [Session 13: Dealing with uncertainty and more project analyses](https://www.youtube.com/watch?v=vxuuxJ68Dj8) | — | — | [transcript](vxuuxJ68Dj8/transcript.md) |
@@ -428,54 +462,60 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Reviewing Claude Opus 4.5](https://www.youtube.com/watch?v=vyZX0oQozzc) | — | — | [transcript](vyZX0oQozzc/transcript.md) |
 | — | Greg Isenberg | [Glif AI: The $10 App That Replaces a Full Creative Team](https://www.youtube.com/watch?v=w1OU6IdxF0Y) | — | — | [transcript](w1OU6IdxF0Y/transcript.md) |
 | — | Ticker Symbol: YOU | [E23: I Spoke To The Man Building The Robotic Future.](https://www.youtube.com/watch?v=wAlmgDudmkk) | — | — | [transcript](wAlmgDudmkk/transcript.md) |
+| — | Ticker Symbol: YOU | [I Can't Stay Quiet on Broadcom (AVGO) vs Nvidia Stock (NVDA) Any Longer](https://www.youtube.com/watch?v=wIYVih7YKmc) | — | — | [transcript](wIYVih7YKmc/transcript.md) |
 | — | Ticker Symbol: YOU | [The Biggest AI Jump Just Happened (Investors Aren't Ready)](https://www.youtube.com/watch?v=wJ4i_wRctq8) | — | — | [transcript](wJ4i_wRctq8/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This HUGE AI Chip Breakthrough](https://www.youtube.com/watch?v=wSLSv7iA3LE) | — | — | [transcript](wSLSv7iA3LE/transcript.md) |
 | — | Aswath Damodaran | [Data Update 6 for 2026: In Search of Profitability and Value!](https://www.youtube.com/watch?v=wipmKevNjAk) | — | — | [transcript](wipmKevNjAk/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 3: The Corporate Life Cycle - Measures and Determinants](https://www.youtube.com/watch?v=x7dbavHECfc) | — | — | [transcript](x7dbavHECfc/transcript.md) |
 | — | Greg Isenberg | [How I Use Skills + AI Agents to Run My Life](https://www.youtube.com/watch?v=xHsftiyT9pQ) | — | — | [transcript](xHsftiyT9pQ/transcript.md) |
 | — | Greg Isenberg | [GLM 5.2: What you need to know](https://www.youtube.com/watch?v=xa-9O5cDm3c) | — | — | [transcript](xa-9O5cDm3c/transcript.md) |
+| — | Ticker Symbol: YOU | [My Top 4 Investments To Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=xhG3E1RaX6c) | — | — | [transcript](xhG3E1RaX6c/transcript.md) |
+| — | Ticker Symbol: YOU | [The AI Bubble Is Popping (Which Will Make Smart Investors Rich)](https://www.youtube.com/watch?v=xtU9EIOd9i0) | — | — | [transcript](xtU9EIOd9i0/transcript.md) |
 | — | Ticker Symbol: YOU | [E22: NVIDIA'S HUGE AI Announcements Will Change Everything](https://www.youtube.com/watch?v=y8oHx6dPgqE) | — | — | [transcript](y8oHx6dPgqE/transcript.md) |
+| — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on AI Stocks Crashing Any Longer](https://www.youtube.com/watch?v=yASL644F-x0) | — | — | [transcript](yASL644F-x0/transcript.md) |
 | — | Aswath Damodaran | [Data Update 2 for 2025: The Party Continued for US Equities](https://www.youtube.com/watch?v=yCKTN71cwrA) | — | — | [transcript](yCKTN71cwrA/transcript.md) |
+| — | Ticker Symbol: YOU | [These 3 AI Stocks Will Skyrocket In 2026 (Don't Miss Out)](https://www.youtube.com/watch?v=zBlSEABSHYs) | — | — | [transcript](zBlSEABSHYs/transcript.md) |
 | — | Aswath Damodaran | [Session 18: Finishing up with Cost of Capital Optimization](https://www.youtube.com/watch?v=zDbBR8-myEQ) | — | — | [transcript](zDbBR8-myEQ/transcript.md) |
+| — | Ticker Symbol: YOU | [These 3 AI Stocks Will Skyrocket in 19 Days (Don't Miss Out)](https://www.youtube.com/watch?v=zROOH2AdfVM) | — | — | [transcript](zROOH2AdfVM/transcript.md) |
 | — | Greg Isenberg | [FDE: The $1M/Year AI Job Explained](https://www.youtube.com/watch?v=zXysLUTLjw4) | — | — | [transcript](zXysLUTLjw4/transcript.md) |
 | — | Ticker Symbol: YOU | [These Stocks Will Make Millionaires By 2029](https://www.youtube.com/watch?v=zYeJZu1hkdM) | — | — | [transcript](zYeJZu1hkdM/transcript.md) |
 | — | Greg Isenberg | [Claude Code Clearly Explained (and how to use it)](https://www.youtube.com/watch?v=zxMjOqM7DFs) | — | — | [transcript](zxMjOqM7DFs/transcript.md) |
-| — | Ticker Symbol: YOU | [Top 10 Stocks I'm Buying to Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=SBs4LV0_PjA) | — | — | [transcript](SBs4LV0_PjA/transcript.md) |
-| — | Ticker Symbol: YOU | [I'm Buying This AI Stock Hand Over Fist (Here's Why)](https://www.youtube.com/watch?v=ZHlFIctxBDs) | — | — | [transcript](ZHlFIctxBDs/transcript.md) |
-| — | Ticker Symbol: YOU | [If I Could Only Buy 1 Stock in 2026, THIS Would Be It (Here's Why)](https://www.youtube.com/watch?v=0i2qkboRQRQ) | — | — | [transcript](0i2qkboRQRQ/transcript.md) |
-| — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on AI Stocks Crashing Any Longer](https://www.youtube.com/watch?v=yASL644F-x0) | — | — | [transcript](yASL644F-x0/transcript.md) |
-| — | Ticker Symbol: YOU | [These 3 AI Stocks Will Skyrocket In 2026 (Don't Miss Out)](https://www.youtube.com/watch?v=zBlSEABSHYs) | — | — | [transcript](zBlSEABSHYs/transcript.md) |
-| — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on GOOGLE vs NVIDIA Any Longer](https://www.youtube.com/watch?v=ZZ2nWg1QhR4) | — | — | [transcript](ZZ2nWg1QhR4/transcript.md) |
-| — | Ticker Symbol: YOU | [E21: NVIDIA'S HUGE AI Chip Breakthroughs Change Everything](https://www.youtube.com/watch?v=OoKRnWK30JY) | — | — | [transcript](OoKRnWK30JY/transcript.md) |
-| — | Ticker Symbol: YOU | [WARNING: If You Hold NVIDIA Stock (NVDA)... GET READY](https://www.youtube.com/watch?v=IVSQ5oVt1iA) | — | — | [transcript](IVSQ5oVt1iA/transcript.md) |
-| — | Ticker Symbol: YOU | [My Top 2 Stocks to Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=0Wts6YiNzaw) | — | — | [transcript](0Wts6YiNzaw/transcript.md) |
-| — | Ticker Symbol: YOU | [My Top 4 Investments To Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=xhG3E1RaX6c) | — | — | [transcript](xhG3E1RaX6c/transcript.md) |
-| — | Ticker Symbol: YOU | [I Can't Stay Quiet on CoreWeave Stock (CRWV) Any Longer](https://www.youtube.com/watch?v=dT2sUPF52lg) | — | — | [transcript](dT2sUPF52lg/transcript.md) |
-| — | Ticker Symbol: YOU | [Michael Burry's Big Short on Nvidia & Palantir Will Make Millionaires (Here's How)](https://www.youtube.com/watch?v=-_R1dPYPbxU) | — | — | [transcript](-_R1dPYPbxU/transcript.md) |
-| — | Ticker Symbol: YOU | [If You Hold Palantir Stock (PLTR)... GET READY!](https://www.youtube.com/watch?v=lcOLKSdsQ9c) | — | — | [transcript](lcOLKSdsQ9c/transcript.md) |
-| — | Ticker Symbol: YOU | [WARNING: If You Hold Nvidia & Palantir Stock... GET READY](https://www.youtube.com/watch?v=IAdc4QebyYA) | — | — | [transcript](IAdc4QebyYA/transcript.md) |
-| — | Ticker Symbol: YOU | [NVIDIA CEO Jensen Huang Leaves Everyone SPEECHLESS (Supercut)](https://www.youtube.com/watch?v=B_UeixjySSg) | — | — | [transcript](B_UeixjySSg/transcript.md) |
-| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Buying This AI Chip Stock (Even Over NVIDIA Stock)](https://www.youtube.com/watch?v=HfOEENEHi9c) | — | — | [transcript](HfOEENEHi9c/transcript.md) |
-| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This HUGE AI Chip Breakthrough](https://www.youtube.com/watch?v=wSLSv7iA3LE) | — | — | [transcript](wSLSv7iA3LE/transcript.md) |
-| — | Ticker Symbol: YOU | [Trump's China Tariffs Will Make (Smart) Investors Rich - Here's How](https://www.youtube.com/watch?v=7jdEG5F62s4) | — | — | [transcript](7jdEG5F62s4/transcript.md) |
-| — | Ticker Symbol: YOU | [I Can't Stay Quiet on OpenAI & AMD vs NVIDIA Stock (NVDA) Any Longer](https://www.youtube.com/watch?v=fX05yIuHD_4) | — | — | [transcript](fX05yIuHD_4/transcript.md) |
-| — | Ticker Symbol: YOU | [WARNING: If You Hold Nvidia Stock (NVDA)… GET READY](https://www.youtube.com/watch?v=Tqqd-fCFUa0) | — | — | [transcript](Tqqd-fCFUa0/transcript.md) |
-| — | Ticker Symbol: YOU | [If You Missed Nvidia (NVDA) - This Stock Is Next!](https://www.youtube.com/watch?v=-OYNQ74oG9k) | — | — | [transcript](-OYNQ74oG9k/transcript.md) |
-| — | Ticker Symbol: YOU | [Top 10 AI Stocks I'm Buying Now (Even Over Palantir Stock)](https://www.youtube.com/watch?v=vXpdMCcUZl4) | — | — | [transcript](vXpdMCcUZl4/transcript.md) |
-| — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on AMD vs Nvidia Stock (NVDA) Any Longer](https://www.youtube.com/watch?v=RuemIwA9Dak) | — | — | [transcript](RuemIwA9Dak/transcript.md) |
-| — | Ticker Symbol: YOU | [GET IN EARLY! Top 3 AI Stocks I'm Buying Now (Even Over Nvidia Stock)](https://www.youtube.com/watch?v=N9KNPyCaHVM) | — | — | [transcript](N9KNPyCaHVM/transcript.md) |
-| — | Ticker Symbol: YOU | [Top 5 Stocks I'm Buying Before The Fed Cuts Rates!](https://www.youtube.com/watch?v=FrWFsSrTCfw) | — | — | [transcript](FrWFsSrTCfw/transcript.md) |
-| — | Ticker Symbol: YOU | [I Can't Stay Quiet on Broadcom (AVGO) vs Nvidia Stock (NVDA) Any Longer](https://www.youtube.com/watch?v=wIYVih7YKmc) | — | — | [transcript](wIYVih7YKmc/transcript.md) |
-| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In THIS AI Data Center Stock](https://www.youtube.com/watch?v=6gRGpDEkqHU) | — | — | [transcript](6gRGpDEkqHU/transcript.md) |
-| — | Ticker Symbol: YOU | [WARNING: If You Hold NVIDIA Stock (NVDA)... GET READY](https://www.youtube.com/watch?v=j6f96AdBvZA) | — | — | [transcript](j6f96AdBvZA/transcript.md) |
-| — | Ticker Symbol: YOU | [The AI Bubble Is Popping (Which Will Make Smart Investors Rich)](https://www.youtube.com/watch?v=xtU9EIOd9i0) | — | — | [transcript](xtU9EIOd9i0/transcript.md) |
-| — | Ticker Symbol: YOU | [I'm Buying THIS AI Stock To Get Rich (Without Getting Lucky)](https://www.youtube.com/watch?v=hCe1-09Igag) | — | — | [transcript](hCe1-09Igag/transcript.md) |
-| — | Ticker Symbol: YOU | [My Top 4 AI Investments To Get Rich in 2025 (DON'T MISS OUT)](https://www.youtube.com/watch?v=VxXN9a4t_Kw) | — | — | [transcript](VxXN9a4t_Kw/transcript.md) |
-| — | Ticker Symbol: YOU | [IT'S OVER! What GPT-5 Means For AMD vs NVIDIA Stock (NVDA)](https://www.youtube.com/watch?v=cDgu9zE_360) | — | — | [transcript](cDgu9zE_360/transcript.md) |
-| — | Ticker Symbol: YOU | [Is It Too Late to Buy Palantir Stock (PLTR) After Earnings?](https://www.youtube.com/watch?v=JzXuCs4u2co) | — | — | [transcript](JzXuCs4u2co/transcript.md) |
-| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In The Figma Stock IPO (Here's Why)](https://www.youtube.com/watch?v=MLVEvIRIbKo) | — | — | [transcript](MLVEvIRIbKo/transcript.md) |
-| — | Ticker Symbol: YOU | [I Can't Stay Quiet on Google Stock (GOOG) Any Longer](https://www.youtube.com/watch?v=TAoAGrF5c-w) | — | — | [transcript](TAoAGrF5c-w/transcript.md) |
-| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This UNSTOPPABLE AI Chip Company](https://www.youtube.com/watch?v=vYrMr2dAeao) | — | — | [transcript](vYrMr2dAeao/transcript.md) |
-| — | Ticker Symbol: YOU | [WARNING: If You Hold NVIDIA Stock (NVDA)... GET READY](https://www.youtube.com/watch?v=DALSsGX8nBE) | — | — | [transcript](DALSsGX8nBE/transcript.md) |
-| — | Ticker Symbol: YOU | [These 3 AI Stocks Will Skyrocket in 19 Days (Don't Miss Out)](https://www.youtube.com/watch?v=zROOH2AdfVM) | — | — | [transcript](zROOH2AdfVM/transcript.md) |
-| — | Ticker Symbol: YOU | [GET IN EARLY! My Top 4 AI Stocks to Get Rich in 2025 (Without Getting Lucky)](https://www.youtube.com/watch?v=0y23kpnRW6k) | — | — | [transcript](0y23kpnRW6k/transcript.md) |
-| — | Ticker Symbol: YOU | [These 7 AI Stocks Will Make Millionaires (New Magnificent 7)](https://www.youtube.com/watch?v=VMGR-v0ZoPs) | — | — | [transcript](VMGR-v0ZoPs/transcript.md) |
+| — | Ticker Symbol: YOU | [The Investment Opportunity of a Lifetime (Don't Miss Out)](https://www.youtube.com/watch?v=HLiVRFliO_I) | — | — | [transcript](HLiVRFliO_I/transcript.md) |
+| — | Ticker Symbol: YOU | [NVIDIA CEO Jensen Huang Leaves Everyone SPEECHLESS (GTC Paris Supercut)](https://www.youtube.com/watch?v=XkCI7u6-_oA) | — | — | [transcript](XkCI7u6-_oA/transcript.md) |
+| — | Ticker Symbol: YOU | [E17: I Flew 2800 Miles to Ask NVIDIA About AI Agents](https://www.youtube.com/watch?v=WaydA3mhYJ8) | — | — | [transcript](WaydA3mhYJ8/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In 3 HUGE AI Trends (COMPUTEX 2025)](https://www.youtube.com/watch?v=5VsJJC5_8uI) | — | — | [transcript](5VsJJC5_8uI/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This HUGE AI Chip Breakthrough](https://www.youtube.com/watch?v=noiNE1a2OfI) | — | — | [transcript](noiNE1a2OfI/transcript.md) |
+| — | Ticker Symbol: YOU | [NVIDIA CEO Jensen Huang Just Changed AI Forever (Supercut)](https://www.youtube.com/watch?v=KI1aNYDFYEI) | — | — | [transcript](KI1aNYDFYEI/transcript.md) |
+| — | Ticker Symbol: YOU | [E16: This AI Supercomputer Fits In The Palm of My Hand](https://www.youtube.com/watch?v=Nd5hXJT1kxI) | — | — | [transcript](Nd5hXJT1kxI/transcript.md) |
+| — | Ticker Symbol: YOU | [Trump's China Tariffs Will Make *Smart* Investors Rich (Here's How)](https://www.youtube.com/watch?v=gAsdrMIhGE4) | — | — | [transcript](gAsdrMIhGE4/transcript.md) |
+| — | Ticker Symbol: YOU | [If You Hold Palantir Stock (PLTR)... GET READY!](https://www.youtube.com/watch?v=bftPNb0y0BA) | — | — | [transcript](bftPNb0y0BA/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! My Top 4 Investments Before Trump's Next Tariffs](https://www.youtube.com/watch?v=wplwN9q3GGI) | — | — | [transcript](wplwN9q3GGI/transcript.md) |
+| — | Ticker Symbol: YOU | [E15: How NVIDIA'S HUGE AI Factories Are Disrupting Data Centers](https://www.youtube.com/watch?v=GDU0boGinJ4) | — | — | [transcript](GDU0boGinJ4/transcript.md) |
+| — | Ticker Symbol: YOU | [E14: NVIDIA'S HUGE AI Chip Breakthroughs Change Everything](https://www.youtube.com/watch?v=HpdjLOCvPoo) | — | — | [transcript](HpdjLOCvPoo/transcript.md) |
+| — | Ticker Symbol: YOU | [Trump’s China Tariffs Will Make Millionaires in 2025 (Here's How)](https://www.youtube.com/watch?v=CeI_gtjmuBk) | — | — | [transcript](CeI_gtjmuBk/transcript.md) |
+| — | Ticker Symbol: YOU | [Trump's Tariffs Will Make Millionaires in 2025 (Here's How)](https://www.youtube.com/watch?v=dcXl5rspqMs) | — | — | [transcript](dcXl5rspqMs/transcript.md) |
+| — | Ticker Symbol: YOU | [If You Hold Palantir Stock (PLTR)... GET READY!](https://www.youtube.com/watch?v=xUnI0E33t6s) | — | — | [transcript](xUnI0E33t6s/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This HUGE AI Chip Breakthrough](https://www.youtube.com/watch?v=vueJvHOXLJg) | — | — | [transcript](vueJvHOXLJg/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Trump to FLOOD the Market on THIS Date (Most Aren’t Ready)](https://www.youtube.com/watch?v=kZhSH5JT3Xs) | — | — | [transcript](kZhSH5JT3Xs/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Missed The AI Boom? This Is 10 Times Bigger.](https://www.youtube.com/watch?v=CGkM68EG0CA) | — | — | [transcript](CGkM68EG0CA/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Everything I Warned You About Just Happened... All in One Week](https://www.youtube.com/watch?v=N4PJJzCCcK0) | — | — | [transcript](N4PJJzCCcK0/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [This Sale Won't Last – 4 Stocks Worth Buying!?](https://www.youtube.com/watch?v=DkLmHCqZlmQ) | — | — | [transcript](DkLmHCqZlmQ/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The Petrodollar Collapse Has Begun (and the stock to buy now)](https://www.youtube.com/watch?v=CZfdeXRSduo) | — | — | [transcript](CZfdeXRSduo/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [If You Missed Palantir or Nvidia. This is Far Bigger.](https://www.youtube.com/watch?v=nS2FP7XZiSA) | — | — | [transcript](nS2FP7XZiSA/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD & SILVER (& Why AI is the Trigger)](https://www.youtube.com/watch?v=OFwwfAtr250) | — | — | [transcript](OFwwfAtr250/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [They Crashed Japan on Purpose… Here’s The Real Plan](https://www.youtube.com/watch?v=Pfuq2jcLpHU) | — | — | [transcript](Pfuq2jcLpHU/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Billionaire’s Warning: I Sold EVERYTHING (Here’s Why)](https://www.youtube.com/watch?v=lrPVRbmPIOc) | — | — | [transcript](lrPVRbmPIOc/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD](https://www.youtube.com/watch?v=ySc7g_dRd9Q) | — | — | [transcript](ySc7g_dRd9Q/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The FED Just Did the UNTHINKABLE (Global Monetary Reset Starts Now)](https://www.youtube.com/watch?v=iGd35DO24Mg) | — | — | [transcript](iGd35DO24Mg/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The Global Monetary Reset Has Begun (Hint: Korea, Japan are Just the Start)](https://www.youtube.com/watch?v=G4--LVmygjY) | — | — | [transcript](G4--LVmygjY/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Global Currency RESET Is Here - Here's How I'm Investing NOW](https://www.youtube.com/watch?v=vZQ6XJOC6no) | — | — | [transcript](vZQ6XJOC6no/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [US Panic: Japan’s Central Bank Just Collapsed!?](https://www.youtube.com/watch?v=APOKCdoCpug) | — | — | [transcript](APOKCdoCpug/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [US Panic: Japan’s Currency Just Exploded [Hint: Gold]](https://www.youtube.com/watch?v=y-xEgwD_EE4) | — | — | [transcript](y-xEgwD_EE4/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [3 Tech Stocks You'll Wish You Bought on This Dip (One Is Down 15% Today)](https://www.youtube.com/watch?v=sKaj_emrfpc) | — | — | [transcript](sKaj_emrfpc/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Trump Just Opened Up A $1.15 TRILLION Market (Get In Now?)](https://www.youtube.com/watch?v=pfLXdA_CIgM) | — | — | [transcript](pfLXdA_CIgM/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [US Panic: Korea's AI Bubble Just Exploded](https://www.youtube.com/watch?v=iZdqW9FRg1s) | — | — | [transcript](iZdqW9FRg1s/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Iran Just Lit the Fuse on the Global Reset (Here's What Smart Money Is Doing)](https://www.youtube.com/watch?v=j39eVKbbndk) | — | — | [transcript](j39eVKbbndk/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [I Analyzed The Entire Stock Market. It's Broken.](https://www.youtube.com/watch?v=30lkcnyuHZU) | — | — | [transcript](30lkcnyuHZU/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [MAJOR BUY: Last EASY Wealth Opportunity for Decades?](https://www.youtube.com/watch?v=ZvKBZa8iFhs) | — | — | [transcript](ZvKBZa8iFhs/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [THEY are preparing for $30,000 Gold - Here’s Why That Should Scare You](https://www.youtube.com/watch?v=OBqIxmIZZJM) | — | — | [transcript](OBqIxmIZZJM/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Wall St Is Pumping AI Stocks — So Why Are They Falling](https://www.youtube.com/watch?v=4e-gsmuWhJ0) | — | — | [transcript](4e-gsmuWhJ0/transcript.md) |
