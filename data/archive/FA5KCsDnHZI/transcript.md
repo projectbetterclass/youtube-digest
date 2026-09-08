@@ -1,0 +1,5 @@
+# Do THIS if you want a big chest
+
+<https://www.youtube.com/shorts/FA5KCsDnHZI>
+
+And then something that I really like that Sam is doing that is counterintuitive to a lot of people because a lot of people get told to not do this is he's actually allowing if you see closely the shoulders to wrap forward and around. So a lot of people advise against doing this kind of bear hugging thing, but you notice he's keeping his spine perfectly still on the pad, but he's allowing his entire shoulder girdle, the scapula, the collarbone, and the upper arm all together. He's allowing that to come forward and around and inward because that's what's required middle pecs in particular to fully actually shorten. And so because this is an overall a squeeze emphasis exercise where the the this portion of the range, much like the first variation we looked at, is the hardest portion, you see he's pausing there and he's allowing his shoulder blades to kind of wrap around and inward this way as he's doing that because that is actually how the sternal portion of the chest and even the lower chest at different angles can fully shorten.
