@@ -8,8 +8,8 @@ without watching them end to end. For each new upload the tool:
 3. **summarizes** transcript + materials into a short brief (key points, takeaway, notable materials, and a *skip / skim / watch* verdict) with the Claude API,
 4. collects the briefs into a dated markdown **digest**, commits it, and opens a **GitHub Issue** so you get a push notification on phone + desktop.
 
-It runs as a scheduled **GitHub Action on a self-hosted runner** — i.e. on your own
-PC — so it uses your home IP (see [Why self-hosted](#why-self-hosted-your-own-pc)).
+It runs as a scheduled **GitHub Action on GitHub's cloud runners**, routing transcript
+fetches through a residential proxy so cloud IPs aren't blocked by YouTube.
 
 > This is **Phase 1** (transcript + linked materials). Phase 2 (on-screen visual
 > capture for slide-heavy videos) is intentionally not built yet.
@@ -27,29 +27,49 @@ PC — so it uses your home IP (see [Why self-hosted](#why-self-hosted-your-own-
 
 ---
 
-## Why self-hosted (your own PC)
+## How the daily job runs (no PC required)
 
-YouTube **blocks transcript requests from cloud-provider IPs**, including GitHub's
-hosted Actions runners (`RequestBlocked`) — so a normal cloud Action returns
-description-only briefs. Your **home IP is not blocked**, so the job runs on a
-**self-hosted runner** installed on your machine and transcripts come through.
+YouTube **blocks transcript requests from cloud-provider IPs**. The workflow routes
+all traffic (RSS feeds, transcripts, yt-dlp enumeration) through a **Webshare
+residential proxy**, so GitHub-hosted `ubuntu-latest` runners work fine.
 
 **What that means day to day:**
 
-- The daily run takes only **~1–2 minutes**; your PC just needs to be on briefly
-  around the scheduled time — not all day.
-- If the PC is off at the scheduled time, the run waits and executes once your PC is
-  back on. Even if a day is missed entirely, the next run looks back `max_age_days`
-  (default **3 days**), so nothing recent is lost.
-- No monthly cost. The trade-off is only that the PC must be on sometime within a few
-  days of an upload.
+- Runs automatically 3×/day (06:00 / 14:00 / 22:00 UTC) on GitHub's free hosted
+  runners — your PC does not need to be on.
+- The look-back window is `max_age_days` (default **3 days**), so a missed run catches
+  up automatically.
+- No PC required. The only ongoing cost is the Webshare residential proxy
+  (~a few $/mo; transcripts are tiny so bandwidth is minimal).
 
-### The runner (one-time setup, already done)
-The GitHub Actions runner is installed at `C:\actions-runner` and registered with the
-repo. To make it start automatically at login, a hidden launcher lives in your Startup
-folder (`ytdigest-runner.vbs`, which runs `C:\actions-runner\run.cmd`). Delete that
-file to stop it auto-starting. For a run without being logged in, install the runner as
-a Windows service instead (needs admin).
+### First-time repo setup (one-time, on your PC)
+
+These steps get the repo wired up so GitHub Actions run automatically. Do them once
+on any PC; after that the daily job runs in the cloud without your machine.
+
+1. **Fork / clone the repo** (or use it as a template):
+   ```bash
+   git clone https://github.com/projectbetterclass/youtube-digest.git
+   cd youtube-digest
+   ```
+
+2. **Add your secrets** under **Settings → Secrets and variables → Actions**:
+   | Secret | Where to get it |
+   |---|---|
+   | `ANTHROPIC_API_KEY` | [console.anthropic.com](https://console.anthropic.com) |
+   | `WEBSHARE_PROXY_USERNAME` | [Webshare](https://www.webshare.io/) → Proxy → Residential |
+   | `WEBSHARE_PROXY_PASSWORD` | same |
+
+3. **Edit `config/watchlist.yml`** — add the channels you want to watch (see
+   [Configuration](#configuration-configwatchlistyml) below).
+
+4. **Trigger a first run** from the **Actions** tab → *Daily YouTube Digest* →
+   *Run workflow* to confirm everything works.
+
+5. **Install GitHub Mobile** on your phone — you'll get a push notification each time
+   the digest Issue opens.
+
+After step 4, the workflow runs on its own schedule forever.
 
 ---
 
@@ -136,11 +156,12 @@ Add a channel by pasting a `- name: / channel_id:` block. To find a `channel_id`
 python scripts/resolve_channel.py https://www.youtube.com/@3blue1brown
 ```
 
-The daily schedule and secret live in the workflow:
+The daily schedule and secrets live in the workflow:
 - **Schedule:** [`.github/workflows/digest.yml`](.github/workflows/digest.yml) —
-  `cron: "0 6 * * *"` (06:00 UTC). Re-time with [crontab.guru](https://crontab.guru/).
-- **Secret:** add `ANTHROPIC_API_KEY` under **Settings → Secrets and variables →
-  Actions**. That's the only secret needed — the digest Issue uses the built-in token.
+  `cron: "0 6,14,22 * * *"` (06:00 / 14:00 / 22:00 UTC). Re-time with [crontab.guru](https://crontab.guru/).
+- **Secrets:** add `ANTHROPIC_API_KEY`, `WEBSHARE_PROXY_USERNAME`, and
+  `WEBSHARE_PROXY_PASSWORD` under **Settings → Secrets and variables → Actions**.
+  The digest Issue uses the built-in `GITHUB_TOKEN` — no extra setup needed for that.
 
 ### Get notified on phone + computer
 Install the **GitHub Mobile** app and sign in — you get a push notification whenever
@@ -177,11 +198,10 @@ pytest
   checked); everything else is listed, never fetched. Any transcript/download failure is
   skipped gracefully rather than crashing the run.
 
-### Alternative: run in the cloud with a proxy
-If you'd rather run on GitHub's hosted runners (no PC required), route transcript
-fetches through a **residential** proxy: set `WEBSHARE_PROXY_USERNAME` /
-`WEBSHARE_PROXY_PASSWORD` (Webshare residential — datacenter proxies are also blocked)
-as repo secrets, and change `runs-on: self-hosted` back to `ubuntu-latest`. The code
-auto-detects the proxy env vars (or a generic `YTDIGEST_PROXY_HTTP_URL` /
-`YTDIGEST_PROXY_HTTPS_URL`). This costs a few $/mo; transcripts are tiny so bandwidth
-use is minimal.
+### Alternative: run on a self-hosted runner (no proxy needed)
+If you'd rather not use a proxy, you can run the workflow on your own PC where your
+home IP isn't blocked by YouTube. Install a GitHub Actions self-hosted runner on your
+machine (see [GitHub docs](https://docs.github.com/en/actions/hosting-your-own-runners)),
+then change `runs-on: ubuntu-latest` in `.github/workflows/digest.yml` to
+`runs-on: self-hosted`. Your PC needs to be on around the scheduled time, but no proxy
+is required and there's no monthly cost beyond electricity.
