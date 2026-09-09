@@ -1,5 +1,16 @@
 {
   "videos": {
+    "-Mk3UlQ5nh4": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-09T16:35:18+00:00",
+      "takeaway": "When choosing between difficult paths, pick the one whose hardship solves a bigger problem—because the effort cost is similar, but the upside differs dramatically.",
+      "title": "“How Do I Pick My Path?”",
+      "transcript_available": true,
+      "transcript_path": "data/archive/-Mk3UlQ5nh4/transcript.md",
+      "url": "https://www.youtube.com/shorts/-Mk3UlQ5nh4",
+      "verdict": "skim"
+    },
     "-OYNQ74oG9k": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -98,6 +109,17 @@
       "transcript_path": "data/archive/0C2qldDF8HY/transcript.md",
       "url": "https://www.youtube.com/shorts/0C2qldDF8HY",
       "verdict": "skim"
+    },
+    "0Cjph5CvErE": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How You Keep Yourself Suffering",
+      "transcript_available": true,
+      "transcript_path": "data/archive/0Cjph5CvErE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=0Cjph5CvErE",
+      "verdict": ""
     },
     "0FeHGmeqcX0": {
       "channel": "Aswath Damodaran",
@@ -418,6 +440,17 @@
       "url": "https://www.youtube.com/watch?v=2Vcn2bAu2FA",
       "verdict": ""
     },
+    "2XEMbXCSfnE": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-09T16:57:36+00:00",
+      "takeaway": "Overpopulation doom predictions from the late 1960s failed because technological innovation (agricultural biotechnology) outpaced population growth; past apocalyptic forecasts that didn't materialize illustrate how problems and narratives shift.",
+      "title": "The Crazy Theory On Overpopulation",
+      "transcript_available": true,
+      "transcript_path": "data/archive/2XEMbXCSfnE/transcript.md",
+      "url": "https://www.youtube.com/shorts/2XEMbXCSfnE",
+      "verdict": "skim"
+    },
     "2d4u80LmRQ8": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -451,6 +484,17 @@
       "url": "https://www.youtube.com/shorts/2tjFHDu-wJI",
       "verdict": "skim"
     },
+    "2unELGOein8": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Why Sharing Your Feelings Can Kill Your Relationship",
+      "transcript_available": true,
+      "transcript_path": "data/archive/2unELGOein8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=2unELGOein8",
+      "verdict": ""
+    },
     "30lkcnyuHZU": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -482,6 +526,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/3X6rah8r4Do/transcript.md",
       "url": "https://www.youtube.com/watch?v=3X6rah8r4Do",
+      "verdict": ""
+    },
+    "3ZeQJeTpVMI": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How to Stop Locking Up in Conversations",
+      "transcript_available": true,
+      "transcript_path": "data/archive/3ZeQJeTpVMI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=3ZeQJeTpVMI",
       "verdict": ""
     },
     "3bHdic_l5Hg": {
@@ -572,6 +627,17 @@
       "url": "https://www.youtube.com/shorts/3s74f-yA0J4",
       "verdict": "skip"
     },
+    "44HVIiR4oO4": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Why Your \"Healing\" Makes the Pain Worse",
+      "transcript_available": true,
+      "transcript_path": "data/archive/44HVIiR4oO4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=44HVIiR4oO4",
+      "verdict": ""
+    },
     "4Bo8tPrzHjU": {
       "channel": "David Carbutt",
       "had_materials": false,
@@ -658,6 +724,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/4ZWSccnMaa4/transcript.md",
       "url": "https://www.youtube.com/watch?v=4ZWSccnMaa4",
+      "verdict": ""
+    },
+    "4ctkBMCGCyo": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Are You a \"Deep Thinker\" Or Just Narcissistic?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/4ctkBMCGCyo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=4ctkBMCGCyo",
       "verdict": ""
     },
     "4e-gsmuWhJ0": {
@@ -913,6 +990,17 @@
       "url": "https://www.youtube.com/watch?v=6kD5RbQCjFg",
       "verdict": ""
     },
+    "6pF6UuxSoT0": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-09T15:00:24+00:00",
+      "takeaway": "Chris Williamson interviews a self-described female dating coach/psychopath who admits to deliberately manipulating, emotionally harming, and deceiving people for personal gratification, while Williamson explores her claims about psychopathic traits and celebrity psychology.",
+      "title": "\"Women Are The Problem\" - Female Dating Coach",
+      "transcript_available": true,
+      "transcript_path": "data/archive/6pF6UuxSoT0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=6pF6UuxSoT0",
+      "verdict": "skip"
+    },
     "7-3kySR5bA4": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -923,6 +1011,17 @@
       "transcript_path": "data/archive/7-3kySR5bA4/transcript.md",
       "url": "https://www.youtube.com/shorts/7-3kySR5bA4",
       "verdict": "skim"
+    },
+    "7-ex2qeAkdc": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How To Actually Stop Self-Hate",
+      "transcript_available": true,
+      "transcript_path": "data/archive/7-ex2qeAkdc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=7-ex2qeAkdc",
+      "verdict": ""
     },
     "71ES9jzqa0Q": {
       "channel": "Greg Isenberg",
@@ -979,6 +1078,28 @@
       "url": "https://www.youtube.com/watch?v=7MykFJ7TByM",
       "verdict": ""
     },
+    "7P29lfYJLw0": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Stop Optimizing Your Life. Start Living.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/7P29lfYJLw0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=7P29lfYJLw0",
+      "verdict": ""
+    },
+    "7SFhQBxdznQ": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Stop Using Shame to Motivate Yourself",
+      "transcript_available": true,
+      "transcript_path": "data/archive/7SFhQBxdznQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=7SFhQBxdznQ",
+      "verdict": ""
+    },
     "7afNvogg9kQ": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -999,6 +1120,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/7clJ8IH784Q/transcript.md",
       "url": "https://www.youtube.com/watch?v=7clJ8IH784Q",
+      "verdict": ""
+    },
+    "7hsD1mWp8pE": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Why Smart People Struggle to “Be Normal”",
+      "transcript_available": true,
+      "transcript_path": "data/archive/7hsD1mWp8pE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=7hsD1mWp8pE",
       "verdict": ""
     },
     "7jdEG5F62s4": {
@@ -1142,6 +1274,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/9UMGCbCyz6c/transcript.md",
       "url": "https://www.youtube.com/watch?v=9UMGCbCyz6c",
+      "verdict": ""
+    },
+    "9XVXD7Ar8Z4": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "One Phrase That Will End An Argument Instantly",
+      "transcript_available": true,
+      "transcript_path": "data/archive/9XVXD7Ar8Z4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=9XVXD7Ar8Z4",
       "verdict": ""
     },
     "9_SZFIW7tus": {
@@ -1408,6 +1551,17 @@
       "url": "https://www.youtube.com/watch?v=Bs7sBbcwn60",
       "verdict": ""
     },
+    "Bw3871NdUXg": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Why You're Too Tired To Go To Bed",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Bw3871NdUXg/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Bw3871NdUXg",
+      "verdict": ""
+    },
     "BzG8M74BfrY": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -1417,6 +1571,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/BzG8M74BfrY/transcript.md",
       "url": "https://www.youtube.com/watch?v=BzG8M74BfrY",
+      "verdict": ""
+    },
+    "BzsLbHoNXTs": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How AI is Killing Your Potential",
+      "transcript_available": true,
+      "transcript_path": "data/archive/BzsLbHoNXTs/transcript.md",
+      "url": "https://www.youtube.com/watch?v=BzsLbHoNXTs",
       "verdict": ""
     },
     "C3-4llQYT8o": {
@@ -1584,6 +1749,17 @@
       "url": "https://www.youtube.com/watch?v=DW4a1Cm8nG4",
       "verdict": ""
     },
+    "DguScleGjTY": {
+      "channel": "Leila Hormozi",
+      "had_materials": false,
+      "published": "2026-09-09T16:42:27+00:00",
+      "takeaway": "The core claim is that leaders earn followership by creating certainty, and that building real competence is the path to confidence.",
+      "title": "#5 Is My Personal Favorite",
+      "transcript_available": true,
+      "transcript_path": "data/archive/DguScleGjTY/transcript.md",
+      "url": "https://www.youtube.com/shorts/DguScleGjTY",
+      "verdict": "skip"
+    },
     "DkLmHCqZlmQ": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -1637,6 +1813,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/DzN-IOA-png/transcript.md",
       "url": "https://www.youtube.com/watch?v=DzN-IOA-png",
+      "verdict": ""
+    },
+    "EFeX17tQFXo": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Your Goals are Designed to Make You Quit",
+      "transcript_available": true,
+      "transcript_path": "data/archive/EFeX17tQFXo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=EFeX17tQFXo",
       "verdict": ""
     },
     "EIrH2aM9r8s": {
@@ -1848,6 +2035,17 @@
       "url": "https://www.youtube.com/watch?v=GQvr9w7n7W8",
       "verdict": ""
     },
+    "GolBkTYpHJo": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": false,
+      "published": "2026-09-09T15:15:06+00:00",
+      "takeaway": "\nA quick eye-movement exercise claims to disable proprioceptive awareness and speed sleep re-entry when waking mid-night, based on a proposed neurological mechanism involving the cerebellum.\n",
+      "title": "HACK TO FALL ASLEEP SUPER FAST",
+      "transcript_available": true,
+      "transcript_path": "data/archive/GolBkTYpHJo/transcript.md",
+      "url": "https://www.youtube.com/shorts/GolBkTYpHJo",
+      "verdict": "skim"
+    },
     "GpOzFKrnvdU": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -1925,6 +2123,17 @@
       "url": "https://www.youtube.com/shorts/HPrxhoKz_mI",
       "verdict": "skip"
     },
+    "HXP90XxvhTU": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Why Some People Have DIVINE Aura",
+      "transcript_available": true,
+      "transcript_path": "data/archive/HXP90XxvhTU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=HXP90XxvhTU",
+      "verdict": ""
+    },
     "HfOEENEHi9c": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -1968,6 +2177,17 @@
       "transcript_path": "data/archive/Hu9V6YdNBKU/transcript.md",
       "url": "https://www.youtube.com/watch?v=Hu9V6YdNBKU",
       "verdict": ""
+    },
+    "HvrJmXOEd6o": {
+      "channel": "Leila Hormozi",
+      "had_materials": false,
+      "published": "2026-09-09T13:00:04+00:00",
+      "takeaway": "Failure and setbacks are normal phases of business growth, not signs you're on the wrong path. The key skill is emotional resilience—learning to distinguish between actionable feedback and personal rejection, and creating space to make strategic decisions rather than staying stuck in execution.",
+      "title": "Chase Failure Instead of Success | Dear Leila",
+      "transcript_available": true,
+      "transcript_path": "data/archive/HvrJmXOEd6o/transcript.md",
+      "url": "https://www.youtube.com/watch?v=HvrJmXOEd6o",
+      "verdict": "watch"
     },
     "HwmBqsMySTg": {
       "channel": "Aswath Damodaran",
@@ -2023,6 +2243,17 @@
       "transcript_path": "data/archive/IPTe5Ww2kOk/transcript.md",
       "url": "https://www.youtube.com/watch?v=IPTe5Ww2kOk",
       "verdict": ""
+    },
+    "IQYBTLH0hhI": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-09-09T12:44:23+00:00",
+      "takeaway": "\nFor effective side glute training, use a standing hip shift with contralateral loading (heavy weight in the non-working hand) rather than leg kickouts, because it prioritizes pelvis-over-femur movement and enables better progression and stability.\n",
+      "title": "How to (actually) load the side glutes",
+      "transcript_available": true,
+      "transcript_path": "data/archive/IQYBTLH0hhI/transcript.md",
+      "url": "https://www.youtube.com/shorts/IQYBTLH0hhI",
+      "verdict": "skim"
     },
     "IVSQ5oVt1iA": {
       "channel": "Ticker Symbol: YOU",
@@ -2409,6 +2640,17 @@
       "url": "https://www.youtube.com/watch?v=KmmQzsZw4kQ",
       "verdict": ""
     },
+    "KyLXDC_vrsc": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How To Actually Process Your Emotions",
+      "transcript_available": true,
+      "transcript_path": "data/archive/KyLXDC_vrsc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=KyLXDC_vrsc",
+      "verdict": ""
+    },
     "L-gJ_Fo72-k": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -2695,6 +2937,28 @@
       "url": "https://www.youtube.com/watch?v=MSmSA8uTn8Y",
       "verdict": ""
     },
+    "MW6FMgOzklw": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "AI Is Slowly Destroying Your Brain",
+      "transcript_available": true,
+      "transcript_path": "data/archive/MW6FMgOzklw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=MW6FMgOzklw",
+      "verdict": ""
+    },
+    "MbJ-zU43WaY": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Procrastination Holds You Back",
+      "transcript_available": true,
+      "transcript_path": "data/archive/MbJ-zU43WaY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=MbJ-zU43WaY",
+      "verdict": ""
+    },
     "Mg9Tr3qLXks": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -2970,6 +3234,17 @@
       "url": "https://www.youtube.com/watch?v=ON6CjapOEkU",
       "verdict": ""
     },
+    "OV09yPLf8BI": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "published": "2026-09-09T17:00:03+00:00",
+      "takeaway": "\nSymmetry's rapid growth to $160K/month came from treating every product feature as a testable hypothesis rather than shipping features based on intuition. Data-driven iteration, not product novelty, was the key differentiator.\n",
+      "title": "How I Built This $160K/Month Gym App",
+      "transcript_available": true,
+      "transcript_path": "data/archive/OV09yPLf8BI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=OV09yPLf8BI",
+      "verdict": "watch"
+    },
     "OV5eK91YY68": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -3168,6 +3443,17 @@
       "url": "https://www.youtube.com/watch?v=Pt-tJJZNFPo",
       "verdict": ""
     },
+    "PyCSEt9nosQ": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "You Feel 'On Edge' All The Time - Here's Why",
+      "transcript_available": true,
+      "transcript_path": "data/archive/PyCSEt9nosQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=PyCSEt9nosQ",
+      "verdict": ""
+    },
     "Q-fNarRKs8s": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -3199,6 +3485,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/QID0UbRuIYk/transcript.md",
       "url": "https://www.youtube.com/watch?v=QID0UbRuIYk",
+      "verdict": ""
+    },
+    "QMF2nXsMreE": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How to 'Reset' Your Brain's RAM",
+      "transcript_available": true,
+      "transcript_path": "data/archive/QMF2nXsMreE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=QMF2nXsMreE",
       "verdict": ""
     },
     "QNh4SUQuts4": {
@@ -3421,6 +3718,17 @@
       "url": "https://www.youtube.com/watch?v=RuemIwA9Dak",
       "verdict": ""
     },
+    "S6kRGJlugiw": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I Need To Warn You About AI Psychosis",
+      "transcript_available": true,
+      "transcript_path": "data/archive/S6kRGJlugiw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=S6kRGJlugiw",
+      "verdict": ""
+    },
     "SBs4LV0_PjA": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -3452,6 +3760,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/SH_peVFs4oo/transcript.md",
       "url": "https://www.youtube.com/shorts/SH_peVFs4oo",
+      "verdict": "skim"
+    },
+    "SKkkEmC4kmk": {
+      "channel": "Felix & Friends (Goat Academy)",
+      "had_materials": false,
+      "published": "2026-09-09T13:00:06+00:00",
+      "takeaway": "The U.S. government is secretly doubling its debt buyback program (printing money to buy its own debt) while major foreign holders like Japan are selling U.S. Treasuries, and simultaneously gold is being exported at record levels—classic warning signs that mirror the 1971 Nixon Shock and suggest hidden currency debasement that will hurt savers holding cash or passive index funds.",
+      "title": "Trump to FLOOD the Market on THIS Date (Gold & Silver Aren’t Ready)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/SKkkEmC4kmk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=SKkkEmC4kmk",
       "verdict": "skim"
     },
     "SRpJEkzJpKs": {
@@ -3497,6 +3816,17 @@
       "transcript_path": "data/archive/SdIx__D3vXk/transcript.md",
       "url": "https://www.youtube.com/shorts/SdIx__D3vXk",
       "verdict": "skip"
+    },
+    "SiFlnf--5EA": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Stop Trying To Work Harder",
+      "transcript_available": true,
+      "transcript_path": "data/archive/SiFlnf--5EA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=SiFlnf--5EA",
+      "verdict": ""
     },
     "SiyM_poiwHM": {
       "channel": "Felix & Friends (Goat Academy)",
@@ -3597,6 +3927,17 @@
       "url": "https://www.youtube.com/watch?v=Tqqd-fCFUa0",
       "verdict": ""
     },
+    "Tzo_s9q4fwM": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The Secret to Dealing With People You Can’t Stand",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Tzo_s9q4fwM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Tzo_s9q4fwM",
+      "verdict": ""
+    },
     "U-5A4Xon4WI": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -3651,6 +3992,17 @@
       "transcript_path": "data/archive/UHqZQ7MavrY/transcript.md",
       "url": "https://www.youtube.com/shorts/UHqZQ7MavrY",
       "verdict": "skim"
+    },
+    "Uh0VLF4p7ow": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Discussing My Beliefs.. (Nihilism)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Uh0VLF4p7ow/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Uh0VLF4p7ow",
+      "verdict": ""
     },
     "UiApJNxW4nQ": {
       "channel": "Chris Williamson",
@@ -3926,6 +4278,17 @@
       "transcript_path": "data/archive/XDDAUfVqP1g/transcript.md",
       "url": "https://www.youtube.com/shorts/XDDAUfVqP1g",
       "verdict": "skim"
+    },
+    "XEb89CQJPO4": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Why You Should Stop Watching YouTube (Yes, Even This Video)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/XEb89CQJPO4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=XEb89CQJPO4",
+      "verdict": ""
     },
     "XdQYzxD4mt8": {
       "channel": "Alex Hormozi",
@@ -4235,6 +4598,17 @@
       "url": "https://www.youtube.com/watch?v=ZZ2nWg1QhR4",
       "verdict": ""
     },
+    "ZpZvAalAYI0": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Why \"The Grind\" Isn't Meant For Everyone",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ZpZvAalAYI0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ZpZvAalAYI0",
+      "verdict": ""
+    },
     "ZvKBZa8iFhs": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -4356,6 +4730,28 @@
       "url": "https://www.youtube.com/shorts/_yaFnSrFDcw",
       "verdict": "watch"
     },
+    "a0xsm5J3a5k": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-09T15:00:08+00:00",
+      "takeaway": "Your 20s are for learning through mistakes unique to your path, your 30s for recovery and rebuilding, and your 40s for finally applying that hard-won wisdom—so stop chasing others' blueprints and embrace your own messy journey.",
+      "title": "What I Learned in my 20s, 30s, and 40s",
+      "transcript_available": true,
+      "transcript_path": "data/archive/a0xsm5J3a5k/transcript.md",
+      "url": "https://www.youtube.com/shorts/a0xsm5J3a5k",
+      "verdict": "skim"
+    },
+    "aKpN9cs5KXc": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Why Your Toxic Friends Use Therapy Speak",
+      "transcript_available": true,
+      "transcript_path": "data/archive/aKpN9cs5KXc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=aKpN9cs5KXc",
+      "verdict": ""
+    },
     "a_ORzZ9eG40": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -4455,6 +4851,17 @@
       "url": "https://www.youtube.com/watch?v=bftPNb0y0BA",
       "verdict": ""
     },
+    "bj_PSYBCUsM": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "This Isn’t Anxiety, It’s ADHD",
+      "transcript_available": true,
+      "transcript_path": "data/archive/bj_PSYBCUsM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=bj_PSYBCUsM",
+      "verdict": ""
+    },
     "bj_XVBGvSvc": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -4486,6 +4893,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/bpEFA4LH6MM/transcript.md",
       "url": "https://www.youtube.com/watch?v=bpEFA4LH6MM",
+      "verdict": ""
+    },
+    "bvVsnSku72s": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "We Need To Talk About The AI Cheating Epidemic",
+      "transcript_available": true,
+      "transcript_path": "data/archive/bvVsnSku72s/transcript.md",
+      "url": "https://www.youtube.com/watch?v=bvVsnSku72s",
       "verdict": ""
     },
     "c37Jz6CEeY4": {
@@ -4576,6 +4994,28 @@
       "url": "https://www.youtube.com/watch?v=d1BAL1623v4",
       "verdict": "skim"
     },
+    "dJiKXG7Fu_U": {
+      "channel": "David Carbutt",
+      "had_materials": false,
+      "published": "2026-09-09T12:15:26+00:00",
+      "takeaway": "Tom Lee's bullish September rally call rests entirely on a Fed hold and sentiment relief, but Powell has signaled inflation credibility matters more than market comfort, making this a high-risk, timing-dependent bet that ignores his own historical record of missed timing.",
+      "title": "Internet BREAKS w/Tom Lee’s Huge Market Prediction",
+      "transcript_available": true,
+      "transcript_path": "data/archive/dJiKXG7Fu_U/transcript.md",
+      "url": "https://www.youtube.com/watch?v=dJiKXG7Fu_U",
+      "verdict": "watch"
+    },
+    "dLXEdFwhS8E": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "published": "2026-09-09T13:14:22+00:00",
+      "takeaway": "Small postural shifts that change where the cable loads the shoulder joint transform a triceps extension from a stretch-focused isolation movement into a press-like exercise, altering shoulder torque direction, muscle recruitment, and comfort — teaching a replicable framework for exercise analysis.",
+      "title": "Most Lifters Miss This Triceps Exercise Difference",
+      "transcript_available": true,
+      "transcript_path": "data/archive/dLXEdFwhS8E/transcript.md",
+      "url": "https://www.youtube.com/watch?v=dLXEdFwhS8E",
+      "verdict": "watch"
+    },
     "dNASCxGFoHg": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -4653,6 +5093,17 @@
       "url": "https://www.youtube.com/watch?v=dcXl5rspqMs",
       "verdict": ""
     },
+    "ddJP4HrKBSw": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How Being a Victim Ruined Your Life",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ddJP4HrKBSw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ddJP4HrKBSw",
+      "verdict": ""
+    },
     "dhbcVxYhWaQ": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -4728,6 +5179,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/erRg4CL13VM/transcript.md",
       "url": "https://www.youtube.com/watch?v=erRg4CL13VM",
+      "verdict": ""
+    },
+    "ezF31CwFvpc": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Your Soulmate Isn’t On Hinge",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ezF31CwFvpc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ezF31CwFvpc",
       "verdict": ""
     },
     "f-xsdisLsws": {
@@ -5027,6 +5489,17 @@
       "url": "https://www.youtube.com/watch?v=gqi8qlUwqPs",
       "verdict": "watch"
     },
+    "gsjA3ZQzybA": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Your Interests Don't Make You Interesting",
+      "transcript_available": true,
+      "transcript_path": "data/archive/gsjA3ZQzybA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=gsjA3ZQzybA",
+      "verdict": ""
+    },
     "h8tBPhNkjN0": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -5071,6 +5544,17 @@
       "url": "https://www.youtube.com/shorts/hNn8Vg5dSIY",
       "verdict": "skim"
     },
+    "hQRjSn7_BKY": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "We Give Discipline Too Much Credit, Here’s What Actually Works",
+      "transcript_available": true,
+      "transcript_path": "data/archive/hQRjSn7_BKY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=hQRjSn7_BKY",
+      "verdict": ""
+    },
     "hfzdMnuuGSg": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -5091,6 +5575,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/hscEYvWELPk/transcript.md",
       "url": "https://www.youtube.com/watch?v=hscEYvWELPk",
+      "verdict": ""
+    },
+    "htOL5Z3ARt0": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "You Don't Know What Discipline Means",
+      "transcript_available": true,
+      "transcript_path": "data/archive/htOL5Z3ARt0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=htOL5Z3ARt0",
       "verdict": ""
     },
     "i13XK-uUOLQ": {
@@ -5125,6 +5620,17 @@
       "transcript_path": "data/archive/i80avS70k8E/transcript.md",
       "url": "https://www.youtube.com/watch?v=i80avS70k8E",
       "verdict": ""
+    },
+    "iCdfSRc2QNg": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": "2026-09-09T15:00:06+00:00",
+      "takeaway": "\nDevelopmental gaps from childhood cannot be healed by acceptance alone; they require corrective emotional experiences as an adult—being supported/spoiled, building competence independently, and separating wants from selfishness—to move beyond grief into wholeness.\n",
+      "title": "The Secret to Fixing Your Adulthood",
+      "transcript_available": true,
+      "transcript_path": "data/archive/iCdfSRc2QNg/transcript.md",
+      "url": "https://www.youtube.com/watch?v=iCdfSRc2QNg",
+      "verdict": "watch"
     },
     "iGd35DO24Mg": {
       "channel": "Felix & Friends (Goat Academy)",
@@ -5302,6 +5808,17 @@
       "url": "https://www.youtube.com/watch?v=jv-mk7lpIdg",
       "verdict": ""
     },
+    "k0iUzEJQ1so": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How High Performers Get Ahead",
+      "transcript_available": true,
+      "transcript_path": "data/archive/k0iUzEJQ1so/transcript.md",
+      "url": "https://www.youtube.com/watch?v=k0iUzEJQ1so",
+      "verdict": ""
+    },
     "k4Y3UctGWuI": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -5390,6 +5907,17 @@
       "url": "https://www.youtube.com/watch?v=kbgli8hhXDs",
       "verdict": ""
     },
+    "kqriaA0MQlo": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Why Someone Hates You for No Reason (Displaced Hatred)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/kqriaA0MQlo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=kqriaA0MQlo",
+      "verdict": ""
+    },
     "kyUettM26ME": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -5432,6 +5960,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/l7BaFufR23E/transcript.md",
       "url": "https://www.youtube.com/watch?v=l7BaFufR23E",
+      "verdict": ""
+    },
+    "lJKmwM2cNro": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The Biology Of Why Men Isolate",
+      "transcript_available": true,
+      "transcript_path": "data/archive/lJKmwM2cNro/transcript.md",
+      "url": "https://www.youtube.com/watch?v=lJKmwM2cNro",
       "verdict": ""
     },
     "la7OEAf9XAg": {
@@ -5773,6 +6312,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/nvR2gxNREHM/transcript.md",
       "url": "https://www.youtube.com/watch?v=nvR2gxNREHM",
+      "verdict": ""
+    },
+    "nwJCZiLW3qo": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Social Anxiety Isn't Something To \"Fix\"",
+      "transcript_available": true,
+      "transcript_path": "data/archive/nwJCZiLW3qo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=nwJCZiLW3qo",
       "verdict": ""
     },
     "nxfDMIpcljQ": {
@@ -6127,6 +6677,17 @@
       "url": "https://www.youtube.com/shorts/qbQQ8o4VOsg",
       "verdict": "skim"
     },
+    "ql5sWIEAcFw": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Why You're The Least Valuable Friend",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ql5sWIEAcFw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ql5sWIEAcFw",
+      "verdict": ""
+    },
     "qoMMCMgztVA": {
       "channel": "Starter Story",
       "had_materials": false,
@@ -6391,6 +6952,17 @@
       "url": "https://www.youtube.com/watch?v=te3W5UHierw",
       "verdict": ""
     },
+    "tnBxwfMQhpQ": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The Hidden 'Setting' That Controls Your Anxiety",
+      "transcript_available": true,
+      "transcript_path": "data/archive/tnBxwfMQhpQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=tnBxwfMQhpQ",
+      "verdict": ""
+    },
     "tszAuL3v2NY": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -6489,6 +7061,17 @@
       "transcript_path": "data/archive/ufG0-8sYgRQ/transcript.md",
       "url": "https://www.youtube.com/watch?v=ufG0-8sYgRQ",
       "verdict": "watch"
+    },
+    "v8Ka8XAeQ_I": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The Puer Aeternus Interview (ft. BSJ)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/v8Ka8XAeQ_I/transcript.md",
+      "url": "https://www.youtube.com/watch?v=v8Ka8XAeQ_I",
+      "verdict": ""
     },
     "vJEy3nP2_C8": {
       "channel": "Greg Isenberg",

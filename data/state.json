@@ -1,6 +1,14 @@
 {
-  "last_run": "2026-09-09T10:58:16.872156+00:00",
+  "last_run": "2026-09-09T17:46:32.775671+00:00",
   "processed": {
+    "-Mk3UlQ5nh4": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:45:04.096011+00:00",
+      "published": "2026-09-09T16:35:18+00:00",
+      "title": "\u201cHow Do I Pick My Path?\u201d",
+      "transcript_available": true
+    },
     "-OYNQ74oG9k": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -55,6 +63,14 @@
       "processed_at": "2026-09-09T11:05:18.756851+00:00",
       "published": null,
       "title": "The Guide You've Been Waiting For...",
+      "transcript_available": true
+    },
+    "0Cjph5CvErE": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:53:10.220778+00:00",
+      "published": null,
+      "title": "How You Keep Yourself Suffering",
       "transcript_available": true
     },
     "0FeHGmeqcX0": {
@@ -289,6 +305,14 @@
       "title": "Claude Skills: Build Your Own AI Employees",
       "transcript_available": true
     },
+    "2XEMbXCSfnE": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:45:34.291133+00:00",
+      "published": "2026-09-09T16:57:36+00:00",
+      "title": "The Crazy Theory On Overpopulation",
+      "transcript_available": true
+    },
     "2d4u80LmRQ8": {
       "channel": "Chris Williamson",
       "had_materials": false,
@@ -313,6 +337,14 @@
       "title": "Is resilience innate or learnable?",
       "transcript_available": true
     },
+    "2unELGOein8": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:48:20.689614+00:00",
+      "published": null,
+      "title": "Why Sharing Your Feelings Can Kill Your Relationship",
+      "transcript_available": true
+    },
     "30lkcnyuHZU": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -335,6 +367,14 @@
       "processed_at": "2026-09-04T18:53:44.929993+00:00",
       "published": null,
       "title": "Data Update 7 for 2026: Debt and Taxes",
+      "transcript_available": true
+    },
+    "3ZeQJeTpVMI": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:51:57.280485+00:00",
+      "published": null,
+      "title": "How to Stop Locking Up in Conversations",
       "transcript_available": true
     },
     "3bHdic_l5Hg": {
@@ -393,6 +433,14 @@
       "title": "Why \"Functional Training\" Isn't Real (How Muscles Actually Work) | Biomechanics Academy Podcast #4",
       "transcript_available": true
     },
+    "44HVIiR4oO4": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:51:08.218064+00:00",
+      "published": null,
+      "title": "Why Your \"Healing\" Makes the Pain Worse",
+      "transcript_available": true
+    },
     "4Ez05s0Pvsg": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -447,6 +495,14 @@
       "processed_at": "2026-09-06T16:40:23.291169+00:00",
       "published": null,
       "title": "Session 16: The Debt Equity Tradeoff",
+      "transcript_available": true
+    },
+    "4ctkBMCGCyo": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:50:40.347964+00:00",
+      "published": null,
+      "title": "Are You a \"Deep Thinker\" Or Just Narcissistic?",
       "transcript_available": true
     },
     "4e-gsmuWhJ0": {
@@ -633,12 +689,28 @@
       "title": "What Everyone Gets Wrong About ADHD",
       "transcript_available": true
     },
+    "6pF6UuxSoT0": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:44:31.540252+00:00",
+      "published": "2026-09-09T15:00:24+00:00",
+      "title": "\"Women Are The Problem\" - Female Dating Coach",
+      "transcript_available": true
+    },
     "7-3kySR5bA4": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
       "processed_at": "2026-09-06T10:28:53.565105+00:00",
       "published": "2026-09-03T22:00:39+00:00",
       "title": "This is Why You Cant Stay Motivated",
+      "transcript_available": true
+    },
+    "7-ex2qeAkdc": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:51:47.940668+00:00",
+      "published": null,
+      "title": "How To Actually Stop Self-Hate",
       "transcript_available": true
     },
     "71ES9jzqa0Q": {
@@ -681,6 +753,22 @@
       "title": "Analyzing The Lindsay Clancy Case",
       "transcript_available": true
     },
+    "7P29lfYJLw0": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:48:47.546701+00:00",
+      "published": null,
+      "title": "Stop Optimizing Your Life. Start Living.",
+      "transcript_available": true
+    },
+    "7SFhQBxdznQ": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:51:16.342928+00:00",
+      "published": null,
+      "title": "Stop Using Shame to Motivate Yourself",
+      "transcript_available": true
+    },
     "7afNvogg9kQ": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -695,6 +783,14 @@
       "processed_at": "2026-09-06T23:38:10.409919+00:00",
       "published": null,
       "title": "WTF Is an \"AI Agent Loop\"? Genius or Hype?",
+      "transcript_available": true
+    },
+    "7hsD1mWp8pE": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:47:43.080818+00:00",
+      "published": null,
+      "title": "Why Smart People Struggle to \u201cBe Normal\u201d",
       "transcript_available": true
     },
     "7jdEG5F62s4": {
@@ -791,6 +887,14 @@
       "processed_at": "2026-09-07T18:50:01.072986+00:00",
       "published": null,
       "title": "I Got Rich Off NVIDIA. This Is Even Bigger.",
+      "transcript_available": true
+    },
+    "9XVXD7Ar8Z4": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:48:11.993769+00:00",
+      "published": null,
+      "title": "One Phrase That Will End An Argument Instantly",
       "transcript_available": true
     },
     "9_SZFIW7tus": {
@@ -969,12 +1073,28 @@
       "title": "I Built an Entire App with OpenAI's Codex and 8 AI Agent Employees",
       "transcript_available": false
     },
+    "Bw3871NdUXg": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:52:40.272820+00:00",
+      "published": null,
+      "title": "Why You're Too Tired To Go To Bed",
+      "transcript_available": true
+    },
     "BzG8M74BfrY": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
       "processed_at": "2026-09-04T18:55:15.881528+00:00",
       "published": null,
       "title": "Data Update 2 for 2026: A Test for US Equities",
+      "transcript_available": true
+    },
+    "BzsLbHoNXTs": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:51:26.412087+00:00",
+      "published": null,
+      "title": "How AI is Killing Your Potential",
       "transcript_available": true
     },
     "C3-4llQYT8o": {
@@ -1097,6 +1217,14 @@
       "title": "I got a private lesson on Claude Cowork & Claude Code",
       "transcript_available": true
     },
+    "DguScleGjTY": {
+      "channel": "Leila Hormozi",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:45:18.583834+00:00",
+      "published": "2026-09-09T16:42:27+00:00",
+      "title": "#5 Is My Personal Favorite",
+      "transcript_available": true
+    },
     "DkLmHCqZlmQ": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -1135,6 +1263,14 @@
       "processed_at": "2026-09-07T18:49:41.875349+00:00",
       "published": null,
       "title": "I Was Wrong. This Is a Historic Buying Opportunity.",
+      "transcript_available": true
+    },
+    "EFeX17tQFXo": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:49:15.460750+00:00",
+      "published": null,
+      "title": "Your Goals are Designed to Make You Quit",
       "transcript_available": true
     },
     "EIrH2aM9r8s": {
@@ -1281,6 +1417,14 @@
       "title": "The $29 Trillion Gold Race Has Begun (Hint: Act Now!)",
       "transcript_available": true
     },
+    "GolBkTYpHJo": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:44:46.974241+00:00",
+      "published": "2026-09-09T15:15:06+00:00",
+      "title": "HACK TO FALL ASLEEP SUPER FAST",
+      "transcript_available": true
+    },
     "GpOzFKrnvdU": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -1337,6 +1481,14 @@
       "title": "What's The Biggest Irrational Fear You Have?",
       "transcript_available": false
     },
+    "HXP90XxvhTU": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:52:05.522186+00:00",
+      "published": null,
+      "title": "Why Some People Have DIVINE Aura",
+      "transcript_available": true
+    },
     "HfOEENEHi9c": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -1367,6 +1519,14 @@
       "processed_at": "2026-09-08T23:58:41.860016+00:00",
       "published": null,
       "title": "Leaked: Trump\u2019s Energy Law - Most Investors Aren't Ready!",
+      "transcript_available": true
+    },
+    "HvrJmXOEd6o": {
+      "channel": "Leila Hormozi",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:42:33.409045+00:00",
+      "published": "2026-09-09T13:00:04+00:00",
+      "title": "Chase Failure Instead of Success | Dear Leila",
       "transcript_available": true
     },
     "HwmBqsMySTg": {
@@ -1407,6 +1567,14 @@
       "processed_at": "2026-09-06T16:45:13.722047+00:00",
       "published": null,
       "title": "Session 3: Corporate Governance - Power abhors a vacuum!",
+      "transcript_available": true
+    },
+    "IQYBTLH0hhI": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:42:09.551472+00:00",
+      "published": "2026-09-09T12:44:23+00:00",
+      "title": "How to (actually) load the side glutes",
       "transcript_available": true
     },
     "IVSQ5oVt1iA": {
@@ -1689,6 +1857,14 @@
       "title": "Stop Trading Your Time For Nothing",
       "transcript_available": true
     },
+    "KyLXDC_vrsc": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:52:22.762521+00:00",
+      "published": null,
+      "title": "How To Actually Process Your Emotions",
+      "transcript_available": true
+    },
     "L-gJ_Fo72-k": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -1881,6 +2057,22 @@
       "title": "E24: I Tested NVIDIA's Self Driving Car... Is Tesla In Trouble?",
       "transcript_available": true
     },
+    "MW6FMgOzklw": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:52:49.128651+00:00",
+      "published": null,
+      "title": "AI Is Slowly Destroying Your Brain",
+      "transcript_available": true
+    },
+    "MbJ-zU43WaY": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:49:42.668972+00:00",
+      "published": null,
+      "title": "Procrastination Holds You Back",
+      "transcript_available": true
+    },
     "Mg9Tr3qLXks": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -2065,6 +2257,14 @@
       "title": "3 Tech Stocks You\u2019ll Wish You Bought on this Dip (One is Down 41%)",
       "transcript_available": true
     },
+    "OV09yPLf8BI": {
+      "channel": "Starter Story",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:46:32.775658+00:00",
+      "published": "2026-09-09T17:00:03+00:00",
+      "title": "How I Built This $160K/Month Gym App",
+      "transcript_available": true
+    },
     "OV5eK91YY68": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -2209,6 +2409,14 @@
       "title": "Data Update 4 for 2025: Interest Rates, Inflation and the Fed!",
       "transcript_available": true
     },
+    "PyCSEt9nosQ": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:53:00.139982+00:00",
+      "published": null,
+      "title": "You Feel 'On Edge' All The Time - Here's Why",
+      "transcript_available": true
+    },
     "Q-fNarRKs8s": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -2231,6 +2439,14 @@
       "processed_at": "2026-09-03T19:11:41.443381+00:00",
       "published": null,
       "title": "The Market's Narrative: How Investors are pricing in the Iran War!",
+      "transcript_available": true
+    },
+    "QMF2nXsMreE": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:50:49.304144+00:00",
+      "published": null,
+      "title": "How to 'Reset' Your Brain's RAM",
       "transcript_available": true
     },
     "QNh4SUQuts4": {
@@ -2385,6 +2601,14 @@
       "title": "IT'S OVER! I Can't Stay Quiet on AMD vs Nvidia Stock (NVDA) Any Longer",
       "transcript_available": true
     },
+    "S6kRGJlugiw": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:48:29.251848+00:00",
+      "published": null,
+      "title": "I Need To Warn You About AI Psychosis",
+      "transcript_available": true
+    },
     "SBs4LV0_PjA": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -2409,6 +2633,14 @@
       "title": "It Takes 20 Hours \u2014 But People Wait a Decade to Start",
       "transcript_available": true
     },
+    "SKkkEmC4kmk": {
+      "channel": "Felix & Friends (Goat Academy)",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:43:14.851389+00:00",
+      "published": "2026-09-09T13:00:06+00:00",
+      "title": "Trump to FLOOD the Market on THIS Date (Gold & Silver Aren\u2019t Ready)",
+      "transcript_available": true
+    },
     "SRpJEkzJpKs": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -2431,6 +2663,14 @@
       "processed_at": "2026-09-06T23:40:38.722179+00:00",
       "published": null,
       "title": "How AI agents & Claude skills work (Clearly Explained)",
+      "transcript_available": true
+    },
+    "SiFlnf--5EA": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:50:23.323515+00:00",
+      "published": null,
+      "title": "Stop Trying To Work Harder",
       "transcript_available": true
     },
     "SiyM_poiwHM": {
@@ -2497,6 +2737,14 @@
       "title": "WARNING: If You Hold Nvidia Stock (NVDA)\u2026 GET READY",
       "transcript_available": true
     },
+    "Tzo_s9q4fwM": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:50:31.317492+00:00",
+      "published": null,
+      "title": "The Secret to Dealing With People You Can\u2019t Stand",
+      "transcript_available": true
+    },
     "U-5A4Xon4WI": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -2535,6 +2783,14 @@
       "processed_at": "2026-09-06T10:27:36.031148+00:00",
       "published": "2026-09-03T18:57:05+00:00",
       "title": "Bro's TikTok ad made $15,000 on 5M views with simple app demos.",
+      "transcript_available": true
+    },
+    "Uh0VLF4p7ow": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:47:26.240062+00:00",
+      "published": null,
+      "title": "Discussing My Beliefs.. (Nihilism)",
       "transcript_available": true
     },
     "UiApJNxW4nQ": {
@@ -2737,6 +2993,14 @@
       "title": "The Mindset That Keeps You a Victim",
       "transcript_available": true
     },
+    "XEb89CQJPO4": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:48:57.886289+00:00",
+      "published": null,
+      "title": "Why You Should Stop Watching YouTube (Yes, Even This Video)",
+      "transcript_available": true
+    },
     "XdQYzxD4mt8": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -2921,6 +3185,14 @@
       "title": "IT'S OVER! I Can't Stay Quiet on GOOGLE vs NVIDIA Any Longer",
       "transcript_available": true
     },
+    "ZpZvAalAYI0": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:52:30.699051+00:00",
+      "published": null,
+      "title": "Why \"The Grind\" Isn't Meant For Everyone",
+      "transcript_available": true
+    },
     "ZvKBZa8iFhs": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -3009,6 +3281,22 @@
       "title": "You're Shooting Yourself in the Foot Trying to Grow Too Fast",
       "transcript_available": true
     },
+    "a0xsm5J3a5k": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:44:15.201229+00:00",
+      "published": "2026-09-09T15:00:08+00:00",
+      "title": "What I Learned in my 20s, 30s, and 40s",
+      "transcript_available": true
+    },
+    "aKpN9cs5KXc": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:47:17.807694+00:00",
+      "published": null,
+      "title": "Why Your Toxic Friends Use Therapy Speak",
+      "transcript_available": true
+    },
     "a_ORzZ9eG40": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -3081,6 +3369,14 @@
       "title": "If You Hold Palantir Stock (PLTR)... GET READY!",
       "transcript_available": true
     },
+    "bj_PSYBCUsM": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:51:37.952760+00:00",
+      "published": null,
+      "title": "This Isn\u2019t Anxiety, It\u2019s ADHD",
+      "transcript_available": true
+    },
     "bj_XVBGvSvc": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -3103,6 +3399,14 @@
       "processed_at": "2026-09-09T00:02:27.825320+00:00",
       "published": null,
       "title": "If You Don't Understand the Petrodollar, You Don't Understand Money",
+      "transcript_available": true
+    },
+    "bvVsnSku72s": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:47:35.047793+00:00",
+      "published": null,
+      "title": "We Need To Talk About The AI Cheating Epidemic",
       "transcript_available": true
     },
     "c37Jz6CEeY4": {
@@ -3169,6 +3473,22 @@
       "title": "\u201cThe Wars in Iran & Ukraine Will Merge Very Soon\u201d",
       "transcript_available": true
     },
+    "dJiKXG7Fu_U": {
+      "channel": "David Carbutt",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:41:52.978824+00:00",
+      "published": "2026-09-09T12:15:26+00:00",
+      "title": "Internet BREAKS w/Tom Lee\u2019s Huge Market Prediction",
+      "transcript_available": true
+    },
+    "dLXEdFwhS8E": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:43:30.942404+00:00",
+      "published": "2026-09-09T13:14:22+00:00",
+      "title": "Most Lifters Miss This Triceps Exercise Difference",
+      "transcript_available": true
+    },
     "dNASCxGFoHg": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -3225,6 +3545,14 @@
       "title": "Trump's Tariffs Will Make Millionaires in 2025 (Here's How)",
       "transcript_available": true
     },
+    "ddJP4HrKBSw": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:47:52.722642+00:00",
+      "published": null,
+      "title": "How Being a Victim Ruined Your Life",
+      "transcript_available": true
+    },
     "dhbcVxYhWaQ": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -3279,6 +3607,14 @@
       "processed_at": "2026-09-06T17:41:12.957959+00:00",
       "published": null,
       "title": "Chapter/Session 4: Corporate Life Cycle - Transitions",
+      "transcript_available": true
+    },
+    "ezF31CwFvpc": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:48:38.945879+00:00",
+      "published": null,
+      "title": "Your Soulmate Isn\u2019t On Hinge",
       "transcript_available": true
     },
     "f-xsdisLsws": {
@@ -3489,6 +3825,14 @@
       "title": "How This Coach Solved Shoulder Pain Using Biomechanics",
       "transcript_available": true
     },
+    "gsjA3ZQzybA": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:49:06.682576+00:00",
+      "published": null,
+      "title": "Your Interests Don't Make You Interesting",
+      "transcript_available": true
+    },
     "h8tBPhNkjN0": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -3521,6 +3865,14 @@
       "title": "Before You Fire Someone Listen to This",
       "transcript_available": true
     },
+    "hQRjSn7_BKY": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:48:02.606847+00:00",
+      "published": null,
+      "title": "We Give Discipline Too Much Credit, Here\u2019s What Actually Works",
+      "transcript_available": true
+    },
     "hfzdMnuuGSg": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -3535,6 +3887,14 @@
       "processed_at": "2026-09-04T18:55:41.891813+00:00",
       "published": null,
       "title": "Trillion dollar Market Caps: Fairy Tale Pricing or Great Businesses?",
+      "transcript_available": true
+    },
+    "htOL5Z3ARt0": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:49:25.484271+00:00",
+      "published": null,
+      "title": "You Don't Know What Discipline Means",
       "transcript_available": true
     },
     "i13XK-uUOLQ": {
@@ -3559,6 +3919,14 @@
       "processed_at": "2026-09-06T17:39:37.270247+00:00",
       "published": null,
       "title": "Chapter/Session 10: Valuing and Pricing Start-ups and Young High Growth Firms",
+      "transcript_available": true
+    },
+    "iCdfSRc2QNg": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:44:00.104350+00:00",
+      "published": "2026-09-09T15:00:06+00:00",
+      "title": "The Secret to Fixing Your Adulthood",
       "transcript_available": true
     },
     "iGd35DO24Mg": {
@@ -3689,6 +4057,14 @@
       "title": "Session 19: The APV and Peer Group Approaches to Financing Mix",
       "transcript_available": true
     },
+    "k0iUzEJQ1so": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:49:33.431040+00:00",
+      "published": null,
+      "title": "How High Performers Get Ahead",
+      "transcript_available": true
+    },
     "k4Y3UctGWuI": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -3753,6 +4129,14 @@
       "title": "Leaked: Last EASY Wealth Opportunity in 2026",
       "transcript_available": true
     },
+    "kqriaA0MQlo": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:53:19.712037+00:00",
+      "published": null,
+      "title": "Why Someone Hates You for No Reason (Displaced Hatred)",
+      "transcript_available": true
+    },
     "kyUettM26ME": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -3783,6 +4167,14 @@
       "processed_at": "2026-09-09T10:58:54.547194+00:00",
       "published": null,
       "title": "The Lie of \"Positive Thinking\"",
+      "transcript_available": true
+    },
+    "lJKmwM2cNro": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:47:08.115898+00:00",
+      "published": null,
+      "title": "The Biology Of Why Men Isolate",
       "transcript_available": true
     },
     "la7OEAf9XAg": {
@@ -4015,6 +4407,14 @@
       "processed_at": "2026-09-04T18:55:25.054461+00:00",
       "published": null,
       "title": "Data Update 1 for 2026: The Push and Pull of Data",
+      "transcript_available": true
+    },
+    "nwJCZiLW3qo": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:50:58.021652+00:00",
+      "published": null,
+      "title": "Social Anxiety Isn't Something To \"Fix\"",
       "transcript_available": true
     },
     "nxfDMIpcljQ": {
@@ -4265,6 +4665,14 @@
       "title": "Karpathy's \"autoresearch\" broke the internet",
       "transcript_available": true
     },
+    "ql5sWIEAcFw": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:52:13.713858+00:00",
+      "published": null,
+      "title": "Why You're The Least Valuable Friend",
+      "transcript_available": true
+    },
     "qoMMCMgztVA": {
       "channel": "Starter Story",
       "had_materials": false,
@@ -4433,6 +4841,14 @@
       "title": "A One In A Lifetime Crash Is Coming (3 Warning Signs)",
       "transcript_available": true
     },
+    "tnBxwfMQhpQ": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:46:58.890556+00:00",
+      "published": null,
+      "title": "The Hidden 'Setting' That Controls Your Anxiety",
+      "transcript_available": true
+    },
     "u8XIg3V9Cn4": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -4495,6 +4911,14 @@
       "processed_at": "2026-09-04T18:49:43.073136+00:00",
       "published": "2026-09-01T12:45:54+00:00",
       "title": "A Must-Tri Exercise | Biomechanics Explained",
+      "transcript_available": true
+    },
+    "v8Ka8XAeQ_I": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-09T17:50:12.161622+00:00",
+      "published": null,
+      "title": "The Puer Aeternus Interview (ft. BSJ)",
       "transcript_available": true
     },
     "vJEy3nP2_C8": {
