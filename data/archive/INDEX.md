@@ -1,10 +1,11 @@
 # 📚 Library index
 
-609 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+650 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Transcript |
 |---|---|---|---|---|---|
+| 2026-09-09 | Alex Hormozi | [If It Scales, It's Free. If It Doesn't, You Pay.](https://www.youtube.com/shorts/OA_6vQHI9Yc) | skim | Give away everything that scales easily (digital content, mass events); charge only for expensive-to-deliver, non-scalable services like 1-on-1 advising or personalized support. | [transcript](OA_6vQHI9Yc/transcript.md) |
 | 2026-09-08 | The Diary Of A CEO | [THE ONE FREE HACK TO A LONGER LIFE!](https://www.youtube.com/shorts/gPEjmOFnNe4) | skim | Regular sunlight exposure, especially in early morning, is a free, evidence-supported habit linked to better vision, hormones, and longevity—more effective and complete than artificial red light devices. | [transcript](gPEjmOFnNe4/transcript.md) |
 | 2026-09-08 | HealthyGamerGG | [Why its Pointless to Argue with Narcissists](https://www.youtube.com/shorts/qGTUQtQ-UdQ) | skim | Narcissists operate from the belief that if they don't understand or agree with a complaint, it doesn't exist; healthy people consider the possibility of their own blind spots. This fundamental difference makes productive argument nearly impossible. | [transcript](qGTUQtQ-UdQ/transcript.md) |
 | 2026-09-08 | Chris Williamson | [Your Brain Needs To Feel Pressure](https://www.youtube.com/shorts/IXG_m-TVHkM) | skim | Moderate stress and pressure are necessary for brain function; boredom—not stress itself—is what's harmful. | [transcript](IXG_m-TVHkM/transcript.md) |
@@ -217,8 +218,10 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [If You Missed Nvidia (NVDA) - This Stock Is Next!](https://www.youtube.com/watch?v=-OYNQ74oG9k) | — | — | [transcript](-OYNQ74oG9k/transcript.md) |
 | — | Ticker Symbol: YOU | [Michael Burry's Big Short on Nvidia & Palantir Will Make Millionaires (Here's How)](https://www.youtube.com/watch?v=-_R1dPYPbxU) | — | — | [transcript](-_R1dPYPbxU/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The First Domino in the US Debt Crisis](https://www.youtube.com/watch?v=-e5HoR4T8Zk) | — | — | [transcript](-e5HoR4T8Zk/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to STOCKS (& Why the War is the Trigger)](https://www.youtube.com/watch?v=-mXH8a9DEAQ) | — | — | [transcript](-mXH8a9DEAQ/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying Palantir Stock (PLTR) After Earnings - Here's Why](https://www.youtube.com/watch?v=-zOE636nDpE) | — | — | [transcript](-zOE636nDpE/transcript.md) |
 | — | Aswath Damodaran | [Session 11: Hurdle Rates Closure and First Steps on Investment Returns](https://www.youtube.com/watch?v=0FeHGmeqcX0) | — | — | [transcript](0FeHGmeqcX0/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [OPEC Just Broke the Petrodollar — And Gold Knows It](https://www.youtube.com/watch?v=0Pz5BVbtemQ) | — | — | [transcript](0Pz5BVbtemQ/transcript.md) |
 | — | Ticker Symbol: YOU | [My Top 2 Stocks to Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=0Wts6YiNzaw) | — | — | [transcript](0Wts6YiNzaw/transcript.md) |
 | — | Greg Isenberg | [Using AI Tools (Manus, FreePik etc) to Create Viral IG Reels](https://www.youtube.com/watch?v=0b8qQx3FaLE) | — | — | [transcript](0b8qQx3FaLE/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Cuba Just Got 300 Drones Targeting US — Buy These 5 Stocks Before War Starts](https://www.youtube.com/watch?v=0fTxc_eCXek) | — | — | [transcript](0fTxc_eCXek/transcript.md) |
@@ -227,6 +230,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Beat you Bot: Building your moat against AI!](https://www.youtube.com/watch?v=0o1MQ7bzaEw) | — | — | [transcript](0o1MQ7bzaEw/transcript.md) |
 | — | Aswath Damodaran | [Information Timing and Release: The Debate over Quarterly Reporting and Fed Guidance!](https://www.youtube.com/watch?v=0pTXwulvxzA) | — | — | [transcript](0pTXwulvxzA/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! My Top 4 AI Stocks to Get Rich in 2025 (Without Getting Lucky)](https://www.youtube.com/watch?v=0y23kpnRW6k) | — | — | [transcript](0y23kpnRW6k/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [This Is What "ALWAYS" Happens Before Gold Explodes](https://www.youtube.com/watch?v=1BFSr7mRb80) | — | — | [transcript](1BFSr7mRb80/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying Every Share I Can (Investors Aren't Ready)](https://www.youtube.com/watch?v=1K0OgUBolXc) | — | — | [transcript](1K0OgUBolXc/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The Only SpaceX IPO Video Investors Need to Watch](https://www.youtube.com/watch?v=1W92VarLwn8) | — | — | [transcript](1W92VarLwn8/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 12: Valuing Mature Firms](https://www.youtube.com/watch?v=1esgFI00KUE) | — | — | [transcript](1esgFI00KUE/transcript.md) |
@@ -235,13 +239,17 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [The Iran War Will Make Millionaires (Here's How)](https://www.youtube.com/watch?v=2--_UO-vXI0) | — | — | [transcript](2--_UO-vXI0/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [SpaceX Just Triggered the Biggest Unwind in Financial History - GET READY NOW!](https://www.youtube.com/watch?v=20Y1OG5SFfo) | — | — | [transcript](20Y1OG5SFfo/transcript.md) |
 | — | Aswath Damodaran | [Data Update 6 for 2025: From Macro to Micro - The Hurdle Rate Question](https://www.youtube.com/watch?v=2IeIpahp5X4) | — | — | [transcript](2IeIpahp5X4/transcript.md) |
+| — | HealthyGamerGG | [Why 40% Of Young Men Need Erectile Retraining](https://www.youtube.com/watch?v=2MwTDoT8q_A) | — | — | [transcript](2MwTDoT8q_A/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [SpaceX Stock Just Crashed — Why It Affects Every Investor](https://www.youtube.com/watch?v=2PRqGrxrKwI) | — | — | [transcript](2PRqGrxrKwI/transcript.md) |
 | — | Greg Isenberg | [Claude Skills: Build Your Own AI Employees](https://www.youtube.com/watch?v=2Vcn2bAu2FA) | — | — | [transcript](2Vcn2bAu2FA/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 2: The Corporate Life Cycle - Basics](https://www.youtube.com/watch?v=2sC-szm7tfE) | — | — | [transcript](2sC-szm7tfE/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [I Analyzed The Entire Stock Market. It's Broken.](https://www.youtube.com/watch?v=30lkcnyuHZU) | — | — | [transcript](30lkcnyuHZU/transcript.md) |
 | — | Aswath Damodaran | [Data Update 7 for 2026: Debt and Taxes](https://www.youtube.com/watch?v=3X6rah8r4Do) | — | — | [transcript](3X6rah8r4Do/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Why the Stock Market REFUSES to Crash](https://www.youtube.com/watch?v=3d6fBX99lAw) | — | — | [transcript](3d6fBX99lAw/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! These 3 Stocks Will Make Millionaires By 2030](https://www.youtube.com/watch?v=3f8PgWFdmB8) | — | — | [transcript](3f8PgWFdmB8/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [If You Missed Palantir or Nvidia. This is Even Bigger.](https://www.youtube.com/watch?v=4Gve7ELGIbI) | — | — | [transcript](4Gve7ELGIbI/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The End of the Petrodollar – Most Aren't Ready](https://www.youtube.com/watch?v=4NuzBZRk4v8) | — | — | [transcript](4NuzBZRk4v8/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Why is Gold CRASHING? (During a War?)](https://www.youtube.com/watch?v=4Qr8EO9AlFw) | — | — | [transcript](4Qr8EO9AlFw/transcript.md) |
 | — | Ticker Symbol: YOU | [Forget NVIDIA. This Is The New King of AI.](https://www.youtube.com/watch?v=4Ry3Jv_U8I8) | — | — | [transcript](4Ry3Jv_U8I8/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Wall Street Just Gave a Dire Warning (Most Aren’t Ready)](https://www.youtube.com/watch?v=4SY_tSw64Cs) | — | — | [transcript](4SY_tSw64Cs/transcript.md) |
 | — | Aswath Damodaran | [Session 16: The Debt Equity Tradeoff](https://www.youtube.com/watch?v=4ZWSccnMaa4) | — | — | [transcript](4ZWSccnMaa4/transcript.md) |
@@ -265,6 +273,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [GPT 5.6 SOL IS HERE! How to use it.](https://www.youtube.com/watch?v=7pVTQSA4s5I) | — | — | [transcript](7pVTQSA4s5I/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 20: Lessons for the Road](https://www.youtube.com/watch?v=7s3-Xb2gnTY) | — | — | [transcript](7s3-Xb2gnTY/transcript.md) |
 | — | Greg Isenberg | [AI Agents are the new SaaS](https://www.youtube.com/watch?v=83fWzQSWB10) | — | — | [transcript](83fWzQSWB10/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The Iran Economic Shock is Coming. How to Protect Yourself](https://www.youtube.com/watch?v=9GYZxosZzfM) | — | — | [transcript](9GYZxosZzfM/transcript.md) |
 | — | Greg Isenberg | [Stop Shipping AI Slop. Design with Weavy AI, Claude etc.](https://www.youtube.com/watch?v=9OnN4O4uapI) | — | — | [transcript](9OnN4O4uapI/transcript.md) |
 | — | Greg Isenberg | [SaaS is minting millionaires again (here's how)](https://www.youtube.com/watch?v=9T1yWEq5kP0) | — | — | [transcript](9T1yWEq5kP0/transcript.md) |
 | — | Ticker Symbol: YOU | [I Got Rich Off NVIDIA. This Is Even Bigger.](https://www.youtube.com/watch?v=9UMGCbCyz6c) | — | — | [transcript](9UMGCbCyz6c/transcript.md) |
@@ -273,10 +282,12 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [AI's Bar Mitzvah Moment? From Hype & Hope to Business Questions!](https://www.youtube.com/watch?v=AAi9QIl6gw8) | — | — | [transcript](AAi9QIl6gw8/transcript.md) |
 | — | Ticker Symbol: YOU | [The Only AI Stocks I'm Buying (Before It's Too Late)](https://www.youtube.com/watch?v=AEClm2Inh-M) | — | — | [transcript](AEClm2Inh-M/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [US Panic: Japan’s Central Bank Just Collapsed!?](https://www.youtube.com/watch?v=APOKCdoCpug) | — | — | [transcript](APOKCdoCpug/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [New Fed Chair’s Plan to Cancel America’s Debt](https://www.youtube.com/watch?v=AhB7PKjMGK8) | — | — | [transcript](AhB7PKjMGK8/transcript.md) |
 | — | Aswath Damodaran | [Data Update 3 for 2025: The times they are a'changin...](https://www.youtube.com/watch?v=AvbfOyLSrfk) | — | — | [transcript](AvbfOyLSrfk/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 8: Cash Return (Dividends) across the Life Cycle](https://www.youtube.com/watch?v=Aw_ljPKgFVw) | — | — | [transcript](Aw_ljPKgFVw/transcript.md) |
 | — | Greg Isenberg | [The $1M+ Solo AI Agent Business (Full Course)](https://www.youtube.com/watch?v=BI-MNjm1tTQ) | — | — | [transcript](BI-MNjm1tTQ/transcript.md) |
 | — | Ticker Symbol: YOU | [NVIDIA CEO Jensen Huang Leaves Everyone SPEECHLESS (Supercut)](https://www.youtube.com/watch?v=B_UeixjySSg) | — | — | [transcript](B_UeixjySSg/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The Uncomfortable Silver Truth](https://www.youtube.com/watch?v=BkolED63RA0) | — | — | [transcript](BkolED63RA0/transcript.md) |
 | — | Greg Isenberg | [I Built an Entire App with OpenAI's Codex and 8 AI Agent Employees](https://www.youtube.com/watch?v=Bs7sBbcwn60) | — | — | [transcript](Bs7sBbcwn60/transcript.md) |
 | — | Aswath Damodaran | [Data Update 2 for 2026: A Test for US Equities](https://www.youtube.com/watch?v=BzG8M74BfrY) | — | — | [transcript](BzG8M74BfrY/transcript.md) |
 | — | Greg Isenberg | [Paperclip: Hire AI Agents Like Employees (Live Demo)](https://www.youtube.com/watch?v=C3-4llQYT8o) | — | — | [transcript](C3-4llQYT8o/transcript.md) |
@@ -302,6 +313,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [WebMCP: Let AI Agents pay you money](https://www.youtube.com/watch?v=EoNH3Tn8wYE) | — | — | [transcript](EoNH3Tn8wYE/transcript.md) |
 | — | Greg Isenberg | [My top secrets to running an AI Agent Workforce](https://www.youtube.com/watch?v=EzQAgnjTq2k) | — | — | [transcript](EzQAgnjTq2k/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The $14 Stock You’ll Wish You Bought before the SpaceX IPO](https://www.youtube.com/watch?v=FJhjpqVaXbY) | — | — | [transcript](FJhjpqVaXbY/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [3 Stocks You’ll Wish You Bought in 2026 (Last Big Wealth Opportunity of the Decade)](https://www.youtube.com/watch?v=FdM26ul7Jpo) | — | — | [transcript](FdM26ul7Jpo/transcript.md) |
 | — | Aswath Damodaran | [A Golden Year: Gold's Price Surge in 2025 - Macro Signal or Pricing Noise?](https://www.youtube.com/watch?v=FdlCocXHnMs) | — | — | [transcript](FdlCocXHnMs/transcript.md) |
 | — | Ticker Symbol: YOU | [Top 5 Stocks I'm Buying Before The Fed Cuts Rates!](https://www.youtube.com/watch?v=FrWFsSrTCfw) | — | — | [transcript](FrWFsSrTCfw/transcript.md) |
 | — | Greg Isenberg | [Claude Skills Built Me an AI Agent Army (They Run Everything Now)](https://www.youtube.com/watch?v=G-5bInklwRQ) | — | — | [transcript](G-5bInklwRQ/transcript.md) |
@@ -312,10 +324,12 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Finding your Investing Lodestar: In Search of an Investment Philosophy!](https://www.youtube.com/watch?v=GpOzFKrnvdU) | — | — | [transcript](GpOzFKrnvdU/transcript.md) |
 | — | Aswath Damodaran | [Ratings Redux: The Moody's US Ratings Downgrade and Aftermath](https://www.youtube.com/watch?v=Gr_-aT279Ew) | — | — | [transcript](Gr_-aT279Ew/transcript.md) |
 | — | Ticker Symbol: YOU | [This Is A Historic Buying Opportunity (98% Will Miss It)](https://www.youtube.com/watch?v=GxKra1L2TCY) | — | — | [transcript](GxKra1L2TCY/transcript.md) |
+| — | HealthyGamerGG | [How To ACTUALLY Break An Addiction](https://www.youtube.com/watch?v=H877DXOAlXI) | — | — | [transcript](H877DXOAlXI/transcript.md) |
 | — | Ticker Symbol: YOU | [The Investment Opportunity of a Lifetime (Don't Miss Out)](https://www.youtube.com/watch?v=HLiVRFliO_I) | — | — | [transcript](HLiVRFliO_I/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Buying This AI Chip Stock (Even Over NVIDIA Stock)](https://www.youtube.com/watch?v=HfOEENEHi9c) | — | — | [transcript](HfOEENEHi9c/transcript.md) |
 | — | Greg Isenberg | [I Watched Dan Koe Break Down His AI Workflow OMG](https://www.youtube.com/watch?v=HhspudqFSvU) | — | — | [transcript](HhspudqFSvU/transcript.md) |
 | — | Ticker Symbol: YOU | [E14: NVIDIA'S HUGE AI Chip Breakthroughs Change Everything](https://www.youtube.com/watch?v=HpdjLOCvPoo) | — | — | [transcript](HpdjLOCvPoo/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Leaked: Trump’s Energy Law - Most Investors Aren't Ready!](https://www.youtube.com/watch?v=Hu9V6YdNBKU) | — | — | [transcript](Hu9V6YdNBKU/transcript.md) |
 | — | Aswath Damodaran | [Session 22: Dividend Trade offs](https://www.youtube.com/watch?v=HwmBqsMySTg) | — | — | [transcript](HwmBqsMySTg/transcript.md) |
 | — | Ticker Symbol: YOU | [WARNING: If You Hold Nvidia & Palantir Stock... GET READY](https://www.youtube.com/watch?v=IAdc4QebyYA) | — | — | [transcript](IAdc4QebyYA/transcript.md) |
 | — | Greg Isenberg | [9 biggest startup ideas right now (AI, B2C, mobile etc)](https://www.youtube.com/watch?v=IFLY6L3YPGo) | — | — | [transcript](IFLY6L3YPGo/transcript.md) |
@@ -332,6 +346,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Data Update 5 for 2025: It is a small world after all!](https://www.youtube.com/watch?v=JZzuZznpgfc) | — | — | [transcript](JZzuZznpgfc/transcript.md) |
 | — | Aswath Damodaran | [Data Update 3 for 2026: The Trust Deficit - From Bonds to Gold to Bitcoin!](https://www.youtube.com/watch?v=Jq55_yR_wJ4) | — | — | [transcript](Jq55_yR_wJ4/transcript.md) |
 | — | Ticker Symbol: YOU | [Is It Too Late to Buy Palantir Stock (PLTR) After Earnings?](https://www.youtube.com/watch?v=JzXuCs4u2co) | — | — | [transcript](JzXuCs4u2co/transcript.md) |
+| — | HealthyGamerGG | [The Worst Red Flags I’ve Seen As A Therapist](https://www.youtube.com/watch?v=KBkkN12nVqs) | — | — | [transcript](KBkkN12nVqs/transcript.md) |
 | — | Aswath Damodaran | [The Sugar Daddy Effect? Corporate Venture Capital, Sovereign Wealth Funds and Green Investing!](https://www.youtube.com/watch?v=KDw5AUzFi20) | — | — | [transcript](KDw5AUzFi20/transcript.md) |
 | — | Ticker Symbol: YOU | [NVIDIA CEO Jensen Huang Just Changed AI Forever (Supercut)](https://www.youtube.com/watch?v=KI1aNYDFYEI) | — | — | [transcript](KI1aNYDFYEI/transcript.md) |
 | — | Ticker Symbol: YOU | [NVIDIA's Competition Is Here (Most Investors Missed It)](https://www.youtube.com/watch?v=KS_cIBPbE_o) | — | — | [transcript](KS_cIBPbE_o/transcript.md) |
@@ -339,6 +354,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is About to Happen to Stocks](https://www.youtube.com/watch?v=KgKkGxvw6zU) | — | — | [transcript](KgKkGxvw6zU/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to Stocks](https://www.youtube.com/watch?v=KgzthZdu8Rk) | — | — | [transcript](KgzthZdu8Rk/transcript.md) |
 | — | Aswath Damodaran | [Session 20: Debt Design](https://www.youtube.com/watch?v=Kk7BEn3Y4XY) | — | — | [transcript](Kk7BEn3Y4XY/transcript.md) |
+| — | HealthyGamerGG | [Why You Need Constant Reassurance](https://www.youtube.com/watch?v=L-gJ_Fo72-k) | — | — | [transcript](L-gJ_Fo72-k/transcript.md) |
 | — | Ticker Symbol: YOU | [Why I'm Buying This AI Data Center Stock (Even Over NVIDIA)](https://www.youtube.com/watch?v=L32WLzFkxiE) | — | — | [transcript](L32WLzFkxiE/transcript.md) |
 | — | Aswath Damodaran | [Country Risk 2025: The Story behind the Numbers!](https://www.youtube.com/watch?v=LTDZCLjCa-E) | — | — | [transcript](LTDZCLjCa-E/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In Robots After CES 2026 (Here's Why)](https://www.youtube.com/watch?v=LV-44eWQ474) | — | — | [transcript](LV-44eWQ474/transcript.md) |
@@ -350,6 +366,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [10 Unknown Apps Making $50K+ MRR (Copy Them)](https://www.youtube.com/watch?v=LuOZ2PKvd4s) | — | — | [transcript](LuOZ2PKvd4s/transcript.md) |
 | — | Greg Isenberg | [Grok 4.5 is a bigger deal than Fable 5](https://www.youtube.com/watch?v=LvsQR7Vc4fQ) | — | — | [transcript](LvsQR7Vc4fQ/transcript.md) |
 | — | Greg Isenberg | [Become AI Native in less than 60 mins](https://www.youtube.com/watch?v=LztPaNmcWGU) | — | — | [transcript](LztPaNmcWGU/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The Global Monetary Reset Has Begun (Hint: Act Now!)](https://www.youtube.com/watch?v=M8jEbBFczt4) | — | — | [transcript](M8jEbBFczt4/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [If You Don’t Understand Silver, You Don’t Understand Money](https://www.youtube.com/watch?v=MJQsmzVJ0Iw) | — | — | [transcript](MJQsmzVJ0Iw/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In The Figma Stock IPO (Here's Why)](https://www.youtube.com/watch?v=MLVEvIRIbKo) | — | — | [transcript](MLVEvIRIbKo/transcript.md) |
 | — | Greg Isenberg | [Cloudflare will make 1000+ AI millionaires](https://www.youtube.com/watch?v=MNNfat_QP0E) | — | — | [transcript](MNNfat_QP0E/transcript.md) |
@@ -372,11 +389,13 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Chapter/Session 16: Investing in Middle Age](https://www.youtube.com/watch?v=Oax7apxhUP8) | — | — | [transcript](Oax7apxhUP8/transcript.md) |
 | — | Ticker Symbol: YOU | [E21: NVIDIA'S HUGE AI Chip Breakthroughs Change Everything](https://www.youtube.com/watch?v=OoKRnWK30JY) | — | — | [transcript](OoKRnWK30JY/transcript.md) |
 | — | Greg Isenberg | [Startup idea someone should steal](https://www.youtube.com/watch?v=P2hjcIE9SQI) | — | — | [transcript](P2hjcIE9SQI/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The Investment Opportunity of a Lifetime Is Here (But Not For Long)](https://www.youtube.com/watch?v=P4YKp0sf_pw) | — | — | [transcript](P4YKp0sf_pw/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 19: Aging with grace!](https://www.youtube.com/watch?v=PHlERmgzSHM) | — | — | [transcript](PHlERmgzSHM/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [They Crashed Japan on Purpose… Here’s The Real Plan](https://www.youtube.com/watch?v=Pfuq2jcLpHU) | — | — | [transcript](Pfuq2jcLpHU/transcript.md) |
 | — | Greg Isenberg | [Sahil Bloom Gives You a Plan for 2026](https://www.youtube.com/watch?v=Pl_nmulyjqI) | — | — | [transcript](Pl_nmulyjqI/transcript.md) |
 | — | Greg Isenberg | [Watch me use AI to make millions in ecommerce](https://www.youtube.com/watch?v=PrP_aGVLBMI) | — | — | [transcript](PrP_aGVLBMI/transcript.md) |
 | — | Aswath Damodaran | [Data Update 4 for 2025: Interest Rates, Inflation and the Fed!](https://www.youtube.com/watch?v=Pt-tJJZNFPo) | — | — | [transcript](Pt-tJJZNFPo/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Last Big Wealth Opportunity Before You Retire](https://www.youtube.com/watch?v=QB0-q6UVZIA) | — | — | [transcript](QB0-q6UVZIA/transcript.md) |
 | — | Aswath Damodaran | [The Market's Narrative: How Investors are pricing in the Iran War!](https://www.youtube.com/watch?v=QID0UbRuIYk) | — | — | [transcript](QID0UbRuIYk/transcript.md) |
 | — | Greg Isenberg | [I Tested Gemini 3 as a Designer. It’s Terrifyingly Good.](https://www.youtube.com/watch?v=QNh4SUQuts4) | — | — | [transcript](QNh4SUQuts4/transcript.md) |
 | — | Greg Isenberg | [Screensharing Kevin Rose's AI Workflow/New App](https://www.youtube.com/watch?v=QPAy9R9V1rA) | — | — | [transcript](QPAy9R9V1rA/transcript.md) |
@@ -392,6 +411,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Data Update 8 for 2026: Dividends and Buybacks - The Investing Harvest!](https://www.youtube.com/watch?v=SRpJEkzJpKs) | — | — | [transcript](SRpJEkzJpKs/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is About to Happened to the Dollar (& Why Gold and Silver are Next)](https://www.youtube.com/watch?v=SXhkSyopG74) | — | — | [transcript](SXhkSyopG74/transcript.md) |
 | — | Greg Isenberg | [How AI agents & Claude skills work (Clearly Explained)](https://www.youtube.com/watch?v=S_oN3vlzpMw) | — | — | [transcript](S_oN3vlzpMw/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD & SILVER (& Why Iran is the Trigger)](https://www.youtube.com/watch?v=SiyM_poiwHM) | — | — | [transcript](SiyM_poiwHM/transcript.md) |
 | — | Greg Isenberg | [Claude Code New Features, Explained](https://www.youtube.com/watch?v=SkY-tR9kf-k) | — | — | [transcript](SkY-tR9kf-k/transcript.md) |
 | — | Ticker Symbol: YOU | [I Can't Stay Quiet on Google Stock (GOOG) Any Longer](https://www.youtube.com/watch?v=TAoAGrF5c-w) | — | — | [transcript](TAoAGrF5c-w/transcript.md) |
 | — | Ticker Symbol: YOU | [SpaceX: The Most Tragic IPO In Stock Market History](https://www.youtube.com/watch?v=TEimEZVjN9o) | — | — | [transcript](TEimEZVjN9o/transcript.md) |
@@ -406,33 +426,41 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Make $1M+ in 2026 with this Trend (IRL is back)](https://www.youtube.com/watch?v=Vt0ZV9JTXRo) | — | — | [transcript](Vt0ZV9JTXRo/transcript.md) |
 | — | Ticker Symbol: YOU | [My Top 4 AI Investments To Get Rich in 2025 (DON'T MISS OUT)](https://www.youtube.com/watch?v=VxXN9a4t_Kw) | — | — | [transcript](VxXN9a4t_Kw/transcript.md) |
 | — | Aswath Damodaran | [To Bitcoin or not to Bitcoin: The Corporate Cash Question](https://www.youtube.com/watch?v=VzKuSqiwc3s) | — | — | [transcript](VzKuSqiwc3s/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The Global Monetary Reset Is Here; EVERYTHING You Need To Know](https://www.youtube.com/watch?v=WHAOB5oB79k) | — | — | [transcript](WHAOB5oB79k/transcript.md) |
 | — | Greg Isenberg | [Claude's Agent Mode was LEAKED (First Look)](https://www.youtube.com/watch?v=WNJmTvqraW8) | — | — | [transcript](WNJmTvqraW8/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Gold's Bloodbath, the Dollar Reset, and What Happens Next](https://www.youtube.com/watch?v=WWRJJ1vBsnw) | — | — | [transcript](WWRJJ1vBsnw/transcript.md) |
 | — | Ticker Symbol: YOU | [E17: I Flew 2800 Miles to Ask NVIDIA About AI Agents](https://www.youtube.com/watch?v=WaydA3mhYJ8) | — | — | [transcript](WaydA3mhYJ8/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [If You Missed Palantir or Nvidia. This is Even Bigger. (Most Aren’t Ready)](https://www.youtube.com/watch?v=WhNytjLPkDc) | — | — | [transcript](WhNytjLPkDc/transcript.md) |
 | — | Aswath Damodaran | [To Trillion(s) and Beyond: The SpaceX IPO Odyssey](https://www.youtube.com/watch?v=WhY5EF1_LjQ) | — | — | [transcript](WhY5EF1_LjQ/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The Biggest GOLD Reset Yet AHEAD](https://www.youtube.com/watch?v=X1PUdPn6MCU) | — | — | [transcript](X1PUdPn6MCU/transcript.md) |
 | — | Ticker Symbol: YOU | [NVIDIA CEO Jensen Huang Leaves Everyone SPEECHLESS (GTC Paris Supercut)](https://www.youtube.com/watch?v=XkCI7u6-_oA) | — | — | [transcript](XkCI7u6-_oA/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [If You Own Silver, Watch This Before June 16 (Here’s Why)](https://www.youtube.com/watch?v=XmWBkcbH77c) | — | — | [transcript](XmWBkcbH77c/transcript.md) |
 | — | Greg Isenberg | [Anthropic releases method to 10× Claude Code / Opus 4.5](https://www.youtube.com/watch?v=Xob-2a1OnvA) | — | — | [transcript](Xob-2a1OnvA/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Buying This AI Chip Stock (Even Over NVIDIA Stock)](https://www.youtube.com/watch?v=XtWyi916JHM) | — | — | [transcript](XtWyi916JHM/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The Global Monetary Reset Has Begun (Hint: Act Now!)](https://www.youtube.com/watch?v=Y4FSMYSt2zQ) | — | — | [transcript](Y4FSMYSt2zQ/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [If You Don't Understand Gold, You Don't Understand Money](https://www.youtube.com/watch?v=YE1hxjLFxy0) | — | — | [transcript](YE1hxjLFxy0/transcript.md) |
 | — | Greg Isenberg | [How I Use Clawdbot to Run My Business and Life 24/7](https://www.youtube.com/watch?v=YRhGtHfs1Lw) | — | — | [transcript](YRhGtHfs1Lw/transcript.md) |
 | — | Greg Isenberg | [Stop Vibe Coding. Start Getting Customers.](https://www.youtube.com/watch?v=YeoGehNsrLc) | — | — | [transcript](YeoGehNsrLc/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The Exact Date of Next Stock Market Crash](https://www.youtube.com/watch?v=YhxvTte1Vpk) | — | — | [transcript](YhxvTte1Vpk/transcript.md) |
 | — | Greg Isenberg | [My Claude Code workflow to A/B startups in seconds](https://www.youtube.com/watch?v=YiitvyQGbkc) | — | — | [transcript](YiitvyQGbkc/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD (& Why Cuba Is Next After Iran)](https://www.youtube.com/watch?v=Yvt7AWPqCRA) | — | — | [transcript](Yvt7AWPqCRA/transcript.md) |
 | — | Aswath Damodaran | [The Corporate Life Cycle: The Key Ideas](https://www.youtube.com/watch?v=YwLAdkHYvAc) | — | — | [transcript](YwLAdkHYvAc/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying This AI Stock Hand Over Fist (Here's Why)](https://www.youtube.com/watch?v=ZHlFIctxBDs) | — | — | [transcript](ZHlFIctxBDs/transcript.md) |
 | — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on GOOGLE vs NVIDIA Any Longer](https://www.youtube.com/watch?v=ZZ2nWg1QhR4) | — | — | [transcript](ZZ2nWg1QhR4/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [MAJOR BUY: Last EASY Wealth Opportunity for Decades?](https://www.youtube.com/watch?v=ZvKBZa8iFhs) | — | — | [transcript](ZvKBZa8iFhs/transcript.md) |
+| — | HealthyGamerGG | [Why Sensitive People Get Traumatized So Easily](https://www.youtube.com/watch?v=_4x0fRO6w5M) | — | — | [transcript](_4x0fRO6w5M/transcript.md) |
 | — | Aswath Damodaran | [Session 5: Closure on the end game and first steps on risk](https://www.youtube.com/watch?v=_SxIBHEGhbo) | — | — | [transcript](_SxIBHEGhbo/transcript.md) |
 | — | Greg Isenberg | [Jack Dorsey's Buzz: Clearly Explained (and how to use it)](https://www.youtube.com/watch?v=_jGSgzBkzrY) | — | — | [transcript](_jGSgzBkzrY/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [This Metal Is Set To Explode (Not Gold Or Silver)](https://www.youtube.com/watch?v=_opyvjj_BTQ) | — | — | [transcript](_opyvjj_BTQ/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying Every Share I Can (Investors Aren't Ready)](https://www.youtube.com/watch?v=a_ORzZ9eG40) | — | — | [transcript](a_ORzZ9eG40/transcript.md) |
 | — | Aswath Damodaran | [Session 9: More on beta - bottom up betas and private company betas](https://www.youtube.com/watch?v=awEyDWhEdhg) | — | — | [transcript](awEyDWhEdhg/transcript.md) |
 | — | Greg Isenberg | [Claude Code Built My $450K Marketing Campaign](https://www.youtube.com/watch?v=b1mjQIiH7r4) | — | — | [transcript](b1mjQIiH7r4/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The FED Just Did the UNTHINKABLE to Gold](https://www.youtube.com/watch?v=bDJ0Ebk0PA0) | — | — | [transcript](bDJ0Ebk0PA0/transcript.md) |
 | — | Greg Isenberg | [Claude Fable 5 is BANNED. What to do?](https://www.youtube.com/watch?v=bdhUBBACglw) | — | — | [transcript](bdhUBBACglw/transcript.md) |
 | — | Ticker Symbol: YOU | [If You Hold Palantir Stock (PLTR)... GET READY!](https://www.youtube.com/watch?v=bftPNb0y0BA) | — | — | [transcript](bftPNb0y0BA/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The FED Just Reset the Stock Market (Hint: Act Now!)](https://www.youtube.com/watch?v=bj_XVBGvSvc) | — | — | [transcript](bj_XVBGvSvc/transcript.md) |
 | — | Aswath Damodaran | [Session 24: Closure on Dividends and First Steps on Valuation](https://www.youtube.com/watch?v=bm1zE4wCQvI) | — | — | [transcript](bm1zE4wCQvI/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [If You Don't Understand the Petrodollar, You Don't Understand Money](https://www.youtube.com/watch?v=bpEFA4LH6MM) | — | — | [transcript](bpEFA4LH6MM/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [If You Missed SpaceX or Palantir. This is Even Bigger.](https://www.youtube.com/watch?v=c37Jz6CEeY4) | — | — | [transcript](c37Jz6CEeY4/transcript.md) |
 | — | Ticker Symbol: YOU | [IT'S OVER! What GPT-5 Means For AMD vs NVIDIA Stock (NVDA)](https://www.youtube.com/watch?v=cDgu9zE_360) | — | — | [transcript](cDgu9zE_360/transcript.md) |
 | — | Aswath Damodaran | [Session 4: Closure on the End Game - Stakeholders, Sustainability and ESG](https://www.youtube.com/watch?v=cLotdkcvdd4) | — | — | [transcript](cLotdkcvdd4/transcript.md) |
@@ -457,6 +485,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [DeepSeek crashes the AI Party: Story break, change or shift?](https://www.youtube.com/watch?v=fx5jnE5HnhE) | — | — | [transcript](fx5jnE5HnhE/transcript.md) |
 | — | Aswath Damodaran | [Dealing with Decline: Intel, Walgreens and Starbucks put to the test!](https://www.youtube.com/watch?v=g3VT_cclr4U) | — | — | [transcript](g3VT_cclr4U/transcript.md) |
 | — | Ticker Symbol: YOU | [Trump's China Tariffs Will Make *Smart* Investors Rich (Here's How)](https://www.youtube.com/watch?v=gAsdrMIhGE4) | — | — | [transcript](gAsdrMIhGE4/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [They Crashed Gold on Purpose… Here’s The Real Plan](https://www.youtube.com/watch?v=gUKbQ4iM-G4) | — | — | [transcript](gUKbQ4iM-G4/transcript.md) |
 | — | Greg Isenberg | [Claude Opus 4.6 vs GPT-5.3 Codex](https://www.youtube.com/watch?v=gmSnQPzoYHA) | — | — | [transcript](gmSnQPzoYHA/transcript.md) |
 | — | Aswath Damodaran | [Investing Politics: Making Sense of Trump, Tariffs and Tesla!](https://www.youtube.com/watch?v=gogGFGDyF9c) | — | — | [transcript](gogGFGDyF9c/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying THIS AI Stock To Get Rich (Without Getting Lucky)](https://www.youtube.com/watch?v=hCe1-09Igag) | — | — | [transcript](hCe1-09Igag/transcript.md) |
@@ -467,6 +496,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Chapter/Session 10: Valuing and Pricing Start-ups and Young High Growth Firms](https://www.youtube.com/watch?v=i80avS70k8E) | — | — | [transcript](i80avS70k8E/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The FED Just Did the UNTHINKABLE (Global Monetary Reset Starts Now)](https://www.youtube.com/watch?v=iGd35DO24Mg) | — | — | [transcript](iGd35DO24Mg/transcript.md) |
 | — | Greg Isenberg | [OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI) | — | — | [transcript](iHyK-CW3ciI/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Iran Oil Crisis: What's About to Happen to Your Gold & Silver](https://www.youtube.com/watch?v=iJ63xafWM1s) | — | — | [transcript](iJ63xafWM1s/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The One Mistake That Makes Investors Poor](https://www.youtube.com/watch?v=iU7gawUa-98) | — | — | [transcript](iU7gawUa-98/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [US Panic: Korea's AI Bubble Just Exploded](https://www.youtube.com/watch?v=iZdqW9FRg1s) | — | — | [transcript](iZdqW9FRg1s/transcript.md) |
 | — | Aswath Damodaran | [An Ode to Restraint: Lessons from the Tim Cook Legacy!](https://www.youtube.com/watch?v=ig2ewJ9wx2Y) | — | — | [transcript](ig2ewJ9wx2Y/transcript.md) |
@@ -503,6 +533,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [How I'd use Sora 2 + Claude to hit 1M+ views on AI videos](https://www.youtube.com/watch?v=nt8gUax1Aj0) | — | — | [transcript](nt8gUax1Aj0/transcript.md) |
 | — | Aswath Damodaran | [Data Update 1 for 2026: The Push and Pull of Data](https://www.youtube.com/watch?v=nvR2gxNREHM) | — | — | [transcript](nvR2gxNREHM/transcript.md) |
 | — | Greg Isenberg | [Making $$ with AI Agents](https://www.youtube.com/watch?v=nyO60uzTnP4) | — | — | [transcript](nyO60uzTnP4/transcript.md) |
+| — | HealthyGamerGG | [Why You Always Feel Uneasy (Transcendental Existential Dread)](https://www.youtube.com/watch?v=oCB-sCIKnkU) | — | — | [transcript](oCB-sCIKnkU/transcript.md) |
 | — | Greg Isenberg | [Inside $180B Co-Founder's AI Agent System](https://www.youtube.com/watch?v=oDl-A2Uez58) | — | — | [transcript](oDl-A2Uez58/transcript.md) |
 | — | Greg Isenberg | [My AI Design Workflow That Doesn't Ship Slop](https://www.youtube.com/watch?v=oLu32YpiIJw) | — | — | [transcript](oLu32YpiIJw/transcript.md) |
 | — | Greg Isenberg | [3 Days in San Francisco's AI Gold Rush](https://www.youtube.com/watch?v=oVjNM18jtgQ) | — | — | [transcript](oVjNM18jtgQ/transcript.md) |
@@ -512,8 +543,10 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [3 Stocks Quietly Making Millionaires (98% Will Miss It)](https://www.youtube.com/watch?v=osSWqOI0yp4) | — | — | [transcript](osSWqOI0yp4/transcript.md) |
 | — | Ticker Symbol: YOU | [Trump's 15% Tariffs Will Make Millionaires in 2026 (Here's How)](https://www.youtube.com/watch?v=pPk9zHhP0ug) | — | — | [transcript](pPk9zHhP0ug/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD & Silver](https://www.youtube.com/watch?v=pXeHdlIiyVQ) | — | — | [transcript](pXeHdlIiyVQ/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [This Is a SERIOUS Warning! Most People Have No Idea What's Coming Silver](https://www.youtube.com/watch?v=parGmLXYN0Y) | — | — | [transcript](parGmLXYN0Y/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Trump Just Opened Up A $1.15 TRILLION Market (Get In Now?)](https://www.youtube.com/watch?v=pfLXdA_CIgM) | — | — | [transcript](pfLXdA_CIgM/transcript.md) |
 | — | Aswath Damodaran | [Session 15: Celsius Case Analysis, Real Options and Investment Post-mortems](https://www.youtube.com/watch?v=pz2hF0_ygm4) | — | — | [transcript](pz2hF0_ygm4/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The US Iran War Will Make (Some) Investors Rich l Here’s How](https://www.youtube.com/watch?v=q0BUPCHMeH4) | — | — | [transcript](q0BUPCHMeH4/transcript.md) |
 | — | Ticker Symbol: YOU | [Top Stocks I'm Buying For Massive Growth In April 2026](https://www.youtube.com/watch?v=q7pF6Z0XDvc) | — | — | [transcript](q7pF6Z0XDvc/transcript.md) |
 | — | Aswath Damodaran | [Session 28: The Fat Lady is Singing!](https://www.youtube.com/watch?v=qKvotUBFuj4) | — | — | [transcript](qKvotUBFuj4/transcript.md) |
 | — | Aswath Damodaran | [The Power of Expectations: Nvidia's Earnings Report and Market Reaction](https://www.youtube.com/watch?v=qOGZk9Ypk1Y) | — | — | [transcript](qOGZk9Ypk1Y/transcript.md) |
@@ -529,6 +562,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [3 Tech Stocks You'll Wish You Bought on This Dip (One Is Down 15% Today)](https://www.youtube.com/watch?v=sKaj_emrfpc) | — | — | [transcript](sKaj_emrfpc/transcript.md) |
 | — | Aswath Damodaran | [Country Risk: Determinants, Measures and Implications - The 2026 Edition](https://www.youtube.com/watch?v=sres2R8etKA) | — | — | [transcript](sres2R8etKA/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying Every Share I Can.](https://www.youtube.com/watch?v=t07A312EiCo) | — | — | [transcript](t07A312EiCo/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [$200 Oil. The Stock Market is OBLITERATED](https://www.youtube.com/watch?v=t8FJPHWO5fA) | — | — | [transcript](t8FJPHWO5fA/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 17: Investing in Decline](https://www.youtube.com/watch?v=tBXho7i8_8Q) | — | — | [transcript](tBXho7i8_8Q/transcript.md) |
 | — | Ticker Symbol: YOU | [Forget Oil. These 3 AI Stocks Will Make Millionaires By 2029](https://www.youtube.com/watch?v=tI8b26_S7pw) | — | — | [transcript](tI8b26_S7pw/transcript.md) |
 | — | Greg Isenberg | [OpenAI Codex: Build Apps That Work For You 24/7](https://www.youtube.com/watch?v=tUeSxXHmE9w) | — | — | [transcript](tUeSxXHmE9w/transcript.md) |
@@ -541,6 +575,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [Top 10 AI Stocks I'm Buying Now (Even Over Palantir Stock)](https://www.youtube.com/watch?v=vXpdMCcUZl4) | — | — | [transcript](vXpdMCcUZl4/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This UNSTOPPABLE AI Chip Company](https://www.youtube.com/watch?v=vYrMr2dAeao) | — | — | [transcript](vYrMr2dAeao/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Global Currency RESET Is Here - Here's How I'm Investing NOW](https://www.youtube.com/watch?v=vZQ6XJOC6no) | — | — | [transcript](vZQ6XJOC6no/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [JPMorgan’s Shocking Warning](https://www.youtube.com/watch?v=vfTPHtcJKTY) | — | — | [transcript](vfTPHtcJKTY/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 1: The Search for a Unifying Theory](https://www.youtube.com/watch?v=vg6H9248onQ) | — | — | [transcript](vg6H9248onQ/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [GOLDMAN SAID THE SAME THING RIGHT BEFORE 2008](https://www.youtube.com/watch?v=vh_JnFk08Qc) | — | — | [transcript](vh_JnFk08Qc/transcript.md) |
 | — | Greg Isenberg | [Claude Fable 5 is BACK](https://www.youtube.com/watch?v=vjdHAWvVCP4) | — | — | [transcript](vjdHAWvVCP4/transcript.md) |
@@ -556,15 +591,20 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Data Update 6 for 2026: In Search of Profitability and Value!](https://www.youtube.com/watch?v=wipmKevNjAk) | — | — | [transcript](wipmKevNjAk/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! My Top 4 Investments Before Trump's Next Tariffs](https://www.youtube.com/watch?v=wplwN9q3GGI) | — | — | [transcript](wplwN9q3GGI/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 3: The Corporate Life Cycle - Measures and Determinants](https://www.youtube.com/watch?v=x7dbavHECfc) | — | — | [transcript](x7dbavHECfc/transcript.md) |
+| — | HealthyGamerGG | [Why You Should NEVER Confess Your Love](https://www.youtube.com/watch?v=xHkcIRZa6lo) | — | — | [transcript](xHkcIRZa6lo/transcript.md) |
 | — | Greg Isenberg | [How I Use Skills + AI Agents to Run My Life](https://www.youtube.com/watch?v=xHsftiyT9pQ) | — | — | [transcript](xHsftiyT9pQ/transcript.md) |
 | — | Ticker Symbol: YOU | [If You Hold Palantir Stock (PLTR)... GET READY!](https://www.youtube.com/watch?v=xUnI0E33t6s) | — | — | [transcript](xUnI0E33t6s/transcript.md) |
 | — | Greg Isenberg | [GLM 5.2: What you need to know](https://www.youtube.com/watch?v=xa-9O5cDm3c) | — | — | [transcript](xa-9O5cDm3c/transcript.md) |
 | — | Ticker Symbol: YOU | [My Top 4 Investments To Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=xhG3E1RaX6c) | — | — | [transcript](xhG3E1RaX6c/transcript.md) |
 | — | Ticker Symbol: YOU | [The AI Bubble Is Popping (Which Will Make Smart Investors Rich)](https://www.youtube.com/watch?v=xtU9EIOd9i0) | — | — | [transcript](xtU9EIOd9i0/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Silver: The Quiet Rule Change That Changes Everything](https://www.youtube.com/watch?v=xziUSXN-cVw) | — | — | [transcript](xziUSXN-cVw/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [US Panic: Japan’s Currency Just Exploded [Hint: Gold]](https://www.youtube.com/watch?v=y-xEgwD_EE4) | — | — | [transcript](y-xEgwD_EE4/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD & Silver](https://www.youtube.com/watch?v=y8jcQ4565Og) | — | — | [transcript](y8jcQ4565Og/transcript.md) |
 | — | Ticker Symbol: YOU | [E22: NVIDIA'S HUGE AI Announcements Will Change Everything](https://www.youtube.com/watch?v=y8oHx6dPgqE) | — | — | [transcript](y8oHx6dPgqE/transcript.md) |
 | — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on AI Stocks Crashing Any Longer](https://www.youtube.com/watch?v=yASL644F-x0) | — | — | [transcript](yASL644F-x0/transcript.md) |
 | — | Aswath Damodaran | [Data Update 2 for 2025: The Party Continued for US Equities](https://www.youtube.com/watch?v=yCKTN71cwrA) | — | — | [transcript](yCKTN71cwrA/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Devalued Overnight: The Biggest Reset is NOW](https://www.youtube.com/watch?v=yCkxMWIXfEU) | — | — | [transcript](yCkxMWIXfEU/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [US Panic: Black Rock’s Debt Bomb Just Exploded](https://www.youtube.com/watch?v=ySLiFHLUdxQ) | — | — | [transcript](ySLiFHLUdxQ/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [This is Bigger Than Palantir & Nvidia. These 5 Stocks Win the Next AI Boom](https://www.youtube.com/watch?v=ySPZxegniU8) | — | — | [transcript](ySPZxegniU8/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD](https://www.youtube.com/watch?v=ySc7g_dRd9Q) | — | — | [transcript](ySc7g_dRd9Q/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Trump Just Opened Up A $400 BILLION Market (Get In Now)?](https://www.youtube.com/watch?v=ymJm0MRecV8) | — | — | [transcript](ymJm0MRecV8/transcript.md) |
@@ -575,42 +615,43 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [FDE: The $1M/Year AI Job Explained](https://www.youtube.com/watch?v=zXysLUTLjw4) | — | — | [transcript](zXysLUTLjw4/transcript.md) |
 | — | Ticker Symbol: YOU | [These Stocks Will Make Millionaires By 2029](https://www.youtube.com/watch?v=zYeJZu1hkdM) | — | — | [transcript](zYeJZu1hkdM/transcript.md) |
 | — | Greg Isenberg | [Claude Code Clearly Explained (and how to use it)](https://www.youtube.com/watch?v=zxMjOqM7DFs) | — | — | [transcript](zxMjOqM7DFs/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The Global Monetary Reset Is Here; EVERYTHING You Need To Know](https://www.youtube.com/watch?v=WHAOB5oB79k) | — | — | [transcript](WHAOB5oB79k/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [OPEC Just Broke the Petrodollar — And Gold Knows It](https://www.youtube.com/watch?v=0Pz5BVbtemQ) | — | — | [transcript](0Pz5BVbtemQ/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [Leaked: Trump’s Energy Law - Most Investors Aren't Ready!](https://www.youtube.com/watch?v=Hu9V6YdNBKU) | — | — | [transcript](Hu9V6YdNBKU/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [Why the Stock Market REFUSES to Crash](https://www.youtube.com/watch?v=3d6fBX99lAw) | — | — | [transcript](3d6fBX99lAw/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [3 Stocks You’ll Wish You Bought in 2026 (Last Big Wealth Opportunity of the Decade)](https://www.youtube.com/watch?v=FdM26ul7Jpo) | — | — | [transcript](FdM26ul7Jpo/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [New Fed Chair’s Plan to Cancel America’s Debt](https://www.youtube.com/watch?v=AhB7PKjMGK8) | — | — | [transcript](AhB7PKjMGK8/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [Silver: The Quiet Rule Change That Changes Everything](https://www.youtube.com/watch?v=xziUSXN-cVw) | — | — | [transcript](xziUSXN-cVw/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to STOCKS (& Why the War is the Trigger)](https://www.youtube.com/watch?v=-mXH8a9DEAQ) | — | — | [transcript](-mXH8a9DEAQ/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [This Is What "ALWAYS" Happens Before Gold Explodes](https://www.youtube.com/watch?v=1BFSr7mRb80) | — | — | [transcript](1BFSr7mRb80/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The End of the Petrodollar – Most Aren't Ready](https://www.youtube.com/watch?v=4NuzBZRk4v8) | — | — | [transcript](4NuzBZRk4v8/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The Global Monetary Reset Has Begun (Hint: Act Now!)](https://www.youtube.com/watch?v=M8jEbBFczt4) | — | — | [transcript](M8jEbBFczt4/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [If You Don't Understand Gold, You Don't Understand Money](https://www.youtube.com/watch?v=YE1hxjLFxy0) | — | — | [transcript](YE1hxjLFxy0/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [Devalued Overnight: The Biggest Reset is NOW](https://www.youtube.com/watch?v=yCkxMWIXfEU) | — | — | [transcript](yCkxMWIXfEU/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [JPMorgan’s Shocking Warning](https://www.youtube.com/watch?v=vfTPHtcJKTY) | — | — | [transcript](vfTPHtcJKTY/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [They Crashed Gold on Purpose… Here’s The Real Plan](https://www.youtube.com/watch?v=gUKbQ4iM-G4) | — | — | [transcript](gUKbQ4iM-G4/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The Iran Economic Shock is Coming. How to Protect Yourself](https://www.youtube.com/watch?v=9GYZxosZzfM) | — | — | [transcript](9GYZxosZzfM/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [$200 Oil. The Stock Market is OBLITERATED](https://www.youtube.com/watch?v=t8FJPHWO5fA) | — | — | [transcript](t8FJPHWO5fA/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [Last Big Wealth Opportunity Before You Retire](https://www.youtube.com/watch?v=QB0-q6UVZIA) | — | — | [transcript](QB0-q6UVZIA/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The US Iran War Will Make (Some) Investors Rich l Here’s How](https://www.youtube.com/watch?v=q0BUPCHMeH4) | — | — | [transcript](q0BUPCHMeH4/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The Biggest GOLD Reset Yet AHEAD](https://www.youtube.com/watch?v=X1PUdPn6MCU) | — | — | [transcript](X1PUdPn6MCU/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD & Silver](https://www.youtube.com/watch?v=y8jcQ4565Og) | — | — | [transcript](y8jcQ4565Og/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The Uncomfortable Silver Truth](https://www.youtube.com/watch?v=BkolED63RA0) | — | — | [transcript](BkolED63RA0/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [Why is Gold CRASHING? (During a War?)](https://www.youtube.com/watch?v=4Qr8EO9AlFw) | — | — | [transcript](4Qr8EO9AlFw/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [US Panic: Black Rock’s Debt Bomb Just Exploded](https://www.youtube.com/watch?v=ySLiFHLUdxQ) | — | — | [transcript](ySLiFHLUdxQ/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The FED Just Did the UNTHINKABLE to Gold](https://www.youtube.com/watch?v=bDJ0Ebk0PA0) | — | — | [transcript](bDJ0Ebk0PA0/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [If You Don't Understand the Petrodollar, You Don't Understand Money](https://www.youtube.com/watch?v=bpEFA4LH6MM) | — | — | [transcript](bpEFA4LH6MM/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD & SILVER (& Why Iran is the Trigger)](https://www.youtube.com/watch?v=SiyM_poiwHM) | — | — | [transcript](SiyM_poiwHM/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [This Is a SERIOUS Warning! Most People Have No Idea What's Coming Silver](https://www.youtube.com/watch?v=parGmLXYN0Y) | — | — | [transcript](parGmLXYN0Y/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The Investment Opportunity of a Lifetime Is Here (But Not For Long)](https://www.youtube.com/watch?v=P4YKp0sf_pw) | — | — | [transcript](P4YKp0sf_pw/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [This Metal Is Set To Explode (Not Gold Or Silver)](https://www.youtube.com/watch?v=_opyvjj_BTQ) | — | — | [transcript](_opyvjj_BTQ/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [Iran Oil Crisis: What's About to Happen to Your Gold & Silver](https://www.youtube.com/watch?v=iJ63xafWM1s) | — | — | [transcript](iJ63xafWM1s/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD (& Why Cuba Is Next After Iran)](https://www.youtube.com/watch?v=Yvt7AWPqCRA) | — | — | [transcript](Yvt7AWPqCRA/transcript.md) |
-| — | HealthyGamerGG | [Why Sensitive People Get Traumatized So Easily](https://www.youtube.com/watch?v=_4x0fRO6w5M) | — | — | [transcript](_4x0fRO6w5M/transcript.md) |
-| — | HealthyGamerGG | [Why 40% Of Young Men Need Erectile Retraining](https://www.youtube.com/watch?v=2MwTDoT8q_A) | — | — | [transcript](2MwTDoT8q_A/transcript.md) |
-| — | HealthyGamerGG | [How To ACTUALLY Break An Addiction](https://www.youtube.com/watch?v=H877DXOAlXI) | — | — | [transcript](H877DXOAlXI/transcript.md) |
-| — | HealthyGamerGG | [Why You Always Feel Uneasy (Transcendental Existential Dread)](https://www.youtube.com/watch?v=oCB-sCIKnkU) | — | — | [transcript](oCB-sCIKnkU/transcript.md) |
-| — | HealthyGamerGG | [Why You Need Constant Reassurance](https://www.youtube.com/watch?v=L-gJ_Fo72-k) | — | — | [transcript](L-gJ_Fo72-k/transcript.md) |
-| — | HealthyGamerGG | [Why You Should NEVER Confess Your Love](https://www.youtube.com/watch?v=xHkcIRZa6lo) | — | — | [transcript](xHkcIRZa6lo/transcript.md) |
-| — | HealthyGamerGG | [The Worst Red Flags I’ve Seen As A Therapist](https://www.youtube.com/watch?v=KBkkN12nVqs) | — | — | [transcript](KBkkN12nVqs/transcript.md) |
+| — | HealthyGamerGG | [We Need To Talk About Ozempic](https://www.youtube.com/watch?v=xWz2oqOqPHw) | — | — | [transcript](xWz2oqOqPHw/transcript.md) |
+| — | HealthyGamerGG | [Why Gifted People Burn Out The Fastest](https://www.youtube.com/watch?v=_N6qPEA_dGc) | — | — | [transcript](_N6qPEA_dGc/transcript.md) |
+| — | HealthyGamerGG | [The Lie of "Positive Thinking"](https://www.youtube.com/watch?v=l7BaFufR23E) | — | — | [transcript](l7BaFufR23E/transcript.md) |
+| — | HealthyGamerGG | [Stop Overcorrecting Your Attachment Style (Viewer Interview)](https://www.youtube.com/watch?v=Ads8VOa0qKQ) | — | — | [transcript](Ads8VOa0qKQ/transcript.md) |
+| — | HealthyGamerGG | [Thoughts Your Therapist Has, But Doesn't Tell You](https://www.youtube.com/watch?v=7afNvogg9kQ) | — | — | [transcript](7afNvogg9kQ/transcript.md) |
+| — | HealthyGamerGG | [What Everyone Gets Wrong About ADHD](https://www.youtube.com/watch?v=6kD5RbQCjFg) | — | — | [transcript](6kD5RbQCjFg/transcript.md) |
+| — | HealthyGamerGG | [How To Actually Have An Elite Mindset](https://www.youtube.com/watch?v=Wu7zcamEAI0) | — | — | [transcript](Wu7zcamEAI0/transcript.md) |
+| — | HealthyGamerGG | [How Your Brain Perceives Love When You Have Autism](https://www.youtube.com/watch?v=KlSsI2CKYaQ) | — | — | [transcript](KlSsI2CKYaQ/transcript.md) |
+| — | HealthyGamerGG | [The Cost Of Attention](https://www.youtube.com/watch?v=50FtUPGLyyo) | — | — | [transcript](50FtUPGLyyo/transcript.md) |
+| — | HealthyGamerGG | [Can Men & Women Be Friends?](https://www.youtube.com/watch?v=OafdDpFjOIg) | — | — | [transcript](OafdDpFjOIg/transcript.md) |
+| — | HealthyGamerGG | [Why Modern Dating Feels Like Parenting \| Lovemaxxing w/ Dr.](https://www.youtube.com/watch?v=ZwYrXkPJA1s) | — | — | [transcript](ZwYrXkPJA1s/transcript.md) |
+| — | HealthyGamerGG | [Deep Dive into Relationships and Attachment Styles \| MEMBERS' LIVESTREAM](https://www.youtube.com/watch?v=fpXFXQfFa1c) | — | — | [transcript](fpXFXQfFa1c/transcript.md) |
+| — | HealthyGamerGG | [Why You Freeze Up When You Talk to Women \| Lovemaxxing w/ Dr. K](https://www.youtube.com/watch?v=919XuYNqyjw) | — | — | [transcript](919XuYNqyjw/transcript.md) |
+| — | HealthyGamerGG | [I did EVERYTHING right. I still can't find love. \| Lovemaxxing w/ Dr. K](https://www.youtube.com/watch?v=NEe1tg6iC40) | — | — | [transcript](NEe1tg6iC40/transcript.md) |
+| — | HealthyGamerGG | [Nobody Cares How Stoic You Are (Anima/Animus)](https://www.youtube.com/watch?v=vr-EwLQCOIk) | — | — | [transcript](vr-EwLQCOIk/transcript.md) |
+| — | HealthyGamerGG | [The Most Misdiagnosed Condition In Mental Health (Cognitive Disengagement Syndrome)](https://www.youtube.com/watch?v=3bHdic_l5Hg) | — | — | [transcript](3bHdic_l5Hg/transcript.md) |
+| — | HealthyGamerGG | [Why Smart People Are Bad At Dating](https://www.youtube.com/watch?v=RhelaTtcmEo) | — | — | [transcript](RhelaTtcmEo/transcript.md) |
+| — | HealthyGamerGG | [Why "Validating Feelings" Can Ruin Relationships](https://www.youtube.com/watch?v=zFp4n3h75cM) | — | — | [transcript](zFp4n3h75cM/transcript.md) |
+| — | HealthyGamerGG | [Flirting Kinda Sucks, Actually.](https://www.youtube.com/watch?v=nFY50H8nb5E) | — | — | [transcript](nFY50H8nb5E/transcript.md) |
+| — | HealthyGamerGG | [How Trauma Splits A Soul (Dissociative Identity Disorder)](https://www.youtube.com/watch?v=Mg9Tr3qLXks) | — | — | [transcript](Mg9Tr3qLXks/transcript.md) |
+| — | HealthyGamerGG | [Dr K Diagnoses Your Favorite Characters](https://www.youtube.com/watch?v=N3tMxNJnBJ0) | — | — | [transcript](N3tMxNJnBJ0/transcript.md) |
+| — | HealthyGamerGG | [Why Your Brain Is Strongest After You Nut](https://www.youtube.com/watch?v=hEbd7mYCXBc) | — | — | [transcript](hEbd7mYCXBc/transcript.md) |
+| — | HealthyGamerGG | [Looksmaxxing Is Not About Looks](https://www.youtube.com/watch?v=rjYnQL3PVYA) | — | — | [transcript](rjYnQL3PVYA/transcript.md) |
+| — | HealthyGamerGG | [How To ACTUALLY Stay Mentally Healthy](https://www.youtube.com/watch?v=gOUwoU7WddM) | — | — | [transcript](gOUwoU7WddM/transcript.md) |
+| — | HealthyGamerGG | [Why Your Partner Doesn't Support Your Dreams](https://www.youtube.com/watch?v=3etkt4IvJ1U) | — | — | [transcript](3etkt4IvJ1U/transcript.md) |
+| — | HealthyGamerGG | [DR.K_SECRET_VIDEO_DONT_UPLOAD.mp4](https://www.youtube.com/watch?v=x9bAP46ouEw) | — | — | [transcript](x9bAP46ouEw/transcript.md) |
+| — | HealthyGamerGG | [Your Standards Are Way Higher Than They Should Be](https://www.youtube.com/watch?v=diIc5e2RLKI) | — | — | [transcript](diIc5e2RLKI/transcript.md) |
+| — | HealthyGamerGG | [You're (Probably) Not As Ugly As You Think You Are (Mentalization)](https://www.youtube.com/watch?v=7Lpv2U8GyJk) | — | — | [transcript](7Lpv2U8GyJk/transcript.md) |
+| — | HealthyGamerGG | [Why 'Learning From Failure' Is Ruining Your Life](https://www.youtube.com/watch?v=JFLDKTJUozE) | — | — | [transcript](JFLDKTJUozE/transcript.md) |
+| — | HealthyGamerGG | [AI Therapy is Making You Mentally Weak](https://www.youtube.com/watch?v=VNtv2SSEzjA) | — | — | [transcript](VNtv2SSEzjA/transcript.md) |
+| — | HealthyGamerGG | [How To ACTUALLY Find The Right Person For You](https://www.youtube.com/watch?v=iSfuHwENzXM) | — | — | [transcript](iSfuHwENzXM/transcript.md) |
+| — | HealthyGamerGG | [The Impatient Man: Why You Feel Like A Failure](https://www.youtube.com/watch?v=5pZJy3YeamY) | — | — | [transcript](5pZJy3YeamY/transcript.md) |
+| — | HealthyGamerGG | [We're Updating the HG Membership Pricing](https://www.youtube.com/watch?v=Qsi8mjYZsbE) | — | — | [transcript](Qsi8mjYZsbE/transcript.md) |
+| — | HealthyGamerGG | [The Addiction Women Can't Talk About](https://www.youtube.com/watch?v=mDv-bX7Pegg) | — | — | [transcript](mDv-bX7Pegg/transcript.md) |
+| — | HealthyGamerGG | [Why Giving Up Addiction Feels Impossible](https://www.youtube.com/watch?v=nsUz2Ysg1XU) | — | — | [transcript](nsUz2Ysg1XU/transcript.md) |
+| — | HealthyGamerGG | [We Need To Talk About Gay Conversion Therapy](https://www.youtube.com/watch?v=VhOozqtTN1o) | — | — | [transcript](VhOozqtTN1o/transcript.md) |
+| — | HealthyGamerGG | [The Guide You've Been Waiting For...](https://www.youtube.com/watch?v=05vyXRCdrUg) | — | — | [transcript](05vyXRCdrUg/transcript.md) |
+| — | HealthyGamerGG | [Stop Trading Your Time For Nothing](https://www.youtube.com/watch?v=KmmQzsZw4kQ) | — | — | [transcript](KmmQzsZw4kQ/transcript.md) |
+| — | HealthyGamerGG | [The Hidden Cost Of 'Keeping It Together' (High Functioning Depression)](https://www.youtube.com/watch?v=yaAFG1ooO0Y) | — | — | [transcript](yaAFG1ooO0Y/transcript.md) |
+| — | HealthyGamerGG | [Why You Feel Dead On The Inside](https://www.youtube.com/watch?v=leYIysChPmM) | — | — | [transcript](leYIysChPmM/transcript.md) |
