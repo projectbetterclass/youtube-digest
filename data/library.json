@@ -1,5 +1,16 @@
 {
   "videos": {
+    "-080f7y8fgI": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Burnout, Layoffs, and Breaking Free: Why I Quit Corporate Life",
+      "transcript_available": true,
+      "transcript_path": "data/archive/-080f7y8fgI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=-080f7y8fgI",
+      "verdict": ""
+    },
     "-Mk3UlQ5nh4": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -97,6 +108,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/-zOE636nDpE/transcript.md",
       "url": "https://www.youtube.com/watch?v=-zOE636nDpE",
+      "verdict": ""
+    },
+    "-zOpC2g54Xc": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "2 Side Hustles Nobody is Talking About - Easy Path to a Million",
+      "transcript_available": true,
+      "transcript_path": "data/archive/-zOpC2g54Xc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=-zOpC2g54Xc",
       "verdict": ""
     },
     "05vyXRCdrUg": {
@@ -462,6 +484,17 @@
       "url": "https://www.youtube.com/watch?v=2A-sWPWVrr8",
       "verdict": ""
     },
+    "2AthGkD4J8Y": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Intel vs AMD: Which Stock is a Better Buy Today?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/2AthGkD4J8Y/transcript.md",
+      "url": "https://www.youtube.com/watch?v=2AthGkD4J8Y",
+      "verdict": ""
+    },
     "2IeIpahp5X4": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -594,6 +627,28 @@
       "url": "https://www.youtube.com/shorts/35SFBIaoyjw",
       "verdict": "skim"
     },
+    "3IA98jCUMbc": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Top Small Cap ETF That You Won't Want to Miss!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/3IA98jCUMbc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=3IA98jCUMbc",
+      "verdict": ""
+    },
+    "3Rc4MlMJMNU": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I didn't like OpenClaw so I built a better version",
+      "transcript_available": true,
+      "transcript_path": "data/archive/3Rc4MlMJMNU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=3Rc4MlMJMNU",
+      "verdict": ""
+    },
     "3RiFJs1aUTo": {
       "channel": "BWB - Business With Brian",
       "had_materials": false,
@@ -714,6 +769,17 @@
       "transcript_path": "data/archive/3ofbvoV94Us/transcript.md",
       "url": "https://www.youtube.com/watch?v=3ofbvoV94Us",
       "verdict": "watch"
+    },
+    "3p2tKFb9S_8": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Invest or Pay Off The Mortgage?  I Was Shocked!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/3p2tKFb9S_8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=3p2tKFb9S_8",
+      "verdict": ""
     },
     "3s74f-yA0J4": {
       "channel": "Chris Williamson",
@@ -1331,6 +1397,17 @@
       "url": "https://www.youtube.com/watch?v=84UtxgH7w2o",
       "verdict": ""
     },
+    "8R6fYMJLI5E": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I built an AI agent I actually use every day (code available)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/8R6fYMJLI5E/transcript.md",
+      "url": "https://www.youtube.com/watch?v=8R6fYMJLI5E",
+      "verdict": ""
+    },
     "8ScZQi6Xikw": {
       "channel": "BWB - Business With Brian",
       "had_materials": false,
@@ -1395,6 +1472,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/919XuYNqyjw/transcript.md",
       "url": "https://www.youtube.com/watch?v=919XuYNqyjw",
+      "verdict": ""
+    },
+    "94-6eA0LK6k": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "My AI app has an accuracy problem (and how I fixed it)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/94-6eA0LK6k/transcript.md",
+      "url": "https://www.youtube.com/watch?v=94-6eA0LK6k",
       "verdict": ""
     },
     "9AMEvywHyV8": {
@@ -1474,6 +1562,17 @@
       "url": "https://www.youtube.com/watch?v=9UMGCbCyz6c",
       "verdict": ""
     },
+    "9WK96GxpGxk": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Top Nuclear ETF - Growth From AI Making Millions",
+      "transcript_available": true,
+      "transcript_path": "data/archive/9WK96GxpGxk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=9WK96GxpGxk",
+      "verdict": ""
+    },
     "9XVXD7Ar8Z4": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -1527,6 +1626,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/9vMxyAL1dB0/transcript.md",
       "url": "https://www.youtube.com/watch?v=9vMxyAL1dB0",
+      "verdict": ""
+    },
+    "9vPyxCucxqI": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How I Build Apps So Fast (UPDATED AI coding workflow)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/9vPyxCucxqI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=9vPyxCucxqI",
       "verdict": ""
     },
     "9xpEYFWUIyM": {
@@ -1870,6 +1980,17 @@
       "url": "https://www.youtube.com/watch?v=CRskL4BOtqA",
       "verdict": ""
     },
+    "CSLw84bwKv8": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "My Top 4 AI Stock I'm Buying Now on the August Dip!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/CSLw84bwKv8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=CSLw84bwKv8",
+      "verdict": ""
+    },
     "CUB3BasbrJA": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -1989,6 +2110,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/DALSsGX8nBE/transcript.md",
       "url": "https://www.youtube.com/watch?v=DALSsGX8nBE",
+      "verdict": ""
+    },
+    "DDBZ1OO8KHk": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Double Your Money in 5 Years with These Dividend Stock!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/DDBZ1OO8KHk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=DDBZ1OO8KHk",
       "verdict": ""
     },
     "DLHwjYD-MNs": {
@@ -2145,6 +2277,17 @@
       "url": "https://www.youtube.com/shorts/EZ-mpb6b-i8",
       "verdict": "skim"
     },
+    "EjH1vCkLj3s": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Analysts Agree These 5 Stocks Will Make Millionaires in 2024",
+      "transcript_available": true,
+      "transcript_path": "data/archive/EjH1vCkLj3s/transcript.md",
+      "url": "https://www.youtube.com/watch?v=EjH1vCkLj3s",
+      "verdict": ""
+    },
     "EoNH3Tn8wYE": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -2154,6 +2297,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/EoNH3Tn8wYE/transcript.md",
       "url": "https://www.youtube.com/watch?v=EoNH3Tn8wYE",
+      "verdict": ""
+    },
+    "Et45hFGwSqQ": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How I'm Rebuilding My App for the AI Era",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Et45hFGwSqQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Et45hFGwSqQ",
       "verdict": ""
     },
     "EzQAgnjTq2k": {
@@ -2783,6 +2937,17 @@
       "url": "https://www.youtube.com/watch?v=JZzuZznpgfc",
       "verdict": ""
     },
+    "JalOWrtpYAE": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Fable 5 Is Back: Why I’m Actually Paying API Prices For It",
+      "transcript_available": true,
+      "transcript_path": "data/archive/JalOWrtpYAE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=JalOWrtpYAE",
+      "verdict": ""
+    },
     "Jq55_yR_wJ4": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -2836,6 +3001,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/JzXuCs4u2co/transcript.md",
       "url": "https://www.youtube.com/watch?v=JzXuCs4u2co",
+      "verdict": ""
+    },
+    "KBO6TOHNi5w": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "YieldMax ETF Exposed - Wealth Secret or High Risk?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/KBO6TOHNi5w/transcript.md",
+      "url": "https://www.youtube.com/watch?v=KBO6TOHNi5w",
       "verdict": ""
     },
     "KBkkN12nVqs": {
@@ -3289,6 +3465,17 @@
       "url": "https://www.youtube.com/watch?v=MW6FMgOzklw",
       "verdict": ""
     },
+    "MXLF8b15GhQ": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How I Make Apps FEEL Premium (5 examples)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/MXLF8b15GhQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=MXLF8b15GhQ",
+      "verdict": ""
+    },
     "MaWa7pVDgd0": {
       "channel": "BWB - Business With Brian",
       "had_materials": false,
@@ -3485,6 +3672,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/NlPHuk1Rjo8/transcript.md",
       "url": "https://www.youtube.com/watch?v=NlPHuk1Rjo8",
+      "verdict": ""
+    },
+    "No2l4YGQ3so": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Last Chance at 5%: Best Places to Park Your Cash",
+      "transcript_available": true,
+      "transcript_path": "data/archive/No2l4YGQ3so/transcript.md",
+      "url": "https://www.youtube.com/watch?v=No2l4YGQ3so",
       "verdict": ""
     },
     "NtgKqFwOgq0": {
@@ -3793,6 +3991,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/PHlERmgzSHM/transcript.md",
       "url": "https://www.youtube.com/watch?v=PHlERmgzSHM",
+      "verdict": ""
+    },
+    "PQa34nXm5EI": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Top 4 AI Stock I'm Buying Right Now!  On The Dip!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/PQa34nXm5EI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=PQa34nXm5EI",
       "verdict": ""
     },
     "PURtGKUA0ms": {
@@ -4510,6 +4719,17 @@
       "url": "https://www.youtube.com/shorts/UHqZQ7MavrY",
       "verdict": "skim"
     },
+    "UbApPF1zC9g": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Secret Dividend ETFs Nobody is Talking About!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/UbApPF1zC9g/transcript.md",
+      "url": "https://www.youtube.com/watch?v=UbApPF1zC9g",
+      "verdict": ""
+    },
     "Uh0VLF4p7ow": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -4763,6 +4983,17 @@
       "url": "https://www.youtube.com/watch?v=WhY5EF1_LjQ",
       "verdict": ""
     },
+    "WjovgdJC_tw": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "SHOCKING - Are U Still Middle Class by Net Worth, Income, & 401K?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/WjovgdJC_tw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=WjovgdJC_tw",
+      "verdict": ""
+    },
     "Wnmu73z55E8": {
       "channel": "Alex Hormozi",
       "had_materials": false,
@@ -4827,6 +5058,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/X1PUdPn6MCU/transcript.md",
       "url": "https://www.youtube.com/watch?v=X1PUdPn6MCU",
+      "verdict": ""
+    },
+    "X9aZHdeJpuk": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "This is My Plan During the Drop!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/X9aZHdeJpuk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=X9aZHdeJpuk",
       "verdict": ""
     },
     "XDDAUfVqP1g": {
@@ -4915,6 +5157,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/Xob-2a1OnvA/transcript.md",
       "url": "https://www.youtube.com/watch?v=Xob-2a1OnvA",
+      "verdict": ""
+    },
+    "Xp_iFCOqlAA": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "6 Stock Congress is Buying NOW!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Xp_iFCOqlAA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Xp_iFCOqlAA",
       "verdict": ""
     },
     "XtWyi916JHM": {
@@ -5170,6 +5423,17 @@
       "url": "https://www.youtube.com/watch?v=ZZ2nWg1QhR4",
       "verdict": ""
     },
+    "Zf6B0PD-LDQ": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "AI & Tech Driven -Top 8 Nuclear Stock to Make Us Millions!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Zf6B0PD-LDQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Zf6B0PD-LDQ",
+      "verdict": ""
+    },
     "ZpZvAalAYI0": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -5179,6 +5443,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/ZpZvAalAYI0/transcript.md",
       "url": "https://www.youtube.com/watch?v=ZpZvAalAYI0",
+      "verdict": ""
+    },
+    "ZpmKjDDbqHs": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I Built An iMessage AI Agent You Can Copy (Open Source)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ZpmKjDDbqHs/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ZpmKjDDbqHs",
       "verdict": ""
     },
     "ZvKBZa8iFhs": {
@@ -5388,6 +5663,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/awEyDWhEdhg/transcript.md",
       "url": "https://www.youtube.com/watch?v=awEyDWhEdhg",
+      "verdict": ""
+    },
+    "awyUvDJJoFM": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I went to Microsoft Build (as an iOS developer)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/awyUvDJJoFM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=awyUvDJJoFM",
       "verdict": ""
     },
     "b1mjQIiH7r4": {
@@ -5718,6 +6004,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/dYb6DGBhBBk/transcript.md",
       "url": "https://www.youtube.com/watch?v=dYb6DGBhBBk",
+      "verdict": ""
+    },
+    "dbbT-x_ttRc": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "The ONLY Quantum Stock I'm Buying!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/dbbT-x_ttRc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=dbbT-x_ttRc",
       "verdict": ""
     },
     "dcXl5rspqMs": {
@@ -6116,6 +6413,17 @@
       "url": "https://www.youtube.com/shorts/gPEjmOFnNe4",
       "verdict": "skim"
     },
+    "gU4OdKqNvN4": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I'm Buying These Stocks to 10X in 10 Years!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/gU4OdKqNvN4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=gU4OdKqNvN4",
+      "verdict": ""
+    },
     "gUKbQ4iM-G4": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -6235,6 +6543,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/hQRjSn7_BKY/transcript.md",
       "url": "https://www.youtube.com/watch?v=hQRjSn7_BKY",
+      "verdict": ""
+    },
+    "hcalZ_sRtRY": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Options Trading for Beginners:  Total Guide with Examples!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/hcalZ_sRtRY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=hcalZ_sRtRY",
       "verdict": ""
     },
     "hfzdMnuuGSg": {
@@ -6675,6 +6994,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/lJKmwM2cNro/transcript.md",
       "url": "https://www.youtube.com/watch?v=lJKmwM2cNro",
+      "verdict": ""
+    },
+    "lSjzGHPpzic": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Lets talk about Codex (why i switched)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/lSjzGHPpzic/transcript.md",
+      "url": "https://www.youtube.com/watch?v=lSjzGHPpzic",
       "verdict": ""
     },
     "lXlhXL9mMcQ": {
@@ -7139,6 +7469,17 @@
       "url": "https://www.youtube.com/watch?v=oLu32YpiIJw",
       "verdict": ""
     },
+    "oNRrjbKiF04": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I Built An App (But Users KEEP dropping off)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/oNRrjbKiF04/transcript.md",
+      "url": "https://www.youtube.com/watch?v=oNRrjbKiF04",
+      "verdict": ""
+    },
     "oVjNM18jtgQ": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -7181,6 +7522,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/og7R9C_N3Zg/transcript.md",
       "url": "https://www.youtube.com/watch?v=og7R9C_N3Zg",
+      "verdict": ""
+    },
+    "ol8z78EJjmQ": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Is A 21% Dividend Better Than SCHD or JEPI?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ol8z78EJjmQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ol8z78EJjmQ",
       "verdict": ""
     },
     "osSWqOI0yp4": {
@@ -7292,6 +7644,17 @@
       "transcript_path": "data/archive/q0BUPCHMeH4/transcript.md",
       "url": "https://www.youtube.com/watch?v=q0BUPCHMeH4",
       "verdict": ""
+    },
+    "q2cg1gEYWJQ": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": false,
+      "published": "2026-09-10T07:00:33+00:00",
+      "takeaway": "\nConversation is a learnable skill that builds careers, relationships, and well-being—apply a three-level framework (facts-to-stories, personal concerns, self-narrative), nail the mechanics (timing, body language, vocal tone), and recognize personality archetypes to connect authentically and break free from social autopilot.\n",
+      "title": "Vanessa Van Edwards: The Conversation Habit That Makes Smart People Unlikeable",
+      "transcript_available": true,
+      "transcript_path": "data/archive/q2cg1gEYWJQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=q2cg1gEYWJQ",
+      "verdict": "watch"
     },
     "q3-6JnmwnfA": {
       "channel": "Alex Hormozi",
@@ -7414,6 +7777,17 @@
       "url": "https://www.youtube.com/watch?v=qQluNEfSVHk",
       "verdict": ""
     },
+    "qR_d5rn18oA": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "published": "2026-09-10T02:09:03+00:00",
+      "takeaway": "The video distinguishes between factor 1 psychopaths (innate) and factor 2 psychopaths (developed through abusive environments), with the interviewee arguing that factor 2 individuals are \"made\" by trauma and domestic violence that teaches them violence and control.",
+      "title": "How Are Psychopaths Created?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/qR_d5rn18oA/transcript.md",
+      "url": "https://www.youtube.com/shorts/qR_d5rn18oA",
+      "verdict": "skim"
+    },
     "qY8XOJrCMfg": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -7491,6 +7865,17 @@
       "url": "https://www.youtube.com/shorts/r0fa_y5BFYw",
       "verdict": "skip"
     },
+    "rDdh9MDQYkI": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Top AI Stock 2025 - Millionaire Makers",
+      "transcript_available": true,
+      "transcript_path": "data/archive/rDdh9MDQYkI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=rDdh9MDQYkI",
+      "verdict": ""
+    },
     "rO3dIBMXD2g": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -7511,6 +7896,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/rQgaQ1p4tKU/transcript.md",
       "url": "https://www.youtube.com/watch?v=rQgaQ1p4tKU",
+      "verdict": ""
+    },
+    "rV8N_0bfAzI": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Optimal Portfolio by Age - Vanguard Funds",
+      "transcript_available": true,
+      "transcript_path": "data/archive/rV8N_0bfAzI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=rV8N_0bfAzI",
       "verdict": ""
     },
     "rWXXooBZXIY": {
@@ -7645,6 +8041,17 @@
       "url": "https://www.youtube.com/watch?v=sp35as2kPWw",
       "verdict": "skim"
     },
+    "spQwE307TA0": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Hot AI Companies I'm Buying on the Dip - And It's Not Nvidia",
+      "transcript_available": true,
+      "transcript_path": "data/archive/spQwE307TA0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=spQwE307TA0",
+      "verdict": ""
+    },
     "sqxz4IDrKi0": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -7754,6 +8161,17 @@
       "transcript_path": "data/archive/tJIDnwdTCZA/transcript.md",
       "url": "https://www.youtube.com/shorts/tJIDnwdTCZA",
       "verdict": "skip"
+    },
+    "tK4NQtzfZbM": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Vibe Coding Has A Security Problem (And How To Fix It)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/tK4NQtzfZbM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=tK4NQtzfZbM",
+      "verdict": ""
     },
     "tUeSxXHmE9w": {
       "channel": "Greg Isenberg",
@@ -7941,6 +8359,17 @@
       "transcript_path": "data/archive/v8Ka8XAeQ_I/transcript.md",
       "url": "https://www.youtube.com/watch?v=v8Ka8XAeQ_I",
       "verdict": ""
+    },
+    "vETAteck9b0": {
+      "channel": "Alex Hormozi",
+      "had_materials": false,
+      "published": "2026-09-10T01:27:41+00:00",
+      "takeaway": "Reframe requests from \"Can you do X?\" to \"What would it take to do X?\" to bypass automatic rejection and force the other party to name the actual constraints or trade-offs, letting you make an informed decision rather than accepting their no.",
+      "title": "How To Never Hear “No”",
+      "transcript_available": true,
+      "transcript_path": "data/archive/vETAteck9b0/transcript.md",
+      "url": "https://www.youtube.com/shorts/vETAteck9b0",
+      "verdict": "skim"
     },
     "vJEy3nP2_C8": {
       "channel": "Greg Isenberg",
@@ -8184,6 +8613,17 @@
       "url": "https://www.youtube.com/watch?v=wSWGb96vIBU",
       "verdict": ""
     },
+    "wgpllwQb43M": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "3 Side Hustles Nobody's Talking About - Millionaire Makers!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/wgpllwQb43M/transcript.md",
+      "url": "https://www.youtube.com/watch?v=wgpllwQb43M",
+      "verdict": ""
+    },
     "wipmKevNjAk": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -8283,6 +8723,17 @@
       "url": "https://www.youtube.com/watch?v=xIxkxUnT72M",
       "verdict": ""
     },
+    "xU8Cg0YTK0w": {
+      "channel": "BWB - Business With Brian",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "Top AI ETF for 2025 : Millionaire Makers!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/xU8Cg0YTK0w/transcript.md",
+      "url": "https://www.youtube.com/watch?v=xU8Cg0YTK0w",
+      "verdict": ""
+    },
     "xUnI0E33t6s": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -8325,6 +8776,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/xhG3E1RaX6c/transcript.md",
       "url": "https://www.youtube.com/watch?v=xhG3E1RaX6c",
+      "verdict": ""
+    },
+    "xlOyK8Pt3WQ": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "I asked SF founders: should I keep bootstrapping?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/xlOyK8Pt3WQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=xlOyK8Pt3WQ",
       "verdict": ""
     },
     "xtU9EIOd9i0": {
@@ -8490,6 +8952,17 @@
       "transcript_available": true,
       "transcript_path": "data/archive/yaAFG1ooO0Y/transcript.md",
       "url": "https://www.youtube.com/watch?v=yaAFG1ooO0Y",
+      "verdict": ""
+    },
+    "yj33J3f2Zgk": {
+      "channel": "Chris Raroque",
+      "had_materials": false,
+      "published": null,
+      "takeaway": "",
+      "title": "How My App Is Doing (4 Month Update)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/yj33J3f2Zgk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=yj33J3f2Zgk",
       "verdict": ""
     },
     "ymJm0MRecV8": {
