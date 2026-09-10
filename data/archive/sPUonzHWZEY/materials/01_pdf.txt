@@ -1,0 +1,96 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/IntRates2026.pdf
+
+Higher rates, lower value?
+2
+§In the last few weeks, interest rate worries have come up to the surface 
+again, for three reasons, all related. 
+§The first is the rise in long-term US treasury rates, especially the long-term 
+treasuries to levels not seen in twenty years. 
+§The second is US debt exceeding $40 trillion for the first time, bringing 
+attention to a long-standing worry that this debt burden may be too high. 
+§The third is a that the Federal Reser ve has a new chair in Kevin Warsh, and for 
+the many Fed Watchers out there, who are uncertain about where he plans to lead 
+the Fed, the FOMC meeting coming up in mid-September looms larger than ever.
+§I hope to step back from the day-to-day coverage of US treasury yields and 
+look at not only how they have performed in 2026, and put that 
+performance in longer term perspective, but also examine movements 
+in long terms yields in government bonds in other currencies. 
+§I also intend to revisit a discussion that I initiated in 2022, when interest 
+rates were the central act in markets, about the relationship between 
+interest rates and stock prices, and why higher rates do not always 
+translate into lower stock prices, and why that effect varies across sectors 
+and companies.
+3
+§Governments borrow money and often do so by issuing 
+bonds in financial markets. 
+§The rates on these bonds reflect the concerns that lenders 
+have about the purchasing power of the currencies that they 
+are issued in, and government bond rates, for better or worse, 
+become indicators that drive day-to-day market movements in 
+almost all asset classes. 
+§I will begin with an examination of US treasury rates before 
+expanding the discussion to government bond rates in other 
+currencies.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+§Changes in government bond rates clearly play out in the 
+pricing of government bonds, and returns you will earn on 
+them, but the ripple effects play out across the rest of the 
+market (financial and real). 
+§I will start with the corporate bond market, where the interest 
+rate effect is dominant, before looking at equities, where 
+interest rate effects are more nuanced and at real assets, where 
+the effects can be indirect.
+13
+14
+15
+16
+§With revenues, the key determinants of how higher interest 
+rates play out in value will depend first on why interest rates 
+rose in the first place (higher inflation or higher real rates), and 
+if it is higher inflation, how much pricing power a business 
+has to pass through that inflation to its customers.
+§With earnings, the question is how higher interest rates play 
+out in profit margins, through their effects on costs of goods 
+sold (gross), other operating expenses (operating) and interest 
+expenses (net).
+§When interest rates rise, and that rise is due more to real 
+rates rising rather than inflation going up, businesses can 
+scale back reinvestment, since fewer investments will 
+generate the returns needed to pass muster. This reduction in 
+reinvestment can increase near-term cashflows, at the expense 
+of future growth.
+17
+18
+19
+20
+21
+22
+23
+24
+§As we get closer to the FOMC meeting date, it is likely that there 
+will more talk about interest rates, and what the Fed can or 
+cannot do.  Much of that debate is pointless, since the pathway of 
+rates is and will continue to be set by fundamentals. 
+§In fact, the ten-year US treasury rate has been stuck in a fairly 
+tight range, between 4% and 5%, since 2022, and that is largely 
+because expected inflation has settled in at about 2.5%.  For rates 
+to change significantly, up or down, there has to be a break in 
+inflation expectations, to the up or downside, and there is little that 
+Kevin Warsh or Scott Bessent can do to alter that trajectory. 
+§As to how equity markets and businesses are dealing with higher 
+rates, the pain from moving from a low-rate to a high-rate world 
+was most acutely felt in 2022, and both have adapted quickly to 
+the new environment, with businesses finding ways to deliver 
+higher earnings in the face of higher rates, and markets 
+pricing in these earnings to deliver solid returns. There are 
+multiple links in that chain, and each one will be tested, with the 
+third quarter earnings reports coming up in the next few weeks 
+being the first test.
