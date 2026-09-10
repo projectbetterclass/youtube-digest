@@ -1,0 +1,200 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/TeslaJan2023.pdf
+
+TESLA,AREVISIT!A RETURN TO 
+EARTH OR A GREAT UNRAVELING
+Down, but not out?
+Aswath Damodaran 1
+2
+Back to Tesla!
+¨There are a few companies that I value, and revalue, over and over 
+on this platform, and there are many reasons why. 
+¤One reason is that I find them to be interesting, and interesting companies 
+are much more fun to value than boring ones. 
+¤Another is that in the course of valuing these companies, there are insights 
+to be gained into business and valuation, in general. 
+¨I have been wrong, and sometimes hopelessly so, in some of my 
+earlier valuations of Tesla, but that does not stop me from trying 
+anew.  It is also true that Tesla is a company that attracts strong 
+and very divergent views, and as a consequence
+¤I get more pushback on valuations of Tesla than on any other company, but 
+as in last few attempts with this company, I have structured my valuation 
+to allow you to incorporate your disagreement. 
+¤My last valuation of T esla was in November 2021, towards its market peak, 
+and given its steep fall from grace, in conjunction with Elon Musk's Twitter 
+experiment, it is time for a revisit.
+¨Aswath Damodaran
+¨2
+3
+Tesla: The Auto BusinessDisruptor!
+Aswath Damodaran
+3
+4
+Tesla: Net Income and EPS
+Aswath Damodaran
+4
+5
+My Tesla Valuation Mistakes!
+¨ Myfirst valuation of Tesla was in 2013, and I found the company significantly 
+overvalued then, and in hindsight, there were three errors that I made in that 
+valuation that I systematically found myself repeating in my early valuations.
+¤ Growth potential: I under estimated the company's capacity to grow, by limiting its product 
+reach. In my 2013 valuation, I estimated the potential revenues by assuming that Tesla was 
+more luxury than mass-market automobile, giving it revenues of $64 billion in steady state. In 
+fact, in my most recent valuations, I have assumed that Tesla will not only become a mass-
+market automobile company over time, but that it will have a dominant market share of the 
+electric car portion of that business.
+¤ Product characteristics: In my early valuations, I viewed Tesla cars as automobiles first and 
+foremost, leading me towards operating margins more suited for a manufacturing company, 
+i.e., single digit values or, at best, just barely double digits. While the experiment is ongoing, it 
+is clear to me that an electric car is both an automobile and an electronic product, with 
+software becoming an integral part. 
+¤ Reinvestment needs: The automobile business has always been capital intensive, with 
+companies needing to invest large amounts in new factories to be able to deliver on growth. 
+Having watched T esla reinvest and grow over the last few years, it is clear to me that the 
+company's been able to generate its growth with far less money invested in plant and more in 
+technology and R&D than a typical auto company. 
+¨Aswath Damodaran
+¨5
+6
+And history…
+¨It was this combination of changes thatled me to find Tesla to be under 
+valued in June 2019, in the aftermath of Musk's "funding secured" fiasco 
+and stories of cars being built in tents since the company was running out 
+of capacity in its plants. I did buy the stock at the time of that post, and 
+luck was my ally since I caught it at its bottom ($180 per share in 2019 or 
+$12 per share in today terms), though I didsell the shares in January 
+2020, after the price more than quadrupled.
+¨I clearly timed my sale wrong, because right after my sale, COVID hit and 
+the company used its adaptability to take advantage of tumultuous times. 
+¤The company's stock price soared (reaching $1200/share in 2021 terms and $410 in 
+today's terms) in November 2021, and when its market cap breached a trillion, 
+Irevisited my Tesla valuation then, using a do-it-yourself (DIY) structure to allow 
+readers to disagree. 
+¤Pushing every one of my assumptions to its best-case limits, the best I could do was 
+arrive at a value ($571) roughly half of what it was trading at then ($1200+), about 
+$190/share in current pricing terms. 
+¨Aswath Damodaran
+¨6
+‹#›Aswath Damodaran7
+8
+TeslaUpdates:TheCompany
+¨At the company level, even as earnings reports delivered progress 
+towards scaling up and becoming more profitable, there have been 
+questions about whether the pathway is becoming more rocky. 
+¤First Quarter 2022: Tesla beat analyst estimates for both revenue growth 
+and profit margins, but acknowledged COVID-related production problems 
+in its Shanghai plant. 
+¤Second Quarter of 2022: Tesla reported a slowing of revenue growth to 
+25% (from the heated pace of 2021) and a decline in margins that it 
+attributed to inflation and competition for EV components. 
+¤Third Quarterof2022:Thereportincluded news that revenues would 
+come in below analyst estimates, both in dollar value and number of cars. 
+¤Fourth Quarter of 2022: The earnings report,delivered yesterday(January 
+25) confirmed earlier reports of slow growthand a decrease in profitability 
+(gross and operating), due to supply chain problems. In addition, the 
+company is anticipating that its pricing cuts will put pressure on future 
+margins. 
+¨Aswath Damodaran
+¨8
+9
+Tesla Update: The Founder/CEO
+Aswath Damodaran
+9
+10
+Tesla Update: The Market
+¨The US equity market in January 2023 looks very different 
+from the market at the start of 2022. 
+¤As I notedin my last post, rising risk free rates and equity risk 
+premiums have pushed up the costs of equity for all companies, and 
+Tesla is not only no exception but is perhaps even more exposed as an 
+above-average risk company. 
+¤In short, the cost of capital of 6% that I used in November 2021, higher 
+than the median cost of capital of 5.6% for US companies then, no 
+longer is defensible, as the median cost of capital has climbed toward 
+9.6%.
+¨Ingeneral,the risk capital that flowed so easily to the riskiest 
+investments in each asset class (young and money-losing 
+companies, high yield bonds) has moved to the sidelines, and 
+since Tesla was one its leadingbeneficiaries, there are 
+consequences.
+¨Aswath Damodaran
+¨10
+11
+Tesla Valuation: Updated Inputs
+¨ End Revenues: I broughtmy end revenues for Tesla back to $400 billion, still a 
+reflection of my view that electric cars will become the dominant part of the auto 
+market, and that T esla will have a significant market share. Note that this will still 
+give Tesla more revenues than the largest automobile companies in the world, 
+and will require that they make a transition, at least on core models, to a mass 
+market product (with prices to match).
+¨ OperatingMargin:In my November 2021 valuation, Ihadchosenatarget
+operatingmarginof16%,higherthanthethen-prevailing margin of 12.06%. In 
+2022, Tesla delivered an operatingmarginof16.76%beforecorrecting forR&D,
+and18.41% after .
+¨ Cost of capital: The cost of capital for Tesla has jumped to 10.15%, reflecting a 
+world of higher interest rates and risk premiums. 
+¨Aswath Damodaran
+¨11
+‹#›Aswath Damodaran12
+‹#›Aswath Damodaran13
+14
+A Tesla Action Plan
+¨Upside vs Downside: My median value is slightly lower than my 
+base case value, mostly because there are more potential upside 
+values than downside value. That skew to the upside is now far less 
+pronounced than it was earlier in Tesla’s life, reflecting a reduction 
+in its optionality. If you are looking for a ten-bagger, Tesla is not 
+likely to make thatlist.
+¨Valuation Judgment: The median value, at $120, confirms that the 
+stock is overvalued, at least based on my estimates at $143. 
+¨Stock in play? Unlike in November 2021 or at other points in Tesla's 
+life, the stock is very much in play, and anyone who bought the 
+stock on December 27, 2022, when the price hit $109, would have 
+got a reasonable bargain.  In the aftermath of Tesla's earnings 
+report, and the stock is up in the after market, perhaps in reaction 
+to the fact that the company beat its earnings per share forecast, 
+the least meaningful part of any earnings report.
+¨Aswath Damodaran
+¨14
+15
+Investing Lesson 1: Personality-driven 
+companies
+¨Some of the highest profile corporations in the last decade have 
+tied their business stories to their founders, making it difficult to 
+separate one from the other . In many cases, this has helped, not 
+hurt, these companies, as Jack Ma drew investors and customers to 
+Alibaba with his enthusiasm and energy, and no one sold Tesla to 
+customers and investors better than Elon Musk. 
+¨In both cases, though, we are discovering that there is a downside 
+to personality-driven companies, since as human beings, these 
+personalities come with good and bad qualities. 
+¤There is no doubt in my mind that Elon Musk has enough vision to power a 
+dozen companies, but he is also easily distracted, entirely unpredictable 
+and sometimes eccentric.
+¤That is the package that drew people to the company a dozen years ago, 
+when the company was started, that engineered its ascent to trillion-dollar 
+market cap status, just a couple of years ago, and is now, at least in the 
+eyes of some, weighing down the company.
+¨Aswath Damodaran
+¨15
+16
+Investing Lesson 2: The Laws of Business 
+catch up..
+17
+Investing Lesson 3: Everything has become 
+political!
+¨In the case of Tesla, the politics of the moment are undeniably an 
+issue, and I would argue that where your political views will have 
+more of an effect on whether you think Tesla is under or over 
+valued than any of its operating numbers. 
+¨I fall in the muddled middle when it comes to Musk. I believe that 
+he is a visionary, not so much because Tesla is at the cutting edge 
+of technology, but because he has changed the automobile 
+business and our driving choices fundamentally. There are qualities 
+that I admire in him, and qualities that I do not, but I think that as a 
+society, we are better off with him than without him. 
+¨That said, I would like to think that my decisions on whether to buy 
+or sell Tesla will be unaffected by my personal views on Musk, but 
+that may be just my delusion speaking.
+¨Aswath Damodaran
+¨17

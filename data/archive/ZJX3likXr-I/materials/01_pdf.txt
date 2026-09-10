@@ -1,0 +1,404 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr23/session12slides.pdf
+
+215
+Measuring Returns Right: The Basic Principles
+Aswath Damodaran
+215
+¨Use cash flows rather than earnings. You cannot spend 
+earnings.
+¨Use “incremental”cash flows relating to the investment 
+decision, i.e., cashflows that occur as a consequence of
+the decision, rather than total cash flows.
+¨Use “time weighted”returns, i.e., value cash flows that 
+occur earlier more than cash flows that occur later .
+The Return Mantra: “Time-weighted, Incremental Cash 
+Flow Return”
+216
+Setting the table: What is an 
+investment/project?
+Aswath Damodaran
+216
+¨An investment/project can range the spectrum from big to 
+small, money making to cost saving:
+¤Major strategic decisions to enter new areas of business or new 
+markets.
+¤Acquisitions of other firms are projects as well, notwithstanding 
+attempts to create separate sets of rules for them.
+¤Decisions on new ventures within existing businesses or markets.
+¤Decisions that may change the way existing ventures and projects are 
+run.
+¤Decisions on how best to deliver a service that is necessary for the 
+business to run smoothly.
+¨Put in broader terms, every choice made by a firm can be 
+framed as an investment.
+217
+Here are five examples…
+Aswath Damodaran
+217
+¨At Disney,
+¤Rio Disney: Consider whether Disney should invest in its first theme parks in South 
+America. These parks will require us to consider the effects of country risk and currency 
+issues in project analysis.
+¤A New Show for Disney +: An exercise where estimating the benefits is difficult to do, 
+since it is in the form of keeping existing subscribers or adding new ones
+¨New iron ore mine for Vale: This is an iron ore mine that Vale is 
+considering in Western Labrador, Canada. 
+¨An Online Store for Bookscape: Bookscapeis evaluating whether it should 
+create an online store to sell books. While it is an extension of their basis 
+business, it will require different investments (and potentially expose 
+them to different types of risk).
+¨Acquisition of Harman by Tata Motors: A cross-border bid by Tata for 
+Harman International, a publicly traded US firm that manufactures high-
+end audio equipment, with the intent of upgrading the audio upgrades on 
+Tata Motors’ automobiles. This investment will allow us to examine 
+currency and risk issues in such a transaction.
+218
+Earnings versus Cash Flows: A Disney Theme 
+Park
+Aswath Damodaran
+218
+¨The theme parks to be built near Rio, modeled on 
+Euro Disney in Paris and Disney World in Orlando.
+¨The complex will include 
+¤A “Magic Kingdom”to be constructed, beginning 
+immediately, and becoming operational at the beginning of 
+the second year
+¤A second theme park modeled on Epcot Center at Orlando 
+to be constructed in the second and third year and 
+becoming operational at the beginning of the fourth year .
+¨The earnings and cash flows are estimated in 
+nominal U.S. Dollars.
+219
+Key Assumptions on Start Up and Construction
+Aswath Damodaran
+219
+¨Disney has already spent $0.5 Billion researching the proposal and 
+getting the necessary licenses for the park; none of this investment 
+can be recovered if the park is not built. This expenditure has been 
+capitalized and will be depreciated straight line over ten years to a 
+salvage value of zero.
+¨Disney will face substantial construction costs, if it chooses to build 
+the theme parks.
+¤The cost of constructing Magic Kingdom will be $3 billion, with $ 2 billion 
+to be spent right now, and $1 Billion to be spent one year from now. 
+¤The cost of constructing Epcot II will be $ 1.5 billion, with $ 1 billion to be 
+spent at the end of the second year and $0.5 billion at the end of the third 
+year.
+¤These investments will be depreciated based upon a depreciation 
+schedule in the tax code, where depreciation will be different each year .
+220
+Key Revenue Assumptions
+Aswath Damodaran
+220
+¨Revenue estimates for the parks and resort properties (in millions)
+Year Magic KingdomEpcot IIResort Properties Total
+1 $0 $0 $0 $0
+2 $1,000 $0 $250 $1,250
+3 $1,400 $0 $350 $1.750
+4 $1,700 $300 $500 $2.500
+5 $2,000 $500 $625 $3.125
+6 $2,200 $550 $688 $3,438
+7 $2,420 $605 $756 $3,781
+8 $2,662 $666 $832 $4,159
+9 $2,928 $732 $915 $4,575
+10 $2,987 $747 $933 $4,667
+221
+Key Expense Assumptions
+Aswath Damodaran
+221
+¨The operating expenses are assumed to be 60% of 
+the revenues at the parks, and 75% of revenues at 
+the resort properties.
+¨Disney will also allocate corporate general and 
+administrative costs to this project, based upon 
+revenues 
+¤The G&A allocation will be 15% of the revenues each year .  
+¤It is worth noting that a recent analysis of these expenses 
+found that only one-third of these expenses are variable 
+(and a function of total revenue)and that two-thirds are 
+fixed.
+222
+Depreciation and Capital Maintenance
+Aswath Damodaran
+222
+¨The capital maintenance expenditures are low in the 
+early years, when the parks are still new but increase as 
+the parks age.
+223
+Other Assumptions
+Aswath Damodaran
+223
+¨Disney will have to maintain non-cash working 
+capital (primarily consisting of inventory at the 
+theme parks and the resort properties, netted 
+against accounts payable) of 5% of revenues, with 
+the investments being made at the end of each year.
+¨The income from the investment will be taxed at 
+Disney’s marginal tax rate of 36.1%.
+224
+Laying the groundwork:
+Book Capital, Working Capital and Depreciation
+Aswath Damodaran
+224
+12.5% of book 
+value at end of 
+prior year 
+($3,000)
+225
+Step 1: Estimate Accounting Earnings on Project
+Aswath Damodaran
+225
+226
+And the Accounting View of Return
+Aswath Damodaran
+226
+(a) Based upon average book capital over the year
+(b) Based upon book capital at the start of each year
+Year 
+After-tax 
+Operating 
+Income 
+BV of pre-
+project 
+investment 
+BV of 
+fixed 
+assets 
+BV of 
+Working 
+capital 
+BV of 
+Capital 
+Average 
+BV of 
+Capital ROC(a) ROC(b) 
+0   500 2000 0 $2,500       
+1 -$32 $450 $3,000 $0 $3,450 $2,975 -1.07% -1.28% 
+2 -$96 $400 $3,813 $63 $4,275 $3,863 -2.48% -2.78% 
+3 -$54 $350 $4,145 $88 $4,582 $4,429 -1.22% -1.26% 
+4 $68 $300 $4,027 $125 $4,452 $4,517 1.50% 1.48% 
+5 $202 $250 $3,962 $156 $4,368 $4,410 4.57% 4.53% 
+6 $249 $200 $3,931 $172 $4,302 $4,335 5.74% 5.69% 
+7 $299 $150 $3,931 $189 $4,270 $4,286 6.97% 6.94% 
+8 $352 $100 $3,946 $208 $4,254 $4,262 8.26% 8.24% 
+9 $410 $50 $3,978 $229 $4,257 $4,255 9.62% 9.63% 
+10 $421 $0 $4,010 $233 $4,243 $4,250 9.90% 9.89% 
+Average             4.18% 4.11%
+227
+What should this return be compared to?
+¨The computed return on capital on this investment is 
+about 4.18%. To make a judgment on whether this is 
+a sufficient return, we need to compare this return 
+to a “hurdle rate”. Which of the following is the right 
+hurdle rate? Why or why not?
+a. The riskfree rate of 2.75% (T. Bond rate)
+b. The cost of equity for Disney as a company (8.52%)
+c. The cost of equity for Disney theme parks (7.09%)
+d. The cost of capital for Disney as a company (7.81%) 
+e. The cost of capital for Disney theme parks (6.61%)
+f. None of the above
+Aswath Damodaran
+228
+Should there be a risk premium for foreign 
+projects?
+¨The exchange rate risk should be diversifiable risk (and hence 
+should not command a premium) if
+¤the company has projects in many countries (or)
+¤the investors in the company are globally diversified.
+¤For Disney, exchange rate risk should not affect the cost of capital used. 
+Consequently, we would not adjust the cost of capital for Disney’s 
+investments in other mature markets (Germany, UK, France)
+¨The same diversification argument can also be applied against 
+some political risk, which would mean that it too should not affect 
+the discount rate. 
+¤There are aspects of political risk especially in emerging markets that will be 
+difficult to diversify and may affect the cash flows, by reducing the expected 
+life or cash flows on the project.
+¤For Disney, this is the risk that we are incorporating into the cost of capital 
+when it invests in Brazil (or any other emerging market)
+Aswath Damodaran
+229
+Estimating a hurdle rate for Rio Disney
+¨We estimated a cost of capital of 6.61% for the Disney theme park 
+business, using a bottom-up levered beta of 0.7537 for the business.
+¤This cost of equity may not adequately reflect the additional risk associated with the 
+theme park being in an emerging market. 
+¤The concern we would have with using this cost of equity for this project is that it may 
+not adequately reflect the additional risk associated with the theme park being in an 
+emerging market (Brazil). 
+¨We first computed the Brazil country risk premium (by multiplying the 
+default spread for Brazil by the relative equity market volatility) and then 
+re-estimated the cost of equity:
+¤Country risk premium for Brazil = 5.5%+ 3% = 8.5%
+¤Cost of Equity in US$= 2.75% + 0.7537 (8.5%) = 9.16%
+¨Using this estimate of the cost of equity, Disney’s theme park debt ratio 
+of 10.24% and its after-tax cost of debt of 2.40% (see chapter 4), we can 
+estimate the cost of capital for the project:
+¤Cost of Capital in US$ = 9.16% (0.8976) + 2.40% (0.1024) = 8.46% 
+Aswath Damodaran
+230
+Would lead us to conclude that...
+¨Do not invest in this park. The return on capital of 
+4.18% is lower than the cost of capital for theme 
+parks of 8.46%; This would suggest that the project 
+should not be taken.
+¨Given that we have computed the average over an 
+arbitrary period of 10 years, while the theme park 
+itself would have a life greater than 10 years, would 
+you feel comfortable with this conclusion?
+¤Yes
+¤No
+Aswath Damodaran
+231
+A Tangent: From New to Existing 
+Investments: ROC for the entire firm
+Assets Liabilities
+Assets in Place Debt
+Equity
+Fixed Claim on cash flows
+Little or No role in management
+Fixed Maturity
+Tax Deductible
+Residual Claim on cash flows
+Significant Role in management
+Perpetual Lives
+Growth Assets
+Existing Investments
+Generate cashflows today
+Includes long lived (fixed) and 
+short-lived(working 
+capital) assets
+Expected Value that will be 
+created by future investments
+How “good”
+are the existing 
+investments of 
+the firm?
+Measuring ROC for existing investments..
+Aswath Damodaran
+232
+The return on capital is an accounting number, 
+though, and that should scare you.
+Aswath Damodaran
+233
+Return Spreads Globally….
+233
+234
+6Application Test: Assessing Investment 
+Quality
+¨For the most recent period for which you have data, 
+compute the after-tax return on capital earned by your 
+firm, where after-tax return on capital is computed to be
+¨After-tax ROC = EBIT (1-tax rate)/ (BV of debt + BV of Equity-
+Cash)previous year
+¨For the most recent period for which you have data, 
+compute the return spread earned by your firm:
+¨Return Spread = After-tax ROC -Cost of Capital
+¨Follow up by
+¨Examining the reasons why your company earns the excess 
+return (positive or negative) that it does
+¨Evaluating whether the company will continue to earn similar 
+excess returns in the future
+Aswath Damodaran
+235
+The cash flow view of this project..
+To get from income to cash flow, we
+I. added back all non-cash charges such as depreciation. Tax 
+benefits:
+II. subtracted out the capital expenditures
+III. subtracted out the change in non-cash working capital
+Aswath Damodaran
+0 1 2 3 4 5 6 7 8 9 10
+After-tax Operating Income -$32 -$96 -$54 $68$202$249$299$352$410$421
++ Depreciation & Amortization $0 $50 $425$469$444$372$367$364$364$366$368
+-Capital Expenditures $2,500$1,000$1,188$752$276$258$285$314$330$347$350
+-Change in Non-cash Working 
+Capital $0 $63 $25 $38 $31 $16 $17 $19 $21 $5 
+Cashflow to firm ($2,500)($982)($921)($361)$198 $285 $314 $332 $367 $407 $434
+236
+The Depreciation Tax Benefit
+Aswath Damodaran
+236
+¨While depreciation reduces taxable income and taxes, it is a non-
+cash expense. The benefit of depreciation is therefore the tax 
+benefit. In general, the tax benefit from depreciation can be 
+written as:
+¨Tax Benefit = Depreciation * Tax Rate
+¨Disney Theme Park: Depreciation tax savings (Tax rate = 36.1%)
+¨Proposition 1: The tax benefit from depreciation and other non-
+cash charges is greater, the higher your tax rate.
+¨Proposition 2: Non-cash charges that are not tax deductible (such 
+as amortization of goodwill) and thus provide no tax benefits have 
+no effect on cash flows.
+1 2 3 4 5 6 7 8 9 10
+Depreciation $50 $425 $469$444$372$367$364$364$366$368
+Tax Bendfits from Depreciation $18 $153 $169$160$134$132$132$132$132$133
+237
+Depreciation Methods
+Aswath Damodaran
+237
+¨Broadly categorizing, depreciation methods can be classified 
+as straight line or accelerated methods. In straight line 
+depreciation, the capital expense is spread evenly over time, 
+In accelerated depreciation, the capital expense is 
+depreciated more in earlier years and less in later years. 
+¨Assume that you made a large investment this year, and that 
+you are choosing between straight line and accelerated 
+depreciation methods. Which will result in higher net income 
+this year?
+¤Straight Line Depreciation
+¤Accelerated Depreciation
+¨Which will result in higher cash flows this year?
+¤Straight Line Depreciation
+¤Accelerated Depreciation
+238
+The Capital Expenditures Effect
+Aswath Damodaran
+238
+¨Capital expenditures are not treated as accounting expenses
+but they are cash outflows.
+¨Capital expenditures can generally be categorized into two 
+groups
+¤New (or Growth) capital expenditures are capital expenditures 
+designed to create new assets and future growth
+¤Maintenance capital expenditures refer to capital expenditures 
+designed to keep existing assets.
+¨Both initial and maintenance capital expenditures reduce cash flows
+¨The need for maintenance capital expenditures will increase 
+with the life of the project. In other words, a 25-year project 
+will require more maintenance capital expenditures than a 2-
+year project.
+239
+To cap ex or not to cap ex?
+Aswath Damodaran
+239
+¨Assume that you run your own software business, and 
+that you have an expense this year of $ 100 million from 
+producing and distribution promotional CDs in software 
+magazines. Your accountant tells you that you can 
+expense  this item or capitalize and depreciate it over 
+three years. Which will have a more positive effect on 
+income?
+¤Expense it
+¤Capitalize and Depreciate it
+¨Which will have a more positive effect on cash flows?
+¤Expense it
+¤Capitalize and Depreciate it
+240
+The Working Capital Effect
+Aswath Damodaran
+240
+¨Intuitively, money invested in inventory or in accounts receivable cannot 
+be used elsewhere. It, thus, represents a drain on cash flows
+¨To the degree that some of these investments can be financed using 
+supplier credit (accounts payable), the cash flow drain is reduced.
+¨Investments in working capital are thus cash outflows
+¤Any increase in working capital reduces cash flows in that year
+¤Any decrease in working capital increases cash flows in that year
+¨To provide closure, working capital investments need to be salvaged at 
+the end of the project life.
+¨Proposition 1: The failure to consider working capital in a capital 
+budgeting project will overstate cash flows on that project and make it 
+look more attractive than it really is.
+¨Proposition 2: Other things held equal, a reduction in working capital 
+requirements will increase the cash flows on all projects for a firm.

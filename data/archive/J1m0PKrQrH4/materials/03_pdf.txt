@@ -1,0 +1,24 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session7asoln.pdf
+
+Session	6:	Post	class	test	solutions	
+1. b.	Equity	risk	premiums	should	rise.	If	companies	try	to	manage	and	
+manipulate	earnings,	investors	trust	those	earnings	numbers	less.	If	they	trust	
+the	earnings	numbers	less,	equities	will	become	riskier.	Thus,	earnings	
+management,	in	general,	even	if	it	makes	earnings	smoother	will	make	them	less	
+reliable	and	equity	risk	premiums	should	rise.	
+2. True.	While	actual	equity	risk	premiums	can	be	negative	(in	a	period	where	
+stocks	do	badly	and	bonds	do	well),	the	expected	equity	risk	premium	should	be	
+positive,	if	investors	are	rational.	
+3. b.	Risk	premium	is	4.5%,	Standard	error	is	2%.	A	risk	premium	in	a	hurdle	
+rate	will	get	compounded	over	time	and	is	therefore	better	computed	using	the	
+geometric	averages.	The	standard	error	is	computed	by	dividing	the	standard	
+deviation	of	20%	by	the	square	root	of	100.	
+4. c.	A	historical	risk	premium	with	only	ten	to	fifteen	years	of	data	will	have	
+a	very	high	standard	error.	You	need	a	lot	of	historical	data	to	be	able	to	
+estimate	an	equity	risk	premium	with	any	degree	of	precision.	While	you	should	
+be	concerned	about	changing	business	risk	profiles,	that	is	a	far	smaller	problem.	
+5. a.	11.75%	or	d.	10.5%.		There	are	two	solutions.	My	preferred	one	is	to	take	the	
+default	spread	and	scale	it	up	to	reflect	the	higher	risk	in	equities	(5%	*30/24	=	
+6.25%)	and	to	add	this	to	the	mature	market	premium	(5.5%).	My	second	best	
+solution	is	to	just	add	the	default	spread	to	the	mature	market	premium	(5.5%	+	
+5%	=	10.5%)

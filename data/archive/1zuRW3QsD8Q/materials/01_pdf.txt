@@ -1,0 +1,488 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr24/session19slides.pdf
+
+55
+The cost of capital approach suggests that 
+Disney should do the following…
+¨Disney currently has $15.96 billion in debt. The optimal 
+dollar debt (at 40%) is roughly $55.1 billion. Disney has 
+excess debt capacity of 39.14 billion.
+¨To move to its optimal and gain the increase in value, 
+Disney should borrow $ 39.14 billion and buy back stock.
+¨Given the magnitude of this decision, you should expect 
+to answer three questions:
+¤Why should we do it?
+¤What if something goes wrong?
+¤What if we don’t want (or cannot ) buy back stock and want to 
+make investments with the additional debt capacity?
+Aswath Damodaran
+56
+Why should we do it? 
+Effect on Firm Value –Full Valuation
+Step 1: Estimate the cash flows to Disney as a firm
+EBIT (1 –Tax Rate) = 10,032 (1 –0.361) = $6,410 
++ Depreciation and amortization = $2,485
+–Capital expenditures = $5,239
+–Change in noncash working capital $0
+Free cash flow to the firm = $3,657 
+¨Step 2: Back out the implied growth rate in the current market value
+Current enterprise value = $121,878 + 15,961 -3,931 = 133,908
+Value of firm = $ 133,908 = 
+Growth rate = (Firm Value * Cost of Capital –CF to Firm)/(Firm Value + CF to Firm)
+= (133,908* 0.0781 –3,657)/(133,908+ 3,657) = 0.0494 or 4.94% 
+¨Step 3: Revalue the firm with the new cost of capital
+¤Firm value =
+¤Increase in firm value =  $172,935 -$133,908  = $39,027 million
+FCFF0(1+g)
+(Cost of Capital -g)=3,657(1+g)
+(.0781 -g)
+FCFF0(1+g)
+(Cost of Capital -g)=3,657(1.0494)
+(.0716 -0.0484)=$172,935 million
+Aswath Damodaran
+57
+Effect on Value: Incremental approach
+¨In this approach, we start with the current market value and isolate the 
+effect of changing the capital structure on the cash flow and the resulting 
+value.
+Enterprise Value before the change = $133,908 million
+Cost of financing Disney at existing debt ratio = $ 133,908 * 0.0781 = $10,458 million
+Cost of financing Disney at optimal debt ratio = $ 133,908 * 0.0716 = $ 9,592 million
+Annual savings in cost of financing = $10,458 million –$9,592 million = $866 million  
+Enterprise value after recapitalization
+= Existing enterprise value + PV of Savings = $133,908 + $19,623 = $153,531 million 
+Aswath Damodaran
+Increase in Value=Annual Savings next year
+(Cost of Capital - g)= $866
+(0.0716 - 0.0275)=$19,623 million
+58
+From firm value to value per share: The 
+Rational Investor Solution
+¨Because the increase in value accrues entirely to 
+stockholders, we can estimate the increase in value per 
+share by dividing by the total number of shares 
+outstanding (1,800 million).
+¤Increase in Value per Share = $19,623/1800 = $ 10.90
+¤New Stock Price = $67.71 + $10.90= $78.61 
+¨Implicit in this computation is the assumption that the 
+increase in firm value will be spread evenly across both 
+the stockholders who sell their stock back to the firm 
+and those who do not and that is why we term this the 
+“rational” solution, since it leaves investors indifferent 
+between selling back their shares and holding on to 
+them. 
+Aswath Damodaran
+59
+The more general solution, given a 
+buyback price
+¨Start with the buyback price and compute the number of 
+shares outstanding after the buyback:
+¤Increase in Debt = Debt at optimal –Current Debt
+¤# Shares after buyback = # Shares before –
+¨Then compute the equity value after the recapitalization, 
+starting with the enterprise value at the optimal, adding back 
+cash and subtracting out the debt at the optimal:
+¤Equity value after buyback = Optimal Enterprise value + Cash –Debt 
+¨Divide the equity value after the buyback by the post-
+buyback number of shares.
+¤Value per share after buyback = Equity value after buyback/ Number of 
+shares after buyback
+Aswath Damodaran
+Increase in Debt
+Share Price
+60
+Let’s try a price: What if can buy shares 
+back at the old price ($67.71)?
+¨Start with the buyback price and compute the number of 
+shares outstanding after the buyback
+¤Debt issued = $ 55,136 -$15,961 = $39,175 million
+¤# Shares after buyback = 1800 -$39,175/$67.71 = 1221.43 m
+¨Then compute the equity value after the recapitalization, 
+starting with the enterprise value at the optimal, adding 
+back cash and subtracting out the debt at the optimal:
+¤Optimal Enterprise Value = $153,531
+¤Equity value after buyback = $153,531 + $3,931–$55,136 = 
+$102,326
+¨Divide the equity value after the buyback by the post-
+buyback number of shares.
+¤Value per share after buyback = $102,326/1221.43 = $83.78
+Aswath Damodaran
+61
+Back to the rational price ($78.61): Here is 
+the proof
+¨Start with the buyback price and compute the number of 
+shares outstanding after the buyback
+¤# Shares after buyback = 1800 -$39,175/$78.61 = 1301.65 m
+¨Then compute the equity value after the recapitalization, 
+starting with the enterprise value at the optimal, adding 
+back cash and subtracting out the debt at the optimal:
+¤Optimal Enterprise Value = $153,531
+¤Equity value after buyback = $153,531 + $3,931–$55,136 = 
+$102,326
+¨Divide the equity value after the buyback by the post-
+buyback number of shares.
+¤Value per share after buyback = $102,326/1301.65 = $78.61
+Aswath Damodaran
+62
+2. What if something goes wrong?
+The Downside Risk
+Aswath Damodaran
+62
+¨Sensitivity to Assumptions
+A. “What if”analysis
+The optimal debt ratio is a function of our inputs on operating income, 
+tax rates and macro variables. We could focus on one or two key variables –
+operating income is an obvious choice –and look at history for guidance on 
+volatility in that number and ask what if questions.
+B. “Economic Scenario”Approach
+We can develop possible scenarios, based upon macro variables, and 
+examine the optimal debt ratio under each one. For instance, we could look 
+at the optimal debt ratio for a cyclical firm under a boom economy, a regular 
+economy and an economy in recession.
+¨Constraint on Bond Ratings/ Book Debt Ratios
+Alternatively, we can put constraints on the optimal debt ratio to reduce 
+exposure to downside risk.  Thus, we could require the firm to have a 
+minimum rating, at the optimal debt ratio or to have a book debt ratio that is 
+less than a “specified” value.
+63
+Disney’s Operating Income: History
+Aswath Damodaran
+RecessionDecline in Operating Income
+2009 Drop of 23.06%
+2002 Drop of 15.82%
+1991 Drop of 22.00%
+1981-82 Increased by 12%
+Worst Year Drop of 29.47%
+Standard deviation in % 
+change in EBIT = 19.17%
+64
+Disney: Safety Buffers?
+Aswath Damodaran
+65
+Constraints on Ratings
+¨Management often specifies a 'desired rating' below 
+which they do not want to fall. 
+¨The rating constraint is driven by three factors
+¤it is one way of protecting against downside risk in operating 
+income (so do not do both)
+¤a drop in ratings might affect operating income
+¤there is an ego factor associated with high ratings
+¨Caveat: Every rating constraint has a cost. 
+¤The cost of a rating constraint is the difference between the 
+unconstrained value and the value of the firm with the 
+constraint.
+¤Managers need to be made aware of the costs of the constraints 
+they impose.
+Aswath Damodaran
+66
+Ratings Constraints for Disney
+¨At its optimal debt ratio of 40%, Disney has an estimated 
+rating of A.
+¨If managers insisted on a AA rating, the optimal debt 
+ratio for Disney is then 30% and the cost of the ratings 
+constraint is fairly small:
+Cost of AA Rating Constraint = Value at 40% Debt –Value at 30% 
+Debt = $153,531 m –$147,835 m = $ 5,696 million 
+¨If managers insisted on a AAA rating, the optimal debt 
+ratio would drop to 20% and the cost of the ratings 
+constraint would rise:
+Cost of AAA rating constraint = Value at 40% Debt –Value at 20% 
+Debt = $153,531 m –$141,406 m = $ 12,125 million
+Aswath Damodaran
+67
+3. What if you do not buy back stock..
+Aswath Damodaran
+67
+¨The optimal debt ratio is ultimately a function of the 
+underlying riskiness of the business in which you 
+operate and your tax rate. 
+¨Will the optimal be different if you invested in 
+projects instead of buying back stock?
+¤No. As long as the projects financed are in the same 
+business mix  that the company has always been in and 
+your tax rate does not change significantly.
+¤Yes, if the projects are in entirely different types of 
+businesses or if the tax rate is significantly different.
+68
+Extension to a family group company: Tata 
+Motor’s Optimal Capital Structure
+Tata Motors looks like it is over levered (29% actual versus 20% optimal), perhaps 
+because it is drawing on the debt capacity of other companies in the Tata Group.
+Aswath Damodaran
+69
+Extension to a firm with volatile earnings:
+Vale’s Optimal Debt Ratio
+Aswath Damodaran
+Replacing V ale’s current 
+operating income with 
+the average over the last 
+three years pushes up 
+the optimal to 50%.
+70
+Optimal Debt Ratio for a young, growth 
+firm: Baidu
+Aswath Damodaran
+The optimal debt ratio for Baidu is between 0 and 10%, close to its current debt ratio of 5.23%, and 
+much lower than the optimal debt ratios computed for Disney, V ale and Tata Motors.
+71
+Extension to a private business
+Optimal Debt Ratio for Bookscape
+Aswath Damodaran
+The firm value is maximized (and the cost of capital is minimized) at a debt ratio of 
+30%. At its existing debt ratio of 27.81%, Bookscape is at its optimal. 
+Debt value of leases = $12,136 million (only debt)
+Estimated market value of equity = Net Income * Average PE for Publicly Traded Book 
+Retailers = 1.575 * 20 = $31.5 million 
+Debt ratio = 12,136/(12,136+31,500) = 27.81%
+72
+The US Tax Reform Act of 2017: Effects on 
+the Optimal Debt Ratio
+¨Change in marginal tax rate: The marginal federal tax rate for 
+US companies on US income has been lowered from 35% to 
+21%. Holding all else constant, that will lower the optimal 
+debt ratio for all firms.
+¨Limits on interest tax deduction: Companies can deduct 
+interest expenses only up to 30% of EBITDA (until 2022) and 
+30% of EBIT (after 2022). That will add a constraint to the tax 
+savings from debt. In the cost of capital calculation, it will 
+show up in the tax rate that you use to compute your after-
+tax cost of debt, lowering the tax rate from the marginal if 
+interest expenses> 30% of EBITDA:
+Tax rate if Interest Expense> 30% of EBITDA 
+= Marginal Tax rate * (.30*EBITDA)/ Interest Expense
+Aswath Damodaran
+72
+73
+Effect on tax code on Debt Impact: Disney 
+in 2018
+Aswath Damodaran
+73
+74
+Are US companies adjusting to the new tax 
+code?
+Aswath Damodaran
+74
+0.00
+0.50
+1.00
+1.50
+2.00
+2.50
+3.00
+3.50
+4.00
+ $-
+ $1,000
+ $2,000
+ $3,000
+ $4,000
+ $5,000
+ $6,000
+ $7,000
+ $8,000
+ $9,000
+ $10,000
+2017 2018 2019
+Debt Load at US Ciompaniwa
+Total Debt Total Debt with Lease s Debt to EBITDA
+75
+Limitations of the Cost of Capital approach
+Aswath Damodaran
+75
+¨It is static: The most critical number in the entire 
+analysis is the operating income. If that changes, the 
+optimal debt ratio will change.
+¨It ignores indirect bankruptcy costs: The operating 
+income is assumed to stay fixed as the debt ratio and 
+the rating changes. 
+¨Beta and Ratings: It is based upon rigid assumptions 
+of how market risk and default risk get borne as the 
+firm borrows more money and the resulting costs.
+76
+II. Enhanced Cost of Capital Approach
+Aswath Damodaran
+76
+¨Distress cost affected operating income: In the 
+enhanced cost of capital approach, the indirect costs 
+of bankruptcy are built into the expected operating 
+income. As the rating of the firm declines, the 
+operating income is adjusted to reflect the loss in 
+operating income that will occur when customers, 
+suppliers and investors react.
+¨Dynamic analysis: Rather than look at a single 
+number for operating income, you can draw from a 
+distribution of operating income (thus allowing for 
+different outcomes).
+77
+Estimating the Distress Effect-Disney
+Aswath Damodaran
+77
+Rating Drop in EBITDA 
+(Low) 
+Drop in EBITDA 
+(Medium) 
+Drop in EBITDA 
+(High) 
+To A No effect No effect 2.00% 
+To A- No effect 2.00% 5.00% 
+To BBB 5.00% 10.00% 15.00% 
+To BB+ 10.00% 20.00% 25.00% 
+To B- 15.00% 25.00% 30.00% 
+To C 25.00% 40.00% 50.00% 
+To D 30.00% 50.00% 100.00%
+78
+The Optimal Debt Ratio with Indirect 
+Bankruptcy Costs
+Aswath Damodaran
+78
+The optimal debt ratio stays at 40% but the cliff becomes much 
+steeper.
+Debt Ratio Beta
+Cost of 
+Equity
+Bond 
+Rating
+Interest rate 
+on debt Tax Rate
+Cost of Debt 
+(after-tax) WA C C
+Enterprise 
+Va l u e
+0% 0.9239 8.07% Aaa/AAA 3.15% 36.10% 2.01% 8.07% $122,633 
+10% 0.9895 8.45% Aaa/AAA 3.15% 36.10% 2.01% 7.81% $134,020 
+20% 1.0715 8.92% Aaa/AAA 3.15% 36.10% 2.01% 7.54% $147,739 
+30% 1.1769 9.53% Aa2/AA 3.45% 36.10% 2.20% 7.33% $160,625 
+40% 1.3175 10.34% A2/A 3.75% 36.10% 2.40% 7.16% $172,933 
+50% 1.5573 11.72% C2/C 11.50% 31.44% 7.88% 9.80% $35,782 
+60% 1.9946 14.24% Caa/CCC 13.25% 22.74% 10.24% 11.84% $25,219 
+70% 2.6594 18.07% Caa/CCC 13.25% 19.49% 10.67% 12.89% $21,886 
+80% 3.9892 25.73% Caa/CCC 13.25% 17.05% 10.99% 13.94% $19,331 
+90% 7.9783 48.72% Caa/CCC 13.25% 15.16% 11.24% 14.99% $17,311
+79
+Extending this approach to analyzing Financial 
+Service Firms
+Aswath Damodaran
+79
+¨Interest coverage ratio spreads, which are critical in determining 
+the bond ratings, have to be estimated separately for financial 
+service firms; applying manufacturing company spreads will result 
+in absurdly low ratings for even the safest banks and very low 
+optimal debt ratios. 
+¨It is difficult to estimate the debt on a financial service company’s 
+balance sheet. Given the mix of deposits, repurchase agreements, 
+short-term financing, and other liabilities that may appear on a 
+financial service firm’s balance sheet, one solution is to focus only 
+on long-term debt, defined tightly, and to use interest coverage 
+ratios defined using only long-term interest expenses. 
+¨Financial service firms are regulated and have to meet capital ratios 
+that are defined in terms of book value. If, in the process of moving 
+to an optimal market value debt ratio, these firms violate the book 
+capital ratios, they could put themselves in jeopardy.
+80
+Capital Structure for a bank:
+A Regulatory Capital Approach
+¨ Consider a bank with $ 100 million in loans outstanding and a book value of 
+equity of $ 6 million. Furthermore, assume that the regulatory requirement is 
+that equity capital be maintained at 5% of loans outstanding. Finally, assume 
+that this bank wants to increase its loan base by $ 50 million to $ 150 million 
+and to augment its equity capital ratio to 7% of loans outstanding. 
+Loans outstanding after Expansion = $ 150 million
+Equity after expansion = 7% of $150 =  $10.5 million
+Existing Equity = $  6.0 million
+New Equity needed = $ 4.5 million
+¨ Your need for “external” equity as a bank/financial service company will 
+depend upon
+a.Your growth rate: Higher growth -> More external equity
+b.Existing capitalization vs Target capitalization: Under capitalized -> More 
+external equity
+c.Current earnings: Less earnings -> More external equity
+d.Current dividends: More dividends -> More external equity
+Aswath Damodaran
+81
+Deutsche Bank’s Financial Mix
+Current 1 2 3 4 5
+Asset Base 439,851 €453,047 €466,638 €480,637 €495,056 €509,908 €
+Capital ratio 15.13%15.71%16.28%16.85%17.43%18.00%
+Tier 1 Capital 66,561 €71,156 €75,967 €81,002 €86,271 €91,783 €
+Change in regulatory 
+capital 4,595 € 4,811 € 5,035 € 5,269 € 5,512 €
+Book Equity 76,829 €81,424 €86,235 €91,270 €96,539 €102,051 €
+ROE -1.08%0.74%2.55%4.37%6.18%8.00%
+Net Income -716 € 602 € 2,203 € 3,988 € 5,971 € 8,164 €
+-Investment in 
+Regulatory Capital 4,595 € 4,811 € 5,035 € 5,269 € 5,512 €
+FCFE -3,993 €-2,608 €-1,047 € 702 € 2,652 €
+Aswath Damodaran
+81
+The cumulative FCFE over the next 5 years is -€4,294 million. Clearly, it does 
+not make the sense to pay dividends or buy back stock. In fact, to stay viable, 
+Deutsche Bank has to raise about €7 billion in new equity in the next 3 years.
+82
+Financing Strategies for a financial institution
+Aswath Damodaran
+82
+¨The Regulatory minimum strategy: In this strategy, financial service 
+firms try to stay with the bare minimum equity capital, as required 
+by the regulatory ratios. In the most aggressive versions of this 
+strategy, firms exploit loopholes in the regulatory framework to 
+invest in those businesses where regulatory capital ratios are set 
+too low (relative to the risk of these businesses). 
+¨The Self-regulatory strategy: The objective for a bank raising equity 
+is not to meet regulatory capital ratios but to ensure that losses 
+from the business can be covered by the existing equity. In effect, 
+financial service firms can assess how much equity they need to 
+hold by evaluating the riskiness of their businesses and the 
+potential for losses. 
+¨Combination strategy: In this strategy, the regulatory capital ratios 
+operate as a floor for established businesses, with the firm adding 
+buffers for safety where needed..
+83
+Determinants of the Optimal Debt Ratio:
+1. The marginal tax rate
+Aswath Damodaran
+83
+¨The primary benefit of debt is a tax benefit. The 
+higher the marginal tax rate, the greater the benefit 
+to borrowing:
+84
+2. Pre-tax Cash flow Return
+Aswath Damodaran
+84
+Company EBITDA EBIT 
+Enterprise 
+Value EBITDA/EV EBIT/EV 
+Optimal 
+Debt 
+Optimal Debt 
+Ratio 
+Disney $12,517  $10,032  $133,908  9.35% 7.49% $55,136  40.00% 
+Vale $20,167  $15,667  $112,352  17.95% 13.94% $35,845  30.00% 
+Tata 
+Motors 250,116₹ 166,605₹ 1,427,478₹ 17.52% 11.67% 325,986₹  20.00% 
+Baidu ¥13,073 ¥10,887 ¥342,269 3.82% 3.18% ¥35,280  10.00% 
+Bookscape $4,150  $2,536  $42,636  9.73% 5.95% $13,091  30.00% 
+ 
+Higher cash flows, as a percent of value, give you a 
+higher debt capacity, though less so in emerging 
+markets with substantial country risk.
+85
+3. Operating Risk
+Aswath Damodaran
+85
+¨Firms that face more risk or uncertainty in their 
+operations (and more variable operating income as a 
+consequence) will have lower optimal debt ratios than 
+firms that have more predictable operations.
+¨Operating risk enters the cost of capital approach in two 
+places:
+¤Unlevered beta: Firms that face more operating risk will tend to 
+have higher unlevered betas. As they borrow, debt will magnify 
+this already large risk and push up costs of equity much more 
+steeply.
+¤Bond ratings: For any given level of operating income, firms that 
+face more risk in operations will have lower ratings. The ratings 
+are based upon normalized income.
+86
+4. The only macro determinant:
+Equity vs Debt Risk Premiums
+Aswath Damodaran
+86

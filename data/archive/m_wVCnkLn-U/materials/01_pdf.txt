@@ -1,0 +1,215 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/CatRisk.pdf
+
+TOO BIG A RISK? CATASTROPHE RISK IN 
+INVESTING AND BUSINESS
+The Armageddon Effect on Stock Prices!
+2
+The Lead In…
+¨In the context of valuing companies, and sharing those valuations, I do get 
+suggestions from around the world from readers of my posts on companies that I 
+should value next. 
+¤While much of the time, do not end up valuing those suggested a company, a reader from Iceland 
+made a suggestion on a company to value that I found intriguing. He suggested that I value Blue 
+Lagoon, a legendary Icelandic Spa with a long history of profitability that was finding its existence 
+under threat, as aresult of volcanic activityinSouthwest Iceland. 
+¤In another story that made the rounds in recent weeks, 23andMe, a genetics testing company 
+that offers its customers genetic and health information, based upon saliva sample, found itself 
+facing the brink, after a hacker claimed to havehacked the siteand accessed the genetic 
+information of millions of its customers. 
+¤Stepping back, one claim that climate change advocates have made not just about fossil fuel 
+companies, but about all businesses, is that investors are underestimating the effects that 
+climate changewill have on economic systems and on value. These are three very different 
+stories, but what they share in common is a fear, imminent or expected, of a catastrophic event 
+that may put a company's business at risk.
+3
+Deconstructing Risk
+¨Ifyoutakeabusinessandstartenumeratingeveryriskthatitisexposedto,
+youwillfindyourselfbeingoverwhelmedbythatrisk,anditisforthatreason
+thatIcategorizeriskintothegroupingsthatIdescribedinanearlierposton
+risk.
+¨Iwanttofocus,inparticular,ofthethirddistinctionIdrewonrisk,whereI
+groupedriskintodiscreteriskandcontinuousrisk,withthelateraffecting
+businessesallthetimeandtheformershowingupinfrequently,butoften
+havingmuchlargerimpact.
+¨Another,albeitcloselyrelated,distinctionisbetweenincrementalrisk,i.e.,
+riskthatcanchangeearnings,growthandthusvaluebymaterialamounts,
+andcatastrophicrisk,whichisriskthatcanputacompany'ssurvivalatrisk,
+oralteritstrajectorydramatically.
+4
+Catastrophic Risk: Differentiating Factors
+1. Source:IstartedthispostwithamentionofavolcanoeruptioninIcelandputanIcelandicbusinessatrisk,andnatural
+disasterscanstillbeamajorfactordeterminingthesuccessorfailureofbusinesses.Itistruethatthereareinsurance
+productsavailabletoprotectagainsttheserisks,atleastinsomepartsoftheworld,andthatmayallowcompaniesinFlorida
+(California)tolivethroughtherisksfromhurricanes(earthquakes)albeitatacost.Humanbeingsaddtonature's
+catastropheswithwarsandterrorismwreakinghavocnotjustonhumanlives,butalsoonbusinessesthatareintheir
+crosshairs.nsomecases,achangeinregulatoryortaxlawcanputthebusinessmodelforacompanyormanycompanyat
+risk.
+2. LocusofDamage:Somecatastrophescreatedlimiteddamage,perhapsisolatedtoasinglebusiness,butotherscancreate
+damagethatextendsacrossgeographiesoranentiresector.ThereasonthatthevolcanoeruptionsinIcelandarenotcreating
+markettremorsisbecausethedamageislikelytobeisolatedtothebusinesses,likeBlueLagoon,inthepathofthelava.An
+earthquakeinCaliforniawillaffectafarbiggerswathofcompanies,partlybecausethestateishometothefifthlargest
+economyintheworld.Thepandemicin2020causedaneconomicshutdownthathurtmostbusinesses,butitwas
+catastrophicforthehospitalityandtravelbusinesses.
+3. Likelihood:Thereisathirddimensiononwhichcatastrophicriskscanvary,andthatisintermsoflikelihoodofoccurrence.
+Mostcatastrophicrisksarelow-probabilityevents,butthoselowprobabilitiescanbecomehighlikelihoodevents.
+5
+Cat Risk: Value and Pricing Implications
+¨Itisundeniablethatcatastrophicriskaffectsthevaluesofbusinesses,
+andtheirmarketpricing,anditisworthexamininghowitplaysoutin
+eachdomain.
+¨Iwillstartthissectionwithwhat,atleastforme,Iisfamiliarground,
+andlookathowtoincorporatethepresenceofcatastrophicrisk,when
+valuingbusinessesandmarkets.
+¨Iwillclosethesectionbylookingattheequallyinterestingquestionof
+howmarketspricecatastrophicrisk,andwhypricingandvaluecan
+diverge(again).
+¨
+6
+The It Proposition
+¨Much as we like to dress up intrinsic value with the presence of models 
+and inputs, the truth is that intrinsic valuation at its core is built around 
+a simple propositions: the value of an asset or business is the present 
+value of the expected cash flows on it:
+¨That equation gives rise to what I term the "It Proposition", which is 
+that for "it" to have value, "it" has to affect either the expected 
+cashflows or the risk of an asset or business.
+7
+Cat Risk and Intrinsic Value
+8
+Deconstructing Cat Risk
+9
+1. Insurable Risk
+• IntrinsicValueEffect:Ifyoubringintheinsurancecostintoyourexpenses,
+loweringincomeandcashflows,andletthevaluationplayout.
+• Pluses:Simplicityandspecificity,becauseallthisapproachneedsisaline
+itemintheincomestatement(whichwilleitherexistalready,ifthecompany
+isbuyinginsurance,orcanbeestimated).
+• Minuses:Youmaynotbeabletoinsureagainstsomerisks,eitherbecause
+theyareuncommon(andinsurancecompanyactuariesareunableto
+estimateprobabilitieswellenough,tosetpremiums)orimminent(andthe
+likelihoodoftheeventhappeningissohigh,thatthepremiumsbecome
+unaffordable).Theinsurancemaynotalwaysbecompleteprotection.
+• Applications:Whenvaluingmanybusinessesindevelopedmarkets,wetend
+toassumethatthesebusinesseshaveinsuredthemselvesagainstmany
+catastrophicrisksandignoretheminvaluationconsequently.
+10
+2. Uninsurable, Going-concern, Company-specific
+• Dotwogoing-concernvaluations,onewiththeassumptionthatthereisnocatastropheand
+onewithout,andthenattachingaprobabilitytothecatastrophiceventoccurring.
+¤ExpectedValuewithCatastrophe=ValuewithoutCatastrophe(1–ProbabilityofCatastrophe)+Value
+withCatastrophe(ProbabilityofCatastrophe)
+• Pluses:Byseparatingthecatastrophicriskscenariofromtherestofthepossibleandmore
+benignoutcomeswillhelpmaketheproblemmoretractable,sincetryingtoadjust
+expectedcashflowsanddiscountratesforwidelydivergentoutcomesisdifficulttodo.
+• Minuses:Estimatingtheprobabilityofthecatastrophemayrequirespecificskillsthatyou
+donothave,butusingexpertadvicecanhelp
+• Applications:Iuseditinmypostonvaluingkeypersonsinbusinesses,orthelossofabig
+contractforasmallcompany,wherethatcontractaccountsforasignificantportionoftotal
+revenues.Itcanalsobeusedtovalueacompanywhosebusinessmodelsisbuiltuponthe
+presenceorabsenceofaregulationorlaw,inwhichcaseachangeinthatregulationorlaw
+canchangevalue.
+11
+3. Uninsurable, Going-concern, Company-specific 
+• IntrinsicValueEffect:Ifthecatastrophicriskisnotinsurable,butthebusinesswillnotsurvive,ifthe
+riskunfolds,theapproachparallelsthepreviousone,withthedifferencebeingthatthatthevalueof
+thebusiness,incaseitfails,replacestheintrinsicvaluation,withcatastrophicriskbuiltin:
+¤ExpectedValuewithCatastrophe=ValuewithoutCatastrophe(1–ProbabilityofCatastrophe)+FailureValue
+(ProbabilityofCatastrophe)
+• Pluses:Aswiththepreviousapproach,separatingthegoingconcernfromthefailurevaluescanhelp
+intheestimationprocess.Tryingtoestimatecashflows,growthratesandcostofcapitalfora
+companyacrossbothscenarios(goingconcernandfailure)isdifficulttodo,anditiseasytodouble
+countriskormiscountit.
+• Minuses:Asinthelastapproach,youstillhavetoestimateaprobabilitythatacatastrophewill
+occur,andinaddition,andtherecanbechallengesinestimatingthevalueofabusiness,andits
+equity,ifthecompanyfailsinthefaceofcatastrophicrisk.
+• Applications:ThisistheapproachthatIusetovaluehighlylevered.,cyclicalcompanies,thatcan
+deliversolidoperatingandequityvaluesinperiodswheretheyoperateasgoingconcerns,butface
+distressorbankruptcy,inthefaceofasevererecession.
+12
+4 & 5: Uninsurable Risk. Going Concern or Failure, Market 
+or Sector wide
+• IntrinsicValueEffect:Thecalculationsforcashflowsareidenticaltothosedonewhentherisksare
+company-specific,withcashflowsestimatedwithandwithoutthecatastrophicrisk,butsincethese
+risksaresector-wideormarket-wide,therewillalsobeaneffectondiscountrates.Investorswill
+eitherseemorerelativerisk(orbeta)inthesecompanies,iftherisksaffectanentiresector,orin
+equityriskpremiums,iftheyaremarket-wide.Notethatthesehigherdiscountratesapplyinboth
+scenarios.
+• Pluses:Theriskthatisbeingbuiltintocostsofequityistheriskthatcannotbediversifiedawayand
+therearepathwaystoestimatingchangesinrelativeriskorequityriskpremiums.
+• Minuses:Theconventionalapproachestoestimatingbetas,whereyourunregressionsofpaststock
+returnsagainstthemarket,andequityriskpremiums,whereyoutrustinhistoricalriskpremiums
+andhistory,willnotworkatdeliveringtheadjustmentsthatyouneedtomake.
+• Applications:UsingimpliedERPs,dynamicandforward-looking,allowsyoutocapturechangesin
+ERPduringcrises(duringCOVID)andindustryaveragebetas,updatedfrequentlycapturechangesin
+industryorsectorrisk.
+13
+Cat Risk and Pricing
+• The intrinsic value approach assumes that we, as business owners and investors, 
+look at catastrophic risk rationally, and make our assessments based upon how it 
+will play out in cashflows, growth and risk. In truth, is worth remembering key 
+insights from psychology, on how we, as human beings, deal with threats (financial 
+and physical) that we view as existential.
+• The first response is denial, an unwillingness to think about catastrophic risks. As someone who 
+lives in a home close to one of California's many earthquake faults, and two blocks from the 
+Pacific, I can attest to this response, and offer the defense that in its absence, you would wither 
+away from anxiety and fear .
+• The second is panic, when the catastrophic risk becomes imminent, where the response is to 
+flee, leaving much of what you have behind.
+¨Whenlookingathowthemarketpricesintheexpectationofacatstropheoccurring
+anditsconsequences,boththesehumanemotionsplayout,astheoverpricingof
+businessesthatfacecatastrophicrisk,whenitislowprobabilityanddistant,and
+theunderpricingofthesesamebusinesseswhencatastrophicriskloomslarge.
+14
+The COVID Effect on Sectors
+15
+Stock Prices and Catastrophes: Company-specific
+¨With catastrophic risk that are company-specific, you see the same 
+phenomenon play out. 
+¤The market capitalization of many young pharmaceutical company have been 
+wiped out by the failure of blockbuster drug, in trials. 
+¤PG&E, the utility company that provides power to large portions of California saw 
+its stock price halved after wildfires swept through California, and investors 
+worried about the culpability of the company in starting them.
+16
+The Climate Change Test
+¨The most fascinating twist on how markets deal with risks that are 
+existential is their pricing of fossil fuel companies over the last two 
+decades, as concerns about climate change have taken center stage.
+¨Climate change advocates and their representatives in markets, impact 
+invstors, argue that less fossil fuel to be produced over time, driven 
+both by regulation and consumption.
+¨As this happens, fossil fuel companies should less demand for their 
+product, leading to lower earnings and cash flows, perhaps even 
+truncation of their corporate lives.
+17
+The Fossil Fuel Test
+18
+Is the climate change punch fading?
+¨While fossil fuel pricing multiples have gone up and down, I have computed 
+the average on both in the 2000-2010 period and again in the 2011-2023 
+period. 
+¨If the latter period is the one of enlightenment, at least on climate change, 
+with warnings of climate change accompanied by trillions of dollars invested 
+in combating it, it is striking how little impact it has had on how markets, and 
+investors in the aggregate, view fossil fuel companies.
+¨In fact, there is evidence that the effect of being labeled climate change’s 
+biggest villains is fading over time, as fossil fuel companies have not only 
+seen a comeback in stock prices, but have also been more open about their 
+plans to expand in fossil fuels.
+19
+Is this why?
+20
+What next?
+¨It is possible, perhaps even likely, that investors are not pricing in climate 
+change not just in fossil fuel stocks, but across the board, when they price 
+assets. 
+¤Should buyers be paying hundreds of millions of dollars for a Manhattan office building, 
+when all of New York may be underwater in a few decades?
+¤Lest I be accused of pointing fingers, what will happen to the value of my house that is 
+currently two blocks from the beach, but may be in the ocean in a few decades? 
+¨The painful truth is that if doomsday events (nuclear war, mega asteroid 
+hitting the earth, the earth getting too hot for human existence) manifest, it 
+is survival that becomes front and center, not having a healthy portfolio. 
+Thus, ignoring Armageddon scenarios when valuing businesses and assets 
+may be completely rational, and taking investors to task for not pricing assets 
+correctly will do little to alter their trajectory!

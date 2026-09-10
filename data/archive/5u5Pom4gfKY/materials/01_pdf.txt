@@ -1,0 +1,106 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate2for2024.pdf
+
+DATA UPDATE 2 FOR 2024: A 
+STOCK COMEBACK –THE LOW 
+EXPECTATIONS GAME!
+Winning is easy, when not much is expected…
+2
+The Lead in..
+¨At the start of 2023, US equities looked like they were heading into 
+a sea of troubles, with inflation out of control and a recession 
+coming up. 
+¤While stocks had ups and downs during the year, they ended the year 
+strong, and recouped, at least in the aggregate, most of the losses from 
+2022. 
+¤That positive result, notwithstanding, the recovery was uneven, with a big 
+chunk of the increase in market capitalization coming from seven 
+companies (Facebook, Amazon, Apple, Microsoft, Alphabet, NVidia and 
+Tesla) and w ide divergences across stocks, in perform ance. 
+¨As we start 2024, it looks expectations have been reset, with most 
+forecasters now expecting the economy to glide in for a soft 
+landing and interest rates to decline, and while that may seem like 
+good news, it will represent a challenge for equity market 
+investors.
+3
+A Look Back at 2023, in months..
+4
+The 2023 Scorecard for Stocks
+5
+A Historical Perspective..
+6
+Returns, by Sector…
+7
+And by region…
+8
+Looking forward..
+¨ While there is comfort in looking backwards, slicing and dicing data 
+in the hope of getting clues for the future, investing is about the 
+future. 
+¨Much as we like to believe that history repeats itself, and find 
+patterns even when they do not exist, the nature of markets makes 
+them difficult to forecast, precisely because they are driven not by 
+what happens on the ground (to the economy, inflation and other 
+fundamentals), but by how these results compare to expectations. 
+¨Going into 2024, investors are clearly in a better mood about what 
+is to come this year, than they were a year ago, but they are pricing 
+in that better mood. To capture the market's mood, I back out the 
+expected return (and equity risk premiuM) that investors are 
+pricing in, through an implied equity risk premium:
+9
+A Forward-looking Expected Return in 
+2024
+10
+The Contrast with 2023…
+11
+On a monthly basis, in 2022 and 2023..
+12
+And over time…
+13
+Judging the ERP!
+14
+An Alternate (and more Conventional) 
+Metric of Stocks!
+15
+Taking a Stand…
+¨I am not a market timer, but I do value the market at regular 
+intervals, more to get a measure of what the market is pricing in, 
+than to forecast future movements. In valuing the index, I follow 
+the intrinsic value rulebook, where the value is determined by 
+expectations of cash flows in the future, discounted back to adjust 
+their risk.
+• To get expected cash flows, I start w ith expectations of earnings from  the 
+equities that comprise the index. For the S&P 500, the most widely 
+followed equity index, I use the consensus estimates of aggregate earnings 
+for 2024 and 2025, from analysts following the index. 
+• The cash flows to equity investors, especially in the United States, have 
+increasingly taken the form of buybacks, rather than just dividends. In 
+2023, dividends and buybacks on the S&P 500 index amounted to $1.367 
+trillion, 164.25 in index units, with 57.6% of these cash flows coming from, 
+buybacks. As a percent of earnings, this represented 74.8% of earnings in 
+that year, representing a decline from payout ratios during this century 
+(2000-2022).
+16
+Valuing the Index on 1/1/24
+17
+What if?
+Aswath Damodaran
+19
+Caveat Emptor!
+Aswath Damodaran
+¨Before you take my market prognostications at face, please do consider 
+my open disclosure that I am not a market.  I do not plan to act on this 
+market valuation by buying puts on the index or even be altering the 
+equity portion of my portfolio.
+¨So, why bother? There are times in the past, when the overvaluation of 
+the market is so large that it operates as a red flag on investing in 
+equities, as an asset class, in general.  That signalworked in early 2000 
+but did not in early 2008, and it is thus a noisy one. 
+¨More generally, though, valuing the market gives me perspective, and 
+allows me to put make sense of both bullish and bearish views on the 
+market. 
+¤Investors and analysts who believe that rates will continue to decline, with a strong 
+economy delivering higher-than-expected earnings, will see significant upside in 
+this market
+¤Investors and analysts who believe that stubbornly higher inflation will cause rates 
+to rise, and that earnings will come in below expectations will be more likely to be 
+part of the doomsday crowd.

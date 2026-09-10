@@ -1,0 +1,281 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/cfexams/CostcoClinic.pdf
+
+1 
+An Investment Analysis Case Study: Costco Clinics
+2 
+Project Logistics 
+This case is a group project that is due on March 27 before class at 10.30 am 
+Stating the obvious: Each group will turn in one report (sounds obvious but I might as 
+well make it explicit) electronically (as a pdf file). While you should include your cash 
+flows tables in your report, you don’t have to attach any excel spreadsheets. 
+Cover page: Each report should have a cover page that contains the following – the 
+names of the group members in alphabetical order and the following summary 
+information on the analysis: 
+1. Decision on Investment: Invest or Do not invest 
+2. Cost of capital: % value 
+3. Return on capital: % value 
+4. NPV – 15-year life: $ value 
+5. NPV- Longer life: $ value  
+Report format: Please try to keep your report brief. In the report, be clear about: 
+a. Any assumptions you made to get to your conclusion 
+b. Your final recommendation 
+Exhibits: Please make sure that you include the following in your exhibits 
+a. The table of earnings/cash flows by year, with line-item details. 
+b. Your computation of cost of equity/capital/discount rate 
+Time: To keep time straight, you can assume the following: 
+Next year: Year 1 
+Most recent year: Just ended   
+Right now: Time 0. Any “up front” expenditure is incurred immediately.
+3 
+Costco Clinics 
+Company Background 
+In the barren landscape that is brick and mortar retailing in the United States, where 
+Amazon has laid waste to much of the status quo, Costco has emerged as one of the few 
+success stories. Built around massive warehouse stores and a robust membership model, 
+the company has seen its market price soar over the last few years: 
+ 
+The core of the company is built around retailing, but it does have significant service (auto, 
+travel, home improvement) and pharmacy revenues. The company faces a challenge, 
+insofar as growth in its biggest market, the United States, is slackening, as the market 
+approaches saturation. Exhibit 1A summarizes Costco’s income statement for the most 
+recent financial years, and Exhibit 1B summarizes its balance sheets for the last year and 
+Exhibit 1C summarizes when the debt comes due (with a weighted average maturity). 
+The Clinic Investment 
+ Looking to augment its revenues, without significantly adding to its real estate 
+footprint, the company is considering carving out portions of its existing stores for medical 
+clinics and labs, hoping to take a share of that lucrative market. This expansion, though, 
+will require major investments in store renovation and lab equipment, and will affect retail 
+sales in the stores where the clinics are located. You have been asked to collect the data to 
+make the assessment and have come back with the following information:
+4 
+1. Starting Investment: To get established in the medical testing business, Costco will 
+spend $ 1 billion immediately to acquire interests in a US company owning testing 
+laboratories across the US. This investment will be depreciated over ten years, using 
+straight line depreciation, starting in year 3. 
+2. Introductory Clinics: The first fifty Costco Clinics are expected to be operational at the 
+beginning of year 3. To accommodate this schedule, Costco will spend $ 1 billion over 
+the next two years - $ 500 million at the end of each year – adding clinics to fifty of its 
+highest traffic stores. These stores will start delivering revenues in year 3, and the  
+investments will be capitalized and depreciated over ten years, using straight line 
+depreciation, starting in year 3. 
+3. New Clinics: Starting in year 4, Costco plans to open twenty new clinics at the 
+beginning of each year for ten years (Years 4-13). The cost of opening a clinic is 
+expected to be $ 20 million in year 4, and grow at the inflation rate beyond that. Like 
+the other capital investments, these expenses will be depreciated using straight -line 
+depreciation over ten years, starting the year of each investment. Costco is planning to 
+open 80% of these new clinics in the United States, but the remaining 20% will be in 
+Latin America and Asia, with the following mix for the 200 clinics that will be opened 
+between years 4-13. 
+Region Number of new clinics 
+United States 160 
+Asia 20 
+Latin America 20 
+Total 200 
+For the rest of the case, the revenues and expenses at non-US stores will be converted 
+into and presented in US dollar terms. 
+4. Market Testing: Costco has already spent $250 million, testing the market and getting 
+the necessary approvals to be able to operate these clinics, and it will be unable to 
+recoup the money, if Costco decides not to open the clinics. 
+5. Store Economics: Each of the clinics in the first year of operations (year 3) is expected 
+to generate $ 50 million in revenues, and these per-clinic revenues are expected to grow 
+at the inflation rate (which is 3%). Thus, there will be 50 clinics generating $ 50 million
+5 
+in revenues each in year 3 (Total revenue = $ 2.5 billion), 70 stores generating $ 51.5 
+million in revenues each in year 4 (Total revenues = $ 3.605 billion), 90 stores 
+generating $ 53.05 million each in year 5…  After year 13, the number of stores will 
+be capped at 250 stores, but the growth in revenues per store will continue to track the 
+inflation rate.  
+6. Profit Margins: The pre-tax gross profit margins (prior to depreciation, advertising 
+expenses and allocations of corporate costs) are expected to be 25% of revenues on 
+clinic revenues. These gross margins are much higher than the 10-12% gross margins 
+in Costco’s traditional businesses. 
+7. Allocated costs: Costco will allocate 5% of its existing G&A costs to the new division, 
+starting in year 3. These G&A costs now total $12 billion for the entire firm and are 
+expected to grow 5% a year in the long term. In addition, because of this project, it is 
+expected that Costco will see an increase of $ 150 million in general and administrative 
+costs in year 3 when the new division starts generating revenues, and this amount will 
+grow with the new division’s revenues after that. 
+8. Logistics Investment: While the new business will need distributional support, it is 
+anticipated that Costco can use excess capacity in its existing storage and logistics 
+network. The current retail business is currently using 60% of the distribution capacity, 
+but the demand for this capacity from this business is growing 5% a year (it will use 
+63% next year, 66.15% the year after and so on.). The clinics will use 20% of the 
+capacity in year 3 (which is the first year of revenue generation) and its usage will track 
+store numbers after that. (Thus, when the number of clinics climbs from 50 in year 3 to 
+70 in year 4, the clinic’s usage of capacity will rise from 20% to 28%...) When Costco 
+runs out of logistics capacity, it will have to pay for an expansion of its logistical 
+network, a major endeavor that will cost a substantial amount. (The current estimate of 
+the cost of expansion is $1 billion, but this cost will grow at the inflation rate. You can 
+assume that investment in distribution capacity is also depreciated straight line over 10 
+years) 
+9. Advertising: Costco spent $ 1 billion in advertising expenses in the most recent year 
+and expects these expenses to grow 3% a year for the next 15 years, if it does not invest 
+in the clinic business. If the clinic business is added to the company, the total
+6 
+advertising costs will be 15% higher than they would have been without the clinic 
+business each year from year 3 (the first year of clinic operations) for as long as the 
+clinics are in operation.1   
+10. Working Capital: The clinic division will create working capital needs, which you have 
+estimated as follows: 
+• Waiting for payments from insurance companies will create accounts 
+receivable amounting to 10% of revenues each year. 
+• Inventory (of health care materials and drugs) will be approximately 10% of the 
+cost of goods sold (not including depreciation, allocations, or advertising 
+expenses). 
+• The credit offered by suppliers will be 5% of the cost of goods sold (not 
+including depreciation, allocations, or advertising expenses). 
+These working capital investments will have to be made at the beginning of each year in 
+which goods are sold. Thus, the working capital investment for the third year will have 
+to be made at the beginning of the third year.  
+11. Side Costs and Benefits: If Costco opens the clinics, there is the potential for both side 
+costs and side benefits to the stores in which these clinics are placed. On the cost side, 
+the clinics will replace the cosmetics sections of the stores in which they are placed; 
+these cosmetics sections generated about $2 million in after-tax operating income per 
+store in the most recent year, with those earnings expected to grow at the inflation rate 
+in the future. On the benefit side, the customers who come into the Costco Clinics are 
+expected to buy $50 million in additional merchandise at each clinic store, in current 
+dollars, growing at the inflation rate over time, and Costco expects to generate an 
+operating margin on these sales that are approximately equal to what it earned as a pre-
+tax operating margin in its most recent twelve months. (See Exhibit 1A). 
+12. Risk Measures: The raw beta for Costco is 0.977, calculated using weekly returns over 
+the last 2 years and against the S&P 500 Index; you can assume that this is an adequate 
+ 
+1 For instance, if you have $1.2 billion in year 3 and $1.25 billion in advertising expenses 
+in year 4 without the clinic business, the advertising expenses will be $1.38 billion in 
+year 3 (15% higher than $1.2 billion) and $143.75 billion (15% higher than $1.25 billion) 
+in year 4 if you take the clinic project.
+7 
+measure of Costco’s current operating and financial risk exposure, from its retail and 
+service businesses. The details of the beta calculation are included in Exhibit 2 and the 
+top holders of shares in Costco are listed in Exhibit 3. Costco currently is rated Aa3 (by 
+Moody’s), and Aa3 rated bonds trade at a default spread of 1% over the long-term 
+treasury bond rate.  
+13. Debt and Leases: Costco has $6,946 million in interest-bearing debt in its most recent 
+balance sheet, with interest expenses of $164 million and a weighted average maturity 
+of 4.41 years. (Exhibits 1B and 1C). While the accountants have capitalized lease 
+commitments and shown a value of $2.401 billion on the balance sheet, you distrust 
+the calculation and plan to capitalize leases yourself. The firm’s lease commitments are 
+summarized in the table below (next year is year 1, two years from now is year 2, etc.) 
+Year 
+Lease 
+Commitment 
+Most recent year 
+                                 
+$425.00  
+1 (next year) $406.00 
+2 $342.00 
+3 $290.00 
+4 $264.00 
+5 $250.00 
+Beyond year 5 $2140.00 
+You can assume that the lump-sum commitment after year 5 is spread out evenly over 
+ten years (years 6-15). The current stock price for the firm is $ 750 per share and there 
+are 443.70 million shares outstanding. Costco expects to finance its clinics using the 
+same mix of debt (with leases & contractual commitments considered as debt) and 
+equity (in market value terms) as it is using currently in the rest of its business. 
+14. Taxes: Costco’s average effective tax rate over the last five years has been 25%, which 
+is also its marginal tax rate 
+15. Macro Data on Rates and ERP: The current 3 month T.Bill rate is 5.0%, the 10-year 
+US treasury bond rate is 4.25%, and the expected inflation rate in US dollars is 3%. 
+The equity risk premium for the US is 4.5% but you are provided with a breakdown of 
+regional equity risk premiums in the table below: 
+Region Weighted Average: ERP
+8 
+Africa 13.76% 
+Asia 6.28% 
+Australia & New Zealand 4.60% 
+Caribbean 18.75% 
+Central and South America 10.36% 
+Eastern Europe & Russia 9.66% 
+Middle East 6.76% 
+North America 4.60% 
+Western Europe 5.89% 
+Global 6.41% 
+16. Peer group: You have collected information on other health care service companies in 
+Exhibit 4. The data includes the betas of these companies, their market values for debt 
+(including operating leases), equity, cash holdings, annual revenues, and operating 
+income. You can assume that the marginal tax rate for these companies is also 25%.
+9 
+Questions on the Project 
+1. Accounting Return Analysis 
+• Estimate the operating income from the proposed investment to Costco over 
+the next 15 years. 
+• Estimate the after-tax return on capital for the operating portion of this period 
+(Years 3-15) 
+• Based upon the after-tax return on capital, would you accept or reject this 
+project? 
+This will require you to make some assumptions about allocation and expensing. 
+Make your assumptions as consistent as you can and estimate the return on capital. 
+2. Cash Flow Analysis 
+• Estimate the after-tax incremental cash flows from the proposed investment to 
+Costco over the next 15 years. 
+• If the project is terminated at the end of the 15th year, and both working 
+capital and investment in other assets can be sold for book value at the end of 
+that year, estimate the net present value of this project to Costco. Develop a 
+net present value profile and estimate the internal rate of return for this 
+project. 
+• If the clinic business is expected to have a life much longer than 15 years, 
+estimate the net present value of this project, making reasonable and 
+consistent assumptions about investments and cash flows after year 15. 
+Develop a net present value profile and estimate the internal rate of return for 
+this project. 
+3. The Decision 
+Based on your analysis, would you accept this project or reject it? Remember that this 
+does not just have to be about the numbers but explain your decision (briefly).
+10 
+Exhibit 1A: Historical Income Statements for Costco (in $ millions)
+11 
+Exhibit 1B: Historical Balance Sheets – Costco (in $ millions)
+12 
+Exhibit 1C: Debt Maturity 
+ 
+  
+ Weighted average maturity 
+of debt
+13 
+Exhibit 2: Beta Calculation for Costco 
+ 
+Exhibit 3: Holdings Analysis for Costco
+14 
+Exhibit 4: Comparable Company Data 
+Company Name Beta Total Debt 
+Market 
+Cap Cash Revenue 
+Operating 
+Income 
+HCA Healthcare, Inc 1.05 $41,859.00 $83,052.60 $1,022.00 $64,968.00 $9,627.00 
+Universal Health 
+Services, Inc. 
+1.03 $5,383.80 $11,316.60 $80.80 $14,025.40 $1,163.10 
+Tenet Healthcare 
+Corporation  
+1.30 $16,213.00 $9,022.50 $1,228.00 $20,548.00 $2,789.00 
+Acadia Healthcare 
+Company 
+0.62 $1,498.80 $8,057.90 $100.10 $2,861.20 $489.20 
+Encompass Health Corp 0.74 $2,932.80 $7,552.10 $69.10 $4,801.20 $731.80 
+The Ensign Group, Inc. 0.64 $1,871.30 $6,965.80 $526.90 $3,729.40 $255.40 
+Surgery Partners, Inc.  1.85 $2,775.10 $4,007.90 $195.90 $2,743.30 $416.00 
+Select Medical 
+Holdings Corp 
+0.97 $4,959.50 $3,583.90 $143.00 $6,664.10 $554.90 
+U.S. Physical Therapy 0.67 $260.40 $1,540.20 $151.20 $585.20 $68.80 
+National HealthCare 
+Corp 
+1.45 $93.40 $1,504.50 $223.60 $1,135.30 $51.20 
+Brookdale Senior 
+Living 
+1.19 $4,725.70 $1,119.00 $307.70 $2,867.40 $26.60 
+Sienna Senior Living 0.90 $762.20 $718.40 $19.70 $594.70 $49.80 
+Extendicare Inc.  0.66 $250.80 $424.50 $71.20 $935.30 -$19.00 
+Community Health 
+Systems  
+1.89 $12,174.00 $360.70 $38.00 $12,490.00 $870.00 
+Medical Facilities Corp 1.16 $127.40 $184.40 $27.00 $442.80 $63.90 
+The Joint Corp. 1.64 $24.70 $145.20 $16.10 $114.80 $0.70 
+The Oncology Institute 1.12 $117.50 $140.90 $87.40 $309.90 -$57.60 
+Sonida Senior Living 0.53 $629.50 $131.00 $3.56 $228.20 -$17.70 
+SunLink Health 
+Systems 
+0.65 $0.66 $5.64 $2.06 $46.90 -$4.86 
+Beta: Regression beta over the last two years

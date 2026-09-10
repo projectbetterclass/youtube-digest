@@ -1,0 +1,575 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr24/session20slides.pdf
+
+87
+6Application Test: Your firm’s optimal financing mix
+Aswath Damodaran
+87
+¨Using the optimal capital structure spreadsheet 
+provided:
+1. Estimate the optimal debt ratio for your firm
+2. Estimate the new cost of capital at the optimal
+3. Estimate the effect of the change in the cost of capital on 
+firm value
+4. Estimate the effect on the stock price
+¨In terms of the mechanics, what would you need to 
+do to get to the optimal immediately?
+88
+III. The APV Approach to Optimal Capital 
+Structure
+Aswath Damodaran
+88
+¨In the adjusted present value approach, the value of 
+the firm is written as the sum of the value of the firm 
+without debt (the unlevered firm) and the effect of 
+debt on firm value
+Firm Value = Unlevered Firm Value + (Tax Benefits of Debt -
+Expected Bankruptcy Cost from the Debt)
+¨The optimal dollar debt level is the one that 
+maximizes firm value
+89
+Implementing the APV Approach
+Aswath Damodaran
+89
+¨Step 1: Estimate the unlevered firm value. This can be done in one 
+of two ways:
+¤Estimating the unlevered beta, a cost of equity based upon the unlevered 
+beta and valuing the firm using this cost of equity (which will also be the 
+cost of capital, with an unlevered firm)
+¤Alternatively, Unlevered Firm Value = Current Market Value of Firm -Tax 
+Benefits of Debt (Current) + Expected Bankruptcy cost from Debt
+¨Step 2: Estimate the tax benefits at different levels of debt. The 
+simplest assumption to make is that the savings are perpetual, in 
+which case
+¤Tax benefits = Dollar Debt * Tax Rate
+¨Step 3: Estimate a probability of bankruptcy at each debt level, and 
+multiply by the cost of bankruptcy (including both direct and 
+indirect costs) to estimate the expected bankruptcy cost.
+90
+Estimating Expected Bankruptcy Cost
+Aswath Damodaran
+90
+¨Probability of Bankruptcy
+¤Estimate the synthetic rating that the firm will have at each level of 
+debt
+¤Estimate the probability that the firm will go bankrupt over time, at 
+that level of debt (Use studies that have estimated the empirical 
+probabilities of this occurring over time -Altman does an update every 
+year)
+¨Cost of Bankruptcy
+¤The direct bankruptcy cost is the easier component. It is generally 
+between 5-10% of firm value, based upon empirical studies
+¤The indirect bankruptcy cost is much tougher . It should be higher for 
+sectors where operating income is affected significantly by default risk 
+(like airlines) and lower for sectors where it is not (like groceries)
+91
+Ratings and Default Probabilities: Results from 
+Altman study of bonds
+Aswath Damodaran
+91
+Rating Likelihood of Default
+AAA 0.07%
+AA 0.51%
+A+ 0.60%
+A 0.66%
+A- 2.50%
+BBB 7.54%
+BB 16.63%
+B+ 25.00%
+B 36.80%
+B- 45.00%
+CCC 59.01%
+CC 70.00%
+C 85.00%
+D 100.00%
+Altman estimated these probabilities by 
+looking at bonds in each ratings class ten 
+years prior and then examining the 
+proportion of these bonds that defaulted 
+over the ten years.
+92
+Disney: Estimating Unlevered Firm Value
+Aswath Damodaran
+92
+Current Value of firm =  $121,878+ $15,961 = $ 137,839
+-Tax Benefit on Current Debt = $15,961 * 0.361 = $      5,762 
++ Expected Bankruptcy Cost = 0.66% * (0.25 * 137,839) =  $         227
+Unlevered Value of Firm = = $  132,304
+¨I will assume the following parameters for Disney:
+¤Cost of Bankruptcy for Disney = 25% of firm value
+¤Probability of Bankruptcy = 0.66%, based on firm’s current 
+rating of A
+¤Tax Rate = 36.1%
+93
+Disney: APV at Debt Ratios
+Aswath Damodaran
+93
+The optimal debt ratio is 40%, 
+which is the point at which firm 
+value is maximized. 
+Debt Ratio$ DebtTa x  Ra te
+Unlevered 
+Firm V alueTa x  Be n e fitsBond Rating
+Probability 
+of Default
+Expected 
+Bankruptcy 
+Cost
+Va l u e  o f  
+Levered 
+Firm
+0% $0 36.10%$132,304 $0 AAA 0.07% $23 $132,281 
+10% $13,784 36.10%$132,304 $4,976 Aaa/AAA 0.07% $24 $137,256 
+20% $27,568 36.10%$132,304 $9,952 Aaa/AAA 0.07% $25 $142,231 
+30% $41,352 36.10%$132,304 $14,928 Aa2/AA 0.51% $188 $147,045 
+40% $55,136 36.10%$132,304 $19,904 A2/A 0.66% $251 $151,957 
+50% $68,919 36.10%$132,304 $24,880 B3/B- 45.00% $17,683 $139,501 
+60% $82,703 36.10%$132,304 $29,856 C2/C 59.01% $23,923 $138,238 
+70% $96,487 32.64%$132,304 $31,491 C2/C 59.01% $24,164 $139,631 
+80% $110,271 26.81%$132,304 $29,563 Ca2/CC 70.00% $28,327 $133,540 
+90% $124,055 22.03%$132,304 $27,332 Caa/CCC 85.00% $33,923 $125,713
+94
+IV . Relative Analysis
+Aswath Damodaran
+94
+¨The “safest”place for any firm to be is close to the 
+industry average. Me-tooism is a survival mechanism, 
+andpushes managers towards peer group behavior .
+¨Subjective adjustments can be  made to these 
+averages to arrive at the right debt ratio.
+¤Higher tax rates -> Higher debt ratios (Tax benefits)
+¤Lower insider ownership -> Higher debt ratios (Greater 
+discipline)
+¤More stable income -> Higher debt ratios (Lower 
+bankruptcy costs)
+¤More intangible assets -> Lower debt ratios (More agency 
+problems)
+95
+Comparing to industry averages
+Aswath Damodaran
+95
+  Debt to Capital 
+Ratio 
+Net Debt to Capital 
+Ratio   Debt to Capital 
+Ratio 
+Net Debt to Capital 
+Ratio 
+Company Book 
+value 
+Market 
+value 
+Book 
+value 
+Market 
+value 
+Comparable 
+group 
+Book 
+value 
+Market 
+value 
+Book 
+value 
+Market 
+value 
+Disney 22.88% 11.58% 17.70% 8.98% US 
+Entertainment 39.03% 15.44% 24.92% 9.93% 
+Vale 39.02% 35.48% 34.90% 31.38% 
+Global 
+Diversified 
+Mining & Iron 
+Ore (Market 
+cap> $1 b) 
+34.43% 26.03% 26.01% 17.90% 
+Tata 
+Motors 58.51% 29.28% 22.44% 19.25% 
+Global Autos 
+(Market Cap> $1 
+b) 
+35.96% 18.72% 3.53% 0.17% 
+Baidu 32.93% 5.23% 20.12% 2.32% Global Online 
+Advertising 6.37% 1.83% -27.13% -2.76%
+96
+Getting past simple averages
+Aswath Damodaran
+96
+Step 1: Run a regression of debt ratios on the variables that 
+you believe determine debt ratios in the sector. For 
+example,
+Debt Ratio = a + b (Tax rate) + c (Earnings Variability) + d 
+(EBITDA/Firm Value)
+Check this regression for statistical significance (t statistics) 
+and predictive ability (R squared)
+Step 2: Estimate the values of the proxies for the firm 
+under consideration. Plugging into the crosssectional
+regression, we can obtain an estimate of predicted debt 
+ratio.
+Step 3: Compare the actual debt ratio to the predicted debt 
+ratio.
+97
+Applying the Regression Methodology: Global 
+Auto Firms
+Aswath Damodaran
+97
+¨Using a sample of 56 global auto firms, we arrived at the 
+following regression:
+Debt to capital = 0.09 + 0.63 (Effective Tax Rate) + 1.01 (EBITDA/ Enterprise 
+Value) -0.93 (Cap Ex/ Enterprise Value)
+¨The R squared of the regression is 21%. This regression 
+can be used to arrive at a predicted value for Tata 
+Motors of:
+Predicted Debt Ratio = 0.09 + 0.63 (0.252) +1.01 (0.1167) -0.93 
+(0.1949) = .1854 or 18.54%
+¨Based upon the capital structure of other firms in the 
+automobile industry, Tata Motors should have a market 
+value debt ratio of 18.54%. It is over levered at its 
+existing debt ratio of 29.28%.
+98
+Extending to the entire market
+Aswath Damodaran
+98
+¨Using 2014 data for US listed firms, we looked at the 
+determinants of the market debt to capital ratio. The 
+regression provides the following results –
+DFR = 0.27  -0.24 ETR -0.10 g–0.065 INST -0.338 CVOI+ 0.59 E/V
+(15.79) (9.00) (2.71) (3.55) (3.10)     (6.85) 
+DFR = Debt / ( Debt + Market Value of Equity)
+ETR = Effective tax rate in most recent twelve months
+INST = % of Shares held by institutions
+CVOI = Std dev in OI in last 10 years/ Average OI in last 10 years
+E/V= EBITDA/ (Market Value of Equity + Debt-Cash)
+The regression has an R-squared of 8%.
+99
+Applying the Regression
+Aswath Damodaran
+99
+¨Disney  had the following values for these inputs in 2014. Estimate the 
+optimal debt ratio using the debt regression.
+Effective Tax Rate (ETR) = 31.02%
+Expected Revenue Growth = 6.45%
+Institutional Holding %  (INST) = 70.2%
+Coefficient of Variation in OI (CVOI) = 0.0296
+EBITDA/Value of firm (E/V) = 9.35%
+Optimal Debt Ratio 
+= 0.27  -0.24 (.3102) -0.10 (.0645)–0.065 (.702) -0.338 (.0296)+ 0.59 (.0935)
+= 0.1886 or 18.86%
+¨ What does this optimal debt ratio tell you?
+¨ Why might it be different from the optimal calculated using the weighted average 
+cost of capital?
+100
+Summarizing the optimal debt ratios…
+Aswath Damodaran
+100
+ Disney Vale Tata Motors Baidu 
+Actual Debt Ratio 11.58% 35.48% 29.28% 5.23% 
+Optimal     
+I. Operating income 35.00% — -  
+II. Standard Cost of capital 40.00% 30.00% (actual) 
+50.00% (normalized) 
+20.00% 10.00% 
+III. Enhanced Cost of Capital 40.00% 30.00% (actual) 
+40.00% (normalized) 
+10.00% 10.00% 
+IV. APV 40.00% 30.00% 20.00% 20.00% 
+V. Comparable     
+ To industry 28.54% 26.03% 18.72% 1.83% 
+ To market 18.86% — -
+GETTING TO THE OPTIMAL:
+TIMING AND FINANCING 
+CHOICES
+You can take it slow.. Or perhaps not…
+Aswath Damodaran 101
+102
+Back to the Big Picture!
+Aswath Damodaran
+102
+The Investment Decision
+Invest in assets that earn a 
+return greater than the 
+minimum acceptable hurdle 
+rate
+The Financing Decision
+Find the right kind of debt 
+for your ﬁrm and the right 
+mix of debt and equity to 
+fund your operations 
+The Dividend Decision
+If you cannot ﬁnd investments 
+that make your minimum 
+acceptable rate, return the cash 
+to owners of your business
+The hurdle rate 
+should reﬂect the 
+riskiness of the 
+investment and 
+the mix of debt 
+and equity used 
+to fund it.
+The return  
+should reﬂect the 
+magnitude and 
+the timing of the 
+cashﬂows as well 
+as all side effects.
+The optimal 
+mix of debt 
+and equity 
+maximizes ﬁrm 
+value
+The right kind 
+of debt 
+matches the 
+tenor of your 
+assets
+How much 
+cash you can 
+return 
+depends upon 
+current  & 
+potential 
+investment 
+opportunities
+How you choose 
+to return cash to 
+the owners will 
+depend on 
+whether they 
+prefer dividends 
+or buybacks
+Maximize the value of the business (ﬁrm)
+103
+Now that we have an optimal.. And an actual.. 
+What next?
+Aswath Damodaran
+103
+¨At the end of the analysis of financing mix (using 
+whatever tool or tools you choose to use), you can come 
+to one of three conclusions:
+1. The firm has the right financing mix
+2. It has too little debt (it is under levered)
+3. It has too much debt (it is over levered)
+¨The next step in the process is
+¤Determining whether to move to the optimal (is it worth the 
+move and disruption, if the value change is small?)
+¤If you decide to move, how quickly or gradually the firm should 
+move to its optimal?
+¤Assuming thatit does, the right kind of financing to use in 
+making this adjustment..
+104
+A Framework for Getting to the Optimal
+Aswath Damodaran
+104
+Is the actual debt ratio greater than or lesser than the optimal debt ratio?
+Actual > Optimal
+Overlevered
+Actual < Optimal
+Underlevered
+Is the firm under bankruptcy threat? Is the firm a takeover target?
+Yes No
+Reduce Debt quickly
+1. Equity for Debt swap
+2. Sell Assets; use cash
+to pay off debt
+3. Renegotiate with lenders
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes
+Take good projects with
+new equity or with retained
+earnings.
+No
+1. Pay off debt with retained
+earnings.
+2. Reduce or eliminate dividends.
+3. Issue new equity and pay off 
+debt.
+Yes No
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes
+Take good projects with
+debt.
+No
+Do your stockholders like
+dividends?
+Yes
+Pay Dividends No
+Buy back stock
+Increase leverage
+quickly
+1. Debt/Equity swaps
+2. Borrow money&
+buy shares.
+105
+Disney: Applying the Framework
+Is the actual debt ratio greater than or lesser than the optimal debt ratio?
+Actual > Optimal
+Overlevered
+Actual < Optimal
+Actual (11.58%) < Optimal (40%)
+Is the firm under bankruptcy threat? Is the firm a takeover target?
+Yes No
+Reduce Debt quickly
+1. Equity for Debt swap
+2. Sell Assets; use cash
+to pay off debt
+3. Renegotiate with lenders
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes
+Take good projects with
+new equity or with retained
+earnings.
+No
+1. Pay off debt with retained
+earnings.
+2. Reduce or eliminate dividends.
+3. Issue new equity and pay off 
+debt.
+Yes No. Large mkt cap & positive 
+Jensen’s a
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes. ROC > Cost of capital
+Take good projects
+With debt.
+No
+Do your stockholders like
+dividends?
+Yes
+Pay Dividends No
+Buy back stock
+Increase leverage
+quickly
+1. Debt/Equity swaps
+2. Borrow money&
+buy shares.
+106
+6Application Test: Getting to the Optimal
+Aswath Damodaran
+106
+¨Based upon your analysis of both the firm’s capital 
+structure and investment record, what path would 
+you map out for the firm?
+a.Immediate change in leverage
+b.Gradual change in leverage
+c.No change in leverage
+¨Would you recommend that the firm change its 
+financing mix by 
+a.Paying off debt/Buying back equity
+b.Take projects with equity/debt
+107
+The Mechanics of Changing Debt Ratio quickly…
+Aswath Damodaran
+107
+Assets Liabilities
+Opearing 
+Assets in place
+Debt
+EquityGrowth Assets
+Cash
+To decrease the debt ratio
+To increase the debt ratio
+Borrow money and buy 
+back stock or pay a large 
+special dividend
+Sell operating assets 
+and use cash to buy 
+back stock or pay or 
+special dividend
+Issue new stock to retire 
+debt or get debt holders to 
+accept equity in the ﬁrm.
+Sell operating assets 
+and use cash to pay 
+down debt.
+108
+The mechanics of changing debt ratios over time… 
+gradually…
+Aswath Damodaran
+108
+¨To change debt ratios over time, you use the same mix of 
+tools that you used to change debt ratios gradually:
+¤Dividends and stock buybacks: Dividends and stock buybacks will 
+reduce the value of equity.
+¤Debt repayments: will reduce the value of debt.
+¨The complication of changing debt ratios over time is 
+that firm value is itself a moving target.  
+¨If equity is fairly valued today, the equity value should change 
+over time to reflect the expected price appreciation:
+nExpected Price appreciation = Cost of equity –Dividend Yield
+nDebt will also change over time, in conjunction as firm value 
+changes.
+109
+Designing Debt: The Fundamental Principle
+Aswath Damodaran
+109
+¨The objective in designing debt is to make the cash 
+flows on debt match up as closely as possible with 
+the cash flows that the firm makes on its assets.
+¨By doing so, we reduce our risk of default, increase 
+debt capacity and increase firm value.
+¨In essence, we are making debt look and behave like 
+equity, in terms of flexibility.
+110
+Firm with mismatched debt
+Aswath Damodaran
+110
+Firm Value
+Value of Debt
+111
+Firm with matched Debt
+Aswath Damodaran
+111
+Firm Value
+Value of Debt
+112
+Design the perfect financing instrument
+Aswath Damodaran
+112
+¨The perfect financing instrument will
+¤Have all of the tax advantages of debt
+¤While preserving the flexibility offered by equity
+Duration Currency Effect of Inflation
+Uncertainty about Future
+Growth Patterns Cyclicality &
+Other Effects
+Define Debt
+Characteristics
+Duration/
+Maturity
+Currency
+Mix
+Fixed vs. Floating Rate
+* More floating rate 
+- if CF move with 
+inflation
+- with greater uncertainty 
+on future
+Straight versus
+Convertible
+- Convertible if
+cash flows low 
+now but high
+exp. growth
+Special Features
+on Debt
+- Options to make 
+cash flows on debt 
+match cash flows 
+on assets
+Start with the 
+Cash Flows
+on Assets/
+Projects
+Commodity Bonds
+Catastrophe Notes
+Design debt to have cash flows that match up to cash flows on the assets financed

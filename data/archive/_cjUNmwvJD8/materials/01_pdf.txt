@@ -1,0 +1,351 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/KeyPerson.pdf
+
+DIFFERENCE MAKERS: KEY 
+PERSON(S) VALUATION
+The business value of a person or people
+2
+TheLead In
+¨Can one person make a difference to the value of a business? 
+Of course, and with small businesses, especially those built 
+around personal services (a doctor or plumber’s practice), it is 
+part of the valuation process, where the key person is valued 
+or at least priced and incorporated into valuation. 
+¤While that effect tends to fade as businesses get larger, the tumult at 
+Open AI, where the board dismissed Sam Altman as CEO, and then 
+faced with a meltdown in the enterprise. 
+¤In fact, at Tesla, a company that I have valued at regular intervals over 
+the last decade, the question of what Elon Musk adds or detracts from 
+value has become more significant over time, rather than fading. 
+¤Charlie Munger's passing at the age of ninety-nine brought to a close
+one of the most storied key person teams of all time at Berkshire 
+Hathaway, and generations of investors who had attached a premium 
+to the company because of his presence mourned.
+3
+Key Person: The Who?
+¨ Itstartsofcoursewithfounderswhocreateorganizationsandleadthemthroughtheirearlyyears
+andextendsintotopmanagers,partlybecausetheyrepresenttheircompaniestotherestofthe
+world,butbecausetheymoldthesecompanies,atleastintheirformativeyears.
+¨ Stayingatthetop,CEOsforcompaniesoftenbecomeentwinedwiththeircompanies,especiallyas
+theirtenurelengthens.FromAlfredSloanatGeneralMotorstoJackWelchatGeneralElectricto
+SteveJobsatApple,thereisahistoryofCEOsbeingtaggedassuperstars(andindispensabletothe
+organizationsthattheyhead),insuccessfulcompanies
+¨ Asyoumovedowntheorganization,therecanbekeyplayersinalmosteveryarea,withascientist
+orscientistsatpharmaceuticalcompanieswhocomeupwithpathbreakingdiscoveriesthat
+becomethebasisforblockbusterdrugsoradesignspecialist.
+¨ Inbusinessesdrivenbyselling,amaster-salespersonordealmakercanbecomeacentraldriverof
+itsvalue,bringinginaclientelethatismoreattachedtothesalespersonnelthantheyaretothe
+organizationprovidingtheproductorservice.
+¨ Inpeople-orientedbusinesses,especiallyinservice,amanageroremployeethatcultivatesstrong
+relationshipswithcustomers,suppliersandotheremployees,canbeakeyperson,withtheloss
+ofthatpersonleadingtonotjustlostsales,asclientsflee,butcreaterippleeffectsacrossthe
+organization.
+¨ Insomebusinesses,thekeypersonmaynotworkfortheorganizationbutcontributeasignificant
+amounttoitsvalueasaspokespersonoradvertisingperson.Insportsandentertainment,for
+instance,businesscangainvaluefromhavingacelebrityrepresentingtheminapaidorunpaid
+capacity.
+4
+Key Person: Pathways to Value
+5
+Key Person Valuation: Three Approaches
+1.Keypersonvaluation:Youvaluethecompanytwice,oncewiththekey
+personsincluded,withallthattheybringtoit’scashflowsandvalue,andthen
+again,withoutthosekeypersons,reflectingthechangesthatwilloccurtovalue
+inputs:
+Value of key person(s) = Value of business with key person -Value of business 
+without key person
+2.ReplacementCost:Insomecases,thevalueofakeypersoncanbecomputed
+byestimatingthecostofreplacingthatperson.Thus,keypeoplewithspecific
+andreplicableskills,suchasskilledscientistsorengineers,maybeeasiertovalue
+thankeypeople,withfuzzierskillsets,suchasstrongconnectionsandpeople
+skills.
+3.Insurancecost:Finally,therearesomekeypeopleinanorganizationwhocan
+beinsured,whereinsurancecompanies,inreturnforapremiumpayment,will
+payoutanamounttocompensateforthelossofthesekeypeople.For
+companiesthatbuyinsurance,thekeypersonvaluethenbecomemonetizedasa
+cost,reducingthevalueofthesecompanieswhenthekeypersonispresent,
+whileincreasingitsvalue,whenitlosesthatperson.
+6
+Value Implications
+¨Differences across firms: The key person valuation approach, 
+while general, can not only yield different values for key 
+people in different firms. There is no “one-size-fits-all” .
+¨Positive or Negative: The approach can also generate a value 
+effect that is negative for a key person whose influence on 
+value that is malignant.  
+¨Changes over time: Finally, the framework can also help 
+explain how the value of a key person can evolve over time, 
+from a huge positive at one stage of an organization to 
+neutral later or even a huge negative, explaining why some 
+key people get pushed out of organizations, including those 
+that they may have founded.
+7
+Key Person: Pricing in Private Business 
+Appraisals
+¨In appraisal practice, the effect of the potential loss of an 
+owner, founder or other key person in a business that you are 
+acquiring is usually captured with a key person discount, 
+where you price the business first, based upon its existing 
+financials (earnings, growth and cash flows), and then reduce 
+that pricing by 15%, 20% or more to reflect the absence of 
+the key person. 
+¤Shannon Pratt, in his widely used work on valuing private companies, 
+suggested a key person discount of between 10%-25%, though he left 
+the number almost entirely to appraiser discretion. 
+¤In addition, the nature of private company appraisal, where valuations 
+are done for tax or legal purposes, has also meant that the acceptable 
+levels of discount for key people have been determined more by 
+courts, in their ruling on these valuations, than by first principles.
+8
+Key Person: Market Reactions toCEO 
+Deaths
+¨In theHBO hit series, Succession, the death of Logan Roy, the 
+autocratic CEO of the company causes the stock price of Waystar
+Royco, his family-controlled company, to drop precipitously. 
+¨While that was fiction and perhaps exaggerated for dramatic effect, 
+there is research that looks at the market reaction to the deaths of 
+CEOs of publicly traded companies, albeit with mixed results. 
+¤Astudy of CEO deaths at 240 publicly traded companiesbetween 1950 
+and 2009finds that in almost half of all ofthese cases, the stock price 
+increases on the death of a CEO, and unsurprisingly, the reactions tended 
+to be negative with under-performing CEOs and positive with highly 
+regarded ones. 
+¤Interestingly, this study also finds that the impact of CEOs, both positive 
+and negative, was greater in the later time periods, than in earlierones.
+¤Adifferent studydocumented that the stock price reaction to CEO deaths 
+was greater for longer-tenured CEOs in badly performing firms, 
+strengthening the negative value effect argument.
+9
+Key Person: Market Reactions to CEO 
+Replacements/Retirements
+1. CEO(forced)replacements:CEOsaremostlikelytobereplacedincompanies,
+wheretheirpoliciesareatoddswiththosethattheirshareholdersdesire,but
+giventhepowersofincumbency,changemayrequirethepresenceofalargeand
+vocalshareholder(activist),pushingforchange.
+¤ Totheextentthatshareholdershavegoodreasonstobedisgruntled,thecompaniescanbe
+viewedascasestudiesforkey-personnegativevalue,wherethetopmanagerisreducingvalue
+withhisorheractions.
+¤ Researchonwhathappenstostockpricesandcompanyperformanceafterforced
+replacementslargelyconfirmthishypothesis,withstockpricesrisingonthefiring,and
+improvedperformancefollowing,underanewCEO.
+2. CEOretirements:IfCEOdeathsrepresentunexpectedlossesofkeypeople,and
+CEOdismissalsrepresentthesubsetoffirmswhereCEOsaremorelikelytobe
+value-reducingkeypeople,itstandstoreasonthatCEOretirementsshouldbe
+moreofamixedbag.
+¤ Researchbacksupthishypothesis,withtheaveragestockpricereactiontovoluntaryCEO
+departuresbeingclosetozero,withamildlynegativereactiontoage-relateddepartures.
+¤ Itisworthnotingthatmarketreactionstendtobemuchmorepositive,whenCEOsare
+replacedbyoutsidersthanbysomeonefromwithinthefirm,suggestingthatshareholderssee
+valueinchangingthewaybusinessesarerun.
+10
+Key Person: Market Reactions to Celebrity/ 
+Spokespersons 
+¨When Tiger Woods, who operated as a spokesperson or product 
+endorser for five companies (Accenture, Nike, Gillette, Electronic 
+Arts and Gatorade), had personal troubles that were made 
+public,these five companies collectively lost 2-3% of their market 
+value (about $5-12 billion). 
+¨In an earlier episode, Nike also lost billions in market 
+capitalizations, when Michael Jordan, an NBA superstar whose 
+name-branded footwear (Air Jordan) had become a staple for 
+Nike,unexpectedly announced in 1993, that he would be retiring 
+from basketball, to play baseball. 
+¨Finally, and this is perhaps a reach at this point, the biggest story 
+coming out of the National Football League (NFL) this year has 
+been the Taylor Swift-Travis Kielce romance, which in addition to 
+creating tabloid headlines, hasalso increased NFL ratings, 
+especially among women.
+11
+Managing Key Person Risks
+1. Insurance:Smallerbusinessesthataredependentonapersonorpersonsforasignificantportion
+oftheirrevenuesandprofitscanbuyinsuranceagainstlosingthem,withtheinsurancepremia
+reflectingtheexpectedvalueloss.Youaretradinglowerearnings(becauseofthepremiumspaid)
+inperiodswhenthekeypersonisstillpresentforhigherearnings,whentheyareabsent.
+2. No-competeclauses:Oneoftheconcernsthatbusinesseshavewithkeypeopleisnotjusttheloss
+ofvaluefromtheirdeparture,butthattheycantakeclientlists,tradesecretsorproductideastoa
+competitor.Itisforthisreasonthatcompaniesputinno-competeclausesintoemployment
+contracts,butthedegreeofprotectionwilldependonwhatthekeypersontakeswiththem,when
+theyleave.
+3. Overlappingtenure:Sincethekeypersonreducesthesalesproceedstotheoldowner,thereisan
+incentivetoreducethekeypersondiscount,andonepracticethatmayhelpisfortheoldownerto
+stayoninanofficialorunofficialcapacity,evenafterthebusinesshasbeensold,tosmooththe
+transition.
+4. Te ambuilding:Totheextentthatkeypeoplecanbuildteamsthatreflectandmagnifytheirskills,
+theyarereducingtheirkeypersonvaluetothebusiness.Thatteambuildingincludeshiringthe
+“right’peopleandnotjustofferingthemon-the-jobtrainingandguidance,butalsotheautonomy
+toactontheirown.
+5. Successionplanning:Agoodsuccessionplanstartsofcoursebyfindingthepersonwiththe
+qualitiesthatyoubelievearenecessarytoreplicatewhatyoudo,asasuccessfulmanager,but
+beingwillingtoshareknowledgeandpower,aheadofthetransferofpower.
+12
+The Key Person Conundrum
+¨Some of the actions that reduce key people value must come 
+from those key people, and that may seem odd. After all, why 
+would anyone want to make themselves less valuable to an 
+organization? 
+¨The truth is that from the organization's perspective, the 
+most valuable key people find ways to make themselves more 
+dispensable and less valuable over time by finding successors 
+and building teams who can replicate what they can do. In 
+doing so, they reduce their key person value.
+¨That may be at odds with the key person's interests, leading 
+to a trade off a lower value added from being key people for a 
+much higher value for the organization, and if they own a 
+large enough stake in the latter, can end with being better off 
+financially at the end.
+13
+Determinants of Key Person Value
+¨The value of a key person or persons will vary across 
+companies for many reasons. 
+¤Companysize: A key person or persons will make a greater value 
+difference at a small rather than a large firm.
+¤Lifecycle:Allelseheld constant, a key person or persons will
+mattermoreatyoungthanmaturefirms.
+¤MicroversusMacro:A key person or persons will affect value 
+more at firms that derive their value from micro (company-
+specific) choices than at firms that are macro-driven.
+¤Business moats: A keypersonorpersonswilldrive value more at 
+companies that have more transitory moats (competitive 
+advantages) than at firms with long-standing and sustainable 
+moats.
+14
+1. Company Size
+¨Ingeneral,thevalueofakeypersonorpersons
+shoulddecreaseasanorganizationincreasesinsize.
+¤Thevalueaddedbyasuperstartraderwillbegreaterifhe
+orsheworksataten-persontradinggroupthanifthey
+workatalargeinvestmentbank.
+¤Thereareclearlyexceptionstothisrule,withTeslabeing
+themostvisibleexample,butatthelargestcompanies,
+withhundredsoreventhousandsofemployees,and
+multipleproductsandclients,itbecomesmoreandmore
+difficultforasinglepersonorgrouptomakeasignificant
+difference.
+15
+2. Stage in Life Cycle
+16
+Life Cycle Implications: Open AI and Tesla
+¨ AtOpenAI,forbetterorworse,itisSamAltmanwhohasbeenthefaceofthecompany,layingout
+thenarrativeforthefutureofAI,andOpenAIremainsayoungcompany,notwithstandingitslarge
+estimatedvalue.Whiletheboardofdirectorsfeltthathewasonadangerouspath,thecapital
+providers,whichincludednotonlyventurecapitalists,butMicrosoftasajoint-ventureinvestor,
+wereclearlyswayedbyAltman’sstory,andOpenAI’semployeeswereloyaltohim.
+¨ WithTe sl a,thestoryismorecomplicated,butithasalwaysrevolvedaroundElonMusk.
+¤ Asayoungcompany,whereinvestorsandlegacyautocompaniesvieweditasfoolhardyinits
+pursuitofelectriccars,Muskwasindispensabletoitsgrowthandsurvival.
+¤ AsTe sl ahasbroughttherestoftheautobusinesstoitsnarrative,andbecomenotjusta
+successfulcompany,butoneworthatrillionormoreatitspeak,Muskhasremainedthe
+centerofthestory,ingoodandbadways.Hisvisioncontinuestoanimatethecompany’s
+thinkingoneverythingfromtheCryptotrucktorobotaxis,buthiscapacityfordistractionhas
+alsosometimeshijackedthenarrative.
+¤ Thus,thedebateofwhetherMusk,asakeyperson,isaddingordetractingfromTe sl a’svalue
+hasbeenjoined,andwhileIremainconvincedthatheremainsanetpositive,sinceIcannot
+imagineTe sl awithouthim,therearemanywhodisagreewithme.
+¤ Atthesametime,Muskismortal,anditremainsanopenquestionwhetherheiswillingto
+makehimselfdispensable,bynotonlybuildingamanagementteamsthatoutlastshim,but
+alsoasuccessorthatheiswillingtosharepowerandthelimelight.
+17
+3. Micro versus Macro Businesses
+¨Therearesomecompanieswherevaluecomesmore
+fromcompany-specificdecisionsonproducts/servicesto
+offer,marketstoenterandpricingdecisions,andothers,
+wherethevaluecomesmorefrommacrovariables
+moving.
+¤Amediacompany,likeDisney,whereofferingsconstantlyhave
+toadjusttoreflectchangingdemandandinresponseto
+competition,wouldbeanexampleoftheformer,whereasanoil
+company,whereitistheoilpricethatisthekeydeterminantof
+revenuesandearnings,wouldbeanexampleofthelatter.
+¤Ingeneral,youarefarmorelikelytofindkeypeople,whocan
+addortakeawayfromvalueattheformer(microcompanies)
+thanatthelatter(macrocompanies).
+18
+4. BusinessMoats
+¨ Businessmoatsrefertocompetitiveadvantagesthatcompanieshaveovertheir
+competitorsthatallowthemtonotjustgrowandbeprofitable,buttocreate
+valuebyearningwellabovetheircostofcapital.
+¨ Thatsaid,moatscanrangethespectrum,bothintermsofsources(cheapraw
+material,brandnames,patents)aswellassustainability(somelastfordecades
+andothersaretransient).Somemoatsareinheritedbymanagement,andothers
+areearned,andsomearehighmaintenanceandothersrequirelittlecare.
+¨ Ingeneral,therewillbelesskeypersonvalueatcompanieswithinheritedmoats
+thataresustainableandneedlittlecareandmorekeypersonvalueatcompanies
+wheremoatsneedtoberecreatedandmaintained.Toillustrate,considertwo
+companiesatoppositeendsofthespectrum.
+¤ Atoneend,Aramco,oneofthemostvaluablecompaniesintheworld,derivesalmostallofits
+valuefromitscontroloftheSaudioilsands,allowingittoextractoilatatractionofthecost
+facedbyotheroilcompanies,anditisunlikelythatthereisanypersonorgroupofpeoplein
+theorganizationalthatcouldaffectitvalueverymuch.
+¤ Attheotherend,anentertainmentsoftwarecompanylikeTake-TwoSoftwareisonlyasgood
+asitslatestgameorproduct,andsuccesscanbefleeting.Itshouldcomeasnosurprisethat
+therearefarmorekeypeople,bothvalue-addersandvalue-destroyers,
+19
+Key Person Value Implications: The Aging 
+of Key People
+¨ As key people, especially at the top of an organization age, investors 
+should start factoring in not just their eventual departures, but a decline 
+in effectiveness, as they get older . 
+¨Speaking of key people in large companies, Berkshire Hathaway has a had 
+a special status, an insurance company with the best portfolio managers 
+in the world in Warren Buffett and Charlie Munger . 
+¨As you undoubtedly have heard, Munger passed away at the age of 99, 
+and while Buffett remains mentally and physically active, the baton for 
+investment picking has been passed on to Ted Weschler and Todd Combs. 
+¨While Buffett undoubtedly has a say in investment choices, it is also clear 
+that he has a far lesser role than he used, which may explain 
+Berkshire'sbet on a company like Snowflake, a company that has a 
+snowball's chance in hell of getting through a Buffett-Munger investment 
+screening.
+20
+TheBuffett-Munger Premium over time
+21
+Key Person Implication: Industry Structure
+¨Asweshiftawayfromatwentiethcenturyeconomy,where
+manufacturingandfinancialservicecompaniesdominated,toonewhere
+technologyandservicecompaniesareatopthelargestcompanylist,we
+arealsomovingintoaperiodwherevaluewillcomeasmuchfromkey
+peopleintheorganizationasitdoesfromphysicalassets.
+¨Itfollowsthatcompanieswillinvestmoreinhumancapitaltopreserve
+theirvalue,andhere,asinmuchoftheneweconomy,accountingis
+missingtheboat.Whiletherehavebeenattemptstoincreasecorporate
+disclosureaboutemployee,theimpetusseemstobecomingmorefrom
+diversityadvocatesthanfromvalueappraisers.
+¨Ifhumancapitalistobetreatedasasourceofvalue,whatcompanies
+spendinrecruitment,trainingandnurturingemployeeloyaltyismore
+capitalexpenditurethanoperatingexpense,andaswithanyother
+investment,theseexpensesmustbejudgedbytheconsequencesfor
+employeeturnoverandkeypersonlosses.
+22
+Key Person Implication: Compensation
+¨ Inorganizationswheretheyarevaluablekeypeople,youshouldexpecttosee
+muchgreaterdifferencesincompensationacrossemployees,withthemost
+valuedkeypeoplebeingpaidhugemultiplesofwhatthetypicalemployeeearns.
+¤ Inaddition,toencouragethesekeypeopletomakethemselveslesskey,bybuildingteamsand
+groomingsuccessors,youwouldexpectthepaytobemoreintheformonequity(restrictedstockor
+options)thanincash.
+¤ Whilethatmaystrikeyouasinequitableorunfair,itreflectstheeconomicsofbusinesses,and
+legislatinglimitswilleithercausekeypeopletomoveonortofindloopholesinthelaws.
+¨ LestIbeviewedasanapologistformonstrouslylargetopmanagement
+compensationpackages,Iwouldsuggestthatthekeypersonframeworkcanbea
+usefulincheckingboardsofdirectorsthatgrantabsurdlyhighcompensation
+packagestotopmanagersincompanies,wheretheirpresenceaddslittlevalue.
+¤ Thus,Idon’tseewhyyouwouldpaytensofmillionsofdollarstotheCEOsofTarget(amatureto
+decliningretailcompany,nomatterwhorunsit),RoyalDutch(analmostpureoilplay)orCocaCola(
+wherethemanagementisendowedwithabrandnamethattheyhadlittleroleincreating).Thismay
+beabitunfair,butIwouldwagerthatanAI-generatedCEOcouldreplacetheCEOsofhalformoreof
+theS&P500companies,andnoonewouldnoticethedifference.
+23
+In conclusion…
+¨There are many canards about intrinsic valuation that are in wide 
+circulation, and one is that intrinsic valuations do not reflect the 
+value of people in a company. 
+¨That is not true,since intrinsic valuations done right should 
+incorporate the value of a key person or people in a business, 
+reflecting that value in cash flows, growth or risk inputs. 
+¨That said, intrinsic value is built, not on nostalgia or emotion, 
+but on the cold realities that key people can sometimes destroy 
+value, that a key person can go from being a value creator to a 
+value destroyer, in a company, over time and that key people, in 
+particular, and human capital, in general, will matter less in some 
+companies (more mature, manufacturing and with long-standing 
+competitive advantages) than in other companies (younger, 
+service-oriented and with transitory and changing moats.

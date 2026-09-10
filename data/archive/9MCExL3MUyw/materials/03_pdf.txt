@@ -1,0 +1,26 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session5asoln.pdf
+
+Session	5:	Post	class	test	solutions	
+1. c.	Expose	yourself	to	those	risks	where	you	get	a	high	enough	return	to	
+compensate	you	for	the	risk.	If	you	take	no	risk,	there	will	be	no	business	and	
+no	investments.	If	you	take	all	risks,	you	are	being	foolhardy.	You	would	like	to	
+take	only	those	risks	that	have	good	payoffs,	but	if	this	was	guaranteed,	there	
+would	be	no	risk	in	the	first	place.	
+2. If	you	wanted	to	minimize	risk	you	would	take	investment	A	(zero	risk).	If	
+you	want	to	maximize	returns,	you	would	go	with	investment	B,	since	it	has	
+the	highest	expected	return.	You	would	never	take	investment	D,	since	you	
+can	earn	at	least	as	high	a	return	on	investment	C,	with	less	risk.			
+3. e.	The	foreign	mutual	funds.	To	be	the	marginal	investor,	you	need	to	own	a	lot	
+of	stock	and	trade	that	stock.	The	founder/insiders	and	government	own	a	lot	of	
+stock,	but	they	do	not	trade.	The	domestic	and	foreign	mutual	funds	own	the	
+same	percentage,	but	the	latter	trade	a	lot	more.	
+4. e.	All	of	the	above.		The	marginal	benefit	of	diversification	does	decrease	as	you	
+keep	adding	investments	and	there	are	both	trading/monitoring	costs	
+associated	with	diversifying.	It	is	also	true	that	we	stop	with	a	list	of	what	we	
+think	are	the	best	investments	in	the	market	(even	if	is	not	true).	
+5. d.	The	CAPM	does	at	least	as	good	a	job	as	the	APM	and	multifactor	models	
+in	forecasting	future	returns,	and	it	is	more	intuitive	and	less	work.	The	
+APM	and	multifactor	models	will	do	a	much	better	job	at	explaining	past	returns,	
+which	should	be	no	surprise	since	they	are	extracted	from	past	returns.	The	
+CAPM	does	not	do	very	well	at	forecasting	expected	returns,	but	used	judiciously,	
+it	does	at	least	as	well	as	the	other	models	and	it	requires	only	one	input	(a	beta).

@@ -1,0 +1,150 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/cfexams/CostcoPresentation.pdf
+
+COSTCO CLINIC: INVESTMENT ANALYSIS
+A healthy discussion!
+2
+Discrete and Continuous Time
+3
+Summary of Conclusions
+¤ Based upon the riskiness of this project and Costco’s debt to equity ratio of 2.65%, the beta for 
+this project, when fully operational, is 0.77, the cost of equity is 8.34% and the cost of capital is 
+8.23%.
+¤ From an accounting return standpoint, the return on capital computed using the average 
+operating income (without allocated G&A) and capital invested over the period is  about 4-7%, 
+depending on what you include in book value, and whether you consider side costs & benefits. 
+Eliminating the allocated G&A causes it to increase to 25%.
+¤ The net present value of just the cash flows on the  project, discounted at 8.15% (for most of 
+the years..)
+nis $3,279 million, for a finite life of 15 years without counting side effects (lost sales at 
+stores and synergy) & $2,502 million, with side costs and benefits considered.
+nis $ 8,648 million, under the assumption of an infinite life, with higher capital expenditures 
+during the project life, without counting the side effects (lost sales at stores and synergies). 
+With the side effects considered, the net present value is $6,808 million.
+¤ The side costs of lost sales (from displaced cosmetics) exceed the side benefits of increased 
+revenues at the stores with the clinics.
+¤ I would recommend accepting the investment. Notwithstanding lost cosmetics sales, the 
+project generates significant value, and there may be the potential for added value from 
+subscription growth.
+4
+Cost of Capital Calculations
+5
+Cost of Capital: Your numbers
+6
+Return on Capital Computation
+Removing the allocated G&A from the mix increases the 
+return on capital to 25-30%.
+7
+Your findings: Return on Capital
+8
+Finite Life case assumptions
+¨Incremental Effects
+¤The  money spent already is ignored for purposes of cash flow computation, 
+since it is non-incremental. 
+¤When analyzing the cost of the distribution system, we consider the cost of 
+the system in year 4 ($ 1,125 million) but we show the savings in year 11 
+($1,384 million). Similarly, for depreciation, we show the depreciation on the  
+system of $112.5 million from years 4-11, but show the differential 
+depreciation between the two systems (-$26 million) in years 9 & 10. 
+¤Since we are planning on wrapping up the business in 15 years, there is no 
+need for significant capital maintenance expenditures.
+¨Both working capital investments and store investments are assumed to 
+occur at the start of the year and are therefore shown at the end of the 
+previous year.
+9
+Expansion now or later?
+What will happen if I take the investment?
+- Run out of capacity earlier (in year 4)
+- Spend $1,126 million on new capacity in year 4
+- Depreciate this straight line over 10 years
+What will happen if I take the investment?
+- Run out of capacity later in year 11
+- Spend $1,384 million on new capacity in year 11
+- Depreciate this straight line over 10 years
+What is the effect on present value?
+-PV of spending earlier rather than later = 1126/1.08154 -2498/1.081511
+-Depreciate the earlier investment starting in year 4 versus year 12
+10
+Incremental Cash Flows -Finite Life
+11
+Incremental Cash Flows –Finite Life (A 
+More Direct Approach)
+12
+The Value Effect: NPV
+In computing the side benefits from store shopping, I used the 
+pre-tax operating margin of 3.56% from the most recent year 
+and discounted the net after-tax earnings change at Costco’s 
+retail cost of capital of 9.37%
+13
+Your findings… Finite Life NPV
+10 groups estimated negative NPV; 18 groups had positive 
+NPV .
+14
+Explanations for Infinite Life Case
+¨Whenextendingtheprojectlifetoinfinity,Ididmakesome
+changestotheassumptionsaboutcapitalmaintenance.
+¤Startinginyear1,Istartwithcapitalmaintenance,settingitequalto
+depreciationineachyear,withaninflationadjustment.Thustoget
+capitalmaintenanceinyear3=200(1.03)3=$219million.
+¤Advertisingexpensescontinuebeyondyear15.
+¤Workingcapitalwillcontinuetogrowtokeepupwithrevenues
+¨Thesidecosts(fromlostcosmeticssales)andbenefits(from
+increasedstoresales)nowcontinueinperpetuityaswell.
+15
+Incremental Cash Flows-Infinite Life
+16
+The terminal value calculation
+¨I assumed a perpetual life. 
+¨Did I have to?
+¨What are the alternatives?
+¨Cash flow to the firm in year 16
+= EBIT (1-t) + Depreciation –Cap Ex –Change in WC
+= $ 813 + $ 821 –$ 866 -$ 74 = $ 1,708 million
+(Capital expenditures exceed depreciation by the inflation rate
+¨Terminal Value in year 10 
+= CF in year 16/ (Cost of capital –g)
+= 1708/(.0823-.03) = $ 32,678 million
+17
+Finite versus Infinite: The Cash Flow Trade off
+18
+Value Added: NPV of Infinite Life Case
+19
+Your findings: Infinite Life
+3 groups estimated negative NPV; 25 estimated positive
+20
+Effect of Lengthening Project Life
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0 To 2,000 2,000 To 4,00 0 4,000 To 6,00 0 8,000 To 10,0 00 10,000 To 12,000 14,000 To 16,000 16,000 and over
+Effect of longer life on NPV
+21
+Investment consistency in growth and project 
+life assumptions
+After year 15 Capital Expenditure Assumption
+Project ends No (or very low) capital maintenance
+Let assets run down towards end of life
+Infinite life; g=0% Capital maintenance = Depreciation
+Maintain invested capital at base level
+Infinite life; g= inflationCapital maintenance > Depreciation
+Capital invested has to grow at inflation rate
+Infinite life; g> inflationCapital investment to increase capacity
+Capital maintenance > Depreciation
+Capital invested has to grow to reflect real 
+growth
+22
+A Wrap Up and Summary
+¨Of the 28 groups that turned in numbers, 20 groups chose to invest, and 6 
+groups suggested rejection.
+¨There were at least three groups that had conditional decisions, i.e., 
+reject with a 15-year life and accept with a longer life. 
+¨If you believe in crowd wisdom, here was the crowd judgment on the key 
+variables:
+¤If you accepted the project, what is your biggest concern going forward?
+¤If you rejected the project, what is most likely to cause you to regret that decision?

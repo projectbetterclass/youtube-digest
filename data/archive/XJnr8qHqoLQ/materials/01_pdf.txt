@@ -1,0 +1,170 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/MagSeven.pdf
+
+THE SEVEN SAMURAI: THE 
+STOCKS THAT SAVED THE 
+MARKET!
+A trillion here, a trillion there..
+2
+A hat tip to Kurosawa!
+¨I was planning to finish my last two data updates for 
+2024, butdecided to take a break and look at the seven 
+stocks (Apple, Amazon, Alphabet, Meta, Microsoft, 
+Nvidia and Tesla) which carried the market in 2023. 
+¨While I will use the "Magnificent Seven" moniker 
+attached by these companies by investors and the 
+media, my preference would have been to call them the 
+Seven Samurai. 
+¨After all, like their namesakes in thatlegendary 
+Kurosawa movie, who saved a village and its inhabitants 
+from destruction, these seven stocks saved investors 
+from having back-to-back disastrous years in the stock 
+market.
+3
+The What?
+¨It is worth remembering that the Magnificent Seven (MAG 7) 
+had their beginnings in the FANG (Facebook, Amazon, Netflix 
+and Google) stocks, in the middle of the last decade.
+¨That morphed into the FANGAM (with the addition of Apple 
+and Microsoft to the group) and then to the MAG 7, with the 
+removal of Netflix from the mix, and the addition of Tesla and 
+Nvidia to the group. 
+¨There is clearly hindsight bias in play here, since bringing in 
+the best performing stocks of a period into a group can 
+always create groups that has supernormal historical returns. 
+That bias notwithstanding, these seven companies have been 
+extraordinary investments, not just in 2023, but over the last 
+decade, and there are lessons that we can learn from looking 
+at the past.
+4
+In 2023…
+5
+From2012to2023…
+6
+The Cost of not holding the Mag Seven
+7
+Exception ortheNorm?
+¨In all ofthe breathless coverage of the Mag Seven (and FANG 
+and FANGAM) before it, there seems to be the implicit belief 
+that their market dominance is unprecedented, but it is not. 
+¨In fact, equitymarkets have almost always owed their success 
+to their biggest winners, and Henrik Bessimbinderhighlighted 
+this reality by documenting that of the $47 trillion in increase 
+in market capitalization between 1926 and 2019, five 
+companies accounted for 22% of the increase in market 
+value. 
+¨I will wager that at the end of the next decade, looking back, 
+we will find that a few companies accounted for the bulk of 
+the rise in market capitalization during the decade, and 
+another acronym will be created..
+8
+The Why?
+¨When stocks soar as much as the Mag Seven stocks have 
+in recent years, they evoke two responses. 
+¤One is obviously regret on the part of those who did not partake 
+in the rise, orsold too soon. 
+¤The other is skepticism, and a sense that a correction is overdue, 
+leading to what I call knee-jerk contrarianism, where your 
+argument that these stocks are over pricedis that they have 
+gone up too much in the past. With these stocks, in particular, 
+thatreaction would have been costly over much of the last 
+decade, since other than in 2022, these stocks have found ways 
+to deliver positive surprises. 
+¨Understanding why a group of companies outperformed 
+the market is not just good for understanding, butcan 
+help us assess whether they can keep winning.
+9
+1. Correction/Momentum Story
+10
+2. PayofftoBusiness Models
+¨ Pricing power and Economic Resilience: Coming into 2023, there were real 
+concerns about whether the big tech companies that had dominated markets 
+for the prior decade had pricing power and how well they would weather a 
+recession. During the course of2023, the Mag Seven set those fears to rest at 
+least for the moment on both dimensions, increasing prices (with the exception of
+Tesla) on  th eir p rod u cts/ser vices an d  d eliverin g grow th . 
+• MoneyMachines:Thepricingpowerandproductdemandresilienceexhibitedby
+thesecompanieshavemanifestedasstrongearningsforthecompanies.Infact,
+bothAlphabetandMetahavelaidoffthousandsofemployees,withoutdenting
+revenues,andthereprofitsin2023reflectthecostsavings:
+• SafetyBuffers:Asinterestrates,forbothgovernmentsandcorporates,hasrisen
+sharplyoverthelasttwoyears,itisprudentforinvestorstoworryabout
+companieswithlargedebtburdens,sinceolddebtonthebooks,atlowrates,will
+havetogetrefinancedathigherrates.WiththeMagSeven,thoseconcernsareon
+thebackburner ,becausethesecompanieshavedebtloadssolowthattheyare
+almostnon-existent.
+11
+a. Pricing Power
+12
+b. Profitability
+13
+c. Safety Buffers
+14
+3. Winner-take-all Economics
+¨It is undeniable that as the global economy has shifted away from its 
+manufacturing base in the last century to a technology base, it has 
+unleashed more "winner-take-all (or most" dynamics in many industries. 
+¤In advertising, which was a splintered business where even the biggest players 
+(newspapers, broadcasting companies) commanded small market shares of the 
+overall market, Alphabet and Meta have acquired dominant market shares of 
+online advertising, driven by easy scaling and network benefits (where advertising 
+flows to the platforms with the most customers). 
+¤Over the last two decades, Amazon has set in motion similar dynamics in retail and 
+Microsoft's stranglehold on application and business software has been in existence 
+even longer . 
+¤In fact, it is the two newcomers into this group, Nvidia and Tesla, where questions 
+remain about what the end game will look like, in terms of market share. 
+Historically, neither the chip nor car businesses have been winner-take-all 
+businesses, but investors are clearly pricing in the possibility that the changing 
+economics of AI chips and electric cars could alter these businesses.
+15
+What’s next?
+16
+Intrinsic Valuations
+17
+Assessing Value…
+Aswath Damodaran
+¨WhileallofthecompaniesintheMagSevenhave
+valuesthatexceedtheirprices,TeslaandMetalook
+closetofairlyvalued,atcurrentprices,Alphabet,
+AppleandAmazonarewithinshoutingdistanceand
+MicrosoftandNvidialookovervalued,withthe
+latterstandingoutasmoreso.
+¨Itmaybecoincidence,butthesearethetwo
+companiesthathavebenefitedmostdirectlyfrom
+theAIbuzz,andmyovervaluationmayreflectmy
+lackofimaginationonhowbigAIcangetasa
+business.
+18
+And Acting..
+Aswath Damodaran
+¨Iownallsevenofthesecompanies,whichmaystrikeyouascontradictory,
+butwiththeexceptionofTeslathatIboughtjustlastweek,my
+acquisitionsoftheothersevencompaniesoccurredwellinthepast,and
+reflectedmyjudgmentthattheywereundervalued(atthetime).
+¨TothequestionofwhetherIshouldbeselling,whichwouldbeconsistent
+withmycurrentassessmentthatthesestocksareovervalued,Ihesitate
+fortworeasons:
+¤Iwillhavetoacapitalgainstaxthatwillamounttocloseto30%,withstatetaxes
+includedandthereisarangeonmyvalue,andonlyoneofthesesevencompanies
+(Nvidia)isclearlyoutofthatrange.
+¤Thesecondispsychological,sincesellingeverythingornothingwouldleaveme
+withregretseitherway.Lastsummer,whenIvaluedNvidiainthispost,Ifoundit
+overvaluedatapriceof$450,andsoldhalfmyholdings,choosingtoholdthe
+otherhalf.Nowthatthepricehashit$680,IamhappythatIdidnotsellallofmy
+holdings,butIplantoseehalfmyholdingsagain.
+19
+Wrapping up…
+¨As I noted at the start of this post, the benefit of hindsight allows us to 
+pick the biggest winners in the market, bundle them together in a group 
+and then argue that the market would be lost without them. 
+¨That is true, but it is neither original nor unique to this market. The Mag 
+Seven stocks have had a great run, but their pricing now reflects, in my 
+view, the fact that they are special companies, with business models that 
+deliver growth, at scale, with profitability. 
+¨If you have never owned any of these companies, your portfolio will 
+reflect that choice, and while jumping on to the bandwagon now will not 
+make up for that failure, you should bide your time. 
+¨It is my experience that even the very best companies deliver 
+disappointments, and that markets overreact to these disappointments, 
+simply because expectations have been set so high. It is precisely at those 
+times that you will find that the price is right!

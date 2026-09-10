@@ -1,0 +1,204 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr24/session10slides.pdf
+
+183
+Estimating Bottom Up Betas & Costs of 
+Equity: Vale
+Aswath Damodaran
+Business' Sample'
+Sample'
+size'
+Unlevered'beta'
+of'business' Revenues'
+Peer'Group'
+EV/Sales'
+Value'of'
+Business'
+Proportion'of'
+Vale'
+Metals'&'
+Mining'
+Global'firms'in'metals'&'
+mining,'Market'cap>$1'
+billion' 48' 0.86' $9,013' 1.97' $17,739' 16.65%'
+Iron'Ore' Global'firms'in'iron'ore' 78' 0.83' $32,717' 2.48' $81,188' 76.20%'
+Fertilizers'
+Global'specialty'
+chemical'firms' 693' 0.99' $3,777' 1.52' $5,741' 5.39%'
+Logistics'
+Global'transportation'
+firms' 223' 0.75' $1,644' 1.14' $1,874' 1.76%'
+Vale'
+Operations' '' '' 0.8440' $47,151' '' $106,543' 100.00%'
+ 
+Business 
+Unlevered 
+beta 
+D/E 
+ratio 
+Levered 
+beta 
+Risk free 
+rate ERP 
+Cost of 
+Equity 
+Metals & 
+Mining 0.86 54.99% 1.1657 2.75% 7.38% 11.35% 
+Iron Ore 0.83 54.99% 1.1358 2.75% 7.38% 11.13% 
+Fertilizers 0.99 54.99% 1.3493 2.75% 7.38% 12.70% 
+Logistics 0.75 54.99% 1.0222 2.75% 7.38% 10.29% 
+Vale 
+Operations 0.84 54.99% 1.1503 2.75% 7.38% 11.23%
+184
+Vale: Cost of Equity Calculation –in 
+nominal $R
+¨To convert a discount rate in one currency to another, all you need are 
+expected inflation rates in the two currencies.
+¨Inflation Differential: If we use 2% as the inflation rate in US dollars and 
+9% as the inflation ratio in Brazil, we can convert Vale’s US dollar cost of 
+equity of 11.23% to a $R cost of equity:
+¨Riskfree Rate: Alternatively, you can compute a cost of equity, starting 
+with the $R riskfree rate of 10.18%.
+Cost of Equity in $R = = 10.18% + 1.15 (7.38%) = 18.67%
+Aswath Damodaran
+€ 
+(1+$ Cost of Equity)(1+Inflation RateBrazil)
+(1+Inflation RateUS)−1
+185
+Bottom up betas & Costs of Equity: Tata 
+Motors & Baidu
+¨Tata Motors: We estimated an unlevered beta of 0.8601 
+across 76 publicly traded automotive companies (globally) 
+and estimated a levered beta based on Tata Motor’s D/E ratio 
+of 41.41% and a marginal tax rate of 32.45% for India:
+nLevered Beta for Tata Motors = 0.8601 (1 + (1-.3245) (.4141)) = 
+1.1007 
+nCost of equity for Tata Motors (Rs) = 6.57% + 1.1007 (7.19%) = 
+14.49%  
+¨Baidu: To estimate its beta, we looked at 42 global companies 
+that derive all or most of their revenues from online 
+advertising and estimated an unlevered beta of 1.30 for the 
+business. Incorporating Baidu’s current market debt to equity 
+ratio of 5.23% and the marginal tax rate for China of 25%, we 
+estimate Baidu’s current levered beta to be 1.3560.
+¤Levered Beta for Baidu = 1.30 (1 + (1-.25) (.0523)) = 1.356
+¤Cost of Equity for Baidu (Renmimbi) = 3.50% + 1.356 (6.94%) = 12.91% 
+Aswath Damodaran
+186
+Bottom up Betas and Costs of Equity: 
+Deutsche Bank
+¨We break Deutsche Bank down into two businesses –commercial and 
+investment banking. 
+¨We do not unleveror releverbetas, because estimating debt and equity 
+for banks is an exercise in futility. Using a riskfree rate of 1.75% (Euro risk 
+free rate) and Deutsche’sERP of 6.12%:
+Aswath Damodaran
+Company Largest holder # of institutional investors 
+in top ten holdings 
+Disney Laurene Jobs (7.3%) 8   
+Deutsche Bank Blackrock (4.69%) 10 
+Vale Preferred Aberdeen (7.40%) 8  
+Tata Motors Tata Sons (26.07%) 7 
+Baidu (A) Capital Group (12.46%) 10 
+ 
+Business Beta Cost of Equity 
+Commercial banking 1.0665 1.75%+1.0665 (6.12%) = 8.28% 
+Investment Banking 1.2550 1.75%+1.2550 (6.12%) = 9.44% 
+Deutsche Bank 1.1516 1.75%+1.1516 (6.12%) = 8.80%
+187
+Estimating Betas for Non-Traded Assets
+Aswath Damodaran
+187
+¨The conventional approaches of estimating betas 
+from regressions do not work for assets  that are not 
+traded. There are no stock prices or historical returns 
+that can be used to compute regression betas.
+¨There are two ways in which betas can be estimated 
+for non-traded assets
+¤Using comparable firms
+¤Using accounting earnings
+188
+Using comparable firms to estimate beta 
+for Bookscape
+Aswath Damodaran
+Unlevered beta for book company = 0.8130/ (1+ (1-.4) (.2141)) = 0.7205
+Unlevered beta for book business = 0.7205/(1-.05) = 0.7584
+189
+Estimating Bookscape Levered Beta and 
+Cost of Equity
+¨Because the debt/equity ratios used in computing 
+levered betas are market debt equity ratios, and the only 
+debt equity ratio we can compute for Bookscapeis a 
+book value debt equity ratio, we have assumed that 
+Bookscapeis close to the book industry median market 
+debt to equity ratio of 21.41 percent. 
+¨Using a marginal tax rate of 40 percent for Bookscape, 
+we get a levered beta of 0.8558.
+Levered beta for Bookscape= 0.7584[1 + (1 –0.40) (0.2141)] = 0.8558
+¨Using a riskfree rate of 2.75% (US treasury bond rate) 
+and an equity risk premium of 5.5%:
+Cost of Equity = 2.75%+ 0.8558 (5.5%) = 7.46%
+Aswath Damodaran
+190
+Is Beta an Adequate Measure of Risk for a 
+Private Firm?
+Aswath Damodaran
+80 units
+of firm 
+specific
+risk
+20 units 
+of market 
+risk
+Private owner of business
+with 100% of your weatlth
+invested in the business
+Publicly traded company
+with investors who are diversified
+Is exposed
+to all the risk
+in the firm
+Demands a
+cost of equity
+that reflects this
+risk
+Eliminates firm-
+specific risk in 
+portfolio
+Demands a
+cost of equity
+that reflects only 
+market risk
+Market Beta measures just
+market risk
+Total Beta  measures all risk
+= Market Beta/ (Portion of the 
+total risk that is market risk)
+Private Owner versus Publicly Traded Company Perceptions of Risk in an Investment
+191
+Total Risk versus Market Risk
+¨Adjust the beta to reflect total risk rather than market risk. This 
+adjustment is a relatively simple one, since the R squared of the 
+regression measures the proportion of the risk that is market risk. 
+¤Total B eta = M arket B eta / Correlation of the sector w ith the m arket
+¨In the Bookscapeexample, where the market beta is 0.8558 and 
+the median R-squared of the comparable publicly traded firms is 
+26.00%; the correlation with the market is 50.99%.
+¤Total Cost of Equity = 2.75 + 1.6783 (5.5% ) = 11.98%
+¤Note that the market beta and the correlation come from publicly 
+traded companies in this space.
+Market Beta
+R squared
+=0.8558
+.5099=1.6783
+Aswath Damodaran
+192
+Application Test: Estimating a Bottom-up Beta
+Aswath Damodaran
+192
+¨Based upon the business or businesses that your 
+firm is in right now, and its current financial leverage, 
+estimate the bottom-up unlevered beta for your 
+firm.
+¨Data Source: You can get a listing of unlevered betas 
+by industry on my web site by going to updated 
+data.

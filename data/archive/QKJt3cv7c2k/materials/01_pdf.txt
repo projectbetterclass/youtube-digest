@@ -1,0 +1,149 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate7for2023.pdf
+
+DATA UPDATE 7 FOR 2023: 
+DIVIDENDS AND BUYBACKS
+Seed and harvest!
+2
+DataUpdate:Winding down…
+¨I plan to focus on dividends and buybacks, perhaps the most most 
+misunderstood and misplayed aspect of corporate finance. 
+¨To illustrate the heat that buybacks evoke, consider two stories in 
+the last two weeks where buybacks have been in the news. 
+¨In the first, critics of Norfolk Southern, the corporation that operates the 
+trains that were involved in a dreadful chemical accident in Ohio, pointed 
+to buybacks that it had done as the proximate cause for brake failure and 
+the damage. 
+¨In the second, Warren Buffet used some heated language to describe 
+those who opposed buybacks, calling them “economic illiterates” and 
+“silver tongued demagogues “. 
+¨Going back in time to last year’s inflation reduction act, buybacks 
+were explicitly targeted for taxes, with the perspective that they 
+were damaging US companies.
+3
+Dividend Policy in Corporate Finance
+4
+Dividends as residual cash flows
+5
+Dysfunctional Dividend Policy
+6
+Measuring Potential Dividends
+7
+Cash Return across the Life Cycle
+8
+The Data on Age and Cash Return
+9
+Dividends and Buybacks: The Facts
+¨Four decades into the buyback surge, there are enough facts 
+that we can extract by looking at the data that are worth 
+highlighting. 
+¤First, it is undeniable that US companies have moved dramatically 
+away from dividends to buybacks, as their primary mode of cash 
+return, and that companies in the rest of the world are starting to 
+follow suit. 
+¤Second, that shift is being driven by the recognition on the part of 
+firms that earnings, even at the most mature firms, have become more 
+volatile, and that initiating and paying dividends can trap firms in 
+dangerous patterns. 
+¤Third, while much has been made of the tax benefits to shareholders 
+from buybacks, as opposed to dividends, that tax differential has 
+narrowed and perhaps even disappeared over time.
+10
+The Shift to Buybacks
+11
+And it is not just the US…
+12
+2. The Flexibility Argument for Buybacks
+13
+Dividends versus Buybacks
+14
+3. Buybackshaveataxadvantagestill,but
+itismuch smaller than it used to be..
+15
+Buybacks: The Fiction
+¨The fictions about buybacks are widespread and are driven as 
+much by ideological blinders as they by a failure to 
+understand what a business is, and how to operate it. 
+¤The first is that buybacks can increase or decrease the value of a 
+business, with buyback advocates making the former argument and 
+buyback critics the latter . They are both wrong, since buybacks can 
+only redistribute value, not create it. 
+¤The second is that surge in buybacks has been fed by debt financing, 
+and it is part of a larger and darker picture of over levered companies 
+catering to greedy, short-term shareholders. 
+¤The third is that buybacks are bad for an economy, with the logic that 
+the cash that is being used for the buybacks is not being invested back 
+in the business, and that the latter is better for economic growth.
+¤The final argument is that the large buybacks at US companies 
+represent cash that is being taken away from other stakeholders, 
+including employees and customers, and is thus unfair .
+16
+1. Buybacks add (destroy) value
+17
+But buybacks can redistribute value…
+¨Dividends are paid to all shareholders, and thus cannot make one group 
+of shareholders better or worse off than others. 
+¨Buybacks are selective, since only those shareholders who sell their 
+shares back receive the buyback price, and they have the potential to 
+redistribute value. 
+¤ A company that buys back stock at too high a price, relative to its intrinsic value, is 
+redistributing value from the shareholders who remain in the company to those 
+who sell their shares back. 
+¤In contrast, a company that buys back shares at a low price, relative to its intrinsic 
+value, is redistributing value from the shareholders who sell their shares back to 
+those who stay shareholders in the firm. 
+¨It is true that some companies buy back stock at the high prices, and if 
+that is your reason, as a shareholder in the company for taking a stand 
+against buybacks, I have a much simpler and more effective response than 
+banning buybacks. Just sell your shares back and be on the right side of 
+the redistribution game!
+18
+2. Buybacks are being funded with debt..
+19
+3. Buybacks are bad for the economy
+¨Companiesthatreturncashtoshareholders,whetheras
+dividendsorbuybacks,arenotreinvestingthecash,andthat
+factaloneissufficientforsometoargueagainstbuybacks.
+Therearetwopremisesonwhichthisargumentisbuilt,and
+theyarebothfalse.
+•Thefirstisthatacompanyinvestingbackintoitsownbusinessis
+alwaysbetterfortheeconomythanthatcompanynotinvesting,and
+thatmissesthefactthatinvestinginbadbusinesses,justforthesake
+ofinvestingisnotgoodforeithershareholdersortheeconomy.
+•Thesecondisthatthemoneyreturnedinbuybacks,whichexceededa
+trilliondollarslastyear,somehowdisappearedintoablackhole,when
+thetruthisthatmuchofthatmoneygotreinvestedbackintothe
+marketincompaniesthatwereinbetterbusinessesandneeded
+capitaltogrow?
+20
+4. Buybacks are unfair to other 
+stakeholders
+¨If the argument against buybacks is that the money spent on 
+buybacks could have been spent paying higher wages to employees 
+or improving product quality, that is true. 
+¨That argument is really one about how the pie is being split among 
+the different shareholders, and whether companies are generating 
+profits that excessive, relative to the capital invested. 
+¤I argued in my fifth data post that if there is backing for a proposition, it is 
+that companies are not earning enough on capital invested, not that they 
+are earning too much. 
+¨I will wager that if you did break down pay per hour or employee 
+benefits, they will be much better at companies that are buying 
+back stock than at companies that don't. Unfortunately, I do not 
+have access to data at the company-level on either statistic, but I 
+am willing to consider evidence to the contrary.
+21
+Buybacks: Symptom, not cause…
+¨It is telling that some of the most vehement criticism of buybacks 
+come from people who least understand business or markets, and 
+that the legislative solutions that they craft reflect this ignorance. 
+¨Taxing buybacks because you are unable to raise corporate tax 
+rates may be an effective revenue generator for the moment, but
+pushing that rate up higher will only cause the cash return to take 
+different forms. Just as the attempts to curb top management 
+compensation in the early 1990s gave rise to management options 
+and a decade of even higher compensation, attempts to tax 
+buybacks may backfire. 
+¨If the end game in taxing buybacks is to change corporate behavior, 
+trying to induce invest more in their businesses, it will be for the 
+most part futile and if it does work, will do more harm than good 
+to the economy.

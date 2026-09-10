@@ -1,0 +1,79 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate5for2023.pdf
+
+DATA UPDATE 5FOR 2023: 
+PROFITABILITY AND RETURNS
+PathwaystoProfitability
+1
+2
+A Return to Normalcy?
+¨As I have argued in all ofmy posts about 2022, it was a return to normalcy 
+on many fronts, as treasury rates reverted backto pre-2008 levels, and 
+risk capital discovered that risk has a downside.
+¨During the course ofthe year, investors also rediscovered that the 
+essence of business is not growing revenues or adding users, butmaking 
+profits from those revenues. 
+¨In this post, I will focus on trend lines in profitability at companies in 
+2022, with the intent of addressing multiple questions. 
+¤The first is how the increase in inflation that you saw in much of the world in 2021 
+and 2021 has played out in profitability for companies, since inflation can increase 
+profits for some, and lower them for others. 
+¤The second is on whether these profit effects vary across geographies and sectors, 
+by estimating profitability measures across regions and industries. 
+¤The third is to revisit the link between profitability and value at companies, since 
+making money is a first step for any business to survive, but making enough money 
+to create value in business is a much more stringent test for businesses, and one 
+that many fail.
+¨2
+3
+Profits: Measures
+3
+4
+Money-makers, by profit measure…
+4
+5
+And dollar profits…
+¨5
+6
+Scaled Profitability: Margins
+¨6
+7
+8
+Highest and Lowest Margin Industries
+8
+9
+Scaled Profitability: Accounting Returns 
+¨9
+10
+My ROIC calculation
+10
+11
+ROIC distribution in 2023
+11
+12
+Profitability and Excess Returns
+¨12
+13
+Excess Returns across the globe
+¨13
+14
+BestandWorstBusinessesonExcess
+Returns¨14
+15
+Conclusion
+¨15
+¨ If 2022 was a reminder toinvestors that the end game for every business is to not 
+just generate profits, but to generate enough profits to cover itsopportunity 
+costs, i.e, the returns you can make on investments of equivalent risk, and that 
+game became a lot difficult to win at, in 2022. 
+¨ As I noted in my second andthirdposts, a combination of rising risk freerates and 
+surging riskpremiums (equity risk premiums and default spreads) has conspired 
+to push the cost of capital of both US and global companies more than any year in 
+my recordedhistory (which goes back to 1960). 
+¤ A company generating a 7.44%return on capital (the median value at the start of 2023) in the 
+US, would have comfortably cleared the 5.60% cost ofcapital thatprevailed at the start of 
+2022, but not the 9.63% cost of capital at the start of 2023. 
+¤ There will be, and has already been, investor remorse about investments taken a year or more 
+ago, buthoping that the cost of capital will come back to 2021 levels is notthe solution. While 
+there is little that can be done about sunk costs, we can at least stop adding to our mistakes, 
+and one place to start is by updating our hurdle rates, as investors and businesses, to reflect 
+the world we live in, rather than a preferred past world.

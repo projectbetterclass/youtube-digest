@@ -1,0 +1,614 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr23/session24slides.pdf
+
+197
+Dividends versus FCFE: Across the globe 
+Aswath Damodaran
+198
+Cash Buildup and Investor Blowback: 
+Chrysler in 1994
+Aswath Damodaran
+198
+Chrysler: FCFE, Dividends and Cash Balance
+($500)
+$0
+$500
+$1,000
+$1,500
+$2,000
+$2,500
+$3,000
+1985198619871988198919901991199219931994
+Year
+Cash Flow
+$0
+$1,000
+$2,000
+$3,000
+$4,000
+$5,000
+$6,000
+$7,000
+$8,000
+$9,000
+Cash Balance
+ = Free CF to Equity  = Cash to Stockholders Cumulated Cash
+199
+6Application Test: Estimating your firm’s FCFE
+Aswath Damodaran
+199
+¨In General, If cash flow statement used
+Net Income Net Income
++ Depreciation & Amortization + Depreciation & Amortization
+-Capital Expenditures + Capital Expenditures
+-Change in Non-Cash Working Capital+ Changes in Non-cash WC
+-Preferred Dividend + Preferred Dividend
+-Principal Repaid + Increase in LT Borrowing
++ New Debt Issued + Decrease in LT Borrowing
++ Change in ST Borrowing
+= FCFE = FCFE
+¨Compare to
+Dividends (Common) Common Dividend
++ Stock Buybacks Stock Buybacks
+200
+A Practical Framework for Analyzing Dividend 
+Policy
+Aswath Damodaran
+200
+How much did the firm pay out? How much could it have afforded to pay out?
+What it could have paid out What it actually paid out
+Net Income Dividends
+-(Cap Ex -Depr’n) (1-DR) + Equity Repurchase
+-Chg Working Capital (1-DR)
+= FCFE
+Firm pays out too little
+FCFE > Dividends Firm pays out too much
+FCFE < Dividends
+Do you trust managers in the company with
+your cash?
+Look at past project choice:
+CompareROE to Cost of Equity
+ROC to WACC
+What investment opportunities does the 
+firm have?
+Look at past project choice:
+CompareROE to Cost of Equity
+ROC to WACC
+Firm has history of 
+good project choice 
+and good projects in 
+the future
+Firm has history
+of poor project 
+choice
+Firm has good 
+projects
+Firm has poor 
+projects
+Give managers the 
+flexibility to keep 
+cash and set 
+dividends
+Force managers to 
+justify holding cash 
+or return cash to 
+stockholders
+Firm should 
+cut dividends 
+and reinvest 
+more 
+Firm should deal 
+with its investment 
+problem first and 
+then cut dividends
+201
+A Dividend Matrix
+Aswath Damodaran
+201
+Quality of projects taken: Excess Returns
+Poor projects Good projects
+Cash Surplus + Good 
+Projects
+Maximum ﬂexibility in 
+setting dividend policy
+Cash Surplus + Poor 
+Projects
+Signiﬁcant pressure to 
+pay out more to 
+stockholders as 
+dividends or stock 
+buybacks
+Cash Deﬁcit + Good 
+Projects
+Reduce cash payout, if 
+any, to stockholders
+Cash Deﬁcit + Poor 
+Projects
+Reduce or eliminate 
+cash return but real 
+problem is in 
+investment policy. 
+Cash Returned, relative to Free Cash ﬂow to Equity
+Cash Return < FCFECash return > FCFE
+202
+More on Microsoft
+Aswath Damodaran
+202
+¨Microsoft had accumulated a cash balance of $ 43 billion 
+by 2002 by paying out no dividends while generating 
+huge FCFE. At the end of 2003, there was no evidence 
+that Microsoft was being penalized for holding such a 
+large cash balance or that stockholders were becoming 
+restive about the cash balance. There was no hue and 
+cry demanding more dividends or stock buybacks. Why?
+¨In 2004, Microsoft announced a huge special dividend of 
+$ 33 billion and made clear that it would try to return 
+more cash to stockholders in the future. What do you 
+think changed?
+203
+Case 1: Disney in 2003
+Aswath Damodaran
+203
+¨FCFE versus Dividends
+¤Between 1994 & 2003, Disney generated $969 million in FCFE each 
+year. 
+¤Between 1994 & 2003, Disney paid out $639 million in dividends and 
+stock buybacks each year .
+¨Cash Balance
+¤Disney had a cash balance in excess of $ 4 billion at the end of 2003.
+¨Performance measures
+¤Between 1994 and 2003, Disney has generated a return on equity, on 
+it’sprojects, about 2% less than the cost of equity, on average each 
+year.
+¤Between 1994 and 2003, Disney’s stock has delivered about 3% less 
+than the cost of equity, on average each year .
+¤The underperformance has been primarily post1996 (after the Capital 
+Cities acquisition).
+204
+Can you trust Disney’s management?
+Aswath Damodaran
+204
+¨Given Disney’s track record between 1994 and 2003, if 
+you were a Disney stockholder, would you be 
+comfortable with Disney’s dividend policy?
+a.Yes
+b.No
+¨Does the fact that the company is run by Michael Eisner, 
+the CEO for the last 10 years and the initiator of the Cap 
+Cities acquisition have an effect onyour decision.
+a.Yes
+b.No
+205
+The Bottom Line on Disney Dividends in 2003
+Aswath Damodaran
+205
+¨Disney could have afforded to pay more in dividends 
+during the period of the analysis.
+¨It chose not to, andused the cash for acquisitions 
+(Capital Cities/ABC) and ill fatedexpansion plans 
+(Go.com).
+¨While the company may have flexibility to set its 
+dividend policy a decade ago, its actions over that 
+decade have frittered away this flexibility.
+¨Bottom line: Large cash balances would not be tolerated 
+in this company. Expect to face relentless pressure to pay 
+out more dividends.
+206
+Following up: Disney in 2009
+¨Between 2004 and 2008, Disney made significant changes:
+¤It replaced its CEO, Michael Eisner, with a new CEO, Bob Iger, who at 
+least on the surface seemed to be more receptive to stockholder 
+concerns.
+¤Its stock price performance improved (positive Jensen’s alpha)
+¤Its project choice improved (ROC moved from being well below cost of 
+capital to above)
+¨The firm also shifted from cash returned < FCFE to cash 
+returned > FCFE and avoided making large acquisitions.
+¨If you were a stockholder in 2009 and Iger made a plea to 
+retain cash in Disney to pursue investment opportunities, 
+would you be more receptive?
+a.Yes
+b.No
+Aswath Damodaran
+207
+Final twist: Disney in 2013
+¨Disney did return to holding cash between 2008 and 
+2013, with dividends and buybacks amounting to $2.6 
+billion less than the FCFE (with a target debt ratio) over 
+this period. 
+¨Disney continues to earn a return on capital well in 
+excess of the cost of capital and its stock has doubled 
+over the last two years.
+¨Now, assume that Bob Igerasks you for permission to 
+withhold even more cash to cover future investment 
+needs. Are you likely to go along?
+a. Yes
+b. No
+Aswath Damodaran
+208
+Case 2: Vale –Dividends versus FCFE
+Aswath Damodaran
+Aggregate Average
+Net Income $42,948.00 $8,589.60 
+Dividends $23,869.00 $4,773.80 
+Dividend Payout Ratio 55.58% 87.76%
+Stock Buybacks $5,731.00 $1,146.20 
+Dividends + Buybacks $29,600.00 $5,920.00 
+Cash Payout Ratio 68.92%
+Free CF to Equity (pre-debt) ($3,076.00) ($615.20)
+Free CF to Equity (actual debt) ($1,266.00) ($253.20)
+Free CF to Equity (target debt ratio) $13,252.43 $2,650.49 
+Cash payout as % of pre-debt FCFE FCFE negative
+Cash payout as % of actual FCFE FCFE negative
+Cash payout as % of target FCFE 223.36%
+209
+Vale: Its your call..
+¨Vale’s managers have asked you for permission to cut dividends (to 
+more manageable levels). Are you likely to go along?
+a. Yes
+b. No
+¨The reasons for Vale’s dividend problem lie in it’sequity structure. 
+Like most Brazilian companies, Vale has two classes of shares -
+common shares with voting rights and preferred shares without 
+voting rights. However, Vale has committed to paying out 35% of its 
+earnings as dividends to the preferred stockholders. If they fail to 
+meet this threshold, the preferred shares get voting rights. If you 
+own the preferred shares, would your answer to the question 
+above change?
+a. Yes
+b. No
+Aswath Damodaran
+210
+Mandated Dividend Payouts
+Aswath Damodaran
+210
+¨Assume now that the government decides to mandate a 
+minimum dividend payout for all companies. Given our 
+discussion of FCFE, what types of companies will be hurt 
+the most by such a mandate?
+a. Large companies making huge profits
+b. Small companies losing money
+c. High growth companies that are losing money
+d. High growth companies that are making money
+¨What if the government mandates a cap on the dividend 
+payout ratio (and a requirement that all companies 
+reinvest a portion of their profits)?
+211
+Case 3: BP: Summary of Dividend Policy: 1982-
+1991
+Aswath Damodaran
+211
+Summary of calculations
+Average Standard Deviation MaximumMinimum
+Free CF to Equity $571.10 $1,382.29 $3,764.00($612.50)
+Dividends $1,496.30 $448.77 $2,112.00 $831.00
+Dividends+Repurchases$1,496.30 $448.77 $2,112.00 $831.00
+Dividend Payout Ratio 84.77%
+Cash Paid as % of FCFE262.00%
+ROE -Required return -1.67% 11.49% 20.90% -21.59%
+212
+BP: Just Desserts!
+Aswath Damodaran
+212
+213
+Managing changes in dividend policy
+Aswath Damodaran
+213
+214
+Case 4: The Limited: Summary of Dividend 
+Policy: 1983-1992
+Aswath Damodaran
+214
+Summary of calculations
+Average Standard Deviation MaximumMinimum
+Free CF to Equity ($34.20) $109.74 $96.89 ($242.17)
+Dividends $40.87 $32.79 $101.36 $5.97
+Dividends+Repurchases $40.87 $32.79 $101.36 $5.97
+Dividend Payout Ratio 18.59%
+Cash Paid as % of FCFE-119.52%
+ROE -Required return 1.69% 19.07% 29.26% -19.84%
+215
+Growth Firms and Dividends
+Aswath Damodaran
+215
+¨High growth firms are sometimes advised to initiate 
+dividends because its increases the potential 
+stockholder base for the company (since there are 
+some investors -like pension funds -that cannot buy 
+stocks that do not pay dividends) and, by extension, 
+the stock price. Do you agree with this argument?
+a.Yes
+b.No
+¨Why?
+216
+5. Tata Motors
+Negative FCFE, largely 
+because of acquisitions.Aswath Damodaran
+Aggregate Average
+Net Income $421,338.00 $42,133.80 
+Dividends $74,214.00 $7,421.40 
+Dividend Payout Ratio 17.61% 15.09%
+Stock Buybacks $970.00 $97.00 
+Dividends + Buybacks $75,184.00 $7,518.40 
+Cash Payout Ratio 17.84%
+Free CF to Equity (pre-debt) ($106,871.00) ($10,687.10)
+Free CF to Equity (actual debt) $825,262.00 $82,526.20 
+Free CF to Equity (target debt ratio) $47,796.36 $4,779.64 
+Cash payout as % of pre-debt FCFE FCFE negative
+Cash payout as % of actual FCFE 9.11%
+Cash payout as % of target FCFE 157.30%
+217
+Summing up…
+Aswath Damodaran
+217
+Cash SurplusCash Deﬁcit
+Dividends paid out relative to FCFE
+Quality of projects taken: ROE versus Cost of Equity
+Poor projects Good projects
+Cash Surplus + Good 
+Projects
+Maximum ﬂexibility in 
+setting dividend policy
+Cash Surplus + Poor 
+Projects
+Signiﬁcant pressure to 
+pay out more to 
+stockholders as 
+dividends or stock 
+buybacks
+Cash Deﬁcit + Good 
+Projects
+Reduce cash payout, if 
+any, to stockholders
+Cash Deﬁcit + Poor 
+Projects
+Cut out dividends but 
+real problem is in 
+investment policy. 
+Disney
+Vale
+Baidu
+Deutsche Bank
+Tata Mtrs
+218
+6 Application Test: Assessing your firm’s dividend 
+policy
+Aswath Damodaran
+218
+¨Compare your firm’s dividends to its FCFE, looking at 
+the last 5 years of information.
+¨Based upon your earlier analysis of your firm’s project 
+choices, would you encourage the firm to return more 
+cash or less cash to its owners?
+¨If you would encourage it to return more cash, what 
+form should it take (dividends versus stock buybacks)?
+219
+II. The Peer Group Approach 
+Aswath Damodaran
+¨In the peer group approach, you compare your 
+company to similar companies (usually in the same 
+market and sector) to assess whether and if yes, how 
+much to pay in dividends.
+Dividend Yield Dividend Payout
+Company 2013Average 2008-12 2013 Average 2008-12Comparable GroupDividend YieldDividend Payout
+Disney 1.09% 1.17% 21.58% 17.11% US Entertainment 0.96% 22.51%
+Vale 6.56% 4.01% 113.45% 37.69%
+Global Diversified 
+Mining & Iron Ore 
+(Market cap> $1 b) 3.07% 316.32%
+Tata Motors 1.31% 1.82% 16.09% 15.53%
+Global Autos (Market 
+Cap> $1 b) 2.13% 27.00%
+Baidu 0.00% 0.00% 0.00% 0.00%
+Global Online 
+Advertising 0.09% 8.66%
+Deutsche Bank1.96% 3.14% 362.63% 37.39% European Banks 1.96% 79.32%
+220
+A closer look at Disney’s peer group
+Aswath Damodaran
+220
+Company 
+Market 
+Cap Dividends 
+Dividends + 
+Buybacks 
+Net 
+Income FCFE 
+Dividend 
+Yield 
+Dividend 
+Payout 
+Cash 
+Return/FCFE 
+The Walt Disney Company $134,256 $1,324 $5,411 $6,136 $1,503 0.99% 21.58% 360.01% 
+Twenty-First Century Fox, Inc. $79,796 $415 $2,477 $7,097 $2,408 0.52% 6.78% 102.87% 
+Time Warner Inc $63,077 $1,060 $4,939 $3,019 -$4,729 1.68% 27.08% NA 
+Viacom, Inc. $38,974 $555 $5,219 $2,395 -$2,219 1.42% 23.17% NA 
+The Madison Square Garden Co. $4,426 $0 $0 $142 -$119 0.00% 0.00% NA 
+Lions Gate Entertainment Corp $4,367 $0 $0 $232 -$697 0.00% 0.00% NA 
+Live Nation Entertainment, Inc $3,894 $0 $0 -$163 $288 0.00% NA 0.00% 
+Cinemark Holdings Inc $3,844 $101 $101 $169 -$180 2.64% 63.04% NA 
+MGM Holdings Inc $3,673 $0 $59 $129 $536 0.00% 0.00% 11.00% 
+Regal Entertainment Group $3,013 $132 $132 $145 -$18 4.39% 77.31% NA 
+DreamWorks Animation SKG Inc. $2,975 $0 $34 -$36 -$572 0.00% NA NA 
+AMC Entertainment Holdings $2,001 $0 $0 $63 -$52 0.00% 0.00% NA 
+World Wrestling Entertainment  $1,245 $36 $36 $31 -$27 2.88% 317.70% NA 
+SFX Entertainment Inc. $1,047 $0 $0 -$16 -$137 0.00% NA NA 
+Carmike Cinemas Inc. $642 $0 $0 $96 $64 0.00% 0.00% 0.27% 
+Rentrak Corporation  $454 $0 $0 -$23 -$13 0.00% NA NA 
+Reading International, Inc. $177 $0 $0 -$1 $15 0.00% 0.00% 0.00% 
+Average $20,462 $213 $1,083 $1,142 -$232 0.85% 41.28% 79.02% 
+Median $3,673 $0 $34 $129 -$27 0.00% 6.78% 5.63%
+221
+Going beyond averages… Looking at the market
+Aswath Damodaran
+221
+¨Regressing dividend yield and payout against expected growth 
+across all US companies in January 2014 yields:
+PYT = Dividend Payout Ratio = Dividends/Net Income
+YLD = Dividend Yield = Dividends/Current Price
+BETA = Beta (Regression or Bottom up) for company
+EGR = Expected growth rate in earnings over next 5 years (analyst estimates)
+DCAP = Total Debt / (Total Debt + Market Value of equity)
+222
+Using the market regression on Disney
+Aswath Damodaran
+222
+¨To illustrate the applicability of the market regression in analyzing 
+the dividend policy of Disney, we estimate the values of the 
+independent variables in the regressions for the firm.
+¤Beta for Disney (bottom up) = 1.00
+¤Disney’s expected growth in earnings per share = 14.73% (analyst 
+estimate)
+¤Disney’s market debt to capital ratio  = 11.58% 
+¨Substituting into the regression equations for the dividend payout 
+ratio and dividend yield, we estimate a predicted payout ratio:
+¤Predicted Payout = .649 –0.296 (1.00)-.800 (.1473) + .300 (.1158) = .2695 
+¤Predicted Yield = 0.0324 –.0154 (1.00)-.038 (.1473) + .023 (.1158) =  .0140 
+¤Based on this analysis, Disney with its dividend yield of 1.09% and a 
+payout ratio of approximately 21.58% is paying too little in 
+dividends. This analysis, however, fails to factor in the huge stock 
+buybacks made by Disney over the last few years.
+VALUATION
+Cynic: A person who knows the price of everything but the value of nothing..
+Oscar Wilde
+Aswath Damodaran 223
+224
+First Principles
+Aswath Damodaran
+224
+225
+Three approaches to valuation
+Aswath Damodaran
+225
+¨Intrinsic valuation: The value of an asset is a function of 
+its fundamentals –cash flows, growth and risk. In 
+general, discounted cash flow models are used to 
+estimate intrinsic value.
+¨Pricing: The value of an asset is estimated based upon 
+what investors are paying for similar assets. In general, 
+this takes the form of value or price multiples and 
+comparing firms within the same business.
+¨Contingent claim valuation: When the cash flows on an 
+asset are contingent on an external event, the value can 
+be estimated using option pricing models.
+226
+Intrinsic Valuation 101
+¨The value of a risky asset can be estimated by 
+discounting the expected cash flows on the asset 
+over its life at a risk-adjusted discount rate: 
+¨The intrinsic value of a business or asset is 
+determined by three fundamentals:
+¤Its capacity to generate cash flows from existing assets
+¤Its capacity to grow these cash flows in the future
+¤The risk in these expected cash flows
+Aswath Damodaran
+227
+DCF Choices: Equity Valuation versus Firm 
+Valuation
+Assets Liabilities
+Assets in Place Debt
+Equity
+Fixed Claim on cash flows
+Little or No role in management
+Fixed Maturity
+Tax Deductible
+Residual Claim on cash flows
+Significant Role in management
+Perpetual Lives
+Growth Assets
+Existing Investments
+Generate cashflows today
+Includes long lived (fixed) and 
+short-lived(working 
+capital) assets
+Expected Value that will be 
+created by future investments
+ 
+Equity valuation: V alue just the 
+equity claim in the business
+Firm Valuation: V alue the entire business
+Aswath Damodaran
+228
+Equity Valuation
+Aswath Damodaran
+228
+¨The value of equity is obtained by discounting expected cashflows 
+to equity, i.e., the residual cashflows after meeting all expenses, tax 
+obligations and  interest and principal payments, at the cost of 
+equity, i.e., the rate of return required by equity investors in the 
+firm. 
+where,
+CF to Equity t= Expected Cashflow to Equity in period t
+ke = Cost of Equity
+¨The dividend discount model is a specialized case of equity 
+valuation,  and the value of a stock is the present value of expected 
+future dividends.
+Value of Equity= CF to Equityt
+(1+ke)t
+t=1
+t=n
+∑
+229
+Firm Valuation
+Aswath Damodaran
+229
+¨The value of the firm is obtained by discounting expected 
+cashflows to the firm, i.e., the residual cashflows after 
+meeting all operating expenses and taxes, but prior to debt 
+payments, at the weighted average cost of capital, which is 
+the cost of the different components of financing used by the 
+firm, weighted by their market value proportions.
+where,
+CF to Firmt = Expected Cashflow to Firm in period t
+WACC = Weighted Average Cost of Capital
+Value of Firm= CF to Firmt
+(1+WACC)t
+t=1
+t=n
+∑
+230
+How fundamentals play out in intrinsic value…
+Aswath Damodaran
+230
+Cash ﬂows from existing assets
+The base earnings will reﬂect the 
+earnings power of the existing 
+assets of the ﬁrm, net of taxes and 
+any reinvestment needed to sustain 
+the base earnings.
+Value of growth
+The future cash ﬂows will reﬂect expectations of how quickly earnings will grow in the future (as a positive) and how much 
+the company will have to reinvest to generate that growth (as a negative). The net effect will determine the value of growth.
+Expected Cash Flow in year t = E(CF) = Expected Earnings in year t - Reinvestment needed for growth
+Risk in the Cash ﬂows
+The risk in the investment is captured in the discount rate as a beta in the cost of equity and the default spread in the cost 
+of debt.
+Steady state
+The value of growth comes from 
+the capacity to generate excess 
+returns. The length of your growth 
+period comes from the strength & 
+sustainability of your competitive 
+advantages.
+231
+Stories + Numbers = Value
+The Numbers People
+Favored Tools
+- Accounting statements
+- Excel spreadsheets
+- Statistical Measures
+- Pricing Data
+Illusions/Delusions
+1. Precision: Data is precise
+2. Objectivity: Data has no bias
+3. Control: Data can control reality
+The Narrative People
+Favored Tools
+- Anecdotes
+- Experience (own or others)
+- Behavioral evidence
+Illusions/Delusions
+1. Creativity cannot be quantiﬁed
+2. If the story is good, the investment will be.
+3. Experience is the best teacher
+A Good Valuation

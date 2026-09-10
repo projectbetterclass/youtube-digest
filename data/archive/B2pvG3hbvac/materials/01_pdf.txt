@@ -1,0 +1,391 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr23/session9slides.pdf
+
+158
+Determinant 1: Product/ Service Type
+Aswath Damodaran
+158
+¨Betas measure a company’s exposure to 
+macroeconomic risks. Consequently, you would 
+expect the beta to be a function of  the sensitivity of 
+the demand for its products and services to 
+macroeconomic factors. 
+¤To the extent that cyclical companies are more likely to 
+move with the macroeconomy, they are likely to have 
+higher betas.
+¤Firms which sell more discretionary products will have 
+higher betas than firms that sell less discretionary product
+159
+A Simple Test
+Aswath Damodaran
+159
+¨Phone service is close to being non-discretionary in the 
+United States and Western Europe. However, in much of 
+Asia and Latin America, there are large segments of the 
+population for which phone service is a luxury. 
+¨Given our discussion of discretionary and non-
+discretionary products, which of the following 
+conclusions would you be willing to draw:
+¤Emerging market telecom companies should have higher betas 
+than developed market telecom companies.
+¤Developed market telecom companies should have higher betas 
+than emerging market telecom companies
+¤The two groups of companies should have similar betas
+160
+Determinant 2: Operating Leverage Effects
+Aswath Damodaran
+160
+¨Operating leverage refers to the proportion of the total 
+costs of the firm that are fixed. 
+¨When a company has higher fixed costs, small changes in 
+revenues will translate into larger changes in earnings, 
+and by extension, into more variable earnings.
+¤Other things remaining equal, sectors with higher operating 
+leverage should have higher betas than sectors with less 
+operating leverage.
+¤Within sectors, companies with more flexible cost structures 
+(where costs adjust more quickly to revenues) should have 
+lower betas than companies with more rigid cost structures.
+161
+Measures of Operating Leverage
+Aswath Damodaran
+161
+¨Fixed Costs Measure = Fixed Costs / Variable Costs
+¤This measures the relationship between fixed and variable costs. 
+The higher the proportion, the higher the operating leverage.
+¤The problem with this measure is that companies do not break 
+costs down into fixed and variable.
+¨EBIT Variability Measure = % Change in EBIT / % Change 
+in Revenues
+¤This measures how quickly the earnings before interest and 
+taxes changes as revenue changes. The higher this number, the 
+greater the operating leverage.
+¤There is noise in this number on a year-to-year basis.
+162
+Disney’s Operating Leverage: 1987-2013
+Aswath Damodaran
+Year Net Sales % Change in Sales EBIT % Change in EBIT
+1987 $2,877 $756
+1988 $3,438 19.50% $848 12.17%
+1989 $4,594 33.62% $1,177 38.80%
+1990 $5,844 27.21% $1,368 16.23%
+1991 $6,182 5.78% $1,124 -17.84%
+1992 $7,504 21.38% $1,287 14.50%
+1993 $8,529 13.66% $1,560 21.21%
+1994 $10,055 17.89% $1,804 15.64%
+1995 $12,112 20.46% $2,262 25.39%
+1996 $18,739 54.71% $3,024 33.69%
+1997 $22,473 19.93% $3,945 30.46%
+1998 $22,976 2.24% $3,843 -2.59%
+1999 $23,435 2.00% $3,580 -6.84%
+2000 $25,418 8.46% $2,525 -29.47%
+2001 $25,172 -0.97% $2,832 12.16%
+2002 $25,329 0.62% $2,384 -15.82%
+2003 $27,061 6.84% $2,713 13.80%
+2004 $30,752 13.64% $4,048 49.21%
+2005 $31,944 3.88% $4,107 1.46%
+2006 $33,747 5.64% $5,355 30.39%
+2007 $35,510 5.22% $6,829 27.53%
+2008 $37,843 6.57% $7,404 8.42%
+2009 $36,149 -4.48% $5,697 -23.06%
+2010 $38,063 5.29% $6,726 18.06%
+2011 $40,893 7.44% $7,781 15.69%
+2012 $42,278 3.39% $8,863 13.91%
+2013 $45,041 6.54% $9,450 6.62% Operating Leverage
+Average: 87-13 11.79% 11.91% 11.91/11.79 =1.01
+Average: 96-13 8.16% 10.20% 10.20/8.16 =1.25
+The average for this 
+statistic across 
+entertainment 
+companies is 1.15.
+163
+Determinant 3: Financial Leverage
+Aswath Damodaran
+163
+¨As firms borrow, they create fixed costs (interest payments) that 
+make their earnings to equity investors more volatile. This 
+increased earnings volatility which increases the equity beta.
+¨The beta of equity alone can be written as a function of the 
+unlevered beta and the debt-equity ratio
+bLevered= bunlevered(1+ ((1-t)D/E))
+where
+¤bL= Levered or Equity Beta D/E = Market value Debt to equity ratio
+¤bu= Unlevered or Asset Betat = Marginal tax rate
+¨Earlier, we estimated the beta for Disney from a regression. Was 
+that beta a levered or unlevered beta?
+a. Levered
+b. Unlevered
+164
+Effects of leverage on betas: Disney
+¨The regression beta for Disney is 1.25. This beta is a 
+levered beta (because it is based on stock prices, which 
+reflect leverage) and the leverage implicit in the beta 
+estimate is the average market debt equity ratio during 
+the period of the regression (2008 to 2013)
+¤The average debt equity ratio during this period was 19.44%.
+¤The unlevered beta for Disney can then be estimated (using a 
+marginal tax rate of 36.1%)
+Disney’s Unlevered Beta 
+= Regression Beta / (1 + (1 -tax rate) (Average Debt/Equity))
+= 1.25 / (1 + (1 -0.361)(0.1944))= 1.11
+Aswath Damodaran
+165
+Disney : Beta and Financial Leverage
+Aswath Damodaran
+Debt to Capital Debt/Equity Ratio Beta Effect of Leverage 
+0.00% 0.00% 1.11 0.00 
+10.00% 11.11% 1.1908 0.08 
+20.00% 25.00% 1.29 0.18 
+30.00% 42.86% 1.42 0.30 
+40.00% 66.67% 1.59 0.47 
+50.00% 100.00% 1.82 0.71 
+60.00% 150.00% 2.18 1.07 
+70.00% 233.33% 2.77 1.66 
+80.00% 400.00% 3.95 2.84 
+90.00% 900.00% 7.51 6.39
+166
+Betas are weighted Averages
+Aswath Damodaran
+166
+¨The beta of a portfolio is always the market-value 
+weighted average of the betas of the individual 
+investments in that portfolio.
+¨Thus,
+¤the beta of a mutual fund is the weighted average of the 
+betas of the stocks and other investment in that portfolio
+¤the beta of a firm after a merger is the market-value 
+weighted average of the betas of the companies involved 
+in the merger .
+167
+The Disney/Cap Cities Merger (1996): Pre-
+Merger
+Aswath Damodaran
+167
+Disney: The Acquirer
+Equity Beta 
+1.15
+Debt  = $3,186 million
+Market value of equity = $31,100 million
+Debt + Equity = Firm value = $31,100 
++ $3186 = $34,286 million
+D/E Ratio = 3186/31100 = 0.10
+Capital Cities: The Target
+Equity Beta 
+0.95
+Debt  = $ 615 million
+Market value of equity = $18, 500 million
+Debt + Equity = Firm value = $18,500 + 
+$615 = $19,115 million
+D/E Ratio = 615/18500 = 0.03
++
+168
+Disney Cap Cities Beta Estimation: Step 1 
+Aswath Damodaran
+168
+¨Calculate the unlevered betas for both firms
+¤Disney’s unlevered beta = 1.15/(1+0.64*0.10) = 1.08
+¤Cap Cities unlevered beta = 0.95/(1+0.64*0.03) = 0.93
+¨Calculate the unlevered beta for the combined firm
+¤Unlevered Beta for combined firm 
+= 1.08 (34286/53401) + 0.93 (19115/53401)
+= 1.026
+¤The weights used are the firm values (and not just the 
+equity values) of the two firms, since these are unlevered 
+betas and thus reflects the risks of the entire businesses 
+and not just the equity]
+169
+Disney Cap Cities Beta Estimation: Step 2
+Aswath Damodaran
+169
+¨If Disney had used all equity to buy Cap Cities equity, while assuming Cap 
+Cities debt, the consolidated numbers would have looked as follows:
+¤Debt = $ 3,186+ $615  = $ 3,801 million
+¤Equity = $ 31,100 + $18,500 = $ 49,600 m (Disney issues $18.5 billion in equity)
+¤D/E Ratio = 3,801/49600 = 7.66%
+¤New Beta = 1.026 (1 + 0.64 (.0766)) = 1.08
+¨Since Disney borrowed $ 10 billion to buy Cap Cities/ABC, funded the rest 
+with new equity and assumed Cap Cities debt:
+¤The market value of Cap Cities equity is $18.5 billion. If $ 10 billion comes from 
+debt, the balance ($8.5 billion) has tocome from new equity.
+¤Debt = $ 3,186 + $615 million + $ 10,000 = $ 13,801 million
+¤Equity = $ 31,100 + $8,500 = $39,600 million
+¤D/E Ratio = 13,801/39600 = 34.82%
+¤New Beta = 1.026 (1 + 0.64 (.3482)) = 1.25
+170
+Firm Betas versus divisional Betas
+Aswath Damodaran
+170
+¨Firm Betas as weighted averages: The beta of a firm is 
+the weighted average of the betas of its individual 
+projects. 
+¤Since betas measure exposure to macro risk, if the projects are 
+all in the same line of business, they may all share the same 
+unlevered beta.
+¤If the projects vary in their macroeconomic risk exposure, the 
+project betas will also vary.
+¨Firm Betas and Business betas: At a broader level of 
+aggregation, the beta of a multi-business firm is the 
+weighted average of the betas of the different 
+businesses that they operate in.
+171
+Bottom-up versus Top-down Beta
+Aswath Damodaran
+171
+¨The top-down beta for a firm comes from a regression
+¨The bottom-up beta can be estimated by doing the following:
+¤Find out the businesses that a firm operates in
+¤Find the unlevered betas of other firms in these businesses
+¤Take a weighted (by sales or operating income) average of these 
+unlevered betas
+¤Lever up using the firm’s debt/equity ratio
+¨The bottom-up beta is a better estimate than the top down
+beta for the following reasons
+¤The standard error of the beta estimate will be much lower
+¤The betas  can reflect the current (and even expected future) mix of 
+businesses that the firm is in rather than the historical mix
+172
+Disney’s businesses: The financial 
+breakdown (from 2013 annual report)
+Aswath Damodaran
+173
+Unlevered Betas for businesses
+Aswath Damodaran
+€ 
+Unlevered Beta
+(1 - Cash/ Firm Value)
+Business Comparable firms
+Sample 
+size
+Median 
+Beta
+Median 
+D/E
+Median 
+Tax rate
+Company 
+Unlevered 
+Beta
+Median 
+Cash/ 
+Firm 
+Value
+Business 
+Unlevered 
+Beta
+Media Networks
+US  firms in 
+broadcasting 
+business 26 1.43 71.09%40.00% 1.0024 2.80% 1.0313
+Parks & Resorts
+Global firms in 
+amusement park 
+business 20 0.87 46.76%35.67% 0.6677 4.95% 0.7024
+Studio 
+EntertainmentUS movie firms 10 1.24 27.06%40.00% 1.0668 2.96% 1.0993
+Consumer 
+Products
+Global firms in 
+toys/games 
+production & retail 44 0.74 29.53%25.00% 0.6034 10.64% 0.6752
+Interactive
+Global computer 
+gaming firms 33 1.03 3.26% 34.55% 1.0085 17.25% 1.2187
+174
+A closer look at the process…
+Studio Entertainment Betas
+Aswath Damodaran
+Company Name Levered Beta
+Market 
+Capitalization
++ Total Debt 
+including 
+Leases =Firm Value -Cash
+= Enterprise 
+Value
+Cash/Firm 
+Value
+Pre-tax cost 
+of debt
+Marginal tax 
+rate
+Gross D/E 
+ratio
+Revenue 
+(Sales)EV/Sales
+SFX Entertainment Inc. (NasdaqGS:SFXE)1.12 $738.8 $98.9 $837.7 $143.6 $694.1 17.14% 8.46% 40.00% 13.39% 62.0 11.20
+Mass Hysteria Entertainment Company, 
+Inc. (OTCPK:MHYS)
+1.19 $0.2 $1.1 $1.4 $- $1.4 0.00% 10.00% 40.00% 477.94% 0 12.45
+MedientStudios, Inc. (OTCPK:MDNT) 0.93 $3.2 $3.2 $6.4 $0.1 $6.3 0.81% 4.84% 40.00% 99.07% 5.22 1.21
+POW! Entertainment, Inc. 
+(OTCPK:POWN)
+0.94 $4.0 $0.3 $4.3 $0.4 $3.9 9.85% 4.00% 40.00% 8.65% 2.03 1.92
+MGM Holdings Inc. (OTCPK:MGMB) 1.29 $3,631.7 $142.2 $3,773.9 $140.7 $3,633.2 3.73% 10.00% 40.00% 3.91% 1,892.6 1.92
+Lions Gate Entertainment Corp. 
+(NYSE:LGF)
+1.20 $4,719.6 $1,283.2 $6,002.8 $67.2 $5,935.6 1.12% 6.34% 40.00% 27.19% 2,597.8 2.28
+DreamWorks Animation SKG Inc. 
+(NasdaqGS:DWA)
+1.32 $2,730.0 $348.3 $3,078.3 $156.4 $2,921.9 5.08% 3.00% 40.00% 12.76% 767.3 3.81
+Twenty-First Century Fox, Inc. 
+(NasdaqGS:FOXA)
+1.28 $77,743.5 $20,943.0 $98,686.5 $6,681.0 $92,005.5 6.77% 6.15% 40.00% 26.94% 28,733.0 3.20
+Independent Film Development 
+Corporation (OTCPK:IFLM)
+1.61 $1.3 $1.0 $2.3 $- $2.2 2.20% 10.00% 40.00% 72.35% 1 3.37
+Odyssey Pictures Corp. (OTCPK:OPIX) 2.60 $0.3 $1.6 $1.9 $0.0 $1.9 0.10% 3.00% 40.00% 551.12% 0.669 2.90
+Average 1.35 4.68% 6.58% 40.00% 129.33% 4.43
+Aggregate 1.35 $22,822.82 $112,395.45 $7,189.43 $105,206.02 6.40% 6.58% 40.00% 25.48% 34,061.4 3.09
+Median 1.24 2.96% 6.24% 40.00% 27.06% 3.05
+175
+Backing into a pure play beta: The Median 
+Movie Company
+Aswath Damodaran
+175
+1. Start with the median regression beta (equity beta) of 1.24
+2. Unleverthe beta, using the median gross D/E ratio of 27.06%
+Gross D/E ratio = 21.30/78.70 = 27.06% 
+Unlevered beta = 1.24/ (1+ (1-.4) (.2706)) = 1.0668
+3. Take out the cash effect, using the median cash/value of 2.96%
+(.0296) (0) + (1-.0296) (Beta of movie business) = 1.0668
+Beta of movie business = 1.0668/(1-.0296) = 1.0993
+Alternatively, you could have used the net debt to equity ratio
+Net D/E ratio = (21.30-2.96)/78.70 = 23.30%
+Unlevered beta for movies = 1.24/ (1+(1-.4)(.233)) = 1.0879
+Value Beta Value Beta
+Movie Business 97.04 1.0993 Debt 21.3 0
+Cash Business 2.96 0 Equity 78.7 1.24
+Movie Company 100 1.0668
+176
+Disney’s Unlevered Beta: Operations & 
+Entire Company
+Aswath Damodaran
+Disney has $3.93 billion in cash, invested in close to riskless assets (with a beta of zero). 
+Yo u  c a n  c o m p u t e  a n  u n l e v e r e d  b e t a  f o r  D i s n e y  a s  a  c o m p a n y  ( i n c l u s i v e  o f  c a s h ) :
+Business Revenues EV/Sales
+Value of 
+Business
+Proportion of 
+Disney
+Unlevered 
+beta Value Proportion
+Media Networks $20,356 3.27 $66,580 49.27% 1.03 $66,579.81 49.27%
+Parks & Resorts $14,087 3.24 $45,683 33.81% 0.70 $45,682.80 33.81%
+Studio Entertainment $5,979 3.05 $18,234 13.49% 1.10 $18,234.27 13.49%
+Consumer Products $3,555 0.83 $2,952 2.18% 0.68 $2,951.50 2.18%
+Interactive $1,064 1.58 $1,684 1.25% 1.22 $1,683.72 1.25%
+Disney Operations $45,041 $135,132 100.00% 0.9239 $135,132.11
+Disney Operations: Unlevered Beta
+Disney –The Company: Unlevered Beta
+177
+The levered beta: Disney and its divisions
+¨To estimate the debt ratios for division, we allocate Disney’s total debt 
+($15,961 million) to its divisions based on identifiable assets. 
+¨We use the allocated debt to compute D/E ratios and levered betas.
+Aswath Damodaran
+Business Unlevered betaValue of business D/E ratio Levered beta Cost of Equity
+Media Networks 1.0313 $66,580 10.03% 1.0975 9.07%
+Parks & Resorts 0.7024 $45,683 11.41% 0.7537 7.09%
+Studio Entertainment 1.0993 $18,234 20.71% 1.2448 9.92%
+Consumer Products 0.6752 $2,952 117.11% 1.1805 9.55%
+Interactive 1.2187 $1,684 41.07% 1.5385 11.61%
+Disney Operations 0.9239 $135,132 13.10% 1.0012 8.52%

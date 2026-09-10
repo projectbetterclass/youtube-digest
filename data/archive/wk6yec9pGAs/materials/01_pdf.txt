@@ -1,0 +1,240 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr24/session17slides.pdf
+
+CORPORATE FINANCE
+LECTURE NOTE PACKET 2
+CAPITAL STRUCTURE, DIVIDEND 
+POLICY AND VALUATION
+AswathDamodaran Spring 2024
+Aswath Damodaran 1
+CAPITAL STRUCTURE: THE 
+CHOICES AND THE TRADE OFF
+“Neither a borrower nor a lender be”
+Someone who obviously hated this part of corporate finance
+Aswath Damodaran 2
+3
+First principles
+Aswath Damodaran
+3
+4
+The Choices in Financing
+Aswath Damodaran
+4
+5
+Global Patterns in Financing… 
+Aswath Damodaran
+5
+6
+And a much greater dependence on bank loans 
+outside the US…
+Aswath Damodaran
+6
+¨In broad terms, borrowing can come from banks/lenders or 
+from issuing corporate bonds. 
+¨In the United States, companies have had more access to 
+corporate bonds than companies in other markets. 
+¤That access which initially started for larger companies expanded to 
+cover smaller ones.
+¤In the 1980s, Mike Milken opened up the bond market to issuers who 
+had below investment grade ratings with the junk bond market.
+¨In the last two or three decades, bond markets have opened 
+up for companies in the rest of the world as well.
+¨As a borrower, with a choice of issuing corporate bonds or 
+raising bank loans, why might you pick one over the other?
+7
+Assessing the existing financing choices: Disney, 
+Vale, Tata Motors, Baidu& Bookscape
+Aswath Damodaran
+7
+8
+9
+The Transitional Phases..
+Aswath Damodaran
+9
+¨The transitions that we see at firms –from fully owned 
+private businesses to venture capital, from private to public 
+and subsequent seasoned offerings are all motivated 
+primarily by the need for capital. 
+¨In each transition, though, there are costs incurred by the 
+existing owners:
+¤When venture capitalists enter the firm, they will demand their fair 
+share and more of the ownership of  the firm to provide equity.
+¤When a firm decides to go public, it has to trade off the greater access 
+to capital markets against the increased disclosure requirements (that 
+emanate from being publicly lists), loss of control and the transactions 
+costs of going public.
+¤When making seasoned offerings, firms have to consider issuance 
+costs while managing their relations with equity research analysts and 
+rat
+10
+Measuring a firm’s financing mix …
+Aswath Damodaran
+10
+¨The simplest measure of how much debt and equity a firm is 
+using currently is to look at the proportion of debt in the total 
+financing. This ratio is called the debt to capital ratio:
+Debt to Capital Ratio = Debt / (Debt + Equity)
+¨Debt includes all interest bearing liabilities, short term as well 
+as long term. It should also include other commitments that 
+meet the criteria for debt: contractually pre-set payments 
+that have to be made, no matter what the firm’s financial 
+standing.
+¨Equity can be defined either in accounting terms (as book 
+value of equity) or in market value terms (based upon the 
+current price). The resulting debt ratios can be very different.
+11
+The Financing Mix Question
+Aswath Damodaran
+11
+¨In deciding to raise financing for a business, is there 
+an optimal mix of debt and equity?
+¤If yes, what is the trade off that lets us determine this 
+optimal mix?
+nWhat are the benefits of using debt instead of equity?
+nWhat are the costs of using debt instead of equity?
+¤If not, why not?
+¨To answer this question, you have to decide what 
+you are optimizing first, and in corporate finance, 
+that is firm value.
+12
+The Illusory Benefits of Debt
+Aswath Damodaran
+12
+13
+Costs and Benefits of Debt
+Aswath Damodaran
+13
+¨Benefits of Debt
+¤Tax Benefits: The tax code is tilted in favor of debt, with interest 
+payments being tax deductible in most parts of the world, while 
+cash flows to equity are not.
+¤Adds discipline to management: When managers are sloppy in 
+their project choices, borrowing money may make them less so.
+¨Costs of Debt
+¤Bankruptcy Costs: Borrowing money will increase your expected 
+probability and cost of bankruptcy.
+¤Agency Costs: What’s good for stockholders is not always what’s 
+good for lenders and that creates friction and costs.
+¤Loss of Future Flexibility: Using up debt capacity today will mean 
+that you will not be able to draw on it in the future.
+14
+Tax Benefits of Debt
+Aswath Damodaran
+14
+¨When you borrow money, you are allowed to deduct interest 
+expenses from your income to arrive at taxable income. This 
+reduces your taxes. When you use equity, you are not 
+allowed to deduct payments to equity (such as dividends) to 
+arrive at taxable income.
+¨The dollar tax benefit from the interest payment in any year is 
+a function of your tax rate and the interest payment:
+nTax benefit each year = Tax Rate * Interest Payment
+nThe caveat is that you need to have the income to cover interest 
+payments to get this tax benefit.
+¨Proposition 1: Other things being equal, the higher the 
+marginal tax rate of  a business, the more debt it will have in 
+its capital structure.
+15
+The Effects of Taxes
+Aswath Damodaran
+15
+¨You are comparing the debt ratios of real estate 
+corporations, which pay the corporate tax rate, and 
+real estate investment trusts, which are not taxed, 
+but are required to pay 95% of their earnings as 
+dividends to their stockholders. Which of these two 
+groups would you expect to have the higher debt 
+ratios?
+a.The real estate corporations
+b.The real estate investment trusts
+c.Cannot tell, without more information
+16
+Tax Law and Debt
+¨At the end of 2017, the United States had one of the 
+highest marginal corporate tax rates in the world (about 
+40%). Most companies had effective tax rates well below 
+this, with the average effective tax rate closers to 22%. 
+Which tax rate drives the tax benefit of debt and why?
+a. Marginal tax rates
+b. Effective tax rates
+¨At the end of 2017, a tax reform act passed Congress and 
+became law, lowering the federal corporate tax rate from 
+36% to 21%? Holding all else constant, what should you 
+expect to see happen to debt at US companies?
+Aswath Damodaran
+16
+17
+Debt adds discipline to management
+Aswath Damodaran
+17
+¨If you are managers of a firm with no debt, and you 
+generate high income and cash flows each year, you tend 
+to become complacent. The complacency can lead to 
+inefficiency and investing in poor projects. There is little 
+or no cost borne by the managers 
+¨Forcing such a firm to borrow money can be an antidote 
+to the complacency. The managers now have to ensure 
+that the investments they make will earn at least enough 
+return to cover the interest expenses. 
+¨It is not the bankruptcy, per se, that makes managers 
+disciplined, but the loss of such a job and personal 
+wealth.
+18
+Debt and Discipline
+Aswath Damodaran
+18
+¨Assume that you buy into this argument that debt adds 
+discipline to management. Which of the following types 
+of companies will most benefit from debt adding this 
+discipline?
+a. Conservatively financed (very little debt), privately 
+owned businesses
+b. Conservatively financed, publicly traded companies, 
+with stocks held by millions of investors, none of whom 
+hold a large percent of the stock.
+c. Conservatively financed, publicly traded companies, 
+with an activist and primarily institutional holding.
+19
+Bankruptcy Cost
+Aswath Damodaran
+19
+¨The expected bankruptcy cost is a function of two variables--
+¤the probability of bankruptcy, which will depend upon how uncertain 
+you are about future cash flows
+¤the cost of going bankrupt
+ndirect costs: Legal and other Deadweight Costs
+nindirect costs: Costs arising because people perceive you to be in 
+financial trouble
+¨Proposition 2: Firms with more volatile earnings and cash 
+flows will have higher probabilities of bankruptcy at any given 
+level of debt and for any given level of earnings.
+¨Proposition 3: Other things being equal, the greater the 
+indirect bankruptcy cost, the less debt the firm can afford to 
+use for any given level of debt.
+20
+Debt & Bankruptcy Cost
+Aswath Damodaran
+20
+¨Rank the following companies on the magnitude of 
+bankruptcy costs from most to least, taking into 
+account both explicit and implicit costs:
+a. A Grocery Store
+b. An Airplane Manufacturer
+c. High Technology company
+21
+Agency Cost
+Aswath Damodaran
+21
+¨An agency cost arises whenever you hire someone else to do something 
+for you. It arises because your interests(as the principal) may deviate from 
+those of the person you hired (as the agent).
+¨When you lend money to a business, you are allowing the stockholders to 
+use that money in the course of running that business. Stockholders 
+interests are different from your interests, because 
+¤You (as lender) are interested in getting your money back
+¤Stockholders are interested in maximizing their wealth
+¨In some cases, the clash of interests can lead to stockholders
+¤Investing in riskier projects than you would want them to
+¤Paying themselves large dividends when you would rather have them keep the cash 
+in the business.
+¨Proposition 4: Other things being equal, the greater the agency problems 
+associated with lending to a firm, the less debt the firm can afford to use.

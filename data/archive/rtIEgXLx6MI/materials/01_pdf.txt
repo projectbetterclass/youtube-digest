@@ -1,0 +1,144 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate6for2023.pdf
+
+DATA UPDATE 6 FOR 2023: THE
+UPSIDEANDDOWNSIDEOFDEBT
+A double-edged sword!
+1
+2
+To borrow, or not to borrow?
+¨As investors, businesses and let's face it, as human beings, we have 
+a prickly relationship with debt. 
+¤While it is a financial decision, it is one that has been assigned moral 
+overtones, since almost every religion has inveighed against debt's sins, 
+labeling those who lend as sinners and those who borrow as weak. 
+¤All that said, businesses around the world have borrowed money though 
+time to fund their operations, sometimes for good reasons and sometimes 
+for bad, and over time, these businesses have also had cycles of too much 
+debt leading to painful cleansing. 
+¨In this post, I will focus on corporate debt in 2023, keeping in mind 
+that it was a year where the rules seemed to change, as interest 
+rates rose to pre-2008 levels, and putting at risk those firms that 
+had borrowed to the hilt, at low interest rates, but without the 
+earnings capacity to service the higher interest payments, with 
+2022 rates.
+¨2
+3
+Debt’s Place in Business
+3
+4
+Good Reasons for borrowing
+4
+5
+Illusory Reasons for Borrowing
+¨5
+6
+The Right Financing Mix
+¨6
+7
+8
+Effect on Value
+8
+¨Ifyoucanseethemechanicsofhowchangingdebtratiochangesthecost
+ofcapital,butareunclearonhowloweringthecostofcapitalchangesthe
+valueofabusiness,thelinkisasimpleone.
+¨As you borrow more, your free cash flows to the firm should remain 
+unaffected, in most cases, since they are pre-debt cash flows, and a lower 
+cost of capital will translate into a higher value, with one caveat. 
+¤As you borrow more and the risk of failure/bankruptcy increases, there is the 
+possibility that customers may stop buying your products, suppliers may demand 
+cash and your employees may start abandoning ship, creating a death spiral, where 
+operating income and cash flows are affected, in what is termed "indirect 
+bankruptcy costs". 
+¤In that case, the optimal debt ratio for a company is the one that maximizes value, 
+not necessarily the one at which the cost of capital is minimized.
+9
+Adani Enterprise: Optimal Financing Mix?
+9
+10
+Adani Group: Optimal Financing Mix
+10
+11
+Do firms optimize financing mix?
+¨11
+1. Inertia: In my view, at most companies the key determinant of debt policy, as it is 
+of most other aspects of corporate finance, is inertia. In other words, companies 
+continue the debt policies that they have used in the past.
+2. Me-to-ism: The second and almost as powerful a force in determining debt policy 
+is peer group behavior . It is for this reason that debt policy is far more likely to 
+vary across industry groups than it is to vary within an industry group.
+3. Because lenders are willing to lend me money: There is a final perspective on debt 
+that can lead companies to borrow money, even if that borrowing is inimical to 
+their own well being, and it is that if lenders offer them the money, you cannot 
+turn them away. The "lenders made me do it" excuse for borrowing money is 
+about as bad as the "buffet lunch made me overeat" excuse used by dieters, and 
+it just as futile, because ultimately, the damage is self inflicted.
+4. Control: A growing firm needs capital to fund its growth, and that capital has to
+come from equity issuances or new borrowing. When control becoming the 
+dominant prerogative for those running the firm, they may choose to borrow 
+money, even if it pushes up the cost of funding and increases truncation risk, rather 
+than issue shares to the the public (and risk dilution their control of the firm).
+12
+Measuring Debt Loads: Debt to Capital
+12
+1.Gross versus Net Debt: The gross debt is the total 
+debt owed by a firm, long or short term, whereas 
+the net debt is estimated by netting out cash and 
+marketable securities from the total debt. 
+2.Book versus Market: The book debt ratio is built 
+around using the accounting measure of equity, 
+usually shareholder's equity, as the value of equity. 
+The market debt ratio, in contrast, uses the market's 
+estimate of the value of equity, i.e., its market 
+capitalization, as the value of equity.
+13
+14
+Debt to Earnings/Cash Flows
+14
+¨If debt to capital is not a good measure for judging over or 
+under leverage, what is? The answer lies in looking at a 
+company's earnings and cash flow capacity, relative to its 
+debt obligations. The interest coverage ratio is the first of two 
+ratios that I will use to measure this capacity:
+Interest Coverage Ratio = Earnings before interest and taxes/ 
+Interest expenses
+¨The second ratio remedies this problem by looking at debt as 
+a multiple of EBITDA:
+Debt to EBITDA = Total Debt/ EBITDA
+The logic behind this measure is simple. The denominator is a measure of 
+operating cash flows, prior to a whole host of cash outflows, but a firm 
+that borrows too much relative to EBITDA is stretching its capacity to 
+repay that debt.
+15
+16
+Most and Least Levered Industry Groups 
+(US)¨16
+17
+Corporate/Business Default: Reasons
+¨17
+¨ Company-specific: Companies can overreach, borrowingfarmorethanthey
+canafford,effectively putting themselves at risk thatifsomething goes 
+wrong, they will have to default. In some cases, deteriorating businesses can 
+cause default as well, as earnings drop below contractual commitments.
+¨ Sector-wide: If disruption is the word that has excited venture capitalists and 
+investors across the world for much of this century, it comes with a dark side, 
+which is that the disrupted businesses can find themselves with imploding 
+business models (shrinking revenues and operating margins under stress).
+¨ Macro-driven: The trigger can be a macroeconomic factor, most often a 
+recession, that puts pressure on earnings, leaving many companies exposed 
+to default. (In 2020, a pandemic accomplished the same objective.)
+¨ Interest Rate Dynamics: Finally, companies borrow based upon existing 
+interest rates, but if rate change suddenly, debt thatwasaffordable can turn 
+unaffordable.
+18
+US Business Loan Delinquencies over time
+¨18
+19
+Corporate Default Rates over time
+¨19
+20
+The Challenge in 2023: Ratings Downgrade 
+a signal?
+20
+21
+AFamiliarDuo: Drivers of Default
+21

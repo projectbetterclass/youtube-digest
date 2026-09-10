@@ -1,0 +1,27 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session1soln.pdf
+
+Session	  1:	  Post	  class	  test	  (solutions)	  
+1. F.	  	  All	  of	  the	  listed	  are	  corporate	  finance	  decisions,	  since	  they	  all	  
+require	  financial	  resources.	  The	  one	  that	  comes	  closest	  to	  not	  making	  
+it	  is	  the	  accounting	  reevaluation	  because	  it	  really	  is	  cosmetic.	  The	  only	  
+reason	  I	  include	  it	  is	  because	  you	  have	  to	  pay	  the	  accountants	  to	  do	  
+this	  cosmetic	  restatement.	  
+2. c.	  That	  the	  firm	  is	  funded	  with	  primarily	  equity	  and	  pays	  little	  out	  
+to	  its	  stockholders.	  If	  you	  are	  a	  firm	  that	  derives	  your	  value	  from	  
+growth	  assets,	  you	  cannot	  afford	  debt	  (since	  you	  don’t	  have	  much	  in	  
+existing	  assets	  &	  cash	  flows)	  and	  you	  need	  all	  your	  cash	  to	  go	  back	  
+into	  the	  firm	  to	  generate	  future	  growth	  (and	  thus	  cannot	  return	  cash	  
+to	  stockholders).	  
+3. e.	  Firms	  should	  take	  investments	  that	  earn	  returns	  greater	  than	  
+the	  risk	  adjusted	  hurdle	  rate.	  It	  is	  not	  enough	  that	  the	  investments	  
+are	  profitable	  &	  increase	  growth	  or	  that	  they	  earn	  more	  than	  the	  risk	  
+free	  rate.	  The	  projects	  earning	  the	  highest	  returns	  may	  not	  be	  good	  
+enough,	  if	  they	  are	  very	  risky.	  
+4. e.	  Debt	  in	  the	  same	  currency	  that	  your	  cash	  flows	  are	  in.	  Using	  the	  
+cheapest	  debt,	  the	  longest	  term	  debt	  or	  the	  shortest	  term	  debt	  may	  
+not	  make	  sense	  if	  the	  debt	  is	  not	  matched	  	  up	  to	  the	  cash	  flows	  on	  the	  
+assets.	  Mismatching	  debt	  to	  assets	  increases	  default	  risk.	  
+5. c.	  Firms	  that	  have	  high	  earnings	  and	  low	  growth	  potential	  will	  return	  
+more	  cash	  to	  stockholders.	  It	  is	  a	  combination	  of	  having	  lots	  of	  
+earnings	  (cash	  flows)	  and	  not	  that	  much	  to	  invest	  those	  cash	  flows	  in	  
+that	  creates	  the	  opportunity	  to	  return	  more	  cash.

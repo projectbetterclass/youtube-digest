@@ -1,0 +1,230 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/Birkenstock2023.pdf
+
+INVISIBLE,YETINVALUABLE: 
+VALUING BIRKENSTOCK (AND ITS 
+INTANGIBLES)!
+BrandNameandthe BarbieBuzz
+2
+IntangiblesandIPOs:TheLeadIn!
+¨In this sessions, I will look at the initial public offering of  
+Birkenstock, that is likely to get more attention in the 
+next few weeks, given that it is targeting to go public at a 
+pricing of about €8 billion, for its equity, in a few weeks. 
+¨Rather than make this post all about valuing Birkenstock, 
+and comparing that value to the proposed pricing, 
+¤I would like to use the company to discuss how intangible assets 
+get valued in an intrinsic valuation, and 
+¤why much of the discussion of intangible valuation in accounting 
+circles is a reflection ofa mind-set on valuation that often 
+misses its essence.
+3
+The Value of Intangbiles
+¨Accounting has historically done a poor job dealing with 
+intangible assets, and as the economy has transitioned 
+away from a manufacturing-dominated twentieth 
+century to the technology and services focused economy 
+of the twenty first century, that failure has become more 
+apparent. 
+¨The resulting debate among accountants about how to 
+bring intangibles on to the books has spilled over into 
+valuation practice, and many appraisers and analysts are 
+wrongly, in my view, letting the accounting debate affect 
+how they value companies.
+4
+IntangiblesinValue:AHistorical 
+Perspective
+¨While the debate about intangibles, and how best to value them, is 
+relatively recent, it is unquestionable that intangibles have been a part of 
+valuation, and the investment process, through history. 
+¤An analyst valuing General Motors in the 1920s was probably attaching a premium 
+to the company, because it was headed by Alfred Sloan, viewed then a visionary 
+leader, just as an investor pricing GE in the 1980s was arguing for a higher pricing, 
+because Jack Welch was engineering a rebirth of the company. 
+¤Even a cursory examination of the theNifty Fifty, the stocks that drove US equities 
+upwards in the early 1970s, reveals companies with significant value from 
+intangible assets (Coca Cola and Gillette, with brand name, Bristol-Myers and Pfizer , 
+from patents). IBM and Hewlett Packard, pioneers of the tech sector, were priced 
+higher during that period, because of their technological strengths and other 
+intangibles. 
+¨Among many old-time value investors, especially in the Warren Buffet 
+camp, the importance of having "good management' 
+andmoats(competitive advantages, many of which are intangible) 
+represented an acceptance of to how critical it is that we incorporate 
+these intangible benefits into investment decisions.
+5
+The Rise of Intangibles: Largest Market 
+Cap Firms
+6
+Companies going public…
+7
+With consequences for value and 
+investors…
+8
+The Accounting Debate on Intangibles
+10
+Progress on Intangibles?
+11
+Not really…
+12
+AndtheMarketCap gappersists…
+13
+Accounting and Intangibles: A “Biased” 
+Summation…
+¨The accounting obsession with intangibles, and how best 
+to deal with them, has not translated into material 
+changes on balance sheets, at least with GAAP in the 
+United States. 
+¨It is true that IFRS has moved faster in bringing intangible 
+assets on to balance sheets, albeit not always in the 
+most sensible ways, but even with those rules in place, 
+progress on bringingintangible assets onto balance 
+sheets has been slow.
+¨The problem for accounting is the fixation on showing 
+intangibles on balance sheets, rather than dealing with 
+them on the statements that matter –income and cash 
+flow statements.
+14
+AnIntrinsicValueView of Intangibles
+¨I have been teaching and writing about valuation for close to 
+four decades now, and I have often been accused of giving 
+short shrift to intangible assets, because I don't have a 
+session dedicated to valuing intangibles, in my valuation class, 
+and I don't have entire books, or even chapters of my books, 
+on the topic. 
+¨While it may seem like I am in denial, given how much value 
+companies derive from assets you cannot see, I have never 
+felt the need to create new models, or even modify existing 
+models, to bring in intangibles. 
+¨I will explain why and make the argument that if you do 
+intrinsic valuation right, intangibles should be, with 
+imagination and very little modification of existing models, 
+already in your intrinsic value.
+15
+Intrinsic Valuation 101
+¨To understand intrinsic value, it is worth starting with the 
+simple equation that animates the estimation of value, for an 
+asset with n years of cash flows:
+¨Whenvaluingabusiness,wherecashflowscouldlastfor
+muchlonger(perhapsevenforever),thisequationcanbe
+adapted:
+¨Inthisequation,foranything,tangibleornot,hastoshowup
+ineithertheexpectedcashflowsorintherisk(andthe
+resultingdiscountrate);thatismy"IT"proposition.
+16
+IntangiblesinIntrinsicValue
+17
+Qualifiers and Complexities
+¨Thisapproachtointangiblesalsoallowsyoutoseparatevaluable
+intangiblesfromwannabeintangibles,withthelatter,nomatterhow
+widelysold,havinglittleornoeffectonvalue.
+¤Thus,acompanythatclaimsthatithasavaluablebrandname,whiledelivering
+operatingmarginswellbelowtheindustryaverage,reallydoesnot,and
+¤theeffectofESGonvalue,nomatterwhatitsadvocatesclaim,isnon-existent.
+¨Itistruethatthisapproachtovaluingintangiblesworksbestfora
+companywithasingleintangible,whetheritbebrandnameorcustomer
+loyalty,wheretheeffectisisolatedtooneofthevaluedrivers.
+¨Itbecomesmoredifficulttouseforcompanies,likeApple,withmultiple
+intangibles(brandname,styling,operatingsystem,userplatform).While
+youcanstillvalueAppleintheaggregate,breakingouthowmuchofthat
+valuecomesfromeachoftheintangibleswillbedifficult,butasan
+investor,whydoesitmatter?
+18
+Birkenstock: Industry Background
+19
+A Narrower List of Peers…
+20
+Company History
+¨ Birkenstockwasfoundedin1774byJohannAdamBirkenstock,aGermany
+cobbler,anditstayedafamilybusinessformuchofitslife.Inthedecades
+followingitsfounding,thecompanymodifiedandadapteditsfootwear
+offerings,modifyingitsproductline,addingflexibleinsolesin1896and
+pioneeringarchsupportsin1902.
+¤ In1963,thecompanyintroduceditsfirstfitnesssandal,theMadrid,andsandalsnow
+representtheheartofBirkenstock'sproductline.
+¤ Alongtheway,serendipityplayedaroleinthecompany'sexpansion.In1966,aCalifornian
+namedMargotFraser,whenvisitinghernativeGermany,convincedKarlBirkenstocktotry
+sellingthecompany'ssandalsinCalifornia.
+¨ Thatprovedtimely,sincepeopleprotestingagainstthewarandsociety'sills
+latchedontothesesandals,makingthemthemsymbolicfootwearforthe
+rebellious.
+¨ inthe1990s,thebrandhadarebirth,whenaveryyoungKateMossworeit
+foracoverstory,anditbecameahotbrand,especiallyoncollegecampuses.
+21
+Products and Customers
+New Management and Growth 
+Rediscovered
+¨In 2012, when the 
+family, facing 
+internal strife, 
+turned control of 
+the company over 
+to outside 
+managers, 
+choosing Markus 
+Bensberg, a 
+company veteran, 
+and Oliver 
+Reichert, a 
+consultant, as co-
+CEOs of the 
+company.
+23
+Withsolidprofitability…
+24
+IPO timing…
+¨The strong growth since 2020 provide a strong basis for why the 
+company is planning its public offering now, but there is another 
+factor that may explain the timing. 
+¨In 2021, the family sold a majority stake in the firm to L. Catterton, 
+an LVMH-backed private equity firm, at an estimated value in 
+excess of€4billion Euros.  That deal was funded substantially with 
+debt, leaving a debt overhang of close to€2billion, in 2023; the 
+prospectus states that all ofof the company's proceeds from the 
+offering will be used to pay down this debt. 
+¨That said, the pricing for the offering has increased since news of it 
+was first floated in July, with€6 billion plus pricing in initial 
+reportsincreasingto€8 billion in early Septemberand to€9.2 
+billion in the most recent news stories.
+25
+Birkenstock’s Intangibles
+1. BrandName:ItisundeniablethatBirkenstocknotonlyhasabrandname,in
+termsofrecognitionandvisibility,buthasthepricingpowerandoperating
+marginstobackupthatbrandname.However ,asisoftenthecase,thebuilding
+blocksthatgaverisetothebrandnamearecomplexandvaried-itmakesunique
+footwear,hasbeenconsistentaboutitsfocusoncomfortandfoothealth,has
+stayedwiththeworkforceandingredientsthathavebroughtithereandhasa
+diversecustomerbase.
+2. CelebrityCustomerBase:Birkenstockattractscelebritiesindifferentagegroups,
+fromGwynethPaltrow&HeidiKlumtoParisJackson&KendallJenner,andmore
+impressively,itdoessowithoutpayingthemsponsorshipfees.Ifthebest
+advertisingisunsolicited,Birkenstockclearlyhasmasteredthegame.
+3. GoodManagement:BirkenstockseemstohavestruckgoldwithOliverReichert.
+Notonlyhashesteeredthecompanytowardshighgrowth,buthehasdoneso
+withoutupsettingthebalancethatliesbehinditsbrandname.
+4. TheBarbieBuzz:MargotRobbie'spinkBirkenstocksandalsinthatmovie,which
+hasbeentheblockbusterhitoftheyear,hyperchargedthedemandforthe
+company'sfootwear.Itistruethatbuzzesfade,butnotbeforetheycreatea
+revenuebumpandperhapsevenincreasethecustomerbaseforthelongterm.
+27
+Where are the intangibles?
+28
+Intangibles in Value
+29
+PreviewingtheIPO
+¨ TheBirkenstockIPOwillbepriced,notvalued,andthequestionofhowthestock
+willdoisjustasmuchdependent,perhapsmoreso,onmarketmoodand
+momentum,asitisonthefundamentalshighlightedinthevaluation.
+¤ Lookingatnewsaboutthecompany,thetimingworkswell,sincethecompanyiscominginto
+themarketonawaveofgoodpublicity.
+¤ Themarketmoodhassoured,withtheoptimismthatwehaddodgedthebulletthatwasso
+widelyprevalentjustafewweeksagoreplacedwiththepessimismthatdarkdayslieaheadfor
+theglobaleconomyandmarkets.
+¨ Atitsofferingpricingof€9.2billion(€45to€50pershare),thecompanyandits
+bankersseemtobebettingthatthegoodvibesaboutthecompanywilloutweigh
+thebadvibesinthemarket,butthatisgamble.
+¨ AssomeonewhohastriedandrejectedtheArizonasandal,Iamunlikelytobea
+customerforBirkenstockfootwear,butthisisacompanywithatrulyunique
+brandnameandamanagementteamthatunderstandsthedelicatebalance
+betweenutilizingabrandnamewellandoverdoingit.
+¨ Itis,inmyview,areachat€45or€50pershare,butifthemarketturnssour,and
+thestockdropstobelow€40,Iwouldbeabuyer.

@@ -1,0 +1,127 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/CountryRisk2024.pdf
+
+COUNTRY RISK: THE 2024 
+UPDATE!
+TheFlipsideofGlobalization!
+2
+The Lead In…
+¨After the 2008 market crisis, I resolved that I would be far less 
+casual in my assessments and updating of equity risk premiums, in 
+the United States and abroad, more aware of the damage that can 
+be inflicted on intrinsic value by significant shifts in risk premiums, 
+i.e., my definition of a crisis. 
+¤That precipitated my practice of estimating implied equity risk premiums 
+for the S&P 500, at the start of every month, and following up of using 
+those estimated premiums when valuing companies during that month. 
+¤The 2008 crisis also gave rise to two update papers that I do each year: 
+nThe first looks at equity risk premiums, what they measure, how they 
+vary across time and how best to estimate them, which I last updated in 
+March 2024. 
+nThe second is focused on country risk and how it varies across 
+geographies, with the focus again on determinants, measures and 
+estimation, which I update mid-year each year. This post reflects my 
+most recent update from July 2024 of country risk.
+3
+Country Risk: Drivers
+¨Attheriskofstatingtheobvious,investingand
+operatinginsomecountriesismuchriskierthan
+investingandoperatinginothers,withthevariations
+onmultipledimensions.
+¨Thosevariationsinriskcomefromdifferenceson
+fourmajordimensions:
+¤Politicalstructure
+¤Exposuretowar/violence
+¤Extentofcorruption
+¤Protectionsforlegalandpropertyrights.
+4
+1. Political Structure
+5
+2. Exposure to violence
+6
+3. Extent of corruption
+7
+4. Legal and Property rights
+8
+With nationalization risk an illustrative 
+case..
+9
+Country Risk: External Drivers
+¨Lookingatthelastsection,youwouldnotbefaultedfor
+believingthatcountryriskexposureisself-determined,
+andthatcountriescanbecomelessriskybyworkingon
+reducingcorruption,increasingtheirlegalprotections
+forpropertyrights,makingthemselvessaferand
+workingontheirpoliticalstructures.
+¨Thatistrue,buttherearethreefactorsthatarelargely
+outoftheircontrolthatcanstilldrivecountryrisk
+upwards.
+¤Economicover-dependenceonacommodityorcommodities
+¤Country’spositioninlifecycle
+¤ClimateChange
+10
+1. Commodity Dependence
+11
+2. Country Life Cycle
+12
+3. Climate Change
+13
+Measuring Country Risk –
+1. Default Risk = Sovereign Ratings
+14
+A Market-based alternative –Sovereign 
+CDS spreads
+15
+2. Country Risk Scores
+16
+3. Equity Risk Premiums -Approach
+17
+And results…
+18
+CountryRiskinBusiness
+19
+Country risk in valuation
+20
+Country risk in pricing
+21
+Whereisthecurrency effect/risk?
+¨You may find it odd that I have spent so much of this 
+post talking about country risk, without bringing up 
+currencies, but that was not an oversight. 
+¨It is true that riskier countries often have more 
+volatile currencies that depreciate over time, but this 
+more a symptom of country risk, than a cause. 
+¨As I will argue, the currency choice affects your 
+growth, cash flow and discount rate estimates, but 
+ultimately should have no effect on intrinsic value.
+22
+CurrencyConsistency
+¨Ifexpected inflation is lower in US dollars than in rupees, the 
+cost of capital that you should obtain for a company in US 
+dollars will be lower than the cost of capital in rupees, with 
+the difference reflecting the expected inflation differential. 
+¨However, since your cash flows will also then have to be in US 
+dollars, the expected growth that you should use should 
+reflect the lower inflation rate in dollars, and if you stay 
+consistent in your inflation estimates, the effects should 
+cancel out.
+23
+Riskfree rates and Inflation
+¨If my assertion about expected inflation is right, 
+variations in riskfree rates can be attributed entirely 
+to difference in expected inflation. 
+¨At the start of July 2024, for instance, I estimated the 
+riskfree rates in every currency, using the US 
+treasury bond rate as my dollar riskfree rate, and the 
+differential inflation between the currency in 
+question and the US dollar:
+24
+Exchange rates and inflation
+¨In the same vein, inflation also enters intoexpected 
+exchange rate calculations:
+¨Higherinflationcurrencies should see expected currency 
+depreciation in future years. It is not the depreciation, 
+per se, that is risk, but deviations from that depreciation.
+¨This is, of course, the purchasing power parity theorem, 
+and while currencies can deviate from this in the short 
+term, it remains the best way to ensure that your 
+currency views do not hijack your valuation.
