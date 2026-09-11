@@ -1,0 +1,230 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate1for2022.pdf
+
+DATA UPDATE 1 FOR 2022: THE 
+GOOD,THEBADANDTHEUGLY!
+Stories and Numbers
+2
+A New Year Ritual
+Aswath Damodaran
+2
+¨I return to a ritual that I have practiced for thirty years, 
+and that is to take a lookat not just market changes over 
+the last year, but also to get a measure of the financial 
+standing and practices of companies around the world. 
+¨Those measures took a beating in 2020, as COVID 
+decimated the earnings of companies in many sectors 
+and regions of the world, and while 2021 was a return to 
+some degree of normalcy, there is still damage that has 
+tobe worked through. 
+¨This post will be one of a series, where I will put different 
+aspects of financial data under the microscope, to get a 
+sense of how companies are adapting (or not) to a 
+changing world.
+3
+The Moneyball Revolution
+¨When I first started posting data on my website for 
+public consumption, it was designed to encourage 
+corporate financial analysts and investors alike to use 
+more data in their decision making. 
+¨In making that pitch, I drew on one of my favorite 
+movies, Moneyball, where Billy Beane (played by Brad 
+Pitt), the general manager of the Oakland As, 
+revolutionized baseball by using data as an antidote to 
+the gut feeling and intuition of old-time baseball scouts.
+¨In the years since Beane tried it with baseball, Moneyball 
+has decisively won the battle for sporting executives' 
+minds, as sport after sport has adopted its adage of 
+trusting the data, withbasketball,football,soccerand 
+evencricketadopting sabermetrics, as this sporting spin 
+off on data science is called.
+Aswath Damodaran
+3
+4
+Big Data and Crowd Wisdom
+Aswath Damodaran
+4
+¨As tech companies have expanded their reach into our 
+personal lives, collecting information on choices and 
+decisions that used to private,big datahas become not just a 
+buzzword, but also a justification for investing billions in 
+companies/projects that have no discernible pathway to 
+profitability, but offer access to data. 
+¨Along the way, we have all also bought into the notion 
+ofcrowd wisdom, where aggregating the choices of tens of 
+thousands of choice-makers, no matter how naive, yields a 
+consensus that beats expert opinion. After all, we get our 
+restaurant choices from Yelp reviews, our movie 
+recommendations from Rotten Tomatoes and we have even 
+built crypto currencies around the idea of crowd checking 
+transactions.
+5
+Abelieverand a skeptic…
+Aswath Damodaran
+5
+¨I was a believer in big data and crowd wisdom, well 
+before those terms were even invented. After all, I have 
+lived much of my professional life in financial markets, 
+where there has always been lots of data and market 
+prices are set by crowds of investors. 
+¨That said, it is my experience with markets that has also 
+made me skeptical about the over selling of both 
+notions, since we have an entire branch of finance 
+(behavioral finance/economics) that has developed to 
+explain how more data does not always lead to better 
+decisions and why crowds can often be collectively 
+wrong.
+6
+My four caveats
+¨ More data is not always better than less data: We as investors and analysts) were 
+drowning in data, and that data overload is now a more more imminent danger than 
+not have enough data.
+¨ Data does not always provide direction: As you work with data, you discover that its 
+messages are almost always muddled, and that estimates always come with ranges and 
+standard errors. In short, the key discipline that you need to tame and use data is 
+statistics, and it is one reason that I created myown quirky version of a statistics 
+classon my website.
+¨ Mean Reversion works, until it does not: Much of investing over the last century in the 
+US has been built on betting on mean reversion. While mean reversion is a strong force 
+in stable markets, as the US was for much of the last century, it breaks down when 
+there are structural changes in markets and economies, as Iargued in this post
+¨ The consensus can be wrong: As you look at the industry averagesI report on 
+corporate finance statistics, from debt ratios to dividend yields, remember that just 
+because every company in a sector borrows a lot, it does not mean that high debt 
+ratios make sense, and if you are using my industry averages on pricing multiples, the 
+fact that investors are paying high multiples of revenues for cloud companies does not 
+imply that the high pricing is justified.
+7
+My Data Universe
+¨When I first started my data collection and analysis in 1990, 
+data was difficult to come by, and when available, it was 
+expensive. 
+¤Without hundreds of thousands of dollars to spend on databases, I 
+started my journey spending about a thousand dollars a year, already 
+hitting budget constraints, subscribing to a Value Line database that 
+was mailed to me on a CD every year. 
+¤That database covered just 1700 US companies, andreported on a 
+limited list of variables on each, which I sliced and diced to report on 
+about a dozen variables, broken down by industry. 
+¨Times have changed, and I now have access to extraordinarily 
+detailed data on almost all publicly traded global companies. I 
+am grateful to all the services that provide me with raw data, 
+but I am cognizant that they are businesses, and try not to 
+undercut them, or act as a competitor .
+8
+Companies in my database: Numbers, by 
+Region
+9
+And by market cap
+10
+By Sector..
+11
+By industry group…
+12
+Data Variables: Macro
+¨ Risk Premiums: I report the latest estimates of these corporate bond spreadsat this 
+link. In the equity market, the price of risk (equity risk premium) is more difficult to 
+observe, and I start by reporting on the conventional estimate of this measure by 
+looking at historical returns (going back to 1928) onstocks, bonds, bills and real estate 
+at this link. I offer an alternative forward-looking and more dynamic measure of this 
+premium in an implied premium, with thestart of 2022 estimate hereand the 
+historical values (going back to 1960) ofthis implied premium here.
+¨ Risk free Rates: While the US treasury bond rate is widely reported, I contrast its actual 
+value with what I call an intrinsic measure of the rate, computed by adding the inflation 
+rate to real growth each yearat this link.
+¨ Currency and Country Risk: Since valuation often requires comfort with moving across 
+currencies, I provide estimates of risk freerates in different currenciesat this link. I 
+extend my equity risk premium approach to cover other countries, using sovereign 
+default spreads as my starting point,at this link.
+¨ Tax Rates: Since the old saying about death and taxes is true, I report on marginal tax 
+rates in different countriesat this link, and while I would love to claim that I did the 
+hard work, the credit belongs to KPMG for keeping this data updated over time.
+13
+Data Variables: Company Level
+14
+Data Timing…
+¨ Almost all ofthe data that you will see in my updatesreflectsdata that I 
+have collected in the last week (January 1, 2022-January 8, 2022. 
+¨That said, there will be difference in timeliness on different data 
+variables,largely based uponwhether the data comes from the market or 
+from financial statements. 
+¤For data that comes from the market, such as market capitalization and costs of 
+capital, the current data is as of January 1, 2022.
+¤For data that comes from financial statements, the numbers that I use come from 
+the most recent filings, which for most companies will be data throughSeptember 
+30, 2021. 
+¤Thus, my trailing PE ratio for January 1, 2022, is computed by dividing the market 
+capitalization on January 1, 2022, by the earnings in the twelve months ending in 
+September 2021. 
+¤While that may seem inconsistent, it is totally consistent with the idea that you use 
+the most current data that you can get for each variable, when doing analyses.
+15
+Andtimeliness…
+¨As we go through the year, both the market and the 
+accounting numbers will change, and a full-fledged data 
+service would recompute and update the numbers. 
+¨I am not, and have no desire to be, a data service, and 
+will not be updating untilthe start of 2023. 
+¨There are twopotential dangers in using my data later in 
+the year
+¤With the first emerging if the market sees a steep shift, up 
+ordown, which will alter all ofthe pricingmultiples 
+¤And the second occurring in sectors that are either transforming 
+quickly (disrupted sectors) or are commodity-based (where 
+changes in commodity prices can alter financials quickly).
+16
+Estimation Choices
+¨ When I embarked on the task of estimating industry averages, I must confess that 
+I did not think much of the mechanics of how to compute those averages, 
+assuming thatall I would have to do is take the mean of a series of numbers. I 
+realized very quickly that computing industry averages for pricing and accounting 
+ratios was not that simple. 
+¨ To illustrate why, I present you with a slice of my table of PE ratios, by industry 
+grouping, for US firms, the start of 2022:
+17
+And missing data…
+¨The other issue that I had to confront, especially because 
+my large sampleincludes many small companies, listed 
+and traded in markets with information disclosure holes, 
+is whether to restrict my sample tomarkets like the US 
+and Europe, where information is more dependable and 
+complete, or to stay with my larger sample. 
+¨The problem with doing the former is that you create 
+bias in your statistics by removing smaller and risker 
+firms from your sample, and I chose to have my cake and 
+eat it too, by keeping all the firms in my global sample, 
+but also reporting the averages for US and European 
+firms separately.
+18
+Using the Data
+¨Understand the data: I have tried my best to describe how I compute my 
+numbers in the spreadsheets that contain the data, in a worksheet titled 
+"Variables and FAQ". On some of the variables, especially on equity risk 
+premiums, you may want to read the papers that I have, where I explain 
+my reasoning, or watch my classes on them. Whatever you do, and this is 
+general advice, never use data from an external source (including mine), if 
+you do not understand how the data is computed.
+¨Take ownership: If you decide to use any of my data, especially in 
+corporate financial analysis and valuation, please recognize that it is still 
+your analysis or valuation.
+¨Don't bring me personally into your disagreements, especially in legal 
+settings: If you are in disagreementwith a colleague, a client or an 
+adversary, I am okay with you using data from my website to buttress your 
+arguments, but please do not bring me in personally into your debates. 
+This applies in spades, if you are in a legal setting, since I believe that 
+courts are where valuation first principles go to die.
+19
+In conclusion…
+¨I would love to tell you that I am driven by altruistic 
+motives in sharing my data, and push for sainthood, but I 
+am not.
+¤I would have produced all ofthe data that you see anyway, 
+because I will need it for my work, both inteaching and in 
+practice, all year . 
+¤If there is a hidden agenda here, it is that I think that in spite of
+advances over the last few decades, the investing world still has 
+imbalances, especially on data access, and I would like it make a 
+little flatter .
+¨Having produced the data, it seems churlish to not share 
+it, especially since it costs me absolutely nothing to do 
+so. If you find the datauseful, I am glad, and rather than 
+thank me, please pass on the sharing.

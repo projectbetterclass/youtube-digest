@@ -1,0 +1,200 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/TwitterElon.pdf
+
+ELON’S TWITTER PLAY: VALUATION 
+QUESTION OR POLITICAL RORSCHACH 
+TEST?
+Politics and Markets
+2
+The Lead In
+¨My first tweet in April 2009, making me ancient by Twitter 
+standards. That said, I tweet less than ten times a month and 
+follow only three people (three of my four children) on the 
+platform. 
+¨I am also fascinated by Elon Musk, and even more so by his most 
+prominent creation, Tesla, and I have valued and written about him 
+and the company multiple times. 
+¨When Musk made news a little over two weeks ago, with his 
+announcement that he owned a major stake in Twitter, I could not 
+stay away from the story, and what's happened since has only 
+made it more interesting, as it casts light on just Musk and Twitter, 
+but on broader issues of the social and economic value of social 
+media platforms, corporate governance, investing and how politics 
+has become part of almost every discussion.
+3
+The Twitter Story: Founding to IPO
+Aswath Damodaran3
+¨Twitter was founded in 2006 by Jack Dorsey, Noah Glass, 
+Biz Stone and Evan Williams, and its platform was 
+launched later that year . 
+¨It succeeded spectacularly in attracting people to its 
+platform, hitting a 100 million users in 2012, and then 
+doubling those numbers again by 2013, when it went 
+public ,with an initial public offering.
+¨Following on the heels of other social media platforms 
+like Facebook and LinkedIn that had preceded it to public 
+markets, it was cashing in on investor enthusiasm for 
+companies with lots of users and potential monetization 
+(from advertising, subscriptions, transactions etc.)
+5
+The Glory Days: Post IPO Run Up
+6
+The Post-IPO Narrative: User Numbers
+7
+And Engagement…
+¨Over the last decade, the company's platform, and the tweets that show 
+up on it, became a ubiquitous part of news, culture and politics, as 
+politicians used the platform to expand their reach and spread their ideas 
+and celebrities built their personal brands around their followers.
+¤Looking at the list of the Twitter persona with the most followers provides some 
+measure of its reach, with a mix of politicians (Barack Obama, Narendra Modi), 
+musicians (Justin Bieber , Katy Perry, Taylor Swift, Ariana Grande), celebrities (Kim 
+Kardashian) and sporting figures (Cristiano Ronaldo). 
+¤Sprinkled in the list are brands/businesses (YouTube, CNN Breaking News), with 
+millions of followers, though relatively few business peoplemake the list, with Elon 
+Musk being the exception. 
+¨It is worth noting that many of the people on top follower list tweet 
+rarely, and that behavior is mimicked by many of the users on the 
+platform, many of whom never tweet. The bulk of the tweets on the 
+platform are delivered by a subset of users, with the top 10% of users 
+delivering 80% of the tweets.
+8
+Twitter User Profile
+9
+Twitter’s Operating History
+10
+And Stock Prices..
+11
+Twitter versus Snap
+12
+Corporate Governance at Twitter
+¨ In a period when companies, especially in the tech sector, fixed the corporate 
+governance game in favor of insiders and incumbents, by issuing shares with 
+different voting classes, Twitter stuck to the more traditional model, with equal 
+voting right shares. 
+¨ Twitter came into its IPO, with a history of bloodletting at the top, with Jack 
+Dorsey, who led the company at the start, getting pushed aside by Evan Williams, 
+his co-founder, before reclaiming his place at the top. In fact, at the time of its IPO, 
+Twitter's CEO was Dick Costolo, but he was replaced by Dorsey again, a couple of 
+years later. Dorsey's founder status gave him cover, but his ownership stake of the 
+company was not overwhelming enough to stop opposition. 
+¨ The corporate governance issues at Twitter came to a head in 2020, when Elliott 
+Management, an activist hedge fund, purchased a billion dollars of Twitter stock, 
+and demanded changes. While Dorsey was successful in fighting off their 
+demands that he step down, he surprised investors and may company employees 
+when he stepped down in November 2021, claiming that he was leaving of his 
+own volition. As a replacement, the board did stay within the firm in picking a 
+successor, Parag Agrawal, who joined Twitter as a software engineer in 2011 and 
+rose to become Chief Technology Officer in 2017.
+13
+The Musk Entrée!
+14
+The Arguments and Counters…
+¨While Musk's acquisition bid is anything but conventional, the 
+gaming that it initiated on the part of Twitter, the target 
+company, and Musk, the potential acquirer, was completely 
+predictable. 
+¨The company's initial response was that it was worth great 
+deal more than Musk's offering price, and that Twitter 
+shareholders would be receiving too little for their shares if 
+they sold. 
+¨Musk's response was that the market clearly did not believe 
+that current management could deliver that higher value, and 
+that he would be able to do much better with the platform.
+¨For shareholders in Twitter, who ultimately are the arbiters of 
+this decision, the question is who do you trust?
+15
+A Lowball Offer? Status Quo Value
+¨Twitter's argument that Musk was lowballing value, by 
+offering $54.20 per share for the company, and that the 
+company was worth a lot more is not a novel one, and it 
+is heard in almost every hostile acquisition, from target 
+company management. 
+¨That argument can sometimes be true, since markets 
+can undervalue companies, but is it the case with 
+Twitter? 
+¨To answer that question, I valued Twitter on April 4, at 
+about the time that Musk announced his 9.2% stake, 
+updating my story to reflect a solid performance from 
+the company in 2021, and with Parag Agrawal in place as 
+CEO.
+18
+Competing Views on Twitter
+¨ Twitter's management will claim that the company's platform has the potential to 
+deliver significantly more value, either by changing the business model (and 
+including subscriptions and other revenue sources) or fine tuning the advertising 
+model. 
+¨ On this count, Musk will agree with the argument that Twitter has untapped 
+potential, but counter that he (and only he) can make the changes to Twitter's 
+business model to deliver this potential. In short, investors will get to choose not 
+only between competing visions for Twitter's future, but also who they trust to 
+deliver those visions.
+¨ Each side faces credibility problems with the market:
+¤ The problem that Twitter's management will face in mounting a case that Twitter is worth 
+more, if it is run differently, is that they have been the custodians of the company for the last 
+decade, andhave been unable or unwilling to deliver these changes. 
+¤ Elon Musk's problem, on the Twitter deal, is a different one. If you think Jack Dorsey was 
+stretching the limits of his time by running two companies, I am not sure how to characterize 
+what Musk will be doing, if he acquires Twitter, since he does have a trillion dollarcompany to 
+run, in Tesla, not to mention SpaceX, the Boring company and a host of other ventures. His 
+unpredictability makes it difficult to judge what his end game is, since he could do anything 
+from selling his position tomorrow to bulldozing his way through a poison pill, taking Twitter 
+down with him.
+19
+Alternative Endings..
+1. Status Quo: Twitter wins this round with Musk, and the existing management go back 
+to their plans for incremental change that they have already put in motion, and hope 
+that the payoffs of higher revenue growth and profitability will unlock share value.
+2. Musk takes Twitter private: For Musk to succeed at this point, he has tobe able to buy 
+enough shares in a tender offer and/or convince other shareholders to put pressure on 
+the board to remove the poison pill and allow him to move forward with his plans. The 
+odds are against success, but then again, this is Elon Musk.
+3. Independent, but with corporate governance changes: Having gone through five CEOs 
+over Twitter's life, the dysfunction at the company may lie with the board, and not just 
+with the CEO. In this scenario, institutional investors will follow through by pushing for 
+change in the company, translating into new board members and perhaps even a new 
+CEO.
+4. Someone else acquires Twitter: There may be something to Musk's claim that the 
+changes that are needed to make Twitter a functional business can only be made, if it 
+is taken private. If so, it is the board may be willing to sell the company to someone 
+other than Musk, albeit at a slightly higher price (if for no other reason than to save 
+face. This will mean that Elon Musk will have accomplished much of what he set out to 
+do, without spending $43 billion dollars along the way or having to deal with the 
+distractions that owning Twitter will bring to his other, more valuable, ventures.
+20
+The Elephant in the Room…
+¨ This is , at its core, a political story, not a financial one. To see why, consider a 
+simple test. If you tell me which side of the political divide you fall on, I am fairly 
+certainthat I will be able to guess whether you favor or oppose Musk's takeover 
+bid. As with most things political, you will provide an alternate, more reasoned, 
+argument for why you are for or opposed, but you are deluding yourself, and 
+hypocrisy is rampant on both sides. 
+¤ If you are opposed to the deal, and your argument is that billionaires should not control social 
+media platforms, that outrage cannot be selective, and you should be just as upset about Jeff 
+Bezos owning the Washington Post or a George Soros bid for Fox News. If it is Musk's 
+personality that you feel is what makes him an unsuitable owner, I wonder whether we should 
+be requiring full personality tests of the owners of other media companies.
+¤ If you are for the deal, and it is because you want Twitter to be a bastion of free speech, it is 
+worth remembering that every social media platform is involved in some degree of censoring, 
+for legal reasons and self preservation. It is also worth noting that while those disaffected with 
+Twitter have attempted to build their own social media platforms, they still get far more 
+mileage from their presence on Twitter than from their posts on alternate platforms, and the 
+complaints about Twitter not being balanced seem to end up being on Twitter .
+21
+For perspective..
+Aswath Damodaran21
+¨ Some critics of Musk seem to have decided that Twitter, in its current form, is a 
+national treasure that needs to be preserved or at least protected from money 
+grubbing barbarians. 
+¨ The brevity (of having to compress your thoughts into 280 characters) and 
+timeliness of Twitter's platform has made it the place to go to get breaking news, 
+but the notion that it is an educational platform shortchanges the meaning of 
+learning, and the impulsiveness that it encourages from users is a recipe for 
+tweeting remorse, or worse. 
+¨ I believe that while there are some who come to Twitter for news and witty 
+repartee, many come to the platform for the same reasons that they slow down 
+on highways to look at car crashes, i.e., to witness, and sometimes partake in, 
+deranged arguments about trivial issues. 
+¨ Much as we like to complain about the ugliness and anger on social media, it is 
+exactly those forces that draw us to it, and arguing that Elon Musk will make it 
+worse, is missing the point that he symbolizes the strengths and weaknesses of 
+the Twitter platform better than any other person walking the face of the earth.

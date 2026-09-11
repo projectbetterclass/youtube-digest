@@ -1,0 +1,117 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/CountryRisk2022.pdf
+
+COUNTRY RISK: A 2022 MID-YEAR 
+UPDATE!
+The times they are a’changin'
+Aswath Damodaran
+2
+A Mid-year Ritual
+¨It has been my practice for the last two decades to take a detailed 
+look at how risk varies across countries, once at the start of the 
+year and once mid-year. 
+¨In most years, the differences between the two updates are small, 
+and often ignorable, but this year's update brings significant 
+changes for many reasons. 
+¤The first is the retreat of risk capital, which I talked about in my last post, 
+not only affects the flow of capital and repricing of the riskiest assets (high 
+yield bonds, money losing companies) within each asset class, but also has 
+consequences for the flow of capital across geographies, with riskier 
+countries feeling the effect more than safer countries. 
+¤The second is that this has been a consequential year for country risk 
+shifts, with Russia's invasion of Ukraine upending risk not only for those 
+countries, but also in the region, and tumult in Sri Lanka and Pakistan 
+playing out as risk to investors in both countries.
+Aswath Damodaran
+3
+Country Risk: Drivers
+Aswath Damodaran
+4
+1. Political Freedom/Democracy
+Aswath Damodaran
+5
+Risk and Democracy: The Trade Off
+Aswath Damodaran
+¨As the Economist noted, a third of the world's 
+population lived under authoritarian regimes and only 
+6.4% lived under full democracy, in 2021, with large 
+differences across regions.
+¨From a business risk standpoint, though, the question 
+ofwhether you would rather operate in a democracy or 
+a dictatorship is a complicated one, with the former 
+creating more continuous risk, as laws and regulations 
+change, as elections often bring in new governments, 
+and the latter more discontinuous risk, since regime 
+changes, though less frequent, are often more 
+wrenching and painful.
+6
+2. Violence and Risk
+Aswath Damodaran
+7
+3. Corruption and Risk
+Aswath Damodaran
+8
+4. Legal Protection and Risk
+Aswath Damodaran
+9
+Country Risk Scores
+Aswath Damodaran
+10
+Country Risk: Default Risk Measures
+Aswath Damodaran
+11
+1. Sovereign Ratings
+Aswath Damodaran
+12
+2. Sovereign CDS Spreads
+Aswath Damodaran
+13
+Country Risk to Equity Investors: 
+Measurement Approach
+Aswath Damodaran
+Blue: Moody’ s Rating
+Red: Added Country Risk
+Green #: Total ERP
+ERP : July 2022
+Aswath Damodaran
+15
+Biggest ERP Changes…
+Aswath Damodaran
+16
+Currency Risk: Risk free Rates
+Aswath Damodaran
+17
+Currency Consistency in Valuation
+¨ The biggest reason for differences in risk free rates across currencies is differences 
+in expected inflation, with higher inflation currencies exhibiting higher riskfree 
+rates. That said, the key to dealing with currency appropriately in valuation is to 
+stay consistent, with cash flows and the discount rates incorporating the same 
+expectations of inflation:
+¨ In short, changing the currency that you use to value a company should not 
+fundamentally change your assessment of that company’s value, and the reason 
+that it often does in practice is because analysts are often sloppy in their 
+treatment of currency, mixing growth rates in one currency with discount rates in 
+another, and real with nominal numbers.
+AswathDamodaran
+18
+A General Principle: Keep focus
+Aswath Damodaran
+19
+Cost of Capital: A July 2022 Update
+Aswath Damodaran
+20
+In conclusion..
+¨In January 2022, I had posted a similar histogram of costs of 
+capital for global and US companies, reflecting risk free rates 
+and risk premiums then, and the change, over the six months, 
+has been extraordinary, with the median cost of capital for a 
+US firm increasing from 5.77% to 8.97%, and for a global firm, 
+from 6.37% to 9.70%. 
+¨As I look across the many posts I have had this year on how 
+inflation is changing market pricing and psychology, I find 
+myself drawing on one of my favorite Bob Dylan lyrics, "the 
+times, they are a'changin’” . 
+¨The biggest risk that we face, as we navigate our way through 
+uncharted territory, is inertia, where we continue to do the 
+things that have worked for the last decade, when we need to 
+adapt and change.
+Aswath Damodaran

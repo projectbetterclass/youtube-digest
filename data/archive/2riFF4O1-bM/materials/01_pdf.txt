@@ -1,0 +1,618 @@
+Source: https://www.stern.nyu.edu/~adamodar/podcasts/cfspr22/session22slides.pdf
+
+RETURNING CASH TO THE 
+OWNERS: DIVIDEND POLICY
+“Companies don’t have cash. They hold cash for 
+their stockholders.”
+Aswath Damodaran 147
+148
+First Principles
+Aswath Damodaran
+148
+149
+Steps to the Dividend Decision… if equity is 
+treated as a residual claim
+Aswath Damodaran
+149
+150
+The Roots of Dividend Dysfunction
+¨In practice, dividend policy is dysfunctional and does 
+not follow the logical process of starting with your 
+investment opportunities and working your way 
+down to residual cash.
+¨The two dominant factors driving dividend policy 
+around the world are:
+¤Inertia: Companies seem to hate to let of their past, when 
+it comes to dividend policy.
+¤Me-too-ism: Companies want to behave like their peer 
+group.
+Aswath Damodaran
+150
+151
+I. Dividends are sticky
+Aswath Damodaran
+151
+0.00%
+10.00%
+20.00%
+30.00%
+40.00%
+50.00%
+60.00%
+70.00%
+80.00%
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Dividend Changes at US companies
+Increase
+Decrease
+No change
+152
+In 2020, a crisis year for many companies…here is 
+what they did..
+Aswath Damodaran
+152
+¨Of the S&P 500 companies, 287 companies increased 
+their dividends and 11 companies initiateddividends.
+¨Of the S&P 500 companies, 27 decreased dividends and 
+42 suspended dividends.
+¨While the 42 dividend suspensions were the most in the last 20 
+years, the number of companies that increased divbidends(298) 
+vastly exceeded the number that cut or suspended dividends 
+(69).
+¨In perhaps the most revealing statistic of all, 133 of the 500 
+largest market cap companies did not pay dividends leading into 
+2020 or in 2020.
+153
+II. Dividends tend to follow earnings
+Aswath Damodaran
+153
+0.00%
+10.00%
+20.00%
+30.00%
+40.00%
+50.00%
+60.00%
+70.00%
+0.00
+50.00
+100.00
+150.00
+200.00
+250.00
+1960
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Earnings/Dividends
+S&P 500: Dividends and Earnings -1960 to 2021
+Ea rning s Di vide nds Payout Ratio
+III. Are affected by tax laws…
+In 2003
+ In the last quarter of 2012
+¨As the possibility of tax rates 
+reverting backto pre-2003 
+levels rose, 233 companies 
+paid out $31 billion in 
+dividends.
+¨Of these companies, 101 
+had insider holdings in 
+excess of 20% of the 
+outstanding stock.
+155
+IV . More and more US firms are buying back 
+stock, rather than pay dividends...
+Aswath Damodaran
+155
+0.00%
+10.00%
+20.00%
+30.00%
+40.00%
+50.00%
+60.00%
+70.00%
+80.00%
+0.00
+100.00
+200.00
+300.00
+400.00
+500.00
+600.00
+700.00
+800.00
+900.00
+1988198919901991199219931994199519961997199819992000200120022003200420052006200720082009201020112012201320142015201620172018201920202021
+Dividends and Buybacks on S&P 500: 1988-2021
+Buybacks Dividends Proportion from Buybacks
+156
+And its going global.. In 2021
+Aswath Damodaran
+156
+$ values are all in millions of US $
+157
+Measures of Dividend Policy
+Aswath Damodaran
+157
+¨Dividend Payout = Dividends/ Net Income
+¤Measures the percentage of earnings that the company 
+pays in dividends
+¤If the net income is negative, the payout ratio cannot be 
+computed.
+¨Dividend Yield = Dividends per share/ Stock price
+¤Measures the return that an investor can make from 
+dividends alone
+¤Becomes part of the expected return on the investment.
+158
+Dividend Payout Ratio: January 2022
+Aswath Damodaran
+158
+159
+Dividend Yields: January 2022
+Aswath Damodaran
+159
+Aswath Damodaran160
+161
+Dividend Yields and Payout Ratios: Growth 
+Classes
+Aswath Damodaran
+161
+0.00%
+0.50%
+1.00%
+1.50%
+2.00%
+2.50%
+3.00%
+3.50%
+4.00%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+30.00%
+35.00%
+40.00%
+45.00%
+50.00%
+0- 3% 3- 5% 5- 10% 10-15% 15-20% 20-25% >25%
+Dividend Yields and Payout Ratios: By Growth Class
+Dividend Payout ratio
+Dividend Yield
+162
+Dividend Policy: Disney, Vale, Tata Motors, 
+Baiduand Deutsche Bank
+Aswath Damodaran
+162
+  Disney Vale Tata Motors Baidu Deutsche Bank 
+Dividend Yield - Last 12 months 1.09% 6.56% 1.31% 0.00% 1.96% 
+Dividend Payout ratio - Last 12 months 21.58% 113.45% 16.09% 0.00% 362.63% 
+Dividend Yield - 2008-2012 1.17% 4.01% 1.82% 0.00% 3.14% 
+Dividend Payout - 2008-2012 17.11% 37.69% 15.53% 0.00% 37.39%
+163
+Three Schools Of Thought On Dividends
+1. If  there are no tax disadvantages associated with 
+dividends &  companies can issue stock, at no issuance 
+cost, to raise equity, whenever needed
+Dividends do not matter, and dividend policy does not affect 
+value.
+2. If dividends create a tax disadvantage for investors 
+(relative to capital gains)
+Dividends are bad, and increasing dividends will reduce value
+3. If dividends create a tax advantage for investors 
+(relative to capital gains) and/or stockholders like 
+dividends
+Dividends are good, and increasing dividends will increase value
+Aswath Damodaran
+164
+The balanced viewpoint
+Aswath Damodaran
+164
+¨If a company has excess cash, and few good 
+investment opportunities (NPV>0), returning money 
+to stockholders (dividends or stock repurchases) is 
+good.
+¨If a company does not have excess cash, and/or has 
+several good investment opportunities (NPV>0), 
+returning money to stockholders (dividends or stock 
+repurchases) is bad.
+165
+The Dividends don’t matter school
+The Miller Modigliani Hypothesis
+Aswath Damodaran
+165
+¨The Miller-Modigliani Hypothesis: Dividends do not affect value
+¨Basis:
+¤If a firm's investment policies (and hence cash flows) don't change, the value of the 
+firm cannot change as it changes dividends. 
+¤If a firm pays more in dividends, it will have to issue new equity to fund the same 
+projects. By doing so, it will reduce expected price appreciation on the stockbut it 
+will be offset by a higher dividend yield.
+¤If we ignore personal taxes, investors have tobe indifferent to receiving either 
+dividends or capital gains.
+¨Underlying Assumptions:
+(a) There are no tax differences to investors between dividends and capital gains.
+(b) If companies pay too much in cash, they can issue new stock, with no flotation costs 
+or signaling consequences, to replace this cash.
+(c) If companies pay too little in dividends, they do not use the excess cash for bad 
+projects or acquisitions.
+166
+II. The Dividends are “bad”school: And the evidence 
+to back them up…
+Aswath Damodaran
+166
+0.00%
+10.00%
+20.00%
+30.00%
+40.00%
+50.00%
+60.00%
+70.00%
+80.00%
+90.00%
+100.00%
+19 16
+19 18
+19 20
+19 22
+19 24
+19 26
+19 28
+19 30
+19 32
+19 34
+19 36
+19 38
+19 40
+19 42
+19 44
+19 46
+19 48
+19 50
+19 52
+19 54
+19 56
+19 58
+19 60
+19 62
+19 64
+19 66
+19 68
+19 70
+19 72
+19 74
+19 76
+19 78
+19 80
+19 82
+19 84
+19 86
+19 88
+19 90
+19 92
+19 94
+19 96
+19 98
+20 00
+20 02
+20 04
+20 06
+20 08
+20 10
+20 11
+20 13
+20 15
+Figure 10.10: Tax rates on Dividends and Capital Gains-US
+Dividend tax r ate Capital gains tax rate
+Differencebetween dividend tax rate
+& capital gains peaks at 66% in 1950s.
+Dividends & capitalgains taxed at 
+same rate since 2003.
+167
+What do investors in your stock think about 
+dividends? Clues on the ex-dividend day!
+Aswath Damodaran
+167
+¨Assume that you are the owner of a stock that is approaching an ex-
+dividend day and you know that dollar dividend with certainty. In 
+addition, assume that you have owned the stock for several years. 
+P = Price at which you bought the stock a “while”back
+Pb= Price before the stock goes ex-dividend
+Pa=Price after the stock goes ex-dividend
+D = Dividends declared on stock
+to, tcg= Taxes paid on ordinary income and capital gains respectively
+Ex-dividend day
+Dividend = $ D
+Initial buy
+At $P
+Pb Pa
+168
+Cashflows from Selling around Ex-Dividend Day
+Aswath Damodaran
+168
+¨The cash flows from selling before ex-dividend day 
+are:
+Pb-(Pb-P) tcg
+¨The cash flows from selling after ex-dividend day are:
+Pa-(Pa-P) tcg+ D(1-to)
+¨Since the average investor should be indifferent 
+between selling before the ex-dividend day and 
+selling after the ex-dividend day -
+Pb-(Pb-P) tcg= Pa-(Pa-P) tcg+ D(1-to)
+¨Some basic algebra leads us to the following:
+€ 
+Pb−Pa
+D =1−to
+1−tcg
+169
+Intuitive Implications
+Aswath Damodaran
+169
+¨The relationship between the price change on the ex-
+dividend day and the dollar dividend will be determined by 
+the difference between the tax rate on dividends and the tax 
+rate on capital gains for the typical investor in the stock.
+Tax Rates Ex-dividend day behavior
+If dividends and capital gains are 
+taxed equally
+Price change = Dividend
+If dividends are taxed at a higher 
+rate than capital gains
+Price change < Dividend
+If dividends are taxed at a lower 
+rate than capital gains
+Price change > Dividend
+170
+The empirical evidence…
+Aswath Damodaran
+170
+•Ordinary tax rate = 70%
+•Capital gains rate = 28%
+•Price change as % of Dividend = 78%
+1966-1969
+•Ordinary tax rate = 50%
+•Capital gains rate = 20%
+•Price change as % of Dividend = 85%
+1981-1985
+•Ordinary tax rate = 28%
+•Capital gains rate = 28%
+•Price change as % of Dividend = 90%
+1986-1990
+171
+Dividend Arbitrage
+Aswath Damodaran
+171
+¨Assume that you are a tax exemptinvestor, and that 
+you know that the price drop on the ex-dividend day 
+is only 90% of the dividend. How would you exploit 
+this differential?
+a. Invest in the stock for the long term
+b. Sell short the day before the ex-dividend day, buy on the 
+ex-dividend day
+c. Buy just before the ex-dividend day, andsell after .
+d. ______________________________________________
+172
+Example of dividend capture strategy with tax 
+factors
+Aswath Damodaran
+172
+¨XYZ company is selling for $50 at close of trading May 3. 
+On May 4, XYZ goes ex-dividend; the dividend amount is 
+$1. The price drop (from past examination of the data) is 
+only 90% of the dividend amount. 
+¨The transactions needed by a tax-exempt U.S. pension 
+fund for the arbitrage are as follows:
+¤1. Buy 1 million shares of XYZ stock cum-dividend at $50/share.
+¤2. Wait till stock goes ex-dividend; Sell stock for $49.10/share 
+(50 -1* 0.90)
+¤3. Collect dividend on stock.
+¨Net profit = -50 million + 49.10 million + 1 million = 
+$0.10 million
+173
+Two bad reasons for paying dividends
+1. The bird in the hand fallacy
+Aswath Damodaran
+173
+¨Argument: Dividends now are more certain than 
+capital gains later. Hence dividends are more 
+valuable than capital gains. Stocks that pay dividends 
+will therefore be more highly valued than stocks that 
+do not.
+¨Counter: The appropriate comparison should be 
+between dividends today and price appreciation 
+today. The stock price drops on the ex-dividend day.
+174
+2. We have excess cash this year…
+Aswath Damodaran
+174
+¨Argument: The firm has excess cash on its hands this 
+year, no investment projects this year and wants to 
+give the money back to stockholders.
+¨Counter: So why not just repurchase stock? If this is 
+a one-time phenomenon, the firm has toconsider 
+future financing needs.   The cost of raising new 
+financing in future years, especially by issuing new 
+equity, can be staggering.
+175
+The Cost of Raising Capital
+Aswath Damodaran
+175
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+Under $1 mil $1.0-1.9 mil $2.0-4.9 mil $5.0-$9.9 mil $10-19.9 mil $20-49.9 mil $50 mil and over
+Cost as % of funds raised
+Size of Issue
+Figure 10.12: Issuance Costs for Stocks and Bonds
+Cost of Issuing bonds Cost of Issuing Common Stock
+176
+Three “good”reasons for paying dividends…
+Aswath Damodaran
+176
+¨Clientele Effect: The investors in your company like 
+dividends.
+¨The Signalling Story: Dividends can be signals to the 
+market that you believe that you have good cash 
+flow prospects in the future.
+¨The Wealth Appropriation Story: Dividends are one 
+way of transferring wealth from lenders to equity 
+investors (this is good for equity investors but bad 
+for lenders)
+177
+1. The Clientele Effect
+The “strange case”of Citizen’s Utility
+Aswath Damodaran
+177
+Class A 
+shares pay 
+cash 
+dividend 
+Class B 
+shares  offer 
+the same 
+amount as a 
+stock 
+dividend & 
+can be 
+converted to 
+class A 
+shares
+178
+Evidence from Canadian firms
+Aswath Damodaran
+178
+Company Premium for cash dividend shares
+Consolidated Bathurst + 19.30%
+Donfasco + 13.30%
+Dome Petroleum + 0.30%
+Imperial Oil +12.10% 
+Newfoundland Light & Power + 1.80%
+Royal Trustco + 17.30%
+Stelco + 2.70%
+TransAlta +1.10%
+Average across companies + 7.54%
+179
+A clientele basedexplanation
+Aswath Damodaran
+179
+¨Basis: Investors may form clienteles based upon their 
+tax brackets. Investors in high tax brackets may 
+invest in stocks which do not pay dividends and 
+those in low tax brackets may invest in dividend 
+paying stocks. 
+¨Evidence: A study of 914 investors' portfolios was 
+carried out to see if their portfolio positions were 
+affected by their tax brackets. The study found that 
+¤(a) Older investors were more likely to hold high dividend 
+stocks and
+¤(b) Poorer investors tended to hold high dividend stocks
+Results from Regression: Clientele Effect
+DividendYieldt=a+b t+cAget+dIncomet+eDifferentialTaxRatet+ t
+Variable Coefficient Implies
+Constant 4.22%
+BetaCoefficient -2.145 Higherbetastockspaylowerdividends.
+Age/100 3.131 Firmswitholderinvestorspayhigher
+dividends.
+Income/1000 -3.726 Firmswithwealthierinvestorspaylower
+dividends.
+DifferentialTaxRate -2.849 Ifordinaryincomeistaxedatahigherrate
+thancapitalgains,thefirmpaysless
+dividends.

@@ -1,0 +1,105 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate2for2022.pdf
+
+DATA UPDATE 2 FOR 2022: A 
+WINNING YEAR FOR STOCKS, 
+BUT…
+Looking back and forward…
+2
+Déjà vu!
+Aswath Damodaran
+2
+¨Leading into 2021, the big questions facing investors were 
+about how quickly economies would recover from COVID, 
+with the assumption that the virus would fade during the 
+year, and the pressures that the resulting growth would put 
+on inflation. 
+¨In apost at the start of 2021, I argued that while stocks 
+entered the year at elevated levels, especially on historic 
+metrics (such as PE ratios), they were priced to deliver 
+reasonable returns, relative to very low risk free rates (with 
+the treasury bond rate at 0.93% at the start of 2021). 
+¨At the start of 2022, it feels like Groundhog Day, with the 
+same questions about economic growth and inflation 
+looming for the year, and the same judgment about stocks, 
+i.e., that they look expensive.
+3
+The Year that was.. For the market
+Aswath Damodaran
+3
+4
+Putting in historical context…
+Aswath Damodaran
+4
+5
+Ranking 2021…
+Aswath Damodaran
+5
+¨Looking at the 94 years in this dataset, the returns in 
+2021 would have ranked 20th on the list, good, but 
+not exceptional.
+6
+US Stocks: By sector
+7
+US Stocks: By PE Ratio Classes
+8
+US Stocks: By Age
+9
+Beyond the US: Geographical Breakdown
+10
+The Price of Risk in Equity Markets
+11
+ERP on January 1, 2022
+12
+Implied ERP through 2022.. And in 2021
+13
+Again, historical context…
+14
+A different historical perspective…
+15
+A Market Assessment
+¨If you look at history, it seems difficult to argue against the 
+notion that market timing is the impossible dream, but that 
+have never stopped investors from trying, partly because the 
+payoff from being right is immense. 
+¨I have long claimed that I am not a market timer, but that is a 
+lie, since every investor times markets, with the difference 
+being in whether the timing is implicit (with cash holdings in 
+your portfolio increasing, when you feel uneasy about 
+markets, and decreasing, when you feel bullish) or explicit 
+(where you actively bet on market direction). 
+¨Rather than just give you an estimate of whether I think the 
+market is under or over valued, I will open the process up for 
+each of you to make your own judgments, while also offering 
+my own.
+16
+S&P 500 Earnings: History
+17
+S&P 500: Earnings Forecasts (Analysts)
+18
+S&P 500: From earnings to cash flow
+19
+Risk free Rates and ERP
+¨On the risk free rate, Istart with 1.51%, the 10-year treasury bond rate on 
+January 1, 2022, but I will assume that this rate willdrift upwards over the 
+next fiveyears to reach 2.5%. That reflects my view that inflation 
+pressures will push up long term rates in theyear to come and has little to 
+do with what the Fed may or may not do with the Fed funds rate. 
+¨Finally, I willbuild in the expectation that a fair ERP for the marketshould 
+be 5%, higher than the long-term historical average of 4.21%, but closer 
+to the average ERP since 2008.
+20
+Valuing the Index
+21
+In conclusion…
+¨As with any valuation, I don't believe that Ishould, convince 
+you that my valuation is the right one, and nor do I want to. 
+In fact, I know that it iswrong, with the question being in 
+what direction.
+¨I would strongly encourage you to take my valuation, change 
+the numbers that I have used on earnings, cash flows, the risk 
+free rate and the equity risk premium to reflect your views, 
+and come up withyour assessment of value.
+¨Good investing requires taking ownership of your investment 
+decisions, and trusting this choice to talking heads on TV, 
+market strategists at investment banks or those market gurus 
+who looked good last year is a dereliction of investment duty.

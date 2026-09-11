@@ -1,0 +1,543 @@
+Source: https://www.stern.nyu.edu/~adamodar/podcasts/cfspr22/session25slides.pdf
+
+234
+Estimating FCFE (past) : Tata Motors
+Aswath Damodaran
+234
+Year Net Income
+Cap ExDepreciatio
+n
+Change in 
+WC
+Change in 
+Debt
+Equity 
+Reinvestment
+Equity 
+Reinvestment 
+Rate
+2008-09 -25,053₹ 99,708₹ 25,072₹ 13,441₹ 25,789₹ 62,288₹ -248.63%
+2009-10 29,151₹ 84,754₹ 39,602₹-26,009₹ 5,605₹ 13,538₹ 46.44%
+2010-11 92,736₹ 81,240₹ 46,510₹ 50,484₹ 24,951₹ 60,263₹ 64.98%
+2011-12 135,165₹138,756₹ 56,209₹ 22,801₹ 30,846₹ 74,502₹ 55.12%
+2012-13 98,926₹187,570₹ 75,648₹ 680₹ 32,970₹ 79,632₹ 80.50%
+Aggregate 330,925₹592,028₹ 243,041₹ 61,397₹ 120,160₹ 290,224₹ 87.70%
+235
+Estimating FCFF: Disney
+¨In the fiscal year ended September 2013, Disney reported the following:
+¤Operating income (adjusted for leases) = $10,032 million
+¤Effective tax rate = 31.02%
+¤Capital Expenditures (including acquisitions) = $5,239 million
+¤Depreciation  & Amortization = $2,192 million
+¤Change in non-cash working capital = $103 million
+¨The free cash flow to the firm can be computed as follows:
+After-tax Operating Income = 10,032 (1 -.3102) = $6,920 
+-Net Cap Expenditures = $5,239 -$2,192  = $3,629  
+- Change in Working Capital =  =$103
+= Free Cashflowto Firm (FCFF) = = $3,188 
+¨The reinvestment and reinvestment rate are as follows:
+¤Reinvestment = $3,629 + $103 = $3,732 million
+¤Reinvestment Rate = $3,732/ $6,920 = 53.93%
+Aswath Damodaran
+236
+II.  Discount Rates
+Aswath Damodaran
+236
+¨Critical ingredient in discounted cashflowvaluation. 
+Errors in estimating the discount rate or 
+mismatching cashflows and discount rates can lead 
+to serious errors in valuation. 
+¨At an intuitive level, the discount rate used should 
+be consistent with both the riskiness and the type of 
+cashflowbeing discounted. 
+¨The cost of equity is the rate at which we discount 
+cash flows to equity (dividends or free cash flows to 
+equity). The cost of capital is the rate at which we 
+discount free cash flows to the firm.
+237
+Cost of Equity: Deutsche Bank
+2008 versus 2016
+Aswath Damodaran
+237
+¨In early 2008, we estimated a beta of 1.162 for Deutsche 
+Bank, which used in conjunction with the Euro risk-free 
+rate of 4% (in January 2008) and an equity risk premium 
+of 4.50%, yielded a cost of equity of 9.23%.
+Cost of Equity Jan 2008 = Riskfree RateJan 2008 + Beta* Mature Market Risk Premium
+= 4.00% + 1.162 (4.5%) = 9.23%
+¨In October 2016, the Euro riskfree rate had dropped to 
+0.10% and the Deutsche’s  cost of equity had risen to 
+10.2%, putting it in the 75thpercentile of banks in terms 
+of cost of equity.
+238
+Cost of Equity: Tata Motors
+Aswath Damodaran
+238
+¨We will be valuing Tata Motors in rupee terms. That is a 
+choice. A company can be valued in any currency. 
+¨Earlier, we estimated a levered beta for equity of 1.1007 
+for Tata Motor’s operating assets . Since we will be 
+discounting FCFE with the income from cash included in 
+the cash, we recomputed a beta for Tata Motors as a 
+company (with cash):
+Levered BetaCompany= 1.1007 (1428/1630)+ 0 (202/1630) = 0.964
+¨With a nominal rupee risk-free rate of 6.57 percent and 
+an equity risk premium of 7.19% for Tata Motors, we 
+arrive at a cost of equity of 13.50%.
+Cost of Equity = 6.57% + 0.964 (7.19%) = 13.50%
+239
+Current Cost of Capital: Disney
+¨The beta for Disney’s stock in November 2013 was 1.0013. The T . 
+bond rate at that time was 2.75%. Using an estimated equity risk 
+premium of 5.76%, we estimated the cost of equity for Disney to 
+be 8.52%:
+Cost of Equity = 2.75% + 1.0013(5.76%) = 8.52% 
+¨Disney’s bond rating in May 2009 was A, and based on this rating, 
+the estimated pretax cost of debt for Disney is 3.75%. Using a 
+marginal tax rate of 36.1, the after-tax cost of debt for Disney is 
+2.40%.
+After-Tax Cost of Debt = 3.75% (1 –0.361) = 2.40%
+¨The cost of capital was calculated using these costs and the weights 
+based on market values of equity (121,878) and debt (15.961):
+Cost of capital  = 
+Aswath Damodaran
+8.52% 121,878
+(15,961+121,878)+2.40% 15,961
+(15,961+121,878)=7.81%
+240
+But costs of equity and capital can and 
+should change over time…
+Aswath Damodaran
+Year Beta
+Cost of 
+Equity
+After-tax 
+Cost of 
+Debt Debt RatioCost of capital
+1 1.0013 8.52% 2.40% 11.50% 7.81%
+2 1.0013 8.52% 2.40% 11.50% 7.81%
+3 1.0013 8.52% 2.40% 11.50% 7.81%
+4 1.0013 8.52% 2.40% 11.50% 7.81%
+5 1.0013 8.52% 2.40% 11.50% 7.81%
+6 1.0010 8.52% 2.40% 13.20% 7.71%
+7 1.0008 8.51% 2.40% 14.90% 7.60%
+8 1.0005 8.51% 2.40% 16.60% 7.50%
+9 1.0003 8.51% 2.40% 18.30% 7.39%
+10 1.0000 8.51% 2.40% 20.00% 7.29%
+241
+III. Expected Growth
+Aswath Damodaran
+241
+Expected Growth
+Net Income Operating Income
+Retention Ratio=
+1 - Dividends/Net 
+Income
+Return on Equity
+Net Income/Book Value of 
+Equity
+X
+Reinvestment 
+Rate = (Net Cap 
+Ex + Chg in 
+WC/EBIT(1-t)
+Return on  Capital =
+EBIT(1-t)/Book Value of 
+Capital
+X
+242
+Estimating growth in EPS: Deutsche Bank in 
+January 2008
+Aswath Damodaran
+242
+¨ In 2007, Deutsche Bank reported net income of 6.51 billion Euros on a book value 
+of equity of 33.475 billion Euros at the start of the year (end of 2006), and paid 
+out 2.146 billion Euros as dividends. 
+Return on Equity = 
+Retention Ratio = 
+¨ If Deutsche Bank maintains the return on equity (ROE) and retention ratio that it 
+delivered in 2007 for the long run:
+Expected Growth Rate Existing Fundamentals = 0.6703 * 0.1945 = 13.04%
+¨ If we replace the net income in 2007 with average net income of $3,954 million, 
+from 2003 to 2007:
+Normalized Return on Equity = 
+Normalized Retention Ratio = 
+Expected Growth Rate Normalized Fundamentals = 0.4572 * 0.1181 = 5.40%
+€ 
+Net Income2007
+Book Value of Equity2006
+=6,510
+33,475=19.45%
+€ 
+1−Dividends
+Net Income=1−2,146
+6,510=67.03%
+€ 
+Average Net Income2003-07
+Book Value of Equity2006
+=3,954
+33,475=11.81%
+€ 
+1−Dividends
+Net Income=1−2,146
+3,954=45.72%
+243
+Estimating growth in Net Income: Tata Motors
+Aswath Damodaran
+243
+Year Net Income
+Cap Ex DepreciationChange in 
+WC
+Change in 
+Debt
+Equity 
+Reinvestment
+Equity 
+Reinvestment 
+Rate
+2008-09 -25,053₹ 99,708₹ 25,072₹ 13,441₹ 25,789₹ 62,288₹ -248.63%
+2009-10 29,151₹ 84,754₹ 39,602₹ -26,009₹ 5,605₹ 13,538₹ 46.44%
+2010-11 92,736₹ 81,240₹ 46,510₹ 50,484₹ 24,951₹ 60,263₹ 64.98%
+2011-12 135,165₹ 138,756₹ 56,209₹ 22,801₹ 30,846₹ 74,502₹ 55.12%
+2012-13 98,926₹ 187,570₹ 75,648₹ 680₹ 32,970₹ 79,632₹ 80.50%
+Aggregate 330,925₹ 592,028₹ 243,041₹ 61,397₹ 120,160₹ 290,224₹ 87.70%
+Year Net Income
+BV of Equity at 
+start of the year ROE
+2008-09 -25,053₹ 91,658₹ -27.33%
+2009-10 29,151₹ 63,437₹ 45.95%
+2010-11 92,736₹ 84,200₹ 110.14%
+2011-12 135,165₹ 194,181₹ 69.61%
+2012-13 98,926₹ 330,056₹ 29.97%
+Aggregate 330,925₹ 763,532₹ 43.34%
+2013 value
+Average 
+values: 
+2008-2013
+Reinvestment rate 80.50% 87.70%
+ROE 29.97% 43.34%
+Expected growth 24.13% 38.01%
+244
+ROE and Leverage
+Aswath Damodaran
+244
+¨A high ROE, other things remaining equal, should yield a 
+higher expected growth rate in equity earnings. 
+¨The ROE for a firm is a function of both the quality of its 
+investments and how much debt it uses in funding these 
+investments. In particular
+ROE = ROC + D/E (ROC -i(1-t))
+where,
+ROC = (EBIT (1 -tax rate)) / (Book Value of Capital)
+BV of Capital = BV of Debt + BV of Equity -Cash
+D/E = Debt/ Equity ratio 
+i= Interest rate on debt
+t = Tax rate on ordinary income.
+245
+Decomposing ROE
+Aswath Damodaran
+245
+¨Assume that you are analyzing a company with a 15% return 
+on capital, an after-tax cost of debt of 5% and a book debt to 
+equity ratio of 100%. Estimate the ROE for this company.
+¨Now assume that another company in the same sector has 
+the same ROE as the company that you have just analyzed 
+but no debt. Will these two firms have the same growth rates 
+in earnings per share if they have the same dividend payout 
+ratio?
+¨Will they have the same equity value?
+246
+Estimating Growth in EBIT: Disney
+¨We started with the reinvestment rate that we computed from the 
+2013 financial statements:
+Reinvestment rate =
+We computed the reinvestment rate in prior years to ensure that the 2013 
+values were not unusual or outliers.
+¨We compute the return on capital, using operating income in 2013 
+and capital invested at the start of the year:
+Return on Capital2013= 
+Disney’s return on capital has improved gradually over the last decade and 
+has levelled off in the last two years.
+¨If Disney maintains its 2013 reinvestment rate and return on capital 
+for the next five years, its growth rate will be 6.80 percent.
+Expected Growth Rate from Existing Fundamentals = 53.93% * 12.61% = 6.8%
+(3,629 + 103)
+10,032 (1-.3102)=53.93%
+EBIT (1-t)
+(BV of Equity+ BV of Debt - Cash)= 10,032 (1-.361)
+(41,958+ 16,328 - 3,387)=12.61%
+Aswath Damodaran
+247
+When everything is in flux: Changing 
+growth and margins
+¨The elegant connection between reinvestment and 
+growth in operating income breaks down, when you 
+have a company in transition, where margins are 
+changing over time.
+¨If that is the case, you have to estimate cash flows in 
+three steps:
+¤Forecast revenue growth and revenues in future years, taking 
+into account market potential and competition.
+¤Forecast a “target” margin in the future and a pathway from 
+current margins to the target.
+¤Estimate reinvestment from revenues, using a sales to capital 
+ratio (measuring the dollars of revenues you get from each 
+dollar of investment).
+Aswath Damodaran
+247
+248
+Here is an example: Baidu’s Expected FCFF
+Aswath Damodaran
+248
+Year
+Revenue 
+growthRevenues
+Operating 
+Margin EBITTax rateEBIT (1-t)
+Chg in 
+Revenues
+Sales/Ca
+pital
+Reinvestm
+ent FCFF
+Base 
+year $28,756 48.72%$14,009 16.31%$11,724 2.64
+125.00%$35,945 47.35%$17,019 16.31%$14,243 $7,189 2.64 $2,722 $11,521 
+225.00%$44,931 45.97%$20,657 16.31%$17,288 $8,986 2.64 $3,403 $13,885 
+325.00%$56,164 44.60%$25,051 16.31%$20,965 $11,233 2.64 $4,253 $16,712 
+425.00%$70,205 43.23%$30,350 16.31%$25,400 $14,041 2.64 $5,316 $20,084 
+525.00%$87,756 41.86%$36,734 16.31%$30,743 $17,551 2.64 $6,646 $24,097 
+620.70%$105,922 40.49%$42,885 18.05%$35,145 $18,166 2.64 $6,878 $28,267 
+716.40%$123,293 39.12%$48,227 19.79%$38,685 $17,371 2.64 $6,577 $32,107 
+812.10%$138,212 37.74%$52,166 21.52%$40,938 $14,918 2.64 $5,649 $35,289 
+9 7.80%$148,992 36.37%$54,191 23.26%$41,585 $10,781 2.64 $4,082 $37,503 
+103.50%$154,207 35.00%$53,972 25.00%$40,479 $5,215 2.64 $1,974 $38,505
+249
+IV . Getting Closure in Valuation
+Aswath Damodaran
+249
+¨Since we cannot estimate cash flows forever, we estimate cash flows for a 
+“growth period”and then estimate a terminal value, to capture the value 
+at the end of the period:
+¨When a firm’s cash flows grow at a “constant”rate forever, the present 
+value of those cash flows can be written as:
+Value = Expected Cash Flow Next Period / (r -g)
+where,
+r = Discount rate (Cost of Equity or Cost of Capital)
+g = Expected growth rate forever .
+¨This “constant”growth rate is called a stable growth rate and cannot be 
+higher than the growth rate of the economy in which the firm operates.
+Value = 
+CFt
+(1+r)t+Terminal Value
+(1+r)N
+t=1
+t=N
+∑
+250
+Getting to stable growth…
+Aswath Damodaran
+250
+¨A key assumption in all discounted cash flow models is the period 
+of high growth, and the pattern of growth during that period. In 
+general, we can make one of three assumptions:
+¤there is no high growth, in which case the firm is already in stable growth
+¤there will be high growth for a period, at the end of which the growth rate 
+will drop to the stable growth rate (2-stage)
+¤there will be high growth for a period, at the end of which the growth rate 
+will decline gradually to a stable growth rate(3-stage)
+¨The assumption of how long high growth will continue will depend 
+upon several factors including:
+¤the size of the firm (larger firm -> shorter high growth periods)
+¤current growth rate (if high -> longer high growth period)
+¤barriers to entry and differential advantages (if high -> longer growth 
+period)
+251
+Choosing a Growth Period: Examples
+Aswath Damodaran
+251
+ Disney Vale Tata Motors Baidu 
+Firm size/market 
+size 
+Firm is one of the largest 
+players in the entertainment 
+and theme park business, but 
+the businesses are being 
+redefined and are expanding. 
+The company is one of 
+the largest mining 
+companies in the 
+world, and the overall 
+market is constrained 
+by limits on resource 
+availability. 
+Firm has a large market 
+share of Indian (domestic) 
+market, but it is small by 
+global standards. Growth is 
+coming from Jaguar 
+division in emerging 
+markets. 
+Company is in a 
+growing sector (online 
+search) in a growing 
+market (China). 
+Current excess 
+returns 
+Firm is earning more than its 
+cost of capital. 
+Returns on capital are 
+largely a function of 
+commodity prices. 
+Have generally 
+exceeded the cost of 
+capital. 
+Firm has a return on capital 
+that is higher than the cost 
+of capital. 
+Firm earns significant 
+excess returns. 
+Competitive 
+advantages 
+Has some of the most 
+recognized brand names in the 
+world. Its movie business now 
+houses Marvel superheros, 
+Pixar animated characters & 
+Star Wars.  
+Cost advantages 
+because of access to 
+low-cost iron ore 
+reserves in Brazil.  
+Has wide 
+distribution/service 
+network in India but 
+competitive advantages are 
+fading there.Competitive 
+advantages in India are 
+fading but 
+Landrover/Jaguar has 
+strong brand name value, 
+giving Tata pricing power 
+and growth potential. 
+Early entry into & 
+knowledge of the 
+Chinese market, 
+coupled with 
+government-imposed 
+barriers to entry on 
+outsiders. 
+Length of high-
+growth period 
+Ten years, entirely because of 
+its strong com petitive 
+advantages/ 
+None, though with 
+normalized earnings 
+and moderate excess 
+returns. 
+Five years, with much of 
+the growth coming from 
+outside India. 
+Ten years, with strong 
+excess returns.
+Aswath Damodaran252
+Valuing Vale in November 2013 (in US dollars)
+Let's start with some history & estimate what a normalized year will look like
+Assume that the company is in stable growth, growing 2% a year in perpetuity
+Estimate the costs of equity &  capital for Vale
+Business Sample,size
+Unlevered,
+beta,of,
+business Revenues
+Peer,Group,
+EV/Sales
+Value,of,
+Business
+Proportion,
+of,Vale
+Metals'&'Mining48 0.86 $9,013 1.97 $17,739 16.65%
+Iron'Ore 78 0.83 $32,717 2.48 $81,188 76.20%
+Fertilizers 693 0.99 $3,777 1.52 $5,741 5.39%
+Logistics 223 0.75 $1,644 1.14 $1,874 1.76%
+Vale,Operations 0.8440 $47,151 $106,543 100.00%
+Market D/E = 54.99%
+Marginal tax rate = 34.00% (Brazil)
+Levered Beta = 0.844 (1+(1-.34)(.5499)) = 1.15
+Cost of equity = 2.75% + 1.15 (7.38%) = 10.87%
+Year Operating+Income+($)Effective+tax+rate+BV+of+DebtBV+of+Equity Cash Invested+capitalReturn+on+capital
+2009 $6,057 27.79% $18,168 $42,556 $12,639 $48,085 9.10%
+2010 $23,033 18.67% $23,613 $59,766 $11,040 $72,339 25.90%
+2011 $30,206 18.54% $27,668 $70,076 $9,913 $87,831 28.01%
+2012 $13,346 18.96% $23,116 $78,721 $3,538 $98,299 11.00%
+2013+(TTM) $15,487 20.65% $30,196 $75,974 $5,818 $100,352 12.25%
+Normalized $17,626 20.92% 17.25%
+%"of"revenuesERP
+US & Canada 4.90% 5.50%
+Brazil 16.90% 8.50%
+Rest of Latin America 1.70% 10.09%
+China 37.00% 6.94%
+Japan 10.30% 6.70%
+Rest of Asia 8.50% 8.61%
+Europe 17.20% 6.72%
+Rest of World 3.50% 10.06%
+Vale ERP 100.00% 7.38%
+Vale's rating: A-
+Default spread based on rating = 1.30%
+Cost of debt (pre-tax) = 2.75% + 1.30% = 4.05%
+Cost of capital = 11.23% (.6452) + 4.05% (1-.34) (.3548) = 8.20%
+!"#$%"&'("$'!!"#$=!!
+!"#=!2%
+17.25%=11.59%!
+!"#$%!!"!!"#$%&'()!!""#$"=!17,626!1−.20921−!.1159
+.082−.02 =$202,832!
+Value of operating assets = $202,832
++ Cash & Marketable Securities = $     7,133
+- Debt = $   42,879
+Value of equity = $167,086
+Value per share =$      32.44
+Stock price (11/2013) = $     13.57
+253
+Estimating Stable Period Inputs after a 
+high growth period: Disney
+¨ Respect the cap: The growth rate forever is assumed to be 2.5%. This is set lower 
+than the riskfree rate (2.75%).
+¨ Stable period excess returns: The return on capital for Disney will drop from its 
+high growth period level of 12.61% to a stable growth return of 10%. This is still 
+higher than the cost of capital of 7.29% but the competitive advantages that 
+Disney has are unlikely to dissipate completely by the end of the 10th year . 
+¨ Reinvest to grow: Based on the expected growth rate in perpetuity (2.5%) and 
+expected return on capital forever after year 10 of 10%, we compute s a stable 
+period reinvestment rate of 25%:
+¨ Reinvestment Rate = Growth Rate / Return on Capital  = 2.5% /10% = 25%
+¨ Adjust risk and cost of capital: The beta for the stock will drop to one, reflecting 
+Disney’s status as a mature company. 
+¤Cost of Equity = Riskfree Rate + Beta * Risk Premium = 2.75% + 5.76% = 8.51%
+¤The debt ratio for Disney will rise to 20%. Since we assume that the cost of debt remains 
+unchanged at 3.75%, this will result in a cost of capital of 7.29%
+¤Cost of capital = 8.51% (.80) + 3.75% (1-.361) (.20) = 7.29%
+Aswath Damodaran
+254
+V . From firm value to equity value per share
+Aswath Damodaran
+254
+Approach used To get to equity value per share
+Discount dividends per share at the cost 
+of equity
+Present value is value of equity per share
+Discount aggregate FCFE at the cost of 
+equity
+Present value is value of aggregate equity. 
+Subtract the value of equity options given 
+to managers and divide by number of 
+shares.
+Discount aggregate FCFF at the cost of 
+capital
+PV = Value of operating assets
++ Cash & Near Cash investments
++ Value of minority cross holdings
+-Debt outstanding
+= Value of equity
+-Value of equity options 
+=Value of equity in common stock
+/ Number of shares

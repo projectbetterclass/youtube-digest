@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-10T18:04:58.321561+00:00",
+  "last_run": "2026-09-10T23:52:22.575114+00:00",
   "processed": {
     "-080f7y8fgI": {
       "channel": "BWB - Business With Brian",
@@ -31,6 +31,14 @@
       "processed_at": "2026-09-10T17:36:39.702288+00:00",
       "published": null,
       "title": "48 Hours In San Francisco",
+      "transcript_available": true
+    },
+    "-A1410G7BCU": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:28:10.102214+00:00",
+      "published": null,
+      "title": "Data Update 4: Risk = Danger + Opportunity",
       "transcript_available": true
     },
     "-LHz2Ivj934": {
@@ -87,6 +95,14 @@
       "processed_at": "2026-09-08T18:07:55.309121+00:00",
       "published": null,
       "title": "The First Domino in the US Debt Crisis",
+      "transcript_available": true
+    },
+    "-e_eUt_FJwI": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:27:29.645335+00:00",
+      "published": null,
+      "title": "Session 5: End Game Closure and First Steps on Risk",
       "transcript_available": true
     },
     "-jitDTcEWio": {
@@ -313,6 +329,14 @@
       "title": "The Only SpaceX IPO Video Investors Need to Watch",
       "transcript_available": true
     },
+    "1W_E8NrwCYE": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:20:42.839443+00:00",
+      "published": null,
+      "title": "In Practice Webcast: Using a Bloomberg Terminal (if you have one) to get Default Spreads",
+      "transcript_available": true
+    },
     "1ctuQkQoFZk": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -353,12 +377,28 @@
       "title": "Everyone Sold Last Week. That Was The Mistake",
       "transcript_available": true
     },
+    "1rYDn7utb7c": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:31:11.623413+00:00",
+      "published": null,
+      "title": "Triggered Disclosures: A Way out of the Disclosure Dilemma!",
+      "transcript_available": true
+    },
     "1s5K9XLuHts": {
       "channel": "Ben Yanes",
       "had_materials": false,
       "processed_at": "2026-09-03T19:07:49.035352+00:00",
       "published": "2026-08-31T14:07:58+00:00",
       "title": "Functional Training = Lifetime Deload",
+      "transcript_available": true
+    },
+    "1u0sXj2ZTgk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:13:11.007636+00:00",
+      "published": null,
+      "title": "An Inflation Follow Up: Company Exposure to Inflation's Effects",
       "transcript_available": true
     },
     "1vb_FeLM5Ak": {
@@ -489,6 +529,22 @@
       "title": "Why Working Harder Won\u2019t Make You Rich - Codie Sanchez",
       "transcript_available": true
     },
+    "2q5xyhi-MSA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:20:59.978335+00:00",
+      "published": null,
+      "title": "Session 10 (Quiz-shortened): Private Company Betas and Costs of Debt",
+      "transcript_available": true
+    },
+    "2riFF4O1-bM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:14:49.742676+00:00",
+      "published": null,
+      "title": "Session 22: The Dividend Principle - First Steps",
+      "transcript_available": true
+    },
     "2sC-szm7tfE": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -527,6 +583,14 @@
       "processed_at": "2026-09-06T17:20:27.569979+00:00",
       "published": "2026-09-05T15:39:42+00:00",
       "title": "3 guys went from a basement to $1.5M a year with two app ideas \ud83d\ude31",
+      "transcript_available": true
+    },
+    "3ECw8-su_hk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:32:35.812980+00:00",
+      "published": null,
+      "title": "Session 3A: Descriptive Statistics - Applications in Finance & Investing",
       "transcript_available": true
     },
     "3IA98jCUMbc": {
@@ -655,6 +719,14 @@
       "processed_at": "2026-09-09T17:51:08.218064+00:00",
       "published": null,
       "title": "Why Your \"Healing\" Makes the Pain Worse",
+      "transcript_available": true
+    },
+    "48r57Bl8tSk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:41:25.366336+00:00",
+      "published": null,
+      "title": "Session 26: The Fat Lady is Singing!",
       "transcript_available": true
     },
     "4Ayyp8ewEzI": {
@@ -841,6 +913,22 @@
       "title": "Can You Do Breathing Exercises with a Deviated Septum?",
       "transcript_available": true
     },
+    "5H6_60Tv0i0": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:31:41.803776+00:00",
+      "published": null,
+      "title": "An ESG Follow up: The Gravy Train (or circle) rolls on!",
+      "transcript_available": true
+    },
+    "5HIVw3kvZ20": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:33:14.342045+00:00",
+      "published": null,
+      "title": "Session 5: Data Relationships",
+      "transcript_available": true
+    },
     "5T6okaHVqAU": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -1025,6 +1113,14 @@
       "title": "You Can Tell In The First Week If They're A Leader",
       "transcript_available": true
     },
+    "6iLXSyQBSs8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:29:33.227577+00:00",
+      "published": null,
+      "title": "Data Update 2 for 2022: A Winning Year for US stocks, but....",
+      "transcript_available": true
+    },
     "6kD5RbQCjFg": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -1047,6 +1143,14 @@
       "processed_at": "2026-09-09T17:44:31.540252+00:00",
       "published": "2026-09-09T15:00:24+00:00",
       "title": "\"Women Are The Problem\" - Female Dating Coach",
+      "transcript_available": true
+    },
+    "6rDxY30qgvQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:13:28.354760+00:00",
+      "published": null,
+      "title": "Session: Closing Session",
       "transcript_available": true
     },
     "7-3kySR5bA4": {
@@ -1121,6 +1225,14 @@
       "title": "Stop Using Shame to Motivate Yourself",
       "transcript_available": true
     },
+    "7VFe5lcPnnc": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:20:30.283036+00:00",
+      "published": null,
+      "title": "Session 11: Costs of debt and capital",
+      "transcript_available": true
+    },
     "7afNvogg9kQ": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -1135,6 +1247,14 @@
       "processed_at": "2026-09-06T23:38:10.409919+00:00",
       "published": null,
       "title": "WTF Is an \"AI Agent Loop\"? Genius or Hype?",
+      "transcript_available": true
+    },
+    "7fNM_rTQVNA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:05:16.897461+00:00",
+      "published": null,
+      "title": "Session 5: Betas and Relative Risk",
       "transcript_available": true
     },
     "7fXv-EO5mVg": {
@@ -1159,6 +1279,14 @@
       "processed_at": "2026-09-08T00:13:32.172248+00:00",
       "published": null,
       "title": "Trump's China Tariffs Will Make (Smart) Investors Rich - Here's How",
+      "transcript_available": true
+    },
+    "7pPl7T0hBqU": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:43:24.785955+00:00",
+      "published": null,
+      "title": "Session 20: Other Approaches to Optimizing Debt Mix & Follow up",
       "transcript_available": true
     },
     "7pVTQSA4s5I": {
@@ -1209,12 +1337,28 @@
       "title": "Dividend Investing Changed FOREVER Because of Apple!",
       "transcript_available": true
     },
+    "876ig2COw_U": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:31:54.564743+00:00",
+      "published": null,
+      "title": "Velvet Glove, Meet Iron Fist:  The China Tech Crackdown",
+      "transcript_available": true
+    },
     "8MxG6tOkdNY": {
       "channel": "Chris Williamson",
       "had_materials": false,
       "processed_at": "2026-09-10T17:35:13.730080+00:00",
       "published": "2026-09-10T15:00:25+00:00",
       "title": "Best Peptides, Stem Cells, Testosterone & Exercise Hacks - Biohacking Roundtable",
+      "transcript_available": true
+    },
+    "8Q-YBcKlyHw": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:17:07.828553+00:00",
+      "published": null,
+      "title": "Session 17: The Debt Equity Trade off",
       "transcript_available": true
     },
     "8R6fYMJLI5E": {
@@ -1281,6 +1425,22 @@
       "title": "Data Update 1 for 2024: The data speaks, but what is it saying?",
       "transcript_available": true
     },
+    "8pfDYA_UEGI": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:20:13.316497+00:00",
+      "published": null,
+      "title": "Valuation Tools Webcast: From First Principles to Valuation Models",
+      "transcript_available": true
+    },
+    "8rZps01Ok7I": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:30:41.346032+00:00",
+      "published": null,
+      "title": "Tesla at a Trillion-Dollar Market Cap: Revisiting its Valuation",
+      "transcript_available": true
+    },
     "919XuYNqyjw": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -1297,6 +1457,22 @@
       "title": "My AI app has an accuracy problem (and how I fixed it)",
       "transcript_available": true
     },
+    "957cUxNU2cg": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:12:31.710568+00:00",
+      "published": null,
+      "title": "Country Risk: A Mid-year Update for 2022",
+      "transcript_available": true
+    },
+    "95e7WdxbI1k": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "processed_at": "2026-09-10T23:51:12.664707+00:00",
+      "published": "2026-09-10T19:14:41+00:00",
+      "title": "One of my favorite chest flye cues",
+      "transcript_available": true
+    },
     "9AMEvywHyV8": {
       "channel": "BWB - Business With Brian",
       "had_materials": false,
@@ -1311,6 +1487,14 @@
       "processed_at": "2026-09-09T00:00:52.994994+00:00",
       "published": null,
       "title": "The Iran Economic Shock is Coming. How to Protect Yourself",
+      "transcript_available": true
+    },
+    "9GnwzjV9qS0": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-10T23:54:14.955903+00:00",
+      "published": null,
+      "title": "Free Cash Flow: Back to Basics",
       "transcript_available": true
     },
     "9IfLkzlqMJw": {
@@ -1495,6 +1679,14 @@
       "processed_at": "2026-09-08T23:59:11.609770+00:00",
       "published": null,
       "title": "New Fed Chair\u2019s Plan to Cancel America\u2019s Debt",
+      "transcript_available": true
+    },
+    "AtWeS8b9Igw": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:04:57.023513+00:00",
+      "published": null,
+      "title": "Session 6: Bottom Up Betas",
       "transcript_available": true
     },
     "AvbfOyLSrfk": {
@@ -1817,6 +2009,14 @@
       "title": "This Sale Won't Last \u2013 4 Stocks Worth Buying!?",
       "transcript_available": true
     },
+    "Dl9FNzWPgI4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:29:06.711970+00:00",
+      "published": null,
+      "title": "Session 1: Corporate Finance - Big Picture and Themes",
+      "transcript_available": true
+    },
     "Dll36oKiovU": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -1969,6 +2169,14 @@
       "title": "Session 25: Valuation, the final frontiers!",
       "transcript_available": true
     },
+    "FEridcFHPdQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:43:00.026125+00:00",
+      "published": null,
+      "title": "Session 21: Debt Design",
+      "transcript_available": true
+    },
     "FJhjpqVaXbY": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -2015,6 +2223,22 @@
       "processed_at": "2026-09-08T00:14:31.000111+00:00",
       "published": null,
       "title": "Top 5 Stocks I'm Buying Before The Fed Cuts Rates!",
+      "transcript_available": true
+    },
+    "FrpB3UmVFxQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:33:26.346046+00:00",
+      "published": null,
+      "title": "Session 5A: Data Relationships - Applications in Finance & Investing",
+      "transcript_available": true
+    },
+    "FvMMumZPoNU": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:16:19.006722+00:00",
+      "published": null,
+      "title": "Session 20: Adjusted Present Value (APV) and Peer Pressure",
       "transcript_available": true
     },
     "Fxv-g5eQo_w": {
@@ -2161,6 +2385,14 @@
       "title": "How To ACTUALLY Break An Addiction",
       "transcript_available": true
     },
+    "H8QYr-Z5qfY": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:11:57.989663+00:00",
+      "published": null,
+      "title": "Session 1: Introduction to the class",
+      "transcript_available": true
+    },
     "HK1rzxhshRg": {
       "channel": "Chris Raroque",
       "had_materials": false,
@@ -2215,6 +2447,14 @@
       "processed_at": "2026-09-08T10:59:30.664166+00:00",
       "published": null,
       "title": "E14: NVIDIA'S HUGE AI Chip Breakthroughs Change Everything",
+      "transcript_available": true
+    },
+    "HropbTLqi3I": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:42:45.745426+00:00",
+      "published": null,
+      "title": "Session 22: Dividend Policy - Beyond Inertia and Me-tooism",
       "transcript_available": true
     },
     "HtTQbCufhbM": {
@@ -2505,6 +2745,14 @@
       "title": "Fable 5 Is Back: Why I\u2019m Actually Paying API Prices For It",
       "transcript_available": true
     },
+    "JcoyiCRrQ-I": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-10T23:52:41.555531+00:00",
+      "published": null,
+      "title": "Data Update 2 for 2023: A Rocky Year for Equities!",
+      "transcript_available": true
+    },
     "Jq55_yR_wJ4": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -2793,6 +3041,14 @@
       "title": "The Wisdom (and Madness) of Crowds: Political Markets as Election Predictors!",
       "transcript_available": true
     },
+    "Ltr704qDQlQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:01:12.558144+00:00",
+      "published": null,
+      "title": "Sow the wind, Reap the whirlwind: An Inflation Update (September 23, 2022)",
+      "transcript_available": true
+    },
     "LuOZ2PKvd4s": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -2839,6 +3095,14 @@
       "processed_at": "2026-09-09T00:00:06.497006+00:00",
       "published": null,
       "title": "The Global Monetary Reset Has Begun (Hint: Act Now!)",
+      "transcript_available": true
+    },
+    "MB6W3qirKTs": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:41:38.413309+00:00",
+      "published": null,
+      "title": "Session 25: Valuation 101",
       "transcript_available": true
     },
     "MB_5DKSmOls": {
@@ -3009,6 +3273,14 @@
       "title": "Data Update 3 for 2023: Interest Rates and Bond Returns in 2022",
       "transcript_available": true
     },
+    "N91AXV7LMrg": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:30:29.384112+00:00",
+      "published": null,
+      "title": "Corporate Finance: A Class Preview",
+      "transcript_available": false
+    },
     "N9KNPyCaHVM": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -3033,6 +3305,14 @@
       "title": "I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K",
       "transcript_available": true
     },
+    "NIHJaF07a0k": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:28:34.705677+00:00",
+      "published": null,
+      "title": "Session 3: The Power Structure and Corporate Finance",
+      "transcript_available": true
+    },
     "NLMbtCZeUrc": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -3047,6 +3327,14 @@
       "processed_at": "2026-09-07T18:49:33.893132+00:00",
       "published": null,
       "title": "E26: NVIDIA Just Changed The Course of AI Forever",
+      "transcript_available": true
+    },
+    "NPbno4z6_AQ": {
+      "channel": "Ben Yanes",
+      "had_materials": false,
+      "processed_at": "2026-09-10T23:51:37.118954+00:00",
+      "published": "2026-09-10T19:23:52+00:00",
+      "title": "This exercise doesn't hit the lats.",
       "transcript_available": true
     },
     "NQKIJU7TmTc": {
@@ -3385,6 +3673,14 @@
       "title": "Data Update 4 for 2025: Interest Rates, Inflation and the Fed!",
       "transcript_available": true
     },
+    "PtmSeUCFvz0": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:16:34.285014+00:00",
+      "published": null,
+      "title": "Session 19: The Payoff to Optimizing Debt Financing and Enhanced Cost of Capital Approaches",
+      "transcript_available": true
+    },
     "PyCSEt9nosQ": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -3463,6 +3759,38 @@
       "processed_at": "2026-09-06T16:34:17.623124+00:00",
       "published": "2026-09-04T13:48:53+00:00",
       "title": "What makes this row special?",
+      "transcript_available": true
+    },
+    "QWIqmZ6NbMA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-10T23:53:40.186788+00:00",
+      "published": null,
+      "title": "Facebook (Meta) Lesson 2: Accounting Inconsistencies and Consequences",
+      "transcript_available": true
+    },
+    "Qe8ni_Vjbz8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:13:56.168266+00:00",
+      "published": null,
+      "title": "Session 25: Valuation Inputs",
+      "transcript_available": true
+    },
+    "QgyijqV-Bfo": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:14:15.541246+00:00",
+      "published": null,
+      "title": "Session 24: Trust, Control and Dividend Policy",
+      "transcript_available": true
+    },
+    "QlQqJpxcHCM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:29:52.188097+00:00",
+      "published": null,
+      "title": "Data Update 1 for 2022: It's Moneyball Time!",
       "transcript_available": true
     },
     "Qn2c_U-cWQs": {
@@ -3553,6 +3881,14 @@
       "title": "Don't Do THIS On Leg Extensions...",
       "transcript_available": true
     },
+    "RKJ1c442AcY": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-10T23:52:55.778511+00:00",
+      "published": null,
+      "title": "Data Update 1 for 2023: Setting the table",
+      "transcript_available": true
+    },
     "RNeCC28qbVI": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -3567,6 +3903,14 @@
       "processed_at": "2026-09-06T10:27:05.708496+00:00",
       "published": "2026-09-03T15:35:52+00:00",
       "title": "Wall Street Makes The Biggest Bet in American History",
+      "transcript_available": true
+    },
+    "RUmqnott-Ck": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-10T23:55:53.613744+00:00",
+      "published": null,
+      "title": "Uncertainty in Investing and Valuation: What if questions, Scenario Analysis and Simulations",
       "transcript_available": true
     },
     "RdmYUULKf7s": {
@@ -3681,6 +4025,14 @@
       "title": "The UNTHINKABLE is About to Happened to the Dollar (& Why Gold and Silver are Next)",
       "transcript_available": true
     },
+    "S_SI29b_pzM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:11:37.298140+00:00",
+      "published": null,
+      "title": "Session 2: The End Game in Business",
+      "transcript_available": true
+    },
     "S_oN3vlzpMw": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -3711,6 +4063,14 @@
       "processed_at": "2026-09-06T17:43:02.267388+00:00",
       "published": null,
       "title": "Claude Code New Features, Explained",
+      "transcript_available": true
+    },
+    "SsP1AIhRykM": {
+      "channel": "Chris Williamson",
+      "had_materials": false,
+      "processed_at": "2026-09-10T23:51:51.829453+00:00",
+      "published": "2026-09-10T21:00:07+00:00",
+      "title": "You're Supposed To Outgrow Them",
       "transcript_available": true
     },
     "TATiapf0tF4": {
@@ -3759,6 +4119,14 @@
       "processed_at": "2026-09-04T18:53:07.896923+00:00",
       "published": null,
       "title": "AI Disruption: Doomsday Scenario or Fizzle?",
+      "transcript_available": true
+    },
+    "TcFjU642Yhk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:27:57.529605+00:00",
+      "published": null,
+      "title": "Session 4: More on corporate governance",
       "transcript_available": true
     },
     "Tf-VW0XiQtM": {
@@ -3865,6 +4233,14 @@
       "title": "Secret Dividend ETFs Nobody is Talking About!",
       "transcript_available": true
     },
+    "Uct2cCx1Jec": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:43:13.055861+00:00",
+      "published": null,
+      "title": "The Corporate Tax Question: Facts and Fiction",
+      "transcript_available": true
+    },
     "Uh0VLF4p7ow": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -3919,6 +4295,14 @@
       "processed_at": "2026-09-09T11:03:40.498498+00:00",
       "published": null,
       "title": "AI Therapy is Making You Mentally Weak",
+      "transcript_available": true
+    },
+    "VONUqSWEWk0": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:22:12.358433+00:00",
+      "published": null,
+      "title": "Session 6: Risk/Return Models, Riskfree Rate and Equity Risk Premiums",
       "transcript_available": true
     },
     "VgGdPZH0Aqs": {
@@ -4017,6 +4401,14 @@
       "title": "Claude's Agent Mode was LEAKED (First Look)",
       "transcript_available": true
     },
+    "WPUACQfJ6bs": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:34:04.198014+00:00",
+      "published": null,
+      "title": "Session 6A: Probabilistic Tools in Finance & Investing",
+      "transcript_available": true
+    },
     "WWRJJ1vBsnw": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -4103,6 +4495,14 @@
       "processed_at": "2026-09-09T18:18:05.808084+00:00",
       "published": null,
       "title": "You're Boring Because You're Afraid To Change",
+      "transcript_available": true
+    },
+    "X0MFx1DU1uk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:04:16.774870+00:00",
+      "published": null,
+      "title": "Session 8: Measuring Investment Returns",
       "transcript_available": true
     },
     "X1PUdPn6MCU": {
@@ -4225,12 +4625,28 @@
       "title": "Session 25: Valuation - The Last Frontier!",
       "transcript_available": true
     },
+    "Y0U-XsjQdD4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:31:22.571141+00:00",
+      "published": null,
+      "title": "The Indian Smartphone Revolution: Paytm's \"Coming of Age\" IPO",
+      "transcript_available": true
+    },
     "Y4FSMYSt2zQ": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
       "processed_at": "2026-09-08T18:04:35.088985+00:00",
       "published": null,
       "title": "The Global Monetary Reset Has Begun (Hint: Act Now!)",
+      "transcript_available": true
+    },
+    "Y8E2f0V2NVI": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:40:46.922528+00:00",
+      "published": null,
+      "title": "The SPAC Revolution: IPO Disruptor or Blank Check Distortion?",
       "transcript_available": true
     },
     "YDKIewKscLk": {
@@ -4343,6 +4759,22 @@
       "processed_at": "2026-09-06T17:25:54.503341+00:00",
       "published": "2026-09-06T15:11:08+00:00",
       "title": "Nvidia Can't Buy Enough of It. I Found 2 Ways In",
+      "transcript_available": true
+    },
+    "YsjrO2leLFI": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:21:28.884157+00:00",
+      "published": null,
+      "title": "Session 8: Regression Betas and beyond!",
+      "transcript_available": true
+    },
+    "YuV8QZyvWX4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:42:32.839832+00:00",
+      "published": null,
+      "title": "Session 23: Actual versus Potential Dividends and Cash/Trust Nexus",
       "transcript_available": true
     },
     "Yvt7AWPqCRA": {
@@ -4593,6 +5025,14 @@
       "title": "What I Learned in my 20s, 30s, and 40s",
       "transcript_available": true
     },
+    "a9VD38tZz88": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:12:48.898015+00:00",
+      "published": null,
+      "title": "Risk Capital and Markets: A Temporary Retreat or Long term Retrenchment?",
+      "transcript_available": true
+    },
     "aKpN9cs5KXc": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -4615,6 +5055,14 @@
       "processed_at": "2026-09-10T17:41:01.154300+00:00",
       "published": null,
       "title": "How I Coded a USEFUL AI Agent in 48 Hours (from scratch)",
+      "transcript_available": true
+    },
+    "aspuNCFF3TI": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:21:42.966741+00:00",
+      "published": null,
+      "title": "Data Update 5: The Bottom Line!",
       "transcript_available": true
     },
     "aup7LG54YRg": {
@@ -4648,6 +5096,14 @@
       "published": null,
       "title": "Claude Code Built My $450K Marketing Campaign",
       "transcript_available": true
+    },
+    "bBFS0MEm3io": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:41:11.217382+00:00",
+      "published": null,
+      "title": "Investors Taxes and Value: Capital Gains, Dividends and Value",
+      "transcript_available": false
     },
     "bCQxzyK1ZSw": {
       "channel": "Starter Story",
@@ -4689,6 +5145,22 @@
       "title": "\ud83d\udea8These AI Stocks Will Print Millionaires (You are investing in AI wrong)",
       "transcript_available": true
     },
+    "bLO9-9dcdMw": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:33:00.842598+00:00",
+      "published": null,
+      "title": "Session 4A: Statistical Distributions - Applications in Finance & Investing",
+      "transcript_available": true
+    },
+    "bLZlEBARdE8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:10:56.694718+00:00",
+      "published": null,
+      "title": "Session 3: First Steps on Risk",
+      "transcript_available": true
+    },
     "bOELybHE1X8": {
       "channel": "Vinh Giang",
       "had_materials": false,
@@ -4703,6 +5175,14 @@
       "processed_at": "2026-09-10T18:33:41.371690+00:00",
       "published": null,
       "title": "The Theocratic Trifecta: The Allure and False Promise of ESG, Sustainability and Stakeholder Wealth",
+      "transcript_available": true
+    },
+    "baKYuxwiS1o": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:40:19.234325+00:00",
+      "published": null,
+      "title": "The Zomato IPO: A Bet on Big Markets and User Platforms!",
       "transcript_available": true
     },
     "bdhUBBACglw": {
@@ -4815,6 +5295,14 @@
       "processed_at": "2026-09-06T16:44:58.215854+00:00",
       "published": null,
       "title": "Session 4: Closure on the End Game - Stakeholders, Sustainability and ESG",
+      "transcript_available": true
+    },
+    "cUUqW57VfjY": {
+      "channel": "The Diary Of A CEO",
+      "had_materials": false,
+      "processed_at": "2026-09-10T23:52:07.265806+00:00",
+      "published": "2026-09-10T21:00:13+00:00",
+      "title": "ARE YOU TALKING TOO MUCH?",
       "transcript_available": true
     },
     "cXIWx1eYA9w": {
@@ -4985,12 +5473,28 @@
       "title": "Chapter/Session 5: Corporate Finance 101",
       "transcript_available": true
     },
+    "e1JNSRmPrKM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:17:58.026096+00:00",
+      "published": null,
+      "title": "Session 14: Equity analysis, acquisition assessment and NPV vs IRR",
+      "transcript_available": true
+    },
     "eA9Zf2-qYYM": {
       "channel": "Greg Isenberg",
       "had_materials": false,
       "processed_at": "2026-09-06T23:41:43.462946+00:00",
       "published": null,
       "title": "Building AI Agents that actually work (Full Course)",
+      "transcript_available": true
+    },
+    "eDrH0giC7CI": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:40:31.470922+00:00",
+      "published": null,
+      "title": "The Disclosure Dilemma: When More (Data) is Less (Information)!",
       "transcript_available": true
     },
     "eH8JdttKIdA": {
@@ -5009,12 +5513,52 @@
       "title": "Should We Sell Shoulder Pics? \ud83d\ude02",
       "transcript_available": true
     },
+    "eOrIwtS-0uw": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:10:37.465737+00:00",
+      "published": null,
+      "title": "Session 4: Risk free Rates and Equity Risk Premiums",
+      "transcript_available": true
+    },
+    "eRL2kjD63QM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:19:39.450896+00:00",
+      "published": null,
+      "title": "Russia in Ukraine: Let Loose the Dogs of War!",
+      "transcript_available": true
+    },
+    "eRf-XfhU_NY": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:17:24.776926+00:00",
+      "published": null,
+      "title": "Session 16: Closing the Books on Investment Analysis",
+      "transcript_available": true
+    },
     "eRnN7P2kQeU": {
       "channel": "BWB - Business With Brian",
       "had_materials": false,
       "processed_at": "2026-09-09T23:57:27.845743+00:00",
       "published": null,
       "title": "Nuclear Stocks That Could 10X Before 2035! (But No One\u2019s Watching)",
+      "transcript_available": true
+    },
+    "eXhCXobViJc": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:34:16.143268+00:00",
+      "published": null,
+      "title": "Session 6B: Monte Carlo Simulations in Finance & Investing",
+      "transcript_available": true
+    },
+    "ehnZ_MbE-Os": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:02:23.148943+00:00",
+      "published": null,
+      "title": "Session 11: Dividend Policy",
       "transcript_available": true
     },
     "em1I6lvinZs": {
@@ -5063,6 +5607,14 @@
       "processed_at": "2026-09-06T16:42:14.706784+00:00",
       "published": null,
       "title": "Data Update 9 for 2025: Dividends and Buybacks - Inertia and Me-tooism!",
+      "transcript_available": true
+    },
+    "fEEcFFGxh7k": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:39:54.496934+00:00",
+      "published": null,
+      "title": "Session 2A: Sampling - Applications in Finance & Investing",
       "transcript_available": true
     },
     "fNG3DjdvX9s": {
@@ -5297,6 +5849,14 @@
       "title": "We Built An App And Got 100 Users!",
       "transcript_available": true
     },
+    "gkYXsuz05Ts": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:21:15.913142+00:00",
+      "published": null,
+      "title": "Session 9: Beta Determinants and Bottom up Betas",
+      "transcript_available": true
+    },
     "gmSnQPzoYHA": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -5335,6 +5895,14 @@
       "processed_at": "2026-09-10T18:05:22.567776+00:00",
       "published": null,
       "title": "The Corporate Life Cycle: Implications for Managing and Investing",
+      "transcript_available": true
+    },
+    "gyIfXuoeYhQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:42:18.688465+00:00",
+      "published": null,
+      "title": "Session 24: Dividend Closure & First Steps on Valuation",
       "transcript_available": true
     },
     "h1Q2Mg48y0I": {
@@ -5441,6 +6009,30 @@
       "title": "Vercel's CEO Shares 5 AI Startup Ideas So Good You\u2019ll Quit Your Job",
       "transcript_available": true
     },
+    "i4atCUbe_CM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:03:58.869481+00:00",
+      "published": null,
+      "title": "Session 9: The Right Financing Mix",
+      "transcript_available": true
+    },
+    "i6ijmkoAKqc": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:17:38.601217+00:00",
+      "published": null,
+      "title": "Session 15: The Case (Lowe's Furniture) and Implications for Investment Analysis",
+      "transcript_available": true
+    },
+    "i7oD_8gPXnI": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:33:37.499149+00:00",
+      "published": null,
+      "title": "Session 5B: Data Relationships - More Applications in Finance & Investing",
+      "transcript_available": true
+    },
     "i80avS70k8E": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -5513,12 +6105,28 @@
       "title": "An Ode to Restraint: Lessons from the Tim Cook Legacy!",
       "transcript_available": true
     },
+    "iqyAHpXZ0Ws": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:02:02.878720+00:00",
+      "published": null,
+      "title": "Session 12: Valuation",
+      "transcript_available": true
+    },
     "iqyfByXmZHI": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
       "processed_at": "2026-09-10T18:18:08.497082+00:00",
       "published": null,
       "title": "A Tesla Revisit: Story Twists and Turns with Value Consequences",
+      "transcript_available": true
+    },
+    "iv7NVJuXJfk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:40:06.257951+00:00",
+      "published": null,
+      "title": "Zomato.. Zomato... A DIY Valuation of Zomato",
       "transcript_available": true
     },
     "ivLw_W1Pwwg": {
@@ -5583,6 +6191,14 @@
       "processed_at": "2026-09-07T18:40:52.029800+00:00",
       "published": "2026-09-07T15:00:07+00:00",
       "title": "How Does Bipolar Disorder Affect Your Motivation",
+      "transcript_available": true
+    },
+    "jgePWFq_VrM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:16:50.708115+00:00",
+      "published": null,
+      "title": "Session 18: Optimizing Capital Structure (Financing Mix)",
       "transcript_available": true
     },
     "juhEybZYE2M": {
@@ -5689,6 +6305,14 @@
       "title": "Leaked: Last EASY Wealth Opportunity in 2026",
       "transcript_available": true
     },
+    "kevJxT20xL8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:28:52.018535+00:00",
+      "published": null,
+      "title": "Session 2: The End Game for a Business!",
+      "transcript_available": true
+    },
     "kl4-q8eIsGw": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
@@ -5775,6 +6399,30 @@
       "processed_at": "2026-09-09T17:47:08.115898+00:00",
       "published": null,
       "title": "The Biology Of Why Men Isolate",
+      "transcript_available": true
+    },
+    "lL3cdChtx5U": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:21:57.146176+00:00",
+      "published": null,
+      "title": "Session 7: Equity Risk Premiums & First steps on Betas",
+      "transcript_available": true
+    },
+    "lMEyjqXBU4U": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:29:19.066522+00:00",
+      "published": null,
+      "title": "Data Update 3 for 2022: The Inflation Effect on Investing",
+      "transcript_available": true
+    },
+    "lQddA58hZdQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:30:56.319987+00:00",
+      "published": null,
+      "title": "The Billionaire Tax Proposal: A No-good, Awful, Terrible Idea!",
       "transcript_available": true
     },
     "lSjzGHPpzic": {
@@ -5897,12 +6545,36 @@
       "title": "The Greed & Fear Tango: The Markets in April 2025!",
       "transcript_available": true
     },
+    "mSaco3SXJNM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:01:40.761168+00:00",
+      "published": null,
+      "title": "A 2022 Zomato Update: Price, Value and the Gap!",
+      "transcript_available": true
+    },
     "mU9Rb9ab2R8": {
       "channel": "Chris Williamson",
       "had_materials": false,
       "processed_at": "2026-09-05T10:32:31.489971+00:00",
       "published": "2026-09-02T17:00:38+00:00",
       "title": "Why Dating App Winners Make Bad Spouses",
+      "transcript_available": true
+    },
+    "mV485qRiWbQ": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:30:03.825111+00:00",
+      "published": null,
+      "title": "Back in the Classroom: Time to Teach!",
+      "transcript_available": true
+    },
+    "mWjkdCZ0URE": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:32:49.391641+00:00",
+      "published": null,
+      "title": "Session 4: Statistical Distributions",
       "transcript_available": true
     },
     "m_wVCnkLn-U": {
@@ -6063,6 +6735,14 @@
       "processed_at": "2026-08-28T07:04:56.563080+00:00",
       "published": "2026-08-25T13:00:31+00:00",
       "title": "This Will Surprise US Investors",
+      "transcript_available": true
+    },
+    "nglqTHwuZ-8": {
+      "channel": "Greg Isenberg",
+      "had_materials": false,
+      "processed_at": "2026-09-10T23:50:58.142462+00:00",
+      "published": "2026-09-10T18:11:19+00:00",
+      "title": "GPT-6 Astra: How I\u2019d Make Money With It",
       "transcript_available": true
     },
     "niH52NaFbAs": {
@@ -6257,12 +6937,28 @@
       "title": "Data Update 4 for 2024: Danger plus Opportunity - Risk enters the Equation!",
       "transcript_available": true
     },
+    "ouxmdkMWWmI": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-10T23:53:58.377575+00:00",
+      "published": null,
+      "title": "Facebook (Meta) Lesson 1: Corporate Governance - The What, Why and What now?",
+      "transcript_available": true
+    },
     "ovdJagfSMwM": {
       "channel": "Vinh Giang",
       "had_materials": false,
       "processed_at": "2026-08-28T07:06:31.444158+00:00",
       "published": "2026-08-25T20:23:32+00:00",
       "title": "You\u2019d Be Surprised How People Perceive You... \ud83d\udc4f",
+      "transcript_available": true
+    },
+    "p0vqmjgF3E4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:40:59.264200+00:00",
+      "published": null,
+      "title": "Inflation and Investing: False Alarm or Fair Warning?",
       "transcript_available": true
     },
     "p3jZ1Ghasxs": {
@@ -6417,6 +7113,14 @@
       "title": "Session 14: Equity Analysis, Acquisition Valuation and NPV vs IRR",
       "transcript_available": true
     },
+    "qK91i_0h7O4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:16:02.861805+00:00",
+      "published": null,
+      "title": "Session 21: Debt Design",
+      "transcript_available": true
+    },
     "qKvotUBFuj4": {
       "channel": "Aswath Damodaran",
       "had_materials": false,
@@ -6465,6 +7169,14 @@
       "title": "How Are Psychopaths Created?",
       "transcript_available": true
     },
+    "qUkEMdlUIQo": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:15:26.448947+00:00",
+      "published": null,
+      "title": "Elon's Twitter Play: Valuation Question or Political Rorschach Test?",
+      "transcript_available": true
+    },
     "qY8XOJrCMfg": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -6503,6 +7215,14 @@
       "processed_at": "2026-09-06T17:26:08.831349+00:00",
       "published": "2026-09-06T15:46:37+00:00",
       "title": "$1M ARR SaaS founder shares his entire tech stack:",
+      "transcript_available": true
+    },
+    "r-0ADQoOun4": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:18:10.791634+00:00",
+      "published": null,
+      "title": "ESG's Russia Test: Trial by Fire or Crash and Burn?",
       "transcript_available": true
     },
     "r06tnztEOys": {
@@ -6753,6 +7473,14 @@
       "title": "\ud83d\udea8URGENT: The $2.4 Trillion AI Infrastructure Reset \ud83d\udcc8",
       "transcript_available": true
     },
+    "t5pyFgnFn5E": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:32:09.202565+00:00",
+      "published": null,
+      "title": "Statistics 101: A Class Preview",
+      "transcript_available": true
+    },
     "t8FJPHWO5fA": {
       "channel": "Felix & Friends (Goat Academy)",
       "had_materials": false,
@@ -6785,6 +7513,14 @@
       "title": "Chapter/Session 17: Investing in Decline",
       "transcript_available": true
     },
+    "tDqTHFBKwsY": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-10T23:53:26.535362+00:00",
+      "published": null,
+      "title": "Facebook (Meta) Lesson 3: Tell me a story!",
+      "transcript_available": true
+    },
     "tI8b26_S7pw": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -6815,6 +7551,14 @@
       "processed_at": "2026-09-09T18:22:44.368165+00:00",
       "published": null,
       "title": "I Got Rich in 2008. This Time It's Bigger",
+      "transcript_available": true
+    },
+    "tVMo1awKOGA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:13:41.700484+00:00",
+      "published": null,
+      "title": "In Search of a Steady State: Inflation, Interest Rates and Value",
       "transcript_available": true
     },
     "tXGlS460b_w": {
@@ -6865,6 +7609,14 @@
       "title": "The Hidden 'Setting' That Controls Your Anxiety",
       "transcript_available": true
     },
+    "u-NuNKCkmR0": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:33:50.978969+00:00",
+      "published": null,
+      "title": "Session 6: Probability and Probabilistic Tools",
+      "transcript_available": true
+    },
     "u8XIg3V9Cn4": {
       "channel": "HealthyGamerGG",
       "had_materials": false,
@@ -6879,6 +7631,14 @@
       "processed_at": "2026-09-06T17:38:14.715864+00:00",
       "published": null,
       "title": "Chapter/Session 14: Investment Philosophies 101",
+      "transcript_available": true
+    },
+    "u95jN9xTvVk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:12:17.325931+00:00",
+      "published": null,
+      "title": "Session 10: More on financial mix and type",
       "transcript_available": true
     },
     "uF3JdUS57-s": {
@@ -6905,6 +7665,14 @@
       "title": "Only advanced lifters know....",
       "transcript_available": true
     },
+    "uKstNleBOkA": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:39:41.953025+00:00",
+      "published": null,
+      "title": "Session 3: Descriptive Statistics",
+      "transcript_available": true
+    },
     "uWephkIzFoY": {
       "channel": "Chris Raroque",
       "had_materials": false,
@@ -6927,6 +7695,14 @@
       "processed_at": "2026-09-06T16:34:48.389266+00:00",
       "published": "2026-09-04T14:00:02+00:00",
       "title": "This Video Should Be Required Viewing for Business Owners",
+      "transcript_available": true
+    },
+    "ubeZj_duhW8": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:04:38.019503+00:00",
+      "published": null,
+      "title": "Session 7: Costs of Debt and Capital",
       "transcript_available": true
     },
     "ubzhh4kMCLo": {
@@ -7097,6 +7873,14 @@
       "title": "Reviewing Claude Opus 4.5",
       "transcript_available": true
     },
+    "w0dsBZn7DsI": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:34:27.757340+00:00",
+      "published": null,
+      "title": "Session 1: Introduction to statistics",
+      "transcript_available": true
+    },
     "w1OU6IdxF0Y": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -7177,6 +7961,14 @@
       "title": "Hot Stocks Under $10 - For Huge Growth!",
       "transcript_available": true
     },
+    "wfo7It2dfeM": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:30:18.321469+00:00",
+      "published": null,
+      "title": "The \"Right\" CEO: A Corporate Life Cycle Perspective",
+      "transcript_available": true
+    },
     "wgpllwQb43M": {
       "channel": "BWB - Business With Brian",
       "had_materials": false,
@@ -7209,6 +8001,14 @@
       "title": "GET IN EARLY! My Top 4 Investments Before Trump's Next Tariffs",
       "transcript_available": true
     },
+    "wxhAxyDVK3Q": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:19:18.843869+00:00",
+      "published": null,
+      "title": "Session 12: Measuring Investment Returns (Show me the money!)",
+      "transcript_available": true
+    },
     "x-XIo_RyMek": {
       "channel": "Chris Raroque",
       "had_materials": false,
@@ -7223,6 +8023,14 @@
       "processed_at": "2026-09-06T17:41:30.060154+00:00",
       "published": null,
       "title": "Chapter/Session 3: The Corporate Life Cycle - Measures and Determinants",
+      "transcript_available": true
+    },
+    "x8qna3jElZg": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-10T23:53:13.162701+00:00",
+      "published": null,
+      "title": "A Return to Teaching: The Spring 2023 Edition",
       "transcript_available": true
     },
     "x9bAP46ouEw": {
@@ -7353,6 +8161,14 @@
       "title": "US Panic: Japan\u2019s Currency Just Exploded [Hint: Gold]",
       "transcript_available": true
     },
+    "y3KqRoTN9nk": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:27:41.523605+00:00",
+      "published": null,
+      "title": "End of an Era or Temporary Setback: Revisiting the FANGAM Stocks",
+      "transcript_available": true
+    },
     "y3cim4d4iWo": {
       "channel": "New Money",
       "had_materials": false,
@@ -7407,6 +8223,14 @@
       "processed_at": "2026-09-09T00:00:22.489522+00:00",
       "published": null,
       "title": "Devalued Overnight: The Biggest Reset is NOW",
+      "transcript_available": true
+    },
+    "yErvHhThnWg": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:18:39.240229+00:00",
+      "published": null,
+      "title": "Session 13: Time-weighting cash flows and dealing with uncertainty",
       "transcript_available": true
     },
     "ySLiFHLUdxQ": {
@@ -7489,6 +8313,14 @@
       "title": "How to ACTUALLY make small talk! \ud83d\udc40",
       "transcript_available": true
     },
+    "z1O73dszRIo": {
+      "channel": "HealthyGamerGG",
+      "had_materials": false,
+      "processed_at": "2026-09-10T23:52:22.575101+00:00",
+      "published": "2026-09-10T22:00:30+00:00",
+      "title": "Buddha's Lesson: The Two Arrows",
+      "transcript_available": true
+    },
     "zBlSEABSHYs": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -7553,6 +8385,14 @@
       "title": "These 3 AI Stocks Will Skyrocket in 19 Days (Don't Miss Out)",
       "transcript_available": true
     },
+    "zVAgoo9mg74": {
+      "channel": "Aswath Damodaran",
+      "had_materials": false,
+      "processed_at": "2026-09-11T00:32:21.909595+00:00",
+      "published": null,
+      "title": "Session 2: Sampling in Statistics",
+      "transcript_available": true
+    },
     "zXysLUTLjw4": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -7567,6 +8407,14 @@
       "processed_at": "2026-09-07T12:04:01.232516+00:00",
       "published": null,
       "title": "These Stocks Will Make Millionaires By 2029",
+      "transcript_available": true
+    },
+    "za0YJjyLbTY": {
+      "channel": "Aswath Damodaran",
+      "had_materials": true,
+      "processed_at": "2026-09-11T00:14:30.948341+00:00",
+      "published": null,
+      "title": "Session 23: Potential Dividends and Actual Cash Returned",
       "transcript_available": true
     },
     "zbplIgHL8zk": {

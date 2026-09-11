@@ -1,0 +1,177 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/Inflation2022.pdf
+
+IN SEARCH OF A STEADY STATE: 
+INFLATION, INTEREST RATES AND 
+VALUE
+The (inflation) genie escapes the bottle!
+2
+SearchingforBalance
+qThe nature of markets is that they are never quite settled, as 
+investors recalibrate expectations constantly and reset prices. 
+qIn most time periods, those recalibrations and resets tend to be small 
+and in both directions,resulting in the ups and downs that pass for 
+normal volatility. 
+qWEare not in one of those time periods, as markets approach bipolar 
+territory, with big moves up and down. 
+qThe good news is that the culprit behind the volatility, 
+inflation, is easy to identify, but the bad news is that inflation 
+remains the most unpredictable of all macroeconomic factors 
+to factor into stock prices and value. 
+qIn this session, I will look at where we stand on inflation 
+expectations, and the different paths we can be end up on, 
+ranging from potentially catastrophic to mostly benign.
+3
+Inflation:Backin the news?
+4
+InflationHistory
+¨While I report multiple measures of inflation, from 
+the consumer price index (adjusted and unadjusted) 
+to the producer price index to the price deflator 
+used in the GDP , they all tell the same story. 
+¤We have had a long stretch of low and stable inflation, and 
+that is especially true since the 2008 crisis. 
+¤In fact, the average inflation rate in the 2011-20 decade 
+was the lowest of the seven decades that I cover in this 
+chart. 
+¤Just as important, though, is the fact that variation in 
+inflation, from year to year, was lower in 2011-2020 in 
+every other decade, other than 1991-2000.
+5
+Expectedand Unexpected Inflation
+6
+TheInflationDecade:1971-1980
+¨Investors who are old enough to remember the 1970s 
+point to it as a decade of high inflation, but that is only 
+with the benefit of hindsight. 
+¤At the start of that decade, investors had no reason to believe 
+that they were heading into a decade of higher inflation, and 
+initial signs of price increases were attributed to temporary 
+factors (with OPEC being a convenient target). 
+¤In fact, expected inflation lagged actual inflation through much 
+of the decade, and the damage done to financial asset returns 
+that decade came as much from actual inflation being higher 
+than expected inflation, period after period, as from higher 
+inflation.
+7
+The Inflation Surprise in 2021
+¨It is precisely because we have been spoiled by a decade 
+of low and stable inflation that the inflationnumbers in 
+2021 and 2022 have comes as such a surprise to 
+economists,investors and even the Fed. 
+¨Early on, theinflation surge was explained away by the 
+reopening of theeconomy, after the COVIDshutdown, 
+and then by stressed supply chains, and expected 
+inflation remained low. 
+¨However, as inflation has remained stubbornly high, and 
+neither COVID nor supplychains provide a sufficient 
+rationale, market expectations of inflation have started 
+to creep up.
+8
+Expected Inflation
+9
+Explaining the divergence…
+¨Short term versus Long term: The consumer survey extracts an 
+expectation of inflation in the near term, whereas the treasury markets 
+are providing a longer termperspective, since I am using ten-year rates to 
+derive the market-implied inflation.
+¨Consumers are over adjusting: The big inflation surges have happened in 
+gasoline, food and housing, all items that consumers come into contact 
+withon a continuous basis, and it is possible that they are over reaction 
+and adjusting expected inflation up too much, as a consequence.
+¨Markets are under adjusting: Alternatively, it is possible that it is 
+consumers who are being realisticand it is that the market which is under 
+adjusting to higher inflation, partly because many investors have operated 
+only in a low and steady inflation environment and partly because many 
+of these investors have a belief that the Fed has super powersand 
+"determines" what interest rates and inflation will be in the future.
+10
+Economic Consequences: Interest Rates
+11
+DefaultSpreads…
+12
+And on expected returns on stocks…
+13
+With worries abouteconomicgrowth…
+¨ Almost every economic forecasting service has increased their 
+assessed probabilities for a recession, with variations on how deep 
+and long a recession has tobe to break inflation's back. 
+¨In a note published in mid-April, Larry Summers and Alex Domash
+go as far as to put the likelihood of a recession at 100%, based 
+upon ajoint indicator, i.e.,that a combination of inflation> 5% 
+andunemployment<4% has always led to a recession within 12 to 
+24 months, using quarterly data from the 1950s to today. 
+¨While I remain a skeptic about historic rules of thumb (downward 
+sloping yield curve, for example) to make categorical statements 
+about future economic growth, I think that we can state 
+categorically that there is a greater chance of an economic 
+slowdown now than just a few months ago.
+14
+Investment Consequences
+¨As the storm clouds of higher inflation and interest 
+rates, inconjunction with slower or even negative 
+economic growth, gather, it should come as 
+nosurprise that equity markets are struggling to find 
+their footing. 
+¨At the close of trading on May 5, 2022, the S&P 500 
+stood at 4147, down 13.3% from the start ofthe 
+year value, accompanied by increased volatility. 
+¨Youarehearingfrom”experts” offering divergent 
+advice from sell and flee to buy into weakness.
+15
+Determinants of Value
+¨Steady StateInterest Rate: There are three possibilities for the future. 
+¤Bulkofthemoveisbehindus. This is steady state.
+¤A Seventies rerun, with expectations lagging inflation
+¤Inflationistransient and returns to last decade levels
+¨Equity Risk Premium Path: The equity risk premium of 5.24%, estimated 
+at the start of May 2022, is at the high end of historical equity risk 
+premiums.Thatratecould
+¤Continue torisewithhighandvolatile inflation
+¤Stay steady at current levels
+¤Drop,asinflationfearspass
+¨Earnings Estimates: The strength of the economy has been a big 
+contributor to boosting actual and expected earnings on companies in the 
+last two years, and these higher earnings have translated into more cash 
+returned in dividends and buybacks. Ifrecessionfearsplay out, those 
+earnings may be under stress.
+16
+S&P Valuation: Status Quo
+17
+Value Dynamics
+18
+Other investment classes…
+¨ One of thecosts that come with thelast scenario is that inflation eats away at trust in not 
+justcurrencies, but in all financial assets, and that investors will turn away from stocks and bonds.
+¨ In the 1970s, the asset classes that benefited the most from this flight were gold and real estate, 
+and the question is which asset classes will best play this role now, if inflation is here to stay. 
+¤ I do think that securitizing real estate has made it behave more like financialassets and removed some of 
+itspower to hedgeagainst inflation, but there may be segments (such as rentalproperties, where rent can 
+be raised to match inflation) that retain their inflation fightingmagic. 
+¤ Gold's history as acollectible with standing will continue, but the truth is that it is not big enough as an asset 
+class for us to all hold it. 
+¨ That, of course, brings us to cryptos, NFTs and other, more recent, entrants into the investment 
+choice list. In theory, you could make the argument that these newinvestment choices will operate 
+like gold, butyou have two serious barriers to overcome. 
+¤ The firstis that they have not been along for long, and history is full of collectibles, from Beanie Babies to 
+Pokemoncards, that people paid high prices for, but failed to hold their value. 
+¤ The second is that in the limited history that we have for cryptos and NFTs, they have behaved less like 
+collectibles (holding orincreasing in value, as stocksand bonds collapse) and more like very risk stock. 
+¤ In fact, higher and sustainedinflation may be the ultimate test of whether there is any substance to the 
+bitcoin as millennial gold story, and the results may make or break those holding cryptos for the financial 
+apocalypse that they see coming
+19
+In Conclusion…
+¨The inflation genie is out of the bottle, and if history is any guide, getting 
+it back in is going to take more time and create more pain than we realize. 
+¤It is the lesson that the US learned in the 1970s, and that other countries have 
+learned or chosen to not learn from their own encounters with inflation. 
+¤It is the reason that when inflation made itself visible in the early part of 2021, I 
+argued that the Fed should take it seriously, and respond quickly, even if there 
+existed the possibility that it was transient. 
+¨Needless to say, theFed and the administration chose a different path, 
+one that can be described as whistling in the graveyard, not just ignoring 
+the danger with happy talk, but also actively taking decisions that only 
+exacerbated the danger. 
+¨Needless to say, theyfind themselves between a rock (more inflation) and 
+a hard place (a recession), and while you may be tempted to say"I told 
+you so", the truth is that we will all feel the pain.

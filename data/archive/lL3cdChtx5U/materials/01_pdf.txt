@@ -1,0 +1,497 @@
+Source: https://www.stern.nyu.edu/~adamodar/podcasts/cfspr22/session7slides.pdf
+
+120
+Historical ERP: A Historical Snapshot
+¨If you are going to use a historical risk premium, make it
+¤Long term (because of the standard error)
+¤Consistent with your choice of risk freerate
+¤A “compounded” average
+¨No matter which estimate you use, recognize that it is 
+backward looking, is noisyand may reflect selection bias.
+Historical 
+premium for 
+the US
+121
+3. A Forward LookingERP
+¨For a start: If you know the price paid for an asset and 
+have estimates of the expected  cash flows on the asset, 
+you can estimate the IRR of these cash flows. If you paid 
+the price, this is your expected return.
+¨Stock Price & Risk: If you assume that stocks are 
+correctly priced in the aggregate and you can estimate 
+the expected cashflows from buying stocks, you can 
+estimate the expected rate of return on stocks by finding 
+that discount rate that makes the present value equal to 
+the price paid. 
+¨Implied ERP: Subtracting out the riskfreerate should 
+yield an implied equity risk premium.  This implied 
+equity premium is a forward-looking number and can be 
+updated as often as you want.
+Aswath Damodaran
+121
+122
+Implied ERP in November 2013: Watch 
+what I pay, not what I say..
+Aswath Damodaran
+¨If you can observe what investors are willing to pay 
+for stocks, you can back out an expected return from 
+that price and an implied equity risk premium.
+Base year cash ﬂow  (last 12 mths)
+Dividends (TTM): 33.22
++ Buybacks (TTM): 49.02
+= Cash to investors (TTM): 82.35
+Earnings in TTM: 
+Expected growth in next 5 years
+Top down analyst estimate of 
+earnings growth for S&P 500 with 
+stable payout: 5.59%
+86.96 91.82 96.95 102.38 108.10
+Beyond year 5
+Expected growth rate = 
+Riskfree rate = 2.55%
+Expected CF in year 6 = 
+108.1(1.0255)
+Risk free rate = T.Bond rate on 1/1/14=2.55%
+r = Implied Expected Return on Stocks = 8.04%
+S&P 500 on 11/1/13= 
+1756.54
+E(Cash to investors)
+Minus
+Implied Equity Risk Premium (1/1/14) = 8.04% - 2.55% = 5.49%
+Equals
+1756.54=86.96
+(1+r)+91.82
+(1+r)2+96.95
+(1+r)3+102.38
+(1+r)4+108.10
+(1+r)5+ 110.86
+(r−.0255)(1+r)5
+123
+The bottom line on Equity Risk Premiums 
+in November 2013
+¨ Mature Markets: In November 2013, the number that we chose to use as the 
+equity risk premium for all mature markets was 5.5%. This was set equal to the 
+implied premium at that point in time and it was much higher than the historical 
+risk premium of 4.20% prevailing then (1928-2012 period). 
+¨ For emerging markets, we will use the melded default spread approach (where 
+default spreads are scaled up to reflect additional equity risk) to come up with the 
+additional risk premium that we will add to the mature market premium. Thus, 
+markets in countries with lower sovereign ratings will have higher risk premiums 
+that 5.5%.
+Emerging Market ERP = 5.5% +
+Aswath Damodaran
+ Country Default Spread*σEquity
+σCountry Bond
+!
+"
+##
+$
+%
+&&
+Arithmetic Average Geometric Average
+Stocks -T. BillsStocks -T. BondsStocks -T. BillsStocks -T. Bonds
+1928-2012 7.65% 5.88% 5.74% 4.20%
+2.20% 2.33%
+1962-2012 5.93% 3.91% 4.60% 2.93%
+2.38% 2.66%
+2002-2012 7.06% 3.08% 5.38% 1.71%
+5.82% 8.11%
+124
+What about equity risk premiums for other 
+markets?
+Aswath Damodaran
+124
+¨Historical data for markets outside the United States 
+is available for much shorter time periods. The 
+problem is even greater in emerging markets.
+¨The historical premiums that emerge from this data 
+reflects this data problem and there is much greater 
+error associated with the estimates of the 
+premiums.
+¨You could try to compute implied equity risk 
+premiums but getting the inputs, especially for long 
+term growth are difficult to do.
+125
+One solution: Bond default spreads as CRP 
+–November 2013
+¨In November 2013, the equity risk premium for the US was 5.50% Using 
+the default spread on the sovereign bond or based upon the sovereign 
+rating and adding that spread to the mature market premium (4.20% for 
+the US) gives you a total ERP for a country.
+¨If you prefer CDS spreads:
+Aswath Damodaran
+CountryRatingDefault Spread (Country Risk Premium)US ERPTotal ERP for country
+India Baa3 2.25% 5.50% 7.75%
+China Aa3 0.80% 5.50% 6.30%
+Brazil Baa2 2.00% 5.50% 7.50%
+Country Sovereign CDS Spread US ERPTotal ERP for country
+India 4.20% 5.50% 9.70%
+China 1.20% 5.50% 6.70%
+Brazil 2.59% 5.50% 8.09%
+126
+Beyond the default spread? Equities are 
+riskier than bonds
+¨While default risk spreads and equity risk premiums are highly correlated, 
+one would expect equity spreads to be higher than debt spreads.  One 
+approach to scaling up the premium is to look at the relative volatility of 
+equities to bonds and to scale up the default spread to reflect this:
+¨Brazil:The annualized standard deviation in the Brazilian equity index 
+over the previous year is 21 percent, whereas the annualized standard 
+deviation in the Brazilian C-bond is 14 percent.
+Brazil’s Equity Risk Premium = 5.50% + 2.00% (21%/14%) = 8.50%
+¨Using the same approach for China and India:
+¨ China’s Equity Risk Premium = 5.50% + 0.80% (18%/10%) = 6.94%
+¨ India’s Equity Risk Premium = 5.50% + 2.25% (24%/17%) = 9.10%
+Aswath Damodaran
+127
+A Composite way of estimating ERP for 
+countries
+Step 1: Estimate an equity risk premium for a mature market. If your 
+preference is for a forward looking, updated number, you can 
+estimate an implied equity risk premium for the US (assuming that 
+you buy into the contention that it is a mature market)
+¤My estimate: In November 2013, my estimate for the implied premium in 
+the US was 5.5%. That will also be my estimate for a mature market ERP .
+Step 2: Come up with a generic and measurable definition of a mature 
+market. 
+¤My estimate: Any AAA rated country is mature.
+Step 3: Estimate the additional risk premium that you will charge for 
+markets that are not mature. You have two choices: 
+¤The default spread for the country, estimated based either on sovereign 
+ratings or the CDS market.
+¤A scaled up default spread, where you adjust the default spread upwards 
+for the additional risk in equity markets.
+Aswath Damodaran
+Black #: Total ERP
+Red #: Country risk premium
+AVG: GDP weighted average
+ERP : Nov 2013Canada 5.50%0.00%
+United States of America5.50%0.00%
+North America 5.50%0.00%
+Aswath Damodaran
+Country TRP CRP
+Angola 10.90%5.40%
+Benin 13.75%8.25%
+Botswana 7.15%1.65%
+Burkina Faso 13.75%8.25%
+Cameroon 13.75%8.25%
+Cape Verde 12.25%6.75%
+Egypt 17.50%12.00%
+Gabon 10.90%5.40%
+Ghana 12.25%6.75%
+Kenya 12.25%6.75%
+Morocco 9.63%4.13%
+Mozambique12.25%6.75%
+Namibia 8.88%3.38%
+Nigeria 10.90%5.40%
+Rwanda 13.75%8.25%
+Senegal 12.25%6.75%
+South Africa 8.05%2.55%
+Tunisia 10.23%4.73%
+Uganda 12.25%6.75%
+Zambia 12.25%6.75%
+Africa 11.22%5.82%
+Bangladesh10.90%5.40%
+Cambodia 13.75%8.25%
+China 6.94%1.44%
+Fiji 12.25%6.75%
+Hong Kong 5.95%0.45%
+India 9.10%3.60%
+Indonesia 8.88%3.38%
+Japan 6.70%1.20%
+Korea 6.70%1.20%
+Macao 6.70%1.20%
+Malaysia 7.45%1.95%
+Mauritius 8.05%2.55%
+Mongolia 12.25%6.75%
+Pakistan 17.50%12.00%
+Papua NG 12.25%6.75%
+Philippines 9.63%4.13%
+Singapore 5.50%0.00%
+Sri Lanka 12.25%6.75%
+Taiwan 6.70%1.20%
+Thailand 8.05%2.55%
+Vietnam 13.75%8.25%
+Asia 7.27%1.77%
+Argentina 15.63%10.13%
+Belize 19.75%14.25%
+Bolivia 10.90%5.40%
+Brazil 8.50%3.00%
+Chile 6.70%1.20%
+Colombia 8.88%3.38%
+Costa Rica 8.88%3.38%
+Ecuador 17.50%12.00%
+El Salvador 10.90%5.40%
+Guatemala 9.63%4.13%
+Honduras 13.75%8.25%
+Mexico 8.05%2.55%
+Nicaragua 15.63%10.13%
+Panama 8.50%3.00%
+Paraguay 10.90%5.40%
+Peru 8.50%3.00%
+Suriname 10.90%5.40%
+Uruguay 8.88%3.38%
+Venezuela 12.25%6.75%
+Latin America 9.44%3.94%
+Albania 12.25%6.75%
+Armenia 10.23%4.73%
+Azerbaijan 8.88%3.38%
+Belarus 15.63%10.13%
+Bosnia 15.63%10.13%
+Bulgaria 8.50%3.00%
+Croatia 9.63%4.13%
+Czech Republic 6.93%1.43%
+Estonia 6.93%1.43%
+Georgia 10.90%5.40%
+Hungary 9.63%4.13%
+Kazakhstan 8.50%3.00%
+Latvia 8.50%3.00%
+Lithuania 8.05%2.55%
+Macedonia 10.90%5.40%
+Moldova 15.63%10.13%
+Montenegro 10.90%5.40%
+Poland 7.15%1.65%
+Romania 8.88%3.38%
+Russia 8.05%2.55%
+Serbia 10.90%5.40%
+Slovakia 7.15%1.65%
+Slovenia 9.63%4.13%
+Ukraine 15.63%10.13%
+E. Europe & Russia 8.60%3.10%
+Bahrain 8.05%2.55%
+Israel 6.93%1.43%
+Jordan 12.25%6.75%
+Kuwait 6.40%0.90%
+Lebanon 12.25%6.75%
+Oman 6.93%1.43%
+Qatar 6.40%0.90%
+Saudi Arabia 6.70%1.20%
+United Arab Emirates 6.40%0.90%
+Middle East 6.88%1.38%
+Andorra 7.45%1.95%Liechtenstein 5.50%0.00%
+Austria 5.50%0.00%Luxembourg 5.50%0.00%
+Belgium 6.70%1.20%Malta 7.45%1.95%
+Cyprus 22.00%16.50%Netherlands 5.50%0.00%
+Denmark 5.50%0.00%Norway 5.50%0.00%
+Finland 5.50%0.00%Portugal 10.90%5.40%
+France 5.95%0.45%Spain 8.88%3.38%
+Germany 5.50%0.00%Sweden 5.50%0.00%
+Greece 15.63%10.13%Switzerland 5.50%0.00%
+Iceland 8.88%3.38%Turkey 8.88%3.38%
+Ireland 9.63%4.13%United Kingdom 5.95%0.45%
+Italy 8.50%3.00%Western Europe 6.72%1.22%
+Australia 5.50%0.00%
+Cook Islands 12.25%6.75%
+New Zealand 5.50%0.00%
+Australia & NZ 5.50%0.00%
+129
+Estimating ERP for Disney: November 2013
+¨Incorporation: The conventional practice on equity risk premiums is to 
+estimate an ERP based upon where a company is incorporated. Thus, the 
+cost of equity for Disney would be computed based on the US equity risk 
+premium, because it is a US company, and the Brazilian ERP would be 
+used for Vale, because it is a Brazilian company.
+¨Operations: The more sensible practice on equity risk premium is to 
+estimate an ERP based upon where a company operates. For Disney in 
+2013:
+Aswath Damodaran
+Region/ Country Proportion of Disney’ s 
+Revenues ERP
+US& Canada 82.01% 5.50%
+Europe 11.64% 6.72%
+Asia-Pacific 6.02% 7.27%
+Latin America 0.33% 9.44%
+Disney 100.00% 5.76%
+130
+ERP for Companies: November 2013
+Aswath Damodaran
+Company Region/ Country Weight ERP
+Bookscape United States 100% 5.50%
+Vale
+US & Canada 4.90% 5.50%
+Brazil 16.90% 8.50%
+Rest of Latin 
+America 1.70% 10.09%
+China 37.00% 6.94%
+Japan 10.30% 6.70%
+Rest of Asia 8.50% 8.61%
+Europe 17.20% 6.72%
+Rest of World 3.50% 10.06%
+Company 100.00%7.38%
+Tata Motors
+India 23.90% 9.10%
+China 23.60% 6.94%
+UK 11.90% 5.95%
+United States 10.00% 5.50%
+Mainland Europe 11.70% 6.85%
+Rest of World 18.90% 6.98%
+Company 100.00%7.19%
+Baidu China 100% 6.94%
+Deutsche Bank
+Germany 35.93% 5.50%
+North America 24.72% 5.50%
+Rest of Europe 28.67% 7.02%
+Asia-Pacific 10.68% 7.27%
+South America 0.00% 9.44%
+Company 100.00%6.12%
+In November 2013, 
+the mature market 
+premium used was 
+5.5%
+131
+The Anatomy of a Crisis: Implied ERP from 
+September 12, 2008 to January 1, 2009
+Aswath Damodaran
+131
+132
+And in 2020.. COVID effects
+Aswath Damodaran
+132
+133
+An Updated Implied ERP
+Aswath Damodaran
+134
+Implied Premiums in the US: 1960-2021
+Aswath Damodaran
+0.00%
+1.00%
+2.00%
+3.00%
+4.00%
+5.00%
+6.00%
+7.00%
+1960
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Implied Premium
+Year
+Implied Premium for US Equity Market: 1960-2021
+135
+A Composite way of estimating ERP for 
+countries
+Aswath Damodaran
+Blue: Moody’ s Rating
+Red: Added Country Risk
+Green #: Total ERP
+ERP : Jan 2022
+Aswath Damodaran
+137
+Application Test: Estimating a Market Risk 
+Premium
+Aswath Damodaran
+137
+¨For your company, get the geographical breakdown of revenues in 
+the most recent year . Based upon this revenue breakdown and the 
+most recent country risk premiums, estimate the equity risk 
+premium that you would use for your company.
+¨This computation was based entirely on revenues. With your 
+company, what concerns would you have about your estimate 
+being too high or too low?
+138
+Estimating Beta
+Aswath Damodaran
+138
+¨The standard procedure for estimating betas is to regress 
+stock returns (Rj) against market returns (Rm):
+Rj= a + b R m
+where  a is the intercept and b is the slope of the regression. 
+¨The slope of the regression corresponds to the beta of 
+the stock, and measures the riskiness of the stock.
+¨The R squared (R2) of the regression provides an 
+estimate of the proportion of the risk (variance) of a firm 
+that can be attributed to market risk.  The balance (1 -
+R2) can be attributed to firm specific risk.
+139
+Estimating Performance
+Aswath Damodaran
+139
+¨The intercept of the regression provides a simple measure of 
+performance during the period of the regression, relative to 
+the capital asset pricing model. 
+Rj = Rf+ b (Rm-Rf)
+= Rf(1-b) + b Rm ...........Capital Asset Pricing Model
+Rj = a + b Rm ...........Regression Equation
+¨If
+a > Rf(1-b) ....Stock did better than expected during regression period
+a = Rf(1-b) ....Stock did as well as expected during regression period
+a < Rf(1-b) ....Stock did worse than expected during regression period
+¨The difference between the intercept and Rf(1-b) is Jensen's 
+alpha. If it is positive, your stock did perform better than 
+expected during the period of the regression.
+140
+Setting up for the Estimation
+Aswath Damodaran
+140
+¨Decide on an estimation period
+¤Services use periods ranging from 2 to 5 years for the regression
+¤Longer estimation period provides more data, but firms change.
+¤Shorter periods can be affected more easily by significant firm-specific 
+event that occurred during the period 
+¤Decide on a return interval -daily, weekly, monthly
+¤Shorter intervals yield more observations, but suffer from more noise.
+¤Noise is created by stocks not trading and biases all betas towards one.
+¨Estimate returns (including dividends) on stock
+¤Return = (PriceEnd-PriceBeginning+ DividendsPeriod)/ PriceBeginning
+¤Included dividends only in ex-dividend month
+¨Choose a market index, and estimate returns (inclusive of 
+dividends) on the index for each interval for the period.

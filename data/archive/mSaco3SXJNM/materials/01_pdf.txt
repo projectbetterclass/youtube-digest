@@ -1,0 +1,183 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/ZomatoUpdate.pdf
+
+A ZOMATO UPDATE: VALUE, 
+PRICE AND THE GAP
+AnIndia bet reassessed!
+Aswath Damodaran 1
+2
+Setting the table
+Aswath Damodaran
+2
+¨Just about a year ago, I valued Zomato just ahead of its initial public 
+offering and arrived at a value of about₹41 per share. 
+¨The market clearly had a very different view, as the stock 
+premiered at₹74 per share and soared into the stratosphere, 
+peaking at₹169 per share in late 2021. 
+¤The last few months have been rocky, as the price has been marked down, 
+partly in response to disappointing results from the company, and partly 
+because of macro developments. 
+¤At close of trading on July 26, 2022, the stock was trading at₹41.65 per 
+share, and the mood and momentum that worked in its favor for most of 
+2021 had turned against the company. 
+¨In this post, I will begin with a quick review of my 2021 valuation, 
+then move on to the price action in 2021 and 2022 and then 
+update my valuation to reflect the company's current numbers.
+3
+My IPO Valuation
+Aswath Damodaran
+3
+4
+Pushback, and response…
+Aswath Damodaran
+4
+5
+TheZomatoPricingGame
+Aswath Damodaran
+5
+6
+Vindicationornot?
+¨Thoughsome have suggestedthat price dropping to my value 
+is vindication of my valuation, I am not part of that group for 
+three reasons. 
+¤First, it seems skewed to celebrate only your successes and not your 
+failures, and it behooves me to let you know that I also valued Paytm 
+at close to₹2000 per share, and the stock is currently trading at₹713. 
+¤Second, even if nothing in my valuation has changed, the value per 
+share of₹41 per share was as of July 2021, and if it is a fair 
+assessment, the expected intrinsic value per share in July 2022 should 
+be roughly 11.5% higher (i.e., grow at the cost of equity), yielding 
+about₹46in July 2022. 
+¤Finally, the company and the market have changed in the year since I 
+last valued it, and to make a fair judgment today, the company will 
+have to be revalued.
+Aswath Damodaran
+6
+7
+Updating fundamentals: Company good 
+news.. 
+¨On the good news front, the food delivery market in India has continued 
+to grow over the last year, and Zomato has been able to maintain its 
+market share. In fact, there are signs that the market is consolidating with 
+Zomato and Swiggycontrolling 90% of the market share of restaurant 
+deliveries.
+Aswath Damodaran
+8
+And more good news: its liquidity/cash 
+buffer has improved..
+¨In addition, the substantial cash that Zomato raised on 
+its IPO is providing it with a cash and liquidity cushion, 
+with cash and short terminvestments jumping 
+from₹15,000 in March 2021 to₹68746 (including short 
+term investments) in March 2022. 
+¨Since Zomato is a young, money-losing company, and the 
+likelihood of failure acts as a drag on value, this will 
+benefit the company, since it provides not only a cushion 
+for the firm but also eliminates dependence on external 
+capital for the next few years.
+9
+The Bad News
+Aswath Damodaran
+9
+¨On the bad news front, the take rate, i.e., theslice of gross 
+order value (GOV) that Zomato keeps has dropped 
+substantially over the last year, reflecting increased 
+competition in the market, higher delivery costs and Zomato's 
+entry into newer markets (like grocery delivery) with lower 
+revenue sharing. 
+¨In addition, the growth has come in fits and starts, and given 
+Zomato's active acquisition strategy, it is not clear how much 
+of the revenue growth is organic and how much is acquired. 
+¨In addition, the Indian governmentput both Swiggy and 
+Zomato on noticethat they may be facing anti-trust action in 
+the future, perhaps opening the door to more competition.
+10
+And more bad news: Losses are 
+mounting…
+¨While there was a management narrative of economies of scale and 
+improved contribution margins, the end numbers don't back up either 
+contention, withcost of goods sold rising much faster than 
+revenuesandoperating and net margins both becoming more negative 
+over the last year. (And no, you cannot add back stock based
+compensation and come up withan adjusted EBITDA to claim 
+otherwise....)
+Aswath Damodaran
+10
+11
+Still-to-be-decided news…
+¨On the still-to-be-decided front, Zomato has continued ona strategy of 
+acquiring small companiesto advance its growth agenda, and while many 
+of these acquisitions have been small, its most recent conflict-ridden 
+acquisition of Blinkithas raised questions about whether this growth is 
+coming at a reasonable cost. Even if true, the big question is whether an 
+acquisition-driven growth strategy can create value is scalable and value 
+creating.
+¨In addition, Zomato is also building a portfolio of equity positions, which 
+do not show up as part of operating assets, and the founders rationalize 
+this behavior by arguing that these are "thebuilding blocks for a robust 
+quick-commerce business in India, andwill accelerate digitisationand 
+growth of the food and restaurant industry which accelerates our core 
+food business " (from the 2022 Q4 shareholder discussion). Even if we 
+accept this argument for minority holdings, it will add to the complexity in 
+the firm and make investors and traders more wary, especially in periods 
+of uncertainty.
+AswathDamodaran
+11
+12
+The Macro Factors
+Aswath Damodaran
+12
+¨ Inflation returns: Inflation is back in almost every part of the globe, andhas 
+unsettled markets.The effects of inflation show up first ashigher risk freerates, 
+across currencies, and next in higher risk premiums, with bothequity risk 
+premiums and default spreads rising.In a follow-up post a couple of weeks later, I 
+looked inflation's effects on individual companies and argued that less-risky 
+companies with pricing power and high gross margins would be less exposed than 
+riskier, money-losing companies. 
+¨ Risk Capital flees: In apost at the start of this month, I looked at how the retreat 
+of risk capital, i.e., capital invested in the riskiest assets was playing out in higher 
+equity risk premiums in mature markets, and in a later post a few days later ,even 
+bigger increases in equity risk premiums in emerging markets. As a company with 
+the bulk of its business in India, Zomato again is more exposed to these 
+developments.
+¨ Cost of capital up: A higher equity risk premium for India (9.08% in July 2022, 
+compared to 6.85% in July 2021) and a higher riskfree rate in rupees (4.78% in July 
+2022, compared to 4.25% in July 2021) conspire to push up the cost of capital for 
+Zomato (and other Indian companies) by about 1.5-2% from my IPO valuation.
+Aswath Damodaran13
+14
+DealingwithUncertainty:AZomato
+Simulation
+15
+Action Plans: For Investors and Traders!
+Aswath Damodaran
+15
+¨If you are an investor, at its current stock price (₹41.65 on July 
+26), the stock is still at the 70th percentile. That said a few 
+more weeks like the last two will push the price below my 
+median value, and if it does, I would buy Zomato, as part of a 
+diversified portfolio (and not as a stand aloneinvestment)
+¨If you are a trader, you are playing a different game entirely, 
+and Zomato's value is not part of that game. You are gauging 
+mood and momentum, which at the momentare extremely 
+negative for the stock, andtrying to get ahead of a shift back 
+to the positive. To make that judgment, you will be better 
+served poring over charts, looking at price and volume 
+movements, consulting with an astrologer, or even visiting 
+your favored temple, church or mosque.
+16
+In Conclusion
+¨This is not a conspiracy. I know that some of you did buy 
+Zomato shares in their glory days in 2021 and are either 
+continuing to hold, hoping for a come back, or have sold, 
+and are licking your wounds. I am sorry for your loss, but 
+please don't attribute to conspiracies (where insiders, 
+founders and backers play the role of villains) what can 
+be better explained by greed, and its capacity to cloud 
+judgment. 
+¨If you live by momentum, you die by it. Your consolation 
+prize is that you have lots of company in this market 
+(from Cathie Wood at Ark to the thousands of investors 
+who put their money in Bitcoin, NFTs and other cryptos), 
+and this too shall pass!
+Aswath Damodaran
+16

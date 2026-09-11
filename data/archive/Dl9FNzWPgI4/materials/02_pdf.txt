@@ -1,0 +1,78 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session1test.pdf
+
+Session	  1:	  Post	  Class	  tests	  
+1. Which	  of	  the	  following	  decisions	  is	  a	  corporate	  finance	  decision?	  
+a. An	  acquisition	  of	  another	  company	  
+b. A	  change	  in	  pricing	  strategy	  
+c. An	  accounting	  revaluation	  of	  assets	  on	  the	  balance	  sheet	  (with	  no	  tax	  
+implications)	  
+d. A	  decision	  to	  carry	  less	  inventory	  (even	  if	  it	  means	  lost	  sales)	  
+e. Adding	  a	  child	  care	  center	  for	  employee’s	  children	  
+f. All	  of	  the	  above	  
+g. None	  of	  the	  above	  
+2. Corporate	  finance	  is	  built	  around	  the	  “financial”	  balance	  sheet,	  where	  assets	  
+are	  categorized	  into	  assets	  in	  place	  and	  growth	  assets.	  Assume	  that	  you	  are	  
+investing	  in	  a	  company	  that	  derives	  its	  value	  primarily	  from	  growth	  assets.	  
+Given	  the	  description	  of	  growth	  assets	  as	  the	  value	  of	  investments	  that	  you	  
+expect	  the	  firm	  to	  make	  in	  the	  future,	  which	  of	  the	  following	  would	  you	  
+expect	  to	  see	  in	  terms	  of	  the	  rest	  of	  corporate	  finance?	  
+a. The	  firm	  is	  funded	  with	  a	  lot	  of	  debt	  and	  pays	  little	  out	  to	  its	  
+stockholders	  
+b. The	  firm	  is	  funded	  with	  primarily	  equity	  and	  pays	  out	  large	  amounts	  
+to	  its	  stockholders	  
+c. The	  firm	  is	  funded	  with	  primarily	  equity	  and	  pays	  little	  out	  to	  its	  
+stockholders	  
+d. The	  firm	  is	  funded	  with	  a	  lot	  of	  debt	  and	  pays	  out	  large	  amounts	  to	  its	  
+stockholders.	  
+3. In	  the	  big	  picture	  of	  corporate	  finance,	  the	  first	  big	  piece	  is	  the	  investment	  
+decision.	  Which	  of	  the	  following	  best	  characterizes	  that	  decision?	  
+a. Firms	  should	  take	  investments	  that	  make	  them	  more	  profitable	  
+b. Firms	  should	  take	  investments	  that	  generate	  the	  most	  cash	  flows	  
+c. Firms	  should	  take	  investments	  that	  earn	  the	  highest	  returns	  
+d. Firms	  should	  take	  investments	  that	  earn	  returns	  greater	  than	  the	  risk	  
+free	  rate	  
+e. Firms	  should	  take	  investments	  that	  earn	  returns	  greater	  than	  the	  risk	  
+adjusted	  hurdle	  rate	  
+4. In	  the	  big	  picture	  of	  corporate	  finance,	  the	  financing	  principle	  lays	  out	  how	  
+firms	  should	  approach	  raising	  debt.	  If	  you	  follow	  that	  principle,	  which	  of	  the	  
+following	  is	  your	  best	  choice	  to	  borrow?	  
+a. Debt	  with	  the	  lowest	  interest	  rate	  attached	  to	  it	  
+b. The	  longest	  term	  debt	  that	  you	  can	  get	  
+c. The	  shortest	  term	  debt	  that	  you	  can	  get	  
+d. Debt	  in	  the	  your	  local	  currency	  
+e. Debt	  in	  the	  same	  currency	  that	  your	  cash	  flows	  are	  in	  
+5. In	  the	  big	  picture	  of	  corporate	  finance,	  the	  dividend	  principle	  states	  that	  
+firms	  should	  return	  as	  much	  cash	  as	  they	  can	  to	  their	  owners.	  If	  firms	  
+followed	  this	  principle,	  which	  of	  the	  following	  would	  you	  expect	  to	  observe?	  
+a. Firms	  will	  pay	  out	  all	  of	  their	  earnings	  as	  dividends/stock	  buybacks
+b. Firms	  will	  not	  pay	  out	  any	  of	  their	  earnings	  to	  stockholders	  
+c. Firms	  that	  have	  high	  earnings	  and	  low	  growth	  potential	  will	  return	  
+more	  cash	  to	  stockholders.	  
+d. Firms	  that	  have	  high	  earnings	  and	  high	  growth	  potential	  will	  return	  
+more	  cash	  to	  stockholders.	  
+e. None	  of	  the	  above
+Session	  1:	  Post	  class	  test	  (solutions)	  
+1. F.	  	  All	  of	  the	  listed	  are	  corporate	  finance	  decisions,	  since	  they	  all	  
+require	  financial	  resources.	  The	  one	  that	  comes	  closest	  to	  not	  making	  
+it	  is	  the	  accounting	  reevaluation	  because	  it	  really	  is	  cosmetic.	  The	  only	  
+reason	  I	  include	  it	  is	  because	  you	  have	  to	  pay	  the	  accountants	  to	  do	  
+this	  cosmetic	  restatement.	  
+2. c.	  That	  the	  firm	  is	  funded	  with	  primarily	  equity	  and	  pays	  little	  out	  
+to	  its	  stockholders.	  If	  you	  are	  a	  firm	  that	  derives	  your	  value	  from	  
+growth	  assets,	  you	  cannot	  afford	  debt	  (since	  you	  don’t	  have	  much	  in	  
+existing	  assets	  &	  cash	  flows)	  and	  you	  need	  all	  your	  cash	  to	  go	  back	  
+into	  the	  firm	  to	  generate	  future	  growth	  (and	  thus	  cannot	  return	  cash	  
+to	  stockholders).	  
+3. e.	  Firms	  should	  take	  investments	  that	  earn	  returns	  greater	  than	  
+the	  risk	  adjusted	  hurdle	  rate.	  It	  is	  not	  enough	  that	  the	  investments	  
+are	  profitable	  &	  increase	  growth	  or	  that	  they	  earn	  more	  than	  the	  risk	  
+free	  rate.	  The	  projects	  earning	  the	  highest	  returns	  may	  not	  be	  good	  
+enough,	  if	  they	  are	  very	  risky.	  
+4. e.	  Debt	  in	  the	  same	  currency	  that	  your	  cash	  flows	  are	  in.	  Using	  the	  
+cheapest	  debt,	  the	  longest	  term	  debt	  or	  the	  shortest	  term	  debt	  may	  
+not	  make	  sense	  if	  the	  debt	  is	  not	  matched	  	  up	  to	  the	  cash	  flows	  on	  the	  
+assets.	  Mismatching	  debt	  to	  assets	  increases	  default	  risk.	  
+5. c.	  Firms	  that	  have	  high	  earnings	  and	  low	  growth	  potential	  will	  return	  
+more	  cash	  to	  stockholders.	  It	  is	  a	  combination	  of	  having	  lots	  of	  
+earnings	  (cash	  flows)	  and	  not	  that	  much	  to	  invest	  those	  cash	  flows	  in	  
+that	  creates	  the	  opportunity	  to	  return	  more	  cash.
