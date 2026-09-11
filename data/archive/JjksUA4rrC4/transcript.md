@@ -1,0 +1,5 @@
+# How To Make People Believe You
+
+<https://www.youtube.com/shorts/JjksUA4rrC4>
+
+If you're ever going to say that you're good at something [music] and you want people to believe you because sometimes you don't have somebody else who can gas you up. You kind of have to let people down. List the things that you're bad at first, right? And then they'll actually believe the thing [music] that you say you're good at. So, for example, if I say like, "Hey, you know, I don't shower as much as I should. You know, I've got a bum hip. Uh I eat more dessert than most people would consider, you [music] know, healthy. I waited longer to have kids than I probably should have. Uh but over the years, I learned to make ads that sell better than most people." the likelihood they believe the last statement is significantly higher if you say things that are true and damaging beforehand. Um, I can't tell you how incredibly powerful this is in copy for persuasion. If you're going to make a claim, you don't just make the claim and have proof. That's good, [music] too. But you become more relatable and likable by also saying all the things that you're not good at as
