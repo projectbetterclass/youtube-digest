@@ -1,0 +1,5 @@
+# Going From $2M to $100M in 13 Months Is Shooting Yourself in the Foot
+
+<https://www.youtube.com/shorts/jH2ZT1mTHBU>
+
+We'll do $2 million this year and I'd like to do $100 million by 2025 >> by 2025. >> $100 million >> from two from two. Okay. I mean, hey, no, it's all good. It's all good. >> By the end of 2025 at the by the end of 2025. Um I'm shocked by the lack of capital. >> Okay. Um man, the thing that threw me was the 100 million thing. Um just and I and I want to be I want to be clear like I'm all for for thinking big. I don't know of a single business in your space that's gone from two to 100 in 13 months. The reason I bring this up is because sometimes you can shoot yourself in the foot for a decade because you're trying to go from two to 100 in 12 months. And every strategy that you try and go from two to 100 fails because you want to do it in 12 months. But if you did it in 10 years, you'd for sure hit it. Because if I said you can get to 100 million in 10 years, would you want to do it? >> Sure. >> Yeah. But then I think we find it.
