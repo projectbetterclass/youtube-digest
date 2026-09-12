@@ -1,0 +1,5 @@
+# How the "Skilled Money" Picks Stocks
+
+<https://www.youtube.com/shorts/MF5CZt2PgHs>
+
+He was running a live poll asking his audience where they would sell Google. And And people picked their spots. Then he went ahead and told them that Berkshire Hathaway had just nearly doubled its stake that it already owned. Enough to make Alphabet one of the three biggest [music] things that Berkshire owns. And then he was very smart because then he asked whether that changed their answer. And [music] everybody said yes. >> So your rules no longer matter. Now it becomes about the new set and the noise and what other people are doing. You see the danger in this? The danger in not being 100% confident. I couldn't give a hoot about who bought Google. I have an exit [music] on this and when we break through it I'll sell it. You have to have that automation set up and not change your mind because someone's talking about it on CNBC. >> The whole reason that he ran that poll was to show his audience how fast a headline can talk you out of your own rule.
