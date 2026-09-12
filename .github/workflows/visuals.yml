@@ -1,0 +1,61 @@
+name: On-screen Visuals (self-hosted)
+
+# Phase 2 — captures slides/charts from opted-in channels (`visual: true`).
+# Runs on the SELF-HOSTED (home) runner so video downloads use the home IP and stay
+# off the metered residential proxy. The cloud digest is independent and keeps running
+# whether or not this PC is on. This job writes ONLY data/archive/**/visuals.md and
+# data/visuals_state.json, so it never conflicts with the digest's commits.
+
+on:
+  schedule:
+    # Twice a day, offset from the digest (06/14/22 UTC). Only runs when the PC's
+    # runner is online; otherwise the run is skipped/superseded (see concurrency).
+    - cron: "0 3,17 * * *"
+  workflow_dispatch:
+    inputs:
+      budget:
+        description: "Max videos to process this run (blank = config default)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-visuals
+  cancel-in-progress: true  # keep at most one queued/running so offline runs don't pile up
+
+jobs:
+  visuals:
+    runs-on: [self-hosted, windows]
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up venv + dependencies
+        shell: powershell
+        run: |
+          if (-not (Test-Path .venv)) { py -3.12 -m venv .venv }
+          .\.venv\Scripts\python -m pip install --upgrade pip
+          .\.venv\Scripts\python -m pip install -r requirements.txt
+
+      - name: Capture visuals
+        shell: powershell
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          $b = "${{ github.event.inputs.budget }}"
+          if ($b) { .\.venv\Scripts\python scripts/run_visuals.py --budget $b }
+          else    { .\.venv\Scripts\python scripts/run_visuals.py }
+
+      - name: Commit visuals
+        shell: powershell
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- data/archive data/visuals_state.json
+          $staged = git diff --cached --name-only
+          if (-not $staged) { Write-Host "No visuals to commit."; exit 0 }
+          git commit -m "visuals: update $(Get-Date -UFormat %Y-%m-%d)"
+          git pull --rebase
+          git push

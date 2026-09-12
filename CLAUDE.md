@@ -2,8 +2,9 @@
 
 This repo is two things:
 1. **A tool** (`src/ytdigest/`) that summarizes new YouTube videos into a daily digest.
-2. **A growing knowledge library** of what those videos say — full transcripts and
-   extracted slide/PDF text under `data/archive/<video_id>/`.
+2. **A growing knowledge library** of what those videos say — full transcripts,
+   extracted slide/PDF text, and (for chart-heavy channels) on-screen slides/charts
+   read by Claude vision, all under `data/archive/<video_id>/`.
 
 ---
 
@@ -23,10 +24,10 @@ so cloud IPs aren't blocked. Secrets needed: `ANTHROPIC_API_KEY`, `WEBSHARE_PROX
 - **ETA:** ~3 days at current pace (100/run × 3 runs/day)
 - Queue file: `data/backfill_queue/UCLvnJL8htRR1T9cbSccaoVw.json`
 
-### Phase 2 — on-screen visual capture (in progress, not merged)
-Branch: `phase2-visuals` (one commit ahead of main).
+### Phase 2 — on-screen visual capture (merged; runs on the self-hosted runner)
+Merged to `main` (was branch `phase2-visuals`, PR #18).
 
-What's built:
+What it does:
 - `src/ytdigest/visuals.py` — downloads video (480p, no proxy), samples frames at ~1fps,
   deduplicates with perceptual hash, scores by "slide prior" (flat fill + straight lines),
   sends top candidates to Claude vision to classify and transcribe on-screen text
@@ -37,7 +38,10 @@ What's built:
 - Opted-in channels: Ticker Symbol: YOU, David Carbutt (Aswath excluded — his slides are PDFs)
 - Output: `data/archive/<video_id>/visuals.md` alongside the transcript
 
-Status: built but not yet merged or deployed. Still being discussed/refined with the user.
+Status: merged and deployed. The `visuals.yml` workflow runs on the self-hosted runner
+(schedule + manual dispatch), so visuals only advance while the PC's runner is online;
+the cloud digest is independent. It keeps its own ledger `data/visuals_state.json` and
+writes only `visuals.md`, so it never conflicts with the digest's commits.
 
 ---
 
@@ -48,17 +52,23 @@ treat `data/archive/` as the knowledge base and answer from it:
 
 1. **Read `data/archive/INDEX.md` first** — it lists every archived video (channel,
    title, link, date, one-line takeaway). Use it to pick which videos are relevant.
-2. **Search the transcripts:** `Grep` across `data/archive/**/transcript.md` (and
-   `data/archive/**/materials/*.txt`) for the concepts in the question — try several
+2. **Search the transcripts:** `Grep` across `data/archive/**/transcript.md` (plus
+   `data/archive/**/materials/*.txt` for slide/PDF text and `data/archive/**/visuals.md`
+   for on-screen slides/charts) for the concepts in the question — try several
    phrasings, since wording in the transcript may differ from the question.
-3. **Read the most relevant transcripts/materials** and synthesize a **concrete,
+3. **Read the most relevant transcripts/materials/visuals** and synthesize a **concrete,
    specific** answer. Favor actionable detail (numbers, steps, named tactics) over
-   generalities.
+   generalities. `visuals.md` holds figures the narration often skips (chart values,
+   labeled diagrams) — use it for the numbers, but note its text is vision-read and may
+   contain OCR errors.
 4. **Cite every claim** as `[Channel — Video Title](youtube-url)`, using the links in
    INDEX.md. If creators disagree, say so and attribute each view.
 5. **Be honest about coverage:** say when the library has little on the topic. Answers
-   are based on transcripts + linked slide/PDF text. Phase 2 (on-screen visual capture)
-   is built but not yet merged — visuals.md files don't exist yet in the archive.
+   are based on transcripts + linked slide/PDF text, plus on-screen slides/charts for
+   the chart-heavy channels opted in to visual capture (`visual: true`). Channels
+   without it have **no** on-screen visuals captured — say so rather than guessing what
+   was shown. Visual capture only runs when the self-hosted PC runner is online, so a
+   just-uploaded video on an opted-in channel may not have its `visuals.md` yet.
 6. **Stay critical — don't just parrot the creators.** These are opinionated YouTubers,
    not peer-reviewed sources. Distinguish claims stated as certainty from opinion or
    prediction; note when a creator may be selling something, sponsored, or talking their
@@ -81,6 +91,6 @@ Key files:
 - `config/watchlist.yml` — channels, backfill targets, settings
 - `src/ytdigest/pipeline.py` — main per-video processing pipeline
 - `src/ytdigest/summarize.py` — Claude API calls for briefs
-- `src/ytdigest/visuals.py` — Phase 2 visual capture (phase2-visuals branch)
+- `src/ytdigest/visuals.py` — Phase 2 on-screen visual capture
 - `.github/workflows/digest.yml` — cloud runner workflow
-- `.github/workflows/visuals.yml` — self-hosted visual capture workflow (phase2-visuals branch)
+- `.github/workflows/visuals.yml` — self-hosted visual capture workflow

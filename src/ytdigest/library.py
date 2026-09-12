@@ -41,6 +41,7 @@ def record_from_brief(brief: Brief) -> dict:
     v = brief.video
     return {
         "channel": v.channel_name,
+        "channel_id": v.channel_id,  # lets Phase 2 match opted-in channels reliably
         "title": v.title,
         "url": v.url,
         "published": v.published.isoformat() if v.published else None,
@@ -53,7 +54,14 @@ def record_from_brief(brief: Brief) -> dict:
 
 
 def add_brief(library: dict, brief: Brief) -> None:
-    library.setdefault("videos", {})[brief.video.video_id] = record_from_brief(brief)
+    """Insert/update a video's record, preserving Phase 2 visual fields across re-runs."""
+    videos = library.setdefault("videos", {})
+    prev = videos.get(brief.video.video_id, {})
+    rec = record_from_brief(brief)
+    for k in ("has_visuals", "visuals_path"):  # written later by the visuals job
+        if k in prev:
+            rec[k] = prev[k]
+    videos[brief.video.video_id] = rec
 
 
 def _cell(text: str) -> str:
@@ -61,7 +69,21 @@ def _cell(text: str) -> str:
     return (text or "").replace("\n", " ").replace("|", "\\|").strip()
 
 
-def render_index(library: dict) -> str:
+def _has_visuals(vid: str, rec: dict, archive_dir: Path | None) -> bool:
+    """Whether to show a visuals link: recorded flag, or a visuals.md present on disk.
+
+    Disk detection lets the (cloud) digest surface visuals produced by the separate
+    self-hosted visuals job without the two jobs ever writing the same files.
+    """
+    if rec.get("has_visuals"):
+        return True
+    if archive_dir is not None:
+        p = archive_dir / vid / "visuals.md"
+        return p.exists() and p.stat().st_size > 0
+    return False
+
+
+def render_index(library: dict, archive_dir: Path | None = None) -> str:
     videos = library.get("videos", {})
     epoch = ""  # unknown dates sort last
 
@@ -77,7 +99,7 @@ def render_index(library: dict) -> str:
         "asking questions about the content — see the repo `CLAUDE.md` for how to answer.",
         "Each transcript link points to the full text under this folder.",
         "",
-        "| Date | Channel | Video | Verdict | Takeaway | Transcript |",
+        "| Date | Channel | Video | Verdict | Takeaway | Sources |",
         "|---|---|---|---|---|---|",
     ]
     for vid, r in rows:
@@ -88,8 +110,11 @@ def render_index(library: dict) -> str:
         verdict = _cell(r.get("verdict", "") or "—")
         takeaway = _cell(r.get("takeaway", "") or "—")
         video_cell = f"[{title}]({url})" if url else title
+        sources = f"[transcript]({vid}/transcript.md)"
+        if _has_visuals(vid, r, archive_dir):
+            sources += f" · [visuals]({vid}/visuals.md)"
         out.append(
-            f"| {date} | {channel} | {video_cell} | {verdict} | {takeaway} | [transcript]({vid}/transcript.md) |"
+            f"| {date} | {channel} | {video_cell} | {verdict} | {takeaway} | {sources} |"
         )
     out.append("")
     return "\n".join(out)
@@ -98,6 +123,8 @@ def render_index(library: dict) -> str:
 def write_index(index_path: Path | str, library: dict) -> Path:
     index_path = Path(index_path)
     index_path.parent.mkdir(parents=True, exist_ok=True)
+    # The index lives at data/archive/INDEX.md, so its parent is the archive dir — pass it
+    # so visuals links appear for any video that has a visuals.md on disk.
     with open(index_path, "w", encoding="utf-8") as fh:
-        fh.write(render_index(library))
+        fh.write(render_index(library, archive_dir=index_path.parent))
     return index_path

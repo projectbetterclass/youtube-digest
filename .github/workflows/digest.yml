@@ -48,5 +48,8 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "digest: update $(date -u +%Y-%m-%d)"
+            # The self-hosted visuals job is a second writer to main; rebase our commit
+            # on top of anything it pushed (disjoint files, so this is always clean).
+            git pull --rebase
             git push
           fi
