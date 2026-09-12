@@ -11,8 +11,10 @@ without watching them end to end. For each new upload the tool:
 It runs as a scheduled **GitHub Action on GitHub's cloud runners**, routing transcript
 fetches through a residential proxy so cloud IPs aren't blocked by YouTube.
 
-> This is **Phase 1** (transcript + linked materials). Phase 2 (on-screen visual
-> capture for slide-heavy videos) is intentionally not built yet.
+> **Phase 1** (transcript + linked materials) and **Phase 2** (on-screen slide/chart
+> capture for opted-in channels) are both live. The daily digest runs in the cloud;
+> Phase 2's visual capture runs on a self-hosted runner — see
+> [On-screen visuals](#on-screen-visuals-phase-2).
 
 ---
 
@@ -23,7 +25,8 @@ fetches through a residential proxy so cloud IPs aren't blocked by YouTube.
 | The notification / brief you read | the **GitHub Issue** opened each run |
 | Archive of all briefs | `digests/YYYY-MM-DD.md` |
 | Raw transcripts + extracted slide text | `data/archive/<video_id>/` (linked from each brief) |
-| What's already been processed | `data/state.json` |
+| On-screen slides/charts (opted-in channels) | `data/archive/<video_id>/visuals.md` |
+| What's already been processed | `data/state.json` (digest) · `data/visuals_state.json` (visuals) |
 
 ---
 
@@ -90,9 +93,10 @@ transcripts, and answers with **citations** to the specific creators/videos. The
 [`CLAUDE.md`](CLAUDE.md) file primes it to do this and to cite sources.
 
 - Build/refresh the index without waiting for a run: `python scripts/build_index.py`.
-- Scope: answers draw on transcripts + linked slide/PDF text, **not** on-screen visuals
-  (that's Phase 2). Retrieval is Claude Code's built-in search — plenty until the
-  library gets very large, at which point an index/embeddings step can be added.
+- Scope: answers draw on transcripts + linked slide/PDF text, plus on-screen slides/charts
+  for channels opted in to [visual capture](#on-screen-visuals-phase-2). Retrieval is Claude
+  Code's built-in search — plenty until the library gets very large, at which point an
+  index/embeddings step can be added.
 
 ## Import a channel's back-catalog
 
@@ -112,11 +116,10 @@ It runs as a **slow auto-drip**: each daily run imports up to `backfill_budget_p
 reuses `state.json`, so it never re-imports and self-terminates. Enumeration uses `yt-dlp`
 (metadata only — no video downloads).
 
-**Reality check:** the binding constraint is YouTube's per-IP transcript rate limit
-(you're not using a proxy), so deep backfills across many channels drip in over
-**weeks**, not hours — a block just defers and resumes next run. Raise
-`backfill_budget_per_run` to push harder (more block risk), or add a residential proxy
-(see below) to go much faster.
+**Reality check:** even through the residential proxy, YouTube still rate-limits
+transcript fetches, so a block just defers that video and resumes on the next run.
+Raise `backfill_budget_per_run` to push harder, and keep half an eye on the proxy's
+monthly bandwidth during heavy backfills.
 
 **Per-channel extras:**
 - `materials: true` — also download that channel's linked slide/PDF decks during
@@ -126,6 +129,46 @@ reuses `state.json`, so it never re-imports and self-terminates. Enumeration use
   uploads deep to find the rest. After setting these, run
   `python scripts/prepare_backfill.py` to build the filtered queue at
   `data/backfill_queue/<channel_id>.json`.
+
+## On-screen visuals (Phase 2)
+
+For **chart-heavy channels**, the tool can read the **slides, charts, and diagrams shown
+on screen** — the figures the narration often glosses over — into a
+`data/archive/<video_id>/visuals.md` next to the transcript. Opt a channel in with
+`visual: true`:
+
+```yaml
+  - name: "Ticker Symbol: YOU"
+    channel_id: UC7kCeZ53sli_9XwuQeFxLqw
+    visual: true        # capture on-screen slides/charts for this channel
+```
+
+How it works: it downloads the video (≤480p, video-only), samples ~1 frame/second, keeps
+the scene changes, de-duplicates near-identical frames, ranks them by a "slide prior"
+(flat fills + straight lines, which charts have and b-roll doesn't), and sends the top
+candidates to **Claude vision**, which decides which are real slides and transcribes the
+on-screen text/numbers.
+
+**This runs on a self-hosted runner (your PC), not the cloud** — video downloads are
+bandwidth-heavy, so they use your home connection and stay off the metered proxy. That
+means:
+
+- The **daily digest is unaffected** and keeps running in the cloud regardless.
+- Visual capture only **advances while your PC's runner is online** — it processes a few
+  videos per run (`visual_budget_per_run`, default 6), newest-first across opted-in
+  channels, and picks up where it left off.
+- It's fully decoupled from the digest: its own ledger (`data/visuals_state.json`) and it
+  only writes `visuals.md`, so the two jobs never collide. The library index links a
+  video's visuals once its `visuals.md` exists.
+
+Run it from the **Actions** tab → *On-screen Visuals (self-hosted)* → *Run workflow*
+(optionally set a `budget`), or let it run on its schedule. Requires a
+[self-hosted runner](https://docs.github.com/en/actions/hosting-your-own-runners) with the
+`self-hosted` + `windows` labels; it builds its own Python venv (OpenCV, etc.).
+
+> Slide-heavy creators who **post their decks as PDFs** (e.g. Aswath Damodaran) don't need
+> this — set `materials: true` instead and the linked PDFs are downloaded and extracted
+> during backfill, no video download required.
 
 ## Reality-check lens
 
@@ -155,6 +198,9 @@ Add a channel by pasting a `- name: / channel_id:` block. To find a `channel_id`
 ```bash
 python scripts/resolve_channel.py https://www.youtube.com/@3blue1brown
 ```
+
+Per-channel options: `backfill: N` (import past videos), `materials: true` (download linked
+slide/PDF decks), and `visual: true` (capture on-screen slides — see the sections above).
 
 The daily schedule and secrets live in the workflow:
 - **Schedule:** [`.github/workflows/digest.yml`](.github/workflows/digest.yml) —
