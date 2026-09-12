@@ -1,0 +1,97 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/CountryRisk2023.pdf
+
+Country Risk: A 2023 Update
+Frying pans and Fires…
+Aswath Damodaran
+An Annual Ritual on Country Risk
+•For the last decade, I have looked at country risk, in all its 
+dimensions, towards the middle of each year for many reasons. 
+•One is curiosity, as political and economic crises roll through regions of the 
+world, roiling long-held beliefs about safe and risky countries. 
+•The other is pragmatic, since it is almost impossible to value a company or 
+business today without a clear sense of how risk exposure varies across the 
+world, since for many companies, either the inputs or output are often in 
+foreign markets. 
+•Since country risk is multidimensional and dynamic, my annual 
+country risk update runs to more than a hundred pages, but I will try 
+to summarize what the last year has brought in this post.
+Drivers of Country Risk
+1. Democracy, in degrees…
+2. Violence and its Consequences
+3. Corruption, an implicit tax
+4. Legal Protection or its Absence!
+MeasuringCountryRisk
+•Default Risk: Countries can default on their borrowings, and default 
+risk looks at that likelihood.
+•SovereignRatings: Moody’s, S&P and Fitch (among others) rate countries on 
+both local and foreign currency debt.
+•Sovereign CDS spreads: This is a market-based estimate of how much it will 
+cost you to buy insuranceagainstsovereigndefault on an annual basis.
+•Composite Risk Scores: There are services like PRS, the Economist 
+and the World Bank that measure country risk on many dimensions 
+and with a score.
+•Pluses: Bring in risks that may not be captured in default
+•Minuses:Nostandardization, Subjective, Difficult to compare across 
+countries
+•Equity/Ownership Risk: Should be greater than default risk, since 
+equity investors are last in line, behind lenders.
+AswathDamodaran
+1A. Sovereign Ratings
+Aswath Damodaran
+A History of Sovereign Default
+Aswath Damodaran
+1B. Sovereign CDS Spreads
+2. Country Risk Scores
+Aswath Damodaran
+3. Equity Risk Premiums: My Approach
+Blue: Moody’ s Rating
+Red: Added Country Risk
+Green #: Total ERP
+ERP : July 2023
+Regional numbers are GDP-weighted averages
+CaveatsandQuestions
+•Iamnotacountryriskresearcher,andItrynottoletmypersonalviewsalterthe
+numbersthatemergefromtheanalysis,sincethatwouldopenthedoortomy
+biases.Iwillusethreecountriesinthelatestupdatetoillustratemypoint:
+1.Saudi Arabia: As I noted earlier, using default spreads as my starting point can result in understating 
+the risk premium for countries like Saudi Arabia, which score low on default risk but high on other 
+risks.
+2.Libya: As indicated in the last section, the equity risk premium for Libya, an unrated country, is 
+entirely based upon the country risk score from PRS. That country risk score is surprisingly high 
+(indicating low risk)and it results in an equity risk premium that is low, relative to other countries 
+in the region.
+3.China: In the aftermath of a Beijing crackdown on Chinese tech giants and talk of a trade war 
+between China and the US, the perception seems to be that China has become a riskier place to 
+invest. That may or may not be true, but looking at how Chinese equities are priced, trading still at 
+some of the highest multiples of earnings in the world, investors in equity markets don't seem to 
+share that view (yet).
+•With all three of these countries, I have chosen not to change the numbers that 
+resulted from my analysis, lest I be accused of bias, but if you have strong views 
+on these countries or others, nothing is stopping you from replacing my numbers 
+with yours.
+Company Hurdle Rates: The Currency 
+Question
+•CurrencyChoice:Eachcurrencybringsitsownexpectationsofinflation,withhigher
+inflationcurrenciesleadingtohighergrowthratesforcashflowsandhigherdiscountrates.
+•CurrencyRisk:Whileanalystsareoftentemptedtotrytoadjustdiscountratesforcurrency
+risk,cautioniscalledfor:
+•Totheextentthatcurrencyriskaddstotheoperatingriskofacompany,itis,inmyview,already
+embeddedintheequityriskpremiumsthatIhavecomputedinthelastsection.
+•Theotherreasontotreadlightlywithcurrencyriskisthatforinvestorswithglobalportfolios,it
+becomesdiversifiablerisk,assomecompaniesbenefitasacurrencystrengthensorweakenedmorethanexpectedandothercompaniesloseforthesamereason.
+Company Exposure to Country Risk
+Aswath Damodaran
+Conclusion
+•Work in progress:I do hope that you get a chance to read the paper 
+or at least review my country risk measures in this post, since there is 
+significant room for improvement. 
+•I don't have all the answers, and I probably never will, but progress is 
+incremental.
+•Each year, I hope that I can add a tweak or a component that will move me in 
+the right direction.
+•It is not personal: Please don’ttakeanyofthesenumberspersonally.
+If you feelthatIhave overestimated therisk in your country and 
+given it an equity risk premium that you believe is undeservedly high, 
+it is not because I do not like you or have bad feelings about your 
+country. It is entirely Moody’s fault for giving your country too low a 
+rating, and you should take it up with them.

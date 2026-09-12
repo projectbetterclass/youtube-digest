@@ -1,0 +1,134 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate4for2023.pdf
+
+DATA UPDATE 4 FOR 2023: 
+COUNTRY RISK
+Globalization’s dark side!
+1
+2
+A confession…
+¨ I describe myself as a dabbler, and it does get in the way of my best laid plans. 
+A few weeks ago, I postedmy first data updatepulling together what I had 
+learned from looking at the data in 2023, andpromised many more on the 
+topic. 
+¨ In the month since, I have added two more posts,one on US equitiesand one 
+on interest rates, but my attention has been drawn away by other interesting 
+stories. 
+¤ Thus, I tooka detour to value Tesla, around the time of their most recent earnings report on 
+January 26, and addeda second post to respond to the pushbackthat I got. 
+¤ About a week and a half ago, just as I was getting ready to get started on my fourth data 
+update, Igot distracted again, this time by a story of a short seller (Hindenburg) targeting one 
+of India's most visible companies (Adani Group) 
+¤ Whether you think Hindenburg's short selling thesis against the Adani Group has legs, it is 
+undeniable that the fate and value of this family group's companies is intertwined with the 
+India story. A strongly growing India needs massive investments in infrastructure to succeed, 
+and the Adani Group seemed uniquely qualified because of its perceived capacity to deliver on 
+its promises, as well as its political connections.
+¨2
+3
+Country Risk: The Foundations
+3
+¨Thereis risk in investing inevery country in the world, 
+with the differences being one of degree. 
+¤Thus, you would be making a mistake, if you assume that this 
+discussion only applies if you are investing in India, Brazil or 
+Belarus, and that it does not, if your investing is in theUnited 
+States, Germany or Australia. 
+¤Thedeveloped/emerging market divide was created for 
+convenience, and while it sometimes has consequential effects, 
+as is sometimes the case when a company is reclassified as 
+developed from emerging, or vice versa, much of what I will say 
+about how governments, legal systems and regulatory 
+frameworks can affect corporate value applies to all countries.
+4
+CountryRisk:Determinants
+4
+5
+A Country Life Cycle…
+¨5
+6
+History of Sovereign Default: Geography
+¨6
+7
+History of Default Risk: Currency
+¨7
+8
+Riskfree Rates in Currencies
+8
+9
+Sovereign Ratings
+9
+¨Theratingsagenciesthatratecorporatedefaultwithratingshave
+alsohadalonghistoryofassessingsovereigndefaultrisk,with
+ratings,withthenumbersofcountriesratedincreasingdramatically
+overtime,withthenumberofcountriesratedbyMoody's(S&)
+increasingfrom33(35)in1990to152(131)atthestartof2023.
+¨Sovereign ratings, likecorporateratings, range from Aaa(AAA) in 
+Moody's (S&P's) scale, to D (in default, with a couple of differences 
+in how you read the ratings:
+o Whileeachcompanygenerallygetsonerating,countriesareusually
+assignedtworatings,oneforlocalcurrencyborrowingandoneforforeign
+currencyborrowing.
+o Thefundamentalsthatfeedcorporateratingscomeprimarilyfromits
+financialdisclosures,thoughqualitativefactorsplayarole.Sovereign
+ratingsstartwithquantitativemeasuresofacountry'seconomicstanding,
+buttherearefarmorenon-financialforcesthatseemtocomeintoplay.
+10
+Sovereign Ratings in January 2023
+10
+11
+Sovereign CDS Spreads
+¨The sovereign CDS market, a relatively recent 
+entrant into the sovereign default risk game, has for 
+the last two decades offered investors a market 
+where they can buy insurance against default risk by 
+sovereigns.
+¨Bydoing so, provided a constantly updated, albeit 
+noisy, measure of the default spreads of countries. 
+¤In January 2023, there were 76 countries with sovereign 
+CDS spreads available on the market.
+11
+12
+13
+Composite Country Risk
+13
+¨While default risk measures are widely available and used, 
+they can be rightly challenged as taking toonarrow a view of 
+risk. After all, there are countries that score low on the 
+default risk dimension but are exposed to political and 
+economic risks that are considerable, as is the case with much 
+of the oil-rich countries of the Middle East. 
+¨There are no easy remedies for this problem, but there are 
+services that generate country risk scores that bring in 
+multiple measures of risk. 
+¨While the Economist, the World Bank and private services 
+provide country risk scores, I will stay with Political Risk 
+Services, a data service I have used for a long time, more 
+because of my familiarity with it than for any perceived 
+superiority in how it measures risk.
+14
+15
+Equity Risk: From default spreads to equity 
+risk premiums
+¨15
+16
+17
+Company Risk Exposure to Country Risk
+¨17
+18
+The End Game for Government
+¨18
+¨IknowthatIamgoingagainstthecurrentpoliticaltrend,butIbelieve
+thattheendgameforagoodgovernmentisanalogoustothatofagood
+founder,andthatis,onceithasprovidedthestructureandthebasisfor
+growthandprosperity,tomakeitselflesscentraltotheeconomy,not
+moreso.
+¨Notethatwhilethismayseemlikethelibertarianposition,thereare
+significantdifferences.
+¤Idobelievethatitisagovernment'sroletocraftlawsandregulationsthat
+minimizetheexternalitiesthatbusinessescreate
+¤Thoselaws/regulationsshouldbefewinnumberandchanges,whentheyhappen,
+shouldbereasonedandinfrequentandenforcementshouldbefairandtimely.
+¨Thereisnothingmoreunsettlingthanbeingabusinessperson,consumer
+orcitizeninasetting,whereyouarefacedanavalancheofrules,
+sometimescontradictory,thatareconstantlychanging,andenforced
+inconsistently.

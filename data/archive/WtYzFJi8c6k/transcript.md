@@ -1,0 +1,5 @@
+# How Trump Is Redrawing The Canadian Border
+
+<https://www.youtube.com/shorts/WtYzFJi8c6k>
+
+I did not think that I was going to find out that we were maybe going to invade Canada and Greenland and Venezuela. >> Why not? >> I just it seems so int. It's so absurd and and and and this would be it would be invasion. >> I'd agree with you. >> Well, I'm not I'm not again the probabilities here. So, let's be clear. I'm not saying this is 70% likely. So, I deal in the world of probabilities. But if we're talking about where there is a world where this is even a 20% probability, this changes everything. The idea then if it's even 20% likely and notice what's happening with Carney. Notice what's happening with the leaders. I don't think Carney believes it's 80% likely. But if you watch his speech, listen to his speech in Munich this year, he certainly thinks this is there's something on the horizon. And President Trump has been talking directly to him about moving the border with Canada and the treaty and abandoning the 1908 treaty with Canada.

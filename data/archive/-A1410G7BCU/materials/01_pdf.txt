@@ -1,0 +1,135 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate4for2022.pdf
+
+DATA UPDATE 4 FOR 2022: RISK 
+AND HURDLE RATES!
+Risk=Danger+Opportunity
+2
+A reminder on risk, in case you needed it…
+Aswath Damodaran
+2
+¨In the first few weeks of 2022, we have had repeated 
+reminders from the market that risk never goes away for 
+good, even in the most uplifting markets, and that when 
+it returns, investors still seem to be surprised that it is 
+still there. 
+¨Investors all talk about risk, but there seems to be little 
+consensus on what it is, how it should be measured and 
+how it plays out in the short and long term. 
+¨In this post, I will start with a working definition of risk 
+that we can get some degree of agreement about, and 
+then look at measures of risk, both at the company and 
+country level,andconverting those measures into 
+“hurdle rates” .
+3
+An Ages-old Definition of Risk
+Aswath Damodaran
+3
+¨In the four decades that I have been teaching finance, I have 
+always introduced my discussion of risk with a Chinese 
+symbols for crisis, as a combination of danger plus 
+opportunity:
+¨Over the four decades, though, I have been corrected dozens 
+of times on how the symbols should be written, with each 
+correction being challenged by a new reader. That said, 
+though, thinking about risk as a combination of danger and 
+opportunity is both healthy and all encompassing
+4
+Implications for risk taking…
+Aswath Damodaran
+4
+¨ Opportunity, without danger, is a delusion: If you seek out high returns (great opportunities), you have tobe 
+willing to live with risk (great danger). 
+¨ Danger, without opportunity, is foolhardy: In investing, taking on risk without an expectation of a reward is a road 
+to disaster . If you are investing in a risky project or investment, your expected return should be higher to reflect 
+that risk, even though fate may deliver actual returns that are worse than expected. 
+¨ It is uncertainty aboutoutcomes, not expected outcomes,that comprise risk: In investing, we often make the 
+mistake of assuming that risk comes from bad outcomes, when it is uncertainty about this expectation that drives 
+risk. 
+¤ It is not high inflation that is risk, butuncertainty about that inflation.
+¤ If a firm is badly managed, and you expect it to remain badly managed, you can and should build in that expectation into your 
+forecasts of that company's earnings and value. Thus, a badly managed firm, where you expect the management to continue to 
+remain in that state, will be less risky than a well managed firm, where there is much more uncertainty about management 
+turnover and actions.
+¨ Risk is in the future, not the past: Risk is always about the future, since the past has already revealed its secrets. 
+That said, many of our perspectives about and measures of risk come from looking backwards, using the 
+variability and outcomes of past data as an indicator of risk in the future. 
+¨ Upside versus Downside Risk: If risk comes from actual outcomes being different from expectations, it is worth 
+noting that those outcomes can come in better than expected (upside) or worse than expected. Since the entire 
+basis of investing in risky assets is to benefit from the upside, it is downside risk that worries us, and in keeping 
+with this perspective, there have tobeen attempts to derive risk measures that focus only on or more on 
+downside risk.
+5
+Finance’s Risk Perspective
+Aswath Damodaran
+5
+¨As someone who works in, and teaches finance, I am 
+grateful for what the discipline has done to advance 
+the study of risk, but I would be remiss if I did not 
+point out that it has come with some not-so-
+desirable side effects. 
+¤One is the tunnel vision that comes from thinking of risk 
+purely in terms of statistical measures, with standard 
+deviation and variance leading the way. 
+¤The other is the dangerous notion that measuring risk is 
+the same as managing that risk and, in some cases, the 
+even more insane view that it removes that risk.
+6
+Risk: In many forms…
+7
+And across the life cycle…
+8
+From risktohurdlerates, for equity 
+investors…
+¨To get from these general risk categories into explicit risk measures and 
+required returns, Iadopt a simplestructure (perhaps even simplistic), 
+where I accept that I am a price taker when it comes to some risks 
+(interest rates and risk premiums) and focus on the components of 
+riskthat companies can change through their choices on business, 
+geography and debt load:
+9
+1. Measuring Relative Risk 
+¨Not all stocks are equally risky, and some stocks are more 
+riskythan others, and the objective of a relative risk measure 
+is to capture that relative risk. 
+¨The disagreements rise in how to measure this relative risk, 
+and risk and return models in finance have tried, with varying 
+degrees of success, to come up withthis measure. 
+¨The most widely model for risk, in practice, is the capital asset 
+pricing model, and beta is the relative risk measure. 
+¨Embedded in its usage is the assumption that the marginal 
+investors in a stock, i.e., those large investors who set prices 
+with their trading, are diversified, and that you can estimate 
+the "non-diversifiable" risk in a stock, by regressing returns 
+on a stock against a market index.
+10
+BetterBetas?
+11
+Country Equity Risk Premiums…
+12
+The ERP World…
+13
+Debt, the other ingredient of capital
+¨Thecost of debt for a company is the rate at which it 
+can borrow money, long term, and today, and not 
+the cost of the debt that is already on its books.
+¨The build up to a cost of debt is simple:
+14
+FundingMixandCost of Capital
+15
+Cost of Capital in January 2022
+16
+Hurdle Rate Delusions
+¨The two biggest forces driving corporate financial and investor decision 
+making are me-too-ism and inertia. 
+¨Both individual investors and companies seem to operate under the 
+delusion that hurdle rates should reflect what they want to make on 
+investments, rather than what they need to make. 
+¤Individual investors who demand unrealistically high returns in a market that is 
+priced to deliver 6-7% returns on stocks will end up holding cash, and many of 
+them have been doing so for the bulk of the last decade. 
+¤Companies that institute hurdle rates that are too high will be unable to find 
+investments that can deliver higher returns, andwill lose out to competitors 
+who have more realistic hurdle rates. 
+¨In short, companies and investors, demanding double digit returns, have 
+todecide whether they want to remain delusional and be shut out of 
+investing, or recalibrate their expectations to reflect the world we live in.

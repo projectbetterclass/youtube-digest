@@ -1,0 +1,5 @@
+# Don't let your postcode dictate your success
+
+<https://www.youtube.com/shorts/BiYnujj_S1w>
+
+I used to think my post code dictates what I can achieve because for the longest time I thought ah because I grew up in Ssbury I grew up in powerful gardens I'm never going to be able to make it. I'm never because what growing up I just kept being told oh man I know you want to be a keynote speaker but when's the last time you saw an Asian guy on stage doing a keynote presentation there's a bamboo ceiling man there's a bamboo ceiling. So if your beliefs dictate your actions and I believe there's a bamboo ceiling then I'll never ever try to break it. So then the moment I believed it wasn't real, a useful belief, then I was able to go, well, you know what? I'm going to go to America. I'm going to give this dream a shot. I believe reality is negotiable. And depending on how well you're able to communicate in this life, you'll be able to communicate the life you want to live. So as you elevate your communication skills, you improve the life you can negotiate. And the only real ceilings are the ones we choose to

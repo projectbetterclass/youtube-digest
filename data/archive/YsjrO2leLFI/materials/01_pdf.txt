@@ -1,0 +1,214 @@
+Source: https://www.stern.nyu.edu/~adamodar/podcasts/cfspr22/session8slides.pdf
+
+141
+Choosing the Parameters: Disney
+¨Period used: 5 years
+¨Return Interval = Monthly
+¨Market Index: S&P 500 Index. 
+¨For instance, to calculate returns on Disney in December 2009,
+¤Price for Disney at end of November 2009 = $ 30.22
+¤Price for Disney at end of December 2009 = $ 32.25
+¤Dividends during month =  $0.35 (It was an ex-dividend month)
+¤Return =($32.25 -$30.22 + $ 0.35)/$30.22= 7.88%
+¨To estim ate returns on the index in the sam e m onth
+¤Index level at end of November 2009 = 1095.63
+¤Index level at end of December 2009 = 1115.10
+¤Dividends on index in December 2009 = 1.683
+¤Return =(1115.1 –1095.63+1.683)/ 1095.63 =  1.78%
+Aswath Damodaran
+Disney’s Historical Beta
+!
+Return on Disney = .0071 + 1.2517 Return on Market                  R² = 0.73386
+(.0053)  (0.10)
+143
+Analyzing Disney’s Performance
+¨Intercept = 0.712%
+¤This is an intercept based on monthly returns. Thus, it has tobe 
+compared to a monthly riskfree rate.
+¤Between 2008 and 2013
+nAverage Annualized T.Bill rate = 0.50%
+nMonthly Riskfree Rate = 0.5%/12 = 0.042%
+nRiskfree Rate (1-Beta) = 0.042% (1-1.252) =  -.0105%
+¨The Comparison is then between
+¤InterceptversusRiskfree Rate (1 -Beta)
+¤0.712% versus0.0105%
+¤Jensen’s Alpha = 0.712% -(-0.0105)% = 0.723%
+¨Disney did 0.723% better than expected, per month, between 
+October 2008 and September 2013
+¤Annualized, Disney’s annual excess return = (1.00723)12-1= 9.02%
+Aswath Damodaran
+144
+More on Jensen’s Alpha
+Aswath Damodaran
+144
+¨ If you did this analysis on every stock listed on an exchange, what would the 
+average Jensen’s alpha be across all stocks?
+a. Depend upon whether the market went up or down during the period
+b. Should be zero
+c. Should be greater than zero, because stocks tend to go up more often than down.
+¨ Disney has a positive Jensen’s alpha of 9.02% a year between 2008 and 2013. 
+This can be viewed as a sign that management in the firm did a good job, 
+managing the firm during the period.
+a. True
+b. False
+¨ Disney has had a positive Jensen’s alpha between 2008 and 2013. If you were an 
+investor in early 2014, looking at the stock, you would view this as a sign that the 
+stock will be a:
+a. Good investment for the future
+b. Bad investment for the future
+c. No information about the future
+145
+Estimating Disney’s Beta
+¨Slope of the Regression of 1.25 is the beta
+¨Regression parameters are always estimated with error. 
+The error is captured in the standard error of the beta 
+estimate, which in the case of Disney is 0.10.
+¨Assume that I asked you what Disney’s true beta is, after 
+this regression. 
+¤What is your best point estimate?
+¤What range would you give me, with 67% confidence?
+¤What range would you give me, with 95% confidence?
+Aswath Damodaran
+146
+The Dirty Secret of “Standard Error”
+Distribution of Standard Errors: Beta Estimates for U.S. stocks
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+<.10.10 -.20.20 -.30.30 -.40.40 -.50.50 -.75> .75
+Standard Error in Beta Estimate
+Number of Firms
+Aswath Damodaran
+147
+Breaking down Disney’s Risk
+¨R Squared = 73%
+¨This implies that
+¤73% of the risk at Disney comes from market sources
+¤27%, therefore, comes from firm-specific sources
+¨The firm-specific risk is diversifiable and will not be 
+rewarded. 
+¨The R-squared for companies, globally, has increased 
+significantly since 2008. Why might this be happening?
+¨What are the implications for investors?
+Aswath Damodaran
+148
+The Relevance of R Squared
+Aswath Damodaran
+148
+¨You are a diversified investor trying to decide 
+whether you should invest in Disney or Amgen. They 
+both have betas of 1.25, but Disney has an R 
+Squared of 73% while Amgen’s R squared is only 
+25%. Which one would you invest in?
+¤Amgen, because it has the lower R squared
+¤Disney, because it has the higher R squared
+¤You would be indifferent
+¨Would your answer be different if you were an 
+undiversified investor?
+149
+Beta Estimation: Using a Service 
+(Bloomberg)
+Aswath Damodaran
+150
+Estimating Expected Returns for Disney in 
+November 2013
+¨Inputs to the expected return calculation
+¤Disney’s Beta = 1.25
+¤Riskfree Rate = 2.75% (U.S. ten-year T.Bond rate in 
+November 2013)
+¤Risk Premium = 5.76% (Based on Disney’s operating 
+exposure)
+Expected Return =  Riskfree Rate + Beta (Risk Premium)
+=   2.75%            + 1.25 (5.76%) = 9.95%
+Aswath Damodaran
+151
+Use to a Potential Investor in Disney
+¨As a potential investor in Disney, what does this expected 
+return of 9.95% tell you?
+¤This is the return that I can expect to make in the long term on Disney, 
+if the stock is correctly priced and the CAPM is the right model for risk,
+¤This is the return that I need to make on Disney in the long term to 
+break even on my investment in the stock
+¤Both
+¨Assume now that you are an active investor and that your 
+research suggests that an investment in Disney will yield 
+12.5% a year for the next 5 years. Based upon the expected 
+return of 9.95%, you would
+¤Buy the stock
+¤Sell the stock
+Aswath Damodaran
+152
+How managers use this expected return
+¨Managers at Disney
+¤need to make at least 9.95% as a return for their equity 
+investors to break even.
+¤this is the hurdle rate for projects, when the investment is 
+analyzed from an equity standpoint
+¨In other words,  Disney’s cost of equity is 9.95%.
+¨What is the cost of not delivering this cost of equity?
+Aswath Damodaran
+153
+Application Test: Analyzing the Risk Regression
+Aswath Damodaran
+153
+¨Using your Bloomberg risk and return print out, answer the 
+following questions:
+¤How well or badly did your stock do, relative to the market, during the 
+period of the regression? 
+¤Intercept -(Riskfree Rate/n) (1-Beta) = Jensen’s Alpha
+nwhere n is the number of return periods in a year (12 if monthly; 52 
+if weekly)
+¤What proportion of the risk in your stock is attributable to the market? 
+What proportion is firm-specific?
+¤What is the historical estimate of beta for your stock? What is the 
+range on this estimate with 67% probability? With 95% probability?
+¤Based upon this beta, what is your estimate of the required return on 
+this stock?
+¤Riskless Rate + Beta * Risk Premium
+154
+A Quick Test
+Aswath Damodaran
+154
+¨You are advising a very risky software firm on the right cost of 
+equity to use in project analysis. You estimate a beta of 3.0 
+for the firm and come up witha cost of equity of 20%. The 
+CFO of the firm is concerned about the high cost of equity 
+and wants to know whether there is anything he can do to 
+lower his beta.
+¨How do you bring your beta down?
+¨Should you focus your attention on bringing your beta down? 
+¤Yes
+¤No
+155
+Regression Diagnostics for Tata Motors
+Beta = 1.83
+67% range
+1.67-1.99
+Jensen’s a
+= 2.28% -4%/12 (1-1.83) = 2.56%
+Annualized = (1+.0256)12-1= 35.42%
+Average monthly riskfree rate (2008-13) = 4%
+69% market risk
+31% firm specific
+Expected Return (in Rupees)
+= RiskfreeRate+ Beta*Risk premium
+= 6.57%+ 1.83 (7.19%) = 19.73%
+Aswath Damodaran
+156
+A better beta? For Vale..
+Aswath Damodaran
+157
+Deutsche Bank and Baidu: Index Effects on 
+Risk Parameters
+Aswath Damodaran
+¨For Deutsche Bank, a widely held European stock, 
+we tried both the DAX (German index) and the FTSE 
+European index.
+¨For Baidu, a NASDAQ listed stock, we ran regressions 
+against both the S&P 500 and the NASDAQ.

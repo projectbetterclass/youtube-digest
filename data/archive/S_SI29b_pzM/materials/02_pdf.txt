@@ -1,0 +1,1967 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/execs/cf2day2016.pdf
+
+APPLIED	CORPORATE	FINANCE	
+Aswath	Damodaran	
+www.damodaran.com	
+Aswath Damodaran
+Website for this class: http://people.stern.nyu.edu/adamodar/New_Home_Page/triumdesc.html
+2
+What	is	corporate	ﬁnance?	
+Aswath Damodaran
+2
+¨  Every	decision	that	a	business	makes	has	ﬁnancial	implicaFons,	and	any	
+decision	which	aﬀects	the	ﬁnances	of	a	business	is	a	corporate	ﬁnance	
+decision.		
+¨  Deﬁned	broadly,	everything	that	a	business	does	ﬁts	under	the	rubric	of	
+corporate	ﬁnance.
+3
+The	TradiFonal	AccounFng	Balance	Sheet	
+Aswath Damodaran
+3
+Assets Liabilities
+Fixed Assets
+Debt
+Equity
+Short-term liabilities of the firm
+Intangible Assets
+Long Lived Real Assets
+Assets which are not physical,
+like patents & trademarks
+Current Assets
+Financial InvestmentsInvestments in securities &
+assets of other firms
+Short-lived Assets
+Equity investment in firm
+Debt obligations of firm
+Current 
+Liabilties
+Other 
+Liabilities Other long-term obligations
+The Balance Sheet
+4
+The	Financial	View	of	the	Firm	
+Aswath Damodaran
+4
+Assets Liabilities
+Assets in Place Debt
+Equity
+Fixed Claim on cash flows
+Little or No role in management
+Fixed Maturity
+Tax Deductible
+Residual Claim on cash flows
+Significant Role in management
+Perpetual Lives
+Growth Assets
+Existing Investments
+Generate cashflows today
+Includes long lived (fixed) and 
+short-lived(working 
+capital) assets
+Expected Value that will be 
+created by future investments
+5
+First	Principles	&	The	Big	Picture	
+Aswath Damodaran
+5
+The Investment Decision
+Invest in assets that earn a 
+return greater than the 
+minimum acceptable hurdle 
+rate
+The Financing Decision
+Find the right kind of debt 
+for your ﬁrm and the right 
+mix of debt and equity to 
+fund your operations 
+The Dividend Decision
+If you cannot ﬁnd investments 
+that make your minimum 
+acceptable rate, return the cash 
+to owners of your business
+The hurdle rate 
+should reﬂect the 
+riskiness of the 
+investment and 
+the mix of debt 
+and equity used 
+to fund it.
+The return  
+should relfect the 
+magnitude and 
+the timing of the 
+cashﬂows as welll 
+as all side effects.
+The optimal 
+mix of debt 
+and equity 
+maximizes ﬁrm 
+value
+The right kind 
+of debt 
+matches the 
+tenor of your 
+assets
+How much 
+cash you can 
+return 
+depends upon 
+current  & 
+potential 
+investment 
+opportunities
+How you choose 
+to return cash to 
+the owners will 
+depend whether 
+they prefer 
+dividends or 
+buybacks
+Maximize the value of the business (ﬁrm)
+6
+Theme	1:	Corporate	ﬁnance	is	“common	sense” 	
+Aswath Damodaran
+6
+¨  There	is	nothing	earth	shaQering	about	any	of	the	ﬁrst	
+principles	that	govern	corporate	ﬁnance.	ARer	all,	arguing	
+that	taking	investments	that	make	9%	with	funds	that	cost	
+10%	to	raise	seems	to	be	staFng	the	obvious	(the	investment	
+decision),	as	is	noFng	that	it	is	beQer	to	ﬁnd	a	funding	mix	
+which	costs	10%		instead	of	11%	(the	ﬁnancing	decision)	or	
+posiFng	that	if	most	of	your	investment	opportuniFes	
+generate	returns	less	than	your	cost	of	funding,	it	is	best	to	
+return	the	cash	to	the	owners	of	the	business	and	shrink	the	
+business.	
+¨  Shrewd	business	people,	notwithstanding	their	lack	of	
+exposure	to	corporate	ﬁnance	theory,	have	always	
+recognized	these	fundamentals	and	put	them	into	pracFce.
+7
+Theme	2:	Corporate	ﬁnance	is	focused…	
+Aswath Damodaran
+7
+¨  It	is	the	focus	on	maximizing	the	value	of	the	business	
+that	gives	corporate	ﬁnance	its	focus.	As	a	result	of	this	
+singular	objecFve,	we	can	
+¤  Choose	the	“right”	investment	decision	rule	to	use,	given	a	
+menu	of	such	rules.	
+¤  Determine	the	“right”	mix	of	debt	and	equity	for	a	speciﬁc	
+business	
+¤  Examine	the	“right”	amount	of	cash	that	should	be	returned	to	
+the	owners	of	a	business	and	the	“right”	amount	to	hold	back	
+as	a	cash	balance.	
+¨  This	cerFtude	does	come	at	a	cost.	To	the	extent	that	
+you	accept	the	objecFve	of	maximizing	ﬁrm	value,	
+everything	in	corporate	ﬁnance	makes	complete	sense.	
+If	you	do	not,	nothing	will.
+8
+Theme	3:	The	focus	in	corporate	ﬁnance	
+changes	across	the	life	cycle…	
+Aswath Damodaran
+8
+Stage 2
+Young Growth
+Stage 1
+Start-up
+Stage 4
+Mature Growth
+Stage 6
+Decline
+Revenues
+Earnings
+Stage 3:
+High GrowthGrowth stage
+$ Revenues/
+Earnings
+Time
+Stage 5
+Mature Stable
+Option 
+Investing (Go 
+for the upside)
+Investing
+Growth 
+Investing 
+(Maximize 
+value from 
+growth)
+Scaling 
+Investing (Scale 
+up growth)
+Defensive 
+Investing 
+(Protect your 
+competitive 
+advantage)
+Maintenance 
+Investing 
+(Preserve your 
+value)
+Divesting 
+(Shed past-
+due 
+investments)
+The Bar Mitzvah
+Reality Check
+The Lightbulb (Idea) Moment
+The Scaling up Test
+The Midlife Crisis
+The End Game
+All equity 
+(usually 
+private)
+Financing
+First signs of 
+debt capacity, 
+but beneﬁts are 
+small.
+Debt capacity 
+expands, with 
+cautionary 
+notes
+Pay down 
+debt as assets 
+are sold.
+All equity 
+(shift to 
+public)
+Beneﬁts of 
+borrowing 
+signiﬁcantly 
+exceed costs
+Need cash 
+from equity 
+investorsDividend
+Move towards 
+sufﬁciency (cash 
+ﬂows meet 
+investment needs.)
+Internal cash 
+ﬂows exceed 
+investment 
+needs. 
+Cash needs 
+mulitply 
+(beyond private 
+market)
+Signiﬁcant 
+excess free 
+cash ﬂows
+Internal cash ﬂows 
+decline but 
+augmented by cash 
+ﬂows from partial 
+liquidation
+The Corporate Life Cycle
+9
+Theme	4:	Corporate	ﬁnance	is	universal…	
+Aswath Damodaran
+9
+¨  Every	business,	small	or	large,	public	or	private,	US	or	emerging	
+market,	has	to	make	investment,	ﬁnancing	and	dividend	decisions.	
+¨  The	objecFve	in	corporate	ﬁnance	for	all	of	these	businesses	
+remains	the	same:	maximizing	value.	
+¨  While	the	constraints	and	challenges	that	ﬁrms	face	can	vary	
+dramaFcally	across	ﬁrms,	the	ﬁrst	principles	do	not	change.	
+¤  A	publicly	traded	ﬁrm,	with	its	greater	access	to	capital	markets	and	more	
+diversiﬁed	investor	base,	may	have	much	lower	costs	of	debt	and	equity	
+than	a	private	business,	but	they	both	should	look	for	the	ﬁnancing	mix	
+that	minimizes	their	costs	of	capital.	
+¤  A	ﬁrm	in	an	emerging	markets	may	face	greater	uncertainty,	when	
+assessing	new	investments,	than	a	ﬁrm	in	a	developed	market,	but	both	
+ﬁrms	should	invest	only	if	they	believe	they	can	generate	higher	returns	
+on	their	investments	than	they	face	as	their	respecFve	(and	very	diﬀerent)	
+hurdle	rates.
+10
+Theme	5:	If	you	violate	ﬁrst	principles,	you	will	
+pay	a	price	(no	maQer	who	you	are..)	
+Aswath Damodaran
+10
+¨  There	are	some	investors/analysts/managers	who	
+convince	themselves	that	the	ﬁrst	principles	don’t	
+apply	to	them	because	of	their	superior	educaFon,	
+standing	or	past	successes,	and	then	proceed	to	put	
+into	place	strategies	or	schemes	that	violate	ﬁrst	
+principles.	
+¨  Sooner	or	later,	these	strategies	will	blow	up	and	
+create	huge	costs.	
+¨  Almost	every	corporate	disaster	or	bubble	has	its	
+origins	in	a	violaFon	of	ﬁrst	principles.
+11
+Theme	6:	If	you	cannot	apply	it,	who	
+cares?	
+Applied Corporate Finance
+Disney
+Sector: Entertainment
+Incorporated in: US
+Operations: Multinational
+Size: Large market cap
+Vale
+Sector: Mining/Metals
+Incorporated in: Brazil
+Operations: Multinational
+Size: Large market cap
+Other: Government stake
+Tata Motors
+Sector: Automotive
+Incorporated in: India
+Operations: Multinational
+Size: Mid market cap
+Other: Family Group
+Baidu
+Sector: Online Search
+Incorporated in: Cayman Isl
+Operations: China
+Size: Mid market cap
+Other: Shell company (VIE)
+Deutsche Bank
+Sector: Bank/ Investment Bank
+Incorporated in: Germany
+Operations: Multinational
+Size: Large market cap
+Other: Regulated
+Bookscape
+Sector: Book Retail
+Incorporated in: US
+Operations: New York
+Other: Privately owned
+Aswath Damodaran
+12
+The	ObjecFve	in	Decision	Making	
+¨  In	tradiFonal	corporate	ﬁnance,	the	objecFve	in	decision	making	is	to	
+maximize	the	value	of	the	ﬁrm.		
+¨  A	narrower	objecFve	is	to	maximize	stockholder	wealth.	When	the	stock	
+is	traded	and	markets	are	viewed	to	be	eﬃcient,	the	objecFve	is	to	
+maximize	the	stock	price.	
+Assets Liabilities
+Assets in Place Debt
+Equity
+Fixed Claim on cash flows
+Little or No role in management
+Fixed Maturity
+Tax Deductible
+Residual Claim on cash flows
+Significant Role in management
+Perpetual Lives
+Growth Assets
+Existing Investments
+Generate cashflows today
+Includes long lived (fixed) and 
+short-lived(working 
+capital) assets
+Expected Value that will be 
+created by future investments
+Maximize 
+ﬁrm value
+Maximize equity 
+value
+Maximize market 
+estimate of equity  
+value
+Aswath Damodaran
+13
+The	Classical	ObjecFve	FuncFon	
+STOCKHOLDERS
+Maximize
+stockholder 
+wealth
+Hire & ﬁre
+managers
+- Board
+- Annual Meeting
+BONDHOLDERS
+Lend Money
+Protect
+bondholder
+Interests
+FINANCIAL MARKETS
+SOCIETYManagers
+Reveal
+information
+honestly and
+on time
+Markets are
+efﬁcient and
+assess effect on
+value
+No Social Costs
+Costs can be
+traced to ﬁrm
+Aswath Damodaran
+14
+What	can	go	wrong?	
+STOCKHOLDERS
+Managers put
+their interests
+above stockholders
+Have little control
+over managers
+BONDHOLDERS
+Lend Money
+Bondholders can
+get ripped off
+FINANCIAL MARKETS
+SOCIETYManagers
+Delay bad
+news or 
+provide 
+misleading
+information
+Markets make
+mistakes and
+can over react
+Signiﬁcant Social Costs
+Some costs cannot be
+traced to ﬁrm
+Aswath Damodaran
+15
+Who’s	on	Board?	The	Disney	Experience	-	
+1997	
+Aswath Damodaran
+16
+So,	what	next?	When	the	cat	is	idle,	the	
+mice	will	play	....	
+¨  When	managers	do	not	fear	stockholders,	they	will	oRen	put	
+their	interests	over	stockholder	interests	
+¤  Greenmail:	The	(managers	of	)	target	of	a	hosFle	takeover	buy	out	the	
+potenFal	acquirer's	exisFng	stake,	at	a	price	much	greater	than	the	
+price	paid	by	the	raider,	in	return	for	the	signing	of	a	'standsFll'	
+agreement.	
+¤  Golden	Parachutes:	Provisions	in	employment	contracts,	that	allows	
+for	the	payment	of	a	lump-sum	or	cash	ﬂows	over	a	period,	if	
+managers	covered	by	these	contracts	lose	their	jobs	in	a	takeover.		
+¤  Poison	Pills:	A	security,		the	rights	or	cashﬂows	on	which	are	triggered	
+by	an	outside	event,	generally	a	hosFle	takeover,	is	called	a	poison	pill.	
+¤  Shark	Repellents:	AnF-takeover	amendments	are	also	aimed	at	
+dissuading	hosFle	takeovers,	but	diﬀer	on	one	very	important	count.	
+They	require	the	assent	of	stockholders	to	be	insFtuted.		
+¤  Overpaying	on	takeovers:	AcquisiFons	oRen	are	driven	by	
+management	interests	rather	than	stockholder	interests.	
+No stockholder approval needed….. Stockholder Approval needed
+Aswath Damodaran
+17
+6ApplicaFon	Test:	Who	owns/runs	your	
+ﬁrm?	
+¨  Look	at:	Bloomberg	printout	HDS	for	your	ﬁrm	
+¨  Who	are	the	top	stockholders	in	your	ﬁrm?	
+¨  What	are	the	potenFal	conﬂicts	of	interests	that	you	see	emerging	from	
+this	stockholding	structure?	
+Control of the firm
+Outside stockholders
+- Size of holding
+- Active or Passive?
+- Short or Long term?
+Inside stockholders
+% of stock held
+Voting and non-voting shares
+Control structure
+Managers
+- Length of tenure
+- Links to insiders
+Government
+Employees Lenders
+B	HDS	Page	
+PB	Page	3-12	
+Aswath Damodaran
+18
+Case	1:	Splintering	of	Stockholders	
+Disney’s	top	stockholders	in	2003	
+Aswath Damodaran
+19
+Case	2:	VoFng	versus	Non-voFng	Shares	&	
+Golden	Shares:		Vale	
+Vale Equity
+Common (voting) shares
+3,172 million
+Preferred (non-voting)
+1,933 million
+Golden (veto) 
+shares owned 
+by Brazilian govt
+Valespar(
+54%(Non/Brazilian(
+(ADR&Bovespa)(
+29%(
+Brazilian(Ins=tu=onal(
+6%(
+Brazilian(retail(
+5%( Brazilian(
+Govt.(
+6%(
+Valespar(
+1%(
+Non.Brazilian(
+(ADR&Bovespa)(
+59%(
+Brazilian(Ins<tu<onal(
+18%(
+Brazilian(retail(
+18%(
+Brazilian(Govt.(
+4%(
+Litel&Participaço 49.00%
+Eletron&S.A. 0.03%
+Bradespar&S.A. 21.21%
+Mitsui&&&Co. 18.24%
+BNDESPAR 11.51%
+Valespar(ownership
+Vale has eleven members on its board of directors, ten of 
+whom were nominated by Valepar and the board was 
+chaired by Don Conrado, the CEO of Valepar. Aswath Damodaran
+20
+Case	3:	Cross	and	Pyramid	Holdings	
+Tata	Motor’s	top	stockholders	in	2013		
+Aswath Damodaran
+21
+Case	4:	Legal	rights	and	Corporate	
+Structures:	Baidu	
+¨  The	Board:	The	company	has	six	directors,	one	of	whom	is	Robin	Li, 	
+who	is	the	founder/CEO	of	Baidu.	Mr.	Li	also	owns	a	majority	stake	
+of	Class	B	shares,	which	have	ten	Fmes	the	voFng	rights	of	Class	A	
+shares,	granFng	him	eﬀecFve	control	of	the	company.		
+¨  The	structure:	Baidu	is	a	Chinese	company,	but	it	is	incorporated	in	
+the	Cayman	Islands,	its	primary	stock	lisFng	is	on	the	NASDAQ	and	
+the	listed	company	is	structured	as	a	shell	company,	to	get	around	
+Chinese	government	restricFons	of	foreign	investors	holding	
+shares	in	Chinese	corporaFons.		
+¨  The	legal	system:	Baidu’s	operaFng	counterpart	in	China	is	
+structured	as	a	Variable	Interest	EnFty	(VIE),	and	it	is	unclear	how	
+much	legal	power	the	shareholders	in	the	shell	company	have	to	
+enforce	changes	at	the	VIE.	
+Aswath Damodaran
+22
+Things	change..	Disney’s	top	stockholders	
+in	2009	
+Aswath Damodaran
+23
+When	tradiFonal	corporate	ﬁnancial	
+theory	breaks	down,	the	soluFon	is:	
+¨  To	choose	a	diﬀerent	mechanism	for	corporate	
+governance,	i.e.,	assign	the	responsibility	for	monitoring	
+managers	to	someone	other	than	stockholders.	
+¨  To	choose	a	diﬀerent	objecFve	for	the	ﬁrm.	
+¨  To	maximize	stock	price,	but	reduce	the	potenFal	for	
+conﬂict	and	breakdown:	
+¤  Making	managers	(decision	makers)	and	employees	into	
+stockholders	
+¤  Protect	lenders	from	expropriaFon	
+¤  By	providing	informaFon	honestly	and	promptly	to	ﬁnancial	
+markets	
+¤  Minimize	social	costs		
+Aswath Damodaran
+24
+I.	An	AlternaFve	Corporate	Governance	
+System	
+¨  Germany	and	Japan	developed	a	diﬀerent	mechanism	for	
+corporate	governance,	based	upon	corporate	cross	holdings.		
+¤  In	Germany,	the	banks	form	the	core	of	this	system.	
+¤  In	Japan,	it	is	the	keiretsus	
+¤  Other	Asian	countries	have	modeled	their	system	aRer	Japan,	with	family	
+companies	forming	the	core	of	the	new	corporate	families	
+¨  At	their	best,	the	most	eﬃcient	ﬁrms	in	the	group	work	at	bringing	
+the	less	eﬃcient		ﬁrms	up	to	par.	They	provide	a	corporate	welfare	
+system	that	makes	for	a	more	stable	corporate	structure	
+¨  At	their	worst,	the	least	eﬃcient	and	poorly	run	ﬁrms	in	the	group	
+pull	down	the	most	eﬃcient	and	best	run	ﬁrms	down.	The	nature	
+of	the	cross	holdings	makes	its	very	diﬃcult	for	outsiders	(including	
+investors	in	these	ﬁrms)	to	ﬁgure	out	how	well	or	badly	the	group	
+is	doing.		
+Aswath Damodaran
+25
+II.	Choose	a	Diﬀerent	ObjecFve	FuncFon	
+¨  Firms	can	always	focus	on	a	diﬀerent	objecFve	funcFon.	
+Examples	would	include	
+¤  maximizing	earnings	
+¤  maximizing	revenues	
+¤  maximizing	ﬁrm	size	
+¤  maximizing	market	share	
+¤  maximizing	EVA	
+¨  The	key	thing	to	remember	is	that	these	are	
+intermediate	objecFve	funcFons.		
+¤  To	the	degree	that	they	are	correlated	with	the	long	term	health	
+and	value	of	the	company,	they	work	well.	
+¤  To	the	degree	that	they	do	not,	the	ﬁrm	can	end	up	with	a	
+disaster	
+Aswath Damodaran
+26
+III.	A	Market	Based	SoluFon	
+STOCKHOLDERS
+Managers of poorly 
+run ﬁrms are put
+on notice.
+1. More activist
+investors
+2. Hostile takeovers
+BONDHOLDERS
+Protect themselves
+1. Covenants
+2. New Types
+FINANCIAL MARKETS
+SOCIETYManagers
+Firms are
+punished
+for misleading
+markets
+Investors and
+analysts become
+more skeptical
+Corporate Good Citizen Constraints
+1. More laws
+2. Investor/Customer Backlash
+Aswath Damodaran
+27
+Disney:	Eisner’s	rise	&	fall	from	grace	
+¨  In	his	early	years	at	Disney,	Michael	Eisner	brought	about	long-delayed	changes	in	
+the	company	and	put	it	on	the	path	to	being	an	entertainment	giant	that	it	is	
+today.	His	success	allowed	him	to	consolidate	power	and	the	boards	that	he	
+created	were	increasingly	capFve	ones	(see	the	1997	board).	
+¨  In	1996,	Eisner	spearheaded	the	push	to	buy	ABC	and	the	board	rubberstamped	
+his	decision,	as	they	had	with	other	major	decisions.	In	the	years	following,	the	
+company	ran	into	problems	both	on	its	ABC	acquisiFon	and	on	its	other	
+operaFons	and	stockholders	started	to	get	resFve,	especially	as	the	stock	price	
+halved	between	1998	and	2002.		
+¨  In	2003,	Roy	Disney	and	Stanley	Gold	resigned	from	the	Disney	board,	arguing	
+against	Eisner’s	autocraFc	style.		
+¨  In		early	2004,	Comcast	made	a	hosFle	bid	for	Disney	and	later	in	the	year,	43%	of	
+Disney	shareholders	withheld	their	votes	for	Eisner’s	reelecFon	to	the	board	of	
+directors.	Following	that	vote,	the	board	of	directors	at	Disney	voted	unanimously	
+to	elect	George	Mitchell	as	the	Chair	of	the	board,	replacing	Eisner,	who	vowed	to	
+stay	on	as	CEO.	
+¨  In	October	2005,	Eisner	stepped	down	as	CEO,	to	be	replaced	by	Bob	Iger.	
+Aswath Damodaran
+28
+A	Market	SoluFon:	Eisner’s	exit…	and	a	
+new	age	dawns?	Disney’s	board	in	2008	
+Aswath Damodaran
+29
+But	as	a	CEO’s	tenure	lengthens,	does	
+corporate	governance	suﬀer?	
+1.  While	the	board	size	has	stayed	compact	(at	twelve	members),	
+there	has	been	only	one	change	since	2008,	with	Sheryl	
+Sandberg,	COO	of	Facebook,	replacing	the	deceased	Steve	Jobs.		
+2.  The	board	voted	reinstate	Iger	as	chair	of	the	board	in	2011,	
+reversing	a	decision	made	to	separate	the	CEO	and	Chair	
+posiFons	aRer	the	Eisner	years.		
+3.  In	2011,	Iger	announced	his	intent	to	step	down	as	CEO	in	2015	
+but	Disney’s	board	convinced	Iger	to	stay	on	as	CEO	for	an	extra	
+year,	for	the	“the	good	of	the	company”.	
+4.  There	were	signs	of	resFveness	among	Disney’s	stockholders,	
+especially	those	interested	in	corporate	governance.	AcFvist	
+investors	(CalSTRS)	starFng	making	noise	and		InsFtuFonal	
+Shareholder	Services	(ISS),	which	gauges	corporate	governance	at 	
+companies,	raised	red	ﬂags	about	compensaFon	and	board	
+monitoring	at	Disney.		
+Aswath Damodaran
+THE	INVESTMENT	PRINCIPLE:	
+RISK	AND	RETURN	MODELS	
+	
+“You	cannot	swing	upon	a	rope	that	is	aQached	only	
+to	your	own	belt.”	
+Aswath Damodaran
+31
+First	Principles	
+Aswath Damodaran
+32
+The	noFon	of	a	benchmark		
+¨  Since	ﬁnancial	resources	are	ﬁnite,	there	is	a	hurdle	that	
+projects	have	to	cross	before	being	deemed	acceptable.	
+¨  This	hurdle	will	be	higher	for	riskier	projects	than	for	
+safer	projects.	
+¨  A	simple	representaFon	of	the	hurdle	rate	is	as	follows:	
+	Hurdle	rate				=	 	Riskless	Rate	+	Risk	Premium	
+¨  The	two	basic	quesFons	that	every	risk	and	return	model	
+in	ﬁnance	tries	to	answer	are:	
+¤  How	do	you	measure	risk?	
+¤  How	do	you	translate	this	risk	measure	into	a	risk	premium?	
+Aswath Damodaran
+33
+What	is	Risk?	
+¨  Risk,	in	tradiFonal	terms,	is	viewed	as	a	‘negaFve’.	
+Webster’s	dicFonary,	for	instance,	deﬁnes	risk	as	“exposing	
+to	danger	or	hazard”.	The	Chinese	symbols	for	risk,	
+reproduced	below,	give	a	much	beQer	descripFon	of	risk:	
+危机		
+¨  The	ﬁrst	symbol	is	the	symbol	for	“danger”,	while	the	second	
+is	the	symbol	for	“opportunity”,	making	risk	a	mix	of	danger	
+and	opportunity.	You	cannot	have	one,	without	the	other.	
+¨  Risk	is	therefore	neither	good	nor	bad.	It	is	just	a	fact	of	life.	
+The	quesFon	that	businesses	have	to	address	is	therefore	not	
+whether	to	avoid	risk	but	how	best	to	incorporate	it	into	their	
+decision	making.	
+Aswath Damodaran
+34
+AlternaFves	to	the	CAPM	
+The risk in an investment can be measured by the variance in actual returns around an 
+expected return
+E(R)
+Riskless Investment Low Risk Investment High Risk Investment
+E(R) E(R)
+Risk that is specific to investment (Firm Specific) Risk that affects all investments (Market Risk)
+Can be diversified away in a diversified portfolio Cannot be diversified away since most assets
+1. each investment is a small proportion of portfolio are affected by it.
+2. risk averages out across investments in portfolio
+The marginal investor is assumed to hold a “diversified” portfolio. Thus, only market risk will 
+be rewarded and priced.
+The CAPM The APM Multi-Factor Models Proxy Models
+If there is 
+1. no private information
+2. no transactions cost
+the optimal diversified 
+portfolio includes every
+traded asset. Everyone
+will hold this market portfolio
+Market Risk = Risk 
+added by any investment 
+to the market portfolio:
+If there are no 
+arbitrage opportunities 
+then the market risk of
+any asset must be 
+captured by betas 
+relative to factors that 
+affect all investments.
+Market Risk = Risk 
+exposures of any 
+asset to market 
+factors
+Beta of asset relative to
+Market portfolio (from
+a regression)
+Betas of asset relative
+to unspecified market
+factors (from a factor
+analysis)
+Since market risk affects
+most or all investments,
+it must come from 
+macro economic factors.
+Market Risk = Risk 
+exposures of any 
+asset to macro 
+economic factors.
+Betas of assets relative
+to specified macro
+economic factors (from
+a regression)
+In an efficient market,
+differences in returns
+across long periods must
+be due to market risk
+differences. Looking for
+variables correlated with
+returns should then give 
+us proxies for this risk.
+Market Risk = 
+Captured by the 
+Proxy Variable(s)
+Equation relating 
+returns to  proxy 
+variables (from a
+regression)
+Step 1: Defining Risk
+Step 2: Differentiating between Rewarded and Unrewarded Risk
+Step 3: Measuring Market Risk
+Aswath Damodaran
+35
+LimitaFons	of	the	CAPM	
+1.	The	model	makes	unrealisFc	assumpFons	
+2.	The	parameters	of	the	model	cannot	be	esFmated	
+precisely	
+-	DeﬁniFon	of	a	market	index	
+-	Firm	may	have	changed	during	the	'esFmaFon'	period'	
+3.	The	model	does	not	work	well	
+-	If	the	model	is	right,	there	should	be			
+	a	linear	relaFonship	between	returns	and	betas	
+	the	only	variable	that	should	explain	returns	is	betas	
+-	The	reality	is	that	
+	the	relaFonship	between	betas	and	returns	is	weak		
+	Other	variables	(size,	price/book	value)	seem	to	explain	
+diﬀerences	in	returns	beQer.	
+Aswath Damodaran
+36
+Why	the	CAPM	persists…	
+¨  The	CAPM,	notwithstanding	its	many	criFcs	and	limitaFons,	
+has	survived	as	the	default	model	for	risk	in	equity	valuaFon	
+and	corporate	ﬁnance.	The	alternaFve	models	that	have	
+been	presented	as	beQer	models	(APM,	MulFfactor	model..)	
+have	made	inroads	in	performance	evaluaFon	but	not	in	
+prospecFve	analysis	because:	
+¤  The	alternaFve	models	(which	are	richer)	do	a	much	beQer	job	than	
+the	CAPM	in	explaining	past	return,	but	their	eﬀecFveness	drops	oﬀ	
+when	it	comes	to	esFmaFng	expected	future	returns	(because	the	
+models	tend	to	shiR	and	change).	
+¤  The	alternaFve	models	are	more	complicated	and	require	more	
+informaFon	than	the	CAPM.	
+¤  For	most	companies,	the	expected	returns	you	get	with	the	the	
+alternaFve	models	is	not	diﬀerent	enough	to	be	worth	the	extra	
+trouble	of	esFmaFng	four	addiFonal	betas.	
+Aswath Damodaran
+37
+Gauging	the	marginal	investor:	Disney	in	
+2013	
+Aswath Damodaran
+38
+Extending	the	assessment	of	the	investor	
+base	
+¨  In	all	ﬁve	of	the	publicly	traded	companies	that	we	
+are	looking	at,	insFtuFons	are	big	holders	of	the	
+company’s	stock.	
+Aswath Damodaran
+39
+6ApplicaFon	Test:	Who	is	the	marginal	
+investor	in	your	ﬁrm?	
+¨  Looking	at	the	breakdown	of	stockholders	in	your	
+ﬁrm,	consider	whether	the	marginal	investor	is	
+¤  An	insFtuFonal	investor		
+¤  An	individual	investor	
+¤  An	insider	
+B	DES	Page	3	
+PB	Page	13	
+Aswath Damodaran
+40
+Inputs	required	to	use	the	CAPM	-		
+¨  The	capital	asset	pricing	model	yields	the	following	
+expected	return:	
+¤  Expected	Return	=	Riskfree	Rate+	Beta	*	(Expected	Return	
+on	the	Market	Porwolio	-	Riskfree	Rate)	
+¨  To	use	the	model	we	need	three	inputs:	
+a.  The	current	risk-free	rate	
+b.  The	expected	market	risk	premium	(the	premium	
+expected	for	invesFng	in	risky	assets	(market	porwolio)	
+over	the	riskless	asset)		
+c.  The	beta	of	the	asset	being	analyzed.		
+Aswath Damodaran
+41
+I.	A	Riskfree	Rate	
+¨  On	a	riskfree	asset,	the	actual	return	is	equal	to	the	expected	return.	
+Therefore,	there	is	no	variance	around	the	expected	return.	
+¨  For	an	investment	to	be	riskfree,	then,	it	has	to	have	
+¤  No	default	risk	
+¤  No	reinvestment	risk	
+1.  Time	horizon	maQers:	Thus,	the	riskfree	rates	in	valuaFon	will	depend	
+upon	when	the	cash	ﬂow	is	expected	to	occur	and	will	vary	across	Fme.		
+2.  Not	all	government	securiFes	are	riskfree:	Some	governments	face	
+default	risk	and	the	rates	on	bonds	issued	by	them	will	not	be	riskfree.	
+¨  The	convenFonal	pracFce	of	esFmaFng	riskfree	rates	is	to	use	the	
+government	bond	rate,	with	the	government	being	the	one	that	is	in	
+control	of	issuing	that	currency.	In	November	2013,	for	instance,	the	rate	
+on	a	ten-year	US	treasury	bond	(2.75%)	is	used	as	the	risk	free	rate	in	US	
+dollars.	
+Aswath Damodaran
+41
+42
+What	if	there	is	no	default-free	enFty?	
+Risk	free	rates	in	November	2013	
+¨  If	the	government	is	perceived	to	have	default	risk,	the	government	bond	
+rate	will	have	a	default	spread	component	in	it	and	not	be	riskfree.	There	
+are	three	choices	we	have,	when	this	is	the	case.	
+¤  Adjust	the	local	currency	government	borrowing	rate	for	default	risk	to	get	a	
+riskless	local	currency	rate.		
+n  In	November	2013,	the	Indian	government	rupee	bond	rate	was	8.82%.	the	local	
+currency	raFng	from	Moody’s	was	Baa3	and	the	default	spread	for	a	Baa3	rated	
+country	bond	was	2.25%.	
+Riskfree	rate	in	Rupees	=	8.82%	-	2.25%	=	6.57%	
+¤  Do	the	analysis	in	an	alternate	currency,	where	gexng	the	riskfree	rate	is	easier.	
+With	Vale	in	2013,	we	could	chose	to	do	the	analysis	in	US	dollars	(rather	than	
+esFmate	a	riskfree	rate	in	R$).	The	riskfree	rate	is	then	the	US	treasury	bond	rate.	
+¤  Do	your	analysis	in	real	terms,	in	which	case	the	riskfree	rate	has	to	be	a	real	
+riskfree	rate.	The	inﬂaFon-indexed	treasury	rate	is	a	measure	of	a	real	riskfree	rate.	
+PB	Page	14-21	
+Aswath Damodaran
+43
+Risk	free	rates	by	currency:	January	2016	
+-5.00%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+Japanese	Yen
+Czech	Koruna
+Swiss	Franc
+Taiwanes e	 $
+Bulgarian	 Lev
+Euro
+Hungarian	Forint
+Thai	 Baht
+Danish	Krone
+Swedish	Krona
+HK	$
+Croatian	Kuna
+Israeli	 Shekel
+Romanian	Leu
+Canadian	$
+Norwegian	Krone
+British	Pound
+Korean	Won
+Pakistani	Rupee
+Phillipine	Peso
+Polish	Zloty
+Vietnamese	 Dong
+Chinese	Yuan
+US	$
+Singapore	 $
+Malyasian	Ringgit
+Australian	$
+NZ	$
+Iceland	Krona
+Chilean	Peso
+Mexican	Peso
+Indian	Rupee
+Peruvian	Sol
+Colombian	Peso
+Indonesian	Rupiah
+Venezuelan	 Bolivar
+Russian	Ruble
+Nigerian	Naira
+Turkis h	Lira
+South	African	Rand
+Kenyan	Shilling
+Brazilian	Reai
+Risk	free	Rates	- January	2016
+Risk	free	Rate De fault	Spre ad	base d	on	rating
+44
+II.	Equity	Risk	Premium	
+¨  The	risk	premium	is	the	premium	that	investors	
+demand	for	invesFng	in	an	average	risk	investment,	
+relaFve	to	the	riskfree	rate.	
+¨  As	a	general	proposiFon,	this	premium	should	be	
+¤  greater	than	zero	
+¤  increase	with	the	risk	aversion	of	the	investors	in	that	
+market	
+¤  increase	with	the	riskiness	of	the	“average”	risk	
+investment	
+Aswath Damodaran
+45
+What	is	your	risk	premium?	
+¨  Assume	that	stocks	are	the	only	risky	assets	and	that	you	are	
+oﬀered	two	investment	opFons:	
+¤  a	riskless	investment	(say	a	Government	Security),	on	which	you	can	
+make	3%	
+¤  a	mutual	fund	of	all		stocks,	on	which	the	returns	are	uncertain	
+¨  How	much	of	an	expected	return	would	you	demand	to	shiR	
+your	money	from	the	riskless	asset	to	the	mutual	fund?	
+a.  Less	than	3%	
+b.  Between	3	-	5%	
+c.  Between		5	-	7%	
+d.  Between		7	-9%	
+e.  Between	9%-	11%	
+f.  More	than		11%	
+Aswath Damodaran
+46
+ERP:	A	Historical	Snapshot	
+	
+	
+	
+	
+¨  If	you	are	going	to	use	a	historical	risk	premium,	make	it	
+¤  Long	term	(because	of	the	standard	error)	
+¤  Consistent	with	your	risk	free	rate	
+¤  A	“compounded”	average	
+¨  No	maQer	which	esFmate	you	use,	recognize	that	it	is	
+backward	looking,	is	noisy	and	may	reﬂect	selecFon	bias.
+		
+Historical 
+premium for the 
+US
+47
+An	Implied	ERP	
+Aswath Damodaran
+Base year cash ﬂow  (last 12 mths)
+Dividends (TTM): 42.66
++ Buybacks (TTM): 63.43
+= Cash to investors (TTM): 106.09
+Expected growth in next 5 years
+Top down analyst estimate of earnings 
+growth for S&P 500: 5.55%
+Risk free rate = T.Bond rate on 1/1/16= 2.27%
+r = Implied Expected Return on Stocks = 8.39%
+S&P 500 on 1/1/16= 
+2043.94
+Minus
+Implied Equity Risk Premium (1/1/16) = 8.39% - 2.27% = 6.12%
+Equals
+Earnings and Cash 
+ﬂows grow @2.27% 
+(set equal to risk free 
+rate) a year forever.
+Payout ratio assumed to stay stable. 106.09 
+growing @ 5.55% a year
+Last	12	mths 1 2 3 4 5 Terminal	Year
+Dividends	+	Buybacks 106.09 111.99$	 118.21$	 124.77$	 131.70$	 139.02$	 142.17
+2043.94 = 	 111.99
+(1 + ,) + 118.21
+(1 + ,)/ + 124.77
+(1 + ,)1 + 131.70
+(1 + ,)2 + 139.02
+(1 + ,)3 + 142.17
+(, − .0227)(1 + ,)3	
+	
+You have to solve for 
+the discount rate (r). I 
+used the solver or Goal 
+seek function in Excel
+48
+Implied	Premiums	in	the	US:	1960-2015	
+Aswath Damodaran
+0.00%
+1.00%
+2.00%
+3.00%
+4.00%
+5.00%
+6.00%
+7.00%
+1960
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+Implied Premium
+Year
+Implied Premium for US Equity Market: 1960-2015
+49
+The	boQom	line	on	Equity	Risk	Premiums	
+in	November	2013	
+¨  Mature	Markets:	In	November	2013,	the	number	that	we	chose	to	use	as	
+the	equity	risk	premium	for	all	mature	markets	was	5.5%.	This	was	set	
+equal	to	the	implied	premium	at	that	point	in	Fme	and	it	was	much	
+higher	than	the	historical	risk	premium	of	4.20%	prevailing	then	
+(1928-2012	period).		
+¨  For	emerging	markets,	the	historical	data	opFon	is	not	useful,	since	most	
+of	these	markets	have	too	short	a	history	to	compute	a	risk	premium.	The	
+implied	premium	can	be	computed,	but	some	of	the	inputs	(especially	
+growth)	are	tough	to	get.	
+Aswath Damodaran
+  Arithmetic Average Geometric Average
+  Stocks - T. Bills Stocks - T. Bonds Stocks - T. Bills Stocks - T. Bonds
+1928-2012 7.65% 5.88% 5.74% 4.20%
+  2.20% 2.33%    
+1962-2012 5.93% 3.91% 4.60% 2.93%
+  2.38% 2.66%    
+2002-2012 7.06% 3.08% 5.38% 1.71%
+  5.82% 8.11%
+50
+Country	Risk:	Look	at	a	country’s	bond	raFng	
+and	default	spreads	as	a	start	
+¨  In	this	approach,	the	country	equity	risk	premium	is	set	equal	to	
+the	default	spread	for	the	country,	esFmated	in	one	of	three	ways.	
+In	November	2013,	for	Brazil,	this	would	have	yielded	three	
+numbers:	
+¤  The	default	spread	on	a	dollar	denominated	bond	issued	by	the	country.	
+(In	November	2013,	that	spread	was	5.25%	for	the	Brazilian	$	bond)	
+¤  The	sovereign	CDS	spread	for	the	country.	In	November	2013,	the	ten	year	
+CDS	spread	for	Brazil	was	2.59%.	
+¤  The	default	spread	based	on	the	local	currency	raFng	for	the	country.	
+Brazil’s	sovereign	local	currency	raFng	is	Baa3	and	the	default	spread	for	a	
+Baa3	rated	sovereign	was	about	2.00%	in	November	2013.		
+¨  Many	analysts	add	this	default	spread	to	the	US	risk	premium	to	
+come	up	with	a	risk	premium	for	a	country.	This	would	yield	a	risk	
+premium	of	7.50%	for	Brazil,	if	we	use	5.50%	as	the	US	risk	
+premium	(in	November	2013)	and	the	default	spread	based	on	the	
+raFng.
+51
+Beyond	the	default	spread	
+¨  Country	raFngs	measure	default	risk.	While	default	risk	premiums	
+and	equity	risk	premiums	are	highly	correlated,	one	would	expect	
+equity	spreads	to	be	higher	than	debt	spreads.		
+¨  Another	is	to	mulFply	the	bond	default	spread	by	the	relaFve	
+volaFlity	of	stock	and	bond	prices	in	that	market.		Using	this	
+approach	for	Brazil	in	November	2013,	you	would	get:	
+¤  Country	Equity	risk	premium	=	Default	spread	on	country	bond*	σCountry	
+Equity	/	σCountry	Bond	
+n  Standard	DeviaFon	in	Bovespa	(Equity)	=	21%	
+n  Standard	DeviaFon	in	Brazil	government	bond	=	14%	
+n  Default	spread	on	Brazilian	$	bond	=	2.00%	
+¤  Brazil	Country	Risk	Premium	=	2.00%	(21%/14%)	=		3.00%	
+¤  Brazil	Total	ERP	=	Mature	Market	Premium	+	CRP	=	5.5%	+	3.00%	=	8.50%
+Black #: Total ERP
+Red #: Country risk premium
+AVG: GDP weighted average
+ERP : Nov 2013
+Canada 5.50% 0.00%
+United States of America 5.50% 0.00%
+North America 5.50% 0.00%
+Aswath Damodaran
+Country	 TRP	 CRP	
+Angola	 10.90%	 5.40%	
+Benin	 13.75%	 8.25%	
+Botswana	 7.15%	 1.65%	
+Burkina	Faso	 13.75%	 8.25%	
+Cameroon	 13.75%	 8.25%	
+Cape	Verde	 12.25%	 6.75%	
+Egypt	 17.50%	 12.00%	
+Gabon	 10.90%	 5.40%	
+Ghana	 12.25%	 6.75%	
+Kenya	 12.25%	 6.75%	
+Morocco	 9.63%	 4.13%	
+Mozambique	 12.25%	 6.75%	
+Namibia	 8.88%	 3.38%	
+Nigeria	 10.90%	 5.40%	
+Rwanda	 13.75%	 8.25%	
+Senegal	 12.25%	 6.75%	
+South	Africa	 8.05%	 2.55%	
+Tunisia	 10.23%	 4.73%	
+Uganda	 12.25%	 6.75%	
+Zambia	 12.25%	 6.75%	
+Africa	 11.22%	 5.82%	
+Bangladesh	 10.90%	 5.40%	
+Cambodia	 13.75%	 8.25%	
+China	 6.94%	 1.44%	
+Fiji	 12.25%	 6.75%	
+Hong	Kong	 5.95%	 0.45%	
+India	 9.10%	 3.60%	
+Indonesia	 8.88%	 3.38%	
+Japan	 6.70%	 1.20%	
+Korea	 6.70%	 1.20%	
+Macao	 6.70%	 1.20%	
+Malaysia	 7.45%	 1.95%	
+MauriFus	 8.05%	 2.55%	
+Mongolia	 12.25%	 6.75%	
+Pakistan	 17.50%	 12.00%	
+Papua	NG	 12.25%	 6.75%	
+Philippines	 9.63%	 4.13%	
+Singapore	 5.50%	 0.00%	
+Sri	Lanka	 12.25%	 6.75%	
+Taiwan	 6.70%	 1.20%	
+Thailand	 8.05%	 2.55%	
+Vietnam	 13.75%	 8.25%	
+Asia	 7.27%	 1.77%	
+ArgenFna	 15.63%	 10.13%	
+Belize	 19.75%	 14.25%	
+Bolivia	 10.90%	 5.40%	
+Brazil	 8.50%	 3.00%	
+Chile	 6.70%	 1.20%	
+Colombia	 8.88%	 3.38%	
+Costa	Rica	 8.88%	 3.38%	
+Ecuador	 17.50%	 12.00%	
+El	Salvador	 10.90%	 5.40%	
+Guatemala	 9.63%	 4.13%	
+Honduras	 13.75%	 8.25%	
+Mexico	 8.05%	 2.55%	
+Nicaragua	 15.63%	 10.13%	
+Panama	 8.50%	 3.00%	
+Paraguay	 10.90%	 5.40%	
+Peru	 8.50%	 3.00%	
+Suriname	 10.90%	 5.40%	
+Uruguay	 8.88%	 3.38%	
+Venezuela	 12.25%	 6.75%	
+La;n	America	 9.44%	 3.94%	
+Albania	 12.25%	 6.75%	
+Armenia	 10.23%	 4.73%	
+Azerbaijan	 8.88%	 3.38%	
+Belarus	 15.63%	 10.13%	
+Bosnia	 15.63%	 10.13%	
+Bulgaria	 8.50%	 3.00%	
+CroaFa	 9.63%	 4.13%	
+Czech	Republic	 6.93%	 1.43%	
+Estonia	 6.93%	 1.43%	
+Georgia	 10.90%	 5.40%	
+Hungary	 9.63%	 4.13%	
+Kazakhstan	 8.50%	 3.00%	
+Latvia	 8.50%	 3.00%	
+Lithuania	 8.05%	 2.55%	
+Macedonia	 10.90%	 5.40%	
+Moldova	 15.63%	 10.13%	
+Montenegro	 10.90%	 5.40%	
+Poland	 7.15%	 1.65%	
+Romania	 8.88%	 3.38%	
+Russia	 8.05%	 2.55%	
+Serbia	 10.90%	 5.40%	
+Slovakia	 7.15%	 1.65%	
+Slovenia	 9.63%	 4.13%	
+Ukraine	 15.63%	 10.13%	
+E.	Europe	&	Russia	 8.60%	 3.10%	
+Bahrain	 8.05%	 2.55%	
+Israel	 6.93%	 1.43%	
+Jordan	 12.25%	 6.75%	
+Kuwait	 6.40%	 0.90%	
+Lebanon	 12.25%	 6.75%	
+Oman	 6.93%	 1.43%	
+Qatar	 6.40%	 0.90%	
+Saudi	Arabia	 6.70%	 1.20%	
+United	Arab	Emirates	 6.40%	 0.90%	
+Middle	East	 6.88%	 1.38%	
+Andorra	 7.45%	 1.95%	Liechtenstein	 5.50%	 0.00%	
+Austria	 5.50%	 0.00%	Luxembourg	 5.50%	 0.00%	
+Belgium	 6.70%	 1.20%	Malta	 7.45%	 1.95%	
+Cyprus	 22.00%	 16.50%	Netherlands	 5.50%	 0.00%	
+Denmark	 5.50%	 0.00%	Norway	 5.50%	 0.00%	
+Finland	 5.50%	 0.00%	Portugal	 10.90%	 5.40%	
+France	 5.95%	 0.45%	Spain	 8.88%	 3.38%	
+Germany	 5.50%	 0.00%	Sweden	 5.50%	 0.00%	
+Greece	 15.63%	 10.13%	Switzerland	 5.50%	 0.00%	
+Iceland	 8.88%	 3.38%	Turkey	 8.88%	 3.38%	
+Ireland	 9.63%	 4.13%	United	Kingdom	 5.95%	 0.45%	
+Italy	 8.50%	 3.00%	Western	Europe	 6.72%	 1.22%	
+Australia	 5.50%	 0.00%	
+Cook	Islands	 12.25%	 6.75%	
+New	Zealand	 5.50%	 0.00%	
+Australia	&	NZ	 5.50%	 0.00%
+53
+EsFmaFng	ERP	for	Disney:	November	2013	
+¨  IncorporaFon:	The	convenFonal	pracFce	on	equity	risk	premiums	is	to	
+esFmate	an	ERP	based	upon	where	a	company	is	incorporated.	Thus,	the	
+cost	of	equity	for	Disney	would	be	computed	based	on	the	US	equity	risk	
+premium,	because	it	is	a	US	company,	and	the	Brazilian	ERP	would	be	
+used	for	Vale,	because	it	is	a	Brazilian	company.	
+¨  OperaFons:	The	more	sensible	pracFce	on	equity	risk	premium	is	to	
+esFmate	an	ERP	based	upon	where	a	company	operates.	For	Disney	in	
+2013:	
+Aswath Damodaran
+Region/ Country Proportion of Disney’ s 
+Revenues ERP
+US& Canada 82.01%	 5.50%
+Europe	 11.64%	 6.72%
+Asia-Paciﬁc	 6.02%	 7.27%
+LaFn	America	 0.33%	 9.44%
+Disney 100.00% 5.76%
+54
+ERP	for	the	Rest:	November	2013	
+Aswath Damodaran
+Company Region/ Country Weight ERP
+Bookscape United States 100% 5.50%
+Vale
+US & Canada 4.90% 5.50%
+Brazil 16.90% 8.50%
+Rest of Latin 
+America 1.70% 10.09%
+China 37.00% 6.94%
+Japan 10.30% 6.70%
+Rest of Asia 8.50% 8.61%
+Europe 17.20% 6.72%
+Rest of World 3.50% 10.06%
+Company 100.00% 7.38%
+Tata Motors
+India 23.90% 9.10%
+China 23.60% 6.94%
+UK 11.90% 5.95%
+United States 10.00% 5.50%
+Mainland Europe 11.70% 6.85%
+Rest of World 18.90% 6.98%
+Company 100.00% 7.19%
+Baidu China 100% 6.94%
+Deutsche Bank
+Germany 35.93% 5.50%
+North America 24.72% 5.50%	
+Rest of Europe 28.67% 7.02%	
+Asia-Paciﬁc 10.68% 7.27%	
+South America 0.00% 9.44%	
+Company 100.00%	 6.12%	
+In November 2013, 
+the mature market 
+premium used was 
+5.5%
+55
+A	Composite	way	of	esFmaFng	ERP	for	
+countries	
+Step	1:	EsFmate	an	equity	risk	premium	for	a	mature	market.	If	your	
+preference	is	for	a	forward	looking,	updated	number,	you	can	
+esFmate	an	implied	equity	risk	premium	for	the	US	(assuming	that	
+you	buy	into	the	contenFon	that	it	is	a	mature	market)	
+¤  My	esFmate:	In	January	2016,	my	esFmate	for	the	implied	premium	in	the	
+US	was	5.25%.	That	will	also	be	my	esFmate	for	a	mature	market	ERP.	
+Step	2:	Come	up	with	a	generic	and	measurable	deﬁniFon	of	a	mature	
+market.		
+¤  My	esFmate:	Any	AAA	rated	country	is	mature.	
+Step	3:	EsFmate	the	addiFonal	risk	premium	that	you	will	charge	for	
+markets	that	are	not	mature.	You	have	two	choices:		
+¤  The	default	spread	for	the	country,	esFmated	based	either	on	sovereign	
+raFngs	or	the	CDS	market.	
+¤  A	scaled	up	default	spread,	where	you	adjust	the	default	spread	upwards	
+for	the	addiFonal	risk	in	equity	markets.	
+Aswath Damodaran
+Black #: Total ERP
+Red #: Country risk premium
+AVG: GDP weighted average
+ERP : Jan 2016
+57
+6	ApplicaFon	Test:	EsFmaFng	a	Market	
+Risk	Premium	
+¨  For	your	company,	get	the	geographical	breakdown	of	revenues	in	
+the	most	recent	year.	Based	upon	this	revenue	breakdown	and	the	
+most	recent	country	risk	premiums,	esFmate	the	equity	risk	
+premium	that	you	would	use	for	your	company.	
+¨  This	computaFon	was	based	enFrely	on	revenues.	With	your	
+company,	what	concerns	would	you	have	about	your	esFmate	
+being	too	high	or	too	low?	
+Bloomberg	DES	Pg	4	
+Aswath Damodaran
+58
+III.	The	Beta	
+¨  The	beta	of	a	stock	(asset)	measures	its	exposure	to	market	
+risk,	i.e.,	the	risk	that	cannot	be	diversiﬁed	away	by	the	
+marginal	investors.	It	is	therefore	a	measure	of	exposure	to	
+broad	macroeconomic	risk	factors.	
+¨  The	beta	of	a	stock	is	standardized	around	one.	
+¤  A	beta	that	is	greater	than	one	indicates	above-average	risk	
+¤  A	beta	that	is	close	to	one	indicates	average	risk	
+¤  A	beta	less	than	one	indicates	below	average	risk	
+¤  A	beta	below	zero	is	a	indicaFon	of	a	market	risk	reducing	investment	
+¨  ImplicaFons:	
+¤  The	weighted	average	beta	of	stocks	in	any	market	(even	the	most	
+risky	ones)	is	one.	Thus,	beta	cannot	carry	the	weight	of	country	risk.	
+¤  A	stock	can	be	risky	and	have	a	low	beta,	if	most	of	the	risk	in	the	stock	
+is	ﬁrm-speciﬁc	risk.
+59
+Measuring	Beta	
+¨  The	standard	procedure	is	to	regress	stock	returns	(Rj)	against	market	returns	(Rm):	
+Rj	=	a	+	b	Rm	
+¨  Risk	measure:	The	slope	of	the	regression	(b)	corresponds	to	the	beta	of	the	stock,	and	
+measures	the	riskiness	of	the	stock.	The	regression	yields	a	range	on	the	beta	that	can	be	
+computed	from	the	standard	error	of	the	beta	esFmate.		
+¤ Plus	(minus)	one	standard	errors:	67%	conﬁdence	interval	
+¤ Plus	(minus)	two	standard	errors:	95%	conﬁdence	interval	
+¨  Performance	measure:	The	intercept	(a)	of	the	regression	is	a	measure	of	how	well	or	badly	
+the	stock	performed	during	the	period	of	the	regression,	aRer	adjusFng	for	risk	and	market	
+performance.	If	the	regression	is	run	with	raw	returns,	the	intercept	has	to	be	compared	to	
+Rf	(1-	Beta)	to	measure	what’s	called	Jensen’s	alpha	(a	–	Rf	(1-	Beta))	
+a	>	Rf	(1-b)	:	PosiFve	Jensen’s	alpha	=		Stock	did	beQer	than	expected	during	regression	period	
+a	=	Rf	(1-b):	:	Zero	Jensen’s	alpha	=		Stock	did	as	wellr	than	expected	during	regression	period	
+a	<	Rf	(1-b)	:	NegaFve	Jensen’s	alpha	=		Stock	did	worse	than	expected	during	regression	period	
+¨  Risk	source:	The		R	squared	(R2)	of	the	regression	provides	an	esFmate	of	the	proporFon	of	
+the	risk	(variance)	of	a	ﬁrm	that	can	be	aQributed	to	market	risk.
+60
+Sexng	up	for	the	EsFmaFon	
+¨  Decide	on	an	esFmaFon	period	
+¤  Services	use	periods	ranging	from	2	to	5	years	for	the	regression	
+¤  Longer	esFmaFon	period	provides	more	data,	but	ﬁrms	change.	
+¤  Shorter	periods	can	be	aﬀected	more	easily	by	signiﬁcant	ﬁrm-speciﬁc	
+event	that	occurred	during	the	period.	
+¨  Decide	on	a	return	interval	-	daily,	weekly,	monthly	
+¤  Shorter	intervals	yield	more	observaFons,	but	suﬀer	from	more	noise.	
+¤  Noise	is	created	by	stocks	not	trading	and	biases	all	betas	towards	one.	
+¨  EsFmate	returns	(including	dividends)	on	stock	
+¤  Return	=	(PriceEnd	-	PriceBeginning	+	DividendsPeriod)/	PriceBeginning	
+¤  Included	dividends	only	in	ex-dividend	month	
+¨  Choose	a	market	index,	and	esFmate	returns	(inclusive	of	
+dividends)	on	the	index	for	each	interval	for	the	period.	
+Aswath Damodaran
+61
+Disney:	Beta	Regression	
+The risk free rate used in the Jensen’s alpha is the average, short term  risk free 
+rate during the period of the regression.
+62
+Measuring	Performance	
+The	Jensen’s	alpha	for	Disney	is	7.19%.	This	suggests	
+that	the	stock	earned	an	annual	return	7.19%	more	
+than	the	market,	aRer	adjusFng	for	risk.	Does	it	follow	
+that	the	managers	of	Disney	did	a	good	job	during	this	
+period?	
+a.  Yes	
+b.  No	
+Explain.	
+	
+	
+Aswath Damodaran
+63
+The	Beta	
+The	beta	for	Disney	in	this	regression	is	1.25.	If	you	check	
+Disney’s	beta	from	a	diﬀerent	service	(Yahoo,	Value	Line),	
+would	you	expect	to	see	the	same	number?	
+a.  Yes	
+b.  No	
+If	the	betas	are	diﬀerent,	how	do	you	decide	which	one	to	
+use?	
+a.  The	highest	of	the	numbers	
+b.  The	lowest	of	the	numbers	
+c.  The	average	of	the	numbers	
+d.  Other	
+Aswath Damodaran
+64
+The	R-squared	
+The	R-squared	measures	the	proporFon	of	risk	in	
+Disney	that	comes	from	the	market.	If	you	are	a	
+diversiﬁed	investor,	would	you	want	this	number	to	be	
+a	high	or	a	low	number?	
+a.  High	
+b.  Low	
+Would	your	answer	be	diﬀerent	if	you	were	not	diversiﬁed?	
+Aswath Damodaran
+65
+EsFmaFng	Expected	Returns	for	Disney	in	
+November	2013	
+¨  Inputs	to	the	expected	return	calculaFon	
+¤  Disney’s	Beta	=	1.25	
+¤  Riskfree	Rate	=	2.75%	(U.S.	ten-year	T.Bond	rate	in	
+November	2013)	
+¤  Risk	Premium	=	5.76%	(Based	on	Disney’s	operaFng	
+exposure)	
+Expected	Return	=		Riskfree	Rate	+	Beta	(Risk	Premium)	
+		 				=			2.75%												+	1.25	(5.76%)	=	9.95%	
+Aswath Damodaran
+66
+Use	to	a	PotenFal	Investor	in	Disney	
+¨  As	a	potenFal	investor	in	Disney,	what	does	this	expected	
+return	of	9.95%	tell	you?	
+¤  This	is	the	return	that	I	can	expect	to	make	in	the	long	term	on	Disney,	
+if	the	stock	is	correctly	priced	and	the	CAPM	is	the	right	model	for	risk,	
+¤  This	is	the	return	that	I	need	to	make	on	Disney	in	the	long	term	to	
+break	even	on	my	investment	in	the	stock	
+¤  Both	
+¨  Assume	now	that	you	are	an	acFve	investor	and	that	your	
+research	suggests	that	an	investment	in	Disney	will	yield	
+12.5%	a	year	for	the	next	5	years.	Based	upon	the	expected	
+return	of	9.95%,	you	would	
+¤  Buy	the	stock	
+¤  Sell	the	stock	
+Aswath Damodaran
+67
+How	managers	use	this	expected	return	
+¨  Managers	at	Disney	
+¤  need	to	make	at	least	9.95%	as	a	return	for	their	equity	
+investors	to	break	even.	
+¤  this	is	the	hurdle	rate	for	projects,	when	the	investment	is	
+analyzed	from	an	equity	standpoint	
+¨  In	other	words,		Disney’s	cost	of	equity	is	9.95%.	
+¨  What	is	the	cost	of	not	delivering	this	cost	of	equity?	
+Aswath Damodaran
+68
+Regression	DiagnosFcs	for	Tata	Motors	
+Beta = 1.83
+67% range
+1.67-1.99
+Jensen’s α
+= 2.28% - 4%/12 (1-1.83) = 2.56%
+ Annualized = (1-.0256)12-1= 35.42%
+Average riskfree rate (2008-13) = 4%
+69% market risk
+31% ﬁrm speciﬁc
+Expected Return (in Rupees)
+= Riskfree Rate+ Beta*Risk premium
+= 6.57%+ 1.83 (7.19%) = 19.73%
+Aswath Damodaran
+69
+6	ApplicaFon	Test:	Analyzing	the	Risk	
+Regression	
+¨  Using	your	Bloomberg	risk	and	return	print	out,	answer	the	
+following	quesFons:	
+¤  How	well	or	badly	did	your	stock	do,	relaFve	to	the	market,	during	the	
+period	of	the	regression?		
+¤  Intercept	-	(Riskfree	Rate/n)	(1-	Beta)	=	Jensen’s	Alpha	
+where	n	is	the	number	of	return	periods	in	a	year	(12	if	monthly;	52	if	
+weekly)	
+¤  What	proporFon	of	the	risk	in	your	stock	is	aQributable	to	the	market?	
+What	proporFon	is	ﬁrm-speciﬁc?	
+¤  What	is	the	historical	esFmate	of	beta	for	your	stock?	What	is	the	
+range	on	this	esFmate	with	67%	probability?	With	95%	probability?	
+¤  Based	upon	this	beta,	what	is	your	esFmate	of	the	required	return	on	
+this	stock?	
+	Riskless	Rate	+	Beta	*	Risk	Premium	 B	Beta	Page	
+PB	Page	23-26	
+Aswath Damodaran
+70
+The	problem	with	regression	betas	
+¨  They	are	backward	looking:	By	deﬁniFon,	a	regression	beta	is	
+backward	looking	because	it	is	computed	based	upon	past	
+returns.	Consequently,	if	a	company’s	business	mix	or	
+ﬁnancial	leverage	has	changed	during	the	regression	period,	
+the	regression	beta	(even	if	well	esFmated)	is	no	longer	
+operaFonal.	
+¨  They	are	subject	to	manipulaFon:	Changing	the	market	index	
+used,	the	Fme	period	of	the	regression	or	even	the	return	
+intervals	(daily,	weekly,	monthly)	can	yield	very	diﬀerent	
+regression	output.	
+¨  They	are	noisy:	A	regression	slope	(which	is	what	we	use	as	a	
+beta)	comes	with	a	standard	error,	and	if	you	regress	a	stock	
+against	a	broad	enough	index,	the	regression	beta	should	
+have	a	high	standard	error	(it	is	a	feature,	not	a	bug)>
+71
+Beta:	Exploring	Fundamentals	
+Beta > 2
+Beta 
+between 1 
+and 2
+Beta <1
+Beta <0
+GE: 1.15
+Microsoft:  1.25
+Exxon Mobil: 0.70
+Altria (Philip Morris):  0.60
+Bulgari: 2.45
+Qwest Communications: 1.85
+Harmony Gold Mining:  -0.15
+Aswath Damodaran
+72
+Determinant	1:	Product	Type	
+¨  Industry	Eﬀects:	The	beta	value	for	a	ﬁrm	depends	
+upon	the	sensiFvity	of	the	demand	for	its	products	
+and	services	and	of	its	costs	to	macroeconomic	
+factors	that	aﬀect	the	overall	market.		
+¤  Cyclical	companies	have	higher	betas	than	non-cyclical	
+ﬁrms	
+¤  Firms	which	sell	more	discreFonary	products	will	have	
+higher	betas	than	ﬁrms	that	sell	less	discreFonary	products	
+Aswath Damodaran
+73
+Determinant	2:	OperaFng	Leverage	Eﬀects	
+¨  OperaFng	leverage	refers	to	the	proporFon	of	the	
+total	costs	of	the	ﬁrm	that	are	ﬁxed.		
+¨  Other	things	remaining	equal,	higher	operaFng	
+leverage	results	in	greater	earnings	variability	which	
+in	turn	results	in	higher	betas.	
+Aswath Damodaran
+74
+Measuring	Disney’s	OperaFng	Leverage:	
+1987-	2013	
+	
+Aswath Damodaran
+Year Net Sales % Change in 
+Sales
+EBIT % Change in 
+EBIT
+1987 $2,877   $756  
+1988 $3,438 19.50% $848 12.17%
+1989 $4,594 33.62% $1,177 38.80%
+1990 $5,844 27.21% $1,368 16.23%
+1991 $6,182 5.78% $1,124 -17.84%
+1992 $7,504 21.38% $1,287 14.50%
+1993 $8,529 13.66% $1,560 21.21%
+1994 $10,055 17.89% $1,804 15.64%
+1995 $12,112 20.46% $2,262 25.39%
+1996 $18,739 54.71% $3,024 33.69%
+1997 $22,473 19.93% $3,945 30.46%
+1998 $22,976 2.24% $3,843 -2.59%
+1999 $23,435 2.00% $3,580 -6.84%
+2000 $25,418 8.46% $2,525 -29.47%
+2001 $25,172 -0.97% $2,832 12.16%
+2002 $25,329 0.62% $2,384 -15.82%
+2003 $27,061 6.84% $2,713 13.80%
+2004 $30,752 13.64% $4,048 49.21%
+2005 $31,944 3.88% $4,107 1.46%
+2006 $33,747 5.64% $5,355 30.39%
+2007 $35,510 5.22% $6,829 27.53%
+2008 $37,843 6.57% $7,404 8.42%
+2009 $36,149 -4.48% $5,697 -23.06%
+2010 $38,063 5.29% $6,726 18.06%
+2011 $40,893 7.44% $7,781 15.69%
+2012 $42,278 3.39% $8,863 13.91%
+2013 $45,041 6.54% $9,450 6.62% Operating Leverage 
+Average: 
+87-13   11.79% 11.91% 11.91/11.79 =1.01 
+Average: 
+96-13   8.16% 10.20% 10.20/8.16 =1.25 
+Average across entertainment companies = 1.35
+Given Disney’s operating leverage measures (1.01 
+or 1.25), would you expect Disney to have a higher 
+or a lower beta than other entertainment 
+companies?
+a.  Higher
+b.  Lower
+c.  No effect
+75
+Determinant	3:	Financial	Leverage	
+¨  As	ﬁrms	borrow,	they	create	ﬁxed	costs	(interest	payments)	that	
+make	their	earnings	to	equity	investors	more	volaFle.	
+¨  This	increased	earnings	volaFlity	which	increases	the	equity	beta.		
+¨  The	beta	of	equity	alone	can	be	wriQen	as	a	funcFon	of	the	
+unlevered	beta	and	the	debt-equity	raFo	
+¨  βL	=	βu	(1+	((1-t)D/E))	
+where	
+¤  βL	=	Levered	or	Equity	Beta 	D/E	=	Market	value	Debt	to	equity	raFo	
+¤  βu	=	Unlevered	or	Asset	Beta 	t	=	Marginal	tax	rate	
+¨  Earlier,	we	esFmated	the	beta	for	Disney	from	a	regression.	Was	
+that	beta	a	levered	or	unlevered	beta?	
+a.  Levered	
+b.  Unlevered	
+Aswath Damodaran
+76
+Eﬀects	of	leverage	on	betas:	Disney	
+¨  The	regression	beta	for	Disney	is	1.25.	This	beta	is	a	
+levered	beta	(because	it	is	based	on	stock	prices,	which	
+reﬂect	leverage)	and	the	leverage	implicit	in	the	beta	
+esFmate	is	the	average	market	debt	equity	raFo	during	
+the	period	of	the	regression	(2008	to	2013)	
+¨  The	average	debt	equity	raFo	during	this	period	was	
+19.44%.	
+¨  The	unlevered	beta	for	Disney	can	then	be	esFmated	
+(using	a	marginal	tax	rate	of	36.1%) 		
+=	Current	Beta	/	(1	+	(1	-	tax	rate)	(Average	Debt/Equity))	
+=	1.25	/	(1	+	(1	-	0.361)(0.1944))=	1.1119	
+Aswath Damodaran
+77
+Disney	:	Beta	and	Financial	Leverage	
+Aswath Damodaran
+Debt to Capital Debt/Equity Ratio Beta Effect of Leverage 
+0.00% 0.00% 1.11 0.00 
+10.00% 11.11% 1.1908 0.08 
+20.00% 25.00% 1.29 0.18 
+30.00% 42.86% 1.42 0.30 
+40.00% 66.67% 1.59 0.47 
+50.00% 100.00% 1.82 0.71 
+60.00% 150.00% 2.18 1.07 
+70.00% 233.33% 2.77 1.66 
+80.00% 400.00% 3.95 2.84 
+90.00% 900.00% 7.51 6.39
+78
+Betas	are	weighted	Averages	
+¨  The	beta	of	a	porwolio	is	always	the	market-value	
+weighted	average	of	the	betas	of	the	individual	
+investments	in	that	porwolio.	
+¨  Thus,	
+¤  the	beta	of	a	mutual	fund	is	the	weighted	average	of	the	
+betas	of	the	stocks	and	other	investment	in	that	porwolio	
+¤  the	beta	of	a	ﬁrm	aRer	a	merger	is	the	market-value	
+weighted	average	of	the	betas	of	the	companies	involved	
+in	the	merger.	
+Aswath Damodaran
+79
+BoQom-up	versus	Top-down	Beta	
+¨  The	top-down	beta	for	a	ﬁrm	comes	from	a	regression	
+¨  The	boQom	up	beta	can	be	esFmated	by	doing	the	following:	
+¤  Find	out	the	businesses	that	a	ﬁrm	operates	in	
+¤  Find	the	unlevered	betas	of	other	ﬁrms	in	these	businesses	
+¤  Take	a	weighted	(by	sales	or	operaFng	income)	average	of	these	
+unlevered	betas	
+¤  Lever	up	using	the	ﬁrm’s	debt/equity	raFo	
+¨  The	boQom	up	beta	is	a	beQer	esFmate	than	the	top	down	
+beta	for	the	following	reasons	
+¤  The	standard	error	of	the	beta	esFmate	will	be	much	lower	
+¤  The	betas		can	reﬂect	the	current	(and	even	expected	future)	mix	of	
+businesses	that	the	ﬁrm	is	in	rather	than	the	historical	mix	
+Aswath Damodaran
+80
+Disney’s	businesses:	The	ﬁnancial	
+breakdown	(from	2013	annual	report)	
+Aswath Damodaran
+81
+Unlevered	Betas	for	businesses	
+Aswath Damodaran
+€ 
+Unlevered Beta
+(1 -  Cash/ Firm Value)
+Business	 Comparable	ﬁrms	
+Sample	
+size	
+Median	
+Beta	
+Median	
+D/E	
+Median	
+Tax	rate	
+Company	
+Unlevered	
+Beta	
+Median	
+Cash/	
+Firm	
+Value	
+Business	
+Unlevered	
+Beta	
+Media	Networks	
+US		ﬁrms	in	
+broadcasFng	
+business	 26	 1.43	 71.09%	 40.00%	 1.0024	 2.80%	 1.0313	
+Parks	&	Resorts	
+Global	ﬁrms	in	
+amusement	park	
+business	 20	 0.87	 46.76%	 35.67%	 0.6677	 4.95%	 0.7024	
+Studio	
+Entertainment	 US	movie	ﬁrms	 10	 1.24	 27.06%	 40.00%	 1.0668	 2.96%	 1.0993	
+Consumer	
+Products	
+Global	ﬁrms	in	
+toys/games	
+producFon	&	retail	 44	 0.74	 29.53%	 25.00%	 0.6034	 10.64%	 0.6752	
+InteracFve	
+Global	computer	
+gaming	ﬁrms	 33	 1.03	 3.26%	 34.55%	 1.0085	 17.25%	 1.2187
+82
+A	closer	look	at	the	process…	
+Studio	Entertainment	Betas	
+Aswath Damodaran
+83
+Backing	into	a	pure	play	beta:	Studio	
+Entertainment	
+Aswath Damodaran
+83
+1. Start with the median regression beta (equity beta) of 1.24
+2. Unlever the beta, using the median gross D/E ratio of 27.06%
+Gross D/E ratio = 21.30/78.70 = 27.06% 
+Unlevered beta = 1.24/ (1+ (1-.4) (.2706)) = 1.0668
+3. Take out the cash effect, using the median cash/value of 2.96%
+(.0296) (0) + (1-.0296) (Beta of movie business) = 1.0668
+Beta of movie business = 1.0668/(1-.0296) = 1.0993
+Alternatively, you could have used the net debt to equity ratio
+Net D/E ratio = (21.30-2.96)/78.70 = 23.30%
+Unlevered beta for movies = 1.24/ (1+(1-.4)(.233)) = 1.0879
+The Median Movie Company
+Movie Business 97.04 Beta (movies) = 1.0093
+Cash Businesss   2.96 Beta (cash) = 0.0000
+Movie Company 100.0 Beta (company) = 1.0668
+Debt 21.30 Beta (debt) = 0
+Equity 78.70 Beta (equity) = 1.24
+84
+Disney’s	unlevered	beta:	OperaFons	&	
+EnFre	Company	
+Aswath Damodaran
+Disney has $3.93 billion in cash, invested in close to riskless assets (with a beta of zero). You  
+can compute an unlevered beta for Disney as a company (inclusive of cash):
+Business	 Revenues	 EV/Sales	
+Value	of	
+Business	
+ProporDon	of	
+Disney	
+Unlevered	
+beta	 Value	 ProporDon	
+Media	Networks	 $20,356	 3.27	 $66,580	 49.27%	 1.03	 $66,579.81	 49.27%	
+Parks	&	Resorts	 $14,087	 3.24	 $45,683	 33.81%	 0.70	 $45,682.80	 33.81%	
+Studio	Entertainment	 $5,979	 3.05	 $18,234	 13.49%	 1.10	 $18,234.27	 13.49%	
+Consumer	Products	 $3,555	 0.83	 $2,952	 2.18%	 0.68	 $2,951.50	 2.18%	
+InteracFve	 $1,064	 1.58	 $1,684	 1.25%	 1.22	 $1,683.72	 1.25%	
+Disney	OperaFons	 $45,041	 $135,132	 100.00%	 0.9239	 $135,132.11
+85
+The	levered	beta:	Disney	and	its	divisions	
+¨  To	esFmate	the	debt	raFos	for	division,	we	allocate	Disney’s	total	debt	
+($15,961	million)	to	its	divisions	based	on	idenFﬁable	assets.		
+	
+	
+¨  We	use	the	allocated	debt	to	compute	D/E	raFos	and	levered	betas.	
+Aswath Damodaran
+Business	 Unlevered	beta	 Value	of	business	 D/E	raDo	 Levered	beta	 Cost	of	Equity	
+Media	Networks	 1.0313	 $66,580	 10.03%	 1.0975	 9.07%	
+Parks	&	Resorts	 0.7024	 $45,683	 11.41%	 0.7537	 7.09%	
+Studio	Entertainment	 1.0993	 $18,234	 20.71%	 1.2448	 9.92%	
+Consumer	Products	 0.6752	 $2,952	 117.11%	 1.1805	 9.55%	
+InteracFve	 1.2187	 $1,684	 41.07%	 1.5385	 11.61%	
+Disney	OperaFons	 0.9239	 $135,132	 13.10%	 1.0012	 8.52%
+86
+	Discussion	Issue	
+¨  Assume	now	that	you	are	the	CFO	of	Disney.	The	
+head	of	the	movie	business	has	come	to	you	with	a	
+new	big	budget	movie	that	he	would	like	you	to	
+fund.	He	claims	that	his	analysis	of	the	movie	
+indicates	that	it	will	generate	a	return	on	equity	of	
+9.5%.	Would	you	fund	it?	
+a.  Yes.	It	is	higher	than	the	cost	of	equity	for	Disney	as	a	
+company	
+b.  No.	It	is	lower	than	the	cost	of	equity	for	the	movie	
+business.	
+¨  What	are	the	broader	implicaFons	of	your	choice?	
+Aswath Damodaran
+87
+EsFmaFng	BoQom	Up	Betas	&	Costs	of	
+Equity:	Vale	
+Aswath Damodaran
+Business' Sample'
+Sample'
+size'
+Unlevered'beta'
+of'business' Revenues'
+Peer'Group'
+EV/Sales'
+Value'of'
+Business'
+Proportion'of'
+Vale'
+Metals'&'
+Mining'
+Global'firms'in'metals'&'
+mining,'Market'cap>$1'
+billion' 48' 0.86' $9,013' 1.97' $17,739' 16.65%'
+Iron'Ore' Global'firms'in'iron'ore' 78' 0.83' $32,717' 2.48' $81,188' 76.20%'
+Fertilizers'
+Global'specialty'
+chemical'firms' 693' 0.99' $3,777' 1.52' $5,741' 5.39%'
+Logistics'
+Global'transportation'
+firms' 223' 0.75' $1,644' 1.14' $1,874' 1.76%'
+Vale'
+Operations' '' '' 0.8440' $47,151' '' $106,543' 100.00%'
+88
+Vale:	Cost	of	Equity	CalculaFon	–	in	
+nominal	$R	
+¨  To	convert	a	discount	rate	in	one	currency	to	another,	all	you	need	are	
+expected	inﬂaFon	rates	in	the	two	currencies.	
+	
+¨  From	US	$	to	R$:	If	we	use	2%	as	the	inﬂaFon	rate	in	US	dollars	and	9%	as	
+the	inﬂaFon	raFo	in	Brazil,	we	can	convert	Vale’s	US	dollar	cost	of	equity	
+of	11.23%	to	a	$R	cost	of	equity:	
+¨  AlternaFvely,	you	can	compute	a	cost	of	equity,	starFng	with	the	$R	
+riskfree	rate	of	10.18%.	
+Cost	of	Equity	in	$R	=	=	10.18%	+	1.15	(7.38%)	=	18.67%	
+	 			 	
+Aswath Damodaran
+€ 
+(1+ $ Cost of Equity) (1+ Inflation RateBrazil)
+(1+ Inflation RateUS) −1
+89
+BoQom	up	betas	&	Costs	of	Equity:	Tata	
+Motors	&	Baidu	
+¨  Tata	Motors:	We	esFmated	an	unlevered	beta	of	0.8601	
+across	76	publicly	traded	automoFve	companies	(globally)	
+and	esFmated	a	levered	beta	based	on	Tata	Motor’s	D/E	
+raFo	of	41.41%	and	a	marginal	tax	rate	of	32.45%	for	India:	
+Levered	Beta	for	Tata	Motors	=	0.8601	(1	+	(1-.3245)	(.4141))	=	1.1007		
+Cost	of	equity	(Rs)	=	6.57%	+	1.1007	(7.19%)	=	14.49%			
+¨  Baidu:	To	esFmate	its	beta,	we	looked	at	42	global	companies 	
+that	derive	all	or	most	of	their	revenues	from	online	
+adverFsing	and	esFmated	an	unlevered	beta	of	1.30	for	the	
+business.	IncorporaFng	Baidu’s	current	market	debt	to	equity 	
+raFo	of	5.23%	and	the	marginal	tax	rate	for	China	of	25%,	we	
+esFmate	Baidu’s	current	levered	beta	to	be	1.3560.	
+Levered	Beta	for	Baidu	=	1.30	(1	+	(1-.25)	(.0523))	=	1.356	
+Cost	of	Equity	for	Baidu	(Renmimbi)	=	3.50%	+	1.356	(6.94%)	=	12.91%		
+Aswath Damodaran
+90
+BoQom	up	Betas	and	Costs	of	Equity:	
+Deutsche	Bank	
+¨  We	break	Deutsche	Bank	down	into	two	businesses	–	commercial	and	
+investment	banking.		
+	
+¨  We	do	not	unlever	or	relever	betas,	because	esFmaFng	debt	and	equity	
+for	banks	is	an	exercise	in	fuFlity.	
+Aswath Damodaran
+91
+EsFmaFng	Betas	for	Non-Traded	Assets	
+¨  The	convenFonal	approaches	of	esFmaFng	betas	
+from	regressions	do	not	work	for	assets		that	are	not	
+traded.	There	are	no	stock	prices	or	historical	
+returns	that	can	be	used	to	compute	regression	
+betas.	
+¨  There	are	two	ways	in	which	betas	can	be	esFmated	
+for	non-traded	assets	
+¤  Using	comparable	ﬁrms	
+¤  Using	accounFng	earnings		
+Aswath Damodaran
+92
+Using	comparable	ﬁrms	to	esFmate	beta	
+for	Bookscape	
+Aswath Damodaran
+Unlevered beta for book company = 0.8130/ (1+ (1-.4) (.2141)) = 0.7205
+Unlevered beta for book business = 0.7205/(1-.05) = 0.7584
+93
+EsFmaFng	Bookscape	Levered	Beta	and	
+Cost	of	Equity	
+¨  Because	the	debt/equity	raFos	used	in	compuFng	
+levered	betas	are	market	debt	equity	raFos,	and	the	only	
+debt	equity	raFo	we	can	compute	for	Bookscape	is	a	
+book	value	debt	equity	raFo,	we	have	assumed	that	
+Bookscape	is	close	to	the	book	industry	median	market	
+debt	to	equity	raFo	of	21.41	percent.		
+¨  Using	a	marginal	tax	rate	of	40	percent	for	Bookscape,	
+we	get	a	levered	beta	of	0.8558.	
+Levered	beta	for	Bookscape	=	0.7584[1	+	(1	–	0.40)	(0.2141)]	=	0.8558	
+¨  Using	a	riskfree	rate	of	2.75%	(US	treasury	bond	rate)	
+and	an	equity	risk	premium	of	5.5%:	
+Cost	of	Equity	=	2.75%+	0.8558	(5.5%)	=	7.46%	
+Aswath Damodaran
+94
+Is	Beta	an	Adequate	Measure	of	Risk	for	a	
+Private	Firm?	
+¨  Beta	measures	the	risk	added	on	to	a	diversiﬁed	
+porwolio.	The	owners	of	most	private	ﬁrms	are	not	
+diversiﬁed.	Therefore,	using	beta	to	arrive	at	a	cost	
+of	equity	for	a	private	ﬁrm	will	
+a.  Under	esFmate	the	cost	of	equity	for	the	private	ﬁrm	
+b.  Over	esFmate	the	cost	of	equity	for	the	private	ﬁrm	
+c.  Could	under	or	over	esFmate	the	cost	of	equity	for	the	
+private	ﬁrm	
+Aswath Damodaran
+95
+Total	Risk	versus	Market	Risk	
+¨  Adjust	the	beta	to	reﬂect	total	risk	rather	than	market	risk.	
+This	adjustment	is	a	relaFvely	simple	one,	since	the	R	
+squared	of	the	regression	measures	the	proporFon	of	the	risk	
+that	is	market	risk.		
+¤  	Total	Beta	=	Market	Beta	/	CorrelaFon	of	the	sector	with	the	market	
+¨  	In	the	Bookscape	example,	where	the	market	beta	is	0.8558	
+and	the	average	R-squared	of	the	comparable	publicly	traded	
+ﬁrms	is	26.00%;	the	correlaFon	with	the	market	is	50.99%.	
+	
+¤  Total	Cost	of	Equity	=	2.75	+	1.6783	(5.5%)	=	11.98%	
+Market Beta
+R squared
+= 0.8558
+.5099 =1.6783
+Aswath Damodaran
+96
+6	ApplicaFon	Test:	EsFmaFng	a	BoQom-
+up	Beta	
+¨  Based	upon	the	business	or	businesses	that	your	
+ﬁrm	is	in	right	now,	and	its	current	ﬁnancial	
+leverage,	esFmate	the	boQom-up	unlevered	beta	for	
+your	ﬁrm.	
+¨  Data	Source:	You	can	get	a	lisFng	of	unlevered	betas	
+by	industry	on	my	web	site	by	going	to	updated	
+data.	 B	DES	Page	1	
+PB	Page	27-29	
+Aswath Damodaran
+97
+From	Cost	of	Equity	to	Cost	of	Capital	
+¨  The	cost	of	capital	is	a	composite	cost	to	the	ﬁrm	of	
+raising	ﬁnancing	to	fund	its	projects.		
+¨  In	addiFon	to	equity,	ﬁrms	can	raise	capital	from	
+debt	
+Aswath Damodaran
+98
+What	is	debt?	
+¨  General	Rule:	Debt	generally	has	the	following	
+characterisFcs:	
+¤  Commitment	to	make	ﬁxed	payments	in	the	future	
+¤  The	ﬁxed	payments	are	tax	deducFble	
+¤  Failure	to	make	the	payments	can	lead	to	either	default	or	
+loss	of	control	of	the	ﬁrm	to	the	party	to	whom	payments	
+are	due.	
+¨  As	a	consequence,	debt	should	include	
+¤  Any	interest-bearing	liability,	whether	short	term	or	long	
+term.	
+¤  Any	lease	obligaFon,	whether	operaFng	or	capital.	
+Aswath Damodaran
+99
+EsFmaFng	the	Cost	of	Debt	
+¨  If	the	ﬁrm	has	bonds	outstanding,	and	the	bonds	are	traded,	
+the	yield	to	maturity	on	a	long-term,	straight	(no	special	
+features)	bond	can	be	used	as	the	interest	rate.	
+¨  If	the	ﬁrm	is	rated,	use	the	raFng	and	a	typical

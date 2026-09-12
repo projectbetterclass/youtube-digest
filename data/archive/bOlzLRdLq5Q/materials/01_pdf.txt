@@ -1,0 +1,1115 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/TheoTrifecta.pdf
+
+THE THEOCRATIC TRIFECTA: 
+DECODING ESG, SUSTAINABILITY 
+AND STAKEHOLDER WEALTH
+Morality plays in markets!
+2
+The End Game in Business
+¨Businesses have always struggled with mission statements. 
+Put simply, what should the end game of a business?
+¤The simplest and most pragmatic answer is that it is to sell products 
+and services that customers want, while generating the most you can 
+in profits for their owners, over the long term.
+¤The pushback, often from non-business critics, has been that 
+businesses should also serve society, not just minimizing social costs 
+but also providing social benefits. 
+¨In recent years, that pushback has found backing within 
+business, with movements to expand business missions:
+¤To put business sustainability first
+¤To maximize the value to all stakeholders, not just owners
+¤To incorporate environmental, social and governance goals
+Corporate Finance 101
+4
+A business has many stakeholders…
+5
+In running a business, one of these stakeholders 
+has to be given primacy…
+Aswath Damodaran5
+¨In traditional corporate finance, the objective in decision making is to 
+maximize the value of the firm. 
+¨A narrower objective is to maximize stockholder wealth. When the stock 
+is traded and markets are viewed to be efficient, the objective is to 
+maximize the stock price.
+Assets Liabilities
+Assets in Place Debt
+Equity
+Fixed Claim on cash flows
+Little or No role in management
+Fixed Maturity
+Tax Deductible
+Residual Claim on cash flows
+Significant Role in management
+Perpetual Lives
+Growth Assets
+Existing Investments
+Generate cashflows today
+Includes long lived (fixed) and 
+short-lived(working 
+capital) assets
+Expected Value that will be 
+created by future investments
+Maximize 
+firm value
+Maximize equity 
+value
+Maximize market 
+estimate of equity 
+value
+6
+Giving corporate finance its focus…
+Aswath Damodaran6
+The Investment Decision
+Invest in assets that earn a 
+return greater than the 
+minimum acceptable hurdle 
+rate
+The Financing Decision
+Find the right kind of debt 
+for your ﬁrm and the right 
+mix of debt and equity to 
+fund your operations 
+The Dividend Decision
+If you cannot ﬁnd investments 
+that make your minimum 
+acceptable rate, return the cash 
+to owners of your business
+The hurdle rate 
+should reﬂect the 
+riskiness of the 
+investment and 
+the mix of debt 
+and equity used 
+to fund it.
+The return  
+should reﬂect the 
+magnitude and 
+the timing of the 
+cashﬂows as well 
+as all side effects.
+The optimal 
+mix of debt 
+and equity 
+maximizes ﬁrm 
+value
+The right kind 
+of debt 
+matches the 
+tenor of your 
+assets
+How much 
+cash you can 
+return 
+depends upon 
+current  & 
+potential 
+investment 
+opportunities
+How you choose 
+to return cash to 
+the owners will 
+depend on 
+whether they 
+prefer dividends 
+or buybacks
+Maximize the value of the business (ﬁrm)
+7
+Intrinsic Value: The Drivers
+Aswath Damodaran7
+8
+Theme 1: Corporate finance is “common sense”
+Aswath Damodaran8
+¨There is nothing earth shattering about any of the first 
+principles that govern corporate finance. 
+¤Arguing that taking investments that make 9% with funds that cost 
+10% to raise seems to be stating the obvious (the investment decision)
+¤So is noting that it is better to find a funding mix which costs 10%  
+instead of 11% (the financing decision) 
+¤And positing that if most of your investment opportunities generate 
+returns less than your cost of funding, it is best to return the cash to 
+the owners of the business and shrink the business.
+¨Shrewd business people, notwithstanding their lack of 
+exposure to corporate finance theory, have always recognized 
+these fundamentals and put them into practice.
+9
+Theme 2: Corporate finance is focused…
+Aswath Damodaran9
+¨It is the focus on maximizing the value of the business 
+that gives corporate finance its focus. As a result of this 
+singular objective, we can
+¤Choose the “right”investment decision rule to use, given a 
+menu of such rules.
+¤Determine the “right”mix of debt and equity for a specific 
+business
+¤Examine the “right”amount of cash that should be returned to 
+the owners of a business and the “right”amount to hold back as 
+a cash balance.
+¨This certitude does come at a cost. To the extent that 
+you accept the objective of maximizing firm value, 
+everything in corporate finance makes complete sense. If 
+you do not, nothing will.
+10
+Theme 3: Corporate finance is universal…
+Aswath Damodaran10
+¨Every business, small or large, public or private, US or emerging 
+market, has to make investment, financing and dividend decisions.
+¨The objective in corporate finance for all of these businesses 
+remains the same: maximizing value.
+¨While the constraints and challenges that firms face can vary 
+dramatically across firms, the first principles do not change.
+¤A publicly traded firm, with its greater access to capital markets and more 
+diversified investor base, may have much lower costs of debt and equity 
+than a private business, but they both should look for the financing mix 
+that minimizes their costs of capital.
+¤A firm in an emerging market may face greater uncertainty, when 
+assessing new investments, than a firm in a developed market, but both 
+firms should invest only if they believe they can generate higher returns on 
+their investments than they face as their respective (and very different) 
+hurdle rates.
+11
+Theme 4: If you violate first principles, you will 
+pay a price, no matter who you are..
+Aswath Damodaran11
+¨There are some investors/analysts/managers who 
+convince themselves that the first principles don’t 
+apply to them because of their superior education, 
+standing or past successes, and then proceed to put 
+into place strategies or schemes that violate first 
+principles.
+¤Sooner or later, these strategies will blow up and create 
+huge costs.
+¤Almost every corporate disaster or bubble has its origins in 
+a violation of first principles.
+12
+The Pushback..
+¨Many have argued that giving shareholders primacy is bad for 
+companies (separating them from shareholders), unfair to 
+other stakeholders, and bad for society.
+¤Those who believe that markets are short term and that companies 
+can create significant untraceable costs to society (externalities) argue 
+that the objective should be to build the most sustainable (rather than 
+the most valuable) business.
+¤Those who believe that it is unfair to other stakeholders argue that a 
+much better model would be one that maximizes stakeholder wealth, 
+and many strategists and even CEOs seem to have bought into that 
+argument.
+¤Those who believe that it is bad for society has pushed for a different 
+model, where ”goodness” operates not just as a constraint but is a 
+central objective for businesses. This is the ESG framework.
+Nothing lasts (or should last) forever!
+The Myth of Sustainability
+14
+The Corporate Life Cycle
+15
+The determinants of the life cycle
+The Length/Value of the Harvest (Mature phase)
+1. Growth in overall market
+2. Magnitude of competitive advantages 
+3. Sustainability of competitive advantages 
+Speed of Ascendancy
+1. Growth in potential market
+2. Ease of scaling up
+3. Customer Inertia (Stickiness of 
+existing product or service)
+Failure Rate
+1. Ease of entry into market
+2. Easy Access to capital
+3. Investment needs
+4. Time lag to market
+The Decline
+1. Ease of entry ito market
+2. Access to capital
+3. Investment needs
+4. Time lag to market
+The Corporate Life Cycle: Drivers and Determinants
+The End Game
+1. Ease of liquidation
+2. Value of salvageable assets
+16
+Tech versus Non-tech life cycles
+Tech ﬁrm life cycle Non-tech ﬁrm life cycle
+Tech companies 
+are able to climb 
+the growth ladder 
+faster because their 
+growth requires 
+less investment and 
+their products are 
+more likely to be 
+accepted quickly by 
+consumers.
+Tech companies don't have long "mature" periods, where 
+they get to live off the fat, because disruption is always 
+around the corner.
+Tech companies also 
+have more precipitous 
+declines from grace,  for 
+the same reason that 
+they climbed so fast, i.e, 
+new companies rise 
+faster to take their 
+business.
+Non-tech companies take longer 
+to grow, partly because they 
+need more investment to grow 
+and partly because consumer 
+inertia (attachment to existing 
+products) is more deeply set.
+ 
+Non-tech companies 
+decline over long periods 
+and may even ﬁnd ways to 
+live on as smaller, more 
+focused versions of their 
+original selves.
+Non-tech companies get longer "mature " period, 
+where they get to milk their cash cows.
+17
+The emphasis in corporate finance shifts..
+The Midlife Crisis
+Revenues
+Earnings
+Time
+The Bar Mitzvah
+The Product Test
+The Lightbulb (Idea) Moment
+The Scaling up Test
+The End Game
+Young 
+Growth
+Start-up Mature 
+Growth
+DeclineHigh GrowthLifecycle stage Mature 
+Stable
+New product 
+development
+Market 
+testing and 
+build up
+Scale up 
+production
+Augment 
+capacity + 
+New Products
+Maintain 
+capacity + 
+Acquisitions
+Reduce 
+capacityInvesting Policy
+Financing Policy
+Dividend Policy
+Equity funding, 
+debt only if 
+desperate
+Cash burn, 
+with equity 
+infusions
+Equity, public 
+market 
+option
+Cash burn 
+maximized
+Equity mainly, 
+with some 
+debt capacity
+Beginnings of 
+positive cash 
+ﬂows
+Debt capacity 
+increases
+Cash buildup, 
+if not returned
+Debt capacity 
+maximized
+Peak cash 
+returns
+Debt scales 
+down with ﬁrm
+Cash return 
+from asset 
+divestitures
+18
+In value, the emphasis shifts as well, from 
+narrative to numbers…
+19
+And the focus changes.... And so does the right 
+CEO for the company
+20
+Companies, act your age!
+¨For many reasons, companies try to speed up or slow 
+down aging 
+¤Young companies that borrow money to grow faster, invest without 
+a purpose or with too much focus on short term profits or pay 
+dividends.
+¤Mature growth companies that act young and refuse to return 
+cash.
+¤Stable companies that try to be growth companies through 
+acquisitions.
+¤Declining companies  that think they can reverse decline, with new 
+management and a new business plan.
+Companies that don’t “act their age” will not only destroy 
+value for their owners but will also be drags on the 
+economy.
+21
+The Dream of Reincarnation.. 
+¨The dream of mature and declining companies is rebirth, 
+i.e., the possibility that they can rediscover their youth, 
+and become young, growth companies again. 
+¨In every period, there are a few companies that seem to 
+succeed at this venture, and the companies and their 
+CEOs become legendary, with case studies written about 
+them.
+¤In some of these companies, it is a combination of great 
+management, luck and timing that allow for this success.
+¤In others, the change is cosmetic.
+¨There is an ecosystem that is built around these “success 
+stories” that markets them to other aging companies.
+22
+The Sustainability Siren Song..
+¨If the sales pitch of sustainability is that managers should 
+make decisions based upon what is good for long term value, 
+rather than stock price, and that businesses should minimize 
+externalities, it is saying nothing new. 
+¤Milton Friedman would have agreed with that statement, and it is 
+actually at the basis of traditional corporate finance.
+¤Sustainability experts are the last people you should be consulting on 
+whether decisions increase value.
+¨If the end game of sustainability is that companies should 
+focus on “survival” and extending their corporate lives, it has 
+lost its way. 
+¤There is no glory in growth for the sake of growth, or in survival, for 
+the sake of survival. That is a recipe for “walking dead” or ”zombie” 
+companies.
+23
+Three Sustainability Models
+¨The Enlighted one(s): In this model, those in charge of 
+sustainability are capable (more so than the mere 
+mortals that surround them at businesses) to see into 
+the future and bring in long term consequences into 
+decisions.
+¨The Jiminy Cricket model: In this model, those in charge 
+of sustainability acts as the corporate conscience, 
+reminding decision makers of their responsibilities to 
+society and the broader good.
+¨The Mummy Makers: In this model, decision makers try 
+to make companies live forever, no matter what the cost, 
+and devise strategies to advance towards this end.
+A fair solution or kumbaya moment?
+Stakeholder Wealth Maximization
+25
+Maximize stakeholder wealth
+¨A fairness argument:  To the extent that shareholder 
+wealth maximization seems to, at least at first sight, put 
+all other stakeholders in the back seat, it seems unfair .
+¨An Easy Fix? The logical response seems to be 
+stakeholder wealth maximization, where the collective 
+wealth of all stakeholders is maximized. That is the 
+promise of stakeholder wealth maximization.
+¨Protective response: As corporations have found 
+themselves losing the battle for public opinions, many 
+CEOs and even some institutional investors seem to have 
+bought into this idea.
+Aswath Damodaran25
+26
+The Business Roundtable’s Message..
+¨While each of our individual companies serves its own corporate purpose, 
+we share a fundamental commitment to all of our stakeholders. We 
+commit to:
+¤Delivering value to our customers. We will further the tradition of American 
+companies leading the way in meeting or exceeding customer expectations.
+¤Investing in our employees. This starts with compensating them fairly and 
+providing important benefits. It also includes supporting them through training and 
+education that help develop new skills for a rapidly changing world. We foster 
+diversity and inclusion, dignity and respect.
+¤Dealing fairly and ethically with our suppliers.We are dedicated to serving as 
+good partners to the other companies, large and small, that help us meet our 
+missions.
+¤Supporting the communities in which we work. We respect the people in our 
+communities and protect the environment by embracing sustainable practices 
+across our businesses.
+¤Generating long-term value for shareholders, who provide the capital that allows 
+companies to invest, grow and innovate. We are committed to transparency and 
+effective engagement with shareholders
+27
+Maximizing stockholder wealth often requires 
+that you take care of other stakeholders…
+¨Implicit in the stakeholder wealth maximization argument is 
+the belief that what benefits stockholders make other 
+stakeholders worse off. That is not true.
+¤Maximizing stock price is not incompatible with meeting employee 
+needs/objectives. In particular:
+nEmployees are often stockholders in many firms
+nFirms that maximize stock price generally are profitable firms that 
+can afford to treat employees well.
+¤Maximizing stock price does not mean that customers are not critical 
+to success. In most businesses, keeping customers happy is the route 
+to stock price maximization.
+¤Maximizing stock price does not imply that a company has to be a 
+social outlaw.
+¨There are clearly exceptions, but to use those as the basis for 
+a revolution is foolish.
+28
+If you still want to maximize stakeholder wealth, 
+you risk confusion and paralysis…
+Aswath Damodaran28
+29
+And if confused corporatism sounds like a good 
+deal, some cautionary notes..
+¨Government-owned companies: The managers of these 
+companies were given a laundry list of objectives, resembling 
+in large part the listing of stakeholder objectives, and told to 
+deliver on them all. The end results were some of the most 
+inefficient companies on the face of the earth, with every 
+stakeholder group feeling ill-served in the process. 
+¨US research universities: These entities lack a central focus, 
+where whose interests dominate and why shifts, depending 
+on who you talk to and when. The end result is not just 
+economically inefficient operations, capable of running a 
+deficit no matter how much tuition is collection, but one 
+where every stakeholder group feels aggrieved.
+Goodness requires sacrifice!
+The ESG Bandwagon…
+31
+Why now?
+¨50 years since Friedman: The first is that it is the fiftieth 
+anniversary of one of themost influential opinion pieces in 
+media history, where Milton Friedman argued that the focus 
+of a company should be profitability, not social good. 
+¨COVID and ESG: The second were multiple news stories about 
+how "good" companies have done better during the COVID 
+crisis and how much money was flowing into ESG funds.
+¨The Establishment has bought in: The third is a more long-
+standing story line, where the establishment seems to have 
+bought into ESG consciousness, with business leaders in 
+theConference Board signing on to a "stakeholder interest" 
+statementlast year and institutional investors shifting more 
+money into ESG funds.
+32
+Measuring ESG: Challenges
+¨It is fuzzy: The first is that much of social impact is 
+qualitative and developing a numerical value for that 
+impact is difficult to do. 
+¨And personal: The second is even trickier, which is that 
+there is little consensus on what social impacts to 
+measure, and the weights to assign to them. 
+¨But it is still being measured: If your counter is that there 
+are multiple services now that measure ESG at 
+companies, you are right, but the lack of clarity and 
+consensus results in the companies being ranked very 
+differently by different services.
+33
+What is “goodness”?
+¨As an investor, rank the following companies from 
+best to worst purely on goodness:
+Company
+Your Rank  (1 = Best on ESG, 2 
+(Worst on ESG)
+Exxon Mobil
+Tesla
+Altria
+Facebook
+Microsoft
+Coca Cola
+Apple
+34
+What ESG Services think…
+ISS ESG Ranking MSCI ESGI Rating S&P ESG Score
+High Score = More ESG RiskHigher Rating = Better on ESGHigh Score = Less ESG Risk
+Microsoft (15) Microsoft (AAA) Microsoft (58)
+Apple (17) Coca Cola (AA) Altria (37)
+Altria (25) Tesla (A) Exxon Mobil (36)
+Facebook (25) Exxon Mobil (BBB) Coca Cola (33)
+Coca Cola (25) Apple (BBB) Apple (29)
+Tesla (31) Altria (BB) Tesla (15)
+Exxon Mobil (35) Facebook (B) Facebook (14)
+35
+Value Issues for Investors
+36
+ESG Services disagree…
+37
+Even on high profile companies…
+38
+As ESG disclosures increase..
+Source: Chen et al, JPM
+39
+ESG scores are improving across the board…
+Source: Chen et al, JPM
+This study also finds that a company’s ESG score 
+improves as the number of ESG data items it reports 
+go up.
+40
+But what are these ESG scores measuring?
+Source: Chen et al, JPM
+Based upon MSCI ESG 
+score, lowest to highest
+41
+If your answer is risk… look again
+42
+And the differences will not only persist…
+¨There are some who believe that this reflects a measurement 
+process that is still evolving, and that as companies provide more 
+disclosure on ESG data and ESG measurement services mature, 
+there will be consensus. I don’t believe it, because.if there were 
+consensus, it is unlikely that we would not need to convince 
+businesses to reflect that consensus.
+¨Even if you overlook disagreements on ESG as growing pains, there 
+is one more component that adds noise to the mix and that is the 
+direction of causality:
+¤Do companies perform better because they are socially conscious (good) 
+companies, or do companies that are doing well find it easier to do good?
+¤Put simply, if ESG metrics are based upon actions/measures that 
+companies that are doing better, either operationally and/or in markets, 
+can perform/deliver more easily than companies that are doing badly, 
+researchers will find that ESG and performance
+43
+But lead to gaming..
+¨The nature of any scoring system is that the “scored” 
+will learn (either because it explicitly lays out the 
+components that lead to a high score) or scores can 
+be reverse engineered to figure out what causes 
+high and low scores.
+¨The bottom line is that gaming is a feature of any 
+scored system than a bug in the system. 
+¨As scoring systems mature, the gaming gets easier 
+(not harder) making the scores even less useful.
+44
+And if the scorers are themselves confused, the 
+scored will hoist them on their petards…
+45
+The ESG Promises: Cake for all, with no calories!
+¨For companies, the promise is that being "good" 
+willgenerate higher profitsfor the company, at least in 
+thelong term, with lower risk, and thus make them 
+more valuable.
+¨For investors in these companies, the promise is that 
+investing in "good" companies willgenerate higher 
+returnsthan investing in "bad" or middling companies.
+¨For society, the promise is that not only would good 
+companies helpfight problems directly related to ESG, 
+like climate change and low wages, but also counter 
+more general problems like income inequality and 
+healthcare crises.
+46
+The ESG Questions
+47
+I. ESG and Value
+The "It Proposition” applied to ESG: ForESG to affect value,  its 
+practices have to show up in one or more of these inputs.
+48
+The Promise of Heaven : The Good shall be 
+rewarded
+49
+Examples and Counters: Patagonia and Etsy
+¨A company that is often used as an example of 
+“goodness” is Patagonia, and the company has stayed 
+true to its mission by:
+¤Remaining an annual benefit corporation
+¤Being willing to pay to do the “right” thing (at least as it sees 
+them)
+¤But is has paid the price (lower revenues, less in profits)
+¨Etsy went public as a benefit corporation, but that 
+mission clashed with its endgame of being a much larger 
+player in online merchandising. It eventually abandoned 
+its benefit corporation status, so as to be able to access 
+more capital, and is now embroiled in public fights with 
+the craftsmen who provide its merchandise.
+50
+The Warning of Hell: The Bad shall be punished
+51
+ESG’s biggest success? Fossil Fuel..
+52
+The Bad Guys win: Hell on Earth?
+53
+ESG and Growth
+¨There have been very few studies that have looked at the 
+link between ESG and growth. If there is any evidence of 
+a link, it is that it becomes more difficult to wear the 
+goodness cloak, as companies get bigger.
+¨One simple comparison is between two companies, 
+Patagonia, outspoken about its “purity of purpose” and 
+Nike, accused of being more mushy in its ESG practices. 
+¤Patagonia has revenues of less than a billion a year, and a 
+focused market (of wealthy millennials).
+¤Nike has revenues in excess of $40 billion and has to market its 
+goods to a much wider audience.
+54
+ESG and Profitability
+¨The link to profitability is weak: There aremeta studies(summaries 
+of all other studies) that finda small positive link between ESG and 
+profitability, but one that is very sensitive to how profits are 
+measured and over what period. 
+¨E, S and G have different payoffs: Breaking down ESG into its 
+component parts,some studiesfind that environment (E) offered 
+the strongest positive link to performance and social (S) the 
+weakest, with governance (G) falling in the middle.Others find that 
+governance is the dominant variable, but if so, it is the one variable 
+that predates ESG and actually pushes in the opposite direction.
+¨Uncertainty about direction of Causation: The studies that find a 
+link between profitability and ESG scores face the question of 
+which direction the causation runs: are good firms more profitable 
+or are more profitable firms more likely to be picked as good firms?
+55
+And what’s with the meta studies?
+¨ESG backers constantly point to meta studies, which are really 
+an aggregation of studies done on a topic over time.
+¨While there is a ”law of large numbers” reasoning that can be 
+used to back up this practice, it is not a good one for many 
+reasons:
+¤Averaging studies that are done at different time periods, with 
+different metrics yield averaging mush.
+¤Averaging many studies averages out mistakes, but it does not 
+eliminate bias. 
+¨The cynical way of looking at meta studies is that they point 
+to the absence of studies that can be trusted to stand on their 
+own, either because their findings are specific to the sample 
+that they are studying or the timing of the study (or worse).
+56
+ESG and Employee Satisfaction…
+57
+ESG and Funding Costs
+¨There is a stronger Link to Funding Costs:Studies of “sin” stocks, 
+i.e., companies involved in businesses such as producing alcohol, 
+tobacco, and gaming, find that these stocks are less commonly held 
+by institutions and that they face higher costs for funding, from 
+equity and debt). 
+¨The evidence for this is strongest in sectors like tobacco (starting in 
+the 1990s) and fossil fuels (especially in the last decade), but these 
+findings come with a troubling catch. While these companies face 
+higher costs, and have lower value, investors in these companies 
+generate higher returns.
+¨If this is the argument, though, be clear about the consequences:
+¤Equity investors in good companies will settle for much lower returns, 
+given risk, on their investment than in bad companies.
+¤Lenders to good companies will earn lower interest rates, given default 
+risk, than lenders to bad companies.
+58
+ESG and Catastrophic Risk
+¨Legal ≠ Sensible: The peril of playing fast and loose with the 
+rules is that sooner or later, you will be entangled in a 
+”scandal”, and that scandal will not only damage you in the 
+near term but also create reputational damage that can 
+haunt you in the long term.
+¨There is a link to Failure/Disaster Risk: “Bad” companies are 
+exposed to disaster risks, where a combination of missteps by 
+the company, luck, and a failure to build in enough protective 
+controls (because they cost too much) can cause a disaster, in 
+human and financial terms. 
+¤One studycreated a value-weighted portfolio of controversial firms 
+that had a history of violating ESG rules and reported negative excess 
+returns of 3.5% on this portfolio, even after controlling for risk, 
+industry, and company characteristics.
+59
+Valeant: A Cautionary Tale
+61
+ESG and Value: Propositions
+¨Proposition 1: Don’t be a “bad” company. The costs of being 
+bad exceed any benefits you may get from operating close to 
+the edge of what is legal or a business model that is at the 
+edge of social acceptance.
+¨Proposition 2: If you want to go beyond ”not being bad” and 
+try to be “good” , do it with the recognition that goodness will 
+often cost you in the short term (lost business, higher costs), 
+and that you may not recover that cost even in the very, very 
+long term. Put simply, the notion that being good is always 
+good for value is nonsense.
+¨Proposition 3: If being good is at the base of your business 
+model, and you generate benefits from that perception, in 
+terms of earnings and cash flows, you may have to accept a 
+lower scale (and settle for being a smaller company).
+62
+II. ESG and Returns
+¨Constrained optimal?To begin with, the notion that adding an ESG 
+constraint to investing increases expected returns is counter intuitive. 
+After all, a constrained optimum can, at best, match an unconstrained 
+one, and most of the time, the constraint will create a cost. 
+¨Truth in Advertising: In one of the few cases where honesty seems to have 
+prevailed over platitudes, the TIAA-CREF Social Choice Equity Fund 
+explicitly acknowledges this cost and uses it to explain its 
+underperformance, stating that “The CREF Social Choice Account returned 
+13.88 percent for the year [2017] compared with the 14.34 percent return 
+of its composite benchmark … Because of its ESG criteria, the Account did 
+not invest in a number of stocks and bonds ... the net effect was that the 
+Account underperformed its benchmark.” 
+¨Internal contradiction: In fact, there is an inherent contradiction, at least 
+on the surface, between arguing that ESG leads to higher value and stock 
+prices, made to CEOs and CFOs of companies, and simultaneously arguing 
+that investors in ESG stocks will earn higher (positive excess) returns.
+63
+And the research is all over the place…
+¨ Invest in bad companies: A comparisonof two Vanguard Index funds, the Vice fund 
+(invested in tobacco, gambling, and defense companies) and the FTSE Social Index fund 
+(invested in companies screened for good corporate behavior on multiple dimensions) 
+and note that a dollar invested in the former in August 2002 would have been worth 
+almost 20% more by 2015 than a dollar invested in the latter .
+¨ Invest in good companies: At the other end of the spectrum, there are studies that 
+seem to indicate that there are positive excess returns to investing in good 
+companies.A studyshowed that stocks in the Anno Domini Index (of socially conscious 
+companies) outperformed the market, but that the outperformance was more due to 
+factor and industry tilts than to social responsiveness. Some of the strongest links 
+between returns and ESG come from the governance portion, which, as we noted 
+earlier, is ironic, because the essence of governance, at least as measured in most of 
+these studies, is fealty to shareholder rights, which is at odds with the current ESG 
+framework that pushes for a stakeholder perspective.
+¨ ESG has no effect: Splitting the difference, there are other studies that find little or no 
+differences in returns between good and bad companies. In fact, studies that more 
+broadly look at factors that have driven stock returns for the last few decades find that 
+much of the positive payoff attributed to ESG comes from its correlation with 
+momentum and growth.
+64
+Why returns to ESG are tough to read…
+65
+The Pricing Effect
+¨Put simply, a study that finds a relationship (positive, negative or 
+zero) between ESG and returns is really a test of whether ESG is 
+being priced in correctly and not one of whether ESG is good for 
+investing or bad for investing.
+¨The only worthwhile conclusion that you can draw is that investing 
+in good companies (or avoiding investing in bad companies) will 
+generate higher returns if the market is underpricing the “positive” 
+effects of being good or the “negative” effects of being bad.
+¨In fact, if ESG is front and center and investors are rushing into 
+“good” companies and selling “bad” companies, the reverse will be 
+true, i.e., the market will be overpricing the positive effects of 
+being good and the negative effects of being bad. In this world, 
+investing in bad companies will generate higher risk-adjusted 
+returns that investing in good companies.
+Two plays on ESG investing
+¨ESG Exclusionary 
+Investing
+¤You remove firms that you 
+classify as “bad” firms 
+from your investment 
+universe.
+¤Implicitly, you are 
+assuming that bad firms 
+are more likely to deliver 
+negative returns and that 
+avoiding them will 
+improve returns on your 
+portfolio.
+¨ESG Inclusionary 
+Investing
+¤You seek out firms that are 
+“good’ firms for your 
+portfolio
+¤Implicitly, you are 
+assuming that firms that 
+do good are also good 
+investments and that 
+adding them will raise the 
+returns on your portfolio.
+67
+Fake ESG? BlackRock’s Carbon Transition ETF
+Expenses: 0.03% Expenses: 0.15%
+68
+A Sales Pitch for ESG Investing
+Source: Honey, I shrunk the ESG alpha
+69
+With a caveat…
+ESG scores are correlated with many factors that we know already generated 
+excess returns during the 2008-2020 time period. For instance, tech companies 
+have historically had higher ESG scores than non-tech companies. Correcting for 
+these factor skews in ESG rankings, the alphas become much smaller.
+70
+Green Bonds: The Shrinking Premium
+71
+Glimmers of hope?
+¨While the overall evidence linking ESG to returns is weak, there are two 
+pathways that offer promise:
+¤Transition Period Payoff: The first scenario requires an adjustment period, where 
+being good increases value, but investors are slow to price in this reality. During the 
+adjustment period the highly rated ESG stocks will outperform the low ESG stocks, 
+as markets slowly incorporate ESG effects, but that is a one-time adjustment effect. 
+¤Limit Downside: To the extent that socially responsible companies are less likely to 
+be caught up in controversy and court disaster, the argument is that they will also 
+have less downside risk as their counterparts who are less careful. 
+¨Investing lesson:  Investors who hope to benefit from ESG cannot do so by 
+investing mechanicallyin companies that already identified as good (or 
+bad). They have to adopt a more dynamic strategy built around either 
+aspects of corporate social responsibility that are not easily measured and 
+captured in scores but also affect value, or from getting ahead of the 
+market in recognizing aspects of corporate behavior that will hurt or help 
+the company in the long term.
+72
+The Investing Bottom Line
+¨If success in active investing is defined as attracting investor 
+money, ESG has had a successful run, but if it is defined as 
+delivering returns, it is far too early to be doing victory dances 
+in the end zone.
+¨The consensus view that ESG investing outperformed 
+the market is now getting push back, withsome arguing that 
+once you control for the sector tilt of ESG funds (they tend to 
+be more heavily invested in tech companies), ESG, by itself, 
+has provided little or no payoff to those investing on its basis.
+¨The sales pitch to investors that ESG is good for investors is at 
+cross purposes with the sales pitch to companies that ranking 
+high on ESG will reduce their risk and give them lower costs of 
+equity and debt.
+73
+III. ESG Disclosure
+¨If ESG does not add to value, at companies, or to returns, 
+for investors, there are some who argue that the primary 
+benefit of the ESG movement has been increased 
+disclosure.
+¨Implicit in this argument is the assumption that more 
+disclosure will not only induce better behavior on the 
+parts of the ”disclosing” firms, but also allow consumers 
+and investors to make more informed judgments.
+¨That push has already created results with the EU 
+leading the way on new disclosure requirements, with 
+different interest groups pushing for disclosures on their 
+favorite causes.
+74
+Disclosure and Corporate Behavior
+¨While it is possible that disclosure could lead to better 
+behavior, there are at least two potential problems.
+¤Greenwashing and Game Playing: Once the disclosure requirements 
+are set, there will be companies that find ways to play the disclosure 
+game to make themselves look better .
+¤Confess and then sin again: A more dangerous problem is that 
+companies may view disclosure as license for the disclosed bad 
+behavior .
+¨In short, the notion that requiring companies to disclose 
+more will induce better behavior is at odds with the evidence 
+on almost every aspect of disclosure that we have seen so far . 
+¤Did increased risk disclosures make companies more careful about 
+taking risk?
+¤Have corporate governance disclosures, which have exploded over the 
+last two decades, improved corporate governance at companies?
+75
+Disclosure as information
+¨In theory, disclosures should make us more informed 
+as consumers and investors, but here again, there 
+are caveats.
+¤Legalese: In an age of litigation and regulation, disclosures 
+seem to be written by lawyers and for lawyers, and there is 
+no reason to believe that ESG disclosures will be any 
+different.
+¤Information overload: As we have seen with accounting 
+disclosures, there is a danger that if ESG disclosures 
+become too extensive, they will be ignored even by people 
+who claim to care about the disclosed information.
+76
+Goodness as a shield…
+¨To the extent that ESG is on the side of “goodness”, 
+any company that wears the ESG mantle acquires 
+some degree of protection against questioning, not 
+just about ESG actions, but also against legitimate 
+business questions.
+¨While the evidence is anecdotal, at least for the 
+moment, there is some backing for the contention 
+that the companies that claim to have the purest of 
+motives often have the most to hide.
+77
+The Runaway Story: ESG as a lubricant
+¨With a  runaway business story, you usually have three 
+ingredients:
+1. Charismatic, likeable Narrator: The narrator of the business story is 
+someone that you want to see succeed, either because you like the 
+narrator or because he/she will be a good role model.
+2. Telling a story about disrupting a much business, where you dislike 
+the status quo: The status quo in the business that the story is 
+disrupting is dissatisfying (to everyone involved)>
+3. With a societal benefit as bonus: And if the story holds, society and 
+humanity will benefit.
+¨Since you want this story to work out, you stop asking 
+questions, because the answers may put the story at risk. 
+And since it will benefit society, you are reluctant to be 
+churlish enough to ask questions about the basic business 
+models.
++
+The Story The Checks (?)
++Money
++
+The Impossible: The Runaway Story
+79
+IV . The Payoff for Society
+¨There are some who believe that even if ESG makes 
+firms less valuable and investors make lower returns, 
+it is a net positive for society.
+¤It is premised on the notion that society has developed a 
+consensus on what comprises goodness.
+¤It is also based upon the presumption that companies that 
+behave well will create less side costs for society and 
+perhaps even contribute to societal good.
+¨If you accept this proposition, the trade off will be 
+positive for society.
+80
+The Law of Unintended Consequences…
+¨As publicly traded companies that are exposed to ESG 
+shaming are forced to divest themselves of their “bad” 
+businesses, it is worth remembering that selling or divesting a 
+business does not erase it from the face of the earth, but just 
+transfers it to a different owner, presumably one is less 
+exposed to the ESG shaming.
+¨In the fossil fuel business, for instance, the pressure on the 
+easily pressured (the big US/European oil companies) has led 
+them to cut back on investments in the fossil fuel space.
+¤That absence of investment is and will continue to push up the price of 
+fossil fuels, making their production more profitable.
+¤A subset of the investments are now being made by foreign companies 
+(in markets where stockholders has little power) or private equity 
+funds.
+81
+Private Equity in Fossil Fuels
+Between 2010 and 2020, private equity funds have 
+invested a trillion dollars in fossil fuel investments…
+82
+Behind the curtain…
+83
+And not surprisingly.. Barely a dent in 
+dependence on fossil fuels
+84
+While increasing its costs…
+¨As ESG pressures amp up on publicly traded fossil fuel 
+companies, especially in the US and Europe, to reduce 
+exploration and production of fossil fuels, the laws of 
+demand and supply have created a predictable 
+consequence, which is higher prices for these fossil fuels 
+(gas and oil).
+¨While ESG advocates may view this as a win, it is worth 
+remembering that 80% of global energy still comes from 
+fossil fuels, and that the people who are most exposed 
+to price increases are not the well off, urban advocates 
+of ESG but the people who are least well off (within 
+countries and across countries).
+85
+V.  Wa nt i n g  to  d o  g o o d  fo r  s o c i et y  p re d ate s  
+ESG…
+¨The notion that until ESG came along, companies (and 
+individuals) are businesses operated without a care for 
+society would be comical, if the people pushing it were 
+not so insistent that it is true.
+¨That is nonsense. People who have wanted to do good 
+have always been able to do so.
+¤In privately owned businesses, owners have always been free to 
+share their profits or give away their wealth, to meet whatever 
+societal need they felt most strongly about.
+¤In publicly traded companies, that responsibility fell to the 
+owners of its shares, who again were free to share their 
+winnings with society, in any way they though fit.
+86
+Do you want corporate managers and big fund 
+managers to be arbiters of good and bad?
+87
+Outsourcing your conscience is a salve, not a 
+solution!
+¨ The ESG movement has given each of us an easy way out of having to make 
+choices, by outsourcing these choices to corporate CEOs and investment fund 
+managers, asking them to be “good” for us, while not charging us more for their 
+products and services (as consumers) and delivering above-average returns (as 
+investors). 
+¨ Implicit in the ESG push is the presumption that unless companies that are 
+explicitly committed to ESG, they cannot contribute to society, but that is not true. 
+Consider Bill Gates and Warren Buffett, two men who built extraordinarily 
+valuable companies, have not only madegiving pledges, promising to give away 
+most of their wealth to their favorite causes in their lifetimes, and living up to that 
+promise, but they have also made their shareholders wealthy, andmany of them 
+give money back to society. 
+¨ As I see it, the difference between this “old” model of business and the proposed 
+“new ESG” version is in who does the giving to society, with corporate CEOs and 
+management taking over that responsibility from shareholders. I am not willing to 
+concede, without challenge, that a corporate CEO knows my value system better 
+than I do, as a shareholder, and is better positioned to make judgments on how 
+much to give back to society, and to whom, than I am.
+Aswath Damodaran
+88
+An inside perspective…
+¨For a perspective more informed and eloquent than mine, I would 
+strongly recommendthis piece by Tariq Fancy, whose stint at 
+BlackRock, as chief investment officer for sustainable investing, put 
+him at the heart of the ESG investing movement. 
+¤He argues that trusting companies and investment fund managers to make 
+the right judgments for society will fail, because their views (and actions) 
+will be driven by profits, for companies, and investment returns, for fund 
+managers. 
+¤He also believes that governments and regulators have been derelict in 
+writing rules and laws, allowing companies to step into the void. 
+¨While I don’t share Tariq’s faith that government actions are the 
+solution, I share his view that entities whose prime reasons for 
+existence are to generate profits for shareholders (companies) or 
+returns for investors (investment funds) all ill suited to be 
+custodians of public good.
+Aswath Damodaran
+Cui Bono?
+So, why the hype?
+90
+The ESG Gravy Train (or Circle)
+Aswath Damodaran
+91
+And why it keeps on rolling..
+¨Given that shareholders in companies and investors in funds are paying 
+for this gravy, you may wonder why corporate CEOs not only go along with 
+this charade, but also actively encourage it, and the answer lies in the 
+power it gives them to bypass shareholders and to evade accountability. 
+¨After all, these are the same CEOs who, in 2019, put forth thefanciful, but 
+great sounding, argumentthat it is a company’s responsibility to maximize 
+stakeholder wealth, rather than cater to shareholders, which Iargued in a 
+postthen that being accountable to everyone effectively meant that CEOs 
+were accountable to no one. 
+¨In some cases, flaunting goodness has become a way that founders and 
+CEOs use to cover business model weaknesses and overreach. It is a point 
+that I made in my posts onTheranos, at the time of its implosion in 
+October 2015, and onWeWork, during its IPO debacle in 2019, noting 
+that Elizabeth Holmes and Adam Neumann used their “noble purpose” 
+credentials to cover up fraud and narcissism. 
+Aswath Damodaran
+Do you want to do good?
+93
+A Roadmap for being and doing good
+1. Start with a personalized measure of goodness, and don’t overreach: The key with moral 
+codes is that they are personal, and you have to bring in your value judgments into your 
+decisions, rather than leave it to ESG measurement services or to portfolio managers.
+2. As a businessperson, be clear on how being good will affect business models and value: If 
+you own a business, you are absolutely within your rights to bring your personal views on 
+morality into your business decisions, but you should be at peace with the fact that 
+staying true to your values may, and probably will, cost you money. If you are making 
+decisions at a publicly traded company, as an employee, manager or even CEO, you are 
+investing other people’s money and if you choose to make decisions based upon your 
+moral code, you have to be open about what your conscience will cost your shareholders.
+3. As an investor, understand how much goodness has been priced in: If you are an investor, 
+you don’t have to compromise on your values, as long as you realize, at least in the long 
+term, you will have to accept lower returns. Goodness requires sacrifice!
+4. As a consumer and citizen, make choices that are consistent with your moral code:Your 
+consumption decisions (on which products and services you buy) and your citizenship 
+decisions (on voting and community participation) have as big, if not greater, an effect. 
+Aswath Damodaran
+94
+Can ESG be rescued?
+¨In its current form, and with its existing advocates, the answer is no.
+¨If corporate action to advance social good is the end game, here is what 
+has to happen:
+¤For the (E) environmental mission, the primary drivers have to be laws and 
+regulations that affect everyone, not just the companies that voluntarily toe the 
+lien. 
+¤On the (S) social mission, pick your fights selectively, don’t be holier-than-thou and 
+be clear about how much it will cost the people who are actually paying for your 
+mission.
+¤On the (G) governance, accept that it never really belonged in the concept, and 
+that you threw it in there for the same Orwellian reason that East Germany called 
+itself the German Democratic Republic and Beijing anoints China as the “People’s 
+Republic of China” .
+¨If corporate disclosure to allow consumers and investors to make more 
+informed judgments is the end game:
+¤Less is more: Drowning people in more disclosure will have perverse consequences.
+¤One size does not fit all: Disclosures should be tailored to companies.
+95
+And in conclusion..
+¨On a personal note, I have always found that the people that I've known 
+who do good, spend very little time talking about being good or lecturing 
+other people on goodness. I would extend that perspective to companies 
+and investment funds as well, and I reserve my skepticism for those 
+companies that spend hundreds of pages of their annual filings telling me 
+how much "good" they do.
+¨The ESG movement’s biggest disservice is the sense that it has given 
+those who are torn between morality and money, that they can have it all. 
+Telling companies that being good will always make them more valuable, 
+investors that they can add morality constraints to their investments and 
+earn higher returns at the same time, and young job seekers that they can 
+be paid like bankers, while doing peace corps work, is delusional. 
+¨In the long term, as the truth emerges, it will breed cynicism in everyone 
+involved, and if you care about the social good, it will do more damage 
+than good. The truth is that, most of the time, being good will cost you 
+and/or inconvenience you (as businesses, investors or employees), and 
+that you choose to be good, in spite of that concern. 
+Aswath Damodaran

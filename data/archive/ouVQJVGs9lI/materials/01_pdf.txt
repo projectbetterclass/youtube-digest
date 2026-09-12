@@ -1,0 +1,153 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate4for2024.pdf
+
+DATA UPDATE 4 FOR 2024: RISK = 
+DANGER PLUS OPPORTUNITY 
+You cannot have one without the other!
+2
+The Lead In
+¨In my last two posts, I looked at how equity markets rebounded in 
+2023, driven by a stronger-than-expected economy and inflation 
+coming down, and how interest rates mirrored this rebound. 
+¨In this post, I look at risk, a central theme in finance and investing, 
+but one that is surprisingly misunderstood and misconstrued and 
+look at variations in risk across sectors and geographies, using both 
+price-based and intrinsic measures of risk.
+¨There are wide variations in risk across companies and countries, 
+and those variations can lead to differences in expected returns and 
+hurdle rates, central to both corporate finance and investing 
+judgments.
+3
+What is risk? Finance’s Mistakes!
+¨First, it has puttoo much emphasis on market-price 
+driven measures of risk, where price volatility has 
+become the default measure of risk, in spite ofevidence 
+indicating that much of this volatility has nothing to do 
+with fundamentals. 
+¨Second, in our zeal to measure risk with numbers, we 
+havelost sight of reality that the effects of risk are as 
+much on human psycheas they are on economics. 
+¨Third, by making investing a choice between good 
+(higher returns) and bad (higher risk), a message is sent, 
+perhapsunwittingly,that risk is bad, something to be 
+avoided or hedged.
+4
+Risk: A Healthier Perspective
+危機= Danger + Opportunity
+¨Thinkingofriskasacombinationofdangerand
+opportunityis,inmyview,aperfectpairing.Bylinking
+thetwoatthehip,itsendstheclearandveryimportant
+signalthatyoucannothaveone(opportunity),without
+exposingyourselftotheother(danger.
+¨Italsoremovesthenegativityassociatedtorisk,and
+bringshomethetruththatyoubuildagreatbusiness
+notbyavoidingdanger(risk),butbytakingtheright
+risks,whilegettingfairreturnsforthoserisk.
+5
+Breaking down risk into buckets…
+6
+And why it helps…
+1. Knowwhentostop:Inaworld,wheredataisplentifulandresearchisaccessible,
+itiseasytoputoffadecisionorafinalanalysis,whilecollectingmoreinformation.
+Thatisunderstandable,butdiggerdeeperintothedatawillleadtobetter
+estimates,onlyiftheriskthatyouarelookingatisestimationrisk.Muchofthe
+riskthatwefacewhenvaluingcompaniesoranalyzinginvestmentiseconomic
+uncertainty,impervioustomoredataandanalysis.Itisthereforehealthytoknow
+whentostop,acceptingthatyouranalysisisalwaysawork-in-progressandthat
+decisionshavetobemadeinthefaceofuncertainty.
+2. Don'toverthinkthediscountrate:Oneofmycontentionsofdiscountratesisthat
+theycannotbecomereceptaclesforallyourhopesandfears.Analystsoftentryto
+bringcompany-specificcomponents,i.e,microuncertainties,intodiscountrates,
+andintheprocess,theyendupincorporatingriskthatinvestorscaneliminate,
+oftenatnocost.
+3. Usemoreprobabilistic&statisticaltools:Asnotedinthetable,thebesttoolsfor
+bringingindiscreteriskareprobabilistic,i.e.,decisiontreesandscenarioanalysis.
+Infact,statisticaltoolsare,forthemostpart,tailor-madeformanyofthe
+problemsthatwefaceroutinelyinfinance,andareunderutilized.
+7
+Risk Measurement: The Markowitz 
+Breakthrough!
+8
+Room to disagree?
+¨By building on the assumptions that the investors pricing a 
+business are diversified, and price-based risk measures, 
+modern portfolio theory has exposed itself to criticism from 
+those who disagree with one or both of theseassumptions. 
+¤Thus, there are old-time value investors whose primary disagreement 
+is on the use of pricing measures for risk, arguing that risk has tocome 
+from numbers that drive intrinsic value -earnings and cash flows. 
+¤There are other investors who are at peace with price-based risk 
+measures, butdisagree with the "diversified marginal investor" 
+assumption, and they are more intent on finding risk measures that 
+incorporate not just the macro components of risk, but also their micro 
+concerns. I do believe that the critiques of both groups have legitimate 
+basis, and while I don't feel as strongly, I can offer modifications of risk 
+measures to counter the critiques;
+9
+Modifications on Risk Measurement
+10
+Risk Differences across Companies –Price-
+based Risk Measures!
+¨My data universe includes all publicly traded companies, and 
+since they are publicly traded, computing price-based risk 
+measures is straight forward.  That said, it should be noted 
+that liquidity varies widely across these companies, with 
+some located in markets where trading is rare and others in 
+markets, with huge trading volumes. 
+¨With that caveat in mind, I computed three risk-based 
+measures -
+¤a simplistic measure of range, where I look at the distance between 
+the high and low prices, and scale it to the mid-point, 
+¤thestandard deviation in stock prices, a conventional measure of 
+volatility and
+¤beta, a measure of that portion of a company's risk that is market-
+driven.
+11
+Price-based Risk: Sector Differences
+12
+Price-based Risk: Regional Differences
+13
+Price-based Risk: Age Deciles
+14
+Intrinsic Risk Measures
+¨Price-basedriskmeasureshavetheiradvantages,
+includingbeingconstantlyupdated,buttheydohave
+theirlimits,especiallywhenliquidityisloworwhen
+marketpricesarenottrustworthy.
+¨Inthissection,Iwilllookatthreemeasuresofintrinsic
+risk–
+¤whetheracompanyismakingorlosingmoney,withthelatter
+beingriskier,
+¤thevariabilityinearnings,withlessstableearningstranslating
+tohigherrisk,and
+¤the debt load of companies, with more debt and debt charges 
+conferring more risk on companies.
+15
+Intrinsic Risk: Sector Differences
+16
+Intrinsic Risk: Regional Differences
+17
+Intrinsic Risk: Age Deciles
+18
+Risk Differences across Countries
+19
+ERP , by Country: Computational Detail
+21
+Risk and Investing: Hurdle Rates!
+22
+Cost of Capital in January 2024
+23
+What’s coming?
+¨Itisagiventhatthingswillchangeoverthecourseoftheyear.Rephrasing
+anoldsaying,theonlyconstantinmarketsisthattheywillchange.
+¨Ifyourquestionishowyouprepareforthatchange,oneansweristobe
+dynamicandadaptable,notonlyreworkinghurdleratesasyougo
+throughtheyear,butalsobuildinginescapehatchesandreversibility
+evenintolongtermdecisions.
+¨Incasethingsdon'tgothewayyouexpectedthemto,andyoufeelthe
+urgetocomplainaboutuncertainty,IurgeyoutorevisittheChinese
+symbolforrisk.Weliveindangeroustimes,butembeddedinthose
+dangersareopportunities.
+¨Ifyoucangainanedgeontherestofthemarketinassessinganddealing
+withsomeofthesedangers,youhaveapathwaytosuccess.Iamnot
+suggestingthatthisiseasytodo,orthatsuccessisguaranteed,butif
+investmentisagameofodds,thiscanhelptilttheminyourfavor.

@@ -1,0 +1,282 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/NVIDIA2023.pdf
+
+AI’S WINNERS, LOSERS AND 
+WANNABES: VALUING NVIDIA!
+ChatGPTdid this!
+Aswath Damodaran
+2
+Investment Confessions: An (Unexpected) 
+AI Boost!
+¨The first is that my portfolio has held up well this year, in a 
+market that has been top-heavy and tech-driven, and one big 
+reason is that it contains both NVIDIA and Microsoft, two 
+companies that have benefited from the AI story. 
+¨The second is that much as I would like to claim credit for 
+foresight and forward thinking, AI was not even a speck in my 
+imagination when I bought these stocks (Microsoft in 2014 
+and NVIDIA in 2018). 
+¤I just happened to be in the right place at the right time, a reminder 
+again that being lucky often beats being smart, at least in markets. 
+¤That said, NVIDIA’s soaring stock price has left me facing that question 
+of whether to cash out, or let my money ride, and thus requires an 
+assessment of how the promise of AI play’s out in its value.
+3
+1. The Semiconductor Business –A Growth 
+Business that is maturing!
+4
+2. Profitable, with Cycles….
+5
+3. A Love-Hate Relationship with Markets
+6
+4a. With a Shifting Cast of Winners
+7
+4b. And End Users
+8
+NVIDIA
+1. Opportunistic Growth
+Aswath Damodaran
+9
+2. With Large (but Productive) Reinvestment!
+10
+3. And a Mega Market Payoff
+11
+AI: Revolutionary or Incremental Change
+¨Revolutionary Changes not only affected wide swathes of 
+businesses, some positively and some adversely, but that 
+they also changed the ways that we live, work and interact. 
+¨In parallel, we have also seen changes that are more 
+incremental, and while significant in their capacity to create 
+new businesses and disruption, don't quite qualify as 
+revolutionary.
+¨So, where does AI fall on this spectrum from revolutionary to 
+incremental to minimalist change? A year ago, I would have 
+put it in the incremental column, but ChatGPThas changed 
+my perspective. That was not because ChatGPTwas at the 
+cutting edge of AI technology, which it is not, but because it 
+made AI relatable to everyone.
+12
+AI: Net Plus or Minus for Markets?
+Aswath Damodaran
+13
+AI: Disruption’s Dark Side
+¨The market is littered with the carcasses of what used to be 
+successful businesses that have been disrupted by technological 
+change. 
+¨Investors in these disrupted companies not only lose money, as 
+they get disrupted, but worse, invest even more in them, drawn by 
+their "cheapness". 
+¤This happened, just to provide two examples, with investors in the brick-
+and-mortar retail companies that were devastated by online retail, and 
+with investors in the newspaper/traditional ad companies that were 
+upended by online advertising. 
+¨If AI succeeds in its promise, will there be businesses that are 
+upended and disrupted? Of course, but we are in the hype phase, 
+where much more will be promised than can be delivered, but the 
+biggest targets will come into focus sooner rather than later .
+14
+AI: Value Effects
+• HardwareandInfrastructure:TheAIeffectonNVIDIAcomesfromtheincreaseddemand
+forAI-optimizedcomputerchips,andasthatmarketisexpectedtogrowexponentially,the
+companiesthatcangrabalargeshareofthismarketwillbenefit.Thereareundoubtedly
+otherinvestmentsininfrastructurethatwillbeneededtomaketheAIpromiseareality.
+• Software:AIhardware,byitself,haslittlevalueunlessitistwinnedwithsoftwarethatcan
+takeadvantageofthatcomputingpower.Thissoftwarecantakemultipleforms,fromAI
+platforms,chatbots,deeplearningalgorithms(includingimageandvoicerecognition,aswell
+asnaturallanguageprocessing)andmachinelearning.
+• Data:Bigdata,usedmoreasabuzzwordthanabusinessproposition,overthelastdecade
+mayfinallyfinditsplaceinthevaluechain,whentwinnedwithAI,butthatpathwaywillnot
+belinearorpredictable.
+• Applications:ForcompaniesthataremoreconsumersofAIthanitspurveyors,thepromise
+ofAIisthatitwillchangethewaytheydobusiness,withpositiveandnegativeimplications.
+ThebiggestplusesofAI,atleastaspresentedbyitspromoters,isthatitwillallow
+companiestoreducecosts(primarilybyreplacingmanuallaborwithAI-drivenapplications)
+andmakethemmoreefficient,andbyextension,moreprofitable.IfeverycompanyhasAI,
+andAIreducescostsandincreasesefficiencyaspromisedforallofthem,itisfarmorelikely
+thattheywillendupwithlowerpricesfortheirproducts/servicesandnothigherprofits.
+15
+AI: Social Effects
+¨ IknowthattherearesomeadvocatesofAIwhopaintapictureofgoodness,
+whereAItakesoverthemenialtasksthatpresumablycauseusboredomand
+bringsanunbiasedeyetodataanalysisthatleadtobetterdecisions.Iknowthat
+thereareotherswhoseeAIasaninstrumentthatbigcompanieswilluseto
+controlmindsandacquirepower.Withtheexperienceofthebigchangesthat
+haveengulfedusinthelastfewdecadesstillfresh,Iwouldarguethattheyare
+bothright.
+¨ TherearesomewhobelievethatAIcanbeheldincheckandmadetoserveits
+morenobleimpulses,byrestrictingorregulatingitsdevelopment,butIamnotas
+optimisticformanyreasons.
+¤ Ibelievethatbothregulatorsandlegislatorsarewoefullyincapableofunderstandingthe
+mechanicsofAI,letalonepasssensiblerestrictionsonitsusage.
+¤ Second,anyregulationorlawthatisaimedatpreventingAI'sexcesseswillalmostcertainly
+setinmotionunintendedconsequences,thatatleastinsomecaseswillbeworsethanthe
+problemsthattheregulation/lawwassupposedtoholdincheck.
+¨ Whilethisisapessimistictake,Ibelievethatitarealisticone,andthatjustaswith
+socialmedia,itwillbeuptous,asconsumersofAIproductsandservices,totryto
+drawlinesandseparategoodfrombad.Wemaynotsucceed,butwhatchoicedo
+wehave,buttotry?
+16
+The AI Chip Story
+¨ TheAIstoryhasparticularresonancewithNVIDIAbecauseunlikemostother
+companies,whereitismostlyhand-wavingaboutpotential,ithassubstancein
+placealreadyandamarketthatisitstarget.Inparticular ,NVIDIAhasspentmuch
+ofthelastfewyearsinvestinganddevelopingproductsforanascentAImarket.
+ThisleadtimehasgivenNVIDIAnotjustmarketleadership,butrevenuesand
+profitsalready.MuchoftheexcitedreactiontoNVIDIA'smostrecentearnings
+reportcamefromthecompanyreportingasurgeinitsdatacenterrevenues,with
+muchoftheincreasecomingfromAIchips.
+¨ Whilethecompanydoesnotexplicitlybreakouthowmuchofthedatacenter
+revenuesarefromAIchips,itisestimatedthatthetotalmarketforthosechipsin
+2022wasabout$15billion,withNVIDIAholdingadominantmarketshareof
+about80%.Ifthoseestimatesareright,thebulkofthedatacenterrevenuesfor
+NVIDIAin2022,whichamountedto$15billioninall,comesfromAI-optimized
+chips.
+¨ TheChatGPTjolttomarketexpectationshasplayedoutinincreasesinexpected
+growthoftheAIchipmarketoverthenextdecade,withestimatesfortheoverall
+AIchipmarketin2030rangingfrom$200billionatthelowendtocloseto$300
+billionatthehighend.
+17
+NVIDIA: The Lead In to the Story
+¨ The driver of NVIDIA's success has been its high-performance GPU cards, but 
+it is very likely that the businesses that bought these cards and drove NVIDIA's 
+success in the last decade will be different from the businesses that will make 
+it successful in the next one. 
+¨ For much of the last decade, it was gaming and crypto users that allowed the 
+company to set itself apart from the competition, but the bad news is that 
+both of these markets are maturing, with lower expected growth in the 
+future. 
+¨ The good news, for NVIDIA, is that it has two other businesses that are ready 
+to step in and contribute to growth. 
+¤ The first is AI, where NVIDIA commands a hefty market share of what is now a relatively small 
+market, but one that is almost certain to grow ten-fold or greater over the decade. 
+¤ The other is in the automobiles business, where more powerful computing is seen as the 
+ingredient needed to open up automated driving and other enhancements. NVIDIA is only a 
+small player in this space, and while it does not enjoy the dominance that it does in AI, a 
+growing market will allow NVIDIA to acquire a significant market share.
+18
+The NVIDIA Growth Story
+¨Revenue Growth: NVIDIA will remain a high growth company for two 
+reasons. 
+¤The first is that in spite of its scaling up due to growth over the last decade, at 
+least in terms of revenues, it has a modest market share of the overall 
+semiconductor market, with revenues that are less than half of the revenues 
+posted by Intel or TSMC. 
+¤The second, and more important reason, is that while its gaming revenue 
+growth is starting to flag, it is well-positioned in AI and Auto, two markets 
+poised for rapid growth. In my story, I will assume that these markets will 
+deliver on their growth promiseand that NVIDIA will maintaina dominant, 
+albeit lower, market share of the AI chip business, while gaining a significant 
+share (15%) of the Auto chip business
+Aswath Damodaran
+19
+NVIDIA: The Rest of the Story
+• Profitability:Thesemiconductorbusinesshasacoststructurethathasrelatively
+littleflextoit,butIwillassumeinmyNVIDIAstorythattherightmargintofocus
+onistheR&Dadjustedversion,andthatNVIDIAwillbouncebackquicklyfromits
+2022marginsetbacktodeliverhighermarginsthanitspeergroup.Whilemy
+targetR&Dadjustedmarginof40%maylookhigh,itisworthrememberingthat
+thecompanydelivered42.5%asmarginin2020and38.4%asmarginin2021.
+• InvestmentEfficiency:NVIDIAhasinvestedheavilyinthelastdecade,generating
+only65centsinrevenuesforeverydollarofcapitalinvested(includingthe
+investmentinR&D),in2022.Ibelievethatgiventhecompany'slargerscale,with
+thepayofffrompastinvestmentsaugmentingrevenues,thecompany'ssalesto
+investedcapitalwillapproachtheglobalindustrymedian,whichis$1.15in
+revenuesforeverydollarofcapitalinvested.
+• Risk:IestimatedNVIDIA'scostofcapitalbaseduponitsgeographicexposureand
+verylowdebtratiotobe13.13%,butchosetousetheindustryaverageforUS
+semiconductorcompanies,whichwas12.21%,asthecostofcapitalintheinitial
+growthperiod.Overtime,Iwillassumethatthiscostofcapitalwilldriftdown
+towardstheoverallmarketaveragecostofcapitalof8.85%.
+Aswath Damodaran
+Aswath Damodaran
+21
+NVIDA: Value Simulation
+¨ Revenue Growth
+¤ Base Case: Revenues of $267 billion in 2033
+¤ Distribution:
+¨ Operating Margin
+¤ Base Case: Pre-tax operating margin of 40% (target)
+¤ Distribution: Triangular, with 30% (low) and 50% (high)
+¨ Reinvestment
+¤ Base Case: Sales to Invested Capital of 1.15
+¤ Distribution: Lognormal, with range from 0.8-1.94
+¨ Cost of Capital
+¤ Base Case: Industry average of 12.21%
+¤ Distribution: Normal Distribution (with standard dev of 1.5%)
+Aswath Damodaran
+Aswath Damodaran
+23
+And a Breakeven Analysis
+Aswath Damodaran
+24
+The Take-Aways from What ifs?
+¨The breakeven table reinforces the findings in the 
+simulation, insofar as it shows that there are plausible 
+paths that lead to the current price being a fair value or 
+under value, but these paths require a daunting 
+combination of extraordinary revenue growth and super-
+normal margins. 
+¨In my view, a target margin of 50% is pushing the limits 
+of possibility, in the semiconductor business, and if 
+NVIDIA finds a way to deliver value that justifies current 
+pricing, it has to be through explosive revenue growth. 
+¨Put simply, you need another market or two, with 
+potential similar to the AI market, where NVIDIA can 
+wield a dominant market share to justify its pricing.
+25
+Judgment Day: Investing
+Aswath Damodaran
+¨IloveNVIDIAasacompanyandhavenothingbutpraiseforJensen
+Huang'sleadershipofthecompany.MyvaluationstoryforNVIDIAreflects
+allofthepositivefeaturesinthecompanywillcontinueintothenext
+decade,butthatupbeatnarrativestillyieldsavaluewellbelowthe
+currentprice.
+¨IwouldbelyingifIsaidthatsellingoneofmybiggestwinnersiseasy,
+especiallysincethereisaplausiblepathway,albeitalow-probabilityone,
+thatthecompanywillbeabletodeliversolidreturns,atcurrentprices.
+¤Ichoseapaththatsplitsthedifference,sellinghalfofmyholdingsandcashingin
+onmyprofits,andholdingontotheotherhalf,morefortheoptionality(thatthe
+companywillfindothernewmarketstoenterinthenextdecade).
+¤Thevaluepuristscanargue,withjustification,thatIamactinginconsistently,given
+myvaluephilosophy,butIampragmatist,notapurist,andthisworksforme.
+¨Itdoesopenupaninterestingquestionofwhetheryoushouldcontinue
+toholdastockinyourportfoliothatyouwouldnotbuyattoday'sstock
+prices,anditisonethatIwillreturntoinafuturepost.
+26
+Judgment Day: Trading
+27
+Trading Follow Through
+¨Ifyouareatrader,evenifyoubelievethatNVIDIA'svalueiswell
+belowitsprice,youmaybuyNVIDIAontheexpectationthatthe
+stockwillcontinuetorise,borneupwardsbymomentumor
+incrementalinformation.
+¤Giventhestrengthofmomentumasamarket-driver,youmayverywell
+generatehighreturnsoverthenextweeks,monthsorevenyears,andyou
+shouldnotlet"valuescolds"getinthewayofyourenjoymentofyour
+winnings.
+¤Myonlypushbackwouldbeagainstthosewhoarguethatmomentumcan
+carryastockforwardforever,sinceitisthegiftthatbothgivesandtakes
+away.
+¨ThestrengthofmomentumintheriseinNVIDIA'sstockpricewill
+beplayedoutinthetheoppositedirection,when(notif)
+momentumshifts,andifyouaretradingNVIDIA,youshouldbe
+workingonindicatorsthatgiveyouearlywarningofthoseshifts,
+notworryingaboutvalue.
+28
+AI: Bottom Line
+¨Even if you buy into the argument that AI will change the ways that we 
+work and play, it does not necessarily follow that investing in AI-related 
+companies will yield returns. You can get the macro story right, but you 
+need to also consider how that story plays out acrosscompanies to be 
+able to generate returns. 
+¨Refusing to make estimates or judgments about how AI will affect the 
+fundamentals (cash flows, growth and risk) in a business, just because 
+you face significant uncertainty, will not make that uncertainty go away, 
+and instead will create a vacuum that will be filled by arbitrary AI 
+premiums. 
+¨As a society, it is unclear whether adding AI to the mix will make us better 
+or worse off, since every big technological change seems to bring with it 
+unintended consequences. 
+¨All in all, I am considering asking ChatGPTto write this post for me, using 
+my own language and history, and I am open to the possibility that it 
+could do a better job than I can.
+Aswath Damodaran

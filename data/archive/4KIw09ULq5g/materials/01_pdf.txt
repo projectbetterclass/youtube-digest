@@ -1,0 +1,377 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr24/session5slides.pdf
+
+74
+Activists come for Disney…
+Aswath Damodaran
+74
+75
+A Life Cycle View of CEOs
+76
+The Compressed Tech Life Cycle
+Aswath Damodaran
+76
+77
+Corporate Governance at Tech firms: The 
+Facebook example
+Aswath Damodaran
+77
+78
+2. The Bondholders’Defense Against 
+Stockholder Excesses
+Aswath Damodaran
+78
+¨More restrictive covenants on investment, financing and dividend 
+policy have been incorporated into both private lending 
+agreements and into bond issues, to prevent future “Nabiscos”.
+¨New types of bonds have been created to explicitly protect 
+bondholders against sudden increases in leverage or other actions 
+that increase lender risk substantially. Two examples of such bonds
+¤Puttable Bonds, where the bondholder can put the bond back to the firm 
+and get face value, if the firm takes actions that hurt bondholders
+¤Ratings Sensitive Notes, where the interest rate on the notes adjusts to 
+that appropriate for the rating of the firm
+¨More hybrid bonds (with an equity component, usually in the form 
+of a conversion option or warrant) have been used. This allows 
+bondholders to become equity investors, if they feel it is in their 
+best interests to do so.
+79
+3. The Financial Market Response
+Aswath Damodaran
+79
+¨Companies can mislead investors for long periods, leading stock prices 
+away from value and skewing capital allocation across firms. (Firms that 
+mislead have access to more capital than they should…)
+¨Analysts, for the most part, seem to be ineffective at uncovering these “problems” , 
+sometimes because of tunnel vision and sometimes because of biases.
+¨As investor access to information improves, it is becoming much more difficult for 
+firms to control when and how information gets out to markets.
+¨If there are ways of trading on over valuation, the payoff to uncovering negative 
+information about companies rises, and there will be an incentive on the part of 
+investors to uncover the truth.
+¨No matter what, the truth eventually does come out, and when it does:
+¨The punishment is not only quick, but it is savage. Stock prices drop, as markets 
+reset.
+¨The management of the company loses credibility making it difficult for the 
+company to find its way back to health.
+80
+4. The Societal Response
+Aswath Damodaran
+80
+¨Iffirmsconsistentlyfloutsocietalnormsandcreatelargesocial
+costs,thegovernmentalresponse(especiallyinademocracy)isfor
+lawsandregulationstobepassedagainstsuchbehavior.
+¨Evenifgovernmentsandregulatorsdonotact,acompanythat
+deliberatelyfloutssocietalnormsandacquiresareputationasa
+badcompanycanpayaprice:
+¤Forfirmscateringtoamoresociallyconsciousclientele,thefailureto
+meetsocietalnorms(evenifitislegal)canleadtolossofcustomersand
+revenues.
+¤Thesefirmsmayhavetroubleholdingontoemployees
+¤Investorsmaychoosenottoinvestinstocksoffirmsthattheyviewas
+sociallyirresponsibleandlendersmaybereluctanttolendmoneytothe
+firm.
+¤Ifthisseemslikeaback-handedargumentforESG,itis,butitisavery
+restrictiveonewheretheadvicetocompaniesittonotbebad(ratherthan
+tobegood).
+81
+Constrained Corporatism
+Aswath Damodaran
+81
+82
+The Modified Objective Function
+Aswath Damodaran
+82
+¨For publicly traded firms in reasonably efficient markets, 
+where bondholders (lenders) are protected:
+¤Maximize Stock Price: This will also maximize firm value
+¨For publicly traded firms in inefficient markets, where 
+bondholders are protected:
+¤Maximize stockholder wealth: This will also maximize firm value, 
+but might not maximize the stock price
+¨For publicly traded firms in inefficient markets, where 
+bondholders are not fully protected
+¤Maximize firm value, though stockholder wealth and stock 
+prices may not be maximized at the same point.
+¨For private firms, maximize stockholder wealth (if 
+lenders are protected) or firm value (if they are not)
+THE INVESTMENT PRINCIPLE: 
+RISK AND RETURN MODELS
+“You cannot swing upon a rope that is attached only 
+to your own belt.”
+Aswath Damodaran 83
+84
+First Principles
+Aswath Damodaran
+84
+85
+The notion of a benchmark 
+Aswath Damodaran
+85
+¨Since financial resources are finite, there is a hurdle that 
+projects have tocross before being deemed acceptable. 
+This hurdle should be higher for riskier projects than for 
+safer projects.
+¨A simple representation of the hurdle rate is as follows:
+Hurdle rate    = Riskless Rate + Risk Premium
+¨The two basic questions that every risk and return model 
+in finance tries to answer are:
+¤How do you measure risk?
+¤How do you translate this risk measure into a risk premium?
+86
+What is Risk?
+Aswath Damodaran
+86
+¨Risk, in traditional terms, is viewed as a ‘negative’. 
+Webster’s dictionary, for instance, defines risk as “exposing 
+to danger or hazard”. The Chinese symbols for risk or crisis, 
+reproduced below, give a much better description of risk
+危機¤The first symbol is the symbol for “danger”.
+¤The second is the symbol for “opportunity”, making risk a mix of 
+danger and opportunity. You cannot have one, without the other.
+¨Risk is therefore neither good nor bad. It is just a fact of life. 
+The question that businesses have toaddress is therefore not 
+how to avoid risk but how best to incorporate it into their 
+decision making.
+87
+A good risk and return model should…
+Aswath Damodaran
+87
+1. It should come up witha measure of risk that applies to all assets 
+and not be asset-specific.
+2. It should clearly delineate what types of risk are rewarded and 
+what are not, andprovide a rationale for the delineation.
+3. It should come up withstandardized risk measures, i.e., an 
+investor presented with a risk measure for an individual asset 
+should be able to draw conclusions about whether the asset is 
+above-average or below-average risk.
+4. It should translate the measure of risk into a rate of return that 
+the investor should demand as compensation for bearing the risk.
+5. It should work well not only at explaining past returns, but also in 
+predicting future expected returns.
+88
+The Capital Asset Pricing Model
+Aswath Damodaran
+88
+1. Uses variance of actual returns around an expected 
+returnas a measure of risk.
+2. Specifies that a portion of variance can be diversified 
+away, and that is only the non-diversifiable portion that 
+is rewarded.
+3. Measures the non-diversifiable risk with beta, which is 
+standardized around one.
+4. Translates beta into expected return -
+Expected Return =  Riskfreerate + Beta * Risk Premium
+5. Works as well as the next best alternative in most 
+cases.
+89
+1. The Mean-Variance Framework
+Aswath Damodaran
+89
+¨The variance on any investment measures the disparity 
+between actual and expected returns. 
+Expected Return
+Low V ariance Investment
+High V ariance Investment
+90
+How risky is Disney? A look at the past…
+Aswath Damodaran
+90
+-25.00%
+-20.00%
+-15.00%
+-10.00%
+-5.00%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+Oct-08
+Dec-08
+Feb-09
+Apr-09
+Jun-09
+Aug-09
+Oct-09
+Dec-09
+Feb-10
+Apr-10
+Jun-10
+Aug-10
+Oct-10
+Dec-10
+Feb-11
+Apr-11
+Jun-11
+Aug-11
+Oct-11
+Dec-11
+Feb-12
+Apr-12
+Jun-12
+Aug-12
+Oct-12
+Dec-12
+Feb-13
+Apr-13
+Jun-13
+Aug-13
+Returns on Disney -2008-2013 
+Average monthly return = 1.65%
+Average monthly standard deviation = 7.64%
+Average annual return = 21.70%
+Average annual standard deviation = 26.47%
+91
+Do you live in a mean-variance world?
+Aswath Damodaran
+91
+¨Assume that you had to pick between two investments. They 
+have the same expected return of 15% and the same 
+standard deviation of 25%; however, investment A offers a 
+very small possibility that you could quadruple your money, 
+while investment B’s highest possible payoff is a 60% return. 
+Would you
+a. be indifferent between the two investments, since they have the 
+same expected return and standard deviation?
+b. prefer investment A, because of the possibility of a high payoff?
+b. prefer investment B, because it is safer?
+¨Would your answer change if you were not told that there is a 
+small possibility that you could lose 100% of your money on 
+investment A but that your worst-case scenario with 
+investment B is -50%?
+92
+2. The Importance of Diversification: Risk Types
+Aswath Damodaran
+92
+Actions/Risk that 
+affect only one 
+firm
+Actions/Risk that 
+affect all investments
+Firm-specific Market
+Projects may
+do better or
+worse than
+expected
+Competition
+may be stronger
+or weaker than
+anticipated
+Entire Sector
+may be affected
+by action
+Exchange rate
+and Political
+risk
+Interest rate,
+Inflation & 
+news about 
+economy
+Figure 3.5: A Break Down of Risk
+Affects few
+firms
+Affects many
+firms
+Firm can 
+reduce by
+Investing in lots 
+of projects
+Acquiring 
+competitors
+Diversifying 
+across sectors
+Diversifying 
+across countries
+Cannot affect
+Investors 
+can 
+mitigate by
+Diversifying across domestic stocks Diversifying across 
+asset classes 
+Diversifying globally
+93
+Why diversification reduces/eliminates 
+firm specific risk
+Aswath Damodaran
+93
+¨Firm-specific risk can be reduced, if not eliminated, by 
+increasing the  number of investments in your portfolio
+(i.e., by being diversified). Market-wide risk cannot. This 
+can be justified on either economic or statistical 
+grounds.
+¨On economic grounds, diversifying and holding a larger 
+portfolio eliminates firm-specific risk for two reasons-
+a. Each investment is a much smaller percentage of the portfolio, 
+muting the effect (positive or negative) on the overall 
+portfolio.
+b. Firm-specific actions can be either positive or negative. In a 
+large portfolio, it is argued, these effects will average out to 
+zero. (For every firm, where something bad happens, there will 
+be some other firm, where something good happens.)
+94
+The Role of the Marginal Investor
+Aswath Damodaran
+94
+¨The marginal investor in a firm is the investor who is 
+most likely to be the buyer or seller on the next trade 
+and to influence the stock price. 
+¨Generally speaking, themarginal investor in a stock has toown a 
+lot of stock and alsotrade that stock on a regular basis.
+¨Since trading is required, the largest investor may not be the 
+marginal investor, especially if he or she is a founder/manager of 
+the firm (Larry Ellison at Oracle, Mark Zuckerberg at Facebook…)
+¨In risk and return models in finance, we start with the 
+marginal investor is well diversified.
+95
+Identifying the Marginal Investor in your firm…
+Aswath Damodaran
+95
+Percent of Stock 
+held by Institutions 
+Percent of Stock held by 
+Insiders 
+Marginal Investor 
+High Low Institutional Investor  
+High High Institutional Investor, with insider 
+influence 
+Low High (held by 
+founder/manager of firm) 
+Tough to tell; Could be insiders but only 
+if they trade. If not, it could be 
+individual investors. 
+Low High (held by wealthy 
+individual investor) 
+Wealthy individual investor, fairly 
+diversified 
+Low Low Small individual investor with restricted 
+diversification
+96
+Gauging the marginal investor: Disney in 
+2013
+Aswath Damodaran
+97
+Extending the assessment of the investor 
+base
+¨In all five of the publicly traded companies that we 
+are looking at, institutions are big holders of the 
+company’s stock.
+Aswath Damodaran
+98
+3. The Limiting Case: The Market Portfolio
+Aswath Damodaran
+98
+¨The big assumptions & the follow up:Assuming diversification costs 
+nothing (in terms of transactions costs), and that all assets can be 
+traded, the limit of diversification is to hold a portfolio of every 
+single asset in the economy (in proportion to market value). This 
+portfolio is called the market portfolio. 
+¨The consequence:  Individual investors will adjust for risk, by 
+adjusting their allocations to this market portfolio and a riskless 
+asset (such as a T-Bill):
+Preferred risk level Allocation decision
+No risk 100% in T-Bills
+Some risk 50% in T-Bills; 50% in Market Portfolio;
+A little more risk 25% in T-Bills; 75% in Market Portfolio
+Even more risk 100% in Market Portfolio
+A risk hog.. Borrow money; Invest in market portfolio

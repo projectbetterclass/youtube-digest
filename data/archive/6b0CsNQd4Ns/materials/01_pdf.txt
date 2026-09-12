@@ -1,0 +1,407 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr23/session3slides.pdf
+
+20
+Application Test: Who’s on board?
+Aswath Damodaran
+20
+¨Look at the board of directors for your firm. 
+¤How many of the directors are inside directors (Employees of the firm, 
+ex-managers)?
+¤Is there any information on how independent the directors in the firm 
+are from the managers?   
+¨Are there any external measures of the quality of corporate 
+governance of your firm?
+¤Yahoo! Finance now reports on a corporate governance score for firms, 
+where it ranks firms against the rest of the market and against their 
+sectors.
+¨Is there tangible evidence that your board acts independently 
+of management?
+¤Check news stories to see if there are actions that the CEO has wanted 
+to take that the board has stopped him or her from taking or at least 
+slowed him or her down.
+21
+So, what next? When the cat is idle, the mice 
+will play ....
+Aswath Damodaran
+21
+¨When managers do not fear stockholders, they will often put 
+their interests over stockholder interests
+¤Greenmail: The (managers of ) target of a hostile takeover buy out the 
+potential acquirer's existing stake, at a price much greater than the 
+price paid by the raider, in return for the signing of a 'standstill' 
+agreement.
+¤Golden Parachutes: Provisions in employment contracts, that allows 
+for the payment of a lump-sum or cash flows over a period, if 
+managers covered by these contracts lose their jobs in a takeover. 
+¤Poison Pills: A security,  the rights or cashflows on which are triggered 
+by an outside event, generally a hostile takeover, is called a poison pill.
+¤Shark Repellents: Anti-takeover amendments are also aimed at 
+dissuading hostile takeovers but differ on one very important count. 
+They require the assent of stockholders to be instituted. 
+¤Overpaying on takeovers: Acquisitions often are driven by 
+management interests rather than stockholder interests.
+No stockholder approvalneeded….. Stockholder Approval needed
+22
+Managerial Self Interest or Stockholder 
+Wealth? Overpaying on takeovers!
+Aswath Damodaran
+22
+¨The quickest and perhaps the most decisive way to 
+impoverish stockholders is to overpay on a takeover .
+¨The stockholders in acquiring firms do not seem to share 
+the enthusiasm of the managers in these firms. Stock 
+prices of bidding firms decline on the takeover 
+announcements a significant proportion  of the time. 
+¨Many mergers do not work, as evidenced by a number of
+measures:
+¤The profitabilityof merged firms relative to their peer groups, 
+does not increaseafter mergers.
+¤An even more damning indictment is that a large number of
+mergers are reversed within a few years, which is a clear 
+admission that the acquisitions did not work.
+A case study in value destruction:
+Eastman Kodak & Sterling Drugs
+Kodak enters bidding war
+¨In late 1987, Eastman Kodak 
+entered intoa bidding war with 
+Hoffman La Roche for Sterling 
+Drugs, a pharmaceutical 
+company. 
+¨The bidding war started with 
+Sterling Drugs trading at about 
+$40/share.
+¨At $72/share, Hoffman dropped 
+out of the bidding war, but Kodak 
+kept bidding.
+¨At $89.50/share, Kodak won and 
+claimed potential synergies 
+explained the premium.
+Kodak wins!!!!
+!
+24
+Earnings and Revenues at Sterling Drugs 
+Aswath Damodaran
+24
+Sterling Drug under Eastman Kodak: Where is the synergy?
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+5,000
+1988 1989 1990 1991 1992
+Revenue Operating Earnings
+25
+Kodak Says Drug Unit Is Not for Sale … but…
+Aswath Damodaran
+25
+¨ An article in the NY Times in August of 1993 suggested that Kodak was eager to 
+shed its drug unit.
+¤ In response, Eastman Kodak officials say they have no plans to sell Kodak’s Sterling Winthrop 
+drug unit.
+¤ Louis Mattis, Chairman of Sterling Winthrop, dismissed the rumors as “massive speculation, 
+which flies in the face of the stated intent of Kodak that it is committed to be in the health 
+business.”
+¨ A few months later…Taking a stride out of the drug business, Eastman Kodak said 
+that the Sanofi Group, a French pharmaceutical company, agreed to buy the 
+prescription drug business of Sterling Winthrop for $1.68 billion.     
+¤ Shares of Eastman Kodak rose 75 cents yesterday, closing at $47.50 on the New York Stock 
+Exchange.   
+¤ Samuel D. Isaly an analyst , said the announcement was “very good for Sanofi and very good 
+for Kodak.”
+¤ “When the divestitures are complete, Kodak will be entirely focused on imaging,”said George 
+M. C. Fisher , the company's chief executive. 
+¤ The rest of the Sterling Winthrop was sold to Smithkline for $2.9 billion.
+26
+Application Test: Who owns/runs your firm?
+Aswath Damodaran
+26
+¨Look at: Bloomberg printout HDS for your firm
+¨Who are the top stockholders in your firm?
+¨What are the potential conflicts of interests that you see 
+emerging from this stockholding structure?
+Control of the firm
+Outside stockholders
+- Size of holding
+- Active or Passive?
+- Short or Long term?
+Inside stockholders
+% of stock held
+Voting and non-voting shares
+Control structure
+Managers
+- Length of tenure
+- Links to insiders
+Government
+Employees Lenders
+27
+Case 1: Splintering of Stockholders
+Disney’s top stockholders in 2003
+Aswath Damodaran
+28
+Case 2: Voting versus Non-voting Shares & 
+Golden Shares:  Vale
+Vale Equity
+Common (voting) shares
+3,172 million
+Preferred (non-voting)
+1,933 million
+Golden (veto) 
+shares owned 
+by Brazilian govt
+Valespar(
+54%(Non/Brazilian(
+(ADR&Bovespa)(
+29%(
+Brazilian(Ins=tu=onal(
+6%(
+Brazilian(retail(
+5%( Brazilian(
+Govt.(
+6%(
+Valespar(
+1%(
+Non.Brazilian(
+(ADR&Bovespa)(
+59%(
+Brazilian(Ins<tu<onal(
+18%(
+Brazilian(retail(
+18%(
+Brazilian(Govt.(
+4%(
+Litel&Participaço 49.00%
+Eletron&S.A. 0.03%
+Bradespar&S.A. 21.21%
+Mitsui&&&Co. 18.24%
+BNDESPAR 11.51%
+Valespar(ownership
+Va l e  h a s  e l e v e n  m e m b e r s  o n  i t s  b o a r d  o f  d i r e c t o r s ,  t e n  o f  
+whom were nominated by Va l e s p a rand the board was 
+chaired by Don Conrado, the CEO of Va l e p a r. Aswath Damodaran
+29
+Case 3: Cross and Pyramid Holdings
+Tata Motor’s top stockholders in 2013 
+Aswath Damodaran
+30
+But it is a benevolent family!
+Aswath Damodaran
+31
+Case 4: Legal rights and Corporate 
+Structures: Baidu
+¨The Board: The company has six directors, one of whom is Robin Li, 
+who is the founder/CEO of Baidu. Mr . Li also owns a majority stake 
+of Class B shares, which have ten times the voting rights of Class A 
+shares, granting him effective control of the company. 
+¨The structure: Baidu is a Chinese company, but it is incorporated in 
+the Cayman Islands, its primary stock listing is on the NASDAQ and 
+the listed company is structured as a shell company, to get around 
+Chinese government restrictions of foreign investors holding shares 
+in Chinese corporations. 
+¨The legal system: Baidu’s operating counterpart in China is 
+structured as a Variable Interest Entity (VIE), and it is unclear how 
+much legal power the shareholders in the shell company have to
+enforce changes at the VIE.
+Aswath Damodaran
+32
+Things change.. Disney’s top stockholders in 2009
+Aswath Damodaran
+32
+33
+II. Stockholders' objectives vs. Bondholders' 
+objectives
+Aswath Damodaran
+33
+¨In theory:  there is no conflict of interests between 
+stockholders and bondholders.
+¨In practice: Stockholder and bondholders have 
+different objectives. Bondholders are concerned 
+most about safety and ensuring that they get paid 
+their claims. Stockholders are more likely to think 
+about upside potential
+34
+Examples of the conflict..
+Aswath Damodaran
+34
+¨A dividend/buyback surge: When firms pay cash out as 
+dividends, lenders to the firm are hurt and stockholders 
+may be helped. This is because the firm becomes riskier 
+without the cash.
+¨Risk shifting: When a firm takes riskier projects than 
+those agreed to at the outset, lenders are hurt. Lenders 
+base interest rates on their perceptions of how risky a 
+firm’s investments are. If stockholders then take on 
+riskier investments, lenders will be hurt.
+¨Borrowing more on the same assets: If lenders do not 
+protect themselves, a firm can borrow more money and 
+make all existing lenders worse off.
+35
+An Extreme Example: Unprotected Lenders?
+Aswath Damodaran
+35
+36
+III. Firms and Financial Markets
+Aswath Damodaran
+36
+¨In theory:  Financial markets are efficient. Managers 
+convey information honestly and and in a timely manner 
+to financial markets, and financial markets make 
+reasoned judgments of the effects of this information on 
+'true value'. As a consequence-
+¤A company that invests in good long-term projects will be 
+rewarded.
+¤Short term accounting gimmicks will not lead to increases in 
+market value.
+¤Stock price performance is a  good measure of company 
+performance. 
+¨In practice:  There are some holes in the 'Efficient 
+Markets' assumption.
+37
+Managers control the release of information to 
+the general public
+Aswath Damodaran
+37
+¨Information management (timing and spin): 
+Information (especially negative) is sometimes 
+suppressed or delayed by managers seeking a better 
+time to release it. When the information is released, 
+firms find ways to “spin” or “frame” it to put 
+themselves in the best possible light.
+¨Outright fraud: In some cases, firms release 
+intentionally misleading information about their 
+current conditions and future prospectsto financial 
+markets.
+38
+Evidence that managers delay bad news?
+Aswath Damodaran
+38
+DO MANAGERS DELAY BAD NEWS?: EPS and DPS Changes- by
+Weekday
+-6.00%
+-4.00%
+-2.00%
+0.00%
+2.00%
+4.00%
+6.00%
+8.00%
+Monday Tuesday WednesdayThursday Friday
+% Chg(EPS) % Chg(DPS)
+39
+Some critiques of market efficiency.. 
+Aswath Damodaran
+39
+¨Investor irrationality: The base argument is that investors 
+are irrational, and prices often move for no reason at all. 
+As a consequence, prices are much more volatile than 
+justified by the underlying fundamentals. Earnings and 
+dividends are much less volatile than stock prices.
+¨Manifestations of irrationality
+¨Reaction to news: Some believe that investors overreact to 
+news, both good and bad. Others believe that investors 
+sometimes under react to big news stories.
+¨An insider conspiracy: Financial markets are manipulated by 
+insiders; Prices do not have any relationship to value.
+¨Short termism: Investors are short-sighted, and do not consider 
+the long-term implications of actions taken by the firm
+40
+Are markets short sighted and too focused 
+on the near term? What do you think?
+Aswath Damodaran
+40
+¨Focusing on market prices will lead companies towards short term 
+decisions at the expense of long-term value.
+a. I agree with the statement
+b. I do not agree with this statement
+¨Allowing managers to make decisions without having to worry 
+about the effect on market prices will lead to better long term
+decisions.
+a. I agree with this statement
+b. I do not agree with this statement
+¨Neither managers nor markets are trustworthy. Regulations/laws 
+should be written that force firms to make long term decisions.
+a. I agree with this statement
+b. I do not agree with this statement
+41
+Are markets short term? Some counter (albeit 
+not conclusive) evidence that they are not..
+Aswath Damodaran
+41
+¨Value of young firms: There are hundreds of start-up and 
+small firms, with no earnings expected in the near future, 
+that raise money on financial markets. Why would a myopic 
+market that cares only about short-term earnings attach high 
+prices to these firms?
+¨Current earnings vsFuture growth: If the evidence suggests 
+anything, it is that markets do not value current earnings and 
+cashflows enough and value future earnings and cashflows 
+too much. After all, studies suggest that low PE stocks are 
+under priced relative to high PE stocks
+¨Market reaction to investments: The market response to 
+research and development and investment expenditures is 
+generally positive.
+42
+If markets are so short term, why do they react to big 
+investments (that potentially lower short termearnings) so 
+positively?
+Aswath Damodaran
+42
+43
+But what about market crises?
+Aswath Damodaran
+43
+¨Markets are the problem: Many critics of markets point to market 
+bubbles and crises as evidence that markets do not work. For 
+instance, the market turmoil between September and December 
+2008 is pointed to as backing for the statement that free markets 
+are the source of the problem and not the solution.
+¨The counter: There are two counter arguments that can be offered:
+¤The 2008 crisis illustrates that we are more dependent on functioning, 
+liquid markets, with risk taking investors, than ever before in history. As we 
+saw, no government or other entity (bank, Buffett) was big enough to step 
+in and save the day.
+¤The firms that caused the market collapse (banks, investment banks) were 
+among the most regulated businesses in the marketplace. If anything, 
+their failures can be traced to their attempts to take advantage of 
+regulatory loopholes (badly designed insurance programs… capital 
+measurements that miss risky assets, especially derivatives)
+44
+IV . Firms and Society
+Aswath Damodaran
+44
+¨In theory:   All costs and benefits associated with a 
+firm’s decisions can be traced back to the firm.
+¨In practice:  Financial decisions can create social costs 
+and benefits.
+¤A social cost or benefit is a cost or benefit that accrues to society 
+as a whole and not to the firm making the decision. 
+nEnvironmental costs (pollution, health costs, etc..)
+nQuality of Life' costs (traffic, housing, safety, etc.)
+¤Examples of social benefits include:
+ncreating employment in areas with high unemployment
+nsupporting development in inner cities 
+ncreating access to goods in areas where such access does not 
+exist
+45
+Social Costs and Benefits are difficult to quantify 
+because ..
+Aswath Damodaran
+45
+¨Cannot know the unknown: They might not be known at 
+the time of the decision. In other words, a firm may 
+think that it is delivering a product that enhances 
+society, at the time it delivers the product but discover 
+afterwards that there are very large costs. (Asbestos was 
+a wonderful product, when it was devised, light and easy 
+to work with… It is only after decades that the health 
+consequences came to light)
+¨Eyes of the beholder: They are ‘person-specific’ , since 
+different decision makers can look at the same social 
+cost and weight them very differently. 
+¨Decision paralysis: They can be paralyzing if carried to 
+extremes.

@@ -1,0 +1,28 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session8asoln.pdf
+
+Session	8a:	Post	class	test	solutions	
+1. c.	The	ADR	against	the	MSCI	index.	If	we	stay	true	to	the	notion	that	beta	
+measures	risk	as	perceived	by	the	marginal	investor,	the	marginal	investor	here	
+is	a	global	investor.	Hence,	the	index	that	makes	the	most	sense	is	a	global	index.	
+While	you	could	regress	the	local	listing	returns	against	the	MSCI,	the	MSCI	is	a	
+dollar	index	and	ADR	returns	are	a	little	better	suited,	since	it	is	in	dollar	terms	
+as	well.	
+2. b.	About	1.08%	better	than	expected.	Start	by	estimating	the	Jensen’s	alpha,	in	
+monthly	terms	since	the	regression	is	in	monthly	terms.	The	monthly	riskfree	
+rate	is	0.30%	(3.6%/12)	and	Jensen’s	Alpha	=	-0.15%	-	0.30%	(1-1.80)	=	+0.09%.	
+Multiplying	by	12,	you	get	1.08%.	You	could	also	get	a	more	accurate	answer	by	
+compounding.	(1.0009)12-1	=	1.01085	or	1.085%.	
+3. c.	Higher	than	25%.	If	there	were	no	diversification	benefits	(i.e.,	the	firms	were	
+perfectly	correlated),	the	R-squared	would	fall	halfway	between	the	R-squared	
+of	the	two	firms.	However,	a	chemical	company	and	a	technology	company	are	
+unlikely	to	move	together	in	unison.	Hence,	there	should	be	less	firm	specific	risk	
+in	the	combined	firm	after	the	merger,	resulting	in	a	higher	R-squared	for	the	
+firm.	
+4. a.	1.20-2.40.	For	95%	confidence,	you	would	need	to	add/subtract	two	standard	
+errors	from	the	point	estimate.	In	this	case,	that	would	mean	adding	0.60	
+(2*0.30)	to	1.80,	yielding	2.40	and	subtracting	0.60	from	1.80,	resulting	in	1.20.	
+5. c.	Firm	has	positive	Jensen’s	alpha;	Average	Jensen’s	alpha	for	sector	is	
+negative.	A	positive	Jensen’s	alpha	is	good,	but	it	may	be	entirely	the	result	of	
+factors	external	to	the	firm.	Thus,	if	the	entire	sector	does	well,	it	is	possible	that	
+even	badly	managed	firms	in	the	sector	do	well	(and	have	positive	Jensen’s	
+alpha).

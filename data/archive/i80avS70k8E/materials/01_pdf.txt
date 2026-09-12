@@ -1,0 +1,325 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/CLC/slides/Ch10.pdf
+
+VALUING AND 
+PRICING YOUNG AND 
+START-UP FIRMS
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Stage of Development Typical Target Rates of Return 
+Start-up 50 to 70% 
+First stage 40 to 60% 
+Second stage 35 to 50% 
+Bridge / IPO 25 to 35%
+§VC valuation (pricing) avoids the serious 
+challenges of estimating operating 
+details for the long term by cutting off 
+the estimates prematurely(with a short 
+forecast period) and using a multiple that 
+is usually based on what comparable 
+companies are trading at currently. 
+§There is a degree of sloppiness is 
+associated with the use of a target rate
+to discount the firm’s future value. While 
+the target rate is supposed to include 
+both operating and failure risk, it is not 
+clear how they are incorporated into the 
+stated rates. 
+§In short, a venture capital valuation is 
+more a forward pricing, discounted 
+back at an arbitrarily high discount rate 
+with no connection to the actual risk in a 
+business.
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+1. Cash flow patterns: The expected cash flows 
+that underpin your valuation will reflect 
+assumptions made about revenue growth, 
+operating margins, and reinvestment. 
+Specifically, businesses with high revenue 
+growth and negative margins that are slow to 
+turn positive, will be saddled with negative 
+earnings in the early years, and incorporating 
+the reinvestment needed to deliver the 
+revenue growth will make cash flows more 
+negative. 
+2. Discount rate check: Separating the risk in a 
+young business into operating and failure 
+risk, we estimate a cost of capital to reflect 
+only the former. Thus, you should not be 
+surprised to see costs of capital in young 
+company valuation that are much lower than 
+the target rates that venture capitalists concoct, 
+and more reflective of costs of capital of 
+established companies in public markets, if 
+investors are diversified. 
+3. Failure risk: The failure risk is the input that 
+reflects the likelihood that many young 
+businesses will not make it, either because 
+they run out of cash and lose access to fresh 
+capital or because their business models never 
+turn to profitability. 
+Aswath Damodaran
+Aswath Damodaran
+§When building a valuation story and 
+converting that story into inputs and a 
+value, especially with a young growth 
+business or start up, it is often easy to 
+develop blind spots, andget attached 
+to your own stories. 
+§As a final step in the process, we would 
+recommend keeping the feedback loop 
+open, seeking out feedback from 
+people who think least like you and 
+sometimes are better versed in the 
+business details of the company you 
+are valuing. 
+§Ratherthenbecomedefensive, 
+incorporate what you learn from others 
+into your story.
+Aswath Damodaran
+§Transaction fees, from food ordering 
+and delivery, as the company keeps 
+roughly 20-25% of the total order value 
+for itself
+§Advertising, since restaurants listed on 
+Zomatoalso spend more on advertising, 
+based upon customer visits and 
+resetting revenues, to get additional 
+visibility.
+§Subscription services, with 1.5 million 
+members, where in return for a 
+subscription fee, they get discounts and 
+special deals
+§Restaurant raw materials, through 
+HyperPure, a service directed at 
+restaurants, offering groceries and 
+meats that are source-checked for 
+quality
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+§In our Zomato story, the Indian food 
+delivery/restaurant market will grow, as 
+Indians become more prosperous and have 
+increased online access, and this market will be 
+dominated by a handful of players, with Zomato 
+as one of the dominant players. 
+§As an intermediary with strong unit economics, 
+Zomato will be see high operating margins, over 
+time, and be able to continue to grow with 
+relatively little reinvestment, most of it in the form 
+of acquisitions. 
+§The operating risk in Zomato will be average, 
+but as a money-losing company, there remains a 
+non-trivial chance of failure, albeit one that will 
+be low because of the cash buffer that the 
+company will have after the IPO.
+§The Indian food delivery market will 
+grow:
+§We believe that the networking benefits 
+inherent in the online food delivery 
+business will lead to concentration and
+thatZomato will be one of the 
+dominant players. 
+§In the base case, we will estimate the 
+total market for online food delivery 
+will increase to $25 billion in a decade, 
+with Zomato commanding a 40% 
+market share in steady state, and that 
+Aswath Damodaran
+§In the base case, we assume that the 
+pre-tax operating margin for Zomato 
+will trend towards 35%, as the company 
+approaches maturity.
+Aswath Damodaran
+§To estimate the reinvestment that 
+Zomato will need to deliver its 
+expected growth, we will assume that 
+the company will remain an 
+intermediary and that its 
+reinvestment will continue to take 
+the form of acquisitions and 
+investments in technology.
+§In the base case, we will assume that 
+the company will be able to deliver Rs 5 
+for every rupee of capital invested next 
+year, largely due to the rebound from 
+COVID, before becoming Rs 3 for 
+every rupee invested in years 2-5, 
+before and settling in at Rs 2.5 for 
+every rupee invested beyond.
+Aswath Damodaran
+§On the operating risk dimension, Zomato 
+will remain primarily an Indian company, 
+dependent on Indian macroeconomic 
+growth to succeed, and the cost of capital 
+should reflect that risk. 
+§Zomato is a money losing company, but it 
+is not a start-up, facing imminent failure. 
+§On the plus side, its size and access to 
+capital, as well as its post-IPO augmented 
+cash balance, push down the risk of failure. 
+§On the minus side, this is a company that is 
+still burning through cash and will need 
+access to capital in future years to continue 
+to survive. 
+§In the base case, we will give Zomato a 
+Rupee Cost of capital of 10.25% in the 
+early years, before adjusting it down to 
+about 9% in steady state, and attach a 
+likelihood of failure of 10%, to the 
+company.
+Aswath Damodaran
+Aswath Damodaran
+§Determine “probabilistic” variables: In any 
+analysis, there are potentially dozens of inputs, 
+some of which are predictable and some of which 
+are not. It makes sense to focus attention on a few 
+variables that have a significant impact on value.
+§Define probability distributions for these 
+variables: You c an us e a m ix  of his tor ic al d ata, 
+industry averages and common sense.
+§Check for correlation across variables: When 
+there is strong correlation, positive or negative, 
+across inputs, you have two choices. 
+§One is to pick only one of the two inputs to vary; it 
+makes sense to focus on the input that has the bigger 
+impact on value. 
+§The other is to build the correlation explicitly into the 
+simulation; this does require more sophisticated simulation packages and adds more detail to the 
+estimation process.
+§Run the simulation: For the first simulation, you 
+draw one outcome from each distribution and 
+compute the value based upon those outcomes. 
+This process can be repeated as many times as 
+desired, though the marginal contribution of each 
+simulation drops off as the number of simulations 
+increases. 
+Aswath Damodaran
+Aswath Damodaran
+§There is a potential upside to the uncertainty 
+that you face, when valuing young businesses, 
+and that comes from the possibility that if the 
+stars align, and the products offered by the 
+business find wider acceptance than expected, 
+it can use that success to enter new businesses 
+that do not seem viable today or are not even 
+in consideration.  
+§This “optionality” will add a premium to the 
+value that you estimate for the business, and 
+that premium will increase, as uncertainty 
+becomes more rampant.
+§There is some truth to the argument, but its weight 
+rests on not just the number of users and 
+subscribers on the platform, but also in how loyal 
+they are to the platform and how intense their 
+usage is.
+§It also depends on whether the platform company 
+is accumulating data on the users that can be used 
+as a competitive advantage when entering other 
+businesses, with more data more exclusive to 
+the company, creating more value than data that 
+others have access to. 
+Aswath Damodaran
+§Zomato's platform has the benefit of large 
+numbers, but it falls short on both 
+intensity and proprietary data. Thus, 
+Zomato app users are on the system only 
+when they order food, and the 
+engagement is often restricted to food 
+ordering and delivery. 
+§If Zomato plans to expand its offerings to 
+its platform-users, it is very likely that 
+these add-on businesses will be food-
+related, perhaps extending into grocery 
+shopping, creating some option value.
+§Even if you believe that there is 
+optionality, attaching a numerical value to 
+that option is one of the most difficult 
+tasks in investment. 
+§In short, if we were tempted to pay a 
+premium over the intrinsic valuation (₹43) 
+that we estimated for Zomato earlier, to 
+reflect its large user base and optionality, 
+that premium should be small, given user 
+characteristics.
+Aswath Damodaran
+§Standardized Price: For a metric to be used as 
+a scalar, it has tohave a positive value, at the 
+minimum, and have a close connection to 
+business value, even if positive. That 
+requirement crimps your choices when pricing 
+young companies. 
+§Peer Group Assembly: With start-ups and very 
+young businesses, almost all ofthe peer group 
+businesses can be privately owned, and the 
+pricing information on these businesses will 
+reflect their most recent venture capital rounds 
+(which can be both dated and misleading). 
+Even as these companies advance on the life 
+cycle, and become publicly traded, defining 
+them narrowly can make it difficult to find peer 
+groups. 
+§Controlling for Differences: Assuming that you 
+can find a scalar for pricing and are able to 
+assemble a peer group of businesses like 
+yours that are priced, you will still have to 
+determine what it is that investors are looking 
+at, when setting prices, and then figure out how 
+to control for differences on those 
+determinants. 
+Aswath Damodaran
+§Standardized Price: One alternative is to use an 
+operating metric that you can observe at the 
+business that you believe will provide you with 
+the pathway to revenues and profitability. Another 
+alternative is to forecast the financials of a 
+business and use the forecasted values as your 
+scalar. 
+§Peer Group Assembly: If you are pricing a start-up 
+that is still privately owned and all the peer group 
+is also privately owned, you often have no choice 
+but to stick with the flawed and often stale pricing 
+from more recent venture capital rounds at the 
+peer group. Once a start-up is publicly traded, we 
+would recommend defining its business broadly 
+and loosening the criteria for “similar” firm, to get 
+more companies in the peer group, even if it 
+means bringing in companies from other markets 
+or sectors.
+§Controlling for Differences: The problem is that 
+outside of revenue growth, young businesses have 
+profit margins and reinvestment measures that are 
+unreliable and shifting. If your intent is to find out 
+what the market is pricing into young businesses, 
+you can use statistical tools to eke out correlations 
+between market prices and observable variables. 
+Aswath Damodaran
+Doordash
+(2020)
+Doordash 
+(2030 
+Forecast) Zomato (2020)
+Zomato (2030 
+Forecast)
+Market 
+Capitalization $57,860 $8,600
+Enterprise 
+Value $53,640 $7,500
+Gross 
+Bookings $18,897 $72,072 $1,264 $10,038 
+Revenues $3,601 $9,009 $266 $2,208 
+Gross Income $1,864 $4,955 $140 $1,325 
+EBIT -$412 $1,802 -$64 $773 
+Platform 
+Users 20 50 40 200
+Current Forward Current Forward 
+EV/GOV 2.84 0.74 5.93 0.75
+EV/Revenues 14.90 5.95 28.20 3.40
+EV/ Gross 
+Income 28.78 10.83 53.57 5.66
+EV/ User 2682.00 1072.80 187.50 37.50
+Aswath Damodaran

@@ -1,0 +1,89 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/CLC/slides/Ch6.pdf
+
+THE INVESTING 
+DECISION ACROSS 
+THE LIFE CYCLE 
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+§The net present value of a project is 
+the sum of the present values of the 
+expected cash flows on the project, 
+over its lifetime, discounted back at the 
+hurdle rate, i..e, the cost of equity or 
+capital. If the NPV is greater (less) than 
+zero, the project is generating a return 
+that exceeds (trails) its hurdle rate and 
+is a good (bad) project. 
+§The internal rate of return is the 
+discount rate that makes the 
+aggregated present value of all cash 
+flows on the project equal to zero. That 
+internal rate of return can be compared 
+to the hurdle rate for the project, and if 
+it exceeds (falls below) the hurdle rate, 
+the project is a good project
+Aswath Damodaran
+§Percent versus Absolute Value: The first difference 
+is that the NPV for a project is an absolute value, i.e., 
+with expected dollar cash flows, the NPV will be a 
+dollar value, biasing it towards investments that 
+require more capital. The internal rate of return, as a 
+percentage value, is likely to skew towards projects 
+that require less capital, yielding rankings that 
+diverge from the NPV rule. 
+§Unique versus Multiple Values: There can be only 
+one net present value for a project, but if a project 
+has cash flows that change sign more than once, 
+going from negative to positive and then back to 
+negative, over time, there can be more than one 
+internal rate of return for the project.
+§Reinvestment of intermediate cash flows: The NPV 
+rule assumes that these intermediate cash flows are 
+reinvested at the hurdle rate, a safe assumption if 
+these hurdle rates represent what investors can earn 
+in the market right now on investments of equivalent 
+risk. The IRR rule assumes that intermediate cash 
+flows get reinvested at the computed IRR for the 
+project, an implicit assumption that the business will 
+continue to have new projects very similar in quality 
+and returns to the one that is being assessed, in the 
+future.
+Aswath Damodaran
+Aswath Damodaran
+§Real options are notoriously difficult to value, 
+since the option pricing models thatwe use to 
+value listed options do not adapt well to 
+valuing project options, where the underlying 
+asset is not traded, the options are long term 
+and early exercise is more the rule than the 
+exception. 
+§However, recognizing that there is a real option 
+embedded in a project can yield valuable 
+insights and alter decision making. Thus, even 
+without attaching a value to the option, we 
+know that option to expand have the most 
+value, when the market you plan to expand into 
+is a big one and when you are most uncertain 
+about its size, and whether you will be able to 
+enter it. 
+§While businesses across the life cycle can and 
+often do make real options arguments for 
+investing in projects that don’t pass financial 
+muster (NPV is less than zero or return on 
+capital is less than the cost of capital), you can 
+see the appeal to young firms, especially those 
+entering large markets, since they often face 
+the most uncertainty about the future. 
+Aswath Damodaran

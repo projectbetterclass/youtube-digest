@@ -1,0 +1,288 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/FBCorpGov.pdf
+
+META LESSON 1: THE TRUE MEANING 
+OF CORPORATE GOVERNANCE
+The power to change…
+Aswath Damodaran
+2
+The Fall of Tech?
+¨As we get deeper into earnings season for the third quarter of 2022, the 
+biggest negative surprises are coming from technology companies, with 
+the tech giants leading the way. Investors, used to a decade of better-
+than-expected earnings and rising stock prices at these companies, have 
+been blindsided by unexpected bad news in earnings reports, and have 
+knocked down the market capitalization of these companies by hundreds 
+of billions of dollars in the last few weeks. 
+¨Facebook (or Meta, if you prefer its new name), in particular, hasbeen in 
+the eye of the storm, down more than 75% from the trillion-dollar market 
+capitalization that it enjoyed just over a year ago. 
+¤In its last earnings report, the company managed to disappoint almost every 
+segment of the market, shocking growth investors with a drop in quarterly 
+revenues, and value investors with a sharp decline in earnings and cash flows. 
+¤In the days after the report, the reaction has predictably fallen into the extremes, 
+with one group arguing that this is the beginning of the end for the company's 
+business and the other suggesting that this is the time to buy the stock, as it 
+prepares for a new growth spurt.
+3
+The Big Issues
+¨In this first post, I will use the investor debate about Facebook to 
+talk about corporate governance, what it is, why it matters and 
+how I think governance disclosure research, rules and scoring 
+services have lost the script in the last two decades. 
+¨In the next post, I will use Facebook's most recent earnings surprise 
+to talk about inconsistencies in how accountants categorize 
+corporate spending, and why these inconsistencies can skew 
+investors perceptions of corporate profitability and financial health. 
+¨In the third and final post, I will argue that Facebook's troubles with 
+the market have as much to do with a failure of narrative, as they 
+are about disappointing numbers, and present a template for what 
+the company needs to do, to reclaim the high ground.
+4
+Background: Facebook’s Market Journey
+5
+Facebook: Perspective
+¨ Buyandholdreturns:IfyouhadboughtsharesinFacebookonitsfirsttrading
+day,youwouldhavepaid$38.12,andifyouhadheldthestockthrough
+October27,2022,whenitwastradingat$93/share,thatwouldhave
+translatedintoacumulativereturnof144%.Thatwouldhaveleftyoulagging
+the181%priceappreciationthatyouwouldhaveearnedontheS&P500
+duringtheperiod,andevenmoreso,ifyouconsiderthefactthatyouwould
+haveearnednodividendsonFacebook,whilegeneratingabouta2%dividend
+yield,everyyearontheindex.
+¨ Currentstanding:Ataroughly$250billionmarketcapitalization,Facebookis
+alargemarket-capcompany,butithaslostitsstandingamongthelargest
+marketcapcompaniesintheworldthatifoccupiedforanextendedperiod
+duringthelastdecade.
+¨ Trader'sgame:Alongtheway,Facebookhashaditsupsanddowns,anda
+savvytraderwhowasabletotimeentryandexitintothestockattheright
+times,wouldhavemadeakillingonthestock.Iknowthatcanbesaidofany
+stock,buttheswingsinfortunearemuchgreateratcompanieslikeFacebook,
+makingthemthemthepreferredhabitatfortradersofallstripes.
+6
+Facebook’s Operating Journey
+Aswath Damodaran
+7
+The 2022 Surprises: Flat Revenues
+Aswath Damodaran
+8
+And a drop in profitability…
+Aswath Damodaran
+9
+The Bigger Challenges
+1. OnlineAdMarketLevelingoff:Facebookisanonlineadvertisingcompany,andformuchof
+itsearlyyears,itbenefitedfromgrowthintheonlineadvertisingmarket,largelyatthe
+expenseoftraditionaladvertising(newspapers,televisionetc.).Asonlineadvertising
+approachestwo-thirdsofalladvertising,thatgrowthisnowlevelingoff,andasoneofthe
+twolargestplayers(andbeneficiaries)ofthemarket,Facebookisfacingagrowthcrunch.
+2. Onlineadvertisingiscyclical:Asonlineadvertisinghasgrownoverthelastdecade,there
+weresomewhoarguedthatonlineadvertisingwouldbemoreresilientthantraditional
+advertising,inthefaceofeconomicshocks,butthisyear'sdevelopmentshaveshown
+otherwise.Aseconomicgrowthhasslowedandconcernsaboutarecessionhaverisen,
+revenuegrowthhasdroppedatallthecompaniesinthisspacehasdeclined.Theconclusion
+isthatonlineadvertisingiscyclical,andifweareinthemidstofaneconomicslowdown,the
+companiesinthisspacewillfeelthepain.
+3. Reputationeffects:WhileFacebookmadeitthroughtheprivacychallengeswithrevenue
+growthandprofitabilityintact,itisundeniablethatthecompany'sreputationtookabeating.
+Inmyview,thistoxicity,asmuchasthedesiretoenteranewmarketintheMetaverse,
+explainswhyFacebookchangeditsnametoMetainNovember2021.
+10
+Corporate Governance: The Stakeholders
+11
+Shareholder vs Stockholders
+Aswath Damodaran
+¨It is true that conventional corporate finance (and the 
+Delaware courts) give primacy to shareholders, and it is not 
+because shareholders are a special or protected group, but It 
+is becausethey are the only claim holders that do not have a 
+contractual claim on the firm; as shareholders you get what's 
+left over after contractual claims (wages,interest expenses) 
+have been met. 
+¨There is of course a notion that managers should be 
+accountable to all stakeholders. Stakeholder wealth 
+maximization is fanciful in its belief that it is management's 
+job to juggle the divergent interests of different stakeholders 
+and dangerous insofar as it makes managers accountable to 
+everyone, and by extension, to no one.
+12
+Conflicts of Interests: Consequences
+Aswath Damodaran
+¨If you are looking at a privately owned business, with a 
+sole owner who also runs the business, the interests of 
+owners and managers converge, but this is 
+theexception, not the rule. 
+¤Even in a family-ownedbusiness,where one family member 
+runs the business, you can have other family members disagree 
+about how it is run, leading to frictions and legal battles. 
+¤As businesses seek external capital to grow, either from private 
+hands (venture capitalists) or public equity, the divergence 
+between the interests of those running businesses and the 
+owners of these businesses will increase.
+13
+Where conflicts of interest are greatest…
+Aswath Damodaran
+¨If the conflict of interest that is at the heart of corporate 
+governance is that between the owners of a business and those 
+who manage that business, it will begin when private businesses 
+seek out capital from external sources, as founder and venture 
+capital interests can diverge. 
+¨These conflicts will expand, as companies go first go public, and the 
+interests of insiders and founders, who run the firm, can be at odds 
+with the interests of outside shareholders. 
+¨As companies age, founders will move on and get replaced by 
+professional managers, and these managerial interests can clearly 
+be at odds with those of shareholders, with boards of directors, in 
+theory, watching out for the latter . In short, conflicts of interest 
+exist at almost all businesses, though the nature of the conflict will 
+change as companies go from private to public, and as they age.
+14
+Consequences of conflicts of interests..
+¨When the interests of decision makers or managers at a 
+business diverge from those of its owners, it is inevitable 
+that there will be decisions made that advance the 
+interests of the former at the expense of the latter . 
+¤With private business that access venture capital, founders may 
+make decisions (on product design, business models, marketing) 
+that venture capitalists may not find to their liking. 
+¤With public companies that are run by founders/insiders, the 
+decisions made by inside shareholders to advance their interests 
+may not align with the interests of outside shareholders.
+¤In older public companies, the investing, financing and dividend 
+decisions that managers make may by in direct opposition to 
+what shareholders would like them to do.
+15
+Checks on conflicts of interest…
+Aswath Damodaran
+¨Inprivatefirmswithventurecapitalinvestors,VCinvestors
+areoftenactivelyinvolvedinmanagement,and,iftheyhave
+thepower,havefewcompunctionsaboutpushingout
+founder/managerswhodon’tservetheirinterests.
+¨Inpubliccompanies,withinsidersandfoundersincharge,the
+onlyrecoursethatoutsideshareholdersoftenhave,ifthey
+feeltheirinterestsarebeingignored,istosellandmoveon,
+hopingthattheresultingdropinstockpricescausesachange
+incourse.
+¨Intheory,theboardsofdirectorsatthesecompaniesare
+supposedtoprotectshareholderinterests,butthat
+protectionissporadicandoftenineffective.
+16
+Corporate Governance: The Distractions
+¨In the aftermath of the Enron and Tyco scandals in the United States, 
+where insider-dominated boards were negligent in their oversight 
+responsibilities, the Sarbanes-Oxley Act was passed in 2002, with 
+improved corporate governance as one of its objectives. 
+¨At about the same time, you saw the advent of services that used the 
+disclosures that companies were required to make on governance to 
+estimatecorporate governance scores. 
+¨It is clear that twentyyears later that all that Sarbanes Oxley has 
+accomplished is replacing ineffective insider-dominated boards with 
+ineffective independent boards, while creating hundreds of pages of 
+disclosure that no one reads and giving rise to scores that are close to 
+useless in judging governance. 
+¨With thepush towards diversity in board compositionnow taking 
+precedence,this process is hurtling even more into irrelevance, with the 
+only positive being that the ineffective boards of the future will meet all 
+our diversity criteria.
+Aswath Damodaran
+17
+Corporate Governance and Management 
+Change
+Source: Honey, I shrunk the ESG alpha
+¨ We have toreframe the meaning of good corporate governance, shifting away 
+from a board-centered, check-box driven viewto one that is centered on giving 
+shareholders the power to change company management, if they choose to. 
+¨ In fact, good corporate governance is like a gooddemocracy, where shareholders 
+(voters) get the power to change management (governments), when they believe 
+that their interests are not being served. 
+¤As in a democracy, there is no guarantee that shareholders will make the right or even 
+informed choices, sometimeschoosing not to make changes, even when change is 
+required, and sometimes deciding to replace good managers with bad ones. 
+¤Good corporate governance is sometimes chaotic and often unsettling, and it is no 
+surprise that there are many who are drawn to the benevolent dictatorship model, 
+where "qualified, well-intentioned managers" are given lifetime tenure, with 
+shareholders stripped of the power to challenge them.
+¤That latter model was the default for publicly traded companies in much of the world, 
+for the twentieth century, and even in the US, you hadmanagerial apologists like Marty 
+Liptonand corporate strategists arguing that corporate management would be more 
+effective, without shareholder oversight.
+18
+Management Matches: The Life Cycle
+Aswath Damodaran
+19
+Management Mismatches: The Life Cycle
+20
+Management Mismatches: Consequences
+21
+The Life Cycle: Determinants
+Aswath Damodaran
+22
+Tech Companies: Life Cycle Effects
+23
+Management Mismatches at tech firms
+¨With the long life-cycle companies that characterizes the twentieth 
+century, companies and managers both aged over time, allowing for 
+transitions to occur more naturally. To see, why consider how corporate 
+governance played out at Ford, a twentieth century corporate success 
+story. 
+¤Henry Ford, undoubtedly a visionary, but a crank on some dimensions, was Ford's 
+CEO from 1906 to 1945. His vision of making automobiles affordable to the masses, 
+with the Model T (but only in black), was a catalyst in Ford's success, but by the end 
+of his tenure in 1945, his management style was already out of sync with the 
+company. With Ford, time and mortality solved the problem, and his grandson, 
+Henry Ford II, was a better custodian for the firms in the decades that followed. 
+¤In contrast, consider how quickly Blackberry, as a company, soared, how short its 
+stay at the top was, and how steep its descent was, as other companies entered the 
+smartphone business. Mike Lazaridis, one of the co-founders of the company, and 
+Jim Balsillie, the CEO he hired in 1992 to guide the company, presided over both its 
+soaring success, gaining accolades for their management skills for doing so, as well 
+as its collapse, drawing jeers from the same crowd. By the time, the change in top 
+management happened in 2012, it was viewed as too little, too late
+Aswath Damodaran
+24
+The Investor Surrender
+Aswath Damodaran
+25
+And at Facebook…
+26
+The Culprits…
+1. Market-shareseekingStockExchanges:Formuchofthelastcentury,startingwithadefactobanin
+1926andarulein1940,theNewYorkStockExchangebarredcompanieslistedontheexchange
+fromfromissuingshareswithdifferentvotingrights,andwithitsdominanceoverUSequity
+markets,thatbecametherulefollowedbymostUScompanies.TheAmericanStockExchange
+adoptedslightlylooserrules,hopingtogetmarketsharefromtheNYSE,butitwastheNASDAQ
+thatthrewcautiontothewindsentirelyandremovedallrestrictionsonvotingandnon-voting
+shares.
+2. FounderWorshippers:Forthelastfewdecades,wehaveglorifiedthefoundersof
+technologycompanies,andwhilethereismuchtoadmireintheiraccomplishments,thereisa
+dangerinputtingthemonpedestalsandattributingtothemheroicorsuperhumanqualities.In
+thecaseofcompanieslikeGoogleandFacebook,andespeciallysoatthetimeoftheirpublic
+offerings,thereweremanyinvestors,includingsomeofthelargestinstitutionalplayers,thatwere
+willingtomakethetradeoffofgivinguppowertochangemanagementinreturnforbeing
+investedincompaniesrunby"young,techgeniuses".
+3. LazyInvestors:Mostofus,asinvestors,chosetogiveawayourvotingrightswillinglybecausewe
+wantedsharesofthe"nextbigthing",andatthetimewedidso,werationalizeditbyarguingit
+thatwewouldnotneedthatvotingpoweranytimesoon.
+4. LaxRegulators:Forsomeofyoureadingthispost,thevillainisgoingtobetheSECand
+regulators,withtheargumentbeingthattheycouldhaveprotectedyoubybanningdualclass
+shares.
+27
+Consequences for Corporate Governance at 
+Tech Com panies
+1. Chaotic Management Transitions: It is true that we have made it more difficult to 
+change management at tech companies, even when that change is overdue. That 
+said, there will be tech companies where change will occur, but my prediction is 
+that this change will often be forced by either insider in-fighting (where co-
+founders and insiders turn on each other) or precipitated by a pricing collapse. 
+2. Locked-in Mismatches: There are other techcompanies where the game has been 
+so thoroughly tilted in favor of insiders and incumbent management that change 
+is impossible. In these companies, as an outside investor, you have tobuild that 
+reality into your valuations, leading to discounts to your value that reflect how 
+much you trust management. In short, if management has adopted policies that 
+are value-destructive, in the long term, there will be a much smaller chance of 
+reversal at companies with locked-in management than at companies where 
+change remains possible.
+3. VotingShare/Non-votingShares:Whentechcompaniesgopublic,itisentirely
+possiblethattherewillbeahoneymoonperiod,perhapsevenanextendedone,
+whereinvestorsaredazzledbyscalingsuccessesandarewillingtooverlook
+shortcoming,whenshareswithdifferentvotingrightstradeatthesimilarprices.
+Asdisillusionmentsetsin,Iwouldexpectvotingsharepremiumstorise,andto
+risemoreatthosefirmswhereinvestorstrustmanagerstheleast.

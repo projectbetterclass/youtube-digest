@@ -1,0 +1,198 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/InstacartIPO.pdf
+
+THE (INSTA) CART BEFORE THE 
+(GROCERY) HORSE: A COVID FAVORITE’S 
+REALITY CHECK!
+The Pandemic gives… And it takes away!
+Aswath Damodaran
+2
+A Long-awaited IPO
+¨After years of lead in, Instacart has finally filed for a public offering 
+of it’s shares, with estimates that it will be aspiring to raise about 
+$600 million from markets, at a pricing of about $9-$10 billion for 
+its equity. 
+¨Coming in the same week that ARM is also filing to go public, but 
+with an estimated pricing of $55-$60 billion, it is an indication of 
+how much the ground has shifted under Instacart since the heady 
+days of 2020, when Instacart was viewed by some Americans as the 
+only thing that stood between them and starvation. 
+¨At that time, there were some who were suggesting that the 
+company could go public at $30-$40 billion, but reality has caught 
+up with both the company and investors, and this IPO represents 
+vastly downgraded expectations for the company’s future.
+3
+The Instacart Business Model
+4
+The Business, in steps
+¨In the first, I will look at the grocery business, both in terms of 
+growth and profitability of grocery stores, since even though 
+Instacart is anintermediary in the business, it will be affected by 
+grocery business fundamentals. 
+¨In the second, I will examine the forces that are pushing consumers 
+to online grocery shopping, and why I believe that the ceiling for 
+that growth is much lower than it is than in other areas of retailing. 
+¨In the third, I will focus on how the competition to Instacart, within 
+the online grocery retail space, is shaping up, and the 
+consequences for its market share. 
+¨In the final, I will examine the operating costs faced by Instacart, 
+especially in the content of how the fee pie will be shared by the 
+company with its shoppers and drivers.
+5
+1a. The Grocery Business –Slow Growth
+6
+1b. And low profit margins…
+7
+1c. And concentrated market share…
+8
+2. Online Grocery Shopping
+Aswath Damodaran
+¨Customers tend to favor a specific grocery store (or at most, a 
+couple of stores) for most of their grocery needs. 
+¤One reason for that is familiarity with store layout, since knowing where to 
+find the items that you are looking for can make the difference between a 
+10-minute trip to the store and a 30-minute trip. 
+¤Another is location, with customers tending to shop at neighborhood 
+stores, for much of their needs, since groceries do not do well with long 
+commutes back home. 
+¨Second, for non-processed food, meats and produce, being able to 
+see and touch items before you buy them is part of the shopping 
+experience, with pictures of the same product operating as poor 
+substitutes. 
+¨For these reasons, grocery retail remained almost immune from 
+the disruption wrought on the rest of brick-and-mortar retail, at 
+least in the United States.
+9
+The COVID Effect
+10
+And the Easing of that Effect
+Aswath Damodaran
+11
+3. The Competition
+12
+4. Operating Economics
+¨ Byfar,thebiggestcostthatthecompanyfacesinhiringandpayingthousands
+ofshoppersanddriverstooperateitssystem.Likeride-sharingcompanies,
+thequestionofhowInstacartcategorizestheseworkers,andtheresulting
+costs,willdeterminewhatitwillbeabletogenerateasoperatingprofits:
+1. PayversusCommission:Instacarthastraditionallypaiditsshoppersbaseduponthebatchesof
+workdone(withabatchincludingshopping,packingandloadingacustomerorder)and
+paymentsfordeliveriesmade,withtipsfromcustomersaccruingasadditionalincome.In
+effect,thatmakesalmostalloftheseexpensesintovariablecosts,risingandfallingwith
+revenues,reducingrisktothecompanybutalsoeconomiesofscale,asitgetsbigger.
+2. IndependentcontractorversusEmployee:Instacarthasarguedthattheshoppersanddrivers
+whoworkforitareindependentcontractors,ratherthanemployees.Thatdistinctionmatters
+becauseanemployeecategorizationwillopenupInstacartnotonlytoadditionalcosts(social
+security,healthcareetc.)butalsotolegalliability,foremployeeactions.In2023,Instacartpaid
+$46.5million,tosettleaCalifornialawsuitonthiscount.
+¨ As a company built around a technology platform, Instacart also has 
+significant spending on R&D, as well as on customer support services.
+13
+The Instacart IPO: Prospectus Pet Peeves
+Aswath Damodaran
+1. Disclosure Diarrhea: Prospectuses have become more and more bulky over time, 
+with Airbnb's 2020 listing including a prospectus that was 350 pages long. With 
+appendices, Instacart's prospectus stretches on to 416 pages.
+2. “T ech” and AI: In common with many other companies that have gone public in 
+the last decade, Instacart is quick to label itself a technology company, when the 
+truth is that it is a grocery delivery company that uses technology to smooth the 
+ride. In keeping with the times, the prospectus mentions AI multiple times, I 
+counted 32 mentions of AI in the prospectus, and I remain skeptical that AI will (or 
+should) alter grocery shopping in fundamental ways.
+3. Adjusted EBITDA: Needless to say, Instacart plows right ahead and not only adds 
+back stock-based compensation but makes a host of other adjustments (see page 
+126 of prospectus). Since Instacart makes money without these adjustments, they 
+only draw attention away from that good news.
+4. Share count shenanigans: On page 19 of the prospectus, Instacart headlines that 
+its share count will be 279.33 million shares, but counting excluded shares 
+(including RSUS) together, you get an ignored share count of 43.62 million, which 
+brings the total share count to 322.94 million shares.
+14
+Instacart: Financial History
+15
+a. Take Rate
+16
+b. Operating Expenses
+17
+c. Customer Acquisition and Reinvestment
+18
+d. Unit Economics –Order Size
+Aswath Damodaran
+19
+And by cohort…
+Aswath Damodaran
+20
+My InstacartValuationStory…
+Aswath Damodaran
+1. Growth:Toestimatetransactionrevenues,Iwillassumethatgrosstransaction
+valueontheplatformwilltrackgrowthinonlinegroceryretailing,whichseemsto
+havesettledintoacompoundedannualgrowthrateofabout12%,forthenext
+fiveyears.IwillassumethatInstacartwillmaintainitsmarketshareoftheonline
+grocerymarket,inthefaceofcompetition,butonlybycuttingitsfeesand
+acceptingatakerateof6%,byyear5,downfrom7.5%inthetrailing12
+months.Advertisingrevenues,though,areassumedtokeeptrackwithgross
+transactionsontheplatform.
+2. Profitability:Drawingonthecompany'shistoryofdeliveringeconomiesofscale
+oncostofgoodssoldandoperationssupport,Iwillassumethatthecompanywill
+beabletoimproveitsoperatingmarginsovertimeto25%.Thetensionsbetween
+Instacartanditsshoppers,aswellaspushbackfromgrocerystores,willkeepalid
+onthesemarginsandpreventfurtherimprovement,andIexpectInstacart's
+expensesforitsshopperstoincreaseovertime,asitisforcedtotreatthemas
+employees(ratherthanindependentcontractors).
+3. Reinvestment:Asusergrowthlevelsoff,Iexpectthecompanytoreverttoits
+capital-lightorigins,andspendfarlessonacquiringcustomers,aswellasonR&D.
+Thisallowsmetoassumethatthecompanywillbeabletodeliver$3.13in
+revenues,foreverydollarinvested,roughlymatchingtheglobalindustryaverage.
+Aswath Damodaran
+Aswath Damodaran
+23
+The Offering: A Pricing Game
+¨IPOsarepriced,notvalued,notwithstandingthelipservicethateveryone
+involvedintheprocess,includingVCs,foundersandbankers,paysto
+valuation.
+¨Thedifferencebetweenvaluingandpricingisthatwhiletheformer
+requiresthatyougrapplewithbusinessquestionsongrowth,profitability
+andreinvestment,thelatterisbasedonhowmuchinvestorsarepaying
+forpeergroupcompanies,asubjectivejudgment,butonemade
+nevertheless.Inkeepingwiththistheme,Icomparedtheproposed
+pricingforInstacartagainstthepricingofitspeergroup.
+Aswath Damodaran
+24
+An Offering Preview
+¨A Risk Averse Offering: The fact that Instacart is going public is perhaps a 
+sign that the market is thawing, but this IPO has been swaddled in safety 
+blankets to prevent a market backlash. In addition to pricing the company 
+conservatively (as you can see from the value estimate in the last section), 
+Instacart lined up high-profile cornerstone investors includingNorges
+Bank, TCV, Sequoia, D1 and Valiant to buy up to 60% of the offering, 
+providing a floor on the price.
+¨Mood and Momentum: The ARM IPO offering on September 14, which 
+saw the company's stock price, which was offered at $51, open for trading 
+at $56.10 and closed the day at $63.59.
+¤ If that mood spills over into this week,I expect Instacart's IPO to pop on its 
+opening day as well, and it is no surprise that the offer price was reset to $30 in the 
+aftermath. 
+¤There is of course the possibility that Instacart gets a chilly reception for its 
+offering, either because the market mood has already turned (ARM is back down to 
+$56 per share) or because Instacart does not have the AI hook that might have 
+induced investors to jump on its bandwagon.
+25
+The VC Game
+Aswath Damodaran
+26
+Bottom Line: There is no smart money
+Aswath Damodaran
+¨The notion that there is smart money, i.e., that there is an investor 
+group that is somehow wiser, more informed and less likely to act 
+emotionally than the rest of us, and that it earns higher returns 
+than the rest of us, is deeply held. 
+¨In my view, it is a mirage, since every group that is anointed as 
+smart money ultimately ends up looking average (in terms of 
+behavior and returns), when all is said and done. 
+¨It happened to mutual fund managers decades ago, and it has 
+happened to hedge funds and private equity over the last two 
+decades. 
+¨For those who are holding on to the beliefthat venture capitalists 
+are the last bastion of smart money, it is time to let go. While there 
+are a few exceptions, venture capitalists for the most part are 
+traders on steroids, riding the momentum train, and being ridden 
+over by it, when it turns.

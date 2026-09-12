@@ -1,0 +1,114 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate5for2024.pdf
+
+DATA UPDATE 5: PROFITABILITY , 
+THE ACID TEST FOR BUSINESS
+The Business End Game
+2
+The Lead In!
+¨In my last three posts, I looked at the macro (equity risk premiums, 
+default spreads, risk free rates) and micro (company risk measures) 
+that feed into the expected return we demand on investments and 
+argued that these expected returns become hurdle rates for 
+businesses, in the form of costs of equity and capital. 
+¨Since businesses invest that capital in their operations, generally, 
+and in individual projects (or assets), in specific, the big question is 
+whether they can generate enough in profits to meet these hurdle 
+rate requirements. 
+¨In this post, I start by looking at the end game for businesses, and 
+how that choice plays out in investment rules for these businesses, 
+and then examine how much businesses generated in profits in 
+2023, scaled to both revenues and invested capital.
+3
+The End Game in Business: The Corporate 
+Finance Perspective
+4
+Profits and Value: The Link
+¨While capitalism and private business are described as 
+profit maximizers, the truth is more subtle, since it is 
+value that you want to maximize in a business. 
+¨For some companies, especially mature ones, value and 
+profit maximization may converge, but for most, they 
+will not. 
+¤Thus, a company with growth potential may be willing to access 
+less in profits now, or even losses, to advance its growth 
+prospects. 
+¤In fact, the biggest critique of the companies that have emerged 
+in this century, many in social media, tech or even green energy, 
+is that they have been prioritized scaling up and growth so much 
+that they have failed to pay attention to profitability.
+5
+Corporate Stakeholders
+6
+Confused Corporatism!
+7
+Back to Value Maximization!
+¨ It may seem odd that I am spending so much time defending the 
+centrality of profitability to a for-profit business, but it is a sign of 
+how distorted this discussion has become that it even necessary.
+¨You mayfind my full-throated defense of generating profits and 
+creating value to be distasteful, but if you are an advocate for the 
+point of view that businesses have broader social purposes, the 
+reality is that for businesses to do good, they have tobe financial 
+healthy and profitable. 
+¨Consequently, you should be just as interested, as I am, in the 
+profitability of companies around the world, albeit for different 
+reasons. My interest is in judging them as businesses and 
+investments, and yours would be to see if they are generating 
+enough as surplus so that they can do good for the world.
+8
+Profitability: Measures and Scalars
+9
+The Skewing Factors..
+¨The first is the explicit role of accounting in 
+measuring profits. That implies that inconsistent 
+accounting rules will lead to profits being 
+systematically mis-measured, a point I have madein 
+my postson how R&D is routinely mis-categorized by 
+accountants. 
+¨The other is the implicit effect of tax laws, since 
+taxes are based upon earnings, and there is an 
+incentive to thus understate earnings or even report 
+losses, on the part of some businesses, to reduce or 
+avoid paying taxes.
+10
+Global Profits in 2023…
+11
+Profit Margins: Variants
+12
+Profit Margins, by Sector
+13
+Profit Margins, by Region
+14
+A Corporate Life Cycle View of Profitability
+15
+Profit Margins: By Age Decile
+16
+Return on Investment: Variants
+17
+Returns, by Sector
+18
+Excess Returns
+Aswath Damodaran
+19
+Excess Returns: By Sector
+Aswath Damodaran
+20
+Excess Returns: By Region
+21
+Excess Returns: Summing up!
+22
+Back to the End Game!
+¨Istartedthispostbytalkingabouttheendgameinbusiness,
+arguingthatitshouldremainprofitabilityasastartingpoint
+andvalueastheendgoal.Thecriticsofthatendgame,who
+wanttoexpandtheendgametoincludemorestakeholders
+andabroadermission(ESG,Sustainability)allseemtobe
+operatingonthepresumptionthatshareholdersaregettinga
+muchlargersliceofthepiethantheydeserve.
+¨Thatmaybetrue,ifyoulookatthebiggestwinnersinthe
+economyandmarkets,butintheaggregate,thegameof
+businesshasonlybecomeharderovertime,asglobalization
+hasleftcompaniesscrabblingtoearntheircostsofcapital.
+¨Infact,adecadeoflowinterestratesandinflationhaveonly
+madethingsworse,bymakingriskcapitalaccessibletoyoung
+companies,eagertodisruptthestatusquo.

@@ -1,0 +1,36 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session13soln.pdf
+
+Session	  13:	  	  Post	  class	  test	  solutions	  
+1. d.	  $19.44	  million.	  The	  NPV	  should	  be	  computed	  using	  the	  higher	  cost	  of	  capital.	  
+To	  compute	  the	  correct	  NPV,	  we	  first	  compute	  the	  after-­‐tax	  cash	  flow	  each	  year.	  
+• After-­‐tax	  cash	  flow	  =	  After-­‐tax	  Operating	  Income	  +	  Depreciation	  =	  $12	  +	  
+(100-­‐20)/10	  =	  $20	  million	  
+• In	  year	  10,	  you	  will	  have	  a	  salvage	  value	  of	  $20	  million	  
+• NPV	  =	  -­‐100	  +	  20	  (PV	  of	  annuity,	  10	  years,	  12%)	  +	  $20/1.1210	  =	  $19.44	  m	  
+2. d.	  $36.98	  million.	  	  
+	  	   Now	   1	   2	   3	   4	   5	  
+Investment	   -­‐$50.00	  	  	   	  	   	  	   	  	   	  	  
+ATCF	   	  	   $4.00	  $4.40	  $4.84	  $5.32	  $5.86	  
+Terminal	  value	  	  	   	  	   	  	   	  	   	  	   $99.56	  
+PV	  @8%	   -­‐$50.00	  $3.70	  $3.77	  $3.84	  $3.91	  $71.75	  
+NPV	   $36.74	  	  	   	  	   	  	   	  	   	  	  
+Terminal	  value	  =	  $5.86	  (1.02)/	  (.08-­‐.02)	  =	  $99.56	  million	  
+3. c.	  $2.05	  million	  
+ATCF	   -­‐$50.00	   $8.00	   $8.80	   $9.68	   $10.65	   $11.71	  
+	  Salvage	  
+value	   	  	   	  	   	  	   	  	   	  	   $20.00	  
+PV	  @8%	   -­‐$50.00	   $7.41	   $7.54	   $7.68	   $7.83	   $21.58	  
+NPV	   $2.05	   	  	   	  	   	  	   	  	   	  	  
+4. b.	  $100	  million.	  The	  equity	  value	  of	  the	  acquirer	  (Revere)	  dropped	  by	  $50	  
+million	  on	  the	  announcement	  of	  the	  acquisition.	  The	  market,	  therefore,	  thinks	  
+that	  Revere	  paid	  $50	  million	  too	  much,	  when	  it	  acquired	  Luzo	  for	  $100	  million.	  
+• Market’s	  estimate	  of	  Luzo’s	  value	  =	  $150	  m	  -­‐	  $50	  m	  =	  $100	  million	  
+5. False.	  As	  you	  lengthen	  a	  project’s	  life,	  you	  have	  to	  increase	  capital	  maintenance	  
+in	  the	  earlier	  years.	  This	  will	  result	  in	  lower	  cash	  flows,	  which	  can	  more	  than	  
+offset	  any	  benefit	  from	  a	  longer	  life	  (and	  a	  higher	  terminal	  value),	  at	  least	  for	  
+some	  projects.	  
+6. d.	  In	  your	  worst-­‐case	  scenario,	  the	  project	  has	  a	  NPV	  of	  $2	  million.	  The	  fact	  
+that	  your	  NPV	  is	  positive	  even	  in	  your	  worst-­‐case	  scenario	  should	  comfort	  you,	  
+because	  even	  in	  its	  worst	  form,	  this	  project	  still	  creates	  value	  (just	  not	  as	  much	  
+as	  you	  thought	  it	  would).	  All	  of	  the	  other	  choices	  will	  make	  you	  even	  more	  
+uncomfortable	  about	  uncertainty.

@@ -1,0 +1,269 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/execs/projworkbookJan2016.pdf
+
+PROJECT	WORKBOOK	(JANUARY	
+2016)	
+“Talk	is	cheap.	Time	for	acEon”	
+1
+2
+Your	data…	
+¨  Data	Packet	
+¤  Page	1:	HDS	(Bloomberg)	–	Top	17	stockholders	
+¤  Page	2:	Beta	(Bloomberg)	–	2	year	weekly	return	beta	
+¤  Pages	3-7:	DES	(Bloomberg)	–	5	page	descripEon	of	your	company	(For	some	of	
+you,	it	may	be	only	4	pages)	
+¤  Page	8:	CRPR	–	Bond	RaEng	or	Bloomberg	Default	Risk	Assessement	
+¤  Page	9	:	DDIS:	Debt	due	table	(with	maturiEes)	
+¤  Page	10:	FA	(MulE-year	ﬁnancial	summary)	
+¨  Checklist	before	you	start	
+¤  What	country	is	your	company	incorporated	in?	
+¤  What	currency	are	the	ﬁnancial	statements	in?	(Not	necessarily	in	the	local	
+currency)	
+¤  What	currency	is	your	market	capitalizaEon	and	stock	price	stated	in?	(May	not	
+match	the	currency	of	the	ﬁnancial	statements)	
+¤  What	was	the	most	recent	ﬁscal	year?	(For	most	of	your	companies,	it	will	be	a	
+year	ending	December…	but	some	may	have	other	year	ends)	
+2
+Percent of outstanding 
+shares in company
+Source for data: Will vary across 
+markets. 13F is SEC ﬁling for US 
+mutual/pension funds
+3
+4
+Corporate	Governance:	Assessing	where	the	
+power	lies	and	potenEal	conﬂicts	of	interest	
+4
+5
+1.	InsEtuEonal	Default	
+5
+6
+2.	Self	Holdings?	
+6
+7
+3.	The	Government	Inﬂuence?		
+7
+8
+4.	Diﬀerent	voEng	rights?		
+8
+9
+5.	Family	Group	Companies	
+9
+10
+6.	Founders	hang	on…	
+10
+11
+7.	Corporate	Cross	Holdings		
+11
+12
+8.	AcEvist	investors	
+12
+13
+The	marginal	investor	in	your	ﬁrm	is….	
+13
+14
+Risk	free	rate:	Major	Currency	Government	
+Bonds	
+14
+15
+Local	Currency	Government	Bond	Rates	–	
+January	2016	
+Aswath Damodaran15
+16
+Approach	1:	Default	spread	from	Government	
+Bonds	
+The Brazil Default Spread
+Brazil 2021 Bond: 6.83%
+US 2021 T.Bond:  2.00%
+Spread:             4.83%
+17
+Approach	2:	CDS	Spreads	–	January	2016	
+Aswath Damodaran17
+18
+Approach	3:	Typical	Default	Spreads:	January	
+2016	
+Aswath Damodaran18
+19
+Geing	to	a	risk	free	rate	in	a	currency:	Example	
+¨  The	Brazilian	government	bond	rate	in	nominal	reais	on	
+January	1,	2016	was	16.51%.	To	get	to	a	riskfree	rate	in	
+nominal	reais,	we	can	use	one	of	three	approaches.	
+¨  Approach	1:	Government	Bond	spread	
+¤  The	2021	Brazil	bond,	denominated	in	US	dollars,	has	a	spread	of	
+4.83%	over	the	US	treasury	bond	rate.	
+¤  Riskfree	rate	in	$R	=	16.51%	-	4.83%	=	11.68%	
+¨  Approach	2:	The	CDS	Spread	
+¤  The	CDS	spread	for	Brazil,	adjusted	for	the	US	CDS	spread	was	
+5.19%.		
+¤  Riskfree	rate	in	$R	=	16.51%	-	5.19%	=	11.32%	
+¨  Approach	3:	The	RaEng	based	spread	
+¤  Brazil	has	a	Baa3	local	currency	raEng	from	Moody’s.	The	default	
+spread	for	that	raEng	is	2.44%	
+¤  Riskfree	rate	in	$R	=	16.51%	-	2.44%	=	14.07%	
+Aswath Damodaran19
+20
+Risk	free	Rates:	By	Currency	–	January	2016	
+20
+21
+Risk	free	Rate:	DesperaEon	Time?	
+¨  It	is	enErely	possible	that	you	may	be	unable	to	ﬁnd	a	government	bond	issued	in	
+the	local	currency	(that	is	traded)	or	that	you	do	not	trust	the	government	bond	
+rate	as	a	fair	market	interest	rate.	There	are	two	ways	you	can	get	to	a	risk	free	
+rate,	in	this	case.	
+1.  Build	up	approach:	The	risk	free	rate	in	any	currency	can	be	wrioen	as	the	sum	
+of	two	variables:	
+Risk	free	rate	=	Expected	InﬂaEon	in	currency	+	Expected	real	interest	rate	
+The	expected	real	interest	rate	can	be	computed	in	one	of	two	ways:	from	the	US	TIPs	rate	or	
+set	equal	to	real	growth	in	the	economy.	Thus,	if	the	expected	inﬂaEon	rate	in	a	country	is	
+expected	to	be	15%	and	the	TIPs	rate	is	1%,	the	risk	free	rate	is	16%.	
+2.  US	$	rate	&	DiﬀerenEal	InﬂaEon:	AlternaEvely,	you	can	scale	up	the	US	$	risk	
+free	rate	by	the	diﬀerenEal	inﬂaEon	between	the	US	$	and	the	currency	in	
+quesEon:	
+Risk	free	rateCurrency=	
+	
+Thus,	if	the	US	$	risk	free	rate	is	2.27%,	the	inﬂaEon	rate	in	the	foreign	currency	is	15%	and	the	
+inﬂaEon	rate	in	US	$	is	1.5%,	the	foreign	currency	risk	free	rate	is	as	follows:	
+Risk	free	rate	=		
+ 1.0227
+!.!"
+!.!"# − 1	=	15.87%	
+21
+Black #: Total ERP
+Red #: Country risk premium
+AVG: GDP weighted average
+ERP : Jan 2016
+Regression	beta	is	0.422	
+Intercept	in	%	
+0.057%	
+Adj	Beta	=	(2/3)
+(0.422)	+	(1/3)	(1)	=	
+0.614	
+R	squared	(decimals)	=	
+21.5%	
+Std	error	of	beta	=	0.08	
+67%	conﬁdence:		
+0.34	(=0.42-0.08)	to	
+0.50	(=0.42+0.08)	
+95%	conﬁdence:	
+0.26	(=0.42-2*0.08)	to	
+0.58	(=0.42+2*0.08)	
+If	annualized	riskfree	rate	during	period	was	1.5%,	
+Jensen’s	alpha	=	0.057%	-	(1.5%/52)*(1-0.422)	=	0.0403%	
+Using	a	6%	ERP	for	mature	markets	and	a	current	riskfree	rate	of	1.87%,	
+Expected	Return	=	Riskfree	rate	+	Raw	Beta	(ERP)	
+	=	1.87%	+	0.422	(6%)	=	4.40%	
+23
+Based	on	weekly	returns
+24
+The	best	R-squared	ever?	
+24
+25
+What	sector	is	your	ﬁrm	in?	
+Bloomberg	sector	category	
+Read	the	descripEon	
+and	make	your	own	
+judgment	
+25
+26
+27
+28
+Interest	coverage	raEos	
+Interest	coverage	raEo	=	OperaEng	proﬁt/	Interest	expense	
+			 =	17,741/1,441	=	12.10	
+28
+SyntheEc	RaEngs	and	Default	Spreads	
+Market cap > $ 5 billion Market cap < $ 5 billion
+29
+30
+Marginal Corporate Tax Rate- By Country (2015)
+Market	value	of	equity	=	66,452.45	M	 BV	of	debt	=	Total	Debt	=	$28,360	M		
+With	a	pre-tax	cost	of	debt	of	3%	
+MV	of	debt	=	
+1,441	(PV	of	annuity,	3	years,	3%)		
++	28,360/	(1.03)3	=	$	30,029	M	
+PV	of	opera6ng	leases	at	3%	
+767/1.03	+519/1.032	+382/1.033	
++300/1.034	+202/1.035	+259.5/1.036	
++259.5/1.037	=	2,187					
+31
+32
+33
+Pre-tax	Return	on	capital	
+=	OperaEng	Income/		
+(BV	of	Debt	last	year	+	BV	of	Equity	last	year	–Cash	
+last	year)	
+=	17741/(22,623+	55,734-6,361)	=	24.64%	
+	
+Aver-tax	Return	on	capital	=	
+Pre-tax	Return	on	capital	(1-	tax	rate)	
+=	24.64%	(1-.4603)	=	.1330	or	13.30%	
+Tax	rate	used:	EﬀecEve	tax	rate	(from	this	page)	34
+35
+36
+37
+Return	Spreads	Globally….	
+37
+0.00%	
+5.00%	
+10.00%	
+15.00%	
+20.00%	
+25.00%	
+30.00%	
+35.00%	
+40.00%	
+45.00%	
+Australia,	NZ	and	
+Canada	
+Developed	Europe	 Emerging	Markets	 Japan	 United	States	 Global	
+Excess	Return	(ROC	minus	Cost	of	Capital)	for	ﬁrms	with	market	capitaliza6on>	$50	
+million:	Global	in	2014	
+<-5%	
+	-5%	-	0%	
+	0	-5%	
+5	-10%	
+>10%
+38
+39
+40
+Dividend	yield	and	payout	
+40
+41
+42
+Net	Income		 				12,345	
++	Deprecn	&	Amortzn	 	+			7,742			
++	Chg	in	non-cash	WC	 	+			1,748	
++	Cap	Ex 	 	-		14,642	
++	Inc	(Dec)	in	ST	Debt 	+										0	
++	Increase	in	LT	Debt 	+			5,794	
+-		Decrease	in	LT	Debt 	-										0	
+=	FCFE 	 	=		9,491	M 		
+	
+Dividends	Paid 	-		3,531	
+Decrease	capital	stock 	-11,623 		
+Dividends	+	Buybacks 	-15,154	
+EBITDA	–	OperaEng	Income	=	DepreciaEon	&	AmorEzaEon	
+25,443	–	17,741	=	7,742	M 		
+OperaEng	Income 				17,741	
+-	Taxes		=	17741*.4603	=	-			8,166	
++	Deprecn	&	Amortzn	 	+			7,742			
++	Chg	in	non-cash	WC	 	+			1,748	
++	Cap	Ex 	 	-		14,642	
+=	FCFF 	 	=		4,423	M	
+43
+44
+Post-class	Analysis	
+¨  Now	that	you	have	the	numbers	for	your	company,	you	should	be	in	a	posiEon	to	
+make	an	assessment	of	where	your	company	stands	right	now,	what	it	does	well,	
+what	it	does	badly	and	what	you	would	change	about	it.	
+¨  Your	ﬁnal	project	will	therefore	contain	eight	parts	and	an	opEonal	one,	if	you	are	
+so	inclined:	
+I.	Stockholder	Analysis:	Who	has	the	power	and	what	are	the	potenEal	conﬂicts	of	interest?	
+II.	Risk	and	Return:	How	risky	is	your	ﬁrm	and	what	are	its	hurdle	rates?	
+III.	Investments:	How	good	are	exisEng	investments	and	what	is	the	potenEal	for	the	future?	
+IV.	Capital	Structure	Choices:	What	are	the	current	ﬁnancing	choices?	
+V.	OpEmal	Financing:	What	is	the	opEmal	mix	of	debt	and	equity	for	the	ﬁrm?	
+VI.	Financing	Changes:	Should	ﬁrm	move	to	opEmal	and	what	type	of	debt	should	it	use?	
+VII.	Dividend	Policy:	How	much	and	how	does	the	ﬁrm	return	cash	to	stockholders?	
+VIII.	Dividend	Assessment:	Should	the	ﬁrm	return	more	or	less	cash	to	stockholders?	
+IX:	ValuaEon	(opEonal):	What	value	would	you	aoach	to	the	ﬁrm	and	its	equity?	
+44

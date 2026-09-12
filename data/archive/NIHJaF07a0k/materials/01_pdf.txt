@@ -1,0 +1,232 @@
+Source: https://www.stern.nyu.edu/~adamodar/podcasts/cfspr22/session3slides.pdf
+
+18
+The Calpers Tests for Independent Boards
+Aswath Damodaran
+18
+¨Calpers, the California Employees Pension fund, 
+suggested three tests in 1997 of an independent 
+board:
+¤Are a majority ofthe directors outside directors?
+¤Is the chairman of the board independent of the company 
+(and not the CEO of the company)?
+¤Are the compensation and audit committees composed 
+entirely of outsiders?
+¨Disney was the only S&P 500 company to fail all 
+three tests.
+19
+Business Week piles on… The Worst Boards in 1997..
+Aswath Damodaran
+19
+20
+Application Test: Who’s on board?
+Aswath Damodaran
+20
+¨Look at the board of directors for your firm. 
+¤How many of the directors are inside directors (Employees of the firm, 
+ex-managers)?
+¤Is there any information on how independent the directors in the firm 
+are from the managers?   
+¨Are there any external measures of the quality of corporate 
+governance of your firm?
+¤Yahoo! Finance now reports on a corporate governance score for firms, 
+where it ranks firms against the rest of the market and against their 
+sectors.
+¨Is there tangible evidence that your board acts independently 
+of management?
+¤Check news stories to see if there are actions that the CEO has wanted 
+to take that the board has stopped him or her from taking or at least 
+slowed him or her down.
+21
+So, what next? When the cat is idle, the mice 
+will play ....
+Aswath Damodaran
+21
+¨When managers do not fear stockholders, they will often put 
+their interests over stockholder interests
+¤Greenmail: The (managers of ) target of a hostile takeover buy out the 
+potential acquirer's existing stake, at a price much greater than the 
+price paid by the raider, in return for the signing of a 'standstill' 
+agreement.
+¤Golden Parachutes: Provisions in employment contracts, that allows 
+for the payment of a lump-sum or cash flows over a period, if 
+managers covered by these contracts lose their jobs in a takeover . 
+¤Poison Pills: A security,  the rights or cashflows on which are triggered 
+by an outside event, generally a hostile takeover, is called a poison pill.
+¤Shark Repellents: Anti-takeover amendments are also aimed at 
+dissuading hostile takeovers, butdiffer on one very important count. 
+They require the assent of stockholders to be instituted. 
+¤Overpaying on takeovers: Acquisitions often are driven by 
+management interests rather than stockholder interests.
+No stockholder approvalneeded….. Stockholder Approval needed
+22
+Managerial Self Interest or Stockholder 
+Wealth? Overpaying on takeovers!
+Aswath Damodaran
+22
+¨The quickest and perhaps the most decisive way to 
+impoverish stockholders is to overpay on a takeover .
+¨The stockholders in acquiring firms do not seem to share 
+the enthusiasm of the managers in these firms. Stock 
+prices of bidding firms decline on the takeover 
+announcements a significant proportion  of the time. 
+¨Many mergers do not work, as evidenced by a number of
+measures:
+¤The profitability of merged firms relative to their peer groups, 
+does not increase significantly after mergers.
+¤An even more damning indictment is that a large number of
+mergers are reversed within a few years, which is a clear 
+admission that the acquisitions did not work.
+A case study in value destruction:
+Eastman Kodak & Sterling Drugs
+Kodak enters bidding war
+¨In late 1987, Eastman Kodak 
+entered intoa bidding war with 
+Hoffman La Roche for Sterling 
+Drugs, a pharmaceutical 
+company. 
+¨The bidding war started with 
+Sterling Drugs trading at about 
+$40/share.
+¨At $72/share, Hoffman dropped 
+out of the bidding war, but Kodak 
+kept bidding.
+¨At $89.50/share, Kodak won and 
+claimed potential synergies 
+explained the premium.
+Kodak wins!!!!
+!
+24
+Earnings and Revenues at Sterling Drugs 
+Aswath Damodaran
+24
+Sterling Drug under Eastman Kodak: Where is the synergy?
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+5,000
+1988 1989 1990 1991 1992
+Revenue Operating Earnings
+25
+Kodak Says Drug Unit Is Not for Sale … but…
+Aswath Damodaran
+25
+¨ An article in the NY Times in August of 1993 suggested that Kodak was eager to 
+shed its drug unit.
+¤In response, Eastman Kodak officials say they have no plans to sell Kodak’s Sterling Winthrop 
+drug unit.
+¤Louis Mattis, Chairman of Sterling Winthrop, dismissed the rumors as “massive speculation, 
+which flies in the face of the stated intent of Kodak that it is committed to be in the health 
+business.”
+¨ A few months later…Taking a stride out of the drug business, Eastman Kodak said 
+that the Sanofi Group, a French pharmaceutical company, agreed to buy the 
+prescription drug business of Sterling Winthrop for $1.68 billion.     
+¤Shares of Eastman Kodak rose 75 cents yesterday, closing at $47.50 on the New York Stock 
+Exchange.   
+¤Samuel D. Isaly an analyst , said the announcement was “very good for Sanofi and very good 
+for Kodak.”
+¤ “When the divestitures are complete, Kodak will be entirely focused on imaging,”said George 
+M. C. Fisher, the company's chief executive. 
+¤The rest of the Sterling Winthrop was sold to Smithkline for $2.9 billion.
+26
+Application Test: Who owns/runs your firm?
+Aswath Damodaran
+26
+¨Look at: Bloomberg printout HDS for your firm
+¨Who are the top stockholders in your firm?
+¨What are the potential conflicts of interests that you see 
+emerging from this stockholding structure?
+Control of the firm
+Outside stockholders
+- Size of holding
+- Active or Passive?
+- Short or Long term?
+Inside stockholders
+% of stock held
+Voting and non-voting shares
+Control structure
+Managers
+- Length of tenure
+- Links to insiders
+Government
+Employees Lenders
+27
+Case 1: Splintering of Stockholders
+Disney’s top stockholders in 2003
+Aswath Damodaran
+28
+Case 2: Voting versus Non-voting Shares & 
+Golden Shares:  Vale
+Vale Equity
+Common (voting) shares
+3,172 million
+Preferred (non-voting)
+1,933 million
+Golden (veto) 
+shares owned 
+by Brazilian govt
+Valespar(
+54%(Non/Brazilian(
+(ADR&Bovespa)(
+29%(
+Brazilian(Ins=tu=onal(
+6%(
+Brazilian(retail(
+5%( Brazilian(
+Govt.(
+6%(
+Valespar(
+1%(
+Non.Brazilian(
+(ADR&Bovespa)(
+59%(
+Brazilian(Ins<tu<onal(
+18%(
+Brazilian(retail(
+18%(
+Brazilian(Govt.(
+4%(
+Litel&Participaço 49.00%
+Eletron&S.A. 0.03%
+Bradespar&S.A. 21.21%
+Mitsui&&&Co. 18.24%
+BNDESPAR 11.51%
+Valespar(ownership
+Val e has el even member s on i t s boar d of  di r ect or s, t en of  
+whom were nominated by Val esparand the board was 
+chaired by Don Conrado, the CEO of Val epar. Aswath Damodaran
+29
+Case 3: Cross and Pyramid Holdings
+Tata Motor’s top stockholders in 2013 
+Aswath Damodaran
+30
+But it is a benevolent family!
+Aswath Damodaran
+31
+Case 4: Legal rights and Corporate 
+Structures: Baidu
+¨The Board: The company has six directors, one of whom is Robin Li, 
+who is the founder/CEO of Baidu. Mr . Li also owns a majority stake 
+of Class B shares, which have ten times the voting rights of Class A 
+shares, granting him effective control of the company. 
+¨The structure: Baidu is a Chinese company, but it is incorporated in 
+the Cayman Islands, its primary stock listing is on the NASDAQ and 
+the listed company is structured as a shell company, to get around 
+Chinese government restrictions of foreign investors holding shares 
+in Chinese corporations. 
+¨The legal system: Baidu’s operating counterpart in China is 
+structured as a Variable Interest Entity (VIE), and it is unclear how 
+much legal power the shareholders in the shell company have to
+enforce changes at the VIE.
+Aswath Damodaran
+32
+Things change.. Disney’s top stockholders in 2009
+Aswath Damodaran
+32

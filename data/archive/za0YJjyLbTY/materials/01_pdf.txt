@@ -1,0 +1,437 @@
+Source: https://www.stern.nyu.edu/~adamodar/podcasts/cfspr22/session23slides.pdf
+
+181
+Dividend Policy and Clientele
+Aswath Damodaran
+181
+¨Assume that you run a phone company, and that you have 
+historically paid large dividends. You are now planning to 
+enter the telecommunications and media markets. Which of 
+the following paths are you most likely to follow?
+a. Courageously announce to your stockholders that you plan 
+to cut dividends and invest in the new markets.
+b. Continue to pay the dividends that you used to and defer 
+investment in the new markets.
+c. Continue to pay the dividends that you used to, make the 
+investments in the new markets, and issue new stock to 
+cover the shortfall
+d. Other
+182
+2. Dividends send a “signal”
+Increases in dividends are good news..
+Aswath Damodaran
+182
+183
+But higher or new dividends may signal 
+bad news (not good)
+Aswath Damodaran
+183
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+30.00%
+35.00%
+40.00%
+45.00%
+-4 -3 -2 -1 1 2 3 4
+Annual Earnings Growth Rate
+Year relative to dividend initiation (Before and after)
+Dividend Initiations and Earnings Growth
+Both dividend increases and decreases are 
+becoming less informative…
+-6.00%
+-5.00%
+-4.00%
+-3.00%
+-2.00%
+-1.00%
+0.00%
+1.00%
+1962-1974 1975-1987 1988-2000
+Market Reaction to Dividend Changes over time: US companies
+Dividend Increases
+Dividend Decreases
+3. Dividend increases may be good for 
+stocks… but bad for bonds..
+-2
+-1.5
+-1
+-0.5
+0
+0.5
+t:-
+15
+-12-9-6-303691215
+CAR (Div Up)
+CAR (Div down)
+EXCESS RETURNS ON STOCKS AND BONDS AROUND DIVIDEND CHANGES
+Day (0: Announcement date)
+CAR
+Bond price drops
+Stock price rises
+186
+What managers believe about dividends…
+Aswath Damodaran
+186
+ASSESSING DIVIDEND POLICY:
+OR HOW MUCH CASH IS TOO 
+MUCH?
+It is my cash and I want it now…
+Aswath Damodaran 187
+188
+The Big Picture…
+Aswath Damodaran
+188
+The Investment Decision
+Invest in assets that earn a 
+return greater than the 
+minimum acceptable hurdle 
+rate
+The Financing Decision
+Find the right kind of debt 
+for your ﬁrm and the right 
+mix of debt and equity to 
+fund your operations 
+The Dividend Decision
+If you cannot ﬁnd investments 
+that make your minimum 
+acceptable rate, return the cash 
+to owners of your business
+The hurdle rate 
+should reﬂect the 
+riskiness of the 
+investment and 
+the mix of debt 
+and equity used 
+to fund it.
+The return  
+should reﬂect the 
+magnitude and 
+the timing of the 
+cashﬂows as well 
+as all side effects.
+The optimal 
+mix of debt 
+and equity 
+maximizes ﬁrm 
+value
+The right kind 
+of debt 
+matches the 
+tenor of your 
+assets
+How much 
+cash you can 
+return 
+depends upon 
+current  & 
+potential 
+investment 
+opportunities
+How you choose 
+to return cash to 
+the owners will 
+depend on 
+whether they 
+prefer dividends 
+or buybacks
+Maximize the value of the business (ﬁrm)
+189
+Assessing Dividend Policy
+Aswath Damodaran
+189
+¨Approach 1: The Cash/Trust Nexus
+¤Assess how much cash a firm has available to pay in 
+dividends, relative what it returns to stockholders. Evaluate 
+whether you can trust the managers of the company as 
+custodians of your cash.
+¨Approach 2: Peer Group Analysis
+¤Pick a dividend policy for your company that makes it 
+comparable to other firms in its peer group.
+190
+I. The Cash/Trust Assessment
+Aswath Damodaran
+190
+Step 1: How  much did the the company actually pay 
+out during the period in question?
+Step 2: How much could the company have paid out 
+during the period under question?
+Step 3: How much do I trust the management of this 
+company with excess cash?
+¤How well did they make investments during the period in 
+question?
+¤How well has my stock performed during the period in 
+question?
+191
+How much has the company returned to 
+stockholders?
+Aswath Damodaran
+191
+¨As firms increasing use stock buybacks, we have to 
+measure cash returned to stockholders as not only 
+dividends but also buybacks.
+¨For instance, for the five companies we are analyzing 
+the cash returned looked as follows.
+Disney Vale Tata Motors Baidu Deutsche Bank
+Year Dividends Buybacks Dividends Buybacks Dividends Buybacks Dividends Buybacks Dividends Buybacks
+2008 $648 $648 $2,993 $741 7,595₹ 0₹ ¥0 ¥0 2,274 € 0 €
+2009 $653 $2,669 $2,771 $9 3,496₹ 0₹ ¥0 ¥0 309 € 0 €
+2010 $756 $4,993 $3,037 $1,930 10,195₹ 0₹ ¥0 ¥0 465 € 0 €
+2011 $1,076 $3,015 $9,062 $3,051 15,031₹ 0₹ ¥0 ¥0 691 € 0 €
+2012 $1,324 $4,087 $6,006 $0 15,088₹ 970₹ ¥0 ¥0 689 € 0 €
+2008-12 $4,457 $15,412 $23,869 $5,731 51,405₹ 970₹ ¥0 ¥0 ¥4,428 ¥0
+192
+A Measure of How Much a Company Could have 
+Afforded to Pay out: FCFE
+Aswath Damodaran
+192
+¨The Free Cashflow to Equity (FCFE) is a measure of how much cash 
+is left in the business after non-equity claimholders (debt and 
+preferred stock) have been paid, and after any reinvestment 
+needed to sustain the firm’s assets and future growth.
+Standard Definition Modified Version Simplified (if debt ratio = constant)
+Net Income Net Income Net Income
++ Depreciation Reinvestment
+-(Cap Ex -Depreciation + 
+Change in Working Capital) Reinvestment fromEquity
+-(Cap Ex -Depreciation + Change 
+in Working Capital) (1 -Debt Ratio)
+-Cap Ex
+-Change in WC
+FCFE before debt cash flow FCFE before debt cash flow
++ New Debt Issued NetCF from Debt
++ (New Debt Issued -Debt 
+Repaid)-Debt Repaid
+FCFE FCFE FCFE
+193
+Estimating FCFE when Leverage is Stable
+Aswath Damodaran
+193
+¨The cash flow from debt (debt issue, netted out against repayment) can 
+be a volatile number, creating big increases or decreases in FCFE, 
+depending upon the period examined.
+¨To provide a more balanced measure, you can estimate a FCFE, assuming 
+a stable debt ratio had been used to fund reinvestment over the period.
+Net Income
+-(1-Debt Ratio)  (Capital Expenditures -Depreciation)
+-(1-Debt Ratio) Working Capital Needs
+= Free Cash flow to Equity
+Debt Ratio = Debt/Capital Ratio (either an actual or a target)
+194
+Disney’s FCFE and Cash Returned: 2008 –
+2012
+Aswath Damodaran
+2012 2011 2010 2009 2008Aggregate
+Net Income $6,136 $5,682 $4,807 $3,963 $3,307 $23,895 
+-(Cap. Exp -Depr) $604 $1,797 $1,718 $397 $122 $4,638 
+-∂ Working Capital ($133) $940 $950 $308 ($109) $1,956 
+Free CF to Equity (pre-debt) $5,665 $2,945 $2,139 $3,258 $3,294 $17,301 
++ Net CF from Debt $1,881 $4,246 $2,743 $1,190 ($235) $9,825 
+= Free CF to Equity (actual debt) $7,546 $7,191 $4,882 $4,448 $3,059 $27,126 
+Free CF to Equity (target debt ratio) $5,720 $3,262 $2,448 $3,340 $3,296 $18,065 
+Dividends $1,324 $1,076 $756 $653 $648 $4,457 
+Dividends + Buybacks $5,411 $4,091 $5,749 $3,322 $1,296 $19,869
+Disney returned about $1.5 billion more than the $18.1 
+billion it had available as FCFE  with a  normalized debt 
+ratio of 11.58% (its current debt ratio).
+195
+How companies get big cash balances: 
+Microsoft in 1996…
+Aswath Damodaran
+195
+¨Consider the following inputs for Microsoft in 1996. 
+¤Net Income = $2,176 Million
+¤Capital Expenditures = $494 Million
+¤Depreciation = $ 480 Million
+¤Change in Non-Cash Working Capital = $ 35 Million
+¤Debt = None
+FCFE =Net Income -(Cap ex -Depr) –Change in non-cash WC –Debt CF
+= $ 2,176-(494 -480) -$ 35 -0    = $ 2,127 Million
+¨By this estimation, Microsoft could have paid $ 2,127 Million in 
+dividends/stock buybacks in 1996. They paid no dividends and bought 
+back no stock.  Where will the $2,127 million show up in Microsoft’s 
+balance sheet?
+196
+FCFE for a Bank?
+¨ We redefine reinvestment as investment in regulatory capital. 
+FCFEBank= Net Income –Increase in Regulatory Capital (Book Equity)
+¨ Consider a bank with $ 10 billion in loans outstanding and book equity of $ 750 
+million. If it maintains its capital ratio of 7.5%, intends to grow its loan base by 
+10% (to $11 and expects to generate $ 150 million in net income:
+FCFE = $150 million –(11,000-10,000)* (.075) = $75 million
+Aswath Damodaran
+Deutsche Bank: FCFE estimates (November 2013)
+Current 1 2 3 4 5
+Risk Adjusted Assets (grows 
+3% each year) 439,851 €453,047 €466,638 €480,637 €495,056 €509,908 €
+Tier 1 as % of Risk Adj assets15.13% 15.71% 16.28% 16.85% 17.43% 18.00%
+Tier 1 Capital 66,561 € 71,156 € 75,967 € 81,002 € 86,271 € 91,783 €
+Change in regulatory capital 4,595 € 4,811 € 5,035 € 5,269 € 5,512 €
+Book Equity 76,829 € 81,424 € 86,235 € 91,270 € 96,539 € 102,051 €
+ROE (increases to 8%) -1.08% 0.74% 2.55% 4.37% 6.18% 8.00%
+Net Income -716 € 602 € 2,203 € 3,988 € 5,971 € 8,164 €
+-Investment in Regulatory 
+Capital 4,595 € 4,811 € 5,035 € 5,269 € 5,512 €
+FCFE -3,993 € -2,608 € -1,047 € 702 € 2,652 €
+197
+Dividends versus FCFE: Across the globe 
+Aswath Damodaran
+Positive FCFE, 
+No cash 
+returned
+Cash returned, 
+FCFE > 
+Dividends + 
+Buybacks
+Total  Cash 
+Accumulators
+FCFE<0, No 
+Cash 
+Return
+Cash 
+returned, 
+FCFE 
+<Dividends + 
+Buybacks
+FCFE 
+Negative, 
+Cash 
+Returned
+Cash 
+Burners
+Australia, NZ and 
+Canada 9.45% 9.19% 18.63% 67.71% 3.92% 9.74% 81.37%
+Developed Europe 18.01% 22.12% 40.13% 33.30% 7.46% 19.10% 59.87%
+Emerging Markets 14.66% 24.29% 38.96% 24.62% 8.25% 28.18% 61.04%
+Japan 13.93% 36.89% 50.81% 13.59% 7.61% 27.98% 49.19%
+United States 10.88% 18.47% 29.35% 35.11% 8.10% 27.44% 70.65%
+Global 14.06% 22.77% 36.82% 30.75% 7.61% 24.82% 63.18%
+198
+Cash Buildup and Investor Blowback: 
+Chrysler in 1994
+Aswath Damodaran
+198
+Chrysler: FCFE, Dividends and Cash Balance
+($500)
+$0
+$500
+$1,000
+$1,500
+$2,000
+$2,500
+$3,000
+1985198619871988198919901991199219931994
+Year
+Cash Flow
+$0
+$1,000
+$2,000
+$3,000
+$4,000
+$5,000
+$6,000
+$7,000
+$8,000
+$9,000
+Cash Balance
+ = Free CF to Equity  = Cash to Stockholders Cumulated Cash
+199
+6Application Test: Estimating your firm’s FCFE
+Aswath Damodaran
+199
+¨In General, If cash flow statement used
+Net Income Net Income
++ Depreciation & Amortization + Depreciation & Amortization
+-Capital Expenditures + Capital Expenditures
+-Change in Non-Cash Working Capital+ Changes in Non-cash WC
+-Preferred Dividend + Preferred Dividend
+-Principal Repaid + Increase in LT Borrowing
++ New Debt Issued + Decrease in LT Borrowing
++ Change in ST Borrowing
+= FCFE = FCFE
+¨Compare to
+Dividends (Common) Common Dividend
++ Stock Buybacks Stock Buybacks
+200
+A Practical Framework for Analyzing Dividend 
+Policy
+Aswath Damodaran
+200
+How much did the firm pay out? How much could it have afforded to pay out?
+What it could have paid out What it actually paid out
+Net Income Dividends
+-(Cap Ex -Depr’n) (1-DR) + Equity Repurchase
+-Chg Working Capital (1-DR)
+= FCFE
+Firm pays out too little
+FCFE > Dividends Firm pays out too much
+FCFE < Dividends
+Do you trust managers in the company with
+your cash?
+Look at past project choice:
+CompareROE to Cost of Equity
+ROC to WACC
+What investment opportunities does the 
+firm have?
+Look at past project choice:
+CompareROE to Cost of Equity
+ROC to WACC
+Firm has history of 
+good project choice 
+and good projects in 
+the future
+Firm has history
+of poor project 
+choice
+Firm has good 
+projects
+Firm has poor 
+projects
+Give managers the 
+flexibility to keep 
+cash and set 
+dividends
+Force managers to 
+justify holding cash 
+or return cash to 
+stockholders
+Firm should 
+cut dividends 
+and reinvest 
+more 
+Firm should deal 
+with its investment 
+problem first and 
+then cut dividends
+201
+A Dividend Matrix
+Aswath Damodaran
+201
+Quality of projects taken: Excess Returns
+Poor projects Good projects
+Cash Surplus + Good 
+Projects
+Maximum ﬂexibility in 
+setting dividend policy
+Cash Surplus + Poor 
+Projects
+Signiﬁcant pressure to 
+pay out more to 
+stockholders as 
+dividends or stock 
+buybacks
+Cash Deﬁcit + Good 
+Projects
+Reduce cash payout, if 
+any, to stockholders
+Cash Deﬁcit + Poor 
+Projects
+Reduce or eliminate 
+cash return but real 
+problem is in 
+investment policy. 
+Cash Returned, relative to Free Cash ﬂow to Equity
+Cash Return < FCFECash return > FCFE

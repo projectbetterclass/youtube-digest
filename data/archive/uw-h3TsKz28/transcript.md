@@ -1,0 +1,5 @@
+# Why You Must Live For Yourself
+
+<https://www.youtube.com/shorts/uw-h3TsKz28>
+
+The Queen of England died 18 months ago. She ruled an entire nation and accumulated more wealth than 99.9% of humans. And yet, you haven't thought about it except for right now. [music] No matter how big your dreams, you're going to die. Everyone will move on. Do what you want. It sucks to not be liked, but it sucks more to not be yourself. You plan your funeral and then you think that everyone's [music] going to be standing there just forever changed because of the death and the impact that you had on their lives. [music] But the reality is there's going to be a caterer at the funeral. Some people are going to like the food. Some people are going to comment that it was too cheap. Some people aren't going to be able to make it [music] last minute cuz things came up and it got busy. And after the whole funeral's over, everyone's [music] going to go to a restaurant and just eat dinner and then move on with their [music] lives. Someone's going to argue over what appetizer they're going to serve when I die. >> This probably doesn't matter that much.

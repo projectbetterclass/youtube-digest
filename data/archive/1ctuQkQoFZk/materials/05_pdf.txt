@@ -1,0 +1,24 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session15soln.pdf
+
+Session	  15:	  	  Post	  class	  test	  solutions	  
+1. b.	  False.	  There	  is	  a	  trade	  off	  to	  extending	  project	  life.	  You	  get	  a	  higher	  terminal	  
+value	  replacing	  salvage	  value,	  but	  have	  to	  settle	  for	  lower	  cash	  flows	  over	  the	  
+project	  life.	  The	  net	  effect	  can	  be	  positive	  or	  negative.	  
+2. c.	  $15	  million.	  The	  first	  step	  in	  solving	  this	  problem	  is	  to	  compute	  the	  after-­‐tax	  
+cash	  on	  the	  investment:	  
+NPV	  =	  $5.97	  =	  CF	  (PV	  of	  annuity,	  8%,	  5	  years)	  -­‐	  $	  10	  million	  
+Solving	  for	  the	  cash	  flow,	  we	  get	  cash	  flow	  =	  $	  4	  million	  
+Since	  the	  depreciation	  each	  year	  is	  $	  2	  million,	  the	  after-­‐tax	  operating	  income	  on	  
+this	  project	  has	  to	  be	  $	  2	  million/	  year.	  
+If	  the	  project	  is	  a	  perpetuity,	  I	  would	  assume	  that	  capital	  expenditures	  =	  
+depreciation,	  resulting	  in	  cash	  flow	  =	  $	  2	  million	  
+NPV	  =	  2/	  .08	  -­‐	  $10	  =	  $	  15	  million	  
+3. c.	  $200	  million.	  To	  compute	  the	  present	  value	  of	  the	  advertising	  benefits,	  I	  
+would	  discount	  the	  after-­‐tax	  cash	  flow	  by	  the	  cost	  of	  capital	  for	  the	  advertising	  
+business:	  
+PV	  of	  advertising	  benefits	  =	  80	  (1-­‐.4)/	  (.10-­‐.02)	  =	  $600	  million	  
+NPV	  of	  smartphone	  =	  $	  600	  -­‐	  $400	  =	  $200	  million	  
+4. b.	  Project	  A.	  To	  make	  the	  comparison,	  you	  should	  convert	  the	  NPVs	  into	  
+annuities.	  
+• Annuity	  for	  Project	  A	  =	  55	  (PV	  of	  annuity,	  10%,	  10	  years)	  =	  $8.95	  million	  
+• Annuity	  for	  Project	  B	  =	  45	  (PV	  of	  annuity,	  8%,	  7	  years)	  =	  $8.64	  million

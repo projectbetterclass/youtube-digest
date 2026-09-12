@@ -1,0 +1,145 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/FBAccounting.pdf
+
+META LESSON 2: ACCOUNTING 
+INCONSISTENCIES AND CONSEQUENCES
+Apples to Oranges…
+Aswath Damodaran
+2
+The Lead in
+¨Inmy last post,I used Facebook's recent troubles to talk about the 
+importance of corporate governance, and how we, as investors, 
+have abandoned the power to change management at many 
+younger tech companies in return for being able to invest in young 
+tech companies, with growth potential and well-regarded founders. 
+¨In this post, I will revisit Facebook's most recent earnings report, 
+and argue that while it contained disappointing news on growth 
+and profitability, the bad news was exaggerated by systematic 
+inconsistencies in how accountants categorize expenses
+¨Theseinconsistenciesskew earnings and invested capital down in 
+firms that don't fit the accounting prototype. That skewing can 
+affect valuation and pricing judgments about these firms, and 
+correcting accounting inconsistencies is a key step towards leveling 
+the playing field.
+3
+Accounting 101: The Three Big Questions (that 
+accounting should answer)
+1.Whatdoesabusinessown?Listouttheassetsthata
+businesshasinvestedin,andhowmuchitspenton
+thoseinvestmentsandperhapswhattheseassetsare
+worthtoday.
+2.Whatdoesthebusinessowe?Specifythecontractual
+commitmentsthatabusinesshastomeet,tostayin
+business.Simplyput,thisshouldincludeallborrowings,
+butisnotrestrictedtothose
+3.Howmuchmoneydidthebusinessmake?Measurethe
+profitabilityofthebusiness,bothwithaccounting
+judgmentsonexpenses,andbaseduponcashinand
+cashout,overtheperiodofmeasurement(quarter,
+year).
+4
+The Financial Statements
+oThebalancesheet,whichsummarizeswhatafirm
+ownsandowesatapointintime,aswellasan
+estimateofwhatequityisworth(through
+accountingeyes).
+oTheincomestatement,whichreportsonhowmuch
+abusinessearnedintheperiodofanalysis,while
+providingdetailonrevenuesandexpenses.
+oThestatementofcashflows,whichreportsoncash
+inflowsandoutflowstothefirmduringtheperiodof
+analysisandallowsforameasureofcashearnings
+(asopposedtoaccountingearnings)andcashflows.
+5
+Accounting Expense Categories
+• Operatingexpensesareexpensesassociatedwithgeneratingtherevenues
+reportedbyabusinessduringaperiod.Thus,itincludesnotonlythedirect
+costsofproducingtheproductorservicethefirmsells,butalsoother
+expensesassociatedwithoperations,includingS,G&Aexpensesand
+marketingcosts.
+• Financingexpensesareexpensesassociatedwiththeuseofnon-equity
+financing,andinmostfirms,ittakestheformofinterestexpensesondebt,
+shorttermandlongterm.
+• Capitalexpensesareexpensesthatprovidebenefitsovermanyyears.Fora
+manufacturingcompany,thesecantaketheformofplantandequipment.
+Fornon-manufacturingcompanies,theycantakeonlessconventionaland
+tangibleforms(andaswellargueinthenextsection,accountinghasnever
+beengoodatdealingwiththese).
+Aswath Damodaran
+Aswath Damodaran
+8
+AccountingInconsistency: Treating 
+Financing Expense as Operating Expense
+Aswath Damodaran
+¨Treatingafinancingexpenseasanoperatingexpensehasnoeffect
+onnetincome,butitseffectswillripplethroughelsewhere
+affectingoperatingincome(usuallyloweringit)andunderstating
+theborrowingonthebalancesheet.
+¨Untilaccountantscametotheirsensesin2019,theyroutinely
+treatedalargesegmentofleasesasdebt,withquestionable
+reasons,andskewedoperatingmargins,returnsoncapitaland
+debtratiosinlease-heavysectorslikeretailingandrestaurants.
+¨Leasesareonlyoneofmanyothercontractualcommitmentsthat
+meetthe"debt"criteriaandrequiresimilarcorrections.Thus,the
+contentcommitmentsatNetflix,representingcontractual
+commitmentsoncontentthatNetflixhasobtainedrightsto,from
+otherstudios,aswellassomepurchasecommitmentsat
+companiesmayrequirethesamecorrectivetreatmentasleases.
+Aswath Damodaran
+10
+Extending beyond R&D…
+Aswath Damodaran
+1. Explorationcostsatnaturalresourcecompanies,sinceevenifsuccessful,the
+reservesfoundwillnotaddtorevenuesorincomeuntilyearsintothefuture.
+2. Advertisingexpensestobuildbrandnameatconsumerproductcompanies,and
+especiallysoatcompanies(likeCocaCola)thataredependentonbrandnamefor
+bothgrowthandpricingpower.Notethatnotallbusinessadvertisingisfor
+buildingbrandname,andcapitalizingbrand-nameadvertisingwillrequire
+separatingadvertisingexpensesintoportionsintendedtosustainandincrease
+currentsales(operatingexpense)andforbuildingbrandname(capitalexpense).
+3. Use/Subscriberacquisitioncostsatuserorsubscriber-basedfirms,atcompanies
+thathavebuilttheirvaluepropositionsarounduserorsubscribernumbers.Note
+thatthecapitalizationeffectwilldependonhowlonganacquiredsubscriberor
+userwillstaywiththebusiness,withlongercustomerlivescreatingabigger
+impact,fromcorrection.
+4. Employeerecruitingandtrainingexpensesatconsultingandhuman-capitaldriven
+firms,sincetheirgrowthdepends,inlargepart,ontheiremployeequalityand
+retention.Hereagain,theeffectofcapitalizingemployee-relatedexpenseswill
+dependonemployeetenure,withlongertenurecreatingabiggereffect,when
+thecorrectionismade.
+11
+Pricing and Investment Consequences
+Aswath Damodaran
+12
+Facebook: The R&D Spending
+13
+Facebook: The R&D Correction Effect on 
+Profitability
+14
+Facebook: The R&D Correction Effect on 
+Accounting Returns
+Aswath Damodaran
+15
+Facebook’s Metaverse Bet
+Aswath Damodaran
+16
+Investment Consequences
+Aswath Damodaran
+¨ Profitability:Thedropinoperatingandnetmarginsthatyousawinthemostrecentearnings
+reportshouldnotbetakenasasignthattheprofitabilityofthecompany'sonlinehas
+imploded.CorrectingforR&DandtheRealityLabinvestment,youcanseethattheonline
+advertisingbusinessremainsamoneymachine,generatingsky-highmargins.
+¨ Pricing:AsFacebook'smarketcaphasdeclinedtoapproximately$250billion,somehave
+notedthatthecompanynowtradesatabout8timesearnings,ifyouusethenetincomeof
+$28.8billionassessedbyaccountants.However,ifyouarecomparingFacebook'sPEratioto
+thePEratiosofnon-techcompanies,forconsistentcomparisons,youshouldbeusingthe
+adjustednetincomeof$42.5billion,whichresultsinanadjustedPEratioofabout6.
+¨ Valuation:R&DandtheMetaverseinvestmentsarecashoutflows,butthevalueeffectwill
+dependuponwhetheryouthinktheseinvestmentswillpayoffinfuturerevenuegrowthand
+highercashflowsinthefuture,andinvestors,atleastatthemoment,arenotonlynotgiving
+Facebookthebenefitofthedoubt,butseemtoviewthisasessentiallywastedmoney,with
+nopayoffsatall.
+n IassignagreatdealofblameforthisinvestormistrusttoFacebook,becausethecompanyhas
+madealmostnoefforttoexplainitsbusinessmodelforgeneratingrevenuesandprofitsfromthe
+Metaverse.
+n TheonlythingthatFacebookhasbeenclearaboutisthattheywillinvesttensofbillionsof
+dollarsintheMetaverse,whilebeingopaqueabouthowitplanstomakemoneyinthatspace.

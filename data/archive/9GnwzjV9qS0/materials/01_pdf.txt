@@ -1,0 +1,207 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/FreeCF.pdf
+
+EARNINGS AND CASH FLOWS: A 
+PRIMER ON FREE CASH FLOWS
+Who put the free in free cash flow?
+Aswath Damodaran 1
+2
+The Cleansing Effects of a Market 
+Correction
+Aswath Damodaran
+2
+¨It is never pleasant to be in the midst ofa market 
+correction, but a market correction does operate as a 
+cleanser for excesses that enter intoeven the most 
+disciplined investors' playbooks in the good times. 
+¨This correction has been no exception, as the threat of 
+losing investment capital has focused the minds of 
+investors, andled many to reexamine practices adopted 
+during the last decade. 
+¤There has been more talk of earnings than of revenue or user 
+growth this year, and the notion of cashflows driving value 
+seems to be back in vogue. 
+¤I find that development welcome, but I find myself doing double 
+takes I see concoctions of free cash flow that violate first 
+financial principles.
+3
+Free Cash Flow: The Most Dangerous Term 
+in Finance
+Aswath Damodaran
+3
+¨Free cash flow is one of the most dangerous terms in finance, 
+and I am astonished by how it can be bent to mean whatever 
+investors or managers want it to, andused to advance their 
+sales pitches. 
+¨I have seen analysts and managers argue that adding back 
+depreciation to earnings gives you free cash flow, an 
+intermediate stop, at best, if you truly are intent on 
+computing free cash flow. 
+¨In the last two decades, I have seen free cash flow measures 
+stretched to cover adjusted EBITDA, where stock-based 
+compensation is added back to EBITDA, and with WeWork, to 
+community-adjusted EBITDA, where almost all expenses get 
+added back to get to the adjusted value.
+4
+Free Cash Flows to whom?
+Aswath Damodaran
+4
+5
+Free Cash Flows to Equity
+Aswath Damodaran
+5
+6
+Free Cash Flow to Firm
+Aswath Damodaran
+6
+7
+FCFE and FCFF: Microsoft
+Aswath Damodaran
+8
+Another way to present free cash flow
+9
+Using Free Cash Flows
+Aswath Damodaran
+9
+¨there are facile reasons that you can give for computing free cash 
+flows, including the usual “we don’t trust accounting earnings” 
+and “cash is king”, but there are three places free cash flows can 
+be used
+¤The first is that is that computing free cash flows for a past period helps in 
+explaining what happened at a business during that period, in operating, 
+investing and financing terms. 
+¤The second is that it is that the free cash flows that you compute for a past 
+period can be used as the basis for forecasting expected free cash flows in 
+the future, a key ingredient if you are doing intrinsic valuation. 
+¤The third is to compute the free cash flow as a base to be used to compare 
+pricing across companies, where the market price is scaled to free cash 
+flow, rather than to earnings. 
+¨Since each of these missions has a different end game, there can 
+be consequences for how we estimate free cash flows in each one.
+10
+1. Explain the past
+Aswath Damodaran
+10
+11
+FCFE and Cash Balances
+AswathDamodaran
+11
+12
+Reading FCFF
+Aswath Damodaran
+12
+13
+2. Intrinsic Valuation
+14
+Free Cash Flow in Valuation: Base Year
+Aswath Damodaran
+14
+1. UnusualorExtraordinaryitems:Ifyouarecomputingcashflowsasabaseforforecastingthefuture,youshouldeliminateanyitems
+thatyoudon’texpecttorecurinthefuture.
+2. NormalizedvsActualnumbers:Foritemsthatarerecurring,butvolatile,thereisagoodcasetobemadethatwhileyouwillusethe
+actualvalues,ifcomputingfreecashflowsforthemostrecentyear,youshouldbenormalizingthem,thoughthemethodsyouusefor
+normalizationcanvaryacrossitems.Withthechangeinnon-cashworkingcapital,anotoriouslyvolatileitemonayear-to-yearbasis,
+-ChangeinworkingcapitalreplacedbyworkingcapitalcomputedusingWCas%ofrevenues
+-Actualacquisitionwithaverageovertime.
+3. Stock-basedCompensationandAcquisitions:Stock-basedcompensationismoreofanin-kindexpense,whereyougiveawaysharesof
+equityinthecompanyinsteadofpayingcash.Ifyouareestimatefreecashflows(tothefirmortoequity),withtheintentofvaluing
+thatfirm,addingbackstock-basedcompensationisequivalenttoarguingthatyoucaneitherstoppayingemployeesinthefuture(and
+stillholdontothem)orthatyoucankeepgivingawayequitystakesinyourcompanywithnoconsequencesforvaluepershare.Using
+thelogicthatpayingforsomethingwithshares,insteadofcash,stillhasaneffectonfreecashflows,wewouldarguethatacompany
+thatplanstogrowthroughacquisitions,usingitsownstockascurrency,isreinvesting,andthatthisreinvestmentshouldreduce
+expectedfreecashflowstoequity,toexistingshareholders.
+4. Taxes:Whenyourobjectiveistoforecastfuturefreecashflows.Iwouldsuggestlookingatanaverageeffectivetaxrateoveralonger
+period,incomputingthebaseyearfreecashflow,andthenalsotargetingthemarginaltaxrate,asyouforecasttaxesforthefuture.In
+theMicrosoftFCFFcalculation,thiswouldimplyreplacingtheeffectivetaxrateof13.83%withanaverageeffectivetaxrateof22%,
+usingthe2017-2021timeperiod,whichwouldlowerfreecashflowstothefirm.
+5. AccountingInconsistencies:WhileR&Dremainsacashoutflow,whetheryoutreatitasanoperatingoracapitalexpenditure,movingit
+fromoperatingtocapitalexpenditurescanalteryourperceptionofacompany'soperations.InthecaseofMicrosoft,forinstance,
+capitalizingthe$20,716millionthatthecompanyspentonR&Din2021,willincreasethenetincomeforthecompany,whilealso
+raisingthereinvestmentbyanequivalentamount.
+15
+Microsoft: FCFE for the past versus FCFE as 
+a basis for the future
+Aswath Damodaran
+15
+16
+3. Pricing
+¨Thequestionofwhichvariants(FCFEorFCFF)canbeuseddependson
+whetheryouareusinganequitypricingmultiple(wherethemarketcap
+orsharepriceisinthenumerator)oranenterprisevaluemultiple(where
+itisthemarketvalueofoperatingassetsinthenumerator):
+• Withequitymultiples,youcanscalethemarketvalueofequity(ormarket
+capitalization)ofacompanytoitsfreecashflowtoequity,toestimateaPriceto
+FCFEmultiple,andofferitasanalternativetothemuchmorewidelyusedPEratio,
+wheremarketcapitalizationisscaledtonetincome.
+• With enterprise value multiples, you can scale enterprise value to FCFF , instead of 
+using EBITDA or revenues as your scalar . Again, you could argue for the benefits of a 
+more complete measure of cash flow, but as with FCFE, FCFF will be more volatile 
+than revenues or EBITDA, making it difficult to pass pricing judgment.
+¨The logic that analysts use for the use of free cash flows is simple and 
+seems compelling. If the value of a business is the present value of its 
+expected cash flows, as we argue in intrinsic valuation, it seems 
+reasonable to also argue that the free cash flow that a business generates 
+is a better measure of its value than the accounting earnings.
+Aswath Damodaran
+16
+17
+A Life Cycle Perspective on Free Cash 
+Flows
+Aswath Damodaran
+17
+18
+And how it played out at Tesla…
+Aswath Damodaran
+18
+19
+And across companies…
+Aswath Damodaran
+19
+20
+Playing out in dividends & buybacks
+Aswath Damodaran
+20
+21
+Pricing: Cash Flows versus Earnings
+¨While there are some cash flow purists who prefer cash 
+flow multiples toearnings multiples, they will never be 
+widely used for two reasons. 
+¤No frame of reference: The reason that investors like to price 
+companies, using multiples, is because they have frames of 
+reference on these multiples, i.e., a sense of what a typical 
+number should like like in a sector . With PE ratios, their long 
+history of usage has left investors with frames of reference that 
+they can use, rightfully or wrongfully, in pricing stocks, but with 
+Price to FCFE ratios, there is no such reference frame. 
+¤Noise in estimates: As you can see from how FCFE is computed, 
+with the netting out of reinvestment and incorporating debt 
+cash flows, it will always be a more volatile number than 
+earnings, with much of the additional volatility telling you little 
+about current earnings power .
+Aswath Damodaran
+21
+22
+Perspective on Equity Pricing 
+Aswath Damodaran
+22
+23
+Perspective on EV pricing
+Aswath Damodaran
+23
+24
+A Bottom Line on Pricing
+¨As a cash flow advocate, it pains me to say this, but if your 
+game is pricing stocks, I see little benefit from replacing 
+traditional multiples (like PE and EV to EBITDA) with free cash 
+flow scaled pricing measures. 
+¨That is because a single year’s free cash flow (to equity or the 
+firm) has more noise in it, and is less informative about a 
+company’s operating health, than a single year’s earnings (net 
+income or EBITDA).
+¨However, you can augment your PE or EV to EBITDA pricing 
+by bringing in insights that you get from computing and 
+calculating free cash flows including:
+¤How much a company pays in taxes
+¤How much it reinvests to deliver its growth
+¤How much it is adding to or reducing debt
+Aswath Damodaran
+24

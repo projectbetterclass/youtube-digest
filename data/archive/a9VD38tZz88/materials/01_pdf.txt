@@ -1,0 +1,181 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/RiskCapital2022.pdf
+
+RISK CAPITAL IN 2022: TEMPORARY 
+RETREAT OR LONG TERM PULLBACK!
+Fear and Greed!
+Aswath Damodaran
+2
+Risk Capital and Markets
+¨As inflation has taken center stage, markets have gone into 
+retreat around the world. As bond rates rise, stock prices fall, 
+and crypto implodes, even true believers are questioning 
+what the bottom for markets might be, and when we will get 
+there. 
+¨While it is easy to call the market movement in 2022 a 
+correction and to argue that it is overdue, it is more difficult 
+to trace why now, and to establish how much of a correction 
+is too much. 
+¨In this session, I will argue that almost everything that we are 
+seeing across asset classes can be explained by a pull back on 
+risk capital, and that the question then is whether this 
+pullback has further to go, and how long risk capital will stay 
+on the side lines.
+Aswath Damodaran
+3
+Risk Capital: What is it?
+Aswath Damodaran
+4
+Risk Capital: Variations across investors 
+and time
+Aswath Damodaran
+¨ Variation within an investor's portfolio: Many investors, including even the 
+most risk averse, will often set aside a portion of their portfolio for riskier 
+investments, drawn by the higher expected returns on those investments. 
+¤ For some, it will be for the portion that they believe that can lose, without affecting life style 
+or future opportunities in any material way. 
+¤ For others, it can be the portion with the longest time horizon (pension fund savings or 401Ks), 
+¤ The amount that is put into the risk capital portion will vary with investor risk aversion, with 
+more risk averse investors putting less or even nothing into the riskiest assets, and less risk 
+averse investors putting in more.
+¨ Variation across time: The amount that investors are willing to put into risk 
+capital, or conversely redirect to safety capital, will change over time, with 
+several factors playing a role in determining whether risk capital will be 
+plentiful or scarce. 
+¤ The first is market momentum, since more money will be put into the riskiest asset classes, 
+when markets are rising, because investors who benefit from these rising markets will have 
+more capital to risk. 
+¤ The second is the the health and stability of the economy, since investors with secure jobs and 
+rising paychecks are more willing to take risks.
+5
+Macro factors?
+Aswath Damodaran
+¨ The first is thereturn that can be earned on guaranteed investments, 
+i.e., treasury bills and bonds, since it is a measure of what someone who 
+takes no or very low risk can expect to earn. When treasury rates are low 
+or close to zero, refusing to take risk will result in returns that are very low 
+or close to zero as well, thus inducing investors to expose themselves to 
+more risk than they would have taken in higher interest rate regiments. 
+¨The second isinflation, which reduces the nominal return you make on all 
+your investments, and the effects of rising inflation on risk capital are 
+complex. As expected inflation rises, you are likely to see higher interest 
+rates, and as we noted above, that may induce investors to cut back on 
+risk taking and focus on earning enough to cover the ravages of inflation. 
+As uncertainty about inflation rises, you will see reallocation of investment 
+across asset classes, with real assets gaining when unexpected inflation is 
+positive (actual inflation is higher than expected), and financial assets 
+benefiting when unexpected inflation is negative (actual inflation is less 
+than expected).
+6
+Consequence 1: Risk Premiums
+Aswath Damodaran
+¨The risk premiums that you observe in every risky asset 
+market are a function of how much risk capital there is in 
+play, with risk premiums going up when risk capital 
+becomes scarce and down, when risk capital is plentiful. 
+¨In the bond and loan market, access to risk capital will 
+determine default spreads on bonds, with lower rated 
+bonds feeling the pain more intensely when risk capital 
+is withdrawn or moves to the side lines. Not only will 
+default spreads widen more for lower-rated bonds, but 
+there will be less bond issuances by riskier companies. 
+¨In the equity market, the equity risk premium is the price 
+of risk, and its movements will track shifts in risk capital, 
+increasing as risk capital becomes scarcer .
+7
+Consequence 2: Price and Value 
+Aswath Damodaran
+8
+Consequence 3: Corporate Life Cycle
+Aswath Damodaran
+9
+Risk Capital: Historical Perspective
+¨How do you track the availability and access to risk capital 
+over time? There are three proxies that I will use, and while 
+each has its limitations, read together, they can provide a 
+fuller measure of the ebbs and flows of risk capital. 
+¤The first isfunds investedby venture capitalists, with a breakdown 
+further into types, from pre-seed and seed financing to very young 
+companies to capital provided to more established businesses, as a 
+prelude to exit (acquisition or IPO). 
+¤The second is the trend line ininitial public offerings (number and 
+value raised), since companies are more likely to go public and be able 
+to raise more proceeds when risk capital is plentiful. 
+¤The third is bond issuances by the riskiest companies (below 
+investment grade and high yield), since these issuances are more likely 
+to have a friendly reception when risk capital is easily available than 
+when it is not.
+Aswath Damodaran
+10
+1. Venture Capital: History
+Aswath Damodaran
+11
+2. IPOs: History
+Aswath Damodaran
+12
+3. High Yield Bond Issuances: History
+Aswath Damodaran
+13
+The 2022 Update: 
+¨The last two and a half years may not represent much 
+time on a historical scale, but the period has packed in 
+enough surprises to make it feel like a decade already. 
+¨We started 2020 with a pandemic that altered our 
+personal, work and financial lives, and in 2022, at least in 
+North America and Europe, we have seen inflation reach 
+levels that we have not seen for decades. 
+¨Looking at the 30 months through the lens of risk capital 
+can help us understand not only the journey that 
+markets have gone through to get where they are today, 
+but also perhaps decipher where they may go next.
+Aswath Damodaran
+14
+1. Venture Capital: Recent
+AswathDamodaran
+15
+2. IPOs: Recent
+Aswath Damodaran
+16
+3. High Yield Bond Issuances: Recent
+Aswath Damodaran
+17
+Playing out in equity risk premiums…
+Aswath Damodaran
+18
+And across risk classes in stocks…
+Aswath Damodaran
+19
+Fear factor?
+¨Note that high growth, negative earnings companies 
+have fared much worse, in general, during the 2022 
+downturn, than more mature, money-making 
+companies. 
+¨The fear factor that is tilting the balance back to safety 
+capital from risk capital has also had clear consequences 
+in the speculative collectibles space, with cryptos 
+bearing the brunt of the punishment. 
+¨Finally, there are markdowns coming to private company 
+holdings, both in the hands of venture capitalists, and 
+public market investors (including mutual funds that 
+have been drawn into this space and public companies 
+like Softbank).
+Aswath Damodaran
+20
+What next?
+¨ The big question that we all face, as we look towards the second half of the year, 
+is whether the pullback in risk capital istemporary, as it was in 2020, or whether it 
+is more long term, as in 2000 and 2008-09. 
+¤ If it is the former, there is hope of not just a recovery, but a strong rebound in risky asset prices
+¤ If it is the latter, stocks may stabilize, but the riskiest assets will see depressed prices for much 
+longer . 
+¨ I don't have a crystal ball or any special macro forecasting ability, but if I had to 
+guess, it would be the latter . 
+¤ Unlike a virus, where a vaccine may provide at least the semblance of protection (real or 
+imagined), inflation, once unleashed, has no quick fix. 
+¤ In addition, I also think that a return of fear and a longer term pullback in risk capital is healthy, 
+since risk capital providers, spoiled by a decade of more of easy returns, have become lazy and 
+sloppy.
+¨ If that is a case, it is almost certain that the investment strategies that delivered 
+high returns in the last decade will no longer work in this new environment, and 
+that old lessons, dismissed as outdated just a few years go, may need to be 
+relearned.
+Aswath Damodaran

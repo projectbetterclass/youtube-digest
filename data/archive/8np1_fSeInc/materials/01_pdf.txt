@@ -1,0 +1,219 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate1for2014.pdf
+
+DATA UPDATE 1 FOR 2024: THE 
+DATA SPEAKS, BUT WHAT IS IT 
+SAYING?
+Respect data, but don’t revere it!
+2
+MyDataHistory
+¨ In January 1993, I was valuing a retail company, and I found myself wondering 
+what a reasonable margin was for a firm operating in the retail business. 
+¤ In pursuit of an answer to that question, I used company-specific data from Value Line, one of 
+the earliest entrants into the investment data business, to compute an industry average. 
+¤ The numbers that I computed opened my eyes to how much perspective on the high, low, and 
+typical values, i.e., the distribution of margins, helped in valuing the company, and how little 
+information there was available, at least at that time, on this dimension. 
+¨ That year, I computed these industry-level statistics for five variables that I found 
+myself using repeatedly in my valuations, and once I had them, I could not think of 
+a good reason to keep them secret. 
+¨ After all, I had no plans on becoming a data service, and making them available to 
+others cost me absolutely nothing. In fact, that year, my sharing was limited to the 
+students in my classes, but in the years following, as the internet became an 
+integral part of our lives, I extended that sharing to anyone who happened to 
+stumble upon my website.
+3
+AnAnnualDataRitual
+¨ That process has become a start-of-the-year ritual, and as data has become more 
+accessible and my data analysis tools more powerful, those five variables have 
+expanded out to more than two hundred variables, and my reach has extended 
+from the US stocks that Value Line followed to all publicly traded companies 
+across the globe on much more wide-reaching databases. 
+¨ Along the way, more people than I ever imagined have found my data of use, and 
+while I still have no desire to be a data service, I have an obligation to be 
+transparent about my data analysis processes. 
+¨ I have also developed a practice in the last decade of spending much of January 
+exploring what the data tells us, and does not tell us, about the investing, 
+financing and dividend choices that companies made during the most recent year . 
+¨ In this, the first of the data posts for this year, I will describe my data, in terms of 
+geographic spread and industrial breakdown, the variables that I estimate and 
+report on, the choices I make when I analyze data, as well as caveats on best uses 
+and biggest misuses of the data.
+4
+The Sample
+¨While there are numerous services, including many free ones, that 
+report data statistics, broken down by geography and industry, 
+many look at only subsamples (companies in the most widely used 
+indices, large market cap companies, only liquid markets), often 
+with sensible rationale –that these companies carry the largest 
+weight in markets or have the most reliable information on them. 
+¨Early in my estimation life, I decided that while this rationale made 
+sense, the sampling, no matter how well intentioned, created 
+sampling bias. 
+¨Thus, looking at only the companies in the S&P 500 may give you 
+more reliable data, with fewer missing observations, but your 
+results will reflect what large market cap companies in any sector 
+or industry do, rather than what is typical for that industry.
+5
+Inclusion Criteria
+¨Since I am lucky enough to have access to databases that 
+carry data on all publicly traded stocks, I choose all publicly 
+traded companies, with a market price that exceeds zero, as 
+my universe, for computing all statistics. In January 2024, that 
+universe had 47,698 companies.
+¨Geographically, these companies are incorporated in 134 
+countries, and while you can download the number of 
+companies listed, by country, in a dataset at the end of this 
+post, I break the companies down by region into six broad 
+groupings –United States, Europe (including both EU and 
+non-EU countries, but with a few East European countries 
+excluded), Asia excluding Japan, Japan, Australia & Canada (as 
+a combined group) and Emerging Markets (which include all 
+countries not in the other groupings)/
+6
+The Data Universe-By Sector
+7
+The Data Universe-By Region
+8
+Caveats on Grouping
+¨I am sure that there are countries or at least one country 
+(your own) that I have miscategorized, I have three points to 
+make, representing a combination of meaculpas and 
+explanations. 
+¤First, these categorizations were created close to twenty years ago, 
+when I first started looking a global data, and many countries that 
+were emerging markets then have developed into more mature 
+markets now. 
+¤Second, I use these groupings to compute industry averages, by 
+grouping, as well as global averages, and nothing stops you from using 
+the average of a different grouping in your valuation. 
+¤Third, the emerging market grouping is now a large and unwieldy one, 
+including most of Asia (other than Japan), Africa, the Middle East, 
+portions of Eastern Europe and Russia and Latin America. 
+Consequently, I do report industry averages for the two fastest growing 
+emerging markets in India and China.
+9
+The Variables
+¨This entire exercise of collecting and analyzing data is a 
+selfish one, insofar as I compute the data variables that I 
+find useful when doing corporate financial analysis, 
+valuation, or investment analysis. 
+¨I also have quirks in how I compute widely used statistics 
+like accounting returns on capital or debt ratios, and I 
+will stay with those quirks, no matter what the 
+accounting rule writers say. 
+¨Thus, I have treated leases as debt in computing debt 
+ratios all through the decades that I have been 
+computing this statistic, even though accounting rules 
+did not do so until 2019, and capitalized R&D, even 
+though accounting has not made that judgment yet.
+10
+Corporate Finance -Variables
+11
+Valuation -Variables
+12
+Macro Data?
+¨My data is primarily micro-focused, since there are other 
+services that are much better positioned to provide macro 
+data (on inflation, interest rates, exchange rates etc.). 
+¤My favorite remains the Federal Reserve data site in St. Louis (know as 
+FRED, and one of the great free data resources in the world), but there 
+are a few macro data items that I estimate, primarily because they are 
+not as easily available, or if available, are exposed to estimation 
+choices. 
+¤I report annual historical returns on asset classes (stocks, bonds, real 
+estate, gold) going back to 1928, mostly because data services seem to 
+focus on individual asset classes and partly because I want to make 
+sure that returns are computed the way I want them to be. 
+¤I also have implied equity risk premiums (forward-looking and dynamic 
+estimate of what investors are pricing stocks to earn in the future) for 
+the S&P 500 going back annually to 1960 and monthly to 2008, and 
+equity risk premiums for countries.
+13
+Industry Groupings
+14
+Data Timing
+¨In computing the statistics for each of the variables, I have one overriding 
+objective, which is to make sure that they reflect the most updated data 
+that I have at the time that I compute them, which is usually the first 
+week of January. 
+¨That does lead to what some of you may view as timing contradictions, 
+since any statistic based upon market data (costs of equity and capital, 
+equity risk premiums, risk free rates) is updated to the date that I do the 
+analysis (usually the values at the close of the last trading day of the prior 
+year –Dec 31, 2023, for 2024 numbers), but any statistic that uses 
+accounting numbers (revenues, earnings etc.) will reflect the most recent 
+quarterly accounting filing. 
+¨Thus, when computing my accounting return on equity in January 2024, I 
+will be dividing the earnings from the four quarters ending in September 
+2023 (trailing twelve month) by the book value of equity at the end of 
+September 2022. Since this is reflecting of what investors in the market 
+have access to at the start of 2024, it fulfils my objective of being the 
+most updated data, notwithstanding the timing mismatch.
+15
+Currency and Accounting Issues?
+¨There are two perils with computing statistics across 
+companies in different markets. 
+¤The first is differences in accounting standards, and there is little 
+that I can do about that other than point out that these 
+differences have narrowed over time.
+¤The other is the presence of multiple currencies, with 
+companies in different countries reporting their financials in 
+different currencies. 
+¨The global database that I use for my raw data, S&P 
+Capital IQ, gives me the option of getting all ofthe data 
+in US dollars, and that allows for aggregation across 
+global companies. In addition, most of the statistics I 
+report are ratios rather than absolute values, andare 
+thus amenable to averaging across multiple countries.
+16
+Statistical Choices
+¨ MissingData:therearedataitemswherethereportingstandardseitherdon’t
+requiredisclosureinsomepartsoftheworld(stock-basedcompensation)or
+disclosureisvoluntary(employeenumbers).Whenconfrontedwithmissingdata,I
+donotthrowtheentirecompanyoutofmysample,butIreportthestatisticsonly
+acrosscompaniesthatreportthatdata.
+¨ Averages,MediansandAggregates:Thesimpleaverage,whichistheworkhorse
+statisticthatmostservicesreportforvariables,isoftenapoormeasureofwhatis
+typicalinanindustry,eitherbecausethevariablecannotbecomputedformany
+ofthecompaniesintheindustry,orbecause,evenwhencomputed,itcantakeon
+outliervalues.Havingtoyedwithalternativeapproaches,theonethatIfindoffers
+thebestbalanceistheaggregatedratio.Theresultingvalueusesallofthe
+companiesinthesample,reducingsamplingbias,andisclosertoaweighted
+average,alleviatingtheoutliereffect.Forafewvariables,Idoreportthe
+conventionalaverageandmedian,justforcomparison.
+17
+Using the Data
+¨ AsInotedearlier,thedatasetsthatIreportaredesignedformyuse,incorporatefinancialanalysisand
+valuationthatIdoinrealtime.Thus,Iplantousethe2024datathatyousee,whenIvaluecompaniesor
+docorporatefinancialanalysisduringtheyear,andifyouareapractitionerdoingsomethingsimilar,it
+shouldworkforyou.Youcanfindthiscurrentdataatthislink,organizedtoreflectthecategories.
+¨ Thatsaid,therearesomeofyouwhoarenotdoingyouranalysisinrealtime,eitherbecauseyouarein
+theappraisalbusinessandmustvalueyourcompanyasofthestartof2020or2021,oraresearcher
+lookingatchangesovertime.Idomaintainthearchivedversionsofmydatasetsforprioryearsonmy
+webpage,andifyouclickontherelevantdata,youcangetthethrowbackdatafromprioryears.
+¨ Therearetwousesthatmydataisputtowhereyouareonyourown.
+¤ Thefirstisinlegaldisputes,whereoneorbothsidesofthedisputeseemtolatchontodataonmy
+sitetomaketheir(opposing)cases.WhileIclearlycannotstopthatfromhappening,pleasekeepme
+outofthosefights,sincethereisareasonIdon’tdoexpertwitnessoflegalappraisalwork;courtsare
+thegraveyardsforgoodsenseinvaluation.
+¤ Theotherisinadvocacywork,wheredatafrommysiteisoftenselectivelyusedtoadvancea
+politicalorbusinessargument.Mydatasetonwhatcompaniespayastaxratesseemstobeafavored
+destination,andIhaveseenstatisticsfromitusedtoadvanceargumentsthatUScompaniespaytoo
+muchortoolittleintaxes.
+¨ Mydatasetsdonotcarrycompany-specificdata,sincemyrawdataproviders(fairly)constrainmefrom
+sharingthatdata.Thus,ifyouwanttofindthecostofcapitalforUnileverorareturnoncapitalforApple,
+youwillnotfinditonmysite,butthatdataisavailableonlinealready,orcanbecomputedfromthe
+financialreleasesfromthesecompanies.
+18
+A Sharing Request
+¨Ifyoudousethedata,youdon’thavetothankme,
+orevenacknowledgemycontribution.
+¨Useitsensibly,takeownershipofyouranalysis
+(don’tblamemydataforyourvaluebeingtoohigh
+orlow)andpassonknowledge.Itisoneofthefew
+thingsthatyoucansharefreelyandbecomericher
+asyousharemore.
+¨Also,aswithanylargedataexercise,Iamsurethat
+therearemistakesthathavefoundtheirwayinto
+thedata,andifyoufindthem,letmeknow,andI
+willfixthemasquicklyasIcan!

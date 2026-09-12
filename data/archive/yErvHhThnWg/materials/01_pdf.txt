@@ -1,0 +1,383 @@
+Source: https://www.stern.nyu.edu/~adamodar/podcasts/cfspr22/session13slides.pdf
+
+247
+Breaking out G&A Costs into fixed and variable 
+components: A simple example
+Aswath Damodaran
+247
+¨Assume that you have a time series of revenues and 
+G&A costs for a company.
+¤What percentage of the G&A cost is variable?
+248
+To Time-Weighted Cash Flows
+Aswath Damodaran
+248
+¨Incremental cash flows in the earlier years are worth 
+more than incremental cash flows in later years.
+¨In fact, cash flows across time cannot be added up. 
+They have tobe brought to the same point in time 
+before aggregation.
+¨This process of moving cash flows through time is
+¤discounting, when future cash flows are brought to the 
+present
+¤compounding, when present cash flows are taken to the 
+future
+249
+Present Value Mechanics
+Aswath Damodaran
+249
+¨Cash Flow Type Discounting Formula Compounding Formula
+1. Simple CF CFn/ (1+r)n CF0(1+r)n
+2. Annuity
+3. Growing Annuity
+4. Perpetuity A/r
+5. Growing Perpetuity Expected Cashflownext year/(r-g)
+A 
+1 - 1
+(1+r)n
+r
+!
+"
+#
+#
+#
+#
+$
+%
+&
+&
+&
+&
+€ 
+A (1+r)n - 1
+r
+" 
+# $ 
+% 
+& ' 
+A(1+g) 
+1 - (1+g)n
+(1+r)n
+r-g
+!
+"
+#
+#
+#
+#
+$
+%
+&
+&
+&
+&
+250
+Discounted cash flow measures of return
+Aswath Damodaran
+250
+¨Net Present Value (NPV): The net present value is the 
+sum of the present values of all cash flows from the 
+project (including initial investment).
+¤NPV = Sum of the present values of all cash flows on the project, 
+including the initial investment, with the cash flows being 
+discounted at the appropriate hurdle rate (cost of capital, if cash 
+flow is cash flow to the firm, and cost of equity, if cash flow is to 
+equity investors)
+¤Decision Rule: Accept if NPV > 0
+¨Internal Rate of Return (IRR): The internal rate of return 
+is the discount rate that sets the net present value equal 
+to zero. It is the percentage  rate of return, based upon 
+incremental time-weighted cash flows.
+¤Decision Rule: Accept if IRR > hurdle rate
+251
+Closure on Cash Flows
+¨In a project with a finite and short life, you would need to compute 
+a salvage value, which is the expected proceeds from selling all of
+the investment in the project at the end of the project life. It is 
+usually set equal to book value of fixed assets and working capital 
+¨In a project with an infinite or very long life, we compute cash flows 
+for a reasonable period, and then compute a terminal value for this 
+project, which is the present value of all cash flows that occur after 
+the estimation period ends..
+¨Assuming the project lasts forever , and that cash flows after year 
+10 grow 2% (the inflation rate) forever, the present value at the end 
+of year 10 of cash flows after that can be written as:
+¤Terminal Value in year 10= CF in year 11/(Cost of Capital -Growth Rate)
+=715 (1.02) /(.0846-.02) = $ 11,275  million
+Aswath Damodaran
+252
+Which yields a NPV of..
+Discounted at Rio Disney cost 
+of capital of 8.46%Aswath Damodaran
+253
+Which makes the argument that..
+¨The project should be accepted. The positive net 
+present value suggests that the project will add 
+value to the firm, andearn a return in excess of the 
+cost of capital.
+¨By taking the project, Disney will increase its value as 
+a firm by $3,296 million.
+Aswath Damodaran
+254
+The IRR of this project
+Aswath Damodaran
+-$3,000.00
+-$2,000.00
+-$1,000.00
+$0.00
+$1,000.00
+$2,000.00
+$3,000.00
+$4,000.00
+$5,000.00
+8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%
+NPV
+Discount Rate
+Internal Rate of Return=12.60%
+255
+The IRR suggests..
+¨The project is a good one. Using time-weighted, incremental cash 
+flows, this project provides a return of 12.60%. This is greater than 
+the cost of capital of 8.46%.
+¨The IRR and the NPV will yield similar results most of the time, 
+though there are differences between the two approaches that 
+may cause project rankings to vary depending upon the approach 
+used. They can yield different results, especially why comparing 
+across projects because
+¤A project can have only one NPV, whereas it can have more than one IRR.
+¤The NPV is a dollar surplus value, whereas the IRR is a percentage measure 
+of return. The NPV is therefore likely to be larger for “large scale”projects, 
+while the IRR is higher for “small-scale”projects.
+¤The NPV assumes that intermediate cash flows get reinvested at the 
+“hurdle rate”, which is based upon what you can make on investments of 
+comparable risk, while the IRR assumes that intermediate cash flows get 
+reinvested at the “IRR”.
+Aswath Damodaran
+256
+Does the currency matter?
+¨The analysis was done in dollars. Would the 
+conclusions have been any different if we had done 
+the analysis in Brazilian Reais?
+a. Yes
+b. No
+Aswath Damodaran
+257
+The ‘‘Consistency Rule”for Cash Flows
+Aswath Damodaran
+257
+¨The cash flows on a project and the discount rate 
+used should be defined in the same terms. 
+¤If cash flows are in dollars ($R), the discount rate has tobe 
+a dollar ($R) discount rate
+¤If the cash flows are nominal (real), the discount rate has 
+tobe nominal (real).
+¨If consistency is maintained, the project conclusions 
+should be identical, no matter what cash flows are 
+used.
+258
+Disney Theme Park: Project Analysis in $R
+Aswath Damodaran
+258
+¨The inflation rates were assumed to be 9% in Brazil and 2% in the 
+United States. The $R/dollar rate at the time of the analysis was 
+2.35 $R/dollar .
+¨The expected exchange rate was derived assuming purchasing 
+power parity.
+¤Expected Exchange Ratet= Exchange Rate today * (1.09/1.02)t
+¨The expected growth rate after year 10 is still expected to be the 
+inflation rate, but it is the 9% $R inflation rate.
+¨The cost of capital in $R was derived from the cost of capital in 
+dollars and the differences in inflation rates:
+$R Cost of Capital =
+= (1.0846) (1.09/1.02) –1 = 15.91% 
+€ 
+(1+US $ Cost of Capital)(1+Exp InflationBrazil)
+(1+Exp InflationUS)−1
+259
+Disney Theme Park: $R NPV
+NPV = R$ 7,745/2.35= $ 3,296 Million
+NPV is equal to NPV in dollar terms
+Discount at $R cost of capital
+= (1.0846) (1.09/1.02) –1 = 15.91% 
+Expected Exchange Ratet
+= Exchange Rate today * (1.09/1.02)t
+Aswath Damodaran
+260
+Uncertainty in Project Analysis: What can we 
+do?
+Aswath Damodaran
+260
+¨Based on our expected cash flows and the estimated cost of capital, the 
+proposed theme park looks like a very good investment for Disney. Which 
+of the following may affect your assessment of value?
+¤Revenues may be over estimated (crowds may be smaller and spend less) 
+¤Actual costs may be higher than estimated costs
+¤Tax rates may go up
+¤Interest rates may rise
+¤Risk premiums and default spreads may increase
+¤All ofthe above
+¨How would you respond to this uncertainty?
+¤Will wait for the uncertainty to be resolved
+¤Will not take the investment
+¤Ask someone else (consultant, boss, colleague) to make the decision
+¤Ignore it. 
+¤Other
+261
+One simplistic solution: See how quickly 
+you can get your money back…
+¨If your biggest fear is losing the billions that you invested in the project, 
+one simple measure that you can compute is the number of years it will 
+take you to get your money back. 
+Payback = 10.3 years
+Discounted Payback 
+= 16.8 years
+Aswath Damodaran
+YearCash FlowCumulated CFPV of Cash FlowCumulated DCF
+0-$2,000 -$2,000 -$2,000 -$2,000
+1-$1,000 -$3,000 -$922 -$2,922
+2 -$859 -$3,859 -$730 -$3,652
+3 -$267 -$4,126 -$210 -$3,862
+4 $340 -$3,786 $246 -$3,616
+5 $466 -$3,320 $311 -$3,305
+6 $516 -$2,803 $317 -$2,988
+7 $555 -$2,248 $314 -$2,674
+8 $615 -$1,633 $321 -$2,353
+9 $681 -$952 $328 -$2,025
+10 $715 -$237 $317 -$1,708
+11 $729 $491 $298 -$1,409
+12 $743 $1,235 $280 -$1,129
+13 $758 $1,993 $264 -$865
+14 $773 $2,766 $248 -$617
+15 $789 $3,555 $233 -$384
+16 $805 $4,360 $219 -$165
+17 $821 $5,181 $206 $41
+262
+A slightly more sophisticated approach: 
+Sensitivity Analysis & What-if Questions…
+¨The NPV, IRR and accounting returns for an investment will change 
+as we change the values that we use for different variables. 
+¨One way of analyzing uncertainty is to check to see how sensitive 
+the decision measure (NPV, IRR..) is to changes in key assumptions. 
+While this has become easier and easier to do over time, there are 
+caveats that we would offer .
+¨Caveat 1: When analyzing the effects of changing a variable, we 
+often hold all else constant. In the real world, variables move 
+together .
+¨Caveat 2: The objective in sensitivity analysis is that we make 
+better decisions, not churn out more tables and numbers.
+¤Corollary 1: Less is more. Not everything is worth varying…
+¤Corollary 2: A picture is worth a thousand numbers (and tables).
+Aswath Damodaran
+263
+And here is a really goodpicture…
+Aswath Damodaran
+264
+The final step up: Incorporate probabilistic 
+estimates.. Rather than expected values..
+Actual Revenues as % of Forecasted Revenues (Base case = 100%)
+Operating Expenses at Parks as % of 
+Revenues (Base Case = 60%)
+Country Risk Premium (Base Case = 3% 
+(Brazil))
+Aswath Damodaran
+!
+!
+!
+265
+The resulting simulation…
+Average = $3.40 billion
+Median = $3.28 billion
+NPV ranges from -$1 billion to +$8.5 billion. NPV is negative 12% of the 
+time.
+Aswath Damodaran
+!
+266
+You are the decision maker…
+Aswath Damodaran
+266
+¨Assume that you are the person at Disney who is given 
+the results of the simulation. The average and median 
+NPV are close to your base case values of $3.29 billion. 
+However, there is a 10% probability that the project 
+could have a negative NPV and that the NPV could be a 
+large negative value? How would you use this 
+information?
+¤I would accept the investment and print the results of this 
+simulation and file them away to show that I exercised due 
+diligence.
+¤I would reject the investment, because it is too risky (there is a 
+10% chance that it could be a bad project)
+¤Other
+267
+Equity Analysis: The Parallels
+Aswath Damodaran
+267
+¨The investment analysis can be done entirely in equity 
+terms, as well. The returns, cashflows and hurdle rates 
+will all be defined from the perspective of equity 
+investors.
+¨If using accounting returns,
+¤Return will be Return on Equity (ROE) = Net Income/BV of Equity
+¤ROE has tobe greater than cost of equity
+¨If using discounted cashflow models,
+¤Cashflows will be cashflows after debt payments to equity 
+investors
+¤Hurdle rate will be cost of equity
+268
+A Vale Iron Ore Mine in Canada Investment 
+Operating Assumptions
+Aswath Damodaran
+268
+1. The mine will require an initial investment of $1.25 billion and is expected to have a production 
+capacity of 8 million tons of iron ore, once established. The initial investment of $1.25 billion will 
+be depreciated over ten years, using double declining balance depreciation, down to a salvage 
+value of $250 million at the end of ten years. 
+2. The mine will start production midway through the next year, producing 4 million tons of iron 
+ore for year 1, with production increasing to 6 million tons in year 2 and leveling off at 8 million 
+tons thereafter (until year 10). The price, in US dollars per ton of iron ore is currently $100 and is 
+expected to keep pace with inflation for the life of the plant.
+3. The variable cost of production, including labor, material and operating expenses, is expected to 
+be $45/ton of iron ore produced and there is a fixed cost of $125 million in year 1. Both costs, 
+which will grow at the inflation rate of 2% thereafter . The costs  will be in Canadian dollars, but 
+the expected values are converted into US dollars, assuming thatthe current parity between the 
+currencies (1 Canadian $ = 1 US dollar) will continue, since interest and inflation rates are similar 
+in the two currencies.
+4. The working capital requirements are estimated to be 20% of total revenues, and the 
+investments have tobe made at the beginning of each year . At the end of the tenth year, it is 
+anticipated that the entire working capital will be salvaged.
+5. Vale’s corporate tax rate of 34% will apply to this project as well.
+269
+Financing Assumptions
+Aswath Damodaran
+269
+Vale plans to borrow $0.5 billion at its current cost of debt of 4.05% (based 
+upon its rating of A-), using a ten-year term loan (where the loan will be paid 
+off in equal annual increments). The breakdown of the payments each year 
+into interest and principal are provided below:
+270
+The Hurdle Rate 
+Aswath Damodaran
+270
+¨The analysis is done US dollar terms and to equity 
+investors. Thus, the hurdle rate has tobe a US $ cost 
+of equity.
+¨In the earlier section, we estimated costs of equity, 
+debt and capital in US dollars and $R for Vale’s iron 
+ore business.
+Business 
+Cost of 
+equity 
+After-tax cost of 
+debt 
+Debt 
+ratio 
+Cost of capital (in 
+US$) 
+Cost of capital (in 
+$R) 
+Metals & 
+Mining 11.35% 2.67% 35.48% 8.27% 15.70% 
+Iron Ore 11.13% 2.67% 35.48% 8.13% 15.55% 
+Fertilizers 12.70% 2.67% 35.48% 9.14% 16.63% 
+Logistics 10.29% 2.67% 35.48% 7.59% 14.97% 
+Vale Operations 11.23% 2.67% 35.48% 8.20% 15.62%

@@ -1,0 +1,170 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/CLC/slides/Ch7.pdf
+
+THE FINANCING 
+DECISION ACROSS 
+THE LIFE CYCLE 
+Aswath Damodaran
+Aswath Damodaran
+§If the choice that businesses face is between 
+using equity and debt, the way to determine 
+which funding source will benefit them more 
+is to weigh the costs and benefits of 
+borrowing money, relative to using equity. 
+§We will start by arguing that many businesses 
+are drawn to debt for what we will term illusory 
+reasons,. 
+§We will then move to the other end of the 
+spectrum, and consider just the financial 
+tradeoffs, i.e., the fundamental costs and 
+benefits of borrowing. 
+§We will end by looking at market frictions, 
+mispricing and distortions that can lead some 
+businesses to borrow more or less than they 
+should, given fundamentals, and how these 
+deviations vary across the life cycle.
+Aswath Damodaran
+§While these illusory reasons are used by 
+firms across the life cycle, they can often 
+explain inexplicable choicesmade by 
+firms at each stage. 
+§There are young firms, clearly unsuited to 
+debt, that choose to borrow money 
+because the interest rate that they pay on 
+the debt looks lower than the target rates 
+demanded by venture capitalists.  This 
+illusion is fed by the inclusion of equity 
+components in debt, as is the case with 
+convertible debt or venture debt paired 
+with equity warrants, that lower the interest 
+rate on the debt. 
+§At the other end of the spectrum, there are 
+mature firms that are family-run that 
+view equity as a free or very cheap 
+source of capital that choose to borrow 
+very little or no moneyand take 
+investments that barely make money, 
+because of their misconceptions about 
+funding costs. At the heart of this illusion is 
+the belief that dividends are the only cost of 
+equity.
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+   Institutional Holding Insider Holding 
+Age Class  Number Average Age 1st Quartile Median Average 1st Quartile Median Average 
+Youngest 499 5.04 10.12% 27.18% 50.27% 1.53% 6.32% 20.85% 
+2nd decile 522 9.43 10.60% 28.77% 59.74% 2.10% 7.18% 20.50% 
+3rd decile 577 13.58 8.48% 29.27% 64.36% 1.90% 6.41% 19.51% 
+4th decile 718 18.12 8.40% 32.08% 69.69% 1.98% 6.03% 18.16% 
+5th decile 488 23.49 11.57% 42.56% 80.69% 1.55% 5.79% 16.44% 
+6th decile 652 29.49 16.58% 48.95% 86.52% 1.37% 4.23% 17.73% 
+7th decile 578 38.19 17.92% 54.75% 85.35% 1.45% 4.86% 17.82% 
+8th decile 606 52.48 30.66% 68.83% 89.27% 1.07% 4.28% 15.52% 
+9th decile 581 86.88 31.49% 70.94% 87.95% 0.88% 2.87% 10.36% 
+Oldest 584 140.22 28.30% 67.18% 84.45% 0.67% 2.19% 6.66% 
+All firms 6,542 42.24 13.13% 43.94% 79.80% 1.30% 4.96% 16.55%
+Aswath Damodaran
+   Variability in Operating Income Interest Coverage 
+  Number Average Age 1st Quartile Median Average 1st Quartile Median Average 
+Youngest 499 5.04 0.33 0.78 0.95 1.58 3.34 7.37 
+2nd decile 522 9.43 0.64 0.97 1.28 1.25 4.13 10.89 
+3rd decile 577 13.58 0.66 0.96 1.35 1.85 4.68 21.27 
+4th decile 718 18.12 0.55 0.85 1.17 1.66 3.89 17.68 
+5th decile 488 23.49 0.48 0.76 1.17 1.71 6.40 17.38 
+6th decile 652 29.49 0.38 0.66 1.10 2.71 7.01 30.91 
+7th decile 578 38.19 0.40 0.70 1.13 2.79 7.93 22.92 
+8th decile 606 52.48 0.32 0.57 0.99 2.90 8.69 23.10 
+9th decile 581 86.88 0.25 0.44 0.84 4.15 9.40 22.08 
+Oldest 584 140.22 0.19 0.31 0.57 3.09 6.90 12.79 
+All firms 6,542 42.24 0.36 0.66 1.08 2.62 6.73 18.59
+§When you lend money to a business, the two 
+biggest factors determining how concerned you 
+are about equity investors putting your interests at 
+risk relate to the composition of your assets and 
+your capacity to monitor how equity investors are 
+using the capital you provide them. 
+§On the first count, lenders seem to feel less 
+concerned about this agency problem when they 
+lend based on tangible assets, such as real estate or a physical plant, than based on intangible assets. With 
+young businesses, where the bulk of value comes 
+from growth assets, i.e., investments that they make in 
+the future, you can understand why lenders are leerier about letting equity investors free play with 
+their capital. 
+§In addition, as young businesses experiment with 
+different business models and try to gauge 
+market size, lenders also often find themselves 
+unable to monitor how money is being spent in a business, and this fear gets worse in evolving sectors 
+such as technology, where they know far less about 
+the business than the founders/equity investors do.
+§To induce a lender to lend money to a young 
+company, not only do interest rates have to be set 
+much higher, and covenants made more 
+restrictive, but lenders also must be offered a 
+share of the upside, in the form of an equity stake, 
+to commit. 
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+As you borrow more, he 
+equity in the ﬁrm will 
+become more risky as 
+ﬁnancial leverage 
+magniﬁes business risk. 
+The cost of equity will 
+increase.
+Cost of Equity Weight of 
+equity
+Pre-tax cost of debt (1- tax 
+rate) Weight 
+of Debt
+X + X
+As you borrow more, 
+your default risk as a 
+ﬁrm will increase 
+pushing up your cost 
+of debt.
+At some level of 
+borrowing, your 
+tax beneﬁts may 
+be put at risk, 
+leading to a lower 
+tax rate.
+Bankruptcy costs are built into both the cost of equity the pre-
+tax cost of debt
+Tax beneﬁt is
+here
+The trade off: As you use more debt, you replace more expensive equity with cheaper debt 
+but you also increase the costs of equity and debt. The net effect will determine whether 
+the cost of capital will increase, decrease or be unchanged as debt ratio changes.
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran
+§For many firms, finding the right mix of 
+debt of equity does not come from the 
+capacity of these firms to generate tax 
+benefits from debt or weighing these 
+benefits off against expected bankruptcy 
+costs, but from looking at what other 
+companies in these peer group are 
+choosing to borrow. 
+§The roots of me-too finance, which is our 
+descriptor for making major corporate 
+finance decisions (borrowing, dividend 
+policy and even investing) based upon 
+what other companies in the sector are 
+doing, lie in the belief that making 
+mistakes, as a manager, becomes 
+easier to defend, when you have lots of 
+company. 
+§The perils of peer-group driven debt 
+decisions lie in the choices that you must 
+make in picking companies that will 
+comprise your peer group and coming 
+with a metric that measures debt load. 
+Aswath Damodaran
+Aswath Damodaran
+Aswath Damodaran

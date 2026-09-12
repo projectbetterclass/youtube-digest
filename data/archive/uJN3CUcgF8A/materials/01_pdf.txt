@@ -1,0 +1,227 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/PriceofRisk2023.pdf
+
+THEPRICEOFRISK:WITHEQUITY 
+RISKPREMIUMS,CAVEATEMPTOR!
+Here an ERP , there an ERP….
+Aswath Damodaran
+2
+ERP: An Obsession
+¨If you have been reading my posts for a while, you know 
+that I have an obsession withequity risk premiums, 
+which I believe lie at the center of almost every debate 
+in markets and investing. 
+¨As part of that obsession, at the start of every month, 
+since September 2008, I have estimated an equity risk 
+premium for the S&P 500 and not only used that 
+premium, when valuing companies during that month, 
+but shared my estimate on my webpage and on social 
+media. 
+¨In my last session, on country risk premiums, I used the 
+equity risk premium of 5.00% that I estimated for the US 
+at the start of July 2023, for the S&P 500.
+3
+But confusion abounds…
+¨AnarticleinMarketWatchearlierthisyearreferredto
+theequityriskpremiumasanesotericconcept,a
+phrasingthatsuggestedthatithadlittlerelevancetothe
+averageinvestor.
+¨Addingtotheconfusionaretheproliferationofvery
+differentnumbersthatyoumayhaveseenattachedto
+thecurrentequityriskpremium,eachusuallyquotingan
+expertinthefield,butprovidinglittlecontext.
+¨Justinlastfewweeks,Ihaveseen
+¤aWallStreetJournalarticleputtheequityriskpremiumat1.1%
+¤aReutersreportputitat2.2%
+¤Abearish(andwidelyfollowed)moneymanagerestimate
+theequityriskpremiumtobenegative
+4
+ERP: What is it?
+5
+ERP: What drives it?
+6
+ERP: Why should you care?
+1. MarketTiming:Anystatementaboutmarketpricingcanberephrasedasastatement
+aboutequityriskpremiums;ifyoubelievethattheequityriskpremium,aspricedinby
+themarket,hasbecometoolow(relativetowhatyoubelieveisjustified,givenhistory
+andfundamentals),youarearguingthatstocksareoverpriced(andduefora
+correction).Conversely,ifyoubelievethattheequityriskpremiumhasbecometoo
+high,youarecontendingthatstocksarecheap,intheaggregate.
+2. StockPicker:Whenyouinvestinanindividualstock,youaredoingsobecauseyou
+believethatstockistradingataprice,belowyourestimateofitsvalue.However ,to
+makethisjudgment,youhavetoassessvalueinthefirstplace,andwhilewecan
+debategrowthpotentialandprofitability,theequityriskpremiumbecomesaninput
+intotheprocess,determiningwhatyoushouldearnasanexpectedreturnonastock.
+Putsimply,ifyouareusinganequityriskpremiuminyourcompanyvaluationthatis
+muchlower(higher)thantheequityriskpremium,pricedinbythemarket,youare
+biasingyourselftofindthecompanytobeunder(over)valued.
+3. CorporateFinance:Theroleoftheequityriskpremiumindeterminingtheexpected
+returnonastockmakesitakeyinputincorporatefinance,aswell,becausethat
+expectedreturnbecomesthecompany'scostofequity.Thatcostofequityisthen
+embeddedinacostofcapital,andasequityriskpremiumsrise,allcompanieswillsee
+theircostsofcapitalrise.
+7
+ERP: Measurement
+¨If the equity risk premium is a market-set number for the price of risk in 
+equity markets, how do we go about estimating it? 
+¨Unlike the bond market, where interest rates on bonds can be used to 
+back out default spreads, equity investors are not explicit about what they 
+are demanding as expected returns when they buy stocks. 
+¨A range of approaches have been used to estimate the equity risk 
+premium:
+¤HistoricalRiskPremium: Use the premium that investors in stocks have earned over 
+history, relative to risk free investment.
+¤Historical Returns based Forecasts: Using just historical returns or historical returns 
+combined with a measure of stock cheapness to forecast expected returns on 
+stocks.
+¤EarningsYield(Earnings to Price Ratio): The earnings yield is often used a ”short 
+cut” to estimating the expected return on stocks.
+¤Implied ERP: Go the distance with fundamentals and back out an internal rate of 
+return on stocks, given pricingandexpectedcashflows.
+8
+1. Historical ERP
+Aswath Damodaran
+9
+Why it remains the default approach…
+¨StabilityandPrecision:Thefactthatyoucancomputeaverages
+preciselygetstranslatedintothedelusionthattheseaveragesare
+facts,when,infact,theyarenotjustestimatesbutverynoisyones.
+Forinstance,evenifyouusetheentire94-yeartimeperiod(from
+1928-2022),yourestimatefortheequityriskpremiumisthatit
+fallssomewherefrom2.34%-10.94%(Arithmeticaverage
+plus/minustwostandarderrors),
+¨Bias:Itisalsotruethatthemenuofchoicesthatyouhavefor
+historicalequityriskpremiums,fromalowof4.12%toahighof
+13.08%,givesanalystsachancetolettheirbiasesplayout.After
+all,ifyourjobistocomeupwithalowvalue,allyouhavetodois
+latchontoahighnumberinthistable,claimthatitisahistorical
+riskpremiumanddeliveronyourpromise.
+10
+Limits of Historical ERP
+¨Mean Reversion: When using historical equity risk premiums, 
+you are assuming mean reversion, i.e., that returns revert to 
+historic norms over time, though, as you can see, those 
+norms can be different, using different time periods. 
+¨Structural Stability: You are also assuming that the economic 
+and market structure has not changed significantly over the 
+estimation period, i.e., that the fundamentals that determine 
+the risk premium have remained stable. 
+¤For much of the twentieth century, historical equity risk premiums 
+worked well as risk premium predictors in the United States, precisely 
+because these assumptions held up. 
+¤With China's rise, increased globalization and the crisis of 2008 
+asprecipitating factors, I would argue that the case for using historical 
+risk premiums has become much weaker .
+Aswath Damodaran
+11
+2. Historical Returns-based Forecasts
+12
+EP plus Stock Returns
+13
+Using (and misusing) the regression
+Aswath Damodaran
+¨Youcanusetheregression, in conjunction with the EP 
+ratio today (4%), to get predictions:
+¤ExpectedReturn=.00254+1.4543(.04)=.0607or6.07%
+¤ERP=6.07%-3.97%=2.10%
+¨It is worth remembering that the expected return 
+predictions come with error, and the more appropriate 
+use of this regression is to get a range for the expected 
+annual return of 4-8%. 
+¨Extending the regression back to 1928 increases the R-
+squared and results in regressions that yield predicted 
+stock returns that can be lower than the treasury-bond 
+rate, i.e., a negative equity risk premium.
+14
+EP-based Returns: Limits
+• Data costs: With the longer time-period predictions, where the predictive power 
+is strongest, the same data is counted multiple times in the sameregression. In 
+addition, the longer your time horizon, the more data you lose. With a 10-year 
+time horizon, for instance, the last year that you can use for predictions is 2012, 
+since the EP ratio in that year, will be matched up to the returns from 2013-2022.
+• Structural instability: You are assuming that the structural model is stable and 
+that there will be mean reversion. In fact, within this time period (1928 -2022), 
+the predictive power is far greater from1928 to 1960 than it is from1961 to 2022.
+• YoucannottradeR-squared:While these models tout high R-squared, the number 
+that matters is the standard error of the predictions; predicting that your annual 
+return will be 5% for the next decade with a standard error of 2% yields a range 
+that leaves you, as an investor, in suspended animation. Bluntly put, building a 
+model that explains past returns well does not equate to being able to make 
+money on predictions of returns, and trying to time markets, from this model.
+15
+The Fed Model: EP and Cost of Equity
+¨ Totheextentthatvalueisdrivenbyexpectedfuturecashflows,youcanbackout
+anequityriskpremiumfromcurrentstockprices.Inthesimplestversionofthis
+model:
+¨ Ifyouassumenogrowthandthatallearningsarepaidoutasdividends:
+¨ Ifyouassumefirmsmakenoexcessreturns:
+16
+The EP-based ERP
+17
+The EP-based ERP: Limits
+¨Myproblemwiththeearningsyieldapproachtoestimatingequity
+riskpremiumsisthattheassumptionsthatyouneedtomaketo
+justifyitsuseareareatwarwiththedata.
+¤First,whileearningsgrowthforUSstockshasbeennegativeinsomeyears,
+ithasbeenpositiveeverydecadeforthelastcentury,andthereareno
+analysts(thatIamawareof)expectingitbezero(innominalterms)inthe
+future.
+¤Second,assumingthatthereturnonequityisequaltothecostofequity
+maybeeasyonpaper,buttheactualreturnonequityforcompaniesinthe
+S&P500was19.73%in2022,17.04%overthelastdecadeandhasbeen
+higherthanthecostofequityevenintheworstyearinthiscentury(9.35%
+in2008).
+¨Ifyouallowforgrowthinearningsandexcessreturns,itisclear
+thatwhiletheearningsyieldwillyieldtoolowavaluefortheERP ,
+becauseoftheseomissions,andwillyieldnegativevaluesinmany
+periods,makingituselessasanERPestimatorforvaluation.
+18
+4. Implied ERP
+19
+On August 1, 2023
+Aswath Damodaran
+20
+Implied ERP versus EP-based ERP
+¨To reconcile my estimate of the equity risk premium with the 
+earnings yield approach, set the earnings growth rate to zero 
+and the cash payout to 100%, and you will find that the 
+equity risk premium you get converges on the 0.41% that you 
+get with the earnings yield approach. 
+¨Adding growth and excess returns to the equation is what 
+brings it up to 4.44%, and I believe that the data is on my 
+side, in this argument. 
+¨To the critique that my approach requires estimates of 
+earnings growth and excess returns that may be wrong, I am 
+willing to wager that whatever mistakes I make on either 
+input will be smaller than the input mistakes made by 
+assuming no growth and no excess returns, as is the case with 
+the earnings yield approach.
+Aswath Damodaran
+21
+Picking an Approach for estimating ERP
+Aswath Damodaran
+22
+The Ultimate Test
+Aswath Damodaran
+23
+With a caveat..
+Aswath Damodaran
+24
+ERP: Concluding Thoughts..
+1. ThereisatrueERP:Thefactthatthethetrueequityriskpremiumisunobservabledoesnot
+meanthatitdoesnotexist.Inotherwords,thenotionthatyoucangetawayusinganequity
+riskpremiumyouwant,aslongasyouhaveajustificationandareconsistent,isabsurd.
+2. Notallestimationapproachesarecreatedequal:Whiletherearemanyapproachesto
+estimatingtheequityriskpremium,andtheyyieldverydifferentnumbers,someofthese
+approacheshavemoreheft,becausetheyofferbetterpredictivepower.
+3. Yourendgamematters:Iamnotamarkettimerandestimateanequityriskpremium
+primarilybecauseIneeditasaninputinvaluationandcorporatefinance.Thatrequiresan
+approachthatyieldspositivevalues(rulingouttheEP-basedERP)andmoveswithwithstock
+returnsinsubsequentperiods(eliminatinghistoricalERP).
+4. Markettimers,beware:Ifyouareusingequityriskpremiumsorevenearningsyieldfor
+markettiming,recognizethathavingahighR-squaredorcorrelationinpastreturnswillnot
+oftentranslateintomarket-timingprofits,fortworeasons.
+1. First,thepastisnotalwaysprologue,andmarketandeconomicstructureshaveshifted,undercutting
+akeybasisforusinghistoricaldata.
+2. Second,evenifthecorrelationsandregressionshold,youmaystillfindithardtoprofitfromthem,
+sinceyou(andyourclients,ifyouareaportfoliomanager)maybebankrupt,beforeyourpredictions
+playout.

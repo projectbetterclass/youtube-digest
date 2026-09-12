@@ -1,0 +1,553 @@
+Source: https://www.stern.nyu.edu/~adamodar/podcasts/cfspr22/session5slides.pdf
+
+61
+2. ESG and Returns: Mixed findings
+¨ Invest in bad companies: A comparisonof two Vanguard Index funds, the Vice fund 
+(invested in tobacco, gambling, and defense companies) and the FTSE Social Index fund 
+(invested in companies screened for good corporate behavior on multiple dimensions) 
+and note that a dollar invested in the former in August 2002 would have been worth 
+almost 20% more by 2015 than a dollar invested in the latter .
+¨ Invest in good companies: There are some studies that find that good companies earn 
+higher returns, but the outperformance is more due to factor and industry tilts than to 
+social responsiveness. Some of the strongest links between returns and ESG come from 
+the governance portion, which, as we noted earlier, is ironic, because the essence of 
+governance, at least as measured in most of these studies, is fealty to shareholder 
+rights, which is at odds with the current ESG framework that pushes for a stakeholder 
+perspective.
+¨ ESG has no effect: Splitting the difference, there are other studies that find little or no 
+differences in returns between good and bad companies. In fact, studies that more 
+broadly look at factors that have driven stock returns for the last few decades find that 
+much of the positive payoff attributed to ESG comes from its correlation with 
+momentum and growth.
+62
+3. ESG and Society
+¨There are some who argue that even if ESG is bad for 
+companies and investors, it is good for society, because 
+companies will treat their customers and employees 
+better, while catering to their local communities.
+¨There are three fundamental flaws:
+¤Greenwashing: ESG allows companies to sound good, while not 
+doing good, and that it will allow for posturing and public 
+relation ploys that do little to advance public good. 
+¤Outsourcing goodness: It makes the CEOs the arbiters of 
+goodness and badness.
+¤Behind the curtain: Pressuring companies to invest in the good 
+and divest themselves or avoid the bad may only push bad 
+behavior to less observable and monitored parts of the 
+economy.
+63
+III. Maximize Stock Price, subject to ..
+Aswath Damodaran
+63
+¨The strength of the stock price maximization objective 
+function is its internal self correction mechanism. Excesses on 
+any of the linkages lead, if unregulated, to counter actions 
+which reduce or eliminate these excesses
+¨In the context of our discussion,
+¤managers taking advantage of stockholders has led to a much more 
+active market for corporate control.
+¤stockholders taking advantage of bondholders has led to bondholders 
+protecting themselves at the time of the issue.
+¤firms revealing incorrect or delayed information to markets has led to 
+markets becoming more “skeptical”and “punitive”
+¤firms creating social costs has led to more regulations, as well as 
+investor and customer backlashes.
+64
+The Stockholder Backlash 
+Aswath Damodaran
+64
+¨Activist Institutional investors have become much more 
+active in monitoring companies that they invest in and 
+demanding changes in the way in which business is done. 
+They have been joined by private equity firms like KKR and 
+Blackstone.
+¨Activist individualslike Carl Icahn specialize in taking large 
+positions in companies which they feel need to change their 
+ways (Blockbuster, Time Warner, Motorola & Apple) and push 
+for change.
+¨Vocal stockholders, armed with more information and new 
+powers: At annual meetings, stockholders have taken to 
+expressing their displeasure with incumbent management by 
+voting against their compensation contracts or their board of 
+directors
+65
+The Hostile Acquisition Threat
+Aswath Damodaran
+65
+¨The typical target firm in a hostile takeover has
+¤a return on equity almost 5% lower than its peer group
+¤had a stock that has significantly under performed the peer 
+group over the previous 2 years
+¤has managers who hold little or no stock in the firm
+¨In other words, the best defense against a hostile 
+takeover is to run your firm well and earn good returns 
+for your stockholders
+¨Conversely, when you do not allow hostile takeovers, this 
+is the firm that you are most likely protecting (and not a 
+well run or well managed firm)
+66
+In response, boards are becoming more 
+independent…
+Aswath Damodaran
+66
+¨Boards have become smaller over time. The median size of a board 
+of directors has decreased from 16 to 20 in the 1970s to between 9 
+and 11 in 1998. The smaller boards are less unwieldy and more 
+effective than the larger boards.
+¨There are fewer insiders on the board. In contrast to the 6 or more 
+insiders that many boards had in the 1970s, only two directors in 
+most boards in 1998 were insiders. 
+¨Directors are increasingly compensated with stock and options in 
+the company, instead of cash. In 1973, only 4% of directors 
+received compensation in the form of stock or options, whereas 
+78% did so in 1998. 
+¨More directors are identified and selected by a nominating 
+committee rather than being chosen by the CEO of the firm. In 
+1998, 75% of boards had nominating committees; the comparable 
+statistic in 1973 was 2%.
+67
+Disney: Eisner’s rise & fall from grace
+¨ In his early years at Disney, Michael Eisner brought about long-delayed changes in 
+the company and put it on the path to being an entertainment giant that it is 
+today. His success allowed him to consolidate power and the boards that he 
+created were increasingly captive ones (see the 1997 board).
+¨ In 1996, Eisner spearheaded the push to buy ABC and the board rubberstamped 
+his decision, as they had with other major decisions. In the years following, the 
+company ran into problems both on its ABC acquisition and on its other 
+operations and stockholders started to get restive, especially as the stock price 
+halved between 1998 and 2002. 
+¨ In 2003, Roy Disney and Stanley Gold resigned from the Disney board, arguing 
+against Eisner’s autocratic style. 
+¨ In  early 2004, Comcast made a hostile bid for Disney and later in the year, 43% of 
+Disney shareholders withheld their votes for Eisner’s reelection to the board of 
+directors. Following that vote, the board of directors at Disney voted unanimously 
+to elect George Mitchell as the Chair of the board, replacing Eisner, who vowed to 
+stay on as CEO.
+Aswath Damodaran
+68
+Eisner’s concession: Disney’s Board in 2003
+Aswath Damodaran
+68
+Board Members Occupation
+Reveta Bowers Head of school for the Center for Early Education,
+John Bryson CEO and Chairman of Con Edison
+Roy Disney Head of Disney Animation
+Michael Eisner CEO of Disney
+Judith Estrin CEO of Packet Design (an internet company)
+Stanley Gold CEO of Shamrock Holdings
+Robert Iger Chief Operating Officer, Disney
+Monica Lozano Chief Operation Officer, La Opinion (Spanish newspaper)
+George Mitchell Chairman of law firm (Verner, Liipfert, et al.)
+Thomas S. Murphy Ex-CEO, Capital Cities ABC
+Leo O’Donovan Professor of Theology, Georgetown University
+Sidney Poitier Actor, Writer and Director
+Robert A.M. Stern Senior Partner of Robert A.M. Stern Architects of New York
+Andrea L. Van de KampChairman of Sotheby's West Coast
+Raymond L. Watson Chairman of Irvine Company (a real estate corporation)
+Gary L. Wilson Chairman of the board, Northwest Airlines.
+69
+Changes in corporate governance at Disney
+Aswath Damodaran
+69
+1. Required at least two executive sessions of the board, without the CEO 
+or other members of management present, each year . 
+2. Created the position of non-management presiding director, and 
+appointed Senator George Mitchell to lead those executive sessions and 
+assist in setting the work agenda of the board. 
+3. Adopted a new and more rigorous definition of director independence. 
+4. Required that a substantial majority of the board be comprised of 
+directors meeting the new independence standards. 
+5. Provided for a reduction in committee size and the rotation of 
+committeeand chairmanship assignments among independent 
+directors. 
+6. Added new provisions for management succession planningand 
+evaluations of both management and board performance
+7. Provided for enhanced continuing education and training for board 
+members.
+70
+Eisner’s exit… and a new age dawns? Disney’s board 
+in 2008
+Aswath Damodaran
+70
+71
+But as a CEO’s tenure lengthens, does 
+corporate governance suffer?
+¨In 2011, Igerannounced his intent to step down as 
+CEO in 2015 to allow a successor to be groomed.  
+¨The board voted reinstate Igeras chair of the board 
+in 2011, reversing a decision made to separate the 
+CEO and Chair positions after the Eisner years. 
+¨There were signs of restiveness among Disney’s 
+stockholders, especially those interested in 
+corporate governance. Activist investors (CalSTRS) 
+started making noise and  Institutional Shareholder 
+Services (ISS), which gauges corporate governance at 
+companies, raised red flags about compensation and 
+board monitoring at Disney. 
+Aswath Damodaran
+72
+Iger’snon-exit, the domino effect and a 
+resolution?
+¨In 2015 but Disney’s board convinced Igerto stay on as 
+CEO for an extra year, for the “the good of the company”. 
+¤In 2016, Thomas Staggs who was considered heir apparent to 
+Igerleft Disney. Others who were considered potential CEOs also 
+left.
+¤In 2017, Disney acquired Fox and announced that Iger’sterm 
+would be extended to 2019 (and perhaps beyond) because his 
+stewardship was essential for the merger to work.
+¨In February 2020, Igerstepped down as CEO (but stayed 
+on as Exec Chair until Dec 2021), and Bob Chapek, head 
+of Disney Theme Parks, took his place. Disney’s stock 
+price dropped about 8% in the immediate aftermath.
+Aswath Damodaran
+72
+73
+A Life Cycle View of CEOs
+74
+The Compressed Tech Life Cycle
+Aswath Damodaran
+74
+75
+The Bondholders’Defense Against 
+Stockholder Excesses
+Aswath Damodaran
+75
+¨More restrictive covenants on investment, financing and dividend 
+policy have been incorporated into both private lending 
+agreements and into bond issues, to prevent future “Nabiscos”.
+¨New types of bonds have been created to explicitly protect 
+bondholders against sudden increases in leverage or other actions 
+that increase lender risk substantially. Two examples of such bonds
+¤Puttable Bonds, where the bondholder can put the bond back to the firm 
+and get face value, if the firm takes actions that hurt bondholders
+¤Ratings Sensitive Notes, where the interest rate on the notes adjusts to 
+that appropriate for the rating of the firm
+¨More hybrid bonds (with an equity component, usually in the form 
+of a conversion option or warrant) have been used. This allows 
+bondholders to become equity investors, if they feel it is in their 
+best interests to do so.
+76
+The Financial Market Response
+Aswath Damodaran
+76
+¨While analysts are more likely still to issue buy rather 
+than sell recommendations, the payoff to uncovering 
+negative news about a firm is large enough that such 
+news is eagerly sought and quickly revealed (at least to a 
+limited group of investors). 
+¨As investor access to information improves, it is 
+becoming much more difficult for firms to control when 
+and how information gets out to markets.
+¨As option trading has become more common, it has 
+become much easier to trade on bad news. In the 
+process, it is revealed to the rest of the market.
+¨When firms mislead markets, the punishment is not only 
+quick but it is savage.
+77
+The Societal Response
+Aswath Damodaran
+77
+¨Iffirmsconsistentlyfloutsocietalnormsandcreate
+largesocialcosts,thegovernmentalresponse
+(especiallyinademocracy)isforlawsand
+regulationstobepassedagainstsuchbehavior.
+¨Forfirmscateringtoamoresociallyconscious
+clientele,thefailuretomeetsocietalnorms(evenif
+itislegal)canleadtolossofbusinessandvalue.
+¨Finally,investorsmaychoosenottoinvestinstocks
+offirmsthattheyviewassociallyirresponsible.
+78
+The Self-Correction?
+Aswath Damodaran
+78
+STOCKHOLDERS
+Managers of poorly 
+run firms are put
+on notice.
+1. More activist
+investors
+2. Hostile takeovers
+BONDHOLDERS
+Protect themselves
+1. Covenants
+2. New Types
+FINANCIAL MARKETS
+SOCIETYManagers
+Firms are
+punished
+for misleading
+markets
+Investors and
+analysts become
+more skeptical
+Corporate Good Citizen Constraints
+1. More laws
+2. Investor/Customer Backlash
+79
+Constrained Corporatism
+Aswath Damodaran
+79
+80
+The Modified Objective Function
+Aswath Damodaran
+80
+¨For publicly traded firms in reasonably efficient markets, 
+where bondholders (lenders) are protected:
+¤Maximize Stock Price: This will also maximize firm value
+¨For publicly traded firms in inefficient markets, where 
+bondholders are protected:
+¤Maximize stockholder wealth: This will also maximize firm value, 
+but might not maximize the stock price
+¨For publicly traded firms in inefficient markets, where 
+bondholders are not fully protected
+¤Maximize firm value, though stockholder wealth and stock 
+prices may not be maximized at the same point.
+¨For private firms, maximize stockholder wealth (if 
+lenders are protected) or firm value (if they are not)
+THE INVESTMENT PRINCIPLE: 
+RISK AND RETURN MODELS
+“You cannot swing upon a rope that is attached only 
+to your own belt.”
+Aswath Damodaran 81
+82
+First Principles
+Aswath Damodaran
+82
+83
+The notion of a benchmark 
+Aswath Damodaran
+83
+¨Since financial resources are finite, there is a hurdle that 
+projects have tocross before being deemed acceptable. 
+This hurdle should be higher for riskier projects than for 
+safer projects.
+¨A simple representation of the hurdle rate is as follows:
+Hurdle rate    = Riskless Rate + Risk Premium
+¨The two basic questions that every risk and return model 
+in finance tries to answer are:
+¤How do you measure risk?
+¤How do you translate this risk measure into a risk premium?
+84
+What is Risk?
+Aswath Damodaran
+84
+¨Risk, in traditional terms, is viewed as a ‘negative’. 
+Webster’s dictionary, for instance, defines risk as “exposing 
+to danger or hazard”. The Chinese symbols for risk, 
+reproduced below, give a much better description of risk
+危机
+¨The first symbol is the symbol for “danger”, while the second 
+is the symbol for “opportunity”, making risk a mix of danger 
+and opportunity. You cannot have one, without the other .
+¨Risk is therefore neither good nor bad. It is just a fact of life. 
+The question that businesses have toaddress is therefore not 
+whether to avoid risk but how best to incorporate it into their 
+decision making.
+85
+A good risk and return model should…
+Aswath Damodaran
+85
+1. It should come up witha measure of risk that applies to all assets 
+and not be asset-specific.
+2. It should clearly delineate what types of risk are rewarded and 
+what are not, andprovide a rationale for the delineation.
+3. It should come up withstandardized risk measures, i.e., an 
+investor presented with a risk measure for an individual asset 
+should be able to draw conclusions about whether the asset is 
+above-average or below-average risk.
+4. It should translate the measure of risk into a rate of return that 
+the investor should demand as compensation for bearing the risk.
+5. It should work well not only at explaining past returns, but also in 
+predicting future expected returns.
+86
+The Capital Asset Pricing Model
+Aswath Damodaran
+86
+1. Uses variance of actual returns around an expected 
+return as a measure of risk.
+2. Specifies that a portion of variance can be diversified 
+away, and that is only the non-diversifiable portion that 
+is rewarded.
+3. Measures the non-diversifiable risk with beta, which is 
+standardized around one.
+4. Translates beta into expected return -
+Expected Return =  Riskfreerate + Beta * Risk Premium
+5. Works as well as the next best alternative in most 
+cases.
+87
+1. The Mean-Variance Framework
+Aswath Damodaran
+87
+¨The variance on any investment measures the disparity 
+between actual and expected returns. 
+Expected Return
+Low Variance Investment
+High Variance Investment
+88
+How risky is Disney? A look at the past…
+Aswath Damodaran
+88
+-25.00%
+-20.00%
+-15.00%
+-10.00%
+-5.00%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+Oct-08
+De c-0 8
+Feb-09
+Apr-09
+Jun- 09
+Aug-09
+Oct-09
+De c-0 9
+Feb-10
+Apr-10
+Jun- 10
+Aug-10
+Oct-10
+De c-1 0
+Feb-11
+Apr-11
+Jun- 11
+Aug-11
+Oct-11
+De c-1 1
+Feb-12
+Apr-12
+Jun- 12
+Aug-12
+Oct-12
+De c-1 2
+Feb-13
+Apr-13
+Jun- 13
+Aug-13
+Returns on Disney -2008-2013 
+Average monthly return = 1.65%
+Average monthly standard deviation = 7.64%
+Average annual return = 21.70%
+Average annual standard deviation = 26.47%
+89
+Do you live in a mean-variance world?
+Aswath Damodaran
+89
+¨Assume that you had to pick between two investments. They 
+have the same expected return of 15% and the same 
+standard deviation of 25%; however, investment A offers a 
+very small possibility that you could quadruple your money, 
+while investment B’s highest possible payoff is a 60% return. 
+Would you
+a. be indifferent between the two investments, since they have the 
+same expected return and standard deviation?
+b. prefer investment A, because of the possibility of a high payoff?
+b. prefer investment B, because it is safer?
+¨Would your answer change if you were not told that there is a 
+small possibility that you could lose 100% of your money on 
+investment A but that your worst casescenario with 
+investment B is -50%?
+90
+2. The Importance of Diversification: Risk Types
+Aswath Damodaran
+90
+Actions/Risk that 
+affect only one 
+firm
+Actions/Risk that 
+affect all investments
+Firm-specific Market
+Projects may
+do better or
+worse than
+expected
+Competition
+may be stronger
+or weaker than
+anticipated
+Entire Sector
+may be affected
+by action
+Exchange rate
+and Political
+risk
+Interest rate,
+Inflation & 
+news about 
+economy
+Figure 3.5: A Break Down of Risk
+Affects few
+firms
+Affects many
+firms
+Firm can 
+reduce by
+Investing in lots 
+of projects
+Acquiring 
+competitors
+Diversifying 
+across sectors
+Diversifying 
+across countries
+Cannot affect
+Investors 
+can 
+mitigate by
+Diversifying across domestic stocks Diversifying across 
+asset classes 
+Diversifying globally
+91
+Why diversification reduces/eliminates 
+firm specific risk
+Aswath Damodaran
+91
+¨Firm-specific risk can be reduced, if not eliminated, by 
+increasing the  number of investments in your portfolio
+(i.e., by being diversified). Market-wide risk cannot. This 
+can be justified on either economic or statistical 
+grounds.
+¨On economic grounds, diversifying and holding a larger 
+portfolio eliminates firm-specific risk for two reasons-
+a. Each investment is a much smaller percentage of the portfolio, 
+muting the effect (positive or negative) on the overall 
+portfolio.
+b. Firm-specific actions can be either positive or negative. In a 
+large portfolio, it is argued, these effects will average out to 
+zero. (For every firm, where something bad happens, there will 
+be some other firm, where something good happens.)
+92
+The Role of the Marginal Investor
+Aswath Damodaran
+92
+¨The marginal investor in a firm is the investor who is 
+most likely to be the buyer or seller on the next trade 
+and to influence the stock price. 
+¨Generally speaking, themarginal investor in a stock has 
+toown a lot of stock and alsotrade that stock on a 
+regular basis.
+¨Since trading is required, the largest investor may not be 
+the marginal investor, especially if he or she is a 
+founder/manager of the firm (Larry Ellison at Oracle, 
+Mark Zuckerbergat Facebook)
+¨In all risk and return models in finance, we assume that 
+the marginal investor is well diversified.
+101
+Application Test: Who is the marginal investor in 
+your firm?
+Aswath Damodaran
+101
+¨You can get information on insider and institutional 
+holdings in your firm from:
+¤http://finance.yahoo.com/
+¤Enter your company’s symbol and choose profile.
+¨Looking at the breakdown of stockholders in your 
+firm, consider whether the marginal investor is
+¤An institutional investor 
+¤An individual investor
+¤An insider

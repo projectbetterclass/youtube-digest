@@ -1,0 +1,355 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr23/session25slides.pdf
+
+131
+Why the coefficient on the regression is 
+duration..
+Aswath Damodaran
+131
+¨The duration of a straight bond or loan issued by a company 
+can be written in terms of the coupons (interest payments) 
+on the bond (loan) and the face value of the bond to be –
+¨The duration of a bond measures how much the price of the 
+bond changes for a unit change in interest rates.
+¨Holding other factors constant, the duration of a bond will 
+increase with the maturity of the bond, and decrease with 
+the coupon rate on the bond.
+Duration of Bond = dP/P
+dr/r = 
+t*Coupont
+(1+r)t
+t=1
+t=N
+∑ +N*Face Value
+(1+r)N
+"
+#
+$
+%
+&
+'
+Coupont
+(1+r)t
+t=1
+t=N
+∑ +Face Value
+(1+r)N
+"
+#
+$
+%
+&
+'
+132
+Duration: Comparing Approaches
+Aswath Damodaran
+132
+           δP/δr=
+Percentage Change 
+in Value for a
+percentage change in 
+Interest Rates
+Traditional Duration
+Measures
+Regression:
+δP = a + b (δr)
+Uses:
+1. Projected Cash Flows
+Assumes:
+1. Cash Flows are unaffected by 
+changes in interest rates
+2. Changes in interest rates are 
+small.
+Uses:
+1. Historical data on changes in 
+firm value (market) and interest 
+rates
+Assumes:
+1. Past project cash flows are 
+similar to future project cash 
+flows.
+2. Relationship between cash 
+flows and interest rates is 
+stable.
+3. Changes in market value 
+reflect changes in the value of 
+the firm.
+133
+Operating Income versus Interest Rates
+Aswath Damodaran
+133
+¨Regressing changes in operating cash flow against 
+changes in interest rates over this period yields the 
+following regression –
+Change in Operating Income = 0.1698 –7.9339 (Change in Interest Rates) 
+(2.69a) (1.40)
+Conclusion: Disney’s operating income has been 
+affected a lot more than its firm value has by 
+changes in interest rates.
+134
+II. Sensitivity to Changes in GDP/ GNP
+Aswath Damodaran
+134
+¨How sensitive is the firm’s value and operating income 
+to changes in the GNP/GDP?
+¨The answer to this question is important because 
+¤it provides insight into whether the firm’s cash flows are cyclical 
+and
+¤whether the cash flows on the firm’s debt should be designed 
+to protect against cyclical factors.
+¨If the cash flows and firm value are sensitive to 
+movements in the economy, the firm will either have to 
+issue less debt overall, or add special features to the 
+debt to tie cash flows on the debt to the firm’s cash 
+flows.
+135
+Regression Results
+Aswath Damodaran
+135
+¨Regressing changes in firm value against changes in the 
+GDP over this period yields the following regression –
+Change in Firm Value = 0.0067 + 6.7000 (GDP Growth)
+(0.06)(2.03a) 
+Conclusion: Disney is sensitive to economic growth
+¨Regressing changes in operating cash flow against 
+changes in GDP over this period yields the following 
+regression –
+Change in Operating Income = 0.0142 + 6.6443 ( GDP Growth)
+(0.13)(2.05a) 
+Conclusion: Disney’s operating income is sensitive to 
+economic growth as well.
+136
+III. Sensitivity to Currency Changes
+Aswath Damodaran
+136
+¨How sensitive is the firm’s value and operating 
+income to changes in exchange rates?
+¨The answer to this question is important, because
+¤it provides a measure of how sensitive cash flows and firm 
+value are to changes in the currency
+¤it provides guidance on whether the firm should issue debt 
+in another currency that it may be exposed to.
+¨If cash flows and firm value are sensitive to changes 
+in the dollar, the firm should
+¤figure out which currency its cash flows are in;
+¤and issued some debt in that currency
+137
+Regression Results
+Aswath Damodaran
+137
+¨Regressing changes in firm value against changes in the dollar over 
+this period yields the following regression –
+Change in Firm Value = 0.1774–0.5705 (Change in Dollar)
+(2.76) (0.67)
+Conclusion: Disney’s value is sensitive to exchange rate changes, 
+decreasing as the dollar strengthens. However, the effect is 
+statistically insignificant.
+¨Regressing changes in operating cash flow against changes in the 
+dollar over this period yields the following regression –
+Change in Operating Income = 0.1680 –1.6773 (Change in Dollar)
+(2.82a)(2.13a) 
+Conclusion: Disney’s operating income is more strongly impacted by 
+the dollar than its value is. A stronger dollar seems to hurt 
+operating income.
+138
+IV . Sensitivity to Inflation
+Aswath Damodaran
+138
+¨How sensitive is the firm’s value and operating 
+income to changes in the inflation rate?
+¨The answer to this question is important, because
+¤it provides a measure of whether cash flows are positively 
+or negatively impacted by inflation.
+¤it then helps in the design of debt; whether the debt 
+should be fixed or floating rate debt.
+¨If cash flows move with inflation, increasing 
+(decreasing) as inflation increases (decreases), the 
+debt should have a larger floating rate component.
+139
+Regression Results
+Aswath Damodaran
+139
+¨Regressing changes in firm value against changes in inflation over 
+this period yields the following regression –
+Change in Firm Value = 0.1855 + 2.9966 (Change in Inflation Rate)
+(2.96)(0.90)
+Conclusion: Disney’s firm value does seem to increase with inflation, but not 
+by much (statistical significance is low)
+¨Regressing changes in operating cash flow against changes in 
+inflation over this period yields the following regression –
+Change in Operating Income = 0.1919 + 8.1867 (Change in Inflation Rate)
+(3.43a) (2.76a)
+Conclusion: Disney’s operating income increases in periods when inflation 
+increases, suggesting that Disney does have pricing power .
+140
+Summarizing…
+Aswath Damodaran
+140
+¨Looking at the four macroeconomic regressions, we 
+would conclude that 
+¤Disney’s assets collectively have a duration of about 2.33 
+years
+¤Disney is increasingly affected by economic cycles
+¤Disney is hurt by a stronger dollar
+¤Disney’s operating income tends to move with inflation
+¨All of the regression coefficients have substantial 
+standard errors associated with them. One way to 
+reduce the error (a la bottom up betas) is to use 
+sector-wide averages for each of the coefficients.
+141
+Bottom-up Estimates
+Aswath Damodaran
+141
+These weights reflect 
+the estimated values of 
+the businesses
+142
+Recommendations for Disney
+Aswath Damodaran
+142
+¨The debt issued should be long term and should 
+have duration of about 4.3 years.
+¨A significant portion of the debt should be floating 
+rate debt, reflecting Disney’s capacity to pass 
+inflation through to its customers and the fact that 
+operating income tends to increase as interest rates 
+go up.
+¨Given Disney’s sensitivity to a stronger dollar, a 
+portion of the debt should be in foreign currencies. 
+The specific currency used and the magnitude of the 
+foreign currency debt should reflect where Disney 
+makes its revenues. One simple proxy is the 18% 
+that Disney derives in revenues from outside the US.
+143
+Analyzing Disney’s Current Debt
+Aswath Damodaran
+143
+¨Disney has $14.3 billion in interest-bearing debt with a face-value 
+weighted average maturity of 7.92 years. Allowing for the fact that the 
+maturity of debt is higher than the duration, this would indicate that 
+Disney’s debt may be a little longer than would be optimal, but not by 
+much.
+¨Of the debt, about 5.49% of the debt is in non-US dollar currencies (Indian 
+rupees and Hong Kong dollars), but the rest is in US dollars and the 
+company has no Euro debt. Based on our analysis, we would suggest that 
+Disney increase its proportion of Euro debt to about 12% and tie the 
+choice of currency on future debt issues to its expansion plans.
+¨Disney has no convertible debt and about 5.67% of its debt is floating rate 
+debt, which looks low , given the company’s pricing power . While the mix 
+of debt in 2013 may be reflective of a desire to lock in low long-term 
+interest rates on debt, as rates rise, the company should consider 
+expanding its use of foreign currency debt.
+144
+Adjusting Debt at Disney
+Aswath Damodaran
+144
+¨It can swap some of its existing fixed rate, dollar debt for 
+floating rate, foreign currency debt. Given Disney’s 
+standing in financial markets and its large market 
+capitalization, this should not be difficult to do.
+¨If Disney is planning new debt issues, either to get to a 
+higher debt ratio or to fund new investments, it can use 
+primarily floating rate, foreign currency debt to fund 
+these new investments. Although it may be mismatching 
+the funding on these investments, its debt matching will 
+become better at the company level.
+145
+Debt Design for Bookscape & Vale
+Aswath Damodaran
+145
+¨Bookscape:Given Bookscape’sdependence on revenues at its New York 
+bookstore, we would design the debt to be 
+Recommendation: Long-term, dollar denominated, fixed rate debt
+Actual: Long term operating lease on the store
+¨Vale:Vale’s mines are spread around the world, and it generates a large 
+portion of its revenues in China (37%). Its mines typically have very long 
+lives and require large up-front investments, and the costs are usually in 
+the local currencies, but its revenues are in US dollars.
+¤Recommendation: Long term, dollar-denominated debt (with hedging of local 
+currency risk exposure) and if possible, tied to commodity prices.
+¤Actual: The existing debt at Vale is primarily US dollar debt (65.48%), with an 
+average maturity of 14.70 years. All of the debt, as far as we can assess, is fixed 
+rate and there is no commodity-linked debt.
+146
+And for Tata Motors and Baidu
+¨Tata Motors: As an manufacturing firm, with big chunks of its 
+of its revenues coming from India and China (about 24% 
+apiece) and the rest spread across developed markets.
+¤Recommendation: Medium to long term, fixed rate debt in a mix of 
+currencies reflecting operations.
+¤Actual:  The existing debt at Tata Motors is a mix of Indian rupee debt 
+(about 71%) and Euro debt (about 29%), with an average maturity of 
+5.33 years and it is almost entirely fixed rate debt.
+¨Baidu:Baidu has relatively little debt at the moment, 
+reflecting its status as a young, technology company. 
+¤Recommendation: Convertible, Chinese Yuan debt. 
+¤Actual: About 82% of Baidu’s debt is in US dollars and Euros currently, 
+with an average maturity of 5.80 years. A small portion is floating rate 
+debt, but very little of the debt is convertible. 
+Aswath Damodaran
+146
+RETURNING CASH TO THE 
+OWNERS: DIVIDEND POLICY
+“Companies don’t have cash. They hold cash for 
+their stockholders.”
+Aswath Damodaran 147
+148
+First Principles
+Aswath Damodaran
+148
+149
+Steps to the Dividend Decision… if it is 
+treated as a residual claim
+Aswath Damodaran
+149
+150
+The Roots of Dividend Dysfunction
+¨In practice, dividend policy is dysfunctional and does 
+not follow the logical process of starting with your 
+investment opportunities and working your way 
+down to residual cash.
+¨The two dominant factors driving dividend policy 
+around the world are:
+¤Inertia: Companies seem to hate to let of their past, when 
+it comes to dividend policy.
+¤Me-too-ism: Companies want to behave like their peer 
+group.
+Aswath Damodaran
+150
+151
+I. Dividends are sticky
+Aswath Damodaran
+151
+152
+In 2020, a crisis year for many companies…here is 
+what they did..
+Aswath Damodaran
+152
+¨Of the S&P 500 companies, 287 companies increased 
+their dividends and 11 companies initiated dividends.
+¨Of the S&P 500 companies, 27 decreased dividends and 
+42 suspended dividends.
+¨While the 42 dividend suspensions were the most in the last 20 
+years, the number of companies that increased divbidends(298) 
+vastly exceeded the number that cut or suspended dividends 
+(69).
+¨In perhaps the most revealing statistic of all, 133 of the 500 
+largest market cap companies did not pay dividends leading into 
+2020 or in 2020.
+153
+II. Dividends tend to follow earnings
+Aswath Damodaran
+153
+III. Are affected by changes in tax laws…
+In 2003
+ In the last quarter of 2012
+¨As the possibility of tax rates 
+reverting back to pre-2003 
+levels rose, 233 companies 
+paid out $31 billion in 
+dividends.
+¨Of these companies, 101 
+had insider holdings in 
+excess of 20% of the 
+outstanding stock. Tax rates on dividends brought 
+down to the tax rate on capital 
+gains in 2003

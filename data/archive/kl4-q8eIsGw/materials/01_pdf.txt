@@ -1,0 +1,239 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr23/session4slides.pdf
+
+46
+A test of your social consciousness: 
+Put your money where you mouth is…
+Aswath Damodaran
+46
+¨Assume that you work for Disney and that you have an opportunity 
+to open a store in an inner-city neighborhood. The store is 
+expected to lose about a million dollars a year, but it will create 
+much-needed employment in the area and may help revitalize it.
+¨Would you open the store?
+¤Yes
+¤No
+¨If yes, would you tell your stockholders and let them vote on the 
+issue?
+¤Yes
+¤No
+¨If no, how would you respond to a stockholder query on why you 
+were not living up to your social responsibilities?
+47
+Put simply, traditional corporate financial 
+theory breaks down when ...
+Aswath Damodaran
+47
+¨Managerial self-interest drives decision making: The 
+interests/objectives of the decision makers in the firm 
+conflict with the interests of stockholders.
+¨Debt holders are unprotected: Bondholders (Lenders) 
+are not protected against expropriation by stockholders.
+¨Markets are inefficient and prices don’t reflect value: 
+Financial markets do not operate efficiently, and stock 
+prices do not reflect the underlying value of the firm.
+¨Businesses create large side costs for society 
+(externalitirs): Significant social costs can be created as a 
+by-product of stock price maximization.
+48
+When traditional corporate financial theory 
+breaks down, the solution is:
+Aswath Damodaran
+48
+¨A non stockholder-based governance system: To choose a 
+different mechanism for corporate governance, i.e, assign the 
+responsibility for monitoring managers to someone other 
+than stockholders.
+¨A better objective than maximizing stock prices?To choose a 
+different objective for the firm, either by shifting to a 
+different metric or stakeholder group(s).
+¨Maximize stock prices but minimize side costs: To maximize 
+stock price, but reduce the potential for conflict and 
+breakdown:
+¤Making managers (decision makers) and employees into stockholders
+¤Protect lenders from expropriation
+¤By providing information honestly and promptly to financial markets
+¤Minimize social costs
+49
+I. An Alternative Corporate Governance System
+Aswath Damodaran
+49
+¨Germany and Japan developed a different mechanism for 
+corporate governance, based upon corporate cross holdings. 
+¤In Germany, the banks form the core of this system.
+¤In Japan, it is the keiretsus
+¤Other Asian countries have modeled their system after Japan, with family 
+companies forming the core of the new corporate families
+¨At their best, the most efficient firms in the group work at bringing 
+the less efficient  firms up to par . They provide a corporate welfare 
+system that makes for a more stable corporate structure
+¨At their worst, the least efficient and poorly run firms in the group 
+pull down the most efficient and best run firms down. The nature 
+of the cross holdings makes its very difficult for outsiders (including 
+investors in these firms) to figure out how well or badly the group 
+is doing.
+50
+One End game: Managerial Corporatism
+Aswath Damodaran
+50
+51
+A Skewed Version: Crony Corporatism
+Aswath Damodaran
+51
+52
+IIa. Choose a Different Metric to Maximize
+Aswath Damodaran
+52
+¨Firms can always focus on a different objective function. 
+Examples would include
+¤maximizing earnings
+¤maximizing revenues
+¤maximizing firm size
+¤maximizing market share
+¤maximizing EVA
+¨The key thing to remember is that these are 
+intermediate objective functions. 
+¤To the degree that they are correlated with the long-term health 
+and value of the company, they work well.
+¤To the degree that they do not, the firm can end up with a 
+disaster
+53
+IIb. Maximize stakeholder wealth
+¨A fairness argument:  To the extent that shareholder 
+wealth maximization seems to, at least at first sight, put 
+all other stakeholders in the back seat, it seems unfair .
+¨An Easy Fix? The logical response seems to be 
+stakeholder wealth maximization, where the collective 
+wealth of all stakeholders is maximized. That is the 
+promise of stakeholder wealth maximization.
+¨Protective response: As corporations have found 
+themselves losing the battle for public opinions, many 
+CEOs and even some institutional investors seem to have 
+bought into this idea.
+Aswath Damodaran
+53
+54
+The Business Roundtable’s Message..
+¨While each of our individual companies serves its own corporate purpose, 
+we share a fundamental commitment to all ofour stakeholders. We 
+commit to:
+¤Delivering value to our customers. We will further the tradition of American 
+companies leading the way in meeting or exceeding customer expectations.
+¤Investing in our employees. This starts with compensating them fairly and 
+providing important benefits. It also includes supporting them through training and 
+education that help develop new skills for a rapidly changing world. We foster 
+diversity and inclusion, dignity and respect.
+¤Dealing fairly and ethically with our suppliers.We are dedicated to serving as 
+good partners to the other companies, large and small, that help us meet our 
+missions.
+¤Supporting the communities in which we work. We respect the people in our 
+communities and protect the environment by embracing sustainable practices 
+across our businesses.
+¤Generating long-term value for shareholders, who provide the capital that allows 
+companies to invest, grow and innovate. We are committed to transparency and 
+effective engagement with shareholders
+55
+Confused Corporatism
+Aswath Damodaran
+55
+56
+If confused corporatism sounds like a good 
+deal, some cautionary notes..
+¨Government-owned companies: The managers of these 
+companies were given a laundry list of objectives, resembling 
+in large part the listing of stakeholder objectives, and told to 
+deliver on them all. The end results were some of the most 
+inefficient companies on the face of the earth, with every 
+stakeholder group feeling ill-served in the process. 
+¨US research universities: These entities lack a central focus, 
+where whose interests dominate and why shifts, depending 
+on who you talk to and when. The end resultis not just 
+economically inefficient operations, capable of running a 
+deficit no matter how much tuition is collection, but one 
+where every stakeholder group feels aggrieved.
+57
+IIc. The ESG Promises: Cake for all, with no 
+calories!
+¨Good for companies: For companies, the promise is that 
+being "good" willgenerate higher profitsfor the 
+company, at least in thelong term, with lower risk, and 
+thus make them more valuable.
+¨Good for investors: For investors in these companies, the 
+promise is that investing in "good" companies 
+willgenerate higher returnsthan investing in "bad" or 
+middling companies.
+¨Good for society: For society, the promise is that not 
+only would good companies helpfight problems directly 
+related to ESG, like climate change and low wages, but 
+also counter more general problems like income 
+inequality and healthcare crises.
+58
+But what comprises goodness? The 
+services disagree..
+59
+1. ESG and Value: Where’s the beef?
+¨A Weak Link to Profitability: There is a small positive link between ESG and 
+profitability, but one that is very sensitive to how profits are measured 
+and over what period. Breaking down ESG into its component 
+parts,environment (E) offered the strongest positive link to performance 
+and social (S) the weakest, with governance (G) falling in the middle.
+¨A Stronger Link to Funding Costs, at least in energy/fossil fuels:Studies of 
+“sin” stocks, i.e., companies involved in businesses such as producing 
+alcohol, tobacco, and gaming, find that these stocks are less commonly 
+held by institutions and that they face higher costs for funding, from 
+equity and debt). While these companies face higher costs, and have 
+lower value, investors in these companies generate higher returns.
+¨And to Failure/Disaster Risk: “Bad” companies are exposed to disaster 
+risks, where a combination of missteps by the company, luck, and a failure 
+to build in enough protective controls (because they cost too much) can 
+cause a disaster, either in human or financial terms.
+60
+2. ESG and Returns: Mixed findings
+¨ Invest in bad companies: A comparisonof two Vanguard Index funds, the Vice 
+fund (invested in tobacco, gambling, and defense companies) and the FTSE Social 
+Index fund (invested in companies screened for good corporate behavior on 
+multiple dimensions) and note that a dollar invested in the former in August 2002 
+would have been worth almost 20% more by 2015 than a dollar invested in the 
+latter .
+¨ Invest in good companies: There are some studies that find that good companies 
+earn higher returns, but the outperformance is more due to factor and industry 
+tilts than to social responsiveness. (Put simply, for much of the last decade ESG 
+funds were tilted away from manufacturing/commodity and towards tech 
+companies, and it was a good decade for tech stocks).
+¨ ESG has no effect: Splitting the difference, there are other studies that find little 
+or no differences in returns between good and bad companies. In fact, studies 
+that more broadly look at factors that have driven stock returns for the last few 
+decades find that much of the positive payoff attributed to ESG comes from its 
+correlation with momentum and growth.
+61
+3. ESG and Society
+¨There are some who argue that even if ESG is bad for 
+companies and investors, it is good for society, because 
+companies will treat their customers and employees 
+better, while catering to their local communities.
+¨There are three fundamental flaws:
+¤Greenwashing: ESG allows companies to sound good, while not 
+doing good, and that it will allow for posturing and public 
+relation ploys that do little to advance public good. 
+¤Outsourcing goodness: It makes the CEOs the arbiters of 
+goodness and badness.
+¤Behind the curtain: Pressuring companies to invest in the good 
+and divest themselves or avoid the bad may only push bad 
+behavior to less observable and monitored parts of the 
+economy.
+62
+III. Maximize Stock Price, subject to ..
+Aswath Damodaran
+62
+¨The strength of the stock price maximization objective 
+function is its internal self correction mechanism. Excesses on 
+any of the linkages lead, if unregulated, to counter actions 
+which reduce or eliminate these excesses
+¨In the context of our discussion,
+¤managers taking advantage of stockholders can lead to a much more 
+active market for corporate control.
+¤stockholders taking advantage of bondholders can lead to bondholders 
+and lenders protecting themselves better .
+¤firms revealing incorrect or delayed information to markets can lead to 
+markets becoming more “skeptical”and “punitive”
+¤firms creating social costs can lead to more regulations, as well as 
+investor and customer backlashes.

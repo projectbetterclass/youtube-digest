@@ -1,0 +1,29 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session22soln.pdf
+
+Session	  22:	  	  Post	  class	  test	  solutions	  
+1. b.	  Companies	  are	  reluctant	  to	  change	  dividends	  per	  share.	  Companies	  try	  to	  
+maintain	  their	  dividends	  per	  share	  over	  time.	  They	  change	  dividends	  
+infrequently,	  and	  when	  they	  do,	  it	  is	  more	  likely	  to	  be	  an	  increase	  than	  a	  
+decrease.	  
+2. d.	  Companies	  feel	  much	  less	  secure	  or	  certain	  about	  future	  earnings.	  The	  
+tax	  disadvantage	  associated	  with	  dividends	  has	  actually	  decreased	  over	  the	  last	  
+three	  decades	  and	  the	  link	  between	  transactions	  costs	  or	  short	  termism	  with	  
+dividend	  policy	  is	  not	  clearly	  established.	  
+3. c.	  Dividend	  increases	  lag	  earnings	  increases.	  Companies	  tend	  to	  wait	  to	  make	  
+sure	  that	  earnings	  increases	  are	  sustainable	  before	  paying	  dividends.	  
+4. d.	  	  All	  of	  the	  above.	  Declining	  firms	  can	  sell	  assets	  and	  use	  the	  proceeds	  to	  pay	  
+more	  than	  their	  earnings	  as	  dividends.	  Cyclical	  firms	  tend	  to	  pay	  dividends	  
+based	  on	  average	  earnings	  over	  a	  cycle,	  which	  implies	  that	  dividends	  can	  be	  
+higher	  than	  earnings	  during	  the	  down	  cycle.	  Special	  dividends	  may	  represent	  
+cash	  accumulated	  in	  prior	  years	  and	  thus	  can	  push	  the	  dividend	  payout	  ratio	  
+over	  100%.	  
+5. b.	  $19.25.	  The	  stock	  price	  will	  drop	  on	  the	  ex	  dividend	  day.	  The	  magnitude	  of	  
+the	  drop	  can	  be	  computed	  by	  taking	  the	  following	  ratio:	  
+Price	  drop	  as	  %	  	  =	  (1-­‐	  tax	  rate	  on	  dividends)/	  (1-­‐	  tax	  rate	  on	  capital	  gains)	  
+	   	   =	  (1-­‐.40)	  /	  (1-­‐.20)	  =	  .75	  or	  75%	  
+Since	  the	  dividend	  is	  $1.00,	  the	  price	  drop	  is	  $0.75.	  
+6. False.	  The	  comparison	  should	  not	  be	  between	  dividends	  today	  and	  capital	  gains	  
+in	  the	  future	  but	  capital	  gains	  today,	  since	  the	  stock	  price	  drops	  when	  the	  
+dividend	  is	  paid.	  Thus,	  if	  the	  company	  did	  not	  pay	  a	  dividend,	  I	  could	  sell	  the	  
+stock	  today	  at	  the	  higher	  price	  but	  if	  it	  does,	  I	  receive	  the	  dividend	  and	  a	  lower	  
+price	  today.

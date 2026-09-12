@@ -1,0 +1,154 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate3for2022.pdf
+
+DATA UPDATE 3 FOR 2022: 
+INFLATION, INTEREST RATES AND 
+RETURNS!
+The Inflation Factor
+2
+Inflation is back.. Or not…
+Aswath Damodaran
+2
+¨Inflation numbers have been coming in high now, for more 
+than a year, but for much of the early part of 2021, bankers, 
+investors and politicians seemed to be either in denial or 
+casually dismissive of its potential for damage. 
+¤Initially, the high inflation numbers were attributed to the speed with 
+the economy was recovering from COVID, and once that excuse fell 
+flat, it was the supply chain that was help responsible. 
+¨By the end of 2021, it was clear that this bout of inflation was 
+not as transient a phenomenon as some had made it out to 
+be, and the big question leading in 2022, for investors and 
+markets, is how inflation will play out during the year, and 
+beyond, and the consequences for stocks, bonds and 
+currencies.
+3
+Inflation: Competing measures (of past 
+inflation)
+Aswath Damodaran
+3
+4
+And expected inflation…
+Aswath Damodaran
+4
+5
+With rising investors concerns…
+Aswath Damodaran
+5
+6
+Summing up.. Where we are now..
+¨The undeniable fact is that inflation came back in 2021, 
+but the question of why it happened, and whether it will 
+stay high, is hotly debated. 
+¤To those who believe that it is a spike that will dissipate over 
+time, it is another casualty of COVID, as a combination of virus-
+driven supply chain issues and government spending to offset 
+shutdowns has driven prices up. In this mostly benign story, 
+inflation will go back down, once these pressure ease, though it 
+is unclear to what level. 
+¤To others, and especially those old enough to remember the 
+1970s, it does seem like a return to more unsettled times, with 
+potentially dangerous consequences for the economy and 
+markets.
+7
+US Treasuries: The Year that was…
+8
+Corporate Bonds: The Year that was..
+9
+Interest Rates and Inflation
+10
+Expected and Unexpected Inflation
+¨It isexpected inflation that drives interest rates, and that the actual 
+inflation rate can come in above or belowexpectations. 
+¨There is a contrast betweenexpected and unexpected inflation, 
+arguing that financial assets are affected differently by each 
+component. 
+¤If expected inflation is high, but it is predictable, investors and businesses 
+have the opportunity to incorporate that inflation into their decision 
+making, with investors demanding higher interest rates on bond and 
+expected returns on stocks, and businesses raising prices on their 
+products/services to cover expected inflation. 
+¤Unexpected inflation is what catches us off guard, with unexpectedly high 
+inflation leading to a reassessment of pricing (for all financial assets) and 
+an uneven impact across businesses, leaving those with pricing power in a 
+better position than those without that power .
+11
+Unexpected Inflation and Financial 
+Assets…
+12
+With a follow up…
+13
+Unexpected Inflation and Stock 
+Groupings..
+14
+Unexpected Inflation and Real Asset 
+Returns..
+15
+Inflation and Currencies
+¨Much of this post has been about inflation in the US, 
+and by extension, in US dollar terms, it is worth 
+emphasizing that inflation is a currency-
+specificphenomenon. 
+¨While inflation in the US dollar, by dint of its status as 
+the currencyin which commodities are priced, can 
+sometimes spill over into other currencies, it remains 
+true thatyou can have highinflation in one currency, 
+while there is low inflation in other currencies. 
+¨Inflation differences across currencies play out in two 
+domains, with the first being interest rates in different 
+currencies and the other being exchange rate.
+16
+Currency Risk free Rates
+17
+Riskfree Rates and Differential Inflation
+¨I am using the default spreads based upon the local currency sovereign 
+ratings for the countries in question, with the government bond rate 
+being the risk free rate only for currencies where the issuinggovernment 
+in triple-A rated. I
+¨If you dislike this assumption, or do not believe that thegovernment bond 
+rate is a market-set number in a particular market, there is a second 
+approach, where you start with the risk free rate in US dollar or Euros, 
+and adjust it for differential inflation, i.e., the difference inexpected 
+inflation between the US and the countryin question:
+18
+Exchange Rates and Inflation
+¨Just asinterest rates in currencies aredetermined, in large 
+part, by inflationdifferentials,exchange rates over time are 
+also driven by those same inflationdifferentials. Drawing 
+onone of the oldest relationships in exchange rates, 
+purchasing power parity, you can extract the forward 
+exchange rate in a currency:
+19
+Investment Implications
+¨If you believe that inflation will stay high, not just in theUS, 
+butacross the globe, the exchange rate effects will be muted. 
+¨If, on the other hand, you believe that the inflation shock will vary 
+across countries, your actions will be more nuanced. 
+¤For the countries where you believe that local inflation will decrease, 
+relative to the US, the US dollar will weaken against their currencies, 
+augmenting returns you will earn in their markets (stock or bond). 
+¤For countries, where you see local inflationsurging more than you expect 
+to see in the US, the US dollar willstrengthen against their currencies, 
+reducing the returns youmake in their markets. 
+¨As with the discussion of asset returns, it is not expected inflation 
+that is the source of exchange rate risk, since you canincorporate 
+those expectations into exchange rates, but unexpected inflation, 
+which, when extreme, can cause significant revaluations 
+ofcurrencies.
+20
+Conclusion
+¨As with any historical data assessment, I could give you the 
+standardboilerplate disclaimer that past performance is not 
+always a good predictor of the past, but to the extent that the 
+past provides signals, your expectations of how inflation will 
+play out in thecoming year will play a key role inyourasset 
+allocation and stock selection decisions. 
+¤If you believe that last year's surge in inflation is a precursor to a long 
+time period when inflation is likely to stay high, and comein above 
+expectations, you should be shifting yourholdings away from financial 
+to real assets, andwithin your equityholdings, towards small cap 
+stocks, stocks trading at lower pricing multiples (PE, Price to Book) and 
+companies with more pricing power. 
+¤If, on the other hand, you believe that inflation worries are overdone, 
+and that there will be a reversion back to the low inflation that we 
+have seen in the last decade, staying invested in stocks, and especially 
+in larger cap and high growth stocks, even if richly priced, makes sense.

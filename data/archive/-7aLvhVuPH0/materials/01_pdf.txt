@@ -1,0 +1,431 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr24/session11slides.pdf
+
+193
+From Cost of Equity to Cost of Capital
+Aswath Damodaran
+193
+¨The cost of capital is a composite cost to the firm of 
+raising financing to fund its projects. 
+¨In addition to equity, firms can raise capital from 
+debt.
+¨To get to a cost of capital, you need to
+¤Estimate a cost of debt
+¤Estimate weights for debt and equity
+194
+What is debt?
+Aswath Damodaran
+194
+¨General Rule: Debt generally has the following 
+characteristics:
+¤Commitment to make fixed payments in the future
+¤The fixed payments are tax deductible
+¤Failure to make the payments can lead to either default or 
+loss of control of the firm to the party to whom payments 
+are due.
+¨As a consequence, debt should include
+¤Any interest-bearing liability, whether short term or long 
+term.
+¤Any lease obligation, whether operating or capital.
+195
+Estimating the Cost of Debt
+Aswath Damodaran
+195
+¨If the firm has bonds outstanding, and the bonds are traded, 
+the yield to maturity on a long-term, straight (no special 
+features) bond can be used as the interest rate.
+¨If the firm is rated, use the rating and a typical default spread 
+on bonds with that rating to estimate the cost of debt.
+¨If the firm is not rated, 
+¤and it has recently borrowed long term from a bank, use the interest 
+rate on the borrowing or
+¤estimate a synthetic rating for the company, and use the synthetic 
+rating to arrive at a default spread and a cost of debt
+¨The cost of debt has tobe estimated in the same currency as 
+the cost of equity and the cash flows in the valuation.
+196
+The easy route: Outsourcing the 
+measurement of default risk
+¨For those firms that have bond ratings from global 
+ratings agencies, I used those ratings:
+¨If you want to estimate Vale’s cost of debt in $R 
+terms, we can again use the differential inflation 
+approach we used for the cost of equity:
+Aswath Damodaran
+Company S&P Rating Risk-Free Rate Default Spread Cost of Debt 
+Disney A 2.75% (US $) 1.00% 3.75% 
+Deutsche Bank A 1.75% (Euros) 1.00% 2.75% 
+Vale A- 2.75% (US $) 1.30% 4.05% 
+ 
+Cost of debtR$= (1+ Cost of debtUS $)   
+  = (1.0405)  = 11.19% 
+(1+Expected InflationR$)
+(1+Expected InflationUS $)−1
+197
+A more general route: Estimating Synthetic 
+Ratings
+¨The rating for a firm can be estimated using the 
+financial characteristics of the firm. In its simplest 
+form, we can use just the interest coverage ratio:
+Interest Coverage Ratio = EBIT / Interest Expenses
+¨For the non-financial service companies, we obtain 
+the following:
+Aswath Damodaran
+Company Operating income Interest Expense Interest coverage ratio 
+Disney $10.023 $444 22.57 
+Vale $15,667 $1,342 11.67 
+Tata Motors Rs 166,605 Rs 36,972 4.51 
+Baidu CY 11,193 CY 472 23.72 
+Bookscape $2,536 $492 5.16
+198
+Interest Coverage Ratios, Ratings and 
+Default Spreads-November 2013
+Disney: Large cap, developed 22.57  à AAA
+Va l e :  L a rg e  c a p ,  e m e rg i n g 11.67 à AA
+Tata Motors: Large cap, Emerging 4.51 à A-
+Baidu: Small cap, Emerging 23.72 à AAA
+Bookscape: Small cap, private 5.16 à A-
+Aswath Damodaran
+199
+Synthetic versus Actual Ratings: Rated 
+Firms
+¨Disney’s synthetic rating is AAA, whereas its actual rating is A. 
+The difference can be attributed to any of the following:
+¤Synthetic ratings reflect only the interest coverage ratio whereas 
+actual ratings incorporate all ofthe other ratios and qualitative factors
+¤Synthetic ratings do not allow for sector-wide biases in ratings
+¤Synthetic rating was based on 2013 operating income whereas actual 
+rating reflects normalized earnings
+¨Vale’s synthetic rating is AA, but the actual rating for dollar 
+debt is A-. The biggest factor behind the difference is the 
+presence of country risk, since Vale is probably being rated 
+lower for being a Brazil-based corporation.
+¨Deutsche Bank had an A rating. We will not try to estimate a 
+synthetic rating for the bank. Defining interest expenses on 
+debt for a bank is difficult…
+Aswath Damodaran
+200
+Estimating Cost of Debt
+¨For Bookscape, we will use the synthetic rating (A-) to estimate the cost of 
+debt:
+¤Default Spread based upon A-rating = 1.30%
+¤Pre-tax cost of debt = RiskfreeRate + Default Spread = 2.75% + 1.30% = 4.05%
+¤After-tax cost of debt = Pre-tax cost of debt (1-tax rate) = 4.05% (1-.40) = 2.43%
+¨For the three publicly traded firms that are rated in our sample, we will 
+use the actual bond ratings to estimate the costs of debt.
+¨For Tata Motors, we have a rating of AA-from CRISIL, an Indian bond-
+rating firm, that measures only company risk. Using that rating:
+Cost of debtTMT= Risk free rateRupees+ Default spreadIndia+ Default spreadTMT
+= 6.57% + 2.25% + 0.70% = 9.62%
+After-tax cost of debt = 9.62% (1-.3245) = 6.50%
+Aswath Damodaran
+Company S&P Rating Risk-Free Rate Default Spread Cost of Debt Tax Rate After-Tax Cost of Debt 
+Disney A 2.75% (US $) 1.00% 3.75% 36.1% 2.40% 
+Deutsche Bank A 1.75% (Euros) 1.00% 2.75% 29.48% 1.94% 
+Vale A- 2.75% (US $) 1.30% 4.05% 34% 2.67%
+201
+Default Spreads –January 2024
+Aswath Damodaran
+Aa a/A AAAa 2/AAA1/ A+ A2/ A A3/ A-Baa2/B B
+B Ba1/BB+Ba2/BB B1/B+ B2/B B3/B-Caa/CC CCa2/C C C2/C D2/D
+Sp read  20240.59% 0.70% 0.92% 1.07% 1.21% 1.47% 1.74% 2.21% 3.14% 3.61% 5.24% 8.51% 11.78%17.00%20.00%
+Sp read  20230.69% 0.85% 1.23% 1.42% 1.62% 2.00% 2.42% 3.13% 4.55% 5.26% 7.37% 11.57%15.78%17.50%20.00%
+Sp read  20220.67% 0.82% 1.03% 1.14% 1.29% 1.59% 1.93% 2.15% 3.15% 3.78% 4.62% 7.78% 8.80% 10.76%14.34%
+Sp read  20210.69% 0.85% 1.07% 1.18% 1.33% 1.71% 2.31% 2.77% 4.05% 4.86% 5.94% 9.46% 9.97% 13.09%17.44%
+Sp read  20200.63% 0.78% 0.98% 1.08% 1.22% 1.56% 2.00% 2.40% 3.51% 4.21% 5.15% 8.20% 8.64% 11.34%15.12%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+Corporate Bond Default Spreads
+202
+But some years are volatile: 2020 as a case 
+study..
+Aswath Damodaran
+202
+203
+Application Test: Estimating a Cost of Debt
+Aswath Damodaran
+203
+¨Based upon your firm’s current earnings before 
+interest and taxes, its interest expenses, estimate
+¤An interest coverage ratio for your firm
+¤A synthetic rating for your firm (use the tables from prior 
+pages)
+¤A pre-tax cost of debt for your firm
+¤An after-tax cost of debt for your firm
+204
+Costs of Hybrids
+Aswath Damodaran
+204
+¨Preferred stock shares some of the characteristics of 
+debt -the preferred dividend is pre-specified at the time 
+of the issue and is paid out before common dividend --
+and some of the characteristics of equity -the payments 
+of preferred dividend are not tax deductible. If preferred 
+stock is viewed as perpetual, the cost of preferred stock 
+can be written as follows:
+¤ kps = Preferred Dividend per share/ Market Price per 
+preferred share
+¨Convertible debt is part debt (the bond part) and part 
+equity (the conversion option). It is best to break it up 
+into its component parts and eliminate it from the mix 
+altogether .
+205
+Weights for Cost of Capital Calculation
+Aswath Damodaran
+205
+¨The weights used in the cost of capital computation should be 
+market values. 
+¨There are three specious arguments used against market 
+value
+¤Book value is more reliable than market value because it is not as 
+volatile: While it is true that book value does not change as much as 
+market value, this is more a reflection of weakness than strength
+¤Using book value rather than market value is a more conservative 
+approach to estimating debt ratios: For most companies, using book 
+values will yield a lower cost of capital than using market value 
+weights.
+¤Since accounting returns are computed based upon book value, 
+consistency requires the use of book value in computing cost of capital: 
+While it may seem consistent to use book values for both accounting 
+return and cost of capital calculations, it does not make economic 
+sense.
+206
+Disney: From book value to market value 
+for interest bearing debt…
+¨ In Disney’s 2013 financial statements, the debt due over time was footnoted.
+¨ Disney’s total debt due, in book value terms, on the balance sheet is $14,288 
+million and the total interest expense for the year was $349 million. Using 3.75% 
+as the pre-tax cost of debt:
+Estimated MV of Disney Debt = 
+Aswath Damodaran
+Time dueAmount due Weight Weight 
+*Maturity
+0.5 $1,452 11.96% 0.06
+2 $1,300 10.71% 0.21
+3 $1,500 12.36% 0.37
+4 $2,650 21.83% 0.87
+6 $500 4.12% 0.25
+8 $1,362 11.22% 0.9
+9 $1,400 11.53% 1.04
+19 $500 4.12% 0.78
+26 $25 0.21% 0.05
+28 $950 7.83% 2.19
+29 $500 4.12% 1.19
+$12,139 7.92
+349
+(1− 1
+(1.0375)7.92
+.0375
+"
+#
+$
+$
+$
+$
+%
+&
+'
+'
+'
+'
++14,288
+(1.0375)7.92=$13,028 million
+The debt in this table does 
+not add up to the book value 
+of debt, because Disney 
+does not break down the 
+maturity of all ofits debt.
+PV of annuity of $349 
+million for 7.92 years 
+PV of face value of $14,288 
+million in 7.92 years
+207
+Operating Leases at Disney
+¨The “debt value”of operating leases is the present 
+value of the lease payments, at a rate that reflects 
+their risk, usually the pre-tax cost of debt.
+¨The pre-tax cost of debt at Disney  is 3.75%. 
+¨Debt outstanding at Disney = $13,028 + $ 2,933= $15,961 million
+Disney reported $1,784 million 
+in commitments after year 5. 
+Given that their average 
+commitment over the first 5 
+years, we assumed 5 years @ 
+$356.8  million each.
+Aswath Damodaran
+Year Commitment Present Value @3.75% 
+1  $507.00   $488.67  
+2  $422.00   $392.05  
+3  $342.00   $306.24  
+4  $272.00   $234.76  
+5  $217.00   $180.52  
+ 6-10  $356.80   $1,330.69  
+Debt value of leases $2,932.93
+208
+Accounting comes to its senses on 
+operating leases
+¨In 2019, both IFRS and GAAP made a major shift on 
+operating leases, requiring companies to capitalize 
+leases and show the resulting debt (and counter 
+asset) on the balance sheets.
+¨That said, the accounting rules for capitalizing leases 
+are far more complex than the simple calculations 
+that I have used, for two reasons:
+¤Accounting has tobalance its desire to do the right thing 
+with maintaining some connection to its legacy rules.
+¤Companies have lobbied to modify rules in their sectors to 
+cushion the impact.
+Aswath Damodaran
+208
+209
+Application Test: Estimating Market Value
+Aswath Damodaran
+209
+¨Estimate the 
+¤Market value of equity at your firm and Book Value of 
+equity
+¤Market value of debt and book value of debt (If you cannot 
+find the average maturity of your debt, use 3 years): 
+Remember to capitalize the value of operating leases and 
+add them on to both the book value and the market value 
+of debt.
+¨Estimate the
+¤Weights for equity and debt based upon market value
+¤Weights for equity and debt based upon book value
+210
+Current Cost of Capital: Disney
+¨Equity
+¤Cost of Equity = Riskfreerate + Beta * Risk Premium
+=  2.75% + 1.0013 (5.76%) =  8.52%
+¤Market Value of Equity = $121,878 million
+¤Equity/(Debt+Equity) = 88.42%
+¨Debt
+¤After-tax Cost of debt =(Riskfreerate + Default Spread) (1-t)
+=  (2.75%+1%) (1-.361) = 2.40%
+¤Market Value of Debt = $13,028+ $2933 =$  15,961 million
+¤Debt/(Debt +Equity) = 11.58%
+¨Cost of Capital = 8.52%(.8842)+ 2.40%(.1158) = 7.81%
+121,878/ (121,878+15,961)
+Aswath Damodaran
+211
+Divisional Costs of Capital: Disney and Vale
+Disney
+Vale
+Aswath Damodaran
+!!
+Cost!of!
+equity!
+Cost!of!
+debt!
+Marginal!tax!
+rate!
+After6tax!cost!of!
+debt!
+Debt!
+ratio!
+Cost!of!
+capital!
+Media!Networks! 9.07%! 3.75%! 36.10%! 2.40%! 9.12%! 8.46%!
+Parks!&!Resorts! 7.09%! 3.75%! 36.10%! 2.40%! 10.24%! 6.61%!
+Studio!
+Entertainment! 9.92%! 3.75%! 36.10%! 2.40%! 17.16%! 8.63%!
+Consumer!Products! 9.55%! 3.75%! 36.10%! 2.40%! 53.94%! 5.69%!
+Interactive! 11.65%! 3.75%! 36.10%! 2.40%! 29.11%! 8.96%!
+Disney!Operations! 8.52%! 3.75%! 36.10%! 2.40%! 11.58%! 7.81%!
+ 
+Business 
+Cost of 
+equity 
+After-tax cost of 
+debt 
+Debt 
+ratio 
+Cost of capital (in 
+US$) 
+Cost of capital (in 
+$R) 
+Metals & 
+Mining 11.35% 2.67% 35.48% 8.27% 15.70% 
+Iron Ore 11.13% 2.67% 35.48% 8.13% 15.55% 
+Fertilizers 12.70% 2.67% 35.48% 9.14% 16.63% 
+Logistics 10.29% 2.67% 35.48% 7.59% 14.97% 
+Vale Operations 11.23% 2.67% 35.48% 8.20% 15.62%
+212
+Costs of Capital: Tata Motors, Baidu and 
+Bookscape
+¨To estimate the costs of capital for Tata Motors in Indian 
+rupees:
+Cost of capital= 14.49% (1-.2928) + 6.50% (.2928) = 12.15%
+¨For Baidu, we follow the same path to estimate a cost of 
+equity in Chinese RMB:
+Cost of capital = 12.91% (1-.0523) + 3.45% (.0523) = 12.42% 
+¨For Bookscape, the cost of capital is different depending on 
+whether you look at market or total beta:
+Aswath Damodaran
+ 
+Cost of 
+equity Pre-tax Cost of debt 
+After-tax cost of 
+debt D/(D+E) Cost of capital 
+Market Beta 7.46% 4.05% 2.43% 17.63% 6.57% 
+Total Beta 11.98% 4.05% 2.43% 17.63% 10.30%
+213
+Application Test: Estimating Cost of Capital
+Aswath Damodaran
+213
+¨Using the bottom-up unlevered beta that you computed for 
+your firm, and the values of debt and equity you have 
+estimated for your firm, estimate a bottom-up levered beta 
+and cost of equity for your firm.
+¨Based upon the costs of equity and debt that you have 
+estimated, and the weights for each, estimate the cost of 
+capital for your firm. 
+¨How different would your cost of capital have been, if you 
+used book value weights?
+214
+Choosing a Hurdle Rate
+Aswath Damodaran
+214
+¨Either the cost of equity or the cost of capital can be 
+used as a hurdle rate, depending upon whether the 
+returns measured are to equity investors or to all 
+claimholders on the firm (capital)
+¨If returns are measured to equity investors, the 
+appropriate hurdle rate is the cost of equity.
+¨If returns are measured to capital (or the firm), the 
+appropriate hurdle rate is the cost of capital.
+215
+Back to First Principles
+Aswath Damodaran
+215
+MEASURING INVESTMENT RETURNS
+I: THE MECHANICS OF INVESTMENT 
+ANALYSIS
+“Show me the money”
+from Jerry Maguire
+Aswath Damodaran 216
+217
+First Principles
+Aswath Damodaran
+217
+218
+Measures of return: earnings versus cash flows
+Aswath Damodaran
+218
+¨Principles Governing Accounting Earnings Measurement
+¤Accrual Accounting: Show revenues when products and services are 
+sold or provided, not when they are paid for . Show expenses 
+associated with these revenues rather than cash expenses.
+¤Operating versus Capital Expenditures: Only expenses associated with 
+creating revenues in the current period should be treated as operating 
+expenses. Expenses that create benefits over several periods are 
+written off over multiple periods (as depreciation or amortization)
+¨To get from accounting earnings to cash flows, you have to:
+¤add back non-cash expenses (like depreciation)
+¤subtract out cash outflows which are not expensed (such as capital 
+expenditures)
+¤make accrual revenues and expenses into cash revenues and expenses 
+(by considering changes in working capital).

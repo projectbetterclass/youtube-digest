@@ -1,0 +1,301 @@
+Source: https://www.stern.nyu.edu/~adamodar/podcasts/cfspr22/session2slides.pdf
+
+CORPORATE FINANCE
+B40.2302
+LECTURE NOTES: PACKET 1
+Aswath Damodaran
+Aswath Damodaran 0
+THE OBJECTIVE IN CORPORATE 
+FINANCE
+“If you don’t know where you are going, it does not 
+matter how you get there”
+Aswath Damodaran 1
+2
+The End Game in Business?
+¨Businesses have always struggled with mission statements. 
+Put simply, what should the end game of a business?
+¤The simplest and most pragmatic answer is that it is to sell products 
+and services that customers want, while generating the most you can 
+in profits for their owners, over the long term.
+¤The pushback, often from non-business critics, has been that 
+businesses should also serve society, not just minimizing social costs 
+but also providing social benefits. 
+¨In recent years, that pushback has found backing within 
+business, with movements to expand business missions:
+¤To put business sustainability first
+¤To maximize the value to all stakeholders, not just owners
+¤To incorporate environmental, social and governance goals
+3
+A business has many stakeholders…
+4
+In running a business, one of these stakeholders 
+has tobe given primacy…
+Aswath Damodaran
+4
+¨In traditional corporate finance, the objective in decision making is to 
+maximize the value of the firm. 
+¨A narrower objective is to maximize stockholder wealth. When the stock 
+is traded and markets are viewed to be efficient, the objective is to 
+maximize the stock price.
+Assets Liabilities
+Assets in Place Debt
+Equity
+Fixed Claim on cash flows
+Little or No role in management
+Fixed Maturity
+Tax Deductible
+Residual Claim on cash flows
+Significant Role in management
+Perpetual Lives
+Growth Assets
+Existing Investments
+Generate cashflows today
+Includes long lived (fixed) and 
+short-lived(working 
+capital) assets
+Expected Value that will be 
+created by future investments
+Maximize 
+firm value
+Maximize equity 
+value
+Maximize market 
+estimate of equity 
+value
+5
+Giving corporate finance its focus…
+Aswath Damodaran
+5
+The Investment Decision
+Invest in assets that earn a 
+return greater than the 
+minimum acceptable hurdle 
+rate
+The Financing Decision
+Find the right kind of debt 
+for your ﬁrm and the right 
+mix of debt and equity to 
+fund your operations 
+The Dividend Decision
+If you cannot ﬁnd investments 
+that make your minimum 
+acceptable rate, return the cash 
+to owners of your business
+The hurdle rate 
+should reﬂect the 
+riskiness of the 
+investment and 
+the mix of debt 
+and equity used 
+to fund it.
+The return  
+should reﬂect the 
+magnitude and 
+the timing of the 
+cashﬂows as well 
+as all side effects.
+The optimal 
+mix of debt 
+and equity 
+maximizes ﬁrm 
+value
+The right kind 
+of debt 
+matches the 
+tenor of your 
+assets
+How much 
+cash you can 
+return 
+depends upon 
+current  & 
+potential 
+investment 
+opportunities
+How you choose 
+to return cash to 
+the owners will 
+depend on 
+whether they 
+prefer dividends 
+or buybacks
+Maximize the value of the business (ﬁrm)
+6
+Why traditional corporate financial theory 
+focuses on maximizing stockholder wealth.
+Aswath Damodaran
+6
+¨You can have only one objective, i.e., one interest 
+group, whose interests get placed first. 
+¨Corporate finance picks shareholders because they have a 
+residual claim, whereas every other claimholder has a 
+contractual claim that they can negotiate to protect their 
+interests.
+¨If the company is traded, the stock price gets chosen 
+as the optimizing metric because:
+¤Stock price is easily observable and constantly updated
+¤If investors are rational, stock prices reflect the wisdom of 
+decisions, short term and long term, instantaneously.
+7
+The Strawman Version: Cutthroat 
+Corporatism
+Aswath Damodaran
+7
+8
+Real Choices or False Ones?
+Aswath Damodaran
+8
+¨Maximizing stock price is not incompatible with 
+meeting employee needs/objectives. In particular:
+¤Employees are often stockholders in many firms
+¤Firms that maximize stock price generally are profitable 
+firms that can afford to treat employees well.
+¨Maximizing stock price does not mean that 
+customers are not critical to success. In most 
+businesses, keeping customers happy is the route to 
+stock price maximization.
+¨Maximizing stock price does not imply that a 
+company has tobe a social outlaw.
+9
+The Classical Objective Function
+Aswath Damodaran
+9
+STOCKHOLDERS
+Maximize
+stockholder 
+wealth
+Hire & fire
+managers
+-Board
+-Annual Meeting
+BONDHOLDERS/
+LENDERS
+LendMoney
+Protect
+bondholder
+Interests
+FINANCIAL MARKETS
+SOCIETYManagers
+Reveal
+information
+honestly and
+on time
+Markets are
+efficient and
+assess effect on
+value
+No Social Costs
+All costs can be
+traced to firm
+10
+Utopian Corporatism
+Aswath Damodaran
+10
+11
+What can go wrong?
+Aswath Damodaran
+11
+STOCKHOLDERS
+Managers put
+their interests
+above stockholders
+Have little control
+over managers
+BONDHOLDERS
+Lend Money
+Bondholders can
+get ripped off
+FINANCIAL MARKETS
+SOCIETYManagers
+Delay bad
+news or 
+provide 
+misleading
+information
+Markets make
+mistakes and
+can over react
+Significant Social Costs
+Some costs cannot be
+traced to firm
+12
+I. Stockholder Interests vs. Management 
+Interests
+Aswath Damodaran
+12
+¨In theory:  The stockholders have significant control over 
+management. The two mechanisms for disciplining 
+management are the annual meeting and the board of 
+directors. Specifically, we assume that
+¤Stockholders who are dissatisfied with managers can not only 
+express their disapproval at the annual meeting, butcan also 
+use their voting power at the meeting to keep managers in 
+check. 
+¤The board of directors plays its true role of representing 
+stockholders and acting as a check on management.
+¨In Practice:  Neither mechanism is as effective in 
+disciplining management as theory posits.
+13
+The Annual Meeting as a disciplinary venue
+Aswath Damodaran
+13
+¨The power of stockholders to act at annual meetings is 
+diluted by three factors
+¤Most small stockholders do not go to meetings because the cost 
+of going to the meeting exceeds the value of their holdings.
+¤Incumbent management starts off with a clear advantage when 
+it comes to the exercise of proxies. Proxies that are not voted 
+becomes votes for incumbent management.
+¤For large stockholders, the path of least resistance, when 
+confronted by managers that they do not like, is to vote with 
+their feet.
+¨Annual meetings are also tightly scripted and controlled 
+events, making it difficult for outsiders and rebels to 
+bring upissues that are not to the management’s liking.
+14
+And institutional investors go along with incumbent 
+managers…
+Aswath Damodaran
+14
+15
+Boards of directors are often rubber 
+stamps…
+Aswath Damodaran
+15
+¨CEOs pick directors: A 1992 survey by Korn/Ferry revealed that 74% of 
+companies relied on recommendations from the CEO to come up with
+new directors and only 16% used an outside search firm. While that 
+number has changed in recent years, CEOs still determine who sits on 
+their boards. While more companies have outsiders involved in picking 
+directors  now, CEOs exercise significant influence over the process.
+¨Directors don’t have big equity stakes: Directors often hold only token 
+stakes in their companies. Most directors in companies today still receive 
+more compensation as directors than they gain from their stockholdings. 
+While share ownership is up among directors today, they usually get these 
+shares from the firm (rather than buy them).
+¨And some directors are CEOs of other firms: Many directors are 
+themselves CEOs of other firms. Worse still, there are cases where CEOs 
+sit on each other’s boards.
+16
+And lack the expertise (and the willingness) to 
+ask the necessary tough questions..
+Aswath Damodaran
+16
+¨Robert’s Rules of Order?In most boards, the CEO 
+continues to be the chair. Not surprisingly, the CEO sets 
+the agenda, chairs the meeting and controls the 
+information provided to directors. 
+¨Be a team player?The search for consensus overwhelms 
+any attempts at confrontation. 
+¨The CEO as authority figure: Studies of social psychology 
+have noted that loyalty is hardwired into human 
+behavior . While this loyalty is an important tool in 
+building up organizations, it can also lead people to 
+suppress internal ethical standards if they conflict with 
+loyalty to an authority figure. In a board meeting, the 
+CEO generally becomes the authority figure.
+17
+The worst board ever?The Disney Experience -
+1997
+Aswath Damodaran
+17

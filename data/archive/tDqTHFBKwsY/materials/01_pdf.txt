@@ -1,0 +1,302 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/FBStory.pdf
+
+META LESSON 3: THE IMPORTANCE 
+OF NARRATIVE
+Storytime?
+Aswath Damodaran
+2
+The Lead in
+¨ In my first two posts on Facebook, I noted that its most recent earnings report, and the 
+market reaction to it, offers an opportunity for us to talk about bigger issues. 
+¤ I started by examining corporate governance, or its absence, and argued that some of the 
+frustration that investors in Facebook feel about their views being ignored can be traced to a 
+choice that they made early to give up the power to change management, by acquiescing to 
+dual class shares. 
+¤ In the second post, I pointed to inconsistencies in how accountants classify operating, capital 
+and financing expenses, and the consequences for reported accounting numbers. 
+¨ I concluded the post by arguing that investors in Facebook were pricing in their 
+belief that the billions of dollars the company had invested in the Metaverse 
+would be wasted, and argued that Facebook faced some of the blame, for not 
+telling a compelling story to back the investment. 
+¨ In this post, I want to focus on that point, starting with a discussion of why stories 
+matter to investors and traders and the story that propelled the company to a 
+trillion-dollar market-capitalization not that long ago. I will close with a look at 
+why business stories can break, change and shift, focusing in particular on the 
+forces pushing Facebook to expand or perhaps even change its story, and whether 
+the odds favor them in that endeavor .
+3
+A Good Valuation = Story + Numbers
+4
+The Number Crunchers’ Delusions
+• Playwithnumbers:Whenavaluationisallaboutthenumbers,itiseasytostart
+playingwiththenumbers,unconstrainedbyanybusinesssense,andchangethe
+value.
+• Falseprecision:Numbercrunchersloveprecision,andthepathwaystheyadoptto
+gettomoreprecisevaluationsareoftencounter-productive,intermsofdelivering
+moreaccuratevaluations.Fromestimatingthecostofcapitaltothefourth
+decimalpointtoforecastingallthreeaccountingstatements(incomestatements,
+balancesheetandstatementofcashflows),inexcruciatingdetail,forthenext20
+years,analystslosetheforestforthetrees.
+• Drownindata:Thecomplainttoday,whentheyvaluecompanies,isthatthereis
+toomuchdata.Withoutguardrails,itiseasytoseewhythisdataoverloadcan
+overwhelminvestorsandanalysts,andleadthem,ironically,toignoremostofit.
+• Denialofbiases:Itisalmostimpossibletovalueabusinesswithoutbias,with
+somebiascomingfromwhatyouknowaboutthebusinessandsomecomingfrom
+whetheryouaregettingpaidtodothevaluation,andhowmuch.Inavaluation
+drivenentirelywithnumbers,analystscanfoolthemselvesintobelievingthat
+sincetheyworkwithnumbers,theycannotbebiased,when,infact,bias
+permeateseverystepintheprocess,implicitlyorexplicitly.
+5
+And how stories help…
+• Storiesarememorable,numberslessso:Eventhemost-skillednumbercruncher,
+aidedandabettedwithchartsanddiagrams,willhaveadifficulttimecreatinga
+valuationthatisevenclosetobeingasgoodacompellingbusinessstory,in
+hookinginvestorsandbeingmemorable.
+• Storiesallowforconsistency-tests:Whenyourvaluationnumberscomefroma
+story,itbecomesalmostimpossibletochangeoneinputtoyourvaluationwithout
+thinkingthroughhowthatchangeaffectsyourstory.
+• Storiesallowyoutoscreenandmanagedata:Havingavaluationstorythatbinds
+yournumberstogetherandyieldsavaluealsoallowsyouaframeworkfor
+separatingthedatathatmatters(information)fromthedatathatdoesnot
+(distractions),andfororganizingthatdata.
+• Storiesleadtobusinessfollow-through:Ifyouareabusiness-owner,valuingyour
+ownbusiness,understandingthestorythatyouaretellinginthatvaluationis
+extraordinarilyusefulinhowyourunthebusiness.
+6
+Storyteller Delusions…
+Aswath Damodaran
+oFairytales:Withouttheconstraintofbusinessfirstprinciples
+orexplicitnumbersaboutkeyinputs,youcantellstoriesof
+unstoppablegrowthandincredibleprofitsforyourcompany
+thatarealluring,butimpossible.
+oAnecdotalevidence:Storytellerstendtogravitatetowards
+anecdotaldatathatsupportstheirvaluationstories.Rather
+thandrowninthedataoverflowworldwelivein,storytellers
+pickandchoosethedatathatbestfitstheirstories,anduse
+themtogoodeffect,oftenfoolingthemselvesaboutviability
+andprofitabilityalongtheway.
+oUnconstrainedbiases:Ifnumbercrunchersareindenial
+abouttheirbiases,storytellersoftenrevelintheirbiases,
+presentingthemasevidenceoftheconvictionthattheyhave
+intheirstories.
+7
+And how numbers can help…
+Aswath Damodaran
+• Numbersgivecredibilitytostories:Storiesarehooksthatdrawotherstoa
+businessidea,butitmaynotbeenoughtogetthemtoinvesttheirmoney
+init.Forthattohappen,youmayhavetousenumberstoaugmentand
+backupyourbusinessstorytogiveitcredibilityandcreateenough
+confidencethatyouhavethebusinesssensetomakeitsucceed.
+• Numbersallowforplausibilitychecks:Ifyouareontheothersideofa
+valuationpitch,especiallyonebuiltalmostentirelyaroundastory,the
+absenceofnumberscanmakeitdifficulttotakethestorythroughthe3P
+test,whereyouevaluatewhetheritispossible,plausibleandprobable.
+• Numbercreateaccountability:Forbusinessownersandmanagers,theuse
+ofnumbersallowsforaccountability,whereyouractualnumbersontotal
+marketsize,marketshareandprofitabilitycanbecomparedtoyour
+forecasts.
+8
+The Facebook Story
+1. Billionsofintenseusers:Itisnotjustthemind-boggling3billionpeoplewhoarein
+itsecosystemthatshoulddrawyourattention,buttheamountoftimetheyspend
+init.
+2. Sharingpersonaldataintheirpostings:Asaplatformthatencouragesusersto
+sharealmostanythingtheywant(personal,political,emotional)withtheir
+"friends",itisundeniablethatFacebookhasalsoaccumulatedimmenseamounts
+ofdataaboutitsusers.
+3. Whichcouldbeutilizedtofocusadvertisingatthem:Invadinguserprivacy,albeit
+withtheirtacithelp,liesatthecoreofFacebook'ssuccessinonlineadvertising.In
+short,Facebookuseswhatithaslearntaboutthepeopleinhabitingitsplatformto
+focusadvertisingtothem.
+4. Inaworldwhereonlineadswereconsumingtheadvertisingbusiness:Facebook
+alsobenefitedfromamacroshiftintheadvertisingbusiness,whereadvertisers
+wereshiftingfromtraditionaladvertisingmodes(newspapers,television,
+billboardsetc.)toonlineadvertising;onlineadvertisingincreasedfromlessthan
+10%oftotaladvertisingin2005tocloseto60%oftotaladvertingin2020.
+9
+And its appeal…
+1. Simpleandeasytounderstand:Intellingbusinessstories,Iarguethatitpaysto
+keepthestorysimpleandtogiveitfocus,i.e.,layoutthepathwaysthatthestory
+willleadthecompanytomakemoney.Facebookclearlyfollowedthispractice,
+withastorythatwassimpleandeasyforininvestorstounderstandandtoprice
+in.Justtoprovideacontrast,considerhowmuchmoredifficultitisforPalantiror
+Snowflaketotellabusinessstorythatinvestorscangrasp,letalonevalue.
+2. Personalexperienceswithbusiness:Addingtothefirstpoint,investorsfeelmore
+comfortablevaluingbusinesses,wheretheyhavesampledtheproductsor
+servicesofferedbythesebusinessesandunderstandwhatsetsthemapart(or
+doesnot)fromthecompetition.Iwouldwagerthatalmosteveryinvestor,
+professionalorretail,whoinvestedinFacebookhasaFacebookpage,andevenif
+theydonotpostmuchonthepage,haveseenadsdirectedspecificallyatthemon
+thatpage.
+3. Backedupbydata:Inthelastdecade,wehaveseenothercompanieswithsimple
+storiesthatwehavepersonalconnectionsto,likeUber,AirbnbandTwitter,go
+public,butnoneofthemreceivedtherapturousresponsethatFacebookdid,at
+leastuntilJuly2021.
+Aswath Damodaran
+11
+Actions and Regrets?
+Aswath Damodaran
+¨Havingboughtsharesinthecompanyat$133/shareafterthe
+CambridgeAnalyticascandalin2018,Istayedinvestedinthe
+company.Obviously,attoday'spriceofjustover$100/share,it
+shouldbetimeforregrets,butIhavenone.
+¨Thereareclearlyaspectsofmyvaluation,whereIoverreached,
+including
+¤Revenuegrowthof8%ayearthatIwouldresettoalowernumber,with
+therecognitionthatonlineadvertisingisseeinggrowthleveloff,faster
+thanIthoughtitwould,andismorecyclicalthanIassumeditwouldbe.
+¤Asforprofitability,myestimatedtargetoperatingmarginof40%looks
+hopelesslyoptimistic,giventhattheoperatingmarginsinthelasttwelve
+monthsiscloserto20%,butasInotedinmylastpost,thatdropislessa
+reflectionofacollapseintheonlineadvertisingbusinessmodelandmore
+theresultofFacebook'sbigbetofMetaverse,andtheexpenses
+emanatingfromthatbet.
+12
+Narrative Changes and Resets
+Aswath Damodaran
+13
+Facebook: Forces driving a story reset….
+Aswath Damodaran
+¨ Facebook's originalbusiness story was built on two premises, with the first being 
+that it could use thedata that it obtained on its customersto deliver more 
+focusedadvertisements and the second that theonline advertising business was 
+growing, largely at the expense oftraditional advertising. Both are being 
+challenged by developments on the ground, and as they weaken, so is the pull of 
+the Facebook story.
+q On the privacy front, the Cambridge Analytica episode, though small in its direct impact, cash 
+light on aunpleasant truth about the Facebook business model, where the invasion of user 
+privacy is a feature, not a bug..
+q The halcyon days of growth in the online advertising market are behind us, as it becomes the 
+dominant part of overall advertising, and starts growing at rates that reflect growth in total 
+advertising expenses at firms. 
+qWhile many investors were shocked by the stagnant revenues that 
+Facebook reported in its most earnings report, and some have 
+attributed that to a slowing economy, the truth is that the pressures on 
+Facebook's business story have been building for a while, and it is only 
+the speed with which the story has unraveled that is shocking.
+14
+Facebook’s Choices
+1. Acceptance: Accept the reality that they are now a mature player in a slow-growth 
+business (online advertising), albeit one in which they are immensely profitable, 
+and scale back growth plans and spending. While this may strike some as giving 
+up, it does provide a pathway for Facebook to become a cash cow, investing just 
+enough in R&D to keep its existing business going for the foreseeable future, 
+growing at the inflation rate or lower .
+2. Denial: View the slowdown in growth in the online adverting market as 
+temporary, and stay with its existing business model, built around aggressively 
+seeking to gain market share from both traditional players in the advertising 
+market and smaller online competitors. With this path, the company may be able 
+to post higher revenue growth than if it follows the acceptance path, but perhaps 
+with lower operating margins and more spending on R&D.
+3. Rebirth: The choice with the most upside as well as the greatest downside is for 
+Facebook to try to reinvent itself in a new business. That may require substantial 
+reinvestment to enter the business, and hopefully draw on Facebook’s biggest 
+strength, i.e., its intense and mammoth user base.
+Aswath Damodaran
+15
+The Metaverse Path…
+Aswath Damodaran
+16
+A big bet, but not unprecedented…
+¨Facebook’s plans to invest tens of billions in the Metaverse makes it an 
+expensive venture, by any standards, and there are some who suggest 
+that it is unprecedented, especially in technology, which many view as 
+a capital-light business. That perception, though, collides with reality, 
+especially when you look at how much big tech companies have been 
+willing to invest to enter new businesses, albeit with mixed results.
+• Microsoft invested $15 billion for its (very successful) entry in 2015 into Azure, its cloud 
+business, and it has invested tens of billions in data centers since, expanding its reach.
+• Google, renamed itself Alphabet in 2015, in a well publicized effort to rebrand itself as 
+more than just a search engine, and has invested tens of billions of dollars in its other 
+businesses since, but with a payoff primarily in its cloud business, which generated $19.2 
+billion in revenues in 2021. Just to provide a measure of how its other bets are still 
+lagging, Google generated only $753 million in revenues from its other businesses in 
+2021, almost unchanged from its revenues in 2019 and 2020.
+• Amazon has also invested tens of billions in its other businesses, with its biggest payoff 
+coming in the cloud business (notice a pattern here). It has much less to show for its 
+investments in Alexa and entertainment, and it is estimated to have lost $5 billion on its 
+Alexa division in 2021 and spent $13 billion on new content for Amazon video.
+Aswath Damodaran
+17
+TheMissingPiece?
+¨ Facebook's investment plans for the Metaverserepresent a big bet, but it is not an 
+unprecedented one, which raises the question of why investors have been less 
+willing to cut it slack than they have for its large tech competitors. 
+¤ One reason is timing, since markets are much more receptive to big growth investments, when 
+times are good, as they were for much of the last decade, than in bad times, as much of 2022 
+has been. 
+¤ The other is the story line that backs the investment. Fairly or otherwise, the big cloud 
+investments that Microsoft,Google and Amazon madecame with a story line of growth and 
+profitability that investors bought into, and for the most part, theresults have justified that 
+view. 
+¤ The more opaqueinvestments, including Google's bets and Amazon's Alexa and prime video 
+spending have been viewed more skeptically. The problem that most investors have with 
+Facebook's Metaverse investment is that it is not just that the payoff is uncertain, but it is 
+unclear what business the payoff will come from. 
+¨ After all, the Metaverse is a space (virtual), not a business, and tomake money in 
+that space,you need a business model, which can be builtaround advertising, 
+subscriptions, transactions orhardware. In my view, Facebook has been lacking 
+inproviding a sense of direction on this front. 
+Aswath Damodaran
+18
+A Doomsday Scenario for Facebook
+1.I used the company's actual operating income from its online 
+advertising business from the last twelve months, weighed down 
+as they are from a slowing economy and a stronger economy, and 
+assumed no growth and a remaining life of 20 years for the 
+business, with a zero liquidationvalue at the end of year 20.
+2.I assumed that the company will continue to spend R&D at the 
+same scorching rate that it set in the last twelve months, where it 
+spent just over $32 billion on R&D, for the next 20 years.
+3.I also assumed that not only will Facebook to lose $10 billion a year 
+on the Metaverse, but that this willcontinue for the next 20 years, 
+with no payoff in terms ofincreased revenues or earnings from its 
+Metaverse investment.
+4.I assume that Facebook falls is a risky company, falling at the 75th 
+percentile of all US companies in terms of risk, and give it a cost of 
+capital of 9%.
+Aswath Damodaran
+19
+The resulting valuation
+Aswath Damodaran
+20
+Following up..
+¨ThemarketcapitalizationofFacebookonOctober29,2022was
+$247billion,belowtheDoomsdayscenariovalue,indicatingthat
+investorswere,infact,notgivingcredittoanypossibleupsidefrom
+morethana$100billioninvestedintheMetaverse.
+¨Themarketcapitalizationhasrisento$311billionasofNovember
+15,2022,andwhilethatsuggestsamorepositiveperspective,that
+valuestillreflectsapresumptionthattheMetaverseinvestment
+willdestroyabout$18.9billionofFacebook'svalue.
+¨Intruth,usingamorerealisticgrowthrate(ratherthanzero)or
+loweringthecostofcapital(from9%to8%,themediancostof
+capitalforaUScompany)orextendingthelifeofthecompany
+(from20yearstoalongerperiod)canonlyaddvaluetoFacebook,
+andyoucanexperimentwithyourowninputsintheattached
+spreadsheet.
+Aswath Damodaran
+21
+Turning the Trust Corner: Start with a 
+business story for Metaverse
+Aswath Damodaran
+22
+And follow up with…
+1. Build in specifics into your investment story:Facebook has been clear 
+about its plans to invest billions in its new businesses, but rather than just 
+emphasizing the total investment that it plans to make (roughly $100 
+billion), it would provide credibility if the company explained what the 
+money is being spent on, and how it connects to the business story being 
+told. 
+2. With markers on operating payoffs:I know that there are huge 
+uncertainties overhanging these investments, but it would still make 
+sense to give rough estimates of how you expect revenues and operating 
+margins to evolve in the Metaverse investment, over time. That will give 
+investors and managers targets to track, as the company delivers results, 
+and feedback loops to make changes in the way future investments are 
+made, if the results are not measuring up.
+3. And escape hatches, if things don't work out:I believe that Facebook will 
+be best served if they are open about the things that can go wrong with 
+their Metaverse bet, and not only what they are doing to protect 
+themselves, if it happens, but also exit plans, if they decide to walk away
+Aswath Damodaran

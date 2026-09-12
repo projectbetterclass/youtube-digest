@@ -1,0 +1,216 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/Banks2023.pdf
+
+BREACH OF TRUST: 
+DECONSTRUCTING THE 2023 
+BANKING CRISIS
+Into thin air….
+Aswath Damodaran 1
+2
+TheLeadIn….
+Aswath Damodaran
+2
+¨In March 2023, the fall of Silicon Valley Bank shocked investors not only 
+because it was unforeseen, but also because of the speed with which it 
+unfolded. 
+¨That failure has had a domino effect, with Signature Bank falling almost 
+soon after, followed by Credit Suisse in April 2023 and by First Republic 
+last week. 
+¤The banks that have fallen so far collectively controlled more deposits than all of
+the banks that failed in 2008, but unlike that period, equity markets in the United 
+States have stayed resilient
+¤Even within banking, the damage has varied widely across different segments, with 
+regional banks seeing significant draw downs in deposits and market capitalization. 
+¨The overarching questions for us all are whether this crisis will spread to 
+the rest of the economy and market, as it did in 2008, and how banking as 
+a business, at least in the US, will be reshaped by this crisis, and while I 
+am more a dabbler than an expert in banking, I am going to try answering 
+those questions.
+3
+The Banking Business Model
+Aswath Damodaran
+3
+4
+The Regulatory Effect…
+AswathDamodaran
+4
+¨ Bankshaveexisted for longer than regulators, and for much of their existence, theyself regulated, 
+with the most successful banks holding enough equity capital to provide buffer against losses (on 
+loans) in bad times.
+¨ That self-regulation inevitably led to banking booms and busts, with large side costs for society, 
+and with each crisis, the regulatory reach into banking has expanded:
+¤ During the civil war that the National Banking Act was passed, laying the groundwork for chartering banks 
+and requiring them to maintain safety reserves.
+¤ The1907 banking crisis, which JP Morgan famously stopped, gave rise to the Federal Reserve in 2013
+¤ TheGreatDepressiongaverisetotheGlassSteagallAct,keepingbanksinthebankingbusinessand
+preventing entry into riskier businesses.
+¤ Inthe1980s,theBasel Accords globalized and formalized bank regulation, by introducing risk adjusted assets 
+(to getriskierbanks to hold more capital) and Tier 1 Capital (composed of equity and equity-like instruments).
+¨ The Basel accord and the new rules on regulatory capital have largely shaped banking for the last 
+few decades, and while they have provided a safety net for depositors, they have also given rise to 
+a dangerous game, where some banks arrived at the distorted conclusion that their end game was 
+exploiting loopholes in regulatory capital rules, rather than build solid banking businesses. 
+¨ That behavior led to the 2008 banking crisis, and the troubled assets relief program (TARP) 
+investing $426 billion in bank stocks and mortgage-backed securities to prop up banks that had 
+overreached, mostly big, money-center banks, rather than small or regional banks.
+5
+Good and Bad Banks
+Aswath Damodaran
+5
+6
+Macro Stressors
+Aswath Damodaran
+6
+1.Recessions:Throughbankinghistory,itistheeconomythat
+hasbeenthebiggeststressorofthebankingsystem,since
+recessionsincreasedefaultacrosstheboard,butmoresoat
+themostdefault-proneborrowersandinvestmentsecurities.
+2.OvervaluedAssetClasses:Whilebanksshouldlendmoney
+usingaborrower'searningscapacityascollateral,itisa
+realitythatmanybankerslendagainstthevalueofassets,
+ratherthantheirearningpower.Thedefensethatbankers
+offeristhattheseassetscanbesold,ifborrowersdefault,
+andtheproceedsusedtocovertheoutstandingdues.That
+logicbreaksdownwhenassetclassesgetovervalued,since
+theloansmadeagainsttheassetscannolongerbecovered
+bysellingtheseassets,ifpricescorrect.
+7
+And rising inflation and interest rates…
+Non-interest bearing deposits
+Demand deposts where the bank 
+pays no interest
+Interest bearing deposits
+Fixed deposits of varying 
+maturities, where banks pay 
+interest
+Debt used to fund businesss, 
+with varying maturities & interest 
+rates reﬂecting bank's default risk
+Shareholders' Equity, cumulated 
+through retained earnings over 
+time, and augmented with equity 
+issuances over time.
+Liabilities & EquityAssets
+Loans to customers, of varying 
+maturities and to borrowers with 
+diverse default risks, with interest 
+rates set to reﬂect those risks.
+Investment Securities,  including 
+investiments in treasury bonds, 
+mortgage backed securities and 
+othet ﬁxed-income securitie, of 
+varying maturities, that generate 
+interest income for the bank
+Banking infrastructure assets, 
+including investments in real 
+estate, technolkogy and other 
+assets for the banking business.
+As inﬂation and intersst 
+rates rise, the value of 
+having non-interest 
+bearing or low interest 
+deposits increases.
+Interest Rate Effect
+As inteest rates affect the 
+valeus of assets, the 
+value of equity should 
+change, but as an 
+accounting number, the 
+book equity may not 
+reﬂect these changes.
+When interest rates rise, 
+existing loan portfolios become 
+less valuable, with longer term 
+loans losing more value. These 
+loans are usually not marked to 
+market on the books
+When interest rates rise, 
+investment securities will lose 
+value, with longer term 
+securities losing more. If these 
+securities are held to matuity, 
+the book value will not reﬂect 
+these losses.
+Rising Rates: Effects on Bank Value
+The effect of rising interet rate on bank value will be more negative at banks with
+1. Low percent of non-inteerest bearing deposits and high interest rate paid on deposits
+2. Longer term loans and investment securities
+3. Riskier loans and investment securities
+Interest Rate Effect
+Aswath Damodaran
+7
+Aswath Damodaran8
+9
+Signature and First Republic.. Looking for 
+patterns…
+Aswath Damodaran
+¨WithSignatureBank,thetriggerforfailurewasarunondeposits,since
+morethan90%ofdepositsatthebankwereuninsured,makingthose
+depositorsfarmoresensitivetorumorsaboutrisk.TheFDIC,inshuttering
+thebank,alsopointedto"poormanagement"andfailuretoheed
+regulatoryconcerns,whichclearlyindicatethatthebankhadbeenonthe
+FDIC'swatchlistforawhich.
+¨WithFirstRepublicbank,abankthathasalargeandlucrativewealth
+managementarm,itwasadependenceonthosewealthyclientsthat
+increasedtheirexposure.Wealthydepositorsnotonlyaremorelikelyto
+havedepositsthatexceed$250,000,technicallythecapondeposit
+insurance,butalsohaveaccesstoinformationonalternativesandthe
+toolstomovemoneyquickly.Thus,inthefirstquarterof2023,thebank
+reporteda41%dropindeposits,triggeringforcedsaleofinvestment
+securities,andtherealizationoflossesonthosesales.
+¨nshort,itisthestickinessofdepositsthatseemstobethebiggest
+indicatorofbanksgettingintotrouble,ratherthanthecompositionof
+theirloanportfoliosoreventhenatureoftheirinvestmentsecurities,
+10
+Determinants of Deposit Stickiness..
+1. DepositorCharacteristics:Aswenotedearlier,depositorageandwealth
+canbefactorsthatdeterminestickiness,withyoungerandwealthier
+depositorsbeinglessstickythatolderandpoorerdepositors.
+2. Depositage:Asinotherbusinesses,abankcustomerwhohasbeena
+customerforlongerislesslikelytomovehisorherdeposit,inresponseto
+fear,thanonewhobecameacustomerrecently.Perhaps,banksshould
+followsubscriber/userbasedcompaniesincreatingdepositcohorttables,
+withthestickinessrateineachgroup.
+3. Depositgrowth:Vfewbankshavethecapacitytodoubletheirloans,with
+duediligenceondefaultrisk,inayear,butthesedeposits,beingrecent
+andlarge,arealsotheleaststickydepositsatthebank.Inshort,banks
+withfastergrowthintheirdepositbasesalsoarelikelytohavelesssticky
+depositors.
+4. Depositconcentration:Totheextentthatthedepositsofabankare
+concentratedinageographicregion,itismoreexposedtodepositruns
+thanonethathasamoregeographicallydiversedepositbase.
+11
+The Market Reaction to the 2023 Banking 
+Crisis
+Aswath Damodaran
+11
+12
+Big versus Small Banks
+Aswath Damodaran
+12
+13
+Deposit Growth and Market Return
+AswathDamodaran
+13
+14
+Reading the tea leaves…
+Aswath Damodaran
+14
+1. Continuedconsolidation:2023bankfailureswillacceleratethisconsolidation,
+especiallyassmallregionalbanks,withconcentrateddepositbasesandloanportfolios
+areassimilatedintolargerbanks,withmorediversestructure.
+2. Bankprofitability:Forsome,thatconsolidationisworrisomesinceitraisesthespecter
+ofbanksfacinglesscompetitionandthuscharginghigherprices.ImaybenaivebutI
+thinkthatasbanksconsolidate,theywillstruggletomaintainprofitability,andperhaps
+evenseeprofitsdrop,asdisruptorsfromfintechandelsewhereeatawayattheirmost
+profitablesegments.Inshort,thebiggestbanksmaygetbigger,buttheymaynotget
+moreprofitable.
+3. Accountingrulechangesforbanks:WhileIdon'tforeseearequirementthatevery
+investmentsecuritybemarkedtomarket,arulechangethatwillcreateitsown
+dangers,Iexpecttherulesonwhensecuritiesgetmarkedtomarkettobetightened.
+4. Regulatorychanges:The2023criseshavehighlightedtwoaspectsofbankbehavior
+thatareeitherignoredorsufficientlyweightedintocurrentregulatoryrulesonbanks.
+Thefirstisdurationmismatchesatbanks,whichclearlyexposeevenbanksthatinvest
+indefaultfreesecurities,likeSVB,torisk.Theotherisdepositstickiness,whereold
+notionsofwhendepositorspanicandhowquicklytheyreactwillhavetobe
+reassessed,givenhowquicklyriskwhispersaboutbanksturnedintodepositflightat
+FirstRepublicandSignatureBank.

@@ -1,0 +1,120 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/blog/InflationUpdate.pdf
+
+SOW THE WIND, REAP THE 
+WHIRLWIND: AN INFLATION 
+UPDATE!
+Inflation on center stage!
+2
+RepeatandRetrace
+q In my early 2021 posts on inflation, I argued that while the higher inflation that we were just 
+starting to see could be explained away as transitory, prudence required that policy makes 
+treat it as a long termthreat and dealt with quickly. Not only did they not do so, but the 
+fiscal and monetary actions they took in 2021 exacerbated inflationary pressures. 
+q By the start of 2022, the window for early action had closed and for much of this year, 
+inflation has been the elephant in the room, the force driving markets, forcing central banks 
+to be reactive, and its presence has induced me to write three posts on its impact. 
+q Inmy first on May 6, 2022, I put the surge in inflation, in 2022, in historical context and argued that it 
+is unexpected inflation that shakes up the economy and caused damage to financial assets, and that 
+until we reached a steady state, where expectations and actual inflation converge, markets would 
+continue to be unsettled. 
+q In afollow-up post on May 20, I looked at the disparate effects of inflation on individual companies, 
+positing that safer companies with pricing power are more protected against inflation than riskier 
+companies in competitive businesses. 
+q Ina third post on July 1, 2022, I pointed to inflation as a key culprit in the retreat of risk capital, i.e., 
+capital invested in the riskiest segments of every market, and presented evidence of the impact on 
+risk premiums (bond default spreads and equity risk premiums) in markets. In terms of content, I am 
+afraid this post will contain nothing new, but the fresh uncertainties about inflation, and its impact, 
+that have opened upthis summer require at least an updating of the numbers.
+3
+Inflation: Actual
+4
+Inflation: Expectations from Surveys
+5
+Reflected in probabilities…
+6
+A Market-implied Expected Inflation
+7
+First Order Effects: Interest Rates
+8
+Interest Rates in 2022
+9
+With Yield Curves
+10
+And Exchange Rates
+11
+Second Order Effects: Risk Capital
+12
+Ebbs and Flows: VC
+13
+Ebbs and Flows: IPOs
+14
+Ebbs and Flows: High Yield Debt issuances
+15
+Risk Premiums: Default Spreads
+16
+Equity Risk Premiums
+17
+A Double Whammy?
+¨There are two things that stand out about equity markets in 2022. 
+¤The first is the surge in the equity risk premium from from 4.24% on 
+January 1, 2022, to 6.05%, on September 23, 2022, an increase on par with 
+what we have seen during market crises (2001, 2008 and 2020) in the past. 
+¤The second is that as equity risk premiums have jumped, the treasury 
+bond rate has more than doubled, from 1.51% on January 1, 2022, to 
+3.69% on September 23, 2022. 
+¨In contrast to the afore-mentioned crises, where the treasury bond 
+rate dropped, offsetting some of the impact of the rise in equity 
+risk premiums, this inflation-induced market reaction has caused 
+the expected return on stocks to rise from 5.75% on January 1, 
+2022, to 9.75%, on September 23, 2022; that increase of 4% dwarfs 
+the increases in expected returns that we witnessed in the last 
+quarter of 2008 or the first quarter of 2020.
+18
+Third Order Effects: The Economy and 
+Psyches!
+¨As you have probably noticed, perceptions of where the economy is 
+headed have worsened, as we have gone through 2022, even in the face 
+of relatively good news on unemployment. 
+¨Much of the blame for the darkening forecasts has been directed toward 
+Jerome Powell and the Federal Reserve, and while there is much that you 
+can critique about how the Fed has played its cards during this crisis, it is 
+inflation that is in the driver’s seat, not the Fed. Interest rates have risen 
+this year because of inflation expectations rising, and it is these higher 
+rates (and expected inflation) that are leading the Fed to act. 
+¨In short, the Fed has two choices, neither of which is appealing. 
+¤It can do nothing, which is the path that some of its critics would rather have it 
+take, and interest rates will continue to rise, perhaps at an even faster rate, as 
+inflation expectations surge. 
+¤Alternatively, it can try to reclaim the narrative, by acting to slow the economy 
+down, perhaps even putting it into a recession, with length and severity still to be 
+determined.
+19
+Determinants of Value
+20
+1. Earnings
+21
+2. Cash Return
+22
+My S&P 500 Story
+23
+What if?
+24
+What now?
+¨ TheBull:Ifyouarebullish,theassumptionthatmakesthebiggestdifferenceis
+whereyouseeequityriskpremiumsconverging,withpremiumscloserto4%
+yieldingundervaluationontheindex,evenwithsignificantearningsshocksbuilt
+in.
+¨ TheBear:Attheotherendofthespectrum,iftheequityriskpremiumstaysat6%
+orhigher ,theonlyscenariowhereyouarriveatavalueclosetotheindexisifthe
+10-yearT.Bondratedropsto2%andearningsestimatescomeinasexpected,with
+significantcorrectionstocome,inscenarioswhereratesstayhigherand/or
+earningscomeinbelowestimates.
+¨ ThePolicyChoices:Givenachoicebetweenallowinginflationtoplayitselfout
+andinitiatingpolicesthatcreatearecession,therearesomewhoarepushingfor
+theformer,arguingthattradingoffthecertainpainthatcomeswitharecession
+fortheuncertainbenefitsoflowerinflationisnotgoodpolicy.Isympathize,but
+thedangersoflettinginflationplayoutisthatifitdoessoinunpleasantways,
+whereitstayshighandvolatile,itseffectsaregoingtobefarmorelongtermand
+moredamaging.Highandvolatileinflationcorrodeseconomiesandmarketsfrom
+theinsideout,destroyingfaithincurrenciesandmakinginvestorsandbusinesses
+behaveindysfunctionalways.

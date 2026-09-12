@@ -1,0 +1,50 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session7atest.pdf
+
+Session	6:	Post	Class	tests	
+1. The	equity	risk	premium	is	the	premium	that	investors	charge	over	and	above	
+the	risk	free	rate	to	invest	in	equities.	A	key	source	of	information	about	equities	
+is	earnings	reports	from	companies.	In	the	last	two	decades,	companies	have	
+used	both	accounting	discretion	and	operating	choices	to	“manage”	their	
+earnings,	making	them	smoother	(less	variability	over	time).	What	consequence	
+would	you	expect	for	equity	risk	premiums	from	managed	earnings?	
+a. Equity	risk	premiums	should	go	down.	(Earnings	are	smoother)	
+b. Equity	risk	premiums	should	go	up.	(Earnings	are	less	informative)	
+c. Equity	risk	premiums	should	not	change.	
+2. If	investors	are	rational,	the	expected	equity	risk	premium	for	a	market	should	
+never	be	less	than	zero.	
+a. True	
+b. False	
+3. Many	analysts	use	past	data	on	stock	and	government	security	returns	to	
+estimate	a	historical	risk	premium.	Assume	that	the	arithmetic	(geometric)	
+average	of	annual	stock	returns	is	10%	(9%)	and	that	the	arithmetic	(geometric)	
+average	of	annual	treasury	bond	returns	is	5%	(4.5%)	over	a	hundred	year	
+period.	If	the	annualized	standard	deviation	in	stock	returns	over	this	period	
+was	20%,	which	of	the	following	is	your	fairest	characterization	of	the	historical	
+risk	premium	(which	you	plan	to	use	in	your	long	term	hurdle	rate)?	
+a. Historical	risk	premium	is	5%,	standard	error	is	20%	
+b. Historical	risk	premium	is	4.5%,	standard	error	is	2%	
+c. Historical	risk	premium	is	5.5%,	standard	error	is	2%	
+d. Historical	risk	premium	is	4%,	standard	error	is	2%	
+e. None	of	the	above	
+4. There	are	some	analysts	who	use	historical	risk	premiums	with	emerging	
+markets,	using	average	premiums	over	ten	to	fifteen	years,	in	their	estimates.	
+Which	of	the	following	would	you	be	most	concerned	about,	with	this	approach?	
+a. Equity	risk	premiums	will	be	too	high,	since	emerging	markets	do	better	
+than	developed	markets.	
+b. Equity	risk	premiums	will	be	too	low,	if	there	is	a	bear	market	during	the	
+estimation	period.	
+c. A	historical	risk	premium	with	only	ten	to	fifteen	years	of	data	will	have	a	
+very	high	standard	error.	
+d. Emerging	markets	are	too	volatile.	
+e. Emerging	markets	are	dynamic	and	changing	over	time.	
+	
+5. The	sovereign	rating	for	Vietnam	is	B2	(with	a	default	spread	of	5%),	the	
+standard	deviation	in	the	Vietnamese	equity	index	is	30%	and	the	standard	
+deviation	in	the	Vietnamese	government	bond	is	24%.		If	the	premium	for	a	
+mature	market	(say,	the	US)	is	5.5%,	estimate	the	total	equity	risk	premium	for	
+Vietnam.	
+a. 11.75%	
+b. 6.25%
+c. 5%	
+d. 10.5%	
+e. None	of	the	above

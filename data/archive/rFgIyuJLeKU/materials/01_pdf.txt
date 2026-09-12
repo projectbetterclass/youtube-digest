@@ -1,0 +1,207 @@
+Source: https://pages.stern.nyu.edu/~adamodar/podcasts/cfspr24/session16slides.pdf
+
+332
+III. Project Options
+Aswath Damodaran
+332
+¨One of the limitations of traditional investment analysis 
+is that it is static and does not do a good job of capturing 
+the options embedded in investment.
+¤The first of these options is the option to delay taking a project, 
+when a firm has exclusive rights to it, until a later date. 
+¤The second of these options is taking one project may allow us 
+to take advantage of other opportunities (projects) in the future
+¤The last option that is embedded in projects is the option to 
+abandon a project, if the cash flows do not measure up.
+¨These options all add value to projects and may make a 
+“bad”project (from traditional analysis) into a good one.
+333
+The Option to Delay
+Aswath Damodaran
+333
+¨When a firm has exclusive rights to a project or product for a specific 
+period, it can delay taking this project or product until a later date. A 
+traditional investment analysis just answers the question of whether the 
+project is a “good”one if taken today. The rights to a “bad”project can 
+still have value.
+Present V alue of Expected 
+Cash Flows on Product
+PV of Cash Flows 
+Initial Investment in 
+Project NPV is positive in this section
+334
+Insights for Investment Analyses
+Aswath Damodaran
+334
+¨Having the exclusive rights to a product or project is 
+valuable, even if the product or project is not viable 
+today.
+¨The value of these rights increases with the volatility 
+of the underlying business. 
+¨The cost of acquiring these rights (by buying them or 
+spending money on development -R&D, for 
+instance) has to be weighed off against these 
+benefits.
+335
+The Option to Expand/Take Other Projects
+Aswath Damodaran
+335
+¨Taking a project today may allow a firm to consider and take other 
+valuable projects in the future. Thus, even though a project may have a 
+negative NPV, it may be a project worth taking if the option it provides the 
+firm (to take other projects in the future) has a more-than-compensating 
+value.
+Cash Flows on Expansion
+PV of Cash Flows 
+from Expansion
+Additional Investment 
+to Expand
+Firm will not expand in
+this section
+Expansion becomes 
+attractive in this section
+336
+The Option to Abandon
+Aswath Damodaran
+336
+¨A firm may sometimes have the option to abandon a project, if the cash 
+flows do not measure up to expectations. 
+¨If abandoning the project allows the firm to save itself from further 
+losses, this option can make  a project more valuable.
+Present V alue of Expected 
+Cash Flows on Project
+PV of Cash Flows 
+from Project
+Cost of Abandonment
+337
+Bottom line: Investment Flexibility matters..
+338
+And especially during crisis… Performance 
+during 2020, across firm classes
+339
+IV . Assessing Existing or Past investments…
+Aswath Damodaran
+339
+¨While much of our discussion has been focused on 
+analyzing new investments, the techniques and 
+principles enunciated apply just as strongly to 
+existing investments. 
+¨With existing investments, we can try to address one 
+of two questions:
+¤Post –mortem: We can look back at existing investments 
+and see if they have created value for the firm. 
+¤What next? We can also use the tools of investment 
+analysis to see whether we should keep, expand or 
+abandon existing investments.
+340
+Analyzing an Existing Investment
+Aswath Damodaran
+340
+In a post-mortem, you look at the actual cash 
+flows, relative to forecasts.
+Yo u  c a n  a l s o  r e a s s e s s  y o u r  e x p e c t e d  c a s h  
+flows, based upon what you have learned, 
+and decide whether you should expand, 
+continue or divest (abandon) an investment
+341
+a. Post-Mortem Analysis
+Aswath Damodaran
+341
+¨The actual cash flows from an investment can be greater than or less than 
+originally forecast for a number of reasons but all these reasons can be 
+categorized into two groups:
+¤Chance: The nature of risk is that actual outcomes can be different from 
+expectations. Even when forecasts are based upon the best of information, they 
+will invariably be wrong in hindsight because of unexpected shifts in both macro 
+(inflation, interest rates, economic growth) and micro (competitors, company) 
+variables.
+¤Bias: If the original forecasts were biased, the actual numbers will be different from 
+expectations. The evidence on capital budgeting is that managers tend to be over-
+optimistic about cash flows and the bias is worse with over-confident managers.
+¨While it is impossible to tell on an individual project whether chance or 
+bias is to blame, there is a way to tell across projects and across time. If 
+chance is the culprit, there should be symmetry in the errors –actuals 
+should be about as likely to beat forecasts as they are to come under 
+forecasts. If bias is the reason, the errors will tend to be in one direction.
+342
+b. What should we do next?
+Aswath Damodaran
+342
+........Liquidate the project
+........Terminate the project
+........Divest the project
+........Continue the project
+€ 
+NFn
+(1+r)n
+t=0
+t=n
+∑ >0>Divestiture Value€ 
+NFn
+(1+r)n
+t=0
+t=n
+∑ <Divestiture Value
+€ 
+NFn
+(1+r)n
+t=0
+t=n
+∑ <0
+€ 
+NFn
+(1+r)n
+t=0
+t=n
+∑ <Salvage Value
+343
+Example: Disney California Adventure –
+The 2008 judgment call
+Aswath Damodaran
+343
+¨Disney opened the Disney California Adventure (DCA) Park in 2001, at a 
+cost of $1.5 billion, with a mix of roller coaster rides and movie nostalgia. 
+Disney expected about 60% of its visitors to Disneyland to come across to 
+DCA and generate about $ 100 million in annual after-cash flows for the 
+firm.
+¨By 2008, DCA had not performed up to expectations. Of the 15 million 
+people who came to Disneyland in 2007, only 6 million visited California 
+Adventure, and the cash flow averaged out to only $ 50 million between 
+2001 and 2007. 
+¨In early 2008, Disney faced three choices:
+¤Shut down California Adventure and try to recover whatever it can of its initial 
+investment. It is estimated that the firm recover about $ 500 million of its investment.
+¤Continue with the status quo, recognizing that future cash flows will be closer to the 
+actual values ($ 50 million) than the original projections.
+¤Invest about $ 600 million to expand and modify the park, with the intent of increasing 
+the number of attractions for families with children, is expected to increase the 
+percentage of Disneyland visitors who come to DCA from 40% to 60% and increase the 
+annual after tax cash flow by 60% (from $ 50 million to $ 80 million) at the park.
+344
+DCA: Evaluating the alternatives…
+Aswath Damodaran
+344
+¨Continuing Operation: Assuming the current after-tax cash flow of 
+$ 50 million will continue in perpetuity, growing at the inflation rate 
+of 2% and discounting back at the theme park cost of capital in 
+2008 of 6.62% yields a value for continuing with the status quo
+Value of DCA = 
+¨Abandonment: Abandoning this investment currently would allow 
+Disney to recover only $ 500 million of its original investment.  
+Abandonment value of DCA = $ 500 million
+¨Expansion: The up-front cost of $ 600 million will lead to more 
+visitors in the park and an increase in the existing cash flows from $ 
+50 to $ 80 million. 
+Value of CF from expansion = 
+€ 
+Expected Cash Flow next year
+(Cost of capital - g) =50(1.02)
+(.0662−.02)=$1.103 billion
+€ 
+Increase in CF next year
+(Cost of capital - g)=30(1.02)
+(.0662−.02)=$662 million
+345
+First Principles
+Aswath Damodaran
+345

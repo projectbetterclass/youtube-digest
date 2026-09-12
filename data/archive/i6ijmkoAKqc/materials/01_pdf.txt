@@ -1,0 +1,191 @@
+Source: https://www.stern.nyu.edu/~adamodar/podcasts/cfspr22/session15slides.pdf
+
+312
+II. Side Costs and Benefits
+Aswath Damodaran
+312
+¨Most projects considered by any business create side 
+costs and benefits for that business. 
+¤The side costs include the costs created by the use of resources 
+that the business already owns (opportunity costs) and lost 
+revenues for other projects that the firm may have.
+¤The benefits that may not be captured in the traditional capital 
+budgeting analysis include project synergies (where cash flow 
+benefits may accrue to other projects) and options embedded in 
+projects (including the options to delay, expand or abandon a 
+project).
+¨The returns on a project should incorporate these costs 
+and benefits.
+313
+A. Opportunity Cost
+Aswath Damodaran
+313
+¨An opportunity cost arises when a project uses a 
+resource that may already have been paid for by the 
+firm. 
+¨When a resource that is already owned by a firm is being 
+considered for use in a project, this resource has to be 
+priced on its next best alternative use, which may be
+¤a sale of the asset, in which case the opportunity cost is the 
+expected proceeds from the sale, net of any capital gains taxes
+¤renting or leasing the asset out, in which case the opportunity 
+cost is the expected present value of the after-tax  rental or 
+lease revenues.
+¤use elsewhere in the business, in which case the opportunity 
+cost is the cost of replacing it.
+314
+Case 1: Foregone Sale?
+Aswath Damodaran
+314
+¨Assume that Disney owns land in Rio already. This land is 
+undeveloped and was acquired several years ago for $ 5 
+million for a hotel that was never built. It is anticipated, 
+if this theme park is built, that this land will be used to 
+build the offices for Disney Rio. The land currently can be 
+sold for $ 40 million, though that would create a capital 
+gain (which will be taxed at 20%). In assessing the theme 
+park, which of the following would you do:
+¤Ignore the cost of the land, since Disney owns its already
+¤Use the book value of the land, which is $ 5 million
+¤Use the market value of the land, which is $ 40 million
+¤Other:
+315
+Case 2: Incremental Cost?
+An Online Retailing Venture for Bookscape
+Aswath Damodaran
+315
+¨The initial investment needed to start the service, including 
+the installation of additional phone lines and computer 
+equipment, will be $1 million. These investments are 
+expected to have a life of four years, at which point they will 
+have no salvage value. The investments will be depreciated 
+straight line over the four-year life.
+¤The revenues in the first year are expected to be $1.5 million, growing 20% in 
+year two, and 10% in the two years following. The cost of the books will be 
+60% of the revenues in each of the four years.
+¤The salaries and other benefits for the employees are estimated to be 
+$150,000 in year one, and grow 10% a year for the following three years. 
+¤The working capital, which includes the inventory of books needed for the 
+service and the accounts receivable will be 10% of the revenues; the 
+investments in working capital have to be made at the beginning of each year . 
+At the end of year 4, the entire working capital is assumed to be salvaged.
+¤The tax rate on income is expected to be 40%.
+316
+Cost of capital for Bookscapeinvestment
+Aswath Damodaran
+316
+¨We will re-estimate the beta for this online project by looking at 
+publicly traded online retailers. The unlevered total beta of online 
+retailers is 3.02, and we assume that this project will be funded 
+with the same mix of debt and equity (D/E = 21.41%, Debt/Capital 
+= 17.63%) that Bookscape uses in the rest of the business. We will 
+assume that Bookscape’s tax rate (40%) and pretax cost of debt 
+(4.05%) apply to this project.
+Levered Beta Online Service= 3.02 [1 + (1 –0.4) (0.2141)] = 3.41
+Cost of Equity Online Service= 2.75% + 3.41 (5.5%) = 21.48%
+Cost of CapitalOnline Service= 21.48% (0.8237) + 4.05% (1 –0.4) (0.1763) = 
+18.12%
+¨This is much higher than the cost of capital (10.30%) we computed 
+for Bookscape earlier, but it reflects the higher risk of the online 
+retail venture.
+317
+Incremental Cash flows on Investment
+Aswath Damodaran
+317
+NPV of investment =  $76,375
+0 1 2 3 4
+Revenues $1,500,000$1,800,000 $1,980,000 $2,178,000
+Operating Expenses
+Labor $150,000$165,000 $181,500 $199,650
+Materials $900,000$1,080,000 $1,188,000 $1,306,800
+Depreciation $250,000$250,000 $250,000 $250,000
+Operating Income $200,000$305,000 $360,500 $421,550
+Taxes $80,000 $122,000 $144,200 $168,620
+After-tax Operating 
+Income $120,000$183,000 $216,300 $252,930
++ Depreciation $250,000$250,000 $250,000 $250,000
+-Change in Working 
+Capital $150,000 $30,000 $18,000 $19,800 -$217,800
++ Salvage Value of 
+Investment $0
+Cash flow after taxes -$1,150,000$340,000$415,000 $446,500 $720,730
+Present Value -$1,150,000$287,836$297,428 $270,908 $370,203
+318
+The side costs…
+Aswath Damodaran
+318
+¨It is estimated that the additional business associated with 
+online ordering and the administration of the service itself 
+will add to the workload for the current general manager of 
+the bookstore. 
+¤As a consequence, the salary of the general manager will be increased 
+from $100,000 to $120,000 next year; it is expected to grow 5 percent 
+a year after that for the remaining three years of the online venture. 
+¤After the online venture is ended in the fourth year, the manager’s 
+salary will revert back to its old levels.
+¨It is also estimated that BookscapeOnline will utilize an office 
+that is currently used to store financial records. The records 
+will be moved to a bank vault, which will cost $1000 a year to 
+rent.
+319
+NPV with side costs…
+Aswath Damodaran
+319
+¨Additional salary costs = PV of $34,352
+¨Office Costs
+¤After-Tax Additional Storage Expenditure per Year = $1,000 (1 –0.40) = $600
+¤PV of expenditures = $600 (PV of annuity, 18.12%,4 yrs) = $1,610
+¨NPV with Opportunity Costs = $76,375 –$34,352 –$1,610=  $ 40,413 
+¨Opportunity costs aggregated into cash flows
+Year Cashflows Opportunity costsCashflow with opportunity costs Present Value
+0 ($1,150,000) ($1,150,000) ($1,150,000)
+1 $340,000 $12,600 $327,400 $277,170 
+2 $415,000 $13,200 $401,800 $287,968 
+3 $446,500 $13,830 $432,670 $262,517 
+4 $720,730 $14,492 $706,238 $362,759 
+AdjustedNPV $40,413
+320
+Case 3: Excess Capacity
+Aswath Damodaran
+320
+¨In the Vale example, assume that the firm will use its 
+existing distribution system to service the production 
+out of the new iron ore mine. The mine manager 
+argues that there is no cost associated with using 
+this system, since it has been paid for already and 
+cannot be sold or leased to a competitor (and thus 
+has no competing current use). Do you agree?
+a. Yes
+b. No
+321
+A Framework for Assessing The Cost of Using 
+Excess Capacity
+Aswath Damodaran
+321
+¨If I do not add the new product, when will I run out 
+of capacity?
+¨If I add the new product, when will I run out of 
+capacity?
+¨When I run out of capacity, what will I do?
+¤Cut back on production: cost is PV of after-tax cash flows 
+from lost sales
+¤Buy new capacity: cost is difference in PV between earlier 
+& later investment
+322
+Product and Project Cannibalization: A Real 
+Cost?
+Aswath Damodaran
+322
+¨Assume that in the Disney theme park example, 20% of the 
+revenues at the Rio Disney park are expected to come from 
+people who would have gone to Disney theme parks in the 
+US. In doing the analysis of the park, you would
+a. Look at only incremental revenues (i.e. 80% of the total revenue)
+b. Look at total revenues at the park
+c. Choose an intermediate number
+¨Would your answer be different if you were analyzing 
+whether to introduce  a new show on the Disney cable 
+channel on Saturday mornings that is expected to attract 20% 
+of its viewers from ABC (which is also owned by Disney)?
+a. Yes
+b. No
