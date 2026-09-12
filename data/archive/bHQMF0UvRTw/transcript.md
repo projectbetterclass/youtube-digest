@@ -1,0 +1,5 @@
+# How To Get More Customers
+
+<https://www.youtube.com/shorts/bHQMF0UvRTw>
+
+You only sell because you don't know how to market, and you only market because you don't know how to build a product. There's only five ways you can get more customers. Number one is you reach out to people privately. So, you cold call, cold DM, cold email, whatever. The next one is that you make content that attracts people to you. They find your stuff, they discover it. The third is that you run paid ads. The fourth is that you get affiliates and partners, other businesses who serve people like your customers and refer them to you. And then finally, customers tell other customers. Yes. Every time you get a customer, that customer brings you two more customers. That is like the great equalizer in business. I had a first-hand experience with this, the book The Offer's Button, because I made one post about it, one, and I didn't have a following. Right now, it's sold over 200,000 copies in the first year, and I have no paid ads, I have no anything. It was just because people were like, "You should check this book out."
