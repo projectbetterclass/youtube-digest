@@ -1,0 +1,5 @@
+# How To Know Something Is Valuable
+
+<https://www.youtube.com/shorts/SLdbVulRws8>
+
+Look at the car he's driving, look [music] at the watch he's wearing, look at the girl he's with. That's unattainable to many people, so it seems [music] like it's valuable. But then you attained it, and then you realized, "Oh, this isn't valuable. This is just difficult to get." [music] And there's a big difference. What's valuable is something that fulfills you intellectually, emotionally, spiritually, and lovingly. Most smart people realize that there is value [music] in stepping outside of their comfort, that on the other side of discomfort is something valuable. We're [music] told that worthwhile things are difficult to attain, because if they weren't difficult to attain, they wouldn't be worthwhile. This is how non-valuable but difficult things get slipped into our [music] desires without us noticing. Attaining something worthwhile is often going to be difficult, [music] but just because it's difficult doesn't mean it's worthwhile. >> [music]
