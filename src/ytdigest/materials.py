@@ -1,11 +1,12 @@
 """Download safe linked documents (allowlist only) and extract their text.
 
 Safety posture:
-  * https-only (enforced upstream in links.classify_url).
+  * https-only, except a tiny trusted-host allowlist for plain http (enforced upstream
+    in links.classify_url — e.g. Aswath Damodaran's NYU pages).
   * Size cap while streaming (never trust Content-Length alone).
   * Content-type must look like the expected document type.
   * Short timeouts; nothing is ever executed.
-Only PDF/PPTX direct links and SlideShare/Speaker Deck are fetched. Everything
+PDF/PPTX/Excel direct links and SlideShare/Speaker Deck pages are fetched. Everything
 downloaded lives in memory (BytesIO) — no binaries are written to disk or committed.
 """
 
@@ -96,6 +97,34 @@ def _extract_pptx_text(data: bytes) -> str:
     return "\n\n".join(blocks).strip()
 
 
+def _extract_xlsx_text(data: bytes, max_cells_per_sheet: int = 5000) -> str:
+    """Dump non-empty cell values from an .xlsx/.xlsm workbook, sheet by sheet.
+
+    Uses computed values (data_only) so numbers come through rather than formula
+    strings. Legacy .xls (binary BIFF) isn't handled here — the raw file is what a
+    valuation project wants anyway; this text is just for search/'ask your library'.
+    """
+    from openpyxl import load_workbook
+
+    wb = load_workbook(io.BytesIO(data), read_only=True, data_only=True)
+    blocks = []
+    for ws in wb.worksheets:
+        rows = []
+        cells = 0
+        for row in ws.iter_rows(values_only=True):
+            vals = [str(c) for c in row if c is not None and str(c).strip()]
+            cells += len(vals)
+            if vals:
+                rows.append(" | ".join(vals))
+            if cells >= max_cells_per_sheet:
+                rows.append("[sheet truncated]")
+                break
+        if rows:
+            blocks.append(f"Sheet: {ws.title}\n" + "\n".join(rows))
+    wb.close()
+    return "\n\n".join(blocks).strip()
+
+
 def fetch_material(link: Link, settings: Settings, session: requests.Session) -> Material:
     """Download one allowlisted link and extract its text. Never raises — errors go in Material.error."""
     mat = Material(url=link.url, category=link.category)
@@ -111,14 +140,27 @@ def fetch_material(link: Link, settings: Settings, session: requests.Session) ->
         data, ctype = _download(download_url, session, settings.max_download_bytes)
         mat.filename = download_url.rsplit("/", 1)[-1][:120]
 
-        is_pptx = link.category == "pptx" or download_url.lower().endswith(".pptx")
+        low = download_url.lower()
+        is_pptx = link.category == "pptx" or low.endswith(".pptx")
+        is_excel = link.category == "excel" or low.endswith((".xlsx", ".xlsm", ".xls"))
         if is_pptx:
-            if not ("presentationml" in ctype or "octet-stream" in ctype or download_url.lower().endswith(".pptx")):
+            if not ("presentationml" in ctype or "octet-stream" in ctype or low.endswith(".pptx")):
                 mat.error = f"unexpected content-type for pptx: {ctype!r}"
                 return mat
             text = _extract_pptx_text(data)
+        elif is_excel:
+            if not ("spreadsheet" in ctype or "excel" in ctype or "octet-stream" in ctype
+                    or low.endswith((".xlsx", ".xlsm", ".xls"))):
+                mat.error = f"unexpected content-type for excel: {ctype!r}"
+                return mat
+            if low.endswith(".xls"):
+                # Legacy binary .xls: no text extractor wired in; the raw file is the
+                # deliverable. Record a marker so it isn't retried as "no text".
+                mat.text = f"[legacy .xls workbook: {mat.filename} — see raw file]"
+                return mat
+            text = _extract_xlsx_text(data)
         else:
-            if not ("pdf" in ctype or "octet-stream" in ctype or download_url.lower().endswith(".pdf")):
+            if not ("pdf" in ctype or "octet-stream" in ctype or low.endswith(".pdf")):
                 mat.error = f"unexpected content-type for pdf: {ctype!r}"
                 return mat
             text = _extract_pdf_text(data)
