@@ -19,9 +19,26 @@ _URL_RE = re.compile(r"https?://[^\s<>()\[\]{}\"']+", re.IGNORECASE)
 # Trailing punctuation that is almost never part of the actual URL.
 _TRAILING = ".,;:!?'\")]}>"
 
-_DOWNLOAD_EXTS = (".pdf", ".pptx")
+_DOWNLOAD_EXTS = (".pdf", ".pptx", ".xls", ".xlsx", ".xlsm")
+_EXCEL_EXTS = (".xls", ".xlsx", ".xlsm")
 _SLIDE_HOSTS = {"slideshare.net", "speakerdeck.com"}
 _PAPER_HOSTS = {"arxiv.org", "openreview.net", "papers.nips.cc", "aclanthology.org"}
+# Registered domains we trust enough to fetch documents from over plain http, not just
+# https. Kept deliberately tiny: these are academic pages (e.g. Aswath Damodaran's NYU
+# site) that host slide PDFs and valuation spreadsheets under http:// on older pages.
+# The https-only rule still applies to every other host.
+_TRUSTED_HTTP_HOSTS = {"nyu.edu"}
+
+
+def _ext_category(path: str) -> str | None:
+    """Map a URL path to a document category, or None if it isn't a known doc type."""
+    if path.endswith(".pdf"):
+        return "pdf"
+    if path.endswith(".pptx"):
+        return "pptx"
+    if path.endswith(_EXCEL_EXTS):
+        return "excel"
+    return None
 
 
 def extract_urls(text: str) -> list[str]:
@@ -52,12 +69,13 @@ def classify_url(url: str) -> Link:
     reg = _registered(host)
     path = (urlparse(url).path or "").lower()
     is_https = url.lower().startswith("https://")
+    # http is allowed only for a tiny set of trusted academic hosts; https everywhere else.
+    scheme_ok = is_https or reg in _TRUSTED_HTTP_HOSTS
 
-    # Safe downloadable documents (https only).
-    if is_https and path.endswith(".pdf"):
-        return Link(url=url, kind="download", category="pdf")
-    if is_https and path.endswith(".pptx"):
-        return Link(url=url, kind="download", category="pptx")
+    # Safe downloadable documents: a known doc extension over an allowed scheme.
+    ext_cat = _ext_category(path)
+    if scheme_ok and ext_cat:
+        return Link(url=url, kind="download", category=ext_cat)
     if is_https and reg in _SLIDE_HOSTS:
         category = "speakerdeck" if reg == "speakerdeck.com" else "slideshare"
         return Link(url=url, kind="download", category=category)
@@ -67,9 +85,9 @@ def classify_url(url: str) -> Link:
         category = "github"
     elif reg in _PAPER_HOSTS:
         category = "paper"
-    elif path.endswith(_DOWNLOAD_EXTS):
-        # A .pdf/.pptx that wasn't https — list it, don't fetch it.
-        category = "pdf" if path.endswith(".pdf") else "pptx"
+    elif ext_cat:
+        # A doc-type link we won't fetch (e.g. a .pdf/.xlsx over untrusted http) — list it.
+        category = ext_cat
     else:
         category = "other"
     return Link(url=url, kind="list", category=category)
