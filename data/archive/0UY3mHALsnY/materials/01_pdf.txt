@@ -1,0 +1,72 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfexams/CfQuiz1aSpr20.pdf
+
+Spring 2020 Name: 
+ 1 
+Quiz 1: Corporate Finance 
+Answer all questions and show necessary work. Please be brief. This is an open books, 
+open notes exam.  
+1. Corporate Governance/Risk Basics section.  
+Each of the following multiple-choice questions is worth ½ point. Please pick only 
+one answer for each question. 
+a. For corporate governance to work, you need an effective board of directors. 
+Which of the following would you look for as the best indication of an 
+effective board? 
+i. A board of long-tenured directors 
+ii. A board of directors with expertise in the business of the company. 
+iii. A board of directors with no conflicts of interest with management 
+iv. A board of directors that has overridden management (and the CEO) 
+on key decisions.  
+v. A board of directors with diverse backgrounds and interests. 
+b. One proposal that has been floated to make companies behave in a more long-
+term way is to restrict voting at annual meetings only to shareholders who 
+have held shares for more than a year. What effect do you think this restriction 
+will have on shareholder and managerial power? 
+i. It will increase shareholder power and decrease managerial power 
+ii. It will decrease shareholder power and increase managerial power 
+iii. It will have no effect on the power of either shareholders or managers. 
+c. Assume that you believe that markets are efficient. In efficient markets, which 
+of the following would you expect to observe? 
+i. Investors in well managed (good) companies should expect to earn 
+higher returns than investors in badly managed firms, after adjusting 
+for risk. 
+ii. Investors in badly managed (bad) companies should expect to earn 
+higher returns than investors in well managed firms, after adjusting for 
+risk. 
+iii. Investors in both well managed and badly managed firms should 
+expect to earn the same returns, after adjusting for risk. 
+d. A portfolio of 50 small cap, volatile stocks will always have a higher standard 
+deviation than a portfolio of 50 large cap, more stable stocks. 
+i. True 
+ii. False
+Spring 2020 Name: 
+ 2 
+2. Zona Hotels is a Latin American hotel company that derives 75% of its revenues 
+in Brazil and 25% in Argentina and you have collected the following information 
+on the countries: 
+  US $ 10-year bond rate Local Currency 10-year bond rate 
+Brazil 3.50% 7.50% 
+Argentina 8.50% 12.50% 
+If the risk free rate in US dollars is 1.50% and the equity risk premium in the US 
+(a mature market) is 5%, estimate the cost of equity for Zona in Brazilian Reais. 
+(The beta for Zona is 1.20 and equity is 1.30 times more volatile than the 
+government bonds in emerging markets).    (3 points)
+Spring 2020 Name: 
+ 3 
+3. You have run a regression for Ronan Chemicals, using stock price data from the 
+last 2 years and arrived at the following: 
+Return Ronan = 0.25% + 1.035 Returns S&P 500 
+During the two years (used in the regression), Ronan Chemicals had an average 
+debt to equity ratio of 20% and faced a marginal tax rate of 25%. While the 
+marginal tax rate is still 25%, Ronan Chemicals currently has a market 
+capitalization of $1,500 million and total debt outstanding of $1,000 million. 
+Starting with the regression beta, estimate the correct beta for the firm, given its 
+changed financial leverage.      (2 points)
+Spring 2020 Name: 
+ 4 
+4. CressKill Autos is an automobile company in two businesses, automobiles and 
+energy, and you have been given the breakdown of the two businesses below: 
+  Revenue ($ millions) EV/Sales Unlevered Beta 
+Autos  $                3,000.00  1.00 0.9 
+Energy  $                2,000.00  3.00 0.6 
+If CressKill has $3,000 million in debt outstanding, estimate the levered beta for 
+the company. (The marginal tax rate is 25%)   (3 points)

@@ -1,0 +1,209 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfexams/WFDining2019.pdf
+
+THE WHOLE FOODS DINING CASE:
+INVESTMENT ANALYSIS
+Aswath Damodaran
+2
+Discrete and Continuous Time
+3
+Summary of Conclusions
+¨ On a stand-alone basis, this project does not pass muster, but with the synergy 
+benefits counted in, it does.
+¨ The average return on capital, in the finite life case, is 6.38%, without synergy and about 
+13.44% with synergy. The latter is higher than the cost of capital for WF Dining, which is 8.53%. 
+¤ The net present value of the cash flows on WF Dining, using a cost of capital of 8.16%
+nIs -$109 million, under the finite life assumption of a of 15 years. Adding the present value 
+of the side benefits to the stores, the NPV is  +$82 million.
+nIs -$78 million, under the assumption of an infinite life. Adding the present value of the 
+side benefits of the stories, the NPV is $284 million.
+n The IRR is 4.90% (9.27%) with a  15-year life and 5.43% (10.53%) with the infinite life, with the 
+number in brackets representing the IRR with synergy counted in.
+¨ Since this investment becomes a good one only after the consideration of the side 
+benefits from prepared foods, I would look at alternative (less expensive and less 
+involved) ways in which I could promote the sales of prepared foods. 
+¨ This is, at best, a “blah” project. If Whole Foods were a stand alone enterprise, WF 
+Dining would not be a good place to tie up scarce resources.
+Other ﬁrms in the Restaurant business
+Median 
+regression beta
+1.29
+Median D/E 
+33.86%
+Median Cash/
+Value 1.30%
+Unlevered Beta =
+1.29/(1+(1-.25)(.3386)) = 
+1.0287
+Unlevered Beta corrected for cash =
+1.0287/(1-.013) = 1.0423
+Amazon
+Market Equity 
+55 *372 = 
+$20,460 m
+Market Debt =
+PV of leases =
+$20,998 m + 
+$24,700=$45,698
+WF D/E = 45698/784000 = 5.83%
+WF D/C = 5.51%
+Levered beta for WF Dining=
+1.0423 *(1+(1-.25)(.0583)) = 1.0879
+Riskfree rate 
+= 2.75%
+Cost of equity for WF Dining = 2.75% + 1.0879 (5.58%) = 8.81%
+Pre-tax Cost of debt =
+2.75%+2% = 4.75%
+Cost of capital for WF Dining= 8.81% (..9449) + 4.75% (1-.25) ( .0551) = 8.53%
+Unlevered beta for WF 
+Prep Foods = 0.90
+WF D/E ratio = 
+5.83%
+Levered beta  for WF Prep Foods = 
+0.90 (1+(1-.25) (.0583)) = 0.9393
+Cost of capital for WF Prep Foods = 7.99% (.9449) + 4.75% (1 -.25) (..0551) = 7.28%
+Cost of equity for WF Prep Foods = 2.75% + 0.9393(5.58%) = 7.99%
+Marginal tax 
+rate = 25%
+Country Equity Risk Premium% of revenues
+United States
+Canada
+United Kingdom 6.25% 10%
+Whole Foods Dining 5.575%
+5.50% 90%
+5
+Cost of Capital: Your numbers
+6
+WF Dining: Operating Income & 
+Incremental Operating Income
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Revenues $150.00$221.85$304.32$384.69$446.50$510.64$543.37$568.60$585.83$597.55$609.50$621.69$634.12$646.80$659.74
+-Fixed Costs $100.00$122.40$145.66$169.79$194.84$220.82$225.23$229.74$234.33$239.02$243.80$248.67$253.65$258.72$263.90
+-Food Costs $45.00$66.56$91.30$115.41$133.95$153.19$163.01$170.58$175.75$179.26$182.85$186.51$190.24$194.04$197.92
+-Other Variable 
+Costs $15.00$22.19$30.43$38.47$44.65$51.06$54.34$56.86$58.58$59.75$60.95$62.17$63.41$64.68$65.97
+-Depreciation $10.00$12.04$14.12$16.24$18.41$20.62$20.62$20.62$20.62$20.62$20.62$20.62$20.62$20.62$20.62
+-Marketing $3.00 $6.13 $9.41 $9.60 $9.79 $9.99 $10.19$10.39$10.60$10.81$11.02$11.25$11.47$11.70$11.93
+-Allocated G&A $25.32$26.35$27.44$28.55$29.61$30.70$31.69$32.68$33.66$34.64$35.66$36.71$37.78$38.89$40.03
+Operating Income -$48.32-$33.81-$14.04 $6.63 $15.26$24.26$38.30$47.74$52.30$53.44$54.60$55.77$56.96$58.16$59.37
+-Taxes -$12.08-$8.45-$3.51$1.66 $3.81 $6.07 $9.57$11.94$13.07$13.36$13.65$13.94$14.24$14.54$14.84
+Operating Income 
+after taxes $0.00-$36.24-$25.36-$10.53$4.97$11.44$18.20$28.72$35.81$39.22$40.08$40.95$41.83$42.72$43.62$44.53
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Revenues $150.00$221.85$304.32$384.69$446.50$510.64$543.37$568.60$585.83$597.55$609.50$621.69$634.12$646.80$659.74
+-Fixed Costs $100.00$122.40$145.66$169.79$194.84$220.82$225.23$229.74$234.33$239.02$243.80$248.67$253.65$258.72$263.90
+-Food Costs $45.00$66.56$91.30$115.41$133.95$153.19$163.01$170.58$175.75$179.26$182.85$186.51$190.24$194.04$197.92
+-Other Variable 
+Costs $15.00$22.19$30.43$38.47$44.65$51.06$54.34$56.86$58.58$59.75$60.95$62.17$63.41$64.68$65.97
+-Depreciation $10.00$12.04$14.12$16.24$18.41$20.62$20.62$20.62$20.62$20.62$20.62$20.62$20.62$20.62$20.62
+-Marketing $3.00 $6.13 $9.41 $9.60 $9.79 $9.99 $10.19$10.39$10.60$10.81$11.02$11.25$11.47$11.70$11.93
+-Allocated G&A $10.00$14.79$20.29$25.65$29.77$34.04$36.22$37.91$39.06$39.84$40.63$41.45$42.27$43.12$43.98
+Incremental OI -$33.00-$22.26-$6.88 $9.53 $15.10$20.92$33.77$42.51$46.90$48.25$49.63$51.03$52.46$53.92$55.42
+-Taxes ($8.25)($5.57)($1.72) $2.38 $3.78 $5.23 $8.44 $10.63 $11.73 $12.06 $12.41 $12.76 $13.12 $13.48 $13.86 
+Incremental OI 
+after taxes $0.00($24.75)($16.70)($5.16) $7.15 $11.33 $15.69 $25.33 $31.88 $35.18 $36.19 $37.22 $38.27 $39.35 $40.44 $41.57
+7
+Return on Capital Computation
+BV of capital = Undepreciated portion of original investment 
++ BV of Parking Investment + Non-cash Working capital
+8
+Some Thoughts on Operating Income...
+¨There are a number of allocation mechanisms that 
+can be used to compute operating income, and the 
+return on capital is affected by decisions on 
+allocation.
+¨Your choices on depreciation have profound effects 
+on return on capital. Using a more accelerated 
+depreciation method would raise your return on 
+capital substantially.
+¨Note that the operating income is computed after 
+marginal taxes (Why?) and does not include the tax 
+savings due to interest expenses (Why?).
+9
+Your findings: Return on Capital
+10
+Finite Life case assumptions
+¨Incremental Effects
+¤When analyzing the cost of parking expansion, we consider the cost of the 
+system in year 6 ($ 169 million) but we show the savings in year 12 ($ 190 
+million). Similarly, for depreciation, we show the depreciation on the existing 
+system of $ 16.9 million from year 6-11, but show the differential depreciation 
+of -$2.13 million between the two systems in years 12-15. 
+¤Since we are planning on wrapping up the business in 15 years, there is no 
+need for significant capital maintenance expenditures.
+¨Both working capital investments and restaurant investments are 
+assumed to occur at the start of the year and are therefore shown at the 
+end of the previous year .
+11
+Incremental Cash Flows -Finite Life
+12
+The Side Benefits for Prepared Foods
+13
+The Value Effect: NPV
+14
+Your findings… Finite Life NPV
+15
+Explanations for Infinite Life Case
+¨Whenextendingtheprojectlifetoinfinity,Ididmakesome
+changestotheassumptionsaboutcapitalmaintenance.
+¤Madethecapitalexpenditureexceeddepreciationby2%(theinflation
+rate)allthroughthe15years.Essentially,Iamassumingthatwhatever
+depletionoccursinbookvaluebecauseofdepreciationismadeupby
+newcapitalmaintenanceexpendituresinthatyear,withtheinflation
+adjustment.
+¤Setcapitalexpenditures2%higherthandepreciationinyear16,to
+allowforthefactthatinperpetuity,Iwouldhavetokeepstores
+lookingpristinetohavegrowthof2%ayearforever.
+¨Thesynergybenefitsnowcontinueinperpetuityaswell.
+16
+Incremental Cash Flows-Infinite Life
+17
+The terminal value calculation
+¨Cash flow to the firm in year 16 
+= EBIT (1-t) + Depreciation –Cap Ex –Change in WC
+= $ 45.42 + $ 21.03 –$ 21.45 -$ 0.67 = $45.09 million
+¨Terminal Value 
+= CF in year 16/ (Cost of capital –g)
+= 45.09/(.0853-.02) = $691.04 million
+18
+Finite versus Infinite: The Cash Flow Trade off
+Year Finite Life Perpetual Life Difference
+0 $                     (207.50) $                         (207.50) $                           -
+1 $                       (59.14) $                           (67.67) $                      (8.53)
+2 $                       (50.39) $                           (60.66) $                    (10.27)
+3 $                       (37.51) $                           (49.55) $                    (12.04)
+4 $                       (23.00) $                           (36.85) $                    (13.85)
+5 $                       (17.64) $                           (33.34) $                    (15.70)
+6 $                     (134.25) $                         (151.84) $                    (17.58)
+7 $                         48.90 $                             31.32 $                    (17.58)
+8 $                         55.86 $                             38.28 $                    (17.58)
+9 $                         59.43 $                             41.84 $                    (17.58)
+10 $                         60.43 $                             42.84 $                    (17.58)
+11 $                         61.45 $                             43.87 $                    (17.58)
+12 $                       247.97 $                           230.39 $                    (17.58)
+13 $                         58.80 $                             41.21 $                    (17.58)
+14 $                         59.88 $                             42.30 $                    (17.58)
+15 $                       229.98 $                           734.44 $                    504.46
+19
+Value Added: NPV of Infinite Life Case
+20
+Consistency in growth and investment 
+assumptions
+After year 15 Capital Expenditure Assumption
+Project ends No (or very low) capital maintenance
+Let assets run down towards end of life
+Infinite life; g=0% Capital maintenance = Depreciation
+Maintain invested capital at base level
+Infinite life; g= inflationCapital maintenance > Depreciation
+Capital invested has to grow at inflation rate
+Infinite life; g> inflationCapital investment to increase capacity
+Capital maintenance > Depreciation
+Capital invested has to grow to reflect real 
+growth
+21
+Your findings: Infinite Life
+22
+Final Conclusions
+¨Of the 55 groups that turned in numbers on this project,  8 decided that it 
+should be rejected.
+¨43 groups suggested that the investment be made…
+¨Four groups made conditional recommendations.

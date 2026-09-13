@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/dbtfundGlobal.xls
+
+[legacy .xls workbook: dbtfundGlobal.xls — see raw file]

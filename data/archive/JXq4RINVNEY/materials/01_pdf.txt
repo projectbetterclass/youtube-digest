@@ -1,0 +1,165 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate2for2021.pdf
+
+DATA UPDATE 2 FOR 2021: THE 
+PRICE OF RISK!
+Risk on, risk off…
+2
+The ”One” Metric
+¨Investors are often in search of a single metric that will tell them whether 
+a market is under or over valued, and consequently whether they should 
+buyingor selling holdings in that market. 
+¨With equities, the metric that has been in use the longest is the PE ratio, 
+modified in recent years to the CAPE, where earnings are normalized (by 
+averaging over time) and sometimes adjusted for inflation. 
+¤That metric, though, has been signaling that stocks are over valued for most of the 
+last decade, a ten-year period when stocks delivered blockbuster returns.  
+¤The failures of the signal have been variously attributed to low interest rates, 
+accounting mis-measurement of earnings (especially at tech companies), and by 
+some, to animal spirits. 
+¨In this post, I offer an alternative, albeit a more complicated, metric that I 
+believe not only offers a more comprehensive measure of pricing levels, 
+but also a barometer of the ups and downs in the market in 2020.
+3
+ThePriceofRisk
+4
+Basic Propositions
+1. Risk premiums can be estimated: If you can observe the price that an 
+investor pays for a risky asset, andare willing to estimate the expected 
+cash flows on that asset, you can estimate the expected return on that 
+asset and net out the risk freeasset to arrive at a risk premium. 
+2. Risk premiums can and will change over time: Risk premiums are driven 
+by risk aversion, and risk aversion itself can change over time. In fact, 
+greed and fear, two big drivers of market prices, also affect risk aversion, 
+with investors becoming more risk averse and charging higher 
+premiums, when the fear factor becomes dominant.
+3. When risk premiums change, prices will move: As risk premiums 
+change, the prices that investors are willing to pay for risky assets will 
+also change, with the two moving in opposite directions. Intuitively, if 
+you want to earn a higher risk premium on an investment, holding cash 
+flows fixed, you will pay less for that investment today.
+5
+Corporate Bonds: The Price of Risk
+¨If you accept the proposition that a bond with default risk is riskier than 
+an otherwise equivalent bond (same coupon and maturity) issued by a 
+default-free entity, the price of risk in the bond market can be measured 
+by looking at the differences in yields between the two bonds.
+6
+Corporate Bond Spreads: Jan 2021 vs Jan 2020
+7
+After a roller coaster ride in 2020
+8
+Are spreads too low? Comparing to history
+9
+And to default rates…
+10
+Equities: The Price of Risk
+¨Equities are riskier than bonds (or at least most bonds), 
+and it stands to reason that there is a price of risk 
+bearing in the equity markets. 
+¨While that price has a name, i.e., the equity risk 
+premium, it is more difficult to observe and estimate 
+than the default spread in bond markets. The simple 
+reason is that unlike a bond, which comes with specified 
+coupons, the cash flows that you receive when you buy 
+stocks are neither pre-specified nor guaranteed. 
+¨This difficulty in observing the equity risk premium leads 
+many to look backwards, when asked to estimate the 
+equity risk premium.
+11
+Historical ERP
+12
+An Alternative…
+13
+The ERP on January 1, 2021
+14
+And the wild ride in 2020…
+15
+A Market Gauge?
+¨As we are engulfed by talk of market bubbles and 
+corrections, it is worth nothing that any question 
+about the overall market can really be reframed as a 
+question about the implied equity risk premium. 
+¤If you believe that the current implied equity risk premium 
+is too low, you are in effect also saying that stocks are 
+overvalued, just as a judgment that the equity risk 
+premium is too high is equivalent to arguing that stocks are 
+undervalued. 
+¤So, at 4.72%, is the equity risk premium too low and is the 
+market in a bubble?
+16
+Comparison to History
+17
+But….
+18
+To value the market…
+¨ Earnings on the index: You cannot value a market based upon last year's earnings 
+(though many do so). Investing is about the future, and uncomfortable as it makes 
+you, you have tomake estimates for the future. With an index like the S&P 500, 
+you can even outsource these estimates, by looking at consensus forecasts from 
+analysts tracking the index.
+¨ Cash returned, relative to earnings: Since it is cash returned to stockholders that 
+drives value, you also have tomake judgments on what percent of earnings will be 
+returned to stockholders, either in dividends or buybacks. To this, you can look to 
+history, but recognize that it is also a function of the confidence that companies 
+have about the future, with more confidence leading to higher cash being 
+returned.
+¨ Risk free rates over time: While it is generally not a good idea to play interest rate 
+forecaster, we are in unusual times, especially because your views on future 
+growth in the economy are intertwined with what will happen to risk free rates.
+¨ An acceptable ERP: As I noted in the last section, equity risk premiums have been 
+volatile over time, and particularly so in years in 2020. The equity risk premium, 
+added to the risk freerate, will determine what you need stock returns to be, to 
+break even on a risk-adjusted basis.
+19
+My S&P 500 valuation on Jan 1, 2021
+20
+TheDrivers.. And Scenarios
+Economy strong Economy weak
+Interest rates stay low Goldilocks market, with interest rates 
+staying low (1%), earnings above 
+expectations (+10%) and ERP drifting 
+back to historic norms (4.2%).
+Index is undervalued by 19.83%
+Big Bear market, with interest rates low 
+(1%), earnings below expectations (-
+5%) and ERP moving to crisis levels 
+(5.5%).
+Index is overvalued by 23.07%
+Interest rates rise 
+gradually
+Reality-check market, with interest rates 
+rising gradually (to 2%), earnings above 
+expectations (+5%) and ERP settling in at 
+5%.
+Index is overvalued by 6.46 %
+Big Bear market, with interest rates 
+rising gradually (to 2%), earnings below 
+expectations (-5%) and ERP moving to 
+crisis levels (5.5%).
+Index is overvalued by 30.42%
+Interest rates rise quicklyRate Shock market, with interest rates 
+rising quickly (to 2%), earnings at 
+expectations and ERP settling in at 5%.
+Index is overvalued by 13.21%
+Meltdown market, with interest rates 
+rising quickly (to 2%), earnings below 
+expectations (-10%) and ERP moving to 
+crisis levels (5.5%).
+Index is overvalued by 39.41%
+21
+The Bottom Line
+¨I am a reluctant market timer, but ultimatelywe all time markets, 
+implicitly or explicitly,theformerinhowmuch ofyourportfolio
+staysincashorgoes into non-equity investments, and the latter 
+where you buy protection against market drops or bet on market 
+moves.
+¨Going into 2021, I have far more cash in my portfolio than I usually 
+do, and for the first time in a long, long time, I have bought partial 
+protection against a market drop, using derivatives. It is insurance, 
+and like all insurance, my best casescenario is that I never need to 
+use it, but it reflects my wariness about what comes next. 
+¨I am not and don't want to be in the business of doling out 
+investment advice,and I think that the healthiest pathway for you 
+is to make your ownjudgments on interest rates,earnings growth 
+and acceptable risk premiums, and follow thatwith consistent 
+actions.

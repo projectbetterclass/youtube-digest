@@ -1,0 +1,2504 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/webcasts/ROIC/walmart10Klastyear.pdf
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+FORM 10-K
+ 
+ 
+ 
+x
+Annual report pursuant to section 13 or 15(d) of the Securities Exchange Act of 1934
+for the fiscal year ended January 31, 2012,
+or
+ 
+¨
+Transition report pursuant to section 13 or 15(d) of the Securities Exchange Act of 1934
+Commission file number 1-6991.
+ 
+ 
+ 
+ 
+WAL-MART STORES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+71-0415188
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(IRS Employer
+Identification No.)
+702 S.W. 8th Street
+Bentonville, Arkansas
+ 
+72716
+(Address of principal executive offices)
+ 
+(Zip Code)
+Registrant’s telephone number, including area code: (479) 273-4000
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+ 
+ 
+Title of each class
+ 
+Name of each exchange on which registered
+Common Stock, par value $0.10 per share
+ 
+New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act: None
+ 
+ 
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes  
+x
+    No  
+¨
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act.    Yes  
+¨
+    No  
+x
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for at least the past 90 days.    Yes  
+x
+    No  
+¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to
+be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the
+registrant was required to submit and post such files).    Yes  
+x
+    No  
+¨
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best
+of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form
+10-K.    
+x
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See
+definition of “accelerated filer,” large accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+ 
+Large accelerated filer  
+x
+  
+Accelerated filer  
+¨
+Non-accelerated filer  
+¨
+  
+Smaller reporting company  
+¨
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+¨
+ No 
+x
+As of July 29, 2011, the aggregate market value of the voting common stock of the registrant held by non-affiliates of the registrant, based on the closing sale
+price of those shares on the New York Stock Exchange reported on July 29, 2011, was $91,704,538,525. For the purposes of this disclosure only, the
+registrant has assumed that its directors, executive officers (as defined in Rule 3b-7 under the Exchange Act) and the beneficial owners of 5% or more of the
+registrant’s outstanding common stock are the affiliates of the registrant.
+The registrant had 3,404,538,468 shares of common stock outstanding as of March 22, 2012.
+DOCUMENTS INCORPORATED BY REFERENCE
+ 
+Document
+  
+Parts Into Which Incorporated
+Portions of the registrant’s Annual Report to Shareholders for the Fiscal Year
+Ended January 31, 2012 (the “Annual Report to Shareholders”) included as an
+exhibit to this Form 10-K
+  
+Parts I and II
+Portions of the registrant’s Proxy Statement for the Annual Meeting of
+Shareholders to be held June 1, 2012 (the “Proxy Statement”)
+  
+Part III
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS AND INFORMATION
+This Annual Report on Form 10-K, the other reports, statements, and information that Wal-Mart Stores, Inc. (which individually or together with its
+subsidiaries, as the context otherwise requires, is hereinafter referred to as “we,” “Walmart” or the “Company”) has previously filed with or furnished to, or
+that we may subsequently file with or furnish to, the Securities and Exchange Commission (“SEC”) and public announcements that we have previously made
+or may subsequently make include, may include, or may incorporate by reference certain statements that may be deemed to be “forward-looking statements”
+within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, and that are intended to enjoy the protection of the safe harbor for
+forward-looking statements provided by that Act.
+The forward-looking statements included or incorporated by reference in this Form 10-K and that are or may be included or incorporated by reference in those
+reports, statements, information and announcements address our future economic performance, activities, events or developments that we expect or anticipate
+will or may occur in the future, including or relating, but not limited to, our expected results of operations for certain periods, including our sales, the sales of
+one or more of our operating segments, our earnings per share for certain periods, and our comparable store sales or comparable club sales of one of our
+operating segments or operations in a particular country for a period, the amount, nature and allocation of future capital expenditures, dividends, capital
+structure, opening of additional stores and clubs in the United States and additional units in the other countries in which we operate, the consummation of the
+acquisition of assets or operations, conversion of discount stores into supercenters, relocations of existing units, remodeling of or special projects at existing
+units, expansion and other development trends of the retail industry, our ability to integrate newly acquired operations into our existing operations, our
+business strategy, our business plans, our pricing strategy, our cost of goods, our inventory levels, the anticipated success and timing of various operating
+initiatives, our ability to increase our market share, our financing strategy, expansion and growth of our business, changes in our operations, including the
+mix of products sold, changes in expected sales of certain categories of products, our ability to leverage best practices, lessons from multiple formats and
+global sourcing practices, our liquidity and ability to access the capital markets, the effect of economic developments on our customers, our operations and
+our results of operations, our effective annual tax rate, and other similar matters and the assumptions underlying or relating to any such statement. Forward-
+looking statements are often identified by the use of words or phrases such as “anticipate,” “believe,” “could occur,” “could result,” “continue,” “estimate,”
+“expect,” “forecast,” “guidance,” “plan,” “projected,” “will be,” “will continue,” “will change,” “will decrease,” “will have,” “will increase,” and “will
+remain,” or words or other phrases commencing with the word “will,” or phrases that are variations of or that use such words or phrases and other similar
+words and phrases that denote anticipated or expected occurrences or results.
+Our business operations are subject to numerous risks, factors and uncertainties, domestically and internationally, which are outside our control. Any one, or
+a combination, of these risks, factors and uncertainties could materially affect our financial performance, our results of operations, including our sales,
+earnings per share or comparable store sales or comparable club sales and effective tax rate for any period, business operations, business strategy, plans, goals
+or objectives. These factors include, but are not limited to: general economic conditions, including changes in the economy of the United States or other
+specific markets in which we operate, economic instability, changes in the monetary policies of the United States, the Board of Governors of the Federal
+Reserve System, other governments or central banks, economic crises and disruptions in the financial markets, including as a result of sovereign debt crises,
+governmental budget deficits, unemployment and partial employment levels, employment conditions within our markets, credit availability to consumers and
+businesses, levels of consumer disposable income, consumer confidence, consumer credit availability, consumer spending patterns, consumer debt levels,
+inflation, deflation, commodity prices, the cost of the goods we sell, competitive pressures, the seasonality of our business, seasonal buying patterns in the
+United States and our other markets, labor costs, transportation costs, the cost of diesel fuel, gasoline, natural gas and electricity, the selling prices of fuel, the
+cost of healthcare and other benefits, accident costs, our casualty and other insurance costs, information security costs, the cost of construction materials,
+availability of acceptable building sites for new stores, clubs and other formats, availability of qualified labor pools in the specific markets in which we
+operate, zoning, land use and other regulatory restrictions, competitive pressures, accident-related costs, weather conditions and events, catastrophic events
+and natural disasters, as well as storm and other damage to our stores, clubs, distribution centers and other facilities and store closings and other limitations
+on customer access to our stores and clubs resulting from such events and disasters, disruption in our supply chain, including availability and transport of
+goods from domestic and foreign suppliers, trade restrictions, changes in tariff and freight rates, adoption of or changes in tax, labor and other laws and
+regulations that affect our business, including changes in corporate tax rates, costs of compliance with laws and regulations, the resolution of tax matters,
+developments in and the outcome of legal and regulatory proceedings to which we are a party or are subject, currency exchange rate fluctuations and volatility,
+fluctuations in market rates of interest, and other conditions and events affecting domestic and global financial and capital markets, public health
+emergencies, economic and geo-political conditions and events, including civil unrest and disturbances and terrorist attacks.
+ 
+Moreover, we typically earn a
+disproportionate part of our annual operating income in the fourth quarter as a result of the seasonal buying patterns. Those buying patterns are difficult to
+forecast with certainty and can be affected by many factors.
+The foregoing list of factors that may affect our operations and financial performance is not exclusive. Other factors and unanticipated events could adversely
+affect our business operations and financial performance. Our business operations, results of operations, financial condition and liquidity are subject to other
+risk factors and uncertainties, which we discuss below under the caption “Item 1A. Risk Factors,” and in Management’s Discussion and Analysis of
+Financial Condition and Results of Operations incorporated by reference in our Annual Reports on Form 10-K and
+ 
+2
+appearing in our Quarterly Reports on Form 10-Q. In addition, from time to time, we may disclose additional risk factors in our Quarterly Reports on Form
+10-Q and other reports filed with the SEC. Investors and other readers are urged to consider all of these risks, uncertainties and other factors carefully in
+evaluating the forward-looking statements. Forward-looking statements that we make or that are made by others on our behalf are based on a knowledge of our
+business and the environment in which we operate and assumptions that we believe to be reasonable at the time such forward-looking statements are made, but
+because of the factors described and listed above, as well as the other risks, uncertainties and other factors, or as a result of changes in facts, assumptions not
+being realized or other circumstances, actual results may differ materially from those contemplated in the forward-looking statements. Consequently, this
+cautionary statement qualifies all of the forward-looking statements we make or that are made on our behalf, including those made herein and that are
+incorporated by reference herein. We cannot assure the reader that the results or developments expected or anticipated by us will be realized or, even if
+substantially realized, that those results or developments will result in the expected consequences for us or affect us, our business, our operations or our
+operating results in the way we expect. We caution readers not to place undue reliance on such forward-looking statements, which speak only as of their dates.
+We undertake no obligation to update any of the forward-looking statements to reflect subsequent events or circumstances except to the extent required by
+applicable law.
+ 
+3
+WAL-MART STORES, INC.
+ANNUAL REPORT ON FORM 10-K
+FOR THE FISCAL YEAR ENDED JANUARY 31, 2012
+PART I
+ 
+ITEM 1.
+BUSINESS
+General
+Wal-Mart Stores, Inc. (“Walmart,” the “Company” or “we”) operates retail stores in various formats around the world and is committed to saving people
+money so they can live better. We earn the trust of our customers every day by providing a broad assortment of quality merchandise and services at everyday
+low prices (“EDLP”) while fostering a culture that rewards and embraces mutual respect, integrity and diversity. EDLP is our pricing philosophy under which
+we price items at a low price everyday so our customers trust that our prices will not change under frequent promotional activity. Our consolidated financial
+statements are based on a fiscal year ending on January 31 for our United States (“U.S.”) and Canadian operations and December 31 for all other operations.
+During the fiscal year ended January 31, 2012, we generated net sales of approximately $443.9 billion.
+Currently, our operations comprise three reportable business segments: the Walmart U.S. segment; the Walmart International segment; and the Sam’s Club
+segment.
+Our Walmart U.S. segment is the largest segment of our business, accounting for approximately 60% of our fiscal 2012 net sales and operates retail stores in
+various formats in all 50 states in the U.S. and Puerto Rico, as well as Walmart’s online retail operations, walmart.com.
+Our Walmart International segment consists of retail operations in 26 countries. This segment generated approximately 28% of our fiscal 2012 net sales. The
+Walmart International segment includes numerous formats of retail stores, restaurants, Sam’s Clubs and online retail operations that operate outside the U.S.
+Our Sam’s Club segment consists of membership warehouse clubs operated in 47 states in the U.S. and Puerto Rico, as well as the segment’s online retail
+operations, samsclub.com. Sam’s Club accounted for approximately 12% of our fiscal 2012 net sales.
+We maintain our principal offices at 702 S.W. 8th Street, Bentonville, Arkansas 72716, USA.
+The Development of Our Company
+Although Walmart was incorporated in Delaware in October 1969, the businesses conducted by our founders began in 1945 when Sam M. Walton opened a
+franchise Ben Franklin variety store in Newport, Arkansas. In 1946, his brother, James L. Walton, opened a similar store in Versailles, Missouri. Until
+1962, our founders’ business was devoted entirely to the operation of variety stores. In that year, the first Wal-Mart Discount City, which was a discount
+store, opened in Rogers, Arkansas. In fiscal 1984, we opened our first three Sam’s Clubs, and in fiscal 1988, we opened our first supercenter. In fiscal
+1999, we opened our first Neighborhood Market.
+In fiscal 1992, we began our first international initiative when we entered into a joint venture in Mexico, in which we owned a 50% interest along with Cifra
+S.A. de C.V. (“Cifra”). In 1998, we acquired the controlling interest in Cifra, and in February 2000, Cifra officially changed its name to Wal-Mart de Mexico,
+S.A. de C.V. Since fiscal 1992, our international presence has continued to expand. At January 31, 2012, our Walmart International segment conducted retail
+business in 26 countries.
+Our Business Segments
+The Company is engaged in the operation of: retail stores located throughout the United States; its wholly-owned subsidiaries in Argentina, Brazil, Canada,
+China, Japan and the United Kingdom; its majority-owned subsidiaries in Chile, Mexico, 12 countries in Africa, and 5 countries in Central America; and its
+joint ventures in India and China and other controlled subsidiaries in China. The Company defines its segments as those business units whose operating
+results the chief operating decision maker (“CODM”) regularly reviews to analyze performance and allocate resources.
+The Walmart U.S. segment includes the Company’s mass merchant concept under the “Walmart” or “Wal-Mart” brand, as well as walmart.com. The
+Walmart International segment consists of the Company’s operations outside of the U.S. The Sam’s Club segment includes the warehouse membership clubs
+in the U.S., as well as samsclub.com.
+The Company measures the results of its segments using, among other measures, each segment’s operating income, which we calculate by including certain
+corporate overhead allocations. From time to time, we revise the measurement of each segment’s operating income, including any corporate overhead
+allocations, as dictated by the information regularly reviewed by our CODM. When we do so, the prior period amounts for segment operating income are
+reclassified to conform to the current period’s presentation.
+ 
+4
+Walmart U.S. Segment
+The Walmart U.S. segment had net sales of $264.2 billion, $260.3 billion and $259.9 billion for fiscal 2012, 2011 and 2010, respectively. During the most
+recent fiscal year, no single supercenter, discount store, Neighborhood Market or other small store format location accounted for as much as 1% of total
+Company net sales.
+General.
+ As a mass merchandiser of consumer products, the Walmart U.S. segment operates retail stores in all 50 states and Puerto Rico, with supercenters
+in 48 states and Puerto Rico, discount stores in 45 states and Puerto Rico and Neighborhood Markets and other small store formats in 18 states and Puerto
+Rico. Supercenters range in size from 78,000 square feet to 260,000 square feet, with an average size of approximately 182,000 square feet. Our discount stores
+range in size from 30,000 square feet to 219,000 square feet, with an average size of approximately 106,000 square feet. Neighborhood Markets and other
+small formats range in size from 3,000 square feet to 64,000 square feet, with an average size of approximately 38,000 square feet. From time to time, Walmart
+U.S. tests different store formats to meet market demands and needs. Customers can also purchase a broad assortment of merchandise and services online at
+www.walmart.com
+.
+WALMART U.S. SEGMENT
+UNIT COUNT AND RETAIL SQUARE FEET 
+ 
+ 
+  
+Walmart U.S.
+Supercenters
+ 
+  
+Walmart U.S.
+Discount Stores
+ 
+Fiscal Year                        
+  
+Opened
+ 
+  
+Closed
+ 
+  
+Conversions
+ 
+ 
+Total
+ 
+  
+Square
+Feet
+ 
+  
+Opened
+ 
+  
+Closed
+ 
+ 
+Conversions
+ 
+ 
+Total
+ 
+  
+Square
+Feet
+ 
+Balance Forward
+  
+  
+  
+ 
+ 
+2,262
+  
+  
+ 
+422,167
+  
+  
+  
+ 
+ 
+ 
+1,083
+  
+  
+ 
+115,487
+  
+2008
+  
+ 
+82
+  
+  
+ 
+—  
+  
+  
+ 
+109
+  
+ 
+ 
+2,453
+  
+  
+ 
+457,472
+  
+  
+ 
+7
+  
+  
+ 
+(2
+) 
+ 
+ 
+(109
+) 
+ 
+ 
+979
+  
+  
+ 
+105,541
+  
+2009
+  
+ 
+88
+  
+  
+ 
+—  
+  
+  
+ 
+79
+  
+ 
+ 
+2,620
+  
+  
+ 
+487,907
+  
+  
+ 
+2
+  
+  
+ 
+(4
+) 
+ 
+ 
+(79
+) 
+ 
+ 
+898
+  
+  
+ 
+97,156
+  
+2010
+  
+ 
+49
+  
+  
+ 
+—  
+  
+  
+ 
+86
+  
+ 
+ 
+2,755
+  
+  
+ 
+510,757
+  
+  
+ 
+—  
+  
+  
+ 
+(2
+) 
+ 
+ 
+(86
+) 
+ 
+ 
+810
+  
+  
+ 
+87,721
+  
+2011
+  
+ 
+50
+  
+  
+ 
+—  
+  
+  
+ 
+102
+  
+ 
+ 
+2,907
+  
+  
+ 
+534,577
+  
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+ 
+ 
+(102
+) 
+ 
+ 
+708
+  
+  
+ 
+75,116
+  
+2012
+  
+ 
+43
+  
+  
+ 
+—  
+  
+  
+ 
+79
+  
+ 
+ 
+3,029
+  
+  
+ 
+552,237
+  
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+ 
+ 
+(79
+) 
+ 
+ 
+629
+  
+  
+ 
+66,402
+  
+ 
+ 
+  
+Walmart U.S.
+Neighborhood Markets and Other Small Formats
+ 
+  
+ 
+ 
+  
+Total
+Walmart U.S. Segment
+ 
+Fiscal Year                        
+ 
+  
+Opened
+ 
+  
+Closed
+ 
+ 
+Total
+ 
+  
+Square
+Feet
+ 
+  
+ 
+ 
+  
+Opened 
+ 
+ 
+Closed
+ 
+ 
+Total
+ 
+  
+Square
+Feet
+ 
+Balance Forward
+  
+  
+  
+ 
+ 
+143
+  
+  
+ 
+5,485
+  
+  
+  
+ 
+ 
+ 
+3,488
+  
+  
+ 
+543,139
+  
+2008
+  
+  
+ 
+20
+  
+  
+ 
+—  
+  
+ 
+ 
+163
+  
+  
+ 
+6,365
+  
+  
+  
+ 
+109
+  
+ 
+ 
+(2
+) 
+ 
+ 
+3,595
+  
+  
+ 
+569,378
+  
+2009
+  
+  
+ 
+24
+  
+  
+ 
+(2
+) 
+ 
+ 
+185
+  
+  
+ 
+7,193
+  
+  
+  
+ 
+114
+  
+ 
+ 
+(6
+) 
+ 
+ 
+3,703
+  
+  
+ 
+592,256
+  
+2010
+  
+  
+ 
+5
+  
+  
+ 
+—  
+  
+ 
+ 
+190
+  
+  
+ 
+7,374
+  
+  
+  
+ 
+54
+  
+ 
+ 
+(2
+) 
+ 
+ 
+3,755
+  
+  
+ 
+605,852
+  
+2011
+  
+  
+ 
+2
+  
+  
+ 
+(3
+) 
+ 
+ 
+189
+  
+  
+ 
+7,374
+  
+  
+  
+ 
+52
+  
+ 
+ 
+(3
+) 
+ 
+ 
+3,804
+  
+  
+ 
+617,067
+  
+2012
+  
+  
+ 
+27
+  
+  
+ 
+(6
+) 
+ 
+ 
+210
+  
+  
+ 
+8,047
+  
+  
+  
+ 
+70
+  
+ 
+ 
+(6
+) 
+ 
+ 
+3,868
+  
+  
+ 
+626,686
+  
+ 
+ 
+“Total” and “Square Feet” columns are as of January 31 for the years shown. Retail square feet are reported in thousands.
+ 
+Includes conversions of discount stores to supercenters.
+ 
+Total opened, net of conversions of discount stores to supercenters.
+Merchandise.
+ 
+Walmart U.S. does business in six strategic merchandise units, listed below, across several store formats including supercenters, discount
+stores, Neighborhood Markets and other small store formats. The percentage of net sales calculated below reflects sales of our brick and mortar stores, as well
+as sales of our online business.
+ 
+ 
+(1)
+Grocery consists of a full line of grocery items, including meat, produce, deli, bakery, dairy, frozen foods, alcoholic and nonalcoholic beverages,
+floral and dry grocery, as well as consumables such as health and beauty aids, baby products, household chemicals, paper goods and pet
+supplies;
+ 
+ 
+(2)
+Entertainment contains electronics, toys, cameras and supplies, photo processing services, cellular phones, cellular service plan contracts and
+prepaid service and books;
+ 
+ 
+(3)
+Hardlines consist of stationery, automotive accessories, hardware and paint, sporting goods, fabrics and crafts and seasonal merchandise;
+ 
+ 
+(4)
+Health and wellness includes pharmacy and optical services;
+ 
+ 
+(5)
+Apparel includes apparel for women, girls, men, boys and infants, shoes, jewelry and accessories; and
+ 
+ 
+(6)
+Home includes home furnishings, housewares and small appliances, bedding, home décor, outdoor living and horticulture.
+ 
+5
+(1)
+ 
+(2)
+ 
+(2)
+(3)
+(1)
+(2)
+(3)
+The Walmart U.S. segment also offers financial services and related products, including money orders, wire transfers, check cashing and bill payment.
+These services total less than 1% of annual sales.
+Nationally advertised merchandise represents a significant portion of the merchandise sold in the Walmart U.S. segment. We also market lines of merchandise
+under our private-label store brands including: “Canopy,” “Equate,” “Everstart,” “Faded Glory,” “George,” “Great Value,” “Hometrends,” “Mainstays,”
+“Marketside,” “No Boundaries,” “Ol’ Roy,” “Ozark Trail,” “Parent’s Choice,” “Prima Della,” “Puritan,” “Spring Valley” and “White Stag.” The Company
+also markets lines of merchandise under licensed brands, some of which include: “Better Homes & Gardens,” “Danskin Now,” “Disney,” “General Electric,”
+“Just My Size,” “OP,” “Rival” and “Starter.”
+The percentage of net sales for the Walmart U.S. segment, including online sales, represented by each strategic merchandise unit was as follows during the
+fiscal years ended:
+ 
+ 
+  
+January 31,
+ 
+STRATEGIC MERCHANDISE UNITS
+  
+2012
+ 
+ 
+2011
+ 
+Grocery
+  
+ 
+55
+% 
+ 
+ 
+53
+% 
+Entertainment
+  
+ 
+12
+% 
+ 
+ 
+12
+% 
+Hardlines
+  
+ 
+10
+% 
+ 
+ 
+11
+% 
+Health and wellness
+  
+ 
+11
+% 
+ 
+ 
+11
+% 
+Apparel
+  
+ 
+7
+% 
+ 
+ 
+8
+% 
+Home
+  
+ 
+5
+% 
+ 
+ 
+5
+% 
+Total
+  
+ 
+100
+% 
+ 
+ 
+100
+% 
+Periodically, we make revisions to the categorization of the components comprising our strategic merchandise units. When revisions are made, we also adjust
+the previous period’s presentation to maintain comparability.
+Operations.
+ Hours of operation for nearly all supercenters and an increasing number of discount stores and Neighborhood Markets are 24 hours each day.
+Hours of operation for the remaining supercenters, discount stores, Neighborhood Markets and other small store formats vary by location, but are generally
+7:00 a.m. to 10:00 or 11:00 p.m., seven days a week. We accept a variety of payment methods including cash, check, debit and credit cards, electronic
+benefits transfer cards, a private-label store credit card issued by a third-party provider and online payments through PayPal. In addition, our pharmacy and
+optical departments accept payments for products and services through our customers’ health benefit plans.
+Seasonal Aspects of Operations.
+ The Walmart U.S. segment’s business is seasonal to a certain extent due to different calendar events, national and religious
+holidays, as well as different climatic conditions. Historically, its highest sales volume and segment operating income occur in the fiscal quarter ending
+January 31, which includes the holiday season, and the lowest sales volume and segment operating income occur during the fiscal quarter ending April 30.
+Competition.
+ The Walmart U.S. segment competes with a variety of local, national and global chains in the supermarket, discount, grocery, department,
+dollar, drug, variety and specialty stores, supercenter-type stores, hypermarkets, internet-based retailers and catalog businesses. We also compete with other
+retailers for new store sites.
+Our ability to develop, open and operate units at the right locations and offer value and service to our customers largely determines our competitive position
+within the retail industry. We employ many programs designed to meet competitive pressures within our industry. These programs include the following:
+ 
+ 
+•
+ 
+EDLP – our commitment to price leadership and our pricing philosophy under which we price items at a low price every day so our customers
+trust that our prices will not change under frequent promotional activity;
+ 
+ 
+•
+ 
+Rollbacks – our commitment to continually pass cost savings on to the customer by lowering prices on selected goods;
+ 
+ 
+•
+ 
+Save Even More – a strategy to meet or be below a competitor’s advertised price;
+ 
+ 
+•
+ 
+Store of the Community – a program to ensure the merchandise assortment in a particular store fits the demographic needs of the local community
+in which that store is located; and
+ 
+ 
+•
+ 
+Clean, Fast and Friendly – our commitment to deliver a great customer experience through fast, friendly service in a clean environment.
+ 
+6
+We offer a broad assortment of merchandise that provides one-stop shopping, in-stock levels that give our customers confidence that we will have the products
+they need and operating hours that allow customers to shop at their convenience.
+Distribution.
+ During fiscal 2012, approximately 80% of the Walmart U.S. segment’s purchases of merchandise were shipped to the stores through our
+distribution centers, which are located strategically throughout the United States. The balance of merchandise purchased was shipped directly to stores from
+suppliers. General merchandise is transported to stores primarily through our private truck fleet. However, we contract with common carriers to transport the
+majority of our perishable and dry grocery merchandise.
+Our Walmart U.S. segment operations are supported by 133 distribution facilities as of January 31, 2012, located strategically throughout the U.S. Of these
+133 distribution facilities, we owned and operated 105. We owned and a third party operated one distribution facility and third parties owned and operated the
+remaining 27 distribution facilities. In addition to servicing the Walmart U.S. segment, some of our Walmart distribution centers also service our Sam’s Club
+segment for certain items.
+Walmart International Segment
+The Walmart International segment’s net sales for fiscal 2012, 2011 and 2010, were $125.9 billion, $109.2 billion and $97.4 billion, respectively. During
+the most recent fiscal year, no single unit accounted for as much as 1% of total Company net sales.
+General.
+ Our Walmart International segment is comprised of our wholly-owned subsidiaries operating in Argentina, Brazil, Canada, China, Japan, and the
+United Kingdom; our majority-owned subsidiaries operating in Chile, Mexico, 12 countries in Africa and 5 countries in Central America; our joint ventures
+in China and India and our other controlled subsidiaries in China. Walmart International operates units under approximately 70 banners in numerous formats,
+including discount stores, supermarkets, supercenters, hypermarkets, websites, warehouse clubs, restaurants, and apparel stores. Also, on a limited basis,
+our Walmart International segment operates banks that provide consumer lending.
+WALMART INTERNATIONAL SEGMENT
+UNIT COUNT AND RETAIL SQUARE FEET 
+ 
+ 
+  
+Africa
+ 
+  
+Argentina
+ 
+  
+Brazil
+ 
+  
+Canada
+ 
+  
+Central
+America
+ 
+  
+Chile
+ 
+Fiscal Year
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+Balance Forward
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+  
+ 
+13
+  
+  
+ 
+2,427
+  
+  
+ 
+299
+  
+  
+ 
+23,789
+  
+  
+ 
+289
+  
+  
+ 
+33,591
+  
+  
+ 
+413
+  
+  
+ 
+7,128
+  
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+2008
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+  
+ 
+21
+  
+  
+ 
+3,789
+  
+  
+ 
+313
+  
+  
+ 
+24,958
+  
+  
+ 
+305
+  
+  
+ 
+36,590
+  
+  
+ 
+457
+  
+  
+ 
+7,822
+  
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+2009
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+  
+ 
+28
+  
+  
+ 
+4,301
+  
+  
+ 
+349
+  
+  
+ 
+26,594
+  
+  
+ 
+318
+  
+  
+ 
+39,501
+  
+  
+ 
+502
+  
+  
+ 
+8,277
+  
+  
+ 
+197
+  
+  
+ 
+9,564
+  
+2010
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+  
+ 
+43
+  
+  
+ 
+5,185
+  
+  
+ 
+434
+  
+  
+ 
+28,695
+  
+  
+ 
+317
+  
+  
+ 
+40,225
+  
+  
+ 
+519
+  
+  
+ 
+8,441
+  
+  
+ 
+252
+  
+  
+ 
+10,437
+  
+2011
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+  
+ 
+63
+  
+  
+ 
+6,211
+  
+  
+ 
+479
+  
+  
+ 
+30,272
+  
+  
+ 
+325
+  
+  
+ 
+42,005
+  
+  
+ 
+549
+  
+  
+ 
+8,739
+  
+  
+ 
+279
+  
+  
+ 
+11,115
+  
+2012
+  
+ 
+347
+  
+  
+ 
+18,529
+  
+  
+ 
+88
+  
+  
+ 
+7,270
+  
+  
+ 
+512
+  
+  
+ 
+31,575
+  
+  
+ 
+333
+  
+  
+ 
+43,738
+  
+  
+ 
+622
+  
+  
+ 
+9,501
+  
+  
+ 
+316
+  
+  
+ 
+11,785
+  
+ 
+ 
+  
+China
+ 
+  
+India
+ 
+  
+Japan
+ 
+  
+Mexico
+ 
+  
+United
+Kingdom
+ 
+  
+Total Walmart
+International
+ 
+Fiscal Year
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+  
+Unit
+Count
+ 
+  
+Square
+Feet
+ 
+Balance Forward
+  
+ 
+73
+  
+  
+ 
+13,583
+  
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+  
+ 
+422
+  
+  
+ 
+26,926
+  
+  
+ 
+889
+  
+  
+ 
+50,401
+  
+  
+ 
+335
+  
+  
+ 
+26,800
+  
+  
+ 
+2,733
+  
+  
+ 
+184,645
+  
+2008
+  
+ 
+202
+  
+  
+ 
+36,391
+  
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+  
+ 
+420
+  
+  
+ 
+24,569
+  
+  
+ 
+1,023
+  
+  
+ 
+56,804
+  
+  
+ 
+352
+  
+  
+ 
+27,868
+  
+  
+ 
+3,093
+  
+  
+ 
+218,791
+  
+2009
+  
+ 
+225
+  
+  
+ 
+39,973
+  
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+  
+ 
+417
+  
+  
+ 
+24,514
+  
+  
+ 
+1,201
+  
+  
+ 
+63,067
+  
+  
+ 
+358
+  
+  
+ 
+29,011
+  
+  
+ 
+3,595
+  
+  
+ 
+244,802
+  
+2010
+  
+ 
+279
+  
+  
+ 
+49,401
+  
+  
+ 
+1
+  
+  
+ 
+50
+  
+  
+ 
+414
+  
+  
+ 
+24,292
+  
+  
+ 
+1,469
+  
+  
+ 
+69,067
+  
+  
+ 
+371
+  
+  
+ 
+30,053
+  
+  
+ 
+4,099
+  
+  
+ 
+265,846
+  
+2011
+  
+ 
+328
+  
+  
+ 
+56,317
+  
+  
+ 
+5
+  
+  
+ 
+270
+  
+  
+ 
+414
+  
+  
+ 
+24,513
+  
+  
+ 
+1,730
+  
+  
+ 
+76,229
+  
+  
+ 
+385
+  
+  
+ 
+31,009
+  
+  
+ 
+4,557
+  
+  
+ 
+286,680
+  
+2012
+  
+ 
+370
+  
+  
+ 
+62,124
+  
+  
+ 
+15
+  
+  
+ 
+826
+  
+  
+ 
+419
+  
+  
+ 
+24,521
+  
+  
+ 
+2,088
+  
+  
+ 
+85,253
+  
+  
+ 
+541
+  
+  
+ 
+33,765
+  
+  
+ 
+5,651
+  
+  
+ 
+328,887
+  
+ 
+(1)
+“Square Feet” columns are reported in thousands. Walmart International unit counts, with the exception of Canada, are stated as of December 31 for
+fiscal 2012 through 2009. Canada unit counts are stated as of January 31 for fiscal 2012 through 2009. For fiscal 2008, all country balances are stated
+as of January 31, 2008.
+(2)
+All periods include the Wakana units, which are take-out restaurants generally less than 1,000 square feet in size. The information for fiscal 2009,
+fiscal 2008 and the balance forward in the table excludes 23 Seiyu units closed in fiscal 2010.
+ 
+7
+(1)
+(2)
+Walmart International has a diverse portfolio with approximately 70 banners, represented in three major categories: retail, wholesale and other. Generally, retail
+centers range in size from 8,900 square feet to 110,000 square feet. Our wholesale stores generally range in size from 35,000 square feet to 70,000 square feet.
+Other, including restaurants in Chile, Japan and Mexico, range in size from under 1,000 square feet to 4,200 square feet. Unit counts
+ 
+for Walmart
+International are as follows:
+ 
+Geographic Market
+  
+Retail
+ 
+  
+Wholesale
+ 
+  
+Other
+ 
+  
+Total
+ 
+Africa 
+  
+ 
+249
+  
+  
+ 
+98
+  
+  
+ 
+—  
+  
+  
+ 
+347
+  
+Argentina
+  
+ 
+88
+  
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+  
+ 
+88
+  
+Brazil
+  
+ 
+429
+  
+  
+ 
+83
+  
+  
+ 
+—  
+  
+  
+ 
+512
+  
+Canada
+  
+ 
+333
+  
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+  
+ 
+333
+  
+Central America 
+  
+ 
+620
+  
+  
+ 
+2
+  
+  
+ 
+—  
+  
+  
+ 
+622
+  
+Chile
+  
+ 
+314
+  
+  
+ 
+—  
+  
+  
+ 
+2
+  
+  
+ 
+316
+  
+China
+  
+ 
+364
+  
+  
+ 
+6
+  
+  
+ 
+—  
+  
+  
+ 
+370
+  
+India
+  
+ 
+—  
+  
+  
+ 
+15
+  
+  
+ 
+—  
+  
+  
+ 
+15
+  
+Japan
+  
+ 
+367
+  
+  
+ 
+—  
+  
+  
+ 
+52
+  
+  
+ 
+419
+  
+Mexico
+  
+ 
+1,600
+  
+  
+ 
+124
+  
+  
+ 
+364
+  
+  
+ 
+2,088
+  
+United Kingdom
+  
+ 
+541
+  
+  
+ 
+—  
+  
+  
+ 
+—  
+  
+  
+ 
+541
+  
+International Total
+  
+ 
+4,905
+  
+  
+ 
+328
+  
+  
+ 
+418
+  
+  
+ 
+5,651
+  
+ 
+(1)
+Walmart International unit counts, with the exception of Canada, are stated as of December 31, 2011 to correspond with the country’s balance sheet date.
+(2)
+Africa includes Botswana, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Swaziland, Tanzania, Uganda and Zambia.
+(3)
+Central America includes Costa Rica, El Salvador, Guatemala, Honduras and Nicaragua.
+Merchandise.
+ The merchandising strategy for the Walmart International segment is similar to that of our operations in the United States in terms of the
+breadth and scope of merchandise offered for sale. While brand name merchandise accounts for a majority of sales, numerous store brands not offered for sale
+in the U.S. stores and clubs have been developed to serve customers in the different markets in which the Walmart International segment operates. In addition,
+steps have been taken to develop relationships with local suppliers in each country to ensure reliable sources of quality merchandise.
+Operations.
+ The hours of operation for operating units in the Walmart International segment vary by country and by individual markets within countries,
+depending upon local and national ordinances governing hours of operation. We accept a variety of payment methods including cash, check, debit and credit
+cards, private-label store credit cards issued by third-party providers, and in Canada, Chile and Mexico, credit cards issued by our subsidiaries. Limited
+consumer finance programs exist in certain markets to facilitate the purchase of goods by the customer. Across the Walmart International segment, we are
+leveraging best practices, lessons from multiple store formats and global sourcing practices.
+Seasonal Aspects of Operations.
+ The Walmart International segment’s business is seasonal to a certain extent. Historically, the segment’s highest sales
+volume and operating income occur in our fiscal quarter ending January 31 and the segment’s lowest sales volume and operating income occur in the fiscal
+quarter ending April 30. The seasonality of the business varies by country due to different national and religious holidays, festivals and customs, as well as
+different climatic conditions.
+Competition.
+ The Walmart International segment competes with a variety of local, national and global chains in the supermarket, discount, grocery,
+department, drug, variety and specialty stores, supercenter-type stores, hypermarkets, wholesale clubs, internet-based retailers and catalog businesses in each
+of the countries in which we operate. We also operate restaurant chains and consumer finance operations. Our ability to offer our customers low prices on
+quality merchandise determines, to a large extent, our competitive position in the countries in which Walmart International operates. EDLP is the right business
+model for our customers and for all of our markets, including high-growth or emerging markets. We are in the midst of a multi-year plan to transition all of
+our markets to EDLP. Our ability to operate the food departments effectively has a major impact on the segment’s competitive position in the markets where we
+operate.
+ 
+8
+(1)
+(2)
+(3)
+Distribution.
+ We utilize a total of 158 distribution facilities located in Argentina, Brazil, Canada, Central America, Chile, China, India, Japan, Mexico,
+South Africa and the United Kingdom, including one export consolidation facility in the United States. Through these facilities, we process and distribute
+both imported and domestic products to the operating units of the Walmart International segment. During fiscal 2012, approximately 75% of the Walmart
+International segment’s purchases flowed through these distribution facilities. Suppliers ship the balance of the Walmart International segment’s purchases
+directly to our stores in the various countries in which we operate. Of these 158 distribution facilities, we owned and operated 39, we owned and third parties
+operated 9 and we leased and operated 68. Third parties leased and operated the remaining 42 distribution facilities.
+Sam’s Club Segment
+The Sam’s Club segment had net sales of $53.8 billion, $49.5 billion and $47.8 billion for fiscal 2012, 2011 and 2010, respectively. During the most recent
+fiscal year, no single club location accounted for as much as 1% of total Company net sales.
+General.
+ As a membership club warehouse, facility sizes for Sam’s Clubs generally range between 71,000 and 190,000 square feet, with an average size of
+approximately 134,000 square feet. Sam’s Club also provides its members with a broad assortment of merchandise and services online at 
+www.samsclub.com
+.
+SAM’S CLUB SEGMENT
+CLUB COUNT AND RETAIL SQUARE FEET 
+ 
+Fiscal Year
+  
+Opened
+ 
+  
+Closed
+ 
+ 
+Total
+ 
+  
+Square
+Feet
+ 
+Balance Forward
+  
+  
+ 
+ 
+588
+  
+  
+ 
+77,350
+  
+2008
+  
+ 
+12
+  
+  
+ 
+—  
+  
+ 
+ 
+600
+  
+  
+ 
+79,316
+  
+2009
+  
+ 
+11
+  
+  
+ 
+—  
+  
+ 
+ 
+611
+  
+  
+ 
+80,986
+  
+2010
+  
+ 
+6
+  
+  
+ 
+(12
+) 
+ 
+ 
+605
+  
+  
+ 
+80,539
+  
+2011
+  
+ 
+4
+  
+  
+ 
+—  
+  
+ 
+ 
+609
+  
+  
+ 
+81,202
+  
+2012
+  
+ 
+3
+  
+  
+ 
+(1
+) 
+ 
+ 
+611
+  
+  
+ 
+81,586
+  
+ 
+(1)
+“Total” and “Square Feet” columns are as of January 31 for the years shown. Retail square feet are reported in thousands.
+Merchandise.
+ Sam’s Club offers brand name merchandise, including hardgoods, some softgoods and selected private-label items such as “Member’s Mark”
+and three new proprietary brands, “Artisan Fresh,” “Daily Chef” and “Simply Right,” in five merchandise categories, listed below, within the warehouse club
+format.
+ 
+ 
+(1)
+Grocery and consumables includes dairy, meat, bakery, deli, produce, dry, chilled or frozen packaged foods, alcoholic and nonalcoholic
+beverages, floral, snack foods, candy, other grocery items, health and beauty aids, paper goods, laundry and home care, baby care, pet supplies
+and other consumable items;
+ 
+ 
+(2)
+Fuel and other categories consist of gasoline stations, tobacco, tools and power equipment, and tire and battery centers;
+ 
+ 
+(3)
+Technology, office and entertainment includes electronics, wireless, software, video games, movies, books, music, office supplies, office
+furniture and photo processing;
+ 
+ 
+(4)
+Home and apparel includes home improvement, outdoor living, grills, gardening, furniture, apparel, jewelry, housewares, toys, seasonal items,
+mattresses and small appliances; and
+ 
+ 
+(5)
+Health and wellness includes pharmacy and optical services and over-the-counter drugs.
+ 
+9
+(1)
+The percentage of net sales for the Sam’s Club segment, including online sales, by merchandise category, was as follows during the fiscal years ended:
+ 
+ 
+  
+January 31,
+ 
+MERCHANDISE CATEGORY
+  
+2012
+ 
+ 
+2011
+ 
+Grocery and consumables
+  
+ 
+55
+% 
+ 
+ 
+55
+% 
+Fuel and other categories
+  
+ 
+24
+% 
+ 
+ 
+23
+% 
+Technology, office and entertainment
+  
+ 
+8
+% 
+ 
+ 
+9
+% 
+Home and apparel
+  
+ 
+8
+% 
+ 
+ 
+8
+% 
+Health and wellness
+  
+ 
+5
+% 
+ 
+ 
+5
+% 
+Total
+  
+ 
+100
+% 
+ 
+ 
+100
+% 
+Operations.
+ Operating hours for Sam’s Clubs are Monday through Friday from 10:00 a.m. to 8:30 p.m., Saturday from 9:00 a.m. to 8:30 p.m. and Sunday
+from 10:00 a.m. to 6:00 p.m. Additionally, all club locations offer a Gold Key program that permits Business Members and Plus Members to shop before the
+regular operating hours Monday through Saturday, starting at 7:00 a.m.
+Sam’s Clubs are membership only operations. A variety of payment methods are accepted at our clubs, including cash, check, debit cards, certain types of
+credit cards and private label and co-branded Discover credit cards, issued by a third-party provider. In addition, our pharmacy and optical departments
+accept payments for products and services through our members’ health benefit plans.
+Members include both business owners and individual consumers. Individual consumers are referred to as Advantage Members. The annual membership fee
+for an individual Advantage Member is $40 (plus taxes, if applicable) for the primary membership card, with a spouse/household card available at no
+additional cost. The annual membership fee for Business Members is $35 (plus taxes, if applicable) for the primary membership card, with a
+spouse/household card available at no additional cost. In addition, Business Members can add up to 8 business associates to their business account for $35
+(plus taxes, if applicable) each. Sam’s Club Plus is a premium membership program that offers additional benefits and services to both Business and
+Advantage Members. The annual fee for a Plus Member (Business or Advantage) is $100 (plus taxes, if applicable). In addition, Business Plus Members can
+add up to 16 business associates to their business membership for $35 (plus taxes, if applicable) each.
+Seasonal Aspects of Operations.
+ The Sam’s Club segment’s business is seasonal to a certain extent due to different calendar events, national and religious
+holidays, as well as different climatic conditions. Historically, its highest sales volume and segment operating income occur in the fiscal quarter ending
+January 31, which includes the holiday season, and the lowest sales volume and segment operating income occur during the fiscal quarter ending April 30.
+Competition.
+ Sam’s Club competes with other warehouse clubs, as well as with discount retailers, retail and wholesale grocers, general merchandise
+wholesalers and distributors, gasoline stations, internet-based retailers and catalog businesses. Sam’s Club also competes with other retailers and warehouse
+clubs for desirable new club sites. Our ability to offer low prices and quality merchandise and food to meet the needs of our members largely determines our
+competitive position in the warehouse club industry.
+Distribution.
+ During fiscal 2012, approximately 63% of the Sam’s Club segment’s non-fuel purchases were shipped from the Sam’s Club segment’s
+dedicated distribution facilities and from some of the Walmart U.S. segment’s distribution centers. Suppliers shipped the balance of the Sam’s Club segment’s
+purchases directly to Sam’s Club locations. As of January 31, 2012, our Sam’s Club segment operations were supported by 25 distribution facilities located
+strategically throughout the continental United States. Of these 25 distribution facilities, we owned and operated 8. Third parties owned and operated the
+remaining 17 distribution facilities.
+The principal focus of our Sam’s Club’s distribution operations is on cross-docking merchandise, while stored inventory is minimized. Cross-docking is a
+distribution process under which shipments are directly transferred from inbound to outbound trailers. Shipments typically spend less than 24 hours in a
+cross-dock facility, sometimes less than an hour.
+Sam’s Club uses a combination of our private truck fleet, as well as common carriers, to transport non-perishable merchandise from distribution centers to
+clubs. We contract with common carriers to transport perishable grocery merchandise from distribution centers to clubs.
+ 
+10
+Other Segment Information
+Certain financial information relating to our segments is included in our Annual Report to Shareholders for the fiscal year ended January 31, 2012 (“Annual
+Report to Shareholders”) under the caption “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in Note 15 in the
+“Notes to Consolidated Financial Statements” included therein, which information is incorporated herein by reference. Note 15 includes information regarding
+our segment and total company net sales, as well as long-lived assets in the United States. Portions of the Annual Report to Shareholders are included as an
+exhibit to this Annual Report on Form 10-K.
+Employees
+As of the end of fiscal 2012, the Company and its subsidiaries employed approximately 2.2 million employees (“associates”) worldwide, with approximately
+1.4 million associates in the United States and 0.8 million associates internationally. Similar to other retailers, the Company has a large number of part-time,
+hourly or non-exempt associates and experiences significant turnover in associates each year.
+Through fiscal 2011, the Company maintained separate profit sharing and 401(k) plans for associates in the United States and Puerto Rico, under which
+associates generally became participants following one year of employment. The profit sharing component was entirely funded by the Company, and the
+Company also made additional contributions to the 401(k) component of the plan. In addition to the Company’s contributions, associates could elect to
+contribute a percentage of their earnings to the 401(k) component of the plan.
+Effective February 1, 2011, the Company terminated the previous profit sharing and 401(k) plans and offered new safe harbor 401(k) plans for associates in
+the United States and Puerto Rico, under which associates generally become participants following one year of employment. Under the safe harbor 401(k)
+plans, the Company matches 100% of participant contributions up to 6% of annual eligible earnings. The matching contributions immediately vest at 100%
+for each associate. Participants can contribute up to 50% of their pretax earnings, but not more than the statutory limits. Participants age 50 or older may defer
+additional earnings in catch-up contributions up to the maximum statutory limits.
+Contribution expense associated with these plans was $752 million in fiscal 2012 and $1.1 billion in fiscal 2011 and 2010.
+In addition, in the U.S., the Company offers a broad range of Company-paid benefits to our associates, including store discount cards or Sam’s Club
+memberships, bonuses based on Company performance, matching a portion of purchases through the Associate Stock Purchase Plan and life insurance. The
+Company also offers health-care benefits to eligible full-time and part-time associates. The Company’s medical plan has no lifetime maximum benefit for most
+expenses.
+In our operations outside the U.S., the Company provides a variety of associate benefits that vary based on customary local practices and statutory
+requirements.
+ 
+11
+Executive Officers of the Registrant
+The following chart names each of the executive officers of the Company, each of whom is elected by and serves at the pleasure of the Board of Directors. The
+business experience shown for each officer has been his or her principal occupation for at least the past five years, unless otherwise noted.
+ 
+Name
+  
+Business Experience
+  
+Current
+Position
+Held Since
+ 
+  
+Age
+ 
+Neil M. Ashe
+  
+Executive Vice President, President and Chief Executive Officer, Global eCommerce beginning in
+January 2012. From April 2011 to July 2011, he served as Special Advisor to the Chief Executive
+Officer of CBS Corporation, a mass media company. From July 2008 to April 2011, he served as
+President of CBS Interactive, Inc., an Internet content publisher. From October 2006 to June 2008, he
+served as Chief Executive Officer of CNET Networks Inc., an Internet content company.
+  
+ 
+2012
+  
+  
+ 
+44
+  
+Rosalind G. Brewer
+  
+Executive Vice President, President and Chief Executive Officer, Sam’s Club, effective February 1,
+2012. From February 2011 to January 2012, she served as Executive Vice President and President of
+the East business unit of Walmart U.S. From February 2010 to January 2011, she served as Executive
+Vice President and President of the South business unit of Walmart U.S. From March 2007 to January
+2010, she served as Divisional Senior Vice President of Walmart U.S., responsible for operations in
+the Southeast. From October 2006 to February 2007, she served as regional vice president of Walmart
+U.S., responsible for operations in Georgia.
+  
+ 
+2012
+  
+  
+ 
+49
+  
+M. Susan Chambers
+  
+Executive Vice President, Global People. From December 2003 to April 2006, she served as Executive
+Vice President, Risk Management, Insurance and Benefits Administration.
+  
+ 
+2006
+  
+  
+ 
+54
+  
+Leslie A. Dach
+  
+Executive Vice President, Corporate Affairs. From March 1997 to August 2006, he served as Vice
+Chairman of Daniel J. Edelman, Inc.
+  
+ 
+2006
+  
+  
+ 
+57
+  
+Michael T. Duke
+  
+President and Chief Executive Officer. From September 2005 to January 2009, he served as Vice
+Chairman, Wal-Mart Stores, Inc., responsible for Walmart International.
+  
+ 
+2009
+  
+  
+ 
+62
+  
+Rollin L. Ford
+  
+Executive Vice President and Chief Administrative Officer. From May 2006 to January 2012, he served
+as Executive Vice President, Chief Information Officer. From February 2003 to April 2006, he served
+as Executive Vice President, Logistics and Supply Chain.
+  
+ 
+2012
+  
+  
+ 
+49
+  
+Jeffrey J. Gearhart
+  
+Executive Vice President, General Counsel and Corporate Secretary. From February 2009 to July 2010,
+he served as Executive Vice President, General Counsel. From December 2007 to February 2009, he
+served as Senior Vice President, Deputy General Counsel. From September 2003 to December 2007, he
+served as Vice President, General Counsel, Corporate Division.
+  
+ 
+2010
+  
+  
+ 
+47
+  
+Charles M. Holley, Jr.
+  
+Executive Vice President and Chief Financial Officer. From January 2007 to November 2010, he served
+as Executive Vice President, Finance and Treasurer. From December 2005 to January 2007, he served
+as Senior Vice President, Finance.
+  
+ 
+2010
+  
+  
+ 
+55
+  
+C. Douglas McMillon
+  
+Executive Vice President, President and Chief Executive Officer, Walmart International. From August
+2005 to January 2009, he served as Executive Vice President, President and Chief Executive Officer,
+Sam’s Club.
+  
+ 
+2009
+  
+  
+ 
+45
+  
+William S. Simon
+  
+Executive Vice President, President and Chief Executive Officer, Walmart U.S. From March 2007 to
+July 2010, he served as Executive Vice President, Chief Operating Officer, Walmart U.S. From March
+2006 to March 2007, he served as Executive Vice President, Professional Services, Walmart U.S.
+  
+ 
+2010
+  
+  
+ 
+52
+  
+S. Robson Walton
+  
+Chairman of the Board of Directors.
+  
+ 
+1992
+  
+  
+ 
+67
+  
+Steven P. Whaley
+  
+Senior Vice President and Controller. From December 2005 to January 2007, he served as Vice
+President and Controller. From September 2005 to December 2005, he served as Vice President and
+Assistant Controller.
+  
+ 
+2007
+  
+  
+ 
+52
+  
+ 
+12
+Our Website and Availability of SEC Reports and Other Information
+Our corporate website is located at 
+www.walmartstores.com
+. We file with or furnish to the SEC Annual Reports on Form 10-K, Quarterly Reports on Form 10-
+Q, Current Reports on Form 8-K and any amendment to those reports, proxy statements and annual reports to shareholders, and, from time to time, other
+documents. The reports and other documents filed with or furnished to the SEC are available to investors on or through our corporate website free of charge as
+soon as reasonably practicable after we electronically file them with or furnish them to the SEC. In addition, the public may read and copy any of the
+materials we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington DC 20549. The public may obtain information on the
+operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an internet site that contains reports, proxy and
+information statements and other information regarding issuers, such as the Company, that file electronically with the SEC. The address of that website is
+www.sec.gov
+. Our SEC filings, our Code of Ethics for our CEO and Senior Financial Officers and our Statement of Ethics can be found on the Investor
+Relations page of our website at 
+www.walmartstores.com/investors
+. These documents are available in print to any shareholder who requests a copy by writing
+or calling our Investor Relations Department, which is located at our principal offices.
+A description of any substantive amendment or waiver of Walmart’s Code of Ethics for the CEO and Senior Financial Officers will be disclosed on the
+Investor Relations page of our website at 
+www.walmartstores.com
+ under the Corporate Governance section. Any such description will be located on our website
+for a period of 12 months following the amendment or waiver.
+ 
+ITEM 1A
+.
+RISK FACTORS
+The risks described below could materially and adversely affect our business, results of operations, financial condition and liquidity. These risks are not the
+only risks that we face. Our business operations could also be affected by additional factors that apply to all companies operating in the United States and
+globally, as well as other risks that are not presently known to us or that we currently consider to be immaterial to our operations.
+General economic factors, both domestically and internationally, may adversely affect our financial performance.
+General economic conditions, globally or in one or more of the markets we serve, may adversely affect our financial performance. In the United States, higher
+interest rates, higher fuel and other energy costs, weakness in the housing market, inflation, deflation, higher levels of unemployment, decreases in consumer
+disposable income, unavailability of consumer credit, higher consumer debt levels, fluctuations in currency exchange rates, higher tax rates and other changes
+in tax laws, other regulatory changes, overall economic slowdown and other economic factors could adversely affect consumer demand for the products and
+services we sell through our Walmart U.S. segment and Sam’s Club segment, change the mix of products we sell to one with a lower average gross margin,
+cause a slowdown in discretionary purchases of goods and result in slower inventory turnover and greater markdowns on inventory. Higher levels of
+unemployment, inflation, deflation, decreases in consumer disposable income, changes in tax and other laws, higher fuel and other energy costs, weakness in
+the local housing market, fluctuations in currency exchange rates, currency devaluations and other adverse developments in the economies of the other
+countries in which we operate may adversely affect consumer demand for our merchandise in those countries, especially those countries in which average
+incomes are significantly lower than in the United States. These conditions may adversely affect our gross margins, cost of sales, inventory turnover and
+markdowns or otherwise adversely affect our operations and operating results in our Walmart International segment.
+Higher interest rates, higher fuel and other energy costs, transportation costs, inflation, higher costs of labor, insurance and healthcare, foreign exchange rate
+fluctuations, higher tax rates and other changes in tax laws, the imposition of measures that create barriers to or increase the costs associated with international
+trade, changes in other laws and regulations and other economic factors in the United States and other countries in which we have operations can increase our
+cost of sales and operating, selling, general and administrative expenses, and otherwise adversely affect our domestic and international operations and our
+operating results. The economic factors that affect our operations also affect the operations and economic viability of our suppliers from whom we purchase
+goods, a factor that can result in an increase in the cost to us of the goods we sell to our customers or, in more extreme cases, could result in certain suppliers
+not producing goods in the volume typically available to us for sale.
+We may face impediments to our expansion in the United States, including conversions of discount stores into supercenters and opening other store
+formats, which may adversely affect our financial performance.
+Our expansion strategy depends upon our ability to execute our retail concepts successfully in new markets within the United States and upon our ability to
+increase the number of stores in markets in which we currently have operations. Our ability to open additional supercenters, discount stores, Neighborhood
+Markets, other store formats, and Sam’s Clubs and to convert existing discount stores into supercenters depends in large measure upon our ability to locate,
+hire and retain qualified personnel
+ 
+13
+and to acquire new store sites on acceptable terms. Local land use and other regulations restricting the construction of buildings of the type in which we operate
+our various formats, as well as local community action opposed to the location of specific stores at specific sites and the adoption of certain local laws
+restricting our operations, may affect our ability to open new stores and clubs, to convert discount stores into supercenters or to relocate or expand existing
+units in certain cities and states. Increased real estate, construction and development costs could limit our growth opportunities and our ability to convert our
+discount stores into supercenters. If we are unable to open new supercenters, discount stores, Neighborhood Markets, other small formats or Sam’s Clubs or
+continue to convert discount stores into supercenters, our financial performance, such as net sales and operating income growth, could be adversely affected.
+In addition, if consumers in the markets into which we expand are not receptive to our retail concepts or are otherwise not receptive to our presence in a market,
+our financial performance could be adversely affected.
+Impediments to the expansion of our Walmart International operations could adversely affect our financial performance.
+Our business strategy for our Walmart International segment includes expansion by selective acquisitions and strategic alliances that add new stores and
+markets to our existing Walmart International business, as well as opening new units in the countries in which we have existing operations. In the countries in
+which we have existing operations, new units may be opened in the formats already existing in those countries or may be opened in newly introduced formats,
+such as supercenters or Sam’s Clubs, not previously operated in those markets. As in the United States, our ability to open new stores or to expand or relocate
+existing stores in a market served by our Walmart International segment depends in large measure upon our ability to locate, hire and retain qualified personnel
+and our ability to acquire new store sites on acceptable terms. Local laws can affect our ability to acquire attractive pre-existing buildings in which to locate
+units or sites on which to build new units or to expand existing units. In addition, access to local suppliers of certain types of goods may limit our ability to
+add new units or to expand product selections in

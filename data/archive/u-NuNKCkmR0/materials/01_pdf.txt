@@ -1,0 +1,174 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/Slides/Session6.pdf
+
+SESSION 6: PROBABILITIES & 
+PROBABILISTIC TOOLS
+Session 6
+There is a chance!
+2
+What is a probability? 
+¨When you cannot predict outcomes with certainty, probabilities 
+allow you to measure the likelihood of an outcome occurring.
+¨The probability of an outcome will range from zero to one, with 
+zero representing no chance and one representing total certainty.
+¨You can measure the probabilities of discrete events (an 
+acquisition, bankruptcy etc.) as well as the probabilities of a 
+continuous variable taking a value greater or less than a specified 
+value (earnings will exceed zero, market cap will exceed a billion).
+3
+Two views of probability
+¨Frequentist view: In the frequentist view, probability 
+measures the frequency with which an event will occur, if it is 
+repeated many times. 
+¤In theory, you want to measure the frequency of an outcome if an 
+experiment is repeated an infinite number of times.
+¤While it is objective, it requires that an event be repeatable, and is 
+thus narrow.
+¨Subjectivist (Bayesian) view: In the subjectivist view, 
+probability is the value that a rational agent would assign to 
+the likelihood of an event happening. 
+¤You can assign probabilities to events, even if they are not repeatable.
+¤Unlike the frequentist view, rational individuals can disagree on the 
+probability of an event occurring.
+4
+Cumulative and Conditional Probabilities
+¨When you have sequential events, the cumulative 
+probability measures the likelihood of a specific series of 
+outcomes. To compute cumulative probabilities, each 
+event in the sequence has tobe independent of the 
+others in that sequence.
+¤Thus,youcan estimate theprobabilitythat an investor will beat 
+the market ten years in a row, even if he or she is picking stocks 
+randomly.
+¨A conditional probability measures the likelihood of an 
+event or outcome, based upon the occurrence of a prior 
+event or outcome. 
+¤For instance, you can estimate the probability that the market 
+will be up tomorrow, given that it was up today.
+5
+Probability Rules
+1. It is bounded: For any event X, 0 ≤ P(X) ≤ 1
+2. It covers the universe of outcomes: The sum of the probabilities of 
+all possible outcomes is one.
+3. The Complement Rule states that P(not X) = 1 –P(X)
+4. The General Addition Rule states that for any two events, P(X or Y) 
+= P(X) + P(Y) –P(X and Y), where P(X and Y) is the probability of 
+both X and Y occurring at the same time. If they are mutually 
+exclusive, the rule simplifies to P(X or Y) = P(X) + P(Y). 
+5. The Multiplication Rulestates that for two independent events to 
+occur together, P(X and Y) = P(X) * P(Y). If they are not 
+independent, P(X and Y) = P(X) * P(Y/X), where P(Y/X) is the 
+conditional probability of Y happening, given that X has happened.
+6
+Bayesian Statistics
+¨Bayes' theoremdescribes the probability of an event 
+occurring, based upon prior knowledge of other variables 
+related to that event. 
+¤In effect, it is a conditional probability, with the probability of an event 
+conditioned on the information/knowledge that you have.
+¤Since the information/knowledge that different individuals can have 
+about an event can vary, Bayes’ theorem allows for differences in 
+probability estimates for the same event across individuals.
+¨In Bayesian Inference, you update the probability of an event 
+happening as you receive new evidence or information.
+¤The probability that you assign to an event before you receive the new 
+information represent your priors.
+¤The probability that you assign to that same event after receiving and 
+processing new information represent your posteriorestimate.
+7
+1. Probit& Logit Models: Techniques for 
+estimating probabilities
+¨A probitmodelis a variant on the standard regression 
+approach, with the key difference being that the dependent 
+variable can take on only one of two values (binary) and a 
+secondary one being a transformation of the linear model to 
+ensure that the predicted value from the model is a number 
+between 0 and 1 (limits for a probability estimate).
+¤Example: You can estimate the probability of a hostile acquisition of a 
+company based upon its size, past stock price performance and insider 
+holdings.
+¨A logit model is a close relative to a probit, with the 
+difference revolving around the function that they use to 
+transform the standard linear model, with the logit model 
+using a logistic distribution and the probita normal 
+distribution.
+8
+A Logit Model: Predicting Bankruptcy
+¨In investing and valuation, one of the concerns that you face 
+is that the business that you are investing inor valuing may 
+go out of business. Predicting the probability of bankruptcy 
+becomes a part of the challenge.
+¨There are logit models that have been used to predict 
+bankruptcy, where
+¤You start with all firms at the start of the period
+¤The dependent variable becomes the stand-in for whether a firm 
+survives or goes bankrupt during the study period
+¤The independent variables reflect what you believe are key drivers of 
+bankruptcy (earnings level and volatility, debt level and payments due, 
+market access to capital).
+¤You build a logit model that will yield as output an equation that 
+resembles a regression, butwill yield a probability of bankruptcy.
+9
+A ProbitModel: Hostile Acquisitions
+¨While there are no easy pathways to making money, it seems 
+clear that investors in companies that are targeted in 
+acquisitions (especially hostile ones) earn high returns, but 
+only if they invest before the event.
+¨There are probitmodels for predicting companies that will be 
+targeted, and they involve:
+¤You start with all firms that publicly traded at the start of a period
+¤The dependent variable becomes the stand-in for whether a firm is 
+targeted in a hostile acquisition 
+¤The independent variables reflect what you believe are key drivers of 
+hostile acquisitions, including poor stock price performance, lagging 
+accounting returns and managers with little or no shareholdings.
+¤You build a probitmodel that will yield as output an equation that 
+resembles a regression, butwill yield a probability of a hostile 
+acquisition.
+10
+2. Decision Trees
+¨A decision tree is a flow chart used to capture the 
+probabilities and outcomes of random events, where the 
+likelihood of an event is affected by prior events occurring or 
+not occurring.
+¨Within decision trees, you can build not only the outcomes 
+of chance but also the decisions that follow from these 
+outcomes and the end outcomes for each branch.
+Event or Change nodes represent when uncertainty is resolved, with 
+event branches representing mutually exclusive and exhaustive, with 
+probability estimates.
+Decision nodes point where you decide to go on or stop. The branches 
+represent mutually exclusive paths to follow.
+Terminal or End node is the final outcomeor payoff from each branch.
+11
+And follow through..
+¨Folding (Rolling) back a decision tree: If you have a 
+complete decision tree, with probabilities attached to 
+event branches, and outcomes following from the end of 
+each decision branch, you can roll back the decision tree, 
+by
+¤Estimating the expected value of each branch, starting with the 
+right and working towards the left, using the probabilities and 
+payoffs.
+¤Compute an expected value for the entire tree, across branches.
+¨If there is a time lag across the branches, and/or risk 
+involved in the process, you can incorporate those 
+elements into a decision tree as well in the form of a 
+discount rate that you use discount payoffs at each leg.
+12
+3. Scenario Analysis
+¨Scenario analysis is best employed when the outcomes of a 
+project are a function of the macro economic environment 
+and/or competitive responses.
+¨There are a couple of ways in which you can structure 
+scenario analysis
+¤Best-case, Worst-case analyses, where you set all the inputs at their 
+most optimistic and most pessimistic levels. In general, this leaves you 
+with findings that are not of much practical use.
+¤Plausible scenarios: Here, you define what you feel are the most 
+plausible scenarios (allowing for the interaction across variables) and 
+come up withestimates for each scenario.
+¨For scenario analysis to be most useful, you have tobe able 
+to
+¤List scenarios to cover all possible outcomes
+¤Estimate probabilities for the scenarios
+¤Complete with an expected value.

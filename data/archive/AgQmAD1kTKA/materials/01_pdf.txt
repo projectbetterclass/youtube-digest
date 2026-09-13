@@ -1,0 +1,122 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/techinvestors.pdf
+
+THE	TECH	COMPANY	LIFE	CYCLE:	
+THE	INVESTORS’	CHALLENGE	
+Old	World	Inves>ng	Lessons	in	a	New	World	Order
+2
+The	tech	life	cycle
+3
+The	Investor	Challenge	
+¨  Much	 of	 what	 we	 know,	 learn	 and	 prac>ce	 in 	
+inves>ng	was	developed	for	a	market	dominated	by 	
+non-tech	 companies,	 with	 long	 life	 cycles, 	
+sustainable	compe>>ve	advantages.	
+¨  As	 this	 learning	 is	 put	 to	 use	 with	 tech	 companies, 	
+we	 risk	 making	 systema>c	 mistakes	 in	 iden>fying 	
+investment	opportuni>es.	
+¨  With	value	investors,	this	will	manifest	itself	in	tech 	
+companies	 looking	 too	 expensive	 early	 in	 the	 life 	
+cycle	 and	 too	 cheap	 later.	 With	 growth	 investors, 	
+the	reverse	will	apply.
+4
+The	Value	Investor	Challenge	
+¨  The	old->me	value	religion	brings	in	the	“bond	buying”	
+mentality	to	stocks,	replacing	coupons	with	dividends.	
+¨  A	good	stock	in	this	world	looks	like	a	bond,	with	ever-
+growing	coupons.	
+¨  If	you	are	a	value	investor,	there	are	three	oS-quoted	
+edicts	that	don’t	make	sense	with	tech	companies.	
+1.  Trust	the	PE	ra>o.		
+2.  Buy	and	hold	“good”	companies;	good	companies	have	strong	
+moats	and	good	management.	
+3.  Dividends	are	solid,	buybacks	are	transient,	price	apprecia>on	
+is	a	dream.
+5
+1.	Don’t	trust	PE
+6
+Some	evidence	on	growth
+7
+Backed	up	by	pricing
+8
+2.	Don’t	buy	and	hold	
+¨  The	no>on	that	you	can	buy	and	forget	a	company	in 	
+your	por[olio,	if	it	is	well	managed	and	has	strong	
+compe>>ve	advantages,	may	work	for	a	consumer	
+product	company	with	a	very	long	life	cycle.	
+¨  It	is	dangerous	advice	at	a	tech	company	where	
+what	you	perceive	as	“good”	management	today	can 	
+become	“bad”	tomorrow	and	where	compe>>ve	
+advantages	are	neither	strong	nor	sustainable.
+9
+3.	The	Dividend	Illusion	
+¨  Dividends	are	ill-suited	as	a	way	of	returning	cash	on	
+a	residual	claim,	which	is	what	equity	is.	
+¨  They	become	even	less	appropriate	for	a	ﬁrm	that	
+has	a	short	life	cycle	and	where	the	good	>mes	may	
+not	last	for	long.	
+¨  Tech	companies	that	lock	themselves	into	large	
+dividends	are	more	risky	than	tech	companies	that	
+return	that	cash	either	as	special	dividends	or	as	
+stock	buybacks.
+10
+Some	evidence
+11
+The	Growth	Investor	Challenge:	Three	
+lessons	(that	may	not	work)	
+1.  Growth	is	good:	The	no>on	that	growth	is	good	and	
+that	higher	growth	companies	should	be	worth	more	
+than	lower	growth	companies	is	deeply	embedded	in	
+the	growth	inves>ng	playbook.	
+2.  Growth	lasts:	Implicitly,	growth	investors	trust	growth	
+to	last.	That	is	perhaps	why	they	are	so	dependent	on	
+historical	growth	in	their	inves>ng	strategies.	
+3.  Growth	at	a	reasonable	price	(GARP)	is	a	winner:	This	is 	
+considered	the	holy	grail	of	growth	inves>ng,	with	the	
+big	ques>on	being	what	is	“reasonable”.
+12
+1.	Growth	may	destroy	value	(be	bad)	
+¨  The	value	of	growth	reﬂects	a	trade	oﬀ	between	its	pluses	(it	
+makes	earnings	grow)	and	its	minuses	(it	requires	reinvestment,	
+which	reduces	cash	ﬂow).	
+¨  One	simple	proxy	for	whether	growth	creates	value	is	to	compare	
+the	return	earned	on	investments	(Return	on	capital	or	return	on	
+equity)	to	the	cost	of	funding	those	investments	(Cost	of	capital	
+and	cost	of	equity).	
+¨  A	company	that	grows	by	taking	bad	investments	is	destroying	
+value.	That	general	proposi>on	applies	in	spades	to	tech	
+companies	for	two	reasons:	
+¤  The	returns	on	new	investments	change	quickly	over	the	life	cycle.	
+¤  Their	growth	plans	tend	to	be	more	ambi>ous.	
+¨  The	net	eﬀect	is	that	the	poten>al	for	growth	destruc>on	at	a	tech	
+company	is	much	greater	than	at	a	non-tech	company.
+13
+2.	Growth	does	not	last	long	(at	least	at	
+tech	companies)	
+¨  When	we	use	historical	growth	as	a	proxy	for	future	
+growth,	we	are	assuming	(implicitly	or	explicitly)	that 	
+companies	that	have	grown	fast	in	the	past	will	
+con>nue	to	do	so	in	the	future.	
+¨  This	is	always	a	dangerous	assump>on,	but	doubly	
+so	with	technology	companies	where	growth	rates	
+can	shiS	abruptly	as	new	compe>tors	emerge	or	
+technology	ages.
+14
+3.	GARP	Mul>ples	like	PEG	can	be	
+distorted	by	a	short	life	cycle
+15
+The	Intrinsic	Valua>on	Challenge
+16
+Alterna>ves	to	perpetual	growth?	
+1.  Liquida>on	value:	The	ﬁrst	and	most	conserva>ve	way	
+to	approach	the	rapid	decline	in	some	growth	
+companies	is	to	assume	that	you	liquidate	its	assets,	
+most	of	which	are	not	physical.	That	liquida>on	value	
+will	be	your	terminal	value.	
+2.  Growing	annuity:	In	this	approach,	you	assume	that	
+your	cash	ﬂows	past	your	terminal	year	con>nue	to	
+grow	for	a	ﬁnite	period	and	calculate	the	value	of	this	
+growing	annuity	as	your	terminal	value.	
+3.  Declining	perpetuity:	The	easiest	ﬁx	is	to	use	a	
+perpetual	growth	model	and	assume	a	nega>ve	growth 	
+rate,	resul>ng	your	company	gebng	smaller	over	>me	
+and	disappearing.

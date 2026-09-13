@@ -1,0 +1,188 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/Tesla2019.pdf
+
+TESLA: CURFEW FOR A CORPORATE 
+TEENAGER?
+Aswath Damodaran
+2
+In the news again..
+¨ A news magnet: Tesla is back in the news, though 
+this time for all of the wrong reasons. 
+¨ Distractions galore: From Musk's Twitter escapades 
+with the SEC, to talk about electric lawn blowers to 
+concerns about a debt death spiral, the company has 
+managed, yet again, to get in its own way and this 
+time it has paid a price in the market, as its stock 
+price tests lows not seen in a couple of years.
+3
+Looking back: My Tesla valuation in June 
+2018
+4
+The Valuation bottom line in June 2018
+¨ I listed possible, perhaps even plausible, scenarios 
+where Tesla's value per share could be higher than 
+$400/share, but argued that it would require the 
+equivalent of a royal flush for the company to get 
+there, a combination of a ten-fold increase in 
+revenues, an operating margin of 12% and 
+reinvesting more like a technology than an 
+automotive company. 
+¨ Since the stock was trading at close $360 at the time 
+of the valuation, I concluded that it was significantly 
+over valued.
+5
+Funding Secured?
+¨ The tweet: Elon Musk roiled the waters in August 2018 
+with his now infamous tweet about funding being 
+secured for a $420 buyout of the stock, causing a surge 
+in the stock price
+¨ The push back: Questions arose about both how secured 
+the funding actually was and whether the $420 price 
+itself was fiction. 
+¨ In my post on the topic, I argued that if you were a 
+private equity investor interested in taking a company 
+private, Tesla would be a poor target, given its need for 
+capital to keep growing, its heavy debt burden and the 
+presence of Elon Musk as CEO.
+6
+Catching up: The Good News since June
+2018
+¨ Revenue Surge: In the drama around production targets 
+and logistical misses, it is easy to lose sight of the fact 
+that the Tesla 3 has caused the company to almost 
+double revenues over the course of the last year, while 
+easily winning the race for best selling electric car in the 
+world.
+¨ Improving Profitability: While Musk's tweets about Tesla 
+turning earnings positive may have been premature, the 
+company has moved down the pathway to profitability, 
+reducing operating losses and with R&D capitalized, 
+perhaps even turning the corner on operating 
+profitability.
+7
+The Bad News
+¨ Debt load and Distress: When Tesla chose to add to its debt burden 
+by borrowing $5 billion in 2017, Iargued that there was no good 
+reason for Tesla to borrow money. Tesla has since added to that 
+debt and in June 2019, that debt, now close to $14 billion, is 
+revealing its dark side, as a bond price plunge and ratings 
+downgrades threaten to put Tesla's growth story at risk.
+¨ Reinvestment Lags: Growth requires reinvestment, and especially 
+so for automobile companies, where assembly lines and logistical 
+infrastructure need to be put in place for cars to be delivered to 
+customers. It is both frustrating and puzzling that Tesla, a company 
+with a loyal customer base that is willing to wait, has been 
+unwilling to make the investments that it needs to meet the 
+demand. Instead, the company seems to lurch from one production 
+crisis to another one while its CEO muddies the water further 
+by arguing that the company is not just earnings positive but cash 
+flow positive.
+8
+The Gobsmackers…
+¨ SEC Oversight: If there has been a recurring story over the past year, it has 
+to do with the aftermath of Elon Musk's "funding secured" tweet, which 
+led to a SEC investigation and a threat of sanctions on the company. While 
+the companycame to a settlement wit the SEC, that settlement requires 
+restraint on the part of Musk on future disclosures to the market 
+(especially in the form on tweets), and restrain is not a Musk strong point.
+¨ Autonomous Cars: In April 2019, Muskunveiled a plan to roll out 
+autonomous taxis, with Tesla owners being allowed to add to the 
+network, in the near future, with the promise that Tesla's technology on 
+auto driving was well ahead of the competition. There is a debate worth 
+having about autonomous cars and how they will change the ride sharing 
+business, but it is almost certain that this will not happen smoothly or 
+soon.
+¨ The Rest: This being Tesla, there were the weekly distractions as Musk 
+muddied the waters with talk ofelectric leaf blowersand insurance 
+products.
+9
+Updating Tesla’s story
+¨ Same story: Bringing together everything that has happened at 
+Tesla over the last year, I find myself telling the same story that I 
+told about Tesla a year ago, of a company that would find a 
+pathway to revenues of $100 billion in 2028, with strong operating 
+margins, remains intact, with one notable change. 
+¨ More danger: The company's debt overhang, already a concern a 
+year ago, has become a clear and present danger to the company. 
+In effect, on an operating basis, the company is and it faces more 
+truncation risk (a chance of failure of 20%).
+¨ A Corporate Teenager? As I watched Musk repeatedly put Tesla's 
+story and value at risk with his distractions, I was reminded of 
+teenagers around the world, with immense potential (and 
+intelligence) who risk it all for a momentary and meaningless rush, 
+leading me to attach the corporate teenager label to the company.
+11
+A Comparison: Tesla in June 2018 vs June 
+2019
+12
+The Tesla Divergence..
+14
+The ARK Pricing of Tesla
+15
+The ARK Tesla Pricing
+¨ This is a pricing, not a valuation: An intrinsic valuation 
+requires forecasting cash flows over time, after taxes and 
+reinvestment, and then discounting those cash flows back at 
+a rate that reflects the risk in the investment. ARK's basic 
+model forecasts revenues, earnings and other metrics in 
+2023, and applying a multiple to their estimated EBITDAR&D 
+in 2023.
+¨ The bear is frisky: The ARK bear case requires that Tesla will 
+sell 1.7 million cars in 2023, at an average price of 
+$50,000/car and generate an operating margin of 6.1% on 
+those revenues. Each of these assumptions is plausible, and 
+the combination is possible, though to call a seven fold 
+increase in revenues over five years, with a concurrent 
+improvement to industry average profitability, a bear case.
+16
+The Weakest Link: Reinvestment and Cash 
+Flow
+17
+Flowing into share count…
+¨ Not enough capital raised: ARK does allow for an equity 
+capital raise of $10.6 billion, but reduces the impact on share 
+count by assuming a stock price of $360/share (market cap 
+will be $70 billion) at the time of the raise. 
+¨ At too high a price? Since this capital will have to be raised 
+soon, there is an element of wishful thinking here, the stock 
+prices will double in short order and the capital raise will 
+follow.
+¨ Option overhang: If stock prices do climb, as ARK assumes 
+there will there is an overhang of 22 million options that have 
+been granted to Musk by the board of directors that will 
+become actual shares. In short, for the ARK bear case to 
+unfold, the share count will have to double over the next five 
+years.
+18
+The ARK pricing: Summing up
+¨ The bear case: Even if you take the ARK bear case as realistic, with 
+Tesla projected to sell 1.7 million cars in 2023 and earn operating 
+margins close to the auto sector, the pricing per share that you get 
+will be closer to $200-$250/share, with a more realistic share count 
+and time value adjustments, not the $560 that you see on the ARK 
+spreadsheet. 
+¨ The bull case:  I will leave it untouched, since it is more fairy tale 
+than valuation, a world where there will be 7.2 autonomous cars 
+are on the road in 2023, with Tesla controlling a 70% market share, 
+and generating $52 billion in annual cash flows. I am willing to 
+accept the argument that Tesla is closer to mastering the 
+autonomous car technology than its competitors, but I see a 
+business that is further in the future than 2023, less dominated by 
+Tesla and much less profitable than ARK does. In short, right now, it 
+is more option than cash flow value added right now.
+19
+My bottom line
+¨ I’ve been wrong on Tesla before: I did my first valuation of Tesla in 2013, 
+and undershot the mark , partly because I saw its potential market as 
+smaller (luxury autos) and partly because I have under estimated how 
+much it would be able to extract in production from the Fremont plant. 
+¨ And I have triedto correct: Over time, I have compensated for both 
+mistakes, giving Tesla access to a bigger (albeit still upscale) market and 
+more growth, while reinvesting less than the typical auto company. 
+¨ A Turning Point?In spite of these adjustments, I have consistently come 
+up with valuations well below the price, finding the stock to be valued at 
+about half its price only a year ago. This year marks a turning point, as I 
+find Tesla to be under valued, albeit by only a small fraction. Even in the 
+midst of my most negative posts on Tesla, I argued that I like the company 
+and that I would one day own the stock. That day may be here, as I put in 
+a limit buy order at $180/share knowing fully well that like my children in 
+their teenage years, this company will test my patience and sanity.

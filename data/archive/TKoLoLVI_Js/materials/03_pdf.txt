@@ -1,0 +1,24 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session2soln.pdf
+
+Session	2:	Post	class	test	solutions	
+1. e.	A	discounted	cash	flow	valuation	of	the	company	with	no	growth	By	
+estimating	earnings	and	cash	flows,	with	limited	or	no	growth,	you	can	value	
+just	the	existing	assets.	
+2. d.	Companies	that	reinvest	more	and	earn	a	high	return	on	capital	on	
+those	investments	will	have	a	higher	value	for	growth	assets.	Growth	
+alone	or	reinvestment	alone	are	not	sufficient	for	growth	to	have	value.	It	is	
+the	combination	of	high	reinvestment	and	high	returns	on	capital	that	create	
+value	in	growth	assets.	
+3. c.	Companies	that	derive	the	bulk	of	their	value	from	assets	in	place	and	
+have	positive	earnings	will	borrow	more.	Since	borrowing	gives	rise	to	
+contractually	set	payments	(interest),	money	making	companies	have	an	
+advantage,	but	companies	with	growth	assets	have	to	reinvest	those	earnings	
+to	generate	future	growth,	and	are	less	likely	to	borrow	than	mature	
+companies.	
+4. c.	Mostly	growth	assets,	primarily	equity	funded,	no/low	dividends.	
+Young	firms	tend	to	get	the	bulk	of	their	value	from	growth	assets,	don’t	have	
+the	earnings	to	service	debt	and	need	to	reinvest	their	earnings	to	facilitate	
+growth	and	thus	cannot	afford	to	pay	dividends.	
+6. e.	Mostly	assets	in	place,	more	debt	funded,	high	dividends.	Mature	firms	
+get	the	bulk	of	their	value	from	assets	in	place,	usually	have	earnings	to	
+sustain	debt	and	can	afford	to	return	more	cash	to	stockholders.

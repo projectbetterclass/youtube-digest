@@ -1,0 +1,97 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ValeantNov16.pdf
+
+FAITH, FEAR AND 
+FEEDBACK: V ALEANT AS 
+THE ACID TEST
+Aswath Damodaran
+2
+Valeant in November 2015: The Price Drop
+3
+My Valeant Valuation (November 2015)
+4
+Valeant in May 2016
+5
+Valeant:	My	Valuation	in	May	2016
+6
+Valeant:	The	Pain	Continues
+7
+Valeant:	The	latest	earnings	report
+2016,	Q3 2015,	Q3 Change 2016,	Q1-3 2015,	Q1-3 Change
+Revenues $2,480	 $2,787	 -11.02% $7,271	 $7,689	 -5.44% 
+COGS $658	 $649	 1.39% $1,946	 $1,855	 4.91% 
+S,G	&A $661	 $698	 -5.30% $2,145	 $1,957	 9.61% 
+R&D $101	 $102	 -0.98% $328	 $239	 37.24% 
+Amort	&	Impair,	finite-
+lived	intangible	assets $807	 $679	 18.85% $2,389	 $1,630	 46.56% 
+Goodwill	Impairment $1,049	 $-  NA $1,049	 $-  NA
+Acquisiton	Costs	(all) $67	 $213	 -63.93% $131	 $648	 -65.06% 
+Operating	Income $(863) $448	 -292.63% $(716) $1,366	 -152.42% 
+EBIT	pre-acquisition	
+costs $(796) $661	 -220.42% $(585) $2,014	 -129.05% 
+EBITDA $1,060	 $1,340	 -20.90% $2,853	 $3,644	 -21.71% 
+EBITDAR $1,161	 $1,442	 -19.49% $3,181	 $3,883	 -18.08%
+8
+Deconstructing	the	Earnings	Drop
+Effect	on	operating	
+Income %	Effect
+Declining	Revenues $(317) 15.27% 
+Change	in	Gross	Margin $(192) 9.24% 
+Change	in	SG&A $(188) 9.05% 
+Change	in	R&D $(89) 4.29% 
+Change	in	Acquisition	Costs $517	 -24.89% 
+Change	in	Amortization	(Assets	+	Goodwill) $(1,808) 87.05%
+Change	in	Operating		Income,	,	First	3Q	2016	vs	First	3Q	2015 $(2,077) 100.00%
+9
+Cleaning	Up	Earnings
+2015	10K
+First	3	Qtrs,	
+2016
+First	3	Qtrs,	
+2015 LTM	
+Cleaned	up	
+LTM Explanation
+Revenues $10,447	 $7,271	 $7,689	 $10,029	 $10,029	 Same	at	LTM
+Gross	
+Income $7,915	 $5,354	 $5,877	 $7,392	 $7,392	 Same	at	LTM
+SG&A $2,700	 $2,145	 $1,957	 $2,888	 $2,888	 Same	at	LTM
+EBITDAR $5,215	 $3,209	 $3,920	 $4,504	 $4,504	 Same	at	LTM
+Amortizatio
+n	(from	
+R&D) $2,418	 $2,389	 $1,630	 $3,177	 $187	 Reinvestment	=	R&D	- Amortization
+R&D $334	 $328	 $239	 $423	 $802	 !	R&D	set	at	8%	of	sales,	mature	pharmaceutical	company
+EBIT $2,463	 $492	 $2,051	 $904	 $3,514	
+EBIT	(1-t) $2,460	 Based	upon	tax	rate	of	30%	(steady	state)
+Reinvestment	needed	for	2.25%	growth $615	 Estimated	using	a	return	on	capital	of	9%
+10
+Valeant:	My	Valuation	in	November	2016
+11
+Faith	versus	Feedback:	The	Balancing	Act
+1. Faith:	As	an	investor,	you	are	acting	on	faith	when	you	invest,	faith	in	
+your	assessment	of	value	and	faith	that	the	market	price	will	move	
+towards	that	value.	
+2. Feedback:	As	an	investor,	you	have	to	be	open	to	feedback,	i.e.,	accept	
+that	your	story	(and	valuation)	are	wrong	and	that	market	movements	
+in	the	wrong	direction	are	a	signal	that	you	should	be	revisiting	your	
+valuation.
+¨ The	Balance :	You	need	both	faith	and	feedback	in	investing	and	too	much	
+of	one	at	the	expense	of	the	other	can	be	dangerous.
+¤ Faith	without	feedback	can	lead	to	doubling	down	or	tripling	down	on	your	initial	
+investment	bet,	blind	to	both	new	information	and	your	own	oversights,	and	that	
+righteous	pathway	can	lead	to	investment	hell.	
+¤ Feedback	without	faith will	cause	an	endless	loop	where	market	price	changes	
+drive	your	value	and	your	holding	period	will	be	measured	in	days	and	weeks	
+instead	of	months	or	years.
+1.
+12
+The	Balancing	Act	with	Valeant
+¨ The	Feedback	effect:	I	underestimated	how	long	it	
+would	take	Valeant	to	put	its	past	behind	it	and	to	
+revalue	the	company	with	my	updated	story	and	
+that	is	what	I	tried	to	do.
+¨ That	Faith	effect:	Since	it	led	me	to	buy	the	stock	at	
+$27,	when	my	estimated	value	was	$43	in	May	2016,	
+it	should	lead	me	to	buy	even	more	at	$15,	with	my	
+estimated	value	at	$32.50.	So,	I	doubled	my	Valeant	
+holdings	and	some	of	you	will	undoubtedly	call	my	
+attention	to	this	post,	especially	if	the	stock	
+continues	to	slide.

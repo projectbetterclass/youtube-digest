@@ -1,0 +1,49 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/session4test.pdf
+
+Session 4: Post Class Test 
+1. Looking at annual returns on real estate from 1928 to 2020, and breaking those returns down 
+into classes, I have the following table: 
+Annual Return Number of years 
+<-10% 2 
+ -10% to -5% 3 
+ -5% to 0% 10 
+ 0% to 5% 42 
+5% to 10% 22 
+10% to 15% 10 
+15% to 20% 2 
+>20% 2 
+a. Draw a histogram of real estate annual returns from 1928 -2020 
+b. What can you learn about the data (central values, symmetry, tails) from this 
+histogram? 
+2. The normal distribution remains the workhorse in statistical analysis. What of the following 
+is true for normal distributions? 
+a. The average of the data is equal to the median 
+b. 95% of the sample observations fall within two standard deviations of the average. 
+c. The skewness in the distribution is zero.  
+d. The kurtosis (fatness of tails) of the distribution is three. 
+e. All of the above 
+3. There are at least three other symmetric distributions in statistics that are alternatives to the 
+normal distribution, the t distribution, the triangular distribution, and the uniform 
+distribution. Assuming that you have data that is symmetric: 
+a. When would you use a t distribution instead of a normal distribution? 
+b. When does a triangular distribution make sense instead of a normal distribution? 
+c. When would you use a uniform distribution instead of a normal distribution? 
+4. Assume that you are using a normal distribution on data that has much fatter tails, albeit 
+symmetric, than allowed by a normal distribution. Which of the following would you expect 
+to see in your sample data? 
+a. The average will be skewed upwards by the fat tails 
+b. The average will be skewed downwards by the fat tails 
+c. The range on the distribution will be larger than you would expect to see in a normal 
+distribution. 
+d. There will be more extreme outliers (data that is more than two or three standard 
+deviations from the average) than you would expect to see in a normal distribution. 
+e. There will be fewer extreme outliers (data that is more than two or three standard 
+deviations from the average) than you would expect to see in a normal distribution. 
+5. A lognormal distribution has an expected value, a standard deviation, and positive skewness. 
+What is the relationship between the distribution’s expected value, standard deviation and 
+skewness? 
+a. There is no link between the standard deviation and the skewness. 
+b. As the standard deviation goes up, the skewness will become more positive. 
+c. As the standard deviation goes down, the skewness will become more positive.
+d. As the expected value goes up, the skewness will become more positive. 
+e. As the expected value goes down, the skewness will become more positive.

@@ -1,0 +1,165 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate5for2019.pdf
+
+JANUARY 2019 DATA UPDATE 5: 
+THE HURDLE RATE
+Aswath Damodaran
+2
+Cost of Capital: A Financial Balance Sheet 
+Perspective
+3
+The Swiss Army Knife
+4
+Every Risk has a place
+5
+1. Business Risk
+¨ If you are diversified, I argued that you would measure 
+the risk in an investment with the covariance of that 
+investment with the market, or in its standardized form, 
+its beta.
+¨ To get the beta for a company, then, you can adopt one 
+of two approaches.
+¤ The first, and the one that is taught in every finance class, is to 
+run a regression of returns on the stock against a market index 
+and to use the regression beta.
+¤ The second, and my preferred approach, is to estimate a beta by 
+looking at the business or businesses a company operates in, 
+and taking a weighted average of the betas of companies in that 
+business.
+6
+Estimation Process
+¨ Each year, I estimate these numbers by averaging the 
+betas of publicly traded companies in each business. 
+These betas, in addition to reflecting the risk of the 
+business, also reflect the financial leverage of 
+companies in that business (with more debt pushing 
+up betas) and their holdings in cash and marketable 
+securities (which, being close to risk less, push down 
+betas). 
+¨ I adjust the average beta for both variables to 
+estimate what is called a pure play or a business 
+beta for each business.
+7
+Beta for a company
+Aswath Damodaran
+7
+¨ To get from these business betas to the beta of a 
+company, you need to first identify what businesses the 
+company operates in, and then how much value it 
+derives from each of the businesses. 
+¤ The first part is usually simple to do, though you may face the 
+challenge of finding the right bucket to put a business into
+¤ The second part is usually difficult, because the individual 
+businesses do not trade. You can use revenues or operating 
+income by business as approximations to estimate weights or 
+apply multiples to each of these variables (by looking at what 
+other companies in the business trade at) to arrive at value 
+weights.
+8
+2. Financial Leverage
+¨ Debt Ratio: Th mix of debt and equity that you use 
+represents the weights in your cost of capital.
+¨ Beta Effect: As you borrow money, your equity will 
+become riskier, because it is a residual claim, and having 
+more interest expenses will make that claim more 
+volatile. 
+¨ Cost of Debt: The cost of debt, which is set by lenders 
+based upon how much default risk that they see in a 
+company. To the extent that the tax law is tilted towards 
+debt, the after-tax cost of borrowing will reflect that tax 
+benefit.
+9
+3. Country Risk
+¨ Sovereign Ratings and Default Spreads: The vast majority of 
+countries have sovereign ratings, measuring their default 
+risk.
+¨ Sovereign CDS spreads: The Credit Default Swap (CDS) market 
+is one where you can buy insurance against sovereign default, 
+and it offers a market-based estimate of sovereign risk. 
+¨ Country Risk Premiums: I start with the default spreads, but I 
+add a scaling factor to reflect the reality that equities are 
+riskier than government bonds to come up with country risk 
+premiums. The scaling factor that I use is obtained by dividing 
+the volatility of an emerging market equity index by the 
+volatility of emerging market bonds.
+10
+ERP Estimation in January 2019
+Black #: Total ERP
+Red #: Country risk premium
+Regional #: GDP weighted average
+ERP : Jan 2019
+12
+4. Currency Risk (or is it Choice)
+13
+Approach 1: Risk free Rate
+14
+Approach 2: Differential Inflation
+¨ You estimate the cost of capital in a currency that 
+you feel comfortable with (in terms of estimating risk 
+free rates and risk premiums) and then add on or 
+incorporate the differential inflation between that 
+currency and the local currency that you want to 
+convert the cost of capital to. 
+¨ Thus, to convert the cost of capital in US $ terms to a 
+different currency, you would do the following:
+15
+Proposition 1: A hurdle rate is an 
+opportunity cost, not a funding cost
+¨ Most people, when asked what a cost of capital is, will 
+respond with the answer that it is the cost of raising 
+capital. In the context of its usage as a hurdle rate, that is 
+not true. 
+¨ It is an opportunity cost, a rate of return that you (as a 
+company or investor) can earn on other investments in 
+the market of equivalent risk. 
+¨ That is why, when valuing a target firm in an acquisition, 
+you should always use the risk characteristics of the 
+target firm (its beta and debt capacity) to compute a cost 
+of capital, rather than the cost of capital of the acquiring 
+firm.
+16
+Proposition 2: A company-wide hurdle rate 
+can be misleading and dangerous
+¨ In corporate finance, the hurdle rate becomes the number to beat, 
+when you do investment analysis. Most companies claim to have a 
+corporate hurdle rate, a number that all projects that are assessed 
+within the company get measured against. 
+¨ If your company operates in only one business and one country, 
+this may work, but to the extent that companies operate in many 
+businesses across multiple countries, there can be no one hurdle 
+rate. Even if you use only one currency in analysis, your cost of 
+capital will be a function of which business a project is in, and what 
+country it is aimed at. 
+¨ The consequences of not making these differential adjustments will 
+be that your safe businesses will end up subsidizing your risky 
+businesses, and over time, both will be hurt, in what I term the 
+"curse of the lazy conglomerate".
+17
+Proposition 3: Currency is a choice, but 
+one that should not change outcomes
+¨ If you follow the consistency rule on currency, 
+incorporating inflation into both cash flows and discount 
+rates, your analyses should be currency neutral. 
+¨ In other words, a project that looks like it is a bad 
+project, when the analysis is done in US dollar terms, 
+cannot become a good project, just because you decide 
+to do the analysis in Indian rupees. 
+¨ If you do get divergent answers with different currencies, 
+it is because there are inflation inconsistencies in your 
+assessments of discount rates and cash flows.
+18
+Proposition 4: Your cost of capital cannot 
+be insulated from the market
+¨ There are many who remain wary of financial 
+markets and their capacity to be irrational and 
+volatile. 
+¨ Consequently, they try to generate hurdle rates that 
+are unaffected by market movements, a futile and 
+dangerous exercise, because we have to be price 
+takers on at least some of the inputs into hurdle 
+rates. 
+¨ Your cost of capital will change, and should change, 
+as risk free rates and the prices of risk (equity risk 
+premiums and default spreads) change.
+19
+Proposition 5: Gain perspective on cost of 
+capital

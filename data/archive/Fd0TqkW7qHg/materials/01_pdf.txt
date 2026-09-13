@@ -1,0 +1,193 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/CryptoCurrencies.pdf
+
+CRYPTO	CURRENCIES:	FLASH	IN	
+THE	PAN	OR	THE	FUTURE	OF	
+CURRENCY?
+Hype,	hope	and	disappointment
+2
+The	Rise	of	Crypto	Currencies
+3
+And	the	bloom	is	not	off	the	rose,	yet..
+4
+A	Newcomer	rises	too…
+5
+The	Architecture	behind	the	Crypto	
+Currencies..
+6
+The	Block	Chain:	Characteristics
+¨ Decentralized	verification:	The	validation	of	a	transaction	is	sourced	
+to	members,	called	miners	in	the	crypto	currency	world.	Validation	
+usually	involves	trying	different	algorithms	(hashes)	to	find	the	
+unique	one	that	matches	the	transaction	block,	and	the	successful	
+miner	is	rewarded,	currently	with	the	crypto	currency.	
+¨ Complete	and	open	records:	Every	transaction,	once	validated,	is	
+converted	into	a	block	of	data	that	is	recorded	in	the	block	chain	
+ledger,	which	is	accessible	to	everyone	in	the	network.	If	you	are	
+worried	about	privacy,	the	transaction	records	do	not	include	
+personal	data	but	take	the	form	of	encrypted	data	(hashes).
+¨ Incorruptible:	A	block	chain,	once	recorded	and	shared,	cannot	be	
+changed	since	those	changes	are	visible	to	everyone	in	the	network	
+and	are	quickly	tagged	as	fraudulent.	Thus,	the	ledger,	once	
+created,	becomes	almost	incorruptible.
+7
+The	Future	of	Blockchain
+¨ In	effect,	a	block	chain	is	a	digital	intermediation	process	
+where	transactions	are	checked	by	members	of	the	network,	
+and	recorded,	and	once	that	is	done,	cannot	be	altered	
+fraudulently.	
+¨ The	block	chain	technology	is	about	far	more	than	crypto	
+currencies.	It	can	be	used	to	record	transactions	in	any	asset,	
+from	securities	in	financial	markets	to	physical	assets	like	
+houses,	and	do	so	in	a	way	that	replaces	the	existing	
+intermediaries	with	decentralized	models.	
+¨ Banks	and	stock	exchanges,	which	make	the	bulk	of	their	
+money	from	intermediation,	not	only	see	block	chains	as	a	
+threat	to	their	existence	but	have	been	early	investors	in	the	
+technology,	hoping	to	co-opt	it	to	their	own	needs.
+8
+Currency	101:	The	Purposes	of	Money
+¨ Unit	of	account:	A	key	role	for	a	currency	is	to	operate	as	a	unit	of	
+account,	allowing	you	to	value	not	just	assets	and	liabilities,	but	
+also	goods	and	services.	To	be	effective	as	a	unit	of	account,	a	
+currency	has	to	be	fungible	(one	unit	of	the	currency	is	identical	to	
+any	other	unit),	divisible	and	countable.
+¨ Medium	of	exchange:	Currencies	exist	to	make	transactions	
+possible,	and	this	is	best	accomplished	if	the	currency	in	question	is	
+easily	accessible	and	transportable,	and	is	accepted	by	buyers	and	
+sellers	as	legal	tender .	The	latter	will	occur	only	if	people	trust	that	
+the	currency	will	maintain	its	value	and	if	transactions	costs	are	
+low.
+¨ Store	of	value:	To	the	extent	that	you	hold	some	or	all	of	your	
+wealth	in	a	currency,	you	want	to	feel	secure	about	leaving	it	in	
+that	currency,	knowing	that	it	will	not	lose	its	buying	power	while	
+stored.
+9
+Good	versus	Bad	Currencies
+¨ Forms:	Currencies	can	take	one	of	three	forms,	a	physical	
+asset	(gold,	silver,	diamonds,	shells),	a	fiat	currency	
+(usually	taking	the	form	of	paper	and	coins,	backed	by	a	
+government)	and	crypto	or	digital	currencies.
+¨ The	Survivor:	Gold's	long	tenure	as	a	currency	can	be	
+attributed	to	its	strength	as	a	store	of	value,	arising	from	
+its	natural	scarcity	and	durability,	though	it	falls	short	of	
+fiat	currencies,	in	terms	of	convenience	and	acceptance,	
+both	as	a	unit	of	account	and	as	medium	of	exchanges.
+¨ The	Fiat	Currencies:	Fiat	currencies	are	backed	by	
+sovereign	governments	and	consequently	can	vary	in	
+quality	as	currencies,	depending	upon	the	trust	that	we	
+have	in	the	issuing	governments.
+10
+How	do	crypto	currencies	measure	up?
+¨ As	units	of	account,	there	is	no	reason	to	doubt	that	they	
+can	function,	since	they	are	fungible,	divisible	and	
+countable.	
+¨ The	weakest	link	in	crypto	currencies	has	been	their	
+failure	to	make	deeper	inroads	as	mediums	of	exchange	
+or	as	stores	of	value.	
+¨ Using	Bitcoin,	to	illustrate,	it	is	disappointing	that so	few	
+retailers	still	accept	it	as	payment	for	goods	and	services.	
+Even	the	much	hyped	successes,	such	as Overstock and	
+Microsoft	accepting	Bitcoin	is	illusory,	since	they	do	so	
+on	limited	items,	and only	with	an	intermediary	who	
+converts	the	bitcoin	into	US	dollars	for	them.
+11
+Why	the	slow	acceptance?
+¨ Inertia:	Fiat	currencies	have	a	had	a	long	run,	and	it	is	not	
+surprising	that	for	many	people,	currency	is	physical	and	
+takes	the	form	of	government	issued	paper	and	coins.	
+¨ Price	volatility:	Crypto	currencies	have	seen	and	continue	to	
+see	wild	swings	in	prices,	not	a	bad	characteristic	in	a	traded	
+asset	but	definitely	not	a	good	one	in	a	currency.	
+¨ Competing	crypto	currencies:	The	crypto	currency	game	is	
+still	young	and	the	competing	players	each	claim	to	have	
+found	the	"magic	bullet"	for	eventual	acceptance.	As	
+technologies	and	tastes	evolve,	you	will	see	a	thinning	of	the	
+herd,	where	buyers	and	sellers	will	pick	 winners,	perhaps	
+from	the	current	list	or	maybe	something	new.
+12
+The	Disconnect
+13
+Explaining	the	Disconnect
+¨ Markets	are	forward	looking:	Market	are	forward	looking	and	that	
+the	rise	in	the	prices	of	Bitcoin	and	Ether	reflects	market	
+expectations	that	they	will	succeed	as	currencies,	if	not	right	away,	
+in	the	near	future.
+¨ Speculative	asset:	In	the	value	game,	you	try	to	attach	a	value	to	an	
+asset	based	upon	fundamentals,	and	in	the	pricing	game,	it	is	mood	
+and	momentum	that	drive	the	process.	Crypto	currency	markets	
+are	pure	pricing	games,	where	fundamentals	have	been	long	since	
+forgotten
+¨ Loss	of	trust	in	centralized	authorities	(governments	&amp;	central	
+banks):	Gold	has	held	a	special	place	in	the	currency	continuum,	
+often	being	the	asset	of	last	resort	for	people	who	have	lost	faith	in	
+fiat	currencies.	For	some	people	(especially	younger	and	more	
+technologically	inclined),	bitcoin	and	ether	are	playing	the	same	
+role.
+14
+Gold	versus	Crypto	Currencies
+¨ Time	tested?	Gold	has	held	its	value	through	the	
+centuries	and	is	a	physical	asset.	For	better	or	worse,	it	is	
+unlikely	that	we	will	decide	a	few	years	from	now	that	
+gold	is	worthless.	
+¨ The	Currency	Test:	A	crypto	currency	that	few	people	use	
+as	currency	ultimately	will	not	be	able	to	sustain	itself,	as	
+shiner	and	newer	versions	of	it	pop	up.	Ironically,	if	
+traders	in	bitcoin	and	ether	want	their	investments	in	
+the	crypto	currencies	to	hold	their	value,	the	currencies	
+have	to	become	less	exciting	and	lucrative	as	
+investments,	and	become	more	accepted	as	currencies.
+15
+Key	tests	for	success	in	crypto	currencies..
+¨ Transaction,	not	trading,	talk:	From	creators	and	
+proponents	of	the	currency,	you	will	hear	less	talk	about	
+how	much	money	you	would	make	by	buying	and	selling	
+the	currency	and	more	on	its	efficacy	in	transactions.
+¨ Transaction,	not	trading,	features:The	design	of	the	
+crypto	currency	will	focus	on	creating	features	that	make	
+it	attractive	as	a	currency	(for	transactions),	not	as	
+investments.	
+¨ Trust	in	something:	To	be	effective	as	a	currency,	you	do	
+need	to	be	able	to	trust	in	something	and	perhaps	
+accept	compromises	on	privacy	and	centralized	authority	
+(at	least	on	some	dimensions	of	the	currency).
+16
+The	Cap	Effect:	An	Acid	Test
+¨ Bitcoin	and	ether	miners	have	been	willing	to	put	in	
+the	effort	to	validate	transactions	because	they	are	
+rewarded	with	issues	of	the	currency,	feasible	now	
+because	there	is	slack	in	the	currency	(the	current	
+number	is	below	the	cap).	
+¨ As	the	cap	becomes	a	binding	constraint,	the	
+rewards	from	miners	have	to	come	from	
+transactions	costs	and	serious	thought	has	to	go	into	
+currency	design	to	keep	these	costs	low.
+17
+A	“Fair”	price	for	Crypto	Currencies
+¨ A	fair	exchange	rate	between	two	fiat	currencies	will	be	
+on	that equalizes	their	purchasing	power,	an	old,	
+imperfect	and	powerful	theorem.	
+¨ If	you	are	paying	$2,775	for	a	bitcoin	on	August	1,	2017,	
+is	whether	you	can	(or	even	will	be	able	to)	but	$2,775	
+worth	of	goods	and	services	with	that	bitcoin.	
+¤ If	you	believe	that	bitcoin	will	eventually	get	wide	acceptance	as	
+a	digital	currency,	you	may	be	able	to	justify	that	price,	
+especially	because	there	is	a	hard	cap	on	bitcoin
+¤ If	you	don't	believe	that	bitcoin	will	ever	acquire	wide	
+acceptance	in	transactions,	it	is	time	that	you	were	honest	with	
+yourself	and	recognized	that	is	just	a	lucrative,	but	dangerous,	
+pricing	game	with	no	good	ending.
+18
+Digital	Currencies
+¨ Not	there	yet:	Crypto	currencies,	with	bitcoin	and	ether	
+leading	the	pack,	have	succeeded	in	financial	markets	by	
+attracting	investors,	and	in	the	public	discourse	by	garnering	
+attention,	but	they	have	not	succeeded	(yet)	as	currencies.	
+¨ But	they	are	coming:	There	will	be	one	or	more	digital	
+currencies	competing	with	fiat	currencies	for	transactions,	
+sooner	rather	than	later .	I	am	hard	pressed	to	find	a	winner	
+on	the	current	list,	right	now,	but	that	could	change	if	the	
+focus	shifts	from	trading	to	transactions.
+¨ Winner	could	be	a	new	entrant:	If	that	does	not	happen,	we	
+will	have	to	wait	for	a	fresh	entrant	and	the	most	enduring	
+part	of	this	phase	in	markets	may	be	the	block	chain	and	not	
+the	currencies	themselves.

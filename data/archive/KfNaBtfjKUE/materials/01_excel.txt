@@ -1,0 +1,3 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pc/datasets/roe.xls
+
+[legacy .xls workbook: roe.xls — see raw file]

@@ -1,0 +1,138 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/YieldCurveInversion.pdf
+
+THE INVERTED YIELD CURVE: IS
+THERE A SIGNAL IN THE NOISE?
+Yield curves, economic growth & stock prices
+2
+The Lead In
+¨ Over the last few weeks, as markets have gyrated, 
+explanations of day-to-day swings have shifted and 
+morphed, often in contradictory ways, but few of them 
+have had staying power . 
+¨ On Tuesday (December 4), as the Dow dropped 800 
+points, following a 300-point up day on Monday, the 
+experts found a new reason for the market drop, in the 
+yield curve, with an "inverted yield curve", or at least a 
+portion of one, predicting an imminent recession. 
+¨ As with all market rules of thumb, there is some basis for 
+the rule, but there are shades of gray that can be seen 
+only by looking at all of the data.
+3
+Yield Curves over time
+4
+Yield Curve on December 4, 2018
+5
+Yield Curve: A Rationale for Upward 
+Sloping Curves
+¨ To understand yield cur ves, let's start with a simple economic 
+proposition. Embedded in every treasury rate are 
+expectations of expected inflation and expected real real 
+interest rates, and the latter
+¤ Interest Rate = Expected Inflation Rate + Expected Real Interest Rate
+¨ Over much of the last century, the US treasury yield curve has 
+been upward sloping, and the standard economic 
+rationalization for it is a simple one. In a market where 
+expectations of inflation are similar for the short term and 
+the long term, investors will demand a "maturity premium" 
+(or a higher real interest rate) for buying longer term bonds, 
+thus causing the upward tilt in the yield curve.
+¨
+6
+And the mechanics of downward sloping 
+curves
+7
+Inverted Yield Curves: A Fed Effect?
+¨ The rises in short term rates that give rise to each of 
+the inverted yield curve episodes are accompanied 
+by increases in the Fed Funds rate. 
+¨ To the extent that the Fed's monetary policy action 
+(of raising the Fed funds rate) accomplishes its 
+objective of slowing down growth, the yield slope 
+metric becomes a stand-in for the Fed effect on the 
+economy, with a more positive slope associated with 
+easier monetary policy.
+8
+Inverted Yield Curves: The Perfect 
+Predictor of Recessions?
+9
+Yield Curves and Economic Growth: A
+fuller analysis?
+¨ The fact that every inversion in the last few decades has 
+been followed by a recession will strike fear into the 
+hearts of investors, but is it that fool proof a predictor? 
+¨ Perhaps, but given that the yield curve slope metrics and 
+economic growth are continuous, not discrete, variables, 
+a more complete assessment of the yield curve's 
+predictive power for the economy would require that we 
+look at the strength of the link between the slope of the 
+yield curve (and not just whether it is inverted or not) 
+and the level of economic growth (and not just whether 
+it is positive or negative).
+10
+US treasury rates over time
+11
+Yield Spreads over time
+12
+Yield Spreads and GDP Growth
+13
+Looking past the picture..
+14
+What I see…
+¨ It is the short end that has predictive power for the economy: Over 
+the entire time period (1962-2018), the slope of the short end of 
+the yield curve is positively related with economic growth, with 
+more upward sloping yield curves connected to higher economic 
+growth in subsequent time periods. 
+¨ Even that predictive power is muted: Over the entire time period, 
+even for the most strongly linked metric (which is the 2 year versus 
+1 year), the correlation is only 29%, for GDP growth over the next 
+year, suggesting that there is significant noise in the prediction.
+¨ And 2008 may have been a structural break: Looking only at the 
+last ten years, the relationship seems to have reversed sign, with 
+flatter yield curves, even at the short end, associated with higher 
+real growth. This may be a hangover from the slow economic 
+growth in the years after the crisis, but it does raise red flags about 
+using this indicator today.
+15
+Investor Perspectives
+¨ As investors, your focus is often less on the 
+economy, and more on stock prices.
+¨ After all, strong economies don't always deliver 
+superior stock returns, and weak ones can often be 
+accompanied by strong market performance.
+¨ From that perspective, the question becomes what 
+the slope of the yield curve and inverted yield curves 
+tell you about future stock returns, not economic 
+growth.
+16
+Yield Curve Spreads and Stock Returns
+17
+And correlations
+18
+Reading the tea leaves: Two mistakes!
+¨ Mistake 1: One is to take a blip on a day (the inversion in 
+the 2 and 5 year bonds on December 4) and read too 
+much into it, as we are apt to do when we are confused 
+or scared. It is true that a portion of the yield curve 
+inverted, but if history is any guide, its predictive power 
+for the economy is weak and for the market, even 
+weaker. 
+¨ Mistake 2: The other is that we are taking rules of thumb 
+developed in the US in the last century and assuming 
+that they still work in a vastly different economic 
+environment.
+19
+Bottom Line
+¨ Yield curve flattening is good news: In my view, the flattening 
+of the yield curve in the last two years has been more good 
+news than bad, an indication that we are coming out of the 
+low growth mindset of the post-2008 crisis years. 
+¨ But the stalling at 3% is sobering news: I also think that the 
+stalling of the US 10-year treasury bond rate at 3% or less is a 
+warning that investors are scaling back growth expectations 
+for both the global and US economies, going into 2019. 
+¨ The key tests for stocks lie in whether they can not only 
+sustain earnings growth, in the face of slower economic 
+growth and without the tailwind of a tax cut (like they did last 
+year), but also in whether they can continue to return cash at 
+the rates that they have for the last few years.

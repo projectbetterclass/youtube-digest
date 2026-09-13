@@ -1,0 +1,449 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfspr19/session4slides.pdf
+
+43
+Social Costs and Benefits are difficult to quantify 
+because ..
+Aswath Damodaran
+43
+¨Cannot know the unknown: They might not be known at 
+the time of the decision. In other words, a firm may 
+think that it is delivering a product that enhances 
+society, at the time it delivers the product but discover 
+afterwards that there are very large costs. (Asbestos was 
+a wonderful product, when it was devised, light and easy 
+to work with… It is only after decades that the health 
+consequences came to light)
+¨Eyes of the beholder: They are ‘person-specific’, since 
+different decision makers can look at the same social 
+cost and weight them very differently. 
+¨Decision paralysis: They can be paralyzing if carried to 
+extremes.
+44
+A test of your social consciousness: 
+Put your money where you mouth is…
+Aswath Damodaran
+44
+¨Assume that you work for Disney and that you have an opportunity 
+to open a store in an inner-city neighborhood. The store is 
+expected to lose about a million dollars a year, but it will create 
+much-needed employment in the area, and may help revitalize it.
+¨Would you open the store?
+¤Yes
+¤No
+¨If yes, would you tell your stockholders and let them vote on the 
+issue?
+¤Yes
+¤No
+¨If no, how would you respond to a stockholder query on why you 
+were not living up to your social responsibilities?
+45
+So this is what can go wrong...
+Aswath Damodaran
+45
+STOCKHOLDERS
+Managers put
+their interests
+above stockholders
+Have little control
+over managers
+BONDHOLDERS
+Lend Money
+Bondholders can
+get ripped off
+FINANCIAL MARKETS
+SOCIETYManagers
+Delay bad
+news or 
+provide 
+misleading
+information
+Markets make
+mistakes and
+can over react
+Significant Social Costs
+Some costs cannot be
+traced to firm
+46
+Traditional corporate financial theory breaks 
+down when ...
+Aswath Damodaran
+46
+¨Managerial self-interest: The interests/objectives of the 
+decision makers in the firm conflict with the interests of 
+stockholders.
+¨Unprotected debt holders: Bondholders (Lenders) are 
+not protected against expropriation by stockholders.
+¨Inefficient markets: Financial markets do not operate 
+efficiently, and stock prices do not reflect the underlying 
+value of the firm.
+¨Large social side costs: Significant social costs can be 
+created as a by-product of stock price maximization.
+47
+When traditional corporate financial theory 
+breaks down, the solution is:
+Aswath Damodaran
+47
+¨A non-stockholder based governance system: To choose a 
+different mechanism for corporate governance, i.e, assign the 
+responsibility for monitoring managers to someone other 
+than stockholders.
+¨A better objective than maximizing stock prices?To choose a 
+different objective for the firm.
+¨Maximize stock prices but minimize side costs: To maximize 
+stock price, but reduce the potential for conflict and 
+breakdown:
+¤Making managers (decision makers) and employees into stockholders
+¤Protect lenders from expropriation
+¤By providing information honestly and promptly to financial markets
+¤Minimize social costs
+48
+I. An Alternative Corporate Governance System
+Aswath Damodaran
+48
+¨Germany and Japan developed a different mechanism for 
+corporate governance, based upon corporate cross holdings. 
+¤In Germany, the banks form the core of this system.
+¤In Japan, it is the keiretsus
+¤Other Asian countries have modeled their system after Japan, with family 
+companies forming the core of the new corporate families
+¨At their best, the most efficient firms in the group work at bringing 
+the less efficient  firms up to par . They provide a corporate welfare 
+system that makes for a more stable corporate structure
+¨At their worst, the least efficient and poorly run firms in the group 
+pull down the most efficient and best run firms down. The nature 
+of the cross holdings makes its very difficult for outsiders (including 
+investors in these firms) to figure out how well or badly the group 
+is doing.
+49
+II. Choose a Different Objective Function
+Aswath Damodaran
+49
+¨Firms can always focus on a different objective function. 
+Examples would include
+¤maximizing earnings
+¤maximizing revenues
+¤maximizing firm size
+¤maximizing market share
+¤maximizing EVA
+¨The key thing to remember is that these are 
+intermediate objective functions. 
+¤To the degree that they are correlated w ith the long term  health 
+and value of the company, they work well.
+¤To the degree that they do not, the firm  can end up w ith a 
+disaster
+50
+III. Maximize Stock Price, subject to ..
+Aswath Damodaran
+50
+¨The strength of the stock price maximization objective 
+function is its internal self correction mechanism. Excesses on 
+any of the linkages lead, if unregulated, to counter actions 
+which reduce or eliminate these excesses
+¨In the context of our discussion,
+¤managers taking advantage of stockholders has led to a much more 
+active market for corporate control.
+¤stockholders taking advantage of bondholders has led to bondholders 
+protecting themselves at the time of the issue.
+¤firms revealing incorrect or delayed information to markets has led to 
+markets becoming more skepticaland punitive
+¤firms creating social costs has led to more regulations, as well as 
+investor and customer backlashes.
+51
+The Stockholder Backlash 
+Aswath Damodaran
+51
+¨Activist Institutional investors have become much more 
+active in monitoring companies that they invest in and 
+demanding changes in the way in which business is done. 
+They have been joined by private equity firms like KKR and 
+Blackstone.
+¨Activist individualslike Carl Icahn specialize in taking large 
+positions in companies which they feel need to change their 
+ways (Blockbuster, Time Warner, Motorola & Apple) and push 
+for change.
+¨Vocal stockholders, armed with more information and new 
+powers: At annual meetings, stockholders have taken to 
+expressing their displeasure with incumbent management by 
+voting against their compensation contracts or their board of 
+directors
+52
+The Hostile Acquisition Threat
+Aswath Damodaran
+52
+¨The typical target firm in a hostile takeover has
+¤a return on equity almost 5% lower than its peer group
+¤had a stock that has significantly under performed the peer 
+group over the previous 2 years
+¤has managers who hold little or no stock in the firm
+¨In other words, the best defense against a hostile 
+takeover is to run your firm well and earn good returns 
+for your stockholders
+¨Conversely, when you do not allow hostile takeovers, this 
+is the firm that you are most likely protecting (and not a 
+well run or well managed firm)
+53
+In response, boards are becoming more 
+independent…
+Aswath Damodaran
+53
+¨Boards have become smaller over time. The median size of a board 
+of directors has decreased from 16 to 20 in the 1970s to between 9 
+and 11 in 1998. The smaller boards are less unwieldy and more 
+effective than the larger boards.
+¨There are fewer insiders on the board. In contrast to the 6 or more 
+insiders that many boards had in the 1970s, only two directors in 
+most boards in 1998 were insiders. 
+¨Directors are increasingly compensated with stock and options in 
+the company, instead of cash. In 1973, only 4% of directors 
+received compensation in the form of stock or options, whereas 
+78% did so in 1998. 
+¨More directors are identified and selected by a nominating 
+committee rather than being chosen by the CEO of the firm. In 
+1998, 75% of boards had nominating committees; the comparable 
+statistic in 1973 was 2%.
+54
+Disney: Eisner’s rise & fall from grace
+¨ In his early years at Disney, Michael Eisner brought about long-delayed changes in 
+the company and put it on the path to being an entertainment giant that it is 
+today. His success allowed him to consolidate power and the boards that he 
+created were increasingly captive ones (see the 1997 board).
+¨ In 1996, Eisner spearheaded the push to buy ABC and the board rubberstamped 
+his decision, as they had with other major decisions. In the years following, the 
+company ran into problems both on its ABC acquisition and on its other 
+operations and stockholders started to get restive, especially as the stock price 
+halved between 1998 and 2002. 
+¨ In 2003, Roy Disney and Stanley Gold resigned from the Disney board, arguing 
+against Eisner’s autocratic style. 
+¨ In  early 2004, Comcast made a hostile bid for Disney and later in the year, 43% of 
+Disney shareholders withheld their votes for Eisner’s reelection to the board of 
+directors. Following that vote, the board of directors at Disney voted unanimously 
+to elect George Mitchell as the Chair of the board, replacing Eisner, who vowed to 
+stay on as CEO.
+Aswath Damodaran
+55
+Eisners concession: Disneys Board in 2003
+Aswath Damodaran
+55
+Board Members Occupation
+Reveta Bowers Head of school for the Center for Early Education,
+John Bryson CEO and Chairman of Con Edison
+Roy Disney Head of Disney Animation
+Michael Eisner CEO of Disney
+Judith Estrin CEO of Packet Design (an internet company)
+Stanley Gold CEO of Shamrock Holdings
+Robert Iger Chief Operating Officer, Disney
+Monica Lozano Chief Operation Officer, La Opinion (Spanish newspaper)
+George Mitchell Chairman of law firm (Verner, Liipfert, et al.)
+Thomas S. Murphy Ex-CEO, Capital Cities ABC
+Leo O’Donovan Professor of Theology, Georgetown University
+Sidney Poitier Actor, Writer and Director
+Robert A.M. Stern Senior Partner of Robert A.M. Stern Architects of New York
+Andrea L. Van de KampChairman of Sotheby's West Coast
+Raymond L. Watson Chairman of Irvine Company (a real estate corporation)
+Gary L. Wilson Chairman of the board, Northwest Airlines.
+56
+Changes in corporate governance at Disney
+Aswath Damodaran
+56
+1. Required at least two executive sessions of the board, without the CEO 
+or other members of management present, each year . 
+2. Created the position of non-management presiding director, and 
+appointed Senator George Mitchell to lead those executive sessions and 
+assist in setting the work agenda of the board. 
+3. Adopted a new and more rigorous definition of director independence. 
+4. Required that a substantial majority of the board be comprised of 
+directors meeting the new independence standards. 
+5. Provided for a reduction in committee size and the rotation of 
+committeeand chairmanship assignments among independent 
+directors. 
+6. Added new provisions for management succession planningand 
+evaluations of both management and board performance
+7. Provided for enhanced continuing education and training for board 
+members.
+57
+Eisners exit… and a new age dawns? Disneys board 
+in 2008
+Aswath Damodaran
+57
+58
+But as a CEO’s tenure lengthens, does 
+corporate governance suffer?
+1. In 2011, Igerannounced his intent to step down as CEO in 2015 
+to allow a successor to be groomed.  
+2. The board voted reinstate Igeras chair of the board in 2011, 
+reversing a decision made to separate the CEO and Chair 
+positions after the Eisner years. 
+3. There were signs of restiveness among Disney’s stockholders, 
+especially those interested in corporate governance. Activist 
+investors (CalSTRS) starting making noise and  Institutional 
+Shareholder Services (ISS), which gauges corporate governance at 
+companies, raised red flags about compensation and board 
+monitoring at Disney. 
+Aswath Damodaran
+59
+Iger’snon-exit and the Domino effect
+1. In 2015 but Disney’s board convinced Igerto stay 
+on as CEO for an extra year, for the “the good of 
+the company”. 
+2. In 2016, Thomas Staggs who was considered heir 
+apparent to Igerleft Disney. Others who were 
+considered potential CEOs also left.
+3. In 2017, Disney acquired Fox and announced that 
+Iger’sterm would be extended to 2019 (and 
+perhaps beyond) because his stewardship was 
+essential for the merger to work.
+¤ Now, what?
+Aswath Damodaran
+59
+60
+What about legislation?
+Aswath Damodaran
+60
+¨Every corporate scandal creates impetus for a 
+legislative response. The scandals at Enron and 
+WorldCom laid the groundwork for Sarbanes-Oxley.
+¨You cannot legislate good corporate governance. 
+¤The costs of meeting legal requirements often exceed the 
+benefits
+¤Laws always have unintended consequences
+¤In general, laws tend to be blunderbusses that penalize 
+good companies more than they punish the bad 
+companies.
+61
+Is there a payoff to better corporate 
+governance?
+Aswath Damodaran
+61
+¨In the most comprehensive study of the effect of corporate governance 
+on value, a governance index was created for each of 1500 firms based 
+upon 24 distinct corporate governance provisions. 
+¤Buying stocks that had the strongest investor protections while simultaneously 
+selling shares with the weakest protections generated an annual excess return of 
+8.5%. 
+¤Every one point increase in the index towards fewer investor protections decreased 
+market value by 8.9% in 1999 
+¤Firms that scored high in investor protections also had higher profits, higher sales 
+growth and made fewer acquisitions.
+¨The link between the composition of the board of directors and firm value 
+is weak. Smaller boards do tend to be more effective.
+¨On a purely anecdotal basis, a common theme at problem companies and 
+is an ineffective board that fails to ask tough questions of an imperial CEO.
+62
+The BondholdersDefense Against Stockholder 
+Excesses
+Aswath Damodaran
+62
+¨More restrictive covenants on investment, financing and dividend 
+policy have been incorporated into both private lending 
+agreements and into bond issues, to prevent future Nabiscos.
+¨New types of bonds have been created to explicitly protect 
+bondholders against sudden increases in leverage or other actions 
+that increase lender risk substantially. Two examples of such bonds
+¤Puttable Bonds, where the bondholder can put the bond back to the firm 
+and get face value, if the firm takes actions that hurt bondholders
+¤Ratings Sensitive Notes, where the interest rate on the notes adjusts to 
+that appropriate for the rating of the firm
+¨More hybrid bonds (with an equity component, usually in the form 
+of a conversion option or warrant) have been used. This allows 
+bondholders to become equity investors, if they feel it is in their 
+best interests to do so.
+63
+The Financial Market Response
+Aswath Damodaran
+63
+¨While analysts are more likely still to issue buy rather 
+than sell recommendations, the payoff to uncovering 
+negative news about a firm is large enough that such 
+news is eagerly sought and quickly revealed (at least to a 
+limited group of investors). 
+¨As investor access to information improves, it is 
+becoming much more difficult for firms to control when 
+and how information gets out to markets.
+¨As option trading has become more common, it has 
+become much easier to trade on bad news. In the 
+process, it is revealed to the rest of the market.
+¨When firms mislead markets, the punishment is not only 
+quick but it is savage.
+64
+The Societal Response
+Aswath Damodaran
+64
+¨If firms consistently flout societal norms and create 
+large social costs, the governmental response 
+(especially in a democracy) is for laws and 
+regulations to be passed against such behavior.
+¨For firms catering to a more socially conscious 
+clientele, the failure to meet societal norms (even if 
+it is legal) can lead to loss of business and value.
+¨Finally, investors may choose not to invest in stocks 
+of firms that they view as socially irresponsible.
+65
+The Counter Reaction
+Aswath Damodaran
+65
+STOCKHOLDERS
+Managers of poorly 
+run firms are put
+on notice.
+1. More activist
+investors
+2. Hostile takeovers
+BONDHOLDERS
+Protect themselves
+1. Covenants
+2. New Types
+FINANCIAL MARKETS
+SOCIETYManagers
+Firms are
+punished
+for misleading
+markets
+Investors and
+analysts become
+more skeptical
+Corporate Good Citizen Constraints
+1. More laws
+2. Investor/Customer Backlash
+66
+So what do you think?
+Aswath Damodaran
+66
+¨At this point in time, the following statement best describes 
+where I stand in terms of the right objective function for 
+decision making in a business
+a. Maximize stock price, with no constraints
+b. Maximize stock price, with constraints on being a good social citizen.
+c. Maximize stockholder wealth, with good citizen constraints, and 
+hope/pray that the market catches up with you.
+d. Maximize profits or profitability
+e. Maximize earnings growth
+f. Maximize market share 
+g. Maximize revenues
+h. Maximize social good
+i. None of the above
+67
+The Modified Objective Function
+Aswath Damodaran
+67
+¨For publicly traded firms in reasonably efficient markets, 
+where bondholders (lenders) are protected:
+¤Maximize Stock Price: This will also maximize firm value
+¨For publicly traded firms in inefficient markets, where 
+bondholders are protected:
+¤Maximize stockholder wealth: This will also maximize firm value, 
+but might not maximize the stock price
+¨For publicly traded firms in inefficient markets, where 
+bondholders are not fully protected
+¤Maximize firm value, though stockholder wealth and stock 
+prices may not be maximized at the same point.
+¨For private firms, maximize stockholder wealth (if 
+lenders are protected) or firm value (if they are not)
+THE INVESTMENT PRINCIPLE: RISK 
+AND RETURN MODELS
+You cannot swing upon a rope that is attached only 
+to your own belt.
+Aswath Damodaran 68
+69
+First Principles
+Aswath Damodaran
+69

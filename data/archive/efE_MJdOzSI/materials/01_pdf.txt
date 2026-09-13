@@ -1,0 +1,123 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/TrillionDollarCatalysts.pdf
+
+APPLE AND AMAZON AT A 
+TRILLION $: A FOLLOW UP ON 
+UNCERTAINTY AND CATALYSTS
+You can be right, and go bankrupt being right!
+2
+The Lead In
+¨ In my last post, I valued Apple at $200, about 9% less 
+than the market price, and Amazon at abut $1255, about 
+35% lower than its market price.
+¨ I concluded the post with a teaser, promising to come 
+back with my decisions on whether I would sell my 
+existing Apple shareholding and/or sell short on Amazon, 
+after reviewing two loose ends. 
+¤ The first is to lay bare the uncertainties inherent in both 
+valuations, to see if there is something in those uncertainties 
+that I can use to make a better decision. 
+¤ The second is to evaluate whether there are catalysts that will 
+convert the gap that I see between value and price into actual 
+profits.
+3
+Uncertainty: Feature, not a Bug!
+¨ When valuing companies, uncertainty is a given and 
+traditional valuation models often give it short shrift. 
+¨ In fact, looking at my valuations ofApple and Amazon, you 
+can see that the only place that I explicitly deal with 
+uncertainty is in the discount rate.
+¨ My cash flows reflect my expectations, and I don't believe 
+that I know, with precision, what will happen to Apple's 
+revenue growth over time or how Amazon's operating margin 
+will evolve in the future. 
+¨ So, why bother? In investing, you have no choice but to make 
+your best estimates and value companies, knowing fully well 
+that you will be wrong, no matter how much information you 
+have and how good your models are.
+4
+Point Estimates & Probabilistic Approaches
+¨ It is puzzling that we still stick with point estimates in 
+conventional valuation, when we have the tools to bring 
+in uncertainty into our valuation judgments. 
+¨ Statistical tools that can help:
+¤ Scenario Analysis: For valuing companies that may have different 
+valuations depending upon specific and usually discrete 
+scenarios unfolding
+¤ Decision Trees: For valuing companies that face sequential risk, 
+i.e., you have to get through one phase of risk to arrive at the 
+next one,
+¤ Monte Carlo Simulations: The most general technique that can 
+accommodate continuous and even correlated risks that you 
+face in valuation.
+5
+Apple Simulation
+6
+Amazon Simulation
+7
+Simulation Lessons
+¨ Not about getting better estimates of value: Since my input distributions 
+are centered around my base case assumptions, and they should be, the 
+median values across the simulations are close to my base case valuations 
+for both Apple and Amazon.
+¨ If it is a risk proxy, it is a very noisy and dangerous one: As a diversified 
+investor, the variance in simulated values is a poor proxy for risk. 
+However, if you are an investor who prefers concentrated portfolios, you 
+can use the variance in simulated value as a measure of risk.
+¨ There can be no one margin of safety for all companies: A 15% margin of 
+safety for Apple may be too large, given how tightly values are distributed 
+for the company, whereas the same 15% margin of safety may be too 
+small for Amazon, with its wider band of values.
+¨ Tails matter In general, positive skewed distributions are better for (long) 
+investors than negatively skewed ones, and the reverse is true for 
+investors who are shorting a company.
+8
+The Implications for Apple and Amazon
+¨ While my base case valuation suggested that Apple was far less 
+over valued (10%) than Amazon (55%), there is roughly a 15-20% 
+chance that both companies are under valued, not over valued.
+¨ In addition, with Amazon, there is the added risk, if you are selling 
+short, given the long positive tail on the distribution, that if I am 
+wrong, the price I will pay will be much greater than if I am wrong 
+with Apple.
+¨ The bottom line is that while Amazon seemed like a much better 
+short selling target, after my base case valuations, because it was 
+far more over valued than Apple, the simulations that I did on the 
+two companies even out the scales. Apple is more over valued, but 
+the probability of making money, assuming my valuations are on 
+target is about the same with both stocks, and the downside of 
+being wrong is far greater with Amazon than with Apple.
+9
+Value and Price: The Search for Catalysts
+10
+Long vs Short: Catalyst Importance
+¨ As an investor, I look for catalysts when I invest, but but I 
+am even more intent on finding them, when I sell short 
+than when I am long a stock. 
+¨ The reason for that divergence is that I am in far greater 
+control of my time horizon, when I buy a stock, since, as 
+long as I stay disciplined and retain faith in my value, 
+only liquidity needs can cause me to sell.  When I sell 
+short, my time horizon is far less under my control, 
+exposing me to timing risk. 
+¨ Put different, I can bet on a company being over valued, 
+be right on my thesis, but still lose money on a short 
+sale, because I am forced to close out my position, in the 
+absence of a catalyst.
+11
+Apple and Amazon: Decision Time!
+12
+Bottom Line
+¨ I sold my Apple shares at $220, at the start of trading on 
+Friday (9/21), but while I have not sold short any more 
+shares. I have put in a limit (short) sell, if the price hits $230 
+(roughly my 90th percentile of value) in the near future. 
+¨ With Amazon, I sold short at $1950 at the start of trading on 
+Friday (9/21). I am doing so, with open eyes, since I believe 
+that Amazon is in one of the best run companies in the world, 
+adept at setting market expectations and beating them, and 
+the catalyst that I am hoping for may never come. 
+¨ It is the first time in twenty years that I have sold short on 
+Amazon, and one reason that I am pulling the trigger is 
+because I believe that the pushback from regulators and anti-
+trust enforcers will slow the company down in ways that no 
+competitor ever could.

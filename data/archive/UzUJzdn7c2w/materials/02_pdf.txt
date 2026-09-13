@@ -1,0 +1,1001 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/eqnotes/PG/ProcterGamble10K.pdf
+
+PROCTER & GAMBLE CO  (PG)
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 10-K  
+ Annual report pursuant to section 13 and 15(d)
+Filed on 08/08/2012
+Filed Period 06/30/2012
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+Form 10-K
+(Mark one)
+[x]    ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the Fiscal Year Ended June 30, 2012
+OR
+[ ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from to
+Commission File No. 1-434
+THE PROCTER & GAMBLE COMPANY
+One Procter & Gamble Plaza, Cincinnati, Ohio 45202
+Telephone (513) 983-1100
+IRS Employer Identification No. 31-0411980
+State of Incorporation: Ohio
+Securities registered pursuant to Section 12(b) of the Act:
+            Title of each class      Name of each exchange on which registered
+Common Stock, without Par Value  New York Stock Exchange, NYSE Euronext-Paris
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes þ No o
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes o No þ
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes þ No o
+    
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months
+(or for such shorter period that the registrant was required to submit and post such files). Yes þ No o
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. þ 
+  
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting
+company (as defined in Rule 12b-2 of the Exchange Act).
+Large accelerated filer þ      Accelerated filer o    Non-accelerated filer o     Smaller reporting company o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o     No þ 
+The aggregate market value of the voting stock held by non-affiliates amounted to $184 billion on December 31, 2011.
+There were 2,754,274,536 shares of Common Stock outstanding as of July 31, 2012.
+Documents Incorporated by Reference
+Portions of the Proxy Statement for the 2012 Annual Meeting of Shareholders which will be filed within one hundred and twenty days of the
+fiscal year ended June 30, 2012 (2012 Proxy Statement) are incorporated by reference into Part III of this report to the extent described
+herein.
+The Procter & Gamble Company 2 
+PART I
+Item 1. Business.
+Additional information required by this item is incorporated
+herein by reference to Management's Discussion and Analysis (MD&A);
+Note 1 of our Consolidated Financial Statements, Summary of Significant
+Accounting Policies; and Note 11 of our Consolidated Financial
+Statements, Segment Information. Unless the context indicates otherwise,
+the terms the "Company," "P&G," "we," "our" or "us" as used herein refer
+to The Procter & Gamble Company (the registrant) and its subsidiaries.
+The Procter & Gamble Company is focused on providing
+branded consumer packaged goods of superior quality and value to improve
+the lives of the world's consumers. The Company was incorporated in Ohio
+in 1905, having been built from a business founded in 1837 by William
+Procter and James Gamble. Today, we market our products in more than
+180 countries.
+Throughout this Form 10-K, we incorporate by reference
+information from other documents filed with the Securities and Exchange
+Commission (SEC).
+The Company's annual report on Form 10-K, quarterly reports on
+Form 10-Q and current reports on Form 8-K, and amendments thereto, are
+filed electronically with the SEC. The SEC maintains an internet site that
+contains these reports at: http://www.sec.gov. You can also access these
+reports through links from our website at: www.pg.com/investors.
+Copies of these reports are also available, without charge, by
+contacting The Procter & Gamble Company, Shareholder Services
+Department, P.O. Box 5572, Cincinnati, Ohio 45201-5572.
+Financial Information about Segments
+As of June 30, 2012, the Company is organized into two Global
+Business Units (GBUs): Beauty and Grooming and Household Care. We
+have five reportable segments under U.S. GAAP: Beauty; Grooming;
+Health Care; Fabric Care and Home Care; and Baby Care and Family Care.
+Many of the factors necessary for understanding these businesses are
+similar. Operating margins of the individual businesses vary due to the
+nature of materials and processes used to manufacture the products, the
+capital intensity of the businesses and differences in selling, general and
+administrative expenses as a percentage of net sales. Net sales growth by
+business is also expected to vary slightly due to the underlying growth of
+the markets and product categories in which they operate. While none of
+our reportable segments are highly seasonal, components within certain
+reportable segments, such as Batteries (Fabric Care and Home Care),
+Appliances (Grooming) and Prestige Fragrances (Beauty) are seasonal. In
+addition, anticipation or occurrence of natural disasters, such as hurricanes,
+can drive
+ 
+unusually high demand for batteries.
+Additional information about our reportable segments can be
+found in MD&A and Note 11 of our Consolidated Financial Statements,
+Segment Information.
+Narrative Description of Business
+Business Model. Our business model relies on the continued
+growth and success of existing brands and products, as well as the creation
+of new products. The markets and industry segments in which we offer our
+products are highly competitive. Our products are sold in more than 180
+countries around the world primarily through mass merchandisers, grocery
+stores, membership club stores, drug stores, department stores, salons and
+in high-frequency stores, the neighborhood stores which serve many
+consumers in developing markets. We work collaboratively with our
+customers to improve the in-store presence of our products and win the
+"first moment of truth" - when a consumer is shopping in the store. We
+must also win the "second moment of truth" - when a consumer uses the
+product, evaluates how well it met his or her expectations and decides
+whether it was a good value. We believe we must continue to provide new,
+innovative products and branding to the consumer in order to grow our
+business. Research and product development activities, designed to enable
+sustained organic growth, continued to carry a high priority during the past
+fiscal year. While many of the benefits from these efforts will not be
+realized until future years, we believe these activities demonstrate our
+commitment to future growth.
+Key Product Categories. Information on key product categories
+can be found in Note 11 of our Consolidated Financial Statements, Segment
+Information.
+Key Customers. Our customers include mass merchandisers,
+grocery stores, membership club stores, drug stores and high-frequency
+stores. Sales to Wal-Mart Stores, Inc. and its affiliates represent
+approximately 14%, 15% and 16% of our total revenue in 2012, 2011 and
+2010, respectively. No other customer represents more than 10% of our net
+sales. Our top ten customers account for approximately 31% of our total
+unit volume in 2012, and 32% of our total unit volume in 2011 and 2010.
+The nature of our business results in no material backlog orders or contracts
+with the government. We believe our practices related to working capital
+items for customers and suppliers are consistent with the industry segments
+in which we compete.
+Sources and Availability of Materials. Almost all of the raw
+and packaging materials used by the Company are purchased from others,
+some of whom are single-source suppliers. We produce raw materials,
+primarily chemicals, for further use in the manufacturing process. In
+addition, fuel, natural gas and derivative products are important
+commodities consumed in our manufacturing process and in
+3 The Procter & Gamble Company
+the distribution of input materials and finished product to customers. The
+prices we pay for materials and other commodities are subject to
+fluctuation. When prices for these items change, we may or may not pass
+the change to our customers, depending on the magnitude and expected
+duration of the change. The Company purchases a substantial variety of
+other raw and packaging materials, none of which is material to our
+business taken as a whole.
+Trademarks and Patents. We own or have licenses under
+patents and registered trademarks which are used in connection with our
+activity in all businesses. Some of these patents or licenses cover significant
+product formulation and processes used to manufacture our products. The
+trademarks are important to the overall marketing and branding of our
+products. All major products and trademarks in each business are
+registered. In part, our success can be attributed to the existence and
+continued protection of these trademarks, patents and licenses.
+Competitive Condition. The markets in which our products are
+sold are highly competitive. Our products compete against similar products
+of many large and small companies, including well-known global
+competitors. In many of the markets and industry segments in which we sell
+our products, we compete against other branded products as well as
+retailers' private-label brands. We are well positioned in the industry
+segments and markets in which we operate -often holding a leadership or
+significant market share position. We support our products with advertising,
+promotions and other vehicles to build awareness of our brands in
+conjunction with an extensive sales force. We believe this combination
+provides the most efficient method of marketing for these types of products.
+Product quality, performance, value and packaging are also important
+competitive factors.
+Research and Development Expenditures. Research and
+development expenditures enable us to develop technologies and obtain
+patents across all categories in order to meet the needs and improve the
+lives of our consumers. Total research and development expenses were $2.0
+billion in 2012 and 2011, and $1.9 billion in 2010.
+ 
+Expenditures for Environmental Compliance. Expenditures
+for compliance with federal, state and local environmental laws and
+regulations are fairly consistent from year to year and are not material to the
+Company. No material change is expected in fiscal year 2013.
+Employees. Total number of employees is an estimate of total
+Company employees excluding interns, co-ops and employees of joint
+ventures. Historical numbers include employees of discontinued operations.
+ 
+ 
+ Total Number of Employees
+2012 126,000
+2011 129,000
+2010 127,000
+2009 132,000
+2008 135,000
+2007 135,000
+Financial Information about Foreign and Domestic Operations
+Net sales in the United States account for approximately 35% of
+total net sales. No other individual country exceeded 10% of total net sales.
+Operations outside the United States are generally characterized by the
+same conditions discussed in the description of the business above and may
+be affected by additional factors including changing currency values,
+different rates of inflation, economic growth and political and economic
+uncertainties and disruptions. Our sales by geography for the fiscal years
+ended June 30 were as follows:
+ 2012  2011  2010
+North America (1) 39%  41%  42%
+Western Europe 19%  20%  20%
+Asia 18%  16%  15%
+Latin America 10%  9%  9%
+CEEMEA (2) 14%  14%  14%
+(1) North America includes results for the United States and Canada only.
+(2) CEEMEA includes Central and Eastern Europe, Middle East and
+Africa.
+Net sales and assets in the United States and internationally were as follows
+(in billions):
+ United States International
+Net Sales (for the year ended June 30)
+2012 $29.5 $54.2
+2011 $29.9 $51.2
+2010 $29.5 $48.1
+   
+Assets (as of June 30)
+2012 $68.0 $64.2
+2011 $70.3 $68.1
+2010 $70.1 $58.1
+Item 1A. Risk Factors.
+The following discussion of “risk factors” identifies the most
+significant factors that may adversely affect our business, operations,
+financial position or future financial performance. This information should
+be read in conjunction with MD&A and the consolidated financial
+statements and related notes incorporated by reference into this report. The
+The Procter & Gamble Company 4 
+following discussion of risks is not all inclusive but is designed to highlight
+what we believe are important factors to consider when evaluating our
+expectations. These factors could cause our future results to differ from
+those in the forward-looking statements and from historical trends.
+A material change in consumer demand for our products could have a
+significant impact on our business.
+    
+We are a consumer products company and rely on continued
+global demand for our brands and products. To achieve business goals, we
+must develop and sell products that appeal to consumers. This is dependent
+on a number of factors including our ability to develop effective sales,
+advertising and marketing programs. We expect to achieve our financial
+targets, in part, by shifting our portfolio towards faster growing, higher
+margin businesses and by focusing on the most profitable businesses,
+biggest innovations and most important emerging markets. We expect to
+achieve our financial targets, in part, by achieving disproportionate growth
+in developing regions. If demand for our products and/or market growth
+rates in either developed or developing markets fall substantially below
+expected levels or our market share declines significantly in these
+businesses, our volume, and consequently our results, could be negatively
+impacted. This could occur due to, among other things, unforeseen negative
+economic or political events, changes in consumer trends and habits, or
+negative consumer responses to pricing actions.
+The ability to achieve our business objectives is dependent on how well
+we can compete with our local and global competitors in new and
+existing markets and channels.
+The consumer products industry is highly competitive. Across all
+of our categories, we compete against a wide variety of global and local
+competitors. As a result, there are ongoing competitive pressures in the
+environments in which we operate, as well as challenges in maintaining
+profit margins. This includes, among other things, increasing competition
+from mid- and lower-tier value products in both developed and developing
+markets. To address these challenges, we must be able to successfully
+respond to competitive factors, including pricing, promotional incentives
+and trade terms. In addition, the emergence of new sales channels, such as
+sales made through the Internet directly to consumers, may affect customer
+and consumer preferences, as well as market dynamics. Failure to
+effectively compete in these new channels could negatively impact results.
+Our ability to meet our growth targets depends on successful product
+and operations innovation and our ability to successfully respond to
+competitive innovation.
+Achieving our business results depends, in part, on the successful
+development, introduction and marketing of new products and
+improvements to our equipment and manufacturing processes. Successful
+innovation depends on
+ 
+our ability to correctly anticipate customer and consumer acceptance, to
+obtain and maintain necessary intellectual property protections, and to
+avoid infringing the intellectual property rights of others. We must also be
+able to successfully respond to technological advances by and intellectual
+property rights granted to competition, and failure to do so could
+compromise our competitive position and impact our results.
+Our businesses face cost fluctuations and pressures which could affect
+our business results.
+Our costs are subject to fluctuations, particularly due to changes
+in commodity prices, raw materials, labor costs, energy costs, pension and
+healthcare costs, foreign exchange and interest rates. Therefore, our success
+is dependent, in part, on our continued ability to forecast and manage these
+fluctuations through pricing actions, cost savings projects (including
+outsourcing projects) and sourcing decisions, while maintaining and
+improving margins and market share. In addition, our financial projections
+include cost savings described in our announced productivity plan. Failure
+to deliver these savings could adversely impact our results.
+There are risks inherent in global manufacturing which could
+negatively impact our business results.
+In the manufacturing and general overhead areas, we need to
+maintain key manufacturing and supply arrangements, including any key
+sole supplier and sole manufacturing plant arrangements, to achieve our
+targets on cost. While we have business continuity and contingency plans
+for key manufacturing sites and the supply of raw materials, significant
+disruption of manufacturing, such as labor disputes, loss or impairment of
+key manufacturing sites, natural disasters, acts of war or terrorism, and
+other external factors over which we have no control, could interrupt
+product supply and, if not remedied, have an adverse impact on our
+business.
+We face risks associated with having significant international
+operations.
+We are a global company, with manufacturing operations in
+more than 40 countries, and a significant portion of our revenue is outside
+the U.S. Our international operations are subject to a number of risks,
+including, but not limited to:
+• compliance with U.S. laws affecting operations outside of the
+United States, such as the Foreign Corrupt Practices Act;
+• compliance with a variety of local regulations and laws;
+• changes in tax laws and the interpretation of those laws;
+• sudden changes in foreign currency exchange controls;
+• discriminatory or conflicting fiscal policies;
+• difficulties enforcing intellectual property and
+5 The Procter & Gamble Company
+contractual rights in certain jurisdictions;
+• greater risk of uncollectible accounts and longer collection
+cycles;
+• effective and immediate implementation of control environment
+processes across our diverse operations and employee base;
+and
+• imposition of more or new tariffs, quotas, trade barriers and
+similar restrictions on our sales outside the United States.
+We have sizable businesses and maintain local currency cash
+balances in a number of foreign countries with exchange controls,
+including, but not limited to, Venezuela, China and India. In addition, some
+countries where we have businesses, such as Argentina, have introduced
+import restrictions. Our results of operations and/or financial condition
+could be adversely impacted if we are unable to successfully manage these
+and other risks of international operations in an increasingly volatile
+environment.
+Fluctuations in exchange rates may have an adverse impact on our
+business results or financial condition.
+We hold assets and incur liabilities, earn revenues and pay
+expenses in a variety of currencies other than the U.S. dollar. Because our
+consolidated financial statements are presented in U.S. dollars, the financial
+statements of our subsidiaries outside the United States are translated into
+U.S. dollars. Our operations outside of the U.S. generate a significant
+portion of our net revenue. Fluctuations in exchange rates may therefore
+adversely impact our business results or financial condition. See also the
+Financial Condition and Results of Operations section of the MD&A and
+Note 5 to our Consolidated Financial Statements.
+We face risks related to changes in the global and political economic
+environment, including the global capital and credit markets.
+Our business is impacted by global economic conditions, which
+have recently been volatile. Our products are sold in more than 180
+countries around the world. If the global economy experiences significant
+disruptions, our business could be negatively impacted by reduced demand
+for our products related to a slow-down in the general economy, supplier or
+customer disruptions resulting from tighter credit markets, temporary
+interruptions in our ability to conduct day-to-day transactions through our
+financial intermediaries involving the payment to or collection of funds
+from our customers, vendors and suppliers and/or liquidity issues resulting
+from an inability to access credit markets to obtain cash to support
+operations.
+Our objective is to maintain credit ratings that provide us with
+ready access to global capital and credit markets. Any downgrade of our
+current credit ratings by a credit rating agency could increase our future
+borrowing costs and impair our ability to access capital and credit markets
+on terms commercially acceptable to us. 
+ 
+We could also be negatively impacted by political crises in
+individual countries or regions, including sovereign risk related to a
+deterioration in the credit worthiness or a default by local governments. For
+example, we could be adversely impacted by continued instability in the
+banking and governmental sectors of certain countries in the European
+Union such as Greece, or the negative impact on economic growth resulting
+from the combination of federal income tax increases and government
+spending restrictions potentially occurring at the end of calendar year 2012
+in the United States (commonly referred to as the “fiscal cliff”).
+Consequently, our success will depend, in part, on our ability to
+manage continued global and/or economic uncertainty, especially in our
+significant geographical markets, as well as any political or economic
+disruption. These risks could negatively impact our overall liquidity and
+financing and borrowing costs, as well as our ability to collect receipts due
+from governments, including refunds of value added taxes, and/or create
+significant credit risks relative to our local customers and depository
+institutions.
+If the reputation of the Company or one or more of our brands erodes
+significantly, it could have a material impact on our financial results.
+The Company's reputation is the foundation of our relationships
+with key stakeholders and other constituencies, such as customers and
+suppliers. In addition, many of our brands have worldwide recognition.
+This recognition is the result of the large investments we have made in our
+products over many years. The quality and safety of our products is critical
+to our business. Our Company also devotes significant time and resources
+to programs designed to protect and preserve our reputation, such as social
+responsibility and environmental sustainability. If we are unable to
+effectively manage real or perceived issues, including concerns about
+safety, quality, efficacy, or similar matters, these issues could negatively
+impact sentiments toward the Company or our products, our ability to
+operate freely could be impaired and our financial results could suffer. Our
+financial success is directly dependent on the success of our brands, and the
+success of these brands can suffer if our marketing plans or product
+initiatives do not have the desired impact on a brand's image or its ability to
+attract consumers. Our results could also be negatively impacted if one of
+our brands suffers a substantial impediment to its reputation due to a
+significant product recall, product-related litigation, allegations of product
+tampering, or the distribution and sale of counterfeit products. In addition,
+given the association of our individual products with the Company, an issue
+with one of our products could negatively affect the reputation of our other
+products, or the Company as a whole, thereby potentially hurting results.
+Our ability to successfully manage ongoing organizational change
+could impact our business results.
+We have executed a number of significant business
+The Procter & Gamble Company 6 
+and organizational changes including acquisitions, divestitures and
+workforce optimization projects to support our growth strategies. We
+expect these types of changes to continue for the foreseeable future.
+Successfully managing these changes, including retention of key
+employees, is critical to our business success. Further, ongoing business
+and organizational changes are likely to result in more reliance on third
+parties for various services, and that reliance may increase reputational,
+operational, and compliance risks, including the risk of corruption. We are
+generally a build-from-within company, and our success is dependent on
+identifying, developing and retaining key employees to provide
+uninterrupted leadership and direction for our business. This includes
+developing organization capabilities in key growth markets where the depth
+of skilled employees is limited and competition for these resources is
+intense. Finally, our financial targets assume a consistent level of
+productivity improvement. If we are unable to deliver expected productivity
+improvements, while continuing to invest in business growth, our financial
+results could be adversely impacted.
+Our ability to successfully manage ongoing acquisition, joint venture,
+and divestiture activities could impact our business results.
+As a company that manages a portfolio of consumer brands, our
+ongoing business model involves a certain level of acquisition, joint venture
+and divestiture activities. We must be able to successfully manage the
+impacts of these activities, while at the same time delivering against our
+business objectives. Specifically, our financial results could be adversely
+impacted if: 1) we are not able to deliver the expected cost and growth
+synergies associated with our acquisitions and joint ventures, 2) changes in
+the cash flows or other market-based assumptions cause the value of
+acquired assets to fall below book value, or 3) we are unable to offset the
+dilutive impacts from the loss of revenue associated with divested brands.
+Additionally, joint ventures inherently involve a lesser degree of control
+over business operations, thereby potentially increasing the financial, legal,
+operational, and/or compliance risks associated with each joint venture we
+enter into.
+Our business is subject to changes in legislation, regulation and
+enforcement, and our ability to manage and resolve pending legal
+matters in the United States and abroad.
+Changes in laws, regulations and related interpretations,
+including changes in accounting standards, taxation requirements and
+increased enforcement actions and penalties may alter the environment in
+which we do business. As a U.S. based multinational company we are
+subject to tax regulations in the United States and multiple foreign
+jurisdictions, some of which are interdependent. For example, certain
+income that is earned and taxed in countries outside the United States is not
+taxed in the United States, provided those earnings are indefinitely
+reinvested outside
+ 
+the United States. If these or other tax regulations should change, our
+financial results could be impacted.
+In addition, our ability to manage regulatory, environmental, tax
+and legal matters (including product liability, patent, and other intellectual
+property matters), and to resolve pending legal matters without significant
+liability may materially impact our results of operations and financial
+position. Furthermore, if pending legal matters, including the competition
+law and antitrust investigations described in Item 3 of this Form 10-K and
+Note 10 of our Consolidated Financial Statements, Commitments and
+Contingencies, result in fines or costs in excess of the amounts accrued to
+date, that could materially impact our results of operations and financial
+position.
+There are increasing calls in the United States from members of
+leadership in both major U.S. political parties for “comprehensive tax
+reform” which may significantly change the income tax rules that are
+applicable to U.S. domiciled corporations, such as P&G.   It is very difficult
+to assess whether the overall effect of such potential legislation would be
+cumulatively positive or negative for P&G's earnings and cash flows.
+A material change in customer relationships or in customer demand
+for our products could have a significant impact on our business.
+We sell most of our products via retail customers, which consist
+of mass merchandisers, grocery stores, club stores, drug stores and high-
+frequency stores. Our success is dependent on our ability to successfully
+manage relationships with our retail trade customers. This includes our
+ability to offer trade terms that are acceptable to our customers and are
+aligned with our pricing and profitability targets. Our business could suffer
+if we cannot reach agreement with a key customer based on our trade terms
+and principles. Our business would be negatively impacted if a key
+customer were to significantly reduce the range or inventory level of our
+products.
+Consolidation among our retail customers could create
+significant cost and margin pressure and lead to more complex work across
+broader geographic boundaries for both us and our key retailers. This would
+be particularly challenging if major customers are addressing local trade
+pressures, local law and regulation changes, or financial distress.
+A failure of one or more key information technology systems,
+networks, processes, associated sites or service providers could have a
+material adverse impact on our business or reputation.
+We rely extensively on information technology (IT) systems,
+networks, and services, including internet sites, data hosting and processing
+facilities and tools, and other hardware, software and technical applications
+and platforms, some of which are managed, hosted, provided and/or used
+by
+7 The Procter & Gamble Company
+third-parties or their vendors, to assist in conducting our business. The
+various uses of these IT systems, networks, and services include, but are not
+limited to:
+• ordering and managing materials from suppliers;
+• converting materials to finished products;
+• shipping product to customers;
+• marketing and selling products to consumers;
+• collecting and storing customer, consumer, employee, investor,
+and other stakeholder information and personal data;
+• processing transactions;
+• summarizing and reporting results of operations;
+• hosting, processing, and sharing confidential and proprietary
+research, business plans, and financial information;
+• complying with regulatory, legal or tax requirements;
+• providing data security; and
+• handling other processes necessary to manage our business.
+Increased IT security threats and more sophisticated computer
+crime, including advanced persistent threats, pose a potential risk to the
+security of our IT systems, networks, and services, as well as the
+confidentiality, availability, and integrity of our data. If the IT systems,
+networks, or service providers we rely upon fail to function properly, or if
+we suffer a loss or disclosure of business or stakeholder information, due to
+any number of causes, ranging from catastrophic events to power outages to
+security breaches, and our business continuity plans do not effectively
+address these failures on a timely basis, we may suffer interruptions in our
+ability to manage operations and reputational, competitive and/or business
+harm, which may adversely impact our results of operations and/or
+financial condition.
+Item 1B. Unresolved Staff Comments.
+None.
+Item 2. Properties.
+In the U.S., we own and operate 33 manufacturing facilities
+located in 21 different states or territories. In addition, we own and operate
+103 manufacturing facilities in 41 other countries. Many of the domestic
+and international facilities produce products for multiple businesses. Beauty
+products are manufactured at 41 of these locations; Grooming products at
+16; Fabric Care and Home Care products at 61; Baby Care and Family Care
+products at 31; and Health Care products at 33. Management believes that
+the Company's production facilities are adequate to support the business
+efficiently and that the properties and equipment have been well
+maintained.
+Item 3. Legal Proceedings.
+The Company is subject, from time to time, to certain legal
+proceedings and claims arising out of our business, which cover a wide
+range of matters, including
+ 
+antitrust and trade regulation, product liability, advertising, contracts,
+environmental issues, patent and trademark matters, labor and employment
+matters and tax.
+As previously reported, the Company has had a number of
+antitrust cases in Europe. The Company's policy is to comply with all laws
+and regulations, including all antitrust and competition laws, and to
+cooperate with the relevant regulatory authorities, which the Company is
+doing. In response to the actions of the regulatory authorities, the Company
+launched its own internal investigations into potential violations of
+competition laws. The Company identified violations in certain European
+countries and appropriate actions were taken.
+As a result of certain investigations that were previously
+disclosed, several authorities issued separate complaints alleging that the
+Company, along with several other companies, engaged in violations of
+competition laws in the past. The Company resolved several of these
+matters prior to or during fiscal year 2012.
+The Company has remaining antitrust matters at various stages of
+the regulatory process in Belgium, France, Germany and Greece, while
+other countries have issued decisions, many of which are on appeal. All of
+these matters involve a number of other consumer products companies
+and/or retail customers. Competition and antitrust violations often continue
+for several years and, if violations are found, can result in substantial fines.
+No non-monetary sanctions are being sought in these matters.
+For certain of the remaining matters listed above, we have
+established accruals for potential fines and we do not expect any significant
+incremental fines or costs in excess of amounts accrued for these matters.
+For other remaining matters, we cannot reasonably estimate any fines to
+which the Company may be subject as a result of the investigations. Please
+refer to the Company's Risk Factors in Part I, Item 1A of this Form 10-K
+for additional information.
+Item 4. Mine Safety Disclosure
+Not Applicable.
+The Procter & Gamble Company 8 
+ 
+Executive Officers of the Registrant
+The names, ages and positions held by the Executive Officers of the Company on August 8, 2012, are:
+ 
+Name   Position   Age   First Elected to
+Officer Position
+Robert A. McDonald   Chairman of the Board, President and
+Chief Executive Officer
+  59   1999
+   Director since July 1, 2009       
+    
+Jon R. Moeller   Chief Financial Officer   48   2009
+    
+Werner Geissler   Vice Chairman-Global Operations   59   2007
+    
+E. Dimitri Panayotopoulos   Vice Chairman-Global Business Units   60   2007
+    
+Bruce Brown   Chief Technology Officer   54   2008
+    
+Robert L. Fregolle, Jr.    Global Customer Business Development Officer   55   2009
+    
+Deborah P. Majoras   Chief Legal Officer and Secretary   48   2010
+    
+Moheet Nagrath   Global Human Resources Officer   53   2008
+    
+Filippo Passerini   Group President-Global Business Services and
+Chief Information Officer
+  55   2003
+    
+Marc S. Pritchard   Global Brand Building Officer   52   2008
+    
+Valarie L. Sheppard   Senior Vice President & Comptroller   48   2005
+       
+Ioannis Skoufalos  Global Product Supply Officer  55  2011
+All of the Executive Officers named above, excluding Ms. Majoras, have been employed by the Company for more than five years. Ms. Majoras held the
+following positions within the Company during the past five years: Chief Legal Officer and Secretary (February 1, 2010 - present), Vice President and
+General Counsel (June 24, 2008 - January 31, 2010). Ms. Majoras was Chairman of the Federal Trade Commission from 2004 until joining the Company in
+2008.
+9 The Procter & Gamble Company
+PART II
+Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+ISSUER PURCHASES OF EQUITY SECURITIES
+ 
+Period   Total Number of
+Shares Purchased (1 )
+ Average Price
+Paid per Share  (2)
+  Total Number of
+Shares Purchased as
+Part of Publicly
+Announced Plans or
+Programs (3)
+  Approximate Dollar Value of Shares That May Yet be Purchased Under our Share
+Repurchase Program
+4/1/2012 - 4/30/2012  235   $66.95  0  0
+5/1/2012 - 5/31/2012  0   0  0  0
+6/1/2012 - 6/30/2012  0   0  0  0
+(1) The total number of shares purchased was 235 for the quarter.  This represents shares acquired by the Company under various compensation and
+benefit plans.  This table excludes shares withheld from employees to satisfy minimum tax withholding requirements on option exercises and other
+equity-based transactions. The Company administers cashless exercises through an independent, third party broker and does not repurchase stock in
+connection with cashless exercise.
+(2) Average price paid per share is calculated on a settlement basis and excludes commission.
+(3) On April 27, 2012, the Company stated that fiscal year 2011-12 share repurchases were estimated to be approximately $4.0 billion, notwithstanding
+any purchases under the Company's compensation and benefit plans.  The share repurchases were authorized pursuant to a resolution issued by the
+Company's Board of Directors and were financed by issuing a combination of long-term and short-term debt.  The total dollar value of shares
+purchased under the share repurchase plan was $4.0 billion.  The share repurchase plan expired on June 30, 2012.
+Additional information required by this item can be found in Part III, Item 12 of this Form 10-K.
+Shareholder Return Performance Graphs
+Market and Dividend Information
+P&G has been paying a dividend for 122 consecutive years since its incorporation in 1890 and has increased its dividend for 56 consecutive years at an annual
+compound average rate of approximately 9.5%.
+(in dollars; split-adjusted) 1956 1970 1984 1998 2012
+Dividends per Share $ 0.01 $ 0.04 $ 0.15 $ 0.51 $ 2.14
+The Procter & Gamble Company 10 
+QUARTERLY DIVIDENDS
+Quarter Ended 2011 - 2012  2010 – 2011
+September 30 $ 0.5250  $ 0.4818
+December 31 0.5250  0.4818
+March 31 0.5250  0.4818
+June 30 0.5620  0.5250
+COMMON STOCK PRICE RANGE
+ 2011 - 2012   2010 – 2011
+Quarter Ended High   Low   High   Low
+September 30 $ 65.14   $ 57.56   $ 63.36   $ 58.92
+December 31 66.98   61.00   65.38   59.68
+March 31 67.95   62.56   66.95   59.70
+June 30 67.92   59.08   67.72   61.47
+SHAREHOLDER RETURN
+The following graph compares the cumulative total return of P&G’s common stock for the 5-year period ending June 30, 2012, against the cumulative total
+return of the S&P 500 Stock Index (broad market comparison) and the S&P 500 Consumer Staples Index (line of business comparison). The graph and table
+assume $100 was invested on June 30, 2007, and that all dividends were reinvested.
+ Cumulative Value of $100 Investment, through June 30
+Company Name/Index 2007 2008 2009 2010 2011 2012
+P&G $ 100 $ 102 $ 88 $ 106 $ 116 $ 116
+S&P 500 Index 100 87 64 73 96 101
+S&P 500 Consumer Staples Index 100 101 90 103 130 149
+11 The Procter & Gamble Company
+Item 6. Selected Financial Data.
+The information required by this item is incorporated by reference to Note 1 of our Consolidated Financial Statements, Summary of Significant
+Accounting Policies and Note 11 of our Consolidated Financial Statements, Segment Information.
+Financial Summary (Unaudited)
+Amounts in millions, except per share amounts 2012  2011  2010  2009  2008  2007
+Net Sales $ 83,680  $ 81,104  $ 77,567  $ 75,295  $ 77,714  $ 71,095
+Gross Profit 41,289  41,245  40,525  37,644  39,534  36,607
+Operating Income 13,292  15,495  15,732  15,188  15,743  14,236
+Net Earnings from Continuing Operations 9,317  11,698  10,851  10,645  11,224  9,562
+Net Earnings from Discontinued Operations 1,587  229  1,995  2,877  930  847
+Net Earnings attributable to Procter & Gamble 10,756  11,797  12,736  13,436  12,075  10,340
+Net Earnings Margin from Continuing Operations 11.1%  14.4%  14.0%  14.1%  14.4%  13.4%
+Basic Net Earnings per Common Share (1):            
+Earnings from continuing operations $ 3.24  $ 4.04  $ 3.63  $ 3.51  $ 3.56  $ 2.95
+Earnings from discontinued operations 0.58  0.08  0.69  0.98  0.30  0.27
+Basic Net Earnings per Common Share 3.82  4.12  4.32  4.49  3.86  3.22
+Diluted Net Earnings per Common Share (1):            
+Earnings from continuing operations 3.12  3.85  3.47  3.35  3.36  2.79
+Earnings from discontinued operations 0.54  0.08  0.64  0.91  0.28  0.25
+Diluted Net Earnings per Common Share 3.66  3.93  4.11  4.26  3.64  3.04
+Dividends per Common Share 2.14  1.97  1.80  1.64  1.45  1.28
+Research and Development Expense $ 2,029  $ 1,982  $ 1,931  $ 1,844  $ 1,927  $ 1,809
+Advertising Expense 9,345  9,210  8,475  7,453  8,426  7,714
+Total Assets 132,244  138,354  128,172  134,833  143,992  138,014
+Capital Expenditures 3,964  3,306  3,067  3,238  3,046  2,945
+Long-Term Debt 21,080  22,033  21,360  20,652  23,581  23,375
+Shareholders' Equity 64,035  68,001  61,439  63,382  69,784  67,012
+(1) Basic net earnings per share and diluted net earnings per share are calculated based on net earnings attributable to Procter & Gamble.
+The Procter & Gamble Company 12 
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+Management's Discussion and Analysis
+Forward-Looking Statements
+Certain statements in this report, other than purely historical information,
+including estimates, projections, statements relating to our business plans,
+objectives, and expected operating results, and the assumptions upon which
+those statements are based, are “forward-looking statements” within the
+meaning of the Private Securities Litigation Reform Act of 1995,
+Section 27A of the Securities Act of 1933 and Section 21E of the Securities
+Exchange Act of 1934. Forward-looking statements may appear throughout
+this report, including, without limitation, in the following sections:
+“Management's Discussion and Analysis” and “Risk Factors.” These
+forward-looking statements generally are identified by the words “believe,”
+“project,” “expect,” “anticipate,” “estimate,” “intend,” “strategy,” “future,”
+“opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will
+continue,” “will likely result” and similar expressions. Forward-looking
+statements are based on current expectations and assumptions that are
+subject to risks and uncertainties which may cause actual results to differ
+materially from the forward-looking statements. A detailed discussion of
+risks and uncertainties that could cause actual results and events to differ
+materially from such forward-looking statements is included in the section
+titled "Economic Conditions, Challenges and Risks" and the section titled
+“Risk Factors” (Item 1A of this Form 10-K). Forward-looking statements
+are made as of the date of this report and we undertake no obligation to
+update or revise publicly any forward-looking statements, whether because
+of new information, future events or otherwise.
+The following Management's Discussion and Analysis (MD&A) is intended
+to provide the reader with an understanding of P&G's financial condition,
+results of operations and cash flows by focusing on changes in certain key
+measures from year to year. MD&A is provided as a supplement to, and
+should be read in conjunction with, our Consolidated Financial Statements
+and accompanying notes. MD&A is organized in the following sections:
+• Overview
+• Summary of 2012 Results
+• Economic Conditions, Challenges and Risks
+• Results of Operations
+• Segment Results
+• Cash Flow, Financial Condition and Liquidity
+• Significant Accounting Policies and Estimates
+• Other Information 
+Throughout MD&A, we refer to measures used by management to evaluate
+performance, including unit volume growth, net sales and net earnings. We
+also refer to a number
+ 
+of financial measures that are not defined under accounting principles
+generally accepted in the United States of America (U.S. GAAP), including
+organic sales growth, core earnings per share (Core EPS), free cash flow
+and free cash flow productivity. Organic sales growth is net sales growth
+excluding the impacts of foreign exchange, acquisitions and divestitures.
+Core EPS is diluted net earnings per share from continuing operations
+excluding certain specified charges. Free cash flow is operating cash flow
+less capital spending. Free cash flow productivity is the ratio of free cash
+flow to net earnings. We believe these measures provide investors with
+important information that is useful in understanding our business results
+and trends. The explanation at the end of MD&A provides more details on
+the use and the derivation of these measures.
+Management also uses certain market share and market consumption
+estimates to evaluate performance relative to competition despite some
+limitations on the availability and comparability of share and consumption
+information. References to market share and market consumption in
+MD&A are based on a combination of vendor-reported consumption and
+market size data, as well as internal estimates. All market share references
+represent the percentage of sales in dollar terms on a constant currency
+basis of our products, relative to all product sales in the category and are
+measured on an annual basis versus the prior 12 month period. References
+to competitive activity includes promotional and product initiatives from
+our competitors.
+OVERVIEW
+P&G is a global leader in retail goods focused on providing branded
+consumer packaged goods of superior quality and value to our consumers
+around the world. Our products are sold in more than 180 countries
+primarily through mass merchandisers, grocery stores, membership club
+stores, drug stores, department stores, salons and in high-frequency stores.
+We continue to expand our presence in other channels, including
+department stores, perfumeries, pharmacies, salons and e-commerce. We
+have on-the-ground operations in approximately 75 countries.
+Our market environment is highly competitive with global, regional and
+local competitors. In many of the markets and industry segments in which
+we sell our products, we compete against other branded products as well as
+retailers' private-label brands. Additionally, many of the product segments
+in which we compete are differentiated by price (referred to as super-
+premium, premium, mid-tier and value-tier products). We are well
+positioned in the industry segments and markets in which we operate -
+often holding a leadership or significant market share position.
+13 The Procter & Gamble Company
+ORGANIZATIONAL STRUCTURE
+Our organizational structure is comprised of Global Business Units (GBUs), Global Operations, Global Business Services (GBS) and Corporate Functions
+(CF).
+Global Business Units
+Under U.S. GAAP, the business units comprising the GBUs are aggregated into five reportable segments: Beauty; Grooming; Health Care; Fabric Care and
+Home Care; and Baby Care and Family Care. The GBUs are responsible for developing overall brand strategy, new product upgrades and innovations and
+marketing plans. The following provides additional detail on our reportable segments, businesses and the key product and brand composition within each.
+Reportable Segment % of
+Net Sales*
+% of Net
+Earnings*
+Categories Billion Dollar Brands
+Beauty 24% 22% Antiperspirant and Deodorant, Cosmetics, Hair Care, Hair Color, Personal
+Cleansing, Prestige Products, Salon Professional, Skin Care
+Head & Shoulders, Olay,
+Pantene, SK-II, Wella
+Grooming 10% 16% Blades and Razors, Electronic Hair Removal Devices, Hair Care
+Appliances, Pre and Post Shave Products
+Braun, Fusion, Gillette, Mach3
+Health Care 15% 17% Feminine Care, Gastrointestinal, Incontinence, Rapid Diagnostics,
+Respiratory, Toothbrush, Toothpaste, Other Oral Care, Other Personal
+Health Care, Vitamins/Minerals/Supplements
+Always, Crest, Oral-B, Vicks
+Fabric Care and Home Care 32% 26% Bleach and Laundry Additives, Air Care, Batteries, Dish Care, Fabric
+Enhancers, Laundry Detergents, Pet Care, Professional, Surface Care
+Ace, Ariel, Dawn, Downy,
+Duracell, Febreze, Gain, Iams,
+Tide
+Baby Care and Family Care 19% 19% Baby Wipes, Diapers and Pants, Paper Towels, Tissues, Toilet Paper Bounty, Charmin, Pampers
+*  Percent of net sales and net earnings from continuing operations for the year ended June 30, 2012 (excluding results held in Corporate).
+Recent Developments: In May 2012, we completed the divestiture of our
+snacks business to The Kellogg Company. In accordance with the
+applicable accounting guidance for the disposal of long-lived assets, the
+results of our snacks business are presented as discontinued operations and,
+as such, have been excluded from continuing operations and from segment
+results for all periods presented. As a result of this change, the pet care
+business is now included in the Fabric Care and Home Care segment.
+Effective during the quarter ending December 31, 2011, we implemented a
+number of changes to our organization structure within the Beauty and
+Grooming Global Business Unit (GBU), which resulted in changes to the
+components of the Beauty reportable segment and the Grooming reportable
+segment. We now manage these businesses based on the nature of the
+product rather than the consumer of the product. As a result, female blades
+and razors transitioned from Beauty to Grooming, while male personal care
+products, such as Old Spice and Gillette, moved from Grooming to Beauty.
+The GBU and segment discussions in MD&A and the accompanying
+Consolidated Financial Statements have been retrospectively revised to
+reflect the new organizational structure.
+Beauty: We are a global market leader in the beauty category. Most of the
+beauty markets in which we compete are highly fragmented with a large
+number of global and
+ 
+local competitors. We compete in beauty, hair care and prestige. In beauty
+care, we offer a wide variety of products, ranging from deodorants to
+cosmetics to skin care, such as our Olay brand, which is the top facial skin
+care brand in the world with approximately 10% of the global market share.
+In hair care, we compete in both the retail and salon professional channels.
+We are the global market leader in the retail hair care market with over 20%
+of the global market share behind our Pantene and Head & Shoulders
+brands. In the prestige channel, we compete primarily with our prestige
+fragrances and the SK-II brand. We are one of the global market leaders in
+prestige fragrances, primarily behind our Dolce & Gabbana, Gucci and
+Hugo Boss fragrance brands.
+Grooming: We are the global market leader in the blades and razors market
+and in nearly all of the geographies in which we compete. Our global blades
+and razors market share is approximately 70%, primarily behind the Gillette
+franchise including Fusion and Mach3. Our electronic hair removal devices,
+such as electric razors and epilators, are sold under the Braun brand in a
+number of markets around the world where we compete against both global
+and regional competitors. We hold approximately 30% of the male shavers
+market and over 40% of the female epilators market.
+The Procter & Gamble Company 14 
+Health Care: We compete in oral care, feminine care and personal health.
+In oral care, there are several global competitors in the market, and we have
+the number two market share position with over 20% of the global market.
+We are the global market leader in the feminine care category with over
+30% of the global market share. In personal health, we are the global
+market leader in nonprescription heartburn medications behind our Prilosec
+OTC brand and in respiratory treatments behind our Vicks brand. Certain of
+our sales outside the U.S in personal health are generated through the PGT
+Healthcare partnership.
+ 
+Fabric Care and Home Care: This segment is comprised of a variety of
+fabric care products, including laundry detergents, additives and fabric
+enhancers; home care products, including dishwashing liquids and
+detergents, surface cleaners and air fresheners; batteries; and pet care. In
+fabric care, we generally have the number one or number two share position
+in the markets in which we compete and are the global market leader, with
+over 25% of the global market share, primarily behind our Tide, Ariel and
+Downy brands. Our global home care market share is over 15% across the
+categories in which we compete. In batteries, we have over 25% of the
+global battery market share, behind our Duracell brand. In pet care, we
+compete in several markets in the premium pet care segment, with the Iams
+and Eukanuba brands. The vast majority of our pet care business is in North
+America, where we have approximately a 10% share of the market.
+Baby Care and Family Care: In baby care, we compete mainly in diapers
+and baby wipes, with approximately 35% of the global market share. We
+are the number one or number two baby care competitor in most of the key
+markets in which we compete, primarily behind Pampers, the Company's
+largest brand, with annual net sales of approximately $10 billion. Our
+family care business is predominantly a North American business
+comprised largely of the Bounty paper towel and Charmin toilet paper
+brands. U.S. market shares are over 40% for Bounty and over 25% for
+Charmin.
+Global Operations
+Global Operations is comprised of our Market Development Organization
+(MDO), which is responsible for developing go-to-market plans at the local
+level. The MDO includes dedicated retail customer, trade channel and
+country-specific teams. It is organized along five geographic units: North
+America, Western Europe, Central & Eastern Europe/Middle East/Africa
+(CEEMEA), Latin America and Asia, which is comprised of Japan, Greater
+China and ASEAN/Australia/India/Korea (AAIK). Throughout MD&A, we
+reference business results in developing markets, which we define as the
+aggregate of CEEMEA, Latin America, AAIK and Greater China, and
+developed markets, which are comprised of North America, Western
+Europe and Japan.
+ 
+Global Business Services
+GBS provides technology, processes and standard data tools to enable the
+GBUs and the MDO to better understand the business and better serve
+consumers and customers. The GBS organization is responsible for
+providing world-class solutions at a low cost and with minimal capital
+investment.
+Corporate Functions
+CF provides Company-level strategy and portfolio analysis, corporate
+accounting, treasury, external relations, governance, human resources and
+legal, as well as other centralized functional support.
+STRATEGIC FOCUS
+We are focused on strategies that we believe are right for the long-term
+health of the Company with the objective of delivering total shareholder
+return in the top one-third of our peer group. The Company's long-term
+financial targets are:
+• Grow organic sales 1% to 2% faster than the market grows in the
+categories and geographies in which we compete,
+• Deliver Core EPS growth of high single digits to low double
+digits, and
+• Generate free cash flow productivity of 90% or greater.
+In order to achieve these targets, we are prioritizing the strategies and
+resources that will make P&G more focused and fit to win over the near-
+and long-term.
+Strengthening our Core Business 
+We are prioritizing resources on our biggest, most profitable businesses and
+on the innovations and developing markets that offer the greatest
+opportunity for growth.
+• Top 40 Businesses: We define our core business as the top 40
+country/category combinations, 20 in Household Care and 20 in
+Beauty & Grooming, which generate the highest level of annual
+sales and profit.
+• Top 20 Innovations: Our 20 most important innovations offer
+significantly higher growth potential than the balance of the
+innovation portfolio. Therefore, the growth of the Company
+depends substantially on the success of our biggest innovations.
+• Top 10 Developing Markets: Maintaining the strong growth
+momentum we have established in developing markets is critical
+to delivering our near- and long-term growth objectives. We are
+focusing resources first on the markets that offer the greatest
+growth opportunity. We will assess the potential for further
+portfolio expansions beyond the top 10 developing markets
+based on the top- and bottom-line growth progress of the core
+business.
+15 The Procter & Gamble Company
+Improving Productivity and Creating a Cost Savings Culture 
+We have taken significant steps to accelerate cost savings and create a more
+cost-focused culture within the Company, including a five-year, $10 billion
+cost savings initiative, which was announced in February 2012. The cost
+savings program is based on:
+• Reduction in overhead spending, with a target of approximately
+5,700 non-manufacturing overhead positions by the end of fiscal
+year 2013.
+• Annual savings planned in cost of goods across raw materials,
+manufacturing and transportation and warehousing expenses.
+• Generating efficiencies to enable us to grow marketing costs at a
+slightly slower rate than sales growth while still increasing
+consumer reach and effectiveness, saving approximately $1
+billion over the five year period.
+ 
+Strengthening our Upstream Innovation Program and Pipeline 
+Innovation has always been - and continues to be - P&G's lifeblood. To
+consistently win with consumers around the world across price tiers and
+preferences, and to consistently win versus our best competitors, each P&G
+product category must have a full portfolio of innovation. The innovation
+portfolios must include a mix of commercial programs, incremental product
+improvements and discontinuous innovations. We have made the creation
+of more discontinuous innovation a top priority, dedicating R&D resources
+and funding to develop new innovations aimed at changing the game in
+existing product categories and creating new ones.
+SUMMARY OF 2012 RESULTS
+Amounts in millions, except per share amounts 2012  Change vs. Prior Year  2011  Change vs. Prior Year  2010
+Net Sales $ 83,680  3%  $ 81,104  5%  $ 77,567
+Operating Income 13,292  (14)%  15,495  (2)%  15,732
+Net Earnings from Continuing Operations 9,317  (20)%  11,698  8%  10,851
+Net Earnings from Discontinued Operations 1,587  593%  229  (89)%  1,995
+Net Earnings attributable to Procter & Gamble 10,756  (9)%  11,797  (7)%  12,736
+Diluted Net Earnings per Common Share 3.66  (7)%  3.93  (4)%  4.11
+Diluted Net Earnings per Share from Continuing Operations 3.12  (19)%  3.85  11%  3.47
+Core Earnings per Common Share 3.85  (1)%  3.87  7%  3.61
+• Net sales increased 3% to $83.7 billion.
+◦ Organic sales increased 3%.
+◦ Unit volume was consistent with the prior year period as mid-
+single digit growth in developing regions was offset by a low
+single-digit decline in developed regions.
+• Net earnings attributable to Procter & Gamble were $10.8 billion, a
+decrease of $1.0 billion or 9% versus the prior year period.
+◦ The decrease in net earnings attributable to Procter & Gamble
+was due to impairment charges, incremental restructuring
+charges and gross margin contraction, partially offset by net sales
+growth and the gain on the sale of the snacks business. The
+impairment charges included

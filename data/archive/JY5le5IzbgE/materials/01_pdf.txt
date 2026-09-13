@@ -1,0 +1,253 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/TeslaDilution.pdf
+
+DILUTION AND OPTIONS: THE 
+MYSTERY OF SHARE COUNT 
+Aswath Damodaran
+2
+Share Count Basics
+Aswath 
+Damodaran
+2
+¨ Getting from the value of equity for a company to 
+value per share, in old-time DCF , is obtained by 
+dividing the aggregate value by the number of 
+shares outstanding.
+¤ Value per share = Aggregate Value of Equity/ Number of 
+Shares outstanding
+¨ This works only if there are no other equity claims 
+on the firm (options) and if all shares have equal 
+claims (on voting and cash flows).
+3
+Three Problems
+Aswath 
+Damodaran
+3
+1. Expected Dilution: When companies need to access capital markets in 
+future years, to cover reinvestment and operating needs. To the extent 
+that some or all of this new capital will come from new share issuances, 
+the share count at these companies can be expected to climb over time. 
+2. Share based compensation: There are three issues that affect valuation. 
+The first is whether the expense associated with stock based 
+compensation should be added back to arrive at cash flows, since it is a 
+non-cash expense. The second is how to adjust the value per share 
+today for the restricted shares and options that have already been 
+granted. Third, you have to decide how to adjust the value per share 
+today for future grants of options or shares.
+3. Shares with different rights (voting and dividend): If a company has 
+voting and non-voting shares, and you believe that voting shares have 
+more value than non-voting shares, the value per share will be different 
+for different classes.
+4
+1. Expected Dilution
+Aswath Damodaran
+4
+¨ An investor or analyst dealing with publicly traded companies in 
+the 1980s generally valued more mature companies, since going 
+public was considered an option only for those companies that had 
+reached a stage in their life cycle, where profits were positive (or 
+close) and continued access to capital markets was not a 
+prerequisite for survival. 
+¨ In the 1990s, with the dot com boom, we saw the change in the 
+public listing paradigm, with many young companies listing 
+themselves on public markets, based upon promise and potential, 
+rather than profits or established business models.  That pattern of 
+listing early has continued, and there are far more young 
+companies listed in markets today. 
+¨ An investor who avoids these companies just because they do not 
+fit old metrics or models is likely to find large segments of the 
+market to be out of his or her reach.
+5
+Consequences
+Aswath Damodaran
+5
+1. Many young companies lose money, as they focus their 
+attention on building businesses and acquiring clientele. 
+2. Growth requires reinvestment, in plant and equipment, if 
+you are a manufacturing company, or in technology and 
+R&D, if you are a technology company. 
+¨ As a consequence, in a discounted cash flow valuation, you 
+can expect to see negative expected cash flows, at least for 
+the first few years of your forecast period. 
+¨ To survive these years and make it to positive earnings and 
+cash flows, the company will have to raise fresh capital, and 
+given its lack of earnings, that capital will generally take the 
+form of new equity, i.e., expected dilution, which, in turn, will 
+affect value per share.
+6
+The Right Response
+¨ If you are doing a discounted cash flow valuation, the 
+right response to the expected dilution is to do nothing. 
+¨ The aggregate value of equity that you compute today 
+includes the present value of expected cash flows, 
+including the negative cash flows in the up front years. 
+¤ The latter will reduce the present value (value of operating 
+assets), and that reduction captures the dilution effect. 
+¤ You can divide the value of equity by the number of share 
+outstanding today, and you will have already incorporated 
+dilution.
+7
+Tesla: Dilution Effect
+8
+An Alternative Approach
+9
+But never do this…
+¨ Make a choice: You can either incorporate the present 
+value of the negative cash flows into the value of 
+operating assets today and use the current share count, 
+in estimating value per share, or you can try to forecast 
+expected future share issuances and divide the present 
+value of only positive cash flows by the enhanced share 
+count to get to value per share.
+¨ But don’t double count: You cannot do both, because 
+you are then reducing value per share twice for the same 
+phenomenon, once by discounting the negative cash 
+flows and including them in value and then again by 
+increasing the share count for the shares issued to cover 
+those negative cash flows.
+10
+2. Share Based Compensation
+¨ The use of share based compensation exploded in the 
+1990s due to two reasons. 
+¤ The first was an ill-conceived attempt by the US Congress to put 
+a cap on management compensation, while not counting 
+options granted as part of that compensation. 
+¤ The second was the dot com boom, where you had hundreds of 
+young companies that had sky high valuations but no earnings 
+or cash flows; these companies used options to attract and keep 
+employees. 
+¨ Aiding and abetting these firm, in this process were the 
+accountants, who chose not to treat these option grants 
+as expensed at the time they were granted, and thus 
+allowed companies to report much higher income than 
+they were truly earning.
+11
+Consequences
+¨ Drag on value per share: The first was the drag on per-
+share value created by past option and share grants to 
+employees, with options, in particular, creating trouble, 
+since they could create dilution, if share prices went up, 
+but could be worthless, if share prices dropped. 
+¨ Future grants? The second was the question of how to 
+factor in expected option and share grants in the future, 
+since the value of these grants would be affected by 
+expected future share prices. As with the dilution 
+question, analysts faced a circular reasoning problem, 
+where to value a share today, you had to make forecasts 
+of the value per share in future years.
+12
+The Right Response
+¨ Past option and share grants: In an intrinsic valuation, you 
+should value these options first (using an option pricing 
+model) and net the value out of the estimated value of 
+equity, before dividing by the existing share count :
+¤ SBC Adjusted Value per share = (DCF Value of Equity - Value of 
+Employee Options)/ Share count today including restricted shares
+¨ Future grants: To the extent that a company is expected to 
+continue to compensate its employees with options or 
+restricted shares in future years, the most logical way to deal 
+with these grants is to treat them as expenses in future years, 
+and reduce expected income and cash flows.
+13
+Tesla: SBC Magnitude
+At the end of 2017, according to Tesla's 10K, thecompany 
+had 10.88 million options outstanding, with a weighted 
+average exercise price of $105.56 and a weighted average 
+maturity of 5.30 years and 4.69 million restricted shares.
+14
+Tesla: Adjusting Value for Options & RSU
+15
+A Sloppy Alternative: The Treasury Stock 
+Approach
+¨ In the treasury stock approach, you value options at exercise 
+value, and the value of equity per share in this approach can 
+be written as follows:
+¤ Treasury Stock Value per share = (DCF value of equity + Exercise Price * 
+# Options outstanding) / (Share Count today + Options Outstanding)
+¨ In the case of Tesla, using the exercise stock approach would 
+yield the following value per share:
+¤ Treasury Stock Value per share (Tesla) = ($32,124 + $105.56 * 10.88) / 
+(169.76 + 10.88) = $184.19
+¨ The analysts who use this approach often justify it by arguing 
+that option pricing models can yield noisy estimates, but even 
+the worst option pricing model will outperform one that 
+assumes that options trade at exercise value.
+16
+But never this..
+¨ Fully Diluted Shares: The first is to just adjust the share count for 
+options outstanding and make no other changes. In this "fully diluted" 
+approach, you are counting in the dilution that will arise from option 
+exercise but ignoring the cash that will come into the firm from the 
+exercise.
+¤ Fully Diluted Value per share = DCF value of equity / (Share Count today + Options 
+Outstanding)
+¤ With Tesla, for instance, this approach would yield the following:
+n Fully Diluted Value per share (Tesla) = $32,124/ (169.76 + 10.88) = $177.83
+¨ Add back SBC: The second and even more indefensible practice is to add 
+back share based compensation to earnings to get to adjusted earnings. 
+The rationale that is offered for doing so is that share based 
+compensation is a non-cash expense, a dangerous bending of logic, since 
+it allows companies to use in-kind payments (shares, services) to evade 
+the cash flow test. Carried into future forecasts, this will inflate future 
+earnings and cash flows, pushing up estimated value.
+17
+3. Shares with Different Rights
+¨ Founders and families who take their companies public have always 
+wanted to have their cake and eat it too, and one way in which they have 
+been able to do so is by creating different share classes, usually built 
+around voting rights. 
+¨ In the United States, shares with different voting rights were rare for 
+much of the last century, primarily because the New York Stock Exchange, 
+which was the preferred listing place for companies, did not allow them. 
+¨ The tech boom of the 1990s changed the game, by making the NASDAQ, 
+which had no restrictions on shares with different voting rights, an 
+alternative destination, especially for large technology companies. 
+¨ The floodgates on shares with different voting rights opened up with the 
+Google listing in 2004, and the Google model, with shares with different 
+voting rights, has become the default model for many of the tech 
+companies that have gone public in the last decade.
+18
+Consequences
+¨ Change will become difficult: The first is a corporate 
+governance effect, since changing management 
+becomes much more difficult, and that can affect 
+how you value and view badly managed firms. 
+¨ Units are not equal: The second is a unit problem, 
+since a voting right share and a non-voting right 
+share represent different equity claims and cannot 
+be treated as having the same value. Thus, you can 
+no longer divide the aggregate value of equity by the 
+total number of shares outstanding.
+19
+The Right Response
+¨ Build in difficulty of change into value: When valuing the firm, you have to 
+incorporate the fact that changing management is going to be more 
+difficult to do in your estimates. 
+¨ Allocate unit value: You will have to make a judgment on how much of a 
+premium you would expect the voting shares to trade at, relative to non-
+voting shares, in one of two ways. 
+¤ Use the 5-10% premium for voting shares, found in studies. 
+¤ Use intrinsic valuation models to estimate the premium, which I describe in my 
+paper on valuing control. 
+¤ Value per non-voting share = Aggregate Value of Equity/ (# Non-Voting Shares + (1+ 
+Voting Share Premium) # Voting Shares)
+¨ For example, if the value of equity is $210 million, there are 50 million 
+non-voting shares and 50 million voting shares and the voting share 
+premium is 10%, your value per non-voting share will be:
+¤ Value per non-voting share = 210/ (50+ 1.1*50) = $2.00/share
+¤ Value per voting share = $2.00 (1.10) = $2.20/share
+20
+Final Thoughts
+1. Aggregate versus Per-share numbers: Given how dilution and options 
+can play havoc with share count, it is better to use aggregate than to 
+use per share numbers, in valuation and in pricing.
+2. When SBC is rampant, control for differences: If the use of restricted 
+stock and options vary widely across sector, you need to control for 
+those differences when comparing pricing in the sector .
+3. Don't use SBC adjusted earnings: Adjusting earnings and EBITDA, by 
+adding back stock based compensation, is an abomination, used by 
+desperate companies and analysts to show you that they are making 
+money, when they are not even close.
+4. With forward multiples, check on and control for dilution: Analysts, 
+when valuing young companies, often divide today’s market 
+capitalization or enterprise value by expected revenues or EBITDA in the 
+future.

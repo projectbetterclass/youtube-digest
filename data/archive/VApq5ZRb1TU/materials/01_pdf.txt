@@ -1,0 +1,187 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/optimalfollowup.pdf
+
+IN PRACTICE WEBCAST: FOLLOW 
+UP TO OPTIMAL CAPITAL 
+STRUCTURE
+Aswath Damodaran
+2
+Optimal Debt Ratio Analysis: The Three 
+Possible Outcomes
+¨ Using the tools that you have for assessing the capital 
+structure for a firm, you can arrive at an optimal debt 
+ratio for your firm.
+¨ By comparing the optimal to the actual debt ratio, you 
+can come to one of three judgments:
+¤ Actual < Optimal: You are under levered
+¤ Actual > Optimal: You are over levered
+¤ Actual = Optimal: You are correctly levered
+¨ In making this judgment, use common sense in deciding 
+whether the difference between the optimal and actual 
+debt ratio is significant, both in terms of debt ratio 
+change and value change.
+3
+My four examples
+Company Actual Optimal
+Amgen 22.88% 50.00%
+American Eagle 37.83% 60.00%
+Tesla 22.00% 0.00%
+Town Sports 81.03% 10.00%
+4
+Step 1: Is time your ally?
+¨ When you are under or over levered as a firm, you 
+have left value on the table, by settling for a cost of 
+capital that is higher than it needs to be, and a firm 
+value that is lower .
+¨ If you view this as a problem, the question then 
+becomes how urgently you need to solve it.
+5
+1a. For under levered firms: Are you the 
+target of a hostile takeover?
+¨ If you are under levered, you can become the target of a 
+hostile acquirer, who plans to borrow money (using your 
+debt capacity) to take you over . 
+¨ There are (at least) three factors to consider in whether 
+you are likely to be a target:
+¤ The size of your firm (As firm size increases, it gets more difficult 
+to raise the capital for the acquisition)
+¤ Insider stockholdings (If the company is run by family or insiders 
+who have a controlling stake, a hostile bid is less likely to 
+succeed)
+¤ Stock price performance: If your stock has done worse than 
+expected (relative to market and sector), you are more likely to 
+be a target.
+6
+1b. For over levered firms: Are you under 
+threat of default/bankruptcy?
+¨ For a firm with too much debt, the danger is that it 
+will be unable to make a contractual payment 
+(interest or principal) to a lender, leading to default.
+¨ To assess the threat of imminent default, you can 
+check the
+¤ Bond rating of the company
+¤ Operating income, relative to interest expenses
+¤ Cash balance, relative to principal payments due
+7
+Is time your ally?
+Company Market Cap (in US 
+$ millions)
+Insider Holdings Jensen’s alpha
+Amgen $128,900 0.15% 5.71%
+American Eagle $ 3,230 5.87% -9.69%
+Company Bond Rating EBIT/Interest 
+Expenses
+Debt/EBITDA
+Tesla B3 - 3.30 19.88
+Town Sports Caa1 1.15 17.55
+8
+2. If time is not your ally, you need to 
+recapitalize
+Assets Liabilities
+Opearing 
+Assets in place
+Debt
+EquityGrowth Assets
+Cash
+To decrease the debt ratio
+To increase the debt ratio
+Borrow money and buy 
+back stock or pay a large 
+special dividend
+Sell operating assets 
+and use cash to buy 
+back stock or pay or 
+special dividend
+Issue new stock to retire 
+debt or get debt holders to 
+accept equity in the ﬁrm.
+Sell operating assets 
+and use cash to pay 
+down debt.
+9
+For my under levered firms
+¨ Amgen is under levered but is unlikely to be a takeover 
+target because
+¤ It’s large market capitalization
+¤ It’s good stock market performance in the period leading into 
+this analysis
+¨ American Eagle is under levered and is likely to be a 
+takeover target because
+¤ It’s market cap is small
+¤ It’s stock has done badly in the period leading into the analysis
+¤ It does have insider holdings, but not enough to deter a hostile 
+acquirer
+¨ American Eagle should consider borrowing money and 
+buying back stock.
+10
+Step 3: If time is your ally, what do your 
+investment opportunities look like?
+¨ If you have time to change your debt ratio, use it, 
+since it will allow you to:
+¤ Move gradually to your optimal debt ratio
+¤ Let managers adjust as the firm’s leverage changes
+¤ Reassess the optimal as you get more information
+¨ To make the best use of your additional debt 
+capacity, you need to assess whether you have good 
+investment opportunities (projects that earn more 
+than the cost of capital)
+¤ If your history of excess returns is at odds with your claims 
+on projects, you need to explain what’s changed.
+11
+Step 3a: If time is your ally, and you are 
+under levered, here are your options
+¨ If you have good investment opportunities and you 
+have excess debt capacity, you should use 
+disproportionately large amounts of debt in funding 
+new projects. 
+¤ Value Increase = NPV of new projects + Value change from 
+moving to the optimal debt ratio
+¨ If you don’t have good investment opportunities and 
+you have excess debt capacity, you need to return 
+more cash to shareholders (in dividends and buy 
+backs) over time, replacing equity with debt on your 
+existing projects.
+12
+Step 3b: If time is your ally, and you are 
+over levered, here are your options
+¨ If you have good investment opportunities and you have 
+too much debt, you should 
+¤ Stop returning cash to shareholders; cut dividends and don’t do 
+buybacks
+¤ Use retained earnings disproportionately in funding new 
+projects. 
+¤ Value Increase = NPV of new projects + Value change from 
+moving to the optimal debt ratio
+¨ If you don’t have good investment opportunities and you 
+have too much debt, you need to stop returning cash to 
+shareholders and use equity earnings to pay down debt 
+over time.
+13
+Investment Opportunities
+Company ROC – Cost of 
+Capital
+Comments
+Amgen 11.33% Health care reforms and cost 
+controls are reducing excess 
+returns, but significant 
+advantages remain.
+American Eagle 0.77% Apparel business is getting more 
+competitive and less profitable.
+Tesla -11.55% Much of its value comes from 
+future growth potential. Still in 
+wait 7 see mode, but market is 
+optimistic.
+Town Sports -2.55% Business has become a bad one.
+14
+Step 4: Once you are at your right debt 
+ratio, this is your maintenance plan
+¨ If you already are at your optimal or get to it, you 
+need to 
+¤ Reevaluate your optimal debt ratio each year, as the world 
+changes around you
+¤ Keep tabs on your actual debt ratio, as your debt and 
+equity values change
+¨ On new projects, you want to try to keep close to 
+your “right” mix across all your projects. In project 
+analysis, you should use this mix in computing the 
+cost of capital, not the actual debt mix of the 
+project.

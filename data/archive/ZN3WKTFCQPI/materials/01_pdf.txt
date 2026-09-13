@@ -1,0 +1,247 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/CostofCapitalInPractice.pdf
+
+IN PRACTICE WEBCAST: 
+ESTIMATING THE COST OF 
+CAPITAL
+Aswath Damodaran
+2
+The Cost of Capital
+3
+Step 1: Decide on currency 
+¨ Currency is a choice. You can estimate the cost of 
+capital for any company, in any currency. 
+¨ Consistency is key: Since the cost of capital is used as 
+a discount rate in capital budgeting and valuation, 
+the currency chosen for estimating the cost of 
+capital has to be consistent with the currency in 
+which the cash flows are estimated.
+¨ While it is generally easiest to work with the local 
+currency, there are exceptions. (See step 2)
+4
+Aitkin Spence: Currency Choice
+¨ Aitkin Spence is a Sri Lankan company with hotels in 
+Sri Lanka, the Maldives, India and the Middle East.
+¤ It’s financial statements are in Sri Lankan Rupees. We will 
+estimate the cost of capital in Sri Lankan Rupees.
+¤ We could have valued the company in any other currency 
+of our choice, but if we did so, we would have to convert 
+the financial statements and expected growth numbers 
+into that currency.
+5
+Step 2: Estimate a risk free rate in the 
+currency
+¨ Government Bond Rate: If there is a default free entity (Aaa rated 
+sovereign) issuing long term bonds that are traded, used the 
+current interest rate on that long term bond.
+Risk free Rate = Government Bond Rate (of Aaa entity)
+¨ Government Bond Rate Minus: If there is a default-possible entity 
+issuing the bond, net out the default spread for the entity from the 
+long term bond rate.
+Risk free Rate = Government Bond Rate – Default Spread for 
+Government
+¨ Differential Inflation: If you cannot find a long term government 
+bond rate or do not trust it, start with a US dollar rate and add the 
+differential expected inflation for the currency in question.
+Riskfree Rate = US $ Risk free Rate + (Inflation Rate in Local Currency –
+Inflation Rate in US $)
+6
+Risk Free Rate in Sri Lankan Rupees
+¨ To value Aitken Spence in LKR, you need a risk free rate in 
+LKR.  
+¤ The Sri Lankan government bond is not widely traded but the rate, 
+according to the Sri Lankan Central Bank, is 10.58% on January 1, 2018. 
+¤ The bond rating for Sri Lanka is B1 and the default spread for that 
+rating is 4.62%.
+Riskfree rate in LKR = 10.58% - 4.62% = 5.96%
+¨ If you don’t trust the government bond rate, here is the 
+alternate approach:
+¤ Risk free rate in US dollars = 2.5%
+¤ Expected Inflation in the US = 2%
+¤ Expected inflation in Sri Lanka = 6%
+¤ Risk free rate in LKR = 2.5% + (6% -2%) = 6.5%
+7
+Step 3: Estimate an unlevered beta for 
+your company (bottom up preferably)
+¨ The standard approach: Run a regression of your 
+company’s stock price against a market index, and 
+then unlever that regression beta using an average 
+D/E ratio over the regression time period.
+¨ A better approach: Estimate an unlevered or asset 
+beta for your company, by finding the businesses 
+that your company operates in and taking a 
+weighted average, with the weights reflecting 
+market values of the businesses in question.
+8
+Unlevered Beta for Aitken Spence
+Business Revenues EV/Sales Estimated Value Weights Unlevered Beta
+Hotel/Gaming !. 20,464 3.1410 !. 64,277 58.48% 0.8274
+Shipbuilding & Marine !. 8,356 1.8187 !. 15,197 13.83% 0.9691
+Diversified !. 16,334 1.6889 !. 27,587 25.10% 0.7580
+Business & Consumer 
+Services !. 1,614 1.7618 !. 2,844 2.59% 0.8839
+Company !. 46,768 !. 109,904 100.00% 0.8311
+9
+Step 4: Estimate the equity risk premium 
+for your company 
+¨ Break down the company’s operations down 
+geographically. That operational break down can be 
+based upon revenues, earnings or production, 
+depending on which one is the best measure of risk 
+exposure.
+¨ Take a weighted average of the equity risk premiums 
+of the geographies (countries, regions).
+10
+ERP for Aitken Spence
+Country Revenues Weight ERP
+Sri Lanka 31187 67.96% 10.27% 
+Maldives 9996 21.78% 11.42% 
+Other Countries 4710 10.26% 7.14% 
+To tal 45893 100.00% 10.20%
+11
+Step 5: Estimate a cost of debt
+¨ The cost of debt is the rate at which you can borrow 
+money, long term, today.
+¤ Pre-tax cost of debt = Risk free Rate + Default Spread
+¨ The default spread can be estimated by looking at
+¤ The YTM of a traded, long term bond issued by the company.
+¤ The bond rating for the company
+¤ A synthetic rating based upon the interest coverage ratio
+¨ To get to an after-tax cost of debt, you multiply this pre-
+tax rate by the marginal tax rate of the country where 
+you will be using your interest deduction:
+¤ After-tax cost of debt = Pre-tax cost of debt (1- Marginal Tax 
+Rate)
+12
+Aitken Spence Cost of Debt
+¨ Aitken Spence is not rated. To estimate a synthetic 
+rating, I used an interest coverage ratio (adjusting 
+interest expenses for the leases in step 7)
+¤ Interest coverage ratio = 5915/ 2247 = 2.53
+¤ Rating based on ratio = BBB
+¤ Default Spread based on rating = 1.27% (for company)
+¨ To get to a pre-tax cost of debt, I also added the default 
+spread for the country:
+¤ Pre-tax cost of debt = 5.96% + 1.27% + 4.62% = 11.85%
+¨ To get to an after-tax cost, I used the marginal tax rate of 
+28% for Sri Lanka:
+¤ After-tax Cost of Debt = 11.85% (1-.28) = 8.53%
+13
+Step 6: Take stock on the interest bearing 
+debt that the company has.. 
+Aswath Damodaran
+13
+¨ Look for interest bearing debt on the balance sheet, both 
+short term and long term. This will include the short 
+term debt that is under current liabilities, long term debt 
+in the form of bank loans and corporate bonds and 
+capital leases.
+¨ If you are in a hurry or do not have any additional 
+information about the maturity of the debt, use the 
+book value of interest bearing debt = market value of 
+interest bearing debt.
+¨ If you have the weighted maturity of the debt, convert 
+the book value into market value:
+¤ MV of Debt = PV of Interest Expenses, annuity over life of debt + 
+PV of Book Value of Debt, discounted back from maturity.
+14
+Interest Bearing Debt
+¨ From the balance sheet,
+¤ Short term interest bearing debt = 11,671 m
+¤ Long term interest bearing debt = 15.975 m
+¤ Total Interest bearing debt = 27,645 m
+¨ To convert to market value,
+¤ Average maturity of the debt = 3 years
+¤ Interest expenses (annual) = 1,698 m
+¤ Current Market Interest rate on debt = 11.85%
+¤ Market Value of Debt = 23,847 m
+15
+Step 7: Check for leases that are not 
+capitalized..
+¨ Lease commitments are debt and should be 
+capitalized.
+¨ To convert lease commitments to debt, discount the 
+lease commitments at the pre-tax cost of debt to 
+today.
+¨ Add that value to the market value of interest 
+bearing debt to get total debt outstanding.
+16
+Lease Debt at Aitken Spence
+Year Commitment Present Value
+1 !. 729.21 !. 651.98 
+2 !. 840.00 !. 671.49 
+3 !. 840.00 !. 600.37 
+4 !. 840.00 !. 536.78 
+5 !. 840.00 !. 479.93 
+6 and beyond !. 817.84 !. 1,690.86 
+Debt Value of 
+leases = !. 4,631.41 
+4,089 m after year 5, 
+treated as annuity of 
+817.84 m, each year 
+for 5 years.
+Discounted at 
+pre-tax cost of 
+debt of 11.85%
+17
+Step 8: Check for hybrids
+¨ Convertible Debt: If you have convertible debt, try to 
+break out the conversion option and the debt portions. 
+¤ The simplest way to do this is to value the convertible debt, as if 
+it were straight debt. That will give you the debt portion. 
+¤ Subtracting put the debt portion from the market value of the 
+convertible will give you the conversion option which is equity.
+¨ Preferred Stock: Preferred stock, at least in the form it is 
+issued in the US, comes with fixed dividends (making it 
+more like debt) but those dividends are not tax 
+deductible. Thus, it is best to keep preferred stock 
+separate from debt and equity and make the preferred 
+dividend yield, its cost.
+18
+Step 9: Estimate debt ratios
+¨ Compute the market value of equity. 
+¤ If it is a publicly traded company, it is the share price 
+multiplied by number of shares outstanding.,
+¤ If it is a private company, you can apply an industry average 
+PE to the earnings to get an estimated equity value.
+¨ Compute debt to equity and debt to capital ratios:
+¤ Debt to Equity = Total Debt (from Step 7)/ Market Equity
+¤ Debt to capital = Total Debt (from Step 7)/ (Market Equity + 
+Total Debt)
+19
+Estimate the debt ratio for Aitken Spence
+¨ Market Value of Equity 
+¤ Share Price = 60
+¤ Number of shares = 405.70 million
+¤ Market Capitalization = 60 * 405.70 = 24,342 million
+¨ Total Debt = 4,632 + 23,847=  28,479 m
+¨ Debt Ratios
+¤ Debt/Equity = 28,479/24,342 = 117%
+¤ Debt/Capital = 28,479/(24,342+28,479) = 53.9%
+20
+Step 10: Estimate the cost of capital
+¨ The cost of capital will be a weighted average of debt and  
+equity with the costs of debt and equity, as inputs:
+¤ Cost of Capital = Cost of Equity (Equity/ (Debt + Equity)) + 
+Pre-tax Cost of Debt (1 – tax rate) (Debt/ (Debt + Equity))
+¨ If you are trying to estimate the cost of capital in a local 
+currency and are concerned about the inconsistency of 
+mixing local currency risk free rates with default spreads and 
+ERP in US $, you should compute your cost of capital in US $ 
+and then adjust for differential inflation:
+21
+Cost of Capital for Aitken Spence
+22
+Costs of Capital for divisions
+¨ To estimate the cost of capital for use in an Aitkin Spence 
+project, you would have to focus in on
+¤ What business the project is in
+¤ What country the project will be located in
+¤ Whether the project can carry its own debt
+¨ You can then estimate the cost of capital for that project
+¤ In the currency of your choice
+¤ Using the unlevered beta of the business
+¤ The D/E and D/C ratio for the project, if it is self-standing, or the 
+company (if it is not).
+¤ The ERP for the country where the project will be located
+¤ The cost of debt for the project, if it is self-standing, or the 
+company (if it is not).

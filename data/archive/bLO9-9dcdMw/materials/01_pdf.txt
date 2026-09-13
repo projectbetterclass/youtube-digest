@@ -1,0 +1,320 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/Slides/Session4A.pdf
+
+SESSION 4A: DATA 
+DISTRIBUTIONS IN FINANCE
+Session 4
+Accounting & Statistics
+2
+The Normal Distribution in Finance
+¨One of the critiques of finance is its dependence on the 
+normal distribution in both developing theory and in 
+empirical tests.
+¨The reason for that dependence is two-fold:
+¤The normal distribution has properties that make it easy to work 
+with, both in theory and in practice.
+¤In financial markets, we have had access to large amounts of 
+data (we had big data, before the rest of the world even 
+discovered it), and with it came the temptation to use the 
+normal distribution on almost every aspect of finance.
+¨The normal distribution assumption comes into play 
+especially when it comes to returns that you can earn on 
+investments (and stock prices).
+3
+An Individual Stock: Annual Returns on Disney 
+from 1962 -2021
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+-0.8 To -0.6-0.6 To -0.4-0.4 To -0.2-0.2 To 0 0 To 0.2 0.2 To 0.4 0.4 To 0.6 0.6 To 0.8 0.8 To 1 1 To 1.21.2 and over
+No. of obs.
+Histogram for "Disney Return"
+4
+Testing for Normality
+-0.8
+-0.6
+-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+1
+-1 -0.5 0 0.5 1 1.5
+Expected Value
+Disney Return
+Normal Q-Q Plot -Disney Return
+Test Statistic p-value H0 (5%)
+0.97325 0.21842 Cannot reject
+0.96709 0.10037 Cannot reject
+0.43169 0.29574 Cannot reject
+0.06641 0.30641 Cannot reject
+0.07741 0.51054 Cannot reject
+1.91885 0.055 Cannot reject
+1.84492 0.06505 Cannot reject
+7.08571 0.02893 Rejected
+6.69582 0.03516 Rejected
+D'Agostino Omnibus
+Jarque-Bera
+Anderson-Darling
+Cramer-von Mises
+Kolmogorov-Smirnov (Lilliefors)
+D'Agostino Skewness
+D'Agostino Kurtosis
+Test
+Shapiro-Wilk W
+Shapiro-Francia
+5
+Another Individual Stock: Annual Returns on 
+Apple from 1981 to 2020
+0
+2
+4
+6
+8
+10
+12
+14
+16
+-1 To -0.5 -0.5 To 0 0 To 0.5 0.5 To 1 1 To 1.5 1.5 To 2 2 and ove r
+No. of obs.
+Histogram for "Apple: Annual Return"
+6
+Testing for Normality
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+-1 -0.5 0 0.5 1 1.5 2 2.5
+Expected Value
+Apple: Annual Return
+Normal Q-Q Plot -Apple: Annual Return
+Test Statistic p-value H0 (5%)
+0.93714 0.02771 Rejected
+0.94023 0.03633 Rejected
+0.81707 0.03168 Rejected
+0.13662 0.03405 Rejected
+0.15089 0.02237 Rejected
+2.22967 0.02577 Rejected
+0.65787 0.51062 Cannot reject
+5.40424 0.06706 Cannot reject
+4.60701 0.09991 Cannot reject
+D'Agostino Omnibus
+Jarque-Bera
+Anderson-Darling
+Cramer-von Mises
+Kolmogorov-Smirnov (Lilliefors)
+D'Agostino Skewness
+D'Agostino Kurtosis
+Test
+Shapiro-Wilk W
+Shapiro-Francia
+7
+Returns on S&P 500: Annual Returns from 
+1928 to 2020
+0
+5
+10
+15
+20
+-0.5 To -0.4-0.4 To -0.3-0.3 To -0.2-0.2 To -0.1-0.1 To 0 0 To 0.1 0.1 To 0.2 0.2 To 0.3 0.3 To 0.4 0.4 To 0.50.5 and over
+No. of obs.
+Histogram for "S&P 500 (includes dividends)"
+8
+Testing for Normality
+-0.4
+-0.3
+-0.2
+-0.1
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+-0.6 -0.4 -0.2 0 0.2 0.4 0.6
+Expected Value
+S&P 500 (includes dividends)
+Normal Q-Q Plot -S&P 500 (includes dividends)
+9
+Returns on the S&P 500: Daily from 2016 
+to 2020
+0
+100
+200
+300
+400
+500
+600
+700
+800
+-0.12 To -0.1-0.1 To -0.08-0.08 To -
+0.06
+-0.06 To -
+0.04
+-0.04 To -
+0.02
+-0.02 To 0 0 To 0.020.02 To 0.040.04 To 0.060.06 To 0.080.08 and
+over
+No. of obs.
+Histogram for "S&P Daily Return"
+10
+Testing for Normality
+-0.04
+-0.03
+-0.02
+-0.01
+0
+0.01
+0.02
+0.03
+0.04
+0.05
+-0.15 -0.1 -0.05 0 0.05 0.1
+Expected Value
+S&P Daily Return
+Normal Q-Q Plot -S&P Daily Return
+Test Statistic p-value H0 (5%)
+0.79259 0. Rejected
+0.78845 0 Rejected
+INF 0. Rejected
+9.87874 INFCannot reject
+0.52949 0. Rejected
+9.52908 0 Rejected
+18.04824 0 Rejected
+416.5422 0 Rejected
+21,885.5861 0 Rejected
+D'Agostino Omnibus
+Jarque-Bera
+Anderson-Darling
+Cramer-von Mises
+Kolmogorov-Smirnov (Lilliefors)
+D'Agostino Skewness
+D'Agostino Kurtosis
+Test
+Shapiro-Wilk W
+Shapiro-Francia
+11
+The perils of assuming normality, when 
+the data is not…
+¨If returns follow a normal distribution, it is extremely 
+unlikely that you will see returns that deviate more than 
+two or three standard deviations from the average. 
+¨Stock returns, especially for short term (daily, weekly) 
+and on individual stocks (as opposed to portfolios) have 
+fatter tails than you would expect to see in a normal 
+distribution.
+¤Simply put, you are going to see returns that can fall four, five or 
+even six standard errors from the mean.
+¤If your investment and risk management strategies are based 
+upon normality, you will find yourself surprised (with 
+catastrophic consequences), when this happens.
+12
+Stock prices are definitely notnormally 
+distributed… Apple Daily Stock Prices
+0
+50
+100
+150
+200
+250
+300
+20 T o 3030 T o 4040 T o 5050 T o 6060 T o 7070 T o 8080 T o 9090 T o 100100 To 110110 To 120120 To 130130 and
+over
+No. of obs.
+Histogram for "Apple Price"
+13
+Normality Test
+-40
+-20
+0
+20
+40
+60
+80
+100
+120
+140
+20 40 60 80 100 120 140
+Expected Value
+Apple Price
+Normal Q-Q Plot -Apple Price
+Test Statistic p-value H0 (5%)
+0.83661 0. Rejected
+0.83727 0 Rejected
+66.62125 0. Rejected
+11.22315 INFCannot reject
+0.60675 0. Rejected
+15.86412 0 Rejected
+6.40671.48707E-10 Rejected
+292.71602 0 Rejected
+536.6154 0 Rejected
+D'Agostino Omnibus
+Jarque-Bera
+Anderson-Darling
+Cramer-von Mises
+Kolmogorov-Smirnov (Lilliefors)
+D'Agostino Skewness
+D'Agostino Kurtosis
+Test
+Shapiro-Wilk W
+Shapiro-Francia
+14
+A Transformation: ln(Apple) Daily
+0
+50
+100
+150
+200
+250
+300
+3 To 3.2 3.2 To 3.4 3.4 To 3.6 3.6 To 3.8 3.8 To 4 4 To 4.2 4.2 To 4.4 4.4 To 4.6 4.6 To 4.84.8 and over
+No. of obs.
+Histogram for "ln(Price)"
+15
+And normality tests…
+2
+2.5
+3
+3.5
+4
+4.5
+5
+5.5
+3 3.2 3.4 3.6 3.8 4 4.2 4.4 4.6 4.8 5
+Expected Value
+ln(Price)
+Normal Q-Q Plot -ln(Price)
+Test Statistic p-value H0 (5%)
+0.95291 0. Rejected
+0.9539 0 Rejected
+15.11905 0. Rejected
+2.08485 5.10957E-7 Rejected
+0.27462 0. Rejected
+7.21974 0. Rejected
+-2.56624 0.01028 Rejected
+58.71023 0. Rejected
+63.02446 0. Rejected
+D'Agostino Omnibus
+Jarque-Bera
+Anderson-Darling
+Cramer-von Mises
+Kolmogorov-Smirnov (Lilliefors)
+D'Agostino Skewness
+D'Agostino Kurtosis
+Test
+Shapiro-Wilk W
+Shapiro-Francia

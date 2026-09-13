@@ -1,0 +1,57 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DiscountRateMyth2.pdf
+
+Discount	Rate	Myth	2:	It’s	all	
+about	the	D	in	DCF
+2
+The	Focus	on	Discount	Rates
+¨ In	both	academia	and	practice,	there	is	far	more	
+attention	paid	to	discount	rates	than	to	the	
+estimation	of	cash	flows.
+¨ In	academia,	this	focus	can	be	traced	to	the	fact	that	
+it	is	far	easier	to	build	theory	and	general	models	for	
+discount	rates	than	cash	flows.
+¨ In	practice,	the	focus	can	be	traced	to
+¤ An	over	estimation	of	the	impact	of	discount	rates	on	
+value.	(The	Gordon	Growth	Model	Effect)
+¤ A	need	for	control
+3
+1.	The	DDM	Effect
+• At	the	root	of	DCF	is	the	Gordon	Growth	Model,	a	
+model	designed	to	value	a	mature	company	that	
+pays	out	all	excess	cash	flows	as	dividends.
+• In	this	model,	the	dividends	are	given,	the	expected	
+growth	rate	is	an	exogenous	input	and	not	
+surprisingly,	small	changes	in	the	discount	rate	
+translate	into	big	changes	in	value.
+4
+A	Simple	Illustration
+5
+Reason	2:	Control
+• When	faced	with	significant	uncertainty	in	valuation,	
+it	is	comforting	to	turn	our	attention	back	to	
+discount	rates,	where	we	can	draw	on	established	
+models	and	data	to	estimate	and	fine	tune	the	
+components	(risk	premiums,	betas,	costs	of	debt).	
+• Estimating	risk	free	rates,	betas	and	equity	risk	
+premiums	to	the	second,	third	or	even	fourth	
+decimal	points	offers	the	illusion	of	control	in	a	
+world	where	estimates	of	revenue	growth	and	
+operating	margins	are	difficult.
+6
+Not	much	room	to	be	different..	US	
+company	cost	of	capital	in	2016
+7
+The	Global	Analog
+8
+The	Bottom	Line
+• It	is	the	cash	flow:	When	you	make	big	mistakes	in	
+valuation,	it	is	almost	always	because	you	got	the	
+cash	flows	wrong,	not	the	discount	rate.
+• Especially	for	younger	companies:	It	is	particularly	
+true	for	younger	companies	and	in	the	face	of	
+uncertainty	about	the	future.	Instead	of	spending	
+most	of	our	time	during	valuation	
+• A	Suggestion:	If	you	have	to	value	a	US	company	in	a	
+hurry,	why	not	just	use	a	cost	of	capital	of	8%	in	July	
+2016,	the	median	value	for	US	stocks,	and	spend	
+your	limited	time	on	the	numerator	(cash	flows)?

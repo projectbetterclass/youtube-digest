@@ -1,0 +1,538 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session5.pdf
+
+61
+The	Bondholders’	Defense	Against	Stockholder	
+Excesses	
+Aswath	Damodaran	
+61
+¨ More	restric9ve	covenants	on	investment,	ﬁnancing	and	dividend	
+policy	have	been	incorporated	into	both	private	lending	
+agreements	and	into	bond	issues,	to	prevent	future	“Nabiscos”.	
+¨ New	types	of	bonds	have	been	created	to	explicitly	protect	
+bondholders	against	sudden	increases	in	leverage	or	other	ac9ons	
+that	increase	lender	risk	substan9ally.	Two	examples	of	such	bonds	
+¤ PuFable	Bonds,	where	the	bondholder	can	put	the	bond	back	to	the	ﬁrm	
+and	get	face	value,	if	the	ﬁrm	takes	ac9ons	that	hurt	bondholders	
+¤ Ra9ngs	Sensi9ve	Notes,	where	the	interest	rate	on	the	notes	adjusts	to	
+that	appropriate	for	the	ra9ng	of	the	ﬁrm	
+¨ More	hybrid	bonds	(with	an	equity	component,	usually	in	the	form	
+of	a	conversion	op9on	or	warrant)	have	been	used.	This	allows	
+bondholders	to	become	equity	investors,	if	they	feel	it	is	in	their	
+best	interests	to	do	so.
+62
+The	Financial	Market	Response	
+Aswath	Damodaran	
+62
+¨ While	analysts	are	more	likely	s9ll	to	issue	buy	rather	
+than	sell	recommenda9ons,	the	payoﬀ	to	uncovering	
+nega9ve	news	about	a	ﬁrm	is	large	enough	that	such	
+news	is	eagerly	sought	and	quickly	revealed	(at	least	to	a	
+limited	group	of	investors).		
+¨ As	investor	access	to	informa9on	improves,	it	is	
+becoming	much	more	diﬃcult	for	ﬁrms	to	control	when	
+and	how	informa9on	gets	out	to	markets.	
+¨ As	op9on	trading	has	become	more	common,	it	has	
+become	much	easier	to	trade	on	bad	news.	In	the	
+process,	it	is	revealed	to	the	rest	of	the	market.	
+¨ When	ﬁrms	mislead	markets,	the	punishment	is	not	only	
+quick	but	it	is	savage.
+63
+The	Societal	Response	
+Aswath	Damodaran	
+63
+¨ If	ﬁrms	consistently	ﬂout	societal	norms	and	create	
+large	social	costs,	the	governmental	response	
+(especially	in	a	democracy)	is	for	laws	and	
+regula9ons	to	be	passed	against	such	behavior.	
+¨ For	ﬁrms	catering	to	a	more	socially	conscious	
+clientele,	the	failure	to	meet	societal	norms	(even	if	
+it	is	legal)	can	lead	to	loss	of	business	and	value.	
+¨ Finally,	investors	may	choose	not	to	invest	in	stocks	
+of	ﬁrms	that	they	view	as	socially	irresponsible.
+64
+The	Counter	Reac9on	
+Aswath	Damodaran	
+64
+STOCKHOLDERS
+Managers of poorly 
+run ﬁrms are put
+on notice.
+1. More activist
+investors
+2. Hostile takeovers
+BONDHOLDERS
+Protect themselves
+1. Covenants
+2. New Types
+FINANCIAL MARKETS
+SOCIETYManagers
+Firms are
+punished
+for misleading
+markets
+Investors and
+analysts become
+more skeptical
+Corporate Good Citizen Constraints
+1. More laws
+2. Investor/Customer Backlash
+65
+So	what	do	you	think?	
+Aswath	Damodaran	
+65
+¨ At	this	point	in	9me,	the	following	statement	best	describes	
+where	I	stand	in	terms	of	the	right	objec9ve	func9on	for	
+decision	making	in	a	business	
+a.  Maximize	stock	price,	with	no	constraints	
+b.  Maximize	stock	price,	with	constraints	on	being	a	good	social	ci9zen.	
+c.  Maximize	stockholder	wealth,	with	good	ci9zen	constraints,	and	
+hope/pray	that	the	market	catches	up	with	you.	
+d.  Maximize	proﬁts	or	proﬁtability	
+e.  Maximize	earnings	growth	
+f.  Maximize	market	share		
+g.  Maximize	revenues	
+h.  Maximize	social	good	
+i.  None	of	the	above
+66
+The	Modiﬁed	Objec9ve	Func9on	
+Aswath	Damodaran	
+66
+¨ For	publicly	traded	ﬁrms	in	reasonably	eﬃcient	markets,	
+where	bondholders	(lenders)	are	protected:	
+¤ Maximize	Stock	Price:	This	will	also	maximize	ﬁrm	value	
+¨ For	publicly	traded	ﬁrms	in	ineﬃcient	markets,	where	
+bondholders	are	protected:	
+¤ Maximize	stockholder	wealth:	This	will	also	maximize	ﬁrm	value,	
+but	might	not	maximize	the	stock	price	
+¨ For	publicly	traded	ﬁrms	in	ineﬃcient	markets,	where	
+bondholders	are	not	fully	protected	
+¤ Maximize	ﬁrm	value,	though	stockholder	wealth	and	stock	
+prices	may	not	be	maximized	at	the	same	point.	
+¨ For	private	ﬁrms,	maximize	stockholder	wealth	(if	
+lenders	are	protected)	or	ﬁrm	value	(if	they	are	not)
+THE	INVESTMENT	PRINCIPLE:	RISK	
+AND	RETURN	MODELS	
+	
+	
+“You	cannot	swing	upon	a	rope	that	is	aFached	only	
+to	your	own	belt.”	
+Aswath	Damodaran 	 67
+68
+First	Principles	
+Aswath	Damodaran	
+68
+69
+The	no9on	of	a	benchmark		
+Aswath	Damodaran	
+69
+¨ Since	ﬁnancial	resources	are	ﬁnite,	there	is	a	hurdle	that	
+projects	have	to	cross	before	being	deemed	acceptable.	
+This	hurdle	should	be	higher	for	riskier	projects	than	for	
+safer	projects.	
+¨ A	simple	representa9on	of	the	hurdle	rate	is	as	follows:	
+Hurdle	rate				=	 	Riskless	Rate	+	Risk	Premium	
+¨ The	two	basic	ques9ons	that	every	risk	and	return	model	
+in	ﬁnance	tries	to	answer	are:	
+¤ How	do	you	measure	risk?	
+¤ How	do	you	translate	this	risk	measure	into	a	risk	premium?
+70
+What	is	Risk?	
+Aswath	Damodaran	
+70
+¨ Risk,	in	tradi9onal	terms,	is	viewed	as	a	‘nega9ve’.	
+Webster’s	dic9onary,	for	instance,	deﬁnes	risk	as	“exposing	
+to	danger	or	hazard”.	The	Chinese	symbols	for	risk,	
+reproduced	below,	give	a	much	beFer	descrip9on	of	risk	
+危机	
+¨ The	ﬁrst	symbol	is	the	symbol	for	“danger”,	while	the	second	
+is	the	symbol	for	“opportunity”,	making	risk	a	mix	of	danger	
+and	opportunity.	You	cannot	have	one,	without	the	other.	
+¨ Risk	is	therefore	neither	good	nor	bad.	It	is	just	a	fact	of	life.	
+The	ques9on	that	businesses	have	to	address	is	therefore	not	
+whether	to	avoid	risk	but	how	best	to	incorporate	it	into	their	
+decision	making.
+71
+A	good	risk	and	return	model	should…	
+Aswath	Damodaran	
+71
+1.  It	should	come	up	with	a	measure	of	risk	that	applies	to	all	assets	
+and	not	be	asset-speciﬁc.	
+2.  It	should	clearly	delineate	what	types	of	risk	are	rewarded	and	
+what	are	not,	and	provide	a	ra9onale	for	the	delinea9on.	
+3.  It	should	come	up	with	standardized	risk	measures,	i.e.,	an	
+investor	presented	with	a	risk	measure	for	an	individual	asset	
+should	be	able	to	draw	conclusions	about	whether	the	asset	is	
+above-average	or	below-average	risk.	
+4.  It	should	translate	the	measure	of	risk	into	a	rate	of	return	that	
+the	investor	should	demand	as	compensa9on	for	bearing	the	
+risk.	
+5.  It	should	work	well	not	only	at	explaining	past	returns,	but	also	in	
+predic9ng	future	expected	returns.
+72
+The	Capital	Asset	Pricing	Model	
+Aswath	Damodaran	
+72
+1.  Uses	variance	of	actual	returns	around	an	expected	
+return	as	a	measure	of	risk.	
+2.  Speciﬁes	that	a	por9on	of	variance	can	be	diversiﬁed	
+away,	and	that	is	only	the	non-diversiﬁable	por9on	
+that	is	rewarded.	
+3.  Measures	the	non-diversiﬁable	risk	with	beta,	which	is	
+standardized	around	one.	
+4.  Translates	beta	into	expected	return	-		
+Expected	Return	=		Riskfree	rate	+	Beta	*	Risk	Premium	
+5.  Works	as	well	as	the	next	best	alterna9ve	in	most	
+cases.
+73
+1.	The	Mean-Variance	Framework	
+Aswath	Damodaran	
+73
+¨ The	variance	on	any	investment	measures	the	disparity	
+between	actual	and	expected	returns.		
+Expected Return
+Low Variance Investment
+High Variance Investment
+74
+How	risky	is	Disney?	A	look	at	the	past…	
+Aswath	Damodaran	
+74
+-25.00%	
+-20.00%	
+-15.00%	
+-10.00%	
+-5.00%	
+0.00%	
+5.00%	
+10.00%	
+15.00%	
+20.00%	
+25.00%	
+Oct-08	
+Dec-08	
+Feb-09	
+Apr-09	
+Jun-09	
+Aug-09	
+Oct-09	
+Dec-09	
+Feb-10	
+Apr-10	
+Jun-10	
+Aug-10	
+Oct-10	
+Dec-10	
+Feb-11	
+Apr-11	
+Jun-11	
+Aug-11	
+Oct-11	
+Dec-11	
+Feb-12	
+Apr-12	
+Jun-12	
+Aug-12	
+Oct-12	
+Dec-12	
+Feb-13	
+Apr-13	
+Jun-13	
+Aug-13	
+Returns	on	Disney	-	2008-2013		
+Average	monthly	return	=	1.65%	
+Average	monthly	standard	devia9on	=	7.64%	
+Average	annual	return	=	21.70%	
+Average	annual	standard	devia9on	=	26.47%
+75
+Do	you	live	in	a	mean-variance	world?	
+Aswath	Damodaran	
+75
+¨ Assume	that	you	had	to	pick	between	two	investments.	They	
+have	the	same	expected	return	of	15%	and	the	same	
+standard	devia9on	of	25%;	however,	investment	A	oﬀers	a	
+very	small	possibility	that	you	could	quadruple	your	money,	
+while	investment	B’s	highest	possible	payoﬀ	is	a	60%	return.	
+Would	you	
+a.  be	indiﬀerent	between	the	two	investments,	since	they	have	the	
+same	expected	return	and	standard	devia9on?	
+b.  prefer	investment	A,	because	of	the	possibility	of	a	high	payoﬀ?	
+b.  prefer	investment	B,	because	it	is	safer?	
+¨ Would	your	answer	change	if	you	were	not	told	that	there	is	
+a	small	possibility	that	you	could	lose	100%	of	your	money	on	
+investment	A	but	that	your	worst	case	scenario	with	
+investment	B	is	-50%?
+76
+The	Importance	of	Diversiﬁca9on:	Risk	Types	
+Aswath	Damodaran	
+76
+Actions/Risk that 
+affect only one 
+firm
+Actions/Risk that 
+affect all investments
+Firm-specific Market
+Projects may
+do better or
+worse than
+expected
+Competition
+may be stronger
+or weaker than
+anticipated
+Entire Sector
+may be affected
+by action
+Exchange rate
+and Political
+risk
+Interest rate,
+Inflation & 
+news about 
+economy
+Figure 3.5: A Break Down of Risk
+Affects few
+firms
+Affects many
+firms
+Firm can 
+reduce by
+Investing in lots 
+of projects
+Acquiring 
+competitors
+Diversifying 
+across sectors
+Diversifying 
+across countries
+Cannot affect
+Investors 
+can 
+mitigate by
+Diversifying across domestic stocks Diversifying across 
+asset classes 
+Diversifying globally
+77
+Why	diversiﬁca9on	reduces/eliminates	
+ﬁrm	speciﬁc	risk	
+Aswath	Damodaran	
+77
+¨ Firm-speciﬁc	risk	can	be	reduced,	if	not	eliminated,	by	
+increasing	the		number	of	investments	in	your	porpolio	
+(i.e.,	by	being	diversiﬁed).	Market-wide	risk	cannot.	This	
+can	be	jus9ﬁed	on	either	economic	or	sta9s9cal	
+grounds.	
+¨ On	economic	grounds,	diversifying	and	holding	a	larger	
+porpolio	eliminates	ﬁrm-speciﬁc	risk	for	two	reasons-	
+a.  Each	investment	is	a	much	smaller	percentage	of	the	porpolio,	
+mu9ng	the	eﬀect	(posi9ve	or	nega9ve)	on	the	overall	
+porpolio.	
+b.  Firm-speciﬁc	ac9ons	can	be	either	posi9ve	or	nega9ve.	In	a	
+large	porpolio,	it	is	argued,	these	eﬀects	will	average	out	to	
+zero.	(For	every	ﬁrm,	where	something	bad	happens,	there	
+will	be	some	other	ﬁrm,	where	something	good	happens.)
+78
+The	Role	of	the	Marginal	Investor	
+Aswath	Damodaran	
+78
+¨ The	marginal	investor	in	a	ﬁrm	is	the	investor	who	is	
+most	likely	to	be	the	buyer	or	seller	on	the	next	trade	
+and	to	inﬂuence	the	stock	price.		
+¨ Generally	speaking,	the	marginal	investor	in	a	stock	has	
+to	own	a	lot	of	stock	and	also	trade	that	stock	on	a	
+regular	basis.	
+¨ Since	trading	is	required,	the	largest	investor	may	not	be	
+the	marginal	investor,	especially	if	he	or	she	is	a	
+founder/manager	of	the	ﬁrm	(Larry	Ellison	at	Oracle,	
+Mark	Zuckerberg	at	Facebook)	
+¨ In	all	risk	and	return	models	in	ﬁnance,	we	assume	that	
+the	marginal	investor	is	well	diversiﬁed.
+79
+Iden9fying	the	Marginal	Investor	in	your	ﬁrm…	
+Aswath	Damodaran	
+79
+Percent of Stock held 
+by Institutions 
+Percent of Stock held by 
+Insiders 
+Marginal Investor 
+High Low Institutional Investor  
+High High Institutional Investor, with insider influence 
+Low High (held by 
+founder/manager of firm) 
+Tough to tell; Could be insiders but only if they 
+trade. If not, it could be individual investors. 
+Low High (held by wealthy 
+individual investor) 
+Wealthy individual investor, fairly diversified 
+Low Low Small individual investor with restricted 
+diversification
+80
+Gauging	the	marginal	investor:	Disney	in	
+2013	
+Aswath Damodaran
+81
+Extending	the	assessment	of	the	investor	
+base	
+¨ In	all	ﬁve	of	the	publicly	traded	companies	that	we	
+are	looking	at,	ins9tu9ons	are	big	holders	of	the	
+company’s	stock.	
+Aswath Damodaran
+82
+The	Limi9ng	Case:	The	Market	Porpolio	
+Aswath	Damodaran	
+82
+¨ The	big	assump9ons	&	the	follow	up:	Assuming	diversiﬁca9on	
+costs	nothing	(in	terms	of	transac9ons	costs),	and	that	all	assets	
+can	be	traded,	the	limit	of	diversiﬁca9on	is	to	hold	a	porpolio	of	
+every	single	asset	in	the	economy	(in	propor9on	to	market	value).	
+This	porpolio	is	called	the	market	porpolio.		
+¨ The	consequence:		Individual	investors	will	adjust	for	risk,	by	
+adjus9ng	their	alloca9ons	to	this	market	porpolio	and	a	riskless	
+asset	(such	as	a	T-Bill):	
+Preferred	risk	level 	 	Alloca?on	decision	
+No	risk 	 	100%	in	T-Bills	
+Some	risk 	 	50%	in	T-Bills;	50%	in	Market	Porpolio;	
+A	liFle	more	risk 	25%	in	T-Bills;	75%	in	Market	Porpolio	
+Even	more	risk	 	100%	in	Market	Porpolio	
+A	risk	hog.. 	 	Borrow	money;	Invest	in	market	porpolio
+83
+The	Risk	of	an	Individual	Asset	
+Aswath	Damodaran	
+83
+¨ The	essence:	The	risk	of	any	asset	is	the	risk	that	it	adds	to	
+the	market	porpolio	Sta9s9cally,	this	risk	can	be	measured	by	
+how	much	an	asset	moves	with	the	market	(called	the	
+covariance)	
+¨ The	measure:	Beta	is	a	standardized	measure	of	this	
+covariance,	obtained	by	dividing	the	covariance	of	any	asset	
+with	the	market	by	the	variance	of	the	market.	It	is	a	
+measure	of	the	non-diversiﬁable	risk	for	any	asset	can	be	
+measured	by	the	covariance	of	its	returns	with	returns	on	a	
+market	index,	which	is	deﬁned	to	be	the	asset's	beta.	
+¨ The	result:	The	required	return	on	an	investment	will	be	a	
+linear	func9on	of	its	beta:	
+¤ Expected	Return	=	Riskfree	Rate+	Beta	*	(Expected	Return	on	the	
+Market	Porpolio	-	Riskfree	Rate)
+84
+Limita9ons	of	the	CAPM	
+Aswath	Damodaran	
+84
+1.	The	model	makes	unrealis9c	assump9ons	
+2.	The	parameters	of	the	model	cannot	be	es9mated	
+precisely	
+¤ The	market	index	used	can	be	wrong.	
+¤ The	ﬁrm	may	have	changed	during	the	'es9ma9on'	period'	
+3.	The	model	does	not	work	well	
+¤ -	If	the	model	is	right,	there	should	be:			
+n 	A	linear	rela9onship	between	returns	and	betas	
+n 	The	only	variable	that	should	explain	returns	is	betas	
+¤ -	The	reality	is	that	
+n 	The	rela9onship	between	betas	and	returns	is	weak		
+n 	Other	variables	(size,	price/book	value)	seem	to	explain	
+diﬀerences	in	returns	beFer.
+85
+Alterna9ves	to	the	CAPM	
+Aswath	Damodaran	
+85
+The risk in an investment can be measured by the variance in actual returns around an 
+expected return
+E(R)
+Riskless Investment Low Risk Investment High Risk Investment
+E(R) E(R)
+Risk that is specific to investment (Firm Specific) Risk that affects all investments (Market Risk)
+Can be diversified away in a diversified portfolio Cannot be diversified away since most assets
+1. each investment is a small proportion of portfolio are affected by it.
+2. risk averages out across investments in portfolio
+The marginal investor is assumed to hold a “diversified” portfolio. Thus, only market risk will 
+be rewarded and priced.
+The CAPM The APM Multi-Factor Models Proxy Models
+If there is 
+1. no private information
+2. no transactions cost
+the optimal diversified 
+portfolio includes every
+traded asset. Everyone
+will hold this market portfolio
+Market Risk = Risk 
+added by any investment 
+to the market portfolio:
+If there are no 
+arbitrage opportunities 
+then the market risk of
+any asset must be 
+captured by betas 
+relative to factors that 
+affect all investments.
+Market Risk = Risk 
+exposures of any 
+asset to market 
+factors
+Beta of asset relative to
+Market portfolio (from
+a regression)
+Betas of asset relative
+to unspecified market
+factors (from a factor
+analysis)
+Since market risk affects
+most or all investments,
+it must come from 
+macro economic factors.
+Market Risk = Risk 
+exposures of any 
+asset to macro 
+economic factors.
+Betas of assets relative
+to specified macro
+economic factors (from
+a regression)
+In an efficient market,
+differences in returns
+across long periods must
+be due to market risk
+differences. Looking for
+variables correlated with
+returns should then give 
+us proxies for this risk.
+Market Risk = 
+Captured by the 
+Proxy Variable(s)
+Equation relating 
+returns to  proxy 
+variables (from a
+regression)
+Step 1: Defining Risk
+Step 2: Differentiating between Rewarded and Unrewarded Risk
+Step 3: Measuring Market Risk
+86
+Why	the	CAPM	persists…	
+Aswath	Damodaran	
+86
+¨ The	CAPM,	notwithstanding	its	many	cri9cs	and	limita9ons,	
+has	survived	as	the	default	model	for	risk	in	equity	valua9on	
+and	corporate	ﬁnance.	The	alterna9ve	models	that	have	
+been	presented	as	beFer	models	(APM,	Mul9factor	model..)	
+have	made	inroads	in	performance	evalua9on	but	not	in	
+prospec9ve	analysis	because:	
+¤ The	alterna9ve	models	(which	are	richer)	do	a	much	beFer	job	than	
+the	CAPM	in	explaining	past	return,	but	their	eﬀec9veness	drops	oﬀ	
+when	it	comes	to	es9ma9ng	expected	future	returns	(because	the	
+models	tend	to	shiv	and	change).	
+¤ The	alterna9ve	models	are	more	complicated	and	require	more	
+informa9on	than	the	CAPM.	
+¤ For	most	companies,	the	expected	returns	you	get	with	the	the	
+alterna9ve	models	is	not	diﬀerent	enough	to	be	worth	the	extra	
+trouble	of	es9ma9ng	four	addi9onal	betas.
+87
+Applica9on	Test:	Who	is	the	marginal	investor	
+in	your	ﬁrm?	
+Aswath	Damodaran	
+87
+¨ You	can	get	informa9on	on	insider	and	ins9tu9onal	
+holdings	in	your	ﬁrm	from:	
+¤ hFp://ﬁnance.yahoo.com/		
+¤ Enter	your	company’s	symbol	and	choose	proﬁle.	
+¨ Looking	at	the	breakdown	of	stockholders	in	your	
+ﬁrm,	consider	whether	the	marginal	investor	is	
+¤ An	ins9tu9onal	investor		
+¤ An	individual	investor	
+¤ An	insider

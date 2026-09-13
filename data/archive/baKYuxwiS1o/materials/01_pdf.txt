@@ -1,0 +1,203 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ZomatoIPO.pdf
+
+THE ZOMATO IPO: A BET ON BIG 
+MARKETS & PLATFORMS
+Valuation First Principles
+2
+A much-watched IPO
+qZomato, an Indian online food-delivery company, started 
+trading on the Sensex on July 14, 2021, and its market debut 
+is being watched for clues by a number of other online 
+ventures in India, waiting in the wings to go public. 
+qThe primary attraction, to investors, of the company comes not from 
+its current standing (modest revenues and big losses), but from its 
+capacity to take advantage of the potential growth in the Indian food 
+delivery market. 
+qIn this post, I will value Zomato, and rather than just make a value 
+judgment (which I will), I will also tie the value per share to macro 
+expectations about the overall market. 
+qI will argue that a bet on Zomato is as much a bet on the 
+company’s business model, as it is a bet on Indian consumers 
+not only acquiring more buying power and digital access, but 
+also changing their eating behavior .
+3
+Setting the Stage: Zomato’s history
+¨Zomato was founded in 2008 by DeepinderGoel and 
+Pankaj Chaddah, as Foodiebay, in response to the 
+difficulties that they noticed the difficulties that their 
+office mates were having in downloading menus for 
+restaurants, that they wanted to order food from. 
+¨Their initial response was a simple one, where they 
+uploaded soft copies of menus of local restaurants, in 
+Delhi, on to their website, initially for people in their 
+office, and then to everyone in the city. 
+¨As the popularity grew, they expanded to other large 
+Indian cities, and in 2010, they renamed the company 
+"Zomato", with the tagline of "never have a bad meal".
+4
+And Business Model
+¨ Transaction Fees: The bulk of Zomato's revenues come from the transactions on 
+its platform, from food ordering and delivery, as the company keeps a percentage 
+of the total order value for itself. While Zomato's revenue slice varies across 
+restaurants, decreasing with restaurant profile and reach, it remains about 20-
+25% of gross order value. 
+¨ Advertising: Restaurants that list on Zomato have to pay a fixed fee to get listed, 
+but they can also spend more on advertising, based upon customer visits and 
+resetting revenues, to get additional visibility.
+¨ Subscriptions to Zomato Gold (Pro): Zomato also offers a subscription service, and 
+subscribers to Zomato Gold (now Zomato Pro) get discounts on food and faster 
+deliveries. The service was initiated in 2017 and it had 1.5 million plus members in 
+2021, delivering subscription revenues of 600 million rupees (a little less than $ 10 
+million, and less than 5% of overall revenues) in 2021.
+¨ Restaurant Raw Material: In 2018, Zomato introduced HyperPure, a service 
+directed at restaurants, offering groceries and meats that are source-checked for 
+quality.
+5
+Cash Burn? VC Investors
+6
+Acquisition-driven Growth
+7
+Zomato’s Shareholder Base (Pre-IPO)
+8
+The Food Delivery Market
+9
+Difference Drivers
+¨Lower per-capita income: Eating out and prosperity don't always go hand 
+in hand, but you are more likely to eat out, as your discretionary income 
+rises. Thus, it should come as no surprise that the number of restaurants 
+increases with per capita GDP , and that one reason for the paucity of 
+restaurants(and food delivery) in India is its low GDP , less than a fifth of 
+per capital GDP in China and a fraction of per capital GDP in the US & EU.
+¨Less digital reach: To use online restaurant services, you first need to be 
+online, and digital reach in India, in spite of advances in recent years, lags 
+digital reach in China, and is about half the reach in the US and the EU.
+¨Eating habits: Looking across the regions, it seems clear that there is a 
+third factor at play, a pre-disposition to eat out in the populace. Looking 
+at the number of restaurants in China and the size of its food delivery 
+market, it is quite clear that Chinese consumers are far more willing to eat 
+out (either in person at or with delivery from restaurants) than people 
+living in the US and EU, especially if you control for per capita income 
+differences.
+10
+Indian Market Size, adjusted for income 
+and digital reach…
+11
+Zomato: The Prospectus
+¨Definitions and abbreviations: The prospectus starts, and I wonder 
+whether this is by design, with 17 pages of abbreviations of terms, some 
+of which are obvious and need no definition (board of directors, 
+shareholders), some of which are meaningless even when expanded (19 
+classes of preferred shares, all of which will be replaced with common 
+shares after the IP) and some of which are just corporate names.
+¨Risk Profile: If you did not believe my assertions about the pointlessness 
+of risk sections in IPOs, please do read all 30 pages of Zomato's risk profile 
+(pages 39-68 of the prospectus). The company lists 69 different risks 
+investors may face from investing in the company, and after you have read 
+them all, I dare you to list three on that list that you would remember .
+¨Subsidiary/Holdings Mess: I find it mind boggling that a company that is 
+only thirteen years old has managed to accumulate as many subsidiaries, 
+both in India and overseas, as Zomato has done. Since Zomato owns 100% 
+of most of these subsidiaries, there may be legal or tax reasons for this 
+structure, but there is no denying that it adds complexity (and pages) to 
+the prospectus, with no real information benefits.
+12
+Growth & Profitability Trends
+13
+Quarterly Come back?
+14
+Unit Economics
+15
+Competitive Advantages
+16
+Zomato: Story Pieces
+¨ Total  M arket:, I find it hard to see thetotal market exceeding $40 billion, with US $20-$30 billion, in 
+ten years,being a more likely outcome. (In rupee terms, this will translate into a market that is 
+roughly 1800-2000 billion INR.)
+¨ Market Share: Expecting any company to have amarket share that exceeds 40%of this market is a 
+reach, and I will assume that Zomato will be one of the winners/survivors
+¨ Revenue Share: That number was 23.13% in FY 2020, but dropped to 21.03% in FY 2021, as shut 
+downs put a crimp on business. I will assume apartial bounce back to 22% of GOV, starting in 
+2022, but the presence of Amazon Food will prevent a return to higher values in the future.
+¨ Profitability: I will assume thatpre-tax operating margins will trend towards 30%, largely because I 
+believe that the market will be dominated by a few big players, but with the very real possibility 
+that one rogue player that is unwilling to play the game can upend profitability. 
+¨ Reinvestment: One of the advantages of being an intermediary business is that you can grow with 
+relatively little capital investment, defined in conventional form (as plant, equipment or 
+manufacturing facilities). That said, reinvestment takes a different form for online intermediaries, 
+like Zomato, with investments in technology and in acquisitions, driving future growth. 
+¨ Risk: In terms of operating risk, the company, in spite of its global ambitions, is still primarily an 
+Indian company, dependent on Indian macroeconomic growth to succeed, and my rupee cost of 
+capital will incorporate the country risk.Zomato is a money losing company, but it is no start-up, 
+facing imminent failure. On the plus side, its size and access to capital, as well as its post-IPO 
+augmented cash balance, push down the risk of failure. Overall, I will attach a likelihood of failure 
+of 10%, reflecting this balance.
+19
+Add-ons and Distractions: Platform 
+Optionality
+¨As a company with millions of users on its platform, if 
+Zomato can deliver other products and services to the 
+users oftheplatform, it can augment its earnings and 
+value.
+¤First, not all platforms are created equal, in terms of being 
+adding value, with platforms with more intense users and 
+proprietary data having more value than platforms where users 
+are transitory and there is little exclusive data being collected. 
+¤Second, even if you believe that there is optionality, attach a 
+numerical value to that option is one of the most difficult tasks 
+in investment. While there are option pricing models that can be 
+adapted to do the valuation, getting the inputs for these models, 
+especially before the optionality takes form, is difficult to do.
+20
+A Big Market Premium?
+¨Indian and Chinese companies, especially in young and 
+nascent businesses, have an advantage that they often play 
+to, which is immense local markets. It is not surprising that 
+companies play up this advantage, when marketing 
+themselves to investors, with some analysts attaching 
+premiums to value, just because of market size. 
+¤Double counting: I believe that this is a distraction, because that 
+market size should already by incorporated into the intrinsic value, 
+through growth and margin expectations. In my base case valuation of 
+Zomato, I assume that revenues will increase more than twenty-fold 
+over the next 10 years, because the Indian market is expected to grow 
+so strongly. 
+¤The Big Market Delusion: In fact, the danger to investors, when faced 
+with Indian and Chinese companies, is not that they will under value 
+these companies, but that they will over value them, precisely because 
+the markets are so big.
+21
+A Pricing Story?
+22
+It’s a money loser!
+¨There are good arguments to be made against investing in 
+Zomato at is proposed offering price, but one of the emptiest, 
+and laziest, is that it is losing money. 
+¤I know that for some value investors, trained to believe that anything 
+that trades at more than 10 or 15 times earnings or at well above book 
+value, this argument suffices, but given how badly this argument has 
+served them over the last two decades, they should revisit the 
+argument. 
+¤The biggest reason that Zomato is losing money is because it is a young 
+company that is trying to take advantage of a market with immense 
+growth potential, not because it cannot make money. 
+¨In fact, if Zomato cut back on customer acquisitions and 
+platform investments, my guess is that it could show an 
+accounting profit, but if it did so, it would be worth a fraction 
+of what it is today.
+23
+Conclusion
+¨I believe that the first principles of valuation are the same in all markets, 
+and I hope that I have stayed true to that belief in this post. 
+¤I valued Zomato, using the same process that I used to value Doordash, with the 
+country-specific effects being incorporated into my growth and risk projections. 
+¤While I did take issue with some of the holes and over reach in Zomato's 
+disclosures, I ran into the same challenges, when I valued Doordash.
+¨I believe that while Zomato is a money-losing, cash burning enterprise 
+now, it has promise and is on track to delivering a viable business model. 
+It will face plenty of challenges on that path, both at the micro level 
+(management, competition) and at the macro level (economic and 
+political developments in India). 
+¨I believe that the company is overpriced, given its potential, but I would 
+have no qualms about investing in the stock, if the price drops in the near 
+future, with the full understanding that this is a joint wager on a company, 
+a sector and a country.

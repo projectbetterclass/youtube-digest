@@ -1,0 +1,74 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ERPforCompany.pdf
+
+CUSTOMIZED	ERP	
+February	2016	
+Aswath	Damodaran	
+Aswath Damodaran 1
+2
+The	Core	Principle	
+Aswath Damodaran
+2
+¨  A	company’s	risk	exposure	comes	not	from	where	it	
+is	incorporated	but	from	where	it	does	business.	
+¨  The	equity	risk	premium	that	you	should	use	for	a	
+company	should	reﬂect	its	operaMng	risk	exposure.
+3
+OperaMng	Exposure	Measures	
+Aswath Damodaran
+3
+Measure	 Advantages	 Disadvantages	
+Revenues	 1.  Available	for	most	
+companies.	
+2.  Least	accounMng	
+interference	
+3.  Always	posiMve	
+1.  Does	not	capture	
+exposure	from	
+producMon	and	
+operaMons.	
+2.  May	be	hedged.	
+OperaMng	Income	or	
+EBITDA	
+1.  More	closely	Med	to	
+value.	
+1.  AccounMng	number	
+and	can	reﬂect	other	
+other	factors.	
+2.  Can	be	negaMve.	
+3.  Not	available	for	many	
+companies.	
+ProducMon/OperaMons	 1.  May	reﬂect	risk	
+exposure	beUer.	
+2.  Not	available	for	many	
+companies.	
+1.  Not	available	for	many	
+companies.
+4
+Let’s	start	easy:	A	company	that	breaks	
+revenues	down	by	country	–	Ambev	in	2012	
+Aswath Damodaran
+4
+5
+A	liUle	messier..	Breakdown	by	region	–	
+Coca	Cola	in	2012	
+Aswath Damodaran
+5
+6
+The	Ambiguous	Mess	–	Amazon	in	
+February	2016	
+Aswath Damodaran
+6
+7
+The	boUom	line	
+¨  Work	with	what	you	are	given:	You	have	to	work	
+with	the	data	that	you	have,	not	the	data	that	you	
+wish	you	had.	
+¨  Don’t	be	afraid	to	make	assumpMons:	Make	your	
+best	assumpMons.	Not	making	an	assumpMon	may	
+be	a	bigger	(and	worse)	assumpMon	than	making	
+one.	
+¨  It	is	okay	if	you	are	wrong:	Ge_ng	your	equity	risk	
+premium	to	the	second	decimal	point	is	not	that	
+important	or	consequenMal.	
+Aswath Damodaran
+7

@@ -1,0 +1,25 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session4Atest.pdf
+
+Session 4A: Post Class tests 
+Cash Flow Statements of 3 companies: manufacturing, retail & technology
+1. For	each	of	the	three	companies,	estimate	the	effect	that	changes	in	non-cash	
+working	capital	are	having	(or	taking	away)	on	operating	cash	flows.	What	
+are	the	implications?	
+2. Under	operating	cash	flows,	each	company	is	adding	back	stock-based	
+compensation.	What	is	the	rationale	for	doing	so?	
+a. Stock	based	compensation	is	not	an	expense	
+b. Stock	based	compensation	is	not	an	accounting	expense,	but	it	is	a	
+cash	expense	
+c. Stock	based	compensation	is	an	accounting	expense,	but	it	is	not	a	
+cash	expense	
+d. Stock	based	compensation	is	a	financing	cash	flow,	not	an	operating	
+cash	flow	
+e. None	of	the	above	
+3. For	each	of	the	three	companies,	estimate	how	much	of	the	investing	cash	
+flow	represents	investment	in	operating	assets	and	how	much	in	non-
+operating	assets.	Why	do	we	care?	
+4. For	each	of	the	three	companies,	estimate	how	much	total	debt	changed	
+during	the	course	of	the	year,	based	upon	the	financing	cash	flows.	
+5. For	each	of	the	three	companies,	estimate	how	much	was	returned	to	
+stockholders	in	dividends	and	how	much	in	net	stock	buybacks.	What	are	the	
+implications?

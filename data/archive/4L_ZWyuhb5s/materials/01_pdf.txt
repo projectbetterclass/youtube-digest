@@ -1,0 +1,185 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ValueInvesting2.pdf
+
+VALUE INVESTING II: TIME FOR 
+AN UPDATE
+The Lead In
+2
+Value Investing glory days… 
+¨ While the story told about value investing is one of 
+uninterrupted success, even in its glory days, value 
+investing had bad years, where growth investing 
+beat value investing.
+¨ Furthermore, even over this period where value 
+investing looks like it beat growth investing, it is not 
+clear that “active” value investing has added much 
+value to the process.
+3
+Value vs Growth, by year
+4
+Reading the year-by-year graph…
+¨ While it is true that low price to book stocks earned higher annual 
+returns than high price to book stocks, note that there is significant 
+variation over time, and that the high price to book stocks 
+delivered higher returns in 44 of the 93 years of data. 
+¨ In particular, looking back at the data on value versus growth and 
+correlating with other variables, there are two fundamentals that 
+seem to be correlated with whether value or growth investing 
+emerges the winner .
+¤ The first is earnings growth, with growth investing beating value investing 
+when earnings growth rates are low, perhaps because growth becomes a 
+scarcer and a bigger driver of value.
+¤ The other is the slope of the yield curve, i.e., the difference between short 
+term and long term rates, with flatter and downward sloping yield curves 
+associates with growth outperforming and upward sloping yield curves 
+with value outperforming.
+5
+And active value investing does not seem to 
+have a payoff
+¨ Investing in low PE or low PBV stocks would not be 
+considered true value investing, by most of its adherents. In 
+fact, most value investors would argue that the while you 
+may start with these stocks, the real payoff to value investing 
+comes in from the additional analysis that they do, whether it 
+be in bringing in other quantitative screens (following up on 
+Ben Graham) and qualitative ones (good management, 
+moats). 
+¨ If we call this active value investing, the true test of value 
+investing then becomes whether following value investing 
+precepts and practices and picking stocks generates returns 
+that exceed the returns on a value index fund, created by 
+investing in low price to book or low PE stocks, in proportion 
+to their market value
+6
+Payoff to value screens…
+¨ Henry Oppenheimer examined the returns on stocks, picked using 
+the Graham screens, between 1970 and 1983, and found that they 
+delivered average annual returns of 29.4% a year, as opposed to 
+11.5% of the index. There are other studies that do come to the 
+same conclusion, looking at screening over the period, but they all 
+suffer from two fundamental problems. 
+¤ The first is that one of the screens that invariably gets used is low PE and 
+low PBV, and we already know that these stocks delivered significantly 
+higher returns than the rest of the market for much of the last century, 
+and it is unclear from these studies whether all of the additional screens 
+used add much to value investing. 
+¤ The second is that the ultimate test of a philosophy is not in whether its 
+strategies work on paper, but in whether the investors who use those 
+strategies make money on actual portfolios. There is many a slip between 
+the cup and the lip, when it comes to converting paper strategies to 
+practical ones, which is one reason why there are so many ways to make 
+money on paper , but so few people seem to be able to do it.
+7
+Payoff to Contrarian Value looks good…
+8
+Until you look deeper…
+9
+Payoff to Activist Value 
+¨ Of all of the different strands of value investing, the 
+one that seems to offer the most promise is activist 
+investing, since it is a club that only those with 
+substantial resources can join, with the promise of 
+bringing change to companies. 
+¨ The early results looked promising, as activist hedge 
+funds seemed to offer a greater chance of beating 
+the market than other investing approaches.
+10
+The Early Returns..
+11
+And an update…
+12
+Payoff to indexed value..
+¨ Many value investors will blanch at the idea of bringing 
+indexed value investors into this group, but there can be no 
+denying the fact that funds have flowed into tilted index 
+funds, with many of the tilts reflecting historical value factors 
+(low price to book, small cap, low volatility). 
+¨ The sales pitch for these funds is more often that you can not 
+only get a higher return, because of your factor tilts, but 
+also a bigger bang (return) for your risk (standard deviation) 
+rather than a higher return per se (higher ratios of returns to 
+standard deviation). 
+¨ The jury is still out, and my personal view is that titled index 
+funds are an oxymoron, and that these funds should be 
+categorized as minimalist value funds, where you try to 
+minimize your activity, so as to not lower your costs.
+13
+Value Mutual Funds: The test
+¨ No excess returns?While the earliest studies of mutual funds looked at 
+them as a group, and concluded that they collectively under performed 
+the market, later studies have looked at mutual funds, grouped by 
+category (small cap vs large cap, value vs growth) to see if fund managers 
+in any of these groupings performed better than managers in other 
+groupings. None of these studies have found any evidence that value fund 
+managers are more likely to beat their index counterparts than their 
+growth fund counterparts. 
+¨ The Warren Buffett Card: It is telling that value investors, when asked to 
+defend its capacity to add value to investing, almost never reference the 
+research, partly because there is little that they can point to as supportive 
+evidence, but instead fall back on Warren Buffett, as justification. As I 
+noted in my last post, there is no doubt about Buffett's success over the 
+decades, but as the man turned ninety this year, it is worth asking 
+whether the continued use of his name is more a sign of weakness in 
+value investing, rather than strength.
+14
+Value Investing: The Lost Decade
+15
+Active Value Investing in the lost decade
+16
+Even the legends of value investing lagged…
+17
+The COVID shock: A Chance for Value Investing?
+¨ For much of the decade, value investors argued that 
+their underperformance was a passing phase, driven by 
+the success of growth and momentum and aided and 
+abetted by the Fed, and that it value investing would 
+come back with a vengeance in a crisis. 
+¨ The viral shock delivered by the Corona Virus early this 
+year seemed to offer an opportunity for value investing, 
+with its emphasis on safety and earnings, to shine. 
+¨ In the first few weeks, there were some in the value 
+investing camp who argued that following old time value 
+investing precepts and investing in stocks with low PE 
+and Price to book ratios and high dividends would help 
+buffer investors from downside risk.
+18
+COVID and PE/PBV
+19
+COVID and Dividends
+20
+Explanations: From most benign to most 
+consequential
+¨ This is a passing phase!
+¤ Diagnosis: Even in its glory days, during the last century, there were extended periods (like the 1990s) when low PE 
+and low PBV stocks underperformed, relative to high PE and high PBV stocks. 
+¤ Prescription: Be patient. With time, value investing will deliver superior returns.
+¨ The Fed did it!
+¤ Diagnosis: With quantitative easing, the Fed and other central banks have contributed not only to keeping interest rates lower (than they
+should be, given fundamentals) but also provided protection for risk taking at the expense of conservative investing.
+¤ Prescription: Central banks cannot keep interest rates low in perpetuity, and even they do not have the resource to bail out risk takers 
+forever. Eventually, the process will blow up, causing currencies to lose value, government budgets to implode and inflation and interest rates 
+to rise. When that happens, value investors will find themselves less hurt than other investors.
+¨ The Investment World has become flatter!
+¤ Diagnosis:  As data has become easier to get, accounting more standardized and analytical tools more accessible, there is very little 
+competitive advantage to computing ratios (PE, PBV, debt ratio etc.) from financial statements and running screens to find cheap stocks.
+¤ Prescription: Value investors have to become creative in finding new screens that are either qualitative or go beyond the financial statements 
+or in finding new ways of processing publicly accessible data to find undervalued stocks.
+¨ The global economy has changed!
+¤ Diagnosis: At the risk of sounding cliched, the shift in economic power to more globalized companies, built on technology and 
+immense user platforms, has made many old-time value investing rostrums useless. 
+¤ Prescription: Value investing has to adapt to the new economy, with less of a balance sheet focus and existing asset basis and 
+more of a earnings/cash flow and growth basis.
+21
+Summing up..
+¨ As the years of under performance have stretched on, there 
+are fewer value investors who believe that this is a passing 
+phase and that all is needed is patience. 
+¨ There are many value investors who still blame the Fed (and 
+other central banks) for their underperformance, and while I 
+agree with them that central banks have sometimes over 
+reached and skewed markets, I also think that this belief has 
+become a convenient excuse for not looking at the very real 
+problems at the heart of value investing. 
+¨ However, and especially after the COVID experience, there 
+are at least some value investors who are willing to consider 
+the possibility that it is time to change the way we practice 
+value investing.

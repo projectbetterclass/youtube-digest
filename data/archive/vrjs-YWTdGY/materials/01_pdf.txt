@@ -1,0 +1,127 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate9for2018.pdf
+
+DIVIDENDS, BUYBACKS & CASH: 
+JANUARY 2018 DATA UPDATE 9
+Aswath Damodaran
+2
+Of Harvests and Dividends
+¨ If success for a farmer is measured by his or her harvest, success in 
+a business, from an investors' standpoint, should be measured by 
+its capacity to return cash flows for its owners. 
+¨ It is surprising that when companies pay dividends, or worse still, 
+buy back stock, there are so many who seem to view them as 
+failures. Perhaps, that flows from the misguided view that 
+reinvesting cash is good, not just for the company but also for the 
+economy, because it creates growth and returning cash is bad, 
+because it is somehow wasted, both flawed arguments. 
+¨ A company that reinvests cash in a bad business is destroying 
+value, and cash that is returned is not lost to the economy, but 
+much of it is reinvested back into other businesses that often have 
+much better investment opportunities.
+3
+Dividends in the Big Picture
+4
+Dividends in a friction-free world
+5
+Real World Frictions
+¨ Capital markets are not always open and accessible: 
+Raising capital can be a costly exercise, investors may 
+under price your debt and equity, and the process can 
+take time. It should come as no surprise then that if a 
+company pays too much in dividends in this setting, it 
+will find itself rejecting good investments.
+¨ Banks may be the only lending option: To the extent that 
+banks face their own constraints on lending, companies 
+may be unable to borrow at what they perceive to be fair 
+rates
+¨ Dividends are sticky: Companies, once committed to 
+paying dividends, are unwilling to either cut or stop 
+paying dividends, for fear of market punishment..
+6
+Dysfunctional Dividends
+7
+Potential Dividends
+Aswath Damodaran
+7
+8
+Potential Dividends across the life cycle
+9
+Compressed Life Cycles
+10
+Implications
+¨ Once mature, companies will return more cash over shorter periods : 
+Once firms hit the "growth wall", they will find investment opportunities 
+shrinking much faster, thus allowing for more cash to be returned over 
+shorter time periods.
+¨ Those cash returns will be more likely to be in buybacks or special 
+dividends, not regular dividends : The sweet spot for conventional 
+dividends is the mature phase, where companies get to enjoy their 
+dominance and rest on their competitive advantages, with large and 
+predictable earnings. With the life cycle shortening and becoming more 
+intense, this sweet spot period has become much briefer . 
+¨ Companies that fight aging will see bigger cash build ups : Many tech 
+companies fight the turn in their life cycles, deluding themselves into 
+believing that a rebirth is around the corner and not returning cash., even 
+as free cash flows to equity turn positive. At these companies, cash 
+balances quickly balloon, attracting activist investors.
+11
+Dividend Payout Ratios: A Global Picture
+12
+Dividend Yields: A Global Picture
+13
+The Buyback Surge
+Sub Group Number of firms Dividends 
+Dividends + 
+Buybacks 
+Buybacks as % of Cash 
+Returns
+Africa and Middle East 2,277 $65,766.80 $70,530.11 6.75%
+Australia & NZ 1,777 $50,194.09 $56,033.52 10.42%
+Canada 2,850 $49,543.66 $80,469.91 38.43%
+China 5,552 $317,677.92 $342,281.66 7.19%
+EU & Environs 5,399 $320,026.87 $514,278.51 37.77%
+Eastern Europe & 
+Russia 558 $21,760.61 $23,521.60 7.49%
+India 3,511 $20,701.33 $27,120.50 23.67%
+Japan 3,755 $101,760.38 $134,086.97 24.11%
+Latin America & 
+Caribbean 880 $40,394.86 $47,906.91 15.68%
+Small Asia 8,630 $128,066.23 $148,607.32 13.82%
+UK 1,412 $101,604.99 $128,161.29 20.72%
+United States 7,247 $486,008.53 $1,049,487.18 53.69%
+14
+A Buyback Heat Map
+15
+Sector Differences
+16
+Cash Balances
+Sub Group Cash Balance Cash/Firm Value Cash/ Market Cap
+Africa and Middle East $         490,475 16.13% 24.43%
+Australia & NZ $         175,578 6.43% 11.37%
+Canada $         183,204 4.66% 8.10%
+China $      2,724,851 12.84% 21.16%
+EU & Environs $      2,935,769 11.85% 22.43%
+Eastern Europe & Russia $         112,480 15.08% 24.34%
+India $           99,190 3.31% 4.18%
+Japan $      4,185,572 34.47% 67.73%
+Latin America & Caribbean $         239,664 7.84% 13.06%
+Small Asia $         841,230 9.91% 15.19%
+UK $      1,087,286 15.80% 29.48%
+United States $      2,206,548 4.73% 7.52%
+17
+In conclusion
+¨ Nostalgia rules: With dividends, companies and investors seem to be 
+stuck in the past, where long corporate life cycles and stable earnings 
+allowed companies to pay large and sustained dividends. 
+¨ Change is here: Facing shorter life cycles, global competition and more 
+unpredictable earnings, it should come as no surprise that companies are 
+looking for more flexible ways of returning cash, than paying dividends. 
+¨ Counter the naysayers: As companies take advantage of the new tax law 
+and bring back trapped cash, some will undoubtedly use the cash to buy 
+back stock, and be loudly declaimed by the usual suspects, for not putting 
+the cash to productive uses. I would offer two counters, the first being my 
+post on excess returns and the fact that more than 60% of global 
+companies destroy value as they try to reinvest and growth, and the 
+second being this one, where I argue that it is better for economies for 
+aging companies to give cash back to stock holders, to invest in better 
+businesses.

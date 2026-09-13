@@ -1,0 +1,138 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/LyftSept2015.pdf
+
+LYFT	OFF?	THE	“OTHER”	RIDE	
+SHARING	COMPANY	
+The	“other”	ride	sharing	company!
+2
+LyF:	The	other	ride	sharing	company
+3
+NarraHve	Eﬀect
+Growth'Effect CAGR'(next'10'years)
+B1.$None 3.00%
+B2.$Increase$market$by$25% 5.32%
+B3.$Increase$market$size$by$50% 7.26%
+B4:$Double$market$size 10.39%
+Expense'Profile Operating'Margin
+E1:$Independent$contractor 40%
+E2:$Partial$employee 25%
+E3:$Full$employee 15%
+Competitive)Advantages Slice)of)Gross)Receipts
+D1.$None 5%
+D2.$Weak 10%
+D3.$Semi4strong 15%
+D4.$Strong$&$Sustainable 20%
+Increases overall market to $148 billion in year 10
+Risk Estimates
+G1. Cost of capital at 90th percentile of US companies = 12%
+G2.  Probability of failure in next 10 years= 10%
+Lyft Valuation: September 2015
+Capital Intensity
+F: Status Quo: Sales/Capital = 5.00
+Network(Effects Market(Share
+C1.$No$network$effects 5%
+C2.$Weak$local$network$effects 10%
+C3.$Strong$local$network$effects 15%
+C4.$Weak$national$network$effects 25%
+C5.$Strong$national$network$effects 40%
+Base 1 2 3 4 5 6 7 8 9 10
+Overall'market $55,000 $60,715 $67,023 $73,986 $81,674 $90,159 $99,527 $109,868 $121,283 $133,884 $147,795
+Share'of'market'(gross) 2.18% 4.46% 6.75% 9.03% 11.31% 13.59% 15.87% 18.15% 20.44% 22.72% 25.00%
+Revenues'as'percent'of'gross 25.00% 24.00% 23.00% 22.00% 21.00% 20.00% 19.00% 18.00% 17.00% 16.00% 15.00%
+Annual'Revenue $300 $650 $1,040 $1,469 $1,940 $2,451 $3,002 $3,590 $4,214 $4,867 $5,542
+Operating'margin H66.67% H57.50% H48.33% H39.17% H30.00% H20.83% H11.67% H2.50% 6.67% 15.83% 25.00%
+Operating'Income H$200 H$374 H$503 H$576 H$582 H$511 H$350 H$90 $281 $771 $1,386
+Effective'tax'rate 30.00% 31.00% 32.00% 33.00% 34.00% 35.00% 36.00% 37.00% 38.00% 39.00% 40.00%
+'H'Taxes H$60 H$116 H$161 H$190 H$198 H$179 H$126 H$33 $107 $301 $554
+AfterHtax'operating'income H$140 H$258 H$342 H$386 H$384 H$332 H$224 H$57 $174 $470 $831
+Sales/Capital'Ratio 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00
+'H'Reinvestment $70 $78 $86 $94 $102 $110 $118 $125 $131 $135
+Free'Cash'Flow'to'the'Firm H$328 H$420 H$471 H$478 H$434 H$334 H$174 $49 $339 $696
+Terminal'value $13,453
+Present'value'of'FCFF H$293 H$335 H$336 H$304 H$246 H$171 H$81 $21 $132 $250
+Present'value'of'terminal'value $4,828
+Cost'of'capital 12.00% 12.00% 12.00% 12.00% 12.00% 12.00% 11.20% 10.40% 9.60% 8.80% 8.00%
+Cumulated'cost'of'capital'= 1.1200 1.2544 1.4049 1.5735 1.7623 1.9597 2.1635 2.3712 2.5799 2.7863
+Imputed'Return'on'capital
+PV'of'cash'flows'during'next'10'years'= H$1,362
+PV'of'terminal'value'= $4,828
+Value'of'operating'assets $3,466
+Probability'of'failure 10%
+Adjusted'value'of'operating'assets $3,120
+Potential)Market Market)size)(in)millions)
+A1.$Urban$car$service$(US) $40,000
+A2.$All$car$service$(US) $55,000
+A3.$Logistics$(US) $100,000
+A4.$Mobility$Services$(US) $125,000
+5
+Ride	Sharing	Companies:	The	Pricing	Game
+6
+The	Drivers	of	Price	
+Company	
+Es+mated	
+Value	
+(Price)	
+Gross	Billing	
+in	$	millions	
+(2015)	
+Revenu
+es	
+(2015)	
+Opera+ng	
+Proﬁt	or	
+Loss	
+(2014)	
+Ci+es	served	
+(2015)	 #	rides	
+Poten+al	
+Market	
+(in	$	
+millions)	 #	Drivers	
+LyF	 $2,500	 $1,200	 $300	 -$100		 65	 156	 $55,000	 100000	
+Uber	 $51,000	 $10,840	 $2,000	 -$470		 300	 1460	 $205,000	 800000	
+Didi	Kuaidi	 $15,000	 $12,000	 NA	 -$1,400	 137	 2190	 $50,000	 2600000	
+Ola	 $2,500	 $1,200	 $150	 	NA		 85	 100	 $13,000	 250000	
+GrabTaxi	 $1,500	 $1,000	 $50	 	NA		 26	 300	 $6,000	 75000	
+BlaBlaCar	 $1,600	 $600	 $72	 	NA		 100	 NA	 $20,000	 NA
+7
+Pricing	MulHples	
+Company	 Value/Gross	Billing	 Value/Revenues	 Value/City	 	Value/Ride		Value/Poten+al	Market	
+LyF	 2.08	 8.33	 $38.46	 $16.03	 0.0455	
+Uber	 4.70	 25.50	 $170.00	 $34.93	 0.2488	
+Didi	Kuaidi	 1.25	 NA	 $109.49	 $6.85	 0.3000	
+Ola	 2.08	 16.67	 $29.41	 $25.00	 0.1923	
+GrabTaxi	 1.50	 30.00	 $57.69	 $5.00	 0.2500	
+BlaBlaCar	 2.67	 22.22	 $16.00	 NA	 0.0800	
+Average	 2.38	 20.54	 70.18	 $17.56	 0.1861	
+Median	 2.08	 22.22	 48.08	 $16.03	 0.2205	
+Aggregate	 2.76	 22.98	 103.93	 $17.24	 0.2123
+8
+Uber	vs	LyF:	Big	versus	Small	NarraHves	
+¨  Uber	and	LyF	provide	contrasHng	narraHves.	Uber	is	a	
+“big	narraHve”	company,	pushing	into	mulHple	markets	
+and	geographies,	framing	itself	as	a	company	that	can	
+conquer	the	world.	LyF	is	oﬀering	a	“small	narraHve”,	
+just	car	service	and	just	in	the	U.S.	
+¨  On	the	pricing	and	valuaHon	front,	the	big	narraHve	will	
+win,	for	the	moment,	since	these	companies	are	being	
+priced	on	potenHal.	
+¨  The	downside	of	a	big	narraHve	is	that	it	leads	to	
+¤  Less	focus	
+¤  Higher	costs	
+¤  More	potenHal	for	disappointment
+9
+The	beeer	investment	
+¨  There	is	nothing	inherently	good	or	bad	in	big	or	small	
+narraHves.	Both	can	be	valued,	though	the	narraHve	
+diﬀerences	and	value	disagreements	are	likely	to	be	
+larger	with	big	narraHve	companies.	
+¨  It	boils	down	to	price.	At	the	right	price,	you	should	be	
+willing	to	buy	either	narraHve	and	the	at	the	wrong	
+price,	you	should	buy	neither.	
+¨  At	the	most	recent	pricing	($2.5	billion	for	LyF	and	$51	
+billion	for	Uber),	LyF	seems	to	be	the	beeer	investment,	
+since	
+¤  It	is	lower	than	my	esHmated	value	of	$3.1	billion	
+¤  It	is	“cheaper”	on	every	pricing	metric	than	not	just	Uber,	but	
+any	ride	sharing	company.
+10
+The	Race	goes	on!

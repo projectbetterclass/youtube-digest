@@ -1,0 +1,88 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DiscountRateMyth1.pdf
+
+Discount	Rate	Myth	1:	If	you	
+don’t	like	betas,	you	cannot	do	a	
+DCF
+Don’t throw the baby out with the bathwater…
+2
+Discount	Rates	in	a	DCF
+At	its	core,	DCF	value	is	captured	in	one	equation:
+Put	differently,	it	ties	the	value	of	an	asset	to	expected	
+cash	flows,	the	growth	in	these	cashflows	and	the	
+risk	(in	the	discount	rate)
+3
+Discount	Rate:	Cost	of	equity	vs	capital
+4
+The	Building	Blocks	for	the	MPT	view	of	
+discount	rates
+1. Marginal	investor	focus:	The	risk	in	an	investment	
+should	be	measured	from	the	perspective	of	the	
+marginal	investor,	i.e.,	the	investor	who	at	the	margin	
+prices	the	stock	(not	your	eyes	or	mine).	The	risk	in	a	
+stock	can	be	very	different	for	one	who	owns	just	that	
+stock	versus	one	who	is	diversified.
+2. A	menu	of	investment	choices:	The	marginal	investor	
+can	not	only	decide	what	stocks	to	invest	in	but	has	to	
+choose	between	risky	and	risk	free	investments.
+3. A	trust	in	markets:	Markets,	in	general,	do	a	good	job	
+of	assessing	value.	Variations	in	prices	therefore	reflect	
+variations	in	value.
+5
+Risk	and	Return	Models:	Modern	Portfolio	
+Theory
+Model Assumptions Risk Measure
+The CAPM (1) There	are	no	transactions	costs	&	
+(2)		There	is	no	private	information.
+The	marginal	investors	will	be	fully	
+diversified	and	hold	a	portfolio	of	every	
+traded	asset	in	the	market.	The	risk	of	an	
+individual	asset	will	be	captured	by	the	
+risk	added	to	this	market	portfolio,	and	
+measured	with	a	single	beta,	measured	
+against	the	market.
+The APM The	market	prices	of	stocks	are	the	best	
+indicators	of	market	and	firm-specific	
+risks,	with	market	risks	affecting	all	or	
+many	stocks	and	firm-specific	risks	not.
+Historical	stock	returns	can	be	analyzed	
+to	identify	the	number	of	market	risk	
+factors	and	the	exposure	of	each	stock	to	
+that	market	risk.	Since	this	is	a	statistical	
+model,	the	factors	will	be	unnamed.	The	
+risk	in	a	stock	will	be	captured	with	
+betas,	measured	against	these	unnamed	
+factors.
+The Multifactor Model Market	risk	factors	have	to	be	
+macroeconomic,	to	affect	many	stocks	at	
+the	same	time.	Looking	at	how	a	stock	
+behaves,	relative	to	different	
+macroeconomic	variables,	should	yield	
+clues	to	its	market	risk	exposure.
+The	risk	in	a	stock	will	be	captured	with	
+betas,	measured	against	specified	
+macroeconomic	factors.
+6
+You	may	not	like	the	use	of	beta	and	
+betas..	And	here	are	the	two	big	reasons
+¨ The	focus	on	the	diversified	marginal	investor:	You	
+may	either	not	believe	that	the	marginal	investors	in	
+companies	are	diversified	or	that	investors	tend	to	
+ignore	risk	that	is	firm	specific.
+¨ The	use	of	market	prices	to	get	a	risk	measure	in	an	
+intrinsic	valuation:	After	all,	the	reason	that	you	do	
+intrinsic	valuation	is	because	you	believe	that	
+markets	make	mistakes,	and	if	so,	using	those	
+markets	to	get	your	intrinsic	risk	measures	seems	
+inconsistent.
+7
+Alternative	Risk	and	Return	Modelss
+8
+The	Bottom	Line
+¨ The	DCF	model	is	agnostic	about	what	model	or	
+assumptions	that	you	use	to	arrive	at	a	discount	
+rate.	Hence,	you	can	use	the	CAPM,	accounting	ratio	
+based	risk	models	or	subjective	approaches	to	
+estimate	discount	rates.
+¨ If	you	don’t	like	modern	portfolio	theory,	don’t	use	
+its	models	to	estimate	risk.	Use	an	alternate	model	
+and	move	on.	The	real	work	in	DCF	is	yet	to	come.

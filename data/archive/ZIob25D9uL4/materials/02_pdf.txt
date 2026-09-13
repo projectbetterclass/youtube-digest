@@ -1,0 +1,61 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/eqnotes/tests/biastests.pdf
+
+Aswath Damodaran 1 
+Which side of your brain is stronger?
+Aswath Damodaran 2 
+Valuation bias: In each scenario, is your bias to come up 
+with a high or low value?!
+1. You are valuing your own business for sale to a third person.	
+High  Low	
+Uncertain	
+
+2. You are a venture capitalist valuing this business for an investment. High  Low   Uncertain	
+
+3. You are valuing your own business for divorce court; half of your estimated value will go to 
+your spouse (soon to be ex-spouse). 	
+High 	
+Low 	
+Uncertain	
+
+4. You are an appraiser for the owner, valuing a business for tax purposes. High Low Uncertain	
+
+5. You are an appraiser for the IRS, valuing the business for tax purposes. High Low Uncertain	
+
+6. You are a sell side equity research analyst, valuing a company with the intent of putting a buy or 
+sell recommendation on it. 	
+High 	
+Low 	
+Uncertain	
+
+7. You are an M&A analyst, working for the investment banker for the acquirer in a friendly 
+takeover, valuing the target company. 	
+High 	
+Low 	
+Uncertain	
+
+8. You are an M&A analyst, working for the investment banker for the target in a friendly 
+takeover, valuing the target company. 	
+High 	
+Low 	
+Uncertain	
+
+9. You are an M&A analyst, working for the investment banker for the acquirer in a hostile 
+takeover, valuing the target company. 	
+High 	
+Low 	
+Uncertain	
+
+10. You are an M&A analyst, working for the investment banker for the target in a hostile 
+takeover, valuing the target company. High 	
+Low 	
+Uncertain	
+
+11. You are buy-side analyst, valuing a company for your portfolio manager, who already happens 
+to own a million shares of its stock. High 	
+Low 	
+Uncertain	
+
+12. You are buy-side analyst, valuing a company for your portfolio manager, who already happens 
+to have shorted a million shares of its stock. High	
+Low 	
+Uncertain

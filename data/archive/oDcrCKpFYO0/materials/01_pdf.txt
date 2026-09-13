@@ -1,0 +1,148 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/VWScandal.pdf
+
+SCANDAL	  PRICING:	  STURM	  UND	  
+DRANG	  AT	  VOLKSWAGEN	  
+Sturm	  und	  Drang:	  The	  Cost	  of	  a	  Scandal
+2
+VW	  is	  big,	  really	  big,	  globally..
+3
+Not	  as	  much	  in	  the	  US
+4
+And	  has	  the	  operaJng	  metrics	  to	  back	  it	  
+up..
+5
+The	  Emissions	  Scandal	  
+¨  On	  its	  diesel	  cars,	  Volkswagen	  had	  programmed	  its	  
+computers	  to	  detect	  when	  the	  EPA	  was	  tesJng	  for	  
+emissions	  controls,	  and	  switch	  the	  car	  to	  safe	  mode,	  
+where	  it	  emiMed	  far	  less	  pollutants	  than	  in	  normal	  
+driving	  model.	  
+¨  While	  pressure	  from	  the	  EPA	  ﬁnally	  led	  to	  this	  
+admission,	  narrowly	  focused	  on	  the	  US,	  it	  is	  unclear	  
+whether	  Volkswagen	  has	  been	  doing	  the	  same	  in	  
+Europe.	  
+¨  About	  11	  million	  cars	  can	  potenJally	  be	  aﬀected	  by	  this	  
+decepJon	  and	  it	  opens	  up	  Volkswagen	  to	  not	  just	  bad	  
+PR,	  but	  to	  legal	  consequences.
+6
+The	  potenJal	  costs	  
+1.  Fines/PenalJes:	  The	  EPA	  can	  ﬁne	  VW	  for	  its	  cheaJng,	  
+with	  the	  esJmated	  ﬁnes	  ranging	  up	  to	  $18	  billion	  (16.5	  
+billion	  Euros).	  VW	  has	  already	  set	  aside	  $7.3	  billion	  to	  
+cover	  these	  costs.	  
+2.  Auto	  Recall/Lawsuits:	  VW	  might	  have	  to	  recall	  11	  
+million	  cars	  and	  ﬁx	  the	  emissions	  problem.	  It	  is	  also	  
+now	  open	  to	  lawsuits	  from	  customers	  who	  bought	  the	  
+cars,	  shareholders	  and	  dealers	  in	  both	  the	  US	  and	  
+Europe.	  
+3.  ReputaJon/Brand	  Impact:	  The	  bad	  publicity	  may	  cause	  
+VW	  to	  lose	  sales,	  as	  customers	  decide	  to	  switch	  to	  
+compeJng	  auto	  companies.
+7
+The	  Toyota	  Experience	  
+	  	   Toyota	   Volkswagen	  
+The	  Scandal	   Gas	  pedals	  stuck,	  causing	  acceleration	  
+&	  accidents.	  
+Computer	  software	  fooled	  EPA	  on	  
+emissions	  tests,	  reporting	  emissions	  
+at	  lower	  than	  actual	  level.	  
+Deaths/Fatalities	   37*	  (NHSTA)	   None	  
+Number	  of	  cars	  affected	   9	  million	   11	  million	  
+EPA	  @ines/	  Government	  Penalties	   $1.2	  billion	   VW	  set	  aside	  $7.3	  billion	  
+EPA	  maximum	  Nine	  $18	  billion	  
+Auto	  Recall	  Costs	  &	  Car	  Owner	  
+lawsuits	   $1.1	  billion	   If	  proportional	  to	  number	  of	  cars,	  
+$1.34	  billion.	  
+Shareholder	  lawsuits	   $25.5	  million	   Lawsuits	  being	  considering	  in	  both	  
+US	  and	  Europe.	  
+Effect	  on	  Revenues/Operations	  
+Revenues	  dropped	  from	  $19.1	  billion	  
+in	  2009	  to	  $17.8	  billion	  in	  2010	  and	  
+stayed	  about	  that	  level	  through	  2011	  
+and	  2012,	  before	  rebounding	  to	  $21	  
+billion	  in	  2013.	  
+Not	  known	  yet	  
+Effect	  on	  stock	  price	  
+Market	  Cap	  dropped	  20%	  between	  
+2009	  and	  2012,	  but	  rebounded	  in	  
+2013.	  
+Market	  capitalization	  down	  40%	  in	  
+month	  since	  story	  broke
+8
+The	  Market	  has	  already	  spoken	  up..
+9
+But	  has	  it	  spoken	  soundly?	  
+¨  The	  Goldilocks	  test:	  The	  quesJon	  that	  we	  face	  as	  
+investors	  is	  whether	  the	  market	  reacJon	  has	  been	  
+too	  big	  (over	  reacJon),	  too	  small	  (under	  reacJon)	  or	  
+just	  right.	  
+¨  To	  answer	  this	  quesJon,	  I	  will	  start	  oﬀ	  by	  
+¤  Assuming	  that	  the	  market	  capitalizaJon	  on	  August	  31,	  
+before	  the	  scandal	  came	  to	  light,	  was	  right.	  I	  will	  back	  out	  
+the	  imputed	  operaJng	  income	  for	  VW.	  
+¤  Bring	  in	  the	  costs	  of	  the	  scandal	  into	  the	  valuaJon	  and	  
+revalue	  the	  company	  on	  September	  30,	  2015.	  
+¤  Compare	  this	  value	  to	  the	  price	  on	  September	  30,	  2015.
+11
+The	  Costs	  of	  the	  Scandal:	  A	  ConservaJve	  
+Assessment	  
+1.  Fines/PenalJes:	  I	  will	  assume	  that	  
+¤  The	  EPA	  penalty	  will	  be	  the	  maximum	  ($18	  billion	  or	  16.1	  
+billion	  Euros)	  and	  the	  penalJes	  from	  other	  governments	  will	  
+be	  an	  addiJonal	  10	  billion	  Euros.	  
+¤  Only	  half	  of	  this	  cost	  will	  be	  tax	  deducJble.	  
+2.  Auto	  Recall/Lawsuits:	  VW’s	  auto	  recall	  cost	  will	  be	  1.6	  
+billion	  Euros	  and	  the	  lawsuits/legal	  costs	  will	  amount	  to 	  
+another	  2.4	  billion	  Euros,	  again	  only	  half	  tax	  
+deducJble.	  
+3.  ReputaJon/Brand	  Impact:	  VW	  will	  lose	  20%	  of	  its	  
+operaJng	  income	  (about	  8%	  of	  its	  sales)	  for	  the	  next	  
+ﬁve	  years,	  before	  recovering	  back	  to	  pre-­‐crisis	  trend	  
+lines.
+12
+The	  Post-­‐scandal	  ValuaJon	  of	  VW	  
+	  	   Assump’ons	  
+Value	  of	  Equity	  
+(billions	  of	  Euros)	  
+%	  under	  or	  over	  
+valued	  
+Worst	  Case	  
+Maximum	  EPA	  Penalty	  +	  10	  billon	  in	  Other	  Government	  Fines,	  4	  bilion	  
+Euros	  in	  recall/legal	  costs,	  20%	  loss	  in	  operaJng	  income	  forever,	  Fines	  
+and	  Legal	  costs	  not	  deducJble.	   30.10	  €	   59.47%	  
+Base	  Case	  
+Maximum	  EPA	  Penalty	  +	  10	  billon	  in	  Other	  Government	  Fines,	  4	  billion	  
+Euros	  in	  recall/legal	  costs,	  20%	  loss	  in	  operaJng	  income	  for	  5	  years,	  Fines	  
+and	  Legal	  costs	  only	  50%	  deducJble	   52.20	  €	   -­‐8.05%	  
+Be>er	  Case	  
+Maximum	  EPA	  Penalty	  +	  10	  billon	  in	  Other	  Government	  Fines,	  4	  bilion	  
+Euros	  in	  recall/legal	  costs,	  20%	  loss	  in	  operaJng	  income	  for	  3	  years,	  Fines	  
+and	  Legal	  costs	  100%	  deducJble	   58.50	  €	   -­‐17.95%	  
+Likely	  Case	  
+Half	  of	  maximum	  EPA	  Penalty	  +	  5	  billon	  in	  Other	  Government	  Fines,	  2	  
+bilion	  Euros	  in	  recall/legal	  costs,	  20%	  loss	  in	  operaJng	  income	  for	  3	  
+years,	  Fines	  and	  Legal	  costs	  100%	  deducJble	   69.10	  €	   -­‐30.54%	  
+Best	  Case	   PenalJes	  proporJonate	  to	  Toyota,	  	  20%	  loss	  in	  operaJng	  income	  for	  3	  
+years,	  Fines	  and	  Legal	  costs	  100%	  deducJble	   73.60	  €	   -­‐34.78%
+13
+The	  VW	  Investment	  
+¨  The	  scandal	  has	  aﬀected	  VW’s	  value,	  but	  the	  market	  
+reacJon	  looks	  over	  wrought.	  	  
+¨  The	  narraJve	  for	  VW	  as	  a	  company	  before	  the	  scandal	  
+was	  that	  it	  was	  a	  not-­‐very-­‐imaginaJve	  company	  in	  a	  bad	  
+business.	  That	  remains	  the	  narraJve.	  
+¨  The	  stock	  looks	  under	  priced	  at	  its	  current	  market	  
+capitalizaJon	  of	  roughly	  48	  billion	  Euros.	  
+¨  The	  preferred	  shares	  have	  been	  pushed	  down	  more	  than 	  
+the	  common	  shares,	  but	  the	  laMer	  give	  you	  a	  chance	  to	  
+play	  the	  control	  game,	  more	  important	  now	  than	  before	  
+the	  scandal.
+14
+The	  End	  Game	  
+¨  I	  bought	  Volkswagen’s	  ordinary	  shares	  because	  I	  
+think	  that	  aler	  the	  smoke	  clears	  and	  another	  
+scandal	  emerges	  that	  draws	  aMenJon	  away,	  the	  
+market	  will	  adjust.	  
+¨  I	  recognize	  that	  the	  next	  few	  months	  (perhaps	  even	  
+years)	  will	  be	  rocky,	  with	  more	  bad	  news	  and	  
+abysmally	  bad	  boMom	  lines	  (proﬁts).

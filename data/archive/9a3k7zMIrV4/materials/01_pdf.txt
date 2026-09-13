@@ -1,0 +1,172 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/TaxReform2017.pdf
+
+TAX	REFORM:	PROMISE	OF	
+PLENTY	OR	POISONED	CHALICE?
+Aswath	Damodaran
+2
+The	Tax	Reform	Wagon	is	back..
+¨ Every	two	or	three	decades,	the	US	political	
+establishment	wakes	up	to	a	truth,	i.e.,	that	the	US	tax	
+code	is	an	abomination,	which	encourages	perverse	
+behaviors.
+¨ Every	tax	reform	package	starts	off	by	aspiring	to	make	
+changes	that	will	make	the	code	simpler	and	fairer .
+¨ Unfortunately,	the	end	result	is	usually	a	more	complex,	
+less	fair	code.	
+¨ In	2017,	as	the	tax	reform	train	rolls	in,	the	question	
+becomes:	Is	this	time	different?
+3
+Value:	The	Big	Picture
+4
+Taxes,	Cash	Flows	and	Growth
+5
+Taxes	and	Discount	Rates
+6
+The	Current	Tax	Code:	Cash	Flows	and	
+Growth	Effects
+7
+The	Current	Tax	Code:	Discount	Rate	
+Effects
+8
+The	Proposed	Changes:	New	Tax	Code?
+¨ Statutory	Tax	Rate: The	statutory	tax	rate	for	corporate	income	
+generated	in	the	United	States	will	become	20%.
+¨ Foreign	Income:	The	US	will	shift	to	a	territorial	tax	model,	
+resulting	in	foreign	income	being	taxed	at	the	foreign	tax	rate,	with	
+no	additional	assessments	for	US	taxes.	There	will	be	a	one-time	
+tax	that	will	be	assessed	on	trapped	foreign	income	and	after	the	
+tax	is	paid,	the	cash	will	be	effectively	untrapped.
+¨ Expensing	&amp;	Capitalizing:	Rather	than	amortize/depreciate	
+capital		expenses,	which	spreads	the	tax	benefits	over	time,	
+companies	will	get	the	tax	deduction	up	front,	which	increases	
+value	(for	a	limited	period)
+¨ Interest	Expense	Deduction:	There	will	be	limits	put	on	how	much	
+interest	expense	will	be	deducted	for	tax	purposes,	and	only	for	
+some	types	of	corporations.
+9
+The	Expected	Effects
+After-tax	Cash	Flows Cost	of	Capital Value	of	Growth
+1.	Lower	
+Statutory	
+tax	rate	on	
+US	income
+Lower	effective	tax	rate,	leading	
+to	higher	after-tax	cash	flows	
+and	returns	on	capital.	Bigger	
+effect	on	firms	that	derive	most	
+or	all	of	their	income	in	US.
+Lower	tax	benefits	from	debt,	
+raising	after-tax	cost	of	debt	&	
+capital,	and	more	so	for	firms	
+with	a	lot	of	debt.
+Depends	on	how	much	return	on	
+capital	changes,	relative	to	cost	of	
+capital.	Firms	with	little	debt	&	high	
+effective	tax	rates	will	see	biggest	
+benefit	and	firms	with	high	debt	&	
+low	effective	tax	rates	will	be	hurt.
+2.	Taxes	on	
+Foreign	
+income
+Lower	effective	tax	rate	&	
+higher	after-tax	cash	flows.	
+Bigger	effect	on	firms	that	
+derived	&	repatriated	
+substantial	foreign	income.
+May	induce	more	borrowing	
+outside	US	in	higher	tax	
+countries.
+One-time	release	of	trapped	cash	
+could	increase	reinvestment,	but	
+value	will	depend	upon	whether	
+investments	generate	excess	returns.
+3.	
+Expensing	
+&	
+Capitalizin
+g
+Reduce	cost	of	investing,	by	
+moving	tax	benefits	up	front	
+rather	than	spread	over	time.
+None.
+Will	increase	value	of	growth	at	firms	
+with	substantial	physical	assets.	Low	
+or	no	effect	at	companies	with	
+intangible	assets.
+4.	Interest	
+Tax	
+Deduction	
+Limits
+None.
+Will	increase	cost	of	capital	at	
+companies	that	test	the	limits.	
+(Too	much	debt	or	debt	in	the	
+wrong	places)
+Will	decrease	value	of	growth	and	
+more	so	at	firms	that	violate	interest	
+deduction	limits.
+10
+The	Winners
+1. Pay	high	effective	tax	rates,	either	because	they	derive	
+most	or	all	of	their	income	in	the	US	or	because	they	
+repatriate	foreign	income
+2. Have	low	or	no	debt	in	their	capital	structure,	thus	
+immunizing	themselves	from	the	loss	of	tax	benefits	of	
+debt.
+3. Earn	healthy	returns	on	capital,	which	will	allow	them	
+to	reinvest	their	higher	earnings	back	to	generate	
+value.
+4. Have	more	physical	assets	than	intangible	assets,	
+enabling	them	to	get	a	bigger	boost	from	the	
+immediate	expensing	of	capital	expenditures.
+11
+The	Losers
+¨ The	biggest	losers	will	be	companies	that	pay	low	
+effective	tax	rates	currently,	have	substantial	debt	in	
+their	capital	structure	and	low	returns	on	capital.	
+¨ Though	some	of	them	may	gain	from	the	one-time	
+release	of	trapped	cash,	that	cash	will	most	likely	be	
+returned	to	shareholders	in	the	form	of	dividends	
+and	buybacks	and	there	will	be	little	benefit	from	
+new	investments.
+12
+The	Good	News	in	this	tax	reform
+¨ Realism	on	foreign	income:	By	lowering	the	US	statutory	
+tax	rate	on	corporate	income	towards	that	of	most	other	
+industrialized	countries	and	shifting	from	a	global	to	a	
+territorial	tax	system,	the	reform	package	moves	the	US	
+towards	a	healthier	system,	where	companies	will	spend	
+less	time	on	transfer	pricing	and	managing	trapped	cash	
+and	more	on	core	businesses.	
+¨ Debt	tilt	reduced:	The	changes	that	are	designed	to	
+reduce	the	tax	tilt	towards	debt	are	sensible	and	will	
+hopefully	shift	the	focus	of	corporate	restructuring	from	
+recapitalization	(where	the	bulk	of	the	value	comes	from	
+increasing	debt)	to	real	operating	changes.
+13
+The	Bad	News:	Part	1
+¨ I	understand	the	motives	behind	the	immediate	
+expensing	of	capital	expenditures,	for	tax	purposes,	
+but	it	will	make	the	gap	between	reporting	books	
+and	tax	books	into	a	chasm.	
+¨ Companies	will	eagerly	expense	their	capital	
+investments,	in	their	tax	books,	report	low	income	
+and	pay	low	taxes,	but	will	keep	to	GAAP	rules	in	
+their	reporting	books,	with	the	only	clue	to	the	
+divergence	being	very	low	effective	tax	rates.
+14
+The	Bad	News:	Part	2
+Aswath Damodaran
+14
+15
+Conclusion
+Aswath Damodaran
+15
+¨ I	think	that	we	are	vastly	over	due	for	tax	reform	in	
+the	US	and	the	changes	that	this	reform	package	
+make	to	foreign	income	taxation	and	the	treatment	
+of	debt	are	good.
+¨ The	divergence	in	tax	rates	and	the	expensing	of	
+capital	expenses	though	will	create	more	game	
+playing	and	make	tax	lawyers	happy	(and	the	rest	of	
+us	will	pay	the	price	for	that	happiness).

@@ -1,0 +1,53 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/session3Atest.pdf
+
+Session 3A: Post Class Test 
+1. The table below has eleven years of annual returns on the S&P 500 and the 10-year US 
+treasury bond from 2010 to 2020.  
+ S&P 500 
+10-year 
+T.Bond 
+2010 14.82% 8.46% 
+2011 2.10% 16.04% 
+2012 15.89% 2.97% 
+2013 32.15% -9.10% 
+2014 13.52% 10.75% 
+2015 1.38% 1.28% 
+2016 11.77% 0.69% 
+2017 21.61% 2.80% 
+2018 -4.23% -0.02% 
+2019 31.21% 9.64% 
+2020 18.01% 11.33% 
+a. Without using the Excel functions for average and standard deviation, compute the 
+average and standard deviation in S&P 500 returns 
+b. Without using the Excel functions for average and standard deviation, compute the 
+average and standard deviation in T.Bonf returns.  
+c. Estimate the median returns on the S&P 500 and the 10-year T.Bond in this period. 
+d. Check your answers using the Excel functions for average (AVERAGE), standard 
+deviation (STDEV) and median (MEDIAN). 
+2. The link below contains data on operating profit margins for all software companies in 2020.  
+https://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/SoftwareMargins2020.
+xlsx 
+Using Excel or your favorite statistics package, estimate 
+a. The average and median margin in the software business 
+b. The range, standard deviation, and standard error 
+c. The skewness and kurtosis 
+d. What do these metrics tell you about the data? 
+3. The link below contains data on dividend yields for all US power utilities in 2020.  
+https://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/UtilityDivYld2020.xlsx 
+Using Excel or your favorite statistics package, estimate 
+a. The average and median margin in the business 
+b. The range, standard deviation, and standard error 
+c. The skewness and kurtosis 
+d. What do these metrics tell you about the data? 
+4. The link below contains data on the US consumer price index, each year from 1960 to 2020.  
+https://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/CPI2020.xlsx 
+Using Excel or your favorite statistics package, estimate 
+a. The average and median margin in the business
+b. The range, interquartile range, standard deviation, and standard error 
+c. The skewness and kurtosis 
+5. The link below contains data on the price to book ratios of US banks in 2020.  
+https://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/USBanks2020.xlsx 
+Using Excel or your favorite statistics package, estimate 
+a. The average and median margin in the business 
+b. The range, standard deviation, and standard error 
+c. The skewness and kurtosis

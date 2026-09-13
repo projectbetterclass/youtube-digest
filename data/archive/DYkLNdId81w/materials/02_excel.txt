@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/cfanalysis/cfspr16.xls
+
+[legacy .xls workbook: cfspr16.xls — see raw file]

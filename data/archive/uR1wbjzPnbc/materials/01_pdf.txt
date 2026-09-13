@@ -1,0 +1,87 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/KeystoneKops.pdf
+
+VALUATION	KEYSTONE	KOPS:	
+LAZARD,	EVERCORE &	TSLA/SCTY
+Bias,	greed	and	ignorance!
+2
+The	Tesla/Solar	City	Deal
+3
+The	Banker’s	Dilemma	in	Friendly	Deals
+4
+The	Special	Challenge	in	the	TSLA/SCTY	
+Deal
+¨ Where	is	the	synergy?
+¤ Though	Musk	claimed	that	the	deal	was	a	no-brainer,	the	logic	
+of	the	deal	and	the	potential	for	synergy	looks	like	a	far	reach.	
+¤ There	may	be	some	cost	advantages,	though	it	seems	to	be	
+primarily	in	Solar	City	(and	does	not	require	a	merger	to	
+accomplish)
+¤ The	revenue	gains	are	even	more	remote.
+¨ Where	is	the	control	value?
+¤ Though	the	companies	are	independent	entities,	they	are	both	
+controlled	by	Elon	Musk.
+¤ The	essence	of	control	is	that	you	think	that	one	of	these	
+companies	is	badly	run	(presumably	Solar	City).
+¤ If	so,	what’s	stopping	Mr .	Musk	from	changing	the	management	
+of	the	company?
+5
+The	Evidence
+6
+The	Misdemeanors
+1. No	internal	checks	for	consistency:	There	is	almost	a	cavalier	
+disregard	for	the	connection	between	growth,	risk	and	
+reinvestment.	Thus,	when	both	banks	use	ranges	of	growth	for	
+their	perpetual	value	estimates,	it	looks	like	neither	adjusts	the	
+cash	flows	as	growth	rates	change.	
+2. Discount	Rates:	I	will	give	both	bankers	the	benefit	of	the	doubt	
+and	attribute	the	differences	in	their	costs	of	capital	to	estimation	
+differences,	rather	than	to	bias.	The	bigger	question,	though,	is	
+why	the	discount	rates	don't	change	as	you	move	through	time	to	
+2021,	where	both	Tesla	and	Solar	City	are	described	as	slower	
+growth,	money	making	companies.
+3. Pricing	and	Valuation:	Both	bankers	move	back	and	forth	
+between	value	and	price	and	often	mix	the	two,	with	Lazard	
+estimating	the	terminal	value	in	its	Tesla	as	ten	times	EBITDA.
+7
+The	Felonies
+1. Outsourcing	of	cash	flows:	It	looks	like	both	bankers	used	cash	
+flow	forecasts	provided	to	them	by	the	management.	In	the	case	
+of	Tesla,	the	expected	cash	flows	for	2016-2020	were	generated	
+by	Goldman	Sachs	Equity	Research (GSER,	See	Page	99	of	
+prospectus)	and	for	Solar	City,	the	cash	flows	for	that	same	
+period	were	provided	by	Solar	City,	conveniently	under	two	
+scenarios,	one	with	a	liquidity	crunch	and	one	without.	
+2. Terminal	Value	Hijinks:	While	there	are	a	multitude	of	estimation	
+issues	that	plague	perpetual	growth	based	terminal	value,	from	
+not	adjusting	the	cost	of	capital	to	reflect	mature	company	status	
+to	not	modifying	the	reinvestment	to	reflect	stable	growth,	there	
+is	one	mistake	that	is	deadly,	and	that	is	assuming	a	growth	rate	
+that	is	higher	than	that	of	the	economy	forever .
+8
+The	Verdict
+¨ Lazard	is	guilty	of	laziness,	plugging	in	discount	rates	into	someone	
+else's	cash	flow	forecasts	and	getting	paid	$2	million	plus	for	that	
+service.
+¨ Evercore’svaluations	are	horror	stories,	with	bad	assumptions	piled	
+on	top	of	impossible	assumptions.	Guilty	of	both	laziness	and	
+incompetence.
+¨ Goldman	is	the	mystery	here.	While	the	bank	is	mentioned	only	in	
+passing,	it	was	Tesla’s	investment	bank	until	earlier	this	year .	While	
+they	will	claim	that	they	have	nothing	to	do	with	this	deal.	Verdict	
+delayed,	pending	answers	to	three	questions:
+a) Did	Goldman	had	any	input	into	the	choice	of	deal	bankers?
+b) Did	Goldman	have	any	role	in	the	estimation	of	Solar	City	cash	flows?
+c) How	did	the	Goldman	Sachs	Equity	Research	forecast	became	the	
+basis	for	the	Tesla	valuations
+9
+The	Sentencing
+¨ Legal	Sanctions:	Not	likely.	The	courts	have	tended	
+to	give	too	much	respect	for	precedence	and	expert	
+witnesses,	even	when	the	precedent	or	expert	
+testimony	fails	common	sense	tests	and	it	is	possible	
+that	these	valuations,	while	abysmal,	will	pass	the	
+legally	defensible	test.
+¨ Loss	of	Business:	For	the	many	companies	that	do	
+bad	deals	and	need	an	investment	banking	sign-off	
+on	that	deal	(in	the	form	of	a	fairness	opinion),	
+ineptitude	in	banking	may	be	a	plus,	not	a	minus.

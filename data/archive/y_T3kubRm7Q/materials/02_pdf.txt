@@ -1,0 +1,49 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session3test.pdf
+
+Session	3:	Post	Class	tests	
+1. To	get	from	earnings	to	cash	flows,	we	add	back	non-cash	accounting	
+expenses.	Which	of	the	following	is	not	a	non-cash	expense?	
+a. Amortization	of	goodwill	
+b. Depreciation	of	plant	and	equipment	
+c. An	accounting	write-off	on	a	past	investment	
+d. A	one-time	charge	to	cover	a	lawsuit	settlement	
+e. An	increase	in	the	provision	for	bad	debts	
+2. To	get	from	earnings	to	cash	flows,	we	add	back	capital	expenses.	Which	of	
+the	following	is	not	a	capital	expense	(for	cash	flow	purposes)	for	a	non-
+financial	service	firm?	
+a. Investment	in	marketable	securities	(treasury	bills	and	commercial	
+paper)	
+b. Investment	in	new	plant	and	equipment	
+c. Cash	acquisition	of	another	company	
+d. Acquisition	of	a	patent	with	intent	to	convert	to	commercial	use	
+e. A	capital	renovation	of	existing	assembly	lines	
+3. To	get	from	earnings	to	cash	flows,	we	subtract	out	changes	in	working	
+capital.	With	each	of	the	following	working	capital	items,	explain	the	effect	on	
+cash	flows	
+a. Increase	in	inventory	
+b. Increase	in	accounts	payable	
+c. Increase	in	accounts	receivable	
+d. Increase	in	taxes	due	
+e. Increase	in	cash	balance	
+4. Under	which	of	the	following	conditions	would	you	expect	cash	flows	to	be	
+higher	than	earnings	for	a	company?	
+a. High	capital	expenditures,	high	depreciation,	increasing	working	
+capital	
+b. Low	capital	expenditures,	high	depreciation,	increasing	working	
+capital	
+c. High	capital	expenditures,	low	depreciation,	increasing	working	
+capital	
+d. Low	capital	expenditures,	high	depreciation,	decreasing	working	
+capital	
+e. Low	capital	expenditures,	low	depreciation,	increasing	working	
+capital	
+5. Given	our	earlier	discussion	of	corporate	life	cycles,	where	in	a	company’s	life	
+cycle	would	you	expect	earnings	to	be	positive	and	growing,	while	cash	flows	
+are	getting	more	negative?	
+a. Young,	money-losing	start-ups	with	high	growth	potential	
+b. Young,	growth	companies,	just	starting	to	turn	profitable	and	with	
+high	growth	potential	
+c. Mature	growth	companies	which	are	profitable	but	are	seeing	growth	
+rates	come	down.
+d. Mature	companies	with	high	earnings	and	low	growth	potential	
+e. Declining	companies

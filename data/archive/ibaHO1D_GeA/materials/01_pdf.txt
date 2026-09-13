@@ -1,0 +1,274 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate3for2018.pdf
+
+TAXING	QUESTIONS:	JANUARY	
+2018	DATA	UPDATE	3
+Aswath	Damodaran
+2
+Change	is	coming
+¨ The	US	tax	code	is	broken	and	needed	change:	The	US	corporate	
+tax	code,	as	it	existed	in	2017,	was	an	abomination,	a	carry	over	
+from	a	prior	century	where	the	US	was	the	center	of	the	global	
+economy	and	companies	would	do	anything	demanded	of	them,	to	
+preserve	their	US	incorporation.	
+¨ This	change	is	imperfect:	While	the	process	was	messy	and	
+partisan,	it	represents	the	most	significant	change	in	corporate	
+taxation	in	the	United	States	in	the	my	lifetime,	and	as	with	all	tax	
+reform,	it	is	a	mix	of	the	good,	the	bad	and	the	ugly,	with	your	
+political	priors	determining	which	one	you	believe	dominates.	
+¨ But	it	was	have	consequences:	No	matter	what	you	think	about	the	
+tax	reform	package,	there	is	the	one	thing	that	is	not	debatable:	it	
+will	impact	equity	value	and	affect	corporate	behavior	in	the	
+coming	year.
+3
+Tax	Code	Change	1:	Corporate	Tax	Rate
+¨ The	federal	corporate	tax	rate	on	the	income	that	
+corporations	generate	ion	the	United	States	has	
+been	lowered	from	35%,	at	the	federal	level,	to	21%.	
+¨ This	is	the	portion	of	the	bill	that	attracted	the	most	
+media	attention,	primarily	because	of	the	magnitude	
+of	the	drop,	bringing	corporate	taxes	in	the	United	
+States	down	to	levels	not	seen	in	the	country	since	
+the	second	world	war.
+¨ These	corporate	tax	rates	move	the	US	closer	to	the	
+rest	of	the	world.	The	median	corporate	tax	rate	
+globally	is	about	25%.
+4
+Tax	Code	Change	2:	Treatment	of	foreign	
+income
+¨ Shift	from	global	tax	to	regional	tax	model:	Until	2017,	US	
+companies	were	required	to	pay	the	US	tax	rate	on	all	of	their	
+global	income,	though	the	differential	tax	on	foreign	income	
+does	not	have	to	be	paid,	until	repatriated	to	the	US.	Starting	
+in	2018,	US	companies	will	have	to	pay	only	the	foreign	taxes	
+due	on	foreign	income	and	will	be	free	to	bring	the	money	
+back,	when	they	want.
+¨ Un-trap	cash:	One	time	tax	on	trapped	cash,	from	foreign	
+income	not	repatriated	back	in	earlier	years:	15.5%	on	liquid	
+assets	and	8%	on	illiquid	assets.
+¨ Restrictions	on	intangible	assets:	Companies	will	be	a	
+minimum	tax	rate	of	13.1%	(rising	to	16.4%	in	2025)	on	
+excess	profits	(over	and	above	a	10%	cost	of	capital)	earned	
+in	foreign	subsidiaries.
+5
+Tax	Code	Change	3:	Restrictions	on	
+Interest	Tax	Deduction	
+¨ Interest	expense	deduction	capped:	For	the	first	
+time,	the	US	tax	code	will	put	a	limit	on	the	
+deductibility	of	interest	expenses,	restricting	it	to	
+30%	of	the	"adjusted	taxable	income"	(with	taxable	
+income	defined	as	EBITDA	through	2022	and	EBIT	
+thereafter).	
+¨ Can	be	carried	forward:	To	provide	a	cushion	for	
+companies	that	may	have	cyclical	income,	the	lost	
+(non-tax	deductible)	interest	expense	deductions	
+can	be	carried	forward	and	used	in	future	years,	with	
+no	expiration	date.
+6
+Tax	Code	Change	4:	Capital	Expensing	
+¨ Capital	Expenditures	will	be	tax	deductible	in	full:	US	
+companies	will	be	allowed	to	deduct	their	
+investments	in	tangible	assets	in	the	year	of	the	
+investment,	for	taxable	income	calculations,	rather	
+than	have	to	depreciate	it	over	time.	
+¨ Provision	will	be	phased	out:	This	provision	will	
+remain	intact	until	2023	and	be	phased	out	by	2027.
+7
+Effect	on	Value:	A	Big	Picture	Perspective
+Aswath Damodaran
+7
+Cash Flows from Existing Assets
+Operating Income after taxes
+(minus) Reinvestment (Cap ex, working capital)
+= Free Cash to the ﬁrm (pre-debt, after-taxes)
+Return on invested capital (on new investments)
+Value of Growth
+X Reinvestment Rate (as percnt of after-tax income)
+= Expected Growth Rate in Operating Income
+Cost of Equity X Equity/ (Debt + Equity)
+Cost of Capital
++ Cost of Debt (1- tax rate)  X Debt/ (Debt + Equity)
+= Cost of Capital
+Tax 
+Restrictions on 
+interest 
+expenses 
+Tax rules on 
+capitalization & 
+expensing and 
+investment 
+credits.
+ Corporate Tax Rate 
+Marginal tax rate
+Effective tax rate
+Tax Credits & taxes 
+on Foriegn Income
+Value and Taxes: A Big Picture Perspective
+8
+The	Tax	Effect	on	After-tax	Earnings
+Aswath Damodaran
+8
+After-tax Operaring Earnings
+After-tax Earnings (pre-tax code change) = 1438.22 (1-.2519) = 1075.93
+After-tax Earnings (post-tax code change) = 1438.22 (1-.20) = 1150.58
+Change = Increase of 6.94%
+In 2017, US non-financial service companies collectively 
+paid out 25.19% of their taxable income as taxes (including 
+state and local taxes)
+With the drop in the federal tax rate and change in the 
+treatment of foreign income, this tax rate is expected to 
+drop to 20%.
+9
+The	Tax	Effect	on	Cost	of	Capital
+Cost of Capital 
+Cost of capital (pre-tax code change) = 7.85% (.765) + 3.91% (1-.38) (.235) = 6.57%
+Cost of capital (post-tax code change =  = 7.85% (.765) + 3.91% (1-.24) (.235) = 6.70%
+Change = Increase of 13 basis points
+In 2017, US non-financial service companies had a debt 
+ratio of 23.5%, a cost of equity of 7.85%, a pre-tax cost of 
+debt of 3.91% and faced a marginal tax rate of about 38%.
+Holding the debt ratio, cost of equity and pre-tax cost of 
+debt fixed and changing the marginal tax rate to 24% raised 
+the cost of capital.
+10
+Tax	Effect	on	Growth
+Expected Growth
+ROIC (pre-tax code change) = 12.76% Reinvestment Rate = 59.27%
+ROIC (post-tax code change =  13.65% Reinvestment Rate = 65.00%
+Expected growth (pre-tax code change) = 12.76% (.5927) = 7.56%
+Expected growth (post-tax code change) = 13.65% (.65) = 8.87%
+Change = Increase of 1.31% (in annualized growth rate)
+In 2017, US non-financial service companies reported an 
+after-tax return on capital 12.76% and reinvested 59.27% 
+of after-tax operating income back into their businesses.
+With the tax code changes, the return on capital will 
+increase in tandem with after-tax earnings (about 7%) and 
+the new capital expensing rules will increase the 
+reinvestment rate to 65%.
+11
+Tax	Effect	on	Value
+Macro Inputs
+US T.Bond rate (1/1/18) = 2.41%
+ERP = 5.08% 
+Marginal Tax Rate
+The drop in the federal corporate tax rate from 
+35% to 21% lowers overall marginal tas rate 
+(with state & local taxes) from 38% to 24%
+Effective tax rate
+Change in corporate tax rate on US income & 
+shift to regional tax model for global taxes  will 
+lower effective tax rate from 25.19% to 20%
+Tax effect on debt
+Lower marginal tax rate increases after tax cost 
+of debt and capital (holding debt ratio ﬁxed).
+Higher ROIC/Reinvestment
+ROIC rises proportionatelhy with drop in 
+effective tax rate. Capital expensing rules lead 
+to marginally more reinvestment. 
+Expected Growth = ROIC * Reinvestment Rate
+Value with old tax code inputs = $24,751 billion
+Value with new tax code inputs = $27,151 billion
+Change in value =  $2,400 billion
+Percentage Change in value = 2400/24,751 = 9.70%
+Tax Reform and Aggregate Value Effects: US Equities
+Pre-tax reform Post-tax reform
+Beta 1.07 1.07
+Pre-tax cost of debt 3.91% 3.91%
+Marginal Tax Rate 38.00% 24.00%
+Debt to Capital Ratio 23.51% 23.51%
+Revenues $12,254.10 $12,254.10
+Operating Income (EBIT) $1,438.22 $1,438.22
+Effective tax rate 25.19% 20.00%
+After-tax return on capital 12.76% 13.65%
+Reinvestment Rate = 59.27% 65.00%
+Length of growth period = 5 5
+Computed Values Pre-tax reform Post-tax reform
+Cost of Equity = 7.85% 7.85%
+After-tax cost of debt = 2.42% 2.97%
+Cost of capital = 6.57% 6.70%
+After-tax return on capital = 12.76% 13.65%
+Reinvestment Rate = 59.27% 65.00%
+Expected growth rate= 7.56% 8.87%
+Value of firm
+PV of FCFF in high growth = $2,253.08 $2,139.72
+Terminal value = $30,926.29 $34,590.66
+Value of firm today = $24,750.46 $27,151.37
+12
+A	Pricing	Caution
+¨ Priced	in	already?	While	the	final	package	contained	some	
+surprises,	the final	version	of	the	bill	preserved	the	key	ingredients	
+that	we	introduced	in	April	2017.	The	strong	returns	posted	by	US	
+stocks	last	year	already	include	some	of	the	value	effects	of	the	tax	
+law.	
+¨ Business	changes	coming:	Note	that	this	does	not	mean	that	the	
+effects	of	the	new	tax	code	have	already	worked	their	way	into	
+prices	since	we	still	do	not	know	how	companies	or	the	US	
+economy	will	respond	to	the	changes.	
+¨ Dynamic? This	analysis	is	static,	insofar	as	it	does	not	allow	for	the	
+changes	in	investing,	financing	and	dividend	behavior	that	we	will	
+see,	as	a	consequence	of	the	tax	change.	For	instance,	firms	may	
+decrease	how	much	they	borrow,	since	the	tax	benefit	to	debt	has	
+decreased,	and	that	will	lower	debt	ratios	and	change	the	cost	of	
+capital	further.
+13
+Redistributive	Effects
+Variable Effect	on	Value Proxy
+Effective	tax	rate
+Companies	that	are	currently	paying	high	effective	
+tax	rates	(>23%)	will	benefit	the	most	from	the	tax	
+reform.	Companies	that	are	paying	low	effective	tax	
+rates	under	existing	law	may	pay	higher	taxes,	if	
+their	tax	deductions	/credit	have	been	removed	or	
+restricted.
+Effective	Tax	Rate
+Reinvestment	in	fixed	
+assets
+Companies	that	invest	large	amounts	in	tangible	
+assets	(that	are	capitalized	under	existing	law)	will	
+benefit	the	most	from	the	capital	expensing	
+provision.	Companies	that	invest	in	R&D	or	
+intangible	assets,	which	are	already	expensed,	will	
+benefit	less.
+Capital	
+Expenditures	as	
+%	of	Sales
+Debt	Ratio
+Companies	that	have	high	debt	ratios	will	see	
+bigger	increases	in	costs	of	capital,	and	value	
+decreases,	as	the	tax	benefits	from	debt	are	
+reduced.	Companies	with	little	or	no	debt	will	see	
+little	change	in	the	cost	of	capital.
+Debt/	(Debt	+	
+Equity),	in	
+market	value	
+terms
+14
+The	Trifectas
+¨ The	Benefit	Trifecta:	Companies	(sectors)	that	are	
+currently	paying	high	effective	tax	rates,	invest	large	
+amounts	in	tangible	(depreciable)	assets	and	have	
+little	or	no	debt	will	benefit	the	most	from	the	tax	
+code	changes
+¨ The	Pain	Trifecta:	Companies	 (sectors)	that	are	
+currently	paying	low	effective	tax	rates,	invest	little	
+or	nothing	in	tangible	(depreciable)	assets	and	have	
+high	debt	will	be	hurt	the	most	by	the	tax	code	
+changes.
+15
+The	Sectors
+16
+The	Unanswered	Questions	
+¨ Taxable	income	and	tax	rates:	 Facing	a	more	benign	domestic	tax	
+environment,	will	companies	to	be	more	expansive	in	their	
+measurement	of	taxable	income?	 How	much	of	this	income	will	
+they	pay	out	in	effective	taxes?
+¨ Capital	Expenditures	in	tangible	asset	sectors:	The	capital	
+expensing	provision	should	make	it	more	investing	in	depreciable	
+assets	more	attractive,	but	will	that	be	sufficient	to	induce	
+companies	to	reinvest	more?	If	so,	how	much?
+¨ The	Untrapping of	Cash:	How	much	of	the	trapped	cash	will	
+companies	bring	back	home,	paying	the	one-time	tax	penalty?	Will	
+they	reinvest	this	cash	or	return	it	(in	the	form	of	dividends	and	
+buybacks)?
+¨ The	Debt	Shift:	Will	highly	levered	businesses	react	to	the	
+reduction	in	tax	benefits	from	debt	by	retiring	debt?	What	effects	
+will	a	system-wide	delevering have	on	bond	default	spreads?

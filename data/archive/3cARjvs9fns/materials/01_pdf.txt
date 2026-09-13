@@ -1,0 +1,121 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ViralUpdate9.pdf
+
+A VIRAL MARKET UPDATE IX: A 
+DIY VALUATION OF THE INDEX
+Heat and Light…
+2
+The Lead In
+¨ Markets are up: In the last few week, markets have settled in, 
+mostly with an upward bias in these last few weeks, and the 
+big question, as US equities climb back towards pre-crisis 
+levels is whether the market has lost its bearings. 
+¨ In the midst of bad news: After all, the news, whether on 
+macroeconomic indicators or company-level earnings, is not 
+just bad, but historically so. 
+¨ And the experts are skittish: market gurus who are pointing 
+to this disconnect as evidence that markets are just wrong 
+and that a major correction is around the corner, but their 
+credibility is undercut by the fact that many in this group have 
+been forecasting this for the last decade.
+3
+Market Action: Equities
+4
+Market Action: Treasuries
+5
+Market Action: Corporate Bonds
+6
+Market Action: Commodity Prices
+7
+Market Action: Gold and Bitcoin
+8
+Equities: By Region
+9
+Equities: Country Heat Map
+10
+Equities: By Sector
+11
+Equities: Worst hit and Best Industries
+Fundamentals…
+Valuing the Market
+13
+Market Worries
+¨ Disconnect from economic news: For some, the skepticism 
+comes from the disconnect with macroeconomic numbers 
+that are abysmal, as unemployment claims climb into the 
+tens of millions and consumer confidence hovers around 
+historic lows. I will spend the first part of this section arguing 
+that this reflects a fundamental misunderstanding of what 
+markets try to do, and a misreading of history. 
+¨ In denial? For others, the question is whether markets are 
+adequately reflecting the potential for long term damage to 
+earnings and cash flows, as well as the cost of defaults, from 
+this crisis. Since that answer to that question lies in the eyes 
+of the beholder, I will provide a framework for converting 
+your fears and hopes into numbers and a value for the 
+market.
+14
+Explaining the disconnect…
+¨ The first is that stocks are driven by earnings, not real 
+growth in the economy or employment, and to the 
+extent that companies can continue to generate income, 
+even in stagnant or declining economies, you may see 
+stock prices rise.
+¨ The second is that the “economy” that stocks are tied to 
+does not always have to be the domestic one, since 
+globalization has made it possible for companies to 
+continue to prosper in slow-growing economies.
+¨ The third is time, since stock markets are prediction 
+machines, albeit with a lot of noise and error, the link 
+between markets and the economy, even if it exists, will 
+be with a lag of months or longer.
+15
+Stocks and GDP
+16
+Value Drivers for the Index
+17
+1. Earnings
+18
+2. Cash Flows
+19
+3. Risk
+20
+My Story for the Market
+21
+My Valuation of the Index
+22
+Facing up to uncertainty
+23
+Under, Over or Correctly Valued?
+¨ On June 1, the S&P 500 was trading at close to 3100, putting it near the 80th 
+percentile of the distribution, bolstering the "market has gotten ahead of itself" 
+camp, but there is something here for everyone. 
+¤ If you are more optimistic about earnings in 2020 and 2021 than the the median analyst, and 
+about how quickly and completely the market will recover from the crisis shock, you will arrive 
+at a higher value than mine. 
+¤ If you are more pessimistic about the future, perhaps because you think the market is under 
+estimating the likelihood of a second wave of shutdowns or a surge in company defaults, your 
+valuations will be much lower.
+¨ I have not mentioned the Fed, and to those who are Fed -focused, it may seem like 
+I am ignoring the elephant in the room. I have argued for much of the last decade 
+that analysts and investors over estimate the effect that the Fed has on markets. 
+To th e cou nter th at it is low  interest rates th at are keep in g th e in d ex level h igh , my 
+response is that low interest rates cut both ways, first by lowering the discount 
+rate (and thus increasing value) but also by signaling much lower growth in the 
+long term (which I capture by lowering growth in perpetuity to the risk free rate).
+24
+In conclusion
+¨ Dueling narratives: All investors have narratives, some explicit and 
+implicit, about how they believe the economy and markets will evolve 
+over time. Markets reflect a collective narrative and pricing. 
+¨ Narrative clashes: There are times when your narrative will be at odds 
+with that of the market. It is during those times that you will feel the urge 
+to label markets as crazy or irrational, and to view yourself as the last 
+sane person left on the planet. It is my experience that projecting your 
+personal fears and hopes on to the market, and then getting angry when 
+the market responds differently is a recipe for frustration. 
+¨ Question, withhumility: That is not to say that markets cannot be wrong, 
+but even if they are, a dose of humility is always in order . Right now, it is 
+true that markets are collectively more upbeat about the future than 
+most economists/market experts, but given their relative track records 
+over time, are you really more willing to trust the latter? I most certainly 
+am not!

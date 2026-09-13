@@ -1,0 +1,99 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/webcasts/typicalproject.pdf
+
+A	  TYPICAL	  PROJECT	  
+Aswath	  Damodaran
+2!
+Why	  do	  we	  care?	  
+¨ Structure	  investment	  analysis:	  Knowing	  what	  a	  typical	  
+project	  looks	  like	  allows	  you	  to	  structure	  your	  
+investment	  analysis	  and	  key	  in	  on	  the	  “drivers”	  of	  
+project	  success	  and	  failure.	  
+¨ Choose	  ﬁnancing:	  The	  ﬁnancing	  for	  a	  project	  should	  
+reﬂect	  the	  project’s	  characterisOcs:	  
+¤ Amount	  of	  debt	  
+¤ DuraOon	  
+¤ Cash	  ﬂows	  
+¤ Other	  characterisOcs	  
+¨ Determine	  dividends:	  A	  company’s	  capacity	  to	  pay	  
+dividends	  or	  return	  cash	  to	  stockholders	  will	  be	  
+determined	  by	  the	  nature	  of	  its	  projects
+3!
+The	  simplest	  case:	  A	  single	  project	  company	  
+¨ The	  easiest	  case	  to	  analyze	  is	  a	  company	  with	  a	  single	  
+project.	  	  
+¨ Example:	  TollCorp	  Inc.	  is	  a	  company	  started	  exclusively	  
+to	  build	  a	  single	  toll	  road	  in	  Mumbai,	  connecOng	  the	  
+heart	  of	  the	  city	  to	  suburbs.	  
+¨ Project	  descripOon	  
+¤ Long	  term,	  with	  large	  infrastructure	  investments	  up	  front	  
+¤ Once	  investment	  is	  made,	  cash	  ﬂows	  will	  depend	  upon	  number	  
+of	  cars	  on	  the	  toll	  road	  and	  tolls	  charged	  
+¤ The	  cashﬂows	  will	  enOrely	  be	  in	  rupees	  
+¤ At	  	  the	  end	  of	  the	  project	  life,	  the	  project	  will	  be	  sold	  to	  the	  
+government	  at	  an	  preset	  mulOple	  of	  revenues	  in	  the	  last	  year.
+4!
+A	  slightly	  more	  complicated	  example:	  A	  single	  
+business	  company	  with	  homogeneous	  projects	  
+¨ There	  are	  companies	  that	  operate	  in	  a	  single	  business,	  
+with	  projects	  that	  are	  very	  similar	  to	  each	  other.	  
+¨ Example:	  Buﬀalo	  Wild	  Wings	  is	  a	  fast-­‐growing	  restaurant	  
+company.	  Each	  project	  is	  another	  restaurant,	  of	  roughly	  
+the	  same	  size,	  though	  the	  costs	  can	  vary	  by	  locaOon.	  	  
+¤ The	  restaurant	  sites	  are	  leased,	  typically	  for	  the	  same	  number	  of	  
+years,	  albeit	  with	  diﬀerent	  lease	  expenses.	  
+¤ The	  revenues	  at	  the	  restaurants	  are	  roughly	  similar,	  with	  
+diﬀerences	  reﬂecOng	  the	  compeOOon	  in	  the	  vicinity.	  
+¤ At	  the	  end	  of	  the	  lease	  life,	  there	  is	  typically	  liXle	  to	  salvage.
+5!
+Life	  gets	  more	  complicated:	  Same	  business,	  but	  
+projects	  become	  diverse	  
+¨ As	  companies	  get	  larger	  and	  more	  ambiOous,	  the	  
+projects	  taken	  can	  become	  more	  diverse	  because	  
+the	  company	  is	  either	  exploring	  ways	  to	  expand	  in	  
+an	  exisOng	  market	  or	  going	  into	  new	  markets.	  
+¨ Example:	  For	  much	  of	  its	  history,	  Walmart	  has	  grown	  
+its	  business	  in	  the	  US	  with	  homogeneous	  
+investments.	  Now,	  as	  Walmart	  expands	  overseas,	  it	  
+is	  discovering	  that	  diﬀerences	  in	  regulaOon,	  real	  
+estate	  pracOces	  and	  legal	  systems	  can	  change	  the	  
+nature	  of	  a	  project	  investment.
+6!
+The	  really	  messy	  examples:	  MulO	  business	  
+companies	  
+¨ If	  a	  company	  is	  a	  mulO	  business	  company,	  the	  
+projects	  in	  each	  business	  can	  be	  vary	  widely	  in	  terms	  
+of	  characterisOcs.	  In	  this	  case,	  you	  should	  try	  to	  
+describe	  typical	  projects	  by	  business.	  
+¨ Example:	  Disney,	  with	  its	  mix	  of	  theme	  park,	  movie	  
+and	  TV	  businesses	  sees	  very	  diﬀerent	  projects	  across	  
+businesses	  in	  terms	  of	  	  
+¤ DuraOon	  
+¤ Cash	  ﬂow	  paXerns	  
+¤ Currencies	  
+¤ Risks
+7!
+The	  acquisiOve	  company:	  AcquisiOons	  are	  
+projects	  too	  
+¨ Some	  companies	  choose	  to	  grow	  through	  
+acquisiOons	  (or	  at	  least	  some	  of	  their	  growth	  
+systemaOcally)	  through	  acquisiOons.	  
+¨ An	  acquisiOon	  is	  a	  project.	  If	  you	  have	  a	  company	  
+that	  grows	  through	  acquisiOons,	  here	  are	  some	  of	  
+the	  things	  to	  look	  for:	  
+¤ Large,	  infrequent	  acquisiOons	  versus	  Small,	  frequent	  
+acquisiOons	  
+¤ Financing	  of	  the	  acquisiOons	  (Cash,	  Stock	  or	  Debt)	  
+¤ Dependence	  on	  side	  beneﬁts	  (Control,	  Synergy)
+8!
+Some	  ﬁnal	  advice:	  Where	  to	  ﬁnd	  informaOon	  
+¨ Experience	  with	  the	  product/service:	  If	  you	  have	  
+used	  a	  company’s	  products	  or	  services,	  you	  can	  start	  
+thinking	  about	  how	  those	  products	  and	  services	  
+came	  into	  being.	  
+¨ Financial	  statements:	  There	  will	  be	  informaOon	  
+about	  investments	  taken	  during	  the	  course	  of	  a	  year	  
+in	  ﬁnancial	  statements,	  though	  it	  is	  scaXered	  
+through	  the	  report.	  
+¨ News	  reports:	  News	  stories	  oaen	  reveal	  how	  much	  a	  
+project	  cost	  and	  what	  the	  plans	  are	  for	  the	  future,	  at	  
+least	  at	  the	  Ome	  of	  the	  investment.

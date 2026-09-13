@@ -1,0 +1,268 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/UberJune2017.pdf
+
+UBER’S	BAD	WEEK:	DOOMSDAY	
+SCENARIO	OR	JUST	PR	FIASCO?
+Shame	and	scandal,	cash	flows	and	value!
+2
+The	Uber	Back	Story
+Uber,	the	Urban	Car	Service	Company
+The	Story
+Uber	is	an	urban	car	service	company,	drawing	in	new	users	into	car	service.	It	will	enjoy	local	networking	benefits	while	preserving	
+its	current	revenue	sharing	(80/20)	and	capital	intensity	(don't	own	cars	or	hire	drivers)	model.
+The	Assumptions
+Base	year Years	1-5 Years	6-10 After	year	10 Story	link
+Total	Market 100	billion Grow	6%	a	year Grow	2.5%	
+Urban	Car	Service	+	New	
+users
+Gross	Market	Share 1.50% 1.50%>10% 10% Local	Networking	benefits
+Revenue	Share 20.00% Stays	at	20% 20.00% Preserve	revenue	share
+Operating	Margin 3.33% 3.33%	- 40% 40.00% Strong	competitive	position
+Reinvestment NA Sales	to	capital	ratio	of	5.00 Reinvestment	rate	=	10% Low	capital	intensity	model
+Cost	of	capital NA 12.00% 12%->8% 8% 90th	percentile	of	US	firms
+Risk	of	failure 10%	chance	of	failure	(with	equity	worth	zero) Young	company
+The	Cash	Flows
+Total	Market Market	Share Revenues EBIT	(1-t) Reinvestment FCFF
+1 $106,000	 3.63% $769	 $37	 $94	 $(57)
+2 $112,360	 5.22% $1,173	 $85	 $81	 $4	
+3 $119,102	 6.41% $1,528	 $147	 $71	 $76	
+4 $126,248	 7.31% $1,846	 $219	 $64	 $156	
+5 $133,823	 7.98% $2,137	 $301	 $58	 $243	
+6 $141,852	 8.49% $2,408	 $390	 $54	 $336	
+7 $150,363	 8.87% $2,666	 $487	 $52	 $435	
+8 $159,385	 9.15% $2,916	 $591	 $50	 $541	
+9 $168,948	 9.36% $3,163	 $701	 $49	 $652	
+10 $179,085	 10.00% $3,582	 $860	 $84	 $776	
+Terminal	year $183,562	 10.00% $3,671	 $881	 $88	 $793	
+The	Value
+Terminal	value $14,418	
+PV(Terminal	value) $5,175	
+PV	(CF	over	next	10	years) $1,375	
+Value	of	operating	assets	= $6,550	
+Probability	of	failure 10%
+Value	in	case	of	failure $-
+Adjusted	Value	for	operating	assets $5,895	 VCs	priced	Uber	at	$17	billion	at	the	time.
+Potential)Market Market)size)(in)millions)
+A1.$Urban$car$service $100,000
+A2.$All$car$service $175,000
+A3.$Logistics $230,000
+A4.$Mobility$Services $310,000
+Growth'Effect CAGR'(next'10'years)
+B1.$None 3.00%
+B2.$Increase$market$by$25% 5.32%
+B3.$Increase$market$size$by$50% 7.26%
+B4:$Double$market$size 10.39%
+Network(Effects Market(Share
+C1.$No$network$effects 5%
+C2.$Weak$local$network$effects 10%
+C3.$Strong$local$network$effects 15%
+C4.$Weak$global$network$effects 25%
+C5.$Strong$global$network$effects 40%
+Expense'Profile Operating'Margin
+E1:$Independent$contractor 40%
+E2:$Partial$employee 25%
+E3:$Full$employee 15%
+Competitive)Advantages Slice)of)Gross)Receipts
+D1.$None 5%
+D2.$Weak 10%
+D3.$Semi4strong 15%
+D4.$Strong$&$Sustainable 20%
+Increases overall market to $618 billion in year 10
+Risk Estimates
+G1. Cost of capital at 75th percentile of US companies = 10%
+G2.  Probability of failure in next 10 years= 0%
+Uber Valuation: September 2015
+Base 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 Assumptions
+Overall3market $230,000 $253,897 $280,277 $309,398 $341,544 $377,031 $416,204 $459,448 $507,184 $559,881 $618,052 A3+&+B4
+Share3of3market3(gross) 4.71% 6.74% 8.77% 10.80% 12.83% 14.86% 16.89% 18.91% 20.94% 22.97% 25.00% C4
+Gross3Billings $10,840 $17,117 $24,582 $33,412 $43,813 $56,014 $70,277 $86,900 $106,218 $128,612 $154,513
+Revenues3as3percent3of3gross 20.00% 19.50% 19.00% 18.50% 18.00% 17.50% 17.00% 16.50% 16.00% 15.50% 15.00% D3
+Annual3Revenue $2,168 $3,338 $4,670 $6,181 $7,886 $9,802 $11,947 $14,338 $16,995 $19,935 $23,177
+Operating3margin J23.06% J18.26% J13.45% J8.64% J3.84% 0.97% 5.77% 10.58% 15.39% 20.19% 25.00% E2
+Operating3Income J$500 J$609 J$628 J$534 J$303 $95 $690 $1,517 $2,615 $4,026 $5,794
+Effective3tax3rate 30.00% 31.00% 32.00% 33.00% 34.00% 35.00% 36.00% 37.00% 38.00% 39.00% 40.00%
+3J3Taxes J$150 J$189 J$201 J$176 J$103 $33 $248 $561 $994 $1,570 $2,318
+AfterJtax3operating3income J$350 J$420 J$427 J$358 J$200 $62 $442 $956 $1,621 $2,456 $3,477
+Sales/Capital3Ratio 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00 F
+3J3Reinvestment $234 $267 $302 $341 $383 $429 $478 $531 $588 $648
+Free3Cash3Flow3to3the3Firm J$654 J$694 J$660 J$541 J$322 $13 $478 $1,090 $1,868 $2,828
+Terminal3value $56,258
+Present3value3of3FCFF J$595 J$573 J$496 J$369 J$200 $7 $248 $520 $822 $1,152
+Present3value3of3terminal3value $22,914
+Cost3of3capital 10.00% 10.00% 10.00% 10.00% 10.00% 10.00% 9.60% 9.20% 8.80% 8.40% 8.00% G1
+PV3of3cash3flows3during3next3103years3= $515
+PV3of3terminal3value3= $22,914
+Value3of3operating3assets $23,429
+Probability3of3failure 0.00% G2
+Adjusted3value3of3operating3assets $23,429
+Less3Debt $0
+Value3of3Equity $23,429
+Capital Intensity
+F: Status Quo: Sales/Capital = 5
+6
+Operating	Update	for	2016:	More	of	the	
+same?
+¨ High	growth	in	business:	Uber	generated	more	than	$20	
+billion	in	gross	billings	in	2016,	doubling	its	2015	
+numbers.
+¨ Hefty	share	of	billings:	Uber’s	share	of	this	revenue	was	
+$6.5	billion	(which	represents	its	net	revenues)	but	it	
+reported	its	gross	billings	from	UberPool,	its	car	pooling	
+service,	as	revenues.	
+¨ But	losses	continue:	The	revenue	growth	has	been	
+dazzling	but	the	losses	continued	to	mount	as	well.	Uber	
+reported	a	loss	of	$2.8	billion	for	2016,	but	that	number	
+would	have	been	worse	(closer	to	$3.8	billion)	if	losses	in	
+its	defunct	China	operations	had	been	counted.
+7
+Uber:	The	pricing	game
+8
+One	Big	Reason:	The	Competition
+¨ Some	have	adapted:	Lyft,	which	has	long	been	viewed	as	
+the	weaker	competitor,	reported	anincrease	in	market	
+share	in	the	US	ride	sharing	market	in	2016 and	may	be	
+first	to	turn	a	profit	in	this	business.	
+¨ Some	have	matched	Uber	in	capital	raising:	Didi Chuxing,	
+with	a	pricing	of	$50	billion,	showed	the capacity	to	raise	
+capital and	burn	through	it	just	as	fast	and	recklessly	as	
+Uber	has.	
+¨ Others	are	using	local	advantages:	Ola,	has played	to	
+local	advantages to	establish	a	beachhead	against	Uber	
+in	India.
+9
+Uber’s	extracurricular	activities
+¨ The	Google/Waymo Legal	tangle:	Anthony	
+Levandowski,	the	employee	that	Uber	hired	away	
+from	Google/Waymo,	was	accused	of	stealing	and	
+bring	Google’s	electric	car	secrets	to	Uber .	
+¨ Travis	and	the	Uber	driver:	A	minor,	but	still	telling	
+episode,	where	Travis	Kalanick	was	caught	on	video	
+arguing	with	an	Uber	driver	about	whether	Uber	was	
+squeezing	drivers	with	its	low	fares.
+¨ Sexual	harassment:	Susan	Fowler,	an	ex-engineer	at	
+Uber,	chronicles	her	mistreatment	at	the	company	
+and	how	Uber	ignored	her	complaints.
+10
+The	Holder	Report
+¨ Uber	hired	Eric	Holder	and	Tommy	Albaran to	
+examine	culture	and	practices	at	Uber	and	make	
+suggestions	for	creating	a	more	inclusive	culture.
+¨ Their	report	chronicled	bad	behavior	at	the	company	
+and	made	47	recommendations,	with	this	one	
+leading:
+¤ Uber's	board	of	directors "should	evaluate	the	extent	to	
+which	some	of	the	responsibilities	that	Mr.Kalanick has	
+historically	possessed	should	be	shared	or	given	outright	
+to	other	members	of	senior	management"
+11
+An	Eventful	week
+¨ Travis	Kalanick announced	that	he	was	taking	a	break from	his	
+role	as	CEO "to	work	on	Travis	2.0	to	become	the	leader	that	
+this	company	needs	and	that	you	deserve".
+¨ It	was	in	a	follow-up	meeting	with	Uber	employees	that	
+Arianna	Huffington	chaired,	with	the	intent	of	making	Uber	a	
+more	welcoming	environment	for	women,	that	David	
+Bonderman quipped	about	how	having	more	women	as	
+directors	would	make	it "much	more	likely	there’ll	be	more	
+talking"	at	meetings.
+¨ No	announcements	were	made	about	interim	CEOs	and	it	
+looks	like	Uber	will	be	run	by	a	committee	of	Kalanick’s	
+lieutenants.
+¨ Update:	Today,	Travis	Kalanick	announced	that	he	had	
+resigned,	opening	up	the	CEO	position	for	a	“new	hire” .
+12
+What	now?
+¨ In	a story	break,	you	learn	something	about	a	company	that	renders	your	story	
+moot	and	makes	your	valuation	irrelevant	(perhaps	making	it	zero).	This	is	the	
+take	that	some	have	taken	with	Uber,	when	they	have	argued	that	the	most	
+recent	news	stories	have doomed	the	company by	breaking	its	story.
+¨ In	a story	change,	the	news	that	you	acquire	can	lead	to	you	significantly	
+expanding	or	contracting	the	story	that	you	were	telling	about	the	company,	with	
+the	former	increasing	value	and	the	latter	reducing	it.	My	story	for	Uber	
+dramatically	expanded	from	the	urban,	car	service	company,	with	a	value	of	$6	
+billion	in	June	2014,	to	a	global	logistics	company	facing	challenges	in	turning	
+revenues	to	profits,	with	a	value	of	$23	billion,	in	September	2015.
+¨ In	a story	shift,	your	basic	story	stays	unchanged	but	with	shifted	contours.	With	
+Uber,	that	is	what	transpired,	at	least	for	me,	between	September	2015	and	
+September	2016,	where	notwithstanding	all	of	the	news	about	the	company,	the	
+story	remained	mostly	unchanged,	with	perhaps	higher	revenue	growth	and	
+lower	profitability	offsetting	each	other	to	leave	value	unchanged	at	about	$25	
+billion.
+13
+The	Potential	for	damage..
+14
+Uber’s	Operations
+15
+Uber’s	business
+16
+Uber’s	financing
+Base	year Years	1-5 Years	6-10 After	year	10
+Total	Market $200,000 Grow	1.5%	a	year
+Gross	Market	Share 10.00% 40%
+Revenue	Share 20.00% 15.00%
+Operating	Margin -43.08% 20.00%
+Reinvestment NA Reinvestment	rate	=	7.5%
+Cost	of	capital NA 10.00% 10%->8.00% 8.00%
+Risk	of	failure
+Total	Market Market	Share Revenues	(15%	of	Gross) EBIT	(1-t) Reinvestment FCFF
+1 220,780$					 13.00% 8,826$																																		 (2,105)$																																					 775$															 (2,880)$																				
+2 243,719$					 16.00% 11,309$																																 (1,983)$																																					 828$															 (2,811)$																				
+3 269,041$					 19.00% 13,930$																																 (1,564)$																																					 874$															 (2,438)$																				
+4 296,995$					 22.00% 16,661$																																 (820)$																																									 911$															 (1,731)$																				
+5 327,853$					 25.00% 19,466$																																 270$																																										 935$															 (665)$																								
+6 361,917$					 28.00% 22,294$																																 1,715$																																							 943$															 772$																									
+7 399,520$					 31.00% 25,080$																																 3,511$																																							 929$															 2,583$																						
+8 441,030$					 34.00% 27,741$																																 3,884$																																							 887$															 2,997$																						
+9 486,853$					 37.00% 30,173$																																 4,224$																																							 811$															 3,414$																						
+10 537,437$					 40.00% 32,246$																																 4,514$																																							 691$															 3,823$																						
+Terminal	year 548,723$					 40.00% 32,923$																																 4,609$																																							 484$															 4,125$																						
+69,920$                                
+28,479$                                
+(2,103)$                                 
+26,376$                                
+5%
+-$                                      
+25,057$                                
+5,000$																																		
+6,000$																																		
+36,057$																																
+Uber,	The	Global	Logistics	Company	with	a	behavior	problem	(June	2017)
+The	Story
+Uber	is	a	logistics	company,	doubling	the	market	size	by	drawing	in	new	users.	It	will	enjoy	weak	global	networking	benefits	while	seeing	its	slice	of	
+revenues	slip	(85/15),	higher	costs	(with	drivers	as	partial	employees)	and	low	capital	intensity.	The	extracurricular	problems	at	the	company,	with	
+it	legal	tangle	with	Google's	Waymo	division	and	accusations	of	condoning	of	sexual	harassment	will	slow	the	company	down	in	the	near	term	but	
+not	damage	it	enough	to	alter	its	story	significantly.
+The	Assumptions
+Story	link
+Grow	10.39%	a	year Delivery	&	Moving	+	Ridesharing
+10%>40% Big	player
+20%	->	15% Lower	revenue	share
+	-43.08%	->20% Cost	pressures	continue
+Sales	to	capital	ratio	of	3.00 More	capital	investment	model
+At	75th	percentile	of	US	firms
+5%	chance	of	failure,	if	pricing	meltdown	leads	to	capital	being	cut	off Cash	on	hand	+	Capital	access
+The	Cash	Flows
+The	Value
+Terminal value
+PV(Terminal value)
+PV (CF over next 10 years)
+Value of operating assets =
+Probability of failure
+Value in case of failure
+Adjusted Value for operating assets
+Most	recent	pricing	put	the	price	at	greater	than	$70	billion
+	+	Cash	on	hand
+	+	Cross	holdings
+Value	of	all	assets
+18
+The	Closing
+¨ Uber	has	had	a	week	from	hell	but	the	company	is	too	
+embedded	in	our	day-to-day	lives	to	implode.	
+¨ Their	behavior	is	shocking	and	may	be	even	beyond	the	
+pale,	for	some,	but	most	of	their	constituent	groups	are	
+too	invested	in	it	(in	one	way	or	the	other)	to	walk	away.
+¨ The	biggest	danger	to	the	company	remains	on	the	
+investing	side,	where	a	pricking	of	the	pricing	
+momentum	can	cause	the	price	to	shrink	back	towards	a	
+more	reasonable	long	term	value	that	reflects	not	only	
+the	company’s	potential	but	also	the	challenges	that	it	
+faces	along	the	way.

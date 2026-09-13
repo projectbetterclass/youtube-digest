@@ -1,0 +1,107 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ViralUpdate6.pdf
+
+A VIRAL MARKET UPDATE VI: THE 
+PRICE OF RISK
+Dynamic, not static…
+2
+The crisis updates continued…
+¨ It is a sign of how volatile that the last few weeks that a 
+week like the last one, where index levels move only 2-
+3% a day, huge by historic standards, felt stable. 
+¨ As in prior weeks, I will start this one by looking at how 
+the market action played out across asset classes, and 
+within equity, across regions and industries first
+¨ The bulk of this post will be an update on the price of 
+risk and how it has changed in both bond and stock 
+markets over the last six weeks. 
+¨ In the process, I will compare this crisis to the 2008 
+crisis, which was also global and shook the faith people 
+had in markets, institutions and companies.
+3
+The markets last week: Equities
+4
+The markets last week: Treasuries
+5
+The markets last week: Corporate Bonds
+6
+The markets last week: Commodities
+7
+The markets last week: Gold & Bitcoin
+8
+Equities: By Region
+9
+Equities: By Sector
+10
+Equities: Most & least damaged Industries
+11
+Equities: By Class
+¨ I also did the breakdown, looking at companies in PE 
+classes, momentum classes (based upon price change 
+over the year leading into 2/14/20, net debt classes and 
+dividend/buyback classes).
+¨ I found that the only categorization where there is 
+significant differentiation is net debt, where more highly 
+levered companies continue to be punished more than 
+less levered companies.
+¨ In short, there is no evidence so far that the punishment 
+is being meted out to the stocks that have benefited the 
+most from the long up run in stock prices.
+12
+Equities; By bond rating…
+13
+The price of risk: Determinants
+¨ The price of risk changes on a day -to-day basis, and is determined by a 
+combination of variables that encompass almost everything going on in 
+the world from 
+¤ uncertainty about future economic growth (more uncertainty -> higher price for 
+risk) to 
+¤ political stability (more instability -> higher price for risk) to 
+¤ worries about catastrophes/disasters (more worries -> higher price for risk) to 
+¤ investor risk aversion (greater risk aversion -> higher price for risk) to 
+¤ information availability/reliability (less reliable and accessible information -> higher 
+risk premiums). 
+¨ The more general point though that emerges from identifying the 
+determinants is that changes in these determinants will play out as 
+changing prices for risk, and since investing and valuation has to be based 
+upon current and update prices for risk, you need measurement 
+approaches that capture these day -to-day changes.
+14
+A Bond Market Price of Risk
+15
+Bond Default Spreads during the 2008 crisis
+16
+Bond Market Default Spreads: The COVID crisis
+17
+Equity Risk: VIX
+18
+An Equity Market Price of Risk
+19
+With historical perspective
+20
+The 2008 Crisis
+21
+The COVID crisis
+22
+Country Risk Premiums: Resetting the base 
+numbers
+Red: ERP on 4/1/20
+Green: ERP on 1/1/20
+ERP : April 1, 2020
+Aswath Damodaran
+24
+In conclusion…
+¨ One of the biggest lessons that I learned from the 2008 crisis was 
+to move away from static approaches for computing equity risk 
+premiums, dependent on looking at long periods of history. 
+¨ The lessons that I learned during the last three months of 2008 
+made me switch completely to using implied equity risk premiums 
+in my valuation and corporate financial analysis and to compute 
+them on a monthly basis. 
+¨ This crisis has reinforced that practice. I have always found it 
+difficult to grasp how companies can use hurdle rates that are not 
+only set in stone, but set in stone a decade or two ago, even as the 
+market environment shifts and the price of risk changes. 
+¨ The median cost of capital for a global company, which was 7.6% at 
+the start of 2020, is now closer to 8.5%, with the increase in risk 
+premiums more than compensating for the decline in risk free 
+rates.

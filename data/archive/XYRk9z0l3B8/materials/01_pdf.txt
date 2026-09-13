@@ -1,0 +1,119 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate6for2019.pdf
+
+JANUARY 2019 DATA UPDATE 6: 
+PROFITS, GROWTH AND VALUE
+Aswath Damodaran
+2
+Measuring financial success
+¨ Many companies measure success using lower 
+thresholds, with some arguing that making money 
+(having positive profits) is good enough and others 
+positing that being more profitable than competitors 
+in the same business makes you a good company. 
+¨ In this post, I will look at all three measures of 
+success, starting with the minimal (making money), 
+moving on to relative judgments (and how best to 
+compare profitability across companies of different 
+scales) and ending with the most rigorous one of 
+value generation.
+3
+1. Profit Measures
+4
+Through whose eyes?
+5
+1. The Minimalist Test
+6
+2. Profit Margins – A Relative Test
+7
+Global Margins
+Aswath Damodaran
+7
+8
+3. The Value Test
+¨ As a business, making money is easier than creating 
+value, since to create value, you have to not just 
+make money, but more money than you could have 
+if you had invested your capital elsewhere.
+¤ Profits: How much do you expect to generate as profits and 
+cash flows from existing projects?
+¤ Invested Capital: How much capital is invested in existing 
+assets/projects?
+¤ Opportunity Cost: Given the risk of the investment, what 
+return do you need to make to break even?
+9
+In a perfect world, here is what youwould
+do..
+¨ For profits: You would use expected earnings and cash 
+flows in future years to measure profits to both equity 
+investors and the business.
+¨ For invested capital: You would have an inflation-
+adjusted estimate of how much capital is invested in 
+existing assets or equity.
+¨ For hurdle rates: You would have costs of equity and 
+capital that reflected
+¤ The mix of businesses that a firm operates in
+¤ The current debt to equity ratio for the firm, with all financial 
+commitments treated as debt
+¤ The mix of countries that the firm does business in
+10
+Different Perspectives
+11
+Return on Equity
+12
+Cost of Equity
+13
+Measuring Excess Returns: Estimation 
+Choices for Return on Capital
+14
+Measuring Excess Returns: Estimation 
+Choices for Cost of Capital
+15
+And the results
+16
+Corporate Finance Implications
+¨ Growth is a mixed bag: In 60% of companies, it looks 
+like it destroys value, does not add to it.
+¨ Good and Bad companies: There are lots of bad 
+companies, if bad is defined as not making your 
+hurdle rate. 
+¤ In some companies, it is bad management that is 
+responsible.
+¤ In others, the entire business has turned bad and there is 
+little that the company can do to reverse the process.
+17
+Implications for Investors
+¨ If equities are value driven, the stock price for a company will 
+reflect its investment choices, and companies that invest their 
+money badly will be priced lower than companies that invest their 
+money well. 
+¨ The returns you will make on these companies, though, will 
+depend upon whether the excess returns that they deliver in the 
+future are greater or lower than expectations. 
+¤ Thus, a company that earns a return on capital of 5%, much lower than its 
+cost of capital of 10%, which is priced to continue doing the same will see 
+if its stock price increase if it can improve its return on capital to 7%, still 
+lower than the cost of capital, but higher than expected. 
+¤ A company that earns a return on capital of 25%, well above its cost of 
+capital of 10%, and priced on the assumption that it can continue on its 
+value generating path, will see its stock price drop, if the returns it 
+generates on capital drop to 20%, well above the cost of capital, but still 
+below expectations.
+18
+Which explains findings like this one..
+19
+Final Thoughts on Corporate Governance
+¨ Check box corporate finance: Corporate governance laws and 
+measures have focused on check boxes on director independence 
+and corporate rules, rather than the end game of better managed 
+companies. 
+¨ Real corporate governance: Corporate governance should give 
+stockholders a chance to change the way companies are run, and if 
+corporate governance works well, you should see more 
+management turnover at companies that don't earn what they 
+need to on capital. 
+¨ A Cynical afterthought: The fact that six in ten companies across 
+the globe earned well below their cost of capital in 2018, added to 
+the reality that many of these companies have been under 
+performing for years, and are still run by the same management, 
+makes me wonder whether the push towards better corporate 
+governance is more talk than action.

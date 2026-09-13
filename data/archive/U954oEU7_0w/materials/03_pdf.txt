@@ -1,0 +1,55 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session4Asoln.pdf
+
+Session	4A:	Post	class	test	solutions	
+1. 	Navistar	and	Google	saw	increases	in	non-cash	working	capital,	leading	to	
+negative	cash	flows	in	the	aggregate,	but	Nordstrom	decreased	non-cash	
+working	capital,	creating	a	positive	cash	flow.	(I	did	not	include	the	tax	
+increase	in	Google’s	CF	statement	in	working	capital).	The	implications	are	
+simple.	If	Nordstrom	can	continue	to	keep	working	capital	in	check	or	
+decrease	it,	its	cash	flows	will	benefit.	
+  Navistar Nordstrom Google 
+Change in Acc. Receivable  $     141.00   $       82.00   $ (1,844.00) 
+Change In Inventories  $     103.00   $       30.00   -  
+Change in Acc. Payable  $   (250.00)  $       98.00   $     182.00  
+Change in Unearned Rev.      $     275.00  
+CF effect of Changein WC  $       (6.00)  $     210.00   $ (1,662.00) 
+	
+2. c.	Stock	based	compensation	is	an	accounting	expense,	but	it	is	not	a	
+cash	expense.	Stock	based	compensation	is	an	expense,	but	since	it	uses	
+shares	or	options,	it	does	not	affect	the	cash	flows.	(That	said,	it	is	very	
+different	from	depreciation	and	amortization	in	its	effects	on	investors)>	
+3. 	All	three	companies	invested	in	operating	assets,	with	Google	investing	the	
+most.	All	three	companies	reduced	their	holdings	of	non-operating	assets,	
+creating	positive	cash	flows	from	that	grouping.	Investments	in	the	former	
+are	what	we	look	at	in	forecasting	growth	in	operating	metrics.	The	income	
+from	investments	in	the	latter	show	up	below	the	operating	income	line.	
+ Navistar Nordstrom Google 
+Capital Expenditure  $    (250.00)  $    (935.00)  $(24,180.00) 
+Sale of Property, Plant, and Equipment  $       16.00      -   
+Cash Acquisitions   -     -    $  (2,623.00) 
+Divestitures   -     -     -   
+Sale (Purchase) of Intangible assets   -       -   
+Investing in operating assets  $    (234.00)  $    (935.00)  $(26,803.00) 
+Invest. in Marketable & Equity Securt.  $       38.00    -    $    1,829.00  
+Net (Inc.) Dec. in Loans Originated/Sold   -     -     -   
+Other Investing Activities  $         2.00   $       26.00   $    1,031.00  
+Investing in non-operating assets  $       40.00   $       26.00   $    2,860.00  
+4. Navistar	and	Nordstrom	increased	their	total	debt,	whereas	Google	reduce	its	
+total	debt.			
+ Navistar Nordstrom Google 
+Total Debt Issued  $  1,310.00   $     507.00   $    1,898.00  
+Total Debt Repaid  $ (1,122.00)  $    (500.00)  $  (2,174.00)
+Net CF from Debt  $     188.00   $         7.00   $     (276.00) 
+5. Navistar	returned	no	cash	to	its	stockholders	and	issued	$5	million	in	stock,	
+reflecting	its	cash	flow	constraints.	Nordstrom	returned	cash	in	both	
+dividends	and	buybacks,	in	roughly	the	same	amounts.	Google	paid	no	
+dividends	but	did	a	significant	stock	buyback.	Dividends	are	sticky	and	
+Nordstrom	will	have	a	difficult	time	decreasing	them,	if	it	needed	to.	
+Buybacks	are	not	and	Google	can	increase	them	or	not	do	them	next	year,	
+with	little	consequence.	
+ Navistar Nordstrom Google 
+Issuance of Common Stock  $         5.00   $       29.00   $               -    
+Repurchase of Common Stock  $             -     $    (227.00)  $(27,142.00) 
+Net Buybacks  $         5.00   $    (198.00)  $(27,142.00) 
+Common Dividends Paid    $    (229.00)   
+Total Dividends Paid  -   $    (229.00)  -

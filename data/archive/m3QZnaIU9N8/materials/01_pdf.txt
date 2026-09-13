@@ -1,0 +1,164 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DCFMythUncertainty.pdf
+
+MYTH	3	ABOUT	DCF:	YOU	CANNOT	
+VALUE	 BUSINESSES	WHEN	THERE	IS	
+LOTS	OF	UNCERTAINTY
+Not	looking	at	it	is	not	making	it	go	away!
+2
+Uncertainty:	A	Fact	of	Life
+¨ Uncertainty	has	always	been	part	of	human	existence,	
+though	it	has	transitioned	from	the	physical	uncertainty	
+that	characterized	the	caveman	era	to	the	economic	
+uncertainty	that	is	more	typical	of	today,	at	least	in	
+developed	markets.	
+¨ Each	generation,	though,	seems	to	think	that	it	lives	in	
+the	age	of	the	greatest	uncertainty.	
+¤ That	may	 be	partially	 a	reflection	 of	a	broader	 sense	 of	
+"specialness"	 that	afflicts	each	generation.	
+¤ The	other	is	a	variation	 of	hindsight	bias,	where	 we	can	look	 at	
+the	past	and	convince	ourselves	 that	what	actually	happened	
+should	have	been	obvious	 before	it	occurred.
+3
+So,	why	do	we	feel	so	uncertain?
+¨ Low	Interest	Rates:	As	rates	have	dropped,	investors	
+seem	to	have	pushed	up	risk	premiums	to	compensate.		
+¨ Globalization:	
+¤ The	first	is	that	there	seem	 to	be	no	localized	 problems	 any	
+more,	 with	 anyone's	 problem	 becoming	 everyone's	 problem.	
+¤ The	center	 of	global	economic	 power	is	shifting	from	the	US	and	
+Europe	to	Asia.
+¨ Media/Online	Megaphones:	The	speed	with	which	
+information	is	transmitted	around	the	world	has	allowed	
+market	risks	to	go	viral	almost	instantaneously.
+4
+The	Unhealthy	responses
+1. Paralysis	 and	Inaction:	I	will	 not	act	until	the	
+uncertainty	is	resolved.
+2. Denial	and	Delusion:	If	I	have	more	detail	or	add	more	
+decimals,	my	numbers	get	more	precise,	right?
+3. Mental	Accounting:	I	will	make	up	a	rule	of	thumb	that	
+has	no	basis	in	reality	but	it	makes	me	feel	better .
+4. Outsourcing:	 I	will	ask	someone	else	or	listen	to	an	
+expert.	That	way,	if	something	goes	wrong…
+5. Prayer	and	Divine	Intervention:	Please	God!!
+5
+Coping	Tools
+¨ Left	to	our	own	devices,	we	will	all	fall	back	on	these	
+unhealthy	responses.	
+¨ The	only	way	to	reduce	the	likelihood	is	to	develop	
+coping	mechanisms,	i.e.,	healthier	processes	for	
+dealing	with	uncertainty.	
+¨ Those	coping	mechanisms	will	be	different	for	
+different	investors	and	will	reflect	their	risk	aversion,	
+tools	and	investment	philosophy.
+6
+1.	Have	a	narrative
+¨ A	good	valuation	has	both	a	narrative	(a	story	that	
+you	are	telling	about	a	company)	and	numbers	to	
+back	it	up.
+¨ When	faced	with	uncertainties	about	specifics,	go	
+back	to	your	narrative	for	the	company	and	reframe	
+the	question	around	the	narrative.	
+¤ If	events	occurring	will	change	your	narrative,	you	should	
+expect	your	value	to	change	as	well.	
+¤ If	they	do	not,	they	may	loom	large	but	have	little	impact	
+on	value.
+7
+2a.	Break	down	uncertainty
+Type	of	Uncertainty The	Difference Why	we	care	in	investing	&	valuation
+Estimation	versus	Economic Economic	uncertainty	refers	to	the	
+unexpected	changes	doled	out	bye	fate	
+that	no	amount	of	research	or	
+information	is	going	to	give	us	insight	
+into.	Estimation	uncertainty	relates	to	
+judgments	in	investing	and	valuation	
+that	can	be	improved	by	collecting	 more	
+information	and	using	it	better.
+When	 much	of	the	uncertainty	that	you	
+face	is	estimation	uncertainty,	you	
+should	invest	in	more	information	and	
+spend	more	time	on	analysis,	since	will	
+improve	your	accuracy.	When	much	of	it	
+is	economic	uncertainty,	the	payoff	to	
+collecting	 and	analyzing	information	is	
+much	smaller.	It	 is	better	to	make	your	
+best	judgments	and	move	on.
+Micro	versus	Macro	 Micro	uncertainty	is	at	the	company-
+level	and	may	come	from	management	
+decisions,	legal	entanglements	and	even	
+from	immediate	competitors.	Macro	
+uncertainty	can	be	traced	back	to	larger	
+forces,	i.e.,	the	swings	in	fortune	caused	
+by	changes	in	inflation,	interest	rates	
+and	economic	 cycles.
+If	the	investors	pricing	stocks,	at	 the	
+margin,	are	diversified,	the	 rate	of	return	
+they	demand	(the	discount	rate)	should	
+reflect	only	or	 primarily	 macro	 economic	
+risk	 exposure,	 since	micro	 economic	
+risks	 will	be	averaged	out	 in	the	
+portfolio.	Y ou	will	still	adjust	expected	
+cash	flows	for	micro	economic	 risks.
+Discrete	versus	Continuous Continuous	risk	is	risk	that	you	are	
+exposed	to	on	a	continuous	basis,	
+though	the	moment-to-moments	 will	
+tend	to	be	small.	Discrete	 risk	is	risk	that	
+is	uncommon	but	potentially	
+catastrophic.
+Tr ad i ti o n al 	v al u ati o n 	mo d el s ,	 b u i l t	o n 	
+expected	 cash	flows	and	risk-adjusted	
+discount	rates,	are	best	suited	for	
+continuous	risks.	Discrete	 and	large	risks	
+are	best	reflected	by	estimating	 the	
+probabilities	of	their	occurring	and	the	
+consequences	 if	they	do.
+8
+2b.	And	decide	where	you	will	put	it..
+9
+3.	Keep	it	simple
+¨ Less	is	more:	The	more	uncertainty	there	is,	the	
+simpler	my	valuation	models	become,	with	fewer	
+inputs	and	less	levers	to	move.
+¨ Don’t	sweat	the	small	stuff:	Separate	the	big	items	
+that	matter	from	those	that	do	not	and	keep	your	
+focus	on	those	items.
+10
+4.	Make	your	best	estimates
+¨ Bad	News:	You	are	going	to	be	wrong and	not	
+because	your	information	is	bad,	your	models	are	
+screwed	up	or	your	valuation	skills	are	rusty.	It	is	
+because	the	real	world	is	unpredictable.
+¨ Good	News:	You	don’t	have	to	be	right	to	make	
+money.	You	just	have	to	be	less	wrong	than	everyone	
+else.
+11
+5.	Face	up	to	uncertainty
+¨ One	reason	that	we	are	so	troubled	by	uncertainty	is	
+because	we	are	asked	to	make	point	estimates	(of	
+revenues,	margins,	risk	etc.),	when	we	face	
+probability	distributions	with	each	one.
+¨ Being	able	to	input	probability	distributions,	while	it	
+does	require	some	homework,	for	inputs	is	freeing.
+12
+6.	Be	willing	to	be	wrong
+1. Don’t	expect	your	just	rewards:	You	can	do	
+everything	right	and	still	be	wrong.
+2. There	is	no	uncertainty	in	the	past:	It	is	only	in	
+hindsight	that	the	great	investments	 of	the	past	
+seem	to	be	sure	things.
+3. Spreading	your	bets	is	not	a	sign	of	weakness:	Since	
+being	wrong	is	part	of	the	process,	loading	up	on	a	
+few	big	bets	will	always	expose	you	to	a	greater	
+chance	of	being	wrong,	all	else	being	equal.
+13
+Looking	for	an	edge?
+¨ If	investing	 is	a	game	that	you	can	win	at,	only	if	you	
+have	an	edge,	finding	that	edge	has	become	more	
+and	more	difficult	as	the	investing	world	gets	flatter .
+¨ As	we	face	new	uncertainties,	one	possible	edge	to	
+consider	is	that	you	may	be	able	to	train	yourself	to	
+become	better	at	dealing	with	uncertainty	than	most	
+other	investors.
+¨ You	can	exploit	that	edge	when	it	is	darkest,	i.e.,	
+when	markets	are	in	crisis	or	in	the	portions	of	the	
+market	where	storm	clouds	have	gathered.

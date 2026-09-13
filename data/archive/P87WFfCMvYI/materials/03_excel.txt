@@ -1,0 +1,3 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pc/datasets/psdata.xls
+
+[legacy .xls workbook: psdata.xls — see raw file]

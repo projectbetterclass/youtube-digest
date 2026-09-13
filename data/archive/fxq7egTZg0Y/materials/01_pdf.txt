@@ -1,0 +1,122 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate9.pdf
+
+DATA	2017	UPDATE	9:	
+DIVIDENDS,	THE	RODNEY
+DANGERFIELD OF	FINANCE
+Aswath	Damodaran
+2
+The	Dividend	Decision
+¨ The	dividend	decision	gets	no	respect	and	very	little	
+serious	attention	from	either	academics	or	
+practitioners.	
+¨ In	many	companies,	the	decision	of	how	much	to	
+pay	on	dividends	is	made	either	on	auto	pilot	or	on	a	
+me-too	basis.	
+¨ That	surprises	me,	since	just	as	a	farmer’s	payoff	
+from	planting	crops	comes	from	the	harvest,	an	
+investor’s	payoff	from	investing	should	come	from	
+cash	flows	being	returned.
+3
+Dividends,	the	Logical	Sequence
+4
+Dividends,	the	Dysfunctional	Sequence
+5
+1.	Dividends	and	sticky
+6
+2.	Dividends	are	being	replaced	by	Stock	
+Buybacks
+7
+Measuring	Dividends	Paid
+Cash	Return	Statistic Definition What	it	measures
+Dividend	Yield Dividends/Market	Cap Portion	of	equity	return	that	
+comes	from	dividends
+Dividend	Payout Dividends/Net	Income	(if	net	
+income	is	positive,	NA	if	
+negative)
+Proportion	of	earnings	held	
+back	by	the	company	for	
+reinvestment	or	as	cash	
+balance
+Cash	Return/FCFE (Dividends	+	Buybacks)/FCFE	
+(if	FCFE	is	positive,	NA	if	
+negative)
+Percentage	of	potential	
+dividends	returned	to	
+stockholders.	Remaining	goes	
+into	cash	balance
+8
+Dividend	Yields	&	Payout:	Global
+9
+A	Regional	Comparison
+10
+Dividend	Payout	Ratio:	January	2017
+Aswath Damodaran
+10
+0.00% 
+2.00% 
+4.00% 
+6.00% 
+8.00% 
+10.00% 
+12.00% 
+14.00% 
+16.00% 
+18.00% 
+<10% 10-20% 20-30% 30-40% 40-50% 50-60% 60-70% 70-80% 80-90% 90-100% >100% 
+Payout	Ratios	at	the	start	of	2017:	US	and	Global	Firms
+US Global
+11
+Dividend	Yields:	January	2017
+Aswath Damodaran
+11
+0
+0.02
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+0.16
+<.5% .5-1% 1-1.5% 1.5-2% 2-2.5% 2.5-3% 3-3.5% 3.5-4% 4-4.5% 4.5-5% 5-5.5% 5.5-6% 6-6.5% 6.5-7% 7-7.5% 7.5-8% >8% 
+Dividend	Yeilds	at	the	start	of	2017:	US	&	Global
+US Global
+75th	Perc. Broad	Group 25th	Perc. Median 75th	Perc.
+Australia,	NZ	and	Canada 1.77% 3.39% 5.09%
+Developed	Europe 1.62% 2.84% 4.68%
+Emerging	Markets 0.88% 2.27% 4.62%
+Japan 1.33% 2.08% 2.81%
+United	States 1.17% 2.12% 3.47%
+12
+Highest	Cash	Return	Sectors	- US
+13
+Lowest	Cash	Return	Sectors
+14
+Dividends	and	Cash	Balances
+¨ The	cash	balance	of	a	company	is	a	direct	consequence	of	how	
+much	cash	it	chooses	to	return,	relative	to	its	potential	dividends	
+(FCFE).
+¨ If	a	company	issues	no	new	equity,	the	only	way	it	can	accumulate	
+a	large	cash	balance	is	by	consistently	returning	less	than	the	FCFE,	
+year	after	year.
+¨ Any	discussion	of	dividend	policy	is	indirectly	also	a	discussion	
+about	cash	balances.	Put	differently,	the	question	of	whether	a	
+company	has	too	large	or	small	a	cash	balance	is	also	a	question	
+about	whether	the	firm	returns	too	little	or	too	much	cash	to	
+investors.
+15
+Cash	Holdings	across	Companies
+16
+In	closing
+1. Stocks are not bonds: It might be time to reexamine
+the notion of fixed and predictable dividends, as the
+cash payoff on stocks. It harkens back to a different era,
+when stocks were marketed as bonds with some price
+appreciation and where the companies that were
+traded were mature companies with stable earnings.
+2. Equity is a residual claim: In a global setting where
+earnings are increasingly difficult to predict, it makes
+more sense to make dividends into a residual cash flow.
+3. Letting go will be hard: The adjustment will take time
+and there will be many (investors and companies) that
+will have difficult adjusting.

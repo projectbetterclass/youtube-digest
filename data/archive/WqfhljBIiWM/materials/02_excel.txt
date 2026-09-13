@@ -1,0 +1,48 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfexams/CfQuiz3asolSpr19.xlsx
+
+Sheet: Sheet1
+Problem 1 | Grading Template
+Current | Recapitalized | 1. Did not back out beta: -1 point
+Debt/(Debt + Equity) | 0.8 | 0.4 | 2. Did not unlever & relever beta: -1 point
+Cost of debt (Pre-tax) | 0.08 | 0.06 | 3. Did not after-tax cost of debt: -1/2 point
+4. Errors on levering beta: -1/2 point
+Solve for the beta at current debt ratio | 5. Math errors: -1/2 point each
+2.5% + X (6%) = 24.10%
+Levered Beta | 3.6 | 1.3499999999999996
+Cost of equity= | 0.241 | 0.10599999999999998
+Cost of capital = | 0.09619999999999998 | 0.08159999999999999
+Unlevered Beta = | 0.8999999999999998
+Problem 2 | 1. Errors on computing change in value: -1/2 to -1 point
+Stock Price  | 10 | 2. Did not allocate value correctly on buyback: -1 point
+# Shares | 75 | 3. Did not adjust debt for new borrowing: -1 point
+Debt | 250
+# Shares bought back | 25
+Price for buybacvk | 11
+Cost of capital before | 0.08
+Cost of capital after | 0.075
+Expecred growth rate | 0.025
+Change in cost of capital  | 0.0050000000000000044
+Savings next year = | 5.000000000000004
+Change in value | 100.0000000000001
+Firm Value | 1100
+ - Debt | 525
+Equity Value | 575
+ # Shares outstanding | 50
+Value per share | 11.5
+Problem 3
+Business | Value | Duration | Value | Duration
+Hotels | 800 | 11 | Debt | 200 | 4
+Technology | 400 | 2 | Equity | 1000
+Total Company | 1200 | 8
+New debt | 800
+After recap | 1. Did not compute duration of assets after recap: -1 point
+Hotels | 800 | 11 | 2. Did not compute duration of new debt: -1 point
+Technology | 1200 | 2 | 3. Did not breakdown into 8 and 3 year debt: -1 point
+2000 | 5.6 | 4. Math errors: -1/2 point each
+To calculate duration of new debt
+(200 (4) + 800 (X))/1000 = | 5.6
+Duration of new debt = | 5.999999999999999 | Check: | 5.599999999999999
+8 (Y) + 3 (1-Y) =  | 5.999999999999999
+Solving for Y, | 0.6
+Dollar 8-year debt  | 480 | Check | 6
+Dollar 3-year debt | 320

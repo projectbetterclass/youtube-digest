@@ -1,0 +1,34 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session5Atest.pdf
+
+Session 5A: Post Class tests 
+Google’s R&D expenses 
+  R&D (in US $ millions) 
+Last 12 months  $      26,018  
+Last year  $      21,419  
+Two years ago   $      16,625  
+Three years ago   $      13,948  
+ 
+1. Assuming	that	Google’s	R&D	takes	3	years	to	pay	off	in	commercial	use,	
+estimate	how	much	Google’s	pre-tax	operating	income	in	the	last	12	months	
+will	change	if	R&D	is	capitalized?	
+2. Assuming	that	Google’s	R&D	takes	3	years	to	pay	off	in	commercial	use,	
+estimate	how	much	Google’s	book	value	of	equity	will	change	if	R&D	is	
+capitalized?	
+Nordstrom operating leases 
+ Lease commitments (in US $ millions) 
+Last 12 months $      374.00 
+Year +1 $    333.00 
+Year +2 $    353.00 
+Year +3 $    327.00 
+Year +4 $    300.00 
+Year +5 $    252.00 
+After year 5 $ 1,136.00 
+3. Assume	that	you	are	capitalizing	Nordstrom’s	leases,	and	that	the	company	
+has	a	tax	rate	of	25%,	a	cost	of	debt	of	3%,	a	cost	of	equity	of	8%	and	a	cost	of	
+capital	of	7%.		Estimate	the	debt	value	of	the	lease	commitment.	
+4. What	effect	will	capitalizing	Nordstrom’s	leases	have	on	the	company’s	
+operating	income	for	the	year?	(You	can	assume	that	Nordstrom’s	lease	
+commitments	were	similar	in	the	prior	year.)	
+5. What	effect	will	capitalizing	Nordstrom’s	leases	have	on	the	company’s	
+interest	expense	for	the	year?	(You	can	assume	that	Nordstrom’s	lease	
+commitments	were	similar	in	the	prior	year.)

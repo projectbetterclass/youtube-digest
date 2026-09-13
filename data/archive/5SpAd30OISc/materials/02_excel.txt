@@ -1,0 +1,170 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/NetflixSubscriber2018.xlsx
+
+Sheet: Inputs
+Input cell | Computed Value
+Operating Information | Notes/Comments | Tech/Dev Cost Growth
+All dollar values in millions | Most Recent | Prior year | A1. Grow at same rate as total users | 0.12472218792019918
+Number of  Subscribers | 117.6 | 93.8 | Number of users , with growth over last year | A2. Grow at inflation rate | 0.02
+Annual Subscription Revenue/ Subscriber | 113.16 | 103.32 | Subscription Revenues/ # Users | A3. Grow at risk free rate | 0.0275
+Customer Servicing Cost as % of revenues | 0.0739 | Content cost as % of subscription revenues (starting year) | A4. Direct Input | 0.05
+Effective tax rate (current) | 0.25 | 0 | Effective tax rate in most recent year | Content Cost Growth
+Effective tax rate (steady state) | 0.25 | Effective tax rate in steady state | A1. Grow at same rate as total users | 0.12472218792019918
+Allocated Costs | A2. Grow at inflation rate | 0.02
+Technology & Development Cost | 1053 | Technology and Development Cost | A3. Grow at risk free rate | 0.0275
+Content Costs | 7660 | Content costs in income statement | A4. Direct Input | 0.03
+Percentage of Content Costs directly attributed to subscribers | 0.2
+Existing User Data | Cost of Capital (in euros)
+Lifetime of a Netflix Subscriber (in years) | 15 | Typical subscriber life with company | B1. Lowest decile of Global  companies (7%) | 0.07
+Annual Renewal Probability | 0.925 | Annual Renewal probability (assumed to be constant over time) | b2. 25th percentile of Global companies (7.5%) | 0.075
+Growth rate in Subscription Charge | 0.05 | Growth Rate in Subscription Charge/Subscriber | B3. Median of Global companies (8.5%) | 0.085
+Growth rate in Service Cost/Subscriber | 0.02 | Growth rate in Content Cost/Subscriber | B4. 75th percentile of Global companies (10%) | 0.1
+New User Information | B5. Ninth decile of Global companies (12%) | 0.12
+Total cost of acquiring new users in most recent year | 3423 | Selling and Marketing Cost + Capitalized Content Costs | B6. Direct input | 0.0795
+Growth rate in # Members (Years 1-5) | 0.15 | Growth Rate in # Subscribers - Years 1-5
+Growth rate in # Members (Years 6-10) | 0.1 | Growth Rate in # Subscribers - Years 6-10
+Growth rate in # Members after year 10 | 0.01 | Growth Rate in # Subscribers after year 10
+G&A Data
+Growth rate approach for technology & development costs | A4. Direct Input | Growth Rate option for total other costs
+Growth rate in tech development costs for next 10 years | 0.05 | DO NOT INPUT
+Growth rate approach for non-subscriber related Content | A4. Direct Input
+Growth rate in content costs for next 10 years | 0.03 | Total Revenues from Advertising (most recent year)
+Growth rate in advertising revenues - Years 1-5
+Macroeconomic Data | Growth rate in advertising revenues - Years 6-10
+Risk free Rate | 0.0275
+Inflation Rate | 0.02 | Risk free Rate
+Cost of capital for existing users (input choice) | B6. Direct input | Inflation Rate
+Cost of capital (existing users) | 0.0795 | Cost of capital option (for existing subscribers)
+Cost of capital for new users (input choice) | B6. Direct input | DO NOT INPUT
+Cost of capital (new users) | 0.0795 | Do not input | Cost of capital option (for new subscribers
+Other Company Data | DO NOT INPUT
+Cash & Marketable Securities | 2823
+Cross Holdings in Other Companies | 0 | Cash and Marketable Securities
+Debt Outstanding | 6500 | Minority Cross Holdings
+Equity Options oustanding (value) | 4978 | Total Debt Outstanding
+Number of Shares outstanding | 446.81 | Value of Equity Options outstanding
+Valuation Output Summary
+Category | Value per user | Aggregate Value
+Existing Subscribers | 508.89338597918123 | 59845.86219115171
+New Subscribers | 397.88317031516306 | 137276.49074301607
+Technology & Content Costs | 111251.70434372904
+Value of Netflix | 82193.64859043874
+
+Sheet: Valuation
+Value of Existing Subscribers
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
+Life Indicator  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+Membership Survival | 1 | 0.925 | 0.8556250000000001 | 0.7914531250000001 | 0.7320941406250001 | 0.6771870800781251 | 0.6263980490722657 | 0.5794181953918458 | 0.5359618307374574 | 0.49576469343214813 | 0.45858234142473703 | 0.4241886658178818 | 0.39237451588154065 | 0.36294642719042514 | 0.3357254451511433 | 0.3105460367648075 | 0.287255084007447 | 0.2657109527068885 | 0.24578263125387187 | 0.2273489339098315 | 0.21029776386659413
+Revenue/Subscriber | 113.16 | 118.818 | 124.7589 | 130.996845 | 137.54668725000002 | 144.4240216125 | 151.64522269312502 | 159.22748382778127 | 167.18885801917034 | 175.54830092012887 | 184.3257159661353 | 193.5420017644421 | 203.2191018526642 | 213.38005694529744 | 224.04905979256233 | 235.25151278219045 | 247.0140884213 | 259.364792842365 | 272.3330324844832 | 285.9496841087074 | 300.2471683141428
+Cost/ Subscriber | 21.389734884353743 | 21.81752958204082 | 22.253880173681637 | 22.698957777155268 | 23.152936932698374 | 23.61599567135234 | 24.088315584779387 | 24.570081896474974 | 25.061483534404474 | 25.562713205092564 | 26.073967469194415 | 26.595446818578303 | 27.127355754949868 | 27.669902870048865 | 28.22330092744984 | 28.78776694599884 | 29.363522284918815 | 29.95079273061719 | 30.549808585229535 | 31.160804756934127 | 31.78402085207281
+Operating Profit/Loss per Subscriber | 91.77026511564625 | 97.00047041795918 | 102.50501982631836 | 108.29788722284474 | 114.39375031730165 | 120.80802594114768 | 127.55690710834563 | 134.6574019313063 | 142.12737448476588 | 149.9855877150363 | 158.25174849694088 | 166.9465549458638 | 176.09174609771435 | 185.71015407524857 | 195.8257588651125 | 206.4637458361916 | 217.65056613638117 | 229.41400011174778 | 241.7832238992537 | 254.7888793517733 | 268.46314746207
+Tax rate | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25
+After-tax Operating Income | 68.8276988367347 | 67.29407635245919 | 65.77939319167024 | 64.28452595506354 | 62.81024574856184 | 61.357225752816134 | 59.92604831876994 | 58.51721161739397 | 57.131135870072484 | 55.768169184589155 | 54.42859302021432 | 53.11262730403324 | 51.82043521936939 | 50.55212768594613 | 49.30776755028775 | 48.08737350378438 | 0 | 0 | 0 | 0 | 0
+Present Value (at Cost of Capital) | 62.33819022923501 | 56.447481446984426 | 51.10207154742731 | 46.2529999268606 | 41.855494914354125 | 37.86864451548385 | 34.25508873368035 | 30.980732746632963 | 28.014480106078583 | 25.32798505400872 | 22.895423000576443 | 20.69327818349529 | 18.700147521061815 | 16.896559677388897 | 15.264808375912851 | 0 | 0 | 0 | 0 | 0
+Life of subscriber = | 15
+Value per Subscriber = | 508.89338597918123
+Number of Subscribers = | 117.6
+Value of Existing Subscribers = | 59845.86219115171
+Value of New Subscribers
+Cost of Acquiring a New Subscriber | 111.01021566401819
+Value per new user (in today's $) = | 397.88317031516306
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+Total Subscribers | 117.6 | 135.23999999999998 | 155.52599999999995 | 178.85489999999993 | 205.68313499999994 | 236.53560524999992 | 260.18916577499994 | 286.20808235249996 | 314.82889058775 | 346.311779646525 | 380.9429576111775
+New Subscribers | 0 | 26.45999999999998 | 30.428999999999967 | 34.993349999999964 | 40.24235249999997 | 46.278705374999966 | 41.39373091875 | 45.53310401062501 | 50.08641441168751 | 55.09505585285625 | 60.604561438141886
+Value per Subscriber | 397.88317031516306 | 405.8408337214663 | 413.95765039589566 | 422.23680340381355 | 430.68153947188983 | 439.29517026132766 | 448.08107366655423 | 457.0426951398853 | 466.183549042683 | 475.50722002353666 | 485.0173644240074
+Value added by new Subscribers | 10738.54846026999 | 12596.317343896695 | 14775.480244390823 | 17331.63832667044 | 20330.011757184428 | 18547.747393137943 | 20810.572575100778 | 23349.46242926307 | 26198.096845633157 | 29394.264660800407
+Terminal Value (New Subscribers) | 31673.81987939309
+Present Value  | 9947.705845548857 | 10809.31816287986 | 11745.558318719848 | 12762.8901416011 | 13868.337319220096 | 11720.747025692586 | 12182.193758987576 | 12661.807686506769 | 13160.304052117272 | 28417.628431742094
+Value Added by New Users | 137276.49074301607
+Value Drag of Corporate Expenses (Cost)
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+Technology & Development | 1053 | 1105.65 | 1160.9325000000001 | 1218.979125 | 1279.92808125 | 1343.9244853125 | 1411.1207095781251 | 1481.6767450570314 | 1555.7605823098831 | 1633.5486114253774 | 1715.2260419966465
+Content Costs | 6128 | 6311.84 | 6501.1952 | 6696.2310560000005 | 6897.117987680001 | 7104.031527310401 | 7317.152473129713 | 7536.6670473236045 | 7762.767058743313 | 7995.650070505612 | 8235.51957262078
+After-tax Corporate Expenses | 5563.1175 | 5746.595775 | 5936.40763575 | 6132.7845516975 | 6335.967009467176 | 6546.204887030879 | 6763.757844285477 | 6988.895730789898 | 7221.899011448242 | 7463.05921096307
+Terminal Value (Corporate Exp) | 147467.17960124143
+PV of Corporate Expenses | 5153.420565076425 | 4931.344645388253 | 4719.0629973509995 | 4516.137137190094 | 4322.1483971689695 | 4136.6970248704 | 3959.401323562996 | 3789.896831774845 | 3627.83554028224 | 72095.75988106382
+Value Drag of Corporate Expenses | 111251.70434372904
+Valuing Netflix
+Value of Existing Subscribers | 59845.86219115171
+Value of New Subscribers | 137276.49074301607
+ - PV of Corporate Expenses | 111251.70434372904
+Value of Spotify Operating Assets | 85870.64859043874
+ + Cash & Cross Holdings | 2823
+ - Debt | 6500
+Value of Equity | 82193.64859043874
+ - Value of Equity Options | 4978
+Value of Equity in common stock | 77215.64859043874
+ Number of Shares | 446.81
+Value per Share | 172.815399365365
+
+Sheet: Cost of Capital
+Estimation of Current Cost of Capital | Operating Countries ERP calculator
+Inputs | Country | Revenues | ERP | Weight | Weighted ERP
+Equity | United States of America | 56.4 | 0.0508 | 0.4731543624161074 | 0.024036241610738255
+Number of Shares outstanding = | 446.81 | 0 | 0 | 0
+Current Market Price per share = | 284 | 0 | 0 | 0
+0 | 0 | 0
+Approach for estimating beta | Single Business(US) | 0 | 0 | 0
+If direct input, enter levered beta (or regression beta) | 1.2 | 0 | 0 | 0
+Unlevered beta = | 0.9571668315797424 | 0 | 0 | 0
+Riskfree Rate = | 0.0275 | 0 | 0 | 0
+What approach do you want to use to input ERP? | Operating countries | 0 | 0 | 0
+Direct input for ERP (if you choose "will input" | 0.05 | 0 | 0 | 0
+Equity Risk Premium used in cost of equity = | 0.056753355704697986 | 0 | 0 | 0
+0 | 0
+Debt | Rest of the World | 62.8 | 0.0621 | 0.5268456375838927 | 0.032717114093959734
+Book Value of Straight Debt = | 9829.23 | Total | 119.19999999999999 | 1 | 0.056753355704697986
+Interest Expense on Debt = | 238.2 | Operating Regions ERP calculator
+Average Maturity = | 3 | Region | Revenues | ERP | Weight | Weighted ERP
+Approach for estimating pre-tax cost of debt | Synthetic rating | Africa & Mid East | 0 | 0.08109735731934158 | 0 | 0
+If direct input, input the pre-tax cost of debt | 0.035 | Australia, NZ & Canada | 7440 | 0.05082132365943377 | 0.0734423122482824 | 0.0037324355210671574
+If actual rating, input the rating | Aa2/AA | Latin America & Caribbean | 0.08750494093953261 | 0 | 0
+If synethetic rating, input the type of company | 1 | Japan | 0 | 0.05891221018307852 | 0 | 0
+Pre-tax Cost of Debt = | 0.0365 | US | 0 | 0.0508 | 0 | 0
+Tax Rate = | 0.25 | Europe | 0.06005813002564525 | 0 | 0
+Emerging Markets | 0 | 0.07141001007847368 | 0 | 0
+Book Value of Convertible Debt = | 0 | Small Asia (No India, China & Japan) | 93864 | 0.06926379765740635 | 0.9265576877517177 | 0.06417690420234927
+Interest Expense on Convertible = | 0 | North America | 0.0508 | 0 | 0
+Maturity of Convertible Bond = | 0 | 0 | 0
+Market Value of Convertible = | 0 | 0 | 0
+Total | 101304 | 1 | 0.06790933972341642
+Debt value of operating leases = | 17057.83334807192
+Multi Business (US Industry Averages)
+Preferred Stock | Business | Revenues | EV/Sales | Estimated Value | Unlevered Beta
+Number of Preferred Shares = | 0 | Entertainment | 100 | 2.873885832687122 | 287.3885832687122 | 0.9571668315797424
+Current Market Price per Share= | 70 | 0 | 0 | 0
+Annual Dividend per Share = | 5 | 0 | 0 | 0
+0 | 0 | 0
+Output | 0 | 0 | 0
+Estimating Market Value of Straight Debt = | 9492.410869901578 | 0 | 0 | 0
+Estimated Value of Straight Debt in Convertible = | 0 | 0 | 0 | 0
+Value of Debt in Operating leases = | 17057.83334807192 | 0 | 0 | 0
+Estimated Value of Equity in Convertible = | 0 | 0 | 0 | 0
+Levered Beta for equity = | 1.1073689990876847 | 0 | 0 | 0
+0 | 0 | 0
+Equity | Debt  | Preferred Stock | Capital | 0 | 0 | 0
+Market Value | 126894.04 | 26550.244217973497 | 0 | 153444.2842179735 | Company | 100 | 287.3885832687122 | 0.9571668315797424
+Weight in Cost of Capital | 0.8269714355716381 | 0.17302856442836187 | 0 | 1
+Cost of Component | 0.09034690670157874 | 0.027374999999999997 | 0.07142857142857142 | 0.07945096808568783 | Multi Business (Global Industry Averages)
+Business | Revenues | EV/Sales | Estimated Value | Unlevered Beta
+Advertising | 40653 | 1.568261828101052 | 63754.54809779207 | 0.9691559400269897
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+Company | 40653 | 63754.54809779207 | 0.9691559400269897
+
+Sheet: Input choices
+Yes or No | Cost of capital
+Yes | Lowest decile of US companies (7%)
+No | 25th percentile of US companies (7.5%)
+Median of US companies (8%)
+75th percentile of US companies (10%)
+Ninth decile of US companies (12%)
+Direct input

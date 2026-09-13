@@ -1,0 +1,303 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfexams/WFDining.pdf
+
+1 
+An Investment Analysis Case Study 
+This case is a group project that is due on April 3, before class at 10.30. 
+Stating the obvious: Each group will turn in one report (sounds obvious, but might as 
+well make it explicit) electronically (as a pdf file).  
+Cover page: Each report should have a cover page that contains the following – the 
+names of the group members in alphabetical order and the following summary 
+information on the analysis: 
+1. Decision on Investment: Invest or Do not invest 
+2. Cost of capital: % value 
+3. Return on capital: % value 
+4. NPV – 15-year life: $ value 
+5. NPV- Longer life: $ value  
+Report format: Please try to keep your report brief. In the report, be clear about: 
+a. Any assumptions you made to get to your conclusion 
+b. Your final recommendation 
+Exhibits: Please make sure that you include the following in your exhibits 
+a. The table of earnings/cash flows by year 
+b. Your computation of cost of equity/capital/discount rate 
+Time: To keep the timing of cash flows consistent, you can assume the following: 
+Year 1 $: This is the cost if incurred during year 1  
+Next year: Year 1 
+Most recent year: Just ended   
+Right now: Time 0. Any “up front” expenditure is incurred immediately.
+2 
+Whole Foods goes Dining 
+The Setting 
+  A couple of decades ago, Whole Foods upended the staid (and boring) grocery 
+store business by offering a more upscale, health-oriented grocery shopping experience to 
+consumers. Using a premium-price strategy, the company has grown at well above the 
+industry-average rate for the last decade . The company’s growth, though, slowed 
+between 2015 and 2017, as conventional grocery stores add health food and organic 
+produce to their mix and its stock price declined. The table below lists revenues, store 
+numbers and operating income from 2012 to 2016 for Whole Foods: 
+  2012 2013 2014 2015 2016 
+Number of stores 284 299 311 335 362 
+Revenues (in millions) $8,032 $9,006 $10,108 $11,699 $12,917 
+Operating Income (in millions) $284 $438 $548 $744 $883 
+In August 2017, Whole Foods was acquired by Amazon. While the Whole Food numbers 
+are no longer broken out separately, there were approximately 500 Whole Foods Stores 
+in the US, UK and Canada in early 2019. With Amazon’s muscle behind it, Whole Foods 
+is now considering expansion opportunities that build on its brand name (as a health food 
+pioneer). 
+The Proposal  
+Whole Foods is considering a proposal, termed WF Dining, where a portion (about 
+10%) of the floor space of selected stores will be converted into upscale restaurants, with 
+the focus on healthy and organic food. You have been asked to collect the data to make 
+the assessment and have come back with the following information: 
+1. Test Market: Whole Foods has already spent (and expensed) $ 40 million on market 
+testing and exploration.  
+2. Number of restaurants; If Whole Food decides to go ahead with the WF Dining 
+investment, it plans to open restaurants at 50 of its stores immediately, and add 10 
+more restaurants at the end of each year for the next 5 years. (The number of 
+restaurants open after year 5 will therefore be 100, with no plans for additional 
+restaurants beyond that point in time).  
+3. Set up Costs: The cost of remodeling and construction for each restaurant is $4 
+million right now, and this cost is expected to grow at the inflation rate in future 
+years. The cost is depreciable, straight line, over 15 years down to a salvage value, 
+which is 25% of the initial investment. 
+4. Restaurant revenues: The annual revenue at each restaurant, once established, is 
+expected to be $5 million (in year 1 dollars), growing at the inflation rate each year.
+3 
+Each restaurant will take three years to be fully established, with revenues running at 
+60%, 75% and 90% of “fully established” revenu es in the first three years of 
+operation. To illustrate, the revenues at a restaurant opened immediately, would be as 
+follows for the next fifteen years: 
+Year Fully Established Revenues % Delivered Restaurant Revenues 
+1 $5,000.00 60% $3,000.00 
+2 $5,100.00 75% $3,825.00 
+3 $5,202.00 90% $4,681.80 
+4 $5,306.04 100% $5,306.04 
+5 $5,412.16 100% $5,412.16 
+6 $5,520.40 100% $5,520.40 
+7 $5,630.81 100% $5,630.81 
+8 $5,743.43 100% $5,743.43 
+9 $5,858.30 100% $5,858.30 
+10 $5,975.46 100% $5,975.46 
+11 $6,094.97 100% $6,094.97 
+12 $6,216.87 100% $6,216.87 
+13 $6,341.21 100% $6,341.21 
+14 $6,468.03 100% $6,468.03 
+15 $6,597.39 100% $6,597.39 
+5. Restaurant costs:  The fixed cost (staffing and kitchen set up) associated with running 
+each restaurant is anticipated to be $ 2 million (in year 1 $), growing at the inflation 
+rate over time. The cost of supplies/food will be 30% of revenues and other variable 
+costs will be roughly 10% of revenues. 
+6. Marketing Costs: Whole Foods, as a company, spent about $ 600 million on 
+advertising and marketing in the most recent year, far less than its competitors, and 
+relies on word-of-mouth advocacy from its shoppers. If they do not enter the dining 
+business, these costs are expected to grow 2% a year for the next 15 years. Entering 
+the restaurant business will require them to increase this growth rate in advertising 
+costs to 2.5% a year for the next 3 years, after which the growth rate will revert back 
+to 2% a year for the remaining period. 
+7. Geographical breakdown: Whole Foods expects to get 90% of its revenues in the 
+United States & Canada and 10% from the United Kingdom and the revenues from 
+WF Dining are expected to follow the same pattern. The equity risk premiums, for 
+the three countries, in February 2019 are listed below: 
+Country Equity Risk Premium 
+United States 5.50% 
+Canada 5.50%
+4 
+United Kingdom 6.25% 
+8. The Parking Problem: Whole Foods plans to use its existing grocery store parking 
+facilities to cover the parking needs arising from the restaurant business, at least in 
+the near term. The parking lots were at 70% utilization in the most recent year and 
+the demand for parking from grocery shoppers is expected to grow 3% a year for the 
+next 15 years, even if WF Dining is not initiated. If the restaurants are opened, it is 
+expected that the capacity utilization will jump to 85% in year 1, though the growth 
+rate in the demand will continue to be 3% a year thereafter for the next 14 years. 
+When Whole Foods runs out of parking capacity, it will have to make an investment 
+to expand parking capacity in the affected stores for the long term. The cost of 
+expanding the capacity today is $150 million, but this cost will grow at the inflation 
+rate over time, and if made, will be capitalized and depreciated straight-line over 10 
+years. 
+9. G&A expenses: Whole Foods had $400 million in G&A costs in the most recent year 
+and these costs are expected to grow 3% a year for the next 15 years. It is expected 
+that Whole Foods will have an increase of $ 10 million in general and administrative 
+costs next year when WF Dining is introduced, and this cost will grow at the same 
+rate as the WF Dining’s dollar revenues after that. From an accounting perspective, 
+the company plans to allocate 6% of its total general and administrative costs to the 
+new division, rather than charge the incremental G&A cost to it. 
+10. Working Capital: WF Dining will create working capital needs, which you have 
+estimated as follows: 
+• Credit sales at the restaurants will create accounts receivable amounting to 4% 
+of revenues each year. 
+• Inventory for the restaurants will be approximately 3% of revenues. 
+• Accounts payable at the restaurants will be 2% of revenues. 
+All of these working capital investments will have to be made at the beginning of 
+each year in which goods are sold. Thus, the working capital investment for the 
+first year will have to be made at the beginning of the first year.  
+11. Side benefits for the Grocery Business: If Whole Foods goes ahead with WF Dining, 
+each grocery store at which a restaurant is located will each see the revenues from its 
+prepared foods business increase by $3 million a year (in year 1 $) and grow at the 
+inflation rate after that. The pre-tax operating margin (pre tax operating income as a 
+percent of revenues) is 10% for Whole Food’s prepared food business.
+5 
+12. Equity Risk Measures: The regression beta for Whole Foods, computed when it was a 
+publicly traded grocery company, is 0.63, calculated using monthly returns over 5 
+years from 2014 to 2017, against the S&P 500 Index. There is a more updated beta 
+that you can get for Amazon, Whole Food’s parent company, as of February 2019, 
+and it is 1.42. The details of the beta calculations are included in Exhibit 1a and 1b. 
+Finally, you have a business beta breakdown for Whole Foods that estimates betas for 
+its grocery and prepared food businesses separately, and it is in exhibit 1c; you can 
+assume that the unlevered betas computed in this table are correct estimates today, for 
+these businesses.  
+13. Debt Costs: Amazon is currently rated A3 by Moody’s, and A3 rated bonds trade at a 
+default spread of 2% over the long-term US Treasury bond rate.  
+14. Debt Choices: Whole Foods expects to finance the WF Dining division using the 
+same mix of debt and equity (in market value terms) that Amazon uses, as a company. 
+Amazon’s has debt of $24.7 billion on its balance sheet and lease commitments, as 
+evidenced in the table below:  
+Year Lease commitment 
+2019 $ 3,127 million 
+2020 $ 3,070 million 
+2021 $ 2,775 million 
+2022 $ 2,473 million 
+2023 $ 2,195 million 
+Beyond $ 13,026 million 
+The lease payment for the most recent year was $3,400 million. The current stock 
+price for Amazon is $ 1600/share and there are 490 million shares outstanding. 
+15. Taxes: Amazon’s effective tax rate over the last five years has averaged 10%. The 
+marginal tax rate for the US and globally is 25%. 
+16. Macro data: The current ten-year US Treasury bond rate is 2.75%, and the expected 
+inflation rate is 2%.  
+17. Other information: You have collected information on other publicly traded 
+restaurants in Exhibit 2. The data includes the betas of these companies and relevant 
+information on both market values of debt, equity and cash. You can assume a 25% 
+marginal tax rate for these firms.
+6 
+Questions on the Project 
+1. Accounting Return Analysis 
+• Estimate the operating income from the proposed WF Dining investment to 
+Whole Foods over the next 15 years. 
+• Estimate the after-tax return on capital for the investment over the 15-year 
+period. 
+• Based upon the after-tax return on capital, would you accept or reject this 
+project? 
+(This will require you to make some assumptions about allocation and expensing. Make 
+your assumptions as consistent as you can and estimate the return on capital.) 
+2. Cash Flow Analysis 
+• Estimate the after-tax incremental cash flows from the proposed WF Dining 
+investment to Whole Foods over the next 15 years. 
+• If the project is terminated at the end of the 15th year, and both working 
+capital and investment in other assets can be sold for book value at the end of 
+that year, estimate the net present value of this project to Whole Foods. 
+Develop a net present value profile and estimate the internal rate of return for 
+this project. 
+• If the WF Dining division is expected to have a life much longer than 15 
+years, estimate the net present value of this project, making reasonable 
+assumptions about investments needed and cash flows over the life of the 
+project. Develop a net present value profile and estimate the internal rate of 
+return for this project. 
+3. Sensitivity Analysis 
+• Estimate the sensitivity of your numbers to changes in at least three of the key 
+assumptions underlying the analysis (You get to pick what you think are the 
+three key assumptions). 
+Based upon your analysis, and any other considerations you might have, tell me whether 
+you would accept this project or reject it. Explain, briefly, your decision.
+7 
+  
+Exhibit 1a: Whole Foods – Regression Betas 
+Regression against S&P 500 – 2014 to 2017 (Delisted) 
+ 
+Exhibit 1b: Amazon – Regression Betas 
+Regression against S&P 500 – 2014 to 2018 
+ 
+Exhibit 1c: Whole Foods – Business Breakdown 
+Business % of Revenues Unlevered Beta 
+Groceries 88% 0.70 
+Prepared Foods/Catering 12% 0.90 
+Whole Foods (Company) 100% 0.72
+8 
+Exhibit 2: Publicly Traded Restaurants – Key Numbers 
+Company Name 
+Enterprise 
+Value 
+Market 
+Capitalization 
+Book 
+Value of 
+Equity 
+Total 
+Interest 
+Bearing 
+Debt 
+PV of 
+Operating 
+Leases 
+Cash & 
+Marketable 
+Securities 
+Regression 
+Beta 
+Operating 
+Income Revenues 
+SG&A 
+Expenses 
+Granite City Food & 
+Brewery Ltd 
+$129.10 $11.40 -$0.01 $58.70 $59.98 $0.98  2.56  $2.15 $131.10 $11.20 
+Chanticleer Holdings, 
+Inc 
+$29.92 $26.10 $5.53 $1.68 $2.36 $0.21  1.03  -$3.24 $6.95 $3.12 
+Meritage Hospitality 
+Group Inc. 
+$132.24 $28.70 $8.40 $0.00 $103.54 $0.00  1.27  $0.00 $0.00 $0.00 
+Flanigan's Enterprises 
+Inc. 
+$48.24 $29.70 $28.30 $14.60 $11.37 $7.43  1.45  $5.22 $84.50 $15.30 
+Eat At Joes Ltd.  $42.07 $41.00 -$1.34 $2.36 $0.66 $1.95  0.89  -$0.29 $1.22 $1.02 
+Diversified Restaurant 
+Holdings, Inc. 
+$178.29 $117.50 $34.00 $42.40 $31.59 $13.20  1.46  $1.56 $106.50 $10.60 
+Frisch's Restaurants, 
+Inc. 
+$144.87 $123.30 $83.70 $11.90 $10.81 $1.14  0.71  $12.00 $205.00 $7.40 
+Kona Grill Inc.  $159.82 $165.70 $22.40 $0.00 $0.00 $5.88  0.78  $3.14 $98.30 $9.02 
+Luby's, Inc. $277.03 $185.60 $177.50 $24.30 $68.96 $1.83  1.30  $3.60 $398.20 $33.00 
+Famous Dave's of 
+America Inc.  
+$198.41 $188.30 $32.80 $11.40 $0.00 $1.29  1.45  $8.96 $155.40 $19.50 
+Bravo Brio Restaurant 
+Group, Inc. 
+$305.06 $297.00 $103.80 $15.70 $0.00 $7.64  1.45  $22.60 $411.10 $26.30 
+Ignite Restaurant 
+Group, Inc. 
+$444.10 $317.30 $101.60 $126.80 $0.00 $0.00  1.29  -$10.90 $760.80 $57.30 
+Ruby Tuesday, Inc. $940.62 $370.90 $516.80 $273.10 $320.22 $23.60  2.69  $2.28 $1,189.40 $128.80 
+Ruth's Hospitality 
+Group Inc. 
+$490.90 $453.90 $100.70 $37.00 $0.00 $0.00  2.20  $35.70 $406.60 $42.80 
+Denny's Corporation $758.26 $588.10 $8.43 $173.10 $0.00 $2.94  1.32  $48.30 $462.60 $68.50 
+Del Frisco's Restaurant 
+Group, Inc 
+$607.70 $621.40 $196.80 $0.00 $0.00 $13.70  0.24  $29.60 $271.80 $26.80 
+Chuy's Holdings, Inc. $670.40 $666.40 $104.50 $4.00 $0.00 $0.00  0.49  $16.30 $204.40 $15.20 
+Biglari Holdings Inc. $1,026.49 $784.80 $564.60 $218.20 $101.99 $78.50  1.33  $21.90 $761.70 $125.40 
+BJ's Restaurants, Inc.  $1,145.33 $791.10 $401.40 $0.00 $377.23 $23.00  1.21  $28.60 $775.10 $58.20
+9 
+Bob Evans Farms, Inc. $1,540.89 $1,172.90 581,1 $319.10 $53.82 $4.93  1.43  $89.10 $1,618.00 $192.70 
+DineEquity, Inc. $3,510.01 $1,616.30 $315.20 $1,381.00 $618.71 $106.00  2.43  $229.90 $640.50 $143.60 
+Texas Roadhouse, Inc. $1,807.60 $1,848.60 $593.90 $53.90 $0.00 $94.90  0.88  $118.30 $1,422.60 $95.10 
+Papa John's 
+International Inc. 
+$2,515.63 $2,211.30 $156.00 $157.90 $160.13 $13.70  0.58  $106.00 $1,439.00 $141.40 
+The Cheesecake 
+Factory Incorporated 
+$3,118.90 $2,376.10 $577.40 $66.20 $738.40 $61.80  1.31  $160.40 $1,877.90 $127.80 
+Cracker Barrel Old 
+Country Store, Inc. 
+$3,321.07 $2,403.90 $484.00 $409.80 $598.77 $91.40  0.90  $202.00 $2,662.10 $1,598.60 
+Buffalo Wild Wings 
+Inc. 
+$3,174.86 $2,792.80 $465.80 $0.00 $439.56 $57.50  1.33  $104.10 $1,266.70 $110.80 
+Bloomin' Brands, Inc. $4,545.40 $3,084.30 $504.70 $1,461.10 $0.00 $0.00  0.14  $240.50 $4,129.20 $268.90 
+Brinker International, 
+Inc. 
+$4,757.54 $3,575.90 $149.40 $834.00 $410.34 $62.70  1.04  $277.60 $2,861.10 $131.00 
+Darden Restaurants, 
+Inc. (NYSE:DRI) 
+$10,063.79 $6,292.80 $2,059.50 $2,872.50 $983.09 $84.60  0.86  $571.20 $8,765.50 $864.00

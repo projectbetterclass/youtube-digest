@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/apv.xls
+
+[legacy .xls workbook: apv.xls — see raw file]

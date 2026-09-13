@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/waccGlobal.xls
+
+[legacy .xls workbook: waccGlobal.xls — see raw file]

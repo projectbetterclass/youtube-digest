@@ -1,0 +1,43 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session3Asoln.pdf
+
+Session	3A:	Post	class	test	solutions	
+1. 	Navistar	has	the	lowest	percent	for	Net	PP&E	as	a	percent	of	Gross	PP&E,	
+reflecting	both	its	age	(older	companies	tend	to	have	written	off	more	of	their	
+asset	base	than	younger	ones)	and	its	asset	types	(physical	equipment	gets	
+depreciated	more	quickly	and	completely).	
+ Navistar  Nordstrom   Google  
+Gross Property, Plant & Equipment  $    3,660.00   $   13,131.00   $   115,148.00  
+Accumulated Depreciation  $   (2,333.00)  $   (7,178.00)  $    (30,561.00) 
+  Net Property, Plant & Equipment  $    1,327.00   $     5,953.00   $     84,587.00  
+Net PP&E as % of Gross PP&E 36.26% 45.34% 73.46% 
+	
+2. The	conventional	definition	of	working	capital	indicates	that	Google	has	the	
+largest	working	capital	needs,	and	that	Nordstrom	has	negative	working	
+capital.	However,	cash	&	marketable	securities	are	a	large	part	of	Google’s	
+current	assets,	and	short-term	debt	comprises	some	part	of	working	capital	
+for	each	company.	A	more	meaningful	measure	of	working	capital	can	be	
+computed	by	netting	out	non-debt	current	liabilities	from	non-cash	current	
+assets.		That	adjustment	makes	a	huge	difference	for	Google.	
+ 
+Navistar  Nordstrom   Google  
+Current Assets  $    4,525.00   $     3,230.00   $   152,578.00  
+Current Liabilities  $    2,683.00   $     3,520.00   $     45,221.00  
+Working Capital  $    1,842.00   $      (290.00)  $   107,357.00  
+    
+Non-cash Current Assets  $    3,028.00   $     2,377.00   $     32,903.00  
+Non-debt Current Liabilities  $    2,587.00   $     3,276.00   $     44,022.00  
+Non-cash & non-debt working capital  $       441.00   $      (899.00)  $    (11,119.00) 
+	
+3. e.	All	of	the	above.	Taking	big	restructuring	charges,	losing	money,	paying	
+dividends	that	exceed	earnings	and	buying	back	stock	all	drain	shareholders’	
+equity.	
+4. c.	Google	has	made	a	substantial	acquisition	and	paid	significantly	more	
+than	book	value	for	the	target	firm.	It	is	possible	that	the	target	company	
+has	significant	intangible	assets	or	that	Google	overpaid,	but	goodwill	by	
+itself	does	not	give	you	that	information.	
+5. b.	Underfunded	pension	fund	and	post-retirement	obligations	(total	
+obligations	netted	out	against	pension	fund	assets).	In	some	countries,	
+companies	show	pension	fund	assets	on	the	asset	side	of	the	balance	sheet	
+and	pension	fund	liabilities	on	the	liability	side,	but	the	fact	that	Navistar	has	
+this	item	only	on	the	liability	side	indicates	that	it	is	underfunded	pension	
+obligations.

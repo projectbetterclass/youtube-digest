@@ -1,0 +1,30 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session6soln.pdf
+
+Session	6:	Post	class	test	solutions	
+1. d.	Difference	between	gross	and	operating	margin.		To	the	extent	that	
+COGS	represents	variable	costs	and	other	operating	expenses	are	fixed,	
+companies	which	have	high	gross	margins	and	low	operating	margins	should	
+benefit	more	from	economies	of	scale.	
+2. c.	Because	book	values	are	more	likely	to	reflect	the	capital	invested	in	
+existing	assets	and	projects.	Market	values	may	reflect	current	values	for	
+assets	better	than	book	values,	but	the	objective	in	accounting	return	is	to	
+measure	how	much	you	make	on	existing	investments,	given	how	much	you	
+invested	in	them	(not	how	much	they	are	worth	today).	
+3. d.	Total	Debt/	EBITDA.	Distress	risk	comes	from	the	inability	to	make	debt	
+payments	and	EBITDA	is	the	cash	available	to	make	these	debt	payments.	A	
+company	that	has	a	lot	of	debt	relative	to	its	EBITDA	has	more	distress	risk,	
+even	if	it	has	low	debt	to	capital	ratios.	And	total	debt	is	a	more	
+comprehensive	measure	of	what	is	owed	than	long	term	debt.	
+4. b.	Average	EBIT	over	time/	Current	year’s	interest		expense.	Since	the	
+company’s	income	is	volatile,	I	would	use	the	average	EBIT.	However,	since	
+its	debt	load	has	been	increasing,	I	should	be	looking	at	the	current	year’s	
+interest	expense	(since	it	will	be	higher	than	the	interest	expenses	in	the	
+past)	and	is	more	indicative	of	what	the	company	owes.	
+5. Ranking	from	most	to	least	efficient:	
+• Most	efficient:	High	sales	to	capital	and	high	operating	margins	
+• Lease	efficient:		Low	sales	to	capital	and	low	operating	margins	
+• The	other	two	will	fall	in	the	middle	
+In	fact,	the	product	of	sales	to	capital	and	operating	margin	is	the	return	on	
+invested	capital,	with	higher	returns	on	capital	going	with	more	efficient	
+investing.	
+Pre-tax	ROIC	=	Sales/Invested	Capital	*	EBIT/Sales

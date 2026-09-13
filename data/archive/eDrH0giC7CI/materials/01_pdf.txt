@@ -1,0 +1,168 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/Disclosure.pdf
+
+DISCLOSURE DILEMMA: WHEN 
+MORE (DATA) ≠ MORE 
+INFORMATION!
+Lessismore!
+2
+Anageofinformation?
+¨Bigger filings: In the last few decades, as disclosure 
+requirements for publicly traded firms have increased, annual 
+reports and regulatory filings have become heftier. 
+¨Changing companies, Changing rules: Some of this surge can 
+be attributed to companies becoming more complex and 
+geographically diversified, but much of it can be traced to 
+increased disclosure requirements from accounting rule 
+writers and market regulators. 
+¨Moreisbetter: Driven by the belief that more disclosure is 
+always better for investors, each market meltdown and 
+corporate scandal has given rise to new reporting additions. 
+¨But is it? I look at why well-meaning attempts to help 
+investors have had the perverse effect of leaving them more 
+confused and lost than ever before.
+3
+Time Trends in Reporting
+¨ Until the early 1900s, reporting by public companies was meager, varied 
+widely across firms, anddepended largely on the whims of managers.  It took 
+theGreat Depression forthe New York Stock Exchange towake up to the 
+need for improved and standardized disclosurerequirements, and for the 
+government to create a regulatory body, the Securities and Exchange 
+Commission (SEC). The SEC was created by the Securities Act of 1933, and 
+augmented by the Securities Exchange Act of 1934, covering secondary 
+trading of securities. 
+¨ Almost in parallel, accounting as a profession found its footing and worked on 
+creating rules that would apply to reporting, at least at publicly traded 
+companies, with GAAP making its appearance in 1933. In the years since, 
+disclosure requirements have changed and expanded, with companies in 
+foreign markets creating their own rules in IFRS. 
+¨ I will focus on two filings that companies make with the SEC.
+¤ The first is the 10-K, an annual filing that all US publicly traded companies have tomake.
+¤ The second is the S-1, a prospectus that private companies planning to go public have tofile.
+4
+The Increasing 10-K?Coca Cola as an 
+example
+5
+Across10-Ks: Evidence from a study of 
+10Ks (1996-2013)
+6
+Update on 10-K Word Count, through 
+2017…
+7
+As 10-Ks get bigger, readability has 
+suffered…
+8
+The Primary Culprit(s) behind the Surge!
+9
+And the bloat-causing topics…
+10
+Moving on to the S-1: They’ve clearly 
+become bigger…
+11
+But they have not become more 
+informative…
+¨ Morewords,lessclarity? Airbnb, in its final prospectus, before its initial public 
+offering asserted that there would 47.36 million class A and 490.89 million class B 
+shares, after its offering, but then added that this share count excluded not only 
+30.87 million options on class A shares and 13.79 million options on class B 
+shares, but also 37.51 million restricted stock units, subject to service and vesting 
+requirements. While this is technically "disclosure", note that the key question of 
+why restricted stock units are being ignored in share count is unanswered.
+¨ Big Story Pieces, no details: The second is that companies have used the SEC's 
+restrictions on making projections to their advantage, to tell big stories about 
+value, while holding back details. For some companies, a key metric that is 
+emphasized is the total addressable market (TAM), a critical number in 
+determining value, but one that can be stretched to mean whatever you want it 
+to, with little accountability built in. In 2019, Uber claimed that its TAM was $5.2 
+trillion, counting in all car sales and mass transit in that number, and Airbnb 
+contended that its TAM was $3.4 trillion, five times larger than the entire hotel 
+market's revenues in that year .
+¨ Creative framing: Finally, while most companies, that are on the verge of going 
+public, lose money and burn through cash, they have found creative ways of 
+recomputing or adjusting earnings to make it look like they are making money.
+12
+So,whyisaddeddisclosurenothelping
+investors/traders?
+¨Information Overload: Company filings are becoming data dumps, and as 
+the dumps get bigger, finding relevant information gets more difficult, 
+leading perversely to mental short-cuts.
+¨Feedbackloop:Forsomecompanies,disclosurehasbecomeanexcusefor
+adoptingrules/practices, especially on corporate governance, thatare
+patentlyunfairtoshareholders, and then disclosing these rules/practices. 
+¨WrongAudience(s): Regulators seem to be unclear about the audience 
+that they are catering to, in their disclosures. Governments, consumers, 
+shareholders and bankers require disclosure from companies, buttheir
+disclosureneedsareverydifferent.Cramming them all into one report 
+creates chaos.
+¨Backward Looking: The disclosure rules, at least as written currently, 
+require extensive revelations about the past, but severely limit forward-
+looking statements.
+¨MissionConfusion:Is the end game protecting investors or is it informing 
+them?
+13
+1. Information Overload
+¨Distractions: The human mind is easily distracted and as 
+filings get longer and more rambling, it is easy to lose sight of 
+the mission on hand and get lost on tangents. 
+¨Confusing small and big: As disclosures mount up on multiple 
+dimensions, it is worth remembering that not all details 
+matter equally. Put simply, sifting though the details that 
+matter from the many data points that do not becomes more 
+difficult, when you have 250 pages in a 10-K or S1 filing. 
+¨Mental Short Cuts: Behavioral research indicates that as 
+people are inundated with more data, their minds often shut 
+down and they revert backto simplistic decision-making tools 
+that throw out much or all ofthe data designed to help them 
+on that decision.
+14
+2. Catertoyouraudience
+15
+3. Future, not past!
+¨Much of regulatory rule making is about forcing companies to 
+reveal what has happened in their past, and while I would not take 
+issue with that, I do take issue with the restrictions that disclosure 
+laws put on forecasting the future. 
+¨With the prospectus, for instance, I find it odd that companies are 
+tightly constrained on what they can say about their future, butcan 
+wax eloquently about what has happened in the past. 
+¨Is it possible that they will exaggerate their strengths and minimize 
+their weaknesses? Of course, but investors know that already and 
+can make their own corrections to these forecasts. 
+¨More importantly, stopping companies from making these 
+forecasts does not block others (analysts, market experts, sales 
+people), often less scrupulous and less informed than the 
+companies, from making their own forecasts.
+16
+4. Mission Confusion
+¨While it is easy to argue that you should do both, 
+regulators have todecide which mission takes 
+primacy, and from my perspective, it looks like 
+protection is often given the lead position. 
+¨Not surprisingly, it follows that disclosures become 
+risk averse and lawyerly, and that companies follow 
+templates that are designed to keep them on the 
+straight and narrow, rather than ones that are more 
+creative and focused on telling their business stories 
+to investors.
+17
+DisclosureFirstPrinciples
+¨ Less is more: I do think that most regulators and investors are aware that we are well past the point of 
+diminishing returns on more disclosure, and that disclosures need slimming down. 
+¤ TheBig 3: The risk profile, internal control and fair value/impairment sections need to be drastically reduced, and one 
+way to prune is to ask investors (not accountants or lawyers) whether they find these disclosures useful. 
+¤ One in, one out: I would use a rule that has stood me in good stead, when trying to keep my clothes from overflowing 
+my limited closet space, in the disclosure space. When a new disclosure is added, an old one of equivalent length has 
+tobe eliminated. 
+¤ Words test: Any disclosures that draw disproportionately on boilerplate language need to be shrunk or even 
+eliminated.
+¨ Don't forget traders: Rather than adopt a laissez fare approach, and let companies choose to provide 
+these numbers, often on their own terms and with little oversight, it may make more sense that 
+disclosure requirements on pricing and peer groups be more specific, allowing for different metrics in 
+different sectors.
+¨ Let companies tell stories and make projections:The idea that allowing companies to make projections 
+and fill in details about what they see in their future will lead to misleading and even fraudulent claims 
+does not give potential buyers of its shares enough credit for being able to make their own judgments.
+¨ With triggered disclosures: To the extent that some companies want to tell stories built around non-
+financial metrics like users, subscribers, customers or download, let them,butany company that wants to 
+build its story around its user or subscriber numbers (Uber, Netflix and Airbnb) will have to then provide 
+full information about these users and subscribers (user acquisition costs, churn/renewal rates, cohort 
+tables etc.)

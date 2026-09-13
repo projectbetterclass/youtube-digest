@@ -1,0 +1,190 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/earningspricevsvalue.pdf
+
+A	VIOLENT	EARNINGS	SEASON:	
+PRICING	AND	VALUE	
+PERSPECTIVES	
+Change	is	the	only	constant.
+2
+The	Earnings	Season	
+¨  Every	three	months	in	the	US,	companies	go	through 	
+the	ritual	of	reporFng	earnings	to	markets,	
+ostensibly	with	the	objecFve	of	giving	them	updated	
+informaFon	on	what	their	business	looked	like	over	
+the	most	recent	three-month	period.	
+¨  That	earnings	report	is	much	anFcipated,	with	
+analysts	forecasFng	what	they	expect	it	to	contain.	
+¨  The	actual	numbers	are	compared	to	expected	
+numbers,	and	stock	prices	adjust,	someFmes	in	
+abrupt	and	signiﬁcant	ways.
+3
+Price	versus	Value	
+PRICE
+Value Price
+THE GAP
+Price minus Value
+Drivers of intrinsic value
+- Cashﬂows from existing assets
+- Growth in cash ﬂows
+- Quality of Growth
+Drivers of price
+- Market mood & momentum
+- Incremental information
+- Liquidity
+INTRINSIC 
+VALUE
+Accounting 
+Estimates
+Valuation 
+Estimates
+4
+Fundamental	versus	Incremental	
+InformaFon	
+¨  Fundamental	informaFon	reﬂects	news	that	changes	
+your	expectaFon	of	cash	ﬂows,	growth	and	risk,	and	by	
+extension,	value.	
+¨  Incremental	informaFon	is	whatever	the	market	is	
+focusing	on	right	now,	which	may	be	fundamental,	a	
+proxy	for	a	fundamental	or	even	a	random	variable.	
+¨  Drawing	a	line	between	fundamental	and	incremental	
+informaFon	is	diﬃcult	to	do,	because:	
+¤  Investors	can	disagree	on	whether	a	news	story	has	a	
+fundamental	eﬀect	or	not.	
+¤  Traders	can	disagree	about	which	item	should	be	driving	prices	
+at	the	moment.
+5
+Earnings	Reports:	The	Pricing	Game	
+Revenue Drivers, i.e., units 
+sold, users, subscribers
+Revenues
+Operating Income
+Net Income
+Earnings per share
+Reported Values for last quarter (period)
+Management Guidance for future
+Expected Values for last quarter (period)
+Expected Values for beyond quarter
+The Company
+New Price
+Expected Values for next quarter (period)
+Expected Values for beyond next quarter
+Past history of beating earnings
+Management history on guidance
+Investor Characteristics (Investors or Traders, Pricing Focus, Time 
+Horizon)
+History of operating results, expectations, 
+guidance and out(under) performance.
+The earnings 
+report
+Measured 
+against 
+expectations
+Expectations 
+get reset
+Prices 
+get reset
+Market 
+Mood Market Magic
+6
+ComplicaFons	and	Diﬀerences	
+¨  What	is	the	pricing	catalyst?	
+¤  Can	be	earnings	per	share,	revenues	or	operaFng	income,	a	driver	of	
+revenues	or	management	guidance	for	the	future.	
+¤  Can	result	in	mixed	messages	from	earnings	reports	
+¤  Market	reacFon	can	vary	across	stocks,	across	investors	and	across	
+Fme.	
+¨  Whose	expectaFons?	
+¤  Analyst	ExpectaFons	are	not	always	market	expectaFons	
+¤  Company’s	prior	history	on	beaFng	expectaFons	get	built	into	market	
+expectaFons.	
+¨  Price	ReacFon	
+¤  Company’s	history	(volaFlity	and	credibility)	
+¤  Investor	composiFon	(pricers	versus	valuers)	
+¤  Market	mood
+7
+Earnings	Reports:	The	Value	Eﬀect	
+Total Market
+X
+Market Share
+=
+Revenues (Sales)
+-
+Operating Expenses
+=
+Operating Income
+-
+Taxes
+=
+After-tax Operating Income
+-
+Reported growth in revenues and breakdown 
+of revenues, by product & region, can be used 
+to recalibrate the "total market"
+Reinvestment
+=
+After-tax Cash Flow
+Reported revenues for company can be divided 
+by the total market to get an actual market 
+share, which measured against predicted, can 
+lead to a shift in "networking" beneﬁts.
+Dividing the operating income by revenues in the 
+report yields an operating margin. That margin 
+can be compared to forecast margins to see if 
+the competitive landscape has changed.
+Dividing the revenue change in the period by 
+the reinvestment made by the company (in net 
+capital expenditure and working ) gives a sales 
+to capital ratio. That can be used to assess 
+whether you are being realistic in estimating 
+how efﬁciently the company can grow.
+Looking at year to year changes in revenues 
+and income can give you a snapshot of how 
+risky the ﬁrm is, and in conjunction with the 
+market numbers, can lead to rethinking the risk 
+part of the story.
+Adjusted for operating risk 
+with a discount rate and for 
+failure with a probability of 
+failure.
+VALUE OF 
+BUSINESS
+Adjust for time value & risk
+Effective tax rate in report, estimated by 
+dividing taxes paid by taxable income, casts 
+light on "tax" part of story.
+Information in Earnings Report
+Updating operating cash ﬂow and contractual 
+commitments may lead you to reassess the risk 
+of failure
+Pre-Report Narrative for the Company
+Your story for the company's future, reﬂecting the businss it is in, its place in that business, 
+expected proﬁtability and risk -> Valuation Inputs and a Value for the company
+Post-Report Narrative for the Company
+Your modiﬁed story for the company's future, the business(es) it is in, its place in that 
+business, expected proﬁtablity & risk-> Valuation inputs and Value for the company
+8
+ImplicaFons	
+¨  An	earnings	report	can	cause	big	change	in	value:	For	an	
+earnings	report	to	signiﬁcantly	aﬀect	value,	a	key	part	or	
+parts	of	the	narraFve	have	to	be	changed	by	an	earnings	
+report.		
+¨  Big	value	changes	are	more	likely	in	young	companies:	
+These	signiﬁcant	shiYs	in	value	are	more	likely	to	occur	
+with	young	companies	than	where	business	models	are	
+sFll	in	ﬂux	than	with	more	established	ﬁrms.		
+¨  There	is	more	to	an	earnings	report	than	the	earnings	
+per	share:	The	relentless	focus	on	earnings	per	share	can 	
+someFmes	distract	investors	from	the	real	news	in	the	
+earnings	report.
+9
+The	Rest	of	the	Story	
+¨  Make	it	real		
+¤  The	Race	to	the	Top:	Alphabet	and	Apple	
+¤  The	DisrupFon	of	Entertainment:	Amazon	and	Ne[lix		
+¤  Management	Ma\ers:	Facebook	and	Twi\er	
+¤  The	Icarus	Eﬀect:	LinkedIn	and	GoPro	
+¨  The	Players	
+¤  Investors,	Traders	and	Earnings	Reports	
+¤  Companies	and	Earnings	Reports	
+¨  The	Rule	Makers	
+¤  The	“perfect”	market	
+¤  Rules,	regulaFons	and	taxes	to	get	there?

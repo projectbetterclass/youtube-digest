@@ -1,0 +1,138 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ginzuWebcast.pdf
+
+A	GUIDE	TO	MODELING
+FCFFSIMPLEGINZU.XLS
+2
+The	model	is	your	tool… for	telling	a	story
+The Numbers People
+Favored Tools
+- Accounting statements
+- Excel spreadsheets
+- Statistical Measures
+- Pricing Data
+Illusions/Delusions
+1. Precision: Data is precise
+2. Objectivity: Data has no bias
+3. Control: Data can control reality
+The Narrative People
+Favored Tools
+- Anecdotes
+- Experience (own or others)
+- Behavioral evidence
+Illusions/Delusions
+1. Creativity cannot be quantiﬁed
+2. If the story is good, the investment will be.
+3. Experience is the best teacher
+A Good Valuation
+3
+Severstal:	Reading	the	(historical)	tea	
+leaves
+Aswath Damodaran
+0% 
+5% 
+10% 
+15% 
+20% 
+25% 
+30% 
+35% 
+$0
+$2,000
+$4,000
+$6,000
+$8,000
+$10,000
+$12,000
+$14,000
+$16,000
+$18,000
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+Severstal:	Revenues,	Operating	Income	and	Margins
+Revenues Operating	Income Operating	Margin
+4
+Operating	income,	Reinvestment	&	Return	
+on	Capital	-
+Aswath Damodaran
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+ 0.0%  
+200,000.0%	
+400,000.0%	
+600,000.0%	
+800,000.0%	
+1,000,000.0%	
+1,200,000.0%	
+1,400,000.0%	
+1,600,000.0%	
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+Severstal:	Return	on	Invested	Capital	over	time
+Effective	tax	rate Operating	income	(after-tax) Invested	Capital ROIC
+5
+Fundamentals:	Steel	Companies	in	April	
+2017
+Broad	Group
+Historical	growth	
+in	Revenues	-
+Last	3	years
+Expected	
+growth	in	
+revenues	-
+Next	2	years
+Return	on	
+Capital	(ROC	
+or	ROIC)
+Pre-tax	
+Operating	
+Margin
+Effective	Tax	
+Rate
+Debt	to	
+Capital	
+Ratio	
+(Market) Debt/EBITDA
+Dividend	
+Payout
+Emerging	Markets
+-3.34% 9.51% 4.70% 5.35% 14.58% 12.50% 4.38 100.30% 
+Global -2.96% 8.03% 3.65% 4.56% 15.17% 12.05% 3.89 70.32% 
+Severstal -14.40% 5.61% 47.64% 25.81% 5.65% 3.75% 1.07 56.82% 
+Aswath Damodaran
+Shrinking faster & 
+expected to grow 
+slower than peer 
+group
+Immensely more 
+profitable than the 
+rest of the sector
+Has less debt 
+than other 
+steel 
+companies
+While 
+holding 
+back more 
+cash
+6
+The	Severstal Story:	A	Reality	Based	Steel	
+Company!
+¨ Severstal is	a	company	in	a	bad	business	(shrinking	
+revenues,	margin	pressures)	that	has	worked	at	divesting	
+the	portions	of	its	business	that	have	the	lowest	margins	
+(North	America),	reducing	its	debt	load	and	focusing	on	
+its	high	margin	domestic	business
+¨ In	my	story,	the	company	will	continue	to	emphasize	
+high	margins	over	growth	and	while	country	and	
+commodity	price	risk	lurk,	it	will	be	able	to	weather	the	
+storms	with	its	domestic	profits.	Growth	with	return	to	
+low	single	digits	and	margins	will	stabilize	at	close	to	its	
+current	high	levels	(because	of	the	company’s	
+competitive	advantages	in	Russia).
+Aswath Damodaran

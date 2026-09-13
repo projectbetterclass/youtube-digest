@@ -1,0 +1,160 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/sovrrating2020.xlsx
+
+Sheet: Sheet1
+Country | S&P Rating | Moody's rating
+Abu Dhabi | AA | Aa2 | GOVERNMENT BOND RATINGS 
+Albania | B+ | B1 | In local currency
+Andorra (Principality of) | BBB  | Baa2 | S&P: These are the S&P sovereign local currency ratings
+Angola | B-  | B3 | Moody's: These are the Moody's local currency rating
+Argentina | CC  | Caa2 | In red: These are countries where S&P has a rating and Moody's does not. The following lookup table is used to estimate the
+Armenia | NA | Ba3 | Moody's equivalent rating for these countries.
+Aruba | BBB+ | Baa1 | S&P | Moody's
+Australia | AAA | Aaa | A | A2
+Austria | AA+ | Aa1 | A- | A3
+Azerbaijan | BB+ | Ba2 | A+ | A1
+Bahamas | BB+ | Baa3 | AA | Aa2
+Bahrain | B+  | B2 | AA- | Aa3
+Bangladesh | BB- | Ba3 | AA+ | Aa1
+Barbados | B- | Caa1 | AAA | Aaa
+Belarus | B | B3 | B | B2
+Belgium | AA | Aa3 | B- | B3
+Belize | B- | B3 | B+ | B1
+Benin | B+ | B2 | BB | Ba2
+Bermuda | A+  | A2 | BB- | Ba3
+Bolivia | BB-  | Ba3 | BB+ | Ba1
+Bosnia and Herzegovina | B  | B3 | BBB | Baa2
+Botswana | A- | A2 | BBB- | Baa3
+Brazil | BB-  | Ba2 | BBB+ | Baa1
+Bulgaria | BBB  | Baa2 | C | C2
+Burkina Faso | B | B2 | C- | C3
+Cambodia | NA | B2 | C+ | C1
+Cameroon | B  | B2 | CC | Ca2
+Canada | AAA | Aaa | CC- | Ca3
+Cape Verde | B | B2 | CC+ | Ca1
+Cayman Islands | NA | Aa3 | CCC | Caa2
+Chile | A+ | A1 | CCC- | Caa3
+China | A+ | A1 | CCC+ | Caa1
+Colombia | BBB- | Baa2
+Congo (Democratic Republic of) | CCC+  | Caa1
+Congo (Republic of) | B- | Caa2
+Cook Islands | B+ | B1
+Costa Rica | B+  | B1
+Côte d'Ivoire | NA | Ba3
+Croatia | BBB- | Ba2
+Cuba | NA | Caa2
+Curacao | BBB+ | Baa1
+Cyprus | BBB- | Ba2
+Czech Republic | AA- | Aa3
+Denmark | AAA | Aaa
+Dominican Republic | BB- | Ba3
+Ecuador | B- | B3
+Egypt | B | B2
+El Salvador | B- | B#
+Estonia | AA- | A1
+Ethiopia | B | B1
+Fiji | BB- | Ba3
+Finland | AA+ | Aa1
+France | AA | Aa2
+Gabon | NA | Caa1
+Georgia | BB | Ba2
+Germany | AAA | Aaa
+Ghana | B | B3
+Greece | BB-  | B1
+Guatemala | SD  | Ba1
+Guernsey (States of) | BB- | Baa1
+Honduras | BB- | B1
+Hong Kong | AA+ | Aa2
+Hungary | BBB | Baa3
+Iceland | A | A2
+India | BBB- | Baa2
+Indonesia | BBB | Baa2
+Iraq | B- | Caa1
+Ireland | AA- | A2
+Isle of Man | NA | Aa2
+Israel | AA- | A1
+Italy | BBB  | Baa3
+Jamaica | B+ | B2
+Japan | A+  | A1
+Jersey (States of) | AA- | A1
+Jordan | B+ | B1
+Kazakhstan | BBB- | Baa3
+Kenya | B+ | B2
+Korea | AA | Aa2
+Kuwait | AA | Aa2
+Kyrgyzstan | NR | B2
+Latvia | A | A3
+Lebanon | CCC  | Caa2
+Liechtenstein | AAA | Aaa
+Lithuania | A | A3
+Luxembourg | AAA | Aaa
+Macao | NA | Aa3
+Macedonia | BB- | Ba3
+Malaysia | A- | A3
+Maldives | NA | B2
+Mali | NA | B3
+Malta | A-  | A2
+Mauritius | NA | Baa1
+Mexico | BBB+  | A3
+Moldova | NA | B3
+Mongolia | B | B3
+Montenegro | B+ | B1
+Montserrat | BBB- | Baa3
+Morocco | BBB- | Ba1
+Mozambique | CCC+ | Caa2
+Namibia | NA | Ba2
+Netherlands | AAA | Aaa
+New Zealand | AA  | Aaa
+Nicaragua | B- | B2
+Niger | NA | B3
+Nigeria | B | B2
+Norway | AAA | Aaa
+Oman | BB  | Ba1
+Pakistan | B- | B3
+Panama | BBB+ | Baa1
+Papua New Guinea | B | B2
+Paraguay | BB | Ba1
+Peru | BBB+ | A3
+Philippines | BBB+ | Baa2
+Poland | A- | A2
+Portugal | BBB  | Baa3
+Qatar | AA- | Aa3
+Ras Al Khaimah (Emirate of) | NA | Caa1
+Romania | BBB-  | Baa3
+Russia | BBB- | Baa3
+Rwanda | B+ | B2
+Saudi Arabia | A- | A1
+Senegal | B+ | Ba3
+Serbia | BB+  | Ba3
+Sharjah | NA | A3
+Singapore | AAA | Aaa
+Slovakia | A+ | A2
+Slovenia | AA- | Baa1
+Solomon Islands | NA | B3
+South Africa | BB  | Baa3
+Spain | AA | Baa1
+Sri Lanka | A | B2
+St. Maarten | B | Baa3
+St. Vincent & the Grenadines | NA | B3
+Suriname | B | B2
+Swaziland | NA | B2
+Sweden | AAA | Aaa
+Switzerland | AAA | Aaa
+Taiwan | AA- | Aa3
+Tajikistan | B- | B3
+Tanzania | NA | B1
+Thailand | BBB+  | Baa1
+Togo | B | B3
+Trinidad and Tobago | BBB | Ba1
+Tunisia | NA | B2
+Turkey | B+ | B1
+Turks and Caicos Islands | BBB+ | Baa1
+Uganda | B | B2
+Ukraine | B | Caa1
+United Arab Emirates | AA | Aa2
+United Kingdom | AA | Aa2
+United States | AA+ | Aaa
+Uruguay | BBB | B1
+Uzbekistan | BB- | Baa2
+Venezuela | SD | C
+Vietnam | BB | Ba3
+Zambia | CCC+ | Caa2

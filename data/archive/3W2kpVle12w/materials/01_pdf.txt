@@ -1,0 +1,148 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/TotalBetaInPractice.pdf
+
+IN PRACTICE WEBCAST: ESTIMATING 
+COST OF EQUITY & CAPITAL FOR 
+PRIVATELY OWNED BUSINESSES
+Aswath DamodaranJanuary 2018
+Aswath Damodaran 1
+2
+Cost of Equity & Capital: The Public 
+Company Model
+¨ Marginal Investors are diversified: The models for 
+estimating cost of equity for publicly traded 
+companies are built on the presumption that the 
+marginal investors in the company are diversified. 
+That allows us to focus on measure just the exposure 
+to risk that cannot be diversified away (market risk) 
+with a beta or betas.
+¨ Market prices are observable: The cost of capital is a 
+market-driven number and we use market values for 
+equity and debt to get D/E ratios to lever betas and 
+D/Capital ratios to get to cost of capital.
+Aswath Damodaran
+2
+3
+The Private Business Challenge
+¨ Owners and potential buyers are undiversified or only 
+partially diversified: In many privately owned businesses, the 
+owner/potential buyer sees more than just market risk inthe
+company. At the limit, with a completely undiversified 
+owner/buyer, all risk matters.
+¤ Implication: Using a market beta or betas to estimate cost of equity will give 
+you too low a cost of equity, since you are capturing only market risk in it.
+¤ Fix: If you can adjust the cost of equity to incorporate company specific risks, 
+you will have a more realistic estimate of the cost of equity
+¨ No Market Value: Private businesses are not traded. There is 
+no observable market value forthe equity.
+¤ Implication: You have only book values for debt and equity, often at 
+unrealistic values (in relation to what you can get for the equity in the
+market today).
+¤ Fix: If you can estimate market values of equity and debt, you can use 
+these estimates.
+Aswath Damodaran
+3
+4
+1. Not Diversified?
+Aswath Damodaran
+4
+80 units
+of firm 
+specific
+risk
+20 units 
+of market 
+risk
+Private owner of business
+with 100% of your weatlth
+invested in the business
+Publicly traded company
+with investors who are diversified
+Is exposed
+to all the risk
+in the firm
+Demands a
+cost of equity
+that reflects this
+risk
+Eliminates firm-
+specific risk in 
+portfolio
+Demands a
+cost of equity
+that reflects only 
+market risk
+Market Beta measures just
+market risk
+Total Beta  measures all risk
+= Market Beta/ (Portion of the 
+total risk that is market risk)
+Private Owner versus Publicly Traded Company Perceptions of Risk in an Investment
+5
+Estimating Company Specific Risk
+Aswath Damodaran
+5
+6
+Estimating a total beta
+¨ Start with a market beta (unlevered) for the business or businesses 
+that your private company is in, just like you would for a public 
+company.
+¨ To get a measure of how much of the risk in the firm comes from 
+the market and how much is firm-specific, use the correlation of 
+the publicly traded companies in the business with the market.
+¨ Estimate the total unlevered Beta
+= Market Beta/ Correlation  with the market
+¨ For a privately owned apparel company in 2018, for instance,the
+numbers would have looked as follows:
+¤ Average unlevered beta for apparel companies = 0.81
+¤ Average correlation of apparel companies with market = 0.25
+¤ Total unlevered beta for private apparel company = 0.81/0.25 = 3.2
+Aswath Damodaran
+6
+7
+2. No Market Value?
+1. Target Debt Ratio: If you have an unusual business owner 
+who has a target debt ratio in mind, use that debt ratio.
+2. Industry Average Debt Ratio: Use the average debt ratio for 
+publicly traded companies in the same business.
+3. Use your own estimates of market equity and debt for the 
+company, by
+• Applying a multiple to earnings or book value, based upon publicly
+traded companies
+• Doing a DCF valuation of the private business and using your 
+estimated values of equity and debt; this will create circularity in 
+your valuation, since you need the market values to get a cost of 
+capital and a cost of capital to get the market values.
+Aswath Damodaran
+7
+8
+With an apparel company: Cost of equity
+¨ Using the industry average beta approach,
+¤ Total Unlevered Beta = 3.24
+¤ D/E ratio for public apparel companies = 34.18%
+¤ Tax rate = 40% (using tax rate for individual owned business)
+¤ Levered Beta = 3.24 (1+(1-.4) (.3418)) = 3.90
+¤ Cost of equity (with a risk free rate of 2.5% and an ERP of 5%) = 
+2.5% + 3.90 (5%) = 21.9%
+¨ For a public apparel company (using the unlevered
+market beta of 0.81, a tax rate of 24% and a D/E ratio of
+34.81%):
+¤ Levered Beta = 0.81 (1+(1-.24) (.3418)) = 1.02
+¤ Cost of equity = 2.5% + 1.02 (5%) = 7.6%
+Aswath Damodaran
+8
+9
+From cost of equity to get to cost of capital
+¨ Cost of debt: Rather than use the book interest rate, use the 
+same principles that govern cost of debt for a publicly traded 
+company. Use an interest rate that reflects what the private 
+company can borrow at today, long term.
+¨ Debt ratio: Be consistent with the choice that you made 
+(target, industry average, your estimate) when you computed 
+levered beta.
+¨ For the private apparel company,
+¤ Synthetic rating based on coverage ratio = BBB
+¤ Debt to Capital ratio = 25.47% (Industry Average)
+¤ Cost of debt based on rating = 2.5% + 1.25% = 3.75%
+¤ Cost of Capital = 21.9% (.7453) + 3.75% (1 -.40) (.2547)) = 16.90%
+Aswath Damodaran
+9

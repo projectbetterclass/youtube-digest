@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/ValeSept2015.xls
+
+[legacy .xls workbook: ValeSept2015.xls — see raw file]

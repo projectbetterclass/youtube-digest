@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/EVAIndia.xls
+
+[legacy .xls workbook: EVAIndia.xls — see raw file]

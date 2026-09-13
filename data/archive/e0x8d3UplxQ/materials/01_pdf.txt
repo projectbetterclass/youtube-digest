@@ -1,0 +1,185 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/UserbasedValue.pdf
+
+USER AND SUBSCRIBER 
+BUSINESSES: THE GOOD, THE 
+BAD AND THE UGLY
+Aswath Damodaran
+2
+Setting the Stage
+Aswath 
+Damodaran
+2
+¨ In a series of posts over the course of the last year, I 
+argued that you can value users and subscribers at 
+businesses, using first principles in valuation, and have 
+used the approach to value Uber riders, Amazon Prime 
+members and Spotify &amp; Netflix subscribers. 
+¨ I was reminded of these principles this week, first as 
+¤ I wrote about Walmart's $16 billion bid for 77% of Flipkart, a 
+deal at least partially motivated by user numbers, then again as 
+¤ I read a news story about MoviePass and the potential demise of 
+its "too good to be true" model and finally as 
+¤ I tripped over a LimeBike on my walk home.
+3
+User Based Value: The Trigger
+Aswath 
+Damodaran
+3
+¨ In a post, about a year ago, I approached Uber, as I 
+would any other business, and valued it, based upon 
+aggregated revenues, earnings and cash flows, 
+discounted back at a company-wide cost of capital. 
+¨ I was taken to task for applying an old-economy 
+valuation approach to a new-economy company and was 
+told that that the companies of today derive their value 
+from customers, users and subscribers. 
+¨ While my initial response was that you cannot pay 
+dividends with users, I realized that there was a core 
+truth to the critique and that companies are increasingly 
+building their businesses around their members.
+4
+1. Valuing Existing Users
+Aswath Damodaran
+4
+5
+2. Valuing New Users
+Aswath Damodaran
+5
+6
+3. Corporate Drag
+7
+Drivers of Value
+¨ A standard critique that old-time value investors have of 
+user-based companies is that they lose money, but that 
+is not true. 
+¨ There are user-based companies that make money, but it 
+is also true that the user-based model is still in its infancy 
+and that many user-based companies are young, and 
+therefore lose money. 
+¨ That said, there are elements of the cost structure that 
+you can look at, to make judgments on which user-based 
+companies are most likely to grow out of their problems 
+and which ones are just going to grow their problems.
+8
+Cost Structure
+1. Servicing Existing Users versus New User Acquisition: It 
+is far better for a company to be losing money, because 
+it is spending money try to acquire new users, than it is 
+to be losing money, because it is servicing existing 
+users. The latter signals a bad business model, at least 
+for the moment, whereas the former offers a 
+semblance of hope.
+2. Fixed versus Variable Costs: For mature companies with 
+established business models, it is better to have a more 
+flexible cost structure. With money-losing, high-growth 
+companies, the reverse is true, since it is the fixed cost 
+portion that yields economies of scale, as the company 
+grows.
+9
+Growth
+1. Existing versus New Users: A user-based model, where 
+you can grow cash flows from existing users is more 
+valuable, other things remaining equal, than a user-
+based model that is dependent on adding new users 
+for growth. Since a company already has expended 
+resources to get existing users, any added revenue it 
+derives from them is more likely to flow directly to the 
+bottom line. 
+2. Cost of New User Acquisition: User-based companies 
+that are more cost-efficient in adding new users will be 
+worth more than user-based companies that spend 
+considerable amounts on promotion on marketing, to 
+the same end.
+10
+Example: Netflix versus Spotify
+Netflix Spotify
+Number of Subscribers 117.6 71
+Annual Revenue/Subscriber $         113.16 $         77.63 
+Subscriber Service Expenses (as %) 18.90% 79.24%
+CAGR in subscriber count 223.93% 369.86%
+Value per Existing Subscriber $         508.89 $       108.65 
+Cost of acquiring New Subscriber $         111.01 $         27.30 
+Value per New Subscriber $         397.88 $         81.35 
+Value of all Existing Subscribers $    59,845.86 $    7,714.28 
++ Value of all New Subscribers $  137,276.49 $  20,764.56 
+- Corporate Cost Drag $  111,251.70 $  13,139.75 
+=Value of Operating Assets $    85,870.65 $  15,339.10
+11
+Revenue Models
+¨ Subscription models tend to be stickier (making 
+revenues more predictable) but they offer less upside 
+potential (it is difficult to grow subscription fees at high 
+rates).
+¨ Advertising models scale up faster, since they require 
+little in capital investment and adding new users is easier 
+(since they free), but revenues are heavily driven by user 
+intensity (how much time you can get users to stay in 
+your ecosystem) and exclusive data (collected in the 
+course of usage).
+¨ Transaction models are the riskiest, since they require 
+users to use your product or service, but they also offer 
+the most upside, since your upside is less constrained.
+12
+Differentiating across User-based 
+companies
+13
+When Buzz Words become Business 
+Propositions
+¨ Network benefits refer to the possibility that as you grow 
+bigger, it becomes easier for you to get even bigger, making it 
+less costly to acquire new users. That is the promise of ride 
+sharing, for instance, where as a company gets a larger share 
+of a ride sharing market, both drivers and customers are 
+more likely to switch to it, the former, because they get more 
+customers and the latter, because they find rides more 
+quickly.
+¨ Big data, in a value framework, offers user-based companies 
+an advantage, since what you learn about your users can be 
+used to either sell them more products or services (if you are 
+a transaction-based company), charge them higher premiums 
+(if you are subscription-based) or direct advertising more 
+effectively (if advertising-based). .
+14
+The Pricing Game
+¨ As I look at user-based companies, some of which 
+are being priced at billions of dollars, I am struck by 
+how few of them are built to be long term 
+businesses and how many of them are being priced 
+on user numbers and buzz words. 
+¨ The drivers of user value also give insights on what 
+to look for in user based businesses that are headed 
+for the precipice.
+15
+Bad User Businesses: Characteristics
+1. All about users, all the time: If the entire sales pitch that a company 
+makes to investors is about its user or subscriber numbers, rather than 
+its operating results (revenues and operating profits/losses), it is a 
+dangerous sign. 
+2. Opacity about user data: The companies that are most opaque are often 
+the ones that have user models that are not sustainable.
+3. Bad business models: A business model that is designed to deliver 
+losses, not only in its current form, but with no light at the end of the 
+tunnel\
+4. Loose talk about data: The data that they will collect from their users to 
+make money, without any serious attempt to explain why the data will 
+give them an edge.
+5. And externalities: Their "innovative" twists on an existing business will 
+both expand and alter the business, leading to benefits for other players 
+in that business, who, in turn, will share their benefits.
+16
+MoviePass
+17
+The Predictable Consequence
+18
+The Bottom Line
+¨ You can build valuable user-based companies, but to 
+do so, you need to plan for, work on and develop 
+pathways to profitability.
+¨ The most valuable user-based companies, collect 
+exclusive data from their users that they use to 
+generate revenues, have significant economies of 
+scale and networking benefits.
+¨ A combination of hubris and laziness has led to user 
+based companies that are built on bad business 
+models, talk casually about big data and have few or 
+no pathways to profitability.

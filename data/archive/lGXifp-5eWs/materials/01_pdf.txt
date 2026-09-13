@@ -1,0 +1,620 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfspr21/session15slides.pdf
+
+Measuring Investment Returns
+II. Investment Interactions, Options 
+and Remorse…
+Life is too short for regrets, right?
+Aswath Damodaran 289
+290
+Independent investments are the exception…
+Aswath Damodaran
+290
+¨In all of the examples we have used so far, the 
+investments that we have analyzed have stood alone. 
+Thus, our job was a simple one. Assess the expected cash 
+flows on the investment and discount them at the right 
+discount rate.
+¨In the real world, most investments are not 
+independent. Taking an investment can often mean 
+rejecting another investment at one extreme (mutually 
+exclusive) to being locked in to take an investment in the 
+future (pre-requisite).
+¨More generally, accepting an investment can create side 
+costs for a firm’s existing investments in some cases and 
+benefits for others.
+291
+I. Mutually Exclusive Investments
+Aswath Damodaran
+291
+¨We have looked at how best to assess a stand-alone 
+investment and concluded that a good investment will have 
+positive NPV and generate accounting returns (ROC and ROE) 
+and IRR that exceed your costs (capital and equity).
+¨In some cases, though, firms may have to choose between 
+investments because
+¤They are mutually exclusive: Taking one investment makes the other 
+one redundant because they both serve the same purpose
+¤The firm has limited capital and cannot take every good investment 
+(i.e., investments with positive NPV or high IRR).
+¨Using the two standard discounted cash flow measures, NPV 
+and IRR, can yield different choices when choosing between 
+investments.
+292
+Comparing Projects with the same (or similar) 
+lives..
+Aswath Damodaran
+292
+¨When comparing and choosing between investments 
+with the same lives, we can 
+¤Compute the accounting returns (ROC, ROE) of the investments 
+and pick the one with the higher returns
+¤Compute the NPV of the investments and pick the one with the 
+higher NPV
+¤Compute the IRR of the investments and pick the one with the 
+higher IRR
+¨While it is easy to see why accounting return measures 
+can give different rankings (and choices) than the 
+discounted cash flow approaches, you would expect NPV 
+and IRR to yield consistent results since they are both 
+time-weighted, incremental cash flow return measures.
+293
+Case 1: IRR versus NPV
+Aswath Damodaran
+293
+¨Consider two projects with the following cash flows:
+Year Project 1 CF Project 2 CF
+0 -1000 -1000
+1 800 200
+2 1000 300
+3 1300 400
+4 -2200 500
+294
+Project’s NPV Profile
+Aswath Damodaran
+294
+295
+What do we do now?
+Aswath Damodaran
+295
+¨Project 1 has two internal rates of return. The first is 
+6.60%, whereas the second is 36.55%. Project 2 has one 
+internal rate of return, about 12.8%.
+¨Why are there two internal rates of return on project 1?
+¨If your cost of capital is 12%, which investment would 
+you accept?
+a. Project 1
+b. Project 2
+¨Explain.
+296
+Case 2: NPV versus IRR
+Aswath Damodaran
+296
+Cash Flow
+Investment
+$ 350,000
+$ 1,000,000
+Project A
+Cash Flow
+Investment
+Project B
+NPV = $467,937
+IRR= 33.66%
+$ 450,000 $ 600,000 $ 750,000
+NPV = $1,358,664
+IRR=20.88%
+$ 10,000,000
+$ 3,000,000$ 3,500,000$ 4,500,000$ 5,500,000
+297
+Which one would you pick?
+Aswath Damodaran
+297
+¨Assume that you can pick only one of these two projects. 
+Your choice will clearly vary depending upon whether 
+you look at NPV or IRR. You have enough money 
+currently on hand to take either . Which one would you 
+pick?
+a. Project A. It gives me the bigger bang for the buck and more 
+margin for error .
+b. Project B. It creates more dollar value in my business.
+¨If you pick A, what would your biggest concern be?
+¨If you pick B, what would your biggest concern be?
+298
+Capital Rationing, Uncertainty and Choosing a 
+Rule
+Aswath Damodaran
+298
+¨If a business has limited access to capital, has a stream of 
+surplus value projects and faces more uncertainty in its 
+project cash flows, it is much more likely to use IRR as its 
+decision rule.
+¤Small, high-growth companies and private businesses are much 
+more likely to use IRR.
+¨If a business has substantial funds on hand, access to 
+capital, limited surplus value projects, and more 
+certainty on its project cash flows, it is much more likely 
+to use NPV as its decision rule.
+¨As firms go public and grow, they are much more likely 
+to gain from using NPV.
+299
+The sources of capital rationing…
+Aswath Damodaran
+299
+Cause Number of firms Percent of total 
+Debt limit imposed by outside agreement 10 10.7 
+Debt limit placed by management external 
+to firm 
+3 3.2 
+Limit placed on borrowing by internal 
+management 
+65 69.1 
+Restrictive policy imposed on retained 
+earnings 
+2 2.1 
+Maintenance of target EPS or PE ratio 14 14.9
+300
+An Alternative to IRR with Capital Rationing
+Aswath Damodaran
+300
+¨The problem with the NPV rule, when there is capital 
+rationing, is that it is a dollar value. It measures success 
+in absolute terms.
+¨The NPV can be converted into a relative measure by 
+dividing by the initial investment. This is called the 
+profitability index.
+¤Profitability Index (PI) = NPV/Initial Investment
+¨In the example described, the PI of the two projects 
+would have been:
+¤PI of Project A = $467,937/1,000,000 = 46.79%
+¤PI of Project B = $1,358,664/10,000,000 = 13.59%
+¤Project A would have scored higher .
+301
+Case 3: NPV versus IRR
+Aswath Damodaran
+301
+Cash Flow
+Investment
+$ 5,000,000
+$ 10,000,000
+Project A
+Cash Flow
+Investment
+Project B
+NPV = $1,191,712
+IRR=21.41%
+$ 4,000,000$ 3,200,000 $ 3,000,000
+NPV = $1,358,664
+IRR=20.88%
+$ 10,000,000
+$ 3,000,000$ 3,500,000$ 4,500,000$ 5,500,000
+302
+Why the difference?
+Aswath Damodaran
+302
+¨These projects are of the same scale. Both the NPV 
+and IRR use time-weighted cash flows. Yet, the 
+rankings are different. Why?
+¨Which one would you pick?
+a. Project A. It gives me the bigger bang for the buck and 
+more margin for error .
+b. Project B. It creates more dollar value in my business.
+303
+NPV, IRR and the Reinvestment Rate 
+Assumption
+Aswath Damodaran
+303
+¨The NPV rule assumes that intermediate cash flows on 
+the project get reinvested at the hurdle rate (which is 
+based upon what projects of comparable risk should 
+earn).
+¨The IRR rule assumes that intermediate cash flows on 
+the project get reinvested at the IRR. Implicit is the 
+assumption that the firm has an infinite stream of 
+projects yielding similar IRRs.
+¨Conclusion: When the IRR is high (the project is creating 
+significant surplus value) and the project life is long, the 
+IRR will overstate the true return on the project.
+304
+Solution to Reinvestment Rate Problem
+Aswath Damodaran
+304
+305
+Why NPV and IRR may differ .. Even if projects 
+have the same lives
+Aswath Damodaran
+305
+¨A project can have only one NPV, whereas it can have 
+more than one IRR.
+¨The NPV is a dollar surplus value, whereas the IRR is a 
+percentage measure of return. The NPV is therefore 
+likely to be larger for “large scale”projects, while the IRR 
+is higher for “small-scale”projects.
+¨The NPV assumes that intermediate cash flows get 
+reinvested at the “hurdle rate”, which is based upon 
+what you can make on investments of comparable risk, 
+while the IRR assumes that intermediate cash flows get 
+reinvested at the “IRR”.
+306
+Comparing projects with different lives..
+Aswath Damodaran
+306
+Project A
+-$1500
+$350$350$350 $350$350
+-$1000
+$400$400$400 $400$400
+$350$350$350$350$350
+Project B
+NPV of Project A = $ 442
+IRR of Project A = 28.7%
+NPV of Project B = $ 478
+IRR for Project B = 19.4%
+Hurdle Rate for Both Projects = 12%
+307
+Why NPVs cannot be compared.. When projects 
+have different lives.
+Aswath Damodaran
+307
+¨The net present values of mutually exclusive projects 
+with different lives cannot be compared, since there 
+is a bias towards longer-life projects. To compare the 
+NPV, we have to
+¤replicate the projects till they have the same life (or)
+¤convert the net present values into annuities
+¨The IRR is unaffected by project life. We can choose 
+the project with the higher IRR.
+308
+Solution 1: Project Replication
+Aswath Damodaran
+308
+Project A: Replicated
+-$1500
+$350$350$350$350$350 $350$350$350$350$350
+Project B
+-$1000
+$400$400$400$400$400 $400$400$400$400$400
+-$1000 (Replication)
+NPV of Project A replicated = $ 693
+NPV of Project B= $ 478
+309
+Solution 2: Equivalent Annuities
+Aswath Damodaran
+309
+¨Equivalent Annuity for 5-year project 
+¤= $442 * PV(A,12%,5 years) 
+¤= $ 122.62
+¨Equivalent Annuity for 10-year project
+¤= $478 * PV(A,12%,10 years)
+¤= $ 84.60
+310
+What would you choose as your investment 
+tool?
+Aswath Damodaran
+310
+¨Given the advantages/disadvantages outlined for each of 
+the different decision rules, which one would you choose 
+to adopt?
+a. Return on Investment (ROE, ROC)
+b. Payback or Discounted Payback
+c. Net Present Value
+d. Internal Rate of Return
+e. Profitability Index
+¨Do you think your choice has been affected by the 
+events of the last quarter of 2008? If so, why? If not, why 
+not?
+311
+What firms actually use ..
+Aswath Damodaran
+311
+Decision Rule % of Firms using as primary decision rule in
+1976 1986 1998
+IRR 53.6%49.0%42.0%
+Accounting Return 25.0%8.0% 7.0%
+NPV 9.8% 21.0%34.0%
+Payback Period 8.9% 19.0%14.0%
+Profitability Index 2.7% 3.0% 3.0%
+312
+II. Side Costs and Benefits
+Aswath Damodaran
+312
+¨Most projects considered by any business create side 
+costs and benefits for that business. 
+¤The side costs include the costs created by the use of resources 
+that the business already owns (opportunity costs) and lost 
+revenues for other projects that the firm may have.
+¤The benefits that may not be captured in the traditional capital 
+budgeting analysis include project synergies (where cash flow 
+benefits may accrue to other projects) and options embedded in 
+projects (including the options to delay, expand or abandon a 
+project).
+¨The returns on a project should incorporate these costs 
+and benefits.
+313
+A. Opportunity Cost
+Aswath Damodaran
+313
+¨An opportunity cost arises when a project uses a 
+resource that may already have been paid for by the 
+firm. 
+¨When a resource that is already owned by a firm is being 
+considered for use in a project, this resource has to be 
+priced on its next best alternative use, which may be
+¤a sale of the asset, in which case the opportunity cost is the 
+expected proceeds from the sale, net of any capital gains taxes
+¤renting or leasing the asset out, in which case the opportunity 
+cost is the expected present value of the after-tax  rental or 
+lease revenues.
+¤use elsewhere in the business, in which case the opportunity 
+cost is the cost of replacing it.
+314
+Case 1: Foregone Sale?
+Aswath Damodaran
+314
+¨Assume that Disney owns land in Rio already. This land is 
+undeveloped and was acquired several years ago for $ 5 
+million for a hotel that was never built. It is anticipated, 
+if this theme park is built, that this land will be used to 
+build the offices for Disney Rio. The land currently can be 
+sold for $ 40 million, though that would create a capital 
+gain (which will be taxed at 20%). In assessing the theme 
+park, which of the following would you do:
+¤Ignore the cost of the land, since Disney owns its already
+¤Use the book value of the land, which is $ 5 million
+¤Use the market value of the land, which is $ 40 million
+¤Other:
+315
+Case 2: Incremental Cost?
+An Online Retailing Venture for Bookscape
+Aswath Damodaran
+315
+¨The initial investment needed to start the service, including 
+the installation of additional phone lines and computer 
+equipment, will be $1 million. These investments are 
+expected to have a life of four years, at which point they will 
+have no salvage value. The investments will be depreciated 
+straight line over the four-year life.
+¤The revenues in the first year are expected to be $1.5 million, growing 20% in 
+year two, and 10% in the two years following. The cost of the books will be 
+60% of the revenues in each of the four years.
+¤The salaries and other benefits for the employees are estimated to be 
+$150,000 in year one, and grow 10% a year for the following three years. 
+¤The working capital, which includes the inventory of books needed for the 
+service and the accounts receivable will be 10% of the revenues; the 
+investments in working capital have to be made at the beginning of each year . 
+At the end of year 4, the entire working capital is assumed to be salvaged.
+¤The tax rate on income is expected to be 40%.
+316
+Cost of capital for Bookscapeinvestment
+Aswath Damodaran
+316
+¨We will re-estimate the beta for this online project by looking at 
+publicly traded online retailers. The unlevered total beta of online 
+retailers is 3.02, and we assume that this project will be funded 
+with the same mix of debt and equity (D/E = 21.41%, Debt/Capital 
+= 17.63%) that Bookscape uses in the rest of the business. We will 
+assume that Bookscape’s tax rate (40%) and pretax cost of debt 
+(4.05%) apply to this project.
+Levered Beta Online Service= 3.02 [1 + (1 –0.4) (0.2141)] = 3.41
+Cost of Equity Online Service= 2.75% + 3.41 (5.5%) = 21.48%
+Cost of CapitalOnline Service= 21.48% (0.8237) + 4.05% (1 –0.4) (0.1763) = 
+18.12%
+¨This is much higher than the cost of capital (10.30%) we computed 
+for Bookscape earlier, but it reflects the higher risk of the online 
+retail venture.
+317
+Incremental Cash flows on Investment
+Aswath Damodaran
+317
+NPV of investment =  $76,375
+0 1 2 3 4
+Revenues $1,500,000$1,800,000 $1,980,000 $2,178,000
+Operating Expenses
+Labor $150,000$165,000 $181,500 $199,650
+Materials $900,000$1,080,000 $1,188,000 $1,306,800
+Depreciation $250,000$250,000 $250,000 $250,000
+Operating Income $200,000$305,000 $360,500 $421,550
+Taxes $80,000 $122,000 $144,200 $168,620
+After-tax Operating 
+Income $120,000$183,000 $216,300 $252,930
++ Depreciation $250,000$250,000 $250,000 $250,000
+-Change in Working 
+Capital $150,000 $30,000 $18,000 $19,800 -$217,800
++ Salvage Value of 
+Investment $0
+Cash flow after taxes -$1,150,000$340,000$415,000 $446,500 $720,730
+Present Value -$1,150,000$287,836$297,428 $270,908 $370,203
+318
+The side costs…
+Aswath Damodaran
+318
+¨It is estimated that the additional business associated with 
+online ordering and the administration of the service itself 
+will add to the workload for the current general manager of 
+the bookstore. 
+¤As a consequence, the salary of the general manager will be increased 
+from $100,000 to $120,000 next year; it is expected to grow 5 percent 
+a year after that for the remaining three years of the online venture. 
+¤After the online venture is ended in the fourth year, the manager’s 
+salary will revert back to its old levels.
+¨It is also estimated that BookscapeOnline will utilize an office 
+that is currently used to store financial records. The records 
+will be moved to a bank vault, which will cost $1000 a year to 
+rent.
+319
+NPV with side costs…
+Aswath Damodaran
+319
+¨Additional salary costs = PV of $34,352
+¨Office Costs
+¤After-Tax Additional Storage Expenditure per Year = $1,000 (1 –0.40) = $600
+¤PV of expenditures = $600 (PV of annuity, 18.12%,4 yrs) = $1,610
+¨NPV with Opportunity Costs = $76,375 –$34,352 –$1,610=  $ 40,413 
+¨Opportunity costs aggregated into cash flows
+Year Cashflows Opportunity costsCashflow with opportunity costs Present Value
+0 ($1,150,000) ($1,150,000) ($1,150,000)
+1 $340,000 $12,600 $327,400 $277,170 
+2 $415,000 $13,200 $401,800 $287,968 
+3 $446,500 $13,830 $432,670 $262,517 
+4 $720,730 $14,492 $706,238 $362,759 
+AdjustedNPV $40,413
+320
+Case 3: Excess Capacity
+Aswath Damodaran
+320
+¨In the Vale example, assume that the firm will use its 
+existing distribution system to service the production 
+out of the new iron ore mine. The mine manager 
+argues that there is no cost associated with using 
+this system, since it has been paid for already and 
+cannot be sold or leased to a competitor (and thus 
+has no competing current use). Do you agree?
+a. Yes
+b. No
+321
+A Framework for Assessing The Cost of Using 
+Excess Capacity
+Aswath Damodaran
+321
+¨If I do not add the new product, when will I run out 
+of capacity?
+¨If I add the new product, when will I run out of 
+capacity?
+¨When I run out of capacity, what will I do?
+¤Cut back on production: cost is PV of after-tax cash flows 
+from lost sales
+¤Buy new capacity: cost is difference in PV between earlier 
+& later investment
+322
+Product and Project Cannibalization: A Real 
+Cost?
+Aswath Damodaran
+322
+¨Assume that in the Disney theme park example, 20% of the 
+revenues at the Rio Disney park are expected to come from 
+people who would have gone to Disney theme parks in the 
+US. In doing the analysis of the park, you would
+a. Look at only incremental revenues (i.e. 80% of the total revenue)
+b. Look at total revenues at the park
+c. Choose an intermediate number
+¨Would your answer be different if you were analyzing 
+whether to introduce  a new show on the Disney cable 
+channel on Saturday mornings that is expected to attract 20% 
+of its viewers from ABC (which is also owned by Disney)?
+a. Yes
+b. No
+323
+B. Project Synergies
+Aswath Damodaran
+323
+¨A project may provide benefits for other projects within the firm. 
+Consider, for instance, a typical Disney animated movie. Assume 
+that it costs $ 50 million to produce and promote. This movie, in 
+addition to theatrical revenues, also produces revenues from
+¤the sale of merchandise (stuffed toys, plastic figures, clothes ..)
+¤increased attendance at the theme parks 
+¤stage shows (see “Beauty and the Beast”and the “Lion King”)
+¤television series based upon the movie
+¨In investment analysis, however, these synergies are either left 
+unquantified and used to justify overriding the results of 
+investment analysis, i.e,, used as justification for investing in 
+negative NPV projects.
+¨If synergies exist and they often do, these benefits have to be 
+valued and shown in the initial project analysis.
+324
+Case 1: Adding a Café to a bookstore: Bookscape
+Aswath Damodaran
+324
+¨Assume that you are considering adding a café to the bookstore. Assume 
+also that based upon the expected revenues and expenses, the café 
+standing alone is expected to have a net present value of -$87,571.
+¨The cafe will increase revenues at the book store by $500,000 in year 1, 
+growing at 10% a year for the following 4 years. In addition, assume that 
+the pre-tax operating margin on these sales is 10%. 
+¨The net present value of the added benefits is $135,268. Added to the 
+NPV of the standalone Café of -$87,571 yields a net present value of 
+$47,697.
+1 2 3 4 5
+Increased Revenues $500,000 $550,000 $605,000 $665,500 $732,050
+Operating Margin 10.00% 10.00% 10.00% 10.00% 10.00%
+Operating Income $50,000 $55,000 $60,500 $66,550 $73,205
+Operating Income after Taxes $30,000 $33,000 $36,300 $39,930 $43,923
+PV of Additional Cash Flows $27,199 $27,126 $27,053 $26,981 $26,908
+PV of Synergy Benefits $135,268
+325
+Case 2: Synergy in a merger ..
+Aswath Damodaran
+325
+¨We valued Harman International  for an acquisition by Tata Motors and 
+estimated a value of $ 2,476 million for the operating assets and $ 2,678 
+million for the equity in the firm, concluding that it would not be a value-
+creating acquisition at its current market capitalization of $5,248 million. 
+In estimating this value, though, we treated Harman International as a 
+stand-alone firm. 
+¨Assume that Tata Motors foresees potential synergies in the combination 
+of the two firms, primarily from using its using Harman’s high-end audio 
+technology (speakers, tuners) as optional upgrades for customers buying 
+new Tata Motors cars in India. To value this synergy, let us assume the 
+following:
+¤It will take Tata Motors approximately 3 years to adapt Harman’s products to Tata 
+Motors cars. 
+¤Tata Motors will be able to generate Rs 10 billion in after-tax operating income in 
+year 4 from selling Harman audio upgrades to its Indian customers, growing at a 
+rate of 4% a year after that in perpetuity (but only in India).
+326
+Estimating the cost of capital to use in valuing 
+synergy..
+Aswath Damodaran
+326
+¨Business risk: The perceived synergies flow from optional add-ons 
+in auto sales. We will begin with the levered beta of 1.10, that we 
+estimated for Tata Motors in chapter 4, in estimating the cost of 
+equity.  
+¨Geographic risk: The second is that the synergies are expected to 
+come from India; consequently, we will add the country risk 
+premium of 3.60% for India, estimated in chapter 4 (for Tata 
+Motors) to the mature market premium of 5.5%. 
+¨Debt ratio: Finally, we will assume that the expansion will be 
+entirely in India, with Tata Motors maintain its existing debt to 
+capital ratio of 29.28% and its current rupee cost of debt of 9.6% 
+and its marginal tax rate of 32.45%.
+¤Cost of equity in Rupees = 6.57% + 1.10 (5.5%+3.60%) = 16.59%
+¤Cost of debt in Rupees = 9.6% (1-.3245) = 6.50%
+¤Cost of capital in Rupees = 16.59% (1-.2928)  + 6.50% (.2928) = 13.63%
+327
+Estimating the value of synergy… and what Tata can 
+pay for Harman
+Aswath Damodaran
+327
+¨Value of synergyYear 3= 
+¨Value of synergy today = 
+¨Converting the synergy value into dollar terms at the prevailing 
+exchange rate of Rs 60/$, we can estimate a dollar value for the 
+synergy from the potential acquisition:
+¤Value of synergy in US $ = Rs 70,753/60 = $ 1,179 million
+¨Adding this value to the intrinsic value of $2,678 million that we 
+estimated for Harman’s equity in chapter 5, we get a total value for 
+the equity of $3,857 million.
+¤Value of Harman = $2,678 million + $1,179 million = $3,857 million
+¨Since Harman’s equity trades at $5,248 million, the acquisition still 
+does not make sense, even with the synergy incorporated into 
+value.
+Expected Cash FlowYear 4
+(Cost of Capital - g)=10,000
+(.1363-.04)= Rs 103,814 million
+Value of Synergyyear 3
+(1+Cost of Capital)3=103,814
+(1.1363)3= Rs 70,753 million
+328
+III. Project Options
+Aswath Damodaran
+328
+¨One of the limitations of traditional investment analysis 
+is that it is static and does not do a good job of capturing 
+the options embedded in investment.
+¤The first of these options is the option to delay taking a project, 
+when a firm has exclusive rights to it, until a later date. 
+¤The second of these options is taking one project may allow us 
+to take advantage of other opportunities (projects) in the future
+¤The last option that is embedded in projects is the option to 
+abandon a project, if the cash flows do not measure up.
+¨These options all add value to projects and may make a 
+“bad”project (from traditional analysis) into a good one.

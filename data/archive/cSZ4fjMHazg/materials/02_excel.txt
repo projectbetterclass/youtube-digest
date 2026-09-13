@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/ValeantMarch2017.xls
+
+[legacy .xls workbook: ValeantMarch2017.xls — see raw file]

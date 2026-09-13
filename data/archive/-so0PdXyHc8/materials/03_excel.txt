@@ -1,0 +1,29 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/LyftPricing.xlsx
+
+Sheet: Raw Data
+ A Pricing Template
+Metric to scale price | Riders
+Comparison | Uber - Last VC Price
+Lyft Pricing = | 22320
+Company | Gross Billings | Revenues | Operating Profit (loss) | # Riders | VC Pricing | Price/Billing | Price/Revenues | Price/Rider
+Lyft (Prospectus) | 8054 | 2156 | -978 | 31 | 11000 | 1.3657809783958281 | 5.1020408163265305 | 354.83870967741933
+Uber | 50000 | 11300 | -1800 | 100 | 72000 | 1.44 | 6.371681415929204 | 720
+Didi | 48000 | 10000 | -1500 | 600 | 56000 | 1.1666666666666667 | 5.6 | 93.33333333333333
+Grab | 5000 | 1000 | -250 | 125 | 10000 | 2 | 10 | 80
+Ola | 1200 | 250 | -100 | 40 | 4300 | 3.5833333333333335 | 17.2 | 107.5
+Global Average | 1.9111561956791658 | 8.854744446451146 | 271.13440860215053
+Global Weighted Average | 112254 | 24706 | -4628 | 896 | 153300 | 1.3656528943289326 | 6.204970452521654 | 171.09375
+Uber - Rumored IPO Pricing | 50000 | 11300 | -1800 | 100 | 120000 | 2.4 | 10.619469026548673 | 1200
+Estimated Lyft Pricing with
+Price/Billing | Price/Revenues | Price/Rider
+With Uber - Last VC Pricing | 11597.76 | 13737.345132743363 | 22320
+With Uber- Rumored IPO Price | 19329.6 | 22895.575221238938 | 37200
+With Global Average | 15392.452000000001 | 19090.829026548672 | 8405.166666666666
+With Global Weighted Average | 10998.968410925223 | 13377.916295636687 | 5303.90625
+
+Sheet: Sheet2
+Metric | Comparison
+Gross Billings | Uber - Last VC Price
+Revenues | Uber - Rumored IPO Price
+Riders | Global Average
+Global Weighted Average

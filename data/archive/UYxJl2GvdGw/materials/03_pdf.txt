@@ -1,0 +1,41 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session2Asoln.pdf
+
+Session	2A:	Post	class	test	solutions	
+1. 		Navistar	has	the	highest	COGS,	relative	to	revenue,	and	Google	has	the	
+lowest.	They	reflect		
+(a) Differences	in	business	models.	Navistar	manufactures	the	equipment	
+that	it	sells,	Nordstrom	marks	up	goods	that	its	gets	from	others	and	
+Google’s	services	cost	little	to	produce.		
+(b) Differences	in	accounting:	Navistar’s	manufacturing	business	generates	
+much	higher	depreciation	charges	which	are	part	of	COGS.	
+  Navistar   Nordstrom   Google 
+Total Revenue  $9,585.00   $    15,524.00   161,857.0  
+Cost of Goods Sold  $7,904.00   $      9,932.00      71,896.0  
+COGS as % of Revenues 82.46% 63.98% 44.42% 
+	
+2. 	Most	of	the	operating	expenses	at	Navistar	are	from	COGS,	whereas	
+Nordstrom	and	Google	have	a	higher	percent	from	SG&A	expenses.	If	you	
+assume	that	COGS	are	more	likely	to	be	variable	and	SG&A	to	be	fixed,	this	
+becomes	a	rough	proxy	for	economies	of	scale,	with	Nordstrom	and	Google	
+benefiting	more	from	scaling	up.	
+  Navistar   Nordstrom   Google 
+Cost Of Goods Sold  $   7,904.00   $         9,932.00        71,896.0  
+Selling General & Admin Exp.  $      742.00   $         4,776.00        27,461.0  
+Total Operating Expenses  $   8,646.00   $       14,708.00   $ 99,357.00  
+SG&A as % of Operating Exp 8.58% 32.47% 27.64% 
+	
+3. Navistar’s	financing	revenues	and	expenses	reflect	the	presence	of	a	captive	
+financing	division	of	the	company,	which	finances	the	sales	of	Navistar	
+equipment.		
+4. d.	Taxes	on	taxable	income	in	tax	books,	based	upon	tax	code.	If	taxes	
+were	computed	on	the	taxable	income	in	the	income	statement,	the	taxes	
+would	be	more	reflective	of	the	statutory	tax	rates,	but	they	are	not.	
+5. Currency	gains	and	losses	reflect	the	effect	of	movements	in	the	US	dollar	
+against	other	currencies.	The	reason	it	can	play	out	as	a	profit	for	some	
+companies	and	a	loss	for	others	comes	from	the	fact	that	it	can	affect	both	
+revenues	and	expenses.	For	companies	that	derive	their	revenues	from	
+outside	the	US,	while	their	costs	are	in	US	dollars,	a	stronger	dollar	will	cause	
+losses,	since	foreign	currency	revenues	will	be	devalued,	after	the	currency	
+adjustment.	For	companies	that	have	costs	in	other	currencies		but	revenues	
+in	US	dollars,	a	stronger	dollar	will	cause	profits,	since	foreign	currency	costs	
+will	be	lowered,	after	the	currency	adjustment.

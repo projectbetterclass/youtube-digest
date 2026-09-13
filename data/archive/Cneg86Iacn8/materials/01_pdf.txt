@@ -1,0 +1,388 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfspr19/session18slides.pdf
+
+44
+2. Get Disneys current financials…
+Aswath Damodaran
+45
+I. Cost of Equity
+Levered Beta = 0.9239 (1 + (1-.361) (D/E))
+Cost of equity = 2.75% + Levered beta * 5.76%Aswath Damodaran
+46
+Estimating Cost of Debt
+Start with the market value of the firm = = 121,878 + $15,961 = $137,839 million 
+D/(D+E) 0.00% 10.00%Debt to capital
+D/E 0.00% 11.11%D/E = 10/90 = .1111
+$ Debt $0 $13,784 10% of $137,839
+EBITDA $12,517$12,517 Same as 0% debt
+Depreciation $  2,485$  2,485 Same as 0% debt
+EBIT $10,032$10,032 Same as 0% debt
+Interest $0 $434 Pre-tax cost of debt * $ Debt
+Pre-tax Int. cov ∞ 23.10 EBIT/ Interest Expenses
+Likely Rating AAA AAA From Ratings table
+Pre-tax cost of debt3.15% 3.15% Riskless Rate + Spread
+Aswath Damodaran
+47
+The Ratings Table
+T.Bond rate =2.75%
+Aswath Damodaran
+Interest coverage ratio isRating isSpread isInterest rate
+> 8.50 Aaa/AAA0.40% 3.15%
+6.5 –8.5 Aa2/AA 0.70% 3.45%
+5.5 –6.5 A1/A+ 0.85% 3.60%
+4.25 –5.5 A2/A 1.00% 3.75%
+3 –4.25 A3/A- 1.30% 4.05%
+2.5 -3 Baa2/BBB2.00% 4.75%
+2.25 –2.5 Ba1/BB+3.00% 5.75%
+2 –2.25 Ba2/BB 4.00% 6.75%
+1.75 -2 B1/B+ 5.50% 8.25%
+1.5 –1.75 B2/B 6.50% 9.25%
+1.25 -1.5 B3/B- 7.25% 10.00%
+0.8 -1.25 Caa/CCC8.75% 11.50%
+0.65 –0.8 Ca2/CC 9.50% 12.25%
+0.2 –0.65 C2/C 10.50% 13.25%
+<0.2 D2/D 12.00% 14.75%
+48
+A Test: Can you do the 30% level?
+Aswath Damodaran
+  
+Iteration 1 
+(Debt @AAA rate) 
+Iteration 2 
+(Debt @AA rate) 
+D/(D + E) 20.00% 30.00% 30.00% 
+D/E 25.00%   
+$ Debt $27,568    
+EBITDA $12,517    
+Depreciation $2,485    
+EBIT $10,032    
+Interest expense $868   
+Interest coverage ratio 11.55   
+Likely rating AAA   
+Pretax cost of debt 3.15%
+49
+Bond Ratings, Cost of Debt and Debt 
+Ratios
+Aswath Damodaran
+50
+Stated versus Effective Tax Rates
+¨You need taxable income for interest to provide a tax savings. Note 
+that the EBIT at Disney is $10,032 million. As long as interest 
+expenses are less than $10,032 million, interest expenses remain 
+fully tax-deductible and earn the 36.1% tax benefit.  At an 60% debt 
+ratio, the interest expenses are $9,511 million and the tax benefit is 
+therefore 36.1% of this amount. 
+¨At a 70% debt ratio, however, the interest expenses balloon to 
+$11,096 million, which is greater than the EBIT of $10,032 million. 
+We consider the tax benefit on the interest expenses up to this 
+amount:
+¤Maximum Tax Benefit = EBIT * Marginal Tax Rate = $10,032 million * 0.361 
+= $ 3,622 million
+¤Adjusted Marginal Tax Rate = Maximum Tax Benefit/Interest Expenses = 
+$3,622/$11,096 = 32.64% 
+Aswath Damodaran
+51
+Disneys cost of capital schedule…
+Aswath Damodaran
+52
+Disney: Cost of Capital Chart
+Aswath Damodaran
+!
+53
+Disney: Cost of Capital Chart: 1997
+Aswath Damodaran
+53
+10.50%&
+11.00%&
+11.50%&
+12.00%&
+12.50%&
+13.00%&
+13.50%&
+14.00%&
+0.00%&
+10.00%&
+20.00%&
+30.00%&
+40.00%&
+50.00%&
+60.00%&
+70.00%&
+80.00%&
+90.00%&
+Cost%of%Capital%
+Debt%Ra/o%
+Note the kink 
+in the cost of 
+capital graph 
+at 60% debt. 
+What is 
+causing it?
+54
+The cost of capital approach suggests that 
+Disney should do the following…
+¨Disney currently has $15.96 billion in debt. The optimal 
+dollar debt (at 40%) is roughly $55.1 billion. Disney has 
+excess debt capacity of 39.14 billion.
+¨To move to its optimal and gain the increase in value, 
+Disney should borrow $ 39.14 billion and buy back stock.
+¨Given the magnitude of this decision, you should expect 
+to answer three questions:
+¤Why should we do it?
+¤What if something goes wrong?
+¤What if we dont want (or cannot ) buy back stock and want to 
+make investments with the additional debt capacity?
+Aswath Damodaran
+55
+Why should we do it? 
+Effect on Firm Value –Full Valuation
+Step 1: Estimate the cash flows to Disney as a firm
+EBIT (1 –Tax Rate) = 10,032 (1 –0.361) = $6,410 
++ Depreciation and amortization = $2,485
+–Capital expenditures = $5,239
+–Change in noncash working capital $0
+Free cash flow to the firm = $3,657 
+¨Step 2: Back out the implied growth rate in the current market value
+Current enterprise value = $121,878 + 15,961 -3,931 = 133,908
+Value of firm = $ 133,908 = 
+Growth rate = (Firm Value * Cost of Capital –CF to Firm)/(Firm Value + CF to Firm)
+= (133,908* 0.0781 –3,657)/(133,908+ 3,657) = 0.0494 or 4.94% 
+¨Step 3: Revalue the firm with the new cost of capital
+¤Firm value =
+¤Increase in firm value =  $172,935 -$133,908  = $39,027 million
+FCFF0(1+g)
+(Cost of Capital -g)=3,657(1+g)
+(.0781 -g)
+FCFF0(1+g)
+(Cost of Capital -g)=3,657(1.0494)
+(.0716 -0.0484)=$172,935 million
+Aswath Damodaran
+56
+Effect on Value: Incremental approach
+¨In this approach, we start with the current market value and isolate the 
+effect of changing the capital structure on the cash flow and the resulting 
+value.
+Enterprise Value before the change = $133,908 million
+Cost of financing Disney at existing debt ratio = $ 133,908 * 0.0781 = $10,458 million
+Cost of financing Disney at optimal debt ratio = $ 133,908 * 0.0716 = $ 9,592 million
+Annual savings in cost of financing = $10,458 million –$9,592 million = $866 million  
+Enterprise value after recapitalization
+= Existing enterprise value + PV of Savings = $133,908 + $19,623 = $153,531 million 
+Aswath Damodaran
+Increase in Value=Annual Savings next year
+(Cost of Capital - g)= $866
+(0.0716 - 0.0275)=$19,623 million
+57
+From firm value to value per share: The 
+Rational Investor Solution
+¨Because the increase in value accrues entirely to 
+stockholders, we can estimate the increase in value per 
+share by dividing by the total number of shares 
+outstanding (1,800 million).
+¤Increase in Value per Share = $19,623/1800 = $ 10.90
+¤New Stock Price = $67.71 + $10.90= $78.61 
+¨Implicit in this computation is the assumption that the 
+increase in firm value will be spread evenly across both 
+the stockholders who sell their stock back to the firm 
+and those who do not and that is why we term this the 
+“rational” solution, since it leaves investors indifferent 
+between selling back their shares and holding on to 
+them. 
+Aswath Damodaran
+58
+The more general solution, given a 
+buyback price
+¨Start with the buyback price and compute the number of 
+shares outstanding after the buyback:
+¤Increase in Debt = Debt at optimal –Current Debt
+¤# Shares after buyback = # Shares before –
+¨Then compute the equity value after the recapitalization, 
+starting with the enterprise value at the optimal, adding back 
+cash and subtracting out the debt at the optimal:
+¤Equity value after buyback = Optimal Enterprise value + Cash –Debt 
+¨Divide the equity value after the buyback by the post-
+buyback number of shares.
+¤Value per share after buyback = Equity value after buyback/ Number of 
+shares after buyback
+Aswath Damodaran
+Increase in Debt
+Share Price
+59
+Let’s try a price: What if can buy shares 
+back at the old price ($67.71)?
+¨Start with the buyback price and compute the number of 
+shares outstanding after the buyback
+¤Debt issued = $ 55,136 -$15,961 = $39,175 million
+¤# Shares after buyback = 1800 -$39,175/$67.71 = 1221.43 m
+¨Then compute the equity value after the recapitalization, 
+starting with the enterprise value at the optimal, adding 
+back cash and subtracting out the debt at the optimal:
+¤Optimal Enterprise Value = $153,531
+¤Equity value after buyback = $153,531 + $3,931–$55,136 = 
+$102,326
+¨Divide the equity value after the buyback by the post-
+buyback number of shares.
+¤Value per share after buyback = $102,326/1221.43 = $83.78
+Aswath Damodaran
+60
+Back to the rational price ($78.61): Here is 
+the proof
+¨Start with the buyback price and compute the number of 
+shares outstanding after the buyback
+¤# Shares after buyback = 1800 -$39,175/$78.61 = 1301.65 m
+¨Then compute the equity value after the recapitalization, 
+starting with the enterprise value at the optimal, adding 
+back cash and subtracting out the debt at the optimal:
+¤Optimal Enterprise Value = $153,531
+¤Equity value after buyback = $153,531 + $3,931–$55,136 = 
+$102,326
+¨Divide the equity value after the buyback by the post-
+buyback number of shares.
+¤Value per share after buyback = $102,326/1301.65 = $78.61
+Aswath Damodaran
+61
+2. What if something goes wrong?
+The Downside Risk
+Aswath Damodaran
+61
+¨Sensitivity to Assumptions
+A. What ifanalysis
+The optimal debt ratio is a function of our inputs on operating income, 
+tax rates and macro variables. We could focus on one or two key variables –
+operating income is an obvious choice –and look at history for guidance on 
+volatility in that number and ask what if questions.
+B. Economic ScenarioApproach
+We can develop possible scenarios, based upon macro variables, and 
+examine the optimal debt ratio under each one. For instance, we could look 
+at the optimal debt ratio for a cyclical firm under a boom economy, a regular 
+economy and an economy in recession.
+¨Constraint on Bond Ratings/ Book Debt Ratios
+Alternatively, we can put constraints on the optimal debt ratio to reduce 
+exposure to downside risk.  Thus, we could require the firm to have a 
+minimum rating, at the optimal debt ratio or to have a book debt ratio that is 
+less than a “specified” value.
+62
+Disneys Operating Income: History
+Aswath Damodaran
+RecessionDecline in Operating Income
+2009 Drop of 23.06%
+2002 Drop of 15.82%
+1991 Drop of 22.00%
+1981-82 Increased by 12%
+Worst Year Drop of 29.47%
+Standard deviation in % 
+change in EBIT = 19.17%
+63
+Disney: Safety Buffers?
+Aswath Damodaran
+64
+Constraints on Ratings
+¨Management often specifies a 'desired rating' below 
+which they do not want to fall. 
+¨The rating constraint is driven by three factors
+¤it is one way of protecting against downside risk in operating 
+income (so do not do both)
+¤a drop in ratings might affect operating income
+¤there is an ego factor associated with high ratings
+¨Caveat: Every rating constraint has a cost. 
+¤The cost of a rating constraint is the difference between the 
+unconstrained value and the value of the firm with the 
+constraint.
+¤Managers need to be made aware of the costs of the constraints 
+they impose.
+Aswath Damodaran
+65
+Ratings Constraints for Disney
+¨At its optimal debt ratio of 40%, Disney has an estimated 
+rating of A.
+¨If managers insisted on a AA rating, the optimal debt 
+ratio for Disney is then 30% and the cost of the ratings 
+constraint is fairly small:
+Cost of AA Rating Constraint = Value at 40% Debt –Value at 30% 
+Debt = $153,531 m –$147,835 m = $ 5,696 million 
+¨If managers insisted on a AAA rating, the optimal debt 
+ratio would drop to 20% and the cost of the ratings 
+constraint would rise:
+Cost of AAA rating constraint = Value at 40% Debt –Value at 20% 
+Debt = $153,531 m –$141,406 m = $ 12,125 million
+Aswath Damodaran
+66
+3. What if you do not buy back stock..
+Aswath Damodaran
+66
+¨The optimal debt ratio is ultimately a function of the 
+underlying riskiness of the business in which you 
+operate and your tax rate. 
+¨Will the optimal be different if you invested in 
+projects instead of buying back stock?
+¤No. As long as the projects financed are in the same 
+business mix  that the company has always been in and 
+your tax rate does not change significantly.
+¤Yes, if the projects are in entirely different types of 
+businesses or if the tax rate is significantly different.
+67
+Extension to a family group company: Tata 
+Motors Optimal Capital Structure
+Tata Motors looks like it is over levered (29% actual versus 20% optimal), perhaps 
+because it is drawing on the debt capacity of other companies in the Tata Group.
+Aswath Damodaran
+68
+Extension to a firm with volatile earnings:
+Vales Optimal Debt Ratio
+Aswath Damodaran
+Replacing Vale’s current 
+operating income with 
+the average over the last 
+three years pushes up 
+the optimal to 50%.
+69
+Optimal Debt Ratio for a young, growth 
+firm: Baidu
+Aswath Damodaran
+The optimal debt ratio for Baidu is between 0 and 10%, close to its current debt ratio of 5.23%, and 
+much lower than the optimal debt ratios computed for Disney, Vale and Tata Motors.
+70
+Extension to a private business
+Optimal Debt Ratio for Bookscape
+Aswath Damodaran
+The firm value is maximized (and the cost of capital is minimized) at a debt ratio of 
+30%. At its existing debt ratio of 27.81%, Bookscape is at its optimal. 
+Debt value of leases = $12,136 million (only debt)
+Estimated market value of equity = Net Income * Average PE for Publicly Traded Book 
+Retailers = 1.575 * 20 = $31.5 million 
+Debt ratio = 12,136/(12,136+31,500) = 27.81%
+71
+The US Tax Reform Act of 2017: Effects on 
+the Optimal Debt Ratio
+¨Change in marginal tax rate: The marginal federal tax rate for 
+US companies on US income has been lowered from 35% to 
+20%. Holding all else constant, that will lower the optimal 
+debt ratio for all firms.
+¨Limits on interest tax deduction: Companies can deduct 
+interest expenses only up to 30% of EBITDA (until 2022) and 
+30% of EBIT (after 2022). That will add a constraint to the tax 
+savings from debt. In the cost of capital calculation, it will 
+show up in the tax rate that you use to compute your after-
+tax cost of debt, lowering the tax rate from the marginal if 
+interest expenses> 30% of EBITDA:
+Tax rate if Interest Expense> 30% of EBITDA 
+= Marginal Tax rate * (.30*EBITDA)/ Interest Expense
+Aswath Damodaran
+71
+72
+Effect on tax code on Debt Impact: Disney 
+in 2018
+Aswath Damodaran
+72
+73
+Limitations of the Cost of Capital approach
+Aswath Damodaran
+73
+¨It is static: The most critical number in the entire 
+analysis is the operating income. If that changes, the 
+optimal debt ratio will change.
+¨It ignores indirect bankruptcy costs: The operating 
+income is assumed to stay fixed as the debt ratio and 
+the rating changes. 
+¨Beta and Ratings: It is based upon rigid assumptions 
+of how market risk and default risk get borne as the 
+firm borrows more money and the resulting costs.

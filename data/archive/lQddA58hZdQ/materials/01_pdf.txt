@@ -1,0 +1,195 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/BillionaireTax.pdf
+
+THE BILLIONAIRE TAX: THE 
+WORST TAX LAW EVER?
+They deserve it!
+2
+The Billionaire Tax
+Aswath Damodaran2
+¨If you have been tracking the torturous negotiations about 
+the infrastructure bills working their way through Congress, 
+consideration is now being given to a "billionaire" tax, 
+focused on an extraordinarily small subset of Americans, and 
+intended to raise tens, perhaps even hundreds, of billions of 
+dollars in revenues. 
+¨I am constantly amazed by the capacity of legislatures to 
+write bad tax law, but this one takes the cake as perhaps the 
+worst thought-through and most ineffective attempt ever, at 
+rewriting tax code. 
+¨That is a little unfair, I know, because the details are still being 
+hashed out, and it is conceivable that the final version will be 
+redeemable, but given that the clock is ticking, I am not 
+hopeful.
+3
+The Lead in… Wealth Inequality
+4
+Tax Unfairness? Depends on whether you look 
+at dollar (federal) taxes paid…
+5
+Or tax rates (including other taxes)…
+6
+And if unrealized capital gains are counted, the 
+wealthiest (400) paid only…
+7
+How we got here…
+Aswath Damodaran7
+¨ During the presidential campaign, President Bidenpromised repeatedly that 
+he would not raise taxes on anyone making less than $400,000 a year in 
+income, effectively locking out 98.2% of income taxpayers from any proposed 
+tax increase. 
+¨ In conjunction, he also argued that the the top 1.8% of the populace were not 
+paying their fair share of taxes, and that corporations were also paying too 
+little, and that any rewrite of the tax code would force them to pay their "fair 
+share".
+¨ In keeping with these two promises, the version of the big infrastructure bills 
+that was floating around until last week raised a significant portion of 
+revenues from changes in tax rates for the wealthiest (by raising the marginal 
+tax rate from 37% to 39.6% for those in the $400,000 plus income range and 
+by adding a surtax on capital gains for those making more than a million) and 
+by raising corporate tax rates from 21% to a higher number.
+¨ Those proposals ran aground because ofobjections on raising tax rates from 
+Senator Sinemalast week, leading to a rethink of the revenue side.
+8
+The Billionaire Tax Proposal
+¨ Targeted Taxpayers: The tax will be targeted at individuals who own more than $1 
+billion in assetsorhave had income of more than $100 million for three consecutive 
+years. That is pretty elitecompany, and it is estimated that less than 1000 taxpayers in 
+the United States would be affected.
+¨ Taxable Items: The tax would apply to a wide array of assets, including stocks, bonds, 
+real estate and art. I am assuming that closely held businesses are not covered by the 
+tax, or if they are, they will be dealt with differently, but since the proposal is still in the 
+process of being written, we just don't know.
+¨ The Proposal: The changes in values of these assets will be subject to tax, even though 
+the individuals continue to hold them, making this a tax on"unrealized" capital gains. 
+There is talk that taxpayers will be allowed todeduct "unrealized" capital lossesas 
+well, though the details remain fuzzy.
+¨ The Tax Rate: It is not clear what tax rate would apply on these changes in value, i.e., 
+whether it would be an extension of the capital gains tax rate to these unrealized 
+capital gains, or some other rate, and alsowhether the tax rate will be the same for all 
+assets, irrespective of liquidity.
+9
+The Worst Tax Code Ever
+1. Micro Targeting
+¨ Since very few of us to like paying more in taxes, but don't seem to mind seeing 
+others paying more, the political payoff from targeting very few taxpayers is that 
+you minimize the backlash. 
+¨ I know that each of us probably has a billionaire that we hate, andmay take secret 
+pleasure in watching that billionaire pay more, but if you view the prime role of 
+taxes as generating revenues for governments, it is dangerous to focus raising tax 
+revenues from this small a number.
+¨ As a general rule, taxes that are broad based and affect most people are more 
+likely to deliver predicted revenues than those that affect a narrow subset of the 
+population, and the billionaire tax is about as narrowly focused as tax law gets. 
+¨ You may have little sympathy for the seven hundred or so billionaires affected by 
+these taxes, but you should also recognizedthat these individuals also have the 
+most resources to find ways to minimize the impact of these laws. In fact, not only 
+is an army of tax lawyers, accountants and investment vehicles being created 
+while the law in being written, but I would not be surprised if they are providing 
+input on its actual form.
+10
+2. Based on capital gains
+¨The basis used for computing taxes can have implications 
+for revenues from the tax code, and that basis can range 
+from sales (with value added and sales taxes) to 
+salary/wage income, to capital gains. 
+¨Taxes based upon revenues/sales will yield more 
+predictable revenue for the government than taxes based 
+upon salary income, and taxes based upon salary income 
+will yield more stable revenues than taxes based upon 
+capital gains.
+¨Capital gains come from stock price changes, which are 
+far more volatile, than income earned by taxpayers, and 
+that income, in turn, changes more on a year-to-year 
+basis than the value of the assets they own.
+11
+CaliforniaversusFlorida:TaxRevenues
+12
+3. Based on ”unrealized” gains
+¨The new feature of this law is its attempt totax unrealized capital gains 
+on assets. The problem with taxing "unrealized" gains or income is that 
+since they are unrealized, and taxes have tobe paid with cash, the 
+question of how to come up withthe cash becomes an issue, making it a 
+central challenge for any plan, built around it. In fact, there are two 
+practical problems with the proposal, at least as described in the press.
+¤Liquidity questions: If the billionaire is going to apply on assets like real estate and 
+fine art, and not just on stocks and bonds, the idea that you can sell some your 
+holdings in the open market and get the cash you need to pay taxes does not apply 
+as easily, since these non-traded assets are often illiquid and cannot be sold off in 
+small parts. It will also mean that taxpayers who own non-traded assets will need 
+appraisers to revalue these assets every year, great for the appraisal business, but 
+almost guaranteed to create a hotbed of litigation around the appraised values.
+¤Losses and Gains: After a decade of rising stock and bond prices, I guess that many 
+have forgotten that not only can what goes up come down, but also that you can 
+have extended periods where assets stagnate or drop in value. While there is airy 
+talk of being allowed to claim unrealized losses as deductions, how exactly would 
+this work? Put simply, if stocks are up 20% in 2021 and down in 2022, would 
+taxpayers get refunds on their taxes paid in 2021?
+13
+And what are the tax revenues assuming about 
+the future?
+14
+4. With side effects for other tax revenues…
+¨If paying the billionaire tax changes the tax basis for 
+assets, as it should since they are being marked to 
+market, and taxed, that will also mean that when these 
+stocks are sold (by the taxpayer or asaninheritance), 
+there will be lesscapital gains taxes collected. 
+¨If all the billionaire tax code change is doing is moving 
+forward the collection of taxes to earlier, rather than 
+later, there is a time value benefit to the government, 
+but it has tobe a net benefit. 
+¤In other words, the lost future taxes will have to be netted out 
+against the $200 billion that it is expected to bring in revenues 
+over the next decade.
+15
+5. It is an incremental wealth tax
+¨For a few years, progressives led by Senator Warren have argued 
+for a wealth tax, and its pluses and minuses have been debated 
+widely.
+¨The administration is trying hard to avoid using the words "wealth 
+taxes" to describe this proposal, but that is sophistry. Janet Yellen's 
+claims notwithstanding, this is a wealth tax, albeit on incremental 
+wealth, rather than total wealth. 
+¨Put simply, this proposal is biased towards people with inherited 
+wealth, invested in non-traded assets and mature businesses, and 
+against people invested in publicly traded equities in growth 
+companies, many of which they have started and built up. 
+¨If that is the message that the tax law writers want to send, they 
+should at least have the decency to be up front about that 
+message, and to defend it.
+16
+Why should you care?
+¨ Price Effects:If there is a billionaire tax on unrealized gains, some or even many of 
+these billionaires will have to sell portions of their asset holdings to pay taxes 
+dues. There is no way that an Elon Musk would have been able to pay taxes on the 
+unrealized gains on his T esla holdings in 2020, without selling a portion of his 
+holding. While there may be enough liquidity in a stock like T esla to absorb that 
+selling, there are other assets where the liquidity effect is going to be larger and 
+more permanent.
+¨ Founder/Managers: One reason that investors prefer companies that have 
+founders with substantial stock holdings running them is because they believe 
+that there is less of a conflict of interest in these firms. If this proposal is pushed 
+through, and especially if the tax rate is set at capital gains levels, founders will 
+have no choice but to reduce holdings over time, both to pay taxes and to shift to 
+less traded assets.
+¨ Public to Private: As I said earlier, I am not sure how privately held businesses will 
+be treated, for computing the billionaire tax, but if there is indeed a carve out for 
+these businesses, I will predict that there will be more companies where rich 
+founders will choose to take the company private again.
+17
+In conclusion..
+¨Those working on these tax code changes face a tough task, given 
+the constraints that they have on them (not raising tax rates, not 
+taxing people who make less than $400,000), but these are 
+constraints that they imposed on themselves, either because too 
+much was promised on campaign trails or because they are 
+working with paper-thin majorities, where one hold out can stop 
+the process. 
+¨The problem with the billionaire taxes is that it will be ineffective 
+at collecting tax revenues, and I am willing to wager that a 
+decade from now, we will find that it collected only a small 
+fraction of its promised revenues. 
+¨Good intentions about creating a better social safety net cannot 
+excuse the writing of tax laws that are inefficient at collecting 
+revenues, ineffective even in its punitive intent and potentially 
+dangerous for the rest of us, in terms side costs.

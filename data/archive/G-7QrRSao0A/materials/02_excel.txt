@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/countrytaxrates.xls
+
+[legacy .xls workbook: countrytaxrates.xls — see raw file]

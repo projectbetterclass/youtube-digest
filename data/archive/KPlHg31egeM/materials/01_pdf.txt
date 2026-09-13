@@ -1,0 +1,134 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate10for2018.pdf
+
+DIVIDENDS, BUYBACKS & CASH: 
+JANUARY 2018 DATA UPDATE 10
+Aswath Damodaran
+2
+The Pricing Imperative
+¨ In my first nine posts on my data update for 2018, I 
+focused on the costs that companies face in raising 
+equity and debt, and their investment, financing and 
+dividend decisions. 
+¨ In assessing those decisions, though, I looked at their 
+actions through the lens of value creation, arguing, for 
+instance, that investing in projects that earn less than 
+their cost of capital is not a good use of shareholder 
+capital, on the implicit assumption that financial markets 
+reward value creation and punish value destruction. 
+¨ Markets have minds of their own, sometimes rewarding 
+companies for bad behavior and punishing companies 
+that take the right actions.
+3
+Value versus Pricing
+4
+The Pricing Process
+¨ Much of what we see foisted on us as valuations, 
+including those that you see backing up IPOs, 
+acquisitions or big investment decisions, are really 
+pricing masquerading as valuation. 
+¨ Bankers and analysts use the front of estimating cash 
+flows for a discounted cashflow valuation, while slipping 
+in a multiple to estimate the biggest cash flow, the 
+terminal value, in what I call Trojan Horse DCFs. 
+¨ There are four steps to pricing an asset or company well, 
+and as I go through these steps, I will also suggest good 
+pricing practices.
+5
+Step 1: Find similar firms
+¨ To price an asset, you have to find "similar" assets 
+that are traded in the market. 
+¨ The conventional practice in pricing seems to be still 
+country and sector focused, where an Indian food 
+processing company is compared to other food 
+processing companies in India, on the implicit 
+assumption that these are the most comparable 
+companies. 
+¨ That practice, though, can not only lead to very small 
+samples in some countries, but the companies in the 
+sector can also have very different fundamentals...
+6
+Good Pricing Practices
+1.1: With equities, there are no perfect matches: With stocks, 
+there are no identical stocks, since even with companies that 
+are close matches, differences will persist.
+1.2: Small, more similar sample or Large, more diverse sample: 
+Given that there are no stocks identical to the one that you 
+are trying to value in the market, you will be faced with 
+two choices. 
+¤ One is to define "similar" narrowly, looking for companies that are 
+listed on the same market as yours, of similar size and serving the 
+same market. 
+¤ The other is to define it more broadly, bringing in companies in other 
+markets and perhaps with different business models. The former will 
+give you more focus and the latter a much larger sample and which 
+one you choose to use will depend on how you do the rest of your 
+pricing.
+7
+2. Pricing Metrics
+Aswath Damodaran
+7
+8
+Good Pricing Practices
+¨ 2.1: When leverage is different across companies, go 
+with enterprise value: When comparing pricing across 
+companies, it is better to focus on enterprise value, 
+when debt ratios vary widely across the companies, 
+because equity value at highly levered companies is 
+much smaller and more volatile.
+¨ 2.2: With financial service companies, stick with equity: 
+Debt to a bank, investment bank or insurance company 
+is more raw material than source of capital and defining 
+debt becomes almost impossible to do at 
+financial service firms. Rather than wrestle with his 
+estimation problem, my suggestion is that you stick 
+with equity multiples.
+9
+3. Choose a scaling variable
+10
+Good Pricing Practices
+3.1: Be internally consistent: If your pricing metric is 
+an equity value, your scaling variable has to be an 
+equity value (net income, book value of equity). If your 
+pricing metric is enterprise value, your scaling variable 
+has to be an operating variable (revenues, EBITDA or 
+book value of invested capital).
+3.2: Life cycle matters: The multiple that you use to 
+judge pricing will change, as a company moves through 
+the life cycle.
+11
+Pricing across the Life Cycle
+12
+4. Control for Differences
+¨ Differences will persist: No matter how carefully you 
+pick comparable firms, there will be differences that 
+persist between the company that you are trying to 
+value and the comparable firms. 
+¨ The Pricing Test: The test of good pricing is whether 
+you detect the variables that cause differences in 
+pricing and how well you control for the differences. 
+¨ Too much hand waving: In much of equity research, 
+the preferred mode for dealing with these 
+differences is to spin them to justify whatever pre-
+conceptions you have about a stock.
+13
+Good Pricing Practices: Link to fundamentals, if 
+you believe they will prevail..
+14
+Or trust the market…
+¨ If you are a pure trader, who has little faith that the 
+fundamentals will prevail, you can can take a 
+different path.
+¨ You can look at other data, related to the companies 
+that you are pricing, and look for correlation. 
+¨ Put simply, you are trying to use the data to back out 
+what variables best explain differences in market 
+pricing, and using those variables to price your 
+company.
+15
+Pricing around the Globe: PE Ratios
+16
+Book Value Multiples
+17
+EBIT & EBITDA Multiples
+18
+Revenue Multiples

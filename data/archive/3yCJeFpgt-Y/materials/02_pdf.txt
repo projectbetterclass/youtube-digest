@@ -1,0 +1,860 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/webcasts/corpgovHP/HPAnnual.pdf
+
+Meg Whitman
+President and CEO
+The Year in Review
+In the first year of our turnaround effort, we provided a frank assessment of the challenges facing HP , 
+laid out clear strategies at all levels of the corporation, and mapped out our journey to restore HP’s 
+financial performance. Most importantly, we did what we said we would do in fiscal 2012 – we began 
+taking action to bring costs in line with the revenue trajectory of the business and met our full-year  
+non-GAAP earnings per share outlook.
+We have just completed year one of our journey, and we are already seeing tangible proof that the steps 
+we have taken are working. This includes generating $10.6 billion in cash flow from operations for fiscal 
+2012. HP used that cash to make significant progress in rebuilding our balance sheet – reducing our 
+net debt by $5.6 billion during the year – and returned $2.6 billion to stockholders in the form of share 
+repurchases and dividends.
+Our efforts in fiscal 2012 also included beginning to tackle the structural and execution issues we 
+identified, and building the foundation we need to improve our performance in the face of dynamic 
+market trends and macroeconomic challenges. 
+$10.6B
+in cash flow from 
+operations for 
+fiscal 2012
+1
+Dear Stockholders,
+Fiscal 2012 was the first year in a multi-year 
+journey to turn HP around. We diagnosed the 
+problems facing the company, laid the foundation 
+to fix them, and put in place a plan to restore HP 
+to growth. We know where we need to go, and 
+we are starting to make progress.
+This foundation includes assembling a strong leadership team and investing in systems and tools that 
+make it easier for us to manage our business, allocate resources, and prioritize investment dollars.  
+For example, to better empower and enable our sales teams, we successfully rolled out a new customer 
+relationship management system to almost 30,000 HP employees. 
+To bring more focus back to the business, we implemented a series of organizational changes, such 
+as consolidating our personal computer and printing businesses under the same senior executive 
+leadership. We also combined our global accounts sales organization with our enterprise servers, 
+storage, and networking business and our technology services business to create a new Enterprise 
+Group. Finally, we centralized all of our marketing and communications activities.
+In May, we announced a multi-year restructuring program to streamline the company and create the 
+capacity to invest in innovation. As of the end of fiscal 2012, we are on track to realize the savings that 
+we outlined in that announcement. 
+We began working to optimize our supply chain, reduce the number of stock-keeping units (SKUs) and 
+platforms, refine our real estate strategy, improve our business processes, and implement consistent 
+pricing and promotions. 
+We have also taken steps to refocus our research and development efforts to extend HP’s technology 
+leadership in our core markets. Our product and service development teams have moved aggressively to 
+better understand customer needs, align our portfolio, and speed our time to market.  
+Finally, fiscal 2012 was a landmark year for product announcements, including our first new line of 
+multi-function printers in seven years, an impressive new line of Windows 8 PCs, such as the Spectre XT 
+TouchSmart and ENVY x2, and the HP ElitePad, the world’s first tablet optimized for the enterprise. In addition, 
+ we introduced a comprehensive cloud strategy and a number of new cloud products and services. 
+And we updated our enterprise security portfolio with scalable solutions that give customers 
+ the 360-degree view they need to protect the 21st century enterprise.
+Multi-Year Journey
+We began fiscal 2013 with a stronger financial foundation, an empowered leadership team, and a clear 
+strategy, but we have more work to do on the multi-year journey ahead of us.
+Fiscal 2013 is going to be a fix-and-rebuild year as we focus on working through the anticipated 
+disruptions expected to accompany the organizational changes we made in fiscal 2012. We will continue 
+to implement our cost-reduction and operational initiatives, make investments in our business – 
+particularly in tools, systems, processes, and instrumentation – and maintain our focus on disciplined 
+capital allocation. We will also continue to drive product innovation in our core markets; improve our 
+commercialization strategy with a focus on cloud computing, security, and information optimization; 
+and rebuild our go-to-market capability.
+We are working hard to accelerate the timing of this journey. Success hinges on consistency of 
+leadership, focus, execution and, most importantly, great products and services delivered in the way 
+that customers want to buy them.
+$2.6B
+returned to 
+stockholders in 
+the form of share 
+repurchases and 
+dividends
+2
+We modified our incentive compensation structure for senior executives to increase the focus on the underlying
+drivers of stockholder value, including an increased emphasis on cash flow and the addition of a new return on
+invested capital performance metric.
+Looking Ahead 
+While we have faced some big challenges, we also see some big opportunities ahead, and we are well 
+positioned to take advantage of those opportunities with our remarkable set of assets and strengths. 
+ 
+Our unparalleled scale and distribution allows us to reach customers and partners in any corner of  
+the globe at the best possible price. Our brand is trusted by customers around the world. We have 
+talented and resilient employees that are committed to our customers, and a culture of great 
+engineering and innovation. 
+Above all, we have an incredibly loyal group of customers and partners who want our company to 
+succeed. Over the years, these customers have made enormous investments in HP’s technology, and 
+they need us to continue to provide solutions for today’s new style of IT . 
+This new style of IT promises lower costs, simplicity, and speed. Driven by cloud, mobility, and big 
+data, it is changing how technology is consumed and delivered, and how end users engage with it. 
+For organizations around the world, this new style of IT has the potential to reshape the competitive 
+landscape by lowering barriers of entry in all industries.  
+And this new style of IT will demand a foundation to support much greater agility, lower cost, and a 
+higher degree of accessibility. This foundation will span devices, infrastructure, software, and services 
+to meet the expectations of  employees, customers, and partners. The IT industry must evolve how 
+it works to succeed in this new environment and can no longer focus on just the pieces – hardware, 
+software, and services – but must focus on all of the above. 
+HP is the ideal partner with the right solutions for the future. Our diverse portfolio sets us apart, and we 
+are the only company that can deliver hardware, software, and services that meet the needs of all of our 
+customers, from the enterprise to the consumer . 
+After a full year as CEO, it is clear to me that HP is at the forefront of a unique opportunity at a critical 
+time. Taking advantage of this moment will reinforce HP’s position as a world-class technology 
+leader , delivering unrivaled integrated solutions for our customers over the next generation.  I am 
+confident that over time this will increasingly equate to improved financial performance and increased 
+stockholder value. 
+Looking ahead, I remain optimistic and confident about our future. We now have the people, the plan, 
+and the foundation in place to help us succeed on the next phase of the journey. 
+Thank you for the confidence you have given to all of us by investing in HP and  believing in all that we 
+can accomplish together . 
+Sincerely,
+Meg Whitman
+3
+Marc L. Andreessen
+Director since 2009
+Age 41
+Mr . Andreessen is a co-founder of AH Capital 
+Management, LLC, doing business as Andreessen 
+Horowitz, a venture capital firm founded in July 
+2009. From 1999 to July 2007, Mr . Andreessen 
+served as Chairman of  Opsware, Inc., a software 
+company that he co-founded. From March 1999 
+to September 1999, Mr . Andreessen served as 
+Chief Technology Officer of America Online, Inc., 
+a software company. Mr . Andreessen co-founded 
+Netscape Communications Corporation, a software 
+company, and served in various positions, 
+including Chief Technology Officer and Executive 
+Vice President of Products from 1994 to 1999. 
+Mr . Andreessen also is a director of eBay Inc., 
+Facebook, Inc. and several private companies.
+Shumeet Banerji
+Director since 2011
+Age 53
+Mr . Banerji has served as a senior partner of Booz & 
+Company, a consulting company, since May 2012. 
+Previously, Mr . Banerji served as Chief Executive 
+Officer of Booz & Company from July 2008 to May 
+2012. Prior to that, Mr . Banerji served in multiple 
+roles at Booz Allen Hamilton, a consulting company 
+and predecessor to Booz & Company, while based in 
+offices in North America, Asia and Europe, including 
+President of the Worldwide Commercial Business 
+from February 2008 to July 2008, Managing 
+Director , Europe from February 2007 to February 
+2008 and Managing Director , United Kingdom from 
+2003 to March 2007. Earlier in his career , Mr . Banerji 
+was a member of the faculty at the University of 
+Chicago Graduate School of Business.
+Rajiv L. Gupta
+Director since 2009
+Age 67
+Mr . Gupta has served as Lead Independent Director 
+of the Board since November 2011. Mr . Gupta 
+has served as Chairman of Avantor Performance 
+Materials, a manufacturer of chemistries and 
+materials, since August 2011 and as Senior Advisor 
+to New Mountain Capital, LLC, a private equity firm, 
+since July 2009. Previously, Mr . Gupta served as 
+Chairman and Chief Executive Officer of Rohm and 
+Haas Company, a worldwide producer of specialty 
+materials, from 1999 to April 2009. Mr . Gupta 
+occupied various other positions at Rohm and 
+Haas after joining the company in 1971, including 
+Vice Chairman from 1998 to 1999, Director of the 
+Electronic Materials business from 1996 to 1999, 
+and Vice President and Regional Director of the 
+Asia-Pacific Region from 1993 to 1998. Mr . Gupta 
+also is a director of Delphi Automotive PLC, Tyco 
+International Ltd., The Vanguard Group and several 
+private companies.
+John H. Hammergren
+Director since 2005
+Age 53
+Mr . Hammergren has served as Chairman of 
+McKesson Corporation, a healthcare services and 
+information technology company, since 2002. Mr . 
+Hammergren joined McKesson in 1996 and held a 
+number of management positions before becoming 
+President and Chief Executive Officer in 2001. Mr . 
+Hammergren also is a former director of Nadro, S.A. 
+de C.V. (Mexico).
+Raymond J. Lane
+Director since 2010
+Age 66
+Mr . Lane was appointed executive Chairman in 
+September 2011 after having served as HP’s 
+non-executive Chairman since November 2010. Mr . 
+Lane has served as Managing Partner of Kleiner 
+Perkins Caufield & Byers, a private equity firm, 
+since 2000. Prior to joining Kleiner Perkins, Mr . 
+Lane was President and Chief Operating Officer 
+and a director of Oracle Corporation, a software 
+company. Before joining Oracle in 1992, Mr . Lane 
+was a senior partner of Booz Allen Hamilton, a 
+consulting company. Prior to Booz Allen Hamilton, 
+Mr . Lane served as a division vice president with 
+Electronic Data Systems Corporation, an IT services 
+company that HP acquired in August 2008. Mr . Lane 
+is a director of several private companies and is a 
+former director of Quest Software, Inc.
+Ann M. Livermore
+Director since 2011
+Age 54
+Ms. Livermore served as Executive Vice President of 
+the former HP Enterprise Business from 2004 until 
+June 2011 and has served in a transitional role since 
+then. Prior to that, Ms. Livermore served in various 
+other positions with HP in marketing, sales, research 
+and development, and business management since 
+joining the company in 1982. Ms. Livermore also is a 
+director of United Parcel Service, Inc.
+Members of the Board*
+4
+Gary M. Reiner
+Director since 2011
+Age 58
+Mr . Reiner has served as Operating Partner at 
+General Atlantic, a private equity firm, since 
+November 2011. Previously, Mr . Reiner served as 
+Special Advisor to General Atlantic from September 
+2010 to November 2011. Prior to that, Mr . 
+Reiner served as Senior Vice President and Chief 
+Information Officer at General Electric Company, a 
+technology, media and financial services company, 
+from 1996 until March 2010. Mr . Reiner previously 
+held other executive positions with GE since joining 
+the company in 1991. Earlier in his career , Mr . 
+Reiner was a partner at Boston Consulting Group, a 
+consulting company, where he focused on strategic 
+and process issues for technology businesses. Mr . 
+Reiner also is a former director of Genpact Limited.
+Patricia F . Russo
+Director since 2011
+Age 60
+Ms. Russo served as Chief Executive Officer of 
+Alcatel-Lucent, a communications company, from 
+December 2006 to September 2008. Previously, she 
+served as Chairman of Lucent Technologies Inc., a 
+communications company, from 2003 to November 
+2006 and Chief Executive Officer and President of 
+Lucent from 2002 to November 2006. Ms. Russo also 
+is a director of Alcoa, Inc., General Motors Company, 
+KKR Management LLC (the managing partner of KKR 
+& Co., L.P .) and Merck & Co., Inc. Ms. Russo served as 
+a director of Schering-Plough Corporation from 1995 
+until its merger with Merck in 2009.
+G. Kennedy Thompson
+Director since 2006
+Age 62
+Mr . Thompson has been a principal of Aquiline 
+Capital Partners LLC, a private equity firm, since 
+November 2011 after having served as Senior 
+Advisor to Aquiline from May 2009 until November 
+2011. Previously, Mr . Thompson served as Chairman 
+of Wachovia Corporation, a financial services 
+company, from 2003 until June 2008. Mr . Thompson 
+also served as Chief Executive Officer of Wachovia, 
+formerly First Union Corporation, from 2000 until 
+June 2008 and as President from 1999 until June 
+2008. Previously, Mr . Thompson served as Chairman 
+of First Union for a portion of 2001, Vice Chairman 
+of First Union from 1998 to 1999, and Executive 
+Vice President of First Union from 1996 to 1998. 
+Mr . Thompson also is a director of BNC Bancorp.
+Margaret C. Whitman
+Director since 2011
+Age 56
+Ms. Whitman has served as President and Chief 
+Executive Officer of HP since September 2011 
+and as a member of the Board since January 
+2011. From March 2011 to September 2011, Ms. 
+Whitman served as a part-time strategic advisor to 
+Kleiner Perkins Caufield & Byers, a private equity 
+firm. Previously, Ms. Whitman served as President 
+and Chief Executive Officer of eBay Inc., an online 
+marketplace and payments company, from 1998 
+to March 2008. Prior to joining eBay, Ms. Whitman 
+held executive-level positions at Hasbro Inc., a toy 
+company, FTD, Inc., a floral products company, The 
+Stride Rite Corporation, a footwear company, The 
+Walt Disney Company, an entertainment company, 
+and Bain & Company, a consulting company. Ms. 
+Whitman also serves as a director of The Procter & 
+Gamble Company and Zipcar , Inc. and is a former 
+director of DreamWorks Animation SKG, Inc.
+Ralph V. Whitworth
+Director since 2011
+Age 57
+Mr . Whitworth has been a principal of Relational 
+Investors LLC, a registered investment advisor , 
+since 1996. He also is a former director of Genzyme 
+Corporation, Sovereign Bancorp, Inc., Sprint Nextel 
+Corporation and seven other public companies.
+5
+Executive Team*
+6
+R. Todd Bradley
+Executive Vice President, 
+Printing and Personal Systems Group
+David A. Donatelli
+Executive Vice President and 
+General Manager , Enterprise Group
+Henry Gomez
+Executive Vice President and 
+Chief Communications Officer
+John M. Hinshaw
+Executive Vice President, 
+Technology and Operations
+Martin J. Homlish
+Executive Vice President and 
+Chief Marketing Officer
+Abdo George Kadifa
+Executive Vice President, 
+HP Software
+Tracy S. Keogh
+Executive Vice President, 
+Human Resources
+Catherine A. Lesjak
+Executive Vice President and 
+Chief Financial Officer
+Marc A. Levine
+Senior Vice President, 
+Controller and Principal Accounting Officer
+John N. McMullen
+Senior Vice President and Treasurer
+Michael G. Nefkens
+Executive Vice President, 
+Enterprise Services
+John F . Schultz
+Executive Vice President, 
+General Counsel and Secretary
+William L. Veghte
+Chief Operating Officer
+Margaret C. Whitman
+President and Chief Executive Officer
+*Members of the Board and Executive Team as of December 31, 2012.
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+/c4964ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended October 31, 2012
+Or
+/c6050TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+For the transition period from  to 
+Commission file number 1-4423
+HEWLETT -PACKARD COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware 94-1081436
+(State or other jurisdiction of (I.R.S. employer
+incorporation or organization) identification no.)
+3000 Hanover Street, Palo Alto, California 94304
+(Address of principal executive offices) (Zip code)
+Registrant’s telephone number, including area code: (650) 857-1501
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class Name of each exchange on which registered
+Common stock, par value $0.01 per share New Y ork Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer as defined in Rule 405 of the Securities Act. Y es /c4964 No /c6050
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Y es /c6050 No /c4964
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Secu rities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such r eports),
+and (2) has been subject to such filing requirements for the past 90 days. Y es /c4964 No /c6050
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every
+Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or
+for such shorter period that the registrant was required to submit and post such files). Y es /c4964 No /c6050
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will
+not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in
+Part III of this Form 10-K or any amendment to this Form 10-K. /c4964
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company. See the definitions of ‘‘large accelerated filer,’’ ‘‘accelerated filer’’ and ‘‘smaller reporting company’’ in Rule 12b-2 of
+the Exchange Act. (Check one):
+Large accelerated filer /c4964 Accelerated filer /c6050 Non-accelerated filer /c6050 Smaller reporting company /c6050
+(Do not check if a smaller
+reporting company)
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Y es /c6050 No /c4964
+The aggregate market value of the registrant’s common stock held by non-affiliates was $48,466,819,000 based on the last sale
+price of common stock on April 30, 2012.
+The number of shares of HP common stock outstanding as of November 30, 2012 was 1,948,148,051 shares.
+DOCUMENTS INCORPORATED BY REFERENCE
+DOCUMENT DESCRIPTION 10-K PART
+Portions of the Registrant’s proxy statement related to its 2013 Annual Meeting of Stockholders to be filed III
+pursuant to Regulation 14A within 120 days after Registrant’s fiscal year end of October 31, 2012 are incorporated
+by reference into Part III of this Report.
+Hewlett-Packard Company
+Form 10-K
+For the Fiscal Y ear Ended October 31, 2012
+Table of Contents
+Page
+PA RT  I
+Item 1. Business ........................................................ 3
+Item 1A. Risk Factors ..................................................... 1 6
+Item 1B. Unresolved Staff Comments ......................................... 3 4
+Item 2. Properties ....................................................... 3 4
+Item 3. Legal Proceedings ................................................. 3 5
+Item 4. Mine Safety Disclosures ............................................ 3 5
+PA RT  I I
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer
+Purchases of Equity Securities ...................................... 3 6
+Item 6. Selected Financial Data ............................................. 3 8
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of
+Operations .................................................... 3 9
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk .................. 7 2
+Item 8. Financial Statements and Supplementary Data ............................ 7 4
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial
+Disclosure ..................................................... 1 6 9
+Item 9A. Controls and Procedures ............................................ 1 6 9
+Item 9B. Other Information ................................................ 1 6 9
+P ART III
+Item 10. Directors, Executive Officers and Corporate Governance .................... 1 7 0
+Item 11. Executive Compensation ............................................ 1 7 0
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related
+Stockholder Matters ............................................. 1 7 0
+Item 13. Certain Relationships and Related T ransactions, and Director Independence ...... 1 7 0
+Item 14. Principal Accounting Fees and Services ................................. 1 7 1
+PA RT  I V
+Item 15. Exhibits and Financial Statement Schedules .............................. 1 7 2
+Forward-Looking Statements
+This Annual Report on Form 10-K, including ‘‘Management’s Discussion and Analysis of Financial
+Condition and Results of Operations’’ in Item 7, contains forward-looking statements that involve risks,
+uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove
+incorrect, the results of Hewlett-Packard Company and its consolidated subsidiaries (‘‘HP’’) may differ
+materially from those expressed or implied by such forward-looking statements and assumptions. All
+statements other than statements of historical fact are statements that could be deemed forward-looking
+statements, including but not limited to any projections of revenue, margins, expenses, earnings, earnings per
+share, tax provisions, cash flows, benefit obligations, share repurchases, currency exchange rates other
+financial items; any projections of the amount, timing or impact of cost savings or restructuring charges; any
+statements of the plans, strategies and objectives of management for future operations, including the
+execution of restructuring plans and any resulting cost savings or revenue or profitability improvements; any
+statements concerning the expected development, performance, market share or competitive performance
+relating to products or services; any statements regarding current or future macroeconomic trends or events
+and the impact of those trends and events on HP and its financial performance; any statements regarding
+pending investigations, claims or disputes; any statements of expectation or belief; and any statements of
+assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the impact of
+macroeconomic and geopolitical trends and events; the competitive pressures faced by HP’s businesses; the
+development and transition of new products and services and the enhancement of existing products and
+services to meet customer needs and respond to emerging technological trends; the execution and
+performance of contracts by HP and its suppliers, customers and partners; the protection of HP’s intellectual
+property assets, including intellectual property licensed from third parties; integration and other risks
+associated with business combination and investment transactions; the hiring and retention of key
+employees; assumptions related to pension and other post-retirement costs and retirement programs; the
+execution, timing and results of restructuring plans, including estimates and assumptions related to the cost
+and the anticipated benefits of implementing those plans; the resolution of pending investigations, claims
+and disputes; and other risks that are described herein, including but not limited to the items discussed in
+‘‘Risk Factors’’ in Item 1A of this report, and that are otherwise described or updated from time to time in
+HP’s Securities and Exchange Commission reports. HP assumes no obligation and does not intend to
+update these forward-looking statements.
+PART I
+ITEM 1. Business.
+HP is a leading global provider of products, technologies, software, solutions and services to
+individual consumers, small- and medium-sized businesses (‘‘SMBs’’) and large enterprises, including
+customers in the government, health and education sectors. Our offerings span:
+ personal computing and other access devices;
+ multi-vendor customer services, including infrastructure technology and business process
+outsourcing, technology support and maintenance, application development and support services
+and consulting and integration services;
+ imaging and printing-related products and services; and
+ enterprise information technology infrastructure, including enterprise server and storage
+technology, networking products and solutions, information technology (‘‘IT’’) management
+software, information management solutions and security intelligence/risk management solutions.
+HP was incorporated in 1947 under the laws of the State of California as the successor to a
+partnership founded in 1939 by William R. Hewlett and David Packard. Effective in May 1998, we
+changed our state of incorporation from California to Delaware.
+3
+HP Products and Services; Segment Information
+Our operations are organized into seven business segments: Personal Systems (formerly known as
+the Personal Systems Group or ‘‘PSG’’); Printing (formerly known as the Imaging and Printing Group
+or ‘‘IPG’’); Services; Enterprise Servers, Storage and Networking (‘‘ESSN’’); Software; HP Financial
+Services (‘‘HPFS’’); and Corporate Investments. In each of the past three fiscal years, notebooks,
+desktops, printing supplies and infrastructure technology outsourcing services each accounted for more
+than 10% of our consolidated net revenue. In fiscal 2012 and 2011, industry standard servers also
+accounted for more than 10% of our consolidated net revenue.
+As part of a realignment of the structure of our business in fiscal 2012, we have structured the
+Personal Systems segment and the Printing segment beneath a newly formed Printing and Personal
+Systems Group (‘‘PPS’’). While PPS is not a financial reporting segment, we sometimes provide
+financial data aggregating the segments within it in order to provide a supplementary view of our
+business.
+A summary of our net revenue, earnings from operations and assets for our segments and business
+units is found in Note 19 to the Consolidated Financial Statements in Item 8, which is incorporated
+herein by reference. A discussion of factors potentially affecting our operations is set forth in ‘‘Risk
+Factors’’ in Item 1A, which is incorporated herein by reference.
+Printing and Personal Systems Group
+The mission of PPS is to leverage the respective strengths of the Personal Systems business and the
+Printing business in creating a single, unified business that is customer-focused and poised to capitalize
+on rapidly shifting industry trends. Each of the business segments within PPS is described in detail
+below.
+Personal Systems
+Personal Systems provides commercial personal computers (‘‘PCs’’), consumer PCs, workstations,
+calculators and other related accessories, software and services for the commercial and consumer
+markets. We group commercial notebooks, commercial desktops and workstations into commercial
+clients and consumer notebooks and consumer desktops into consumer clients when describing our
+performance in these markets. Like the broader PC market, Personal Systems continues to experience a
+shift toward mobile products such as notebooks. Both commercial and consumer PCs are based
+predominately on the Windows operating system and use Intel Corporation (‘‘Intel’’) and Advanced
+Micro Devices, Inc. (‘‘ AMD’’) processors.
+Commercial PCs. Commercial PCs are optimized for commercial uses, including enterprise and
+SMB customers, and for connectivity and manageability in networked environments. Commercial PCs
+include the HP ProBook and the HP EliteBook lines of notebooks and the Compaq Pro, Compaq
+Elite, HP Pro and HP Elite lines of business desktops, as well as the All-in-One T ouchSmart and Omni
+PCs, HP Mini-Note PCs, retail POS systems, HP Thin Clients and HP Slate T ablet PCs.
+Consumer PCs. Consumer PCs include the HP Pavilion, HP Elite, Envy and Compaq Presario
+series of multi-media consumer notebooks, desktops and mini notebooks, including the T ouchSmart line
+of touch-enabled all-in-one notebooks and desktops.
+Workstations. Workstations are individual computing products designed for users demanding
+enhanced performance, such as computer animation, engineering design and other programs requiring
+high-resolution graphics. Personal Systems provides workstations that run on both Windows and Linux-
+based operating systems.
+4
+Printing
+Printing provides consumer and commercial printer hardware, supplies, media and scanning
+devices. Printing is also focused on imaging solutions in the commercial markets. These solutions range
+from managed print services to capturing high-value pages in areas such as industrial applications,
+outdoor signage, and the graphic arts business.
+Inkjet and Web Solutions. Inkjet and Web Solutions delivers HP’s consumer and SMB inkjet
+solutions (hardware, supplies, media, web-connected hardware and services). It includes single-function
+and all-in-one inkjet printers targeted toward consumers and SMBs, as well as Snapfish and
+ePrintCenter.
+LaserJet and Enterprise Solutions. LaserJet and Enterprise Solutions delivers products, services
+and solutions to the SMB and enterprise segments, including LaserJet printers and supplies, multi-
+function devices, scanners, web-connected hardware and services and enterprise software solutions, such
+as Exstream Software and Web Jetadmin.
+Managed Enterprise Solutions. Managed Enterprise Solutions include managed print service
+products, support and solutions delivered to enterprise customers partnering with third-party software
+providers to offer workflow solutions in the enterprise environment.
+Graphics Solutions. Graphics Solutions include large format printing (Designjet and Scitex) and
+supplies, Indigo digital presses and supplies, inkjet high-speed production solutions and supplies,
+specialty printing systems and graphics services. Graphic Solutions targets print service providers,
+architects, engineers, designers, photofinishers, and industrial solution providers.
+Services
+Services provides consulting, outsourcing and technology services across infrastructure, applications
+and business process domains. Services delivers to its clients by leveraging investments in consulting
+and support professionals, infrastructure technology, applications, standardized methodologies and
+global supply and delivery. Our services businesses also create opportunities for us to sell additional
+hardware and software by offering solutions that encompass both products and services. Services is
+divided into three main business units: infrastructure technology outsourcing, technology services and
+application and business services.
+Infrastructure T echnology Outsourcing. Infrastructure T echnology Outsourcing delivers
+comprehensive services that streamline and optimize our clients’ infrastructure to efficiently enhance
+performance, reduce costs, mitigate risk and enable business change. These services encompass the data
+center, IT security, cloud-based computing, workplace technology, network, unified communications and
+enterprise service management. We also offer a set of managed services, providing a cross-section of
+our broader infrastructure services for smaller discrete engagements.
+T echnology Services. T echnology Services provides technology consulting and support services for
+transforming IT and converging and supporting IT infrastructure. The technology consulting portfolio
+includes strategic IT advisory services, cloud consulting services, unified communications solutions, data
+center transformation services and education consulting services. In addition to warranty support across
+our product lines, support services includes HP Foundation Care, our portfolio of reactive hardware
+and software support services; HP Proactive Care, which includes advanced remote system-monitoring
+tools, continuous onsite rapid response and direct access to our technical experts and resources; HP
+Datacenter Care for flexible customer support for HP and multivendor systems; and Lifecycle Event
+services, which are event-based services offering our technology expertise and consulting for each phase
+of the technology life cycle. Our technology services offerings are available in the form of service
+contracts, pre-packaged offerings (HP Care Pack services) or on an individual basis.
+5
+Application and Business Services. Application and Business Services helps clients develop,
+revitalize and manage their applications and information assets. This full application life cycle approach
+encompasses application development, testing, modernization, system integration, maintenance and
+management for both packaged and custom-built applications. The Application and Business Services
+portfolio also includes intellectual property-based industry solutions, services and technologies to help
+clients better manage critical business processes. We also offer services for customer relationship
+management, finance and administration, human resources, payroll and document processing.
+Enterprise Servers, Storage and Networking
+ESSN provides server, storage and networking products that fulfill a wide range of customer needs
+and market requirements. Our Converged Infrastructure portfolio of servers, storage and networking
+combined with our Cloud Service Automation software suite creates the HP CloudSystem. This
+integrated solution enables enterprise and service-provider clients to deliver infrastructure, platform and
+software-as-a-service in a private, public or hybrid cloud environment. By providing a broad portfolio of
+server, storage and networking solutions, ESSN aims to optimize the combined product solutions
+required by different customers and provide solutions for a wide range of operating environments,
+spanning both the enterprise and the SMB markets.
+Industry Standard Servers. Industry Standard Servers offers primarily entry-level and mid-range
+ProLiant servers, which run primarily Windows, Linux and virtualization platforms from Microsoft,
+VMware, Inc. and other major vendors and leverage Intel and AMD x86 processors. The business
+spans a range of product lines that include pedestal-tower servers, density-optimized rack servers and
+our BladeSystem family of server blades. Industry Standard Servers also provides hyperscale solutions
+for large distributed computing companies who buy and deploy compute nodes at a massive scale.
+Business Critical Systems. Business Critical Systems delivers our mission-critical Converged
+Infrastructure with a portfolio of HP Integrity servers based on the Intel Itanium processor that run the
+HP-UX and OpenVMS operating systems, as well as HP Integrity NonStop solutions. Our Integrity
+servers feature scalable blades built on a blade infrastructure with our unique Blade Link technology
+and the Superdome 2 server solution. Business Critical Systems also offers our scale-up x86 ProLiant
+servers for scalability of systems with more than four industry standard processors. In addition, we
+continue to support the HP9000 servers and HP AlphaServers by offering customers the opportunity to
+upgrade these legacy systems to current HP Integrity systems.
+Storage. Our storage offerings include storage platforms for high-end, mid-range and small
+business environments. Our flagship product is the HP 3P AR StoreServ Storage Platform, which is
+designed for virtualization, cloud and IT-as-a-service. The Storage business has a broad range of
+products including storage area networks, network attached storage, storage management software and
+virtualization technologies, StoreOnce data deduplication solutions, tape drives and tape libraries.
+These offerings enable customers to optimize their existing storage systems, build new virtualization
+solutions and plan their transition to cloud computing.
+Networking. Our switch, router and wireless LAN products deliver open, scalable, secure, agile
+and consistent solutions for the data center, campus and branch networks. Our networking solutions
+are based on our FlexNetwork architecture, which is designed to enable simplified server virtualization,
+unified communications and multi-media application delivery for the enterprise.
+Software
+Software provides enterprise information management solutions for both structured and
+unstructured data, IT management software, and security intelligence/risk management solutions.
+Solutions are delivered in the form of traditional software licenses, software-as-a-service, hybrid or
+6
+appliance deployment models. Augmented by support and professional services, our software solutions
+allow IT organizations to gain customer insight and optimize infrastructure, operations, application life
+cycles, application quality, security, IT services and business processes. In addition, these solutions help
+businesses proactively safeguard digital assets, comply with corporate and regulatory policies, and
+control internal and external security risks.
+HP Financial Services
+HPFS supports and enhances our global product and service solutions, providing a broad range of
+value-added financial life cycle management services. HPFS enables our worldwide customers to
+acquire complete IT solutions, including hardware, software and services. HPFS offers leasing,
+financing, utility programs and asset recovery services, as well as financial asset management services
+for large global and enterprise customers. HPFS also provides an array of specialized financial services
+to SMBs and educational and governmental entities. HPFS offers innovative, customized and flexible
+alternatives to balance unique customer cash flow, technology obsolescence and capacity needs.
+Corporate Investments
+Corporate Investments includes business intelligence solutions, HP Labs, the webOS business and
+certain business incubation projects. Business intelligence solutions enable businesses to standardize on
+consistent data management schemes, connect and share data across the enterprise and apply analytics.
+Sales, Marketing and Distribution
+We manage our business and report our financial results based on the business segments described
+above. Our customers are organized by consumer and commercial customer groups, and purchases of
+HP products and services may be fulfilled directly by HP or indirectly through a variety of partners,
+including:
+ retailers that sell our products to the public through their own physical or Internet stores;
+ resellers that sell our products and services, frequently with their own value-added products or
+services, to targeted customer groups;
+ distribution partners that supply our solutions to smaller resellers;
+ original equipment manufacturers (‘‘OEMs’’) that integrate our products with their own
+hardware or software and sell the integrated products;
+ independent software vendors (‘‘ISVs’’) that provide their clients with specialized software
+products, and often assist us in selling our products and services to clients purchasing their
+products;
+ systems integrators that provide various levels and kinds of expertise in designing and
+implementing custom IT solutions and often partner with our services business to extend their
+expertise or influence the sale of our products and services; and
+ advisory firms that provide various levels of management and IT consulting, including some
+systems integration work, and that typically partner with our services business on client solutions
+that require our unique products and services.
+The mix of HP’s business by channel or direct sales differs substantially by business and region. We
+believe that customer buying patterns and different regional market conditions require us to tailor our
+sales, marketing and distribution efforts accordingly. HP is focused on driving the depth and breadth of
+its coverage in addition to efficiencies and productivity gains in both its direct and indirect businesses.
+So, while each HP business segment manages the execution of its own go-to-market and distribution
+7
+strategy, the business segments collaborate to ensure strategic and process alignment where
+appropriate.
+For large enterprise customers, HP typically assigns an account manager, generally from ESSN or
+Services, to manage the customer relationship across HP . The account manager is supported by a team
+of specialists with product and services expertise. For other customers and for consumers, PPS manages
+direct online sales as well as channel relationships with retailers, while also leading coordination across
+the businesses for relationships with commercial resellers targeting SMBs.
+Manufacturing and Materials
+We utilize a significant number of outsourced manufacturers (‘‘OMs’’) around the world to
+manufacture HP-designed products. The use of OMs is intended to generate cost efficiencies and
+reduce time to market for HP-designed products. We use multiple OMs to maintain flexibility in our
+supply chain and manufacturing processes. In some circumstances, third-party OEMs manufacture
+products that we purchase and resell under the HP brand. In addition to our use of OMs, we currently
+manufacture a limited number of finished products from components and subassemblies that we
+acquire from a wide range of vendors.
+We utilize two primary methods of fulfilling demand for products: building products to order and
+configuring products to order. We build products to order to maximize manufacturing and logistics
+efficiencies by producing high volumes of basic product configurations. Configuring products to order
+permits configuration of units to the particular hardware and software customization requirements of
+customers. Our inventory management and distribution practices in both building products to order and
+configuring products to order seek to minimize inventory holding periods by taking delivery of the
+inventory and manufacturing immediately prior to the sale or distribution of products to our customers.
+We purchase materials, supplies and product subassemblies from a substantial number of vendors.
+For most of our products, we have existing alternate sources of supply, or such sources are readily
+available. However, we do rely on sole sources for laser printer engines, LaserJet supplies and parts for
+products with short life cycles (although some of these sources have operations in multiple locations in
+the event of a disruption). We are dependent upon Intel as a supplier of processors and Microsoft
+Corporation (‘‘Microsoft’’) for various software products. However, we believe that disruptions with
+these suppliers would result in industry-wide dislocations and therefore would not disproportionately
+disadvantage us relative to our competitors. For processors, we also have a relationship with AMD, and
+we have continued to see solid acceptance of AMD processors in the market.
+Like other participants in the high technology industry, we ordinarily acquire materials and
+components through a combination of blanket and scheduled purchase orders to support our
+requirements for periods averaging 90 to 120 days. From time to time, we experience significant price
+volatility and supply constraints for certain components that are not available from multiple sources.
+Frequently, we are able to obtain scarce components for somewhat higher prices on the open market,
+which may have an impact on gross margin but does not disrupt production. We also acquire
+component inventory in anticipation of supply constraints or enter into longer-term pricing
+commitments with vendors to improve the priority, price and availability of supply. See ‘‘Risk Factors—
+We depend on third-party suppliers, and our revenue and gross margin could suffer if we fail to
+manage suppliers properly,’’ in Item 1A, which is incorporated herein by reference.
+International
+Our products and services are available worldwide. We believe this geographic diversity allows us
+to meet demand on a worldwide basis for both consumer and enterprise customers, draws on business
+and technical expertise from a worldwide workforce, provides stability to our operations, allows us to
+drive economies of scale, provides revenue streams to offset geographic economic trends and offers us
+8
+an opportunity to access new markets for maturing products. In addition, we believe that future growth
+is dependent in part on our ability to develop products and sales models that target developing
+countries. In this regard, we believe that our broad geographic presence gives us a solid base upon
+which to build such future growth.
+A summary of our domestic and international net revenue and net property, plant and equipment
+is set forth in Note 19 to the Consolidated Financial Statements in Item 8, which is incorporated herein
+by reference. Approximately 65% of our overall net revenue in fiscal 2012 came from outside the
+United States. The substantial majority of our net revenue originating outside the United States was
+from customers other than foreign governments.
+For a discussion of risks attendant to HP’s foreign operations, see ‘‘Risk Factors—Due to the
+international nature of our business, political or economic changes or other factors could harm our
+future revenue, costs and expenses and financial condition,’’ in Item 1A, ‘‘Quantitative and Qualitative
+Disclosure about Market Risk’’ in Item 7A and Note 10 to the Consolidated Financial Statements in
+Item 8, which are incorporated herein by reference.
+Research and Development
+We are committed to innovation as a key element of HP’s culture. Our development efforts are
+focused on designing and developing products, services and solutions that anticipate customers’
+changing needs and desires and emerging technological trends. Our efforts also are focused on
+identifying the areas where we believe we can make a unique contribution and the areas where
+partnering with other leading technology companies will leverage our cost structure and maximize our
+customers’ experiences.
+HP Labs, together with the various research and development groups within the five principal
+business segments, are responsible for our research and development efforts. HP Labs is part of our
+Corporate Investments segment.
+Expenditures for research and development were $3.4 billion in fiscal 2012, $3.3 billion in fiscal
+2011 and $3.0 billion in fiscal 2010. We anticipate that we will continue to have significant research and
+development expenditures in the future to provide a continuing flow of innovative, high-quality
+products and services to maintain and enhance our competitive position.
+For a discussion of risks attendant to our research and development activities, see ‘‘Risk Factors—
+If we cannot successfully execute on our strategy and continue to develop, manufacture and market
+products, services and solutions that meet customer requirements for innovation and quality, our
+revenue and gross margin may suffer,’’ in Item 1A, which is incorporated herein by reference.
+Patents
+Our general policy has been to seek patent protection for those inventions and improvements
+likely to be incorporated into our products and services or where proprietary rights will improve our
+competitive position. At October 31, 2012 and 2011, our worldwide patent portfolio included over
+36,000 patents, which represented a slight decrease over the number of patents in our patent portfolio
+at the end of fiscal 2010.
+Patents generally have a term of twenty years from the time they are filed. As our patent portfolio
+has been built over time, the remaining terms on the individual patents vary. We believe that our
+patents and applications are important for maintaining the competitive differentiation of our products
+and services, enhancing our ability to access technology of third parties, and maximizing our return on
+research and development investments. No single patent is in itself essential to HP as a whole or to any
+of HP’s business segments.
+9
+In addition to developing our patents, we license intellectual property from third parties as we
+deem appropriate. We have also granted and continue to grant to others licenses under patents owned
+by us when we consider these arrangements to be in our interest. These license arrangements include a
+number of cross-licenses with third parties.
+For a discussion of risks attendant to intellectual property rights, see ‘‘Risk Factors—Our revenue,
+cost of sales, and expenses may suffer if we cannot continue to license or enforce the intellectual
+property rights on which our businesses depend or if third parties assert that we violate their
+intellectual property rights,’’ in Item 1A, which is incorporated herein by reference.
+Backlog
+We believe that backlog is not a meaningful indicator of future business prospects due to the
+diversity of our products and services portfolio, including the large volume of products delivered from
+shelf or channel partner inventories and the shortening of product life cycles. Therefore, we believe
+that backlog information is not material to an understanding of our overall business.
+Seasonality
+General economic conditions have an impact on our business and financial results. From time to
+time, the markets in which we sell our products experience weak economic conditions that may
+negatively affect sales. We experience some seasonal trends in the sale of our products and services.
+For example, European sales often are weaker in the summer months and consumer sales often are
+stronger in the fourth calendar quarter. Demand during the spring and early summer months also may
+be adversely impacted by market anticipation of seasonal trends. See ‘‘Risk Factors—Our sales cycle
+makes planning and inventory management difficult and future financial results less predictable,’’ in
+Item 1A, which is incorporated herein by reference.
+Competition
+We encounter aggressive competition in all areas of our business activity. We compete primarily on
+the basis of technology, performance, price, quality, reliability, brand, reputation, distribution, range of
+products and services, ease of use of our products, account relationships, customer training, service and
+support, security, availability of application Software, and Internet infrastructure offerings.
+The markets for each of our business segments are characterized by vigorous competition among
+major corporations with long-established positions and a large number of new and rapidly growing
+firms. Product life cycles are short, and to remain competitive we must develop new products and
+services, periodically enhance our existing products and services and compete effectively on the basis of
+the factors listed above. In addition, we compete with many of our current and potential partners,
+including OEMs that design, manufacture and often market their products under their own brand
+names. Our successful management of these competitive partner relationships will continue to be
+critical to our future success. Moreover, we anticipate that we will have to continue to adjust prices on
+many of our products and services to stay competitive.
+On a revenue basis we are the largest company offering our range of personal computing and
+other access devices, consulting, outsourcing and technology services, imaging and printing-related
+products and services, and enterprise information technology infrastructure. We are the leader or
+among the leaders in each of our principal business segments.
+The competitive environments in which each segment operates are described below:
+Personal Systems. The areas in which Personal Systems operates are intensely competitive and are
+characterized by price competition and inventory depreciation. Our primary competitors for the
+branded personal computers are Lenovo Group Limited, Dell Inc., Acer Inc., ASUST eK
+10
+Computer Inc., Apple Inc. and T oshiba Corporation. In particular regions, we also experience
+competition from local companies and from generically-branded or ‘‘white box’’ manufacturers. Our
+competitive advantages include our broad product portfolio, our innovation and research and
+development capabilities, our brand and procurement leverage, our ability to cross-sell our portfolio of
+offerings, our extensive service and support offerings and the availability of our broad-based
+distribution of products from retail and commercial channels to direct sales.
+Printing. The markets for printer hardware and associated supplies are highly competitive.
+Printing’s key customer segments each face competitive pressure from the market, specific to pricing
+and the introduction of new products. Key competitors include Canon U.S.A., Inc., Lexmark
+International, Inc., Xerox Corporation, Seiko Epson Corporation, Samsung Electronics Co., Ltd. and
+Brother Industries, Ltd. In addition, independent suppliers offer refill and remanufactured alternatives
+for HP original inkjet and toner supplies, which are often available for lower prices and generally offer
+lower print quality and reliability. Other companies also have developed and marketed new compatible
+cartridges for HP’s laser and inkjet products, particularly outside of the United States where
+intellectual property protection is inadequate or ineffective. Printing is focused on growth through
+innovation and growing high-usage unit share by expanding color printing in the office, growing
+long-term high-value recurring business, accelerating the transition from analog to digital printing in
+graphics, commercial and production environments, driving web and mobile content solutions through
+our installed base of web-connected ePrinters and growing cloud-based, document centric commercial
+solutions and services. Our competitive advantages include our comprehensive solutions for the home,
+the office and the publishing environments, our innovation and research and development capabilities,
+our brand and the availability of our broad-based distribution of products from retail and commercial
+channels to direct sales.
+Services. Our services businesses, including HP Enterprise Services and T echnology Services,
+compete in IT support services, consulting and integration, infrastructure technology outsourcing,
+business process outsourcing and application services. The IT support services and consulting and
+integration markets have been under significant pressure as our customers have reduced their IT
+budgets. However, this trend has benefited the outsourcing services business as customers drive toward
+lower IT management costs to enable more strategic investments. Our competitors include IBM Global
+Services, Computer Sciences Corporation, systems integration firms such as Accenture Ltd. and
+offshore companies such as Fujitsu Limited and India-based competitors Wipro Limited, Infosys
+Limited and T ata Consultancy Services Ltd. We also compete with other traditional hardware providers,
+such as Dell Inc., which are increasingly offering services to support their products. Many of our
+competitors are able to offer a wide range of global services, and some of our competitors enjoy
+significant brand recognition. Our services businesses team with many companies to offer services, and
+those arrangements allow us to extend our reach and augment our capabilities. Our competitive
+advantages include our deep technology expertise, such as multi-vendor environments, virtualization
+and automation, our strong track record of collaboration with clients and partners, and the combination
+of our expertise in infrastructure management with skilled global resources on platforms from SAP ,
+Oracle and Microsoft, among others.
+Enterprise Servers, Storage and Networking. The areas in which ESSN operates are intensely
+competitive and are characterized by rapid and ongoing technological innovation and price competition.
+Our competitors range from broad solution providers such as International Business Machines
+Corporation (‘‘IBM’’) to more focused competitors such as EMC Corporation and NetApp, Inc. in
+storage, Cisco Systems, Inc. and Juniper Networks, Inc. in networking, and Dell Inc. in industry
+standard servers. We believe that our important competitive advantages in this segment include the six
+technology components of our converged infrastructure initiatives: IT systems, power and cooling,
+security, management, virtualization and automation. We believe that our competitive advantages also
+11
+include our global reach and our significant intellectual property portfolio and research and
+development capabilities.
+Software. The areas in which Software operates are fueled by rapidly changing customer
+requirements and technologies. We market enterprise IT management software in competition with
+IBM, CA, Inc., BMC Software, Inc. and others. Our information management solutions, including
+unstructured data analytics, information governance and digital marketing offerings, compete with
+products from companies like Adobe Systems Incorporated, IBM, EMC Corporation, Open T ext
+Corporation, Oracle Corporation and Symantec Corporation. We also deliver enterprise security/risk
+intelligence solutions that compete with products from Symantec Corporation, IBM, Cisco Systems,
+Inc., and McAfee, Inc. As new delivery mechanisms such as software-as-a-service come on the scene,
+we are also confronting less traditional competitors. Our differentiation lies in the breadth and depth of
+our software and services portfolio and the scope of our market coverage.
+HP Financial Services. In our financing business, our competitors are captive financing companies,
+mainly IBM Global Financing, as well as banks and financial institutions. We believe our competitive
+advantage in this business over banks and financial institutions is our ability to finance products,
+services and total solutions.
+For a discussion of risks attendant to these competitive factors, see ‘‘Risk Factors—Competitive
+pressures could harm our revenue, gross margin and prospects,’’ in Item 1A, which is incorporated
+herein by reference.
+Environment
+Our operations are subject to regulation under various federal, state, local and foreign laws
+concerning the environment, including laws addressing the discharge of pollutants into the air and
+water, the management and disposal of hazardous substances and wastes, and the cleanup of
+contaminated sites. We could incur substantial costs, including cleanup costs, fines and civil or criminal
+sanctions, and third-party damage or personal injury claims, if we were to violate or become liable
+under environment

@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/ERP&GDP.xls
+
+[legacy .xls workbook: ERP&GDP.xls — see raw file]

@@ -1,0 +1,59 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DiscountRateMyth5.pdf
+
+DISCOUNT	RATE	MYTH	5:	IF	THE	
+RISK	FREE	RATE	CHANGES..
+2
+Riskfree	Rates	and	Value	in	DCF
+¨ Riskfree rate	is	part	of	discount	rate:	In	a	conventional	
+DCF ,	the	riskfreerate	enters	the	process	only	in	the	
+estimation	of	discount	rates,	forming	the	base	from	
+which	both	cost	of	equity	anc capital	are	computed.
+¨ As	riskfree rate	changes,	discount	rates	change	in	
+tandem:	If	you	hold	all	else	constant	(cash	flows,	growth,	
+debt	ratios	and	risk	premiums),	lowering	the	riskfree rate	
+will	always	increase	value,	with	the	pace	of	increase	
+picking	up	the	lower	the	risk	free	rate	gets.
+¨ Low	rates	=	Sky	high	valuations:	In	today’s	environment	
+of	near-zero	and	even	negative	risk	free	rates,	this	has	
+the	potential	to	blow	up	DCF	valuations.
+3
+In	this	world,	all	eyes	turn	to	central	
+bankers..
+4
+Riskfree	Rates	and	Value:	Ceteris	Paribus
+5
+Riskfree	Rates	and	Value:	The	Real	World
+• Central	banks	don’t	set	interest	rates,	but	tweak	
+them.	
+• When	interest	rates	change	significantly,	the	changes	
+are	coming	from	changes	in	the	macroeconomic	
+fundamentals	which	will	also	affect	your	other	
+inputs	into	value.
+• Put	simply,	you	cannot	hold	all	else	constant.
+6
+1.	Riskfree	Rates	and	Growth
+7
+2.	Riskfree	Rates	and	ERP
+8
+3.	Riskfree	Rates	and	Default	Spreads
+9
+4.	Riskfree	Rates	and	Debt	Ratios
+10
+Riskfree	Rates	and	Value:	Dynamic	Setting
+11
+Riskfree	Rates	and	Value:	The	Full	Picture
+12
+Playing	Devil’s	Advocate!
+¨ Mean	Reversion:	The	essence	of	mean	reversion	is	that	when	
+something	looks	unusually	low	or	high,	it	will	be	revert	back	
+to	historic	norms.
+¤ Assuming	things	will	revert	back	to	the	way	they	used	to	be	can	be	
+dangerous,	if	there	has	been	a	structural	shift	in	the	process.	
+¤ You	cannot	selectively	mean	revert	some	numbers	and	no	mean	revert	
+others.	
+¨ Central	Bank	as	Master	Manipulators:	If	you	believe	that	the	
+Fed	sets	interest	rates	and	ty	that	markets	are	being	led	by	
+the	nose,	you	do	have	the	basis	for	a	"bubble"	argument,	
+where	"artificially"	low	interest	rates	are	leading	all	financial	
+assets	into	bubble	territory.	The	evidence,	though,	suggests	
+that	markets	are	not	being	fooled.

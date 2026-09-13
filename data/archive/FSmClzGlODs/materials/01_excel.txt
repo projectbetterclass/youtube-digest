@@ -1,0 +1,115 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/AmazonPrimeOct2017.xlsx
+
+Sheet: Inputs
+Input cell | Computed Value
+Operating Information | Notes/Comments | Corporate Expense Growth
+All dollar values in millions | Most Recent | Prior year | A1. Grow at same rate as total users | 0.06914980507788582
+Number of Prime Members | 85 | 60 | Number of users , with growth over last year | A2. Grow at inflation rate | 0.015
+Prime Membership Charge | 95.77600000000001 | 99 | Prime Membership Annual Charge (Monthly is higher) | A3. Grow at risk free rate | 0.0225
+Incremental Revenue/ Member (Prime versus Regular) | 600 | 600 | Annual Revenue/Prime Member - Revenue/Non-prime Customer | A4. Direct Input | 0.04
+Pre-tax Operating Margin (pre-shipping cost) | 0.12107733824575011 | Operating Margin in most recent period, prior to shipping subsidy
+Do you expect this margin to change over time? | Yes | If you say no, operating margin will be left at current level
+If yes, enter your target operating margin | 0.13 | If yes, enter target operating margin
+Operating Margin used as steady state | 0.13 | Operating Margin used in the valuation
+Prime Membership Service (non-Shipping) Cost/Member | 10 | Annual Incremental Cost of Servicing Prime Members, not including shipping | Cost of Capital
+Prime Membership Shipping Costs (Total) | NA | 7191 | Subsidized Shipping Cost (assumed to be entirely Prime related) | B1. Lowest decile of US companies | 0.07
+Effective tax rate (current) | 0.2 | Effective tax rate in most recent year | b2. 25th percentile of US companies (7.5%) | 0.075
+Effective tax rate (steady state) | 0.25 | Effective tax rate in steady state | B3. Median of US companies (8%) | 0.08
+Allocated Costs | B4. 75th percentile of US companies (10%) | 0.1
+Technology and Content Costs | 16085 | This is the portion of cechnology & content costs that are attributable to Prime Members. | B5. Ninth decile of US companies (12%) | 0.12
+Percent of G&A/Technology Costs attributable to Prime | 0.1 | B6. Direct input | 0.105
+Existing User Data
+Growth rate in Annual incremental revenues/Member (Yrs 1-5) | 0.1 | Growth rate in Annual Incremental Revenue/ Prime Member  Years 1-5). 
+Lifetime of a Prime Member | 20 | A guess, but given renewal rates, it should be very high
+Annual Renewal Probability | 0.96 | Annual renewal probability (assumed to be constant over time)
+Growth rate in Membership Charge  | 0.02 | Annual Growth Rate in Prime Membership Charge/ Member
+Growth rate in Service Cost/Member (Yrs 1-5) | 0.05 | Annual Growth Rate in Service Costs/ Member
+Will Shipping Costs grow with revenues? | No | If set to yes, this will grow at same rate as incremental revenues
+If no, enter the growth rate in shipping costs (Yrs 1-5) | 0.03 | If no on prior question, enter this number.
+Growth rate in Shipping Costs used in valuation | 0.03 | Do not input | Number used as growth rate in shipping costs
+New User Data
+Cost of acquiring new user used in valuation | 100 | Do not input | Cost of acquiring a new Prime Member (assumed to be in Marketing costs)
+Growth rate in # Members (Years 1-5) | 0.15 | Growth rate in number of members from years 1-5
+Growth rate in # Members (Years 6-10) | 0.05 | Growth rate in number of members from years 6-10
+G&A Data
+Growth rate approach for G&A | A4. Direct Input | Choice for growth rate in G&A/ Technology Costs
+Growth rate in corporate expenses for next 10 years | 0.04 | Do not input | If yes, you have to input the cost in B29
+Macroeconomic Data
+Risk free Rate | 0.0225
+Inflation Rate | 0.015
+Cost of capital for existing users (input choice) | B3. Median of US companies (8%)
+Cost of capital (existing users) | 0.08 | Do not input
+Cost of capital for new users (input choice) | B3. Median of US companies (8%) | Valuation Output Summary
+Cost of capital (new users) | 0.08 | Category | Value per user | Aggregate Value
+Existing Members | 486.29042303468395 | 41334.68595794814
+New Members | 386.29042303468395 | 52792.77984831611
+Corporate Expenses | 32845.63286769825
+Value of Amazon Prime | 61281.832938566
+
+Sheet: Valuation
+Value of Existing Users
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
+Life Indicator  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+Membership Survival | 1 | 0.96 | 0.9216 | 0.884736 | 0.84934656 | 0.8153726976 | 0.782757789696 | 0.7514474781081599 | 0.7213895789838335 | 0.6925339958244802 | 0.6648326359915009 | 0.6382393305518408 | 0.6127097573297672 | 0.5882013670365764 | 0.5646733123551133 | 0.5420863798609088 | 0.5204029246664724 | 0.4995868076798135 | 0.47960333537262095 | 0.4604192019577161 | 0.4420024338794074
+Growth rate in incremental revenue | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.07875 | 0.057499999999999996 | 0.03624999999999999 | 0.015 | 0.015 | 0.015 | 0.015 | 0.015 | 0.015 | 0.015 | 0.015 | 0.015 | 0.015 | 0.015
+Incremental Revenue/Member | 600 | 660 | 726.0000000000001 | 798.6000000000001 | 878.4600000000003 | 966.3060000000004 | 1062.9366000000005 | 1146.6428572500006 | 1212.5748215418757 | 1256.5306588227686 | 1275.37861870511 | 1294.5092979856865 | 1313.9269374554717 | 1333.6358415173036 | 1353.640379140063 | 1373.9449848271638 | 1394.5541595995712 | 1415.4724719935646 | 1436.7045590734679 | 1458.2551274595698 | 1480.1289543714634
+Operating Margin (pre-shipping) | 0.12107733824575011 | 0.12286187059660009 | 0.12464640294745007 | 0.12643093529830005 | 0.12821546764915004 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13 | 0.13
+Operating Income on Incremental Sales | 72.64640294745007 | 81.08883459375606 | 90.49328853984876 | 100.96774492922243 | 112.63215971107238 | 125.61978000000005 | 138.18175800000006 | 149.0635714425001 | 157.63472680044384 | 163.34898564695993 | 165.7992204316643 | 168.28620873813927 | 170.81050186921132 | 173.37265939724946 | 175.9732492882082 | 178.6128480275313 | 181.29204074794427 | 184.0114213591634 | 186.77159267955082 | 189.57316656974407 | 192.41676406829023
+Prime Membership Charge | 95.77600000000001 | 97.69152000000001 | 99.64535040000001 | 101.63825740800002 | 103.67102255616001 | 105.74444300728321 | 107.85933186742888 | 110.01651850477745 | 112.21684887487301 | 114.46118585237048 | 116.75040956941788 | 119.08541776080624 | 121.46712611602237 | 123.89646863834282 | 126.37439801110968 | 128.90188597133186 | 131.4799236907585 | 134.1095221645737 | 136.79171260786518 | 139.52754686002248 | 142.31809779722295
+Revenue/Prime Member  | 168.42240294745008 | 178.78035459375607 | 190.13863893984876 | 202.60600233722244 | 216.3031822672324 | 231.36422300728327 | 246.04108986742892 | 259.08008994727754 | 269.85157567531684 | 277.8101714993304 | 282.54963000108216 | 287.3716264989455 | 292.2776279852337 | 297.2691280355923 | 302.3476472993179 | 307.51473399886316 | 312.77196443870275 | 318.1209435237371 | 323.56330528741603 | 329.10071342976653 | 334.73486186551315
+Service Cost/ Prime Member | 10 | 10.5 | 11.025 | 11.576250000000002 | 12.155062500000001 | 12.762815625000002 | 12.954257859375 | 13.148571727265624 | 13.345800303174608 | 13.545987307722225 | 13.749177117338057 | 13.955414774098127 | 14.164745995709598 | 14.377217185645241 | 14.592875443429918 | 14.811768575081365 | 15.033945103707584 | 15.259454280263196 | 15.488346094467142 | 15.720671285884148 | 15.956481355172409
+Shipping Cost/ Prime Member | 119.85 | 123.4455 | 127.148865 | 130.96333095 | 134.89223087850002 | 138.938997804855 | 143.10716773900066 | 145.25377525508566 | 147.43258188391192 | 149.6440706121706 | 151.88873167135313 | 154.1670626464234 | 156.47956858611974 | 158.82676211491153 | 161.20916354663518 | 163.6273009998347 | 166.0817105148322 | 168.57293617255465 | 171.10153021514296 | 173.66805316837008 | 176.2730739658956
+Operating Profit/Loss per Member | 38.57240294745009 | 44.83485459375608 | 51.964773939848754 | 60.06642138722242 | 69.25588888873236 | 79.66240957742826 | 89.97966426905327 | 100.67774296492627 | 109.07319348823032 | 114.6201135794376 | 116.911721212391 | 119.24914907842395 | 121.63331340340437 | 124.06514873503554 | 126.54560830925277 | 129.0756644239471 | 131.65630882016296 | 134.28855307091925 | 136.97342897780592 | 139.71198897551233 | 142.50530654444515
+Tax rate | 0.2 | 0.20500000000000002 | 0.21000000000000002 | 0.21500000000000002 | 0.22000000000000003 | 0.22500000000000003 | 0.23000000000000004 | 0.23500000000000004 | 0.24000000000000005 | 0.24500000000000005 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25
+After-tax Operating Income | 30.85792235796007 | 34.21796102595464 | 37.83368117374204 | 41.7171964330698 | 45.8813557701619 | 50.33977919070941 | 54.23285800304086 | 57.87533758025076 | 59.80004149796148 | 59.93063557056287 | 58.295045843953034 | 57.08212280751747 | 55.894438453961556 | 54.731467565658065 | 53.59269585598389 | 52.47761974178924 | 51.38574612060382 | 50.31659215248133 | 49.26968504638539 | 48.24456185102295 | 47.240769250031846
+Present Value (at Cost of Capital) | 31.68329724625429 | 32.43628358516979 | 33.11645553354243 | 33.724166177843806 | 34.2604078595862 | 34.17589989258065 | 33.769703600629946 | 32.30810171327551 | 29.980238543705955 | 27.001885622517182 | 24.481544046752155 | 22.196450541859704 | 20.12464703815707 | 18.246225040587447 | 16.543134319953285 | 14.999009461114365 | 13.59901260135591 | 12.32969084771356 | 11.178847003101593 | 10.135422358983009
+Life of user = | 20
+Value per Prime Member = | 486.29042303468395
+Number of Prime Members = | 85
+Value of Prime Members = | 41334.68595794814
+Value of New Users
+Cost of acquiring new Member = | 100
+Value per new user (in today's $) = | 386.29042303468395
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+Total Prime Members | 85 | 94.34999999999998 | 106.64099999999996 | 120.78125999999995 | 136.8280835999999 | 155.01088389599988 | 157.7437889169599 | 159.7678938249695 | 161.7822655864536 | 163.8203426180423 | 165.88401442697506
+New Members | 0 | 12.749999999999986 | 16.064999999999984 | 18.40589999999999 | 20.87807399999997 | 23.65592363999997 | 8.933340376800004 | 8.333856464688012 | 8.405087514482886 | 8.509367655046844 | 8.616485513654453
+Value per new Member | 386.29042303468395 | 392.08477938020417 | 397.9660510709072 | 403.9355418369708 | 409.9945749645253 | 416.14449358899316 | 422.386660992828 | 428.7224609077204 | 435.1532978213362 | 441.6805972886562 | 448.305806247986
+Value added by new Members | 4999.080937097598 | 6393.324610454118 | 7434.797189497096 | 8559.897075707895 | 9844.282363547678 | 3773.3238132689658 | 3572.911452392759 | 3657.5015504041658 | 3758.422588429862 | 3862.8204852229514
+Terminal Value (New Members) | 29536.539782794294
+Present Value  | 4628.7786454607385 | 5481.245379333091 | 5901.981714468938 | 6291.7798875103645 | 6699.853163486269 | 2377.8340595168374 | 2084.759515593256 | 1976.0342827011054 | 1880.1470179055832 | 15470.366182339923
+Value Added by New Users | 52792.77984831611
+Value Drag of Corporate Expenses (Cost)
+Total Media & Content Costs | 16085
+Amazon Prime Share of Expenses | 0.1
+Corporate Expenses | 1608.5 | 1785.4349999999997 | 2018.0240999999992 | 2285.607725999999 | 2589.270264359998 | 2933.353020549597 | 2985.0692290932934 | 3023.3724378525108 | 3061.491461127184 | 3100.059071777895 | 3139.111025950464
+After-tax Corporate Expenses | 1419.4208249999997 | 1594.2390389999994 | 1794.2020649099989 | 2019.6308062007984 | 2273.3485909259375 | 2298.503306401836 | 2312.8799149571705 | 2326.7335104566596 | 2340.54459919231 | 2354.333269462848
+Terminal Value (Corporate Exp) | 41866.18727001325
+PV of Corporate Expenses | 1314.2785416666663 | 1366.803016975308 | 1424.2954460305202 | 1484.488934184955 | 1547.2028519845521 | 1448.4469709848272 | 1349.5432157722098 | 1257.0617182277856 | 1170.8550182710678 | 20482.657153600358
+Value Drag of Corporate Expenses | 32845.63286769825
+Valuing Amazon Prime
+Value of Existing Members | 41334.68595794814
+Value of New Members | 52792.77984831611
+ - PV of Corporate Expenses | 32845.63286769825
+Value of Prime Membership | 61281.832938566
+
+Sheet: Input choices
+Yes or No | Cost of capital
+Yes | Lowest decile of US companies (7%)
+No | 25th percentile of US companies (7.5%)
+Median of US companies (8%)
+75th percentile of US companies (10%)
+Ninth decile of US companies (12%)
+Direct input
+
+Sheet: Value Breakdown
+User Value | Asset value | Company Value | Equity Value
+Existing Users | 41334.68595794814
+New Users | 52792.77984831611
+User Value | 94127.46580626426 | 94127.46580626426
+ - Corporate Expense Drag | 32845.63286769825
+Uber Operating Assets | 126973.09867396251 | 126973.09867396251
+ + Cash | #REF!
+ + Didi Cross Holding | #REF!
+Uber Firm Value | #REF! | #REF!
+ - Debt | #REF!
+Uber's Equity Value | #REF!

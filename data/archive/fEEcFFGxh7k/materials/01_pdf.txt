@@ -1,0 +1,158 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/Slides/Session2A.pdf
+
+SESSION 2A: SAMPLES AND 
+POPULATIONS IN FINANCE
+Session 2
+Bias and Noise
+2
+1. Market Indices
+qIn most stock markets, you have indices that track how well 
+or badly stocks are doing, in the aggregate. 
+qWhile the way these indices are constructed and returns are 
+computed vary, they all represent samples of stocks that are 
+traded. 
+qThe question of how well these indices do in measuring how 
+well equities are doing collectively depends on
+qHow many constituents there are in the index
+qThe criteria that went into their selection
+qThe weighting that is attached to the constituents
+qPut simply, a market index is almost never a random sample, 
+and that has tobe kept in mind when reading or 
+extrapolating from the index.
+3
+Equity Indices in the US
+4
+And they sometimes diverge .. As in 2020
+5
+2. Investable Indices: The Growth of 
+Passive Investing
+6
+With variation across choices: Energy ETFs
+7
+3. Time Sampling
+¨In time sampling, you look at a sub-period of time to 
+make judgments about investments. You do so 
+because:
+¤Data is unavailable or unreliable for other periods
+¤The market has changed structurally, and you want to look 
+at a period that you believe is more representative of the 
+current market
+¤The hypothesis that you are testing is about a specific 
+period of time.
+8
+PE Ratios: 1960 -2020
+9
+Bias in time sampling
+¨While there is clearly an advantage to looking at long 
+periods of time to make judgments about investment 
+performance, there is always the danger than the 
+performance can change during the time period studied.
+¨In 1981, Rolf Banzfound that small cap stocks earned 
+significantly higher returns than expected, after 
+adjusting for risk and market performance.
+¨That finding, formalized as the “small cap premium” has 
+become part of finance lore and practice, with many 
+analysts adding this premium on to get the expected 
+return on small cap stocks.
+10
+The Small Cap Premium: Changing 
+numbers over time
+-40.00%
+-20.00%
+0.00%
+20.00%
+40.00%
+60.00%
+80.00%
+100.00%
+1927
+1929
+1931
+1933
+1935
+1937
+1939
+1941
+1943
+1945
+1947
+1949
+1951
+1953
+1955
+1957
+1959
+1961
+1963
+1965
+1967
+1969
+1971
+1973
+1975
+1977
+1979
+1981
+1983
+1985
+1987
+1989
+1991
+1993
+1995
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+Small Firm Return -Average for market, adjusted for risk
+Year
+Small Firm Premium over time-1927 -2020
+Smallcap stocks have earned 0.33% LESS than expected 
+The catch: Small cap stocks did 0.53% 
+worse thanthe market, after adjusting 
+Smallcap stocks have earned 0.33% LESS than expected 
+Byline: Small cap stocks did 6.56% betterthan
+the market, after adjusting for risk between 1927 
+and 1980.
+Headline:Small cap stocks did 3.54% betterthanthe market, 
+after adjusting for risk between 1927 and 2020.
+11
+4. Testing Investment Strategies
+Sampling bias: 
+What was the 
+universe of 
+stocks? What was 
+the basis for PE 
+classes? What 
+happened to 
+negative earnings 
+companies?
+Survivor bias: Did you start 
+with all listed companies at 
+the start of each period? What 
+happened to the companies 
+that were delisted? 
+Timing bias: Do return 
+patterns change over time? 
+Does picking a different 
+time period change your 
+result?
+12
+5. Event Studies
+Sample Bias?This was 
+from a study of 51 
+acquisitions between July 
+2012 and May 2013 on 
+the London Stock 
+Exchange
+Timing questions: In an event study, you need to identify the date 
+of the event precisely. If you are wrong on that judgment, your 
+study results will be skewed.

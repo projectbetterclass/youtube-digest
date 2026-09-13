@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/debtindustry2017.xls
+
+[legacy .xls workbook: debtindustry2017.xls — see raw file]

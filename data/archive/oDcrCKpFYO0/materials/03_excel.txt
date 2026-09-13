@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/VW2015post.xls
+
+[legacy .xls workbook: VW2015post.xls — see raw file]

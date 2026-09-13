@@ -1,0 +1,86 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate2for2019.pdf
+
+JANUARY 2019 DATA UPDATE 2: 
+THE BOND MARKET , NOT SO 
+BORING!
+Aswath Damodaran
+2
+Bonds: Why bother?
+1. Economic predictors? Bond markets offer predictive 
+information about future economic growth and 
+inflation, and since one of the big uncertainties for 
+equities going into the new year is whether the 
+economy could go into recession, it is worth paying 
+attention to what bond investors are telling us. 
+2. Price of risk? One of the stories in the equity market 
+during 2018 was that the price of risk, in the form of an 
+equity risk premium, rose and became more volatile, 
+and it makes sense to look at whether the price of risk 
+in the bond market, taking the form of default spreads, 
+also exhibited the same characteristics.
+3
+The US 10-year Bond Rate: The Year that 
+was
+4
+From rates to returns
+¨ If you bought ten-year treasury bonds on January 1, 
+2018, the rise in the T. B o n drate translated into a 
+price drop of 2.43%, effectively wiping out the 
+coupon you would have earned and resulting in a 
+return for the year of -0.02, better than the -0.42% 
+stock returns for the year . But…
+5
+The Yield Curve
+6
+TIPs Rate and Inflation
+7
+What now?
+Aswath Damodaran
+7
+¨ At the start of last year, when investors were 
+expecting much stronger growth in the economy and 
+had just seen a drop in corporate tax rates, the 
+debate was about how much the US treasury bond 
+rate would climb over the course of 2018. 
+¤ The 10-year US treasury bond rate did rise, but only 
+moderately so, perhaps because there was a dampening of 
+optimism about future growth in the last quarter . 
+¤ That said, the Federal Reserve and its chair, Jerome Powell, 
+are still the focus of attention for some investors, obsessed 
+with what the central bank will or will not do next year .
+8
+The Intrinsic Riskfree Rate
+9
+Reading the Tea Leaves!
+¨ There are two possible explanations. 
+¤ One is that the bond market is right and that expected growth in the next 
+few years will drop dramatically. 
+¤ The other is that bond market investors are being much too pessimistic 
+about future growth, and that rates will rise as the realization hits them. 
+¨ I believe that the truth falls in the middle. Nominal growth in the 
+US economy will drop off from its 2018 levels, but not to the levels 
+imputed by the bond market today, and treasury bond rates will 
+rise to reflect that reality. 
+¨ In the absence of a crystal ball, I will hazard a guess that the US 10-
+year treasury bond rate will rise to 3.5%, the smoothed out 
+intrinsic rate, by the end of the year, and that GDP growth will drop 
+by a percent (in nominal and real terms) from 2018 levels.
+10
+Corporate Bond Default Spreads
+11
+A Tale of Harmony?
+12
+A Tale of Harmony?
+¨ Bond and stock markets were singing from the same 
+song book this year . Both markets started the year, 
+expecting continued strength in the economy, but both 
+became less upbeat about economic prospects towards 
+the end of the year . 
+¤ Lower growth: For stock markets, this translated into 
+expectations of lower earnings growth and stock prices, and for 
+bond markets, its showed up as lower treasury bond rates and 
+higher default spreads. 
+¤ Higher price for risk:Investors in both markets became more 
+wary about risk and demanded higher prices for taking risk, with 
+higher equity risk premiums in the stock market and higher 
+default spreads in the bond market.

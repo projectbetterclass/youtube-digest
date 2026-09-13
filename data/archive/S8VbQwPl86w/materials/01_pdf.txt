@@ -1,0 +1,103 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/VCPricing.pdf
+
+VENTURE	CAPITAL:	IT’S	A	
+PRICING,	NOT	A	VALUE,	GAME!
+The	Core	VC	Competitive	Advantage?
+2
+The	WSJ	headline..
+3
+And	the	Scott	Kupor response..
+¨ Realized	versus	Unrealized	Returns
+Unlike	investments	in	public	equities,	where	the	unrealized	
+returns	are	based	upon	observed	market	prices	for	traded	
+stocks	and	can	be	converted	to	realized	returns	relatively	
+painlessly,	Unrealized	returns	 at	venture	capital	funds	are	based	
+upon	estimates	and	that	these	estimates	are	themselves	based	
+upon	opaque	VC	investments	in	other	companies	in	the	space	
+and	not	easily	monetized.	
+¨ Potential	noise	and	bias
+Implicitly,	he	seemed	to	be	saying	that	not	only	are	unrealized	
+returns	at	VC	funds	subject	to	estimation	error,	but	also	to	bias,	
+and	should	thus	be	viewed	as	softer	than	realized	returns.
+4
+Price	versus	Value
+5
+VC	Pricing	Approaches
+¨ Recent	pricing	of	the	same	company:	Pricing	is	based	on	what	
+VCs	paid	for	the	company	(and	priced	it	at)	in	the	most	recent	
+venture	capital	round
+¨ Pricing	of	similar	private	companies:	Look	at	what	investors	
+are	paying	for	similar	companies	in	the	“same	space”	(with	all	
+of	the	subjective	judgments	of	what	comprises	“similar”	and	
+“same	space”),	scale	this	price	to	revenues,	or	lacking	that,	a	
+common	metric	for	that	space,	and	price	your	company.	
+¨ Pricing	of	public	companies:	In	the	rare	cases	where	a	private	
+business	has	enough	operating	substance	today,	in	the	form	
+of	revenues	or	even	earnings,	in	a	space	where	there	are	
+public	companies,	you	could	use	the	pricing	of	public	
+companies	as	your	basis	for	pricing	private	businesses.
+6
+And	a	forward	variant
+7
+The	VC	Pricing	Problem	is	statistical..
+¨ Small	Samples:	If	your	pricing	is	based	upon	other	private	
+company	investments,	your	sample	sizes	will	tend	to	be	much	
+smaller,	if	you	are	a	VC	than	if	you	a	public	company	investor .	
+¨ With	Infrequent	Updating:	Private	company	transactions	are	
+few	and	far	between.	In	many	ways,	the	VC	pricing	problem	is	
+closer	to	the	real	estate	pricing	than	conventional	stock	
+pricing.
+¨ And	Opaque	transactions:	Unlike	public	equities,	where	a	
+share	of	stock	is	(for	the	most	part)	like	any	other	share	of	
+stock	and	the	total	market	value	is	the	share	price	times	
+number	of	shares	outstanding,	extrapolating	from	a	VC	
+investment	for	a	share	in	a	company	to	the	overall	value	of	
+equity	can	be	and	often	is	complicated.
+8
+With	predictable	consequences
+¨ More	error:		The	pricing	that	I	obtain	 will	have	a	larger	band	around	the	
+estimate	and	there	is	a	greater	chance	that	I	will	be	wrong.
+¨ More	bias:	The	pricing	will	be	more	subjective,	since	you	have	the	
+freedom	to	choose	your	comparable	firms	and	often	can	use	discretion	to	
+adjust	for	the	infrequent	data	updating	and	the	complexity	of	equity	
+investments.	
+¨ The	pricing	will	lag	the	market :	When	transactions	slow	down,	and	 VCs	
+hold	off	on	full	repricing	until	transactions	pick	up	again,	there	can	be	a	
+significant	lag	between	when	prices	drop	at	young	companies	and	those	
+price	drops	getting	reflected	in	returns	at	VC	firms.
+¨ There	is	a	price	feedback	loop :	One	badly	priced	transaction	(in	either	
+direction)	can	trigger	many	more	badly	priced	transactions.
+¨ And	a	time	horizon	issue :	Winning	at	the	VC	pricing	game	may	require	
+that	you	take	a	position	in	a	young	start	up	and	bide	your	time	until	you	
+build	it	up	and	find	someone	who	will	find	it	attractive	enough	to	offer	
+you	a	much	higher	price	for	it.
+9
+In	spite	(or	because)	of	the	pricing	
+problems,	VCs	seem	to	outperform..
+10
+And	elite	VCs	stay	elite…
+¨ The	most	successful	VCs	not	only	earn	higher	returns	
+than	the	top	public	market	investors	but	that	there	
+seems	to	be	more	consistency	in	the	VC	business,	
+insofar	as	the	best	of	the	VCs	are	able	to	generate	
+higher	returns	across	longer	time	periods.
+¨ That	would	suggest	that	venture	capitalists	bring	
+more	durable	competitive	advantages	to	the	
+investing	game	than	public	market	investors.
+11
+Perhaps	using	these	competitive	
+advantages..
+¨ They	are	better	pricers(relatively):	While	all	of	VC	prices	are	
+undoubtedly	wrong	(because	they	are	estimates),	some	of	
+them	are	less	wrong	than	others.	You	just	have	to	be	less	
+wrong	than	everyone	else	and	the	chances	of	you	doing	that	
+are	greater	in	the	VC	pricing	game.
+¨ They	can	influence	the	pricing	game:	VCs	can	take	a	more	
+active	role	in	the	companies	that	they	invest	in,	from	
+informally	advising	managers	to	more	formal	roles	as	board	
+members,	helping	these	companies	decide	what	metrics	to	
+focus	on,	how	to	improve	these	metrics	and	how	(and	when)	
+to	cash	in	on	them	(from	an	IPO	or	a	sale).
+¨ They	have	better	timing:	To	be	successful,	you	not	only	have	
+to	time	your	entry	into	a	business	right	but	even	more	
+critically,	time	your	exit	from	it.

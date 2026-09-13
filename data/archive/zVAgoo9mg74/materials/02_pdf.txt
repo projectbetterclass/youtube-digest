@@ -1,0 +1,36 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/session2test.pdf
+
+Session 2: Post Class Test 
+1. Why do we use samples of data rather than the entire population? 
+a. Because it is less expensive to collect data for a sample than the population 
+b. Because it takes less time to sample 
+c. Because some of the population may not be accessible or reachable 
+d. Because a large and unbiased sample can give you close to precise answers about the 
+population 
+e. All of the above 
+2. You are trying to get a random sample of 500 companies out of 8000+ listed US companies. 
+Which of the following approaches is likely to give you a random and unbiased sample? 
+a. Pick the 500 largest market cap companies in the market 
+b. Pick the 500 companies that have the highest trading volume 
+c. Pick 500 companies that have information available for at least ten years 
+d. Break the company into fifty industry groupings, and pick ten companies from each 
+grouping 
+e. None of the above 
+3. You are surveying portfolio managers, with the intent of getting their expectations of what 
+the market will do in the next year. You send out the survey to 1000 portfolio managers, 
+working at large mutual fund groups, and receive 100 responses; the other 900 did not 
+respond. What types of bias would you find in your sample?  
+4. You are looking at annual returns on a Latin American index for the last 25 years, and have 
+estimated an average annual return of 12% and a standard deviation of 25% from this data.  
+Assuming that this sample is representative of the population, estimate, with 95% 
+confidence, the annual return for Latin American stocks. 
+5. The law of large numbers states that the sample mean will converge on the population mean, 
+as sample size increases. For this to happen, which of the following assumptions has to hold 
+(and explain what it means)? 
+a. The sample observations have to be independent and drawn from a normal 
+distribution 
+b. The sample observations have to be dependent and drawn from a normal distribution 
+c. The sample observations have to be independent and drawn from identical 
+distributions 
+d. The sample observations have to be dependent and drawn from identical distributions 
+e. None of the above

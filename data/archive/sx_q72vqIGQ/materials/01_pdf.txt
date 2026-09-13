@@ -1,0 +1,216 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate3.pdf
+
+DATA	2017	UPDATE	3:	CRACKING	
+THE	CURRENCY	CODE
+Aswath	Damodaran
+2
+Back	to	the	beginning:	The	intrinsic	value	
+equation
+• In	intrinsic	valuation,	the	value	of	an	asset	is	the	present	
+value	of	its	expected	cash	flows,	discounted	back	at	a	risk	
+adjusted	rate.
+• There	was	a	time	in	the	not	so	distant	past,	where	analysts	
+could	do	their	analysis	in	their	local	currencies	and	care	little	
+or	not	at	all	about	foreign	currencies,	how	they	moved	and	
+why.	
+• This	was	particularly	true	for	US	analysts	in	the	last	half	of	the	
+last	century,	where	the	US	dollar	was	the	unchallenged	global	
+currency	and	the	US	economy	bestrode	the	world.
+3
+The	Currency	Effect	(or	non-effect)
+¨ In	intrinsic	valuation,	currency	choices	affect	both	
+the	cash	flows	and	the	discount	rates	that	you	use	in	
+valuation:
+4
+Two	Simple	Currency	Propositions
+• The	first	is	that	currency	is	a	measurement	
+mechanism	and	that	you	should	be	able	to	value	any	
+company	in	any	currency,	since	all	it	will	require	
+is restating	cash	flows,	growth	rates	and	discount	
+rates	in	that	currency.
+• The	second	is	that	in	a	robust	DCF	valuation, your	
+value	should	be	currency	invariant.	Put	differently,	
+the	value	of	Petrobras	should	be	unchanged,	
+whether	you	value	the	company	in	nominal	Brazilian	
+Reais ($R),	US	dollars	or	Euros.
+¨
+5
+Currency	Estimation	Questions
+1. Exchange	Rate	Forecasts:	To	be	able	to	value	
+companies	that	operate	in	different	currencies,	you	
+have	to	be	able	to	forecast	exchange	rates	for	long	
+periods	forward.
+2. Discount	Rates:	To	be	able	to	switch	from	valuing	
+companies	in	one	currency	to	another,	you	have	to	
+be	able	to	estimate	discount	rates	for	a	company	in	
+any	currency.
+6
+Exchange	Rate	Forecasting	for	Value	
+Invariance
+¨ If	you	want	to	make	your	valuations	currency	
+invariant,	and	inflation	is	what	sets	currencies	apart,	
+the	way	to	estimate	expected	future	exchange	rates	
+is	to	assume	purchasing	power	parity:
+¨ Even	if	you	have	strong	currency	views,	it	is	best	to	
+keep	them	out	of	your	company	valuations,	since	
+your	valuation	conclusions	will	then	be	joint	effects	
+of	your	company	and	currency	views.
+7
+Discount	Rates:	Two	ways	of	estimating	
+currency-specific	discount	rates
+Aswath Damodaran
+7
+¨ Ground	up:	In	this	approach,	you	start	by	estimating	
+the	risk	free	rate	in	the	local	currency	and	then	build	
+up	to	the	cost	of	equity	and	capital,	using	whatever	
+build	up	mechanism	(betas,	risk	premiums)	thatyou
+use	in	any	other	currency.
+¨ Differential	Inflation:	In	this	approach,	you	estimate	
+your	cost	of	equity	or	capital	in	the	currency	that	
+you	feel	most	comfortable	working	in	and	then	use	
+differential	inflation	to	convert	it	into	a	different	
+currency.
+8
+Risk	Free	Rate	1:	Government	Bond	Rates
+-5.00% 
+0.00% 
+5.00% 
+10.00% 
+15.00% 
+20.00% 
+25.00% 
+Swiss	Franc
+Japanese	Yen
+Euro
+Danish	Krone
+Czech	Koruna
+Swedish	Krona
+Taiwanese	$
+British	Pound
+Norwegian	Krone
+HK	$
+Canadian	$
+Bulgarian	Lev
+Israeli	Shekel
+Korean	Won
+Singapore	$
+US	$
+Thai	Baht
+Australian	$
+Croatian	Kuna
+Chinese	Yuan
+NZ	$
+Hungarian	Forint
+Romanian	Leu
+Polish	Zloty
+Chilean	Peso
+Malyasian	Ringgit
+Phillipine	Peso
+Iceland	Krona
+Vietnamese	Dong
+Indian	Rupee
+Peruvian	Sol
+Colombian	Peso
+Indonesian	Rupiah
+Mexican	Peso
+Pakistani	Rupee
+Russian	Ruble
+South	African	Rand
+Turkish	Lira
+Brazilian	Reai
+Kenyan	Shilling
+Nigerian	Naira
+Venezuelan	Bolivar
+Ten-year	Government	Bond	Rates	by	Currency- January	1,	2017
+9
+Risk	free	Rate	2:	Government	Bond	rate,	
+net	of	default	spread
+-5.00% 
+0.00% 
+5.00% 
+10.00% 
+15.00% 
+20.00% 
+25.00% 
+Japanese	Yen
+Croatian	Kuna
+Czech	Koruna
+Swiss	Franc
+Bulgarian	Lev
+Euro
+Danish	Krone
+Taiwanese	$
+Pakistani	Rupee
+Swedish	Krona
+Thai	Baht
+Hungarian	Forint
+British	Pound
+Romanian	Leu
+Vietnamese	Dong
+HK	$
+Israeli	Shekel
+Korean	Won
+Norwegian	Krone
+Canadian	$
+Singapore	$
+US	$
+Chinese	Yuan
+Phillipine	Peso
+Polish	Zloty
+Australian	$
+Malyasian	Ringgit
+NZ	$
+Chilean	Peso
+Iceland	Krona
+Indian	Rupee
+Colombian	Peso
+Peruvian	Sol
+Indonesian	Rupiah
+Russian	Ruble
+Mexican	Peso
+South	African	Rand
+Brazilian	Reai
+Turkish	Lira
+Kenyan	Shilling
+Venezuelan	Bolivar
+Nigerian	Naira
+Ten-year	Government	Bond	Rates,	net	of	Default	spread	(based	on	sovereign	rating)
+Risk	free	Rate Default	Spread	based	on	rating
+Green:	Default	spread	for	country	(based	on	rating)
+Red:	Government	Bond	rate	– Default	Spread
+10
+Riskfree Rate	3:	Differential	Inflation
+¨ You	start	with	a	risk	free	rate	in	a	currency	where	you	believe	
+that	the	government	bond	rate	is	a	reliable	measure	of	the	
+risk	free	rate	(and	then	add	to	this	number	the	differential	
+inflation	rate	between	the	US	dollar	and	the	local	currency.
+¤ Local	Currency	Risk	free	Rate	=	US	$	Risk	free	Rate	+	(Expected	
+inflation	in	local	currency	– Expected	inflation	in	US	$)
+¨ This	is	an	approximation	that	works	reasonably	well	when	
+local	currency	inflation	is	low	(close	to	the	US	dollar	inflation	
+rate)	but	the	more	precise	version	of	this	formulation:
+11
+Riskfree Rate	4:	Synthetic	Risk	Free	Rate	
+¨ Start with the Fisher equation
+¤ Risk	free	Rate	=	Expected	Real	Interest	Rate	+	Expected	inflation	
+rate
+¨ You	can	augment	this	equation	with	the	assumption	that	
+long	term	real	growth	in	an	economy	will	converge	on	
+the	long	term	real	interest	rate.
+¤ Expected	Real	Interest	Rate	=	Expected	Real	Growth	Rate
+¤ Synthetic	Risk	free	Rate	=	Expected	Real	Growth	Rate +	Expected	
+inflation	rate
+¨ If	you	are	able	to	estimate	expected	inflation	and	real	
+GDP	growth	for	the	long	term	for	an	economy,	the	risk	
+free	rate	for	the	currency	of	that	economy	will	be	the	
+sum	of	the	two.
+12
+Cost	of	Capital	+	Inflation	Differential
+¨ If	you	start	with	a	 risk	free	rate	in	a	local	currency	
+and	build	up	to	a	cost	of	capital	using	equity	risk	
+premiums	and	default	spreads,	often	available	only	
+in	dollar-based	markets,	you	are	effectively	assuming	
+that	risk	premiums	are	absolute	numbers	that	don't	
+change	as	the	risk	free	rate	changes.
+¨ If	you	want	to	scale	them	all	up,	here	is	the	simple	
+solution:

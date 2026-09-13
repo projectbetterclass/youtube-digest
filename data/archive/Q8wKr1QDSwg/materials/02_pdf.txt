@@ -1,0 +1,47 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session2test.pdf
+
+Session	2:	Post	Class	tests	
+1. In	accrual	accounting,	you	record	transactions	as	they	occur,	not	when	
+payment	is	received	or	made.	Assume	that	you	sell	a	3-year	service	contract	
+for	$150	million	at	the	start	of	a	fiscal	year,	and	that	you	get	paid	half	of	that	
+amount	up	front	and	the	other	half	two	years	from	now.	Using	accrual	
+accounting	principles,	how	much	should	you	show	as	revenues	this	year?	
+a. $	50	million	
+b. $	75	million	
+c. $	125	million	
+d. $	150	million	
+e. None	of	the	above	
+2. Accountants	draw	a	distinction	between	cost	of	goods	sold	and	other	
+operating	expenses	in	computing	gross	and	operating	income.	As	a	
+manufacturing	company,	in	which	of	these	two	groups	would	you	include	
+each	of	the	following	expenses?	
+a. Material	used	to	produce	products/services	
+b. Labor	expenses	
+c. Selling	and	Marketing	Expenses	
+d. G&A	costs	
+e. Factory	maintenance	costs	
+3. There	are	usually	three	measures	of	income	in	an	income	statement:	gross	
+profits,	operating	income	and	net	income.	For	a	company	that	has	a	very	low	
+cost	of	goods	sold,	very	high	selling	and	G&A	expenses	and	lots	of	debt,	which	
+of	the	following	would	you	expect	to	see	in	the	income	statement?	
+a. High	gross	profits,	high	operating	profits,	high	net	profits	
+b. High	gross	profits,	low	operating	profits,	high	net	profits	
+c. High	gross	profits,	low	operating	profits,	even	lower	net	profits	
+d. Low	gross	profits,	low	operating	profits,	even	lower	net	profits	
+e. High	gross	profits,	high	operating	profits,	low	net	profits	
+4. If	your	company	owns	a	5%	(minority)	stake	in	another	company	
+(subsidiary),	where	in	the	income	statement	would	you	expect	to	see	the	
+profit	effects	of	this	holding?	
+a. In	the	company’s	revenues	
+b. In	the	company’s	gross	profits	
+c. In	the	company’s	operating	profits	
+d. In	the	company’s	net	profits	
+e. No	where	
+5. If	an	item	is	an	extraordinary	expense,	which	of	the	following	should	you	
+expect	to	see	for	this	item	in	your	income	statements	over	time?	
+a. The	expense	will	show	up	every	year,	albeit	with	different	values	
+b. The	expense	will	show	up	most	years,	sometimes	positive,	sometimes	
+negative.	
+c. The	expense	will	show	up	at	regular	intervals	(every	3	years)	
+d. The	expense	will	show	up	infrequently	and	without	regularity	
+e. None	of	the	above

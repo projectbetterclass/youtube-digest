@@ -1,0 +1,88 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session18.pdf
+
+16
+Debt	adds	discipline	to	management
+Aswath Damodaran
+16
+¨If	you	are	managers	of	a	firm	with	no	debt,	and	you	
+generate	high	income	and	cash	flows	each	year,	you	
+tend	to	become	complacent.	The	complacency	can	
+lead	to	inefficiency	and	investing	in	poor	projects.	
+There	is	little	or	no	cost	borne	by	the	managers	
+¨Forcing	such	a	firm	to	borrow	money	can	be	an	
+antidote	to	the	complacency.	The	managers	now	
+have	to	ensure	that	the	investments	they	make	will	
+earn	at	least	enough	return	to	cover	the	interest	
+expenses.	The	cost	of	not	doing	so	is	bankruptcy	and	
+the	loss	of	such	a	job.
+17
+Debt	and	Discipline
+Aswath Damodaran
+17
+¨Assume	that	you	buy	into	this	argument	that	debt	adds	
+discipline	to	management.	Which	of	the	following	types	
+of	companies	will	most	benefit	from	debt	adding	this	
+discipline?
+a. Conservatively	financed	(very	little	debt),	privately	
+owned	businesses
+b. Conservatively	financed,	publicly	traded	companies,	
+with	stocks	held	by	millions	of	investors,	none	of	whom	
+hold	a	large	percent	of	the	stock.
+c. Conservatively	financed,	publicly	traded	companies,	
+with	an	activist	and	primarily	institutional	holding.
+18
+Bankruptcy	Cost
+Aswath Damodaran
+18
+¨The	expected	bankruptcy	cost	is	a	function	of	two	variables--
+¤the	probability	of	bankruptcy,	which	will	depend	upon	how	uncertain	
+you	are	about	future	cash	flows
+¤the	cost	of	going	bankrupt
+ndirect	costs:	Legal	and	 other	 Deadweight	 Costs
+nindirect	 costs:	Costs	 arising	 because	 people	 perceive	 you	to	 be	in	
+financial	trouble
+¨Proposition	2:	Firms	with	more	volatile	earnings	 and	cash	
+flows	will	have	higher	probabilities	of	bankruptcy	at	any	given	
+level	of	debt	and	for	any	given	level	of	earnings.
+¨Proposition	3:	Other	things	being	equal,	the	greater	the	
+indirect	bankruptcy	cost,	the	less	debt	the	firm	can	afford	to	
+use	for	any	given	level	of	debt.
+19
+Debt	&	Bankruptcy	Cost
+Aswath Damodaran
+19
+¨Rank	the	following	companies	on	the	magnitude	of	
+bankruptcy	costs	from	most	to	least,	taking	into	
+account	both	explicit	and	implicit	costs:
+a. A	Grocery	Store
+b. An	Airplane	Manufacturer
+c. High	Technology	company
+20
+Agency	Cost
+Aswath Damodaran
+20
+¨An	agency	cost	arises	 whenever	you	 hire	 someone	 else	to	do	 something	
+for	you.	It	arises	because	your	interests(as	the	principal)	may	deviate	from	
+those	of	the	person	you	hired	(as	the	agent).
+¨When	you	lend	money	to	a	business,	you	are	allowing	the	stockholders	to	
+use	that	 money	 in	the	course	 of	running	 that	 business.	 Stockholders	
+interests	are	different	from	your	interests,	because	
+¤You	(as 	lender)	 are	interes ted	in	getting	your	m oney	back
+¤Stockholders	are	interested	in	maximizing	their	wealth
+¨In	some	cases,	the	clash	of	interests	can	lead	to	stockholders
+¤Investing	in	riskier	projects	than	you	would	want	them	to
+¤Paying	themselves	large	dividends	when	you	would	rather	have	them	keep	the	cash	
+in	the	business.
+¨Proposition	4:	Other	things	being	equal,	the	greater	the	agency	problems	
+associated	with	lending	to	a	firm,	the	less	debt	the	firm	can	afford	to	use.
+21
+Debt	and	Agency	Costs
+Aswath Damodaran
+21
+¨Assume	that	you	are	a	bank.	Which	of	the	following	
+businesses	would	you	perceive	the	greatest	agency	
+costs?
+a. A	Technology	firm	
+b. A	Large	Regulated	Electric	Utility
+c. A	Real	Estate	Corporation
+¨Why?

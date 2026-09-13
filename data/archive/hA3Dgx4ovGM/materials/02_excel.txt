@@ -1,0 +1,110 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/uberuserJune17.xlsx
+
+Sheet: Inputs
+Input cell | Computed Value
+Operating Information | Notes/Comments | Corporate Expense Growth
+All dollar values in millions | Most Recent | Prior year | A1. Grow at same rate as total users | 0.1515669546945153
+Number of existing users/subscribers | 40 | 24 | Number of users , with growth over last year | A2. Grow at inflation rate | 0.015
+Gross Billings | 20000 | 10500 | Gross Billings, with growth over last year | A3. Grow at risk free rate | 0.021
+Net Revenue | 6500 | Portion of gross billings reported as net revenue | A4. Direct Input | 0.04
+Operating Profit/Loss | -2800 | Operating Profit or Loss for the most recent year
+Cash Balance | 5000 | Cost of Capital
+Cross Holdings | 6000 | B1. Lowest decile of US companies | 0.07
+Debt | 0 | b2. 25th percentile of US companies (7.5%) | 0.075
+% of Operating Expenses spent acquiring new users | 0.4108 | This will allocate the total operating expenses (Revenue - Operating Profit) across three categories. The sum of these percentages has to amount to 100%. | B3. Median of US companies (8%) | 0.08
+% of Operating Expenses on corporate expenses | 0.1075 | B4. 75th percentile of US companies (10%) | 0.1
+% of Operating Expenses spent servicing existing users | 0.48169999999999996 | Do not input | B5. Ninth decile of US companies (12%) | 0.12
+Operating Expense check | B6. Direct input | 0.105
+Corporate tax rate | 0.3 | Tax rate the company will face when it makes money
+Existing User Data
+Company Share of Gross Billings | 0.2 | Uber-specific. 
+Lifetime of a user/subscriber | 15 | Expected period that a user will stay a user
+Annual Renewal Probability | 0.95 | Annual probability of renewal
+Growth rate in Annual revenues/user | 0.12 | Annual growth rate in revenues/user
+Cost of service (as % of revenues): Current | 0.48169999999999996 | Do not input | Computed based upon last year's users & expenses
+Do you want to override this number? | No | If yes, you have to input the cost in B23
+If yes, enter the cost of service as % of revenues | 0.4 | Cost of service as a percent of revenues
+Cost of service as % of revenues used in valuation | 0.48169999999999996 | Do not input
+What percent your operating expenses are variable? | 0.8 | If 100%, expenses will grow at same rate as revenues. If <100%, the growth rate in expenses will be a weighted average of the inflation rate and the revenue growth rate.
+New User Data
+Cost of acquiring new user (based on last year) = | 238.7775 | Do not input | Computed based upon last year's users added & expenses
+Do you want to override this number? | No | If yes, you have to input the cost in B29
+If yes, enter the cost of acquiring new user | 160.31
+Cost of acquiring new user used in valuation | 238.7775 | Do not input
+Growth rate in # Users (Years 1-5) | 0.25 | Compounded annual growth rate in years 1-5
+Growth rate in # Users (Years 6-10) | 0.1 | Compounded annual growth rate in years 6-10
+G&A Data
+Growth rate approach for G&A | A4. Direct Input | Valuation Output Summary
+Growth rate in corporate expenses for next 10 years | 0.04 | Do not input | Category | Value per user | Aggregate Value
+Existing users | 410.31219909111417 | 16412.487963644566
+Macroeconomic Data | New users | 171.53469909111416 | 20190.702392000498
+Risk free Rate | 0.021 | Corporate Expenses | -10369.281417750124
+Inflation Rate | 0.015 | Value of Uber's Operating Assets | 36603.19035564506
+Cost of capital for existing users (input choice) | B4. 75th percentile of US companies (10%) |  + Cash and Cross holdings | 11000
+Cost of capital (existing users) | 0.1 | Do not input |  - Debt | 0
+Cost of capital for new users (input choice) | B5. Ninth decile of US companies (12%) | Value of Uber's Equity | 37233.90893789494
+Cost of capital (new users) | 0.12
+
+Sheet: Valuation
+Value of Existing Users
+Base Year
+Gross Billings | 500
+Net Revenues | 100
+Operating Expenses | 48.169999999999995
+Operating Profit/user | 51.830000000000005
+After-tax Operating Profit/user | 36.281
+Annual Growth Rate (Revenues) | 0.12
+Annual Growth Rate (Op Exp) | 0.099
+Risk-adjusted discount rate | 0.1
+Life of user = | 15
+Probability of full life = | 0.4632912301597533
+Value per existing user = | 410.31219909111417
+Number of existing users = | 40
+Value of Existing Users | 16412.487963644566
+Value of New Users
+Cost of acquiring new user = | 238.7775
+Value per new user (in today's $) = | 171.53469909111416
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+Total Users | 40 | 48 | 60.099999999999994 | 75.745 | 95.5565 | 120.5674875 | 129.57474312500003 | 137.55704328125006 | 145.88099917656257 | 154.6952299413282 | 164.04081951075398
+New Users | 0 | 10 | 14.5 | 18.650000000000006 | 23.598749999999995 | 29.788812500000006 | 15.035630000000026 | 14.461037312500025 | 15.201808059375026 | 16.108280723593765 | 17.0803510664922
+Value per new user | 171.53469909111416 | 174.10771957748085 | 176.71933537114305 | 179.37012540171017 | 182.0606772827358 | 184.79158744197682 | 187.56346125360645 | 190.37691317241053 | 193.23256686999667 | 196.1310553730466 | 199.07302120364227
+Value added by new users | 1741.0771957748084 | 2562.430362881574 | 3345.2528387418956 | 4296.404408025961 | 5504.721949886403 | 2820.1348049285675 | 2753.047644824806 | 2937.484392378039 | 3159.334098563748 | 3400.2370900254555
+Terminal Value (new users) | 7030.957619602019
+Present Value  | 1554.5332105132215 | 2042.75379694003 | 2381.0848945582225 | 2730.442673438705 | 3123.5270676291984 | 1428.7680580921447 | 1245.3389419215835 | 1186.400678532658 | 1139.2875482082293 | 3358.5655221665033
+Value Added by New Users | 20190.702392000498
+Value Drag of Corporate Expenses (Cost)
+Corporate Expenses | -999.75 | -1039.74 | -1081.3296 | -1124.5827840000002 | -1169.5660953600002 | -1216.3487391744002 | -1265.0026887413762 | -1315.6027962910314 | -1368.2269081426728 | -1422.9559844683797 | -1479.874223847115
+After-tax Corporate Expenses | -727.818 | -756.93072 | -787.2079488 | -818.696266752 | -851.4441174220801 | -885.5018821189633 | -920.9219574037219 | -957.7588356998708 | -996.0691891278657 | -1035.9119566929805
+Terminal Value (Corporate Exp) | -13388.178579538393
+PV of Corporate Expenses | -661.6527272727272 | -625.5625785123966 | -591.4409833208113 | -559.180566048767 | -528.6798079006525 | -499.8427274697077 | -472.5785786986327 | -446.801565315071 | -422.4305708433398 | -5561.111312368018
+Value Drag of Corporate Expenses | -10369.281417750124
+Valuing Uber
+Value of Existing Users | 16412.487963644566
+Value of New Users  | 20190.702392000498
+ - PV of G&A costs | -10369.281417750124
+ + Cash | 5000
+ + Cross Holdings | 6000
+ - Debt  | 0
+Value of equity | 37233.90893789494
+
+Sheet: Input choices
+Yes or No | Cost of capital
+Yes | Lowest decile of US companies (7%)
+No | 25th percentile of US companies (7.5%)
+Median of US companies (8%)
+75th percentile of US companies (10%)
+Ninth decile of US companies (12%)
+Direct input
+
+Sheet: Value Breakdown
+User Value | Asset value | Company Value | Equity Value
+Existing Users | 16412.487963644566
+New Users | 20190.702392000498
+User Value | 36603.19035564506 | 36603.19035564506
+ - Corporate Expense Drag | -10369.281417750124
+Uber Operating Assets | 26233.90893789494 | 26233.90893789494
+ + Cash | 5000
+ + Didi Cross Holding | 6000
+Uber Firm Value | 37233.90893789494 | 37233.90893789494
+ - Debt | 0
+Uber's Equity Value | 37233.90893789494

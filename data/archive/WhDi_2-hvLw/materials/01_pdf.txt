@@ -1,0 +1,255 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/WeWorkIPO.pdf
+
+A LEVERED BET ON FLEX 
+DEMAND: VALUING THE 
+WE(WORKS) IPO!
+Is there a we in WeWorks?
+2
+The WeWork IPO
+¨ A Big Deal: In a year full of high-profile IPOs, WeWork takes center 
+stage as it moves towards its offering date, offering a fascinating 
+insight into corporate narratives, how and why they acquire 
+credibility (and value) and how quickly all of that can be lost, if 
+markets lose faith. 
+¨ Slip, sliding away: When the WeWork IPO was first rumored, there 
+was talk of the company being priced at $60 billion or more, but a 
+news story today reporting that the company was looking at a 
+drastically discounted value of $20 billion, which would make 
+Softbank, the most recent VC investor in WeWork, an big loser on 
+the IPO. 
+¨ My personal bias: I have never liked the company, partly because I 
+don't trust CEOs who seem more intent delivering life lessons for 
+the rest of us than about the businesses they run and partly 
+because of the trail it has left of obfuscation and opaqueness.
+3
+The WeWork Model: Set Up
+¨ An old model? Unlike many other tech disruptors, the 
+WeWork business model is neither new, nor particularly 
+unique in its basic form, though access to capital and 
+scaling ambitions have put that model on steroids. 
+¨ Which has not worked: That said, most traditional real 
+estate companies that have tried the WeWork business 
+model historically have abandoned it, for micro and 
+macro reasons
+¨ The Test: of the WeWork model is whether the 
+advantages it brings to the table, and it does bring some, 
+can help it succeed, where others have not.
+4
+The Office Space Business: Status Quo
+¨ Own and lease: The owner of an office building, who has generally 
+acquired the building with significant debt, rents the building to 
+businesses that need office space, and uses the rent payments 
+received to cover interest expenses on the debt, as well as 
+operating expenses. 
+¨ Sensitive to economic shocks: As economies weaken, the demand 
+for office space contracts, and the resulting drop in occupancy 
+rates in office buildings exposes the owner to risk. 
+¨ The keys to success: Buy buildings when real estate prices are low 
+and secure their tenants into long term leases when rental rates 
+are high. Use the buffer to protect against downturns. 
+¨ Boom and bust: Even the most successful real estate developers 
+have been both billionaires and bankrupt (at least on paper), at 
+different points of their lives.
+5
+The WeWork Twist
+6
+The WeWork Pitch
+7
+An Example
+8
+The Model Trade offs
+¨ The Pluses
+¤ The WeWork look, with open work spaces, cool lighting and lots of extras, 
+which appeals to younger workers. It goes beyond cosmetics, also offering 
+business networking, support services and consulting connnections .
+¤ The WeWork community, where the company supplements its cosmetic 
+features with add -on services that range from business networking to 
+consulting services and seminars. 
+¤ Offer of flexibility to businesses , especially valuable at young companies 
+that face uncertain futures but also for established companies that are 
+experimenting with alternate work structures. 
+¨ The Weakest Links
+¤ High leverage , first in the long term lease commitments on buildings, and 
+next in operating expenses in each building.
+¤ A timing mismatch , where the lease payments are for many years into the 
+future, but its rental revenues are short term.
+9
+Why WeWorks is more exposed than 
+most..
+¨ Own versus lease : Buying comes with two advantages over leasing. 
+¤ You can decide how much equity to use in buying, allowing you to reduce your financial 
+leverage, if you feel exposed. 
+¤ Second, if the property value rises after you bought it, the equity component builds up 
+implicitly, reducing leverage.
+¨ Explosive growth : WeWork does not just have a mismatched model, it is one 
+that has scaled up at a rate that has never been seen in the real estate 
+business, going from one property in 2010 to more than 500 locations in 
+2019, adding more than 100,000 square feet of office space each month. 
+¨ Tenant Self-selection: By specifically targeting young companies and 
+businesses that value flexibility, the company has created a selection bias, 
+where its customers are the ones most likely to pull back on their office 
+rentals, if things start to look bleak.
+¨ Lack of cost discipline : The survivors of this mismatch try to keep fixed cost 
+commitments low and adjust quickly to changes in the environment. If 
+WeWork is following this practice, its prospectus seems to contain no mention 
+of it.
+10
+The WeWork Back Story: Let’s start with 
+the good news
+11
+And the bad news is..
+12
+With leverage magnifying everything…
+13
+Issuance Details (Still forming..)
+¨ Magnitude of Proceeds : While the company has not been explicit about how 
+much cash it plans to raise in the IPO, the rumor as recently as last week 
+suggested that it was planning to raise about $3.5 billion from the offering. 
+¨ Use of Proceeds : In the prospectus (page 56), the company says that it intends to 
+use the net proceeds for general corporate purposes, including working capital 
+and capital expenditures. In effect, there seem to be no plans, at least currently, 
+for any of the existing equity owners of the firm to cash out of the firm, using the 
+proceeds.
+¨ Further Dilution coming : There is a circularity that affects the value per share 
+used, and resulting share count. That is because the proceeds, since they will stay 
+in the firm, will increase the value of the firm (and equity) by roughly the amount 
+raised, and thus the value per share, but the value per share itself will determine 
+how many additional shares will be issued and thus the share count.
+I will do my initial valuation with the rumored $3.5 billion proceeds amount and use 
+the estimated value per share to adjust share count, but these numbers will need to 
+be revisited, once there is more concrete information
+14
+Corporate Structure
+15
+And Governance
+¨ A Corporate Dictatorship: There are three classes of shares, 
+with the class A shares that will be offering in the IPO having 
+one twentieth the voting rights of the class B and class C 
+shares, leaving control of the company in the hands of Adam 
+Neumann. 
+¨ And open about it: The prospectus is brutally direct on this 
+front, stating that “Adam’s voting control will limit the ability 
+of other stockholders to influence corporate activities and, as 
+a result, we may take actions that stockholders other than 
+Adam do not view as beneficial” and that his ownership stake 
+will result in WeWork being categorized as a controlled 
+company, relieving it of the requirement to have independent 
+directors on its compensation and nominating committees.
+16
+My WeWork Story 
+¨ Meets an unmet and large need for flexible office: The 
+demand  comes both younger, smaller companies, still 
+unsure about their future needs, and established 
+companies, experimenting with new work arrangements. 
+There is a big market, potentially close to the $900 
+billion that the company estimates.
+¨ With a branded product & economies of scale: The 
+WeWork Office is differentiated enough to allow them to 
+have pricing power, and higher margins.
+¨ And continued access to capital allowing the company to 
+both fund growth and potentially live through mild 
+economic shocks.
+17
+Translate to value inputs
+¨ Revenue Growth: I will assume that revenues will grow at 60% a year, for 
+the next five years, scaling down to stable growth (set equal to the 
+riskfree rate of 1.6%) after year 10. If this seems conservative, given their 
+triple digit growth in the most recent year, this translates into revenues of 
+approximately $80 billion in 2029.
+¨ Target Operating Margin: Over the next decade, I expect the company’s 
+operating margins to improve to 12.50% by year 10. That is much higher 
+than the average operating margin for real estate operating companies 
+and higher than 11.04%, the average operating margin from 2014-2018 
+earned by IWG, the company considered to be closest to WeWorkin 
+terms of operating model. 
+¨ Reinvestment Needs: The business will stay capital intensive, economies 
+of scale notwithstanding, requiring significant investments in new 
+properties. I will assume that each dollar of capital invested into the 
+business will generate $1.68 in revenues, again drawing on industry 
+averages.
+18
+Closing the input loop
+¨ Possibility of failure: The debt load that WeWork carries 
+makes its susceptible to economic downturns and shocks 
+in the real estate market, and the cost of capital, a going 
+concern measure of risk, is incapable of capturing the 
+risk of failure embedded in the business model. I will 
+assume a 20% chance of failure in my valuation, and if it 
+does occur, that the firm will have to sell its holdings for 
+60% of fair value.
+¨ Debt load: As I noted in the last section, the company 
+has accumulated a debt load, including lease 
+commitments, of $23.8 billion.
+20
+Too optimistic? Too pessimistic?
+21
+Following up the what if..
+¨ Super charged leverage: If you are puzzled as to why the 
+equity value changes so much, as growth and margins 
+change, the answer lies in the super-charged leverage model 
+that WeWork has created. 
+¨ Possible, Plausible, Probable: There are possible, perhaps 
+even plausible, scenarios where the value of WeWork could 
+exceed $50 billion. There are even more plausible scenarios 
+where it is worth nothing. The question in investing rests on 
+what’s probable.
+¨ More option than ongoing business: If you invest in WeWork
+equity, you are investing less in an ongoing business and 
+more in an out-of-the-money option, with plausible pathways 
+to a boom but just as many or even more pathways to a bust.
+22
+The Story Stock
+¨ Valuation is a bridge between stories and numbers, 
+and for young companies, it is the story that drives 
+the numbers, rather than the other way around. 
+¨ This is neither good nor bad, but a reflection of a 
+reality which is that bulk of value at these companies 
+comes from what they will do in the future, rather 
+than what they have done in the past. 
+¨ There is a danger when stories rule, and especially 
+so if the numbers become props or are ignored, that 
+the pricing that is attached to a company can lose its 
+tether to value.
+23
+The Runaway Story
+24
+And pricing consequences…
+25
+Can become the Meltdown Story
+26
+The WeWork Story Shift?
+¨ CEO arrogance: Adam Neumann has been remarkably short sighted, 
+starting with his sale of almost $800 million in shares leading into the IPO, 
+continuing with his receipt of $5.2 million for giving the company the right 
+to use the name “We” and the conflicts of interest that are sowed all over 
+the corporate structure.  
+¨ Game playing: WeWork’scontinued description (with more than a 100 
+mentions in its prospectus) of itself as a tech company is at odds with its 
+real estate business model, but investors would perhaps have been willing 
+to overlook that if the company had not also indulged in accounting game 
+playing in the past. This is the company that coined Community EBITDA an 
+abomination, where almost all expenses are added back to get to 
+adjusted earnings. 
+¨ Denial: Since even a casual observer can see the mismatch that lies at the 
+heart of the WeWorkbusiness model, it behooves the company to 
+confront that problem directly. Instead, through 220 pages of a 
+prospectus, the company bobs and weaves, leaving the question 
+unanswered.
+27
+An investor/trader cheat sheet
+¨ If you are a VC/equity owner in WeWorks: On the one hand, you may want to pull 
+the IPO and wait for a better moment. On the other, your moment may have 
+passed and to survive as a private company, WeWork will need more capital (from 
+you).
+¨ As an investor, whether you invest or not will depend on what you think is a 
+plausible/probable narrative for the company, and the resulting value. I would not 
+invest in the company, even at the more modest pricing levels ($15 -$20 billion), 
+but if the price collapsed to the single digits, I would buy it for its optionality.
+¨ If you are a trader, this stock, if it goes public, will be a pure pricing game, going 
+up and down based upon momentum. If you are good at sending momentum 
+shifts, you could take advantage. 
+¨ If you are a founder/CEO of a company , the lesson to be learned from this IPO is 
+that no matter how disruptive you may perceive your company to be, in a 
+business, there are lessons to be learned from looking at how that business has 
+been run in the past. The saying that those who do not know history are destined 
+to repeat it seems apt not just in politics and public policy, but also in business.

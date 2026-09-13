@@ -1,0 +1,47 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfexams/CfQuiz2asolSpr19.xlsx
+
+Sheet: Sheet1
+Problem 1
+Hotels | Movies | US | Mexico
+Revenues (in millions) | 100 | 150 | Riskfree rate | 0.025 | 0.04
+Unlevered Beta | 0.8 | 1.2 | ERP | 0.05 | 0.08
+MV of equity | 400 | 800 | Tax rate | 0.25 | 0.25
+MV of debt | 600 | 200
+For movie investment in Mexico
+Unlevered beta = | 1.2
+D/E ratio | 0.25
+Levered Beta = | 1.425
+Risk free rate = | 0.025
+ERP | 0.08
+Cost of equity  | 0.139
+Cost of debt | 0.045
+After-tax cost of debt | 0.03375
+Debt to capital | 0.2
+Cost of capital = | 0.11795000000000003
+Problem 2
+Annual (Yrs 1-3)
+Without Online | With Online
+Revenues | 800 | 1300
+Cost of capital | 0.12
+EBITDA margin | 0.3
+Online EBITDA Margin | 0.4
+Tax rate | 0.2
+Initial investment | -450
+Incremental annual cash flows
+Incremental revenue | 500
+EBITDA on incremental sales | 200
+ - Depreciation | 150
+Taxable income | 50
+Taxes | 10
+After-tax income | 40
+ + Depreciation | 150
+FCFF | 190
+NPV = | 6.347940962099472
+Problem 3
+NPV = | 10000 | (in '000s)
+Overlapping subscribers | 10 | ('in '000s)
+Lost revenue/month | 40
+Total lost revenues/month | 400
+Lost revenues/year | 4800
+PV of lost revenues | 18670.326064088254
+Corrected NPV | -8670.326064088254

@@ -1,0 +1,127 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/CGTaxes.pdf
+
+INVESTOR TAXES AND STOCK 
+PRICES
+Aswath Damodaran
+2
+The other shoe drops…
+¨In my last post, I looked at the Biden Administration's proposal to 
+increase corporate taxes, to provide funding for an infrastructure 
+bill. 
+¨In the weeks since, the administration has come up with its follow-
+up proposal, this one funded by increases in individual taxes, 
+primarily on the wealthy. While one part of the proposal, reversing 
+the 2017 tax cuts for those in the highest tax brackets from 39.6% 
+to 37%, was anticipated, the other one, almost doubling the capital 
+gains tax rate for those making more than a million dollars in 
+investment income, was a surprise. 
+¨While supporters of the increase point to the fact that only a very 
+small portion of individuals will be affected by the change, those 
+individuals, through their wealth, own a significance percentage of 
+financial assets, and how they react to the change, assuming it 
+happens, will determine whether their pain will become all of ours.
+3
+Taxing Investment Income versus Earned 
+Income: Reasons for differences!
+¨Prevent or reduce double taxation: One argument, grounded in 
+fairness, is that it is wrong to subject the same income to multiple 
+tax hits, and it can be argued that dividend and capital gain income 
+is particularly exposed to this critique. The dividends that 
+companies pay comes out of the earnings that they have left over 
+after corporate taxes, and taxing that dividend again, when 
+investors receive it, is clearly double taxation
+¨Encourage savings/ capital formation: In an economy, where 
+private capital is behind the bulk of economic investment and 
+growth, governments are dependent up the health of capital 
+markets (stocks and bonds) for continued growth. To encourage 
+investors to put their savings into stock and bond markets, the tax 
+code is sometimes tilted to make these investments more 
+attractive.
+4
+The US Tax Code for Individuals
+¨In the United States, the discussion of what individuals 
+pay as taxes on their investment income is complicated 
+by where that investment income originates.
+¨Income on an individual's holdings in a pension fund or a 
+Roth IRA account are tax exempt, at least while they 
+continue to stay in that account, but income from the 
+rest of the individual portfolio are taxed. 
+¨On top of all of this complexity is estate and inheritance 
+tax law, where when an individual dies, the investments 
+in his or her estate can be marked to market, without 
+any tax consequences, allowing those capital gains to be 
+sheltered from taxes.
+5
+Classifying Income for taxes
+6
+US taxation of Investment Income: History
+7
+Pre and Post Tax Returns from Investing
+¨ Assume that you are a taxable investor who pays a 25% tax rate and that you are considering 
+investing in a company, where you believe that you need to make 6%, after personal taxes, to 
+break even. You will need to make 8% on a pre-personal tax basis, to break even:
+Pre-personal tax return (with 25% tax rate)
+= Post-personal tax/ (1-personal tax rate) = 6%/ (1-.25) = 8%
+¨ If the tax rate were raised to 40%, all else being held equal, your expected pre-personal tax return 
+will have to increase to 10%:
+Pre-personal tax return (with 40% tax rate)
+= Post-personal tax/ (1-personal tax rate) = 6%/ (1-.40) = 10%
+¨ Extending this concept to actually investingin stocks, you are faced with complications. The first is 
+that youpre-personal tax return on stocks is composed of dividends and price appreciation, and as 
+we noted in the earlier section, the tax rates on the two can diverge. Thus, the post personal-tax 
+return on stocks can be written as:
+¤ Post-personal tax return on stocks = Dividend yield (1 -tax rate on dividends) + Expected Price Appreciation 
+(1 -tax rate on capital gains)
+¨ Thus, if a stock has a 2% dividend yield and an expected price appreciation of 6%, and your tax 
+rates were 20% for dividends and 40% for capital gains, your post-personal tax return would be:
+¤ Post-personal tax return = 2% (1-.20) + 6% (1-.40) = 5.20%
+8
+Historical Returns on Stocks, Bonds and Bills
+9
+Forward-looking Expected Returns
+10
+Pre and Post Personal Taxes: Current Tax Law
+11
+Pre andPostPersonal Taxes: Proposed Tax Law
+12
+Updated Index Value
+13
+Thoughts on Tax Law
+¨ Not only does it pick on a tiny group of individuals as deserving of paying more in 
+taxes, but it seems to be motivated less by the desire to raise revenues, and more 
+by the urge to punish. 
+¤ The wealthiest among us can afford to pay more in taxes, but insulting them or treating them 
+as a pariah class,while asking them to pay more, will only induce them to find ways to avoid 
+doing so, and who can blame them?
+¤ If they decide to do so, this is also the group with the most weapons at its disposal for 
+sheltering income from taxes, and I have afeeling that one group that will clearly benefit, if 
+this proposalgoes through, are tax accountants and lawyers.
+¨ If you are not among thattiny targeted group, it is delusional to think that forcing 
+individuals in this group to pay more in taxes will have no effect on you, since this 
+group punches well above its weight. There is a very realdanger here that as we 
+take aim at what we think are the idle rich, we risk shooting ourselves in the foot.
+¨ Finally, if the most effective tax codes are simple and direct, changes like the 
+proposed one, where segments of taxpayers are assessed ahigher tax rate on 
+portions of income are exactly what cause them to become complex and 
+inefficient.
+14
+A Preemptive Defense
+¨ When I started this post, my intent was less to focus in on the Biden proposal, and more to open a 
+discussion of how personal taxes affect not only valuation, but also corporate finance behavior . 
+That effect is often missed by analysts because it is not explicitly part of the valuation of publicly 
+traded companies, but it implicitly plays a role, and perhaps even a key one. 
+¤ Investor behavior: As capital gains and dividend tax rates are changed, the changes percolate through into 
+expected returns and risk premiums, and through those into value. It is one more reason that blindly using 
+historical risk premiums can lead to static and strange values. 
+¤ CorporateBehavior: Companies, faced with investing, financing and dividend questions, may answer them 
+differently, when personal taxes change. Thus, is it possible that the increase in capital gains taxes could 
+reduce cash returned, especially in the form of buybacks? Absolutely, and especially so at closely held firms. 
+¨ For governments, changing the tax rates on investment income to increase tax revenues is fraught 
+with uncertainties. For instance, if the capital gains tax change goes through, it will almost certainly 
+not begin until 2022, and there will be a significant amount of selling towards the end of 2021, as 
+some wealthy investors lock in the current favorable capital gains tax rate. Going forward, a higher 
+expected return on stocks will mean lower market valuations, which reduces capital gains in 
+general, and tax collection from those capital gains, as a consequence. One reason to be wary of 
+government forecasts of large tax collections from increases in capital gains tax rates is that these 
+forecasts are built on the presumption that the market is the goose that lays this golden egg, since 
+rising markets deliver higher capital gains, and the tax rate hike may kill that goose.

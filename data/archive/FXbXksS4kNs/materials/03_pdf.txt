@@ -1,0 +1,15 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session12soln.pdf
+
+Session	12:	Post	class	test	solutions	-	
+1. d.	Differences	in	inflation.		Since	it	is	the	same	company	raising	money	for	
+the	same	project,	the	risks	should	be	the	same,	no	matter	what	currency	the	
+lending	is	in,	leaving	inflation	to	be	the	one	variable	that	can	cause	
+differences.	
+2. c.	22.86	pesos/US$.			Expected	exchange	rate	using	interest	rate	parity	=	
+22.00	*(1.06/1.02)	=	22.86	
+3. b.		$1.18/£.	Use	the	differential	inflation	compounded	over	ten	years.	
+Expected	exchange	rate	=	1.30	(1.01/1.02)10	=	$1.18/£.	The	dollar	has	less	
+inflation.	So,	it	appreciates	relative	to	the	pound.	
+4. c.		Rs	102.84/$.		Since	the	inflation	rate	changes	in	Indian	rupees	over	time	
+from	10%	in	years	1-2	to	6%	in	the	following	years,	you	have	to	compound	
+carefully:	Expected	exchange	rate	=	75*(1.12*1.063)/(1.015	=	Rs	102.84/£.

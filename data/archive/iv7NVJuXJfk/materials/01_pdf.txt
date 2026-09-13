@@ -1,0 +1,169 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ZomatoDIY.pdf
+
+ZOMATO, ZOMATO: A DIY 
+VALUATION OF ZOMATO!
+Stories and Numbers
+2
+The Lead in…
+¨Just over a week ago, I valued Zomato ahead of its market debut 
+and as with almost every valuation that I do on this forum, I heard 
+from many of you. 
+¤Some of you felt that I was being far too generous in my assumptions 
+about market share and profitability, and that I was over valuing the 
+company. 
+¤Many others argued that I was understating the growth in the Indian food 
+market and the company's potential to enter new markets, and thus 
+undervaluing the company, a point that the market made even more 
+emphatically by pricing the stock at about three times my estimated value. 
+¤A few of you posited that I was missing the point entirely, and that Zomato 
+is a trader's game, and that there are plenty of reasons for traders to be 
+optimistic about its prospects.
+¨In this post, rather than impose my story (and value) on you, I offer 
+a template for telling your own story about Zomato, and arriving at 
+your own value.
+3
+The Prelude
+¨After I posted my valuation last week, I did find some of 
+the portrayals of what I had found to be a little 
+unsettling. 
+¨Each notification started by describing me as some kind 
+of valuation luminary, and then proceeding to report my 
+valuation as the result of deep research.
+¤First, there is nothing in valuation that merits the use of 
+“expert” or “guru” as a descriptor, since it is for the most part, 
+common sense, layered with a few valuation basics. 
+¤Second, while valuation practitioners have created their own 
+buzzwords to create an aura of mystery, and added complexities, 
+often with no reason other than to intimidate outsiders, I 
+believe that anyone should be able to value a company, as I 
+hope to show later in this post.
+4
+Good companies? Good Investments?
+5
+Investment Advice?
+¨I value companies for an audience of one, and that 
+audience member is very forgiving and understanding, 
+because I see him in the mirror every day. 
+¨It has always been my belief that as investors, each of us 
+needs to take ownership of our investment decisions, 
+and that buying or selling a company because someone 
+else is doing so, even if that person has legendary 
+credentials, is a dereliction of investment due diligence. 
+¨Thus, if you find Zomato to be cheap and buy it, I have 
+no desire to talk you out of your decision, since it is your 
+money that you are investing, and that decision should 
+be based upon your assessment of the company’s 
+prospects, not mine.
+6
+Story to Numbers: The Steps
+7
+And the feedback loop…
+¨ Talk to a diverse audience: We live in a world of specialization, and we have created 
+workplaces, where these single-subject specialists often interact entirely with each other, 
+making their isolation almost complete. I am lucky that I am able to interact with people 
+with very different backgrounds (bankers, VCs, founders, CFOs, regulators), from different 
+geographies and with very different perspectives, through my teaching and writing.
+¨ Transparency over opacity: I would rather be transparently wrong than opaquely right. 
+Consequently, when I value companies, I try to take a stand on value and be be open about 
+process, data and mechanics, so that anyone can not just replicate what I did, but find their 
+own points of disagreement and reflect those changes in value. I am also well aware of the 
+risk that by putting out valuation details, I could be proven wrong in the future, but I like the 
+accountability that comes with disclosure.
+¨ Listen to those who disagree with you: On every company that I value, I know that there are 
+people out there who know more than I do about some aspect of the company (its products, 
+market or competition), and I can learn from them. 
+¨ Be willing to change: The three most freeing words in investing and valuation are “I was 
+wrong” , and I would be lying if I said it comes easily to me. That said, it does come more 
+easily now that I have had practice saying it, and while some view it as an admission of 
+weakness, I think it releases you to tell a better, and sometimes different, story.
+8
+Feedback on Zomato
+¨ Indian food delivery: I have learned more about online food delivery and 
+restaurants in India in the two weeks since I posted my Zomato valuation. I have 
+learned why Zomato Pro has not caught on as quickly as the company thought it 
+would, why some of you prefer Swiggyand even what you like to order from 
+restaurants.
+¨ Tax rate: Some of you noted that the corporate tax rate in India is 25%, not 30%, 
+and while the Indian tax code with its predilection to add in surcharges that seem 
+to last forever, and exceptions, does still leave me confused, I will concede on this 
+point (pushing up my value per share marginally from 41 INR/share to about 43 
+INR/share. 
+¨ Market size: I have had pushback on my story’s focus on Indian food delivery, with 
+some pointing to the potential for Zomato to expand its market globally and 
+others to the expansion possibilities in Indian grocery deliveries and from cloud 
+kitchens. While I believe that the networking advantage that works to Zomato’s 
+benefits will stymie them if they try to expand to large foreign markets and that 
+the grocery delivery market, at least for the moment, offers too small a slice of 
+revenues to be a game changer for the company, those are legitimate points.
+9
+A DIY Valuation of Zomato
+¨In the pages that follow, I will list out the choices on 
+the key inputs driving Zomato’s valuation, and the 
+story line behind each choice.
+¨I will highlight the choice I made, but I would like you 
+to pick your own on each dimension.
+¨Once you have made your choices, I have done the 
+plumbing to convert your choices into cash flows 
+and value.
+10
+1a. TAM
+11
+1b. Growth Acceleration
+Aswath Damodaran
+11
+12
+2. Market Share
+13
+3. Revenue Slice
+14
+4a. Operating Margin
+15
+4b. Pathway to Profitability
+16
+5. Reinvestment
+17
+6. Cost of Capital -Perspective
+18
+6. Your cost of capital & failure risk
+The cost of capital captures operating risk, but it is not a good device to 
+reflect failure risk, i.e., the chance that your company will not make it. In 
+my base case, I assumed a 10% chance of failure, which you can change.
+19
+Possible, Plausible and Probable
+20
+Checking your story
+¨As you navigate your way through the choices, you may be 
+tempted as an optimist to go with the most positive (for 
+Zomato's value) choices on each variable (biggest market, 
+highest market share, highest margin, lowest cost of capital) 
+or the most negative (smallest market, lowest market share, 
+lowest margin, highest cost of capital).
+¤In fact, the former if often labeled a "best case" and the latter a 
+"worst case" valuation, when in fact, neither passes the 
+possible/plausible/probable test, since assuming that you will go after 
+the biggest market will mean accepting lower margins and higher 
+reinvestment. 
+¤Thus, I could tell you that the best case value is₹423 and that my 
+worst case value is₹0, but that would be both useless and misleading. 
+That said, you can already see, no matter what your priors, that there 
+is a whole range of stories for Zomato that pass the test, and that they 
+can yield values per share that are very different
+21
+Plausible Stories
+22
+Playing the Zomato Game
+¨If enough buyers line up to buy Zomato shares, perhaps drawn to it 
+by the success of others, there is no reason why the price cannot 
+continue to rise, no matter what the value. I don't disagree with 
+that sentiment, and it goes back to the contrast I draw not just 
+between value and price, but between investing and trading. 
+¤As an investor, I am having trouble finding a pathway to justify paying 140 
+INR per share, for Zomato, even with the most upbeat stories that I come 
+up with, for the company. That may of course reflect a failure of 
+imagination on my part, and you may be able to find a narrative for the 
+company that allows you to invest in the company. 
+¤As a trader, the question of whether you should buy Zomato comes down 
+squarely to whether you are good at playing the momentum game, 
+knowing when to get on, and more importantly, when to get off. For you, 
+the value of Zomato may be irrelevant, and you will need a different set of 
+metrics (charts, price and volume indicators) to make your decisions.

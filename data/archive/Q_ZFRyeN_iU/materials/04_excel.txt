@@ -1,0 +1,40 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/CoronaBasement.xlsx
+
+Sheet: Screening
+CORONA BASEMENT BARGAINS
+Screening Criteria
+1) Company Type: Public Company OR Public Investment Firm
+2) Market Capitalization [My Setting] [Latest] ($USDmm, Historical rate): is greater than 5000
+3) % Price Change [02/14/2020-03/20/2020]: is less than -50
+4) EBIT Margin % [LTM]: is greater than 20
+5) Net Debt/EBITDA [LTM]: is less than 2 (Unreported data set to 0)
+Capital IQ Company Screening Report > CoronaBeatenUp
+Company Name | Exchange:Ticker | Company Type | Market Capitalization [My Setting] [Latest] ($USDmm, Historical rate) | % Price Change [02/14/2020-03/20/2020] | EBIT Margin % [LTM] | Net Debt/EBITDA [LTM]
+Canadian Natural Resources Limited (TSX:CNQ) | TSX:CNQ | Public Company | 9972.4 | -68.7 | 24.2 | 1.97
+Aristocrat Leisure Limited (ASX:ALL) | ASX:ALL | Public Company | 6503 | -52.8 | 26.4 | 1.57
+Inpex Corporation (TSE:1605) | TSE:1605 | Public Company | 6816.8 | -51.1 | 49.3 | 1.17
+Ecopetrol S.A. (BVC:ECOPETROL) | BVC:ECOPETROL | Public Company | 14776.1 | -55.3 | 30.9 | 0.971
+EOG Resources, Inc. (NYSE:EOG) | NYSE:EOG | Public Company | 20307.9 | -53.4 | 21.5 | 0.448
+ConocoPhillips (NYSE:COP) | NYSE:COP | Public Company | 29017.6 | -54.2 | 22.3 | 0.395
+XP Inc. (NasdaqGS:XP) | NasdaqGS:XP | Public Company | 14458.1 | -55.5 | 32.1 | 0
+Anglo American Platinum Limited (JSE:AMS) | JSE:AMS | Public Company | 7717.9 | -59.2 | 25.9 | 0
+
+Sheet: Aggregates
+Screening Aggregates
+Company Screening Aggregates
+Market Capitalization [My Setting] [Latest] ($USDmm, Historical rate) | % Price Change [02/14/2020-03/20/2020] | EBIT Margin % [LTM] | Net Debt/EBITDA [LTM]
+Total | 109569.8 | -450.2 | 232.7 | 6.52
+Average | 13696.2 | -56.3 | 29.1 | 0.815
+Minimum | 6503 | -68.7 | 21.5 | 0
+Maximum | 29017.6 | -51.1 | 49.3 | 1.97
+Standard Deviation | 7827.4 | 5.56 | 9 | 0.725
+Market Cap. Weighted Avg. | N/A | -55.8 | 26.9 | 0.663
+
+Sheet: Screen Criteria
+Capital IQ Company Screening Report > CoronaBeatenUp
+Screening Criteria
+1) Company Type: Public Company OR Public Investment Firm
+2) Market Capitalization [My Setting] [Latest] ($USDmm, Historical rate): is greater than 5000
+3) % Price Change [02/14/2020-03/20/2020]: is less than -50
+4) EBIT Margin % [LTM]: is greater than 20
+5) Net Debt/EBITDA [LTM]: is less than 2 (Unreported data set to 0)

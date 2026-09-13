@@ -1,0 +1,12 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session6soln.pdf
+
+Session	6:	Post	class	test	solutions	
+1. b.	$2.529	million.		PV	=	1000	+	1000/1.033	+	1000/1.0510	=	$2,529	
+2. c.	67.77%.		Annualized	rate	=	1.0152	-1	=	.6777	or	67.77%	
+3. b.	$75.34	million.	PV	=	8	(1-	(1/1.055)/.05	+	(12(1-	(1/1.055)/.05)/1.055.	
+The	second	annuity	starts	at	the	end	of	year	6,	but	the	present	value	of	the	
+annuity	brings	it	back	to	the	start	of	year	6	(end	of	year	5).	
+4. c.	$20.14	million.		PV	=	2*(1-(1.110/1.0810))/(0.08-0.1)	=	$20.14	million	
+5. b	or	c.	If	your	cash	flows	are	in	nominal	terms	(with	inflation	embedded	in	
+them),	it	is	the	nominal	growth	rate	in	the	economy.	If	in	real	terms,	it	is	the	
+real	growth	rate.

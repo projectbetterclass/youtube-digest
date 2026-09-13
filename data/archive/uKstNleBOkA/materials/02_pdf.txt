@@ -1,0 +1,36 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/session3test.pdf
+
+Session 3: Post Class Test 
+1. The mean and median are both measures of location that describe the central value around 
+which the data in a sample is distributed. The mean is the average of the observations in a 
+sample, and the median represents the 50th percentile of the data. Under which of the 
+following conditions will the average for a sample be less than the median? 
+a. When the data is symmetrically distributed 
+b. When the data is positively skewed, i.e., when large outliers are more likely to be 
+much higher than the average. 
+c. When the data is negatively skewed, i.e., when large outliers are more likely to be 
+much lower than the average. 
+d. When the data has fat tails 
+e. When the data is bounded 
+2. The range is the difference between the highest and lowest values in a sample and is used as 
+a measure of dispersion.  
+a. When is it a good measure of dispersion? 
+b. When is it a misleading measure of dispersion? 
+c. What can you do to make it more informative? 
+3. The variance and standard deviation are computed by summing the squared deviations of 
+individual observations from the mean.  
+a. When are variance/standard deviation good measures of dispersion? 
+b. When are variance/standard deviation misleading measures of dispersion? 
+c. What can you do to make them more informative? 
+4. The skewness measures how sample observations fall around the average. It is linked to 
+whether there are bounds (either upper or lower) on the data. Under which of the following 
+conditions are you most likely to see positive skewness? 
+a. Data has both upper and lower bounds 
+b. Data has a lower bound but has no upper bounds 
+c. Data has an upper bond but has no lower bonds 
+d. Data has no bounds 
+5. The kurtosis measures the how big outliers in a sample are, on either side of the distribution. 
+Since these outliers also have greater squared distances from the average, higher kurtosis and 
+higher variance always  go hand in hand. 
+a. True 
+b. False

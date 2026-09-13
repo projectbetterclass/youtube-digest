@@ -1,0 +1,262 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/NetflixSubscriberAug20.xlsx
+
+Sheet: Inputs
+Input cell | Computed Value
+Operating Information | Notes/Comments | Tech/Dev Cost Growth
+All dollar values in millions | Most Recent | Prior year | A1. Grow at same rate as total users | 0.08958707775009889
+Number of  Subscribers | 192.947 | 151.6 | Number of users , with growth over last year | A2. Grow at inflation rate | 0.02
+Annual Subscription Revenue/ Subscriber | 117.2773663233945 | 116.29500659630607 | Subscription Revenues/ # Users | A3. Grow at risk free rate | 0.007
+Customer Servicing Cost as % of revenues | 0.1705 | Content cost as % of subscription revenues (starting year) | A4. Direct Input | 0.05
+Effective tax rate (current) | 0.21960969100264705 | 0.09471053436787634 | Effective tax rate in most recent year | Content Cost Growth
+Effective tax rate (steady state) | 0.25 | Effective tax rate in steady state | A1. Grow at same rate as total users | 0.08958707775009889
+Allocated Costs | A2. Grow at inflation rate | 0.02
+Technology & Development Cost | 1678.014 | Technology and Development Cost | A3. Grow at risk free rate | 0.007
+General & Administrative Costs | 1058.646 | A4. Direct Input | 0.05
+Content Costs | 9950.19 | Content costs in income statement
+Percentage of Content Costs directly attributed to subscribers | 0.2
+Existing User Data | Cost of Capital (in euros)
+Lifetime of a Netflix Subscriber (in years) | 15 | Typical subscriber life with company | B1. Lowest decile of Global  companies (5%) | 0.05
+Annual Renewal Probability | 0.9 | Annual Renewal probability (assumed to be constant over time) | b2. 25th percentile of Global companies (5.75%) | 0.0575
+Growth rate in Subscription Charge | 0.05 | Growth Rate in Subscription Charge/Subscriber | B3. Median of Global companies (6.50%) | 0.065
+Growth rate in Service Cost/Subscriber | 0.02 | Growth rate in Content Cost/Subscriber | B4. 75th percentile of Global companies (7.5%) | 0.075
+New User Information | B5. Ninth decile of Global companies (9%) | 0.09
+Total cost of acquiring new users in most recent year | 5819.635 | Selling and Marketing Cost + Capitalized Content Costs | B6. Direct input | 0.07
+Growth rate in # Members (Years 1-5) | 0.12 | Growth Rate in # Subscribers - Years 1-5
+Growth rate in # Members (Years 6-10) | 0.06 | Growth Rate in # Subscribers - Years 6-10
+Growth rate in # Members after year 10 | 0.02 | Growth Rate in # Subscribers after year 10
+G&A Data
+Growth rate approach for technology & development costs | A4. Direct Input | Growth Rate option for total other costs
+Growth rate in tech development costs for next 10 years | 0.05 | DO NOT INPUT
+Growth rate approach for non-subscriber related Content | A4. Direct Input
+Growth rate in content costs for next 10 years | 0.05 | Total Revenues from Advertising (most recent year)
+Growth rate in G&A costs for next 10 years | 0.02 | Growth rate in advertising revenues - Years 1-5
+Macroeconomic Data | Growth rate in advertising revenues - Years 6-10
+Risk free Rate | 0.007
+Inflation Rate | 0.02 | Risk free Rate
+Cost of capital for existing users (input choice) | B3. Median of Global companies (6.50%) | Inflation Rate
+Cost of capital (existing users) | 0.065 | Cost of capital option (for existing subscribers)
+Cost of capital for new users (input choice) | B4. 75th percentile of Global companies (7.5%) | DO NOT INPUT
+Cost of capital (new users) | 0.075 | Do not input | Cost of capital option (for new subscribers
+Other Company Data | DO NOT INPUT
+Cash & Marketable Securities | 7153.248
+Cross Holdings in Other Companies | 0 | Cash and Marketable Securities
+Debt Outstanding | 15794.159 | Minority Cross Holdings
+Equity Options oustanding (value) | 4978 | Total Debt Outstanding
+Number of Shares outstanding | 453.22 | Value of Equity Options outstanding
+Valuation Output Summary
+Category | Value per user | Aggregate Value
+Existing Subscribers | 458.8888453264774 | 88541.22603920783
+New Subscribers | 355.8992157230654 | 320291.83616462664
+Technology & Content Costs | 192461.16613883275
+Value of Netflix | 207730.9850650017
+447.36107202904043
+
+Sheet: Valuation
+Value of Existing Subscribers
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
+Life Indicator  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+Membership Survival | 1 | 0.9 | 0.81 | 0.7290000000000001 | 0.6561000000000001 | 0.5904900000000002 | 0.5314410000000002 | 0.47829690000000014 | 0.43046721000000016 | 0.38742048900000015 | 0.34867844010000015 | 0.31381059609000017 | 0.28242953648100017 | 0.25418658283290013 | 0.22876792454961012 | 0.2058911320946491 | 0.1853020188851842 | 0.16677181699666577 | 0.1500946352969992 | 0.13508517176729928 | 0.12157665459056936
+Revenue/Subscriber | 117.2773663233945 | 123.14123463956423 | 129.29829637154245 | 135.7632111901196 | 142.5513717496256 | 149.67894033710687 | 157.16288735396222 | 165.02103172166034 | 173.27208330774337 | 181.93568747313054 | 191.03247184678708 | 200.58409543912643 | 210.61330021108276 | 221.1439652216369 | 232.20116348271875 | 243.8112216568547 | 256.00178273969743 | 268.8018718766823 | 282.24196547051645 | 296.35406374404226 | 311.1717669312444
+Cost/ Subscriber | 30.309700995610193 | 30.9158950155224 | 31.534212915832846 | 32.1648971741495 | 32.80819511763249 | 33.464359019985146 | 34.13364620038485 | 34.81631912439255 | 35.5126455068804 | 36.222898417018015 | 36.947356385358376 | 37.686303513065546 | 38.440029583326854 | 39.208830174993395 | 39.99300677849326 | 40.792866914063126 | 41.60872425234439 | 42.44089873739128 | 43.2897167121391 | 44.15551104638189 | 45.03862126730953
+Operating Profit/Loss per Subscriber | 86.96766532778432 | 92.22533962404184 | 97.7640834557096 | 103.59831401597009 | 109.7431766319931 | 116.21458131712171 | 123.02924115357737 | 130.2047125972678 | 137.75943780086297 | 145.7127890561125 | 154.0851154614287 | 162.89779192606088 | 172.1732706277559 | 181.9351350466435 | 192.2081567042255 | 203.0183547427916 | 214.39305848735304 | 226.36097313929102 | 238.95224875837735 | 252.19855269766038 | 266.1331456639349
+Tax rate | 0.21960969100264705 | 0.22264872190238233 | 0.2256877528021176 | 0.2287267837018529 | 0.23176581460158818 | 0.23480484550132347 | 0.23784387640105875 | 0.24088290730079404 | 0.24392193820052932 | 0.2469609691002646 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25
+After-tax Operating Income | 67.86872321792798 | 64.5223370667622 | 61.31694099622377 | 58.248998938684586 | 55.314780542301385 | 52.510406507420775 | 49.83188840168115 | 47.27516351880403 | 44.836125292618505 | 42.51064972925892 | 40.294618276289526 | 38.339289889546485 | 36.47011276336117 | 34.68410270606139 | 32.97829581804893 | 31.349759170489826 | 0 | 0 | 0 | 0 | 0
+Present Value (at Cost of Capital) | 60.58435405329785 | 54.06065022039171 | 48.22138086982278 | 42.99745618331019 | 38.326339427691664 | 34.151493325857196 | 30.42186153167989 | 27.09138523465724 | 24.1185543410185 | 21.46599224714077 | 19.177782072798497 | 17.129386662621652 | 15.296270761445815 | 13.656320494381566 | 12.189617900362036 | 0 | 0 | 0 | 0 | 0
+Life of subscriber = | 15
+Value per Subscriber = | 458.8888453264774
+Number of Subscribers = | 192.947
+Value of Existing Subscribers = | 88541.22603920783
+Value of New Subscribers
+Cost of Acquiring a New Subscriber | 102.98962960341196
+Value per new user (in today's $) = | 355.8992157230654
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Steady State
+Total Subscribers | 192.947 | 216.10064 | 242.03271680000003 | 271.07664281600006 | 303.6058399539201 | 340.0385407483906 | 360.440853193294 | 382.06730438489166 | 404.99134264798516 | 429.2908232068643 | 455.0482725992762
+New Subscribers | 0 | 42.448340000000016 | 47.54214080000003 | 53.24719769600003 | 59.63686141952005 | 66.79328478986247 | 54.40616651974248 | 57.67053651092704 | 61.13076870158267 | 64.79861482367761 | 68.68653171309832 | 42.92908232068642
+Value per Subscriber | 355.8992157230654 | 363.0172000375267 | 370.27754403827726 | 377.6830949190428 | 385.23675681742367 | 392.94149195377213 | 400.80032179284757 | 408.81632822870455 | 416.99265479327863 | 425.3325078891442 | 433.8391580469271
+Value added by new Subscribers | 15409.477533040952 | 17603.787133745987 | 20110.566421591415 | 22974.311080026044 | 26245.852977821753 | 21806.009048628035 | 23576.65698337664 | 25491.08153042682 | 27560.957350697474 | 29798.90708757413
+Terminal Value (New Subscribers) | 345396.4230605181
+Present Value  | 14334.397705154375 | 15233.13110545894 | 16188.212999884925 | 17203.17630797074 | 18281.775455093742 | 14129.454734815445 | 14210.945543518572 | 14292.90634572305 | 14375.339852089079 | 182042.49611491774
+Value Added by New Users | 320291.83616462664
+Value Drag of Corporate Expenses (Cost)
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+Technology & Development | 1678.014 | 1761.9147 | 1850.0104350000001 | 1942.5109567500003 | 2039.6365045875004 | 2141.6183298168758 | 2248.6992463077195 | 2361.1342086231057 | 2479.190919054261 | 2603.150465006974 | 2733.307988257323
+Content Costs | 7960.152000000001 | 8358.1596 | 8776.06758 | 9214.870959000002 | 9675.614506950002 | 10159.395232297502 | 10667.364993912377 | 11200.733243607996 | 11760.769905788396 | 12348.808401077817 | 12966.248821131709
+G&A Costs | 1058.646 | 1079.81892 | 1101.4152984 | 1123.443604368 | 1145.91247645536 | 1168.8307259844673 | 1192.2073405041567 | 1216.05148731424 | 1240.3725170605248 | 1265.1799674017354 | 1290.4835667497703
+After-tax Corporate Expenses | 8706.251309123843 | 9080.741701496894 | 9471.871797697775 | 9880.385455473994 | 10307.059581104913 | 10752.705578645906 | 11218.170861532191 | 11704.34042915588 | 12212.13851113516 | 12742.530282104104
+Terminal Value (Corporate Exp) | 221236.6895530833
+PV of Corporate Expenses | 8174.883858332248 | 8006.120215562958 | 7841.280465398362 | 7680.251761481239 | 7522.925269128177 | 7369.196002446585 | 7218.962668474173 | 7072.127518031498 | 6928.596202991807 | 124646.82217698569
+Value Drag of Corporate Expenses | 192461.16613883275
+Valuing Netflix
+Value of Existing Subscribers | 88541.22603920783
+Value of New Subscribers | 320291.83616462664
+ - PV of Corporate Expenses | 192461.16613883275
+Value of Operating Assets | 216371.89606500173
+ + Cash & Cross Holdings | 7153.248
+ - Debt | 15794.159
+Value of Equity | 207730.9850650017
+ - Value of Equity Options | 4978
+Value of Equity in common stock | 202752.9850650017
+ Number of Shares | 453.22
+Value per Share | 447.36107202904043
+
+Sheet: Input choices
+Yes or No | Cost of capital
+Yes | Lowest decile of US companies (7%)
+No | 25th percentile of US companies (7.5%)
+Median of US companies (8%)
+75th percentile of US companies (10%)
+Ninth decile of US companies (12%)
+Direct input
+
+Sheet: Users & Geography
+Netflix, Inc.
+Streaming Revenue and Membership Information by Region
+(unaudited)
+(in thousands, except for average monthly revenue per paying membership and percentages)
+As of / Three Months Ended | As of / Year Ended | As of / Three Months Ended | As of / Year Ended | As of / Three Months Ended | As of / Six Months Ended
+March 31, | June 30, | September 30, | December 31, | December 31, | March 31, | June 30, | September 30, | December 31, | December 31, | March 31, | June 30, | June 30,
+2018 | 2018 | 2018 | 2018 | 2018 | 2019 | 2019 | 2019 | 2019 | 2019 | 2020 | 2020 | 2020
+United States and Canada (UCAN)
+Revenues (1) | 1976157 | 2049546 | 2094850 | 2160979 | 8281532 | 2256851 | 2501199 | 2621250 | 2671908 | 10051208 | 2702776 | 2839670 | 5542446
+Paid net membership additions (losses) | 2487 | 961 | 1140 | 1747 | 6335 | 1876 | -132 | 613 | 548 | 2905 | 2307 | 2935 | 5242
+Paid memberships at end of period | 60909 | 61870 | 63010 | 64757 | 64757 | 66633 | 66501 | 67114 | 67662 | 67662 | 69969 | 72904 | 72904
+Average paying memberships | 59666 | 61390 | 62440 | 63884 | 61845 | 65695 | 66567 | 66808 | 67388 | 66615 | 68816 | 71437 | 70127
+Average monthly revenue per paying membership | 11.04 | 11.13 | 11.18 | 11.28 | 11.16 | 11.45 | 12.52 | 13.08 | 13.22 | 12.57 | 13.09 | 13.25 | 13.17
+% change as compared to prior-year period | 0.12 | 0.13 | 0.13 | 0.1 | 0.12 | 0.04 | 0.12 | 0.17 | 0.17 | 0.13 | 0.14 | 0.06 | 0.1
+Constant currency % change as compared to prior-year period* | 0.12 | 0.13 | 0.13 | 0.1 | 0.12 | 0.04 | 0.13 | 0.17 | 0.17 | 0.13 | 0.14 | 0.06 | 0.1
+Europe, Middle East and Africa (EMEA)
+Revenues | 886649 | 975497 | 1004749 | 1096812 | 3963707 | 1233379 | 1319087 | 1428040 | 1562561 | 5543067 | 1723474 | 1892537 | 3616011
+Paid net membership additions | 3335 | 1978 | 2519 | 3982 | 11814 | 4724 | 1687 | 3126 | 4423 | 13960 | 6956 | 2749 | 9705
+Paid memberships at end of period | 29339 | 31317 | 33836 | 37818 | 37818 | 42542 | 44229 | 47355 | 51778 | 51778 | 58734 | 61483 | 61483
+Average paying memberships | 27672 | 30328 | 32577 | 35827 | 31601 | 40180 | 43386 | 45792 | 49567 | 44731 | 55256 | 60109 | 57683
+Average monthly revenue per paying membership | 10.68 | 10.72 | 10.28 | 10.2 | 10.45 | 10.23 | 10.13 | 10.4 | 10.51 | 10.33 | 10.4 | 10.5 | 10.45
+% change as compared to prior-year period | 0.25 | 0.23 | 0.11 | 0.03 | 0.14 | -0.04 | -0.06 | 0.01 | 0.03 | -0.01 | 0.02 | 0.04 | 0.03
+Constant currency % change as compared to prior-year period* | 0.11 | 0.11 | 0.1 | 0.06 | 0.09 | 0.02 | 0.03 | 0.06 | 0.07 | 0.04 | 0.04 | 0.08 | 0.06
+Latin America (LATAM)
+Revenues | 540182 | 568071 | 562307 | 567137 | 2237697 | 630472 | 677136 | 741434 | 746392 | 2795434 | 793453 | 785368 | 1578821
+Paid net membership additions | 1543 | 1535 | 1320 | 1962 | 6360 | 1470 | 343 | 1490 | 2037 | 5340 | 2901 | 1750 | 4651
+Paid memberships at end of period | 21260 | 22795 | 24115 | 26077 | 26077 | 27547 | 27890 | 29380 | 31417 | 31417 | 34318 | 36068 | 36068
+Average paying memberships | 20489 | 22028 | 23455 | 25096 | 22767 | 26812 | 27719 | 28635 | 30399 | 28391 | 32868 | 35193 | 34031
+Average monthly revenue per paying membership | 8.79 | 8.6 | 7.99 | 7.53 | 8.19 | 7.84 | 8.14 | 8.63 | 8.18 | 8.21 | 8.05 | 7.44 | 7.73
+% change as compared to prior-year period | 0.18 | 0.1 | -0.03 | -0.13 | 0.01 | -0.11 | -0.05 | 0.08 | 0.09 | 0 | 0.03 | -0.09 | -0.03
+Constant currency % change as compared to prior-year period* | 0.18 | 0.18 | 0.14 | 0.06 | 0.13 | 0.07 | 0.12 | 0.17 | 0.18 | 0.13 | 0.12 | 0.13 | 0.13
+Asia-Pacific (APAC)
+Revenues | 199117 | 221252 | 248691 | 276756 | 945816 | 319602 | 349494 | 382304 | 418121 | 1469521 | 483660 | 569140 | 1052800
+Paid net membership additions | 893 | 978 | 1089 | 1146 | 4106 | 1534 | 801 | 1543 | 1748 | 5626 | 3602 | 2657 | 6259
+Paid memberships at end of period | 7394 | 8372 | 9461 | 10607 | 10607 | 12141 | 12942 | 14485 | 16233 | 16233 | 19835 | 22492 | 22492
+Average paying memberships | 6948 | 7883 | 8917 | 10034 | 8446 | 11374 | 12542 | 13714 | 15359 | 13247 | 18034 | 21164 | 19599
+Average monthly revenue per paying membership | 9.55 | 9.36 | 9.3 | 9.19 | 9.33 | 9.37 | 9.29 | 9.29 | 9.07 | 9.24 | 8.94 | 8.96 | 8.95
+% change as compared to prior-year period | 0.08 | 0.06 | 0.03 | -0.04 | 0.02 | -0.02 | -0.01 | 0 | -0.01 | -0.01 | -0.05 | -0.04 | -0.04
+Constant currency % change as compared to prior-year period* | 0.04 | 0.03 | 0.05 | 0.02 | 0.03 | 0.03 | 0.05 | 0.03 | 0 | 0.03 | -0.03 | 0.01 | -0.01
+(1) Excludes DVD revenues of $366 million, $297 million, $62 million and $126 million for the years ended December 31, 2018 and 2019, and the three and six months ended June 30, 2020, respectively.  Total US revenues for the years ended December 31, 2018 and 2019, and the three and six months ended June 30, 2020 were $8.0 billion, $9.5 billion, $2.7 billion and $5.2 billion, respectively. 
+* The company believes that constant currency information is useful in analyzing the underlying trends in average monthly revenue per paying membership.  In order to exclude the effect of foreign currency rate fluctuations on average monthly revenue per paying membership, the Company estimates the current period revenue assuming foreign exchange rates had remained constant with foreign exchange rates from each of the corresponding months of the prior-year period.
+124354 | 151562 | 192947
+
+Sheet: Income Statement
+Netflix, Inc.
+Consolidated Statements of Operations
+(unaudited)
+(in thousands, except per share data)
+Three Months Ended | Twelve Months Ended | Three Months Ended | Twelve Months Ended | Three Months Ended | Six Months Ended
+March 31, | June 30, | September 30,  | December 31, | December 31, | March 31, | June 30, | September 30,  | December 31, | December 31, | March 31, | June 30, | June 30,
+2018 | 2018 | 2018 | 2018 | 2018 | 2019 | 2019 | 2019 | 2019 | 2019 | 2020 | 2020 | 2020
+Revenues | 3700856 | 3907270 | 3999374 | 4186841 | 15794341 | 4520992 | 4923116 | 5244905 | 5467434 | 20156447 | 5767691 | 6148286 | 11915977
+Cost of revenues | 2300579 | 2402431 | 2531128 | 2733400 | 9967538 | 2870614 | 3005657 | 3097919 | 3466023 | 12440213 | 3599701 | 3643707 | 7243408
+Marketing | 536777 | 592007 | 510330 | 730355 | 2369469 | 616578 | 603150 | 553797 | 878937 | 2652462 | 503830 | 434370 | 938200
+Technology and development | 282310 | 299095 | 308620 | 331789 | 1221814 | 372764 | 383233 | 379776 | 409376 | 1545149 | 453817 | 435045 | 888862
+General and administrative | 134612 | 151524 | 168628 | 175530 | 630294 | 201952 | 224657 | 233174 | 254586 | 914369 | 252087 | 277236 | 529323
+Operating income | 446578 | 462213 | 480668 | 215767 | 1605226 | 459084 | 706419 | 980239 | 458512 | 2604254 | 958256 | 1357928 | 2316184
+Other income (expense):
+Interest expense  | -81219 | -101605 | -108862 | -128807 | -420493 | -135529 | -152033 | -160660 | -177801 | -626023 | -184083 | -189151 | -373234
+Interest and other income (expense) | -65743 | 68028 | 7004 | 32436 | 41725 | 76104 | -53470 | 192744 | -131378 | 84000 | 21697 | -133175 | -111478
+Income before income taxes | 299616 | 428636 | 378810 | 119396 | 1226458 | 399659 | 500916 | 1012323 | 149333 | 2062231 | 795870 | 1035602 | 1831472
+Provision for (benefit from) income taxes | 9492 | 44287 | -24025 | -14538 | 15216 | 55607 | 230266 | 347079 | -437637 | 195315 | 86803 | 315406 | 402209
+Net income | 290124 | 384349 | 402835 | 133934 | 1211242 | 344052 | 270650 | 665244 | 586970 | 1866916 | 709067 | 720196 | 1429263
+Earnings per share:
+Basic | 0.67 | 0.88 | 0.92 | 0.31 | 2.7820724250873963 | 0.79 | 0.62 | 1.52 | 1.34 | 4.264322211791256 | 1.61 | 1.63 | 3.25
+Diluted | 0.64 | 0.85 | 0.89 | 0.3 | 2.684228488356632 | 0.76 | 0.6 | 1.47 | 1.3 | 4.132493663741104 | 1.57 | 1.59 | 3.15
+Weighted-average common shares outstanding:
+Basic | 434174 | 435097 | 435809 | 436385 | 435374 | 436947 | 437587 | 438090 | 438547 | 437799 | 439352 | 440569 | 439961
+Diluted | 450359 | 451552 | 451919 | 451116 | 451244 | 451922 | 452195 | 451552 | 451367 | 451765 | 452494 | 453945 | 453220
+
+Sheet: Cash Flows
+Netflix, Inc.
+Consolidated Statements of Cash Flows
+(unaudited)
+(in thousands)
+Three Months Ended | Twelve Months Ended | Three Months Ended | Twelve Months Ended | Three Months Ended | Six Months Ended
+March 31, | June 30, | September 30, | December 31, | December 31, | March 31, | June 30, | September 30, | December 31, | December 31, | March 31, | June 30, | June 30,
+2018 | 2018 | 2018 | 2018 | 2018 | 2019 | 2019 | 2019 | 2019 | 2019 | 2020 | 2020 | 2020
+Cash flows from operating activities:
+Net income | 290124 | 384349 | 402835 | 133934 | 1211242 | 344052 | 270650 | 665244 | 586970 | 1866916 | 709067 | 720196 | 1429263
+Adjustments to reconcile net income to net cash
+provided by (used in) operating activities:
+Additions to content assets | -2986747 | -3033721 | -3238717 | -3784252 | -13043437 | -2997746 | -3325103 | -3648292 | -3945542 | -13916683 | -3294275 | -2510782 | -5805057
+Change in content liabilities | 378885 | 288474 | 65868 | 266653 | 999880 | -14698 | -12414 | -95548 | -571351 | -694011 | 258945 | -108432 | 150513
+Amortization of content assets | 1748844 | 1817817 | 1911767 | 2053660 | 7532088 | 2124686 | 2231915 | 2279977 | 2579669 | 9216247 | 2483385 | 2607159 | 5090544
+Depreciation and amortization of property, equipment and intangibles | 19041 | 19736 | 21161 | 23219 | 83157 | 23561 | 25496 | 26704 | 27818 | 103579 | 28517 | 26661 | 55178
+Stock-based compensation expense | 68395 | 81232 | 82316 | 88714 | 320657 | 101200 | 103848 | 100262 | 100066 | 405376 | 97019 | 104210 | 201229
+Other non-cash items | 19343 | 25075 | 18921 | 18301 | 81640 | 45708 | 60695 | 57934 | 63893 | 228230 | 65448 | 70301 | 135749
+Foreign currency remeasurement loss (gain) on debt | 41080 | -85410 | -7670 | -21953 | -73953 | -57600 | 61284 | -171360 | 122100 | -45576 | -93060 | 119161 | 26101
+Deferred taxes | -22049 | -9539 | -39453 | -14479 | -85520 | 6627 | 35519 | 52105 | -188694 | -94443 | 46619 | 223308 | 269927
+Changes in operating assets and liabilities:
+Other current assets | -55905 | -25564 | -30364 | -88359 | -200192 | -32076 | -24231 | 145 | -195951 | -252113 | -127353 | 3066 | -124287
+Accounts payable | 74083 | 7733 | -4449 | 121831 | 199198 | -124467 | -2674 | -7643 | 230847 | 96063 | -149153 | -112027 | -261180
+Accrued expenses and other liabilities | 119049 | -52851 | 134000 | -49776 | 150422 | 157647 | -26705 | 260872 | -234036 | 157778 | 214191 | -105450 | 108741
+Deferred revenue | 55270 | 23848 | 18983 | 44176 | 142277 | 47793 | 84085 | 22729 | 9239 | 163846 | 62008 | 42508 | 104516
+Other non-current assets and liabilities | 13830 | 40582 | -25609 | -26741 | 2062 | -4486 | -26119 | -44923 | -47003 | -122531 | -41446 | -38803 | -80249
+Net cash provided by (used in) operating activities | -236757 | -518239 | -690411 | -1235072 | -2680479 | -379799 | -543754 | -501794 | -1461975 | -2887322 | 259912 | 1041076 | 1300988
+Cash flows from investing activities:
+Purchases of property and equipment | -37170 | -27323 | -39333 | -70120 | -173946 | -60381 | -39584 | -45333 | -107737 | -253035 | -98015 | -141741 | -239756
+Change in other assets | -12582 | -12993 | -129361 | -10238 | -165174 | -19722 | -10452 | -4021 | -99834 | -134029 | -288 | -260 | -548
+Net cash used in investing activities | -49752 | -40316 | -168694 | -80358 | -339120 | -80103 | -50036 | -49354 | -207571 | -387064 | -98303 | -142001 | -240304
+Cash flows from financing activities:
+Proceeds from issuance of debt | 0 | 1900000 | 0 | 2061852 | 3961852 | 0 | 2243196 | 0 | 2226110 | 4469306 | 0 | 1009464 | 1009464
+Debt issuance costs | 0 | -16992 | 0 | -18879 | -35871 | 0 | -18192 | 0 | -17942 | -36134 | 0 | -7559 | -7559
+Proceeds from issuance of common stock | 56335 | 26936 | 29781 | 11450 | 124502 | 22972 | 21896 | 11989 | 15633 | 72490 | 43694 | 89060 | 132754
+Other financing activities | -321 | -532 | -544 | -559 | -1956 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Net cash provided by financing activities | 56014 | 1909412 | 29237 | 2053864 | 4048527 | 22972 | 2246900 | 11989 | 2223801 | 4505662 | 43694 | 1090965 | 1134659
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash | 7177 | -36340 | -5562 | -4957 | -39682 | -5014 | 4998 | -29325 | 29810 | 469 | -70902 | 11819 | -59083
+Net increase (decrease) in cash, cash equivalents, and restricted cash | -223318 | 1314517 | -835430 | 733477 | 989246 | -441944 | 1658108 | -568484 | 584065 | 1231745 | 134401 | 2001859 | 2136260
+Cash, cash equivalents, and restricted cash beginning of period | 2822795 | 2599477 | 3913994 | 3078564 | 2822795 | 3812041 | 3370097 | 5028205 | 4459721 | 3812041 | 5043786 | 5178187 | 5043786
+ Cash, cash equivalents, and restricted cash end of period | 2599477 | 3913994 | 3078564 | 3812041 | 3812041 | 3370097 | 5028205 | 4459721 | 5043786 | 5043786 | 5178187 | 7180046 | 7180046
+Non-GAAP free cash flow reconciliation:
+Net cash provided by (used in) operating activities | -236757 | -518239 | -690411 | -1235072 | -2680479 | -379799 | -543754 | -501794 | -1461975 | -2887322 | 259912 | 1041076 | 1300988
+Net cash used in investing activities | -49752 | -40316 | -168694 | -80358 | -339120 | -80103 | -50036 | -49354 | -207571 | -387064 | -98303 | -142001 | -240304
+Non-GAAP free cash flow | -286509 | -558555 | -859105 | -1315430 | -3019599 | -459902 | -593790 | -551148 | -1669546 | -3274386 | 161609 | 899075 | 1060684
+
+Sheet: Balance Sheet
+Netflix, Inc.
+Consolidated Balance Sheets
+(unaudited)
+(in thousands)
+March 31, | June 30, | September 30,  | December 31, | March 31, | June 30, | September 30,  | December 31, | March 31, | June 30,
+2018 | 2018 | 2018 | 2018 | 2019 | 2019 | 2019 | 2019 | 2020 | 2020
+Assets
+Current assets:
+Cash and cash equivalents | 2593666 | 3906357 | 3067534 | 3794483 | 3348557 | 5004247 | 4435018 | 5018437 | 5151884 | 7153248
+Current content assets, net | 4626522 | 4803663 | 4987916 | 5151186 | 0 | 0 | 0 | 0 | 0 | 0
+Other current assets | 597388 | 636869 | 674531 | 748466 | 820350 | 872910 | 892740 | 1160067 | 1295897 | 1410891
+Total current assets | 7817576 | 9346889 | 8729981 | 9694135 | 4168907 | 5877157 | 5327758 | 6178504 | 6447781 | 8564139
+Non-current content assets, net | 11300469 | 12279519 | 13397672 | 14951141 | 20878317 | 21937845 | 23227772 | 24504567 | 25266889 | 25155117
+Property and equipment, net | 341932 | 349646 | 371152 | 418281 | 434372 | 452399 | 481992 | 565221 | 650455 | 751941
+Other non-current assets | 692820 | 687483 | 867424 | 910843 | 1737036 | 1903938 | 1904189 | 2727420 | 2694785 | 2704084
+Total assets | 20152797 | 22663537 | 23366229 | 25974400 | 27218632 | 30171339 | 30941711 | 33975712 | 35059910 | 37175281
+Liabilities and Stockholders' Equity
+Current liabilities:
+Current content liabilities | 4459391 | 4537578 | 4609055 | 4681562 | 4858899 | 4846525 | 4857520 | 4413561 | 4761585 | 4664733
+Accounts payable | 436183 | 448219 | 441427 | 562985 | 439496 | 442194 | 444129 | 674347 | 545488 | 446668
+Accrued expenses and other liabilities | 436121 | 396104 | 531035 | 481874 | 750720 | 752488 | 1040745 | 843043 | 1061090 | 986595
+Deferred revenue | 673892 | 697740 | 716723 | 760899 | 808692 | 892777 | 915506 | 924745 | 986753 | 1029261
+Short-term debt | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 498809 | 499161
+Total current liabilities | 6005587 | 6079641 | 6298240 | 6487320 | 6857807 | 6933984 | 7257900 | 6855696 | 7853725 | 7626418
+Non-current content liabilities | 3444476 | 3604158 | 3593823 | 3759026 | 3560364 | 3564440 | 3419552 | 3334323 | 3206051 | 3208164
+Long-term debt | 6542373 | 8342067 | 8336586 | 10360058 | 10305023 | 12594135 | 12425746 | 14759260 | 14170692 | 15294998
+Other non-current liabilities | 139631 | 141071 | 127927 | 129231 | 792380 | 973232 | 977008 | 1444276 | 1420148 | 1710948
+Total liabilities | 16132067 | 18166937 | 18356576 | 20735635 | 21515574 | 24065791 | 24080206 | 26393555 | 26650616 | 27840528
+Stockholders' equity:
+Common stock | 1995225 | 2103437 | 2215736 | 2315988 | 2439773 | 2566365 | 2677972 | 2793929 | 2935532 | 3127813
+Accumulated other comprehensive income (loss) | 4264 | -12427 | -14508 | -19582 | -25600 | -20352 | -41246 | -23521 | -47054 | -34072
+Retained earnings | 2021241 | 2405590 | 2808425 | 2942359 | 3288885 | 3559535 | 4224779 | 4811749 | 5520816 | 6241012
+Total stockholders' equity | 4020730 | 4496600 | 5009653 | 5238765 | 5703058 | 6105548 | 6861505 | 7582157 | 8409294 | 9334753
+Total liabilities and stockholders' equity | 20152797 | 22663537 | 23366229 | 25974400 | 27218632 | 30171339 | 30941711 | 33975712 | 35059910 | 37175281

@@ -1,0 +1,363 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/BloombergGuide.pdf
+
+Guide	to	using	Bloomberg	printout		
+If	you	have	access	to	a	Bloomberg	terminal,	you	can	print	off	data	and	
+information	on	your	company	in	a	standardized	format.	I	use	six	
+printouts	from	Bloomberg,	amounting	to	10	pages,	to	get	all	the	
+information	I	need	for	any	company:	
+Packet	
+Page	#	
+Bloomberg	
+Printout	
+Description	
+1	 HDS	 Largest	stockholders	in	company	
+2	 BETA	 Beta	Regression	
+3-7	 DES	 Company	description	(may	be	only	4	pages)	
+8	 CRPR	 Bond	Rating		(if	available),	Bloomberg	
+Default	Page	(if	not),	Blank	(in	some	cases)	
+9	 DDIS	 Debt	Due	Distribution	
+10	 FA	 Financial	Summary	DA	
+Since	there	is	a	lot	of	information	on	these	10	pages,	I	have	listed	the	
+items	that	you	will	generally	use	in	valuation	or	corporate	finance.	You	
+can	find	the	item	on	the	specified	page.	
+Description	 Bloomberg	
+Page	
+1. Company	symbol	&	country	of	listing	&	Reporting	Currency	 HDS		
+2. Stock	price	on	date	of	print	out	 HDS	
+3. Source	for	holdings	data	 HDS	
+4. Largest	stockholders	(Name)	 HDS	
+5. Number	of	shares	held	by	stockholder	 HDS	
+6. %	of	Outstanding	stock	held	by	stockholder	 HDS	
+7. Change	in	holding	(#shares)	since	last	filing	 HDS	
+8. Currency	for	returns	 BETA	
+9. Index	used	in	beta	regression	 BETA	
+10. 	Period	of	regression	 BETA	
+11. 	Return	interval	used	over	regression	period	 BETA	
+12. 	Regression	beta	 BETA	
+13. 	Adjusted	Bloomberg	beta	 BETA	
+14. 	Intercept	from	regression	 BETA	
+15. 	R	squared	&	Correlation		 BETA	
+16. 	Standard	Error	of	Beta	 BETA	
+17. 	Bloomberg	estimates	of	current	&	forward	PE/EPS	 DES	Page	1	
+18. 	Bloomberg	sector	category	 DES	Page	1	
+19. 	Bloomberg	company	description	 DES	Page	1	
+20. 	Dividend	Yield	 DES	Page	1
+21. 	Market	Capitalization	(Market	value	of	equity	of	all	shares)	 DES	Page	1	
+22. 	Number	of	shares	outstanding	&	float	(traded	shares)	 DES	Page	1	
+23. 	Number	and	%	of	shares	held	by	institutional	investors	 DES	Page	2	
+24. %	of	Shares	held	by	institutions	 DES	Page	2	
+25. 	Bloomberg	estimates	of	market	multiples	(also	see	#17)	 DES	Page	3	
+26. 	Interest	coverage	ratio	(Bloomberg	estimate)	 DES	Page	3	
+27. 	Dividend	Payout	ratio	(Bloomberg	estimate)	 DES	Page	3	
+28. 	Dividend	Yield	(Bloomberg	estimate,	also	see	#20)	 DES	Page	3	
+29. 	ROE	&	ROC	(Bloomberg	estimate)	 DES	Page	3	
+30. 	Geographic	breakdown	 DES	Page	4	
+31. 	Business	breakdown	 DES	Page	4	
+32. 	a.	Trailing	12	month;	b.	Reporting	Currency	 FA	
+33. 	Revenues/Sales	 FA	
+34. 	Interest	Expenses	 FA	
+35. 	Depreciation	&	Amortization	 FA	
+36. 	Book	Value	of	Interest	Bearing	Debt	 FA	
+37. 	Operating	Income	or	EBIT	 FA	
+38. 	Cash	&	Marketable	Securities	 FA	
+39. 	Weighted	Maturity	of	Debt	(if	reported	in	financials)	 FA	
+40. 	Book	Value	of	Equity	 FA	
+41. Capital	Expenditures	(Accounting	definition)	 FA	
+42. Cash	spent	on	acquisitions	(does	not	include	stock	paid)	 FA	
+43. 	Operating	lease	expense/commitments	(if	reported)	 FA	
+44. Management	options	(#,	exercise	price),	if	reported	 FA	
+45. Cash	dividends	paid	 FA	
+46. 	R&D	expenditures	(from	income	statement)	 FA	
+47. 	Stock	Buybacks	 FA	
+48. 	Change	in	non-cash	WC	 FA	
+49. 	Increase	&	Decrease	in	LT	Debt	 FA	
+50. 	Change	in	ST	Borrowing	 FA	
+51. Bond	rating	(if	available).	If	not,	you	may	get	a	Bloomberg	
+distress	probability	page	or	just	a	blank	one.	
+CRPR		
+52. 	Debt	maturity	(if	available)	 DDIS		
+	
+If	you	are	interested	in	the	customized	FA	page,	it	is	simple	to	create	
+within	Bloomberg’s	conventional	FA	page.	Just	click	on	custom	and	
+create	the	display	items	that	you	want.
+INTC US $ T 20.95 +.38 ·~--~ .... _,. /···--· Q20.94/20.95X 170x274 
+..... At 15:37 d Vol 34,407,558 0 20.68K H 20.998 L 20.570 Val 716.535M 
+Holdings: Current I 
+CUSIP 45814010 
+INTC US E uit 
+Intel Corp 
+D Current 
+Ia 
+Japan 81 3 3201 8900 
+I 25) Settings 99) Feedback I 
+3) Matrix 
+220,003,630 
+207,444,400 4.17 
+172,992,357 3.48 
+137,727,937 2.77 
+99,851,707 2.01 
+81,124,057 1.63 
+75,952,069 1.53 
+68,923,843 1.39 
+60,814,975 1.22 
+50,818,200 1.02 
+49,827,833 1.00 
+43,330,000 0.87 
+y 39,910,784 0.80 
+39,131,509 0.79 
+y 38,635,294 0.78 
+y 37,607,629 0.76 
+37,031,150 0.74 
+13F 36,583,946 0.74 
+%Out 69.83 Zoom 
+rmany 
+U.S. 1 212 318 2000 Copyright 2012 B1oombQrg FlnancQ L.P. 
+SN 636136 EST GMT-5•00 GS09-5157-0 18-DQc-2012 15•52•25
+INTC US$ T 20.9 4 5 + .375 ·--~~--· _..-·""" X20.94 / 20.95Q 
+..... At 15:37 d Vol 34 431 284 0 20 .68K H 20. 99B L 20. 57D 
+14 
+Y = INTEL CORP 
+121 0 X = S&P 500 INDEX 
+10-
+Raw BETA 1.006 
+8 ~ I 
+0 0 Adjusted BETA 1.004 0 
+ALPHA( Intercept) -0.099 
+6.J R~2(Correl ation ~ 2) 0.487 
+0 0 
+R(Corre lation) 0.698 
+~-
+0 0 
+VI <> 0 0 Std Dev of Error 2.500 :::> 0 0 0 
+u <> ~<> <> 
+~ 2- ~ ~ ¢ Std Error of ALPHA 0.247 . o<>tc> 0 
+Std Error of BETA 0.103 > <>~ 0 8 0 
+0 oo<> 0 
+o• t-Test 9.787 
+<> ~ <> 
+<> <I> <> <> <>0 
+<> Significance 0.000 <> 0 0 
+<> <>o 
+0 <> 0 <> Last T -Value 0.900 
+- ~ 
+<> Last P-Value 0.815 0 
+<>o <> Number of Points 103 <> 
+<> 
+0 <> 
+' ,. ' "I I , . ....., -li,. li ·-1"'". ·~ ·~ • ~ I m, ' ~ l ' "' ,• ,..., ' ' I" . * Last Observation 
+·8 ·6 - ~ •l ~ 0 
+X • SPX Index 
+Australia 6 1 2 9777 86 00 Brazil 5511 3048 4500 Europe 44 20 7330 750 0 Germany 
+Japa n 81 3 32 01 89 00 Singapore 65 6212 1000 U. S . 1 212 318 2000 Cop yright 2012 Bloomberg Finance L. P . 
+SN 636136 EST GMT- 5 •00 6509-5157 - 0 18-Dec-2 012 15 •52•30
+4 
+INTC US Equity 98) Report 99) Feedback I I Page 1/41 Description: Profile I 
+1) Profile 2) Issue Info 3) Ratios 4) Revenue & EPS 
+INTEL CORP 5) Semiconductor Devices (CCB) 
+Intel Corporation designs, manufactures, and sells computer components and related products. 
+The Company's major products include microprocessors, chipsets, embedded processors and 
+microcontrollers, flash memory products, graphics products, network and communications 
+products, systems management software, conferencing products, and digital imaging products. 
+[BBGID BBGOOOCOGlDl] 
+6) Price Chart (GP n Earn (ERN) 8) Est EE) lD Cor orate Info 
+t Date Aft-mkt (C) 01/17/13 12) www.intel.com 
+i"'28.00 • 
+~ 1•.oo P /E 8.99 Santa Clara, CA, Un1ted States 
+~24.oo Est P /E 12/12 9.94 Empls 104 700 (09/29/12) 
+~22.oo T12M EPS (USD) 2.33 13) Mana ement (MGMT 
+~zo.oo Est EPS 2.11 14) Andy D Bryant 
+~ .ll;llau ··-;;;~-..--~~-~ Est PEG 0.94 Chairman/Exec VP /CAO 
+Px/Chg 10 (USD) 20.945/+1.82% 15) PaulS Otellini 
+52 Wk H (05/02/12) 29.27 10) Dividend (DVD President/CEO 
+52 Wk L (11/21/12) 19.23 Ind Gross Yield 4.30% 16) Stacy Jared Smith 
+YTD Chan e/% -3.305/-13.63% SY Net Growth 14.09% 1 ~--.=E:.:...:..xe.::..:c:_V.:..;..P..!.../....:..;CF:....:O _____ ~ 
+Mkt Cap (USD) 104,222.3M Cash 11/05/12 0.225 17) 12M Total Ret (TRA) -6.72% 
+Shrs Out/Float 4,976.0M/4,799.5M Beta vs SPX 1.00 
+SI/% of Float 220.5M/ 4.59% 19) Depositary Receipts 
+Da s to Cover 3.6 
+Australia 612 9777 8600 Brazil 5511 3048 45o6o~E~ur-o-pe-4~4~2~0~73=3~0~75~0~0~Ge-rm-a-ny-4~ 19~6~9~9=20~4~1=21~0~H-on-g~Ko_n_g~8=52~2=97=7~6~00~0~ 
+Japan 81 3 3201 8900 Singapore 65 6212 1000 u.s. 1 212 318 2000 Copyright 2012 Bloomberg Finance L.P. 
+SN 636136 EST GMT-5:00 6509-5157-0 18-Dec-2012 15:52:38
+INTC US $ l20.95 +.38 -,~, ... _ __. ~-·---Y'" X20.94/20.95P 320x29 
+••••• At 15:37 d Vol 34,443,847 0 20.68K H 20.998 L 20.570 Val 717 .281M 
+INTC US Equity I 98) Report I 99) Feedback I I Page 2/41 Description: Issue Info I 
+1) Profile 2) Issue Info 3) Ratios 4) Revenue & EPS 
+F~~P~u~hl~ic~O~f~fu~n~·n~q:s~<C~A~C~S)~~~~~~~~~~~~~8)1nstl~tion~HoWings(OWN) 
+Initial Public Offering 10/21/71, Common Stock # of Inst. Owners 2,650 
+Shares Off/Split Adj 350.00k/33.60M Shares Owned 3.3B 
+Share Price/Split Adj $ 23.50/0.24 Shares Out/Float 66.3%/68.8% 
+Lead Manager Unterberg Towbin & Co #of Buyers/Sellers 1.0171</958 
+Shares Bought 4.61M 
+~-=6}.-:;;.I.;;....;;ss~u...;...e...;;;_In;..;...;.~...;...or~m;...;..;;a.;...;;..tl;,...;;..o.:...;...n~<R;...;;.;E=L:.;;;_S)~~~~------4 7) Eqtv Weiqhts(WGT) 9} Insider Holdings (OWN) 
+Sec Type Common Stock OEX N.A. %Held by Insiders 
+Pri Exch NASDAQ GS PAR USD 0.001 SPX N.A. Net change last 6M 
+Pri MIC XNGS INDU 1.206% 10) Top Holders (HDS) 
+Incorp UNITED STATES (DE) RIY 0.715% as of 12/17/2012 
+SIC Code 3674 (SEMICONDUCTORS) MLO 0.801% VANGUARD GROUP INC 
+BBGID BBGOOOCOG1D1 SPXI N.A. STATE STREET CORP 
+ISIN US4581401001 CCMP N.A. MOORE GORDON EARLE 
+CUSIP 458140100 TRIBUS 3.936% BLACKROCK INSTITUTIO 
+SEDOL1 2463247 US NAICS 334413 TRIB 1.382% BANK OF NEW YORK MEL 
+Common 009702920 WPK # 855681 COMP 0.631% INVESCO LTD 
+Sicovam 948813 11) OMON NORTHERN TRUST CORPO 
+3.55% 
+-0.03% 
+4.42% 
+4.17% 
+3.48% 
+2.77% 
+2.01% 
+1.63% 
+1.53% 
+~~~~~~~~~~~~~~~O~p·t~/~LE~A~Ps~/~M~a~rq~in~a~b~l~~~~~~~~~~~~~ 
+Australia 61 2 9777 8600 Brazil 5511 3048 4500 Europ~ 44 20 7330 7500 G~rmany 49 69 9204 1210 Hong Kong 852 2977 6000 
+Japan 81 3 3201 8900 Singapore 65 6212 1000 U.S. 1 212 318 2000 Copyright 2012 Bloomberg Finance L.P. 
+SN 636136 EST GMT-5:00 G509-5157-0 18-Dec-2012 15:52:39
+Page 
+INTC US Equity 98) Report 99) Feedback I I Page 3/41 Description: Ratios I 
+4) Revenue & EPS 1) Profile 2) Issue Info 3) Ratios 
+Fiscal Year End 12/2011 5) Income Statements (FA IS) 
+* Last Quarter End 09/12 Q3 6) Balance Sheet (FA BS) 
+"" Current/T12M (USD) 7) Cash Flow (FA CF) 
+Issue Data Per Share Data Cash Row Analysis 
+""Last Px USD/20.95 P/CF 5.8 
+N P/E 9.0 N EPS T12M 2.33 Curr P/FCF 15.5 
+""Dvd Ind Yld 4.3% N DPS 0.78 CF/NI 1.6 
+* P/B 2.12 * Bk Val Per Sh 9.89 Dvd P/0 31.9% 
+N P/S 2.0 Rev/Bas Sh 10.27 Cash Gen/Cash Reqd 1.4 
+"" Curr EV /T12M EBITDA 4.2 CPS 3.99 Csh Dvd Cov 3.1 
+""Mkt Cap 1047247.2M * Curr Shares Out 5.0B CFO/Sales 38.8% 
+""Curr EV 97,014.2M FCF/Basic Sh 1.94 Eff IR 4.0% 
+Growth Potential P rofita bil ity Structure 
+Oil EPS Frm Cont Op 1 Y 25.9% EBITDA 23.5B Curr Ratio 2.2 
+Capital - 1 Year Growth 3.3% EBIT 17.5B Quick Ratio 1.5 
+BVS - 1 Yr Growth 2.4% OPM 32.4% Debt/ Assets 10.3% 
+R & D to Sales 15.5% Pretax Mrgn 32.9% Debt/Com Eq 16.0% 
+Retention Ratio 68.1% ROA 16.4% A/R Trnovr 13.9 
+Rev- 1 Yr Gr 23.8% ROE 24.9% Inv Turnover 4.2 
+Empl1Y Gr 21.3% ROC 21.8% GM 62.5% 
+Assets - 1 Year Growth 12.6% Asset Turnover 0.7 EBIT /Tot Int Exp 91.5 
+Australia 61 2 9??? 8600 Brazil 5511 3048 4500 Europe 44 20 ?330 ?500 Germany 49 69 9204 1210 Hong Kong 852 29?? 6000 
+Japan 81 3 3201 8900 Singapore 65 6212 1000 U.S. 1 212 318 2000 Copyright 2012 Bloomberg Finance L.P. 
+SN 636136 EST GMT-5:00 G509-5157-0 18-Dec-2012 15:52:40
+Page 
+INTC US Equity 98) Report 99) Feedback I Page 4/4 1 Description: Rev & EPS I 
+1) Profile 2) Issue I nfo 3) Ratios 4) Revenue & EPS 
+(USD) 2008 2009 2010 2011 2012 2013 (USD) 2008 2009 2010 2011 2012 2013 
+FY 37.68 35.18 43.68 54.08 53.48 54.58 FY .920 .770 2.05 2.39 2.11 1.95 
+Q1 9.78 7.18 10.38 12.88 12.98 13.08 Q1 .250 .110 .430 .560 .530 .399 
+Q2 9.58 8.08 10.88 13.08 13.58 13.18 Q2 .280 - .070 .510 .540 .540 .421 
+Q3 10.28 9.48 11.18 14.28 13.58 13.98 Q3 .350 .330 .520 .650 .580 .526 
+Q4 8.28 10.68 11.58 13.98 13.68 14.68 Q4 .040 .400 .590 .640 .457 .588 
+n Geo Seq (FA GEO) 2011 Rev 3Yr Gr 8) Prod Seg (FA PROD) 2011 Rev 3Yr Gr 
+Asia-Pacific 35.78 15.79% PC Client Group 35.48 8.18% 
+Americas 11.38 14.93% Data Center Group 10.18 15.41% 
+Europe 7.08 -0.76% Other Intel Architecture Oper 5.08 41.60% 
+Software and Services Group 1.98 47.82% 
+AU Other 1.68 N.A. 
+Australia 61 2 9777 8600 Braz il 5511 30 48 4500 Europa 44 20 7330 7500 Garmany 49 69 9204 1210 Hong Kong 852 2977 6000 
+Japan 81 3 3201 8900 S i ngapore 65 6212 1000 U.S . 1 212 318 2000 Copyr i ght 2012 Bloomberg Fina nce L.P. 
+SN 636136 EST GMT- 5 •00 G509-5157-0 18-Dac-2012 15 •52 , 41
+INTC US $ S T 30 . 00 + . 24 ~ Q29 . 99 /30 . OOP 82 xl 
+.t1 .. At 9:54 d Vol 3,936,0 18 0 29 .98P H 30 . 06 D L 29 . 87X Val 117.959M 
+ttNTC US Equity I Company Tree RatiR! 92) Alert Page 112 Credit Rating Profile 
+Intel Corp 
+1) Bloomberg Default Risk I DRSK » Fitch 
+13)0utlook STABLE 
+Moody's 14) LT Issuer Default Rating A+ 
+2)0utlook STABLE 15) Senior Unsecured Debt A+ 
+3) Long Term Rating Al 16) JR Subordinated Debt A 
+4) Senior Unsecured Debt Al 17) Short Term Fl 
+S)JR Subordinated Debt A2 18) ST Issuer Default Rating Fl 
+6)Short Term P-1 
+Egan-Jones Ratings Company 
+7)Standard & Poor's SP u 19) LC Senior Unsecured A+ 
+8)0utlook STABLE 20) FC Senior Unsecured A+ 
+9) LT Foreign Issuer Credit A+ 21) LC Commercial Paper Al+ 
+10) LT Local Issuer Credit A+ 22) FC Commercial Paper Al+ 
+11) ST Foreign Issuer Credit A-1+ 
+12) ST Local Issuer Credit A-1+ 
+Australia 61 2 9777 8600 Brazil 5511 2395 9000 Europo 44 20 7330 7500 Gormany 49 69 9204 1210 Hong Kong 852 2977 6000 
+Jap an Bl 3 3201 8900 Slngaporo 65 6212 1000 U.S. 1 212 318 2000 Copyright 2016 Bloomborg Flnonco L. P. 
+SN 268865 EST GMT-5 •00 H435-3617-0 19-Jan - 2016 10 •09 •45
+3500 
+...... 3000 
+~ g 2500 .... 
+] 1500 
+.s 
+1000 
+500 
+T 30. 00 + . 24 "-..rv-- Q29 . 99 /30 . OOP 76x2 
+Vol 3,937, 518 0 29 .98P H 30.060 L 29 .87X Val 118. 004M 
+. . ········ · .......... . . . . . . . . . . . . . . . . . . . . . 
+!l!l"!IW!9'!9!!P.! :\ll:t!!~l!.i 
+• Bond Princioal 
+• "'""; Bond Princi .. 1 
+• Amwn AvaU.ble WI ~Ivers 
+.. . . ................ ...... .. -.. ......... ~·. . . . .. 
+: ...... : ...... ;. ..... ~ ....... ...... ....... " ..... ~ ...... : . ' . . . ~ . . ... . 
+. . . . . : ...... ; ...... ~ ..... ~- ..... ....... ......... . . . . . 
+........ ..................... . . . . . . . . . . 
+.. .......... .. . . 
+. . . .. 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ "• ;,o ;,_, 'l.v ;," ;,• 'Vo ,._, V,. 'V"· 
+Expiration Date 
+,...._.,....,-__.-..,._ ___ -116) Edit 
+'-"-" ==--.;:;..;;.o.:..;.<;.;;;;.;...;..;;..;;;...;.;.'---'----'· 7) Ed it 
+Payments 
+Display 
+Date Range 
+~ None liiiil Inst. CDs 
+Currency of Issue ~ 
+Country of I ssue L=:J 
+49 69 9204 1210 Hong Kong 852 2977 6000
+Bloomberg Financial Statement Analysis 
+Ticker: INTC US Equ ~y Periodic~y: Annuals Currency : USD Note: Years shown on the report are Fiscal Years Company: Intel Corp 
+Filing: Most Recent 
+EBIIDA 21.388.76 21,808.65 23,188.00 23.541 ,00 20.226.00 10,994.00 14.280.00 13,546 .00 11,161.00 16.811.00 
+Dcprecialion & 7.106.00 6,064.00 4,638.00 5.052.00 4.616.00 4,798.00 4.912.0 0 4.595.00 
+Amortization 
+Operaling Income 13.489.06 14,687.24 16,082.00 17.477.00 15.588.00 5,942.00 9,664.00 8.748.00 6,249.00 12,216.00 
+Totalrnlerest expense 272.00 191.00 134.00 87.00 94.00 72.00 84.00 21.00 
+Nelln ccme 9,876.78 10.884.67 11.897 .00 12.942.00 11,464.00 4.369.00 5.292.00 6,976.00 5.044.00 6.664.00 
+Cash & Equivalents 14,389.00 15,399.00 22,893.00 14,693.00 12.195 .00 16,350.00 10.400.00 13,309.00 
+Tolal debt 7,156.00 7.331.00 2. 115.00 2,221.00 1,287.00 2.122.00 2.026.00 2.419 .00 
+Total Debt Weighted 
+Aver<lge Maturity 
+Total Equrty 49,269 .00 45,911.00 49.430.00 41.704.00 39,546 .00 42,762.00 36.752.00 36.182.00 
+Chg in non-ca sh we -525 .00 240.00 -769.00 112.00 -1,509.00 870.00 60.00 -18.00 
+Cap rlal Expenduures -10,064.92 -1 1,293.67 -11,367.00 -10,764. 00 -5.207.00 -4,5t5.00 -5.197.00 -5.000.00 -5,860.00 -5.818.00 
+Increase: L T Debt 106.00 5,086.00 0.00 1.980.00 0.00 125.00 0.00 1.742.00 
+Decrease L T Debt 
+Inc( Dec) ST Debt -10.00 209.00 0.00 -87.00 -40.00 ·39.00 · 114.00 126.00 
+Market cap. 104,222.32 123.481. 00 116.245.52 112,262.26 78.869. 16 156.465 .72 116.761.50 t50.483.83 
+Minority Interes t 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+Elf tax rote 24.20 27 21 28.55 23.40 31. 15 23.89 28.64 31.29 
+Net Cash Pt<ld for 812 .00 8.721.00 218 .00 853.00 16.00 76.00 0.00 191.00 
+Acquasitions 
+Workono Capital 11,061.00 13,844.00 22,284 .00 13.566 .00 12.053 .00 15,314.00 9,766.00 11 .960.00 
+Op Lease - Cun·ent 178.00 124.00 t20.00 141.00 154.00 160.00 t50 .00 
+Op Lease - Yr t 183.00 102.00 102.00 106.00 95.00 t14 .00 114.00 
+Op Lease • Yr 2 142.00 66.00 83.00 75.00 73.00 80.00 79.00 
+Op Lease - Yr 3 112.00 56.00 66.00 55.00 44.00 58.00 62.00 
+Op Lease - Yr 4 81 .00 32.00 40.00 44.00 30.00 33.00 47.00 
+Op Lease · Yr 5 53.00 20.00 20.00 24.00 26.00 24.00 30.00 
+Op Lease - Beyond yr 5 136.00 31.00 38.00 46.00 52.00 75.00 102.00 
+Drvidends Paid -4.301.00 -4,127.00 -3,503.00 -3.108.00 -3.100 .00 -2,618.00 -2.320.00 ·1 .958.00 
+Dec cap o1al slack ·8.243.00 -14,340.00 -1.736.00 -1 .762.00 -7.195.00 -2,788.00 -4,593.00 -10.637.00 
+Current Share s 4,976.00 5,092.00 5.578 .00 5,522.00 5,562.00 5.847.00 5,766.00 6,029.00 
+Outstandrng 
+Price per share 20.57 20.84 20.33 14.16 26.76 20.25 24.96 23.54 
+Options Outs tanaing 224.90 298.30 386.40 451.30 612.00 665.90 839.50 899.90 
+End Of Penocl 
+Avg Exercise Price 20.16 20.12 20.45 25.08 27.70 27.76 26.98 26.71 
+(Options Oufs1andingl 
+R & D expe nditures 9.827 .00 8,350.00 6,576.00 5.653.00 5.722.00 5,755.00 5.873.00 5.145 .00 
+Conso lidated De bt 
+We ighted Average 
+Maturity 
+Op Lease· Years 2 • 5 386.00 194.00 209.00 198.00 173.00 195.00 218.00 
+The format and content of this report may not be modified or attered (including. but not limited to. via deletion or addition) In any way.The BLOOMBERG PROFESSiONAl service and BLOOMBERG Oata are owned and distributed locally by Bloomberg Finance LP. ('BFLP1and Its subsidiariosin all jurisdictions 
+other than Argentina, Bermuda. Chlna. lndia, Japan and Korea (the ·aLP Countries1. BFLP is a wholfy..awned subsidiary of Bloomberg L.P. reLP·). BLF provides BFLP with an global marketing and operational support and service for the Services and distributes the Services either directly or through a non· 
+BFLP subsidiary In the BLP Countries. BFLP, BLP and their atf~ iates do not provide Investment advice or guarantee the accuracy of prices or information in the Services. Nothing on the Services anan constitute an offering of financial instruments by BFLP. BLP or their affiliates. 
+Bloomberg ® 12/1812012 15:51:15

@@ -1,0 +1,278 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate4for2019.pdf
+
+JANUARY 2019 DATA UPDATE 4: 
+THE MANY FACES OF RISK!
+Aswath Damodaran
+2
+Risk: Consensus and Disagreement
+¨ I think that all investors would buy into the precept 
+that investing in equities comes with risk, but that is 
+where the consensus seems to end. 
+¨ Everything else about risk is contested, starting with 
+whether it is a good or a bad, whether it should be 
+sought out or avoided, and how it should be 
+measured.
+3
+1. Risk is a continuum
+4
+2. Risk comes from many places
+Type of Risk/Uncertainty Description Effect on value and investing
+Estimation versus Economic • Estimation uncertainty reflects the possibility 
+that you could have the “wrong model” or 
+estimated inputs incorrectly within this 
+model.
+• Economic uncertainty comes the fact that 
+markets and economies can change over time 
+and that even the best medals will fail to 
+capture these unexpected changes.
+Estimation uncertainty can be reduced 
+or even eliminated by collecting more 
+data or building bigger models. 
+Economic uncertainty will remain no 
+matter how hard you try.
+Micro versus Macro • Micro uncertainty refers to uncertainty about 
+the potential market for a firm’s products, the 
+competition it will face and the quality of its 
+management team.
+• Macro uncertainty reflects the reality that 
+your firm’s fortunes can be affected by 
+changes in the macro economic environment.
+Exposure to micro uncertainty can be 
+reduced by holding a more diverse 
+portfolio, but exposure to macro 
+uncertainty is immune from 
+diversification (though it can be hedged 
+at a cost or avoided).
+Discrete versus Continuous • Discrete risk: Risks that lie dormant for 
+periods but show up at points in time (eg. 
+Regulatory approval or disapproval, 
+devaluation of a fixed exchange rate currency
+• Continuous risk: Risks that occur continuously 
+and affect value as they happen.
+Continuous risk can be incorporated into 
+required returns (or discount rates) in 
+valuation, but discrete risks cannot. They 
+need probabilistic approaches like 
+decision trees.
+5
+3. Stand alone Risk versus Risk Added
+0.0 0%
+5.0 0%
+10 .00 %
+15 .00 %
+20 .00 %
+25 .00 %
+30 .00 %
+35 .00 %
+40 .00 %
+45 .00 %
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+The Magic of Diversification
+Rho  =0 Rho  = 0.2 Rho  =0.4 Rho  =0.6 Rho  =0.8 Rho  =1
+6
+4. Risk Measures
+¨ Price Measures: The first, if it is traded, is the price 
+path of the asset and what you can extract from that 
+path as a measure of risk. 
+¨ Earnings/Cashflow Measures: There are many 
+investors who believe that it is uncertainty about 
+earnings and cash flows that are a true measure of 
+risk. 
+¨ Risk Proxies: Some investors measure the risk of an 
+asset, by looking at the grouping it belongs to, 
+arguing that some groupings are more risky than 
+others.
+7
+Price Based Risk Measures
+Aswath Damodaran
+7
+¨ The most widely accessible measures of risk come 
+from the market, for publicly traded stocks, where 
+trading and liquidity generate prices that change 
+with each trade. 
+¨ That price data is then used to extract risk measures, 
+ranging from intuitive ones (high to low ranges) to 
+statistical measures (such as standard deviation and 
+covariance).
+8
+1. High Low Risk Measure
+¨ To compute a risk measure from high and low prices that 
+is comparable across stocks, the range has to be scaled 
+to the price level. One simple scalar is the sum of the 
+high and the low prices, giving the following measure of 
+risk:
+HiLo Risk = (High Price - Low Price)/ (High Price + Low Price)
+¨ To illustrate, consider two stocks, A with a high of $50 
+and a low of $25 and B with a high of $12 and a low of 
+$8. The risk measures computed will be:
+¤ HiLo Risk of stock A = (50-25)/ (50+25) = 0.333
+¤ HiLo Risk of stock B = (12-8)/ (12 +8) = 0.20
+9
+Distribution
+10
+Pluses and Minuses
+¨ Pluses 
+¤ Simple to compute and requires minimal data. 
+¤ It is even intuitive, especially if you track market prices 
+continuously. 
+¨ Minuses 
+¤ It throws away all data other than the high and the low 
+price. 
+¤ For the price to move, there has to be trading, and markets 
+that are liquid will therefore see more price movements, 
+especially over shorter time period, than markets that are 
+not.
+11
+2. Standard Deviation in Stock Prices
+¨ As with the HiLo risk measure, computing a standard 
+deviation in stock prices, without adjusting for price 
+levels, would yield the unsurprising conclusion that 
+higher prices stocks have higher standard deviations. 
+¨ With this measure, the scaling adjustment becomes a 
+simpler one, since using percentage price changes, 
+instead of prices themselves, should level the playing 
+field. 
+¨ In fact, if you wanted a fully integrated measure of 
+returns, you should also include dividends in the periods 
+where you receive them. However, since dividends get 
+paid, at most, once every quarter, analysts who use daily 
+or weekly returns often ignore them.
+12
+Distribution
+13
+Pluses of Standard Deviation
+¤ It is Statistics 101. 
+¤ It can be computed for returns in any asset class, thus 
+allowing us to compare it across stocks, high yield bonds, 
+corporate bonds, real estate or crypto currencies. 
+¤ To the extent that we can also compute historical returns 
+on these same assets, it allows us to relate those returns to 
+the standard deviations and compute the payoff to taking 
+risk in the form of Sharpe ratios or information ratios.
+14
+Minuses of Standard Deviation
+¨ Not Normal: To the extent that investment return 
+distributions are skewed (often with long positive tails and 
+sometimes with long negative tails), we know that we should 
+be looking at other moments in the distribution.
+¨ Upside versus Downside Variance: It will higher if you have 
+outsized returns, whether they are higher or lower than the 
+average. 
+¨ Liquidity effects: As with the high low risk measure, liquidity 
+plays a role in how volatile a stock is.
+¨ Total Risk, rather than risk added to a portfolio: The standard 
+deviation in stock prices measures the total risk in a stock, 
+rather than how much risk it adds to a portfolio.
+15
+3. Covariance/Beta
+¨ You can measure the risk added by an investment to a diversified portfolio 
+by looking at how it moves in relation to the rest of the portfolio in a 
+covariance, a measure that incorporates both the volatility in the stock 
+and its correlation with the portfolio.
+¨ It is to obtain a scaled measure of covariance that we divide the 
+covariance of every investment by the variance of the portfolio that we 
+are measuring it against:
+16
+Distribution for Correlation
+17
+Pluses and Minuses
+¨ Pluses
+¤ If you are diversified, there is a strong argument to be 
+made that you should be looking at covariance-based 
+measures of risk, when investing. 
+¤ It is self standing (a beta greater than one means you are 
+riskier than average.
+¨ Minuses
+¤ In addition to all of the caveats that we noted about 
+liquidity that we listed for other price based measures, the 
+most ingredient into covariance is the correlation 
+coefficient and that statistic is both unstable and varies 
+over time.
+18
+Earnings Risk Measures
+¨ For many value investors, the biggest problem with 
+using standard deviations or betas is that they come 
+from stock prices. 
+¨ In the value world, it is not markets that should drive 
+our perception of risk, but the fundamentals of the 
+company. Thus, using a price based risk measure 
+when doing intrinsic value is viewed as inconsistent.
+19
+1. Money Making or Losing?
+20
+2. Earnings Volatility
+21
+Pluses and Minuses
+¨ While I sympathize with the argument that value investors 
+pose, i.e., that using price based risk measures in intrinsic 
+valuation is inconsistent, the accounting tendency to smooth 
+things out shows up in earnings streams.
+¨ If you add to that how the numerous discretionary accounting 
+plays play out in stated earnings, I am not sure that I learn 
+much about risk from looking at a time series of accounting 
+earnings. 
+¨ You may find that there are other items in accounting 
+statements that are less susceptible to accounting choices, 
+such as revenues or cash flows, but I remain unconvinced 
+that any of these beat price-based measures of risk.
+22
+Risk Proxies
+¨ The vast majority of investors never attach risk 
+measures to stocks, choosing instead to proxies or 
+stand-ins for risk. 
+¤ Thus, tech stocks are viewed as riskier than non-tech 
+stocks, small cap stocks are perceived as more risky than 
+large cap stocks.
+¤ In some value investing circles, stocks that trade at low PE 
+ratios or have high dividend yields are viewed as safer than 
+stocks with high PE ratios or do not pay dividends.
+23
+1. Market Capitalization
+24
+2a. PE Ratios
+25
+2b. Dividend Yields
+26
+2c. Industry Rankings – Price Risk
+27
+Industry Rankings – Earnings Volatility
+28
+Picking your Poison
+1. Risk avoidance is not a strategy: Avoiding risk is less a risk 
+strategy than a desperation ploy. In investing, the objective 
+is to maximize returns, with risk operating as a constraint. In 
+corporate finance, this lesson has been forgotten by risk 
+managers, where the focus has been on products (hedging, 
+derivatives) that companies can use to minimize risk 
+exposure.
+2. Disagree with models, don't abandon first principles: If you 
+don’t like a risk model, please do not throw the baby out 
+with the bathwater and abandon first principles. 
+3. Pick the risk measure that is right for you: You should look 
+inwards, because you have to find a risk measure that works 
+for you.
+29
+We have more in common than you 
+realize..
+HiL0 Risk Std Dev in 
+Stock Price Beta Coeff of variation -
+Op Income
+Coeff of variation -
+Net Income
+Market Cap (in 
+US $)
+Trailing 
+PE
+Dividend 
+Yield
+HiL0 Risk Measure (Hi-
+lo)/ (Hi+Lo) 1.
+Std Dev in Stock Price 0.7055 1.
+Beta 0.3237 0.3879 1.
+Coeff of variation - Op 
+Income 0.3615 0.318 0.112 1.
+Coeff of variation - Net 
+Income 0.31 0.267 0.0768 0.7352 1.
+Market Cap (in US $) -0.0975 -0.0984 0.0237 -0.0959 -0.0928 1.
+Trailing PE 0.002 0.0034 -0.0062 0.0116 0.0116 -0.0022 1.
+Dividend Yield -0.0911 -0.106 -0.0251 -0.1518 -0.1484 0.0131 -0.0053 1.

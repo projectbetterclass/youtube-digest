@@ -1,0 +1,272 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session10.pdf
+
+157
+Unlevered	Betas	for	businesses	
+Aswath Damodaran
+€ 
+Unlevered Beta
+(1 - Cash/ Firm Value)
+Business	 Comparable	ﬁrms	
+Sample	
+size	
+Median	
+Beta	
+Median	
+D/E	
+Median	
+Tax	rate	
+Company	
+Unlevered	
+Beta	
+Median	
+Cash/	
+Firm	
+Value	
+Business	
+Unlevered	
+Beta	
+Media	Networks	
+US		ﬁrms	in	
+broadcas:ng	
+business	 26	 1.43	 71.09%	40.00%	 1.0024	 2.80%	 1.0313	
+Parks	&	Resorts	
+Global	ﬁrms	in	
+amusement	park	
+business	 20	 0.87	 46.76%	35.67%	 0.6677	 4.95%	 0.7024	
+Studio	
+Entertainment	US	movie	ﬁrms	 10	 1.24	 27.06%	40.00%	 1.0668	 2.96%	 1.0993	
+Consumer	
+Products	
+Global	ﬁrms	in	
+toys/games	
+produc:on	&	retail	 44	 0.74	 29.53%	25.00%	 0.6034	 10.64%	 0.6752	
+Interac:ve	
+Global	computer	
+gaming	ﬁrms	 33	 1.03	 3.26%	34.55%	 1.0085	 17.25%	 1.2187
+158
+A	closer	look	at	the	process…	
+Studio	Entertainment	Betas	
+Aswath Damodaran
+Firm value = Market Cap + Total Debt
+Enterprise Value (EV) = Market Cap + Debt - Cash
+Gross D/E = Total Debt/  Market 
+Cap
+159
+Backing	into	a	pure	play	beta:	Studio	
+Entertainment	
+Aswath	Damodaran	
+159
+1. Start with the median regression beta (equity beta) of 1.24
+2. Unlever the beta, using the median gross D/E ratio of 27.06%
+Gross D/E ratio = 21.30/78.70 = 27.06% 
+Unlevered beta = 1.24/ (1+ (1-.4) (.2706)) = 1.0668
+3. Take out the cash effect, using the median cash/value of 2.96%
+(.0296) (0) + (1-.0296) (Beta of movie business) = 1.0668
+Beta of movie business = 1.0668/(1-.0296) = 1.0993
+Alternatively, you could have used the net debt to equity ratio
+Net D/E ratio = (21.30-2.96)/78.70 = 23.30%
+Unlevered beta for movies = 1.24/ (1+(1-.4)(.233)) = 1.0879
+The Median Movie Company
+Movie Business 97.04 Beta (movies) = 1.0993
+Cash Businesss   2.96 Beta (cash) = 0.0000
+Movie Company 100.0 Beta (company) = 1.0668
+Debt 21.30 Beta (debt) = 0
+Equity 78.70 Beta (equity) = 1.24
+160
+Disney’s	unlevered	beta:	Opera:ons	&	
+En:re	Company	
+Aswath Damodaran
+Disney has $3.93 billion in cash, invested in close to riskless assets (with a beta of zero). You  
+can compute an unlevered beta for Disney as a company (inclusive of cash):
+Business	 Revenues	 EV/Sales	
+Value	of	
+Business	
+ProporFon	of	
+Disney	
+Unlevered	
+beta	 Value	 ProporFon	
+Media	Networks	 $20,356	 3.27	 $66,580	 49.27%	 1.03	 $66,579.81	 49.27%	
+Parks	&	Resorts	 $14,087	 3.24	 $45,683	 33.81%	 0.70	 $45,682.80	 33.81%	
+Studio	Entertainment	 $5,979	 3.05	 $18,234	 13.49%	 1.10	 $18,234.27	 13.49%	
+Consumer	Products	 $3,555	 0.83	 $2,952	 2.18%	 0.68	 $2,951.50	 2.18%	
+Interac:ve	 $1,064	 1.58	 $1,684	 1.25%	 1.22	 $1,683.72	 1.25%	
+Disney	Opera:ons	 $45,041	 $135,132	 100.00%	 0.9239	 $135,132.11
+161
+The	levered	beta:	Disney	and	its	divisions	
+¨ To	es:mate	the	debt	ra:os	for	division,	we	allocate	Disney’s	total	debt	
+($15,961	million)	to	its	divisions	based	on	iden:ﬁable	assets.		
+	
+	
+¨ We	use	the	allocated	debt	to	compute	D/E	ra:os	and	levered	betas.	
+Aswath Damodaran
+Business	 Unlevered	beta	Value	of	business	 D/E	raFo	Levered	beta	 Cost	of	Equity	
+Media	Networks	 1.0313	 $66,580	 10.03%	 1.0975	 9.07%	
+Parks	&	Resorts	 0.7024	 $45,683	 11.41%	 0.7537	 7.09%	
+Studio	Entertainment	 1.0993	 $18,234	 20.71%	 1.2448	 9.92%	
+Consumer	Products	 0.6752	 $2,952	 117.11%	 1.1805	 9.55%	
+Interac:ve	 1.2187	 $1,684	 41.07%	 1.5385	 11.61%	
+Disney	Opera:ons	 0.9239	 $135,132	 13.10%	 1.0012	 8.52%
+162
+	Discussion	Issue	
+Aswath	Damodaran	
+162
+¨ Assume	now	that	you	are	the	CFO	of	Disney.	The	
+head	of	the	movie	business	has	come	to	you	with	a	
+new	big	budget	movie	that	he	would	like	you	to	
+fund.	He	claims	that	his	analysis	of	the	movie	
+indicates	that	it	will	generate	a	return	on	equity	of	
+9.5%.	Would	you	fund	it?	
+¤ Yes.	It	is	higher	than	the	cost	of	equity	for	Disney	as	a	
+company	
+¤ No.	It	is	lower	than	the	cost	of	equity	for	the	movie	
+business.	
+¤ What	are	the	broader	implica:ons	of	your	choice?
+163
+Es:ma:ng	Bodom	Up	Betas	&	Costs	of	
+Equity:	Vale	
+Aswath Damodaran
+Business' Sample'
+Sample'
+size'
+Unlevered'beta'
+of'business' Revenues'
+Peer'Group'
+EV/Sales'
+Value'of'
+Business'
+Proportion'of'
+Vale'
+Metals'&'
+Mining'
+Global'firms'in'metals'&'
+mining,'Market'cap>$1'
+billion' 48' 0.86' $9,013' 1.97' $17,739' 16.65%'
+Iron'Ore' Global'firms'in'iron'ore' 78' 0.83' $32,717' 2.48' $81,188' 76.20%'
+Fertilizers'
+Global'specialty'
+chemical'firms' 693' 0.99' $3,777' 1.52' $5,741' 5.39%'
+Logistics'
+Global'transportation'
+firms' 223' 0.75' $1,644' 1.14' $1,874' 1.76%'
+Vale'
+Operations' '' '' 0.8440' $47,151' '' $106,543' 100.00%'
+164
+Vale:	Cost	of	Equity	Calcula:on	–	in	
+nominal	$R	
+¨ To	convert	a	discount	rate	in	one	currency	to	another,	all	you	need	are	
+expected	inﬂa:on	rates	in	the	two	currencies.	
+	
+¨ From	US	$	to	R$:	If	we	use	2%	as	the	inﬂa:on	rate	in	US	dollars	and	9%	as	
+the	inﬂa:on	ra:o	in	Brazil,	we	can	convert	Vale’s	US	dollar	cost	of	equity	
+of	11.23%	to	a	$R	cost	of	equity:	
+¨ Alterna:vely,	you	can	compute	a	cost	of	equity,	star:ng	with	the	$R	
+riskfree	rate	of	10.18%.	
+Cost	of	Equity	in	$R	=	=	10.18%	+	1.15	(7.38%)	=	18.67%	
+	 			 	
+Aswath Damodaran
+€ 
+(1+$ Cost of Equity)(1+Inflation RateBrazil)
+(1+Inflation RateUS)−1
+165
+Bodom	up	betas	&	Costs	of	Equity:	Tata	
+Motors	&	Baidu	
+¨ Tata	Motors:	We	es:mated	an	unlevered	beta	of	0.8601	
+across	76	publicly	traded	automo:ve	companies	(globally)	
+and	es:mated	a	levered	beta	based	on	Tata	Motor’s	D/E	
+ra:o	of	41.41%	and	a	marginal	tax	rate	of	32.45%	for	India:	
+Levered	Beta	for	Tata	Motors	=	0.8601	(1	+	(1-.3245)	(.4141))	=	1.1007		
+Cost	of	equity	for	Tata	Motors	(Rs)	=	6.57%	+	1.1007	(7.19%)	=	14.49%			
+¨ Baidu:	To	es:mate	its	beta,	we	looked	at	42	global	companies 	
+that	derive	all	or	most	of	their	revenues	from	online	
+adver:sing	and	es:mated	an	unlevered	beta	of	1.30	for	the	
+business.	Incorpora:ng	Baidu’s	current	market	debt	to	equity 	
+ra:o	of	5.23%	and	the	marginal	tax	rate	for	China	of	25%,	we	
+es:mate	Baidu’s	current	levered	beta	to	be	1.3560.	
+Levered	Beta	for	Baidu	=	1.30	(1	+	(1-.25)	(.0523))	=	1.356	
+Cost	of	Equity	for	Baidu	(Renmimbi)	=	3.50%	+	1.356	(6.94%)	=	12.91%		
+Aswath Damodaran
+166
+Bodom	up	Betas	and	Costs	of	Equity:	
+Deutsche	Bank	
+¨ We	break	Deutsche	Bank	down	into	two	businesses	–	commercial	and	
+investment	banking.		
+	
+¨ We	do	not	unlever	or	relever	betas,	because	es:ma:ng	debt	and	equity	
+for	banks	is	an	exercise	in	fu:lity.	Using	a	riskfree	rate	of	1.75%	(Euro	risk	
+free	rate)	and	Deutsche’s	ERP	of	6.12%:	
+Aswath Damodaran
+167
+Es:ma:ng	Betas	for	Non-Traded	Assets	
+Aswath	Damodaran	
+167
+¨ The	conven:onal	approaches	of	es:ma:ng	betas	
+from	regressions	do	not	work	for	assets		that	are	not	
+traded.	There	are	no	stock	prices	or	historical	
+returns	that	can	be	used	to	compute	regression	
+betas.	
+¨ There	are	two	ways	in	which	betas	can	be	es:mated	
+for	non-traded	assets	
+¤ Using	comparable	ﬁrms	
+¤ Using	accoun:ng	earnings
+168
+Using	comparable	ﬁrms	to	es:mate	beta	
+for	Bookscape	
+Aswath Damodaran
+Unlevered beta for book company = 0.8130/ (1+ (1-.4) (.2141)) = 0.7205
+Unlevered beta for book business = 0.7205/(1-.05) = 0.7584
+169
+Es:ma:ng	Bookscape	Levered	Beta	and	
+Cost	of	Equity	
+¨ Because	the	debt/equity	ra:os	used	in	compu:ng	
+levered	betas	are	market	debt	equity	ra:os,	and	the	only	
+debt	equity	ra:o	we	can	compute	for	Bookscape	is	a	
+book	value	debt	equity	ra:o,	we	have	assumed	that	
+Bookscape	is	close	to	the	book	industry	median	market	
+debt	to	equity	ra:o	of	21.41	percent.		
+¨ Using	a	marginal	tax	rate	of	40	percent	for	Bookscape,	
+we	get	a	levered	beta	of	0.8558.	
+Levered	beta	for	Bookscape	=	0.7584[1	+	(1	–	0.40)	(0.2141)]	=	0.8558	
+¨ Using	a	riskfree	rate	of	2.75%	(US	treasury	bond	rate)	
+and	an	equity	risk	premium	of	5.5%:	
+Cost	of	Equity	=	2.75%+	0.8558	(5.5%)	=	7.46%	
+Aswath Damodaran
+170
+Is	Beta	an	Adequate	Measure	of	Risk	for	a	
+Private	Firm?	
+¨ Beta	measures	the	risk	added	on	to	a	diversiﬁed	
+porpolio.	The	owners	of	most	private	ﬁrms	are	not	
+diversiﬁed.	Therefore,	using	beta	to	arrive	at	a	cost	
+of	equity	for	a	private	ﬁrm	will	
+a.  Under	es:mate	the	cost	of	equity	for	the	private	ﬁrm	
+b.  Over	es:mate	the	cost	of	equity	for	the	private	ﬁrm	
+c.  Could	under	or	over	es:mate	the	cost	of	equity	for	the	
+private	ﬁrm	
+Aswath Damodaran
+171
+Total	Risk	versus	Market	Risk	
+¨ Adjust	the	beta	to	reﬂect	total	risk	rather	than	market	risk.	
+This	adjustment	is	a	rela:vely	simple	one,	since	the	R	
+squared	of	the	regression	measures	the	propor:on	of	the	risk	
+that	is	market	risk.		
+¤ 	Total	Beta	=	Market	Beta	/	Correla:on	of	the	sector	with	the	market	
+¨ 	In	the	Bookscape	example,	where	the	market	beta	is	0.8558	
+and	the	median	R-squared	of	the	comparable	publicly	traded	
+ﬁrms	is	26.00%;	the	correla:on	with	the	market	is	50.99%.	
+	
+¤ Total	Cost	of	Equity	=	2.75	+	1.6783	(5.5%)	=	11.98%	
+Market Beta
+R squared
+=0.8558
+.5099=1.6783
+Aswath Damodaran
+172
+Applica:on	Test:	Es:ma:ng	a	Bodom-up	Beta	
+Aswath	Damodaran	
+172
+¨ Based	upon	the	business	or	businesses	that	your	
+ﬁrm	is	in	right	now,	and	its	current	ﬁnancial	
+leverage,	es:mate	the	bodom-up	unlevered	beta	for	
+your	ﬁrm.	
+¨ Data	Source:	You	can	get	a	lis:ng	of	unlevered	betas	
+by	industry	on	my	web	site	by	going	to	updated	
+data.

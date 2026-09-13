@@ -1,0 +1,16 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session7soln.pdf
+
+Session	7:	Post	class	test	solutions	
+1. c.	$1.045.		PV	of	$25	a	year	for	10	years	@2%	+	PV	of	1000	at	the	end	of	year	
+10	=	$1045	
+2. a.	1.4%.		This	is	the	rate	that	gives	you	a	present	value	of	$1,100	when	you	
+take	the	present	value	of	$25	a	year	for	10	years	and	$1000	at	the	end	of	year	
+10.	
+3. c.	A	10-year	bond	with	a	2%	coupon	rate.	The	longer	the	maturity	of	the	
+bond	and	the	lower	the	coupon	rate,	the	more	sensitive	the	value	will	be	to	
+changes	in	interest	rates.		
+4. d.		-11.3%.	The	bond	was	trading	at	par	before	the	downgrade.	So,	the	
+market	interest	rate	=	coupon	rate	=	4%,	before	the	downgrade.	After	the	
+downgrade,	that	rate	jumps	to	5.5%.	Keeping	the	coupons	($40/year)	and	
+face	value	($1000)	fixed,	the	price	of	the	bond	will	drop	to	$887	(discounting	
+the	cash	flows	at	5.5%).

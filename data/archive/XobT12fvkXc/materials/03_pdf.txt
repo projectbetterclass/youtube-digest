@@ -1,0 +1,23 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session4soln.pdf
+
+Session	4:	Post	class	test	solutions	
+1. c.	Start	with	Net	Income	and	add	back	depreciation,	amortization	and	
+other	non-cash	charges.	The	statement	of	cashflows	is	constructed	from	the	
+perspective	of	equity	investors	and	it	starts	with	net	income,	not	EBITDA	or	
+operating	income.	
+2. a.	Increases	in	inventory	decrease	cash	flows	and	increases	in	accounts	
+payable	increase	cash	flows.	An	increase	in	inventory	ties	up	cash	flows,	
+but	an	increased	use	of	supplier	credit	(accounts	payable)	releases	cash	
+flows.	
+3. c.		Cash-based	acquisitions	and	cash	portion	of	mixed	acquisitions.	It	is	a	
+statement	of	cash	flows.		So,	only	cash	spent	on	acquisitions,	in	part	or	in	full,	
+show	up	under	investing.		
+4. d.	Cash	dividends,	all	share	buybacks.	Stock	dividends	have	no	cash	effect	
+and	all	stock	buybacks,	no	matter	what	the	motive,	are	going	to	be	cash	
+outflows.	
+5. b.	Negative	cash	flow	from	operations,	Negative	cash	flow	from	
+investing	and	Positive	cash	flow	from	financing.	Young	companies	
+generally	lose	money	and	have	little	depreciation	to	add	back,	as	well	as	
+substantial	investment	needs	(to	deliver	future	growth).	These	cash	outflows	
+all	have	to	be	funded	with	cash	infusions	from	financing	(mostly	from	
+equity).

@@ -1,0 +1,3 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pc/datasets/pedata.xls
+
+[legacy .xls workbook: pedata.xls — see raw file]

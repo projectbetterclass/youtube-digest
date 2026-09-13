@@ -1,0 +1,82 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/DisneyMovieBeta.xlsx
+
+Sheet: Step 1  -Raw Data
+Company Name | Exchange:Ticker | Industry Classifications | Headquarters - Country | Levered Beta | Market Capitalization [Latest] ($USDmm, Historical rate) | Total Debt [Latest Quarter] ($USDmm, Historical rate) | Total Cash & ST Investments [Latest Quarter] ($USDmm, Historical rate) | Total Revenue [LTM] ($USDmm, Historical rate)
+SFX Entertainment Inc. (NasdaqGS:SFXE) | NasdaqGS:SFXE | Entertainment Production Companies (Primary) | United States | 1.12 | 738.8 | 98.89198010902359 | 143.6 | 62
+Mass Hysteria Entertainment Company, Inc. (OTCPK:MHYS) | OTCPK:MHYS | Entertainment Production Companies (Primary) | United States | 1.19 | 0.237 | 1.1327272727272726 | 0 | 0.11
+Medient Studios, Inc. (OTCPK:MDNT) | OTCPK:MDNT | Entertainment Production Companies (Primary) | United States | 0.93 | 3.21 | 3.18 | 0.052 | 5.22
+POW! Entertainment, Inc. (OTCPK:POWN) | OTCPK:POWN | Entertainment Production Companies (Primary) | United States | 0.94 | 3.97 | 0.34355485846083816 | 0.425 | 2.03
+MGM Holdings Inc. (OTCPK:MGMB) | OTCPK:MGMB | Entertainment Production Companies (Primary) | United States | 1.29 | 3631.7 | 142.1626402983676 | 140.7 | 1892.6
+Lions Gate Entertainment Corp. (NYSE:LGF) | NYSE:LGF | Entertainment Production Companies (Primary) | United States | 1.2 | 4719.6 | 1283.203094206101 | 67.2 | 2597.8
+DreamWorks Animation SKG Inc. (NasdaqGS:DWA) | NasdaqGS:DWA | Entertainment Production Companies (Primary) | United States | 1.32 | 2730 | 348.30043780972613 | 156.4 | 767.3
+Twenty-First Century Fox, Inc. (NasdaqGS:FOXA) | NasdaqGS:FOXA | Entertainment Production Companies (Primary) | United States | 1.28 | 77743.5 | 20943.00346505657 | 6681 | 28733
+Independent Film Development Corporation (OTCPK:IFLM) | OTCPK:IFLM | Entertainment Production Companies (Primary) | United States | 1.61 | 1.32 | 0.955 | 0.05 | 0.66
+Odyssey Pictures Corp. (OTCPK:OPIX) | OTCPK:OPIX | Entertainment Production Companies (Primary) | United States | 2.6 | 0.298 | 1.6423300970873786 | 0.002 | 0.669
+
+Sheet: Step 2- Compute Ratios
+Company Name | Levered Beta | Gross D/E | Cash/Firm Value | EV/ Sales | Net Debt/E Ratio | Firm Value | Enterprise Value | Market Capitalization [Latest] ($USDmm, Historical rate) | Total Debt [Latest Quarter] ($USDmm, Historical rate) | Total Cash & ST Investments [Latest Quarter] ($USDmm, Historical rate) | Total Revenue [LTM] ($USDmm, Historical rate)
+SFX Entertainment Inc. (NasdaqGS:SFXE) | 1.12 | 0.1338548729142171 | 0.17142339118647262 | 11.195031937242316 | -0.06051437451404494 | 837.6919801090236 | 694.0919801090236 | 738.8 | 98.89198010902359 | 143.6 | 62
+Mass Hysteria Entertainment Company, Inc. (OTCPK:MHYS) | 1.19 | 4.779439969313387 | 0 | 12.452066115702477 | 4.779439969313387 | 1.3697272727272725 | 1.3697272727272725 | 0.237 | 1.1327272727272726 | 0 | 0.11
+Medient Studios, Inc. (OTCPK:MDNT) | 0.93 | 0.9906542056074767 | 0.0081377151799687 | 1.2141762452107283 | 0.9744548286604362 | 6.390000000000001 | 6.338000000000001 | 3.21 | 3.18 | 0.052 | 5.22
+POW! Entertainment, Inc. (OTCPK:POWN) | 0.94 | 0.08653774772313304 | 0.09852662454642999 | 1.9155442652516448 | -0.020515149002307765 | 4.313554858460838 | 3.8885548584608385 | 3.97 | 0.34355485846083816 | 0.425 | 2.03
+MGM Holdings Inc. (OTCPK:MGMB) | 1.29 | 0.039144929454075945 | 0.03728275600112357 | 1.9196674629073063 | 0.00040274259943486604 | 3773.8626402983673 | 3633.1626402983675 | 3631.7 | 142.1626402983676 | 140.7 | 1892.6
+Lions Gate Entertainment Corp. (NYSE:LGF) | 1.2 | 0.2718881036965211 | 0.011194770000845332 | 2.2848576080553165 | 0.2576496089088272 | 6002.803094206101 | 5935.603094206102 | 4719.6 | 1283.203094206101 | 67.2 | 2597.8
+DreamWorks Animation SKG Inc. (NasdaqGS:DWA) | 1.32 | 0.12758257795228065 | 0.050807256523434666 | 3.808028721242964 | 0.07029320066290334 | 3078.300437809726 | 2921.900437809726 | 2730 | 348.30043780972613 | 156.4 | 767.3
+Twenty-First Century Fox, Inc. (NasdaqGS:FOXA) | 1.28 | 0.26938590962661274 | 0.06769922700083952 | 3.2020848315545387 | 0.18344946477913354 | 98686.50346505656 | 92005.50346505656 | 77743.5 | 20943.00346505657 | 6681 | 28733
+Independent Film Development Corporation (OTCPK:IFLM) | 1.61 | 0.7234848484848484 | 0.02197802197802198 | 3.371212121212121 | 0.6856060606060606 | 2.275 | 2.225 | 1.32 | 0.955 | 0.05 | 0.66
+Odyssey Pictures Corp. (OTCPK:OPIX) | 2.6 | 5.511174822440868 | 0.0010307524492879803 | 2.897354405212823 | 5.504463413044895 | 1.9403300970873787 | 1.9383300970873787 | 0.298 | 1.6423300970873786 | 0.002 | 0.669
+
+Sheet: Step 3 - Statistics
+Company Name | Levered Beta | Gross D/E | Cash/Firm Value | EV/ Sales | Firm Value | Enterprise Value | Market Capitalization [Latest] ($USDmm, Historical rate) | Total Debt [Latest Quarter] ($USDmm, Historical rate) | Total Cash & ST Investments [Latest Quarter] ($USDmm, Historical rate) | Total Revenue [LTM] ($USDmm, Historical rate)
+SFX Entertainment Inc. (NasdaqGS:SFXE) | 1.12 | 0.1338548729142171 | 0.17142339118647262 | 11.195031937242316 | 837.6919801090236 | 694.0919801090236 | 738.8 | 98.89198010902359 | 143.6 | 62
+Mass Hysteria Entertainment Company, Inc. (OTCPK:MHYS) | 1.19 | 4.779439969313387 | 0 | 12.452066115702477 | 1.3697272727272725 | 1.3697272727272725 | 0.237 | 1.1327272727272726 | 0 | 0.11
+Medient Studios, Inc. (OTCPK:MDNT) | 0.93 | 0.9906542056074767 | 0.0081377151799687 | 1.2141762452107283 | 6.390000000000001 | 6.338000000000001 | 3.21 | 3.18 | 0.052 | 5.22
+POW! Entertainment, Inc. (OTCPK:POWN) | 0.94 | 0.08653774772313304 | 0.09852662454642999 | 1.9155442652516448 | 4.313554858460838 | 3.8885548584608385 | 3.97 | 0.34355485846083816 | 0.425 | 2.03
+MGM Holdings Inc. (OTCPK:MGMB) | 1.29 | 0.039144929454075945 | 0.03728275600112357 | 1.9196674629073063 | 3773.8626402983673 | 3633.1626402983675 | 3631.7 | 142.1626402983676 | 140.7 | 1892.6
+Lions Gate Entertainment Corp. (NYSE:LGF) | 1.2 | 0.2718881036965211 | 0.011194770000845332 | 2.2848576080553165 | 6002.803094206101 | 5935.603094206102 | 4719.6 | 1283.203094206101 | 67.2 | 2597.8
+DreamWorks Animation SKG Inc. (NasdaqGS:DWA) | 1.32 | 0.12758257795228065 | 0.050807256523434666 | 3.808028721242964 | 3078.300437809726 | 2921.900437809726 | 2730 | 348.30043780972613 | 156.4 | 767.3
+Twenty-First Century Fox, Inc. (NasdaqGS:FOXA) | 1.28 | 0.26938590962661274 | 0.06769922700083952 | 3.2020848315545387 | 98686.50346505656 | 92005.50346505656 | 77743.5 | 20943.00346505657 | 6681 | 28733
+Independent Film Development Corporation (OTCPK:IFLM) | 1.61 | 0.7234848484848484 | 0.02197802197802198 | 3.371212121212121 | 2.275 | 2.225 | 1.32 | 0.955 | 0.05 | 0.66
+Odyssey Pictures Corp. (OTCPK:OPIX) | 2.6 | 5.511174822440868 | 0.0010307524492879803 | 2.897354405212823 | 1.9403300970873787 | 1.9383300970873787 | 0.298 | 1.6423300970873786 | 0.002 | 0.669
+Average | 1.3479999999999999 | 1.293314798721342 | 0.04680805148664243 | 4.426002371359223
+Median | 1.24 | 0.2706370066615669 | 0.02963038898957277 | 3.0497196183836808
+
+Sheet: Step 4 - Unlever Betas
+Company Name | Levered Beta | Gross D/E | Unlevered for Company
+SFX Entertainment Inc. (NasdaqGS:SFXE) | 1.12 | 0.1338548729142171 | 1.0367366485941512 | 1.12/(1+(1-.4)(.1339))
+Mass Hysteria Entertainment Company, Inc. (OTCPK:MHYS) | 1.19 | 4.779439969313387 | 0.30767926212436775
+Medient Studios, Inc. (OTCPK:MDNT) | 0.93 | 0.9906542056074767 | 0.5832942555685815
+POW! Entertainment, Inc. (OTCPK:POWN) | 0.94 | 0.08653774772313304 | 0.8936018263517451
+MGM Holdings Inc. (OTCPK:MGMB) | 1.29 | 0.039144929454075945 | 1.2603971065089516
+Lions Gate Entertainment Corp. (NYSE:LGF) | 1.2 | 0.2718881036965211 | 1.0316964114587799
+DreamWorks Animation SKG Inc. (NasdaqGS:DWA) | 1.32 | 0.12758257795228065 | 1.226139571521583
+Twenty-First Century Fox, Inc. (NasdaqGS:FOXA) | 1.28 | 0.26938590962661274 | 1.1018984502051918
+Independent Film Development Corporation (OTCPK:IFLM) | 1.61 | 0.7234848484848484 | 1.122662440570523
+Odyssey Pictures Corp. (OTCPK:OPIX) | 2.6 | 5.511174822440868 | 0.6037098116347682
+Median Unlevered beta across companies | 1.0342165300264656
+Unlevered Beta based on average and median values for levered beta and D/E
+Average | 1.3479999999999999 | 1.293314798721342 | 0.7590137617203501
+Median | 1.24 | 0.2706370066615669 | 1.0667747628414863 | 1.24/(1+(1-.4)(.2706))
+
+Sheet: Step 5 - Clean up for cash
+Company Name | Levered Beta | Gross D/E | Company Unlevered | Cash/Firm Value | Unlevered or Business | SFX
+SFX Entertainment Inc. (NasdaqGS:SFXE) | 1.12 | 0.1338548729142171 | 1.0367366485941512 | 0.17142339118647262 | 1.2512260635485435 | Movie | 0.8286 | X
+Mass Hysteria Entertainment Company, Inc. (OTCPK:MHYS) | 1.19 | 4.779439969313387 | 0.30767926212436775 | 0 | 0.30767926212436775 | Cash | 0.1714 | 0
+Medient Studios, Inc. (OTCPK:MDNT) | 0.93 | 0.9906542056074767 | 0.5832942555685815 | 0.0081377151799687 | 0.588079882152609 | 1.0367
+POW! Entertainment, Inc. (OTCPK:POWN) | 0.94 | 0.08653774772313304 | 0.8936018263517451 | 0.09852662454642999 | 0.9912681291359666 | 1.0367/.8286
+MGM Holdings Inc. (OTCPK:MGMB) | 1.29 | 0.039144929454075945 | 1.2603971065089516 | 0.03728275600112357 | 1.309207988498877
+Lions Gate Entertainment Corp. (NYSE:LGF) | 1.2 | 0.2718881036965211 | 1.0316964114587799 | 0.011194770000845332 | 1.0433767744732316
+DreamWorks Animation SKG Inc. (NasdaqGS:DWA) | 1.32 | 0.12758257795228065 | 1.226139571521583 | 0.050807256523434666 | 1.2917709073824744
+Twenty-First Century Fox, Inc. (NasdaqGS:FOXA) | 1.28 | 0.26938590962661274 | 1.1018984502051918 | 0.06769922700083952 | 1.1819130500776536
+Independent Film Development Corporation (OTCPK:IFLM) | 1.61 | 0.7234848484848484 | 1.122662440570523 | 0.02197802197802198 | 1.1478908100215461
+Odyssey Pictures Corp. (OTCPK:OPIX) | 2.6 | 5.511174822440868 | 0.6037098116347682 | 0.0010307524492879803 | 0.6043327290754477
+Median across companies | 1.0342165300264656 | 1.0956337922473889
+Based on average and median values across all companies
+Average | 1.3479999999999999 | 1.293314798721342 | 0.7590137617203501 | 0.04680805148664243 | 0.7962863753771139
+Median | 1.24 | 0.2706370066615669 | 1.0667747628414863 | 0.02963038898957277 | 1.0993488983343926
+The Sequence
+The Median Regression beta was | 1.24
+After unleverIng at the sector median gross D/E ratio of | 0.2706370066615669
+The Unlevered Company beta was | 1.0667747628414863
+After taking out the effect of cash/firm value of | 0.02963038898957277
+The Unlevered Business beta was | 1.0993488983343926

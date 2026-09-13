@@ -1,0 +1,547 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/FacebookTaxReform.xlsx
+
+Sheet: READ ME 1ST
+PRELIMINARY STUFF AND INPUTS
+Objective | This spreadsheet allows you to compute the optimal capital structure for a non-financial
+service firm
+Before you start | Open preferences in excel, go into calculation options and put a check in the iteration box.
+If it is already checked, leave it as is.
+Inputs | The inputs are primarily in the input sheet. If your company has operating leases, 
+use the operating lease worksheet to enter your lease or rental commitments.
+Units | Enter all numbers in the same units (000s, millions or even billions)
+Income inputs | The key income input is the earnings before long term interest expenses and depreciation.
+Enter the most updated numbers you have for each (even if they are 12-month trailing
+numbers). If the most recent period for which you have data has an operating income that
+is abnormal, either because of extraordinary losses/gains or some other occurrence, use
+an average operating income over the last few years.
+Balance Sheet | Enter the book value of total debt. If you have a market value enter that 
+number. Alternatively, input the average maturity of the debt and I will estimate the
+market value of debt. 
+Market Data | Enter the current stock price, the current risk free rate, the equity  risk
+premium you would like to use to estimate your cost of equity and the current rating for
+your firm. If you do not have a rating, there is an option for you at the very bottom of
+the spreadsheet to compute a synthetic rating.
+Tax Rate | Enter a marginal tax rate, if you can find it. Otherwise, use the marginal tax rate of country
+Default Spreads | This spreadsheet has interest coverage ratios, ratings and default spreads built into it in
+the worksheet. You can choose between two tables, one for large and stable 
+firms, and the other for small or risky firms. If you want you can change the interest
+coverage ratios and ratings in these tables.
+READING THE OUTPUT
+Summary | The summary provides a picture of your firm's current cost of capital and debt ratio, and 
+compares it to your firm's optimal debt ratio and the cost of capital at that level. The
+firm value is computed at each debt ratio, based upon how the expected operating income
+and the cost of capital. The optimal debt ratio is that ratio at which firm value is
+maximized. It might not be the same point at which cost of capital is minimized.
+Details | The details of the calculation at each debt ratio are below the summary.
+References
+Corporate Finance: Theory and Practice, Chapter 18
+Applied Corporate Finance: Chapter 8
+
+Sheet: FAQs
+Question | Answer
+Q1: What do I do excel says there are circular references? | Go into preferences, choose calculation options and make sure the iteration box has a check in it.
+Q2: My spreadsheet has gone crazy. I get errors all over. What did I do wrong? | I am sorry to say this, but you probably just made an input error. While you might have fixed it, the iterations in the spreadsheet make it very sensitive and the errors will not go away. The only fix (Sorry, sorry…) is to copy the inputs into a fresh version of the spreadsheet.
+Q3: I am entering the inputs for my company but the optimal numbers do not seem to change from the originals. | You probably forgot to check the iteration box (see Q1)
+Q4: I am getting an optimal debt ratio of 0%. This can't be right. Can it? | Sure. If your operating income is either negative or very low, relative to your firm value,
+you can end up at an optimal debt ratio of 0%. For instance, if you have EBIT of 100 on a
+firm value of 10000, a 10% debt ratio would probably push you into a C rating and give
+you a very high cost of capital.
+Q5: My cost of capital at my optimal debt ratio is higher | Generally, you are right. However, I would suggest that you look at three factors:
+than the current cost of capital. I thought it was supposed |  - If your optimal is just slightly higher or lower than your current debt ratio, it is possible that you
+to be lower. | are closer to the optimal than the stated optimal. Let me explain. Assume that you are at a 24% debt ratio
+and the optimal comes out to 30%. The true optimal is really somewhere around 30% since
+I am constrained to work in 10% increments of the debt ratio. If the true optimal were
+26%, your current debt ratio of 24% is closer to the optimal.
+ - Rating Differences: One of the costs of rating a company based only on the interest
+coverage ratio is that the rating might be very different from the actual rating. Thus, your
+current cost of capital is based upon your current rating, and the optimal is based upon
+the synthetic ratings, and the two don't match, the current and the optimal cost of capital
+can be mismatched. You can get around this by switching to a synthetic rating for computing
+the current cost of capital (in the input sheet).
+ - Existing debt at low rates: I assume in the spreadsheet that existing debt gets refinanced at
+the new pre-tax cost of debt at each debt ratio. Consequently, if you have a lot of old debt on
+your books at much lower rates, the interest expense that I report will be much higher than
+your actual interest expense. This, in turn, can affect your interest coverage ratio and rating.
+This, too, you can fix by locking in debt at current rates in the input sheet.
+Q6: I am getting an optimal debt ratio at a mix where my cost  | Not necessarily. If you chose to build in indirect bankruptcy costs (an option on the input page),
+of capital is not minimized? Is something wrong? | your operating income also changes as your debt ratio changes. Since the objective ultimately is to 
+maximize firm value, it is possible that the net effect (lower cost of capital is good but it could be offset
+by lower operating income) is resulting in an optimal at a higher debt ratio.
+
+Sheet: Inputs
+In December 2017, Congress passed a major tax reform that not only lowered the tax rate for US companies but alao imposed limits on interst tax deductions for tax purposes. Starting in 2018, interest will be deductible, for tax purposes, only if it is less than 30% of taxable income. However, Congress in its wisdom has defined EBITDA as taxable income until 2022 and EBIT thereafter. I have added an option to the spreadsheet to allow you to incorporate this limit.  If you are working with a company outside the US, just set the option to constrain interest expenses to no and you should be ready to go.
+Inputs
+Please enter the name of the company you are analyzing: | Facebook
+Please enter the date that you are doing this analysis | 2018-01-01 00:00:00
+Financial Information | Output Summary
+Earnings before interest expenses, depreciation & amortization (EBITDA) | 19565 | Current | Optimal
+Depreciation and Amortization: | 2081 | Debt to Capital | 0.003790168765279534 | 0.2
+Capital Spending: | 5739 | Cost of capital | 0.07112430581901422 | 0.0667104
+Interest expense on debt: | 10 | Enterprise value | 515913.5210850558 | 571171.264101999
+Marginal tax rate to use for pre-tax cost of debt | 0.4 | Value per share | 190 | 209.01636142093167
+Current Bond Rating on debt (if available): | Aa2/AA | For details, check "Optimal Capital Structure" worksheet
+Enter the current pre-tax cost of debt for your company | 0.0322
+Market Information & information on debt
+Number of shares outstanding: | 2905.8
+Market price per share: | 190
+Unlevered Beta  | 0.9
+Beta of the stock: | 0.9020544779514114
+Cash and marketable securities = | 38289
+Book value of debt: | 0
+Can you estimate the market value of the interest bearing debt? | No
+If so, enter the market value of "interest bearing" debt:
+Do you want me to try and estimate market value of debt? | No
+If yes, enter the weighted average maturity of outstanding debt? | 7.922563637861438
+Do you have any operating leases? | Yes
+Interest deduction constraints
+Are there any restrictions on interest deductions for tax purposes? | No
+If yes, what earnings or operating measure is the restriction tied to? | EBITDA
+Enter the maximum percentage of that measure that is deductible | 0.3
+Indirect bankruptcy costs & ratings constraints (if any)
+Do you want to incorporate indirect bankruptcy costs into your optimal? | No
+If yes, specify the magnitude of your indirect bankruptcy costs | Medium
+General Market Data
+Current riskfree rate in the currency of analysis = | 0.0255
+Risk premium (for use in the CAPM) | 0.0508
+Country Default spread (for cost of debt) | 0
+General Data
+Which spread/ratio table would you like to use for your anlaysis? | 1
+Do you want to assume that existing debt is refinanced at the 'new' rate? | Yes | (Yes or No)
+Do you want the firm's current rating & cost of debt to be adjusted to the synthetic rating? | Yes | (Yes or No)
+
+Sheet: Marginal tax rate by country
+Country | 2017
+Afghanistan | 0.2
+Albania | 0.15
+Algeria | 0.26
+Andorra | 0.1
+Angola | 0.3
+Anguilla | 0
+Antigua and Barbuda | 0.25
+Argentina | 0.35
+Armenia | 0.2
+Aruba | 0.25
+Australia | 0.3
+Austria | 0.25
+Azerbaijan | 0.2
+Bahamas | 0
+Bahrain | 0
+Bangladesh | 0.25
+Barbados | 0.25
+Belarus | 0.18
+Belgium | 0.33990000000000004
+Benin | 0.3
+Bermuda | 0
+Bolivia | 0.25
+Bonaire, Saint Eustatius and Saba | 0.25
+Bosnia and Herzegovina | 0.1
+Botswana | 0.22
+Brazil | 0.34
+Brunei Darussalam | 0.185
+Bulgaria | 0.1
+Burkina Faso | 0.275
+Burundi | 0.3
+Cambodia | 0.2
+Cameroon | 0.33
+Canada | 0.265
+Cayman Islands | 0
+Chile | 0.255
+China | 0.25
+Colombia | 0.34
+Congo (Democratic Republic of the) | 0.35
+Costa Rica | 0.3
+Croatia | 0.2
+Curacao | 0.22
+Cyprus | 0.125
+Czech Republic | 0.19
+Denmark | 0.22
+Djibouti | 0.25
+Dominica | 0.25
+Dominican Republic | 0.27
+Ecuador | 0.22
+Egypt | 0.225
+El Salvador | 0.3
+Estonia | 0.2
+Ethiopia | 0.3
+Fiji | 0.2
+Finland | 0.2
+France | 0.3333
+Gabon | 0.3
+Gambia | 0.31
+Georgia | 0.15
+Germany | 0.2979
+Ghana | 0.25
+Gibraltar | 0.1
+Greece | 0.29
+Grenada | 0.3
+Guatemala | 0.25
+Guernsey | 0
+Honduras | 0.25
+Hong Kong SAR | 0.165
+Hungary | 0.09
+Iceland | 0.2
+India | 0.3
+Indonesia | 0.25
+Iraq | 0.15
+Ireland | 0.125
+Isle of Man | 0
+Israel | 0.24
+Italy | 0.24
+Ivory Coast | 0.25
+Jamaica | 0.25
+Japan | 0.3086
+Jersey | 0.2
+Jordan | 0.2
+Kazakhstan | 0.2
+Kenya | 0.3
+Korea, Republic of | 0.22
+Kuwait | 0.15
+Kyrgyzstan | 0.1
+Latvia | 0.15
+Lebanon | 0.15
+Libya | 0.2
+Liechtenstein | 0.125
+Lithuania | 0.15
+Luxembourg | 0.2708
+Macau | 0.12
+Macedonia | 0.1
+Madagascar | 0.2
+Malawi | 0.3
+Malaysia | 0.24
+Malta | 0.35
+Mauritius | 0.15
+Mexico | 0.3
+Moldova | 0.12
+Monaco | 0.3333
+Mongolia | 0.25
+Montenegro | 0.09
+Morocco | 0.31
+Mozambique | 0.32
+Myanmar | 0.25
+Namibia | 0.32
+Netherlands | 0.25
+New Zealand | 0.28
+Nicaragua | 0.3
+Nigeria | 0.3
+Norway | 0.24
+Oman | 0.15
+Pakistan | 0.31
+Palestinian Territory | 0.15
+Panama | 0.25
+Papua New Guinea | 0.3
+Paraguay | 0.1
+Peru | 0.295
+Philippines | 0.3
+Poland | 0.19
+Portugal | 0.21
+Qatar | 0.1
+Romania | 0.16
+Russia | 0.2
+Rwanda | 0.3
+Saint Kitts and Nevis | 0.33
+Saint Lucia | 0.3
+Saint Vincent and the Grenadines | 0.325
+Samoa | 0.27
+Saudi Arabia | 0.2
+Senegal | 0.3
+Serbia | 0.15
+Sierra Leone | 0.3
+Singapore | 0.17
+Sint Maarten (Dutch part) | 0.345
+Slovakia | 0.21
+Slovenia | 0.19
+Solomon Islands | 0.3
+South Africa | 0.28
+Spain | 0.25
+Sri Lanka | 0.28
+St Maarten | 0.345
+Sudan | 0.35
+Suriname | 0.36
+Swaziland | 0.275
+Sweden | 0.22
+Switzerland | 0.1777
+Syria | 0.28
+Taiwan | 0.17
+Tanzania | 0.3
+Thailand | 0.2
+Trinidad and Tobago | 0.25
+Tunisia | 0.25
+Turkey | 0.2
+Turkmenistan | 0.2
+Turks and Caicos Islands | 0
+Uganda | 0.3
+Ukraine | 0.18
+United Arab Emirates | 0.55
+United Kingdom | 0.19
+United States | 0.24
+Uruguay | 0.25
+Uzbekistan | 0.075
+Vanuatu | 0
+Venezuela | 0.34
+Vietnam | 0.2
+Yemen | 0.2
+Zambia | 0.35
+Zimbabwe | 0.25
+Africa average | 0.2821
+Americas average | 0.2566
+Asia average | 0.21280000000000002
+EU average | 0.2151
+Europe average | 0.1954
+Global average | 0.2425
+Latin America average | 0.2798
+North America average | 0.2375
+Oceania average | 0.2867
+OECD average | 0.2407
+South America average | 0.2798
+
+Sheet: Operating leases
+Operating Lease Converter
+Operating lease expenses are really financial expenses, and should be treated as such. Accounting standards allow them to
+be treated as operating expenses. This program will convert commitments to make operating leases into debt and
+adjust the operating income accordingly, by adding back the imputed interest expense on this debt.
+Inputs
+Operating lease expense in current year = | 269
+Operating Lease Commitments (From footnote to financials)
+Year | Commitment | ! Year 1 is next year, ….
+1 | 277
+2 | 284
+3 | 272
+4 | 256
+5 | 220
+6 and beyond | 1131
+Pre-tax Cost of Debt = | 0.030899999999999997 | ! If you do not have a cost of debt, use the attached ratings estimator
+From the current financial statements, enter the following
+Reported Operating Income (EBIT) = | 17484 | ! This is the EBIT reported in the current income statement
+Reported Interest Expenses = | 10
+Output
+Number of years embedded in yr 6 estimate = | 4 | ! I use the average lease expense over the first five years
+to estimate the number of years of expenses in yr 6
+Converting Operating Leases into debt
+Year | Commitment | Present Value
+1 | 277 | 268.6972548258803
+2 | 284 | 267.23003022682155
+3 | 272 | 248.26716509741752
+4 | 256 | 226.65943758786898
+5 | 220 | 188.9469921205499
+6 and beyond | 282.75 | 900.7202051972125 | ! Commitment beyond year 6 converted into an annuity for ten years
+Debt Value of leases = | 2100.521085055751
+Restated Financials
+Operating Income with Operating leases reclassified as debt = | 17519.60876832714
+Interest expenses with Operating leases classified as debt = | 74.90610152822269
+Depreciation with operating leases classified as debt = | 2314.391231672861
+
+Sheet: Default Spreads and Ratios
+Inputs for synthetic rating estimation
+Enter the type of firm = | 1 | (Enter 1 if large financial service firm, 2 if smaller financial service firm)
+Earnings before interest and taxes (EBIT) = | 17519.60876832714 | (Add back only long term interest expense for financial firms)
+Current interest expenses = | 74.90610152822269 | (Use only long term interest expense for financial firms)
+Current long term government bond rate = | 0.0255
+Output
+Interest  coverage ratio = | 233.88760609476122
+Estimated Bond Rating = | Aaa/AAA
+Estimated Default Spread = | 0.0053999999999999986
+Estimated Cost of Debt = | 0.030899999999999997
+For large manufacturing firms
+If interest coverage ratio is
+> | ≤ to | Rating is | Spread is | Drop in EBITDA
+-100000 | 0.199999 | D2/D | 0.18602500000000002 | 0
+0.2 | 0.649999 | C2/C | 0.13951875 | 0
+0.65 | 0.799999 | Ca2/CC | 0.1063 | 0
+0.8 | 1.249999 | Caa/CCC | 0.08636875000000001 | 0
+1.25 | 1.499999 | B3/B- | 0.04365625 | 0
+1.5 | 1.749999 | B2/B | 0.035718749999999994 | 0
+1.75 | 1.999999 | B1/B+ | 0.029765624999999997 | 0
+2 | 2.2499999 | Ba2/BB | 0.023812499999999997 | 0
+2.25 | 2.49999 | Ba1/BB+ | 0.01984375 | 0
+2.5 | 2.999999 | Baa2/BBB | 0.0127 | 0
+3 | 4.249999 | A3/A- | 0.011249999999999996 | 0
+4.25 | 5.499999 | A2/A | 0.009899999999999996 | 0
+5.5 | 6.499999 | A1/A+ | 0.008999999999999998 | 0
+6.5 | 8.499999 | Aa2/AA | 0.007199999999999998 | 0
+8.5 | 100000 | Aaa/AAA | 0.0053999999999999986 | 0
+For smaller and riskier firms
+If interest coverage ratio is
+greater than | ≤ to | Rating is | Spread is | Drop in EBITDA
+-100000 | 0.499999 | D2/D | 0.18602500000000002 | 0
+0.5 | 0.799999 | C2/C | 0.13951875 | 0
+0.8 | 1.249999 | Ca2/CC | 0.1063 | 0
+1.25 | 1.499999 | Caa/CCC | 0.08636875000000001 | 0
+1.5 | 1.999999 | B3/B- | 0.04365625 | 0
+2 | 2.499999 | B2/B | 0.035718749999999994 | 0
+2.5 | 2.999999 | B1/B+ | 0.029765624999999997 | 0
+3 | 3.499999 | Ba2/BB | 0.023812499999999997 | 0
+3.5 | 3.9999999 | Ba1/BB+ | 0.01984375 | 0
+4 | 4.499999 | Baa2/BBB | 0.0127 | 0
+4.5 | 5.999999 | A3/A- | 0.011249999999999996 | 0
+6 | 7.499999 | A2/A | 0.009899999999999996 | 0
+7.5 | 9.499999 | A1/A+ | 0.008999999999999998 | 0
+9.5 | 12.499999 | Aa2/AA | 0.007199999999999998 | 0
+12.5 | 100000 | Aaa/AAA | 0.0053999999999999986 | 0
+
+Sheet: Optimal Capital Structure
+Facebook
+2018-01-01 00:00:00 | Drivers of the optimal debt ratio
+Capital Structure | Financial Market | Income Statement | Marginal tax rate = | 0.4
+Current MV of Equity = | 552102 | Current Beta for Stock = | 0.9020544779514114 | Current EBITDA = | 19834 | EBITDA/ Enterprise value = | 0.03844442758213751
+Market Value of interest-bearing debt = | 0 | Current Bond Rating = | Aa2/AA | Current Depreciation = | 2314.391231672861 | EBIT/ Enterprise value = | 0.033958421425901684
+# of Shares Outstanding = | 2905.8 | Summary of Inputs | Current Tax Rate = | 0.4 | Unlevered beta = | 0.9
+Debt Value of Operating leases = | 2100.521085055751 | Long Term Government Bond Rate = | 0.0255 | Current Capital Spending= | 5739
+Equity Risk Premium = | 0.0508 | Pre-tax cost of debt = | 0.0322 | Current Interest Expense = | 74.90610152822269
+RESULTS FROM ANALYSIS
+Current | Optimal | Change
+D/(D+E) Ratio = | 0.003790168765279534 | 0.2 | 0.19620983123472047
+Implied Growth Rate Calculation
+Beta for the  Stock = | 0.9020544779514114 | 1.035 | 0.13294552204858856 | Enterprise value = | 515913.5210850558
+Cost of Equity    = | 0.07132436747993169 | 0.078078 | 0.006753632520068303 | Current WACC = | 0.07112430581901422
+Rating on Debt | Aa2/AA | Current FCFF = | 7087.156492669146 | ! I am ignoring working capital
+After-tax cost of Debt = | 0.018539999999999997 | 0.021239999999999995 | 0.0026999999999999975 | Implied Growth Rate = | 0.05660955296324416
+If this number is >your riskfree rate, I use the riskfree rate as a perpetual growth rate.
+WACC | 0.07112430581901422 | 0.0667104 | -0.004413905819014213
+Implied Growth Rate = | 0.0255
+Assumes perpeutal growth | Enterprise value  | 515913.5210850558 | 571171.264101999 | 55257.74301694322
+Value/share (Perpetual Growth) = | 190 | 209.01636142093167 | 19.016361420931673
+We use the following default spreads in our analysis. Change them in the input sheet if necessary: | Ratings comparison at current debt ratio
+Rating | Coverage gt | and lt | Spread | Drop in EBITDA | Current Interest coverage ratio = | 233.88760609476122
+AAA | 8.5 | 100000 | 0.0053999999999999986 | 0 | Rating based upon coverage = | Aaa/AAA
+AA | 6.5 | 8.499999 | 0.007199999999999998 | 0 | Interest rate based upon coverage = | 0.030899999999999997
+A+ | 5.5 | 6.499999 | 0.008999999999999998 | 0 | Current rating for company = | Aa2/AA
+A | 4.25 | 5.499999 | 0.009899999999999996 | 0 | Current interest rate on debt = | 0.0322
+A- | 3 | 4.249999 | 0.011249999999999996 | 0 | Drop in operating income based on current rating | 0
+BBB | 2.5 | 2.999999 | 0.0127 | 0
+BB | 2 | 2.2499999 | 0.023812499999999997 | 0
+B+ | 1.75 | 1.999999 | 0.029765624999999997 | 0
+B | 1.5 | 1.749999 | 0.035718749999999994 | 0
+B- | 1.25 | 1.499999 | 0.04365625 | 0
+CCC | 0.8 | 1.249999 | 0.08636875000000001 | 0
+CC | 0.65 | 0.799999 | 0.1063 | 0
+C | 0.2 | 0.649999 | 0.13951875 | 0
+D | -100000 | 0.199999 | 0.18602500000000002 | 0
+Current beta= | 0.9020544779514114 | Current Equity= | 552102 | Current Depreciation= | 2314.391231672861
+Current  Debt= | 2100.521085055751 | Current EBITDA= | 19834 | Current Interest rate (Company)= | 0.030899999999999997
+Tax rate= | 0.4 | Current Rating= | Aa2/AA | Current T.Bond rate= | 0.0255
+Enterprise value = | 515913.5210850558 | Adjusted EBITDA = | 19834
+WORKSHEET FOR ESTIMATING RATINGS/INTEREST RATES
+D/(D+E) | 0 | 0.1 | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 | 0.8 | 0.9
+D/E | 0 | 0.11111111111111112 | 0.25 | 0.4285714285714286 | 0.6666666666666667 | 1 | 1.4999999999999998 | 2.333333333333333 | 4.000000000000001 | 9.000000000000002
+$ Debt | 0 | 55420.25210850558 | 110840.50421701116 | 166260.75632551673 | 221681.0084340223 | 277101.2605425279 | 332521.51265103347 | 387941.76475953904 | 443362.0168680446 | 498782.2689765502
+Beta | 0.9 | 0.96 | 1.035 | 1.1871936797628715 | 1.3850592930566834 | 1.66207115166802 | 2.077588939585025 | 2.7701185861133664 | 4.230991063223226 | 8.461982126446452
+Cost of Equity | 0.07121999999999999 | 0.074268 | 0.078078 | 0.08580943893195386 | 0.09586101208727951 | 0.10993321450473541 | 0.13104151813091927 | 0.166222024174559 | 0.24043434601173988 | 0.4553686920234798
+% Drop in EBITDA | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+EBITDA | 19834 | 19834 | 19834 | 19834 | 19834 | 19834 | 19834 | 19834 | 19834 | 19834
+Depreciation | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861
+EBIT | 17519.60876832714 | 17519.60876832714 | 17519.60876832714 | 17519.60876832714 | 17519.60876832714 | 17519.60876832714 | 17519.60876832714 | 17519.60876832714 | 17519.60876832714 | 17519.60876832714
+Interest | 0 | 1712.4857901528221 | 3923.753849282194 | 27436.142182891363 | 36581.52291052182 | 45726.903638152275 | 54872.284365782725 | 64017.66509341318 | 93782.15061801314 | 105504.9194452648
+Taxable Income | 17519.60876832714 | 15807.122978174317 | 13595.854919044945 | -9916.533414564223 | -19061.914142194677 | -28207.294869825135 | -37352.675597455585 | -46498.05632508604 | -76262.54184968601 | -87985.31067693766
+Tax | 7007.8435073308565 | 6322.849191269727 | 5438.341967617978 | -3966.6133658256895 | -7624.765656877871 | -11282.917947930055 | -14941.070238982235 | -18599.222530034418 | -30505.016739874405 | -35194.124270775064
+Net Income | 10511.765260996282 | 9484.273786904589 | 8157.5129514269665 | -5949.920048738533 | -11437.148485316806 | -16924.37692189508 | -22411.605358473353 | -27898.833795051625 | -45757.5251098116 | -52791.1864061626
+(+)Deprec'n | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861 | 2314.391231672861
+Funds from Op. | 12826.156492669143 | 11798.665018577449 | 10471.904183099829 | -3635.5288170656722 | -9122.757253643944 | -14609.98569022222 | -20097.214126800493 | -25584.442563378765 | -43443.13387813874 | -50476.79517448974
+Pre-tax Int. cov | ∞ | 10.23051336780067 | 4.465012190184191 | 0.638559483018426 | 0.4789196122638195 | 0.3831356898110556 | 0.319279741509213 | 0.27366834986503974 | 0.18681176165053803 | 0.16605489924492267
+Funds/Debt | ∞ | 0.2128944667281053 | 0.09447723336405268 | -0.021866427757298204 | -0.04115263331797365 | -0.05272435665437893 | -0.06043883887864911 | -0.06594918332455638 | -0.09798569165898684 | -0.10120005925243276
+Likely Rating | Aaa/AAA | Aaa/AAA | A2/A | C2/C | C2/C | C2/C | C2/C | C2/C | D2/D | D2/D
+Pre-tax cost of debt | 0.030899999999999997 | 0.030899999999999997 | 0.035399999999999994 | 0.16501875 | 0.16501875 | 0.16501875 | 0.16501875 | 0.16501875 | 0.21152500000000002 | 0.21152500000000002
+Tax rate for debt (deduction constraint) | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4
+Tax rate for debt tax benefits (Interest limits) | 0.4 | 0.4 | 0.4 | 0.2554237932073704 | 0.1915678449055278 | 0.15325427592442226 | 0.1277118966036852 | 0.1094673399460159 | 0.07472470466021526 | 0.06642195969796912
+Tax rate to use in after-tax cost of debt | 0.4 | 0.4 | 0.4 | 0.2554237932073704 | 0.1915678449055278 | 0.15325427592442226 | 0.1277118966036852 | 0.1094673399460159 | 0.07472470466021526 | 0.06642195969796912
+COST OF CAPITAL CALCULATIONS
+D/(D+E) | 0 | 0.1 | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 | 0.8 | 0.9
+D/E | 0 | 0.11111111111111112 | 0.25 | 0.4285714285714286 | 0.6666666666666667 | 1 | 1.4999999999999998 | 2.333333333333333 | 4.000000000000001 | 9.000000000000002
+$ Debt | 0 | 55420.25210850558 | 110840.50421701116 | 166260.75632551673 | 221681.0084340223 | 277101.2605425279 | 332521.51265103347 | 387941.76475953904 | 443362.0168680446 | 498782.2689765502
+Cost of equity | 0.07121999999999999 | 0.074268 | 0.078078 | 0.08580943893195386 | 0.09586101208727951 | 0.10993321450473541 | 0.13104151813091927 | 0.166222024174559 | 0.24043434601173988 | 0.4553686920234798
+Cost of debt | 0.018539999999999997 | 0.018539999999999997 | 0.021239999999999995 | 0.12286903492466124 | 0.13340646369349593 | 0.13972892095479675 | 0.1439438924623306 | 0.1469545863962834 | 0.19571885684674797 | 0.19747509497488708
+Cost of Capital | 0.07121999999999999 | 0.0686952 | 0.0667104 | 0.09692731772976607 | 0.11087919272976608 | 0.12483106772976607 | 0.13878294272976607 | 0.15273481772976608 | 0.20466195467974635 | 0.22326445467974634
+0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Value (perpetual growth) | 514833.68902338203 | 544926.2015721428 | 571171.264101999 | 329540.531694079 | 275690.0775186506 | 236967.11210419663 | 207782.3518258955 | 184998.07428609504 | 131379.43434600148 | 119021.36964029282
+Interest cov | Interest cov | RATING | Interest rate | Drop in
+Low | High | EBITDA
+-100000 | 0.199999 | D2/D | 0.21152500000000002 | 0
+0.2 | 0.649999 | C2/C | 0.16501875 | 0
+0.65 | 0.799999 | Ca2/CC | 0.1318 | 0
+0.8 | 1.249999 | Caa/CCC | 0.11186875 | 0
+1.25 | 1.499999 | B3/B- | 0.06915625 | 0
+1.5 | 1.749999 | B2/B | 0.06121874999999999 | 0
+1.75 | 1.999999 | B1/B+ | 0.055265625 | 0
+2 | 2.2499999 | Ba2/BB | 0.049312499999999995 | 0
+2.25 | 2.49999 | Ba1/BB+ | 0.04534375 | 0
+2.5 | 2.999999 | Baa2/BBB | 0.0382 | 0
+3 | 4.249999 | A3/A- | 0.03674999999999999 | 0
+4.25 | 5.499999 | A2/A | 0.035399999999999994 | 0
+5.5 | 6.499999 | A1/A+ | 0.034499999999999996 | 0
+6.5 | 8.499999 | Aa2/AA | 0.03269999999999999 | 0
+8.5 | 100000 | Aaa/AAA | 0.030899999999999997 | 0
+
+Sheet: Repurchase price Worksheet
+Stock price buyback effect
+Current Stock price = | 190
+# Shares outstanding before buyback = | 2905.8
+Expected buyback price = | 67.71 | Enter this number
+Current Debt = | 2100.521085055751
+Debt at Optimal = | 110840.50421701116
+New Debt issued = | 108739.9831319554
+# Shares bought back = | 1605.9663732381541
+Shares outstanding after buyback = | 1299.833626761846
+Enterprise value after buyback = | 571171.264101999
+ + Cash | 38289
+ - Debt | 110840.50421701116
+Equity value after buyback  | 498619.75988498784
+/ Number of shares after buyback | 1299.833626761846
+Value per share for remaining shares | 383.6027547057331
+
+Sheet: Summary Table
+Debt Ratio | Beta | Cost of Equity | Bond Rating | Interest rate on debt | Tax Rate | Cost of Debt (after-tax) | WACC | Enterprise Value
+0 | 0.9 | 0.07121999999999999 | Aaa/AAA | 0.030899999999999997 | 0.4 | 0.018539999999999997 | 0.07121999999999999 | 514833.68902338203
+0.1 | 0.96 | 0.074268 | Aaa/AAA | 0.030899999999999997 | 0.4 | 0.018539999999999997 | 0.0686952 | 544926.2015721428
+0.2 | 1.035 | 0.078078 | A2/A | 0.035399999999999994 | 0.4 | 0.021239999999999995 | 0.0667104 | 571171.264101999
+0.3 | 1.1871936797628715 | 0.08580943893195386 | C2/C | 0.16501875 | 0.2554237932073704 | 0.12286903492466124 | 0.09692731772976607 | 329540.531694079
+0.4 | 1.3850592930566834 | 0.09586101208727951 | C2/C | 0.16501875 | 0.1915678449055278 | 0.13340646369349593 | 0.11087919272976608 | 275690.0775186506
+0.5 | 1.66207115166802 | 0.10993321450473541 | C2/C | 0.16501875 | 0.15325427592442226 | 0.13972892095479675 | 0.12483106772976607 | 236967.11210419663
+0.6 | 2.077588939585025 | 0.13104151813091927 | C2/C | 0.16501875 | 0.1277118966036852 | 0.1439438924623306 | 0.13878294272976607 | 207782.3518258955
+0.7 | 2.7701185861133664 | 0.166222024174559 | C2/C | 0.16501875 | 0.1094673399460159 | 0.1469545863962834 | 0.15273481772976608 | 184998.07428609504
+0.8 | 4.230991063223226 | 0.24043434601173988 | D2/D | 0.21152500000000002 | 0.07472470466021526 | 0.19571885684674797 | 0.20466195467974635 | 131379.43434600148
+0.9 | 8.461982126446452 | 0.4553686920234798 | D2/D | 0.21152500000000002 | 0.06642195969796912 | 0.19747509497488708 | 0.22326445467974634 | 119021.36964029282
+Debt Ratio | $ Debt | Interest Expense | Interest Coverage Ratio | Bond Rating | Pre-tax cost of debt | Tax rate | After-tax cost of debt
+0 | 0 | 0 | ∞ | Aaa/AAA | 0.030899999999999997 | 0.4 | 0.018539999999999997
+0.1 | 55420.25210850558 | 1712.4857901528221 | 10.23051336780067 | Aaa/AAA | 0.030899999999999997 | 0.4 | 0.018539999999999997
+0.2 | 110840.50421701116 | 3923.753849282194 | 4.465012190184191 | A2/A | 0.035399999999999994 | 0.4 | 0.021239999999999995
+0.3 | 166260.75632551673 | 27436.142182891363 | 0.638559483018426 | C2/C | 0.16501875 | 0.2554237932073704 | 0.12286903492466124
+0.4 | 221681.0084340223 | 36581.52291052182 | 0.4789196122638195 | C2/C | 0.16501875 | 0.1915678449055278 | 0.13340646369349593
+0.5 | 277101.2605425279 | 45726.903638152275 | 0.3831356898110556 | C2/C | 0.16501875 | 0.15325427592442226 | 0.13972892095479675
+0.6 | 332521.51265103347 | 54872.284365782725 | 0.319279741509213 | C2/C | 0.16501875 | 0.1277118966036852 | 0.1439438924623306
+0.7 | 387941.76475953904 | 64017.66509341318 | 0.27366834986503974 | C2/C | 0.16501875 | 0.1094673399460159 | 0.1469545863962834
+0.8 | 443362.0168680446 | 93782.15061801314 | 0.18681176165053803 | D2/D | 0.21152500000000002 | 0.07472470466021526 | 0.19571885684674797
+0.9 | 498782.2689765502 | 105504.9194452648 | 0.16605489924492267 | D2/D | 0.21152500000000002 | 0.06642195969796912 | 0.19747509497488708
+
+Sheet: Input choices page
+Rating is | Yes/No | IBC | Type of firm | Earnings/Operating Measure
+Aaa/AAA | Yes | High | 1
+Aa2/AA | No | Medium | 2 | EBITDA
+A1/A+ | Low | EBIT
+A2/A
+A3/A-
+Baa2/BBB
+Ba1/BB+
+Ba2/BB
+B1/B+
+B2/B
+B3/B-
+Caa/CCC
+Ca2/CC
+C2/C
+D2/D
+Not rated
+Rating is | Low IBC | Medium |  High IBC
+D2/D | -0.3 | -0.5 | -1
+Caa/CCC | -0.25 | -0.4 | -0.5
+Ca2/CC | -0.25 | -0.4 | -0.5
+C2/C | -0.25 | -0.4 | -0.5
+B3/B- | -0.15 | -0.25 | -0.3
+B2/B | -0.1 | -0.2 | -0.25
+B1/B+ | -0.1 | -0.2 | -0.25
+Ba2/BB | -0.1 | -0.2 | -0.25
+Ba1/BB+ | -0.1 | -0.2 | -0.25
+Baa2/BBB | -0.05 | -0.1 | -0.15
+A3/A- | 0 | -0.02 | -0.05
+A2/A | 0 | 0 | -0.02
+A1/A+ | 0 | 0 | 0
+Aa2/AA | 0 | 0 | 0
+Aaa/AAA | 0 | 0 | 0

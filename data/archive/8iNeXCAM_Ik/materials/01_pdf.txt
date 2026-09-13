@@ -1,0 +1,150 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/BitcoinAsset.pdf
+
+THE	BITCOIN	BOOM:	ASSET ,	
+COMMODITY ,	CURRENCY	OR	
+COLLECTIBLE?
+Value	vs.	Price,	Trade	vs	Invest
+2
+To	Infinity	and	Beyond:	Bitcoin’s	Boom	
+Continues
+3
+Classifying	Investments
+1. Cash	flow	generating	assets:	Generate	cash	flows	now	
+or	are	expected	to	do	so	in	the	future.	Can	be	a	fixed	
+cash	flow	claim,	a	residual	claim	or	a	contingent	claim.
+2. Commodities:	Used	as	raw	material	to	meet	another	
+need	(energy,	food	etc.).
+3. Currencies:	Measure	of	cash	flows,	medium	of	
+exchange	or	store	of	value.
+4. Collectibles:	May	have	aesthetic	or	emotional	value	but	
+derives	its	pricing	from	its	scarcity	(supply)	and	the	
+perception	of	others	that	it	is	wanted.
+4
+Value	versus	Price
+To	value To price
+Assets Can	be	valued	based	upon
+expected	cashflows,	with	
+higher	cashflows &	lower	
+risk	=	higher	value.
+Can	be	priced	against	
+similar	assets,	after	
+controlling for	cash	flows	
+and	risk.
+Commodity Can	be	value	based	upon	
+utilitarian	demand	and	
+supply,	but	with	long	lags
+in	both.
+Can	be priced	against	its	
+own	history	(normalized	
+price	over	time)
+Currency Cannot	be	value Can	be priced	against	
+other	currencies,	with	
+greater	acceptance	&	more	
+stable	purchasing	power	=	
+higher	price.
+Collectible Cannot	be	value Can	be	priced based	upon	
+scarcity	and	desirability.
+5
+Trading	versus	Investing
+The	Pricing	Game The	Value	Game
+Underlying	philosophy
+The	price	is	the	only	real	number	that	you	can	act	on.	No	one	
+knows	what	the	value	of	an	asset	is	and	estimating	it	is	of	little	
+use.
+Every	asset	has	a	fair	or	true	value.	You	can	estimate	that	value,	
+albeit	with	error,	and	price	has	to	converge	on	value	(eventually).
+To	play	the	game
+You	try	to	guess	which	direction	the	price	will	move	in	the	next	
+period(s)	and	trade	ahead	of	the	movement.	To	win	the	game,	you	
+have	to	be	right	more	often	than	wrong	about	direction	and	to	
+exit	before	the	winds	shift.
+You	try	to	estimate	the	value	of	an	asset,	and	if	it	is	under(over)	
+value,	you	buy	(sell)	the	asset.	To	win	the	game,	you	have	to	be	
+right	about	value	(for	the	most	part)	and	the	market	price	has	to	
+move	to	that	value
+Key	drivers Price	is	determined	by	demand	&amp;	supply,	which	in	turn	are	
+affected	by	mood	and	momentum. Value	is	determined	by	cash	flows,	growth	and	risk.
+Information	effect
+Incremental	information	(news,	stories,	rumors)	that	shifts	the	
+mood	will	move	the	price,	even	if	it	has	no	real	consequences	for	
+long	term	value.
+Only	information	that	alter	cash	flows,	growth	and	risk	in	a	
+material	way	can	affect	value.
+Tools	of	the	game (1)	Technical	indicators,	(2)	Price	Charts	(3)	Investor	Psychology (1)	Ratio	analysis,	(2)	DCF	Valuation	(3)	Accounting	Research
+Time	horizon Can	be	very	short	term	(minutes)	to	mildly	short	term	(weeks,	
+months). Long	term
+Key	skill Be	able	to	gauge	market	mood/momentum	shifts	earlier	than	the	
+rest	of	the	market. Be	able	to	“value”	assets,	given	uncertainty.
+Key	personality	traits (1)	Market	amnesia	(2)	Quick	Actiing	(3)	Gambling	Instincts (1)	Faith	in	“value”	(2)	Faith	in	markets	(3)	Patience	(4)	Immunity	
+from	peer	pressure
+Biggest	Danger(s) Momentum	shifts	can	occur	quickly,	wiping	out	months	of	profits	
+in	a	few	hours. The	price	may	not	converge	on	value,	even	if	your	value	is	“right”.
+Added	bonus Capacity	to	move	prices	(with	lots	of	money	and	lots	of	followers). Can	provide	the	catalyst	that	can	move	price	to	value.
+Most	Delusional	Player A	trader	who	thinks	he	is	trading	based	on	value. A	value	investor	who	thinks	he	can	reason	with	markets.
+6
+What	is	Bitcoin?
+¨ Bitcoin	is	not	an	asset,	since	it	does	not	generate	cash	
+flows	standing	alone	for	those	who	hold	it	(until	you	sell	
+it)	and	it	is	not	a	commodity,	because	it	is	not	raw	
+material	that	can	be	used	in	the	production	of	
+something	useful.	
+¨ The	choice	then	becomes	whether	it	is	a	currency	or	a	
+collectible,	with	its	supporters	tilting	towards	the	former	
+and	its	detractors	the	latter .
+¨ Bitcoin	is	a	currency,	but	it	is	not	a	good	one	yet,	insofar	
+as	it	has	only	limited	acceptance	as	a	medium	of	
+exchange	and	it	is	too	volatile	to	be	a	store	of	value.
+7
+Three	Currency	Pathways	for	Bitcoin
+¨ The	Global	Digital	Currency:	In	the	best	case	scenario,	Bitcoin	gains	wide	
+acceptance	in	transactions	across	the	world,	becoming	a	widely	used	global	digital	
+currency.	If	that	happens,	it	could	compete	with	fiat	currencies	and	given	the	
+algorithm	set	limits	on	its	creation,	its	high	price	could	be	justified.
+¨ Gold	for	Millennials:	In	this	scenario,	Bitcoin	becomes	a	haven	for	those	who	do	
+not	trust	central	banks,	governments	and	fiat	currencies.	In	short,	it	takes	on	the	
+role	that	gold	has,	historically,	for	those	who	have	lost	trust	in	or	fear	centralized	
+authority.	If	this	scenario	unfolds,	and	Bitcoin	shows	the	same	staying	power	as	
+gold,	it	will	behave	like	gold	does,	rising	during	crises	and	dropping	in	more	
+sanguine	time	periods.	
+¨ The	21st	Century	Tulip	Bulb:	In	this,	the	worst	case	scenario,	Bitcoin	is	like	a	
+shooting	star,	attracting	more	money	as	it	soars,	from	those	who	see	it	as	a	source	
+of	easy	profits,	but	just	as	quickly	flares	out	as	these	traders	move	on	to	
+something	new	and	different.	If	this	happens,	Bitcoin	could	very	well	become	the	
+equivalent	of	Tulip	Bulbs,	a	speculative	asset	that	saw	its	prices	soar	in	the	sixteen	
+hundreds	in	Holland,	before	collapsing	in	the	aftermath.
+8
+Reality	Checks
+¨ Bitcoin	is	not	an	asset	class:	To	those	who	are	carving	out	a	portion	of	their	
+portfolios	for	Bitcoin,	be	clear	about	why	you	are	doing	it.	It	is	not	because	you	
+want	to	a	diversified	portfolio	and	hold	all	asset	classes,	it	is	because	you	want	to	
+use	your	trading	skills	on	Bitcoin	to	supercharge	your	portfolio	returns.	
+¨ You	cannot	value	Bitcoin,	you	can	only	price	it:	Any	one	who	claims	to	value	
+Bitcoin	either	has	a	very	different	definition	of	value	than	I	do	or	is	just	making	up	
+stuff	as	he	or	she	goes	along.
+¨ It	will	be	judged	as	a	currency:	In	the	long	term,	the	price	that	you	attach	to	
+Bitcoin	will	depend	on	how	well	it	will	performs	as	a	currency.	If	it	is	accepted	
+widely	as	a	medium	of	exchange	and	is	stable	enough	to	be	a	store	of	value,	it	
+should	command	a	high	price.	
+¨ You	don't	invest	in	Bitcoin,	you	trade	it:	Since	you	cannot	value	Bitcoin,	you	don't	
+have	a	critical	ingredient	that	you	need	to	be	an	investor .	You	can	trade	Bitcoin	
+and	become	wealthy	doing	so,	but	it	is	because	you	are	a	good	trader .
+¨ Good	trader	ingredients:	To	be	a	successful	trader	in	Bitcoin,	you	need	to	
+recognize	that	moves	in	its	price	will	have	little	do	with	fundamentals,	everything	
+to	do	with	mood	and	momentum	and	big	price	shifts	can	happen	on	incremental	
+information.
+9
+What	next?
+¨ Would	I	buy	Bitcoin	at	$6,100?	
+¤ No,	but	not	because	I	believe	that	it	is	over	valued,	since	I	
+cannot	make	that	judgment	without	valuing	it	and	as	I	noted	
+before,	it	cannot	be	valued.	
+¤ It	is	because	I	am	not	and	never	have	been	a	good	trader	and,	as	
+a	consequence,	my	pricing	judgments	are	suspect.	
+¤ If	you	have	good	trading	instincts,	you	should	play	the	pricing	
+game,	as	long	as	you	recognize	that	it	is	a	game,	where	you	can	
+win	millions	or	lose	millions,	based	upon	your	calls	on	
+momentum.	
+n If	you	win	millions,	I	wish	you	the	best!	
+n If	you	lose	millions,	please	don't	let	paranoia	lead	you	to	
+blame	the	establishment,	banks	and	governments	for	why	you	
+lost.

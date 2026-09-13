@@ -1,0 +1,189 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/Slides/Session5B.pdf
+
+SESSION 5B: MORE ON 
+REGRESSION APPLICATIONS
+Session 5
+Looking for links!
+2
+1. Building a Regression
+¨While the mechanics of a simple or multiple regression always involve 
+finding independent variables to explain/predict a dependent variable, 
+the process by which you find those variables is important.
+¨In general, you can find the independent variables statistically by scanning 
+the data and finding variables purely based upon correlations with the 
+dependent variable.  
+¤While this approach works statistically, it has key problems. If you have enough data 
+and variables to work with, data mining can lead you to variables that provide high 
+R-squared and statistical significance, but there is little you are learning about the 
+past or gaining in terms of predictive value.
+¨A better approach is to start with intuition and/or a model that links the 
+independent variables to the dependent variable, and then running 
+regressions to see if the model holds. The plus is that if you find statistical 
+significance, you have a much better basis for analysis and prediction. The 
+minus is that the data might not back up your model, either because the 
+model does not hold or because the independent variables that you 
+picked at not good proxies.
+3
+An Example: PE Ratio Determinants
+¨To understand the fundamentals, start with a basic equity 
+discounted cash flow model. 
+¤With the dividend discount model,
+¤Dividing both sides by the current earnings per share,
+¨If this model is right, the PE ratio for a company should be 
+determined by three variables:
+¤Payout ratio, with higher payout ratios leading to higher PE
+¤Growth rate, with higher growth rates leading to higher PE
+¤Risk, with higher discount rates (r) leading to lower PE
+P0=DPS1
+r−gn
+P0
+EPS0
+=PE= Payout Ratio*(1+gn)
+r-gn
+AswathDamodaran
+3
+4
+Checking Linearity:  PE versus Expected EPS 
+Growth in January 2021
+Aswath Damodaran
+4
+5
+PE Ratio: Standard Regression for US stocks -
+January 2021
+Aswath Damodaran
+5
+The regression is run with 
+growth and payout entered as 
+absolute, i.e., 25% is entered 
+as 25)
+6
+Don’t fight the data: If a coefficient is not 
+significant, take it out…
+Aswath Damodaran
+6
+7
+If a coefficient has the wrong sign: The 
+Multicollinearity Problem
+Aswath Damodaran
+7
+8
+Improving R-Squared?
+¨Look for better proxies: In the regression, the variables used for 
+growth, risk and payout (the expected growth rate in earnings per 
+share, 2-year regression beta and a payout ratio from the most 
+recent year) may not be the best proxies for future values of each.
+¨Add more independent variables: You can add more independent 
+variables, but in doing so, you should start with a common sense 
+model of why. Otherwise, you run the risk of kitchen sink 
+regressions.
+¨Review outliers: In some cases, a few extreme outliers can alter 
+your R-squared, even with large samples. Capping the values or 
+removing the observations can help, with the caveat that you are 
+“messing” with the data.
+¨Change to a weighted least square regression: If there are some 
+observations that you believe should count for more than others in 
+your regression, you can try a weighted least square regression.
+9
+Data Mining, P-hacking and Other 
+Practices…
+¨Data mining refers to the practice of going through data 
+looking for variables that have high explanatory power and 
+presenting this as evidence of co-movement. While there is 
+nothing statistically wrong with this practice, researchers 
+should not attach economic or investing significance to 
+nonsense variables.
+¨P-hackingrefers to game playing with the data, changing time 
+periods or variable measurement modes, with the intent of 
+delivering p values and t statistics that are significant. 
+¨Finally, with large samples, statistical significance does not 
+always translate into economic significance. There are a lot 
+more ways of making money on paper (based on research 
+and statistical studies) than there are in practice.
+10
+2. A Non-linear Relationship: PEG Ratios 
+versus Growth
+11
+PEG versus ln(Expected Growth)
+Aswath Damodaran
+11
+12
+PEG Ratio Regression -US stocks
+January 2020
+Aswath Damodaran
+12
+13
+3. Sample sizes and Regressions
+¨In general, larger sample sizes are better than smaller ones, if 
+you want statistical significance and explanatory power. 
+¨In practice, there are times when you will have only small 
+samples, no matter how hard you try.  If you try to run a 
+multiple regression, and use ”too many” independent 
+variables, you may get a regression that looks good (on R-
+squared) but are useless in either explaining or predicting the 
+dependent variable.
+¨As a rule of thumb, 
+¤If your sample size is 10-15 observations, the best you can do is run a 
+simple regression
+¤For every additional 10-15 observations, you can add one more 
+independent variable.
+14
+An Example
+15
+4. Dummy Variable Regressions: Telecom 
+ADRs in 1997
+Company Name PE Growth
+PT Indosat ADR 7.8 0.06
+Telebras ADR 8.9 0.075
+Telecom Corporation of New Zealand ADR 11.2 0.11
+Telecom Argentina Stet - France Telecom SA ADR B 12.5 0.08
+Hellenic Telecommunication Organization SA ADR 12.8 0.12
+Telecomunicaciones de Chile ADR 16.6 0.08
+Swisscom AG ADR 18.3 0.11
+Asia Satellite Telecom Holdings ADR 19.6 0.16
+Portugal Telecom SA ADR 20.8 0.13
+Telefonos de Mexico ADR L 21.1 0.14
+Matav RT ADR 21.5 0.22
+Telstra ADR 21.7 0.12
+Gilat Communications 22.7 0.31
+Deutsche Telekom AG ADR 24.6 0.11
+British Telecommunications PLC ADR 25.7 0.07
+Tele Danmark AS ADR 27 0.09
+Telekomunikasi Indonesia ADR 28.4 0.32
+Cable & Wireless PLC ADR 29.8 0.14
+APT Satellite Holdings ADR 31 0.33
+Telefonica SA ADR 32.5 0.18
+Royal KPN NV ADR 35.7 0.13
+Telecom Italia SPA ADR 42.2 0.14
+Nippon Telegraph & Telephone ADR 44.3 0.2
+France Telecom SA ADR 45.2 0.19
+Korea Telecom ADR 71.3 0.44
+16
+The Lead In: Data Hypotheses
+¨Growth and PE: Companies with higher expected growth 
+should have higher PE ratios. In the table, the companies with 
+lower expected growth rates are trading at lower PE ratios.
+¨Risk and PE: Companies that are riskier should trade at lower 
+PE ratios. While these are all telecom firms, some are in 
+developed markets and others are in emerging markets, and 
+in 1997, emerging market companies were viewed as much 
+riskier than developed market  companies.
+¤I used a dummy variable to capture this, with emerging market 
+companies getting a value of one and developed market companies 
+getting a value of zero.
+¤Note that there are richer measures of country risk, like country risk 
+scores and sovereign ratings, which allows for more variation, but they 
+were not available in 1997.
+17
+PE, Growth and Risk
+Aswath Damodaran
+¨Dependent variable is:PE
+¨R squared = 66.2%R squared (adjusted) = 63.1%
+Variable Coefficient SE t-ratio Probability
+Constant 13.1151 3.471 3.78 0.0010
+Growth rate 121.223 19.27 6.29 ≤ 0.0001
+Emerging Market Dummy-13.853 3.606 -3.84 0.0009
+¨You can use this regression to get predicted values for 
+individual stocks. For instance, Indosathas an expected 
+growth rate of 6% and is an emerging market company:
+PE = 13.13 + 121.22 (.06) -13.85 (1) = 6.55
+At 7.8 times earnings, Indosatis expensive.

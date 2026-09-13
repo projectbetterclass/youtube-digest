@@ -1,0 +1,24 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/CoronaSafe.xlsx
+
+Sheet: Screening
+SAFETY (BUT YOU HAVE TO ADD A PRICING SCREEN)
+Screening Criteria
+1) Company Type: Public Company OR Public Investment Firm
+2) Market Capitalization [My Setting] [Latest] ($USDmm, Historical rate): is greater than 20000
+3) EBIT Margin % [LTM]: is greater than 25
+4) Total Revenues, 3 Yr CAGR % [LTM] (%): is greater than 10
+5) Industry Classifications: Real Estate (Primary) OR Industrials (Primary) OR Consumer Discretionary (Primary) OR Consumer Staples (Primary) OR Health Care (Primary) OR Information Technology (Primary) OR Communication Services (Primary) OR Utilities (Primary)
+6) Total Debt/EBITDA [LTM]: is less than 2 (Unreported data set to 0)
+7) Total Cash & ST Investments [Latest Annual] ($USDmm, Historical rate): is greater than 5000 (Unreported data set to 0)
+Company Name | Exchange:Ticker | Company Type | Market Capitalization [My Setting] [Latest] ($USDmm, Historical rate) | EBIT Margin % [LTM] | Total Revenues, 3 Yr CAGR % [LTM] (%) | Industry Classifications | Total Debt/EBITDA [LTM] | Total Cash & ST Investments [Latest Annual] ($USDmm, Historical rate)
+Microsoft Corporation (NasdaqGS:MSFT) | NasdaqGS:MSFT | Public Company | 1044690.6 | 36.7 | 14.7 | Information Technology (Primary) | 1.38 | 133832
+Facebook, Inc. (NasdaqGS:FB) | NasdaqGS:FB | Public Company | 426798 | 33.9 | 36.8 | Communication Services (Primary) | 0.357 | 54855
+Tencent Holdings Limited (SEHK:700) | SEHK:700 | Public Company | 440326.5 | 25.8 | 35.4 | Communication Services (Primary) | 1.64 | 26912.8
+Kweichow Moutai Co., Ltd. (SHSE:600519) | SHSE:600519 | Public Company | 183300 | 67.6 | 31.6 | Consumer Staples (Primary) | 0 | 16295.4
+Visa Inc. (NYSE:V) | NYSE:V | Public Company | 315437.9 | 66.9 | 13.8 | Information Technology (Primary) | 1.08 | 12074
+NVIDIA Corporation (NasdaqGS:NVDA) | NasdaqGS:NVDA | Public Company | 125919 | 26.1 | 16.5 | Information Technology (Primary) | 0.791 | 10897
+Keyence Corporation (TSE:6861) | TSE:6861 | Public Company | 69514.1 | 50.8 | 14.5 | Information Technology (Primary) | 0 | 7747
+Mastercard Incorporated (NYSE:MA) | NYSE:MA | Public Company | 212500.1 | 57.3 | 16.1 | Information Technology (Primary) | 0.902 | 7676
+Booking Holdings Inc. (NasdaqGS:BKNG) | NasdaqGS:BKNG | Public Company | 48347.4 | 35.5 | 11.9 | Consumer Discretionary (Primary) | 1.49 | 7310
+Wuliangye Yibin Co.,Ltd. (SZSE:000858) | SZSE:000858 | Public Company | 59364.7 | 44.9 | 25.5 | Consumer Staples (Primary) | 0 | 7118.7
+Lam Research Corporation (NasdaqGS:LRCX) | NasdaqGS:LRCX | Public Company | 27347.1 | 25.2 | 14.4 | Information Technology (Primary) | 1.65 | 5431.2

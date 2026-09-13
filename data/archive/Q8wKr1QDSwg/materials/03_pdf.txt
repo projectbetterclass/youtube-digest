@@ -1,0 +1,20 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session2soln.pdf
+
+Session	2:	Post	class	test	solutions	
+1. a.	$50	million.		Since	it	is	a	3-year	contract	and	the	services	will	be	spread	
+over	three	years,	I	would	record	one	third	of	the	transaction	revenues	this	
+year.	The	payment	schedule	is	irrelevant	(at	least	for	income	statements)	
+2. a,	b	and	e	are	cost	of	goods	sold,	and	c	&	d	are	other	operating	expenses.	
+Factory	maintenance,	labor	and	material	are	all	related	directly	to	products	
+that	are	sold.	Selling	and	G&A	expenses	are	not.	(Factory	maintenance	may	
+not	be	a	variable	cost,	but	it	is	still	part	of	cost	of	goods	sold).	
+3. c.	High	gross	profits,	low	operating	profits,	even	lower	net	profits.	Low	
+cost	of	goods	sold	should	translate	into	high	gross	profits,	but	high	selling	
+and	G&A	expenses	will	make	operating	profit	low,	and	high	interest	
+payments	on	debt	will	make	net	profit	even	lower.	
+4. d.	In	the	company’s	net	profits.	When	you	own	a	5%	stake	in	another	
+company,	the	profits	from	this	holding	will	show	up	in	the	income	statement	
+below	the	operating	income	line	and	thus	will	be	part	of	net	income.	
+6. d.	The	expense	will	show	up	infrequently	and	be	irregular.		If	an	expense	
+shows	up	every	year	or	at	regular	intervals,	it	is	part	of	the	company’s	
+business	operations	and	should	not	be	considered	extraordinary.

@@ -1,0 +1,249 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/session5Asoln.pdf
+
+Session 5A: Post Class Test Solutions 
+1. a. Correlation  
+  EV/Sales Pre-tax Operating Margin 
+EV/Sales 1.0000   
+Pre-tax Operating Margin 0.7866 1.0000 
+Covariance 
+  EV/Sales Pre-tax Operating Margin 
+EV/Sales 54.9521286  
+Pre-tax Operating Margin 1.52622042 0.06849944 
+EV to Sales and operating margin move together; when one is high, the other is as well. 
+As an investor, I am interested in buying cheap companies, and am looking for those that trade at 
+low EV to Sales ratios. That, therefore, becomes my dependent variable, with operating margin 
+becoming the variable that I hope to use to explain it. 
+Scatter Plot 
+ 
+Regression output 
+0
+5
+10
+15
+20
+25
+30
+-0.4 -0.2 0 0.2 0.4 0.6 0.8
+EV/Sales
+Pre-tax Operating Margin
+Scatter plot  (Pearson R = 0.78665, N = 13)
+Predicted versus Actual EV/Sales 
+Company Name EV/Sales 
+Pre-tax Operating 
+Margin Predicted EV/Sales Residual 
+Coca-Cola Consolidated, Inc. 
+(NasdaqGS:COKE) 
+0.72 4.90% 
+4.91 4.19 
+Jones Soda Co. (OTCPK:JSDA) 1.07 -24.62% -1.67 -2.74 
+NewAge, Inc. (NasdaqCM:NBEV) 1.41 -20.43% -0.73 -2.14 
+MOJO Organics, Inc. (OTCPK:MOJO) 1.46 -4.02% 2.92 1.46 
+Primo Water Corporation (TSX:PRMW) 1.69 5.67% 5.08 3.40 
+Reed's, Inc. (NasdaqCM:REED) 1.78 -23.90% -1.51 -3.29 
+The Alkaline Water Company Inc. 
+(NasdaqCM:WTER) 
+1.84 -29.93% 
+-2.85 -4.69 
+National Beverage Corp. (NasdaqGS:FIZZ) 3.60 20.19% 
+8.32 4.72 
+PepsiCo, Inc. (NasdaqGS:PEP) 3.60 15.76% 7.33 3.73 
+Keurig Dr Pepper Inc. (NasdaqGS:KDP) 5.36 24.52% 9.28 3.92 
+The Coca-Cola Company (NYSE:KO) 7.48 29.33% 10.36 2.88 
+Monster Beverage Corporation 
+(NasdaqGS:MNST) 
+11.37 34.98% 
+11.61 0.24 
+Greene Concepts, Inc. (OTCPK:INKW) 28.99 60.55% 17.31 -11.68 
+The companies that have actual EV/Sales that are lowest, relative to their predicted values, are 
+cheap.  
+Concerns 
+• Small sample size with outliers 
+• Scatter plot suggests relationship between EV to Sales and margin is non-linear
+• Residuals are not normally distributed 
+ 
+ 
+2. The results of the analysis of PBV against ROE are below. 
+Correlation       Covariance  
+ 
+The correlation is a positive number, but it is not statistically significant. 
+ 
+Regression 
+ 
+The regression has minimal explanatory power, with the F statistic, t statistic and p value all 
+indicating that ROE does not do a good job explaining differences in PBV ratios across 
+insurance companies. 
+ 
+Residual Analysis 
+Breusch-Pagan-Godfrey (BPG) test     
+Test Statistic 0.0181 p-value 0.89298 H0 (5%) 
+F 0.01768 p-value 0.89455   
+     
+White test (All cross-terms)     
+Test Statistic 0.18819 p-value 0.9102 H0 (5%) 
+F 0.09097 p-value 0.91313   
+     
+-10
+-5
+0
+5
+10
+15
+-40.00%-20.00% 0.00% 20.00% 40.00% 60.00% 80.00%
+Residuals
+Pre-tax Operating Margin
+Pre-tax Operating Margin  Residual Plot
+Normality Tests     
+Test Test Statistic p-value H0 (5%) 
+Shapiro-Wilk W 0.39315 0. Rejected 
+Shapiro-Francia 0.37605 0. Rejected 
+Anderson-Darling 15.34855 0. Rejected 
+Cramer-von Mises 3.09441 0.355 Cannot reject 
+Kolmogorov-Smirnov (Lilliefors) 0.32065 0. Rejected 
+D'Agostino Skewness 9.63576 0 Rejected 
+D'Agostino Kurtosis 7.17728 0. Rejected 
+D'Agostino Omnibus 144.36117 0 Rejected 
+Jarque-Bera 7,250.3238 0 Rejected 
+          
+     
+ 
+ 
+ 
+    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+ 
+ 
+ 
+    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+0
+10
+20
+30
+40
+50
+60
+70
+-5 To 0 0 To 5 5 To 1010 To 1515 To 2020 To 2525 and over
+No. of obs.
+Histogram for "Residuals"
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+-5 0 5 10 15 20 25 30
+Expected Value
+Residuals
+Normal Q-Q Plot -Residuals
+The residuals are not normally distributed, and there seems to be heteroskedasticity. 
+ 
+3. The results of the EP ratio against interest rates and unexpected inflation are below: 
+Correlation       
+R Earnings Yield T.Bond 
+Rate Unexpected Inflation  
+Earnings Yield 1     
+R Std Err       
+t       
+p-value (2-tailed)       
+T.Bond Rate 0.63253 1   
+R Std Err 0.01017     
+t 6.27285     
+p-value (2-tailed) 4.53895E-8     
+Unexpected Inflation  0.37748 0.05497 1 
+R Std Err 0.01453 0.0169   
+t 3.13114 0.42284   
+Earnings yield is positively correlated with both the T.Bond rate and unexpected inflation. In 
+other words, the EP ratio is higher (or PE ratio is lower) when interest rates are high and 
+inflation is higher than expected. Both pass the statistical significant test (t statistics are 6.27 
+and 3.13), but the T.Bond rate is more strongly correlated with Earnings Yield. 
+Regression 
+-5
+0
+5
+10
+15
+20
+25
+30
+0 0.5 1 1.5 2 2.5 3
+Residuals
+Predicted Y
+Residuals vs Predicted Y
+The F value suggests that the multiple regression has strong explanatory power, and the t 
+statistics and p values on the two variables (T.Bond rate and Unexpected inflation) backs up the 
+proposition that both variables are adding significant explanatory power. The R-squared, not 
+surprisingly, is solid 0.51, and since the sample size is decent (60 years), the adjusted R-squared 
+is very similar. 
+ 
+Stocks are priced higher, when interest rates are low and when inflation comes in below 
+expectations, and lower, when the interest rates are high and inflation is higher than expected. 
+ 
+4.  
+• The F value indicates that the multiple regression has strong explanatory power, and the t 
+statistics (p values) suggest that each variable adds to that explanatory power 
+significantly. You may be surprised that, given these findings, the R-squared is only 
+16.7%, but that seeming contradiction can be explained by the large sample size (>30,000 
+firms). With a sample that large, a low R-squared and statistical significance can go 
+together. 
+• The low R-squared indicates that even though the regression has statistical power, the 
+predictions based upon the regression will come with large standard error, yielding a 
+wide range for the predicted value. That said, here are some of the questions I would 
+have: 
+a. The sample size is big, but it is still a sample. What is the population and what 
+happened to the firms that did not make it into the sample? (Are there specific 
+characteristics on which these firms differ from those that were sampled?) 
+b. What is the process by which the independent variables were picked? (Are they based 
+upon an economic or common-sense model, or just picked based upon their statistical 
+power? Were other independent variables tried and rejected, before you settled on 
+these)
+c. This is a linear regression. Did you check, with a scatter plot, for the linearity 
+assumption? 
+d. How correlated are the independent variables, with each other? 
+e. Do the residuals pass the normality and homoskedasticity tests?  
+5.  
+• There is clearly multicollinearity in the data. Effective tax rates are positively correlated 
+with both return on capital and debt ratios and return on capital is negatively correlated 
+with debt ratios. I could look for other measures of tax rates that are less correlated or 
+remove it entirely, but from an overall predictive value basis, I feel that it is better to 
+leave the variables in the regression, not read too much into the individual coefficients, 
+but use the overall regression to make predictions. 
+• The residuals also have a mild positive skew, violating the normality assumption. It does 
+indicate that using this regression to make forecasts will yield more over estimation than 
+under estimation errors, but not by enough to redo or tweak the regression.

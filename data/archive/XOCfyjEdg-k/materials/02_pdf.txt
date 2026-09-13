@@ -1,0 +1,1287 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfexams/cffinals.pdf
+
+Practice finals Name: 
+1 
+ 
+ 
+ 
+ 
+CORPORATE FINANCE 
+FINAL EXAM: FALL 1992 
+1. You have been asked to analyze the capital structure of DASA Inc, and make 
+recommendations on a future course of action. DASA Inc. has 40 million shares outstanding, 
+selling at $20 per share and a debt-equity ratio (in market value terms) of 0.25. The beta of the 
+stock is 1.15, and the firm currently has a AA rating, with a corresponding market interest rate of 
+10%. The firm's income statement is as follows: 
+EBIT $150 million 
+Interest Exp. $ 20 million 
+Taxable Inc. $130 million 
+Taxes $  52 million 
+Net Income     $  78 million 
+The current riskfree rate is 8% and the market risk premium is 5.5%. 
+a. What is the firm's current weighted average cost of capital? (1 point) 
+b. The firm is proposing borrowing an additional $200 million in debt and repurchasing stock. If 
+it does so its rating will decline to A, with a market interest rate of 11%. What will the Weighted 
+average cost of capital be if they make this move? (1 point) 
+c. What will the new stock price be if they borrow $200 million and repurchase stock (assuming 
+rational investors)?   (1 point) 
+d. Now assume that the firm has another option to raise its debt/equity ratio (instead of 
+borrowing money and repurchasing stock). It has considerable capital expenditures planned for 
+the next year ($150 million). The company also pays $1 in dividends per share currently (Current 
+Stock Price=$20). If the company finances all its capital expenditures with debt and doubles its 
+dividend yield from the current level for the next year, what would you expect the debt/equity 
+ratio to be at the end of the next year. (3 points)
+Practice finals Name: 
+2 
+ 
+ 
+ 
+ 
+2a. RYBR Inc., an all-equity firm, has net income of $100 million currently and expects this 
+number to grow at 10% a year for the next three years. The firm's working capital increased by 
+$10 million this year and is expected to increase by the same dollar amount each of the next three 
+years. The depreciation is $50 million and is expected to grow 8% a year for the next three years. 
+Finally, the firm plans to invest $60 million in capital expenditure for each of the next three 
+years. The firm pays 60% of its earnings as dividends each year. RYBR has a cash balance 
+currently of $50. Assuming that the cash does not earn any interest, how much would you expect 
+to have as a cash balance at the end of the third year? (2 points) 
+ 
+b. Assume that RYBR had financed 20% of its reinvestment needs with debt, estimate the cash 
+balance at the end of the third year. ( 2 points) 
+c. Now assume that stockholders in RYBR are primarily corporations. They are exempt from 
+ordinary taxes on 85% of the dividends that they receive (Ordinary tax rate=30%), and pay 
+capital gains on price appreciation at a 20% rate. If RYBR pays a dividend of $2 per share, how 
+much would you expect the stock price change to be on the ex-dividend date? (2 points) 
+ 
+3. LOB Inc. is a firm with the following characteristics: 
+ 
+Year 1 2 3 After year 3 
+Growth rate in EPS 20% 16% 12% 6% 
+ROC 20% 20% 16% 12% 
+D/E 0% 10% 25% 50% 
+i NA 8% 8% 8% 
+Beta 1.40 1.25 1.15 1.00 
+The firm has EPS currently of $2.00. The tax rate is 40%. The current riskfree rate is 6.5%. The 
+tax rate is 40%. (The market risk premium is 5.5%) 
+a. What would you project the EPS and DPS to be for the next three years? (2 points) 
+b. What is the terminal price (at the end of the third year)? (2 points) 
+c. What is your best estimate for the DDM Value per share? (2 points)
+Practice finals Name: 
+3 
+ 
+ 
+ 
+ 
+Corporate Finance: Final Exam: Fall 1993 
+1. You are a corporate finance analyst at a management consulting firm, which has been 
+approached by a company for advice on its capital structure decisions. The company, Boston 
+Turkey Inc., has been in existence for only two years, and its stock is currently trading at $20 per 
+share (There are 100,000 shares outstanding.) The following are the most recent financial 
+statements of the company: 
+Income Statement 
+ 
+Revenues $ 1,000,000 
+- Expenses $ 400,000 
+- Depreciation $ 100,000 
+EBIT $ 500,000 
+- Interest Expense $ 100,000 
+Taxable Income $ 400,000 
+- Tax $ 160,000 
+Net Income $ 240,000 
+ 
+Balance Sheet 
+ 
+Assets  Liabilities  
+Property, Plant & Equipment $ 1,500,000 Accounts Payable $ 500,000 
+Land & Buildings $ 500,000 Long Term Debt $ 1,000,000 
+Current Assets$ 1,000,000 Equity $ 1,500,000  
+Total $ 3,000,000 Total $ 3,000,000 
+ 
+The debt is not traded, but its estimated market value is 125% of face (book) value. 
+ 
+Due to its limited history, the beta of the stock cannot be estimated from past prices. You do 
+have information about comparable listed firms and their betas -- 
+ 
+Firm 
+Kentucky Fried Chicken 
+Beta 
+1.05 
+Debt/Equity Ratio 
+20% 
+Hardee's 1.20 50% 
+Popeye's Fried Chicken 0.90 10%
+Practice finals Name: 
+4 
+ 
+ 
+ 
+Roy Rogers 1.35 70% 
+(The comparable firms all have the same tax rate as Boston Turkey). You can assume that the 
+market risk premium is 5.5%. 
+ 
+As general information, you have also collected data on interest coverage ratios, ratings 
+and interest rate spreads, and they are summarized below: 
+ 
+ 
+Rating Interest Cov. 
+Ratio gt. 
+and Cov. 
+Ratio lt. 
+Spread over 
+T-bond 
+AAA 9.65 ∞ 0.30% 
+AA 6.85 9.35 0.70% 
+A+ 5.65 6.849999 1.00% 
+A 4.49 5.649999 1.25% 
+A- 3.29 4.4899999 1.50% 
+BBB 2.76 3.2899999 2.00% 
+BB 2.17 2.7599999 2.50% 
+B+ 1.87 2.1699999 3.00% 
+B 1.57 1.8699999 4.00% 
+B- 1.27 1.5699999 5.00% 
+CCC 0.87 1.2699999 6.00% 
+CC 0.67 0.8699999 7.50% 
+C 0.25 0.6699999 9.00% 
+D -100000 0.2499999 12.00% 
+ 
+The treasury bill rate is 3.00% and the treasury bond rate is 6.25%. 
+a. What is the current cost of equity? 
+b. What is your best estimate of the current after-tax cost of debt? (The company is not rated 
+currently) 
+c. What is the current cost of capital?
+Practice finals Name: 
+5 
+ 
+ 
+ 
+ 
+As part of your analysis, you are examining whether Boston Turkey should borrow $500,000 
+and buy back stock. If it does so, its rating will drop to A-. 
+d. If it does so, what will the new cost of equity be? 
+e. How much will the stock price change if it borrows $500,000 and buys back stock? 
+ 
+2. Boston Turkey was so impressed with your grasp of capital structure basics that they have 
+come back to you for some advice on dividend policy. To save you the trouble of having to refer 
+back to page 1, the latest financial statements are reproduced on this page. 
+ 
+ Income Statement 
+Revenues $ 1,000,000 
+- Expenses $ 400,000 
+- Depreciation $ 100,000 
+EBIT $ 500,000 
+- Interest Expense $ 100,000 
+Taxable Income $ 400,000 
+- Tax $ 160,000 
+Net Income $ 240,000 
+ 
+Balance Sheet 
+ 
+Assets  Liabilities  
+Property, Plant & Equipment $ 1,500,000 Accounts Payable $ 500,000 
+Land & Buildings $ 500,000 Long Term Debt $ 1,000,000 
+Current Assets$ 1,000,000 Equity (100,000 shares) $ 1,500,000 
+Total $ 3,000,000 Total $ 3,000,000 
+Boston Turkey expects its revenues to grow 10% next year, and its expenses to remain at 40% of 
+revenues. The depreciation and interest expenses will remain unchanged at $100,000 next year. 
+The working capital, as a percentage of revenue, will remain unchanged next year. 
+The managers of Boston Turkey claim to have several projects available to choose 
+from next year, where they plan to invest the funds from operations, and suggest that the firm 
+really should not be paying dividends. The projects have the following characteristics  -- 
+Project Equity Investment Expected Annual CF to Equity Beta
+Practice finals Name: 
+6 
+ 
+ 
+ 
+ 
+A $ 100,000 12,500 1.00 
+B $ 100,000 14,000 1.50 
+C $   50,000 8,000 1.80 
+D $   50,000 12,000 2.00  
+The treasury bill rate is 3% and the treasury bond rate is 6.25%. The firm plans to finance 40% 
+of its future net capital expenditures (Cap Ex - Depreciation) and working capital needs with 
+debt. 
+a. How much can the company afford to pay in dividends next year? 
+b. Now asssume that the firm actually pays out $1.00 per share in dividends next year. The 
+current cash balance of the firm is $150,000. How much will the cash balance of the firm be at 
+the end of next year, after the payment of the dividend? 
+c. The average investor in Boston Turkey is a wealthy individual, who pays 40% in taxes on 
+ordinary income and only 28% on capital gains. How much would you expect the price to drop 
+on the ex-dividend day, if the company pays out $1 per share as dividend? 
+ 
+3. You are now trying to value Boston Turkey. For purposes of simplicity, the relevant 
+information about the company is reproduced here -- 
+ 
+Current Numbers: 
+Earnings per share = $ 2.40 Net Income = $240,000 
+Dividends per share = $ 1.00 Interest Expenses = $100,000 
+Market price per share = $ 20 Book Value of Debt = $1,000,000 
+Number of shares = 100,000 Book Value of Equity = $1,500,000 
+Market Value of Debt = 1,250,000 Tax Rate = 40% 
+Due to its limited history, the beta of the stock cannot be estimated from past prices. You do 
+have information about comparable listed firms and their betas -- 
+ 
+Firm 
+Kentucky Fried Chicken 
+Beta 
+1.05 
+Debt/Equity Ratio 
+20% 
+Hardee's 1.20 50% 
+Popeye's Fried Chicken 0.90 10% 
+Roy Rogers 1.35 70%
+Practice finals Name: 
+7 
+ 
+ 
+ 
+(The comparable firms all have a tax rate of 40%) 
+[ This is the same information you were given in problem 1. You can use the beta estimated from 
+that section in this problem.] 
+a. Assuming that these numbers are sustainable for the next three years, what is the expected 
+growth rate in earnings per share for this period? 
+b. The growth rate after year 3 is expected to be 6% forever. What will the price per share be at 
+the end of year 3? 
+c. What is the value per share using the dividend discount model?
+Practice finals Name: 
+8 
+ 
+ 
+ 
+Corporate Finance: Final Exam - Fall 1994  
+1. Jackson-Presley Inc.  is  a  small  company  in  the  business  of  producing  and selling 
+musical CDs and cassettes and it is also involved in promoting concerts. The company 
+last two reported income statements indicate that the company has done very well in the 
+last two years –  
+ Last Year Current Year 
+Revenues $ 100 million $150 million 
+- Cost of Goods Sold $ 40 million $ 60 million 
+- Depreciation & Amortization $ 10 million $ 13 million 
+Earnings before interest and taxes $ 50 million $ 85 million 
+Interest Expenses $ 0 $ 5 million 
+Taxable Income $ 50 million $ 80 million 
+Taxes $ 20 million $ 32 million 
+Net Income $ 30 million $ 48 million 
+The company's current balance sheet also provides an indication of the company's health: 
+Assets  Liabilities  
+Property, Plant & Equipment $ 100 million Current Liabilties $ 20 million 
+Land and Buildings $ 50 million Debt $ 60 million 
+Current Assets $ 50 million Equity $120 million 
+Total $ 200 million Total $200 million 
+Jackson-Presley's stock has been listed on the NASDAQ for the last two years and is 
+trading at twice the book value (of equity). There are 12 million shares outstanding. 
+Jackson-Presley derives 75% of its total market value from its record/CD business and 
+25% from the concert business. While the price data on the company is insufficient to 
+estimate a beta, the betas of comparable firms in these businesses is as follows – 
+Comparable Firms 
+Business Average Beta Average D/E Ratio 
+Record/CD Business 1.15 50.00% 
+General Information 
+The current treasury bond rate is 8.00%. All the questions in this exam relate to the 
+company described in problem 1. You can use information across problems.
+Practice finals Name: 
+9 
+ 
+ 
+ 
+Concert Business 1.20 10.00% 
+(You can assume that these companies have 40% tax rates) 
+The debt is composed of ten-year bonds, and is rated A (Typical A rated bonds are 
+yielding 10% currently in the market). 
+a. Estimate the market value of the debt. (2 points) 
+b. Estimate the current cost of equity. ( 3 points) 
+c. Estimate the current weighted average cost of capital.       ( 1 point) 
+d. If the treasury bond rate were to rise to 9%, make your best estimate of the new cost of 
+capital. (2 points) 
+ 
+2. Jackson-Presley, in the latest year, had a dividend payout ratio of 25%. The firm has 
+asked you for some advice on whether it should maintain this payout ratio. The income 
+statements for the current year and the current balance sheet are reproduced below – 
+Current Year 
+Revenues $150 million 
+- Cost of Goods Sold $ 60 million 
+- Depreciation & Amortization $ 13 million 
+Earnings before interest and taxes $ 85 million 
+Interest Expenses $ 5 million 
+Taxable Income $ 80 million 
+Taxes $ 32 million 
+Net Income $ 48 million 
+The company's last balance sheet also provides an indication of the company's health – 
+ 
+Assets  Liabilities  
+Property, Plant & Equipment $ 100 million Current Liabilties $ 20 million 
+Land and Buildings $ 50 million Debt $ 60 million 
+Current Assets $ 50 million Equity $120 million 
+Total $ 200 million Total $ 200  
+million
+Practice finals Name: 
+10 
+ 
+ 
+ 
+• The equity is trading in the market at two times the book value. The debt is composed 
+of ten-year bonds, and is rated A (Typical A rated bonds are yielding 10% currently  
+in the market). 
+• Assume that Jackson-Presley intends to maintain its working capital at the same 
+percentage of revenues for the next year, as it has this year. 
+• Also assume that the following is the listing of the major investment opportunities 
+that Jackson-Presley has for the next year. 
+Project Total Investment IRR on project 
+(using CF to Equity) 
+Beta (Levered) 
+A $ 15 million 16% 1.60 
+B $ 30 million 15% 1.25 
+C $ 25 million 12.5% 1.0 
+D $ 20 million 11.5% 0.5 
+a. If revenues, net income and depreciation are all expected to grow 20% next year, and 
+the firm maintains its existing debt financing mix (in market value terms), how much 
+can the firm afford to pay out as dividends after meeting working capital and capital 
+budgeting needs? ( 5 points) 
+b. The company's current cash balance is $10 million. What will happen to this cash 
+balance if Jackson-Presley maintains its payout ratio at 25% next year?   (1 point) 
+ 
+3. The managers at Jackson-Presley also believe that they are significantly undervalued, 
+and want you to estimate how much the equity in the firm is truly worth. They provide 
+you with the following additional information – 
+• They believe that they can maintain 'high growth' for the next five years. 
+• The beta calculated, using comparable firms, in problem 1b, is a good estimate of the 
+beta for the next five years. 
+• The dividend payout ratio will be maintained at 25% for the high-growth period. 
+• The current (from the current income statement and balance sheet) return on capital, 
+debt equity ratio and interest rate will be maintained for the high growth period. (The 
+book value of equity at the beginning of the year was $ 100 million but the book 
+value of debt is unchanged…)
+Practice finals Name: 
+11 
+ 
+ 
+ 
+• There are 12 million shares outstanding. 
+• After the high-growth period, the earnings growth rate is expected to drop to 6%, and 
+the firm's return on capital will also drop to 15%. The debt equity ratio and interest 
+rate are expected to remain unchanged. The beta is expected to be 1.00 in the stable 
+growth period. 
+a. Estimate the expected growth rate in the high growth period. ( 2 points) 
+b. Estimate the expected dividends in the high growth period. (1 point) 
+c. Estimate the expected payout ratio in the stable growth phase. (2 points) 
+d. Estimate the terminal price (at the end of the high-growth period) (2 points) 
+e. Estimate the value today from the dividend discount model. (1 point) 
+ 
+4. Jackson-Presley is now planning a major restructuring involving the following actions 
+• A division, producing records and cassettes, will be sold for $ 50 million. That 
+division is currently earning $ 5 million before interest and taxes. As mentioned in 
+problem 1, comparable firms in this business have an average beta of 1.15 and an 
+average debt/equity ratio of 50%. 
+• The cash from the sale of the divisions will be used to buy back stock. 
+• The dividend payout ratio will be reduced to 15%. 
+a. Estimate the new growth rate in earnings, after the restructuring, using fundamentals. 
+(4 points) 
+b. Estimate the new cost of equity for Jackson-Presley after the restructuring. (4 points)
+Practice finals Name: 
+12 
+ 
+ 
+ 
+Corporate Finance: Final Exam: Fall 1995  
+1. SDL is a firm manufacturing perfumes and other cosmetics and it sells its products 
+world wide. The financial statements for the most recent two years are included below. 
+Income Statements 
+(All figures in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance Sheets (in millions) 
+ 
+ 1993 1994  1993 1994 
+Fixed Assets $150 $175 Current Liabilities $40 $50 
+Current Assets $60 $75 Debt $90 $100 
+   Equity $80 $100 
+Total $ 210 $ 250 Total $ 210 $250 
+ 
+In addition, you are provided the following information – 
+• The long-term treasury bond rate is 6%. 
+• There are 10 million shares outstanding, trading at $ 40 per share currently; the stock 
+has been traded for only two years. A regression of stock returns against market 
+returns yields a beta of 0.9, with a standard error of 0.8. There are, however, five 
+cosmetics firms which are publicly traded, with the following estimates of betas for 
+each. 
+Answer all questions on the exam. If you have additional work, please attach the work. 
+ 1993 1994 
+Revenues $ 150.00 $ 200.00 
+- Operating Expenses $ 115.00 $ 140.00 
+- Depreciation $ 10.00 $ 20.00 
+= EBIT $ 25.00 $ 40.00 
+- Interest Expenses $ 5.00 $ 6.50 
+= Taxable Income $ 20.00 $ 33.50 
+- Taxes $ 5.00 $ 13.50 
+= Net Income $ 15.00 $ 20.00
+Practice finals Name: 
+13 
+ 
+ 
+ 
+ 
+Company Beta D/E Ratio 
+Alberto Culver 0.85 10% 
+Avon Products 1.3 40% 
+Gillette 1.25 25% 
+Helen of Troy 0.95 15% 
+Helene Curtis 0.85 20% 
+All these firms face a marginal tax rate of 40%. 
+• The debt on the balance sheet has two components. The first is traded bonds, with ten 
+years to expiration and a coupon rate of 7%; there are 50,000 bonds outstanding, 
+trading at $ 850 apiece (the face value is $ 1000). The second is $50 million in bank 
+debt, which also has a ten year maturity, and carries an interest rate of 6%. 
+a. Estimate the cost of equity for SDL Inc. (2 points) 
+b. Estimate the market value of debt and the after-tax cost of debtfor SDL Inc. 
+c. Estimate the cost of capital for this firm. (1 point) 
+d. Assume that you have regressed SDL’s firm value over the last 8 quarters against long 
+term rates, GNP growth and the DM (SDL’s overseas sales are primarily in Europe) and 
+have arrived at the following results – 
+Change in firm value = 0.11 - 1.50 (Change in Long Term Interest Rate) 
+Change in firm value = 0.18   + 0.50 (GNP Growth) 
+Change in firm Value = 0.15  - 0.26 (US $ /DM Currency Rate) 
+Does SDL’s current debt mix (ten-year $ debt) fit its needs? If so, why? If not, why not? 
+How would you change the debt mix to fit their firm characteristics? (2 points) 
+e. Assume that this firm decides to do an acquisition of XLNT Inc, a specialty retailer, 
+who sells primarily cosmetics. XLNT has an estimated market value of equity of $ 150 
+million, a beta of 1.25 and no debt outstanding. The acquisition will be financed entirely 
+with debt, which will result in the rating for SDL dropping to BBB; typical BBB rated 
+bonds currently carry an interest rate of 9.5%. Estimate SDL’s cost of capital after this 
+acquisition. (4 points) 
+ 
+2. VRF Inc. is a well-established firm that manufactures automobile components, and has 
+a long and venerable history. It has come to you for advice on dividend policy, and it
+Practice finals Name: 
+14 
+ 
+ 
+ 
+provides you with the following information for 1994 (which is its most recent year of 
+financial data)– 
+• In 1994, it had revenues of $1,000 million and made a net income of $ 150 million; it 
+had a book value of equity of $ 1.5 billion. 
+• It had capital expenditures of $ 175 million in 1994, and depreciation of $ 100  
+million. 
+• The working capital increased from $80 million in 1993 to $100 million in 1994. 
+• The firm did not have debt outstanding at any time during the year. 
+• The firm’s cash balance increased by $ 25 million from 1993 to 1994, after the 
+payment of dividends for the period. 
+a. How much did the company pay out as dividends during 1994?   (4 points) 
+b. Assume now that you are trying to estimate how much it should pay out as dividends 
+during 1995, and that you are given the following additional information – 
+• The revenues and earnings are expected to grow 10% from 1994 levels. 
+• The working capital is expected to remain at the same percent of revenues as in 1994. 
+• The depreciation is expected to grow at the same rate as earnings, but the firm has 
+broken out its expected capital expenditures by division for 1995– 
+Division Cap Ex Needs Return on Equity Beta 
+A $ 75 million 13% 1.00 
+B $ 50 million 16% 2.00 
+C $ 65 million 12% 0.80 
+D $ 60 million 15% 1.10 
+The long term bond rate is 6%, and the beta of the stock is 1.05. The  market  risk 
+premium is 5.5%. 
+• The firm also plans to raise 20% of its net capital expenditure and working capital 
+needs from debt. 
+Should it make all its scheduled capital expenditures? Assuming that you can reevaluate 
+these capital expenditures, how much cash does the firm have available to return to 
+stockholders in 1995? (5 points)
+Practice finals Name: 
+15 
+ 
+ 
+ 
+3. You are trying to value a company using the dividend discount model. You have 
+collected the following information on the firm – 
+• The company has earnings per share currently of $2.00, and pays 20% of its earnings 
+as dividends. Its book value of equity per share is $10.00, and it is trading at 2.5 times 
+the book value. 
+• The firm has no leverage currently, and is expected maintain this policy for the high 
+growth phase, which is expected to last 3 years. During the high growth phase, the 
+beta is expected to be 1.5. 
+• After 3 years, the firm is expected to reach stable growth and earnings are expected to 
+grow 6% a year. The fundamentals are expected to approach industry averages for 
+return on capital (where the average is 14%), leverage (where the industry average 
+debt/equity ratio is 25%) and unlevered beta (where the industry average unlevered 
+beta is 0.8). 
+The long term treasury bond rate is 6%. 
+a. Estimate the expected growth rate during the high growth period. (2 points) 
+b. Estimate the terminal value per share at the end of the high growth period. 
+c. Estimate the value per share using the dividend discount model. (3 points)
+Practice finals Name: 
+16 
+ 
+ 
+ 
+Corporate Finance: Final Exam - Spring 1996 
+Aswath Damodaran  
+1. You have been hired by Samson Corporation, a mid-size company which manufactures 
+luggage to assess their capital structure. You have been provided with the most recent 
+income statement and balance sheet for the company – 
+Income Statement 
+Revenues $ 100 million 
+- Cost of Goods Sold  $   60 million   (Includes depreciation of $ 10 million) 
+= EBIT $   40 million 
+- Interest Expenses $ 6 million 
+= Taxable Income $   34 million 
+- Taxes $   13.6 million 
+= Net Income $   20.4 million 
+Balance Sheet 
+Assets Liabilities 
+Fixed Assets $ 100 million Current Liabilities $ 20 million 
+Current Assets  $ 40 million Debt $ 60 million 
+Equity $ 60 million 
+The company had 10 million shares outstanding trading at $24 per share. Nearly 40% of 
+the outstanding stock is held by the founding family. You are also provided with the 
+following additional information – 
+• A regression of returns on the stock against a market index over the last 5 years yields 
+a beta of 0.90, but Samson had no debt for the first four out of the five years. Its debt 
+ratio in the fifth year was similar to its current debt ratio. 
+• The debt is 10-year bank debt; however, based on its interest coverage ratio the firm 
+would be rated AA and carry a market interest rate of 10%. The treasury bond rate is 
+8% and the market risk premium is 5.5%. 
+a. Estimate the current cost of equity for Samson Corporation. ( 2 points) 
+b. Estimate the current weighted average cost of capital for Samson Corporation ( 2 
+points). 
+This exam is worth 30 points. Please answer all questions.
+Practice finals Name: 
+17 
+ 
+ 
+ 
+c. Assume now that Samson Corporation plans to double its debt ratio. The bond rating is 
+expected to drop to BBB, with a market interest rate of 11.5%. Estimate the new cost of 
+capital. ( 2 points) 
+d. If Samson does decide to double its debt capacity immediately by buying back stock, 
+estimate the dollar debt it would need to borrow. ( 1 point) 
+e. If Samson decides to double its debt ratio over the next 3 years, and plans to use the 
+new debt to finance new projects, estimate the total dollar debt that the firm will have to 
+issue over the next 3 years. (Samson pays no dividends) ( 3 points) 
+f. Based upon the most recent financial data, would you suggest that Samson take 
+projects with the debt or return cash to stockholders. Explain. (You can assume that the 
+book value of equity was $ 40 million at the beginning of the year, while the book value 
+of debt was $ 60 million) (1 point) 
+ 
+2. You have been asked by Jupiter Corporation, a toy manufacturer, for advice on 
+dividend policy. Jupiter Corporation had net income of $ 150 million in 1995  and 
+reported depreciation of $ 20 million. Its balance sheets for 1994 and 1995 are provided 
+below (in millions): 
+Assets Liabilities 
+ 
+ 1994 1995  1995 1995 
+Net Fixed Assets $750 $ 800 Current Liabilities $50 $60 
+Current Assets   Debt $ 200 $ 215 
+Cash $ 50 $ 100 Equity $ 650 $ 720 
+Non-cash Current Assets $100 $ 120    
+ 
+a. Estimate how much Jupiter paid out as dividends during 1995.( 2 points) 
+b. Estimate how much capital expenditure Jupiter Corporation had in 1995. ( 1 point) 
+c. Now assume that you have been given the following information on next year’s 
+projections for Jupiter Corporation. 
+• Net Income, depreciation and non-cash working capital are expected to increase 10% 
+from 1995 levels. 
+• The firm has four projects that it is considering for next year 
+Project EBIT Investment Beta
+Practice finals Name: 
+18 
+ 
+ 
+ 
+ 
+A $ 6.67 million $ 30 million 1.20 
+B $ 3.33 million $ 20 million 1.00 
+C $4.17 million $ 20 million 1.10 
+D $ 8.33 million $ 35 million 2.00  
+Assume that the firm plans to finance these projects at a debt to capital ratio of 25%, and 
+that the cost of debt is 8% (Corporate tax rate = 40%), and that the treasury bond rate is 
+7%. Estimate how much Jupiter can afford to pay out next year as dividends.  ( 4 points) 
+ 
+3. You are trying to value Wee-Growth, a firm that manufactures children’s software 
+using the dividend discount model. In the most recent year, Wee -Growth had earnings  
+per share of $ 3.00, dividends per share of $ 1.00 and a beta of 1.30. In the same year, the 
+firm also had a return on capital of 25%, a debt-equity ratio of 25% and paid an interest 
+rate of 8% on its debt. (Its corporate tax rate was 40%.) Over the next 3 years, Wee - 
+Growth expects to maintain its existing dividend payout rati o, return on capital, debt- 
+equity ratio and pre-tax interest rate. After year 3, the firm expects its beta to drop to 1,  
+its return on capital to move to the industry average of 15% and its leverage to remain 
+unchanged. The treasury bond rate is 7%. 
+a. Estimate the expected growth over the next 3 years.  ( 2 points) 
+b. Estimate the expected dividends per share over the next 3 years. ( 1 point) 
+c. Estimate the terminal price (at the end of the third year). ( 3 points) 
+d. Estimate the value per share today. ( 1 point) 
+e. Assume now that you had valued Wee -Growth also using the FCFE model. The 
+capital expenditure per share in the most recent year was $ 2.50, whereas the depreciation 
+was $ 1.00 per share. Assuming that these grow at the same rate as earnings for the next 3 
+years, and that they offset each other after 3, estimate the value per share. [There are no 
+working capital requirements] ( 4 points)
+Practice finals Name: 
+19 
+ 
+ 
+ 
+Corporate Finance: Final Exam - Spring 1997 
+This exam is worth 25% and you have 2 hours. 
+1. Solo Corporation, a manufacturer of surf boards, has asked for your advice on whether 
+to invest $ 40 million in a new line of beach products: 
+• The investment will yield earnings before interest and taxes of $ 10 million a year, 
+and any depreciation on the project will be invested back into the project as capital 
+maintenance expenditure. There will be no working capital investments. 
+• The project is expected to have an infinite life. 
+• The company has a beta of 1.2, but this project is expected to have a beta of 1.5.The 
+firm will maintain its existing financing mix of 60% equity and 40% debt. The cost of 
+borrowing is 10%. 
+• The tax rate for the company, including California State taxes, is 40%. The ten-year 
+bond rate is 7%. 
+Calculate the NPV of this project. ( 3 points) 
+ 
+2. VRC Inc., a privately-owned business in several business lines, wants to estimate a 
+cost of equity for itself as a business. The company  provides you with the following 
+information on the businesses it operates in, the operating income it has in each business 
+and the betas of comparable firms in each business line 
+Business Line Operating Income Comparable Firms 
+ 
+ Beta D/E Ratio 
+Technology $ 50 million 1.60 10% 
+Auto Parts $ 40 million 1.20 30% 
+Financial Services $ 60 million 1.15 100% 
+Assuming that the tax rate for all firms is 40%, that the operating income is proportional 
+to divisional value and that VRC has a debt to capital ratio of 40%, estimate the equity 
+beta for VRC. ( 4 points) 
+ 
+3. SynerMedia Inc., a entertainment and media corporation, with 50 million shares 
+trading at $ 40 per share, and no debt, announces that it will borrow $ 500 million and 
+buy back $ 500 million worth of stock. The stock price immediately jumps to $ 44 per
+Practice finals Name: 
+20 
+ 
+ 
+ 
+share. If the beta before the stock buy back was 0.80, estimate the interest rate paid on the 
+new debt. (The T.Bond rate is 7% and the company has a tax rate of 40%)  ( 5 points) 
+ 
+4a. DelCash Inc., a discount retailer, has declared and paid a dividend of $ 500 million 
+this year. You notice, looking over their financial statements, that they have net income 
+of $ 2 billion for this year, and that the cash balance for the firm increased by $ 250 
+million. If the non-cash working capital was unchanged over the year, and the firm 
+finances 30% of its net capital expenditures from debt, estimate the net capital 
+expenditures that DelCash had during the year.  ( 2 points) 
+4b. On the ex-dividend day, the stock price of Del Cash dropped by $ 1.80. If the typical 
+stockholder in Del Cash paid 40% on dividend income and 20% on capital gains taxes, 
+estimate the number of shares outstanding in the firm. ( 2 points) 
+ 
+5. PlayMania, a company that manufactures play equipment for children, has called you 
+in as a value consultant. 
+• The company has made and expects to continue to make a return on equity of 15% on 
+its projects, and the beta of the stock is 1. 
+• It pays out 60% of its earnings as dividends, and the firm views itself as stable. 
+• The company has earnings per share of $ 2.00 in the current year. 
+• The T.Bond rate is 7% 
+a. Estimate the equity value per share of this company. ( 2 points) 
+ 
+b. The company is planning to increase capital expenditures and lower its payout ratio to 
+50%. In doing so, it will also be taking projects with lower returns, resulting in a return 
+on equity to 14%. Assuming that it can sustain this payout ratio and return on equity 
+forever, estimate the value of equity per share. ( 3 points) 
+ 
+6. Answer the following true or false questions on valuation ( 1 points each) 
+1. Increasing the debt ratio of a firm will increase the value of the firm. 
+TRUE FALSE 
+2. The FCFE value per share for a firm will always be greater than the dividend 
+discount model. 
+TRUE FALSE
+Practice finals Name: 
+21 
+ 
+ 
+ 
+3. When a firm increases its return on assets, without affecting its riskiness, it wll 
+increase the value of the firm. 
+TRUE FALSE 
+4. The value of a firm can never be lower than the value of the equity in the firm. 
+TRUE FALSE
+Practice finals Name: 
+22 
+ 
+ 
+ 
+Final Exam: Spring 1998 
+ 
+All of the questions in this exam relate to a company called Mallinckrodt, which is head 
+quartered in St. Louis, Missouri, and is a company involved in pharmaceuticals and 
+specialty chemicals. The stock of the company, traded on the NYSE, is at a 52-week low 
+of $ 32 per share. The CEO of the company, Mr. Ray Holman, has invited you to come in 
+and do a corporate financial analysis of the firm, and has offered to pay you handsomely 
+for your services. 
+• Page 13 of this report has the income statements and balance sheets for the last 2  
+years 
+• Page 14 of this exam has the statement of cash flows for the last 4 years 
+• Page 15 has a summary table of interest coverage ratios, ratings and default spreads 
+that you might find useful. 
+• Page 16 has industry averages for betas, debt to equity ratios, returns on equity and 
+capital, and capital expenditure/depreciation for the two segments that Mallinckrodt is 
+in - pharmaceuticals and specialty chemicals. 
+Additional Notes 
+• You can ignore the preferred stock in the firm for your calculations. 
+• Use a market risk premium of 5.5% throughout this analysis. 
+• The long term treasury bond rate through out this analysis can be set at 6%.
+Practice finals Name: 
+23 
+ 
+ 
+ 
+1.  The following is the Bloomberg regression output, using returns from 1992 to 1997  
+for Mallinckrodt. 
+ 
+a. If the long term treasury bond rate today is 6%, estimate the cost of equity for 
+Mallinckrodt, based upon the raw beta for the firm. ( 1 point) 
+b. Mallinckrodt operates in two different business segments - pharmaceuticals and 
+specialty chemicals. In 1997, the two businesses had the following operating income: 
+Business Segment Operating Income 
+Pharmaceuticals  $ 255.4 Million 
+Specialty Chemicals $ 51.5 Million 
+Total $ 306.90 Million 
+Based upon the industry averages reported on page 16 for the two segments, estimate the 
+bottom-up unlevered beta for Mallinckrodt. ( 2 points) 
+c. Mallinckrodt has 73 million shares outstanding today, trading at $ 32 per share. 
+Assuming that the book value of debt on its books, which is $ 556.90 Million, is equal to 
+market value (of debt), estimate the bottom-up levered beta for Mallinckrodt. The firm 
+has a marginal tax rate of 40%. ( 2 points)
+Practice finals Name: 
+24 
+ 
+ 
+ 
+2  a. Estimate the return on equity earned by Mallinckrodt in the 1997 financial year, 
+based upon average book value of equity between 1996 and 1997. ( 1 point) 
+b. Assuming that the beta of 0.67 shown on the Bloomberg sheet is correct and that 
+the long term treasury bond rate is 6%, estimate the equity EVA earned by 
+Mallinckrodt in 1997. ( 1 point) 
+c. You are now given a further breakdown of capital by division for Mallinckrodt. 
+The pharmaceutical division had pre-tax operating income (EBIT)   last year of $ 
+255.40 million last year, and had $1,298 million in book value of capital assigned to 
+it. Assuming that the divisions have the same market debt to capital ratios as the 
+parent company [Mallinckrodt has 73 million share outstanding today, trading at $ 32 
+per share and $ 556.90 Million in debt outstanding (book as well as market)], estimate 
+the EVA earned at this division. The firm is not rated, but its rating can be estimated 
+from its current interest coverage ratio. (The tax rate is still 40%)          ( 2 points) 
+ 
+3. You have estimated the optimal debt to capital ratio for Mallinckrodt, based upon 
+minimizing the cost of capital, to be 40%. 
+a. Estimate the current cost of capital for Mallinckrodt, assuming that the beta for 
+the stock is correctly estimated at 0.67, the cost of debt is based upon the rating 
+estimated from the interest coverage ratio and the long term treasury bond rate is 
+6%. Mallinckrodt has 73 million shares outstanding today, trading at $ 32 per 
+share and $ 556.90 million in debt outstanding (book as well as market). ( 1 point) 
+b. At the optimal debt to capital ratio of 40%, Mallinckrodt has an interest 
+coverage ratio of 3.54. Estimate the cost of capital at the optimal debt ratio. 
+c. The current debt of the firm is composed of short term debt of $ 11.70 million, 
+and 5-year maturity debt of $ 545.20 million. The former debt has a duration of 
+0.5 years, and the latter has a duration of 3 years. You have run a regression of 
+changes in firm value against changes in long term interest rates: 
+Change in Firm Value = 0.50 - 6.5 Change in long term rates 
+Assuming that you decide to move to the optimal of 40% by borrowing money 
+and buying back stock immediately, what should the duration of the new debt be?
+Practice finals Name: 
+25 
+ 
+ 
+ 
+4 a. To look at the firm's dividend policy, you look at Mallinckrodt's financial 
+statements for the last 2 years. Based upon the income statement, balance sheet and 
+statement of cash flows, estimate the FCFE in each of the last two years. (You can 
+ignore other non-cash adjustments and cash from the disposal of assets each year) 
+b. Using the statement of cash flows provided, estimate the percentage of the FCFE 
+that was returned to stockholders (in the form of dividends and stock buybacks) in 
+1996 and 1997. (1  point) 
+c. You have run a regression of dividend yields of pharmaceutical firms on after-tax 
+return on capital and net capital expenditures as a percent of revenues. 
+Dividend Yield = 0.03 - 0.053 (Return on Capital) – 0.15 (Net Cap Ex/Revenues) 
+where 
+• Return on Capital = EBIT (1-t)/(Last year’s Book Value of Debt + Last year’s 
+Book Value of Equity) 
+• Net Cap Ex/ Revenues = (Capital Expenditures - Depreciation)/ Revenues 
+Mallinckrodt paid dividends of $ 0.66 per share in 1997, and the stock price is $ 32. 
+Based upon this regression, estimate how much Mallinckrodt should pay in dividends per 
+share.  ( 2 points) 
+5 Mallinckrodt reported earnings before interest and taxes of $307 million in 1997. 
+Capital expenditures were $170 milllion in that year, and depreciation was $ 128 
+million; Revenues were $1,861 million. Non-cash working capital is expected to 
+remain at the same percentage of revenues that it was in 1997. (Non -cash Working 
+Capital = Inventories + Accounts Receivable - Accounts Payable). 
+a. Assuming that revenues, operating income and net capital expenditures are expected 
+to grow 10% a year for the next 3 years, estimate the cash flow to the firm each year 
+for the next 3 years. ( 2 points) 
+b. After year 3, revenues and operating income will grow 3% a year. Assuming that 
+capital expenditures as a percent of depreciation will drop to the pharmaceutical industry 
+average after year 3, and that non-cash working capital will remain at the same percent of 
+revenues after year 3 (as it is currently), estimate the terminal value of the firm. (The debt 
+ratio of the firm is expected to rise to 40%, the beta to 1.00 and the pre-tax cost of debt 
+will be 7.00%) (2 points)
+Practice finals Name: 
+26 
+ 
+ 
+ 
+c. Assume that the current beta for the stock is correctly estimated at 0.67, the current 
+cost of debt is based upon the rating estimated from the interest coverage ratio and the 
+long term treasury bond rate is 6%. Mallinckrodt has 73 million shares outstanding today, 
+trading at $ 32 per share and $ 556.90 Million in debt outstanding (book as well as 
+market). Estimate the value of the equity per share today.    ( 2 points)
+Practice finals Name: 
+27
+Practice finals Name: 
+28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interest Coverage Ratios, Ratings and Default Spreads
+Practice finals Name: 
+29 
+ 
+ 
+ 
+ 
+If interest coverage ratio is   
+> ≤ to Rating is Spread is 
+-100000 0.199999 D 10.00% 
+0.2 0.649999 C 7.50% 
+0.65 0.799999 CC 6.00% 
+0.8 1.249999 CCC 5.00% 
+1.25 1.499999 B- 4.25% 
+1.5 1.749999 B 3.25% 
+1.75 1.999999 B+ 2.50% 
+2 2.499999 BB 2.00% 
+2.5 2.999999 BBB 1.50% 
+3 4.249999 A- 1.25% 
+4.25 5.499999 A 1.00% 
+5.5 6.499999 A+ 0.80% 
+6.5 8.499999 AA 0.50% 
+8.50 100000 AAA 0.20% 
+ 
+Industry Averages  
+ 
+ Pharmaceuticals Specialty Chemicals 
+Beta (Levered) 1.15 0.70 
+Debt/Equity Ratio (Market) 10% 35% 
+Return on Equity 18% 14% 
+After-tax Return on Capital 15% 12.5% 
+Capital 
+Expenditures/Depreciation 
+110% 110% 
+The marginal tax rate for all firms is 40%.
+Practice finals Name: 
+30 
+ 
+ 
+ 
+Corporate Finance: Final Exam - Spring 1999  
+1. The following is the beta calculation for PepsiCo, using monthly return data from the 
+last 5 years: 
+ReturnPepsico = 0.23% + 1.20 (ReturnS&P 500) 
+You are given the following additional information: 
+• The current market value of equity at Pepsi is $ 40 billion and the firm has $ 10  
+billion in debt outstanding. 
+• During the last 5 years, Pepsi had an average market value debt to equity ratio of  
+10%. The firm’s marginal tax rate is 40%. 
+a. Using the raw beta estimate from the regression above, and the information provided, 
+estimate Pepsi’s current beta. ( 2 points) 
+b. Now assume that Pepsi will be spinning off its bottling operations for $ 10 billion, 
+borrowing an additional $ 2 billion and buying back $ 12 billion worth of stock. Estimate 
+Pepsi’s new beta. (The unlevered beta of firms involved in just bottling operations is  
+1.35) ( 3 points) 
+ 
+2. You have been asked to analyze a project, which is expected to have a net income of $ 
+15 million on revenues of $ 200 million next year; the depreciation is expected to be $ 5 
+million next year. The project is expected to last forever, with no growth in revenues and 
+earnings. The beta for the firm analyzing the project is 1.00, but this project is riskier than 
+the rest of the firm and is expected to have a beta of 1.25. The initial investment needed 
+for the project is $ 150 million, and the firm is expected to borrow 40% of this 
+investment, at a pre-tax cost of 8%. The capital maintenance expenditure, each year, is 
+expected to be equal to depreciation. There are no working capital needs. Estimate the net 
+present value of this project. (The treasury bond rate is 5%, and the market risk premium 
+is 6.3%). ( 5 points) 
+ 
+3. Campbell Soup is planning a major restructuring. Its current debt to capital ratio is 
+10%, and its beta is 0.90. The firm currently has a AAA rating, and a pre-tax cost of debt 
+of  6%.  The  optimal  debt  ratio  for  the  firm  is  40%,  but  the  firm’s  pre-tax  cost of 
+Answer all questions and show necessary work. Please be brief. This is an open books, 
+open notes exam.
+Practice finals Name: 
+31 
+ 
+ 
+ 
+borrowing will increase to 7%. The market value of the equity in the firm is $ 9 billion, 
+and there are 300 million shares outstanding. (The treasury bond rate is 5%, the market 
+risk premium is 6.3% and the firm’s current tax rate is 40%) 
+a. Estimate the change in the stock price if the firm borrows money to buy stock to get to 
+its optimal debt ratio, assuming that firm value will increase 5% a year forever and that 
+investors are rational. ( 3 points) 
+b. Estimate the increase in stock price, if Campbell Soup were able to borrow money to 
+get to its optimal and buy stock back at the current market price. ( 3 points) 
+c. As a final scenario, assume that Campbell Soup borrowed to get to 40%, but used the 
+funds to finance an acquisition of Del Monte Foods. Assuming that they over pay by $ 
+500 million for this acquisition, estimate the change in the stock price because of these 
+actions. (You can assume rationality again, in this case) ( 1 point) 
+ 
+4. You have been provided with three years of historical data for Tandem computers, a 
+firm that has paid dividends. 
+ 1996 1997 1998 
+Net Income $150 $225 $315 
+    
+Capital Expenditures $200 $250 $300 
+Depreciation $125 $190 $250 
+    
+Non-Cash Working Capital $300 $330 $375 
+ 
+The firm started 1996 with a cash balance of $ 100 million, and raised 10% of its external 
+financing needs from debt; it will continue to finance future reinvestment needs with the 
+same debt ratio. The non-cash working capital in 1995 was $275 million. Each year the 
+company pays out 20% of its net income as dividends. 
+a. Assuming that the firm did not buy back any stock over the period, estimate how much 
+cash the firm would have at the end of 1998. (Assume that cash balances earn no interest) 
+( 3 points) 
+b. Assume now that the firm currently has 100 million shares outstanding, trading at $ 40 
+per  share, and  would like to  announce a  stock buyback  program  for the  next  2 years.
+Practice finals Name: 
+32 
+ 
+ 
+ 
+Assuming that net income will grow 25% a year for the next 2 years, and that capital 
+expenditures and non-cash working capital will grow at the same rate, estimate (in dollar 
+terms) how much stock the firm can buy back. (It wants to keep its cash balance from the 
+end of 1998 intact and continue to pay 20% of its earnings as dividends)    ( 3 points) 
+ 
+5. You have been asked to estimate the value of General Communications, a telecomm 
+firm. General Communications has a debt to capital ratio of 30%, a beta of 1.10 and a 
+pre-tax cost of debt of 7.5%. The firm had earnings before interest and taxes of $ 600 
+million in 1998, after depreciation charges of $ 300 million. The firm had capital 
+expenditures of $ 360 million, and non-cash working capital increased by $ 50 million 
+during 1998. The firm also had a book value of capital of $ 2 billion at the beginning of 
+1998. (The treasury bond rate is 5%, the market risk premium is 6.3% and the firm has a 
+tax rate of 40%). Assuming that the firm is in stable growth, and that the return on capital 
+and reinvestment rates from 1998 can be sustained forever, estimate the value of the firm. 
+( 3 points)
+Practice finals Name: 
+33 
+ 
+ 
+ 
+Spring 2000 : Final Exam  
+ 
+1. You have been asked to assess the beta for AT&T after it acquires Media One. The  
+following table summarizes the two firm’s current values: 
+ AT & T Media One 
+Beta  (based  on regression 
+over last 5 years) 
+0.92 1.40 
+Average D/E ratio over  last 
+5 years 
+12% 25% 
+Current   Market  Value of 
+Equity 
+$ 240 billion $ 60 billion 
+Current   Market  Value of 
+Debt 
+$ 60 billion $ 40 billion 
+Tax Rate 40% 40% 
+AT & T plans to borrow $ 25 billion and use $ 35 billion in new equity to buy Media One 
+shares. It will assume Media One’s existing debt. Estimate the beta for AT&T after the 
+acquisition. (5 points) 
+ 
+2. As an alternative to buying Media One, AT&T had considering expanding into the 
+media business and rejected the proposal because the net present value was -$  750 
+million. However, on reviewing the proposal, you notice that the analyst made three 
+crucial errors: 
+• He ignored working capital in his analysis. You believe that working capital will be 
+10% of revenues. The revenues are expected to be $ 2 billion a year for the next 5 
+years, and increase to $ 3 billion a year after year 5. 
+• At the end of the 10th year, which was the last year of the project analysis, he assumed 
+that the project would be terminated and estimated a salvage value (based upon the 
+book value of $ 2 billion for assets in year 10). You believe that the after -tax cash 
+flow in  year  10,  which was $  225  million, would continue to  grow  3%  a  year  in 
+Answer all questions and show necessary work. Please be brief. This is an open books, 
+open notes exam.
+Practice finals Name: 
+34 
+ 
+ 
+ 
+perpetuity. (You can assume that this cash flow already reflects the working capital 
+investment needed in that year) 
+• Finally, he capitalized a portion of the initial investment relating to setting up a media 
+division and depreciated this portion using straight line depreciation of $ 200 million  
+a year for 10 years to a salvage value of zero. In reality, AT&T would have expensed 
+this item immediately (today). 
+If AT&T’s tax rate is 40% and the cost of capital for this project is 9%, estimate the 
+correct net present value for this project. (6 
+points) 
+ 
+3. Now assume that you are looking at AT&T’s capital structure. The firm has 4 billion 
+shares trading at $ 60 per share, and debt, with a current market value of $ 40 billion. The 
+current levered beta for the firm is 0.99, and the current pre -tax cost of borrowing is  
+6.2%. The tax rate is 40%. You estimate AT&T’s optimal capital structure to be 40%, 
+and also estimate that the pre-tax cost of debt at that level will be 7.5%. [You can assume 
+a 6% treasury bond rate, and a market risk premium of 4%] 
+a. Estimate the change in stock price if the firm moves to its optimal. (You can assume 
+rational investors) (3 points) 
+b. How would your answer change if you were told that AT&T would be able to keep its 
+existing debt on the books for their remaining life (10 years) at the existing coupon rate  
+of 6.2%, while moving to its optimal debt ratio. (3 
+points) 
+ 
+4. You have been taking a look at AT&T’s current cash balance. The firm has $ 7 billion 
+in cash on its balance sheet at the end of 1998, an increase of $ 1.5 billion over the 
+balance at the end of 1997. The firm paid out 20% of its 1998 earnings as dividends, 
+bought back $ 1 billion of stock and reported capital expenditures of $ 3 billion and 
+depreciation of $ 2 billion during 1998; the non-cash working capital at the firm 
+decreased by $ 0.5 billion during the year. In addition, AT&T’s total debt increased from 
+$ 40.3 billion at the start of the year to $ 39.5 billion at the end. Estimate AT&T’s net 
+income for 1998.   (6 points)
+Practice finals Name: 
+35 
+ 
+ 
+ 
+5. You have been asked to value an entertainment company for a possible acquisition by 
+AT&T. The firm's current pre-tax operating income is $ 150 million, and it has a 33.33% 
+tax rate. The following table summarizes the estimates you have made for the firm for the 
+next 3 years: 
+ 1 2 3 Term. year (4) 
+Exp.  Growth in 
+Operating 
+Income 
+15% 15% 15% 5% 
+ROC 20% 20% 20% 15% 
+Cost of Capital 12% 11% 10% 9% 
+ 
+The firm will be in stable growth after year 3. 
+ 
+a. Estimate the expected free cash flows to the firm every year for the next 3 years. (2 
+points) 
+b. b. Estimate the terminal value of the firm, i.e., the value at the end of the third year  
+(2 points) 
+c. Estimate the value per share today, if the firm has $ 800 million in debt outstanding  
+and 100 million shares. (2 points)
+Practice finals Name: 
+36 
+ 
+ 
+ 
+Spring 2001: Final Exam 
+Corporate Finance : Final Exam 
+ 
+1. You have been asked to estimate the cost of capital for Simtel Enterprises, a firm 
+with operations in different businesses. You are given the breakdown of the three 
+businesses that Simtel is in below: 
+Business Estimated Value     Average Unlevered beta: Comparables 
+Telecomm Services $ 2.0 billion 1.00 
+Computer Software $ 1.0 billion 1.25 
+Real Estate Management  $ 1.0 billion 0.60 
+ 
+Simtel has 100 million shares outstanding, trading at $ 20 a shares; its remaining 
+capital is in the form of corporate bonds with a BB rating, carrying a default spread of 
+4% over the riskfree rate. Simtel’s marginal tax rate is 40%. The long term treasury 
+bond rate is 6% and the market risk premium is 4%. 
+a. Estimate the cost of capital for Simtel. ( 2 points) 
+b. Now assume that Simtel sells its real estate services division at its estimated value 
+and uses the funds to retire debt. This will cause its rating to rise to A and the 
+default spread on its bonds to drop to 1.5%. Estimate the new cost of capital for 
+Simtel. 
+(3 points) 
+2. You have been asked to assess the net present value of a project analysis done by 
+analysts at Ludens Inc., a firm that operates in both retailing and apparel 
+production. The project, which is in the apparel business, has a 10-year life with 
+equal annual cash flows over the period and an initial investment of $ 1 billion. 
+You notice two problems with the analysis: 
+• The analyst used a cost of capital of 10% (which is the company’s cost of 
+capital) in computing the net present value of $ 100 million. The cost of 
+capital for the apparel business is 12%. 
+Answer all questions and show necessary work. Please be brief. This is an open books, 
+open notes exam.
+Practice finals Name: 
+37 
+ 
+ 
+ 
+• The analyst expensed the entire investment in year 0; you believe that this is 
+not likely to get approval from the tax authorities, and that you would need to 
+depreciate the investment straight line over 10 years to a salvage value of   
+zero.  The tax rate is 30%. 
+Estimate the correct net present value of the project. ( 6 points) 
+ 
+3. Certiz Enterprises is considered a major recapitalization. The firm currently has a 
+market value of $ 1billion, a debt to capital ratio of 10%, a beta of 0.90 and a pre-tax cost 
+of borrowing of 7%. It is considering tripli ng its debt to capital ratio to 30% and it 
+believes that doing so will increase its firm value by 15%. The firm has a tax rate of 40%, 
+the riskfree rate is 6% and the market risk premium is 4%. What will the cost of debt  
+have to be at the 30% debt to capital ratio for firm value to increase by 15%. (You can 
+assume a 5% growth rate in savings in perpetuity) ( 6 points) 
+ 
+4. Needham Inc. is a steel company that reported $ 100 million in net income in the the 
+just-completed financial year. The firm has a payout ratio of 30% and the dividends in the 
+most recent year were exactly were exactly equal to the free cash flows to equity. The 
+firm was all equity financed. 
+a. Assume that you expect Needham to maintain a growth rate of 10% a year 
+in net income and reinvestment (net cap ex and change in working capital) 
+for the next year and that you anticipate that the firm will fund 20% of its 
+new investments (net cap ex and working capital) with debt. If you 
+maintain the policy of paying out the entire free cash flow to equity  as 
+dividends, what payout ratio can the firm afford next year?  ( 2 points) 
+b. Needham currently has a cash balance of $ 100 million. If Needham 
+increases its payout ratio to 40% and buys back $ 50 million in new stock 
+next year, estimate how much its cash balance will be at the end of next 
+year. (You can use the net income, reinvestment and debt numbers that  
+you estimated in part a) 
+ 
+5. You have been asked to assess the valuation of Robotronics Inc., a firms that 
+manufactures metal parts. The analyst has valued the firm as a stable growth firm, based
+Practice finals Name: 
+38 
+ 
+ 
+ 
+upon its expected after-tax operating income next year of $ 100 million, cost of capital of 
+10% and expected growth rate of 5%. Her estimate of the value of equity is $ 1.2 billion 
+and the firm has debt outstanding of $ 300 million. 
+a. What is the return on capital being assumed by the analyst in perpetuity? 
+b. Estimate the value of equity if you assume that Robotronics Inc. is in a 
+perfectly competitive industry, earning its cost of capital (of 10%) on its 
+investments.
+Spring 2002 Name: 
+1 
+ 
+ 
+ 
+Corporate Finance : Final Exam – Spring 2002 
+ 
+ 
+1. You have been asked to assess the cost of capital for Mylar Telecommunications, a firm 
+that has recently gone through financial turmoil. The firm has 100 million shares 
+outstanding, trading at $ 10 per share, and about $ 9 billion in debt (in market value 
+terms). The company is in two businesses – telecommunications equipment and internet 
+services. You have collected the following information on the businesses: 
+Business Estimated Value   Unlevered beta from comparables 
+Telecomm Equipment $ 6 billion 0.90 
+Internet services $ 4 billion 1.40 
+The average coupon rate on the debt is 10% but the firm has been downgraded to a CC 
+rating, and CC rated bonds trade at a default spread of 12% over the treasury bond rate 
+(which is currently 5%). The firm has been steadily losing money and has accumulated 
+net operating losses of more than $ 4 billion; the firm does not expect to pay taxes for 
+the next 4 years. (The market risk premium is 4% and the marginal tax rate for all firms 
+is 40%) 
+a. Estimate the levered beta for Mylar for next year. (2 points) 
+b. Estimate the cost of capital for Mylar for the next year. (1 point) 
+c. Now assume that Mylar could sell half of its internet business for fair market value 
+($2 billion) and use the cash to pay off debt. Estimate the new levered beta of the firm. 
+(3 points) 
+ 
+2. Healthy Foods Inc is considering introducing a new line of dried flowers. The firm 
+expects to be able to generate $ 4 million in revenues from this new line, each year for the 
+next 10 years, and have a pre-tax operating margin of 50% on these revenues. Customers 
+who come to buy the flowers are expected to buy the firm’s traditional offerings (fresh fruit 
+and baked goods) and it is anticipated that the annual revenues on these goods will increase 
+as a result of these extra purchases from $ 14 million to $ 17 million, each year for the next 
+10 years. The firm has a 60% pre-tax operating margin on its traditional products. While 
+Healthy Foods does not anticipate hiring any additional employees for this new business, it 
+will have to pay more overtime to existing employees and the additional cost is expected to 
+be $ 1 million. Assuming a 10-year life, a 10% cost of capital, a 40% tax rate what is the 
+maximum that you would be willing to invest in this new product line? (You can assume that 
+Answer all questions and show necessary work. Please be  brief. This  is  an  open  books, 
+open notes exam.
+Spring 2002 Name: 
+2 
+ 
+ 
+ 
+the initial investment will be depreciated straight line over 10 years to a salvage value of 
+zero) (6 points) 
+ 
+3. You are trying to analyze the optimal debt ratio for Lamont Hotels, a firm that owns and 
+operates a number of small hotels all over the country. The firm has 50 million shares 
+trading at $ 10 a share and $ 125 million in debt outstanding.(in market value terms). The 
+current (and correct) levered beta for the firm is 0.90 and the pre-tax cost of borrowing is 
+7%. The riskfree rate is 5% and the market risk premium is 4%. (Corporate tax rate = 40%) 
+a. Estimate the current cost of capital for Lamont Hotels. ( 1 point) 
+b. The firm is planning to triple its dollar debt and use the proceeds to buy back stock. 
+If it does so, it believes that its pre-tax cost of borrowing will rise to 8%. Estimate the 
+new cost of capital for Lamont Hotels, if it does this. (3 points) 
+c. If you were told that investors in Lamont Hotels were rational and that the stock price 
+increased by $1.50 per share on the announcement of the buyback, estimate the 
+expected growth rate in annual savings that the market must be assuming.    (3 points) 
+ 
+4. You have collected two years of information on your company’s earnings and dividends, 
+as well as the cash balance at the end of each year. 
+ Most recent financial year   Previous year 
+Earnings 
+Dividends 
+Cash Balance at year-end 
+110 100 
+44 40 
+100 78 
+The firm did not buy back any stock in either year. 
+a. The firm is entirely equity financed, has no working capital needs and plans to stop 
+paying dividends immediately because it views them as tax inefficient. It expects 
+earnings from the most recent year to grow 10% a year for the next 3 years but net 
+capital expenditures from the most recent year are expected to grow 20% a year for the 
+next 3 years. If the firm plans a major stock buyback three years from now, estimate the 
+cash balance it will have available for the stock buyback. (4 points) 
+b. The firm based its conclusion that dividends were tax inefficient by examining its 
+own stock price reaction to ex-dividend days over the last few years. On average, the 
+stock price dropped 85 cents for every dollar paid in dividends. If the average capital 
+gains tax rate over the period was 20%, estimate the tax rate paid on dividends (ordinary 
+income) by investors in the company. ( 2 point)
+Spring 2002 Name: 
+3 
+ 
+ 
+ 
+5. Newhouse Publishing is a company that owns 2 newspapers and seve

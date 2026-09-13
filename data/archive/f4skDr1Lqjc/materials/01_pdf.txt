@@ -1,0 +1,275 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/country/NarrativeCOVID.pdf
+
+NARRATIVE AND NUMBERS: 
+LIGHT IN THE DARKNESS!
+When in trouble, go back to basics!
+2
+The Bermuda Triangle of Valuation
+Valuation First 
+Principles &
+Good SenseBias & Preconceptions
+Uncertainty & the Unknown
+Complexity & Detail
+3
+Tesla: What are your priors?
+¨ With Tesla, there are no neutral observers. There are 
+people who love the company or hate it. Almost no 
+one has no opinion on the company. What is your 
+prior?
+a. I love the company. It will be a trillion dollar company.
+b. I hate the company. I think it is a scam
+¨ Tesla also happens to be a personality-driven 
+company. What you think about Elon Musk will 
+mirror what you think about Tesla. What are the 
+potential concerns you should have about that 
+interleaving of the personal and the corporate?
+4
+Valuation Uncertainty
+What are the 
+cashﬂows from 
+existing assets?
+- Equity: Cashﬂows 
+after debt payments
+- Firm: Cashﬂows 
+before debt payments
+What is the value added by growth  assets?
+Equity: Growth in equity earnings/ cashﬂows
+Firm: Growth in operating earnings/ 
+cashﬂows
+How risky are the cash ﬂows  from both 
+existing assets and growth assets?
+Equity: Risk in equity in the company
+Firm: Risk in the ﬁrm’s operations
+When will the ﬁrm 
+become a mature 
+ﬁirm, and what are 
+the potential 
+roadblocks?
+5
+The sources of uncertainty
+¨ Estimation versus Economic uncertainty
+¤ Estimation uncertainty reflects the possibility that you could have the “wrong 
+model” or estimated inputs incorrectly within this model.
+¤ Economic uncertainty comes the fact that markets and economies can change over 
+time and that even the best medals will fail to capture these unexpected changes.
+¨ Micro uncertainty versus Macro uncertainty
+¤ Micro uncertainty refers to uncertainty about the potential market for a firm’s 
+products, the competition it will face and the quality of its management team.
+¤ Macro uncertainty reflects the reality that your firm’s fortunes can be affected by 
+changes in the macro economic environment.
+¨ Discrete versus continuous uncertainty
+¤ Discrete risk: Risks that lie dormant for periods but show up at points in time.  
+(Examples: A drug working its way through the FDA pipeline may fail at some stage 
+of the approval process or a company in Venezuela may be nationalized)
+¤ Continuous risk: Risks changes in interest rates or economic growth occur 
+continuously and affect value as they happen.
+6
+A Life Cycle View
+7
+Healthy Valuation
+The Numbers People
+Favored Tools
+- Accounting statements
+- Excel spreadsheets
+- Statistical Measures
+- Pricing Data
+Illusions/Delusions
+1. Precision: Data is precise
+2. Objectivity: Data has no bias
+3. Control: Data can control reality
+The Narrative People
+Favored Tools
+- Anecdotes
+- Experience (own or others)
+- Behavioral evidence
+Illusions/Delusions
+1. Creativity cannot be quantiﬁed
+2. If the story is good, the investment will be.
+3. Experience is the best teacher
+A Good Valuation
+8
+The steps in valuation
+9
+The Drivers of Value
+12
+The drivers of value
+¨ The Growth Lever: The revenue growth rate controls how much and how quickly the firm 
+will be able to grow its revenues from autos, software, solar panels and anything else that 
+you believe the company. In my Tesla story (valuation), I have estimated revenues of $125 
+billion in 2030, a five -fold increase over the 2019 revenues.
+¨ The Profitability Lever: The target (pre-tax) operating margin determines how profitable you 
+think the company will be, once its growth days start to scale down. In keeping with my view 
+that R&amp;D is really a capital expense, I capitalize R&amp;D, which improves Tesla’s 
+profitability and target an operating margin of 12% by 2025.
+¨ The Investment Efficiency Lever: To grow, companies have to invest in capacity and the sales 
+to invested capital drives how efficiently investment is done, with higher sales to capital 
+ratios reflecting more efficiency. With T esla, I assume that every dollar of investment (in new 
+factories, technology and new R&amp;D) in the first 5 years generates $3 in revenue.
+¨ The Risk lever: The first is the cost of capital that I start the valuation with, a reflection of 
+risk as seen through the eyes of a diversified investor in the company. The second is 
+the likelihood of failure (or distress). With Tesla, I set this cost of capital at 7% and assume 
+that given its marginal profitability and significant debt load, the chance of failure is 10%.
+13
+The Growth Lever
+14
+The Biggest Auto Companies
+15
+A tech company twist?
+16
+Your growth choice
+17
+The Profitability Lever
+18
+A tech twist?
+¨ The median operating margin for tech companies 
+(including both software & hardware is 10.25%).
+¨ The picture is brighter for the FAANG stocks, where 
+the aggregate operating margin across all five stocks 
+is 19.87%, well above auto industry averages. That 
+margin, though, is delivered on smaller revenues and 
+with business models where production costs are a 
+small fraction of selling prices.
+¨ The operating margin for just software companies is 
+even higher at 21.24%, because the marginal unit of 
+software is close to costless to produce.
+19
+Your choice on profitability
+20
+3. The Investment Efficiency Lever
+21
+More on investment efficiency
+¨ Looking across global auto companies, the median company 
+generates $1.37 in sales for every dollar of capital invested, 
+and at the 75th percentile, the more capital-efficient auto 
+companies generate $2.42 in revenues for every dollar of 
+capital invested. 
+¨ My estimate of $3 in revenues for every dollar of capital 
+invested reflects an optimistic view of Tesla’s capacity to bring 
+technological innovation to its production processes, and 
+reduce the capital needed to fund those processes. 
+¨ Since Tesla, in 2019, generates $1.32 in revenue for every 
+dollar of capital invested, my estimate is more aspirational 
+than based on observable efficiencies, right now.
+22
+Your choice on investment efficiency
+23
+4. Risk: The Cost of Capital - Global
+24
+Your choice on cost of capital & the failure rate
+25
+Valuation Stories
+26
+The Stories
+¨ The Big Auto Story: If your story is that Tesla will emerge from its growth period as one of the 
+largest auto companies in the world (revenues of $100 - $300 billion in year 10), with top -tier auto 
+company margins (7.42%), investment efficiency (2.42) and cost of capital (6.94%), the value per 
+share ranges from $106/share (with BMW like revenues) to $227/share (with Daimler -like 
+revenues) to $333/share (with VW/Toyota like revenues).
+¨ The Techy Auto Company Story: Tesla is an auto/software/services company with tech company 
+characteristics, giving it higher margins (10.25%) and a higher cost of capital (8.86%). With this 
+story, the value per share ranges from $111/share (with BMW like revenues) to $212/share (with 
+Daimler-like revenues) to $298/share (with VW/T oyota like revenues). Put simply, the higher risk 
+nullifies the benefits of higher profitability.
+¨ The FAANGy Auto Company: Tesla not only develops a tech twist, but becomes as successful as the 
+most successful tech companies (I use the FAANG stocks + Microsoft). In this story, the margins 
+approach 18.97% and with a tech cost of capital, the value per share ranges from $459/share (with 
+BMW like revenues) to $855/share (with Daimler-like revenues) to $2,106/share (with VW/T oyota 
+like revenues).
+¨ The Make-your-best Company: I give Tesla the best possible outcomes on each variable, revenues 
+like VW/T oyota, margins like pure software companies (21.24%), a sales to capital ratio that is 
+higher than any of the sector averages (4.00) and a cost of capital of an auto company (6.94% ), and
+arrive at a value per share of $2106.
+27
+Possible? Plausible? Probable?
+¨ With the big auto stories, the key question will be whether T esla can climb to the 
+very top of the heap in terms of revenues, generally reserved for mass market 
+companies, while earning operating margins that are usually reserved for smaller 
+luxury auto companies?
+¨ With the techy auto stories, the key question becomes whether a company that 
+derives the bulk of its revenues from selling cars be profitable and reinvest like a 
+tech company?
+¨ With the FAANGy stories, the investment question becomes whether you should 
+up front for a company on the expectation that it will be an exceptional company. 
+It very well might make it to the top of the heap, but if it does not, you are set up 
+for disappointment.
+¨ With the MYB story, you are approaching the most dangerous place in valuation, 
+where you pick and choose each assumption, without considering the ones you 
+have already made. Put simply, is it even possible to build a company that 
+generates revenues like Toyota, earns margins like Microsoft and invests more 
+efficiently than any manufacturing company in history has ever done, while still 
+preserving the low cost of capital of an auto company?
+29
+When a crisis hits, the dark side beckons…
+¨ During a crisis, you will be told that you can no longer 
+value companies with fundamentals, and that you have 
+to play the trading game.
+¤ If your concept of valuation is downloading last year's financials 
+for a company into a spread sheet and then using historical 
+growth rates, with some mean reversion thrown in, to forecast 
+future numbers, they are right.
+¤ If your notion of valuation is more dynamic and forward-looking, 
+it is precisely at times like these that you need to go back to 
+basics.
+¨ More importantly, your story for the company matters 
+more than ever before, since the numbers can no longer 
+be used as a crutch.
+30
+The COVID Crisis: US Equities, from February 14 
+to November 1, 2020
+31
+Global Equities: By Region (in US $)
+32
+Global Equities: By Sector
+33
+Value Transfers
+34
+How crises affect stories…
+¨ Stories can expand: For some companies, a crisis can expand 
+stories
+¤ By allowing them to reach new customers and devise new business 
+models that have staying power (Zoom, Peloton)
+¤ By being in the right place at the right time (Moderna)
+¤ By handicapping or damaging the competition (Tesla, Airbnb)
+¨ Stories can contract: For other companies, a  crisis can shrink 
+stories
+¤ By making their markets smaller (cruise lines definitely, airlines 
+maybe)..
+¤ By being in the wrong place at the wrong time (commodity companies)
+¨ And the risk of failure becomes real and ignorable: And for all 
+companies, a crisis can increase the likelihood of failure (story 
+break).
+35
+A Roadmap to Story Telling & Valuation in a 
+crisis
+1. Separate the near term from the long term: During a crisis, 
+the near-term effects are likely to be both large and 
+unpredictable (negative for most companies, but positive 
+for a few). Estimate the near term effects on earnings and 
+cash flows, using all of the information you have and 
+bringing in views on how the macro economy will evolve.
+2. Revisit your story for the company: Evaluate how your story 
+for the company has changed as a result of the crisis, and 
+play out its effect on your long term value inputs (revenue 
+growth, margins and reinvestment)
+3. Bring in failure risk: For your story to play out, the company 
+has to survive. Incorporate, as best as you can, the 
+likelihood that your company will not make it through.
+36
+A Post-Corona Version
+41
+It’s only an investment!
+¨ Money on the table, but no regrets: In the week since I sold Tesla at $640, 
+the stock has gone on a wild ride, rising above $900 in two trading days. I. 
+I made my decision to buy, based on my story and valuation for Tesla, and 
+my decision to sell, for the same reason. If I abandon that philosophy to 
+play the momentum game, a game that I am not good at and don’t really 
+play well, I may make a bit more money, but at what cost? 
+¨ Why the vitriol? In a world where we face unbridgeable divides on 
+politics, religion and culture, do we need to add investing to the mix? If 
+you stayed with your Tesla investment, I wish you the best, and I hope 
+that you are holding on for the right reasons. If you sold short and lost 
+money, I get no joy out of your losses and no inclination to do a 
+celebratory dance.
+¨ Not worth losing sleep over: As far as I am concerned, Tesla is a 
+fascinating company, but it is just an investment, not a matter of life or 
+death, and definitely not worth losing sleep and friends over.

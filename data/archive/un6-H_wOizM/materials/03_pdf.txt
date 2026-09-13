@@ -1,0 +1,19 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session5soln.pdf
+
+Session	5:	Post	class	test	solutions	
+1. e.	All	of	the	above.		All	of	the	listed	answers	(a,b,c,d)	are	reasons	for	the	
+difference.	Some	are	permanent	(a)	and	some	are	temporary	(b,c,d)..	
+2. b.	That	the	benefits	from	R&D	are	too	uncertain.	Accounting’s	primary	
+reason	for	treating	R&D	as	operating	expenses	is	that	the	benefits	are	too	
+uncertain.	
+3. a.	Discount	contractual	lease	commitments	in	future	years	back	to	
+today,	using	the	pre-tax	cost	of	debt	as	the	discount	rate.	The	
+commitments	are	pre-tax	and	require	a	pre-tax	rate,	and	since	they	are	debt	
+commitments,	they	are	discounted	as	the	pre-tax	cost	of	debt.	
+4. b.	Lowered	in	the	period	of	the	grant,	by	the	estimated	value	of	options.	
+The	options	should	be	valued	at	the	time	of	the	grant,	based	upon	their	
+optionality	(remaining	life	to	expiration)	and	treated	as	an	expense.	
+5. e.		None	of	the	above.	Vesting	does	matter,	but	to	ignore	restricted	shares	
+until	they	are	vested	is	short	sighted.	If	you	want	to	consider	the	probability	
+of	vesting	and	bring	in	the	expected	value	of	shares,	it	is	more	accurate.	If	you	
+cannot	estimate	this	probability,	you	should	count	all	restricted	shares.

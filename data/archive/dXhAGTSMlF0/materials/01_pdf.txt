@@ -1,0 +1,153 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DeutscheBank.pdf
+
+DEUTSCHE	BANK:	A	GREEK	
+TRAGEDY	AT	A	GERMAN	BANK?
+Fair	to	whom?	And	whose	opinion?
+2
+The	Deutsche	Bank	Meltdown
+¨ Deutsche	Bank	is	a	German	institution,	an	entity	that	has	
+survived	wars,	recessions	and	depressions,	with	a		
+historic	reputation	for	solidity.
+¨ In	the	last	few	years,	that	reputation	has	taken	a	beating,	
+as	Deutsche	has	been	hurt	not	only	by	its	foray	into	
+investment	banking,	but	by	its	European	exposure.	The	
+bank	reported	big	losses	and	there	was	the	sense	that	
+the	bank	was	not	as	well	capitalized	as	other	large	banks.
+¨ The	problems	came	to	a	boil	a	few	weeks	ago,	when	the	
+US	DOJ	levied	a	fine	of	$14	billion	for	transgressions	in	
+pricing	mortgage	backed	securities,	leading	into	the	2008	
+market	crisis.
+3
+The	Lead	In..
+4
+The	Tier	Capital	Effect
+5
+The	Market	Reaction
+DBk Bond Price drops
+ DBk CDS Spreads rise
+DBk Stock Price down since April
+ DBk Stock Price down since 2008
+The Market's Crisis Reaction
+6
+Bank	Profitability
+7
+Deutsche	Bank’s	Profits
+Year Common	Equity ROE
+Expected	Net	
+Income
+Base $64,609	 -13.70% $(8,851)
+1 $71,161	 -7.18% $(5,111)
+2 $72,754	 -2.84% $(2,065)
+3 $74,372	 0.06% $43	
+4 $76,017	 1.99% $1,512	
+5 $77,688	 5.85% $4,545	
+6 $79,386	 6.57% $5,214	
+7 $81,111	 7.29% $5,910	
+8 $82,864	 8.00% $6,632	
+9 $84,644	 8.72% $7,383	
+10 $86,453	 9.44% $8,161	
+Terminal	Year $87,326	 9.44% $8,244
+8
+Banks:	Tier	1	Capital	Ratios
+9
+Deutsche	Bank:	Tier	1	Capital	and	FCFE
+Year Net	Income
+Risk-
+Adjusted	
+Assets
+Tier	1	
+Capital/	
+Risk	
+Adjusted	
+Assets
+Tier	1	
+Capital
+Change	in	
+Tier	1	
+Capital
+FCFE	=	Net	
+Income	-
+Change	in	
+Tier	1
+Base $(8,851) $445,570	 12.41% $55,282	
+1 $(5,111) $450,026	 13.74% $61,834	 $6,552	 $(11,663)
+2 $(2,065) $454,526	 13.95% $63,427	 $1,593	 $(3,658)
+3 $43	 $459,071	 14.17% $65,045	 $1,619	 $(1,576)
+4 $1,512	 $463,662	 14.38% $66,690	 $1,645	 $(133)
+5 $4,545	 $468,299	 14.60% $68,361	 $1,671	 $2,874	
+6 $5,214	 $472,982	 14.81% $70,059	 $1,698	 $3,516	
+7 $5,910	 $477,711	 15.03% $71,784	 $1,725	 $4,185	
+8 $6,632	 $482,488	 15.24% $73,537	 $1,753	 $4,880	
+9 $7,383	 $487,313	 15.46% $75,317	 $1,780	 $5,602	
+10 $8,161	 $492,186	 15.67% $77,126	 $1,809	 $6,352	
+Terminal	
+Year $8,244	 $497,108	 15.67% $77,897	 $771	 $7,472
+10
+Cost	of	equity	for	a	bank
+¨ Assuming	that	the	median	bank	is	mature,	you	can	write	the	
+price	to	book	ratio	as	a	function	of	its	ROE	and	cost	of	equity
+¤ PBV	=	
+("#$	–’)
+()*+,	*-	./01,2 	–’)
+¤ Implied	Cost	of	Equity	=	
+("#$	–’)
+345 + 𝑔
+¨ Plugging	in	the	median	bank’s	numbers	into	this	equation	and	
+using	a	nominal	growth	rate	set	equal	to	the	risk	free	rate	(in	
+US	dollars),	I	estimate	a	cost	of	equity	for	the	median	bank	to	
+be	9.44%	in	2016.	
+¤ Implied	Cost	of	Equity	for	median	bank	=	
+(.9::;	–.9;<)
+;.9< + .016 = 9.44%
+¨ Using	the	same	approach,	I	arrive	at	estimates	of	7.76%	for	
+the	banks	that	are	at	the	25th percentile	of	risk	and	10.20%	
+for	banks	at	the	75th percentile.
+11
+Valuing	Deutsche	Bank’s	Equity
+Year FCFE
+Terminal	
+Value
+Cost	of	
+equity	
+Cumulative	
+Cost	of	Equity PV
+1 $(11,663) 10.20% 1.1020 $(10,583.40)
+2 $(3,658) 10.20% 1.2144 $(3,012.36)
+3 $(1,576) 10.20% 1.3383 $(1,177.54)
+4 $(133) 10.20% 1.4748 $(90.34)
+5 $2,874	 10.20% 1.6252 $1,768.16	
+6 $3,516	 10.05% 1.7885 $1,965.99	
+7 $4,185	 9.90% 1.9655 $2,129.10	
+8 $4,880	 9.74% 2.1570 $2,262.34	
+9 $5,602	 9.59% 2.3639 $2,369.91	
+10 $6,352	 $87,317	 9.44% 2.5871 $36,206.88	
+Total	value	of	equity	= $31,838.74	
+Number	of	shares	= 1386.00
+Value	per	share	= $22.97
+12
+Adjusting	for	Catastrophic	Loss
+¨ There	is	the	possibility	that	Deutsche	Bank’s	
+problems	could	spin	out	of	control,	leading	to	a	
+bailout	or	nationalization,	and	my	equity	value	going	
+to	zero. Attaching	a	10%	probability	of	an	equity	
+wipeout:
+¤ Expected	Value	per	share	=	$22.97(.9)	+	$0.00	(.1)	=	$20.67	
+Unadjusted	Equity	Value	= $33.63	
+- Dilution	Effect	from	new	
+equity	issues $(10.66) -31.69%
+- Expected	cost	of	equity	
+wipeout $(2.30) -6.83%
+Value	of	equity	per	share	
+today	= $20.67
+13
+Act	or	Wait?
+¨ Case	for	action:	The	stock	is	under	valued	and	there	
+is	no	point	to	doing	valuation,	if	you	are	not	going	to	
+act	on	the	valuation.
+¨ Case	for	inaction:	Too	much	uncertainty?	So	what?	
+Either	the	uncertainty	will	be	resolved	(in	good	or	
+bad	ways)	and	everyone	will	have	clarity	on	what	
+Deutsche	is	worth,	and	the	price	will	adjust,	or	the	
+uncertainty	will	not	resolve	itself	in	the	near	future	
+and	I	will		sit	on	the	side	lines	
+¨ My	decision:	Buy	now,	no	regrets	later!

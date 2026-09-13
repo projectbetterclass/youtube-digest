@@ -1,0 +1,57 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session4test.pdf
+
+Session	4:	Post	Class	tests	
+1. To	get	to	operating	cash	flows,	which	of	the	following	do	we	do,	to	start	the	
+process?	
+a. Start	with	EBITDA	and	subtract	out	depreciation,	amortization	and	
+other	non-cash	charges	
+b. Start	with	EBIT	and	add	back	depreciation,	amortization	and	other	
+non-cash	charges	
+c. Start	with	Net	Income	and	add	back	depreciation,	amortization	and	
+other	non-cash	charges	
+d. Start	with	EBIT	and	subtract	out	depreciation,	amortization	and	other	
+non-cash	charges	
+e. Start	with	Net	Income	and	subtract	out	depreciation,	amortization	and	
+other	non-cash	charges	
+2. Following	up,	we	then	bring	in	changes	in	current	assets,	like	inventory,	and	
+current	liabilities,	like	accounts	payable.	Which	of	the	following	best	
+describes	the	effect	of	those	changes?	
+a. Increases	in	inventory	decrease	cash	flows	and	increases	in	accounts	
+payable	increase	cash	flows.	
+b. Increases	in	inventory	increase	cash	flows	and	increases	in	accounts	
+payable	decrease	cash	flows.	
+c. Increases	in	inventory	decrease	cash	flows	and	increases	in	accounts	
+payable	also	decrease	cash	flows.	
+d. Increases	in	inventory	increase	cash	flows	and	increases	in	accounts	
+payable	also	increase	cash	flows.	
+e. Increases	in	inventory	and	increases	in	accounts	payable	do	not	affect	
+cash	flows.	
+3. Embedded	in	investing	cash	flows	are	acquisitions	made	by	the	company.	
+These	acquisitions	can	be	paid	for	with	cash,	with	stock	or	with	a	mix	of	cash	
+and	stock.	Which	of	the	following	will	show	up	under	investing	activities?	
+a. Only	stock-based	acquisitions	
+b. Only	cash-based	acquisitions.	
+c. Cash-based	acquisitions	and	cash	portion	of	mixed	acquisitions	
+d. Cash-based	acquisitions	and	stock	portion	of	mixed	acquisitions	
+e. All	acquisitions	
+4. Dividends	can	be	cash	dividends	or	stock	dividends	and	share	buybacks	can	
+be	either	to	keep	as	treasury	stock	or	to	reduce	share	count.	Which	of	the	
+following	will	show	up	in	the	financing	section?	
+a. All	dividends,	no	share	buybacks	
+b. All	dividends,	all	buybacks	
+c. Cash	dividends,	no	share	buybacks	
+d. Cash	dividends,	all	share	buybacks	
+e. Cash	dividends,	only	share	buybacks	that	reduce	share	count	
+f. Cash	dividends,	only	share	buybacks	for	treasury	stock	
+5. If	you	are	looking	at	the	statement	of	cash	flows	for	a	very	young,	high-
+growth	company,	which	of	the	following	would	you	expect	to	see?
+a. Positive	cash	flow	from	operations,	Negative	cash	flow	from	investing	
+and	Negative	cash	flow	from	financing	
+b. Negative	cash	flow	from	operations,	Negative	cash	flow	from	investing	
+and	Positive	cash	flow	from	financing	
+c. Negative	cash	flow	from	operations,	Positive	cash	flow	from	investing	
+and	Negative	cash	flow	from	financing	
+d. Negative	cash	flow	from	operations,	Negative	cash	flow	from	investing	
+and	Negative	cash	flow	from	financing	
+e. Positive	cash	flow	from	operations,	Positive	cash	flow	from	investing	
+and	Positive	cash	flow	from	financing

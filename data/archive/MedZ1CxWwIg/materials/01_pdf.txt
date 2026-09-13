@@ -1,0 +1,69 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/TechLifeCycle.pdf
+
+AGING	IN	DOG	YEARS:	THE	
+SHORT	&	GLORIOUS	LIVES	OF	
+TECH	COMPANIES	
+Young	is	old..
+2
+The	Corporate	Life	Cycle
+3
+The	Determinants	of	Life	Cycle
+4
+Tech	versus	Non-tech	companies	
+¨  Drawing	the	line	between	tech	and	non	tech	
+companies	is	geNng	more	and	more	diﬃcult.	The	
+soluPon	may	be	to	think	of	technology	on	a	
+conPnuum.	
+¨  There	are	two	reasons	the	classiﬁcaPons	maSer:	
+¤  Equity	research	analysts	and	porUolio	managers	sPll	work	
+in	sector	silos,	with	tunnel	vision	of	anything	that	happens	
+outside	these	silos.	Where	a	company	like	Amazon	is	
+placed	can	make	a	diﬀerence	in	how	it	is	analyzed.	
+¤  Pricing	is	oZen	done	relaPve	to	the	sector	that	investors	
+decide	to	put	a	company	into.
+5
+The	deﬁning	characterisPcs	of	the	tech	
+business..	
+1.  Scaling	up	is	easy:	Tech	companies	oZen	operate	in	businesses	
+where	entry	is	not	restricted,	the	up	front	investment	is	minimal	
+and	scaling	up	in	easy.		
+2.  Holding	on	is	tough:	Once	tech	companies	reach	the	mature	
+phase,	they	don't	get	to	have	long	harvest	periods.	Their	
+compePPve	advantages	are	ﬂeePng	and	quickly	deplete.	
+3.  Decline	is	rapid:	The	same	forces	that	allow	technology	
+companies	to	grow,	i.e.,	unrestricted	entry,	ease	of	scaling	up	
+and	customer	switching,	also	make	them	vulnerable	to	new	
+entrants	seeking	to	take	their	business	away	from	them.	
+4.  And	there	is	liSle	leZ	in	the	end	game:	Unlike	other	businesses,	
+which	accumulate	physical	assets	as	they	grow	and	thus	have	a	
+liquidaPon	potenPal,	with	technology	companies,	there	is	liSle	of	
+substance	to	fall	back,	once	earnings	power	is	exhausted.
+6
+Tech	versus	Non-tech	life	cycles
+7
+Evidence	
+¨  First,	there	is	evidence	that	the	small	tech	ﬁrms	(that 	
+survive	the	ﬁrst	tests)	are	able	to	scale	up	faster	in	
+terms	of	revenue	growth	(at	least)	than	small	non-
+tech	ﬁrms.		
+¨  The	second	is	that	these	tech	ﬁrms,	once	
+established,	have	a	more	diﬃcult	Pme	maintaining	
+growth.		
+¨  The	third	is	that	decline,	once	it	starts	at	tech	ﬁrms,	
+is	more	diﬃcult	to	reverse	and	quicker	to	accelerate.
+8
+A	New	DisrupPon	DeﬁniPon	
+¨  DisrupPon	is	the	new	buzz	word	in	business	and	it	is	used	
+oZen	as	a	“weapon	of	mass	distracPon”,	designed	to	to	cut	
+oﬀ	debate	or	not	talk	speciﬁcs.	
+¨  One	way	to	think	of	disrupPon,	especially	when	it	is	tech-
+based,	is	that	by	introducing	a	low	entry	cost,	easily	scalable	
+model	into	a	exisPng	non-tech	business,	you	are	altering	the	
+rules	of	the	game.	
+¨  Unused	to	moving	at	the	speed	required	in	a	tech	life	cycle,	
+the	mature	companies	in	the	old	business	model	wait	too	
+long	and	act	too	slowly.	By	the	Pme	they	recognize	the	
+threat,	it	is	too	late.	
+¨  As	a	note	of	the	cauPon	to	the	tech	upstarts,	the	downside	of	
+the	tech	model	is	that	their	day	in	the	sun	will	also	be	short	
+unless	they	can	change	the	rules	of	the	game.

@@ -1,0 +1,76 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session17.pdf
+
+11
+The	Financing	Mix	Question
+Aswath Damodaran
+11
+¨In	deciding	to	raise	financing	for	a	business,	is	there	
+an	optimal	mix	of	debt	and	equity?
+¤If	yes,	what	is	the	trade	off	that	lets	us	determine	this	
+optimal	mix?
+nWhat	are	the	benefits	 of	using	debt	instead	of	equity?
+nWhat	are	the	costs	of	using	debt	instead	of	equity?
+¤If	not,	why	not?
+12
+The	Illusory	Benefits	of	Debt
+¨At	first	sight,	the	benefit	of	debt	seems	obvious.	The	cost	
+of	debt	is	lower	than	the	cost	of	equity.	
+¨That	benefit	is	an	illusion,	though,	because	debt	is	
+cheaper	than	equity	for	a	simple	reason.	The	lender	gets	
+both	first	claim	on	the	cash	flows	and	a	contractually	
+pre-set	cash	flow.	The	equity	investor	is	last	in	line	and	
+has	to	demand	a	higher	rate	of	return	than	the	lender	
+does.
+¨By	borrowing	money	at	a	lower	rate,	you	are	not	making	
+a	business	more	valuable,	but	just	moving	the	risk	
+around.
+Aswath Damodaran
+12
+13
+Costs	and	Benefits	of	Debt
+Aswath Damodaran
+13
+¨Benefits	of	Debt
+¤Ta x 	 B e n e f it s:	The	tax	code	is	tilted	in	favor	of	debt,	with	interest	
+payments	 being	tax	deductible	 in	most	parts	of	the	world,	while	
+cash	flows	to	equity	 are	not.
+¤Adds	discipline	to	management:	When	 managers	are	sloppy	in	
+their	project	choices,	borrowing	 money	 may	make	 them	less	so.
+¨Costs	of	Debt
+¤Bankruptcy	Costs:	Borrowing	money	 will	 increase	your	expected	
+probability	 and	cost	of	bankruptcy .
+¤Agency	Costs:	What’s	good	for	stockholders	 is	not	always	what’s	
+good	for	lenders	 and	that	creates	friction	and	costs.
+¤Loss	of	Future	Flexibility:	 Using	up	debt	capacity	today	will	 mean	
+that	you	will	not	be	able	to	draw	on	it	in	the	future.
+14
+Tax	Benefits	of	Debt
+Aswath Damodaran
+14
+¨When	you	borrow	money ,	you	are	allowed	to	deduct	interest	
+expenses	from	your	income	to	arrive	at	taxable	income.	This	
+reduces	your	taxes.	When	you	use	equity,	you	are	not	
+allowed	to	deduct	payments	to	equity	(such	as	dividends)	to	
+arrive	at	taxable	income.
+¨The	dollar	tax	benefit	from	the	interest	payment	in	any	year	is	
+a	function	of	your	tax	rate	and	the	interest	payment:
+¤Ta x 	 b en efi t 	 ea c h 	 y ea r	 =	 Ta x 	 Ra t e	 *	 In t eres t 	 P a y m en t
+The	caveat	is	that	you	need	to	have	 the	income	to	cover	interest	
+payments	to	get	this	tax	benefit.
+¨Proposition	1:	Other	things	being	equal,	the	higher	the	
+marginal	tax	rate	of		a	business,	the	more	debt	it	will	have	in	
+its	capital	structure.
+15
+The	Effects	of	Taxes
+Aswath Damodaran
+15
+¨You	are	comparing	the	debt	ratios	of	real	estate	
+corporations,	which	pay	the	corporate	tax	rate,	and	
+real	estate	investment	trusts,	which	are	not	taxed,	
+but	are	required	to	pay	95%	of	their	earnings	as	
+dividends	to	their	stockholders.	 Which	of	these	two	
+groups	would	you	expect	to	have	the	higher	debt	
+ratios?
+a.The	real	estate	corporations
+b.The	real	estate	investment	 trusts
+c.Cannot	tell,	without	more	information

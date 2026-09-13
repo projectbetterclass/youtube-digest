@@ -1,0 +1,177 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/UberUserJune2017.pdf
+
+USER	AND	SUBSCRIBER	
+ECONOMICS:	A	USER-BASED	
+VALUATION	OF	UBER
+All	about	users?
+2
+Push	back	on	Uber	Valuation
+¨ Input	disagreement:	My	Uber	DCF	valuation	has	had	plenty	of	push	
+back,	with	many	disagreeing	with	my	assumptions.	That	is	part	and	
+parcel	of	valuing	companies	and	I	welcome	that	feedback.	
+¨ Model	debate:	There	was	a	debate	about	whether	the	problem	
+was	not	with	the	inputs	but	with	the	DCF	model	itself	and	the	
+argument	that	DCF	was	designed	for	old	economy	companies	and	
+not	suited	to	new	economy	firms	that	are	more	focused	on	
+accumulating	users	&	subscribers,	making	them	stick	with	the	firm	
+and	sell	them	products	&	services	over	long	periods.
+¨ DCF	is	flexible:	I	have	long	argued	that	DCF	models	are	much	more	
+flexible	than	most	people	give	them	credit	for,	and	that	they	can	be	
+modified	to	reflect	other	frameworks,	and	that	if	you	have	a	
+problem	with	a	DCF	value,	it	should	not	be	with	the	model	but	with	
+the	person	using	that	model.
+3
+DCF:	Aggregated	versus	Disaggregated	
+Valuation
+¨ DCF	First	Principle:	The	value	of	a	business	is	the	present	value	of	
+the	expected	cash	flows	from	that	business,	with	the	discount	rate	
+adjusted	for	risk.	That	is	true	for	any	business,	manufacturing	or	
+service,	small	or	large,	old	economy	or	new	economy.	
+¨ DCF	Practice:	Since	that	is	the	truest	description	of	a	discounted	
+cash	flow	valuation,	the	problems	that	critics	must	have	with	a	DCF	
+is	not	with	the	DCF ,	per	se,	but	in	how	I	estimate	cash	flows	and	
+value	in	a	DCF.	
+¨ Aggregated	Valuation:	I	followed	the	aggregated	model	for	
+discounted	cash	flow	valuation	where	I	estimated	the	cash	flows	to	
+Uber	as	a	company,	starting	with	its	revenues	and	working	through	
+the	consolidated	expenses	and	total	reinvestment	each	year .	Along	
+the	way,	I	had	to	make	assumptions	about	a	total	market	that	Uber	
+would	go	after,	the	market	share	that	I	expect	the	company	to	get	
+in	that	market	and	the	operating	margins	in	steady	state.
+4
+Disaggregated	Valuation:	Forms
+¨ Business	Units:	In	a	sum	of	the	parts	valuation	(SOTP),	you	can	break	a	
+multi-business	company	into	its	individual	business	units	and	value	each	
+unit	separately.	In	fact,	I	have	a	paper	where	I	describe	the	process	of	
+doing	a	SOTP	valuation,	using	United	Technologies,	a	conglomerate,	as	my	
+example.	If	that	SOTP	valuation	is	much	higher	than	the	value	that	the	
+market	attaches	to	the	company,	you	may	very	find	an	activist	investor	
+targeting	the	company.
+¨ Geographical	Groupings:	When	valuing	a	multinational,	like	Coca	Cola,	
+you	can	break	the	company's	operations	down	geographically	and	value	
+geographical	grouping	(Asia,	Latin	America,	North	America,	Europe)	
+separately,	not	only	using	different	assumptions	about	growth	and	risk	in	
+region	but	even	different	currencies	for	each	region.
+¨ Unit-based	Valuation:	When	valuing	any	company,	you	can	try	to	value	it	
+on	a	unit-basis,	building	up	to	its	value	by	valuing	each	unit	separately	and	
+then	aggregating	across	units.
+5
+Why	aggregated	valuation?
+¨ Law	of	large	numbers:	To	the	extent	that	your	estimation	errors	on	a	unit	basis	are	
+uncorrelated	or	lightly	correlated,	your	estimates	on	an	aggregated	level	will	be	more	
+precise	than	the	unit-based	estimates.	
+¨ Information	Vacuums:	Information	on	a	disaggregated	basis	is	difficult	to	get	for	
+individual	businesses,	geographies,	products	or	users,	if	you	are	an	investor	looking	at	a	
+company	from	the	outside.	If	you	are	doing	your	valuation	from	inside	the	company	(as	
+an	owner	or	venture	capitalist),	you	may	be	able	to	get	this	information,	but	as	you	will	
+see	with	my	Uber	user	valuation,	even	insiders	will	face	limits.
+¨ Missing	Value	Pieces:	When	valuing	a	company	on	a	disaggregated	business,	it	is	easy	
+to	overlook	some	items	that	are	consequential	for	value.	In	sum	of	the	parts	valuation,	
+for	instance,	analysts	are	so	caught	up	in	estimating	the	values	of	individual	businesses	
+that	they	forget	to	value	"corporate	costs",	which	can	be	a	multi-billion	drag	on	value.	
+¨ Corporate	Structure:	There	are	some	items	that	are	easier	to	deal	with	at	the	aggregate	
+level,	because	that	is	where	they	affect	the	business.	Thus,	you	can	model	when	taxes	
+come	due	and	the	effect	of	losses	easier	when	you	are	valuing	an	aggregated	business	
+than	when	you	are	valuing	it	on	a	disaggregated	level.	Similarly,	if	you	are	concerned	
+about	legal	penalties	or	corporate	governance,	these	are	better	addressed	at	the	
+aggregated	level.
+6
+Why	disaggregated	valuation?
+¨ Incorporate	key	differences:	In	aggregated	valuation,	you	miss	
+key	differences	across	disaggregated	units	(business,	
+geographies,	products,	users)	as	well	as	the	missing	of	
+competitive	advantages	that	apply	only	to	some	units	of	the	
+business	and	not	to	others. With	disaggregated	valuation,	you	
+can	bring	these	in.
+¨ Connect	stories	to	value:	If	the	story	being	told	by	a	business	
+person	or	entrepreneur	is	a	unit-based	story	(users,	
+subscribers),	building	a	valuation	that	is	related	to	those	units	
+is	better .
+¨ Connect	to	better	business	decisions:	To	the	extent	that	
+insiders	can	obtain	the	information	to	value	a	business	on	a	
+disaggregated	basis,	you	can	use	that	information	to	improve	
+the	way	the	company	is	run	and	to	increase	its	value.
+7
+User	Based	Valuation
+¨ To	value	a	company,	based	on	its	users,	you	have	to	
+value	an	individual	user	first	and	then	estimate	the	
+cost	of	acquiring	new	users.	
+Value	of	user-based	company’s	operations	=	
+Value	of	existing	users
++	Value	added	by	new	users	
+- Value	drag	from	corporate	expenses
+8
+Valuing	Existing	Users
+9
+Implications	for	Value
+¨ The	value	of	a	user increases	with	user	stickiness	and	
+loyalty (captured	in	the	expected	lifetime	of	a	user	and	the	annual	
+renewal	rate).
+¨ The	value	of	a	user	is directly	proportional	to	the	profitability	of	
+serving	that	user (captured	as	the	difference	between	the	revenues	
+from	that	user	and	the	cost	of	servicing	that	user)
+¨ The	value	of	a	user	is directly	proportional	to	the	growth	that	you	
+can	generate	in	profits over	time,	by	either	getting	the	user	to	use	
+more	of	your	product	or	service	or	coming	up	with	other	products	
+or	services	that	you	can	sell	that	user .
+¨ The	value	of	a	user decreases	as	you	become	uncertain	about	your	
+future	cash	flows from	that	user,	with	that	uncertainty	being	a	
+function	of:
+¤ Revenue	Model:	Subscription	versus	Transaction-based	versus	advertising
+¤ Discretionary	versus	Non-discretionary	nature	of	product	or	service
+10
+Valuing	New	Users
+11
+Implications	for	Value
+¨ The	value	added	by	a	new	user increases	with	the	value	of	a	
+user,	estimated	in	the	last	section.	You	may	become	a	more	
+valuable	firm	with	a	strategy	of	going	for fewer	and	more	
+intense	users than	one	with more	and	less	engaged	users.
+¨ The	value	added	by	a	new	user decreases	as	the	cost	of	
+adding	users	increases.	That	cost	will	be	a	function	of	the	
+competitiveness	of	the	business	(increasing	as	competition	
+increases)	but	also	of	networking	effects.	In	fact,	if	you	have	
+strong	networking	effects,	the	cost	of	adding	new	users	will	
+decrease	as	you	accumulate	new	users.
+¨ The	value	added	by	a	new	user	decreases	as	you	become	
+more	uncertain	about	user	growth.	That	uncertainty	will	be	a	
+function	of	competition	and	whether	the	technology	that	you	
+have	built	your	product	or	service	on	is	sustainable
+12
+Valuing	Corporate	Expenses
+13
+Uber:	Deconstructing	the	Financials
+14
+Uber’s	Existing	User	Value
+15
+Existing	User	Value:	What	if?
+16
+Uber’s	New	User	Value
+17
+New	User	Value:	What	if?
+18
+Uber	Corporate	Expense	Value	(Drag)
+19
+Uber	Valuation	
+User	Value Asset	value Company	Value Equity	Value
+Existing	Users $16,412.49	
+New	Users $20,190.70	
+User	Value $36,603.19	 $36,603.19	
+- Corporate	Expense	Drag $(10,369.28)
+Uber	Operating	Assets $26,233.91	 $26,233.91
++	Cash $5,000.00	
++	Didi Cross	Holding $6,000.00	
+Uber	Firm	Value $37,233.91	 $37,233.91	
+- Debt $-
+Value	of	Equity $37,233.91
+20
+Bottom	Line
+¨ All	valuations	require	assumptions,	whether	you	
+value	a	business	on	an	aggregated	basis	or	on	a	
+disaggregated	one.	In	fact,	you	usually	require	more	
+assumptions	with	the	latter	than	the	former .
+¨ Valuing	a	business	on	a	disaggregated	basis	requires	
+information	that	is	usually	not	available	to	investors	
+who	are	outside	the	company	but	only	to	insiders.
+¨ The	lifetime	value	of	a	user	or	subscriber	is	a	DCF	
+value.

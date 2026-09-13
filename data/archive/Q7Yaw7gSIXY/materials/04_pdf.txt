@@ -1,0 +1,24 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/eqnotes/postclass/session5soln.pdf
+
+Session	  5:	  Post	  class	  test	  solutions	  
+1. b.	  The	  ERP	  will	  go	  down,	  if	  the	  earnings/	  cash	  flows	  went	  up	  by	  less	  than	  
+20%	  during	  the	  year.	  	  If	  the	  growth	  rate	  and	  risk	  free	  rate	  don’t	  change,	  the	  
+effect	  will	  depend	  upon	  how	  much	  stocks	  go	  up,	  relative	  to	  earnings/cashflows.	  
+If	  the	  stock	  market	  goes	  up	  by	  more	  than	  earnings	  go	  up,	  the	  ERP	  will	  go	  down.	  
+2. a.	  You	  will	  over	  estimate	  the	  implied	  ERP.	  	  When	  you	  use	  an	  upwardly	  biased	  
+expected	  growth	  in	  earnings,	  you	  will	  get	  a	  higher	  IRR	  (expected	  return	  on	  
+stocks)	  for	  investing	  in	  stocks.	  	  That,	  in	  turn,	  will	  lead	  to	  too	  high	  an	  estimate	  for	  
+the	  ERP.	  
+3. d.	  You	  will	  over	  value	  all	  stocks,	  but	  you	  will	  over	  value	  riskier	  stocks	  more	  
+than	  safe	  stocks.	  By	  using	  too	  low	  an	  ERP,	  you	  will	  end	  up	  with	  too	  low	  a	  cost	  of	  
+equity/capital,	  and	  over	  estimate	  the	  value,	  but	  the	  effect	  will	  be	  a	  function	  of	  
+your	  relative	  risk	  measure.	  If	  you	  use	  beta	  as	  your	  measure	  of	  relative	  risk,	  you	  
+will	  under	  estimate	  the	  cost	  of	  equity	  more	  for	  high	  beta	  stocks	  than	  for	  low	  beta	  
+stocks,	  and	  consequently	  over	  value	  them	  by	  more.	  
+4. d.	  Sell	  stocks	  and	  buy	  bonds.	  You	  would	  expect	  equity	  risk	  premiums	  to	  go	  up	  
+to	  6%	  or	  default	  spreads	  to	  go	  down	  to	  2%	  or	  both	  to	  move	  (but	  in	  opposite	  
+directions).	  	  	  
+5. c.	  High	  capitalization	  rates,	  High	  PE	  ratios,	  Low	  bond	  default	  spread.	  High	  
+PE	  ratios,	  other	  things	  remaining	  equal,	  translate	  into	  low	  equity	  risk	  premiums.	  
+You	  want	  to	  get	  into	  real	  estate	  when	  you	  get	  high	  risk	  premiums	  on	  real	  estate	  
+when	  you	  are	  getting	  low	  risk	  premiums	  on	  equity	  and	  bonds.

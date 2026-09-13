@@ -1,0 +1,153 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/controlInpractice.pdf
+
+IN PRACTICE WEBCAST: VALUING 
+CONTROL
+Aswath Damodaran
+2
+The Value of Control
+¨ The value of controlling a firm derives from the fact 
+that you believe that you or someone else would 
+operate the firm differently (and better) from the 
+way it is operated currently. 
+¨ The expected value of control is the product of two 
+variables: 
+¤ the change in value from changing the way a firm is 
+operated
+¤ the probability that this change will occur
+Revenues
+* Operating Margin
+= EBIT 
+- Tax Rate * EBIT
+= EBIT (1-t)
++ Depreciation
+- Capital Expenditures
+- Chg in Working Capital
+= FCFF
+Divest assets that
+have negative EBIT
+More efficient 
+operations and 
+cost cuttting: 
+Higher Margins
+Reduce tax rate
+- moving income to lower tax locales
+- transfer pricing
+- risk management
+Live off past over- 
+investment
+Better inventory 
+management and 
+tighter credit policies
+Increase Cash Flows
+Reinvestment Rate 
+* Return on Capital
+= Expected Growth Rate
+Reinvest more in
+projects
+Do acquisitions
+Increase operating
+margins
+Increase capital turnover ratio
+Increase Expected Growth
+Firm Value
+Increase length of growth period
+Build on existing 
+competitive 
+advantages
+Create new 
+competitive 
+advantages
+Reduce the cost of capital
+Cost of Equity * (Equity/Capital) + 
+Pre-tax Cost of Debt (1- tax rate) * 
+(Debt/Capital)
+Make your 
+product/service less 
+discretionary
+Reduce 
+Operating 
+leverage
+Match your financing 
+to your assets: 
+Reduce your default 
+risk and cost of debt
+Reduce beta
+Shift interest 
+expenses to 
+higher tax locales
+Change financing 
+mix to reduce 
+cost of capital
+1. Operating Margin
+2. Effective Tax Rate
+3. Working Capital/Sales
+1. Revenue Growth
+2. Return on Capital
+3. Reinvestment Rate
+1. Excess Returns
+1. Optimal Debt Ratio
+6
+An Assessment of Gerdau: Where is there most 
+promise?
+¨ If you were running Gerdau, where do you see the 
+most promise in value enhancement?
+1. Increase cash flows from existing assets (Current 
+margin = 19.5%; Tax rate = 34%; Non-cash WC = 
+18.33%)
+2. Increase growth rate during high growth period 
+(Reinvestment rate = 60%, Return on capital = 
+16.81%; Growth rate = 10.09%)
+3. Increase length of growth period (5 years)
+4. Reduce cost of capital (Debt ratio = 24%)
+7
+Gerdau : Optimal Capital Structure
+9
+An Assessment of Genting Berhad
+¨ If you were running Genting Berhad, where do you see the 
+most promise in value enhancement?
+1. Go for more revenue growth: Revenue growth is only 5%. 
+Increasing it may push up value.
+2. Increase operating margins to the average(27.9%) 
+generated over the last decade.
+3. Change mix of debt, type of debt, to lower cost of capital.
+(Genting is close to its optimal debt ratio currently, with an 
+actual debt ratio of 34% and an optimal debt ratio of 30%)
+4. Sell of assets (especially real estate) that have higher 
+alternative value uses.
+¨ Of these, the action with the most potential for value change 
+is to push to improve operating margins.
+11
+The Probability of Changing Control
+¨ The probability of changing management will be 
+different across different companies and will vary 
+across different markets. 
+¨ In general, the more power stockholders have and 
+the stronger corporate governance systems are, the 
+greater is the probability of management change for 
+any given firm.
+¨ The probability of changing management will change 
+over time as a function of legal changes, market 
+developments and investor shifts.
+12
+Gerdau’s Cross Holdings…
+13
+Genting Berhad: Change Probability
+¨ As a Malaysian company, with a web of companies 
+holding shares in each change, change will be 
+difficult, unless one of the leading stockholders signs 
+on, or management has a change of heart.
+¨ The probability of change is low, but not zero. There 
+is also the possibility that an acquirer may find the 
+company attractive for its turn around potential.
+14
+Bottom Line
+¨ There is only a moderate value of control at Gerdau 
+Steel in 2007, because the company was for the 
+most part, well run. Even if you believed that there 
+was value to controlling Gerdau, the expected value 
+of control would have been close to zero, since the 
+holding structure of Gerdau would have made it 
+almost impossible to change the way the firm was 
+run.
+¨ At Genting Berhad, in 2016, the value of control and 
+the expected value of control are both much higher .

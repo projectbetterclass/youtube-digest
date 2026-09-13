@@ -1,0 +1,278 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/valfall15/valsession9.pdf
+
+149
+II.	Analyst	Forecasts	of	Growth	
+¨ While	the	job	of	an	analyst	is	to	ﬁnd	under	and	over	
+valued	stocks	in	the	sectors	that	they	follow,	a	signiﬁcant	
+propor@on	of	an	analyst’s	@me	(outside	of	selling)	is	
+spent	forecas@ng	earnings	per	share.		
+¤ Most	of	this	@me,	in	turn,	is	spent	forecas@ng	earnings	per	share	
+in	the	next	earnings	report	
+¤ While	many	analysts	forecast	expected	growth	in	earnings	per	
+share	over	the	next	5	years,	the	analysis	and	informa@on	
+(generally)	that	goes	into	this	es@mate	is	far	more	limited.	
+¨ Analyst	forecasts	of	earnings	per	share	and	expected	
+growth	are	widely	disseminated	by	services	such	as	
+Zacks	and	IBES,	at	least	for	U.S	companies.	
+Aswath Damodaran
+149
+150
+How	good	are	analysts	at	forecas@ng	growth?	
+¨ Analysts	forecasts	of	EPS	tend	to	be	closer	to	the	actual	EPS	than	
+simple	@me	series	models,	but	the	diﬀerences	tend	to	be	small	
+	Study									Group	tested	 	Analyst		Time	Series	
+					 Error 	Model	Error	
+Collins	&	Hopwood	Value	Line	Forecasts 	31.7%	34.1%	
+Brown	&	Rozeﬀ	Value	Line	Forecasts 	28.4%	32.2%	
+Fried	&	Givoly 	Earnings	Forecaster 	16.4%	19.8%	
+¨ The	advantage	that	analysts	have	over	@me	series	models	
+¤ tends	to	decrease	with	the	forecast	period	(next	quarter	versus	5	years)	
+¤ tends	to	be	greater	for	larger	ﬁrms	than	for	smaller	ﬁrms	
+¤ tends	to	be	greater	at	the	industry	level	than	at	the	company	level	
+¨ Forecasts	of	growth	(and	revisions	thereof)	tend	to	be	highly	
+correlated	across	analysts.	
+Aswath Damodaran
+150
+151
+Are	some	analysts	more	equal	than	others?	
+¨ A	study	of	All-America	Analysts	(chosen	by	Ins@tu@onal	
+Investor)	found	that	
+¤ There	is	no	evidence	that	analysts	who	are	chosen	for	the	All-America	
+Analyst	team	were	chosen	because	they	were	beber	forecasters	of	
+earnings.	(Their	median	forecast	error	in	the	quarter	prior	to	being	
+chosen	was	30%;	the	median	forecast	error	of	other	analysts	was	28%)	
+¤ However,	in	the	calendar	year	following	being	chosen	as	All-America	
+analysts,	these	analysts	become	slightly	beber	forecasters	than	their	
+less	fortunate	brethren.	(The	median	forecast	error	for	All-America	
+analysts	is	2%	lower	than	the	median	forecast	error	for	other	analysts)	
+¤ Earnings	revisions	made	by	All-America	analysts	tend	to	have	a	much	
+greater	impact	on	the	stock	price	than	revisions	from	other	analysts	
+¤ The	recommenda@ons	made	by	the	All	America	analysts	have	a	
+greater	impact	on	stock	prices	(3%	on	buys;	4.7%	on	sells).	For	these	
+recommenda@ons	the	price	changes	are	sustained,	and	they	con@nue	
+to	rise	in	the	following	period	(2.4%	for	buys;	13.8%	for	the	sells).	
+Aswath Damodaran
+151
+152
+The	Five	Deadly	Sins	of	an	Analyst	
+¨ Tunnel	Vision:	Becoming	so	focused	on	the	sector	and	
+valua@ons	within	the	sector	that	you	lose	sight	of	the	bigger	
+picture.	
+¨ Lemmingi@s:	Strong	urge	felt	to	change	recommenda@ons	&	
+revise	earnings	es@mates	when	other	analysts	do	the	same.	
+¨ Stockholm	Syndrome:	Refers	to	analysts	who	start	iden@fying	
+with	the	managers	of	the	ﬁrms	that	they	are	supposed	to	
+follow.	
+¨ Factophobia	(generally	is	coupled	with	delusions	of	being	a	
+famous	story	teller):	Tendency	to	base	a	recommenda@on	on	
+a	“story”	coupled	with	a	refusal	to	face	the	facts.	
+¨ Dr.	Jekyll/Mr.Hyde:	Analyst	who	thinks	his	primary	job	is	to	
+bring	in	investment	banking	business	to	the	ﬁrm.	
+Aswath Damodaran
+152
+153
+Proposi@ons	about	Analyst	Growth	Rates	
+¨ Proposi@on	1:	There	if	far	less	private	informa@on	and	far	more	
+public	informa@on	in	most	analyst	forecasts	than	is	generally	
+claimed.	
+¨ Proposi@on	2:	The	biggest	source	of	private	informa@on	for	
+analysts	remains	the	company	itself	which	might	explain	
+¤ why	there	are	more	buy	recommenda@ons	than	sell	recommenda@ons	
+(informa@on	bias	and	the	need	to	preserve	sources)	
+¤ why	there	is	such	a	high	correla@on	across	analysts	forecasts	and	revisions	
+¤ why	All-America	analysts	become	beber	forecasters	than	other	analysts	
+aier	they	are	chosen	to	be	part	of	the	team.	
+¨ Proposi@on	3:	There	is	value	to	knowing	what	analysts	are	
+forecas@ng	as	earnings	growth	for	a	ﬁrm.	There	is,	however,	
+danger	when	they	agree	too	much	(lemmingi@s)	and	when	they	
+agree	to	lible	(in	which	case	the	informa@on	that	they	have	is	so	
+noisy	as	to	be	useless).	
+Aswath Damodaran
+153
+154
+III.	Fundamental	Growth	Rates	
+Investment
+in Existing
+Projects
+$ 1000
+Current Return on
+Investment on 
+Projects
+12%
+X = Current
+Earnings
+$120
+Investment
+in Existing
+Projects
+$1000
+Next Periodʼs 
+Return on
+Investment
+12%
+X
+Investment
+in New
+Projects
+$100
+Return on
+Investment on
+New Projects
+12%
+X+ = Next 
+Periodʼs
+Earnings
+132
+Investment
+in Existing
+Projects
+$1000
+Change in
+ROI from 
+current to next
+period: 0%
+X
+Investment
+in New
+Projects
+$100
+Return on
+Investment on
+New Projects
+12%
+X+ Change in Earnings
+$ 12=
+Aswath Damodaran
+154
+155
+Growth	Rate	Deriva@ons	
+In the special case where ROI on existing projects remains unchanged and is equal to the ROI on new projects
+Investment in New Projects
+Current Earnings Return on Investment  Change in Earnings
+Current Earnings=X
+Reinvestment Rate XReturn on Investment  =Growth Rate in Earnings
+in the more general case where ROI can change from period to period, this can be expanded as follows:
+Investment in Existing Projects*(Change in ROI) + New Projects (ROI)
+Investment in Existing Projects* Current ROI
+Change in Earnings
+Current Earnings=
+100
+120 X12%  =$12
+$120
+For instance, if the ROI increases from 12% to 13%, the expected growth rate can be written as follows:
+83.33% X12%  =10%
+$1,000 * (.13 - .12) + 100 (13%)
+$ 1000 * .12
+$23
+$120= =19.17%
+Aswath Damodaran
+155
+156
+Es@ma@ng	Fundamental	Growth	from	new	
+investments:	Three	varia@ons	
+Earnings	Measure	 Reinvestment	Measure	 Return	Measure	
+Earnings	per	share	 Reten@on	Ra@o	=	%	of	net	
+income	retained	by	the	
+company		=	1	–	Payout	
+ra@o	
+Return	on	Equity	=	Net	
+Income/	Book	Value	of	
+Equity	
+Net	Income	from	non-cash	
+assets	
+Equity	reinvestment	Rate	=	
+(Net	Cap	Ex	+	Change	in	
+non-cash	WC	–	Change	in	
+Debt)/	(Net	Income)	
+Non-cash	ROE	=	Net	
+Income	from	non-cash	
+assets/	(Book	value	of	
+equity	–	Cash)	
+Opera@ng	Income	 Reinvestment	Rate	=	(Net	
+Cap	Ex	+	Change	in	non-
+cash	WC)/	Aier-tax	
+Opera@ng	Income	
+Return	on	Capital	or	ROIC	
+=	Aier-tax	Opera@ng	
+Income/	(Book	value	of	
+equity	+	Book	value	of	
+debt	–	Cash)	
+	
+Aswath Damodaran
+156
+157
+I.	Expected	Long	Term	Growth	in	EPS	
+¨ When	looking	at	growth	in	earnings	per	share,	these	inputs	
+can	be	cast	as	follows:	
+¤ Reinvestment	Rate	=	Retained	Earnings/	Current	Earnings	=	Reten@on	
+Ra@o	
+¤ Return	on	Investment	=	ROE	=	Net	Income/Book	Value	of	Equity	
+¨ In	the	special	case	where	the	current	ROE	is	expected	to	
+remain	unchanged	
+	gEPS 		=	Retained	Earnings	t-1/	NI	t-1	*	ROE		
+		 =	Reten@on	Ra@o	*	ROE	
+		 =	b	*	ROE	
+¨ Proposi@on	1:	The	expected	growth	rate	in	earnings	for	a	
+company	cannot	exceed	its	return	on	equity	in	the	long	term.		
+Aswath Damodaran
+157
+158
+Es@ma@ng	Expected	Growth	in	EPS:	Wells	Fargo	
+in	2008	
+¨ Return	on	equity	(based	on	2008	earnings)=	17.56%	
+¨ Reten@on	Ra@o	(based	on	2008	earnings	and	
+dividends)	=	45.37%	
+¨ Expected	growth	rate	in	earnings	per	share	for	Wells	
+Fargo,	if	it	can	maintain	these	numbers.	
+Expected	Growth	Rate	=	0.4537	(17.56%)	=	7.97%	
+Aswath Damodaran
+158
+159
+Regulatory	Eﬀects	on	Expected	EPS	growth	
+¨ Assume	now	that	the	banking	crisis	of	2008	will	have	
+an	impact	on	the	capital	ra@os	and	proﬁtability	of	
+banks.	In	par@cular,	you	can	expect	that	the	book	
+capital	(equity)	needed	by	banks	to	do	business	will	
+increase	30%,	star@ng	now.		
+¨ Assuming	that	Wells	con@nues	with	its	exis@ng	
+businesses,	es@mate	the	expected	growth	rate	in	
+earnings	per	share	for	the	future.	
+	New	Return	on	Equity	=	
+	Expected	growth	rate	=	
+Aswath Damodaran
+159
+160
+One	way	to	pump	up	ROE:	Use	more	debt	
+ROE	=	ROC	+	D/E	(ROC	-	i	(1-t))	
+where,	
+	ROC	=	EBITt	(1	-	tax	rate)	/	Book	value	of	Capitalt-1	
+	D/E	=	BV	of	Debt/	BV	of	Equity	
+	i	=	Interest	Expense	on	Debt	/	BV	of	Debt	
+	t	=	Tax	rate	on	ordinary	income	
+¨ Note	that	Book	value	of	capital	=	Book	Value	of	Debt	
++	Book	value	of	Equity-	Cash.	
+Aswath Damodaran
+160
+161
+Decomposing	ROE:	Brahma	in	1998	
+¨ Brahma	(now	Ambev)	had	an	extremely	high	return	
+on	equity,	partly	because	it	borrowed	money	at	a	
+rate	well	below	its	return	on	capital	
+¤ Return	on	Capital	=	19.91%	
+¤ Debt/Equity	Ra@o	=	77%	
+¤ Aier-tax	Cost	of	Debt	=	5.61%	
+¤ Return	on	Equity	=	ROC	+	D/E	(ROC	-	i(1-t))		
+	 	=	19.91%	+	0.77	(19.91%	-	5.61%)	=	30.92%	
+¨ This	seems	like	an	easy	way	to	deliver	higher	growth	
+in	earnings	per	share.	What	(if	any)	is	the	downside?	
+Aswath Damodaran
+161
+162
+Decomposing	ROE:	Titan	Watches	(India)	
+¨ Return	on	Capital	=	9.54%	
+¨ Debt/Equity	Ra@o	=	191%	(book	value	terms)	
+¨ Aier-tax	Cost	of	Debt	=	10.125%	
+¨ Return	on	Equity	=	ROC	+	D/E	(ROC	-	i(1-t))		
+=	9.54%	+	1.91	(9.54%	-	10.125%)	=	8.42%	
+Aswath Damodaran
+162

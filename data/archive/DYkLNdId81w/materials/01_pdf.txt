@@ -1,0 +1,829 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/ProjSumm16.pdf
+
+CORPORATE	FINANCE:	SPRING	
+2016
+Aswath	Damodaran
+2
+Ponderous	Thoughts,	or	maybe	not
+1. There	are	few	facts	and	lots	of	opinions.
+a. Even	the	givens	(cash	&	risk	free	rate)	are	not.
+b. With	accounting	and	market	numbers,	all	bets	are	off.
+2. The	real	world	is	a	messy	place.
+a. Money	making	firms	can	become	money	losers
+b. Companies	can	be	restructured/	given	facelifts
+3. Models	don’t	compute	values	and	optimal	paths.	
+You	do.
+4. Change	is	the	only	constant.	Everything	changes	all	
+the	time.
+3
+The	Breakdown	in	the	Classical	Objective	
+Function
+STOCKHOLDERS
+Managers put
+their interests
+above stockholders
+Have little control
+over managers
+BONDHOLDERS
+Lend Money
+Bondholders can
+get ripped off
+FINANCIAL MARKETS
+SOCIETYManagers
+Delay bad
+news or 
+provide 
+misleading
+information
+Markets make
+mistakes and
+can over react
+Significant Social Costs
+Some costs cannot be
+traced to firm
+4
+I.	Where	does	the	power	lie?
+33%
+42%
+23%
+2%
+Where	the	power	lies
+No	Power
+Moderate	Power
+High	Power
+Other
+5
+II.	Who	is	your	marginal	investor?
+From	Spring	2015
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+Small Large US Europe Emerging	Markets
+The	Marginal	Investor
+Institutional Individual Insider
+6
+III.	Risk	Profiles	and	Costs	of	Equity
+Cost of Equity
+Riskfree Rate :
+- No default risk
+- No reinvestment risk
+- In same currency and
+in same terms (real or 
+nominal as cash flows
++
+Beta
+- Measures market risk X
+Risk Premium
+- Premium for average
+risk investment
+Type of 
+Business
+Operating 
+Leverage
+Financial
+Leverage
+Base Equity
+Premium
+Country Risk
+Premium
+7
+Beta:	The	Standard	Approach
+Beta of Equity
+Rj
+Rm
+Slope = Beta
+Intercept - Rf (1-Beta) = Jensen!s Alpha
+Top-Down Bottom-up
+1. Identify businesses that firm is in.
+2. Take weighted average of the
+unlevered betas of other firms in the
+business 
+3. Compute the levered beta using the
+firm!s current debt to equity ratio:
+!l = !u [1 + (1-tax rate) (Debt/Equity)]
+R2: 
+Proportion of 
+risk that is not 
+diversifiable
+8
+Your	choice	 on	beta	approach	
+95%
+4%
+1%
+Beta	Approach
+Bottom	 up
+Regression
+Other
+Typical reasons
+1. My company is unique. I cannot find comparable firms.
+2. My company is in only one line of business
+3. My bottom-up beta is too different from my regression beta
+9
+Beta	Distribution
+0.
+20.
+40.
+60.
+80.
+100.
+120.
+0	To	0.7 0.7	To	0.9 0.9	To	1.1 1.1	To	1.3 1.3	To	1.5 1.5	To	1.75 1.75	and	over
+Betas	across	your	companies
+Beta
+Average 1.13
+Median 1.09
+10
+Jensen’s	Alpha	Distribution
+0.
+10.
+20.
+30.
+40.
+50.
+60.
+70.
+80.
+90.
+100.
+<-20% -10%	to	-20% 0	to-10% <2% 2-5% 5-10% 10-20% 20-30% 30-40% 40-50% >50%
+Jensen's	Alpha
+Jensen's	alpha
+Average 36.17%
+Median 2.45%
+11
+R	Squared
+0
+20
+40
+60
+80
+100
+120
+0	To	0.05 0.05	To	0.1 0.1	To	0.2 0.2	To	0.3 0.3	To	0.4 0.4	To	0.5 0.5	and	over
+R	Squared	Distribution
+R	Squared
+Average 24.95%
+Median 20.90%
+12
+Cost	of	Capital
+Cost of Equity Cost of Debt
+= Riskfree Rate + Default
+Spread 
+Market-value Weights 
+of Debt & Equity
+Cost of Capital = Cost of Equiity (E/(D+E)) + After-tax cost of debt (D/(D+E))
+Equity 
+includes
+Options 
+Debt includes 
+all fixed 
+commitments
+Rating
+Actual
+Rating
+Synthetic
+Rating
+13
+Distribution	of	Current	Market	Value	Debt	
+Ratios
+0
+20
+40
+60
+80
+100
+120
+140
+<10% 10-20% 20-30% 30-40% 40-50% 50-60% 60-70% 70-80% 80-90%
+Current	Debt	Ratio
+14
+IV .	The	Quality	of	Investments:	The	Firm	View
+Cost of Capital = Cost of Equiity (E/(D+E)) + After-tax cost of debt (D/(D+E))
+After-tax Operating Income Capital Invested in Assets in Place
+Return on Capital = After-tax Operating Income/ Capital Invested in Assets in Place
+Return Spread =
+ROC - WACC
+EVA = (ROC - WACC) (Capital
+Invested)
+Cost of Equiity
+Net Income Equity Invested in Assets in Place
+Return on Equity= Net Income/ Equity Invested in Assets in Place
+Return Spread =
+ROE - COE
+Equity EVA = (ROE - COE) 
+(Equity Invested)
+15
+Return	Spreads
+0.
+20.
+40.
+60.
+80.
+100.
+120.
+<-10% -5%	to	-10% -2.5%	to	-5% 0	tp	-2.5% 0	to	2.5% 2.5%- 5% 5%-10% 10%-20% 20-30% 30-40% 40-50% >50%
+Excess	Returns	across	Companies
+ROE	- COE ROC	- WACC
+ROE	-COE ROC	- WACC
+Average 13.01% 12.98%
+Median 8.90% 6.04%
+16
+VI.	The	Optimal	Financing	Mix
+Optimal debt 
+ratio
+Average 35.72%
+Median 40.00%
+High 90.00% 8 firms
+Low 0.00% 65 firms
+0.
+20.
+40.
+60.
+80.
+100.
+120.
+140.
+<10% 10-20% 20-30% 30-40% 40-50% 50-60% 60-70% 70-80% 80-90% >90%
+Actual	and	Optimal	Debt	Ratios
+Actual Optimal
+17
+Under	versus	Over	Levered	Firms
+Under or over levered
+Average -11.80%
+Median -10.08%
+Low -90%
+High +68%
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Underlevered	>	
+40%
+Underlevered	
+30-40%
+Underlevered	
+20-30%
+Underlevered	
+10-20%
+Underlevered	
+less	than	10%
+Overlevered	
+less	than	10%
+Overlevered	10	
+-20%
+Overlevered	
+20-30%
+Overlevered	30	
+to	40%
+Overlevered	
+more	than	40%
+Under	and	Over	Levered	firms
+18
+VIII.	The	Right	Kind	of	Financing
+Sensitivity of Firm
+Value to Changes
+in Interest Rates
+Sensitivity of Firm
+Value to Changes
+in GDP
+Sensitivity of Firm
+Value to Changes
+in Inflation
+Sensitivity of Firm
+Value to Changes
+in Exchange Rates
+Duration of Assets Cyclicality of Firm Pricing Power Foreign Currency
+Exposure
+Duration of Debt Margin for Error Fixed versus
+Floating Rate
+Domestic versus
+Foreign Currency
+Debt
+19
+IX.	Measuring	Potential	Dividends
+Begin with the net income (which is after interest expenses and taxes)
+Add back the non-cash charges such as depreciation & amortization
+Subtract out reinvestment needs
+- Capital expenditures
+- Investments in Non-cash Working Capital (Change)
+Subtract out payments to non-equity investors
+- Principal Repayments
+- Preferred Stock Dividends
+Add any cash inflows from new debt 
+- New Debt Issues
+To get to the Cash that is available for return to Owners
+20
+Dividends	versus	FCFE
+FCFE/Dividends
+Average 94%
+Median 59%
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+0% 0	- 10% 10	- 20% 20- 30% 30	- 40% 40	- 50% 50	- 60% 60	- 70% 70	- 80% 80	- 90% 90	- 100% >100%
+(Dividends+Buybacks)/FCFE
+Dividends	&	Buybacks	vs	FCFE
+21
+X.	Valuation:	
+Match	up	cashflows	and	discount	rates…	
+Cashflow to Equity
+Net Income
+- (Cap Ex - Depr) (1- DR)
+- Change in WC (!-DR)
+= FCFE
+Expected Growth
+Retention Ratio *
+Return on Equity
+FCFE1 FCFE2 FCFE3 FCFE4 FCFE5
+Forever
+Firm is in stable growth:
+Grows at constant rate
+forever
+Terminal Value= FCFEn+1/(ke-gn)
+FCFEn.........
+Financing Weights
+Debt Ratio = DR
+Discount at Cost of Equity
+Value of Equity
+EQUITY VALUATION WITH FCFE
+Cashflow to Firm
+EBIT (1-t)
+- (Cap Ex - Depr)
+- Change in WC
+= FCFF
+Expected Growth
+Reinvestment Rate
+* Return on Capital
+FCFF1 FCFF2 FCFF3 FCFF4 FCFF5
+Forever
+Firm is in stable growth:
+Grows at constant rate
+forever
+Terminal Value= FCFFn+1/(r-gn)
+FCFFn.........
+Discount at Cost of Capital (WACC) = Cost of Equity (Equity/(Debt + Equity)) + Cost of Debt (Debt/(Debt+ Equity))
+Firm Value
+- Value of Debt
+= Value of Equity
+DISCOUNTED CASHFLOW VALUATION
+22
+Getting	to	equity	value	per	share
+Approach used To get to equity value per share
+Discount dividends per share at the cost 
+of equity
+Present value is value of equity per share
+Discount aggregate FCFE at the cost of 
+equity
+Present value is value of aggregate equity. 
+Subtract the value of equity options given 
+to managers and divide by number of 
+shares.
+Discount aggregate FCFF at the cost of 
+capital
+PV = Value of operating assets
++ Cash & Near Cash investments
++ Value of minority cross holdings
+-Debt outstanding
+= Value of equity
+-Value of equity options 
+=Value of equity in common stock
+/ Number of shares
+23
+Disney:	Inputs	to	Valuation
+ High Growth Phase Transition Phase Stable Growth Phase 
+Length of Period 5 years 5 years Forever after 10 years 
+Tax Rate 31.02% (Effective) 
+36.1% (Marginal) 
+31.02% (Effective) 
+36.1% (Marginal) 
+31.02% (Effective) 
+36.1% (Marginal) 
+Return on Capital 12.61% Declines linearly to 10% Stable ROC of 10% 
+Reinvestment Rate 
+ 
+53.93% (based on normalized 
+acquisition costs) 
+Declines gradually to 25% 
+as ROC and growth rates 
+drop: 
+25% of after-tax operating 
+income. 
+Reinvestment rate = g/ ROC 
+= 2.5/10=25% 
+Expected Growth 
+Rate in EBIT 
+ROC * Reinvestment Rate = 
+0.1261*.5393 = .068 or 6.8% 
+Linear decline to Stable 
+Growth Rate of 2.5% 
+2.5%  
+Debt/Capital Ratio 11.5% Rises linearly to 20.0% 20% 
+Risk Parameters Beta = 1.0013, ke = 8.52%% 
+Pre-tax Cost of Debt = 3.75% 
+Cost of capital = 7.81% 
+Beta changes to 1.00;  
+Cost of debt stays at 3.75% 
+Cost of capital declines 
+gradually to 7.29% 
+Beta = 1.00; ke = 8.51% 
+Cost of debt stays at 3.75% 
+Cost of capital = 7.29% 
+ 
+Aswath Damodaran
+Aswath Damodaran
+Term Yr
+10,639
+2,660
+7,980
+Terminal Value 10= 7,980/(.0729-.025) = 165,323
+Cost of Capital (WACC) = 8.52% (0.885) + 2.40% (0.115) = 7.81%
+Return on Capital
+12.61%
+Reinvestment Rate
+ 53.93%
+Unlevered Beta for 
+Sectors: 0.9239
+ERP for operations
+5.76%Beta 
+1.0013Riskfree Rate :
+Riskfree rate = 2.75%
+Op. Assets   125,477
++ Cash:         3,931
++ Non op inv   2,849
+- Debt      15,961
+- Minority Int    2,721
+=Equity        113,575
+-Options            972
+Value/Share $ 62.56
+Weights
+E = 88.5% D = 11.5%
+Cost of Debt
+(2.75%+1.00%)(1-.361)
+= 2.40%
+Based on actual A rating
+Cost of Equity
+8.52%
+Stable Growth
+g = 2.75%;  Beta = 1.00;
+Debt %= 20%;  k(debt)=3.75
+Cost of capital =7.29% 
+Tax rate=36.1%; ROC= 10%; 
+Reinvestment Rate=2.5/10=25%
+Expected Growth 
+.5393*.1261=.068 or 6.8%
+Current Cashﬂow to Firm
+EBIT(1-t)= 10,032(1-.31)=    6,920
+- (Cap Ex - Deprecn)      3,629            
+- Chg Working capital               103
+= FCFF                              3,188
+Reinvestment Rate = 3,732/6920
+=53.93%
+Return on capital = 12.61%
++ X
+Disney - November 2013
+In November 2013, 
+Disney was trading at  
+$67.71/share
+First 5 years
+D/E=13.10%
+1 2 3 4 5 6 7 8 9 10
+EBIT/*/(1/2/tax/rate) $7,391 $7,893 $8,430 $9,003 $9,615 $10,187 $10,704 $11,156 $11,531 $11,819
+/2/Reinvestment $3,985 $4,256 $4,546 $4,855 $5,185 $4,904 $4,534 $4,080 $3,550 $2,955
+FCFF $3,405 $3,637 $3,884 $4,148 $4,430 $5,283 $6,170 $7,076 $7,981 $8,864
+Growth declines 
+gradually to 2.75%
+Cost of capital declines 
+gradually to 7.29%
+25
+Value	versus	Price
+Under or over 
+valuation
+Average 63%
+Median 10%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+30.00%
+35.00%
+40.00%
+Spring	2008 Spring	2010 Spring	2012 Spring	2014 Spring	2016
+%	of	Class
+Valuation	Results
+Undervalued	>	50% Undervalued	10-50% Undervalued	<	10% Overvalued	less	than	10%
+Overvalued	between	10-50% Overvalued	50-100% Overvalued	>100%
+26
+Ways	of	changing	value…
+Cashflows from existing assets
+Cashflows before debt payments, 
+but after taxes and reinvestment to 
+maintain exising assets
+Expected Growth during high growth period
+Growth from new investments
+Growth created by making new 
+investments; function of amount and 
+quality of investments
+Efficiency Growth
+Growth generated by 
+using existing assets 
+better
+Length of the high growth period
+Since value creating growth requires excess returns, 
+this is a function of
+- Magnitude of competitive advantages
+- Sustainability of competitive advantages
+Stable growth firm, 
+with no or very 
+limited excess returns
+Cost of capital to apply to discounting cashflows
+Determined by
+- Operating risk of the company
+- Default risk of the company
+- Mix of debt and equity used in financing
+How well do you manage your 
+existing investments/assets?
+Are you investing optimally for
+future growth? Is there scope for more 
+efficient utilization of 
+exsting assets?
+Are you building on your 
+competitive advantages?
+Are you using the right 
+amount and kind of 
+debt for your firm?
+Aswath Damodaran27
+Term Yr
+10,639
+2,660
+7,980
+Terminal Value 10= 7,980/(.0729-.025) = 165,323
+Cost of Capital (WACC) = 8.52% (0.885) + 2.40% (0.115) = 7.81%
+Return on Capital
+12.61%
+Reinvestment Rate
+ 53.93%
+Unlevered Beta for 
+Sectors: 0.9239
+ERP for operations
+5.76%Beta 
+1.0013Riskfree Rate :
+Riskfree rate = 2.75%
+Op. Assets   125,477
++ Cash:         3,931
++ Non op inv   2,849
+- Debt      15,961
+- Minority Int    2,721
+=Equity        113,575
+-Options            972
+Value/Share $ 62.56
+Weights
+E = 88.5% D = 11.5%
+Cost of Debt
+(2.75%+1.00%)(1-.361)
+= 2.40%
+Based on actual A rating
+Cost of Equity
+8.52%
+Stable Growth
+g = 2.75%;  Beta = 1.00;
+Debt %= 20%;  k(debt)=3.75
+Cost of capital =7.29% 
+Tax rate=36.1%; ROC= 10%; 
+Reinvestment Rate=2.5/10=25%
+Expected Growth 
+.5393*.1261=.068 or 6.8%
+Current Cashﬂow to Firm
+EBIT(1-t)= 10,032(1-.31)=    6,920
+- (Cap Ex - Deprecn)      3,629            
+- Chg Working capital               103
+= FCFF                              3,188
+Reinvestment Rate = 3,732/6920
+=53.93%
+Return on capital = 12.61%
++ X
+Disney - November 2013
+In November 2013, 
+Disney was trading at  
+$67.71/share
+First 5 years
+D/E=13.10%
+1 2 3 4 5 6 7 8 9 10
+EBIT/*/(1/2/tax/rate) $7,391 $7,893 $8,430 $9,003 $9,615 $10,187 $10,704 $11,156 $11,531 $11,819
+/2/Reinvestment $3,985 $4,256 $4,546 $4,855 $5,185 $4,904 $4,534 $4,080 $3,550 $2,955
+FCFF $3,405 $3,637 $3,884 $4,148 $4,430 $5,283 $6,170 $7,076 $7,981 $8,864
+Growth declines 
+gradually to 2.75%
+Cost of capital declines 
+gradually to 7.29%
+Aswath Damodaran28
+Term Yr
+12,275
+3,069
+9,206
+Terminal Value 10= 9,206/(.0676-.025) = 216,262
+Cost of Capital (WACC) = 8.52% (0.60) + 2.40%(0.40) = 7.16%
+Return on Capital
+14.00%
+Reinvestment Rate
+ 50.00%
+Unlevered Beta for 
+Sectors: 0.9239
+ERP for operations
+5.76%Beta 
+1.3175Riskfree Rate :
+Riskfree rate = 2.75%
+Op. Assets   147,704
++ Cash:         3,931
++ Non op inv   2,849
+- Debt      15,961
+- Minority Int    2,721
+=Equity        135,802
+-Options            972
+Value/Share $ 74.91
+Weights
+E = 60% D = 40%
+Cost of Debt
+(2.75%+1.00%)(1-.361)
+= 2.40%
+Based on synthetic A rating
+Cost of Equity
+10.34%
+Stable Growth
+g = 2.75%;  Beta = 1.20;
+Debt %= 40%;  k(debt)=3.75%
+Cost of capital =6.76% 
+Tax rate=36.1%; ROC= 10%; 
+Reinvestment Rate=2.5/10=25%
+Expected Growth 
+.50* .14 = .07 or 7%
+Current Cashﬂow to Firm
+EBIT(1-t)= 10,032(1-.31)=    6,920
+- (Cap Ex - Deprecn)      3,629            
+- Chg Working capital               103
+= FCFF                              3,188
+Reinvestment Rate = 3,732/6920
+=53.93%
+Return on capital = 12.61%
++ X
+Disney (Restructured)- November 2013
+In November 2013, 
+Disney was trading at  
+$67.71/share
+First 5 years
+D/E=66.67%
+Growth declines 
+gradually to 2.75%
+Cost of capital declines 
+gradually to 6.76%
+More selective 
+acquisitions & 
+payoff from gaming
+Move to optimal 
+debt ratio, with 
+higher beta.
+1 2 3 4 5 6 7 8 9 10
+EBIT * (1 - tax rate) $7,404 $7,923 $8,477 $9,071 $9,706 $10,298 $10,833 $11,299 $11,683 $11,975
+ - Reinvestment $3,702 $3,961 $4,239 $4,535 $4,853 $4,634 $4,333 $3,955 $3,505 $2,994
+Free Cashflow to Firm $3,702 $3,961 $4,239 $4,535 $4,853 $5,664 $6,500 $7,344 $8,178 $8,981
+29
+So,	how	do	you	explain	the	price?	Its	all	
+relative..
+Company Name 
+Ticker 
+Symbol PE 
+Expected 
+Growth Rate PEG 
+Point 360 PTSX 10.62 5.00% 2.12 
+Fox Entmt Group Inc FOX 22.03 14.46% 1.52 
+Belo Corp. 'A' BLC 25.65 16.00% 1.60 
+Hearst-Argyle Television Inc HTV 26.72 12.90% 2.07 
+Journal Communications Inc. JRN 27.94 10.00% 2.79 
+Saga Communic. 'A' SGA 28.42 19.00% 1.50 
+Viacom Inc. 'B' VIA/B 29.38 13.50% 2.18 
+Pixar PIXR 29.80 16.50% 1.81 
+Disney (Walt) DIS 29.87 12.00% 2.49 
+Westwood One WON 32.59 19.50% 1.67 
+World Wrestling Ent. WWE 33.52 20.00% 1.68 
+Cox Radio 'A' Inc CXR 33.76 18.70% 1.81 
+Beasley Broadcast Group Inc BBGI 34.06 15.23% 2.24 
+Entercom Comm. Corp ETM 36.11 15.43% 2.34 
+Liberty Corp. LC 37.54 19.50% 1.92 
+Ballantyne of Omaha Inc BTNE 55.17 17.10% 3.23 
+Regent Communications Inc RGCI 57.84 22.67% 2.55 
+Emmis Communications EMMS 74.89 16.50% 4.54 
+Cumulus Media Inc CMLS 94.35 23.30% 4.05 
+Univision Communic. UVN 122.76 24.50% 5.01 
+Salem Communications Corp SALM 145.67 28.75% 5.07 
+Average for sector  47.08 17.17% 2.74
+30
+Most	undervalued	 stocks!!
+Company Value/share Price/Share %	Under	valued
+Sony $10,676.88	 $2,563.50	 -75.99%
+Live	Nation $78.07	 $23.43	 -69.99%
+Adidas	AG $71.71	 $28.56	 -60.17%
+GoPro $24.78	 $10.46	 -57.79%
+Bayer $229.74	 $97.77	 -57.44%
+Sotheby’s $34.67	 $15.30	 -55.87%
+JetBlue $39.90	 $19.00	 -52.38%
+GoPro $23.94	 $12.64	 -47.20%
+MSG	Networks $31.75	 $17.09	 -46.17%
+GNC $68.76	 $37.17	 -45.95%
+Ralph	Lauren $158.92	 $90.11	 -43.30%
+Enbridge	Energy	Partners,	LP. $38.03	 $21.71	 -42.91%
+31
+The	Triple	Whammy:	Under	levered,	Cash	Build-
+up	and	Under	valued?
+Investment	Per for mance Capital	Structure Dividend	Policy Valuation
+Company ROE	- COE ROC	- WACC Current	 Debt	ratio Optimal	Debt	Ratio Dividends FCFE Value/share Price/Share
+Bayer 10.24% 4.63% 21.85% 80.00% 8600 17490.5 $229.74	 $97.77	
+MSG	Networks -20.29% -1.33% 73.02% 90.00% 0 $351.80 $31.75	 $17.09	
+Ralph	Lauren 8.57% 28.20% 29.28% 50.00% 639.8 742.4 $158.92	 $90.11	
+Walmart 17.16% 10.61% 38.40% 70.00% 10,947 11708 $110.13	 $68.49	
+Apple	Inc 40.90% 29.30% 12.90% 80.00% $11,561 $61,509 $147.52	 $92.74	
+Trinity 9.78% 7.76% 67.58% 80.00% 517.4 1452.2 $27.45	 $17.64	
+Wyndham	Worldwide 54.85% 4.55% 38.33% 50.00% $770.00	 $2,014.00	 $116.29	 $76.17	
+Ralph	Lauren 4.38%% 3.77%% 23.48% 80.00% $149.99 $660 $131.21	 $90.02	
+Toyota	Motor	Corporation 3.85% 1.20% 52.30% 70.00% ¥1,599,860 ¥5,224,332 ¥15,728 ¥10,851
+FitBit 21.05% 23.53% 3.20% 40.00% 0 34.26 $19.60	 $13.62	
+Village	Super	Market	Inc. 4.13% 4.85% 25.41% 60.00% $14.61	 $27.55	 $35.28	 $24.68	
+Apple 28.86% 4.25% 16.27% 40% 3,574 202,905.95 $129.17 $94.30
+Sciclone 11.59% 28.81% 0.00% 20.00% 0 19.58 $17.94	 $13.20	
+S&W 18.10% 13.34% 13.43% 70.00% $0.0 $567.3 $30.29	 $22.43	
+Michael	Kors 32.67% 49.69% 13.00% 50.00% 99.55 384.07 $67.91	 $50.87	
+Gap	Inc 25.27% 6.00% 45.05% 70.00% 1570.4 2301.2 $30.30	 $22.74	
+Goodyear -0.82% -0.75% 48.13% 70.00% 186 1331 $36.90 $28.19
+Tyson 5.82% 9.30% 28.87% 50.00% $288.17	 $1,011.83	 $82.15	 $64.08	
+Herbalife -174.84% 47.86% 23.42% 50% 374.1	 3,608.5	 $81.10	 $63.62	
+Apple 34.80% 29.58% 10.80% 70% 14224 25133 $113.96	 $92.72	
+Chipotle 22.70% 5.53% 19.16% 50.00% 193.704 311.938 $528.78	 $433.50	
+Chipotle 17.78% 26.75% 17.66% 30% $0.00	 $326.77	 $526.55	 $433.93	
+Ralph	Lauren 22.87% 12.32% 26.30% 90.00% $158 $611 $112.85	 $93.05	
+Lululemon 25.13% 36.46% 6.41% 20% 0.0	 1,050.2	 $75.90	 $62.81	
+CVS	Health 7.21% 0.51% 31% 50% $1,092.80 $3,481 $124.57 $103.90
+Southwest 31.34% 17.36% 16.70% 60.00% 1021.67 1320 $48.96	 $40.91	
+Microsoft 8.50% 9.00% 8.90% 50.00% $9,882 $17,289 $59.86	 $50.39	
+Verisign 37.00% 53.80% 16.00% 30.00% 0 696.8 $101.02	 $85.19	
+Lululemon 8.47% 8.11% 5.50% 30% $0.00 $142.68 $73.58 $62.81
+CSX	Corporation	 8.00% 3.80% 29.73% 60.00% 686	 921	 $30.47	 $26.17	
+Starz 128.15% 76.86% 27.48% 70% $504.46 $942.46 $30.00	 $25.86	
+Delta 14.24% 6.98% 34.80% 70.00% $812.4	 $1,729.0	 $48.54	 $42.04	
+IMAX 6.53% 11.68% 2.12% 20.00% 0 76.65	 $36.81	 $32.80	
+Lululemon 15.40% 15.51% 7.15% 25.00% 0 141.2 $70.40	 $62.81
+32
+First	Principles
+33
+Objectives	of	this	class
+¨ If	you	get	the	big	picture,	the	details	will	come	
+(sooner	or	later)
+¨ Tools 	are	u s efu l	b u t	on ly 	in 	th e	larger	 c on text	of	
+answering	bigger	questions.
+¨ Corporate	finance	is	not	so	bad	!!!
+34
+And	don’t	forget	your	CFEs…
+1.	This	course	was	mentally	challenging/ int el lectu ally	stimul ating.
+1 2 3 4 5 6 7
+No-brainer! Brilliant	insights!
+2. This	course	was	demanding	of	my	time.
+1 2 3 4 5 6 7
+What	work? Have n’t	slept	all	semester.
+3. This	 course	provided	me	with	tools	and	information	that	I	will	find	useful	in	the	future.
+1 2 3 4 5 6 7
+Only	in	prison Completely	relevant
+4. Overall	evaluation	of	the	course
+1 2 3 4 5 6 7
+Horrible !	(	I	want	my	mo ne y	b ack) Stupendous!
+5. The	instructor	was	organized	and	well	prepared	for	class.
+1 2 3 4 5 6 7
+Had	trouble 	find ing	c lass roo m Scarily	efficient!
+6. The	instructor	communicated	his/her	ideas	and	material	well.
+1 2 3 4 5 6 7
+Garbled	gobbledygoo k! Should	have	own	TV	show
+7. The	instructor	was	enthusiastic	about	his/her	subject	matter.
+1 2 3 4 5 6 7
+De ad	man	talking! I	am	a	convert
+8. Overall	evaluation	of	the	instructor
+2 3 4 5 6 7
+Dog! Star!

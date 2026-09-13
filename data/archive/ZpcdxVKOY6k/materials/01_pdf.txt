@@ -1,0 +1,217 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate6for2018.pdf
+
+COST OF CAPITAL PRIMER: 
+JANUARY 2018 DATA UPDATE 6
+Aswath Damodaran
+2
+The Cost of Capital as Swiss Army Knife
+¨ In corporate finance, it is not only the cost of raising 
+funding for a business but also the hurdle rate to use 
+in capital budgeting and an optimizing tool for 
+capital structure & dividend policy. 
+¨ In valuation, it is the discount rate that we use to 
+value a business, and the primary mechanism to 
+bring in the risk of a business into its value.
+¨ Along the way, it picks up a variety of other names 
+that are used to describe it and gets confused or 
+used interchangeably with the cost of equity and the 
+cost of debt.
+3
+The Problem with the “Cost of Funding” 
+Definition
+¨ It is unfortunate that the name that we have 
+attached to this ubiquitous number is the cost of 
+capital, since it seems to suggest that it is the cost of 
+raising funding for a company. 
+¨ While that definition may sometimes fit, it often 
+leads to destructive consequences, where 
+companies that are safe and can borrow money at 
+low rates (and hence have a low cost of funding) 
+think that they are adding value when they go out 
+and take risky investments that earn more than that 
+cost.
+4
+The Cost of Capital – A Healthier Definition
+¨ A healthier definition of the cost of capital is to think of 
+it as an opportunity cost, i.e., a rate of return that you 
+(as an investor or by extension, a company that the 
+investor has put money in) can make on an investment 
+of equivalent risk. 
+¨ The key words in this definition are "equivalent risk", 
+because that effectively eliminates the subsidy mistake 
+that occurs when a safe company’s cost of capital is used 
+to justify taking a risky investment. 
+¨ This is, of course, one of the first principles of finance 
+and it is astonishing that it is open for debate and that so 
+many companies violate it, in their practices.
+5
+Manifestations of Violations (of Cost of 
+Capital first principles)
+1. Many multi-business companies continue to have a "single" hurdle rate in 
+capital budgeting: In a survey of "best" practices across companies and advisors, 
+the authors note that almost half of all companies (and advisors) surveyed used 
+a single cost of capital across all investments. 
+2. In acquisitions, it is routine for companies (and bankers) to use the acquiring 
+company's cost of capital to value the target company: Thee logic being that it is 
+the acquiring firm that raises the capital and that its costs will lead safe firms to 
+find any risky firm that they look at to be cheap is glossed over .
+3. Cash is viewed as a value destroying asset: Cash and short term investments, it 
+has to be invested in liquid and close to riskless assets, earning extraordinarily 
+low returns. There are analysts, and I use the word loosely, who compare the 
+returns generated on cash to the cost of capital of the firm to conclude that 
+cash is a value-destroying asset.
+4. A company that earns a higher return on its projects (higher ROIC) should be 
+valued more highly than a company that earns a lower return on its projects: 
+Without controlling for risk, this is not true.
+6
+The Cost of Capital – Estimation Set Up
+7
+Cost of Equity – Standard Model
+Aswath Damodaran
+7
+The Rate of Return required by your stockholders, given the 
+risk that they perceive in your equity.
+8
+Cost of Equity- An Alternative
+¨ Agnostic about models: For those who are truly 
+disturbed my the CAPM's limitations, there is an 
+alternative approach worth considering that is agnostic 
+in its assumptions about investor diversification and risk 
+aversion. 
+¨ Implied Cost of Equity: It is to back out the "implied" cost 
+of equity for stocks within a sector and to use that 
+implied number as the cost of equity in individual 
+companies. 
+¤ Take the implied equity risk premium for the S&P 500 in my 
+second data post from a couple of weeks ago and consider 
+extending that approach to the banking index, to get an implied 
+cost of equity for banks, and the energy sector, to estimate the 
+cost of equity for oil companies.
+9
+Cost of Debt
+¨ It is the rate at which a firm can borrow money, long term, today. 
+¤ Pre-tax cost of debt = Risk free Rate+ Default Spread for the Company
+¨ To estimate the default spread, you can use one of three 
+approaches, in order of ease.
+¤ Use the interest rate on the bond as your pre-tax cost of debt for the firm 
+since it is a current, market-set rate.
+¤ If a firm has corporate bonds and they are not traded ate, you can use the 
+bond rating for the company to estimate a default spread.
+¤ You can assess a "synthetic rating" for the company, based upon the 
+strength of its financials and its capacity to repay debt.
+¨ To bring the tax benefit of debt into the after-tax cost of debt, you 
+should use the marginal tax rate, since interest expenses save you 
+taxes at the margin:
+¤ After-tax cost of debt = (Risk free Rate+ Default Spread) (1- Marginal Tax 
+Rate)
+10
+Weights on Debt and Equity
+¨ Market or Book: This choice, at least for me, is an easy one. 
+The cost of capital is a proxy for what it will cost you to raise 
+money to fund the investment or project in question today, 
+and since you can raise money only at market value, it is the 
+only relevant number .
+¨ Current or Target: It is true that the debt ratio for a company 
+can change over time, and if management does have a target, 
+the actual debt ratio may move to the target. Unless this 
+change is instantaneous, it is likely to occur over time and my 
+answer to the question is to use the current debt ratio to 
+estimate the cost of capital at the start of the investment and 
+as the debt ratio is changed over time to the optimal, to 
+change the cost of capital as well.
+11
+Estimation Choices
+Estimation Approach used Possible limitations
+Risk Free Rate US T.B o n dRate Cost of equity estimated in US dollars.
+Beta
+Started with unlevered beta for sector (using global 
+averages) & levered up using company's D/E 
+(including leases as debt ). 
+Used only the primary business that the company was 
+in. With multi -business companies, I am missing the 
+effect of oither businesses on beta.
+ERP 
+ERP of country that the company is incorporated in. If company operates in other countries, the ERP should 
+be a weighted average.
+Default Spread
+Used bond rating, if available, to estimate the default 
+spread. Used interest coverage ratio to estimate 
+ratings and default spread, otherwise.
+Interest coverage ratios may not capture default risk 
+fully, Bringing in other ratios might have provided more 
+refined estimate.
+Marginal tax rate
+Use the statutory tax rate of the country in which the 
+company is incorporated.
+If company operates in many countries, it may be able to 
+place its debt in a country with the higher marginal tax 
+rae.
+Weights
+Current market value of equity and debt (including 
+leases) used for weights.
+Insufficient information to estimate market value of 
+interest-bearing debt.
+12
+Cost of Capital – Going Concern versus 
+Truncation Risk
+A DCF is a going-concern concept where we either assume that 
+the firm is going forever or that is has a scheduled and orderly 
+liquidation.
+You have to estimate the likelihood of the truncation (distress, 
+nationalization) will happen and what you will receive if it 
+happens.
+13
+Cost of Capital – Importance of 
+Perspective
+¨ Rules of thumb: The cost of capital discussion is permeated with 
+rules of thumb about what comprises a reasonable, high or low 
+number, many developed in a different time and for a different 
+market. 
+¨ Skew values: These rules of thumb skew estimates, since analysts 
+feel the urge to adjust the costs of capitals that they get from 
+models or metrics to match their preconceptions about what they 
+should be. 
+¨ Build up? It is my primary objection to the build-up approach, 
+where analysts add multiple premiums to arrive at a cost of capital 
+that matches what they would have liked to see in the first place. It 
+is to counter this temptation that I will compute costs of capital for 
+US and global companies and present both sector averages as well 
+as the entire distributions for the market.
+14
+A US Cost of Capital – January 2018
+¨ To provide perspective on what the cost of capital for the 
+median US company will look like, start with the US 10-year 
+T. Bo n drate of 2.41% on January 1, 2018, as the risk free rate 
+and my estimate of the implied ERP of 5.08% for the US on 
+the same date. 
+¨ For an average risk stock, with a beta of one, that would 
+translate into a cost of equity of 7.49%. 
+¨ Bringing in the debt ratio of 23.51% for the typical US firm 
+and a pre-tax cost of debt of 3.91% (1.5% higher than the risk 
+free rate), results in a cost of capital of 6.43%, if we use the 
+marginal tax rate of 24%, post tax reform:
+Cost of capital for median US firm = (2.41%+5.08%)(1-
+.2351)+3.91%(1-.24) (.2351) = 6.43%
+15
+Cost of Capital: Sector Differences in US
+16
+Cost of Capital – US (Histogram)
+17
+A Global Cost of Capital
+¨ I estimate the costs of capital for global companies, in 
+US dollars, and using the same template that I use for 
+the US. There are a few key differences. 
+¤ I shift from using the US ERP of 5.08% to a GDP-weighted global 
+average ERP of 6.20%.
+¤ From a US-average debt ratio of 23.51% to to a global-average 
+debt to capital ratio of 26.67%, from a pre-tax cost of debt of 
+3.91% to 4.91% (reflecting country default risk) 
+¤ From a marginal tax rate of 24% to a weighted average of 
+24.63%. The resulting cost of capital for a median global firm is 
+higher than for the US:
+n Cost of capital for median global firm = (2.41%+6.20%)(1-
+.2667)+4.91%(1-.2463) (.2667) = 7.30%
+18
+Cost of Capital: Sector Differences Globally
+19
+Cost of Capital – Global (Histogram)

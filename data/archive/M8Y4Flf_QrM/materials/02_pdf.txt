@@ -1,0 +1,471 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfspr19/session24slides.pdf
+
+VALUATION
+Cynic: A person who knows the price of everything but the value of nothing..
+Oscar Wilde
+Aswath Damodaran 223
+224
+First Principles
+Aswath Damodaran
+224
+225
+Three approaches to valuation
+Aswath Damodaran
+225
+¨Intrinsic valuation: The value of an asset is a function of 
+its fundamentals –cash flows, growth and risk. In 
+general, discounted cash flow models are used to 
+estimate intrinsic value.
+¨Relative valuation: The value of an asset is estimated 
+based upon what investors are paying for similar assets. 
+In general, this takes the form of value or price multiples 
+and comparing firms within the same business.
+¨Contingent claim valuation: When the cash flows on an 
+asset are contingent on an external event, the value can 
+be estimated using option pricing models.
+226
+One tool for estimating intrinsic value: 
+Discounted Cash Flow Valuation
+Aswath Damodaran
+226
+Cash ﬂows from existing assets
+The base earnings will reﬂect the 
+earnings power of the existing 
+assets of the ﬁrm, net of taxes and 
+any reinvestment needed to sustain 
+the base earnings.
+Value of growth
+The future cash ﬂows will reﬂect expectations of how quickly earnings will grow in the future (as a positive) and how much 
+the company will have to reinvest to generate that growth (as a negative). The net effect will determine the value of growth.
+Expected Cash Flow in year t = E(CF) = Expected Earnings in year t - Reinvestment needed for growth
+Risk in the Cash ﬂows
+The risk in the investment is captured in the discount rate as a beta in the cost of equity and the default spread in the cost 
+of debt.
+Steady state
+The value of growth comes from 
+the capacity to generate excess 
+returns. The length of your growth 
+period comes from the strength & 
+sustainability of your competitive 
+advantages.
+227
+Equity Valuation
+Aswath Damodaran
+227
+¨The value of equity is obtained by discounting expected cashflows 
+to equity, i.e., the residual cashflows after meeting all expenses, tax 
+obligations and  interest and principal payments, at the cost of 
+equity, i.e., the rate of return required by equity investors in the 
+firm. 
+where,
+CF to Equity t= Expected Cashflow to Equity in period t
+ke = Cost of Equity
+¨The dividend discount model is a specialized case of equity 
+valuation,  and the value of a stock is the present value of expected 
+future dividends.
+Value of Equity= CF to Equityt
+(1+ke)t
+t=1
+t=n
+∑
+228
+Firm Valuation
+Aswath Damodaran
+228
+¨The value of the firm is obtained by discounting expected 
+cashflows to the firm, i.e., the residual cashflows after 
+meeting all operating expenses and taxes, but prior to debt 
+payments, at the weighted average cost of capital, which is 
+the cost of the different components of financing used by the 
+firm, weighted by their market value proportions.
+where,
+CF to Firmt = Expected Cashflow to Firm in period t
+WACC = Weighted Average Cost of Capital
+Value of Firm= CF to Firmt
+(1+WACC)t
+t=1
+t=n
+∑
+229
+Choosing a Cash Flow to Discount
+Aswath Damodaran
+229
+¨When you cannot estimate the free cash flows to equity or 
+the firm, the only cash flow that you can discount is 
+dividends. For financial service firms, it is difficult to estimate 
+free cash flows. For Deutsche Bank, we will be discounting 
+dividends.
+¨If a firm’s debt ratio is not expected to change over time, the 
+free cash flows to equity can be discounted to yield the value 
+of equity. For Tata Motors, we will discount free cash flows to 
+equity.
+¨If a firm’s debt ratio might change over time, free cash flows 
+to equity become cumbersome to estimate. Here, we would 
+discount free cash flows to the firm. For Vale and Disney, we 
+will discount the free cash flow to the firm.
+230
+Stories + Numbers = Value
+The Numbers People
+Favored Tools
+- Accounting statements
+- Excel spreadsheets
+- Statistical Measures
+- Pricing Data
+Illusions/Delusions
+1. Precision: Data is precise
+2. Objectivity: Data has no bias
+3. Control: Data can control reality
+The Narrative People
+Favored Tools
+- Anecdotes
+- Experience (own or others)
+- Behavioral evidence
+Illusions/Delusions
+1. Creativity cannot be quantiﬁed
+2. If the story is good, the investment will be.
+3. Experience is the best teacher
+A Good Valuation
+231
+The Ingredients that determine value.
+Aswath Damodaran
+231
+232
+I. Estimating Cash Flows
+Aswath Damodaran
+232
+233
+Dividends and Modified Dividends for Deutsche 
+Bank
+Aswath Damodaran
+233
+¨In 2007, Deutsche Bank paid out dividends of 2,146 million Euros on net 
+income of 6,510 million Euros. In early 2008, we valued Deutsche Bank 
+using the dividends it paid in 2007. In my 2008 valuation I am assuming 
+the dividends are not only reasonable but sustainable.
+¨In October 2016, Deutsche Bankhas suspended dividends, was losing 
+money and was in serious danger . Rather than focus on the dividends 
+(which were small), we estimated the potential dividends (by estimating 
+the free cash flows to equity after investments in regulatory capital)
+Current 1 2 3 4 5 6 7 8 9 10
+Risk Adjusted Assets $445,570 $450,026 $454,526 $459,071 $463,662 $468,299 $472,982 $477,711 $482,488 $487,313 $492,186 
+Tier 1 Capital/ Risk Adjusted Assets (Ratio)12.41%13.74%13.95%14.17%14.38%14.60%14.81%15.03%15.24%15.46%15.67%
+Tier 1 Capital (Risk Adjusted Assets * Tier 1 
+Capital Ratio) $55,282$61,834$63,427$65,045$66,690$68,361$70,059$71,784$73,537$75,317$77,126
+Change in regulatory capital (Tier 1) $6,552 $1,593 $1,619 $1,645 $1,671 $1,698 $1,725 $1,753 $1,780 $1,809
+Book Equity $64,609$71,161$72,754$74,372$76,017$77,688$79,386$81,111$82,864$84,644$86,453
+Expected ROE -13.70%-7.18%-2.84%0.06%1.99%5.85%6.568%7.286%8.004%8.722%9.440%
+Net Income (Book Equity * ROE) $(8,851)$(5,111)$(2,065) $43 $1,512 $4,545 $5,214 $5,910 $6,632 $7,383 $8,161 
+-Investment in Regulatory Capital $6,552 $1,593 $1,619 $1,645 $1,671 $1,698 $1,725 $1,753 $1,780 $1,809 
+FCFE $(11,663)$(3,658)$(1,576)$(133) $2,874 $3,516 $4,185 $4,880 $5,602 $6,352
+234
+Estimating FCFE (past) : Tata Motors
+Aswath Damodaran
+234
+Year Net Income
+Cap ExDepreciatio
+n
+Change in 
+WC
+Change in 
+Debt
+Equity 
+Reinvestment
+Equity 
+Reinvestment 
+Rate
+2008-09 -25,053₹ 99,708₹ 25,072₹ 13,441₹ 25,789₹ 62,288₹ -248.63%
+2009-10 29,151₹ 84,754₹ 39,602₹-26,009₹ 5,605₹ 13,538₹ 46.44%
+2010-11 92,736₹ 81,240₹ 46,510₹ 50,484₹ 24,951₹ 60,263₹ 64.98%
+2011-12 135,165₹138,756₹ 56,209₹ 22,801₹ 30,846₹ 74,502₹ 55.12%
+2012-13 98,926₹187,570₹ 75,648₹ 680₹ 32,970₹ 79,632₹ 80.50%
+Aggregate 330,925₹592,028₹243,041₹ 61,397₹ 120,160₹ 290,224₹ 87.70%
+235
+Estimating FCFF: Disney
+¨In the fiscal year ended September 2013, Disney reported the following:
+¤Operating income (adjusted for leases) = $10,032 million
+¤Effective tax rate = 31.02%
+¤Capital Expenditures (including acquisitions) = $5,239 million
+¤Depreciation  & Amortization = $2,192 million
+¤Change in non-cash working capital = $103 million
+¨The free cash flow to the firm can be computed as follows:
+After-tax Operating Income = 10,032 (1 -.3102) = $6,920 
+-Net Cap Expenditures = $5,239 -$2,192  = $3,629  
+- Change in Working Capital =  =$103
+= Free Cashflowto Firm (FCFF) = = $3,188 
+¨The reinvestment and reinvestment rate are as follows:
+¤Reinvestment = $3,629 + $103 = $3,732 million
+¤Reinvestment Rate = $3,732/ $6,920 = 53.93%
+Aswath Damodaran
+236
+II.  Discount Rates
+Aswath Damodaran
+236
+¨Critical ingredient in discounted cashflowvaluation. 
+Errors in estimating the discount rate or 
+mismatching cashflows and discount rates can lead 
+to serious errors in valuation. 
+¨At an intuitive level, the discount rate used should 
+be consistent with both the riskiness and the type of 
+cashflowbeing discounted. 
+¨The cost of equity is the rate at which we discount 
+cash flows to equity (dividends or free cash flows to 
+equity). The cost of capital is the rate at which we 
+discount free cash flows to the firm.
+237
+Cost of Equity: Deutsche Bank
+2008 versus 2016
+Aswath Damodaran
+237
+¨In early 2008, we estimated a beta of 1.162 for Deutsche 
+Bank, which used in conjunction with the Euro risk-free 
+rate of 4% (in January 2008) and an equity risk premium 
+of 4.50%, yielded a cost of equity of 9.23%.
+Cost of Equity Jan 2008 = RiskfreeRateJan 2008 + Beta* Mature Market Risk Premium
+= 4.00% + 1.162 (4.5%) = 9.23%
+¨In October 2016, the Euro riskfreerate had dropped to 
+0.10% and the Deutsche’scost of equity had risen to 
+10.2%, putting it in the 75thpercentile of banks in terms 
+of cost of equity.
+238
+Cost of Equity: Tata Motors
+Aswath Damodaran
+238
+¨We will be valuing Tata Motors in rupee terms. That is a 
+choice. Any company can be valued in any currency. 
+¨Earlier, we estimated a levered beta for equity of 1.1007 
+for Tata Motor’s operating assets . Since we will be 
+discounting FCFE with the income from cash included in 
+the cash, we recomputed a beta for Tata Motors as a 
+company (with cash):
+Levered BetaCompany= 1.1007 (1428/1630)+ 0 (202/1630) = 0.964
+¨With a nominal rupee risk-free rate of 6.57 percent and 
+an equity risk premium of 7.19% for Tata Motors, we 
+arrive at a cost of equity of 13.50%.
+Cost of Equity = 6.57% + 0.964 (7.19%) = 13.50%
+239
+Current Cost of Capital: Disney
+¨The beta for Disney’s stock in November 2013 was 1.0013. The T . 
+bond rate at that time was 2.75%. Using an estimated equity risk 
+premium of 5.76%, we estimated the cost of equity for Disney to 
+be 8.52%:
+Cost of Equity = 2.75% + 1.0013(5.76%) = 8.52% 
+¨Disney’s bond rating in May 2009 was A, and based on this rating, 
+the estimated pretax cost of debt for Disney is 3.75%. Using a 
+marginal tax rate of 36.1, the after-tax cost of debt for Disney is 
+2.40%.
+After-Tax Cost of Debt = 3.75% (1 –0.361) = 2.40%
+¨The cost of capital was calculated using these costs and the weights 
+based on market values of equity (121,878) and debt (15.961):
+Cost of capital  = 
+Aswath Damodaran
+8.52% 121,878
+(15,961+121,878)+2.40% 15,961
+(15,961+121,878)=7.81%
+240
+But costs of equity and capital can and 
+should change over time…
+Aswath Damodaran
+Year Beta
+Cost of 
+Equity
+After-tax 
+Cost of 
+Debt Debt RatioCost of capital
+1 1.0013 8.52% 2.40% 11.50% 7.81%
+2 1.0013 8.52% 2.40% 11.50% 7.81%
+3 1.0013 8.52% 2.40% 11.50% 7.81%
+4 1.0013 8.52% 2.40% 11.50% 7.81%
+5 1.0013 8.52% 2.40% 11.50% 7.81%
+6 1.0010 8.52% 2.40% 13.20% 7.71%
+7 1.0008 8.51% 2.40% 14.90% 7.60%
+8 1.0005 8.51% 2.40% 16.60% 7.50%
+9 1.0003 8.51% 2.40% 18.30% 7.39%
+10 1.0000 8.51% 2.40% 20.00% 7.29%
+241
+III. Expected Growth
+Aswath Damodaran
+241
+Expected Growth
+Net Income Operating Income
+Retention Ratio=
+1 - Dividends/Net 
+Income
+Return on Equity
+Net Income/Book Value of 
+Equity
+X
+Reinvestment 
+Rate = (Net Cap 
+Ex + Chg in 
+WC/EBIT(1-t)
+Return on  Capital =
+EBIT(1-t)/Book Value of 
+Capital
+X
+242
+Estimating growth in EPS: Deutsche Bank in 
+January 2008
+Aswath Damodaran
+242
+¨ In 2007, Deutsche Bank reported net income of 6.51 billion Euros on a book value 
+of equity of 33.475 billion Euros at the start of the year (end of 2006), and paid 
+out 2.146 billion Euros as dividends. 
+Return on Equity = 
+Retention Ratio = 
+¨ If Deutsche Bank maintains the return on equity (ROE) and retention ratio that it 
+delivered in 2007 for the long run:
+Expected Growth Rate Existing Fundamentals = 0.6703 * 0.1945 = 13.04%
+¨ If we replace the net income in 2007 with average net income of $3,954 million, 
+from 2003 to 2007:
+Normalized Return on Equity = 
+Normalized Retention Ratio = 
+Expected Growth Rate Normalized Fundamentals = 0.4572 * 0.1181 = 5.40%
+€ 
+Net Income2007
+Book Value of Equity2006
+=6,510
+33,475=19.45%
+€ 
+1−Dividends
+Net Income=1−2,146
+6,510=67.03%
+€ 
+Average Net Income2003-07
+Book Value of Equity2006
+=3,954
+33,475=11.81%
+€ 
+1−Dividends
+Net Income=1−2,146
+3,954=45.72%
+243
+Estimating growth in Net Income: Tata Motors
+Aswath Damodaran
+243
+Year Net Income
+Cap Ex DepreciationChange in 
+WC
+Change in 
+Debt
+Equity 
+Reinvestment
+Equity 
+Reinvestment 
+Rate
+2008-09 -25,053₹ 99,708₹ 25,072₹ 13,441₹ 25,789₹ 62,288₹ -248.63%
+2009-10 29,151₹ 84,754₹ 39,602₹ -26,009₹ 5,605₹ 13,538₹ 46.44%
+2010-11 92,736₹ 81,240₹ 46,510₹ 50,484₹ 24,951₹ 60,263₹ 64.98%
+2011-12 135,165₹ 138,756₹ 56,209₹ 22,801₹ 30,846₹ 74,502₹ 55.12%
+2012-13 98,926₹ 187,570₹ 75,648₹ 680₹ 32,970₹ 79,632₹ 80.50%
+Aggregate 330,925₹ 592,028₹ 243,041₹ 61,397₹ 120,160₹ 290,224₹ 87.70%
+Year Net Income
+BV of Equity at 
+start of the year ROE
+2008-09 -25,053₹ 91,658₹ -27.33%
+2009-10 29,151₹ 63,437₹ 45.95%
+2010-11 92,736₹ 84,200₹ 110.14%
+2011-12 135,165₹ 194,181₹ 69.61%
+2012-13 98,926₹ 330,056₹ 29.97%
+Aggregate 330,925₹ 763,532₹ 43.34%
+2013 value
+Average 
+values: 
+2008-2013
+Reinvestment rate 80.50% 87.70%
+ROE 29.97% 43.34%
+Expected growth 24.13% 38.01%
+244
+ROE and Leverage
+Aswath Damodaran
+244
+¨A high ROE, other things remaining equal, should yield a 
+higher expected growth rate in equity earnings. 
+¨The ROE for a firm is a function of both the quality of its 
+investments and how much debt it uses in funding these 
+investments. In particular
+ROE = ROC + D/E (ROC -i(1-t))
+where,
+ROC = (EBIT (1 -tax rate)) / (Book Value of Capital)
+BV of Capital = BV of Debt + BV of Equity -Cash
+D/E = Debt/ Equity ratio 
+i= Interest rate on debt
+t = Tax rate on ordinary income.
+245
+Decomposing ROE
+Aswath Damodaran
+245
+¨Assume that you are analyzing a company with a 15% return 
+on capital, an after-tax cost of debt of 5% and a book debt to 
+equity ratio of 100%. Estimate the ROE for this company.
+¨Now assume that another company in the same sector has 
+the same ROE as the company that you have just analyzed 
+but no debt. Will these two firms have the same growth rates 
+in earnings per share if they have the same dividend payout 
+ratio?
+¨Will they have the same equity value?
+246
+Estimating Growth in EBIT: Disney
+¨We started with the reinvestment rate that we computed from the 
+2013 financial statements:
+Reinvestment rate =
+We computed the reinvestment rate in prior years to ensure that the 2013 
+values were not unusual or outliers.
+¨We compute the return on capital, using operating income in 2013 
+and capital invested at the start of the year:
+Return on Capital2013= 
+Disney’s return on capital has improved gradually over the last decade and 
+has levelled off in the last two years.
+¨If Disney maintains its 2013 reinvestment rate and return on capital 
+for the next five years, its growth rate will be 6.80 percent.
+Expected Growth Rate from Existing Fundamentals = 53.93% * 12.61% = 6.8%
+(3,629 + 103)
+10,032 (1-.3102)=53.93%
+EBIT (1-t)
+(BV of Equity+ BV of Debt - Cash)= 10,032 (1-.361)
+(41,958+ 16,328 - 3,387)=12.61%
+Aswath Damodaran
+247
+When everything is in flux: Changing 
+growth and margins
+¨The elegant connection between reinvestment and 
+growth in operating income breaks down, when you 
+have a company in transition, where margins are 
+changing over time.
+¨If that is the case, you have to estimate cash flows in 
+three steps:
+¤Forecast revenue growth and revenues in future years, taking 
+into account market potential and competition.
+¤Forecast a “target” margin in the future and a pathway from 
+current margins to the target.
+¤Estimate reinvestment from revenues, using a sales to capital 
+ratio (measuring the dollars of revenues you get from each 
+dollar of investment).
+Aswath Damodaran
+247
+248
+Here is an example: Baidu’s Expected FCFF
+Aswath Damodaran
+248
+Year
+Revenue 
+growthRevenues
+Operating 
+Margin EBITTax rateEBIT (1-t)
+Chg in 
+Revenues
+Sales/Ca
+pital
+Reinvestm
+ent FCFF
+Base 
+year $28,756 48.72%$14,009 16.31%$11,724 2.64
+125.00%$35,945 47.35%$17,019 16.31%$14,243 $7,189 2.64$2,722 $11,521 
+225.00%$44,931 45.97%$20,657 16.31%$17,288 $8,986 2.64$3,403 $13,885 
+325.00%$56,164 44.60%$25,051 16.31%$20,965 $11,233 2.64$4,253 $16,712 
+425.00%$70,205 43.23%$30,350 16.31%$25,400 $14,041 2.64$5,316 $20,084 
+525.00%$87,756 41.86%$36,734 16.31%$30,743 $17,551 2.64$6,646 $24,097 
+620.70%$105,922 40.49%$42,885 18.05%$35,145 $18,166 2.64$6,878 $28,267 
+716.40%$123,293 39.12%$48,227 19.79%$38,685 $17,371 2.64$6,577 $32,107 
+812.10%$138,212 37.74%$52,166 21.52%$40,938 $14,918 2.64$5,649 $35,289 
+9 7.80%$148,992 36.37%$54,191 23.26%$41,585 $10,781 2.64$4,082 $37,503 
+103.50%$154,207 35.00%$53,972 25.00%$40,479 $5,215 2.64$1,974 $38,505

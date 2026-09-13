@@ -1,0 +1,168 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dividendassessment.pdf
+
+IN PRACTICE WEBCAST: DIVIDEND 
+ASSESSMENT – PULLING 
+TOGETHER LOOSE THREADS
+Aswath Damodaran
+2
+Dividend Assessment: The Four Legs
+¨ Current Cash Return
+¤ In the most recent periods, did the company return more, less or just 
+about what it could have?
+Dividends versus FCFE
+¨ Past Cash Return
+¤ How much cash has the company accumulated or depleted over time?
+Cash Balance (scaled to value) over time
+¨ Project Availability
+¤ How good are the projects available to the company?
+¤ How much capital will these projects need in the future?
+Project Returns, Capital Needs
+¨ Financial Leverage
+¤ Is the firm under or over levered?
+¤ Does the “leverage gap” fix need fixing urgently?
+3
+The Combinations
+Current Cash 
+Flow 
+Cash Balance Project Quality/ 
+Availability
+Under or Over 
+levered
+Pressure to 
+return cash
+FCFE > 
+Dividends
+Large Cash 
+Balance
+Poor/ Few Under Highest
+FCFE > 
+Dividends
+Large Cash 
+Balance
+Good/Few At optimal Return more 
+cash now
+FCFE > 
+Dividends
+Large Cash 
+Balance
+Good/Plenty At optimal Allow cash 
+accumulation
+FCFE < 
+Dividends
+Small Cash 
+Balance
+Poor/ Few At optimal Reduce 
+dividends over 
+time
+FCFE > 
+Dividends
+Large Cash 
+Balance
+Good/Few At optimal Cut dividends 
+FCFE < 
+Dividends
+No/low Cash 
+Balance
+Good/Plenty Over Stop any cash 
+return
+4
+Illustrative Companies
+Company FCFE
+Cash 
+Return
+Cash/ Firm 
+Value
+ROC - Cost of 
+Capital Actual Optimal
+Amazon $       956 $                 - 5.00% 4.16% 9.32% 10.00%
+Alphabet $  10,750 $                 - 14.00% 13.45% 2.14% 30.00%
+Apple $  61,500 $     31,600 28.00% 19.30% 12.90% 30.00%
+Coca Cola $  12,654 $       9,317 8.50% 11.74% 18.50% 30.00%
+Pacific Gas & 
+Electric $       564 $          784 3.50% 1.25% 36.05% 20.00%
+Panera Bread $       806 $          982 4.30% -1.03% 23.17% 30.00%
+5
+1. Amazon
+1. Current Cashflow: The company does not return cash to 
+stockholders, either as dividends or stock buybacks. In the 
+most recent year, the company had about $1 billion in FCFE.
+2. Cash Balance: The company has accumulated almost $35 
+billion in cash, about 5% of firm value.
+3. Project Quality: It generates  positive excess returns 
+(approximately 4%) and has delivered significant excess 
+returns to its stockholders. It has significant growth 
+opportunities in multiple businesses.
+4. Leverage: The company is at about its optimal debt ratio.
+Bottom line: Amazon should not return cash.
+6
+2. Alphabet
+1. Current Cashflow: The company does not return cash to 
+stockholders, either as dividends or stock buybacks. In the 
+most recent year, the company had about $11 billion in 
+FCFE.
+2. Cash Balance: The company has accumulated almost $102 
+billion in cash, about 14% of firm value.
+3. Project Quality: It generates  positive excess returns 
+(approximately 14%) but almost all of it is from its search 
+engine business. The rest of its businesses are money losers.
+4. Leverage: The company is under levered, with a debt ratio 
+of 2% and an optimal of 30.00%.
+Bottom line: Alphabet should start returning cash to its 
+stockholders
+7
+3. Apple
+1. Current Cashflow: The company returned more cash than 
+any other company in the world ($31 billion) but its FCFE 
+was even higher (almost $60 billion)
+2. Cash Balance: The company has accumulated almost $250 
+billion in cash, about 28% of firm value.
+3. Project Quality: It generates  positive excess returns 
+(approximately 19%) but much of it comes from its smart 
+phone business, which does not require massive 
+reinvestment.
+4. Leverage: The company is under levered, with a debt ratio 
+of about 12% and an optimal debt ratio of 40%
+Bottom line: Apple is doling out more cash than any company 
+in history, but it should accelerate its cash return even more.
+8
+4.  Coca Cola
+1. Current Cashflow: The company returned $9.3 billion in 
+cash but its FCFE was even higher (almost $12 billion)
+2. Cash Balance: The company has accumulated almost 
+$20 billion in cash, about 10% of firm value.
+3. Project Quality: It generates  positive excess returns 
+(approximately 12%) but its core beverage business is 
+stagnant and growth is scarce.
+4. Leverage: The company is under levered, with a debt 
+ratio of about 18.5% and an optimal debt ratio of 30%
+Bottom line: Coca Cola has been paying large dividends, 
+but will have to increase cash return (perhaps with 
+buybacks).
+9
+5. Pacific Gas & Electric 
+1. Current Cashflow: The company returned $784 million 
+in cash, higher than its FCFE of $564 million.
+2. Cash Balance: The company has accumulated almost 
+$450 million in cash, less than 1% of firm value.
+3. Project Quality: It generates  positive excess returns 
+(approximately 1.25%) but it is a regulated company. It 
+does have investment opportunities in green energy.
+4. Leverage: The company is over levered, with a debt 
+ratio of about 36% and an optimal debt ratio of 20%
+Bottom line: PG&E should scale back its dividends, pay 
+down debt and redirect some cash to green energy 
+investments.
+10
+6. Panera Bread
+1. Current Cashflow: The company returned $982 million 
+in cash, higher than its FCFE of $806 million.
+2. Cash Balance: The company has accumulated almost 
+$153 million in cash, about 3% of firm value.
+3. Project Quality: It generates  negative excess returns 
+(approximately -1.03%) and operates in a saturated, 
+highly competitive business.
+4. Leverage: The company is under levered, with a debt 
+ratio of about 23% and an optimal debt ratio of 30%
+Bottom line: Panera should continue to pay out more 
+than its FCFE as dividends, until its debt ratio converges 
+on its optimal.

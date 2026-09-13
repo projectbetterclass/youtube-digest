@@ -1,0 +1,3 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pc/datasets/histimpl.xls
+
+[legacy .xls workbook: histimpl.xls — see raw file]

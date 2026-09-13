@@ -1,0 +1,1555 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/webcasts/corpgovHP/HPDEF14A.pdf
+
+Use these links to rapidly review the document
+TABLE OF CONTENTS
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+Proxy Statement Pursuant to Section 14(a) of
+the Securities Exchange Act of 1934 (Amendment No.          )
+ 
+ 
+Filed by the Registrant 
+
+ 
+Filed by a Party other than the Registrant 
+o
+ 
+Check the appropriate box:
+ 
+o
+ 
+Preliminary Proxy Statement
+ 
+o
+ 
+Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+ 
+
+ 
+Definitive Proxy Statement
+ 
+o
+ 
+Definitive Additional Materials
+ 
+o
+ 
+Soliciting Material Pursuant to §240.14a-12
+ 
+HEWLETT-PACKARD COMPANY
+ 
+(Name of Registrant as Specified In Its Charter)
+ 
+    
+ 
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+
+ 
+No fee required.
+o
+ 
+Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+ 
+ 
+(1)
+ 
+Title of each class of securities to which transaction applies:
+        
+ 
+ 
+ 
+(2)
+ 
+Aggregate number of securities to which transaction applies:
+        
+ 
+ 
+ 
+(3)
+ 
+Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the
+filing fee is calculated and state how it was determined):
+        
+ 
+ 
+ 
+(4)
+ 
+Proposed maximum aggregate value of transaction:
+        
+ 
+ 
+ 
+(5)
+ 
+Total fee paid:
+o
+ 
+Fee paid previously with preliminary materials.
+o
+ 
+Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid
+previously. Identify the previous filing by registration 
+statement number, or the Form or Schedule and the date of its filing.
+ 
+ 
+(1)
+ 
+Amount Previously Paid:
+        
+ 
+ 
+ 
+(2)
+ 
+Form, Schedule or Registration Statement No.:
+        
+ 
+ 
+ 
+(3)
+ 
+Filing Party:
+        
+ 
+ 
+ 
+(4)
+ 
+Date Filed:
+Table of Contents
+To 
+our Stockholders:
+We 
+are pleased to invite you to attend the annual meeting of stockholders of Hewlett-Packard Company to be held on March 20, 2013 at 2:00 p.m., local
+time, at the Computer History 
+Museum, 1401 N. Shoreline Boulevard, Mountain View, California.
+Details 
+regarding admission to the meeting and the business to be conducted are more fully described in the accompanying Notice of Annual Meeting
+and Proxy Statement.
+This 
+year, we are pleased to be again using the U.S. Securities and Exchange Commission rule that allows companies to furnish their proxy materials
+over the Internet. As a result, we are mailing to 
+many of our stockholders a notice instead of a paper copy of this proxy statement and our 2012 Annual
+Report. The notice contains instructions on how to access those documents over the Internet. The 
+notice also contains instructions on how each of those
+stockholders can receive a paper copy of our proxy materials, including this proxy statement, our 2012 Annual Report and a form of proxy card or
+voting instruction card. All stockholders who do not receive a notice, including stockholders who have previously requested to receive paper copies of
+proxy materials, will receive a paper copy of the 
+proxy materials by mail unless they have previously requested delivery of proxy materials
+electronically. Continuing to employ this distribution process will conserve natural resources and reduce the 
+costs of printing and distributing our proxy
+materials.
+Your 
+vote is important. Regardless of whether you plan to attend the annual meeting, we hope you will vote as soon as possible. You may vote by
+proxy over the Internet or by telephone, or, if you 
+received paper copies of the proxy materials by mail, you can also vote by mail by following the
+instructions on the proxy card or voting instruction card. Voting over the Internet, by telephone or by 
+written proxy or voting instruction card will
+ensure your representation at the annual meeting regardless of whether you attend in person.
+Thank 
+you for your ongoing support of, and continued interest in, Hewlett-Packard Company.
+Sincerely,
+Raymond J. Lane
+Chairman of the Board
+Margaret C. Whitman
+President and Chief Executive Officer
+ 
+ 
+Hewlett-Packard Company
+3000 Hanover Street
+Palo Alto, CA 94304
+www.hp.com
+Raymond J. Lane
+Chairman of the Board
+ 
+Margaret C. Whitman
+President and Chief Executive Officer
+Table of Contents
+2013 ANNUAL MEETING OF STOCKHOLDERS
+NOTICE OF ANNUAL MEETING AND PROXY STATEMENT
+TABLE OF CONTENTS 
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+ 
+1
+PROXY STATEMENT SUMMARY
+ 
+2
+QUESTIONS AND ANSWERS
+ 
+8
+Proxy Materials
+ 
+8
+Voting Information
+ 
+10
+Annual Meeting Information
+ 
+15
+Stockholder Proposals, Director Nominations and Related Bylaw 
+Provisions
+ 
+16
+Further Questions
+ 
+17
+CORPORATE GOVERNANCE PRINCIPLES AND BOARD 
+MATTERS
+ 
+18
+Board Leadership Structure
+ 
+18
+Board Structure and Committee Composition
+ 
+19
+Board Risk Oversight
+ 
+22
+Director Independence
+ 
+23
+Executive Sessions
+ 
+25
+Director Nominees
+ 
+25
+Board Policy Regarding Voting for Directors
+ 
+26
+Communications with the Board
+ 
+26
+DIRECTOR COMPENSATION AND STOCK OWNERSHIP 
+GUIDELINES
+ 
+28
+PROPOSALS TO BE VOTED ON
+ 
+33
+PROPOSAL NO. 1 Election of Directors
+ 
+33
+PROPOSAL NO. 2 Ratification of Independent Registered Public Accounting Firm
+ 
+40
+PROPOSAL NO. 3 Advisory Vote on Executive Compensation
+ 
+41
+PROPOSAL NO. 4 Proposal to Amend HP's Bylaws to Permit Stockholder Proxy Access
+ 
+42
+PROPOSAL NO. 5 Approval of the Second Amended and Restated Hewlett-Packard 
+Company 2004 Stock
+Incentive Plan
+ 
+45
+PROPOSAL NO. 6 Stockholder Proposal Related to the Formation of a Human Rights 
+Committee
+ 
+53
+PROPOSAL NO. 7 Stockholder Proposal Entitled "2013 Hewlett-Packard Resolution on 
+Human Rights
+Policy"
+ 
+55
+PROPOSAL NO. 8 Stockholder Proposal Entitled "Executives to Retain Significant 
+Stock"
+ 
+58
+COMMON STOCK OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND 
+MANAGEMENT
+ 
+61
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+ 
+64
+TRANSACTIONS WITH RELATED PERSONS
+ 
+64
+EXECUTIVE COMPENSATION
+ 
+66
+Compensation Discussion and Analysis
+ 
+66
+HR and Compensation Committee Report on Executive Compensation
+ 
+94
+Summary Compensation Table
+ 
+95
+Grants of Plan-Based Awards in Fiscal 2012
+ 
+99
+Outstanding Equity Awards at 2012 Fiscal Year-End
+ 
+101
+Option Exercises and Stock Vested in Fiscal 2012
+ 
+104
+Fiscal 2012 Pension Benefits Table
+ 
+105
+Fiscal 2012 Nonqualified Deferred Compensation Table
+ 
+107
+Potential Payments Upon Termination or Change in Control
+ 
+109
+EQUITY COMPENSATION PLAN INFORMATION
+ 
+114
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+ 
+115
+REPORT OF THE AUDIT COMMITTEE OF THE BOARD OF DIRECTORS
+ 
+116
+ANNEX A
+ 
+A-1
+Table of Contents
+HEWLETT-PACKARD COMPANY
+3000 Hanover Street
+Palo Alto, California 94304
+(650) 857-1501
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS 
+ 
+Time and Date
+ 
+2:00 p.m., local time, on Wednesday, March 20, 2013
+Place
+ 
+Computer History Museum, 1401 N. Shoreline Boulevard, Mountain View, California
+Items of
+Business
+ 
+(1)
+ 
+To elect the 11 directors named in this proxy statement
+ 
+ 
+(2)
+ 
+To ratify the appointment of the independent registered public accounting firm for the fiscal year ending October 31, 2013
+ 
+ 
+(3)
+ 
+To conduct an advisory vote on executive compensation
+ 
+ 
+(4)
+ 
+To consider and vote upon a proposal to amend HP's Bylaws to permit stockholder proxy access
+ 
+ 
+(5)
+ 
+To approve the Second Amended and Restated Hewlett-Packard Company 2004 Stock Incentive Plan
+ 
+ 
+(6)
+ 
+To consider and vote upon three stockholder proposals, if properly presented
+ 
+ 
+(7)
+ 
+To consider such other business as may properly come before the meeting
+Adjournments
+and
+Postponements
+ 
+Any action on the items of business described above may be considered at the annual meeting at the time and on the date specified
+above or at any time and date to which the annual meeting may be properly adjourned or 
+postponed.
+Record Date
+ 
+You are entitled to vote only if you were a Hewlett-Packard Company stockholder as of the close of business on January 22, 2013.
+Meeting
+Admission
+ 
+You are entitled to attend the annual meeting only if you were a Hewlett-Packard Company stockholder as of the close of business on
+January 22, 2013 or hold a valid proxy for the annual meeting. You should be 
+prepared to present photo identification for admittance.
+In addition, if you are a stockholder of record or hold your shares through the Hewlett-Packard Company 401(k) Plan or the
+Hewlett-Packard Company 2011 Employee Stock Purchase Plan, your 
+ownership as of the record date will be verified prior to
+admittance into the meeting. If you are not a stockholder of record but hold shares through a broker, trustee or nominee, you must
+provide proof of beneficial ownership as of the record date, 
+such as your most recent account statement prior to January 22, 2013 or
+similar evidence of ownership. 
+If you do not provide photo identification and comply with the other procedures outlined
+above, you will not be 
+admitted to the annual meeting.
+ 
+ 
+The annual meeting will begin promptly at 2:00 p.m., local time. Check-in will begin at 12:30 p.m., local time, and you should allow
+ample time for the check-in procedures.
+Voting
+ 
+Your vote is very important. Whether or not you plan to attend the annual meeting, we hope you will vote as soon as possible. You
+may vote your shares via a toll-free telephone number or over the Internet. If you received a paper copy of a proxy or 
+voting
+instruction card by mail, you may submit your proxy or voting instruction card for the annual meeting by completing, signing, dating
+and returning your proxy or voting instruction card in the pre-addressed envelope provided. For specific 
+instructions on how to vote
+your shares, please refer to the section entitled 
+Questions and Answers—Voting Information 
+beginning on page 10 of this proxy
+statement.
+This notice of annual meeting and proxy statement and form of proxy are being distributed and made available on or about February 1, 2013.
+   
+ 
+ 
+By order of the Board of Directors,
+ 
+ 
+JOHN F. SCHULTZ
+Executive Vice President, General Counsel
+and Secretary
+Table of Contents
+PROXY STATEMENT SUMMARY 
+The following is a summary of certain key disclosures in our proxy statement. This is only a summary, and it may not contain all of the information that is
+important to you. 
+For more complete information, please review the proxy statement as well as our 2012 Annual Report on Form 10-K.
+Annual Meeting of Stockholders 
+Proposals to be Voted on and Board Voting Recommendations 
+2
+Time and Date
+ 
+2:00 p.m., local time, on Wednesday, March 20, 2013
+Place
+ 
+Computer History Museum, 1401 N. Shoreline Boulevard, Mountain View, California
+Record Date
+ 
+January 22, 2013
+Proposals
+ 
+Recommendation
+Election of directors
+ 
+FOR EACH NOMINEE
+Ratification of Ernst & Young LLP as auditors for the 2013 fiscal year
+ 
+FOR
+Advisory vote to approve executive compensation
+ 
+FOR
+Proposal to amend HP's Bylaws to permit stockholder proxy access
+ 
+FOR
+Approval of the Second Amended and Restated Hewlett-Packard Company 2004 Stock
+Incentive Plan
+ 
+FOR
+Stockholder proposal related to the formation of a human rights committee
+ 
+AGAINST
+Stockholder proposal entitled "2013 Hewlett-Packard Resolution on Human Rights Policy"
+ 
+AGAINST
+Stockholder proposal entitled "Executives to Retain Significant Stock"
+ 
+AGAINST
+Table of Contents
+Proposal No. 1—Director Nominees 
+              The following table provides summary information about each of the director nominees:
+Proposal No. 2—Ratification of Auditors 
+              We are asking our stockholders to ratify the selection of Ernst & Young LLP ("E&Y") as our independent registered public 
+accounting firm for
+fiscal 2013. Set forth below is a summary of E&Y's fees for services provided in fiscal 2012 and 2011:
+3
+Name
+ 
+Age
+ 
+HP
+Director
+Since
+ 
+Noteworthy Experience
+ 
+Independent
+ 
+Other Public/Investment
+Company Boards
+Marc L. Andreessen
+ 
+41
+ 
+2009
+ 
+Co-Founder of AH Capital Management, LLC, doing business as Andreessen
+Horowitz
+ 
+Yes
+ 
+eBay Inc.; Facebook, Inc.
+Shumeet Banerji
+ 
+53
+ 
+2011
+ 
+Senior Partner, Booz & Company
+ 
+Yes
+ 
+ 
+Rajiv L. Gupta
+ 
+67
+ 
+2009
+ 
+Chairman, Avantor Performance Materials, and Senior Advisor, New Mountain
+Capital, LLC; former Chairman and Chief Executive Officer, Rohm and Haas
+Company
+ 
+Yes
+ 
+Delphi Automotive, PLC; Tyco
+International Ltd.; The Vanguard
+Group
+John H. Hammergren
+ 
+53
+ 
+2005
+ 
+Chairman, President and Chief Executive Officer, McKesson Corporation
+ 
+Yes
+ 
+McKesson Corporation
+Raymond J. Lane
+ 
+66
+ 
+2010
+ 
+Chairman of the Board, Hewlett-Packard Company; Managing Partner, Kleiner Perkins
+Caufield & Byers
+ 
+No
+ 
+ 
+Ann M. Livermore
+ 
+54
+ 
+2011
+ 
+Former Executive Vice President, Enterprise Business, Hewlett-Packard Company
+ 
+No
+ 
+United Parcel Service, Inc.
+Gary M. Reiner
+ 
+58
+ 
+2011
+ 
+Operating Partner, General Atlantic; former Senior Vice President and Chief
+Information Officer, General Electric Company
+ 
+Yes
+ 
+ 
+Patricia F. Russo
+ 
+60
+ 
+2011
+ 
+Former Chief Executive Officer, Alcatel-Lucent
+ 
+Yes
+ 
+Alcoa, Inc.; General Motors
+Company; KKR Management LLC;
+Merck & Co., Inc.
+G. Kennedy Thompson
+ 
+62
+ 
+2006
+ 
+Principal, Aquiline Capital Partners LLC; former Chairman, President and Chief
+Executive Officer, Wachovia Corporation
+ 
+Yes
+ 
+BNC Bancorp
+Margaret C. Whitman
+ 
+56
+ 
+2011
+ 
+President and Chief Executive Officer, Hewlett-Packard Company
+ 
+No
+ 
+The Procter & Gamble Company;
+Zipcar, Inc.
+Ralph V. Whitworth
+ 
+57
+ 
+2011
+ 
+Principal, Relational Investors LLC
+ 
+Yes
+ 
+ 
+ 
+ 
+2012
+ 
+2011
+ 
+ 
+In millions
+Audit Fees
+ 
+$
+30.6
+ 
+$
+30.5
+Audit-Related Fees
+ 
+ 
+14.8
+ 
+ 
+13.9
+Tax Fees
+ 
+ 
+3.2
+ 
+ 
+3.0
+All Other Fees
+ 
+ 
+2.2
+ 
+ 
+0.0
+ 
+ 
+ 
+ 
+ 
+Total
+ 
+$
+50.8
+ 
+$
+47.4
+Table of Contents
+Proposal No. 3—Advisory Vote on Executive Compensation 
+              There are many challenges facing our business. It will take commitment from all the talented people throughout our company to address 
+all of
+these challenges. We believe that we have the right executive team in place to deliver our strategy, and we have designed our compensation programs to
+enable us to attract, retain and reward 
+our team for delivering value to stockholders over the long term.
+              Our 
+compensation programs must balance near-term results with long-term success and continue to encourage employees to build value through
+innovation. To fulfill 
+this mission, we have a pay-for-performance philosophy that forms the foundation for all decisions regarding compensation made
+by HP management and the HR and Compensation 
+Committee of our Board of Directors (the "Board"). In addition, our compensation decisions are
+designed to facilitate strong corporate governance. Our focus on 
+pay-for-performance and corporate governance ensures alignment with the interests of
+stockholders as highlighted below:
+              The Compensation Discussion and Analysis portion of this proxy statement contains a detailed description of our executive compensation
+philosophy 
+and programs, the compensation decisions the Committee has made under those programs and the factors considered in making those
+decisions, focusing on the compensation of our named executive officers 
+("NEOs") for fiscal 2012, who were:
+•
+Margaret C. Whitman, our President and Chief Executive Officer; 
+•
+Catherine A. Lesjak, our Executive Vice President and Chief Financial Officer;
+4
+ 
+ALIGNMENT WITH STOCKHOLDERS
+ 
+  
+Pay for Performance
+ 
+ 
+Corporate Governance
+ 
+Nearly 100% of total compensation for the CEO is
+performance-based
+ and 85% is 
+equity-based
+ 
+We generally 
+do not enter
+ into individual executive
+compensation agreements
+ 
+On average, 89% of total compensation for named
+executive officers other than the CEO is 
+performance-
+based
+ and 73% is 
+equity-based
+ 
+We 
+devote significant time
+ to succession planning and
+leadership development efforts
+ 
+We target compensation within a competitive range of
+median
+ and only deliver compensation above this level
+when warranted by performance
+ 
+We maintain a 
+market-aligned
+ severance program and do
+not
+ have automatic 
+single-trigger 
+equity vesting
+ 
+We have 
+removed
+ discretionary incentive awards and
+replaced them with specific management objectives
+ 
+We utilize an 
+independent
+ compensation consultant
+ 
+Seventy percent of target long-term incentive
+compensation for NEOs is granted in the form of
+performance-contingent stock options
+ that only vest if
+sustained stock 
+price appreciation is achieved
+ 
+We 
+do not
+ have compensation programs that 
+encourage
+imprudent risk
+ 
+We provide 
+no special or supplemental
+ pension or health
+benefits
+ 
+We 
+disclose
+ our performance goals
+ 
+We validate our 
+pay-for-performance
+ relationship on an
+annual basis
+ 
+We conduct a robust 
+stockholder outreach
+ program
+Table of Contents
+•
+David A. Donatelli, Executive Vice President and General Manager of our Enterprise Group; 
+•
+John M. Hinshaw, our Executive Vice President of Technology and Operations; 
+•
+R. Todd Bradley, Executive Vice President of our Printing and Personal Systems Group; and 
+•
+Two former officers, Vyomesh I. Joshi, our former Executive Vice President, Imaging and Printing Group, and Giovanni G. 
+Visentin, our
+former Executive Vice President, Enterprise Services.
+              Our 
+fiscal 2012 financial performance was below expectations. The table below further illustrates our pay-for-performance philosophy by
+showing the impact that this financial 
+performance had on the compensation of the continuing NEOs in fiscal 2012:
+5
+ 
+Named
+Executive
+Officer
+ 
+Fiscal 2012 Annual
+Incentive Compensation
+as a Percentage
+of Target
+(1)
+ 
+Realized Value of Stock
+Option
+and Stock Awards
+Vesting in
+Fiscal 2012 as a
+Percentage of
+Target Value
+(2)(3)
+ 
+Total Shares Released in
+Fiscal 2012 Under
+Performance-Based
+Restricted Unit Program
+ 
+Margaret C.
+Whitman
+(4)
+ 
+70.3%
+ 
+9.6%
+ 
+0
+ 
+Catherine A.
+Lesjak
+ 
+50.3%
+ 
+16.1%
+ 
+0
+ 
+David A.
+Donatelli
+ 
+50.3%
+ 
+18.9%
+ 
+0
+ 
+John M.
+Hinshaw
+(5)
+ 
+65.3%
+ 
+—
+ 
+0
+ 
+R. Todd
+Bradley
+ 
+55.3%
+ 
+11.8%
+ 
+0
+ 
+(1)
+Excludes 
+payouts in the following amounts under the Cash Conversion Cycle Bonus Plan: Ms. Lesjak: $51,563; Mr. Donatelli:
+$51,563; 
+Mr. Hinshaw: $40,625; and Mr. Bradley: $53,125. Ms. Whitman was not eligible to participate in the Cash Conversion
+Cycle Bonus Plan. 
+(2)
+Realized 
+value is calculated using the actual aggregate value of all stock option and stock awards that vested during fiscal 2012. The
+realized value of 
+vested stock options is calculated by multiplying the number of shares vested by the difference (but not less than
+zero) between the exercise price and the closing price of our common stock on the 
+vesting date without regard to actual option
+exercise activity. The realized value of vested stock awards is calculated by multiplying the number of shares vested (excluding
+dividend equivalent 
+shares) by the closing price of our common stock on the vesting date. 
+(3)
+Target 
+value is the hypothetical aggregate value of all stock options and stock awards that vested during fiscal 2012 had all of the
+awards vested at 
+target. The target value for vested stock options and vested stock awards equals the grant date fair value of those
+awards. The target value of restricted stock units is calculated by multiplying the 
+closing price of our common stock on the date of
+grant by the number of units awarded. The target value of time-based option awards is calculated by multiplying the Black-Scholes
+value determined as 
+of the date of grant by the number of options awarded. The target value for vested performance-based
+restricted unit ("PRU") awards is calculated by multiplying the number of PRUs granted by the 
+closing price of our common stock
+on the grant date.
+Table of Contents
+              We 
+believe that we have created a compensation program deserving of stockholder support. Accordingly, we are asking for stockholder approval
+of the compensation of our NEOs as disclosed 
+in this proxy statement.
+Proposal No. 4—Proposal to Amend HP's Bylaws to Permit Stockholder Proxy Access 
+              The Board is proposing for approval by stockholders amendments to our Amended and Restated Bylaws that would permit stockholders to
+include stockholder-nominated director candidates in our proxy materials.
+Proposal No. 5—Approval of the Second Amended and Restated Hewlett-Packard Company 2004 Stock Incentive Plan
+              The Board recommends a vote FOR the approval of the Second Amended and Restated Hewlett-Packard Company 2004 Stock Incentive Plan
+(the 
+"Newly Amended Plan"). The Newly Amended Plan provides for the following changes to the existing Amended and Restated Hewlett-Packard
+Company 2004 Stock Incentive 
+Plan:
+•
+Makes an additional 172,500,000 shares of common stock available for issuance; 
+•
+Adds a provision to allow for a fungible share pool that reduces the share reserve much more rapidly when "full value" 
+awards, such as
+restricted stock and performance-based restricted units, are granted; 
+•
+Adds the ability to grant stock appreciation rights; 
+•
+Increases the share limits per individual under Section 162(m) of the Internal Revenue Code; 
+•
+Adds a $550,000 value limit to the annual equity retainer that can be granted to non-employee directors in any 
+plan year; 
+•
+Amends the performance criteria to include the performance criteria under the Hewlett-Packard Company 2005 
+Pay-for-Results Plan; and 
+•
+Extends the expiration of the existing Amended and Restated Hewlett-Packard Company 2004 Stock Incentive Plan for ten 
+years from the
+date of this annual meeting.
+              The 
+Board is asking stockholders to approve the Newly Amended Plan so that we may continue to use stock options, restricted stock, restricted
+stock units and other share-based 
+compensation awards to attract and retain employees.
+6
+(4)
+Only 
+one of Ms. Whitman's stock awards vested during fiscal 2012. That award was granted in April 2011 in connection with her
+service as a 
+non-employee member of the Board before she became Chief Executive Officer. None of Ms. Whitman's stock options
+or stock awards granted to her in connection her service as President 
+and Chief Executive Officer vested during fiscal 2012. 
+(5)
+No 
+portion of Mr. Hinshaw's equity awards vested during fiscal 2012.
+Table of Contents
+Proposal No. 6—Stockholder Proposal Related to the Formation of a Human Rights Committee 
+              The Board recommends a vote AGAINST a stockholder proposal seeking to have us establish a Human Rights Committee of the Board. The
+Nominating and Governance Committee of the Board already appropriately and effectively oversees our policies and efforts relating to human rights, so
+the establishment of an additional committee to 
+oversee the same policies and practices is unnecessary and would not be in the best interests of our
+stockholders.
+Proposal No. 7—Stockholder Proposal Entitled "2013 Hewlett-Packard Resolution on Human Rights Policy" 
+              The Board recommends a vote AGAINST a stockholder proposal seeking to have the Board review and amend, where applicable, within ten
+months of the 2013 Annual Meeting of Stockholders, "HP's policies related to human rights that guide its international and U.S. operation." The proposal is
+unnecessary because our global human rights 
+program already reflects a sufficiently comprehensive understanding of human rights. In addition, the
+Nominating and Governance Committee, the Board committee that is responsible for making 
+recommendations and reporting to the full Board regarding
+our policies with respect to including human rights, met during fiscal 2012 to review human rights issues facing our company and is expected 
+to continue
+to meet regularly in future years. Accordingly, we have already taken the action being sought by the proposal, rendering it unnecessary.
+Proposal No. 8—Stockholder Proposal Entitled "Executives To Retain Significant Stock" 
+              The Board recommends a vote AGAINST a stockholder proposal seeking to have us adopt a policy requiring that senior executives retain a
+significant percentage of stock acquired through equity pay programs until reaching retirement age because our existing stock ownership guidelines and
+other compensation policies already effectively 
+facilitate significant stock ownership by our executives, and establishing holding requirements based on a
+particular retirement age would not be in the best interests of our stockholders.
+7
+Table of Contents
+QUESTIONS AND ANSWERS 
+Proxy Materials 
+1.           Why am I receiving these materials?
+              The Hewlett-Packard Company ("HP") Board of Directors (the "Board") has made these materials available to you over the Internet or
+delivered paper 
+copies of 
+these materials to you by mail in connection with HP's annual meeting of stockholders, which will take place on Wednesday,
+March 20, 2013. As a stockholder, you are invited to attend the annual 
+meeting and to vote on the items of business described in this proxy statement.
+This proxy statement includes information that we are required to provide to you under the rules of the U.S. Securities 
+and Exchange Commission and
+that is designed to assist you in voting your shares.
+2.           What is included in the proxy materials?
+              The proxy materials include:
+•
+Our proxy statement for the annual meeting of stockholders; and 
+•
+Our 2012 Annual Report, which includes our Annual Report on Form 10-K for the fiscal year ended 
+October 31, 2012.
+If 
+you received a paper copy of these materials by mail, the proxy materials also include a proxy card or a voting instruction card for the annual meeting.
+3.           What information is contained in this proxy statement?
+              The information in this proxy statement relates to the proposals to be voted on at the annual meeting, the voting process, the Board and Board
+committees, the 
+compensation of HP's directors and certain executive officers for fiscal 2012 and other required information.
+4.           Why did I receive a notice in the mail regarding the Internet availability of the proxy materials instead of a paper copy of the proxy
+materials?
+              This year, we are pleased to be again using the U.S. Securities and Exchange Commission rule that allows companies to furnish their proxy
+materials 
+over the 
+Internet. As a result, we are mailing to many of our stockholders a notice about the Internet availability of the proxy materials instead
+of a paper copy of the proxy materials. All stockholders 
+receiving the notice will have the ability to access the proxy materials over the Internet and
+request to receive a paper copy of the proxy materials by mail. Instructions on how to access the proxy 
+materials over the Internet or to request a paper
+copy may be found in the notice. In addition, the notice contains instructions on how you may request to access proxy materials in printed form by 
+mail
+or electronically on an ongoing basis.
+5.           Why didn't I receive a notice in the mail about the Internet availability of the proxy materials?
+              We are providing some of our stockholders, including stockholders who have previously requested to receive paper copies of the proxy
+materials and 
+some of our 
+stockholders who are living outside of the United States, with paper copies of the proxy materials instead of a notice about
+the Internet availability of the proxy materials.
+              In 
+addition, we are providing notice of the Internet availability of the proxy materials by e-mail to those stockholders who have previously
+elected delivery of the proxy 
+materials electronically. Those
+8
+Table of Contents
+stockholders 
+should have received an e-mail containing a link to the website where those materials are available and a link to the proxy voting website.
+6.           How can I access the proxy materials over the Internet?
+              Your notice about the Internet availability of the proxy materials, proxy card or voting instruction card will contain instructions on how 
+to:
+•
+View our proxy materials for the annual meeting on the Internet; and 
+•
+Instruct us to send our future proxy materials to you electronically by e-mail.
+Our 
+proxy materials are also available on our website at 
+www.hp.com/investor/stockholdermeeting2013
+.
+              Your 
+notice of Internet availability of proxy materials, proxy card or voting instruction card will contain instructions on how you may request
+to access proxy materials electronically 
+on an ongoing basis. Choosing to access your future proxy materials electronically will help us conserve natural
+resources and reduce the costs of distributing our proxy materials. If you choose to 
+access future proxy materials electronically, you will receive an e-
+mail with instructions containing a link to the website where those materials are available and a link to the proxy 
+voting website. Your election to access
+proxy materials by e-mail will remain in effect until you terminate it.
+7.           How may I obtain a paper copy of the proxy materials?
+              Stockholders receiving a notice about the Internet availability of the proxy materials will find instructions about how to obtain a paper copy of
+the 
+proxy 
+materials on their notice. Stockholders receiving notice of the availability of the proxy materials by e-mail will find instructions about how to
+obtain a paper copy of the proxy materials 
+as part of that e-mail. All stockholders who do not receive a notice or an e-mail will receive a paper copy of
+the proxy materials by mail.
+8.           I share an address with another stockholder, and we received only one paper copy of the proxy materials. How may I obtain an
+additional copy of the proxy 
+materials?
+              If you share an address with another stockholder, you may receive only one set of proxy materials unless you have provided contrary
+instructions. If 
+you wish to 
+receive a separate set of proxy materials now, please request the additional copy by contacting Innisfree M&A Incorporated
+("Innisfree") at:
+(877) 750-5838 
+(U.S. and Canada)
+(412) 232-3651 (International)
+E-mail: info@innisfreema.com
+A 
+separate set of proxy materials will be sent promptly following receipt of your request.
+              If 
+you are a stockholder of record and wish to receive a separate set of proxy materials in the future, please contact HP's transfer agent. See
+Question 27 below.
+              If 
+you are the beneficial owner of shares held through a broker, trustee or other nominee and you wish to receive a separate set of proxy
+materials in the future, please call Broadridge 
+Financial Solutions, Inc. at:
+(800) 542-1061
+9
+Table of Contents
+              All 
+stockholders also may write to us at the address below to request a separate copy of these materials:
+NASDAQ 
+OMX
+Print and Distribution Ctr.
+325 Donald Lynch Blvd
+Marlborough, MA 01752
+(866) 869-5335
+9.           What should I do if I receive more than one notice or e-mail about the Internet availability of the proxy materials or more than one
+paper copy of 
+the proxy materials?
+              You may receive more than one notice, more than one e-mail or more than one paper copy of the proxy materials, including multiple paper
+copies of 
+this proxy statement and multiple proxy cards or voting instruction cards. For example, if you hold your shares in more than one brokerage
+account, you may receive a separate notice, a separate 
+e-mail or a separate voting instruction card for each brokerage account in which you hold shares.
+If you are a stockholder of record and your shares are registered in more than one name, 
+you may receive more than one notice, more than one e-mail or
+more than one proxy card. To vote all of your shares by proxy, you must complete, sign, date and return each proxy card and 
+voting instruction card
+that you receive and vote over the Internet the shares represented by each notice and e-mail that you receive (unless you have requested and received a
+proxy card 
+or voting instruction card for the shares represented by one or more of those notices or e-mails).
+10.         How may I obtain a copy of HP's 2012 Form 10-K and other financial information?
+              
+Stockholders may request a free copy of our 2012 Annual Report, which includes our 2012 Form 10-K, 
+from:
+NASDAQ OMX
+Print and Distribution Ctr.
+325 Donald Lynch Blvd
+Marlborough, MA 01752
+(866) 869-5335
+www.hp.com/investor/informationrequest
+              
+Alternatively, stockholders can access the 2012 Annual Report, which includes our 2012 Form 10-K and other financial information,
+on HP's 
+Investor Relations website at:
+www.hp.com/investor/home
+              HP 
+also will furnish any exhibit to the 2012 Form 10-K if specifically requested.
+Voting Information 
+11.         What items of business will be voted on at the annual meeting?
+              The items of business scheduled to be voted on at the annual meeting are:
+•
+The election of directors; 
+•
+The ratification of the appointment of HP's independent registered public accounting firm for the 2012 fiscal year; 
+•
+The advisory vote to approve executive compensation;
+10
+Table of Contents
+•
+A proposal to amend HP's Bylaws to permit stockholder proxy access; 
+•
+The approval of the Second Amended and Restated Hewlett-Packard Company 2004 Stock Incentive Plan; and 
+•
+The consideration of three stockholder proposals, if properly presented.
+              We 
+also will consider any other business that properly comes before the annual meeting. See Question 23 below.
+12.         How does the Board recommend that I vote?
+              
+Our Board recommends that you vote your shares FOR each of the nominees for election to the Board, FOR the ratification of the
+appointment of HP's independent registered public accounting firm, FOR the approval of the compensation of HP's named executive
+officers, FOR the proxy access proposal, FOR the approval of the Second 
+Amended and Restated Hewlett-Packard Company 2004 Stock
+Incentive Plan, and AGAINST each of the stockholder proposals.
+13.         What is the difference between holding shares as a stockholder of record and as a beneficial owner?
+              Most HP stockholders hold their shares through a broker, trustee or other nominee rather than directly in their own name. As summarized
+below, there 
+are some 
+distinctions between shares held of record and those owned beneficially.
+•
+Stockholder of Record
+—If your shares are registered directly 
+in your name with HP's transfer agent, you are considered, with respect
+to those shares, the "stockholder of record." As the stockholder of record, you have the right to grant your voting proxy 
+directly to HP
+or to a third party, or to vote in person at the meeting. 
+•
+Beneficial Owner
+—If your shares are held in a brokerage 
+account, by a trustee or by another nominee, you are considered the
+"beneficial owner" of those shares. As the beneficial owner of those shares, you have the right to direct your broker, trustee or 
+nominee
+how to vote and you also are invited to attend the annual meeting. However, because a beneficial owner is not the stockholder of record,
+you will not be entitled to vote your 
+beneficially-owned shares in person at the meeting unless you obtain a "legal proxy" from the
+broker, trustee or nominee that holds your shares, giving you the right to vote the shares at the meeting.
+14.         What shares can I vote?
+              Each holder of shares of HP common stock issued and outstanding as of the close of business on January 22, 2013, the record date for the
+annual 
+meeting, 
+is entitled to cast one vote per share on all items being voted upon at the annual meeting. You may vote all shares owned by you as of
+this time, including (1) shares held directly in your name 
+as the stockholder of record, including shares purchased through HP's Dividend Reinvestment
+Plan and HP's employee stock purchase plans and shares held through HP's Direct Registration Service, and 
+(2) shares held for you as the beneficial
+owner through a broker, trustee or other nominee. On the record date, HP had approximately 1,952,722,614 shares of common stock issued and
+outstanding.
+15.         How can I vote my shares in person at the annual meeting?
+              Shares held in your name as the stockholder of record may be voted in person at the annual meeting. Shares for which you are the beneficial
+owner but 
+not the 
+stockholder of record may be voted in person at the annual meeting only if you obtain a legal proxy from the broker, trustee or
+nominee
+11
+Table of Contents
+that 
+holds your shares giving you the right to vote the shares. Even if you plan to attend the annual meeting, we recommend that you also vote by proxy
+as described below so that your vote will be 
+counted if you later decide not to attend the meeting.
+16.         How can I vote my shares without attending the annual meeting?
+              Whether you hold shares directly as the stockholder of record or through a broker, trustee or other nominee as the beneficial owner, you may
+direct 
+how your 
+shares are voted without attending the annual meeting. There are three ways to vote by proxy:
+•
+By Internet
+—Stockholders who have received a notice of the 
+Internet availability of the proxy materials by mail may submit proxies
+over the Internet by following the instructions on the notice. Stockholders who have received notice of the Internet 
+availability of the
+proxy materials by e-mail may submit proxies over the Internet by following the instructions included in the e-mail. Stockholders who
+have received a paper 
+copy of a proxy card or voting instruction card by mail may submit proxies over the Internet by following the
+instructions on the proxy card or voting instruction card. 
+•
+By Telephone
+—Stockholders of record who live in the United 
+States or Canada may submit proxies by telephone by calling 1-866-209-
+1711 and following the instructions. Stockholders of record who have received a notice of the 
+Internet availability of the proxy materials
+by mail must have the control number that appears on their notice available when voting. Stockholders of record who received notice of
+the Internet 
+availability of the proxy materials by e-mail must have the control number included in the e-mail available when voting.
+Stockholders of record who have received a proxy card 
+by mail must have the control number that appears on their proxy card available
+when voting. Most stockholders who are beneficial owners of their shares living in the United States or Canada and who 
+have received a
+voting instruction card by mail may vote by phone by calling the number specified on the voting instruction card provided by their
+broker, trustee or nominee. Those stockholders should 
+check the voting instruction card for telephone voting availability. 
+•
+By Mail
+—Stockholders who have received a paper copy of a proxy 
+card or voting instruction card by mail may submit proxies by
+completing, signing and dating their proxy card or voting instruction card and mailing it in the accompanying pre-addressed 
+envelope.
+17.         What is the deadline for voting my shares?
+              If you hold shares as the stockholder of record, or through the Hewlett-Packard Company 2011 Employee Stock Purchase Plan (the "ESPP"),
+your vote by 
+proxy must 
+be received before the polls close at the annual meeting.
+              If 
+you hold shares in the Hewlett-Packard Company 401(k) Plan (the "HP 401(k) Plan"), your voting instructions must be received by
+11:59 p.m., Eastern time, on March 17, 
+2013 for the trustee to vote your shares.
+              If 
+you are the beneficial owner of shares held through a broker, trustee or other nominee, please follow the voting instructions provided by
+your broker, trustee or nominee.
+18.         May I change my vote?
+              You may change your vote at any time prior to the vote at the annual meeting, except that any change to your voting instructions for the HP
+401(k) 
+Plan must be 
+provided by 11:59 p.m., Eastern time, on March 17, 2013 as described above. If you are the stockholder of record, you may
+change your vote by granting a new proxy bearing a later date 
+(which automatically revokes the earlier proxy), by
+12
+Table of Contents
+providing 
+a written notice of revocation to the Corporate Secretary at the address below in Question 30 prior to your shares being voted, or by attending
+the annual meeting and voting in 
+person. Attendance at the meeting will not cause your previously granted proxy to be revoked unless you specifically
+make that request. For shares you hold beneficially in the name of a broker, 
+trustee or other nominee, you may change your vote by submitting new
+voting instructions to your broker, trustee or nominee, or, if you have obtained a legal proxy from your broker or nominee giving 
+you the right to vote
+your shares, by attending the meeting and voting in person.
+19.         Is my vote confidential?
+              Proxy instructions, ballots and voting tabulations that identify individual stockholders are handled in a manner that protects your voting
+privacy. 
+Your vote 
+will not be disclosed, either within HP or to third parties, except: (1) as necessary to meet applicable legal requirements; (2) to allow
+for the tabulation of votes and certification of 
+the vote; and (3) to facilitate a successful proxy solicitation. Occasionally, stockholders provide on their
+proxy card written comments, which are then forwarded to HP management.
+20.         How are votes counted?
+              In the election of directors, you may vote "FOR," "AGAINST" or "ABSTAIN" with respect to each of the nominees. If you elect to abstain in
+the election 
+of 
+directors, the abstention will not impact the election of directors. In tabulating the voting results for the election of directors, only "FOR"
+and "AGAINST" votes are counted. You also may cumulate 
+your votes as described in Question 22.
+              For 
+the other items of business, you may vote "FOR," "AGAINST" or "ABSTAIN." For these other items of business, if you elect to abstain,
+the abstention will have the same effect as an 
+"AGAINST" vote.
+              If 
+you are the beneficial owner of shares held in the name of a broker, trustee or other nominee and do not provide that broker, trustee or other
+nominee with voting instructions, your 
+shares may constitute "broker non-votes." Generally, broker non-votes occur on a matter when a broker is not
+permitted to vote on that matter without instructions from the 
+beneficial owner and instructions are not given. Under the rules of the New York Stock
+Exchange, brokers, trustees or other nominees may generally vote on routine matters but cannot vote on 
+non-routine matters. Only Proposal No. 2
+(ratifying the appointment of the independent registered public accounting firm) is considered a routine matter. The other proposals are not 
+considered
+routine matters, and without your instructions, your broker cannot vote your shares. In tabulating the voting results for any particular proposal, shares
+that constitute broker 
+non-votes are not considered entitled to vote on that proposal. Thus, broker non-votes will not affect the outcome of any matter
+being voted on at the meeting, assuming that a 
+quorum is obtained.
+              If 
+you provide specific instructions with regard to certain items, your shares will be voted as you instruct on such items. If you vote by proxy
+card or voting instruction card and sign 
+the card without giving specific instructions, your shares will be voted in accordance with the recommendations
+of the Board (FOR all of HP's nominees to the Board, FOR ratification of the appointment 
+of HP's independent registered public accounting firm, FOR
+the approval of the compensation of HP's named executive officers, FOR the proxy access proposal, FOR the approval of the Second Amended and
+Restated Hewlett-Packard Company 2004 Stock Incentive Plan and AGAINST each of the stockholder proposals).
+              For 
+any shares you hold in the HP 401(k) Plan, if your voting instructions are not received by 11:59 p.m., Eastern time, on March 17, 2013,
+your shares will be voted in 
+proportion to the way the
+13
+Table of Contents
+shares 
+held by the other HP 401(k) Plan participants are voted, except as may be otherwise required by law.
+21.         What is the voting requirement to approve each of the proposals?
+              In the election of directors, each director will be elected by the vote of the majority of votes cast with respect to that director nominee. A
+majority of votes 
+cast means that the number of votes cast for a nominee's election must exceed the number of votes cast against such nominee's
+election. Each nominee receiving more votes "for" his or her election than 
+votes "against" his or her election will be elected. Approval of Proposal No. 4
+requires the affirmative vote of sixty-six and two-thirds percent (66
+2
+/
+3
+%) 
+of the outstanding shares of HP common stock entitled to be voted on the
+proposal at the annual meeting. Approval of each of the other proposals requires the affirmative vote of a majority of the 
+shares present, in person or
+represented by proxy, and entitled to vote on that proposal at the annual meeting, provided that Proposal No. 5 will only be approved if the total votes
+cast on the 
+proposal represents more than 50% of all shares entitled to vote on the proposal.
+22.         Is cumulative voting permitted for the election of directors?
+              In the election of directors, you may elect to cumulate your vote. Cumulative voting allows you to allocate among the director nominees, as you
+see 
+fit, the 
+total number of votes equal to the number of director positions to be filled multiplied by the number of shares you hold. For example, if you
+own 100 shares of stock and there are 11 directors to be 
+elected at the annual meeting, you may allocate 1,100 "FOR" votes (11 times 100) among as
+few or as many of the 11 nominees to be voted on at the annual meeting as you choose. You may not 
+cumulate your votes against a nominee.
+              If 
+you are a stockholder of record and choose to cumulate your votes, you will need to submit a proxy card or, if you vote in person at the
+annual meeting, you will need to submit a 
+ballot and make an explicit statement of your intent to cumulate your votes, either by so indicating in writing
+on the proxy card or by indicating in writing on your ballot when voting at the annual 
+meeting. If you hold shares beneficially through a broker, trustee
+or other nominee and wish to cumulate votes, you should contact your broker, trustee or nominee.
+              If 
+you vote by proxy card or voting instruction card and sign your card with no further instructions, Margaret C. Whitman, Catherine A. Lesjak
+and John F. Schultz, as proxy holders, may 
+cumulate and 
+cast your votes in favor of the election of some or all of the applicable nominees in their sole
+discretion, except that none of your votes will be cast for any nominee as to whom you vote against or 
+abstain from voting.
+              Cumulative 
+voting applies only to the election of directors.
+23.         What happens if additional matters are presented at the annual meeting?
+              Other than the eight items of business described in this proxy statement, we are not aware of any other business to be acted upon at the annual
+meeting. If you 
+grant a proxy, the persons named as proxy holders, Margaret C. Whitman, Catherine A. Lesjak and John F. Schultz, will have the
+discretion to vote your shares on any additional matters properly 
+presented for a vote at the meeting. If for any reason any of the nominees named in this
+proxy statement is not available as a candidate for director, the persons named as proxy holders will vote your 
+proxy for such other candidate or
+candidates as may be nominated by the Board.
+24.         Who will serve as inspector of elections?
+              The inspector of elections will be a representative from an independent firm, IVS Associates, Inc.
+14
+Table of Contents
+25.         Who will bear the cost of soliciting votes for the annual meeting?
+              HP is making this solicitation and will pay the entire cost of preparing, assembling, printing, mailing and distributing the notices and these
+proxy 
+materials 
+and soliciting votes. In addition to the mailing of the notices and these proxy materials, the solicitation of proxies or votes may be made
+in person, by telephone or by electronic communication by 
+our directors, officers and employees, who will not receive any additional compensation for
+such solicitation activities. We also have hired Innisfree to assist us in the distribution of proxy 
+materials and the solicitation of votes described above.
+We will pay Innisfree a base fee of $20,000 plus customary costs and expenses for these services. HP has agreed to indemnify Innisfree against 
+certain
+liabilities arising out of or in connection with its agreement. We also 
+will reimburse brokerage houses and other custodians, nominees and fiduciaries for
+forwarding proxy and solicitation materials to stockholders.
+26.         Where can I find the voting results of the annual meeting?
+              We intend to announce preliminary voting results at the annual meeting and publish final results in a Current Report on Form 8-K to be filed
+with the U.S. Securities and Exchange Commission (the "SEC") within four business days of the annual meeting.
+27.         What if I have questions for HP's transfer agent?
+              Please contact HP's transfer agent, at the phone number or address listed below, with questions concerning stock certificates, dividend checks,
+transfer of 
+ownership or other matters pertaining to your stock account.
+Wells 
+Fargo Bank, N.A.
+Shareowner Services
+1110 Centre Pointe Curve, Suite 101
+Mendota Heights, MN 55120-4100
+(800) 286-5977 (U.S. and Canada)
+(651) 450-4064 (International)
+              A 
+dividend reinvestment and stock purchase program is also available through HP's transfer agent. For information about this program, please
+contact HP's transfer agent as follows:
+Wells 
+Fargo Bank, N.A.
+Shareowner Services
+1110 Centre Pointe Curve, Suite 101
+Mendota Heights, MN 55120-4100
+(800) 286-5977 (U.S. and Canada)
+(651) 450-4064 (International)
+Annual Meeting Information 
+28.         How can I attend the annual meeting?
+              You are entitled to attend the annual meeting only if you were an HP stockholder or joint holder as of the close of business on January 22,
+2013 
+or if you 
+hold a valid proxy for the annual meeting. You must present photo identification for admittance. If you are a stockholder of record or
+hold your shares through the HP 401(k) Plan or the ESPP, your 
+name will be verified against the list of stockholders of record or plan participants on
+the record date prior to your admission to the annual meeting. If you are not a stockholder of record but hold 
+shares through a broker, trustee or
+nominee, you must provide proof of beneficial ownership on the record date, such as your most recent account statement prior to January 22, 2013 or
+other 
+similar evidence of ownership.
+15
+Table of Contents
+              
+If you do not provide photo identification or comply with the other procedures outlined above, you will not be admitted to the
+annual 
+meeting.
+              The 
+meeting will begin promptly at 2:00 p.m., local time. Check-in will begin at 12:30 p.m., local time, and you should allow ample time for the
+check-in procedures.
+29.         How many shares must be present or represented to conduct business at the annual meeting?
+              The quorum requirement for holding the annual meeting and transacting business is that holders of a majority of shares of HP common stock
+entitled to 
+vote must 
+be present in person or represented by proxy. Both abstentions and broker non-votes described previously in Question 20 are
+counted for the purpose of determining the presence of a 
+quorum.
+Stockholder Proposals, Director Nominations and Related Bylaw Provisions 
+30.         What is the deadline to propose actions for consideration at next year's annual meeting of stockholders?
+              You may submit proposals for consideration at future stockholder meetings. For a stockholder proposal to be considered for inclusion in HP's
+proxy 
+statement for 
+the annual meeting next year, the Corporate Secretary must receive the written proposal at our principal executive offices no later
+than October 4, 2013. Such proposals also must comply with 
+SEC regulations under Rule 14a-8 regarding the inclusion of stockholder proposals in
+company-sponsored proxy materials. Proposals should be addressed to:
+Corporate 
+Secretary
+Hewlett-Packard Company
+3000 Hanover Street
+Palo Alto, California 94304
+Fax: (650) 857-4837
+              For 
+a stockholder proposal that is not intended to be included in HP's proxy statement under Rule 14a-8, the stockholder must provide the
+information required by HP's 
+Bylaws and give timely notice to the Corporate Secretary in accordance with HP's Bylaws, which, in general, require that
+the notice be received by the Corporate 
+Secretary:
+•
+not earlier than the close of business on November 20, 2013; and 
+•
+not later than the close of business on December 20, 2013.
+              If 
+the date of the stockholder meeting is moved more than 30 days before or 60 days after the anniversary of the HP annual meeting for the
+prior year, then notice of a 
+stockholder proposal that is not intended to be included in HP's proxy statement under Rule 14a-8 must be received no earlier
+than the close of business 120 days prior to the 
+meeting and not later than the close of business on the later of the following two dates:
+•
+90 days prior to the meeting; and 
+•
+10 days after public announcement of the meeting date.
+31.         How may I recommend or nominate individuals to serve as directors?
+              You may recommend director candidates for consideration by the Board's Nominating and Governance Committee. Any such
+recommendations should include 
+the nominee's 
+name and
+16
+Table of Contents
+qualifications 
+for Board membership and should be directed to the Corporate Secretary at the address of our principal executive offices set forth in
+Question 30 above.
+              In 
+addition, HP's Bylaws permit stockholders to nominate directors for election at an annual stockholder meeting. To nominate a director, the
+stockholder must deliver the information 
+required by HP's Bylaws.
+32.         What is the deadline to recommend or nominate individuals to serve as directors?
+              A stockholder may send a recommended director candidate's name and information to the Board at any time. Generally, such proposed
+candidates are 
+considered at 
+the first or second Board meeting prior to the issuance of the proxy statement for HP's annual meeting.
+              To 
+nominate an individual for election at an annual stockholder meeting, the stockholder must give timely notice to the Corporate Secretary in
+accordance with HP's Bylaws, which, in 
+general, require that the notice be received by the Corporate Secretary between the close of business on
+November 20, 2013 and the close of business on December 20, 2013, unless the 
+annual meeting is moved by more than 30 days before or 60 days after
+the anniversary of the prior year's annual meeting, in which case the deadline will be as described in 
+Question 30.
+33.         How may I obtain a copy of the provisions of HP's Bylaws regarding stockholder proposals and director nominations?
+              You may contact the Corporate Secretary at our principal executive offices for a copy of the relevant Bylaws provisions regarding the
+requirements for 
+making 
+stockholder proposals and nominating director candidates. HP's Bylaws also are available on HP's website at
+www.hp.com/hpinfo/investor/bylaws
+.
+Further Questions 
+34.         Who can help answer my questions?
+              If you have any questions about the annual meeting or how to vote or revoke your proxy, you should contact HP's proxy solicitor:
+Innisfree 
+M&A Incorporated
+501 Madison Avenue, 20
+th
+ Floor
+New York, New York 10022
+Stockholders: (877) 750-5838 (U.S. and Canada)
+(412) 232-3651 (International)
+Banks and brokers (call collect):
+(212) 750-5833
+17
+Table of Contents
+CORPORATE GOVERNANCE PRINCIPLES AND BOARD MATTERS 
+              HP is committed to maintaining the highest standards of business conduct and corporate governance, which we believe are essential to 
+running
+our business efficiently, serving our stockholders well and maintaining HP's integrity in the marketplace. HP maintains a code of business conduct and
+ethics for directors, officers (including 
+HP's principal executive officer, principal financial officer and principal accounting officer) and employees,
+known as our Standards of Business Conduct. HP also has adopted Corporate Governance 
+Guidelines, which, in conjunction with the Certificate of
+Incorporation, Bylaws and respective charters of the committees of the Board of Directors, form the framework for the governance of HP. All of 
+these
+documents are available at 
+www.hp.com/investor/corpgovernance/highlights
+ for review, downloading and printing. HP will post on this website any
+amendments to the 
+Standards of Business Conduct or waivers of the Standards of Business Conduct for directors and executive officers. Stockholders
+may request free printed copies of the HP Certificate of Incorporation, 
+Bylaws, Standards of Business Conduct, Corporate Governance Guidelines and
+charters of the committees of the Board of Directors by contacting:
+Hewlett-Packard 
+Company
+Attention: Investor Relations
+3000 Hanover Street
+Palo Alto, California 94304
+(866) 869-5335
+www.hp.com/investor/home
+Board Leadership Structure 
+              The Board of Directors ("Board") is currently led by executive Chairman Raymond J. Lane. In addition, the independent directors of the 
+Board
+have designated Rajiv L. Gupta to serve as Lead Independent Director. This reflects the Board's preferred governance structure of a separate Chairman
+and Chief Executive Officer ("CEO"), but the 
+Board's leadership structure may vary in the future as circumstances warrant. The Board believes that this
+structure best serves the interests of stockholders because it allows our CEO to focus 
+primarily on our business strategy and operations and leverage the
+experience of the Chairman.
+              The 
+executive Chairman oversees the planning of the annual Board calendar, and, with the CEO, in consultation with the other directors,
+schedules and sets the agenda for meetings of the 
+Board and leads the discussions at such meetings. In addition, the executive Chairman provides
+guidance and oversight to management, helps with the formulation and implementation of HP's strategic 
+plans and acts as the Board's liaison to
+management. The executive Chairman also chairs HP's annual meetings of stockholders, is available to speak on behalf of the Board in limited
+circumstances, and 
+performs such other functions and responsibilities as set forth in HP's Corporate Governance Guidelines or as requested by the
+Board from time to time.
+              The 
+Lead Independent Director presides at all meetings of the Board at which the Chairman is not present, including at executive sessions of
+the independent directors, serves as a 
+liaison between the Chairman and the independent directors, approves information sent to the Board, approves
+Board meeting agendas and schedules to see that there is sufficient time to cover all 
+agenda items, assists the Chairmen of the Board committees in
+preparing agendas for the respective committee meetings, is available for consultation and direct communication with major stockholders 
+upon request,
+and performs such other functions and responsibi

@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/leaseeffectJapan.xls
+
+[legacy .xls workbook: leaseeffectJapan.xls — see raw file]

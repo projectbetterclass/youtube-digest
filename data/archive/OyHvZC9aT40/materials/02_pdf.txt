@@ -1,0 +1,77 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session16a.pdf
+
+CORPORATE	FINANCE
+LECTURE	NOTE	PACKET	2
+CAPITAL	STRUCTURE,	DIVIDEND	
+POLICY	AND	VALUATION
+Aswath	Damodaran Spring	2016
+Aswath Damodaran 1
+CAPITAL	STRUCTURE:	THE	
+CHOICES	AND	THE	TRADE	OFF
+“Neither	a	borrower	nor	a	lender	be”
+Someone	who	obviously	hated	this	part	of	corporate	finance
+Aswath Damodaran 2
+3
+First	principles
+Aswath Damodaran
+3
+4
+The	Choices	in	Financing
+Aswath Damodaran
+4
+¨There	are	only	two	ways	in	which	a	business	can	raise	money.	
+¤The	first	is	debt.	The	essence	of	debt	is	that	you	promise	to	make	fixed	
+payments	 in	 the	future	 (interest	 payments	 and	 repaying	 principal).	 If	
+you	fail	to	make	those	payments,	you	lose	control	of	your	business.
+¤The	other	is	equity.	With	equity,	you	do	get	whatever	cash	flows	are	
+left	over	after	 you	have	 made	 debt	 payments.
+5
+Global	Patterns	in	Financing…
+Aswath Damodaran
+5
+6
+And	a	much	greater	dependence	 on	bank	loans	
+outside	the	US…
+Aswath Damodaran
+6
+7
+Assessing	the	existing	financing	choices:	Disney,	
+Vale,	Tata	Motors,	Baidu&	Bookscape
+Aswath Damodaran
+7
+8
+9
+The	Transitional	Phases..
+Aswath Damodaran
+9
+¨The	transitions	that	we	see	at	firms	–from	fully	owned	
+private	businesses	to	venture	capital,	from	private	to	public	
+and	subsequent	seasoned	offerings	are	all	motivated	
+primarily	by	the	need	for	capital.	
+¨In	each	transition,	though,	there	are	costs	incurred	by	the	
+existing	owners:
+¤When	venture	capitalists	enter	the	firm,	they	will	demand	their	fair	
+share	and	more	of	the	ownership	of		the	firm	to	provide	equity.
+¤When	a	firm	decides	to	go	public,	it	has	to	trade	off	the	greater	access	
+to	capital	markets	against	the	increased	disclosure	requirements	(that	
+emanate	from	being	publicly	lists),	loss	of	control	and	the	transactions	
+costs	of	going	public.
+¤When	making	seasoned	offerings,	firms	have	to	consider	issuance	
+costs	while	managing	their	relations	with	equity	research	analysts	and	
+rat
+10
+Measuring	a	firm’s	financing	mix	…
+Aswath Damodaran
+10
+¨The	simplest	measure	of	how	much	debt	and	equity	a	firm	is	
+using	currently	is	to	look	at	the	proportion	 of	debt	in	the	total	
+financing.	This	ratio	is	called	the	debt	to	capital	ratio:
+Debt	to	Capital	Ratio	=	Debt	/	(Debt	+	Equity)
+¨Debt	includes	 all	interest	bearing	liabilities,	 short	term	as	well	
+as	long	term.	It	should	also	include	other	commitments	that	
+meet	the	criteria	for	debt:	contractually	pre-set	payments	
+that	have	to	be	made,	no	matter	what	the	firm’s	financial	
+standing.
+¨Equity	 can	be	defined	either	in	accounting	terms	(as	book	
+value	of	equity)	or	in	market	value	terms	(based	upon	the	
+current	price).	The	resulting	debt	ratios	can	be	very	different.

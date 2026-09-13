@@ -1,0 +1,114 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate7for2020.pdf
+
+JANUARY 2020 DATA UPDATE 7: 
+DEBT’S DARK SIDE IS SHOWING
+Aswath Damodaran
+2
+The Debt Story
+¨ In this session, I look at the debt burden that firms 
+operate under, since companies with higher debt 
+burdens, other things remaining equal, are more 
+exposed to failure and distress than companies without 
+those burdens. 
+¨ I will look at the degree of indebtedness of companies 
+around the world, broken out by industry and region, 
+partly with an eye on assessing how much danger they 
+are exposed to right now, as their near term business 
+prospects collapse, and partly to see which firms, 
+industries and regions are best positioned to make it 
+through this crisis.
+3
+The Debt Trade off: Illusory Factors
+4
+The Real Debt Equity Trade off
+5
+Implications for Debt
+¨ Tax benefits are lower: In the United States, for instance, 
+the corporate tax reform act of 2017, in addition to 
+lowering the federal corporate tax to 21% from 35, also 
+put limits on interest deductions, thus making debt 
+significantly less beneficial to companies. 
+¨ Good times don’t last: Even before this crisis hit, there 
+were questions about whether a long stretch of good 
+times for companies had made them too complacent 
+about distress risks and expected bankruptcy costs, and 
+now after the crisis, there is no debating that many 
+companies have too much debt, given near term 
+earnings and perhaps even long term earnings.
+6
+The Debt Burden: Defining Debt
+¨ For those who trust accounting statements, this may 
+seem redundant, given that there is a debt number 
+listed on balance sheets, reflecting what companies 
+owe at least on the date of the statement. 
+¨ As someone who does not share that trust, I use a 
+two-part test to determine whether to include a 
+claim in debt or not:
+¤ Does the claim give rise to a contractual commitment that 
+you have to meet in good times and in bad?
+¤ If you fail to meet that commitment, what are the 
+consequences?
+7
+Putting the tests to work..
+Aswath Damodaran
+7
+¨ All interest-bearing debt, short term as well as long term, 
+floating or fixed, meets the requirements for debt. 
+¨ Accounts payable and supplier credit don't meet that test, 
+because they do not have explicit interest expenses. 
+¨ All lease commitments are debt, though we can debate the 
+maturity of the commitment (based upon escape clauses and 
+renewal terms in the leases) and whether it is secured or 
+unsecured debt. 
+¤ Until 2019, accountants followed a misguided practice, allowing 
+companies to categorize leases, based upon ownership rights, into 
+operating and capital leases, with only the latter being treated as debt. 
+In the process, operating leases became the biggest source of off -
+balance sheet debt for retailers, restaurants and other big lessees. 
+¤ In 2019, both GAAP (FASB 842) and IFRS (IAS 16) came to their senses 
+and required companies to treat all leases as debt.
+8
+Measuring Debt Burden
+9
+The Debt Danger
+10
+Debt at the start of 2020
+¨ I have included all interest bearing debt, as reported by the 
+company, on its most recent financial statements as both the book 
+value and market value of debt. 
+¨ I have computed the lease debt, using lease commitments and an 
+estimated cost of debt for each company, rather than trust the 
+accounting estimates of this debt, at least for 2019. 
+¤ That is partly because the rule change applies only to those sections of the 
+world that are covered by IFRS and GAAP and partly because I don't trust 
+accountants yet, on this measure.
+¤ To compute the net debt, I subtract out the cash and marketable securities 
+that the company reports on its latest financial statements.
+¨ Since debt to a financial service firm is more raw material than 
+capital and determining what comprises debt is almost an 
+unsolvable puzzle, I have excluded banks, insurance companies and 
+brokerage firms/investment banks from my sample.
+11
+Debt Levels: A Regional Breakdown
+12
+Debt Levels: Most and lest levered
+13
+Debt Buffer: By Region
+14
+Debt Buffer: Most and Least Buffered
+15
+Lessons: Learned & Unlearned
+¨ Every crisis creates lessons that are temporarily learned, but 
+quickly forgotten. This one is a reminder to firms that debt, 
+while making good times better for equity investors, makes 
+bad times worse. 
+¨ For some of these firms, that debt will threaten their 
+continued existence of companies and result in liquidations, 
+fire sales and distress. For others, it will create constraints for 
+the near future on growth and investment plans and change 
+business plans. 
+¨ For firms that are lightly burdened, it may create 
+opportunities, as they use their liquidity as a strategic 
+weapon in acquisitions and to increase market share. 
+¨ If you were worried about winner take all markets before this 
+crisis, you should be doubly worried now!

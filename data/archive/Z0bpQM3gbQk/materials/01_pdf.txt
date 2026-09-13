@@ -1,0 +1,135 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate1for2018.pdf
+
+THE	PROMISE	AND	PERILS	OF	
+DATA:	MY	JANUARY	2018	DATA	
+UPDATE
+Aswath	Damodaran
+2
+Praying	to	the	Data	Gods
+¨ At	the	start	of	each	year,	I	collect	raw	data	from	all	
+publicly	traded	companies	around	the	world	and	
+summarize	the	data	on	geographic	and	industry	
+groupings.
+¤ Current	Data:	
+http://people.stern.nyu.edu/adamodar/New_Home_Page/
+datacurrent.html
+¤ Archived	Data:	
+http://people.stern.nyu.edu/adamodar/New_Home_Page/
+dataarchived.html
+3
+The	What?
+¨ My	raw	data:	My	dataset	includes	every	publicly	
+traded	firm	that	has	a	market	price	available	for	it,	in	
+my	raw	dataset,	and	at	the	start	of	2018,	it	included	
+43,848	firms,	up	from	the	42,678	firms	at	the	start	of	
+2017.	
+¨ Why	I	don’t	screen:	Any	decision	that	I	make	on	
+screening	the	data	or	sampling	will	create	biases	that	
+will	color	my	results,	and	while	I	will	not	claim	to	be	
+bias-free	(no	one	is),	I	would	prefer	to	not	initiate	it	
+with	my	sampling.
+4
+The	Data	Breakdown
+5
+The	Data
+Risk	Measures
+1. Beta
+2. Standard	deviation	in	stock	
+price
+3. Standard	deviation	in	
+operating	income
+4. High-Low	Price	Risk	Measure
+Cost	of	Funding
+1. Cost	of	Equity
+2. Cost	of	Debt
+3. Cost	of	Capital
+Pricing	Multiples
+1. PE	&PEG
+2. Price	to	Book
+3. EV/EBIT	and	EV/EBITDA
+4. EV/Sales	and	Price/Sales
+Profitability
+1. Net	Profit	Margin
+2. Operating	Margin
+3. EBITDA,	EBIT	and	EBITDAR&D	
+Margins
+Financial	Leverage
+1. D/E	ratio	&	Debt/Capital	(book	
+&	market)
+2. Debt/EBITDA
+3. Interest	Coverage	Ratios
+Cash	Flow	Add-ons
+1. Cap	Ex	&	Net	Cap	Ex
+2. Non-cash	Working	Capital	as	%	
+of	Revenue
+3. Sales/Invested	Capital
+Returns
+1. Return	on	Equity
+2. Return	on	Invested	Capital
+3. ROE	– Cost	of	Equity
+4. ROIC	– Cost	of	Capital
+Dividend	Policy
+1. Dividend	Payout	&	Yield
+2. Dividends/FCFE	&	(Dividends	+	
+Buybacks)/	FCFE
+Risk	Premiums
+1. Equity	Risk	Premiums
+2. Bond	Default	Spreads
+6
+The	Why?
+¨ Perspective:	When	valuing	individual	companies,	I	find	that	having	access	
+to	industry	and	geographic	averages	gives	me	perspective	on	the	numbers	
+that	I	use	for	the	company.	
+¨ Rules	of	Thumb:	Investing	is	full	of	rules	of	thumb	that	we	devised	in	a	
+different	time	for	a	different	market,	but	still	are	used	by	investors,	often	
+without	question.	Looking	at	the	cross	sectional	distributions	of	PEG	and	
+Price	to	Book	ratios	across	all	companies	should	give	us	the	answer	and	
+allow	us	to	cull	through	these	rules	of	thumb.
+¨ Curiosity:	There	are	questions	that	all	of	us	have	about	companies	that	
+only	the	numbers	can	answer .	The	answers	to	these	questions	are	in	the	
+numbers	and	I	find	that	they	provide	an	antidote	to	experts	who	try	to	
+pass	off	opinions	as	facts.
+¨ Trends	and	Shifts:	Companies	change	over	time,	albeit	slowly,	and	these	
+changes	have	consequences	not	just	for	investors	but	for	governments,	
+taxpayers	and	workers.
+7
+The	Quirks
+Aswath Damodaran
+7
+¨ Timing:	All	of	the	data	that	I	have	used	in	my	analysis	was	collected	after	the	close	
+of	trading	on	the	last	trading	day	of	2017	(December	29	for	most	markets)	and	
+reflects	the	most	updated	data,	as	of	that	day.	
+¨ Missing	Data:	Information	disclosure	requirements	vary	widely	across	markets	and	
+since	my	dataset	spans	all	markets,	there	are	some	items	that	are	available	in	
+some	markets	and	not	in	others.	Rather	than	eliminate	companies	with	missing	
+data,	which	will	both	decimate	and	bias	my	sample,	I	keep	them	in	the	sample	
+and	deal	with	them	the	best	that	I	can.	
+¨ Accounting	inconsistencies:	I	have	argued	in	prior	posts	that	accountants	are	
+inconsistent	in	their	treatment	of	capital	expenditures	and	debt	across	companies,	
+treating	the	biggest	capital	expenditures	(R&amp;D)	at	technology	and	
+pharmaceutical	companies	as	operating	expenses	and	ignoring	the	primary	debt	
+(leases)	at	retail	and	restaurant	companies.	
+¨ Data	mistakes:	Working	with	a	spreadsheet	with	43,848	companies	and	150	data	
+items,	I	am	sure	that	there	are	mistakes	that	have	found	their	way	into	my	
+summaries,	notwithstanding	my	attempts	to	catch	them.	Some	of	these	mistakes	
+are	mine	but	some	reflect	errors	in	the	raw	data.
+8
+The	Caveats
+Aswath Damodaran
+8
+¨ Numbers	≠	Facts:	While	the	numbers,	once	reported,	look	precise,	they	
+are	not	facts	but	opinions.	Thus,	when	you	look	at	the	debt	ratios	that	I	
+report	for	a	sector,	it	is	worth	emphasizing	that	I	have	capitalized	lease	
+commitments	and	added	them	to	all	interest	bearing	debt	(short	and	long	
+term)	to	arrive	at	total	debt,	yielding	a	different	number	that	what	you	
+may	see	on	a	different	service.	I	have	tried	to	be	as	transparent	as	I	can	in	
+making	my	estimates	but	they	remain	estimates.
+¨ Past	is	not	always	prologue:	I	believe	that	knowing	history	is	useful	in	
+investing,	but	trusting	it	to	repeat	itself	is	dangerous.
+¨ Just	because	everyone	does	it	does	not	make	it	right:	As	you	look	at	the	
+datasets,	you	will	see	patterns	in	investment,	financing	and	dividend	
+policy	in	sectors.	While	there	are	often	good	reasons	for	these	
+differences,	there	are	also	bad	ones,	with	inertial	on	top	of	that	list.	The	
+reality	is	that	there	are	established	corporate	finance	policies	in	many	
+sectors	that	no	longer	make	sense,	because	the	sectors	have	changed	
+fundamentally	over	time.

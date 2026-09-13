@@ -1,0 +1,198 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/AirbnbIPO.pdf
+
+THE SHARING ECONOMY COMES HOME: 
+AIRBNB’S IPO! 
+Look forward, you must!
+2
+A Long Awaited IPO
+¨ On Monday, November 16, Airbnb filed it’s preliminary 
+prospectus with the SEC, starting the clock on its long 
+awaited initial public offering. 
+¨ On the same day, rising COVID cases caused more shut 
+downs and restrictions around the world, creating a 
+clear disconnect: why would a company that derives its 
+value from short term rentals by people who travel want 
+to go public, when a out-of-control virus is causing its 
+business to shut down?
+¨ In this post, I will argue that there are good reasons for 
+Airbnb's IPO timing, and make my first attempt at 
+valuing this latest entrant into public markets.
+3
+Airbnb: A Time Line
+4
+With key features..
+¨ Legal Challenges: The company has faced multiple challenges from 
+cities that feel that its business model violates local zoning laws 
+and regulations, and evades taxes. While you can attribute some of 
+this pushback to hotel company lobbying and the inertia of the 
+status quo, there is no doubt that Airbnb, like Uber, pushes 
+regulatory and legal limits, taking action first and asking for 
+permission later . While Airbnb has found a way to co-exist with 
+laws in different cities, the restrictions vary widely across the 
+world, with some locations (like New York) imposing much more 
+stringent rules than others.
+¨ Acquisitions: As the number of hosts and guests on Airbnb have 
+climbed over the years, the company has invested in building a 
+more robust platform for its rentals. While some of that money has 
+been spent on internal improvements, much of it has been spent 
+acquiring more than two dozen companies, most of them small, 
+technology businesses.
+5
+Business Model
+6
+The Financial Payoffs..
+7
+Breaking down history…
+¨ Growth is high, but the rate is declining: It may seem churlish too 
+take issue with a company that has grown its revenues more than 
+five fold over a five-year period, but as the company's base gets 
+bigger, its growth rate, not surprisingly, is also declining. 
+¨ Airbnb's revenue share has stayed stable: As gross bookings have 
+increased, Airbnb's share of these bookings has remained stable, 
+ranging from 12-13% of overall revenues. Note that the shift to the 
+new business model for professional hosts (where Airbnb keeps 
+14% of the transaction revenue) is relatively recent, and it will take 
+some time for that change to play out in the numbers. 
+¨ The company is edging towards profitability: To Airbnb's credit, it is 
+closer to profitability than many of its high profile sharing-economy 
+predecessors (such as Uber and Lyft) and the fact that it was able 
+to report positive operating profits, albeit fleetingly in 2018, puts 
+them ahead of the pack.
+8
+The COVID Effect.. In nights booked
+9
+And in financials..
+10
+Prospectus Revelations: On Costs
+11
+Prospectus Revelations: On Proceeds & Control
+¨ Use of Proceeds: While the details are still being worked out, 
+it is rumored that Airbnb is looking to raise about $3 billion in 
+proceeds on the offering date, and that while some of the 
+proceeds will be used to retire existing debt, most of it will be 
+held by the company to cover future investment needs.
+¨ Share classes: In keeping with the practices of tech 
+companies that have gone public in recent years, Airbnb has 
+shares with different voting rights: class A shares with one 
+voting right per share, class B shares with 20 voting rights per 
+share, and class C & class H shares with no voting rights per 
+share. Not surprisingly, the class B shares will be held by 
+founders and other insiders, allowing them control of the 
+company, even if they own well below 50% of all shares 
+outstanding.
+12
+An ESG Twist?
+¨ It should come as no surprise that in an age where 
+companies are valued on their "goodness", Airbnb is 
+signaling it's intent to be socially responsible.
+¨ Brian Chesky made explicit the corporate values for the 
+company, including "having an infinite time horizon" and 
+"serving all of our customers". 
+¨ In addition, the proceeds from the non-voting class H 
+shares will be set aside is an endowment to serve Airbnb 
+hosts, though it is not clear whether the primary intent is 
+to give hosts a stake in the company’s success, or to help 
+them out during periods of need.
+¨ I remain skeptical about ESG, but will hold off on passing 
+judgment on whether this is just a public relations ploy.
+13
+The Hospitality Business
+14
+Airbnb’s TAM in 2011
+15
+Airbnb’s TAM in 2020
+¨ In its prospectus, Airbnb has expanded its estimate of market 
+potential to $3.4 trillion, as evidenced in this excerpt from the 
+prospectus:
+¤ We have a substantial market opportunity in the growing travel market 
+and experience economy. We estimate our serviceable addressable market 
+(“SAM”) today to be $1.5 trillion, including $1.2 trillion for short -term stays 
+and $239 billion for experiences. We estimate our total addressable market 
+(“TAM”) to be $3.4 trillion, including $1.8 trillion for short -term stays, $210 
+billion for long -term stays, and $1.4 trillion for experiences.
+¨ In my view, Airbnb's targetable market falls somewhere in the 
+middle, clearly higher than just the hotel business of $600 billion, 
+but below Airbnb's upper end estimate of $2 trillion for this 
+business. 
+¨ Given how much trouble Airbnb has had in the experiences 
+business, I think Airbnb’s estimate of $1.4 trillion for that business 
+is more fictional than even aspirational.
+16
+The Players: Hotels
+17
+The Players: Booking Companies
+18
+Airbnb vs Booking Companies
+¨ Other businesses: Both Expedia and Booking.comalso operate in 
+other businesses that drive revenues and margins. First, they 
+generate revenues by buying blocks of hotel rooms at a discount 
+from hotels, and then reselling them at a higher price, in what they 
+call the "merchant" business. Second, they also derive revenues 
+from online advertising by hotels and travel providers. Expedia gets 
+a much larger share (47%) of its revenues from the merchant 
+business than Booking.com (25%), which may explain its lower 
+margins.
+¨ Status Quo vs Disruption: Both Expedia and Booking.comwere 
+designed to make money off the status quo and derived all of their 
+revenues until recently from existing hotels and airlines. In reaction 
+to Airbnb's success, both companies have tried to expand into the 
+home and apartment rental businesses, but these listings still 
+represent a small fraction of overall revenues.
+19
+The Airbnb Story
+¨ Continued Growth : Airbnb will continue to grow, while finding a pathway to 
+profitability. Airbnb's growth in gross bookings will come not only from disrupting 
+and taking market share from the hotel business, bad news for conventional hotel 
+companies and travel providers who serves them, but also from continued 
+expansion of non -conventional hospitality providers (home and apartment 
+owners). 
+¨ Revenue share stable + Improving margins : As it grows, Airbnb's share of those 
+gross bookings is likely to plateau at close to current levels, but its operating 
+margins will continue to improve towards travel booking industry levels, as 
+product development, marketing and G&A costs decrease, not in dollar terms, but 
+as a percent of revenues. 
+¨ Experiences business is tangential : While Airbnb is enthusiastic about the 
+experiences business, it is likely to remain a tangential business, contributing only 
+marginally to revenues and profitability. 
+¨ Low Risk, for a young company : Since Airbnb has a light debt load and is closer to 
+profitability than most of the sharing -economy companies that have gone public 
+in recent years
+21
+The Key Drivers
+23
+Previewing the IPO Pricing Game
+¨ A Pricing Game: While we can debate what Airbnb’s 
+value truly is, an IPO is a pricing game. 
+¤ Put simply, rather than operate under the delusion that it is 
+value that drive decisions, it is healthier to recognize that 
+bankers price IPOs, not value them, for the offering
+¤ Much of the trading on the offering day and the weeks 
+thereafter is driven by traders, trying to gauge mood and 
+momentum. 
+¨ To price an IPO, traders look at two places for guidance. 
+¤ The first is the VC pricing of the company in the rounds leading 
+into the public offering. 
+¤ The second is the market pricing of publicly traded companies in 
+the peer groups, companies that investors will compare the 
+company to, in setting prices.
+24
+The VC Pricing of Airbnb
+25
+Peer Group Pricing
+26
+Pricing Airbnb
+27
+Pick your game..
+¨ Play the trading game: In the trading game, value is a minor factor, 
+at best. Your success will depend upon gauging the market mood 
+and momentum on Airbnb and getting ahead of it.
+¨ Play the investing game: Make your best assessment of value, and 
+then base your decision on that value assessment. With my value 
+assessment of $36 billion for the equity value:
+¤ If equity is priced at <$28 billion (20% percentile): A bargain
+¤ If equity is priced between $28 & $33 (40 th percentile) billion: A solid buy
+¤ If equity is priced between $33 (40 th percentile) & $38 billion (60 th
+percentile): A fair value
+¤ If equity is priced between $38 (60 th percentile) & $ 44 billion (80 th
+percentile): Too richly priced
+¤ If equity is priced > $44 billion: Over valued

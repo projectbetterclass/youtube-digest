@@ -1,0 +1,136 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/Netflix2018.pdf
+
+NETFLIX: THE FUTURE OF 
+ENTERTAINMENT OR HOUSE OF 
+CARDS?
+Aswath Damodaran
+2
+Setting the Table
+¨ Netflix has changed not just the entertainment business, 
+but also the way that we (the audience) watch television. 
+¨ In the process, it has also enriched its investors, as its 
+market capitalization climbed to $139 billion in March 
+2018 and even after the market correction for the FANG 
+stocks, its value is substantial enough to make it one of 
+the largest entertainment company in the world. 
+¨ Among the FANG stocks, with their gigantic market 
+capitalizations, it remains the smallest company on both 
+market value and operating metrics, but it has almost as 
+big an impact on our daily lives as its larger peers.
+3
+The Rise of Netflix
+4
+Netflix: Operating History
+5
+The Three Phases of Netflix History
+¨ DVDs in the Mail: In the first five-year period, 2002 through 2006, the 
+company mailed out DVDs and videos to its subscribers, challenging the 
+video rental business, where brick and mortar video rental stores 
+represented the status quo, and Blockbuster was the dominant player. 
+¨ The Rise of Streaming: As technology evolved to allow for the streaming 
+of movies, Netflix adapted, with a few rough spots, to the new 
+technology, while its brick and mortar competitors imploded. Netflix saw 
+a drop in revenue growth that was not unexpected, but it also saw its 
+content costs rise at a faster rate than revenues, as content providers (the 
+movie studios) starting charging higher prices for content. 
+¨ The Content Maker: In in the 2013-2017 time period, by shifting to 
+original content, first with television series and later with direct-to-
+streaming movies. For the first time in its existence, Netflix saw content 
+costs rise at a rate slower than its growth in revenues, with operating 
+profit margins, both before and after R&D reflecting this development.
+6
+The State of the Game
+1. A Big Spender on Content: Netflix spends billions of 
+dollars on content each year, but the way the content is 
+accounted for can make it difficult to decipher how 
+much.
+2. With more and more on original content: More and 
+more of Netflix spending is on original content, first on 
+television and now on direct-to-streaming movies.
+3. Adept at playing the expectations game: Netflix has 
+managed to make markets focus on subscription count 
+and gloss over its sharp edges.
+4. And globalizing to succeed at it: To keep adding to its 
+subscriber count, it has to go where the numbers are, 
+in the rest of the world.
+7
+1. Big Content Spender
+8
+2. Much of it on original content
+Aswath Damodaran
+8
+9
+3. Adept at the expectations game..
+Aswath Damodaran
+9
+¨ Netflix has managed to make the expectations game all 
+about subscriber numbers, and every earnings report of 
+the company is framed around these numbers, with less 
+attention paid to content costs, churn rates and negative 
+cash flows. 
+¨ After its most recent earnings report in January, the 
+stock price surged, as the company reported an increase 
+of 8.3 million in subscribers, well above expectations.
+¨ The danger is that in the process of playing the user 
+game, Netflix may dig itself into holes that it may not be 
+able to get out of.
+10
+4. A Global Presence
+11
+Netflix: A Subscriber-based Valuation
+¨ In a subscriber-based valuation, you value a
+company by first valuing existing subscribers, then 
+the value added by new subscribers and close up by 
+looking at the corporate cost drag.
+¨ To do a subscriber-based valuation, you have to 
+break costs down into 
+a) costs for servicing existing subscribers
+b) the cost of acquiring new subscribers and 
+c) a corporate cost that cannot be directly related to either 
+servicing existing subscribers or getting new ones.
+12
+Step 1: A Cost Breakdown
+13
+Step 2: Value Existing Subscribers
+14
+Step 3: Value New Subscribers
+15
+Step 4: Value the Corporate Drag
+16
+Step 5: Complete the valuation
+17
+Netflix versus Spotify
+¨ Marginal Value per User: By paying for its content, both licensed 
+and original, and using that content to go after subscribers, Netflix 
+has built a more levered business model, where subscribers, both 
+new and existing, have higher marginal value than at Spotify, where 
+content costs are tied to subscribers listening to music.
+¨ More Sticky Model: The Netflix model, which is increasingly built 
+around original rather than licensed content, provides for a 
+stronger competitive edge, which should show up in higher 
+renewal rates and more pricing power, adding to the value per 
+subscriber, both existing and new.
+¨ More Risk: The Netflix model will deliver higher value from 
+subscription growth than the Spotify model, but it comes with a 
+greater downside, because a slackening of that growth will leave 
+Netflix much deeper in the hole, with more negative cash flows, 
+than it would Spotify.
+18
+The Value Driver: Content Cost Growth
+19
+My Decision
+¨ A Game Changer: There is no doubt that Netflix has changed the 
+way we watch television and the movies, and it is changing the 
+movie/TV business in significant ways. By competing for talent in 
+the content business, it is pushing up costs for its competitors and 
+with its direct-to-streaming model, putting pressure on movie 
+theaters and distribution. 
+¨ In a dangerous business: That said, the entertainment business 
+remains a daunting one, because the talent is expensive and 
+unpredictable, and egos run rampant. The history of newcomers 
+who have come into this business with open wallets is that they 
+leave with empty ones.
+¨ The defining factor: For Netflix to escape this fate, it has to show 
+discipline in controlling content costs, and until I see evidence that 
+it is capable of this discipline, I will remain a subscriber, but not an 
+investor in the company.

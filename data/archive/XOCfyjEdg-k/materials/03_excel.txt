@@ -1,0 +1,1246 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfexams/cffinals.xlsx
+
+Sheet: Spring 2024
+Problem 1 | Grading Template
+Food | 800 | Debt | 200 | 1. Did not back out food unlevered beta: -1 point
+Hotels | 200 | Equity | 800 | 2. Did not relever with a zero debt to equtiy: -1 point
+Levered beta = | 0.95 | 3. Math errors: -1/2 point
+Tax rate = | 0.25
+Unlevered beta of hotels | 1.2
+Unlevered beta | 0.7999999999999999
+Unlevered beta of just food = | 0.6999999999999998
+Problem 2
+Market capitaliatoin | 800
+Cost of equity | 0.105 | 1. Did not compute PV of payments correctly: -1 point
+Contractual commitment | 100 | for 5 years | 2. Did not lever beta: -1 point
+Riskfree rate  | 0.045 | 3. Did not after-tax cost of debt: -1/2 point
+Default spread | 0.011 | 4. Debt ratio incorrect: -1/2 point
+ERP | 0.05
+Marginal tax rate  | 0.25
+Unlevered beta | 1.2
+Debt value of contractual commitments | 425.8599759550819
+Debt/Equity ratio | 0.5323249699438524
+Levered beta | 1.6790924729494672
+Cost of equity | 0.12895462364747334
+Debt to capital ratio | 0.34739691670191725
+After-tax cost of debt | 0.041999999999999996
+Cost of capital | 0.09874685549936547
+Problem 3
+With Doordash | With local app | 1. Did not compute differential cash flow: -1 point
+Revenues | 500000 | 450000 | 2. Did not after-tax difference: -1/2 poitn
+Labor and Materials | 300000 | 270000 | 3. Did not compute PV over 10 years; -1 point
+App share | 50000 | 0
+Operating Income | 150000 | 180000
+Tax rate  | 0.25
+Cost of capital | 0.1
+Initial investment in Delivery app (after taxes) | -138252.75987835543
+You got full credit if you stopped with $138. 75 million, since to convert to pre-tax you need to know
+whether it would be expensed or capitalized, if expensed, the pre-tax value is
+initial Investment pre-tax = | -184337.01317114057
+Problem 4
+NPV calculated | 50 | 1. Change in working capital incorrect: -1 point
+Cost of capital | 0.09 | 2. Did not compute PV of changes in WC: -1 point
+1 | 2 | 3 | 4 | 3. Ignored initial investment in WC: -1/2 point
+Revenues (in $ millinos) | 800 | 1000 | 1250 | 1500 | 4. Ignored salvage value: -1/2 point
+WC as % of revenues | 0.15 | 0.15 | 0.1 | 0.06 | 5. Did not net out from NPV: -1 point
+0 | 1 | 2 | 3 | 4
+Working capital | 120 | 150 | 125 | 90 | 0
+CF effect | -120 | -30 | 25 | 35 | 90
+PV | -120 | -27.52293577981651 | 21.041999831663997 | 27.026421802137246 | 63.75826899586768
+NPV of just working capital | -35.69624515014759
+Corrected NPV | 14.30375484985241
+Problem 5
+Levered beta | 2.1 | 1. Did not adjust tax rate in pre-change cost of debt: -1/2 point
+Current cost of debt | 0.1 | 2. Did not relever beta after debt change: -1 point
+Debt | 600 | 3. Did not compute cost of capital correctly after change: -1 point
+Equity | 150
+EBIT  | 48
+Marginal tax rate | 0.25
+Riskfree rate | 0.045
+ERP | 0.05
+Current | Recapitalized | Change
+Debt | 600 | 150
+Equity | 150 | 600
+D/E Ratio | 4 | 0.25
+Beta | 3.15 | 0.890625
+Cost of debt | 0.1 | 0.06
+Marginal tax rate | 0.2 | 0.25
+Cost of equity | 0.2025 | 0.08953125
+Cost of capital | 0.10450000000000001 | 0.080625 | 0.023875000000000007
+EBIT | 48 | 48
+Interest Expenses | 60 | 9
+Adj Marginal tax rate | 0.2
+If you did not adjust the tax rate in the pre-change period, you would have lost 1/2 point and the answer would have been 
+Cost of capital | 0.1005 | 0.0824 | 0.018100000000000005
+Problem 6
+Share Price | 8 | 1, Did not compute change in value right: -1 point
+Number of shares | 125 | 2. Errors in computing the cost of capital before: -1 point
+Debt | 250 | 3. Math errors: -1/2 point
+Borrow | 270
+Buyback at rational price | 9
+Cost of capital after | 0.08
+Change in firm value | 125
+(X-.08)*(1000+250)/.08 = 250
+Solving for X | 0.088
+Problem 7
+Largest  | Smallest | 1. Did not compute ordinary tax rate: -1 point
+Average Price Drop | 1.8 | 0.6 | 2. Did not set up for solving for investors %: -1 point
+Average dividend | 2 | 0.75 | 3. Other math errors: -1/2 point
+Capital gains tax of 20% for all investors
+Dividends are taxed at an ordinary tax rate, but are tax exempt for those earning <$50,000
+If 30% of investors in the largest compannies earn <$50000, estimate the percent of investors in the smallest firms who earn <$50000
+Largest  | Smallest
+Price drop as % of dividends | 0.9 | 0.7999999999999999
+Capital gains tax rate | 0.2 | 0.2
+Ordinary tax rate of investors | 0.2799999999999999 | 0.36
+% of investors with income<$50000 | 0.3 | 0.09999999999999987
+Ordinary tax rate | 0.3999999999999999
+Problem 8
+Most recent year | 1 | 2
+Revenues | 1000 | 1200 | 1500 | 1. Error on change in working capital: -1 point
+Net margin | 0.05 | 0.075 | 0.1 | 2. Ignored dividends: -1 points
+Depreciation | 40 | 50 | 60 | 3. Other errors: -1/2 point each
+Cap Ex as % of depreciation | 1.2
+Working cap as % of revenues | 0.05
+Payout ratio | 0.2 | 0.4 | 0.6
+Cash balance (end of year) | 33
+1 | 2
+Net Income | 90 | 150
+ +Depreciatoin | 50 | 60
+ -Cap Ex | 60 | 72
+Change in WC | 10 | 15
+FCFE | 70 | 123
+Dividends | 36 | 90
+Change in cash balance | 34 | 33
+Cumulative cash balance | 67 | 100
+Problem 9
+After-tax Operating Income | 240 | 1. Ignored or made up growth: -2 points
+Book Equity | 1800 | 2. Discounted terminal value back a year: -1/2 point
+Debt (Book & Market) | 900 | 3. Ignored cash: -1/2 point
+Cash | 300 | 4. Ignored debt: -1/2 point
+Cap Ex | 150 | 5. Error in return on capital computaton: -1/2 point
+Depreciation | 90
+Cost of capital | 0.075
+Next year
+EBIT (1- tax rate) | 240
+ + Depreciation | 90
+ - Cap Ex | 150
+FCFF | 180
+Reinvestment Rate | 0.25
+Return on capital | 0.1
+Expected growth rate | 0.025
+Value of firm today | 3600.0000000000005
+ + Cash | 300
+ - Debt | 900
+Equity value | 3000.0000000000005
+
+Sheet: Spring 2023
+Problem 1 | Grading Template
+Current beta = | 3.6 | Value weight | Unlev beta | 1. Did not unlever beta for original company: -1 point
+Current debt = | 1600 | Mining | 0.6 | 2. Did not compute unlevered beta for remaining business: -1 point
+Current equity = | 400 | Steel | 0.4 | 1.2 | 3. Error on recomputing D/E: -1 point
+Tax rate = | 0.25 | 4. Math errors: -1/2 point each
+Sell the steel business for fair value, and use proceeds to pay down debt.
+Unlevered beta for firm | 0.9 | ! 3.60/(1+(1-.25)(800/200))
+Value of business | 2000
+Value of business sold | 800
+Unlevered beta of remaining business | 0.7000000000000001 | ! (0.90-.4*1.2)/0.6
+New debt | 800
+New equity | 400
+New D/E | 2
+New levered beta= | 1.7500000000000002
+Problem 2 | Aldo
+German Company | Turkish project | 1. Used lira risk free rate: -1 point
+Business | Entertainment | Publishing | 2. Used wrong beta (1.10 instead of 0.75): -1 point
+Currency | Euro | Lira | 3. Did not relever beta: -1 point
+Riskfree rate | 0.02 | 0.12 | 4. Computed a lira cost of debt: -1 point
+Unlevered beta | 1.1 | 0.75 | (I gave full credit for the use of either marginal tax 
+ERP | 0.06 | 0.11 | rate, though the interest expenses are in Turkey and 
+Marginal tax rate | 0.3 | 0.2 | Should benefit from the 20% tax rate.
+Debt to capital ratio | 0.4
+Default Spread | 0.03
+Riskfree Rate | 0.02
+Levered Beta | 1.1500000000000001 | ! 0.75 (1+(1-.20)(40/60))
+ERP | 0.11
+Cost of equity | 0.14650000000000002
+Cost of debt  | 0.05
+After-tax cost of debt | 0.04000000000000001 | Use Turkish marginal tax rate (see grading template)
+Cost of capital | 0.1039
+Problem 3
+Restaurant business, planning to start a frozen food entrée (to sell in grocery stores) | 1. Error in computing cash flows: -1 point
+Now | yrs 1-5 | 2. Used 8% cost of capital on synergies: -1 point
+Investment needed | 5000 | 3. Did not compute depreciation: -1 point
+After-tax operating income | 160 | (I did give full credit if you tried to compute a 
+weighted average cost of capital across the two 
+Incremental cash flow at restaurant | 100 | businesses and used that on the aggregate 
+Resstaurant | Food Processing | cash flow.
+Cost of capital  | 0.12 | 0.08
+NPV of food business
+Investment | -5000
+After-tax Operating income | 160
+ + Depreciation | 1000
+After-tax Cash Flow | 1160
+NPV at food  | -368.45635698941896 | ! Discounted back at 8%
+NPV of restaurant incremental CF | 360.4776202345007 | ! Discounted back at 12%
+Overall NPV | -7.978736754918259
+Problem 4
+License offer  | License offer 2
+Number of years | 5 | 8 | 1. NPV wrong for revenue sharing: -1 point
+Initial investment | -80 | -60 | 2. NPV wrong for government contract
+License revenues | 35 | 20 | 3. Did not convert into annuities: -1 point
+Cost of capital | 0.09 | 0.03
+Tax rate | 0.25
+License offer  | License offer 2
+License revenues | 35 | 20
+Depreciation | 16 | 7.5
+Operating incomce | 19 | 12.5
+ - Taxes | 4.75 | 3.125
+After-tax Operating Income | 14.25 | 9.375
+ + Depreciation | 16 | 7.5
+FCFF | 30.25 | 16.875
+NPV | 37.661950716389526 | 58.45730569841116
+Annuity | 9.682603443460417 | 8.327616670365646
+Problem 5
+Current | 1. Did not unlever & relever betas: -1 point
+Debt to capital | 0.2 | 2. Used wrong tax rate: -1 point
+Cost of equity | 0.0852 | 3. Wrong cost of debt: -1 point
+Cost of debt | 0.04 | 4. Math errors: -1/2 point each
+After-tax cost of debt | 0.024
+Current cost of capital = | 0.075968
+Riskfree Rate | 0.03
+ERP | 0.06
+Plans to double its debt to capital ratio, which will also triple its default spread
+Marginal tax rate | 0.4
+Levered Beta = | 0.92
+Unlevered Beta = | 0.8
+New Debt to capital ratio = | 0.4
+New Debt to equity ratio = | 0.6666666666666667
+New beta = | 1.1199999999999999
+New cost of equity = | 0.0972
+New cost of debt = | 0.060000000000000005
+New after-tax cost of debt | 0.036000000000000004
+New cost of capital | 0.07272
+Cost of capital will decrease by 0.03%
+Problem 6
+Current equity | 1800 | !100 million shares at $18/share | 1. Did not compute change in firm value: -1.5 points
+Current debt | 900 | 2. Did not set up to solve for old cost of capital: -1 point
+Borrowed $900 million and bought back stock @21/share, rational price (assuming savings in perpetuity, with no growth) | 3. Math errors: -1/2 point each
+Current firm value | 2700
+Change in value | 300 | ! Rational, so you can use all shares outstanding
+Change in value = (Old Cost of capital - New cost of capital)/ New cost of capital 
+300 = (Old Cost of capital -.0750)/ .0750
+New cost of capital  | 0.075
+Old cost of capital | 0.08333333333333333
+Problem 7
+Stock price (cum dividend) | 25 | 1. Did not have a clue of where to begin: -2 points
+Annual Dividend | 2 | 2. Left problem unfinished (solving for tax rate on CG): -1 point
+Stock price (ex dividend) | 23.193548387096776 | 3. Math errors: -1/2 point each
+Tax rate | 0.3 | (Dividends and ST Capital gains)
+LT capital gains is untaxed
+What portion of capital gains is long term?
+Price Change as % of dividend | 0.9032258064516121
+Tax rate on capital gains | 0.2249999999999993
+% of capital gains that are taxed | 0.7499999999999978
+% of capital gains not taxed | 0.2500000000000022
+Problem 8
+Most recent year | 1 | 2 | 3
+Revenues (in $ millions) | 500 | 1000 | 1200 | 1500 | 1. Errors on each item: -1/2 to -1 point
+Net margin | -0.05 | 0.02 | 0.1 | 2. Did not adjust cash balance for FCFE change: -1 point
+Depreciation (in $ millions) | 150 | Grows at 10% a year | 3. Math errors: -1/2 point each
+Cap Ex (in $ million) | 200 | Grows at 5% a year
+Non-cash Working capital | 0.1 | 0.1 | 0.08 | 0.06 | End of each year
+Payout ratio | Wants to start paying dividends in year 3
+Current cash balance  | 200 | Desired = | 125
+1 | 2 | 3
+Revenues | 1000 | 1200 | 1500
+Net Income | -50 | 24 | 150
+Depreciation (in $ millions) | 165 | 181.50000000000003 | 199.65000000000003
+Cap Ex (in $ million) | 210 | 220.5 | 231.525
+Change in non-cash WC | 50 | -4 | -6
+FCFE | -145 | -10.999999999999972 | 124.12500000000003
+Cash balance | 55 | 44.00000000000003 | 168.12500000000006
+Desired cash balance | 125
+Dividends in year 3 | 43.12500000000006
+Payout ratio in year 3 | 0.28750000000000037
+Problem 9
+Most recent year | 1 | 2 | 3 | 4 & forever
+EBIT (1-t) | 120 | 0.12 | 0.08 | 0.04 | 0.02 | 1. Starting ROIC wrong: -1 point
+Book value of equity | 750 | 2. Treated operating income as FCFF: -2 points
+Book value of debt | 400 | 3. Error on terminal value: -1 point
+Cash | 150 | 4. Ignored cash and debt: -1 point
+Maintain current return on invested capital in perpetuity, cost of capital is 10% for next 3 years and 8% thereafter
+# Shares | 80
+Return on invested capital = | 0.12
+1 | 2 | 3 | Terminal year
+EBIT (1-t) | 134.4 | 145.15200000000002 | 150.95808000000002 | 153.9772416
+Reinveatment Rate | 1 | 0.6666666666666667 | 0.33333333333333337 | 0.16666666666666669
+Reinvestment | 134.4 | 96.76800000000001 | 50.31936000000001 | 25.662873600000005
+FCFF | 0 | 48.384 | 100.63872 | 128.314368
+Terminal Value | 2138.5728
+PV at 10% | 0 | 39.986776859504126 | 1682.3527573253186
+Value of firm | 1722.3395341848227
+ + Cash | 150
+ - Debt | 400
+Value of equity | 1472.3395341848227
+Number of shares | 80
+Value per share | 18.404244177310282
+
+Sheet: Spring 2022
+Problem 1
+Steel | 1500 | Equity | 1200 | 1. Did not unlever current beta: -1 point
+Mining | 500 | Debt | 800 | 2. New unlevered beta incorrect: -1 point
+Total | 2000 | Total | 2000 | 3. New D/E ratio incorrect: -1 point
+Current D/E ratio = | 0.6666666666666666 | 4. Other errors; -1/2 to -1 point
+Current levered beta = | 1.26
+Current unlevered beta = | 0.84
+After selling mining business, which has an unlevered beta of 0.60
+Mining business beta * (Weight of mining) + Steel business beta *Weight of steel = 0.84
+0.60 (.25) + X (.75) = 0.84
+Steel | 1500 | Equity | 1000
+Debt | 500
+New unlevered beta = | 0.9199999999999999
+New debt to equity ratio = | 0.5
+New levered beta = | 1.265
+Problem 2
+Market Value of Equity = | 750 | 1. Market value of debt incorrect: -1/2 to -1 poitn
+Market Value of Debt = | 914.4959300529276 | 2. Did not adjust tax rate for EBIT limit: -1 point
+Cost of equity = | 0.12 | 3. Debt ratios incorrect: -1/2 to -1 point
+Pre-tax cost of debt = | 0.08
+Adjusted marginal tax rate = | 0.18 | ! Interest expense of $50 million > EBIT of $30 million
+Cost of capital = | 0.09011192536031172
+Problem 3
+Initial Invesrtment | 100
+Annual Cash flow (yrs 1 -5)
+Cost savings = | 25 | ! I also gave full credit, if you considered operating expenses as being after depreciation, in which case your cash flows will be $46 million and your NPV will be $84 million. | 1. Error on cash flow: -1 to -2 points
+ - Depreciation  | 20 | 2. NPV incorrectly computed; -1/2 to -1 point
+Taxable income | 5
+Taxes | 1
+After-tax income | 4
+ + Depreciation | 20
+ + Annual decrease in WC | 6
+Free Cash Flow | 30
+NPV = | 19.781301112342618
+Problem 4
+Vendor 1 | Vendor 2 | Vendor 3
+Initial set up cost | 10000 | 5000 | 10 | 1. Did not compute NPVs right: -1 point
+Contract period | 5 | 3 | 0 | 2. Did not convert into annuities: -2 points
+Annual cost | 3000 | 4000 | 0
+NPV of costs at 8% | 21978.130111234263 | 15308.38794899152 | 10
+Equivalent Annuity  | 5504.564545668365 | 5940.16757023164 | #DIV/0!
+Problem 5
+Current Market Cap = | 1200 | 1. Tax benefit from debt incorrect: -1 point
+ + Net Debt | 800 | 2. Bankruptcy cost incorrect: -1 point
+Enterprise Value | 2000 | 3. Did not start with enterprise value: -1 point
+ - Tax Benefit of Debt | 200
+ + Expected Bankruptcy Cost | 120
+Unlevered firm Value | 1920
+To calculate PV of debt
+ Interest expense on debt = | 40
+Tax savings = | 10
+PV at pre-tax cost of debt = | 200 | ! Short cut = tax rate * Dollar Debt
+Problem 6
+CAGR in Earnings (next five years) = | 0.1486983549970351 | 1. CAGR incorrect: -1 point
+To get ROE, | 2. ROE incorrect: -1 point
+BV of Equity = | 50 | ! Market cap = 100, Price to Book = 2 | 3. Regression not computed correctly: -1 point
+ROE = | 0.2
+Market D/E ratio = | 0.4
+Levered beta = | 1.04
+Payout Ratio = 0.40 - 8.00 (.1487) + 15.00 (.20) -.05 (1.04) = | 0.20190000000000008
+The expected payout ratio is 20.19%.
+Problem 7
+Last year | 1 | 2 | 3
+Revenues (millions) | 1000 | 1200 | 1350 | 1500
+Net Margin | 0.03 | 0.05 | 0.1
+Payout Ratio | 0.1 | 0.25 | 0.4
+Depreciation/Revenues | 0.02 | 0.02 | 0.02
+Cap Ex/Depreciation | 1.5 | 1.25 | 1.25
+Total Non-cash Working Capital as % of Revenues | 0.1 | 0.1 | 0.08 | 0.08
+Revenues | 1000 | 1200 | 1350 | 1500
+Net Income | 36 | 67.5 | 150 | 1. Net Income incorrect: -1/2 point
+ + Depreciation | 24 | 27 | 30 | 2. Cap ex/Depreciation incorrect: -1 point
+ - Cap Ex | 36 | 33.75 | 37.5 | 3. Chg in WC incorrect: -1/ point
+ - Change in Working Capital | 20 | -12 | 12 | 4. Dividends incorrect/ignored: -1 point
+FCFE | 4 | 72.75 | 130.5 | 5. Cash balance incorrect: -1 point
+Dividends paid | 3.6 | 16.875 | 60
+Cash balance | 50 | 50.4 | 106.275 | 176.775
+Non-cash Working Capital | 100 | 120 | 108 | 120
+Problem 8
+Current ROIC = | 0.16 | 1. ROiC incorrect: -1/2 point
+Current EBIT (1-t) | 80 | 2. Reinvestment Rate incorrect: -1/2 to -1 point
+Cap Ex | 60 | 3. Growth rate not computed: -1 point
+ = Depreciation | 30 | 4. Terminal value inputs incorrect: -1 to -2 points
+ + Change in non-cash WC | 20 | 5. PV not computed correctly: -1/2 to -1 point
+Reinvestment = | 50
+Reinvestment Rate (next 3 years) | 0.625
+Expected growth rate (next 3 years) = | 0.1
+Expected growth rate (after year 3) = | 0.025
+Reinvesrtment Rate (after year 3) | 0.15625
+Base | 1 | 2 | 3 |   4 (TY)
+Growth Rate | 0.1 | 0.1 | 0.1 | 0.025
+EBIT (1-t) | 88 | 96.80000000000001 | 106.48000000000002 | 109.14200000000001
+ - Reinvesrment | 55 | 60.50000000000001 | 66.55000000000001 | 17.0534375
+FCFF | 33 | 36.300000000000004 | 39.93000000000001 | 92.08856250000001
+Terminal Value (using 7.5% cost of capital) | 1841.7712500000002
+PV at 9% cost of capital | 30.275229357798164 | 30.55298375557613 | 1453.0186196602547
+Value of operating assets today = | 1513.8468327736289
+
+Sheet: Spring 2019
+Problem 1 | Grading Template
+Estimated Value | Unlevered Beta
+Hotels | 500 | 0.9 | 1, Wrong risk free rate : -1 point
+Travel Services | 1000 | 1.2 | 2. ERP incorrect: -1 point
+Company | 1500 | 1.1 | 3. Unlevered Beta incorrect: -1/2 to -1 point
+4. Wrong D/E ratio: -1/2 to -1 point
+Borrowing = | 1500 | 5. Math error: -1/2 point
+New D/E  | 1
+Marginal tax rate = | 0.25
+Estimated Value | Unlevered Beta
+Hotels | 2000 | 0.9
+Travel Services | 1000 | 1.2
+Unlevered beta | 3000 | 1
+New levered beta = | 1.75
+Value | ERP
+US | 1500 | 0.05
+Mexico | 1500 | 0.075
+Company ERP | 3000 | 0.0625
+Cost of equity = | 0.139375
+Problem 2
+Pre-tax cost of debt | 0.1 | 1. Did not adjust tax rate: -1 point
+Market value of equity  | 600 | 2. Market value of debt incorrect: -1/2 to -1 point
+Market value of bank loan | 772.5527938354929 | ! PV of $40 million for 5 years + PV of  | 3. Did not lever beta: -1 point
+$1000 at end of year 5 @ 10% | 4. Levered beta incorrect: -1/2 to -1 point
+Interest expense | 40 | 5. Math errors: -1/2 point
+Operating Income | 32
+Adjusted tax rate  | 0.2 | (32/40) * 25%
+After-tax cost of debt | 0.08000000000000002
+Unlevered beta= | 1.2
+D/E ratio | 1.2875879897258216
+Levered beta  | 2.4360844701367883
+Cost of equity  | 0.15180422350683942
+Debt to Capital Ratio | 0.5628583449068314
+Cost of capital  | 0.1113886171064596
+Problem 3
+Initial investment | 2000
+Revenues from subscribers | 2500 | 1. Did not net out lost revenues: -1 point
+ - Foregone revenues from Netflix | 500 | 2. Missed depreciation: -1 point
+Incremental revenues | 2000 | 3. Error on NPV: -1 point
+ - Operating costs | 1500 | 4. Any other CF related error: -1 point
+ - Depreciation | 400
+Operating income | 100
+ - Taxes | 25
+After-tax Operating Income | 75
+ + Depreciation | 400
+Free cash flow to firm | 475
+NPV  | -103.46273238790855
+Problem 4
+After-tax cost of debt | Pre-tax cost of debt | Cost of equity | Cost of capital
+Biogen | 0.0375 | 0.05 | 0.12 | 0.1
+Merck | 0.03 | 0.04 | 0.09 | 0.075
+NPV of Biogen offer | 316.473833531541 | 1. Used wrong discount rate on Biogen offer; -1/2 point
+Equivalent Annuity | 73.0974798128268 | License fee is guaranteed. Only risk ios that | 2. Used wrong discount rate on Merck Offer: -1/2 point
+Biogen is going to default | 3. Did not convert into annuities: -1 point
+NPV of Merck offer | 435.05946206954076 | 4
+Equivalent Annuity | 67.79100449545169 | % of net income, which is equity income.
+Cost of equity applies
+Problem 5
+Current firm value = | 300 | 1. Did not compute change in firm value: -1 point
+New cost of capital = | 0.075 | 2. Did not solve for pre-borrowing cost of capital: -1 point
+3. Did not solve for unlevered beta: -1 point
+Increae in firm value = | 18 | ! Rational - Use total shares outstanding | 4. Did not relever beta; -1 point
+Change in the cost of capital | 0.0045 |  18 = (Cost of capital -.075)/ .075
+Cost of capital before  | 0.0795
+Unlevered Beta = | 0.99
+New D/E ratio | 0.25
+Levered Beta = | 1.175625
+Problem 6
+1 | 2 | 3
+Revenues | 1200 | 1400 | 1600
+Net Income | 30 | 70 | 160
+Non-cash WC as %  of revenues | 0.12 | 0.09 | 0.06
+Dividend Payout | 0 | 0 | 0.2
+Depreciation | 75
+Cash balance | 50
+Cap ex | 125
+1 | 2 | 3
+Net Income | 30 | 70 | 160 | 1. Change in WC wrong: -1 point
+ + Depreciation | 82.5 | 90.75000000000001 | 99.82500000000002 | 2. Depreciation incorrect: -1/2 point
+ - Cap Ex | 135 | 145.8 | 157.46400000000003 | 3. Cap ex incorrect: -1/2 point
+ - Change in WC | -6 | -18 | -30 | 4. Dividends incorrect: -1 point
+FCFE | -16.5 | 32.94999999999999 | 132.36100000000002 | 5. Change in cash balance incorrect: -1 point
+Dividends | 0 | 7 | 32 | 6. Did not net out desired cash balance in year 3: -1/2 point
+FCFE - Dividends | -16.5 | 25.94999999999999 | 100.36100000000002
+Cash balance | 33.5 | 59.44999999999999 | 159.811
+ - Desired cash balance | 100
+Cash available for buybacks | 59.81100000000001
+0 | 1 | 2 | 3
+Total WC | 150 | 144 | 126 | 96
+Problem 7
+Income Statement (2018) | Balance Sheet (end of 2017)
+Revenues | 500 | Fixed Assets | 500 | Debt | 200
+EBITDA | 150 | Non-cash Working capital | 125 | Equity | 550
+DA | 50 | Cash | 125
+EBIT | 100 | Total | 950 |  Total | 950
+Interest Expense | 20 | Statement of cash flows (2018)
+EBT | 80 | Capital Expenditures | 90
+Taxes | 20 | Change in non-cash WC | 10
+Net Income | 60
+EBIT (1-t) | 75 | 1. ROIC incorrect: -1/2 to -1 point
+Invested Capital | 625 | 2. Reinvestment Rate incorrect; -1/2 to -1 point
+ROIC | 0.12 | 3. Did not recompute reinvestment in terminal year: -1 point
+4. Error on terminal value calculation: -1/2 to -1 point
+Net Cap Ex | 40 | 5. Did not discount back terminal value to today: -1/2 point
+Change in WC | 10 | 6. Did not add cash or subtract debt: -1/2 point each
+Reinvestment | 50
+Reinvestment Rate | 0.6666666666666666
+Expected growth rate | 0.07999999999999999
+1 | 2 | 3 | Terminal Year
+EBIT (1-t) | 81 | 87.48 | 94.47840000000001 | 97.31275200000002
+ - Reinvestment | 54 | 58.32 | 62.985600000000005 | 24.328188000000004
+FCFF | 27 | 29.160000000000004 | 31.492800000000003 | 72.984564
+Terminal value | 1216.4094000000002
+PV | 24.77064220183486 | 24.54338860365289 | 963.6094635718582
+Value of Operating Assets | 1012.923494377346
+ + Cash | 125
+ - Debt | 200
+Value of equity | 937.9234943773458
+
+Sheet: Spring 2017
+Problem 1 | Grading Template
+Country | Steel | Chemicals | Total | ERP | 1. Beta incorrect: -1 point
+US | 800 | 200 | 1000 | 0.05 | 2. ERP incorrect: -1 point
+Thailand | 400 | 100 | 500 | 0.07250000000000001 | 3. Riskfree rate incorrect: -1 point
+Sum | 1200 | 300 | 1500
+Business | Unlevered beta
+Steel | 1.2
+Chemicals | 0.9
+US government bond rate = | 0.025
+Thai $ govt bond rate = | 0.04
+Risk free rate = | 0.025
+ERP = | 0.05750000000000001
+Beta = | 1.14
+Cost of equity = | 0.09055000000000002
+Problem 2
+Market Value (in millions US$) | % of Capital | Cost of component
+Debt | 100 | 0.1 | 0.03 | 1. PV of leases incorrect: -1 point
+Equity | 900 | 0.9 | 0.09 | 2. Did not relever beta: -1 point
+Capital | 1000 | 1 | 0.084 | 3. Ignored prior debt: -1/2 point
+Debt | 100
+Equity | 900
+Debt ratio = | 0.1
+Pre-tax cost of debt | 0.05
+Marginal tax rate | 0.4
+Lease commitment per year for 10 years = | 120
+Risk free rate = | 0.03
+ERP = | 0.05
+Cost of  equity = | 0.09
+Levered beta used = | 1.2
+Unlevered beta = | 1.125
+PV of leases = | 926.6081915021775 | ! 120 million discounted back at 5%
+New Debt = | 1026.6081915021775 | You cannot discount back at the after-tax cost of debt
+New D/E = | 1.140675768335753
+New beta = | 1.8949561436266331
+Cost of equity =  | 0.12474780718133166
+Cost of debt = | 0.03
+New Debt/Capital = | 0.5328577943508744
+New Cost of capital = | 0.07426069962710533
+Problem 3 | 1. Starting after-tax income wrong: -1 point
+Initial Investment = | 1000 | 2. Did not add back depreciation: -1 point
+Salvage Value | 100 | 3. WC in wrong year: -1/2 point
+WC as percent of revenue | 0.15 | 4. Ignored WC: -1 point
+Cost of capital | 0.09 | 5. Forgot salvage of investment: -1/2 point
+0 | 1 | 2 | 3 | 6. Forgot salvage of WC: -1/2 point
+Revenues | 1000 | 1200 | 1500
+EBITDA | 300 | 400 | 600
+ - DA | 300 | 300 | 300
+EBIT | 0 | 100 | 300
+ - Taxes | 0 | 30 | 90
+EBIT (1-t) | 0 | 70 | 210
+ + Depreciation | 300 | 300 | 300
+ - Cap Ex | 1000 | -100
+ - Chg in WC | 150 | 30 | 45 | -225
+FCFF | -1150 | 270 | 325 | 835
+PV of CF | -1150 | 247.7064220183486 | 273.545997811632 | 644.7732058509886
+NPV - | 16.025625680969142
+If you moved working capital to the end of the year, your NPV is mildly more positive (about $36 million)
+Problem 4
+Number of hours driven per year = | 800 | 1. Did not compute annualized cost of car: -1 point
+Annual income (net of fuel and maintenance costs) = | 9600 | 2. Forgot depreciation tax benefits: -1 point
+Discount Rate = | 0.08 | 3. Did not annualize cost: -1 point
+4. Forgot salvage value: -1 point
+Additional car cost (see below) = | -2764.1392493045223
+Annual income net of car cost = | 6835.860750695478
+Income earned per hour | 8.544825938369348
+Without Uber | With Uber
+Cost of car | 15000 | 25000
+Years of life | 5 | 3
+Salvage value | 5000 | 4000
+Depreciation | None | Straight line
+NPV of car (without Uber) = | -11597.084014831235 | -14608.799471625254 | ! Car with Uber, has depreciation tax benefits
+Annual cost | -2904.564545668365 | -5668.703794972887 | ! Converted to an annuity
+I know that this was a tough problem and I cut a lot of slack for possible alternative answers, with generous partial credit given along the way.
+Here was my test for whether you were even on the right track. If the answer you got in after-tax earnings was higher than $9600 after considering the car-related costs
+your answer does not hold up. If it was less than $9600, as it should be, your earnings if computed comprehensively should cover the following:
+1. The additional cost of buying a more expensive car (if you drive for Uber)
+2. The shorter life that your car will have if you drive for Uber
+3. The depreciation tax benefits that will accrue to you if you are an Uber driver
+My estimate of that incremental cost is $2,764. If you considered all three factors in a different way and were within shouting distance of my answer, I gave you most
+ the credit on the question.
+Problem 5
+Current Operating Income = | 48 | 1. Wrong pre-tax cost of debt: -1/2 point
+Current Debt = | 400 | 0.024 | 2. Did not factor in tax rate change: -1/2 point
+Current Equity = | 600 | 0.093 | 3. Did not relever beta correctly: -1/2 point
+4. Used old cost of equity: -1 point
+Current cost of debt (pre-tax) | 0.04 | 5. Weights wrong: -1 point
+Current beta = | 1.26
+Current cost of equity = | 0.093
+Current cost of capital = | 0.0654
+New Debt = | 800
+New Interest rate = | 0.08
+New Interest expense = | 64
+Tax rate (for use on cost of debt) = | 0.30000000000000004
+New Equity= | 200
+Unlevered beta = | 0.9
+New beta = | 3.42
+New cost of equity = | 0.201
+New cost of debt = | 0.055999999999999994
+Cost of capital = | 0.08499999999999999
+Problem 6
+Current Share Price | 8 | 1. Change in firm value incorrect: -1 point
+Number of shares outstanding  | 125 | 2. Forgot to subtract out debt: -1 point
+Current cost of equity = | 0.09 | 3. Did not adjust shares outstanding: -1 point
+New cost of equity = | 0.08
+Borrowing | 400
+Buyback price | 10
+After buyback
+Old firm value = | 1000
+Change in firm value = | 124.99999999999993
+New firm value = | 1125
+New Debt = | 400
+New Equity = | 725
+Shares outstanding after buyback | 85
+Value per share after buyback | 8.529411764705882
+Problem 7
+Existing working capital = | 35
+Existing cash balance = | 25 | 1. Mangled net income: -1 point
+Working capital as % of revenues in year 1 & beyond = | 0.04 | 2. Change in non-cash working capital wrong: -1 point
+Dividend payout ratio in years 3-5 | 0.4 | 3. Dividends incorrect: -1 point
+Most recent year | 1 | 2 | 3 | 4 | 5 | 4. Did not cumulate change in cash balance: -1 point
+Revenues | 250 | 750 | 1000 | 1200 | 1350 | 1500 | 5. Forgot starting working  capital: -1/2 point
+Net Margin | 0 | 0.02 | 0.03 | 0.04 | 0.05 | 0.06
+Net Income | 15 | 30 | 48 | 67.5 | 90
+Change in NC working capital | 20 | 10 | 8 | 6 | 6
+FCFE | -5 | 20 | 40 | 61.5 | 84
+Dividends | 19.200000000000003 | 27 | 36
+Cash Balance | 25 | 20 | 40 | 60.8 | 95.3 | 143.3
+Total NC Working Capital | 10 | 30 | 40 | 48 | 54 | 60
+Problem 8
+Last year | 1 | 2 | 3 | 4
+Expected Growth Rate | 0.075 | 0.075 | 0.075 | 0.025 | 1.  Just used last year's cash flow: -2 points
+EBIT (1-t) | 100 | 107.5 | 115.5625 | 124.2296875 | 2. Did not recompute reinvestment at all: -1.5 points
+ + Depreciation | 20 | 21.5 | 23.220000000000002 | 25.077600000000004 | 3. Estimated ROC/reinvestment incorrectly: -1 point
+ - Cap Ex | 80 | 86 | 92.88000000000001 | 100.31040000000002 | 4. Wrong discount rate for terminal value: -1 point
+FCFF | 40 | 43 | 45.90249999999999 | 48.996887499999985
+Cost of capital | 0.1 | 0.1 | 0.1 | 0.08
+Growth rate in first three years = | 0.07499999999999996
+Reinvestment Rate in first three years = | 0.6
+Return on capital = | 0.12499999999999993
+Expected growth rate in perpetuity | 0.025
+Expected reinvestment rate in perpetuity = | 0.20000000000000012
+EBIT(1-t) in year 4 | 127.33542968749998
+FCFF in year 4 = | 101.86834374999997
+Terminal Value | 1852.1517045454539
+
+Sheet: Spring 2016
+Problem 1
+Revenues (in $ millions) | Govt Bond rate (in US $) | Govt Bond rate (in Pesos) | Marginal tax rate | Equity Risk Premium (Total)
+US | 800 | 0.02 | NA | 0.4 | 0.06
+Mexico | 200 | 0.035 | 0.06 | 0.3 | 0.08
+Part a | Grading Template
+Regression beta = | 0.944 | 1. Used regression beta: -1 point
+D/E ratio during regrssion = | 0.3 | 2. Wrong ERP: -1 point
+Marginal tax rate = | 0.4 | 3. Math errors: -1/2 point each
+Unlevered beta = | 0.8
+Risk free Rate = | 0.02
+ERP = | 0.064
+Cost of Equity = | 0.0712
+Part b
+Value of the business = | 1500 | 1. Did not adjust beta for cash: -1 point
+Divested business = | 600 | 2. Did not solve for beta of remaining operations: -1 point
+Unlevered beta of divested business = | 0.65
+Unlevered beta of remaining operations= | 0.9000000000000001
+Unlevered beta of company = | 0.54
+Cost of equity = | 0.05456
+Part c
+Unlevered Beta of acquired business = | 1.2 | 1. Did not compute new weighted beta: -1 point
+Unlevered beta of the company = | 1.02 | 2. Did not compute new ERP: -1 point
+Revenues in Mexico after acquisition = | 520
+Weight for Mexico after acquisiton = | 0.52
+ERP after acquisition = | 0.0704
+Cost of equity after acquisiton = | 0.09180800000000001
+Problem 2
+Part a
+Current cost of equity = | 0.065 | 1. Used weighted ERP instead of China ERP: -1/2 point
+Unlevered Beta = | 0.75 | 2. Used unlevered beta: -1/2 point
+Debt/Equity Ratio for project = | 0.25 | 3. Wrong Debt ratio: -1 point
+Levered Beta = | 0.8624999999999999 | 4. Forgot to after-tax cost of debt: -1/2 point
+ERP = | 0.09
+Cost of equity for China Project = | 0.09762499999999999
+Cost of debt (after tax) | 0.03
+Cost of capital = | 0.08410000000000001
+Part b
+Initial Investment  | 1500
+Expected Cash flow next year
+Revenues | 1000
+EBITDA | 400 | 1. Wrong cash flow: -1 point
+DA | 150 | 2. Did not compute NPV for perpetuity: -1 point
+EBIT | 250 | 3. Forgot initial investment: -1/2 point
+Taxes | 100
+EBIT (1-t) | 150
+ + DA | 150
+ - Cap Maintenance | 165
+FCFF | 135
+NPV of project = | 606.0842433697348
+Part c
+Debt for investment | 300 | 1. Computed ROC instead: -1 point
+Equity in investment  | 1200 | 2. Used EBIT(1-t) as net income: -1 point
+3. Wrong comparison to WACC: -1/2 point
+EBIT | 250
+ - Interest Expenses | 15
+Taxable income | 235
+ - Taxes | 94
+Net Income | 141
+ROE = | 0.1175
+Cost of equity = | 0.09762499999999999
+It is a good project, on a ROE basis.
+Problem 3
+Debt to Capital | Cost of equity | Pre-tax cost of debt | Tax rate | Cost of debt | Cost of capital | Debt | Interest expense
+0 | 0.068 | 0.03 | 0.4 | 0.018 | 0.068 | 0 | 0 | 0.8
+0.1 | 0.0712 | 0.0325 | 0.4 | 0.0195 | 0.06602999999999999 | 25 | 0.8125 | 0.8533333333333334
+0.2 | 0.07519999999999999 | 0.036 | 0.4 | 0.021599999999999998 | 0.06448 | 50 | 1.7999999999999998 | 0.9199999999999999
+0.3 | 0.08034285714285715 | 0.04 | 0.4 | 0.024 | 0.06344 | 75 | 3 | 1.0057142857142858
+0.4 | 0.0872 | 0.045 | 0.4 | 0.027 | 0.06312 | 100 | 4.5 | 1.1199999999999999
+0.5 | 0.09680000000000001 | 0.05 | 0.4 | 0.03 | 0.06340000000000001 | 125 | 6.25 | 1.2800000000000002
+0.6 | 0.11120000000000001 | 0.06 | 0.4 | 0.036 | 0.06608 | 150 | 9 | 1.52
+0.7 | 0.14717948717948715 | 0.078 | 0.29304029304029305 | 0.05514285714285714 | 0.08275384615384615 | 175 | 13.65 | 2.1196581196581192
+0.8 | 0.21733333333333338 | 0.09 | 0.2222222222222222 | 0.06999999999999999 | 0.09946666666666666 | 200 | 18 | 3.28888888888889
+0.9 | 0.43600000000000005 | 0.12 | 0.14814814814814814 | 0.10222222222222221 | 0.1356 | 225 | 27 | 6.9333333333333345
+Part a
+Debt to cap ratio after recapitalization | 0.4
+Unlevered beta = | 0.8 | 1. Did not relever beta: -1 point
+D/E ratio after recap = | 0.6666666666666667 | 2. Gave remaining shareholders entire value change: -1 point
+Levered beta = | 1.1199999999999999 | 3. Wrong cost of capital: -1 point
+Cost of equity = | 0.0872
+After-tax cost of debt = | 0.027
+Cost of capital - | 0.06312
+Change in firm value = | 19.32826362484161
+New Debt = | 100
+Price per share in buyback = | 12.5
+Number of shares bought back = | 8
+Remaining shares  | 17
+You can also do the following
+Value of firm after buyback = | 269.3282636248416 | Value to selling shareholders = | 20
+ - Debt outstanding  | 100 | Value to remaining shareholders = | -0.6717363751583889
+Value of equity after buyback | 169.3282636248416 | Change in value per share = | -0.0395139044210817
+ Value per share after buyback | 9.960486095578919 | Value per share = | 9.960486095578919
+Part b
+Debt in LBO = | 175 | 1. Wrong D/E ratio: -1 point
+Equity in LBO = | 75 | 2. Did not compute new tax rate
+Interest expense on debt = | 13.65 | 3. Did not subtract out debt: -1 point
+Operating Income | 10
+Effective tax rate = | 0.29304029304029305 | ! Not enough income to cover interest expenses
+D/E ratio after LBO = | 2.3333333333333335
+Levered beta after LBO = | 2.1196581196581197
+Cost of equity after LBO = | 0.14717948717948717
+Pre-tax cost of debt = | 0.078
+After-tax cost of debt = | 0.05514285714285714
+Cost of capital = | 0.08275384615384615
+Change in firm value - | -44.571481688046084
+New firm value = | 205.42851831195392
+ - Debt | 175
+Value of equity | 30.428518311953923
+Problem 4
+Part a
+Last year | 1 | 2 | 3 | 4 | 5
+Risk-adjusted Assets | 2000 | 2100 | 2205 | 2315.25 | 2431.0125000000003 | 2552.5631250000006
+Regulatory Capital Ratio | 0.1 | 0.105 | 0.11 | 0.115 | 0.12 | 0.125 | 1. Wrong net income: -1 point
+Regulatory Capital (Book Equity) | 200 | 220.5 | 242.55 | 266.25375 | 291.72150000000005 | 319.0703906250001 | 2. No reinvestment: -1.5 points
+ROE | 0.1 | 0.11 | 0.12 | 0.13 | 0.14 | 0.15 | 3. Wrong reinvestment: -1 point
+Net Income | 20 | 24.255 | 29.106 | 34.6129875 | 40.84101000000001 | 47.86055859375001
+ - Change in Regulatory Capital | 20.5 | 22.05000000000001 | 23.703750000000014 | 25.467750000000024 | 27.348890625000024
+FCFE | 3.754999999999999 | 7.05599999999999 | 10.909237499999989 | 15.373259999999988 | 20.511667968749983
+Part b
+Net Income | 24.255 | 29.106 | 34.6129875 | 40.84101000000001 | 47.86055859375001 | left income unchanged
+Dividends | 9.702 | 11.642400000000002 | 13.845195000000002 | 16.336404000000005 | 19.144223437500003 | 1. Did not compute dividends: -1 point
+Regulatory Capital | 200 | 214.553 | 232.01659999999998 | 252.78439249999997 | 277.28899849999993 | 306.00533365624995 | 2. Did not update book equity: -1 point
+Risk-adjusted Assets | 2000 | 2100 | 2205 | 2315.25 | 2431.0125000000003 | 2552.5631250000006 | 3. Did not compute ratio correctly: -1/2 point
+Regulatory Capital Ratio | 0.1 | 0.10216809523809524 | 0.10522294784580498 | 0.10918233128171902 | 0.11406317264925618 | 0.11988159299929159
+Part c
+Increasing ROE & Stable regulatory capital ratio | ! Decreasing ROE is obviously not good. You clearly don't want to have an increasing
+regulatory capital ratio but I can see an argument for either st
+Problem 5
+Part a
+After-tax Operating Income = | 120
+Invested Capital = | 600
+Return on Invested Capital = | 0.2
+Reinvestment Rate = | 0.39999999999999997
+Last year | 1 | 2 | 3 | 4 | 5
+Expected Growth rate | 0.08 | 0.08 | 0.08 | 0.08 | 0.08 | 1. Wrong ROC: -1 point
+Revenues | 1000 | 1080 | 1166.4 | 1259.7120000000002 | 1360.4889600000004 | 1469.3280768000004 | 2. Error on reinvestment: -1 point
+EBIT (1-t) | 120 | 129.60000000000002 | 139.96800000000005 | 151.16544000000005 | 163.25867520000006 | 176.31936921600007 | 3. Used EBIT (1-t) as CF: -2 points
+Reinvestment | 51.84 | 55.987200000000016 | 60.46617600000001 | 65.30347008000001 | 70.52774768640002
+FCFF | 77.76000000000002 | 83.98080000000003 | 90.69926400000003 | 97.95520512000004 | 105.79162152960005
+Part b
+Return on invested capital in stable growth = | 0.1 | 1. Did not recompute reinvestment: -1 point
+Expected growth rate = | 0.02 | 2. Terminal value equation incorrect: -1/2 point
+Reinvestment Rate = | 0.19999999999999998
+EBIT (1-t) in year 6 = | 179.84575660032007
+Reinvestment = | 35.969151320064014
+FCFF in year 6 = | 143.87660528025606
+Terminal value (at the end of year 5) | 2397.943421337601
+Part c
+Year | 1 | 2 | 3 | 4 | 5
+FCFF | 77.76000000000002 | 83.98080000000003 | 90.69926400000003 | 97.95520512000004 | 105.79162152960005 | 1. Discounted terminal value at 8%:-1/2 point
+Terminal Value | 2397.943421337601 | 2. Did not discount CF for first 5 years: -1/2 point
+PV @12% | 69.42857142857144 | 66.94897959183675 | 64.557944606414 | 62.25230372761351 | 1420.6865029266082 | 3. Forgot cash: -1/2 point
+Value of operating assets = | 1683.874302281044 | 4. Forgot debt: -1/2 point
+ - Debt | 400
+ + Cash | 300
+Value of equity | 1583.874302281044
+Value per share = | 10.55916201520696
+
+Sheet: Spring 2015
+Problem 1 | Grading Template
+Comparable Companies
+Levered Beta | D/E ratio
+Software | 1.38 | 0.25
+Entertainment | 1.17 | 0.5
+Part a
+Estimated Value | Unlevered Beta | Weights
+Software | 0.6 | 1.2 | 1.Did not take present value for leases correctly (wrong interest rate): -1/2 point
+Entertainment | 0.4 | 0.8999999999999999 | 2. Did something to bond value (which was already in market terms): -1/2 pont
+Company | 1.08
+Interest bearing debt = | 200 | 1. Did not unlever betas for comparables: -1 point
+Lease commitment/year = | 50 | 2. Wrong weights on unlevered betas: -1/2 point
+PV of lease commitments = | 222.59111655081057 | 3. Did not relever beta correctly: -1/2 point
+Total Debt = | 422.59111655081057
+Market value of equity = | 800
+D/E ratio = | 0.5282388956885132
+Levered beta = | 1.4222988044061566
+Part b
+Division sell off | 400
+New debt | 100
+Investment in social media | 300
+Stock Buyback | 200
+Current | New | % Value | Unlevered Beta | 1. Did not compute new weights on businesses correctly: -1 point
+Software | 733.5546699304863 | 333.5546699304863 | 0.2971292619483231 | 1.2 | 2. Did not compute new debt to equity ratio correctly: -1 point
+Entertainment | 489.0364466203242 | 489.0364466203242 | 0.43563185153549144 | 0.8999999999999999 | 3. Did not lever beta correctly: -1/2 point
+Online Advertising | 300 | 0.26723888651618544 | 1.5 | 4. Math errors: -1/2 point
+1.1494821104942083
+New Debt | 522.5911165508105
+New Equity | 600
+D/E ratio | 0.8709851942513509
+New levered beta = | 1.750191250072559
+Problem 2
+0 | Yrs 1-10 | 10
+Initial investment | -2000 | 500
+If you assumed EBITDA margin is before G&A allocation | If you assumed EBITDA margin is after G&A allocation
+Incremental revenues | 1000 | Incremental revenues | 1000 | 1. Did not get after-tax EBIT correctly: -1 point
+Incremental EBITDA | 400 | Incremental EBITDA | 400 | 2. Did not count maintenance cap ex: -1 point
+Incremental DA | 150 | Incremental DA | 150 | 3. Wrong depreciation: -1 point
+Incremental G&A | 25 | Incremental EBIT | 250 | 4. Forgot or miscalculated G&A: -1/2 to -1 point
+Incremental EBIT | 225 | EBIT (1-t) | 150
+EBIT (1-t)  | 135 |  + Depreciation | 150
+ + Depreciation | 150 |  + Fixed G&A (1-t) | 45
+ - Maintenance Cap Ex | 30 |  - Maintenance Cap ex | 30
+FCFF | 255 | FCFF | 315
+Part b.
+Current cost of equity = | 0.077 | 1. Did not back out beta: -1 point
+Risk free rate = | 0.02 | 2. Did not adjust ERP: -1 point
+ERP (US) = | 0.06 | 3. Forgot salvage value: -1/2 point
+Implied beta = | 0.95 | 4. Math errors: -1/2 point
+Adjusted ERP = | 0.09
+New cost of equity = | 0.1055
+NPV = | -286.08939310049936 | NPV = | 74.03241858785691
+Part c
+Annual CF needed = | 42.06062293921828 | ! Used US cost of equity | Annual CF needed = | -10.884184169695416 | 1. Did not set up to solve for annuity: -1 point
+EBIT needed | 70.10103823203046 | EBIT needed | -18.140306949492363 | 2. Did not convert back into pre-tax: -1/2 point
+EBITDA needed  | 70.10103823203046 | EBITDA needed  | -18.140306949492363 | 3. Did not adjust EBITDA back to revenue: -1/2 point
+Revenues needed | 116.83506372005077 | Revenues needed | -45.3507673737309
+Problem 3
+Part a | Value | Proportion | Cost
+Equity | 1800 | 0.9 | 0.092
+Debt | 200 | 0.1 | X
+Cost of capital before
+Part a
+Unlevered beta = | 1.125 | 1. Did not unlever and relever beta: -1 point
+New debt to capital ratio = | 0.2 | 2. Did not after-tax cost of debt: -1/2 point
+New debt to equity ratio | 0.25 | 3. Debt weights wrong: -1/2 point
+New levered beta = | 1.29375
+New cost of equity = | 0.097625
+New cost of debt = | 0.045
+New after-tax cost of debt | 0.027
+New cost of capital  | 0.0835
+Part b
+Existing firm value = | 2000 | 1. Did not solve for pre-change cost of capital correctly: -1 point
+Change in value = | 40 | 2. Did not solve for after-tax cost of debt given cost of capital: -1 point
+Old cost of capital = | 0.08517 | 3. Forgot to pre-tax cost of debt: -1/2 point
+Old pre-tax cost of debt = | 0.02369999999999997
+Old pre-tax cost of debt | 0.03949999999999995
+Part c
+New enterprise value | 2040 | 1. Did not adjust shares for buyback: -1 point
+ - New Debt | 400 | 2. Did not adjust properly for special dividend: -1/2 to 1 point
+New equity value | 1640
+Special dividend | 100
+Stock Buyback | 100
+Shares bought back | 8
+Remaining shares | 142
+Value per share | 11.549295774647888
+Your share price drops because you receive a special dividends of | 0.704225352112676
+In spite of the dividend, your total return of $12.25 is less tha those who sold back made.
+Problem 4
+2013 | 2014
+Revenues | 1000 | 1100
+EBITDA | 500 | 560
+EBIT | 400 | 440
+Net Income | 150 | 180
+Total Working Capital (including cash) | 100 | 120
+Cash | 40 | 80
+Total Debt | 90 | 120
+Capital expenditures | 150
+Cash acquisition | 50
+Growth rate in revenues and net income in 2015 | 0.2
+Growth rate in cap ex and depreciation | 0.1
+Increase in cash balance in 2015 = | 20 | Part a
+Dividend payout ratio | 0.25 | 1. Change in non-cash WC wrong: -1 point
+Parts a & b | 2014 | 2015 | 2. Error on net debt issued: -1/2 point
+Net Income | 180 | 216 | 3. FCFE computation wrong: -1/2 point
+ + Depreciation | 120 | 132 | 4. Adjustment for cash balance incorrect: -1/2 point
+ - Capital Expenditures | 200 | 165
+ - Change in non-cash WC | -20 | 8 | Part b
+ + Net Debt Issued | 30 | -60 | 1. Change in non-cash WC wrong: -1 point
+FCFE | 150 | 115 | 2. Cap ex incorrect: -1/2 point
+Increase in cash balance | 40 | 20 | 3. Total debt incorrect: -1/2 point
+Buybacks | 50 | 41 | 4. Cash balance dealt with incorrectly: -1/2 point
+Dividends paid | 60 | 54 | 5. Dividends incorrect: -1/2 point
+Payout ratio | 0.3333333333333333
+Part c
+i. Stock price will decrease by more than the dividend paid | All or nothing
+Tax rate on capital gain | 0.2
+Net tax rate on dividends | 0.1 | ! Net of corporate tax
+Problem 5
+Most recent year | Revenues | Most recent year
+Revenues | 2000 | EBITDA | 2000
+EBITDA | 500 | DA | 500
+DA | 100 | EBIT | 100
+Cap ex | 200 |  - Interest expenses | 400
+Non-cash working capital | 40 | Taxable Income | 50
+Tax rate | 0.3 | Taxes | 350
+Expected growth rate | 0.08 | Net Income | 140
+Cost of capital (next 5 years) | 0.12 | 210
+Cost of capital after year 5 | 0.08
+Part a
+Most recent | 1 | 2 | 3 | 4 | 5
+EBIT (1-t) | 280 | 302.40000000000003 | 326.59200000000004 | 352.71936000000005 | 380.9369088000001 | 411.4118615040001
+ + Depreciation | 100 | 1. Reinvestment incorrect: -1 point
+ - Cap Ex | 200 | 2. Wrong tax rate: -1 point
+ - Change in non-cash WC | 40
+FCFF | 140 | 151.20000000000002 | 163.29600000000002 | 176.35968000000003 | 190.46845440000004 | 205.70593075200006
+Reinvestment Rate | 0.5
+Part b
+Return on capital = | 0.16 | 1. Return on capital incorrect: -1 point
+Expected growth rate = | 0.02 | 2. Did not compute reinvestment rate: -1 point
+Reinvestment Rate = | 0.125 | 3. Did not use year 6 EBIT (1-t): -1/2 point
+EBIT (1-t) in year 6 = | 419.64009873408014 | 4. Math errors: -1/2 point each
+Cost of capital in terminal year = | 0.08
+Terminal value = | 6119.751439872002
+Part c | 1 | 2 | 3 | 4 | 5
+FCFF | 151.20000000000002 | 163.29600000000002 | 176.35968000000003 | 190.46845440000004 | 205.70593075200006 | 1. Wrong discount rate in computing PV: -1 point
+Terminal Value | 6119.751439872002 | 2. Debt dealt with incorrectly: -1/2 point
+PV  | 135 | 130.17857142857142 | 125.52933673469386 | 121.04614613702624 | 3589.234386795216 | 3. Cash dealt with incorrectly: -1/2 point
+Value of operating assets = | 4100.988441095507 | 4. Math errors: -1/2 point each
+ - Debt outstanding = | 1000
+ + Cash & Cross holdings | 600
+Value of equity | 3700.9884410955074
+Number of share | 150
+Value per share | 24.67325627397005
+
+Sheet: Spring 2014
+Problem 1
+Sector Averages | Grading template
+Business | Revenues (in $ millions) | Enterprise Value/Sales | Unlevered Beta
+Computer hardware | 1000 | 0.8 | 1.25
+Computer services | 600 | 2 | 0.9
+Country | Risk free rate In local  currency | Equity Risk Premium | Marginal tax rate | Total Revenues
+United States | 0.03 | 0.05 | 0.4 | 800
+China | 0.04 | 0.07 | 0.25 | 800
+Risk free rate = | 0.03 | 1. Wrong risk free rate: -1/2 point
+To compute beta | 2. Used revenue weights on beta: -1/2 point
+Business | Estimated Value | Weight | Unlevered Beta | 3. Wrong ERP: -1/2 point
+Computer hardware | 800 | 0.4 | 1.25 | 4. Math errors: -1/2 point
+Computer services | 1200 | 0.6 | 0.9
+2000 | 1.04
+To compute ERP
+Country | ERP | Revenues | Weights
+United States | 0.05 | 800 | 0.5
+China | 0.07 | 800 | 0.5
+0.060000000000000005 | 1600
+Cost of equity in US $ = | 0.09240000000000001
+Part b
+First, estimate the divestiture value
+Hardware revenues in US = | 500 | 1. Wrong risk free rate: -1/2 point
+Estimated value = | 400 | 2. Wrong levered beta: -1 to 1.5 points
+Debt raised = | 400 | 3. ERP weighted incorrectly: -1 to 1.5 points
+Invested in China services= | 800 | 4. Math errors: -1/2 point each
+Incremental revenue  | 400 | ! Invested value/ EV to Sales of sector
+Business | Estimated value | Weight  | Unlevered Beta
+Computer hardware | 400 | 0.16666666666666666 | 1.25
+Computer services | 2000 | 0.8333333333333334 | 0.9
+0.9583333333333333
+New D/E ratio = | 0.2 | ! Debt raised/Old value
+Levered Beta = | 1.0733333333333333 | ! Use US marginal tax rate, since borrowing is in US.
+Tax benefits are also in US.
+To compute ERP
+Country | ERP | Revenues | Weghts
+United States | 0.05 | 300 | 0.2
+China | 0.07 | 1200 | 0.8
+0.066
+I gave full credit if you weighted the ERP by the values of the businesses in US (600) and China (1800).
+Cost of equity in US $ = | 0.10084
+Problem 2
+0 | Years  1-10 | Salvage Value
+Storage facility investment | -2250000 | 250000
+Inventory investment  | -750000 | 750000 | 1. Initial investment in WC incorrect: -1 point
+2. After-tax cash flow incorrect: -1 point
+Current | After investment | Incremental | 3. Salvage value incorrect: -1 point
+Revenues | 5000000 | 7500000 | 2500000 | 4. PV incorrect: -1/2 point
+EBITDA | 900000 | 1500000 | 600000 | 5. Math error: -1/2 point
+Incremental EBITDA | 600000
+ - Depreciation | 200000
+Incremental operating income | 400000
+ - Taxes | 160000
+Incremental after-tax operating income | 240000
+ + Depreciation | 200000
+After-tax cash flow | 440000
+NPV = | 89152.81593959319
+Part b
+With a perpetual life, assume that capital maintenance = depreciation & no salvage value
+Initial investment = | -3000000
+NPV = -3000000 + X/.10 = 0 | ! No salvage value, if you have perpetual life | 1. Annuity not based on initial investment: -1 point
+Solving for X | 2. Included salvage value: -1 point
+Annual after-tax cash flow = | 300000 | 3. Did not consider capital maintenance: -1 point
+Incremental after-tax operating income | 300000
+Incremental pre-tax operating income  | 500000
+ + Depreciation | 200000
+Breakeven Incremental EBITDA | 700000
+Breakeven EBITDA | 1600000
+Breakeven EBITDA margin = | 0.21333333333333335
+Note: Including depreciation while ignoring capital maintenance is not an option, since depreciation will run out after ten years.
+Problem 3
+Current beta = | 3.06 | 1. Did not after-tax cost of debt: -1/2 point
+Current cost of equity = | 0.18300000000000002 | 2. Wrong weights: -1/2 point
+Current after-tax cost of debt = | 0.06 | 3. Math error: -1/2 point
+Debt ratio = | 0.8
+Cost of capital = | 0.0846
+New Debt/Equity ratio = | 1.5
+Unlevered beta = | 0.8999999999999999 | 1. Did not unlever & relever beta: -1 point
+New levered beta = | 1.7099999999999997 | 2. Did not after-tax cost of debt: -1/2 point
+New cost of equity = | 0.11549999999999999 | 3. Wrong weights: -1/2 point
+New after-tax cost of debt = | 0.045 | 4. Math error: -1/2 point
+New debt ratio = | 0.6
+New cost of capital = | 0.0732
+Old firm value = | 1000 | 1. Incorrect estimate of increase in value: -1 point
+Increase in firm value | 214.28571428571416 | 2. Did not subtract out new debt: -1 point
+New firm value = | 1214.2857142857142 | 3. Divided change in value by old shares: -1 point
+ - New Debt = | 600 | ! Don't forget to subtract debt | 4. Other math errors: -1/2 point each
+New equity value = | 614.2857142857142
+No of shares | 40 | ! Divide by total # shares
+Value per share = | 15.357142857142856
+(You will get the same answer, if you divide the increase in value by total number the shares and add to the value per share)
+Problem 4
+Three years ago | Two years ago | Most recent year
+Revenues | 1000 | 1100 | 1200 | 1. Did not compute change in non-cash WC: -1 point
+Net Income | 100 | 110 | 120 | 2. Did not compute change in debt: -1 point
+Depreciation | 40 | 45 | 50 | 3. Did not compute cash balance: -1/2 point
+Cap Ex | 50 | 60 | 70
+Total Working capital | 10 | 30 | 60
+Total Debt | 10 | 15 | 75
+Dividend Payout ratio | 0 | 0.4 | 0.5
+Three years ago | Two years ago | Most recent year
+Net Income | 100 | 110 | 120
+ + Depreciation | 40 | 45 | 50
+ - Cap Ex | 50 | 60 | 70
+ - Change in Working capital | 10 | 20 | 30
+  + Increase in debt | 10 | 5 | 60
+FCFE | 90 | 80 | 130
+Dividends paid | 0 | 44 | 60
+Change in cash balance | 90 | 36 | 70
+Cash Balance | 90 | 126 | 196
+Next year | Year +2 | Year +3
+Revenues | 1440 | 1728 | 2073.6 | 1. Did not compute change in non-cash WC: -1 point
+Net Income | 144 | 172.8 | 207.36 | 2. Did not compute change in debt: -1 point
+ + Depreciation | 55.00000000000001 | 60.500000000000014 | 66.55000000000003 | 3. Did not compute cash balance: -1/2 point
+ - Cap Ex | 77 | 84.7 | 93.17000000000002
+ - Change in Working capital | 84 | 28.8 | 34.559999999999995
+ - Debt repaid | 25 | 25 | 25
+FCFE | 13 | 94.80000000000003 | 121.18
+Dividends paid | 72 | 86.4 | 103.68
+Change in cash balance | -59 | 8.40000000000002 | 17.5
+Cash balance | 137 | 145.40000000000003 | 162.90000000000003
+Problem 5
+After-tax operating income = | 60
+Invested capital = | 500 | 1. ROC incorrect: -1 point
+Return on capital = | 0.12 | 2. Did not compute reinvestment in years 1-3: -1 point
+High Growth | Stable growth | 3. Did not recompute reinvestment in year 4: -1 point
+Expected growth rate = | 0.09 | 0.03 | 4. Discounted at wrong discount rate: -1/2 point
+Reinvestment rate = | 0.75 | 0.25 | 5. Math error: -1/2 point
+1 | 2 | 3 | Terminal year
+After-tax operating income | 65.4 | 71.28600000000002 | 77.70174000000002 | 80.03279220000002
+ - Reinvestment | 49.050000000000004 | 53.464500000000015 | 58.27630500000001 | 20.008198050000004
+FCFF | 16.35 | 17.8215 | 19.425435000000007 | 60.02459415000001
+Terminal value | 857.4942021428573
+Present value | 14.863636363636363 | 14.728512396694214 | 658.8427025866694
+Value of operating assets = | 688.434851347
+ + Cash | 50 | 1. Did not add cash: -1/2 point
+ - Debt | 300 | 2. Did not subtract debt: -1 point
+Value of equity | 438.43485134699995 | 3. Did not compare to current market value: -1/2 point
+Value per share = | 17.537394053879996 | 4. Math error: -1/2 point
+Price per share = | 16
+Undervalued by | -0.08766376858253133
+
+Sheet: Spring 2013
+Problem 1 | Grading template
+US | Brazil | Total
+Steel | 800 | 400 | 1200
+Technology | 600 | 300 | 900
+Total | 1400 | 700
+Part a
+For beta
+Value | Weight | Unlevered beta
+Steel | 1800 | 0.5714285714285714 | 0.9 | 1. Betas weighted incorrectly: -1 point
+Technology | 1350 | 0.42857142857142855 | 1.2 | 2. ERP weighted incorrectly: -1 point
+3150 | 1.0285714285714285 | 3. Math errors: -1/2 point
+For ERP | 4. Used Brazilian rate as risk free rate: -1/2 point
+Value | Weight | ERP | NOTES: You cannot use the Brazilian $ government bond rate,
+US | 2100 | 0.6666666666666666 | 0.06 | because it is not a risk free rate in US$.
+Brazil | 1050 | 0.33333333333333337 | 0.09
+3150 | 0.06999999999999999
+Cost of equity =  | 0.10199999999999998 | ! 3% + 1.02857 (7.00%)
+Part b
+US | Brazil | Total
+Steel | 1200 | 600 | 1800 | 1. New D/E ratio wrong: -1 point
+Technology | 900 | 1200 | 2100 | 2. Betas not reweighted for business: -1 point
+Total | 2100 | 1800 | 3. Betas not reweighted for country: -1 point
+4. Did not relever beta: -1 point
+Cost of capital for company | 5. Math errors: -1/2 point
+Debt = | 1200 | NOTES: Both the business and the country weights changes as the
+Equity = | 2700 | company restructures. So, both numbers have to be resestimated.
+D/E ratio = | 0.4444444444444444
+New unlevered beta
+For beta
+Value | Weight | Unlevered beta
+Steel | 1800 | 0.46153846153846156 | 0.9
+Technology | 2100 | 0.5384615384615384 | 1.2
+3900 | 1.0615384615384615
+New levered beta = | 1.3446153846153845
+For ERP
+Value | Weight | ERP
+US | 2100 | 0.5384615384615384 | 0.06
+Brazil | 1800 | 0.46153846153846156 | 0.09
+3900 | 0.07384615384615384
+Cost of equity = | 0.12929467455621302
+After-tax cost of debt = | 0.03
+Debt ratio = | 0.3076923076923077
+Cost of capital = | 0.09874246700045516
+Problem 2
+Part a
+Initial investment = | -5000
+Annual cash flow
+Revenue | 4000 | 1. Did not treat depreciation correctly: -1 point
+EBITDA | 800 | 2. Forgot to take taxes: -1 point
+ - DA | 500 | 3. Wrong discount rate: -1 point
+EBIT | 300 | 4. Math errors: -1/2 point each
+ - Taxes | 120
+Aftertax EBIT | 180
+ + DA | 500
+After-tax Cash flow | 680
+NPV = | -635.9927632118715
+Part b
+Annual after-tax CF to break even = | 107.99247881705199 | 1. Did not compute annuity: -1 point
+Revenues= | 539.9623940852599 | ! Divide by after-tax margin | 2. Error in getting back to revenues from annuity: -1/2 point
+3. Wrong discount rate: -1/2 point
+Part c | Existing | New
+Expensed portion | 0 | 2000 | 1. Did not compute tax benefit from depreciaton: -1 point
+Tax savings from expensing | 0 | 800 | 2. Did not compute tax benefit from expensing: -1 point
+Depreciation each year | 500 | 600 | 3. Math errors: -1/2 point each
+Depreciation tax savings each year | 200 | 240 | NOTE: You don't have to redo all of the cash flows, since
+Number of years | 10 | 5 | only the depreciation changes. In fact, doing all of the 
+PV of tax savings | 1283.5315402318024 | 933.5163032044127 | cash flows will leave you with such a mess that it is very
+Change in NPV = | 449.98476297261027 | unlikely that you will get the right answer.
+Problem 3
+Part a
+Expected FCFF next year | 250 | 1. All or nothing
+Value of the firm | 5000
+Cost of equity & capital | 0.08399999999999999
+Value = 5000 = 250/(.084-g)
+Solving for g
+Expected growth rate = | 0.03399999999999999
+Part b
+New Debt | 2000 | 1. Did not compute savings per year: -1 point
+New Equity (with old firm value) | 3000 | 2. Used wrong debt ratio in computation: -1 point
+New D/E ratio = | 0.6666666666666666 | 3. Did not lever beta: -1 point
+New D/C ratio = | 0.4 | 4. Other errors: -1/2 point
+New levered beta = | 1.26
+Cost of equity = | 0.1056
+Cost of debt | 0.07
+Cost of capital =  | 0.08016000000000001
+Change in firm value = | 415.9445407279008
+Part c
+If the cash is paid out a as a special dividend, the number of  shares remains unchanged at 80 million
+New firm value | 5415.944540727901
+ - Debt | 2000 | All or nothing
+New Equity value | 3415.944540727901 | NOTE: When a dividend is paid, the stock price will drop
+New value per share = | 34.15944540727901 | by roughly the amount of the dividend (about $20/share)
+Part c
+New firm value = | 5415.944540727901 | 1. Did not set up for shares correctly: -1 point
+ - Debt | 2000 | Check your answer | 2. Did not adjust number of shares: -1 point
+Value of equity = | 3415.944540727901 | If buyback price = | 60.56807656684154 | 3. Other errors: -1/2 point each
+Let the stock buyback price be X | Number of share bought | 33.020695279845086 | NOTE: Many of you treated the given price as the buyback price.
+Number of shares bought back  | 2000/X | Remaining shares | 66.97930472015491 | It is not. It is the price of the remaining shares.
+Remaining shares = | 100-2000/X | Price per share = | 51
+Value to buyback shareholders = |  (X-50)*(2000/X)
+(100 -2000/X)*51= 3415.94 | Value of equity= | 3415.944540727901
+Solving for X
+X = | 60.56807656684154
+Problem 4
+1 | 2 | 3 | 1. Net income wrong: -1/2 point
+Net Margin | 0.12 | 0.14 | 0.16 | 2. Change in non-cash WC wrong: -1 point
+Total non-cash WC | 0.3 | 0.25 | 0.15 | 3. Other errors: -1/2 point
+Part a | 4. Error in getting to cash balance: -1 point
+Base | 1 | 2 | 3
+Revenues | 100 | 140 | 196 | 274.4
+Net Income | 10 | 16.8 | 27.44 | 43.903999999999996
+Capital expenditures | 40 | 46 | 52.9 | 60.834999999999994
+Depreciation | 12 | 15 | 18.75 | 23.4375
+Non-cash Working capital | 36 | 42 | 49 | 41.16
+Chg in noncash WC | 6 | 7 | -7.840000000000003
+FCFE | -20.2 | -13.71 | 14.346500000000006
+Cash balance | 45 | 24.8 | 11.09 | 25.436500000000006
+Part b
+Revenues | 100 | 140 | 196 | 274.4 | 1. Error on treating dividends: -1 point
+Net Income | 10 | 16.8 | 27.44 | 43.903999999999996 | 2. Error on new debt: -1 point
+Capital expenditures | 40 | 46 | 52.9 | 60.834999999999994 | 3. Error on cash balance: -1 point
+Depreciation | 12 | 15 | 18.75 | 23.4375
+Non-cash Working capital | 36 | 42 | 49 | 41.16
+Chg in noncash WC | 6 | 7 | -7.840000000000003
+New Debt | 4 | 4 | 4
+FCFE | -16.2 | -9.71 | 18.346500000000006
+ - Dividends paid | 3.3600000000000003 | 5.488 | 8.7808
+Cash balance | 45 | 25.44 | 10.242 | 19.807700000000008
+Desired cash balance at end of year 3 | 10
+Cash available for buybacks | 9.807700000000008
+Problem 5 | NOTE: The acquisitons are a wild card. The problem states that
+After-tax operating income | 10 | Cost of capital (high growth) = | 0.12 | there is one acquisition every five years and gives you the amount
+Book value of equity | 45 | Cost of capital (stable growth) = | 0.1 | The simplest solution is to average the amount and add it to your
+Book value of debt | 15 | reinvestment. That pushes up the reinvestment rate and growth
+Cash | 10 | 1. Did not compute expected growth: -1 point | rate.
+Invested capital | 50 | 2. Error on ROC: -1/2 point | Here i

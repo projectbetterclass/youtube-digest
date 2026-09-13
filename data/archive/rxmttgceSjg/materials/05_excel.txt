@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/betaRest.xls
+
+[legacy .xls workbook: betaRest.xls — see raw file]

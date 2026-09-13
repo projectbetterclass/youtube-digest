@@ -1,0 +1,498 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfexams/reviewFinalNew.pdf
+
+FINAL REVIEW
+It ain’t over till its over…
+Yogi Berra
+2
+The mechanics of beta
+Beta measures market risk
+Top-down: Regress stock returns against market return
+Slope coefficient is the beta
+Bottom up:
+1. Determine businesses that your firm operates in
+2. Get weights for each (based upon estimated value)
+3. Estimate unlevered betas by business
+- Find comparable publicly traded firms
+- Obtain regression betas and D/E ratio
+- Estimate unlevered beta
+Betas are weighted averages
+- Weights based upon market value
+Acquisitions
+1. Unlevered betas for firms 
+involved
+2. Weighted average (weights 
+based on firm values)
+3. Compute debt to equity ratio 
+for combined firm based upon 
+how acquisition was financed
+4. Compute a levered beta using 
+(2) and (3)
+Divestitures
+1. Estimate unlevered beta before 
+divestiture
+2. Obtain unlevered beta of 
+divested asset
+3. Based upon how the cash from 
+the divestiture is used, estimate 
+unlevered beta of the firm after 
+divestiture
+4. Compute the debt to equity ratio 
+after divestiture
+5. Estimate new levered beta
+Betas yield costs of 
+equity
+Cost of Equity =
+Riskfree Rate
++ Beta
+* Risk Premium
+To clean up a top-down
+beta, when there has
+been a change in leverage:
+1. Unlever the top-down beta 
+using the average D/E ratio
+during the regression period.
+2. Re-estimate levered beta 
+using todayʼs D/E ratio
+3
+From beta to cost of equity
+¨To get from beta to cost of equity, you need two other 
+inputs –a risk free rate and an equity risk premium:
+Cost of Equity = Risk free Rate + Beta (Equity Risk Premium)
+¨The risk free rate has to be in the currency that you 
+choose to do the analysis in. 
+¤If the currency has a default-free government issuing long term 
+bond, use the government bond rate.
+¤If the currency is issued by a government with default risk, you 
+need to net the default spread for that government from the 
+government bond rate.
+¨The equity risk premium should reflect the countries you 
+operate it, with weights reflecting your exposure; the 
+weights can be revenues or operation based.
+4
+Beta & Cost of Equity Calculation: An Example
+¨Sumi Inc. is an all-equity funded company that is 
+incorporated in Thailand but gets a large portion of its 
+revenue in the US, while operating in two businesses: 
+steel and chemicals. You have been provided the 
+geographic and business breakdown for the value of the 
+company in the table below (in millions of US$):
+The US treasury bond rate is 2.5% and the Thai US$ Government 
+bond rate is 4.5%.  Estimate the cost of equity for the companyin 
+US dollar terms.
+Country Steel Chemicals ERP for Country
+US $800 $200 5.00%
+Thailand $400 $100 7.25%
+Unlevered beta for business 1.20 0.90
+5
+Cost of equity calculation
+¨Risk free Rate = 2.5%
+¤What if you had been asked to compute cost of equity in Baht?
+¨Beta
+¨ERP
+¨Cost of Equity = 2.5% + 1.14 (5.75%) = 9.055%
+Business Unlevered beta Value Weights
+Steel 1.2 $1,200 80%
+Chemicals 0.9 $300 20%
+Company 1.14 $1,500 
+Levered Beta = 1.14 (1+ (1-t) (0)) = 1.14
+Country Value Weight ERP
+US $1,000 66.67% 5.00%
+Thailand $500 33.33% 7.25%
+Company 5.7500%
+6
+Cost of Capital
+Cost of Capital = Cost of Equity (Equity/(Debt + Equity)) + After-tax Cost of Debt (Debt/(Debt + Equity))
+Cost  of Equity
+Levered Beta
+Riskfree Rate
++ Beta
+* Risk Premium
+After-tax Cost of Debt
+Borrowing Rate * (1- tax rate)
+Borrowing Rate
+= Riskfree Rate
++ Default Spread
+Actual Rating Synthetic Rating
+Weights
+Market Value Firm vs.
+Project-specific
+Interest Coverage Ratio
+= EBIT/ Intererest Expense
+Value of Equity
+includes
+a. options
+b. convertibles
+c. common stock
+Value of Debt
+includes
+1. PV of book debt
+2. Operating leases PV
+Tax Rate is
+a marginal
+tax rate
+7
+An Example
+¨Collins Inc. is a publicly traded company with a market capitalization 
+(market value of equity) of $900 million and $100 million in interest-
+bearing debt. You have computed a cost of capital for the company based 
+on this mix:
+Reviewing your calculations, you realize that while the unlevered beta 
+(used to estimate a levered beta and a cost of equity) and cost of debt 
+estimates are right, you forgot to capitalize lease commitments, which 
+amount to $120 million a year, each year for the next ten years. If you 
+capitalize leases (and treat them as debt), estimate the correct cost of 
+capital for the company. (The riskfree rate is 3%, the equity risk premium 
+is 5% and the marginal tax rate is 40%) 
+Market Value (inUS$) % of Capital Cost of component
+Debt $100.00 10.00% 3.00% (after tax)
+Equity $900.00 90.00% 9.00%
+Capital $1,000.00 100.00% 8.400%
+8
+The Solution
+¨Start with the existing debt ratio and back out unlevered beta
+¤Debt/Equity = 10/90
+¤Levered Beta = 1.20 (Solve 9% = 3% + Beta* 5%)
+¤Unlevered Beta = 1.20 / (1+ (1-.40) (10/90)) = 1.125
+¨Convert leases to debt
+¤Pre-tax cost of debt = 5% (After-tax cost =3%)
+¤PV of leases = PV of $120 million for 10 years @5% = $927
+¨Lever beta back up at new debt ratio
+¤Levered beta = 1.125 (1+ (1-.4) (1027/900)) = 1.89
+¤Cost of equity = 3% + 1.89 (5%) = 12.47%
+¨Compute new cost of capital
+¤Debt to Capital = 1027/ (1027+900)) = 53.29%
+¤Cost of capital = 12.47% (.4671) + 3% (.5329) = 7.43%
+Is this a good project
+Cash Flows Earnings
+After-tax Operating 
+Earnings (EBIT (1-t))
+Net incomeCash Flow to Firm
+= EBIT(1-t)
++ Deprecn & Amort
+- Capital Maintenance
+- Change in Non-cash WC
+Cash Flow to Equity
+= Net Income
++ Deprecn & Amort
+- Capital Maintenance
+- Change in Non-cash WC
+- Principal Repaid
++ New Debt Issues
+Return on Capital
+= EBIT (1-t)/ Capital 
+Invested
+Return on Equity
+= Net Income/Equity 
+Invested
+Return Spread
+= ROC - Cost of 
+Capital
+Return Spread
+= ROE - Cost of 
+Equity
+EVA
+= Return Spread
+* Capital Invested
+Equity EVA
+= Return Spread
+* Equity Invested
+NPV
+= PV of Cash flow to Firm 
+at the Cost of Capital
+- Investment in Project
+Accept if >0
+IRR
+: Discount rate that makes
+PV of cash flow to firm equal
+to the Investment in project
+Compare to Cost of Capital
+NPV
+= PV of Cash flow to Equity  
+at the Cost of Equity
+- Equity Investment in 
+Project
+Accept if >0
+IRR
+: Discount rate that makes
+PV of cash flow to equity 
+equal to the Equity 
+Investment in project
+Compare to Cost of Equity
+10
+An Example
+¨You have been asked to estimate the NPV of an investment in a new 3-
+year venture for a telecom firm. 
+¤The initial investment is expected to be $1 billion and will be depreciated straight 
+line over three years to a salvage value of $100 million at the end of the third year .
+¤During the three years, working capital is expected to be 15% of revenues and the 
+investment has to be made at the start of each year; it can be fully salvaged at the 
+end of the project.
+¤The cost of capital for the investment is 9% and the tax rate is 30%.
+¤The project is expected to have the following revenues and EBITDA for the next 3 
+years (in millions of dollars)
+¨Calculate the NPV of this project.
+1 2 3
+Revenues $1,000.00 $1,200.00 $1,500.00 
+EBITDA $300.00 $400.00 $600.00
+11
+The Solution
+0 1 2 3
+Revenues $1,000.00 $1,200.0 $1,500.0
+EBITDA $300.00 $400.00 $600.00
+-DA $300.00 $300.00 $300.00
+EBIT $0.00 $100.00 $300.00
+-Taxes $0.00 $30.00 $90.00
+EBIT (1-t) $0.00 $70.00 $210.00
++ Depreciation $300.00 $300.00 $300.00
+-Cap Ex $1,000.00 -$100.00
+-Chg in WC $150.00 $30.00 $45.00 -$225.00
+FCFF -$1,150.00 $270.00 $325.00 $835.00
+PV of CF -$1,150.00 $247.71 $273.55 $644.77
+NPV $       16.03
+12
+Another Example
+¨Underpaid at your job, you are considering becoming an Uber 
+driver . While you believe that you can make $12/hour after 
+taxes and vehicle maintenance costs, driving 800 hours a year, 
+you also recognize that you will need to buy a more expensive 
+car (than the one you would normally buy) and that the car 
+will not last as long, if you drive for Uber:
+¨If your tax rate is 40% and your discount rate is 8%, estimate the annual 
+after-tax income you will earn as an Uber driver, with the incremental car 
+costs factored in. (You can assume that your income will stay constant 
+over time, as will the car related costs in this table)
+Without Uber With Uber
+Cost of car $15000 $25000
+Car life (in years) 5 3
+Salvage value (at end of life) $5,000 $4,000
+Depreciation method None Straight line for tax purposes
+13
+The solution
+Number of hours driven per year = 800
+Annual income (net of fuel and maintenance costs) = $                          9,600 
+Discount Rate = 8.00%
+Additional car cost (see below) = $                        (2,764)
+Annual income net of car cost = $                          6,836 
+Income earned per hour $                            8.54 
+Without Uber With Uber
+Cost of car $15000 $25000
+Years of life 5 3
+Salvage value $5,000 $4,000 
+Depreciation None Straight line
+NPV of car (without Uber) = -$11,597.08 -$14,608.80
+Annual cost $                        (2,905)$                         (5,669)
+14
+Leverage and Cost of Capital 
+Debt Ratio0% 99%
+Beta is unlevered  beta
+Cost of equity is cost of 
+capital
+As debt ratio increases, beta increases:
+Levered Beta = Unlevered Beta (1+ (1-t) (Debt/Equity))
+As debt ratio increases,
+interest expenses increase.
+Interest coverage ratio drops 
+and rating declines. This
+increases the cost of debt
+Cost of Capital = Cost of Equity (Equity/(Debt + Equity)) + After-tax Cost of Debt (Debt/(Debt + Equity))
+If interest expenses exceed
+the EBIT, the tax benefit will
+decline:
+Tax rate = EBIT/Interest Exp *Tax rate
+As cost of capital changes,
+Change in firm value = (Old Cost of capital - New Cost of Capital)(Current firm value)(1+g) /
+(New Cost of Capital-g)
+If investors are rational, increase in stock price = Change in firm value/ Total number of shares outstanding
+If stock can be bought at todayʼs price, Increase in stock price = Change in firm value/ Remaining shares 
+outstanding.
+Three key assumptions:
+1. Operating income remains unchanged as the debt ratio changes
+2. All existing debt is refinanced at the new cost of debt
+3. Debt is used to buy back stock rather than invest in projects
+15
+An Example
+¨Maxim Enterprises currently has the following capital 
+structure (with associated costs):
+¨The company is expected to generate $48 million in operating 
+income next year and face a marginal tax rate of 40% on 
+taxable income. 
+¨If Maxim borrows $400 million and buys back stock, you 
+believe that this will double the pre-tax cost of debt. Estimate 
+the cost of capital for the firm after the recapitalization. (The 
+risk free rate is 3% and the equity risk premium is 5%.) 
+Market Value Cost of Component (after taxes)
+Debt = $400.00 2.40%
+Equity = $600.00 9.30%
+Capital $1000.00 6.54%
+16
+The Solution
+¨Current cost of debt (pre-tax) 4%
+Current beta = (Solve 9.3% = 3% + Beta *5%) 1.2600
+New Debt = 800
+New Interest rate = 0.08
+New Interest expense = $64
+Tax rate (for use on cost of debt) = 40% * (48/64) = 30.00%
+New Equity= 200
+Unlevered beta = 0.9
+New beta = 3.42
+New cost of equity = 20.100%
+New cost of debt = 5.60%
+Cost of capital = 8.50%
+17
+Another Example
+¨Conway Inc. has 125 million shares, trading at 
+$8/share, no debt and a cost of equity of 9%. 
+¨You believe that if the company is able to borrow 
+$400 million and buy back shares, the cost of capital 
+will drop to 8%. 
+¨If there is no growth in the savings(from a lower 
+cost of capital) and the shares are bought back at 
+$10/share, estimate the value per share for the 
+remaining shares after the buyback.
+18
+The solution
+Current Share Price 8
+Number of shares outstanding 125
+Current cost of equity = 9.00%
+New cost of equity = 8.00%
+Borrowing 400
+Buyback price $10
+After buyback
+Old firm value = 1000
+Change in firm value = 1000 (.09-.08)/.08 = 125
+New firm value = 1125
+New Debt = 400
+New Equity = 725
+Shares outstanding after buyback 85
+Value per share after buyback $                            8.53
+19
+The Dividend Framework
+How much did you pay? How much could you have paid?
+Free Cash Flow to Equity
+= Net Income
+- (Net Cap Ex - Depreciation)
+- Change in non-cash WC
+- Debt Repaid
++ New Debt issued
+Cash Returned
+= Dividends
++ Stock Buybacks
+How much do we trust the management of this company?
+Project Performance Stock Price Performance
+Return Spreads
+ROE - Cost of Equity
+ROC - Cost of Capital
+EVA
+Equity EVA
+Capital EVA
+Actual Return on Stock
+= Price Appreciation
++ Dividends
+Expected Return on 
+Stock
+= Riskfree Rate
++ Beta * (Actual return on 
+the market - Riskfree 
+rate)
+20
+An Example
+¨Roslyn Inc. is a small, publicly traded company that had revenues of $250 
+million in the most recent year, while breaking even (a profit of zero).  
+¨Currently, the company has total working capital of $35 million, which 
+includes a cash balance of $25 million. The table below provides 
+estimates of revenues and net profit margins for the company, for the 
+next five years. 
+¨The company plans to keep its non-cash working capital, as a percent of 
+revenues, constant for the next five years and has no significant capital 
+expenditures or depreciation over that period. 
+¨If the company plans to return no cash in years 1 and 2, and pay out 40% 
+of net income as dividends in years 3-5, estimate how much of a cash 
+balance it will have at the end of year 5. 
+Year 1 2 3 4 5
+Revenue (in millions) $750.00 $1,000.00 $1,200.00 $1,350.00 $1,500.00 
+Net Profit Margin 2% 3% 4% 5% 6%
+21
+The Solution
+Most recent 
+year 1 2 3 4 5
+Revenues 250 $ 750.00 $  1,000.00 $  1,200.00 $  1,350.00 $  1,500.0 
+Net Margin 0% 2% 3% 4% 5% 6%
+Net Income $15.00 $30.00 $48.00 $67.50 $90.00
+Change in NC working capital $20.00 $10.00 $8.00 $6.00 $6.00
+FCFE -$5.00 $20.00 $40.00 $61.50 $84.00
+Dividends $19.20 $27.00 $36.00
+Cash Balance $25.00 $20.00 $40.00 $60.80 $95.30 $143.30
+To tal N C Wo rking Capital $10.00 $30.00 $40.00 $48.00 $54.00 $60.00
+22
+Valuation Mechanics
+Valuation
+Equity Firm
+Discount cash flows to equity at the cost of equity Discount cash flows to the firm at the cost of capital
+Cashflow to Equity Cost of Equity Cashflow to firm Cost of Capital
+Dividends
+FCFE
+= Net income
+- (Cap Ex - Depr) (1-DR)
+- Chg in WC (1-DR)
+EBIT(1-t)
+- (Cap ex - Deprecn)
+- Chg in non-cash WC
+= FCFF
+Growth
+Retention
+Ratio
+= 1 - Dividends/
+Earnings
+Return on
+Equity
+Growth in
+Operating income
+Reinvestment
+Rate
+= (Net Cap Ex
++ Chg in 
+WC)/EBIT(1-t)
+Return on
+Capital
+Direct
+Method
+= Net Income/ BV of 
+Equity
+Disaggregated
+ROE + ROC + D/E (ROC - i (1-t))
+23
+A Valuation Example
+¨You are trying to value Hollow Inc. and have estimated the 
+following cash flows for the firm for its high growth period:
+¨After year 3, Hollow Inc. is expected to be a mature firm, growing 
+2.5% a year in perpetuity with a cost of capital of 8%. If the 
+company will earn the same return on capital (as it is expected to 
+earn in years 1-3) in perpetuity, estimate the terminal value of the 
+firm, i.e.., the value of the firm at the of year 3. 
+Last year 1 2 3
+Growth Rate 7.5% 7.5% 7.5%
+EBIT (1-t) $100.00 $107.50 $115.56 $124.23 
++ Depreciation $20.00 $21.50 $23.22 $25.08 
+-Cap Ex $80.00 $86.00 $92.88 $100.31 
+FCFF $40.00 $43.00 $45.90 $49.00 
+Cost of capital 10% 10% 10%
+24
+The Solution
+Last year 1 2 3
+Expected Growth Rate 7.5% 7.5% 7.5%
+EBIT (1-t) $100.00 $107.50 $115.56$124.23
++ Depreciation $20.00 $21.50 $23.22 $25.08
+-Cap Ex $80.00 $86.00 $92.88$100.31
+FCFF $40.00 $43.00 $45.90 $49.00
+Cost of capital 10% 10% 10%
+Reinvestment Rate = 60%
+Return on capital = g/ Reinvestment Rate = 7.5%/60% = 12.5%
+Expected growth rate in perpetuity 2.50%
+Expected reinvestment rate in perpetuity = g/ ROC = 2.5%/12.5% 20%
+EBIT(1-t) in year 4 $127.33
+FCFF in year 4 = $101.86
+Te rm inal Value  =  $101.86/ (.08-.025) = $                     1,852.15 
+Year 1 2 3
+CF $43.00 $45.90 $49 + $1852.15 = $1,901.15
+PV $39.09 $37.94 $1,428.36
+Value today @ 10% $1,505.39

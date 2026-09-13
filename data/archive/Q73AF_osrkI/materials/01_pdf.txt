@@ -1,0 +1,100 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ViralUpdate7.pdf
+
+A VIRAL MARKET UPDATE VII: 
+MULTIPLE MAYHEM
+Revisiting the Pricing Game
+2
+The crisis (continued)
+¨ I get a sense that I am approaching the end of this series of weekly 
+posts, or perhaps I am just hoping that it is true, as the COVID crisis 
+continued to play out in markets in the last two weeks, albeit on a 
+more subdued scale and with a positive twist. 
+¨ In this post, I will, as in the prior weeks, update the prior weeks’ 
+market action (for two weeks, from April 4 to April 17) in different 
+asset classes, and within equities, across regions, sectors and stock 
+classifications. 
+¨ I will close this post by looking at how pricing tools, including a 
+range of multiples (from PE ratios to price to book to EV to EBITDA 
+multiples) will become shakier and less reliable in the aftermath of 
+the crisis, and suggest ways in which we can compensate for the 
+uncertainties.
+3
+The markets: Equities
+4
+The markets: Treasuries
+5
+The markets: Commodities
+6
+The markets last week: Gold & Bitcoin
+7
+The Price of Risk: Corporate Bonds
+8
+The Price of Risk: Equities
+9
+Equities: By Region
+10
+Equities: By Sector
+11
+Equities: Most & least damaged Industries
+12
+Equities: Net Debt Ratios
+13
+A Pricing Market?
+¨ In my earlier posts, I argued that just because uncertainty has 
+increased, there is no excuse for abandoning valuation first 
+principles or process and argued that you can still value 
+companies, albeit with a much wider range of outcomes. 
+¨ One common counter that I got to this argument was that 
+valuation was pointless, when the uncertainty was so great 
+and while most did not bother presenting alternatives, my 
+guess is that many will fall back on pricing metrics to decide 
+whether and what to buy or sell. 
+¨ Put simply, they will use a PE ratio or an enterprise value 
+multiple of EBITDA or sales to decide what stocks to buy or 
+sell, acting under the delusion that this will allow them to 
+escape having to make assumptions in the future.
+14
+Deconstructing Pricing
+15
+Consistency Rules
+¨ Equity/Firm: The first is that if the numerator is an equity value, the 
+denominator should be an equity value as well, while if the 
+numerator is a firm or enterprise value, the denominator has to be 
+an operating value. Thus, PE (market cap, an equity value, is 
+divided by earnings per share, an equity value) and EV to EBITDA 
+(EV is a market value of operating assets and EBITDA is a measure 
+of operating cash flow) are consistent, but Price to EBITDA is an 
+inconsistent abomination and Price to Sales is almost as badly 
+constructed.
+¨ Timing: The second is that multiples are constructed for 
+comparisons across companies, not as stand alone measures. It 
+follows therefore that you should be consistent in how you 
+measure your scaling variable (revenues, book value, earnings) 
+across companies. Thus, if you choose to use trailing earnings for 
+your company to compute PE, you have to use trailing earnings for 
+all your companies .
+16
+Determinants of Multiples
+17
+The Timing Effect: Pricing in a Crisis
+18
+Regional Pricing: The COVID effect
+19
+Sector Pricing: A COVID update
+20
+Pricing: A Wrap
+¨ As companies start to report their first quarter earnings, you are starting 
+to get a glimpse of the damage created by the crisis and my guess is that 
+you will start to see more analysts and companies start to forecast 
+forward numbers. 
+¤ For those companies where forward earnings are positive, you can switch to 
+forward PE ratios, but expect these numbers to be much, much higher than 
+historical norms. 
+¤ For those companies that have negative forward earnings, you will see revenue 
+multiples or creative variations on future earnings.
+¨ Later this year, as companies report numbers for the second and third 
+quarters of 2020, the trailing operating numbers will finally catch up with 
+the crisis, and you may be able to shift back to trailing multiples. 
+¨ Put simply, if you are abandoning or refusing to do intrinsic valuation, 
+because you feel uncomfortable with having to make assumptions, the 
+same uncertainty is going to pervade your pricing as well.

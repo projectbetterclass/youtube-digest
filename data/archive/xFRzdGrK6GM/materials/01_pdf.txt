@@ -1,0 +1,219 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/Brexit.pdf
+
+THE	LESSONS	FROM	BREXIT:	
+MARKETS,	EXPERTS,	NARRATIVE	
+&	GOVERNANCE
+Markets,	Experts,	Narratives	and	Governance
+2
+The	Background
+¨ Britain	joined	the	European	Common	Market	(the	
+precursor	to	the	EU)	in	1975	in	a	referendum,	where	
+two-thirds	of	the	voters	voted	yes.
+¨ While	it	has	continued	to	be	part	of	the	EU,	it	chose	
+not	to	adopt	the	Euro	as	a	currency	by	opting	out	of	
+the	Maastricht	Treaty	in	1992.
+¨ In	2014,	David	Cameron,	the	prime	minister ,	
+promised	as	a	lead-in	to	the	general	elections	to	put	
+the	question	of	whether	the	UK	should	stay	in	the	
+EU	for	a	referendum.
+3
+Remain	versus	Leave
+¨ The	Remain	camp:	The	Remain	camp	was	lead	by	
+David	Cameron	and	much	of	the	establishment,	but	
+it	split	the	parties	in	terms	of	backing.	
+¨ The	Leave	camp:	The	Leave	camp’s	most	visible	
+campaigners	were	two	conservatives,	Boris	Johnson	
+and	Michael	Gove,	but	its	most	ardent	promoter	was	
+Nigel	Farage,	the	leader	of	the	UKIP .
+4
+The	Direct	Casualty?
+The	British	 Pound	Collapses
+Date US	$ Euro Japanese	Y en
+6/20/16 1.4700 1.2968 152.4479
+6/21/16 1.4652 1.3025 153.5061
+6/22/16 1.4706 1.3056 154.9310
+6/23/16 1.4874 1.3091 158.0672
+6/24/16 1.3676 1.2319 139.7487
+%	Change	 on	6/24 -8.05% -5.90% -11.59%
+5
+The	Panic	Response
+-0.005
+0
+0.005
+0.01
+0.015
+0.02
+US	$ Euro UK	£ Japanese	Yen
+Government	Bond	Rates:	The	Brexit	 Effect	
+42392 42393
+6
+The	Repricing	of	Risk:	Sovereign	CDS	
+Spreads
+Sovereign	CDS	spreads	widen
+Region 6/23/16 6/24/16 %	Change
+Africa	&	Middle	East 406.2485 407.1188 0.62%
+Asia 167.9105 165.7926 3.56%
+Latin	America 599.7396 679.1382 -1.33%
+New	EU 119.9806 118.7129 2.11%
+Non-EU	 Europe 272.6850 269.5879 4.75%
+Old	EU 150.1081 130.7527 24.44%
+Other	 Developed 37.1733 32.5250 14.51%
+United	 States 23.4250 21.4350 9.28%
+Global 275.6589 283.5903 7.29%
+7
+Risk	Indicators
+18.37 18.48
+21.17
+17.25
+25.76
+34.22 34.47
+36.04
+32.06
+35.43
+0.00
+5.00
+10.00
+15.00
+20.00
+25.00
+30.00
+35.00
+40.00
+6/20/16 6/21/16 6/22/16 6/23/16 6/24/16
+Volatility	 Indices
+VIX	(US) VSTOXX	(Euro)
+8
+Stock	Market	Reaction:	Geography
+By	Geography
+Region 24-Jun-16 6/20-6/24 YTD
+Africa	&	Middle	East -1.01% 0.48% -11.81%
+Asia -1.92% -0.33% -10.78%
+Latin	America -1.27% 0.15% 5.93%
+New	EU -2.58% -0.70% 2.33%
+Non-EU	 Europe -2.23% -0.43% -3.10%
+Old	EU -7.62% -1.65% -16.89%
+Australia,	 NZ	&	Canada -1.93% -1.33% 0.17%
+United	 States -3.39% -1.50% -2.70%
+Global -2.92% -0.41% -6.66%
+9
+Stock	Market	Reaction:	Sector
+By	Sector
+Sector June	20-24 Last	year
+Consumer	 Discretionary -1.87% -3.34%
+Consumer	 Staples -1.18% 7.06%
+Energy -0.79% -19.86%
+Financials -1.12% -5.05%
+Healthcare -1.21% -9.17%
+Industrials 1.39% -6.22%
+Information	 Technology -2.22% -2.11%
+Materials -1.19% 24.62%
+NA -0.88% 5.49%
+Tel ec o m m u n i c a t i o n 	 S ervi c es -1.98% -3.47%
+Utilities 10.49% -2.54%
+10
+Stock	Market	Reaction:	Market	Cap
+By	Market	 Cap	Class	 (Globally)
+Market	 Cap 6/20-6/24 Last	year
+$10-$25	m -1.66% 1.14%
+$25-$50	m -2.16% 3.63%
+$50-$100	m -2.64% -1.04%
+$100	m		- $1	b -2.14% -4.17%
+$1- $5	b -2.00% -8.03%
+>	$5	b -2.36% -7.81%
+11
+The	Value	Effect
+Cash ﬂows from 
+existing investments  Value of Growth
+Risk free 
+Rate
+Risk Premium (Price 
+of Risk)
+VALUE
+Relocation, Reorganization & 
+Adjustment Costs Global Growth EffectsRegional Growth 
+Effects
+Central Banking 
+Interventions
+Effects on Equity Risk Premia 
+and Default Spreads
+Systemic Risk 
+Effects from 
+ﬁnancial services
+How much restructuring and moving 
+costs will ﬁrms face as a result of Brexit?
+How will Brexit affect UK real growth? EU 
+real growth? Global real growth?
+EU Domino 
+Effect (Other 
+Exits?)
+How much stress will 
+Brexit put banks 
+under?
+Will other EU 
+countries follow Britain 
+in exiting the EU?
+What will central banks do in 
+response to Brexit and how 
+will it affect risk free rates and 
+equity risk premiums?
+How will investors reprice risk as 
+a result of Brexit? How much of 
+this repricing is temporary? How 
+much is permanent?
+The Brexit Value Effect
+12
+1.	Markets	are	not	counting	machines
+13
+2.	The	Emptiness	of	Expertise
+1. The	Specialist	Syndrome:	Expertise	has	become	
+narrower	and	more	specialized	than	ever	before,	
+leading	to	prognosticators	who	are	incapable	of	seeing	
+the	big	picture.	
+2. Mistakes	are	public:	While	economic	experts	have	
+always	had	a	mixed	track	record	on	forecasting,	their	
+mistakes	now	are	not	only	more	visible	but	also	more	
+public	than	ever	before.	
+3. The	Global	Economy:	The	mistakes	experts	make	have	
+become	bigger	and	more	common	as	we	have	
+globalized,	partly	because	the	interconnections	
+between	economies	means	there	are	far	more	
+uncontrollable	variables	than	in	the	past.
+14
+3.	Narrative	versus	Numbers
+• Ironically,	stories	have	become	more	important	in	a	
+world	where	numbers	have	become	more	plentiful.	
+• In	the	Brexit	debate,	it	seemed	to	me	that	the	Leave	
+side	had	the	more	compelling	 narrative	(of	a	return	
+to	an	an	old	Britain	that	some	voters	found	
+appealing)	and	while	the	Remain	side	argued	that	
+this	narrative	was	not	plausible	in	today's	world,	its	
+counter	consisted	mostly	of	numbers	(the	costs	that	
+Britain	would	face	from	Brexit).
+15
+4.	The	Governance	Question
+¨ The	Political	Governance	 Divide:	 While	some	 (mostly	 on	the	
+winning	 side)	 celebrate	 the	 power	 of	free	 will,	 those	 who	 have	
+never	 trusted	people	 to	make	reasoned	 judgments	 on	their	futures	
+view	 the	vote	 as	vindication	 of	their	 fears.	
+¨ The	Corporate	Governance	 Divide:	 Divide	 between	 those	who	
+believe	 that	shareholders,	 as	the	owners	 of	public	corporations,	
+should	control	outcomes,	 at	one	end,	and	those	who	argue	that	
+incumbent	 managers	 and/or	insiders	 are	more	knowledgeable	
+about	businesses	 and	should	therefore	be	allowed	 to	operate	
+unencumbered,	 at	the	other.	
+¨ Democracy	 can	disappoint:	 In	a	democracy ,	 you	will	get	outcomes	
+you	 do	not	like	 and	throwing	 a	tantrum	 (as	some	 in	the	 Remain	
+camp	are	doing	right	now)	or	threatening	 to	move	 (to	Canada	 or	
+Switzerland)	 are	not	grown-up	 responses.
+16
+The	End	Game
+¨ The	Crisis	test:	Acting	in	the	midst	of	a	crisis	has	
+never	worked	for	me.	The	actions	that	I	take	when	I	
+am	panicked	are	more	likely	to	hurt	than	help	me.
+¨ The	Auto	Adjustment:	Markets	adjust	your	portfolio	
+to	the	new	reality.	If	you	do	more,	you	may	over	
+compensate.
+¨ The	Dangers	of	Bottom	Fishing:	Blind	contrarianism	
+versus	a	search	for	market	mistakes.
+¨ Canaries	in	the	Coal	Mine: If	there	is	a	systemic	 risk	
+problem,	it	will	show	up	in	the	banking	sector .

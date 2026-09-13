@@ -1,0 +1,567 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfspr20/session5slides.pdf
+
+78
+What is Risk?
+Aswath Damodaran
+78
+¨Risk, in traditional terms, is viewed as a ‘negative’. 
+Webster’s dictionary, for instance, defines risk as “exposing 
+to danger or hazard”. The Chinese symbols for risk, 
+reproduced below, give a much better description of risk
+危机
+¨The first symbol is the symbol for “danger”, while the second 
+is the symbol for “opportunity”, making risk a mix of danger 
+and opportunity. You cannot have one, without the other .
+¨Risk is therefore neither good nor bad. It is just a fact of life. 
+The question that businesses have to address is therefore not 
+whether to avoid risk but how best to incorporate it into their 
+decision making.
+79
+A good risk and return model should…
+Aswath Damodaran
+79
+1. It should come up witha measure of risk that applies to all assets 
+and not be asset-specific.
+2. It should clearly delineate what types of risk are rewarded and 
+what are not, andprovide a rationale for the delineation.
+3. It should come up withstandardized risk measures, i.e., an 
+investor presented with a risk measure for an individual asset 
+should be able to draw conclusions about whether the asset is 
+above-average or below-average risk.
+4. It should translate the measure of risk into a rate of return that 
+the investor should demand as compensation for bearing the risk.
+5. It should work well not only at explaining past returns, but also in 
+predicting future expected returns.
+80
+The Capital Asset Pricing Model
+Aswath Damodaran
+80
+1. Uses variance of actual returns around an expected 
+return as a measure of risk.
+2. Specifies that a portion of variance can be diversified 
+away, and that is only the non-diversifiable portion that 
+is rewarded.
+3. Measures the non-diversifiable risk with beta, which is 
+standardized around one.
+4. Translates beta into expected return -
+Expected Return =  Riskfreerate + Beta * Risk Premium
+5. Works as well as the next best alternative in most 
+cases.
+81
+1. The Mean-Variance Framework
+Aswath Damodaran
+81
+¨The variance on any investment measures the disparity 
+between actual and expected returns. 
+Expected Return
+Low Variance Investment
+High Variance Investment
+82
+How risky is Disney? A look at the past…
+Aswath Damodaran
+82
+-25.00%
+-20.00%
+-15.00%
+-10.00%
+-5.00%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+Oct-08
+Dec-08
+Feb-09
+Apr-09
+Jun-09
+Aug-09
+Oct-09
+Dec-09
+Feb-10
+Apr-10
+Jun-10
+Aug-10
+Oct-10
+Dec-10
+Feb-11
+Apr-11
+Jun-11
+Aug-11
+Oct-11
+Dec-11
+Feb-12
+Apr-12
+Jun-12
+Aug-12
+Oct-12
+Dec-12
+Feb-13
+Apr-13
+Jun-13
+Aug-13
+Returns on Disney -2008-2013 
+Average monthly return = 1.65%
+Average monthly standard deviation = 7.64%
+Average annual return = 21.70%
+Average annual standard deviation = 26.47%
+83
+Do you live in a mean-variance world?
+Aswath Damodaran
+83
+¨Assume that you had to pick between two investments. They 
+have the same expected return of 15% and the same 
+standard deviation of 25%; however, investment A offers a 
+very small possibility that you could quadruple your money, 
+while investment B’s highest possible payoff is a 60% return. 
+Would you
+a. be indifferent between the two investments, since they have the 
+same expected return and standard deviation?
+b. prefer investment A, because of the possibility of a high payoff?
+b. prefer investment B, because it is safer?
+¨Would your answer change if you were not told that there is a 
+small possibility that you could lose 100% of your money on 
+investment A but that your worst casescenario with 
+investment B is -50%?
+84
+2. The Importance of Diversification: Risk Types
+Aswath Damodaran
+84
+Actions/Risk that 
+affect only one 
+firm
+Actions/Risk that 
+affect all investments
+Firm-specific Market
+Projects may
+do better or
+worse than
+expected
+Competition
+may be stronger
+or weaker than
+anticipated
+Entire Sector
+may be affected
+by action
+Exchange rate
+and Political
+risk
+Interest rate,
+Inflation & 
+news about 
+economy
+Figure 3.5: A Break Down of Risk
+Affects few
+firms
+Affects many
+firms
+Firm can 
+reduce by
+Investing in lots 
+of projects
+Acquiring 
+competitors
+Diversifying 
+across sectors
+Diversifying 
+across countries
+Cannot affect
+Investors 
+can 
+mitigate by
+Diversifying across domestic stocks Diversifying across 
+asset classes 
+Diversifying globally
+85
+Why diversification reduces/eliminates 
+firm specific risk
+Aswath Damodaran
+85
+¨Firm-specific risk can be reduced, if not eliminated, by 
+increasing the  number of investments in your portfolio
+(i.e., by being diversified). Market-wide risk cannot. This 
+can be justified on either economic or statistical 
+grounds.
+¨On economic grounds, diversifying and holding a larger 
+portfolio eliminates firm-specific risk for two reasons-
+a. Each investment is a much smaller percentage of the portfolio, 
+muting the effect (positive or negative) on the overall 
+portfolio.
+b. Firm-specific actions can be either positive or negative. In a 
+large portfolio, it is argued, these effects will average out to 
+zero. (For every firm, where something bad happens, there will 
+be some other firm, where something good happens.)
+86
+The Role of the Marginal Investor
+Aswath Damodaran
+86
+¨The marginal investor in a firm is the investor who is 
+most likely to be the buyer or seller on the next trade 
+and to influence the stock price. 
+¨Generally speaking, themarginal investor in a stock has 
+to own a lot of stock and also trade that stock on a 
+regular basis.
+¨Since trading is required, the largest investor may not be 
+the marginal investor, especially if he or she is a 
+founder/manager of the firm (Larry Ellison at Oracle, 
+Mark Zuckerbergat Facebook)
+¨In all risk and return models in finance, we assume that 
+the marginal investor is well diversified.
+87
+Identifying the Marginal Investor in your firm…
+Aswath Damodaran
+87
+Percent of Stock held 
+by Institutions 
+Percent of Stock held by 
+Insiders 
+Marginal Investor 
+High Low Institutional Investor  
+High High Institutional Investor, with insider influence 
+Low High (held by 
+founder/manager of firm) 
+Tough to tell; Could be insiders but only if they 
+trade. If not, it could be individual investors. 
+Low High (held by wealthy 
+individual investor) 
+Wealthy individual investor, fairly diversified 
+Low Low Small individual investor with restricted 
+diversification
+88
+Gauging the marginal investor: Disney in 
+2013
+Aswath Damodaran
+89
+Extending the assessment of the investor 
+base
+¨In all five of the publicly traded companies that we 
+are looking at, institutions are big holders of the 
+company’s stock.
+Aswath Damodaran
+90
+3. The Limiting Case: The Market Portfolio
+Aswath Damodaran
+90
+¨The big assumptions & the follow up:Assuming diversification costs 
+nothing (in terms of transactions costs), and that all assets can be 
+traded, the limit of diversification is to hold a portfolio of every 
+single asset in the economy (in proportion to market value). This 
+portfolio is called the market portfolio. 
+¨The consequence:  Individual investors will adjust for risk, by 
+adjusting their allocations to this market portfolio and a riskless 
+asset (such as a T-Bill):
+Preferred risk level Allocation decision
+No risk 100% in T-Bills
+Some risk 50% in T-Bills; 50% in Market Portfolio;
+A little more risk 25% in T-Bills; 75% in Market Portfolio
+Even more risk 100% in Market Portfolio
+A risk hog.. Borrow money; Invest in market portfolio
+91
+4. The Risk & Expected Return of an 
+Individual Asset
+Aswath Damodaran
+91
+¨The essence: The risk of any asset is the risk that it adds to 
+the market portfolio Statistically, this risk can be measured by 
+how much an asset moves with the market (called the 
+covariance)
+¨The measure: Beta is a standardized measure of this 
+covariance, obtained by dividing the covariance of any asset 
+with the market by the variance of the market. It is a measure 
+of the non-diversifiable risk for any asset can be measured by 
+the covariance of its returns with returns on a market index, 
+which is defined to be the asset's beta.
+¨The result: The required return on an investment will be a 
+linear function of its beta:
+¤Expected Return = Riskfree Rate+ Beta * (Expected Return on the 
+Market Portfolio -Riskfree Rate)
+92
+Limitations of the CAPM
+Aswath Damodaran
+92
+1. The model makes unrealistic assumptions
+2. The parameters of the model cannot be estimated precisely
+¤The market index used can be wrong.
+¤The firm may have changed during the 'estimation' period'
+3. The model does not work well
+¤-If the model is right, there should be:  
+nA linear relationship between returns and betas
+nThe only variable that should explain returns is betas
+¤-The reality is that
+nThe relationship between betas and returns is weak 
+nOther variables (size, price/book value) seem to explain differences 
+in returns better .
+93
+Alternatives to the CAPM
+Aswath Damodaran
+93
+The risk in an investment can be measured by the variance in actual returns around an 
+expected return
+E(R)
+Riskless Investment Low Risk Investment High Risk Investment
+E(R) E(R)
+Risk that is specific to investment (Firm Specific) Risk that affects all investments (Market Risk)
+Can be diversified away in a diversified portfolio Cannot be diversified away since most assets
+1. each investment is a small proportion of portfolio are affected by it.
+2. risk averages out across investments in portfolio
+The marginal investor is assumed to hold a “diversified” portfolio. Thus, only market risk will 
+be rewarded and priced.
+The CAPM The APM Multi-Factor Models Proxy Models
+If there is 
+1. no private information
+2. no transactions cost
+the optimal diversified 
+portfolio includes every
+traded asset. Everyone
+will hold this market portfolio
+Market Risk = Risk 
+added by any investment 
+to the market portfolio:
+If there are no 
+arbitrage opportunities 
+then the market risk of
+any asset must be 
+captured by betas 
+relative to factors that 
+affect all investments.
+Market Risk = Risk 
+exposures of any 
+asset to market 
+factors
+Beta of asset relative to
+Market portfolio (from
+a regression)
+Betas of asset relative
+to unspecified market
+factors (from a factor
+analysis)
+Since market risk affects
+most or all investments,
+it must come from 
+macro economic factors.
+Market Risk = Risk 
+exposures of any 
+asset to macro 
+economic factors.
+Betas of assets relative
+to specified macro
+economic factors (from
+a regression)
+In an efficient market,
+differences in returns
+across long periods must
+be due to market risk
+differences. Looking for
+variables correlated with
+returns should then give 
+us proxies for this risk.
+Market Risk = 
+Captured by the 
+Proxy Variable(s)
+Equation relating 
+returns to  proxy 
+variables (from a
+regression)
+Step 1: Defining Risk
+Step 2: Differentiating between Rewarded and Unrewarded Risk
+Step 3: Measuring Market Risk
+94
+Why the CAPM persists…
+Aswath Damodaran
+94
+¨The CAPM, notwithstanding its many critics and limitations, 
+has survived as the default model for risk in equity valuation 
+and corporate finance. The alternative models that have been 
+presented as better models (APM, Multifactor model..) have 
+made inroads in performance evaluation but not in 
+prospective analysis because:
+¤The alternative models (which are richer) do a much better job than 
+the CAPM in explaining past return, but their effectiveness drops off 
+when it comes to estimating expected future returns (because the 
+models tend to shift and change).
+¤The alternative models are more complicated and require more 
+information than the CAPM.
+¤For most companies, the expected returns you get with the the 
+alternative models is not different enough to be worth the extra 
+trouble of estimating four additional betas.
+95
+Application Test: Who is the marginal investor in 
+your firm?
+Aswath Damodaran
+95
+¨You can get information on insider and institutional 
+holdings in your firm from:
+¤http://finance.yahoo.com/
+¤Enter your company’s symbol and choose profile.
+¨Looking at the breakdown of stockholders in your 
+firm, consider whether the marginal investor is
+¤An institutional investor 
+¤An individual investor
+¤An insider
+From Risk Models to Hurdle Rates:
+Estimation Challenges
+“The price of purity is purists…”
+Anonymous
+Aswath Damodaran 96
+97
+Inputs required to use the CAPM -
+Aswath Damodaran
+97
+¨The capital asset pricing model yields the following 
+expected return:
+¤Expected Return = RiskfreeRate+ Beta * (Expected Return 
+on the Market Portfolio -RiskfreeRate)
+¨To use the model we need three inputs:
+a. The current risk-free rate
+b. The expected market risk premium, the premium 
+expected for investing in risky assets, i.e. the market 
+portfolio, over the riskless asset.
+c. The beta of the asset being analyzed.
+98
+The Riskfree Rate and Time Horizon
+Aswath Damodaran
+98
+¨On a riskfree asset, the actual return is equal to the 
+expected return. Therefore, there is no variance around 
+the expected return.
+¨For an investment to be riskfree, i.e., to have an actual 
+return be equal to the expected return, two conditions 
+have to be met –
+¤There has to be no default risk, which generally implies that the 
+security has to be issued by the government. Note, however, 
+that not all governments can be viewed as default free.
+¤There can be no uncertainty about reinvestment rates, which 
+implies that it is a zero coupon security with the same maturity 
+as the cash flow being analyzed.
+99
+Riskfree Rate in Practice
+Aswath Damodaran
+99
+¨Definition: The riskfreerate is the rate on a zero coupon
+default-free bond matching the time horizon of the cash flow 
+being analyzed.
+¨Implication:Theoretically, this translates into using different 
+riskfreerates for each cash flow -the 1 year zero coupon rate 
+for the cash flow in  year 1, the 2-year zero coupon rate for 
+the cash flow in year 2  ...
+¨A Practical Solution: Practically speaking, if there is 
+substantial uncertainty about expected  cash flows, the 
+present value effect of using time varying riskfreerates is 
+small enough that it may not be worth it. 
+¨In corporate finance, almost everything we do is long term. 
+So, using a long termdefault free rate as the risk free rate 
+makes sense.
+100
+The Bottom Line on Riskfree Rates
+¨Currency Matching: The riskfreerate that you use in an analysis should be in 
+the same currency that your cashflows are estimated in. 
+¤In other words, if your cashflows are in U.S. dollars, your riskfreerate has to be in 
+U.S. dollars as well.
+¤If your cash flows are in Euros, your riskfreerate should be a Euro riskfreerate.
+¨ Just use the government bond rate?The conventional practice of estimating 
+riskfreerates is to use the government bond rate, with the government being 
+the one that is in control of issuing that currency. In November 2013, for 
+instance, the rate on a ten-year US treasury bond (2.75%) is used as the risk 
+free rate in US dollars.
+¨If the government is default-free, using a long term government rate 
+(even on a coupon bond) as the risk free rate on all of the cash flows in a 
+long term analysis will yield a close approximation of the true value. For 
+short term analysis, it is entirely appropriate to use a short term 
+government security rate as the riskfreerate.
+Aswath Damodaran
+101
+What is the Euro riskfree rate? An exercise 
+in November 2013
+Aswath Damodaran
+0.00%
+1.00%
+2.00%
+3.00%
+4.00%
+5.00%
+6.00%
+7.00%
+8.00%
+9.00%
+Germany Austria France Belgium Ir eland Italy Spain Po rtugal Slovenia Greece
+1.75%
+2.10% 2.15% 2.35%
+3.30%
+3.90% 3.95%
+5.90%
+6.42%
+8.30%
+Rate on 10-year Euro Government Bonds: November 2013
+102
+When the government is default free: Risk 
+free rates –in November 2013
+!
+Aswath Damodaran
+103
+What if there is no default-free entity?
+Risk free rates in November 2013
+¨Adjust the local currency government borrowing rate for default risk to 
+get a riskless local currency rate. 
+¤In November 2013, the Indian government rupee bond rate was 8.82%. the local 
+currency rating from Moody’s was Baa3 and the default spread for a Baa3 rated 
+country bond was 2.25%.
+Riskfreerate in Rupees = 8.82% -2.25% = 6.57%
+¤In November 2013, the Chinese Renmimbigovernment bond rate was 4.30% and 
+the local currency rating was Aa3, with a default spread of 0.8%.
+Riskfreerate in Chinese Renmimbi= 4.30% -0.8% = 3.5%
+¨Do the analysis in an alternate currency, where getting the riskfreerate is 
+easier . With Vale in 2013, we could choose to do the analysis in US dollars 
+(rather than estimate a riskfreerate in R$). The riskfreerate is then the 
+US treasury bond rate.
+¨Do your analysis in real terms, in which case the riskfreerate has to be a 
+real riskfreerate. The inflation-indexed treasury rate is a measure of a real 
+riskfreerate.
+Aswath Damodaran
+104
+Three paths to estimating sovereign 
+default spreads
+¤Sovereign dollar or euro denominated bonds: The difference 
+between the interest rate on a sovereign US $  bond, issued 
+by the country, and the US treasury bond rate can be used as 
+the default spread. For example, in November 2013, the 10-
+year Brazil US $ bond, denominated in US dollars had a yield 
+of 4.25% and the US 10-year T.Bond rate traded at 2.75%.
+Default spread = 4.25% -2.75% = 1.50%
+¨CDS spreads: Obtain the default spreads for sovereigns in the 
+CDS market. The CDS spread for Brazil in November 2013 was 
+2.50%. 
+¨Average spread: If you know the sovereign rating for a 
+country, you can estimate the default spread based on the 
+rating. In November 2013, Brazil’s rating was Baa2, yielding a 
+default spread of 2%.
+Aswath Damodaran
+104
+105
+Risk free rates in currencies: Sovereigns 
+with default risk in November 2013
+Aswath Damodaran
+105
+0.00%
+2.00%
+4.00%
+6.00%
+8.00%
+10.00%
+12.00%
+14.00%
+16.00%
+Taiwanes e $Czech KorunaHong Kong $
+Malaysia Ringgit
+British PoundKo rean Wo nIsraeli ShekelPo lish Zlo ty
+Chinese R emimbiPh illipine PesoChilean PesoMexican PesoColombian Peso
+Thai Baht
+Venezuelan Bolivar
+Russian Ruble
+Indonesian RupiahSout African Rand
+Turkish LiraIndian RupeePak istan i Rup eeNigerian NairaBrazilian $R
+Figure 4.2: Risk free rates in Currencies where Governments not Aaa 
+rated
+Default Spr ead
+Risk free rate

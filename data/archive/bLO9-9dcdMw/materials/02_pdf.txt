@@ -1,0 +1,74 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/session4Atest.pdf
+
+Session 4A: Post Class Test 
+1. The following is a histogram of investment-grade corporate bond annual returns from 1928 
+to 2020, with a normal distribution super-imposed on it, and a Q-Q plot for the data. Explain 
+whether you would feel comfortable assuming that corporate bond returns are normally 
+distributed and why or why not. 
+ 
+ 
+2. The link below contains data on operating profit margins for all software companies in 2020.  
+https://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/SoftwareMargins2020.
+xlsx 
+Using Excel or your favorite statistics package, 
+a. Does the data fit a normal distribution? 
+b. If not, what type of standard distribution (if any) will be the closest fit? 
+3. The link below contains data on dividend yields for all US power utilities in 2020.  
+0
+5
+10
+15
+20
+25
+30
+-0.2 To
+-0.15
+-0.15 To
+-0.1
+-0.1 To
+-0.05
+-0.05 To
+0
+0 To
+0.05
+0.05 To
+0.1
+0.1 To
+0.15
+0.15 To
+0.2
+0.2 To
+0.25
+0.25
+and
+over
+No. of obs.
+Histogram for " Baa Corporate Bond"
+-0.15
+-0.1
+-0.05
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+-0.2 -0.1 0 0.1 0.2 0.3
+Expected Value
+Baa Corporate Bond
+Normal Q-Q Plot -Baa Corporate Bond
+https://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/UtilityDivYld2020.xlsx 
+Using Excel or your favorite statistics package, estimate 
+a. Does the data fit a normal distribution? 
+b. If not, what type of standard distribution (if any) will be the closest fit? 
+4. The link below contains data on the US consumer price index, each year from 1960 to 2020.  
+https://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/CPI2020.xlsx 
+Using Excel or your favorite statistics package, estimate 
+a. Does the data fit a normal distribution? 
+b. If not, what type of standard distribution (if any) will be the closest fit? 
+5. The link below contains data on the price to book ratios of US banks in 2020.  
+https://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/USBanks2020.xlsx 
+Using Excel or your favorite statistics package, estimate 
+a. Does the data fit a normal distribution? 
+b. If not, what type of standard distribution (if any) will be the closest fit?

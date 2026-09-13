@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/implprem/ERPJan18.xls
+
+[legacy .xls workbook: ERPJan18.xls — see raw file]

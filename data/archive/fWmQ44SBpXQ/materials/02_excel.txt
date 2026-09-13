@@ -1,0 +1,630 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/TeslaJune2019.xlsx
+
+Sheet: Input sheet
+Date of valuation | 2019-06-01 00:00:00 | Important: Before you run this spreadsheet, go into preferences in Excel and check under Calculation options
+Company name | Tesla | There should be a check against the iteration box. If there is not, you will get circular reasoning errors.
+Numbers from your base year below ( in consistent units)
+This year | Last year
+Country of incorporation | United States
+Industry (US) | Auto & Truck
+Industry (Global) | Auto & Truck | Last 10K | Years since last 10K
+Revenues | 22594 | 21461 | 0.25
+Operating income or EBIT | -134.2 | -252.8 | 0.25
+Interest expense | 690 | 653.2
+Book value of equity | 4605.6 | 4923.2
+Book value of debt | 12703 | 13827.3
+Do you have R&D expenses to capitalize? | Yes |  If you want to capitalize R&D, you have to input the numbers into the R&D worksheet. 
+Do you have operating lease commitments? | Yes | If you have operating leases, please enter your lease commitments in the lease worksheet below and I will convert to debt
+Cash and Marketable Securities | 2198 | 3685.6
+Cross holdings and other non-operating assets | 0 | 0
+Minority interests | 862 | 835
+Number of shares outstanding = | 176.42
+Current stock price = | 185.5 | Computed numbers: Here is what your company's numbers look like, relative to industry.
+Effective tax rate = | 0.25 | If you are not working in US dollars, you should add the inflation differential to the industry averages.
+Marginal tax rate = | 0.25 | Company | Industry (US data) | Industry (Global data)
+Value Drivers are below | Revenue growth in the most recent year = | 0.22849298096376902 | 0.16507666666666665 | 0.0927514705882353
+Years 1-2 | Years 3-5 | Pre-tax operating margin in the most recent year = | 0.019791921811944887 | 0.04206362243816362 | 0.059248527068121816
+Compounded annual revenue growth rate over next 5 years = | 0.3 | 0.19999999999999998 | Sales to capital ratio in most recent year = | 1.1235586715545605 | 0.9015093203282659 | 1.152696927781891
+Target pre-tax operating margin (EBIT as % of sales in year 10) = | 0.1 | Profitability Lever | Return on invested capital in most recent year= | 0.016678039033905395 | 0.036331887293582985 | 0.05790892655448848
+Year of convergence | 5 | Speed of convergence level | Standard deviation in stock prices = | 0.38244580488334956 | 0.31548099167202925
+Years 1-5 | Years 6-10 | Cost of capital = | 0.04580513681079275 | 0.07882695052237973
+Sales to capital ratio  (for computing reinvestment) = | 2 | 1.5
+Market numbers  | Valuation Output Feedback (for you to use to fine tune your inputs, if you want)
+Riskfree rate | 0.0226 | Revenues in year 10, based on your revenue growth = | 104966.94218771813
+Initial cost of capital = | 0.07867637338915909 | Pre-tax Operating Income in year 10, based on your operating margin = | 10496.694218771814
+Other inputs | Return on invested capital in year 10, based on your sales/capital ratio = | 0.12801898083617608
+Do you have employee options outstanding? | Yes | Check the Diagnostics worksheet for more details.
+Number of options outstanding = | 32
+Average strike price = | 350
+Average maturity = | 5
+Standard deviation on stock price = | 0.4
+Default assumptions. 
+In stable growth, I will assume that your firm will have a cost of capital similar to that of typical mature companies (riskfree rate + 4.5%)
+Do you want to override this assumption = | Yes | Mature companies generally see their risk levels approach the average
+If yes, enter the cost of capital after year 10 = | 0.08 | Though some sectors, even in stable growth, may have higher risk.
+I will assume that your firm will earn a return on capital equal to its cost of capital after year 10. I am assuming that whatever competitive advantages you have today will fade over time.
+Do you want to override this assumption = | Yes | Mature companies find it difficult to generate returns that exceed the cost of capital
+If yes, enter the return on capital you expect after year 10 | 0.1 | But there are significant exceptions among companies with long-lasting competitive advantages.
+I will assume that your firm has no chance of failure over the foreseeable future.
+Do you want to override this assumption = | Yes | Many young, growth companies fail, especially if they have trouble raising cash. Many distressed companies fail, because they have trouble making debt payments.
+If yes, enter the probability of failure = | 0.2 | Tough to estimate but a key input.
+What do you want to tie your proceeds in failure to? | V | B: Book value of capital, V= Estimated fair value for the company
+Enter the distress proceeds as percentage of book or fair value | 0.5 | This can be zero, if the assets will be worth nothing if the firm fails.
+I will assume that your effective tax rate will adjust to your marginal tax rate by your terminal year. If you override this assumption, I will leave the tax rate at your effective tax rate.
+Do you want to override this assumption = | No
+I will assume that you have no losses carried forward from prior years ( NOL) coming into the valuation. If you have a money losing company, you may want to override tis.
+Do you want to override this assumption = | Yes | Check the financial statements.
+If yes, enter the NOL that you are carrying over into year 1 | 7300 | An NOL will shield your income from taxes, even after you start making money.
+I will assume that the growth rate in perpetuity will be equal to the risk free rate. This allows for both valuation consistency and prevents "impossible" growth rates.
+Do you want to override this assumption = | No
+If yes, enter the growth rate in perpetuity | 0.01 | This can be negative, if you feel the company will decline (and disappear) after growth is done. If you let it exceed the risk free rate, you are on your own in uncharted territory.
+I have assumed that none of the cash is trapped (in foreign countries) and that there is no additional tax liability coming due and that cash is a neutral asset.
+Do you want to override this assumption | No
+If yes, enter trapped cash (if taxes) or entire balance (if mistrust) | 140000 | Cash that is trapped in foreign markets (and subject to additoinal tax) or cash that is being discounted by the market (because of management mistrust)
+& Average tax rate of the foreign markets where the cash is trapped | 0.15 | Additional tax rate due on trapped cash or discount being applied to cash balance because of mistrust.
+
+Sheet: Valuation output
+Base year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Terminal year
+Revenue growth rate | 0.3 | 0.3 | 0.19999999999999998 | 0.19999999999999998 | 0.19999999999999998 | 0.16452 | 0.12904 | 0.09355999999999999 | 0.05807999999999999 | 0.02259999999999998 | 0.0226
+Revenues | 22594 | 29372.2 | 38183.86 | 45820.632 | 54984.7584 | 65981.71007999999 | 76837.02102236159 | 86752.07021508712 | 94868.59390441068 | 100378.56183837884 | 102647.1173359262 | 104966.94218771813
+EBIT (Operating) margin | 0.019791921811944887 | 0.03583353744955592 | 0.05187515308716694 | 0.06791676872477796 | 0.08395838436238898 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1
+EBIT (Operating income) | 447.17868141908275 | 1052.5098286758464 | 1980.7935829589503 | 3111.9892663671603 | 4616.431479820296 | 6598.171007999999 | 7683.702102236159 | 8675.207021508713 | 9486.859390441068 | 10037.856183837885 | 10264.711733592621 | 10496.694218771814 | 10049.51553735273
+Tax rate | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25
+EBIT(1-t) | 335.38401106431206 | 1052.5098286758464 | 1980.7935829589503 | 3111.9892663671603 | 3751.0004403647326 | 4948.628256 | 5762.776576677119 | 6506.4052661315345 | 7115.144542830802 | 7528.392137878413 | 7698.533800194466 | 7872.52066407886
+ - Reinvestment | 3389.1000000000004 | 4405.83 | 3818.3859999999986 | 4582.0632000000005 | 5498.4758399999955 | 5427.6554711807985 | 4957.524596362768 | 4058.261844661778 | 2754.9839669840803 | 1134.277748773682 | 1779.1896700818222 | 41805.74833804493
+FCFF | -2336.5901713241537 | -2425.0364170410494 | -706.3967336328383 | -831.0627596352679 | -549.8475839999955 | 335.1211054963205 | 1548.880669768767 | 3056.8826981690236 | 4773.408170894333 | 6564.2560514207835 | 6093.330993997038
+NOL | 7300 | 6247.490171324153 | 4266.696588365203 | 1154.7073219980425 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Cost of capital | 0.07867637338915909 | 0.07867637338915909 | 0.07867637338915909 | 0.07867637338915909 | 0.07867637338915909 | 0.07894109871132728 | 0.07920582403349546 | 0.07947054935566365 | 0.07973527467783184 | 0.08000000000000003 | 0.08
+Cumulated discount factor | 0.9270621148936812 | 0.8594441648711449 | 0.7967581251184772 | 0.7386442725310597 | 0.6847691214467488 | 0.6346677518027887 | 0.5880877749813649 | 0.5447927924781225 | 0.5045614469163991 | 0.4671865249225918
+PV(FCFF) | -2166.164225867559 | -2084.183398225958 | -562.8273370791165 | -613.8597475184473 | -376.5186470252944 | 212.6905586070149 | 910.8777867959603 | 1665.36766141356 | 2408.477733429007 | 3066.73197336537
+Terminal cash flow | 6093.330993997038
+Terminal cost of capital | 0.08
+Terminal value | 106155.59222991354
+PV(Terminal value) | 49594.46223499299
+PV (CF over next 10 years) | 2460.5923578945376
+Sum of PV | 52055.05459288753
+Probability of failure = | 0.2
+Proceeds if firm fails = | 26027.527296443764
+Value of operating assets = | 46849.54913359878
+ - Debt | 13796.199230066419
+ - Minority interests | 862
+ +  Cash | 2198
+ + Non-operating assets | 0
+Value of equity | 34389.34990353236
+ - Value of options | 805.1620268507411
+Value of equity in common stock | 33584.18787668162
+Number of shares | 176.42
+Estimated value /share | 190.36496925905013
+Price | 185.5
+Price as % of value | 0.9744439889440486
+Implied variables | After year 10
+Sales to capital ratio | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2
+Invested capital | 20109.319230066416 | 23498.419230066414 | 27904.249230066416 | 31722.635230066415 | 36304.69843006642 | 41803.17427006642 | 47230.82974124722 | 52188.354337609984 | 56246.61618227176 | 59001.60014925584 | 60135.877898029525
+ROIC | 0.016678039033905395 | 0.044790665209051665 | 0.07098537454376928 | 0.09809996060534235 | 0.10331997241597443 | 0.11837924613163922 | 0.12201302852921132 | 0.12467159290061457 | 0.12649906831325805 | 0.12759640617939014 | 0.12801898083617608 | 0.1
+
+Sheet: Stories to Numbers
+Tesla | 2019-06-01 00:00:00
+A Teenage Phenom faces growing (up) pains!
+Tesla will  grow as a high-end auto company, deilivering $100 billion in revenues in year 10. In the face of stronger competition, Tesla's brand name and batter technology will allow it to deliver on profitability (with margins in the 75th percentile of auto firms) and raise enough capital to cover its large reinvestment needs for much of the next decade. While Tesla's operating risk will move towards average over time, its debt burden puts it at risk of default, and that risk has risen to 20%. There is a floor to operating value at $35-$40 billion, at which the firm will be attractive as an acqusition target to an auto or (more likely) a large tech firm. Overlying all of this is the danger that Elon Musk will put the company's potential at risk, by either over reaching on product offerings or committing financial malpractice. | Tell your story about the company. Keep it focuses on the company's businesses and tie it into the three key levers of value: cash flows, growth and risk
+The Assumptions
+Base year | Years 1-5 | Years 6-10 | After year 10 | Link to story
+Revenues (a) | 22594 | 0.3 | 0.0226 | 0.0226 | Tie each assumption to the part of your story that relates to it.
+Operating margin (b) | 0.019791921811944887 | 0.019791921811944887 | 0.1 | 0.1
+Tax rate | 0.25 | 0.25 | 0.25 | 0.25
+Reinvestment (c ) | Sales to capital ratio = | 2 | RIR = | 0.22599999999999998
+Return on capital | 0.016678039033905395 | Marginal ROIC = | 0.2452754715591226 | 0.1
+Cost of capital (d) | 0.07867637338915909 | 0.08 | 0.08
+The Cash Flows
+Revenues | Operating Margin | EBIT | EBIT (1-t) | Reinvestment  | FCFF | These are the numbers that come from your assumptions. The revenues over time reflect your revenue growth, the operating margins evolve towards your target margin and your tax rate will change, if you have set it to. The reinvestment is estimated using the sales to capital ratio for the first 10 years and based on a reinvestment rate in stable growth (g/ ROC).
+1 | 29372.2 | 0.03583353744955592 | 1052.5098286758464 | 1052.5098286758464 | 3389.1000000000004 | -2336.5901713241537
+2 | 38183.86 | 0.05187515308716694 | 1980.7935829589503 | 1980.7935829589503 | 4405.83 | -2425.0364170410494
+3 | 45820.632 | 0.06791676872477796 | 3111.9892663671603 | 3111.9892663671603 | 3818.3859999999986 | -706.3967336328383
+4 | 54984.7584 | 0.08395838436238898 | 4616.431479820296 | 3751.0004403647326 | 4582.0632000000005 | -831.0627596352679
+5 | 65981.71007999999 | 0.1 | 6598.171007999999 | 4948.628256 | 5498.4758399999955 | -549.8475839999955
+6 | 76837.02102236159 | 0.1 | 7683.702102236159 | 5762.776576677119 | 5427.6554711807985 | 335.1211054963205
+7 | 86752.07021508712 | 0.1 | 8675.207021508713 | 6506.4052661315345 | 4957.524596362768 | 1548.880669768767
+8 | 94868.59390441068 | 0.1 | 9486.859390441068 | 7115.144542830802 | 4058.261844661778 | 3056.8826981690236
+9 | 100378.56183837884 | 0.1 | 10037.856183837885 | 7528.392137878413 | 2754.9839669840803 | 4773.408170894333
+10 | 102647.1173359262 | 0.1 | 10264.711733592621 | 7698.533800194466 | 1134.277748773682 | 6564.2560514207835
+Terminal year | 104966.94218771813 | 0.1 | 10496.694218771814 | 7872.52066407886 | 1779.1896700818222 | 6093.330993997038
+The Value
+Terminal value | 106155.59222991354 | This is the output from your valuation. It reflects your cash flows being discounted back at the cost of capital to get to your operating asset value, which then gets adjusted for the likelihood that your firm will not make it. We add cash and non-operating assets, subtract out debt and minority interests to get to value of equity.
+PV(Terminal value) | 49594.46223499299
+PV (CF over next 10 years) | 2460.5923578945376
+Value of operating assets = | 52055.05459288753
+Adjustment for distress | 5205.505459288746 | Default probability (based on rating) = | 0.2
+ - Debt & Mnority Interests | 14658.199230066419
+ + Cash & Other Non-operating assets | 2198
+Value of equity | 34389.34990353236
+ - Value of equity options | 805.1620268507411 | 32 million options (CEO package & convertibles), deep out of the money right now.
+Number of shares | 176.42
+Value per share | 190.36496925905013 | Stock was trading at = | 185.5
+
+Sheet: Diagnostics
+VALUATION DIAGNOSTICS
+Invested capital at start of valuation | 20109.319230066416
+Invested capital at end of valuation | 60135.877898029525
+Change in invested capital over 10 years | 40026.55866796311
+Change in EBIT*(1–t) (after-tax operating income) over 10 years | 9817.533052173538
+Marginal ROIC over 10 years | 0.2452754715591226
+ROIC at end of valuation | 0.12801898083617608
+Average WACC over the 10 years (compounded) | 0.0790733558620691
+Your calculated value as a percent of current price | 1.0262262493749332
+Inputs | If calculated value is negative or looks too low | If calculated value looks too high
+Revenue growth rate (input cell B3) | Increase revenue growth rate | Decrease revenue growth rate
+Last period EBIT as % of revenue (Input cell B14) | Increase the target pre-tax operating margin | Decrease the target pre-tax operating margin
+Sales to Capital Ratio or reinvestment (Input cell B15) | Decrease the sales/capital ratio | Increase the sales/capital ratio
+Return on capital in perpetuity (B30 & B31) | Increase relative to your cost of capital | If higher than your cost of capital, lower towards your cost of capital | T
+
+Sheet: Summary Sheet
+Year | Revenues | Revenue Growth Rate | Pre-Tax Operating Margin | Pre-Tax Operating Income | NOL | Taxes | After-Tax Operating Income
+Traling 12 month | 22594 | 0.019791921811944887 | 447.17868141908275 | 7300 | 111.79467035477069 | 335.38401106431206
+1 | 29372.2 | 0.3 | 0.03583353744955592 | 1052.5098286758464 | 6247.490171324153 | 0 | 1052.5098286758464
+2 | 38183.86 | 0.30000000000000004 | 0.05187515308716694 | 1980.7935829589503 | 4266.696588365203 | 0 | 1980.7935829589503
+3 | 45820.632 | 0.19999999999999996 | 0.06791676872477796 | 3111.9892663671603 | 1154.7073219980425 | 0 | 3111.9892663671603
+4 | 54984.7584 | 0.19999999999999996 | 0.08395838436238898 | 4616.431479820296 | 0 | 865.4310394555632 | 3751.0004403647326
+5 | 65981.71007999999 | 0.19999999999999973 | 0.1 | 6598.171007999999 | 0 | 1649.5427519999994 | 4948.628256
+6 | 76837.02102236159 | 0.16452 | 0.1 | 7683.702102236159 | 0 | 1920.9255255590397 | 5762.776576677119
+7 | 86752.07021508712 | 0.12904000000000004 | 0.1 | 8675.207021508713 | 0 | 2168.801755377179 | 6506.4052661315345
+8 | 94868.59390441068 | 0.09356000000000009 | 0.1 | 9486.859390441068 | 0 | 2371.7148476102666 | 7115.144542830802
+9 | 100378.56183837884 | 0.05807999999999991 | 0.1 | 10037.856183837885 | 0 | 2509.464045959471 | 7528.392137878413
+10 | 102647.1173359262 | 0.022599999999999953 | 0.1 | 10264.711733592621 | 0 | 2566.177933398156 | 7698.533800194466
+Year | After-Tax Operating Income | Change in Revenues | Sales to Capital | Reinvestment | FCFF | Capital Invested | Implied ROC
+Traling 12 month | 335.38401106431206 | 20109.319230066416 | 0.016678039033905395
+1 | 1052.5098286758464 | 6778.200000000001 | 2 | 3389.1000000000004 | -2336.5901713241537 | 23498.419230066414 | 0.044790665209051665
+2 | 1980.7935829589503 | 8811.66 | 2 | 4405.83 | -2425.0364170410494 | 27904.249230066416 | 0.07098537454376928
+3 | 3111.9892663671603 | 7636.771999999997 | 2 | 3818.3859999999986 | -706.3967336328383 | 31722.635230066415 | 0.09809996060534235
+4 | 3751.0004403647326 | 9164.126400000001 | 2 | 4582.0632000000005 | -831.0627596352679 | 36304.69843006642 | 0.10331997241597443
+5 | 4948.628256 | 10996.951679999991 | 2 | 5498.4758399999955 | -549.8475839999955 | 41803.17427006642 | 0.11837924613163922
+6 | 5762.776576677119 | 10855.310942361597 | 2 | 5427.6554711807985 | 335.1211054963205 | 47230.82974124722 | 0.12201302852921132
+7 | 6506.4052661315345 | 9915.049192725535 | 2 | 4957.524596362768 | 1548.880669768767 | 52188.354337609984 | 0.12467159290061457
+8 | 7115.144542830802 | 8116.523689323556 | 2 | 4058.261844661778 | 3056.8826981690236 | 56246.61618227176 | 0.12649906831325805
+9 | 7528.392137878413 | 5509.967933968161 | 2 | 2754.9839669840803 | 4773.408170894333 | 59001.60014925584 | 0.12759640617939014
+10 | 7698.533800194466 | 2268.555497547364 | 2 | 1134.277748773682 | 6564.2560514207835 | 60135.877898029525 | 0.12801898083617608
+Year | Beta | Cost of Equity | Pre-Tax Cost of Debt | Tax Savings | After-Tax Cost of Debt | Debt Ratio | Cost of Capital
+1 | 0.07867637338915909
+2 | 0.07867637338915909
+3 | 0.07867637338915909
+4 | 0.07867637338915909
+5 | 0.07867637338915909
+6 | 0.07894109871132728
+7 | 0.07920582403349546
+8 | 0.07947054935566365
+9 | 0.07973527467783184
+10 | 0.08000000000000003
+Year | Cost of Capital | Cumulated Cost of Capital | FCFF | Terminal Value | Present Value
+1 | 0.07867637338915909 | 1.0786763733891591 | -2336.5901713241537 | -2166.164225867559
+2 | 0.07867637338915909 | 1.1635427185079885 | -2425.0364170410494 | -2084.1833982259586
+3 | 0.07867637338915909 | 1.2550860398835604 | -706.3967336328383 | -562.8273370791167
+4 | 0.07867637338915909 | 1.3538316577929603 | -831.0627596352679 | -613.8597475184475
+5 | 0.07867637338915909 | 1.4603462228075437 | -549.8475839999955 | -376.51864702529446
+6 | 0.07894109871132728 | 1.575627558134908 | 335.1211054963205 | 212.69055860701496
+7 | 0.07920582403349546 | 1.7004264372468676 | 1548.880669768767 | 910.8777867959604
+8 | 0.07947054935566365 | 1.83556026035377 | 3056.8826981690236 | 1665.3676614135602
+9 | 0.07973527467783184 | 1.9819191619007905 | 4773.408170894333 | 2408.477733429007
+10 | 0.08000000000000003 | 2.140472694852854 | 6564.2560514207835 | 106155.59222991354 | 52661.19420835836
+Value of operating assets = | 52055.05459288753
+
+Sheet: Option value
+Valuing Options or Warrants
+Enter the current stock price = | 185.5
+Enter the strike price on the option = | 350
+Enter the expiration of the option = | 5
+Enter the standard deviation in stock prices = | 0.4 | (volatility)
+Enter the annualized dividend yield on stock = | 0
+Enter the treasury bond rate = | 0.0226
+Enter the number of warrants (options) outstanding = | 32
+Enter the number of shares outstanding = | 176.42
+Do not input any numbers below this line
+VALUING WARRANTS WHEN THERE IS DILUTION
+Stock Price= | 185.5 | # Warrants issued= | 32
+Strike Price= | 350 | # Shares outstanding= | 176.42
+Adjusted S = | 160.88221872589358 | T.Bond rate= | 0.0226
+Adjusted K = | 350 | Variance= | 0.16000000000000003
+Expiration (in years) = | 5 | Annualized dividend yield= | 0
+Div. Adj. interest rate= | 0.0226
+d1 =  | -0.29545235273249804
+N (d1) = | 0.3838241727494213
+d2 =  | -1.1898795437324141
+N (d2) = | 0.1170468698455458
+Value per option =  | 25.16131333908566
+Value of all options outstanding = | 805.1620268507411
+
+Sheet: Cost of capital worksheet
+You can use this spreadsheet to compute your cost of capital. You can either use the built-in data to compute key inputs (beta, equity risk premium, default spread) or enter them directly. If you choose to use the built in ERP data, you can update the ERP numbers to reflect a more current mature market premuum (since the spreadsheet uses the start of the year numbers).
+Estimation of Current Cost of Capital | Operating Countries ERP calculator
+Inputs | Country | Revenues | ERP | Weight | Weighted ERP
+Equity | United States of America | 5622.731 | 0.0553 | 0.7781341186548693 | 0.04303081676161427 | The last two rows in each of country/region risk premium tables is set aside for your input to provide you with flexibility to enter some numbers directly. For instance, assume that you have a company that breaks its revenues down into three countries and then puts the rest into "Rest of the World". You can enter the "Rest of the World" in one of these two rows and enter an equity risk premium for the rest of the world. The easiest way to do that is to go into the country equity risk premium worksheet and change the GDP for the three countries that you have data for to zero and compute the global weighted average ERP for the remaining countries. With the regional worksheet, you can use the last two rows to enter the data for an individual country (usually the domestic country) that might be broken out though the rest of the revenues are broken down by region. You can look up the ERP for the country in the country ERP worksheet.
+Number of Shares outstanding = | 176.42 | China | 311.915 | 0.06506681675370515 | 0.043166159579790246 | 0.0028086845953394063
+Current Market Price per share = | 185.5 | Netherlands | 338.761 | 0.0553 | 0.04688139841113548 | 0.002592541332135792
+Norway | 201.508 | 0.0553 | 0.027886848931934573 | 0.001542142745935982
+Approach for estimating beta | Multibusiness(Global) | 0 | 0 | 0
+If direct input, enter levered beta (or regression beta) | 1.2 | 0 | 0 | 0
+Unlevered beta = | 0.7451171557197493 | 0 | 0 | 0
+Riskfree Rate = | 0.0226 | 0 | 0 | 0
+What approach do you want to use to input ERP? | Operating countries | 0 | 0 | 0
+Direct input for ERP (if you choose "will input" | 0.06 | 0 | 0 | 0
+Equity Risk Premium used in cost of equity = | 0.057654721394831236 | 0 | 0 | 0
+Rest of the World | 751 | 0.0739 | 0.1039314744222704 | 0.007680535959805781
+Debt | 0 | 0
+Book Value of Straight Debt = | 12703 | Total | 7225.915 | 0.9999999999999999 | 0.057654721394831236
+Interest Expense on Debt = | 690 | Operating Regions ERP calculator
+Average Maturity = | 3 | Region | Revenues | ERP | Weight | Weighted ERP
+Approach for estimating pre-tax cost of debt | Actual rating | Africa & Mid East | 0 | 0.09081165690381955 | 0 | 0
+If direct input, input the pre-tax cost of debt | 0.04 | Australia, NZ & Canada | 7440 | 0.055323552295498526 | 0.0734423122482824 | 0.004063089602370184
+If actual rating, input the rating | B3/B- | Latin America & Caribbean | 0.10306101446405153 | 0 | 0
+If synethetic rating, input the type of company | 1 | Japan | 0 | 0.06506681675370515 | 0 | 0
+Pre-tax Cost of Debt = | 0.0886 | US | 0 | 0.0553 | 0 | 0
+Tax Rate = | 0.1448726370425889 | Europe | 0.06679944265365442 | 0 | 0
+Emerging Markets | 0 | 0.0810091660951675 | 0 | 0
+Book Value of Convertible Debt = | 0 | Asia | 93864 | 0.07004617267480448 | 0.9265576877517177 | 0.06490181978942439
+Interest Expense on Convertible = | 0 | North America | 0.0553 | 0 | 0
+Maturity of Convertible Bond = | 0 | 0 | 0
+Market Value of Convertible = | 0 | 0 | 0
+Total | 101304 | 1 | 0.06896490939179457
+Debt value of operating leases = | 1093.1992300664194
+Multi Business (US Industry Averages)
+Preferred Stock | Business | Revenues | EV/Sales | Estimated Value | Unlevered Beta
+Number of Preferred Shares = | 0 | 0 | 0 | 0
+Current Market Price per Share= | 70 | 0 | 0 | 0
+Annual Dividend per Share = | 5 | 0 | 0 | 0
+0 | 0 | 0
+Output | 0 | 0 | 0
+Estimating Market Value of Straight Debt = | 11597.900840917668 | 0 | 0 | 0
+Estimated Value of Straight Debt in Convertible = | 0 | 0 | 0 | 0
+Value of Debt in Operating leases = | 1093.1992300664194 | 0 | 0 | 0
+Estimated Value of Equity in Convertible = | 0 | 0 | 0 | 0
+Levered Beta for equity = | 0.9922115558792725 | 0 | 0 | 0
+0 | 0 | 0
+Equity | Debt  | Preferred Stock | Capital | 0 | 0 | 0
+Market Value | 32725.909999999996 | 12691.100070984086 | 0 | 45417.010070984084 | Company | 0 | 0 | #DIV/0!
+Weight in Cost of Capital | 0.7205650470793068 | 0.2794349529206932 | 0 | 1
+Cost of Component | 0.07980568081895148 | 0.07576428435802662 | 0.07142857142857142 | 0.07867637338915909 | Multi Business (Global Industry Averages)
+Business | Revenues | EV/Sales | Estimated Value | Unlevered Beta
+Auto & Truck | 4217 | 0.8406580996572417 | 3545.055206254588 | 0.8016912770661271
+Green & Renewable Energy | 325 | 6.305073231222129 | 2049.1488001471917 | 0.6472431587685039
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+Company | 4542 | 5594.20400640178 | 0.7451171557197493
+
+Sheet: R& D converter
+R & D Converter
+This spreadsheet converts R&D expenses from operating to capital expenses. It makes the appropriate adjustments to operating income, net
+income, the book value of assets and the book value of equity.
+Inputs
+Over how many years do you want to amortize R&D expenses | 5 | ! If in doubt, use the lookup table below
+Enter the current year's R&D expense = | 1433 | The maximum allowed is ten years
+Enter R& D expenses for past years: the number of years that you will need to enter will be determined by the amortization period
+Do not input numbers in the first column (Year). It will get automatically updated  based on the input above.
+Year | R& D Expenses
+-1 | 1460.4 | ! Year -1 is the year prior to the current year
+-2 | 1378.1 | ! Year -2 is the two years prior to the current year
+-3 | 834.4
+-4 | 717.9
+-5 | 464.7
+0
+0
+0
+0
+0
+Output
+Year | R&D Expense | Unamortized portion | Amortization this year
+Current | 1433 | 1 | 1433
+-1 | 1460.4 | 0.8 | 1168.3200000000002 | 292.08000000000004
+-2 | 1378.1 | 0.6 | 826.8599999999999 | 275.62
+-3 | 834.4 | 0.4 | 333.76 | 166.88
+-4 | 717.9 | 0.2 | 143.58 | 143.57999999999998
+-5 | 464.7 | 0 | 0 | 92.94
+0 | 0 | 0 | 0 | 0
+0 | 0 | 0 | 0 | 0
+0 | 0 | 0 | 0 | 0
+0 | 0 | 0 | 0 | 0
+0 | 0 | 0 | 0 | 0
+Value of Research Asset = | 3905.5200000000004 | 971.1000000000001
+Amortization of asset for current year = | 971.1000000000001
+Adjustment to Operating Income = | 461.89999999999986 | ! A positive number indicates an increase in operating income (add to reported EBIT)
+Tax Effect of R&D Expensing | 115.47499999999997
+
+Sheet: Operating lease converter
+Operating Lease Converter
+The yellow cells are input cells. Please enter them.
+Inputs
+Operating lease expense in current year = | 275.65
+Operating Lease Commitments (From footnote to financials)
+Year | Commitment | ! Year 1 is next year, ….
+1 | 209.2
+2 | 258.4
+3 | 228.7
+4 | 182.3
+5 | 153.5
+6 and beyond | 477.9
+Output
+Pre-tax Cost of Debt = | 0.0886 | ! If you do not have a cost of debt, use the synthetic rating estimator
+Number of years embedded in yr 6 estimate = | 2 | ! I use the average lease expense over the first five years
+to estimate the number of years of expenses in yr 6
+Converting Operating Leases into debt
+Year | Commitment | Present Value
+1 | 209.2 | 192.17343376814256
+2 | 258.4 | 218.04987867346958
+3 | 228.7 | 177.28058438957902
+4 | 182.3 | 129.8115539268886
+5 | 153.5 | 100.40763316800384
+6 and beyond | 238.95 | 275.47614614033586 | ! Commitment beyond year 6 converted into an annuity for ten years
+Debt Value of leases = | 1093.1992300664194
+Restated Financials
+Depreciation on Operating Lease Asset = | 156.17131858091707 | ! I use straight line depreciation
+Adjustment to Operating Earnings = | 119.4786814190829 | ! Add this amount to pre-tax operating income
+Adjustment to Total Debt outstanding = | 1093.1992300664194 | ! Add this amount to debt
+Adjustment to Depreciation = | 156.17131858091707
+
+Sheet: Country equity risk premiums
+Mature Market ERP + | 0.0553
+Country | Moody's rating | Adj. Default Spread | Equity Risk Premium | Country Risk Premium | Corporate Tax Rate | Region
+Abu Dhabi | Aa2 | 0.0055987260310332385 | 0.0621868579673562 | 0.006886857967356201 | 0.55 | Middle East
+Albania | B1 | 0.050795714354283386 | 0.11778258410383172 | 0.06248258410383172 | 0.15 | Eastern Europe & Russia
+Algeria | NA | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.26 | Africa
+Andorra (Principality of) | Baa2 | 0.02147874895541842 | 0.08172049147476651 | 0.02642049147476651 | 0.1 | Western Europe
+Angola | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.3 | Africa
+Argentina | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.3 | Central and South America
+Armenia | B1 | 0.050795714354283386 | 0.11778258410383172 | 0.06248258410383172 | 0.2 | Eastern Europe & Russia
+Aruba | Baa1 | 0.018017718318052423 | 0.07746316109494633 | 0.022163161094946322 | 0.25 | Caribbean
+Australia | Aaa | 0 | 0.0553 | 0 | 0.3 | Australia & New Zealand
+Austria | Aa1 | 0.00447898082482659 | 0.06080948637388496 | 0.00550948637388496 | 0.25 | Western Europe
+Azerbaijan | Ba2 | 0.03389774124243761 | 0.09699679460235663 | 0.04169679460235663 | 0.2 | Eastern Europe & Russia
+Bahamas | Baa3 | 0.024837984574038366 | 0.08585260625518024 | 0.030552606255180234 | 0 | Caribbean
+Bahrain | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0 | Middle East
+Bangladesh | Ba3 | 0.0406162124796775 | 0.10526102416318409 | 0.049961024163184084 | 0.25 | Asia
+Barbados | Caa3 | 0.11278888077063325 | 0.19403888414237586 | 0.13873888414237584 | 0.3 | Caribbean
+Belarus | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.18 | Eastern Europe & Russia
+Belgium | Aa3 | 0.006820266255985944 | 0.06368944516023392 | 0.008389445160233917 | 0.29 | Western Europe
+Belize | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.2821 | Central and South America
+Benin | B1 | 0.050795714354283386 | 0.11778258410383172 | 0.06248258410383172 | 0.3 | Africa
+Bermuda | A2 | 0.009568731762129535 | 0.06707026634420879 | 0.011770266344208781 | 0 | Caribbean
+Bolivia | Ba3 | 0.0406162124796775 | 0.10526102416318409 | 0.049961024163184084 | 0.25 | Central and South America
+Bosnia and Herzegovina | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.1 | Eastern Europe & Russia
+Botswana | A2 | 0.009568731762129535 | 0.06707026634420879 | 0.011770266344208781 | 0.22 | Africa
+Brazil | Ba2 | 0.03389774124243761 | 0.09699679460235663 | 0.04169679460235663 | 0.34 | Central and South America
+Brunei | NA | 0.007940011462192588 | 0.06506681675370515 | 0.009766816753705151 | 0.185 | Asia
+Bulgaria | Baa2 | 0.02147874895541842 | 0.08172049147476651 | 0.02642049147476651 | 0.1 | Eastern Europe & Russia
+Burkina Faso | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.28 | Africa
+Cambodia | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.2 | Asia
+Cameroon | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.33 | Africa
+Canada | Aaa | 0 | 0.0553 | 0 | 0.265 | North America
+Cape Verde | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.28 | Africa
+Cayman Islands | Aa3 | 0.006820266255985944 | 0.06368944516023392 | 0.008389445160233917 | 0 | Caribbean
+Chile | A1 | 0.007940011462192592 | 0.06506681675370515 | 0.009766816753705157 | 0.26 | Central and South America
+China | A1 | 0.007940011462192592 | 0.06506681675370515 | 0.009766816753705157 | 0.25 | Asia
+Colombia | Baa2 | 0.02147874895541842 | 0.08172049147476651 | 0.02642049147476651 | 0.33 | Central and South America
+Congo (Democratic Republic of) | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.35 | Africa
+Congo (Republic of) | Caa2 | 0.10159142870856677 | 0.18026516820766345 | 0.12496516820766344 | 0.28 | Africa
+Cook Islands | B1 | 0.050795714354283386 | 0.11778258410383172 | 0.06248258410383172 | 0 | Australia & New Zealand
+Costa Rica | B1 | 0.050795714354283386 | 0.11778258410383172 | 0.06248258410383172 | 0.3 | Central and South America
+Côte d'Ivoire | Ba3 | 0.0406162124796775 | 0.10526102416318409 | 0.049961024163184084 | 0.25 | Africa
+Croatia | Ba2 | 0.03389774124243761 | 0.09699679460235663 | 0.04169679460235663 | 0.18 | Eastern Europe & Russia
+Cuba | Caa2 | 0.10159142870856677 | 0.18026516820766345 | 0.12496516820766344 | 0.24 | Caribbean
+Curacao | A3 | 0.013538737493225832 | 0.07195367472106136 | 0.01665367472106136 | 0.22 | Caribbean
+Cyprus | Ba2 | 0.03389774124243761 | 0.09699679460235663 | 0.04169679460235663 | 0.125 | Western Europe
+Czech Republic | A1 | 0.007940011462192592 | 0.06506681675370515 | 0.009766816753705157 | 0.19 | Eastern Europe & Russia
+Denmark | Aaa | 0 | 0.0553 | 0 | 0.22 | Western Europe
+Dominican Republic | Ba3 | 0.0406162124796775 | 0.10526102416318409 | 0.049961024163184084 | 0.27 | Caribbean
+Ecuador | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.25 | Central and South America
+Egypt | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.23 | Africa
+El Salvador | Caa1 | 0.08459166057797493 | 0.15935416310678188 | 0.10405416310678188 | 0.3 | Central and South America
+Estonia | A1 | 0.007940011462192592 | 0.06506681675370515 | 0.009766816753705157 | 0.2 | Eastern Europe & Russia
+Ethiopia | B1 | 0.050795714354283386 | 0.11778258410383172 | 0.06248258410383172 | 0.3 | Africa
+Fiji | Ba3 | 0.0406162124796775 | 0.10526102416318409 | 0.049961024163184084 | 0.2 | Asia
+Finland | Aa1 | 0.00447898082482659 | 0.06080948637388496 | 0.00550948637388496 | 0.2 | Western Europe
+France | Aa2 | 0.0055987260310332385 | 0.0621868579673562 | 0.006886857967356201 | 0.33 | Western Europe
+Gabon | Caa1 | 0.08459166057797493 | 0.15935416310678188 | 0.10405416310678188 | 0.3 | Africa
+Gambia | NA | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.31 | Africa
+Georgia | Ba2 | 0.03389774124243761 | 0.09699679460235663 | 0.04169679460235663 | 0.31 | Eastern Europe & Russia
+Germany | Aaa | 0 | 0.0553 | 0 | 0.15 | Western Europe
+Ghana | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.25 | Africa
+Greece | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.29 | Western Europe
+Guatemala | Ba1 | 0.02819722019265831 | 0.08998472103559396 | 0.03468472103559396 | 0.25 | Central and South America
+Guernsey (States of) | Aa3 | 0.006820266255985944 | 0.06368944516023392 | 0.008389445160233917 | 0 | Western Europe
+Guinea | NA | 0.1353873749322583 | 0.22183674721061358 | 0.16653674721061357 | 0.2915 | Africa
+Guinea-Bissau | NA | 0.08459166057797493 | 0.15935416310678188 | 0.10405416310678188 | 0.2915 | Africa
+Guyana | NA | 0.05079571435428338 | 0.11778258410383172 | 0.062482584103831715 | 0.1864 | Central and South America
+Haiti | NA | 0.10159142870856677 | 0.18026516820766345 | 0.12496516820766344 | 0.1864 | Caribbean
+Honduras | B1 | 0.050795714354283386 | 0.11778258410383172 | 0.06248258410383172 | 0.25 | Central and South America
+Hong Kong | Aa2 | 0.0055987260310332385 | 0.0621868579673562 | 0.006886857967356201 | 0.165 | Asia
+Hungary | Baa3 | 0.024837984574038366 | 0.08585260625518024 | 0.030552606255180234 | 0.09 | Eastern Europe & Russia
+Iceland | A3 | 0.013538737493225832 | 0.07195367472106136 | 0.01665367472106136 | 0.2 | Western Europe
+India | Baa2 | 0.02147874895541842 | 0.08172049147476651 | 0.02642049147476651 | 0.35 | Asia
+Indonesia | Baa2 | 0.02147874895541842 | 0.08172049147476651 | 0.02642049147476651 | 0.25 | Asia
+Iran | NA | 0.03389774124243761 | 0.09699679460235663 | 0.04169679460235663 | 0.2023 | Middle East
+Iraq | Caa1 | 0.08459166057797493 | 0.15935416310678188 | 0.10405416310678188 | 0.15 | Middle East
+Ireland | A2 | 0.009568731762129535 | 0.06707026634420879 | 0.011770266344208781 | 0.125 | Western Europe
+Isle of Man | Aa2 | 0.0055987260310332385 | 0.0621868579673562 | 0.006886857967356201 | 0 | Western Europe
+Israel | A1 | 0.007940011462192592 | 0.06506681675370515 | 0.009766816753705157 | 0.23 | Middle East
+Italy | Baa3 | 0.024837984574038366 | 0.08585260625518024 | 0.030552606255180234 | 0.24 | Western Europe
+Jamaica | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.25 | Caribbean
+Japan | A1 | 0.007940011462192592 | 0.06506681675370515 | 0.009766816753705157 | 0.3086 | Asia
+Jersey (States of) | Aa3 | 0.006820266255985944 | 0.06368944516023392 | 0.008389445160233917 | 0.2 | Western Europe
+Jordan | B1 | 0.050795714354283386 | 0.11778258410383172 | 0.06248258410383172 | 0.2 | Middle East
+Kazakhstan | Baa3 | 0.024837984574038366 | 0.08585260625518024 | 0.030552606255180234 | 0.2 | Eastern Europe & Russia
+Kenya | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.3 | Africa
+Korea | Aa2 | 0.0055987260310332385 | 0.0621868579673562 | 0.006886857967356201 | 0.25 | Asia
+Korea, D.P.R. | NA | 0.1353873749322583 | 0.22183674721061358 | 0.16653674721061357 | 0.231 | Asia
+Kuwait | Aa2 | 0.0055987260310332385 | 0.0621868579673562 | 0.006886857967356201 | 0.15 | Middle East
+Kyrgyzstan | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.1 | Eastern Europe & Russia
+Latvia | A3 | 0.013538737493225832 | 0.07195367472106136 | 0.01665367472106136 | 0.2 | Eastern Europe & Russia
+Lebanon | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.15 | Middle East
+Liberia | NA | 0.1353873749322583 | 0.22183674721061358 | 0.16653674721061357 | 0.2915 | Africa
+Libya | NA | 0.05079571435428338 | 0.11778258410383172 | 0.062482584103831715 | 0.2 | Africa
+Liechtenstein | Aaa | 0 | 0.0553 | 0 | 0.125 | Western Europe
+Lithuania | A3 | 0.013538737493225832 | 0.07195367472106136 | 0.01665367472106136 | 0.15 | Eastern Europe & Russia
+Luxembourg | Aaa | 0 | 0.0553 | 0 | 0.2601 | Western Europe
+Macao | Aa3 | 0.006820266255985944 | 0.06368944516023392 | 0.008389445160233917 | 0.12 | Asia
+Macedonia | Ba3 | 0.0406162124796775 | 0.10526102416318409 | 0.049961024163184084 | 0.1 | Eastern Europe & Russia
+Madagascar | NA | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.2 | Africa
+Malawi | NA | 0.08459166057797493 | 0.15935416310678188 | 0.10405416310678188 | 0.3 | Africa
+Malaysia | A3 | 0.013538737493225832 | 0.07195367472106136 | 0.01665367472106136 | 0.24 | Asia
+Maldives | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0 | Asia
+Mali | NA | 0.08459166057797493 | 0.15935416310678188 | 0.10405416310678188 | 0.2915 | Africa
+Malta | A3 | 0.013538737493225832 | 0.07195367472106136 | 0.01665367472106136 | 0.35 | Western Europe
+Mauritius | Baa1 | 0.018017718318052423 | 0.07746316109494633 | 0.022163161094946322 | 0.15 | Asia
+Mexico | A3 | 0.013538737493225832 | 0.07195367472106136 | 0.01665367472106136 | 0.3 | Central and South America
+Moldova | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.12 | Eastern Europe & Russia
+Mongolia | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.33 | Asia
+Montenegro | B1 | 0.050795714354283386 | 0.11778258410383172 | 0.06248258410383172 | 0.09 | Eastern Europe & Russia
+Montserrat | Baa3 | 0.024837984574038366 | 0.08585260625518024 | 0.030552606255180234 | 0.2798 | Caribbean
+Morocco | Ba1 | 0.02819722019265831 | 0.08998472103559396 | 0.03468472103559396 | 0.31 | Africa
+Mozambique | Caa3 | 0.11278888077063325 | 0.19403888414237586 | 0.13873888414237584 | 0.32 | Africa
+Myanmar | NA | 0.08459166057797493 | 0.15935416310678188 | 0.10405416310678188 | 0.25 | Asia
+Namibia | Ba1 | 0.02819722019265831 | 0.08998472103559396 | 0.03468472103559396 | 0.32 | Africa
+Netherlands | Aaa | 0 | 0.0553 | 0 | 0.25 | Western Europe
+New Zealand | Aaa | 0 | 0.0553 | 0 | 0.28 | Australia & New Zealand
+Nicaragua | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.3 | Central and South America
+Niger | NA | 0.1353873749322583 | 0.22183674721061358 | 0.16653674721061357 | 0.2821 | Africa
+Nigeria | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.3 | Africa
+Norway | Aaa | 0 | 0.0553 | 0 | 0.23 | Western Europe
+Oman | Baa3 | 0.024837984574038366 | 0.08585260625518024 | 0.030552606255180234 | 0.15 | Middle East
+Pakistan | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.3 | Asia
+Panama | Baa2 | 0.02147874895541842 | 0.08172049147476651 | 0.02642049147476651 | 0.25 | Central and South America
+Papua New Guinea | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.3 | Asia
+Paraguay | Ba1 | 0.02819722019265831 | 0.08998472103559396 | 0.03468472103559396 | 0.1 | Central and South America
+Peru | A3 | 0.013538737493225832 | 0.07195367472106136 | 0.01665367472106136 | 0.295 | Central and South America
+Philippines | Baa2 | 0.02147874895541842 | 0.08172049147476651 | 0.02642049147476651 | 0.3 | Asia
+Poland | A2 | 0.009568731762129535 | 0.06707026634420879 | 0.011770266344208781 | 0.19 | Eastern Europe & Russia
+Portugal | Baa3 | 0.024837984574038366 | 0.08585260625518024 | 0.030552606255180234 | 0.21 | Western Europe
+Qatar | Aa3 | 0.006820266255985944 | 0.06368944516023392 | 0.008389445160233917 | 0.1 | Middle East
+Ras Al Khaimah (Emirate of) | A2 | 0.009568731762129535 | 0.06707026634420879 | 0.011770266344208781 | 0 | Middle East
+Romania | Baa3 | 0.024837984574038366 | 0.08585260625518024 | 0.030552606255180234 | 0.16 | Eastern Europe & Russia
+Russia | Ba1 | 0.02819722019265831 | 0.08998472103559396 | 0.03468472103559396 | 0.2 | Eastern Europe & Russia
+Rwanda | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.3 | Africa
+Saudi Arabia | A1 | 0.007940011462192592 | 0.06506681675370515 | 0.009766816753705157 | 0.2 | Middle East
+Senegal | Ba3 | 0.0406162124796775 | 0.10526102416318409 | 0.049961024163184084 | 0.3 | Africa
+Serbia | Ba3 | 0.0406162124796775 | 0.10526102416318409 | 0.049961024163184084 | 0.15 | Eastern Europe & Russia
+Sharjah | A3 | 0.013538737493225832 | 0.07195367472106136 | 0.01665367472106136 | 0.2 | Middle East
+Sierra Leone | NA | 0.1353873749322583 | 0.22183674721061358 | 0.16653674721061357 | 0.3 | Africa
+Singapore | Aaa | 0 | 0.0553 | 0 | 0.17 | Asia
+Slovakia | A2 | 0.009568731762129535 | 0.06707026634420879 | 0.011770266344208781 | 0.21 | Eastern Europe & Russia
+Slovenia | Baa1 | 0.018017718318052423 | 0.07746316109494633 | 0.022163161094946322 | 0.19 | Eastern Europe & Russia
+Solomon Islands | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.3 | Asia
+Somalia | NA | 0.1353873749322583 | 0.22183674721061358 | 0.16653674721061357 | 0.2915 | Africa
+South Africa | Baa3 | 0.024837984574038366 | 0.08585260625518024 | 0.030552606255180234 | 0.28 | Africa
+Spain | Baa1 | 0.018017718318052423 | 0.07746316109494633 | 0.022163161094946322 | 0.25 | Western Europe
+Sri Lanka | B1 | 0.050795714354283386 | 0.11778258410383172 | 0.06248258410383172 | 0.28 | Asia
+St. Maarten | Baa2 | 0.02147874895541842 | 0.08172049147476651 | 0.02642049147476651 | 0.35 | Caribbean
+St. Vincent & the Grenadines | B3 | 0.07339420851590846 | 0.14558044717206947 | 0.09028044717206947 | 0.2 | Caribbean
+Sudan | NA | 0.18 | 0.27671366218902893 | 0.22141366218902891 | 0.35 | Africa
+Suriname | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.36 | Central and South America
+Swaziland | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.28 | Africa
+Sweden | Aaa | 0 | 0.0553 | 0 | 0.22 | Western Europe
+Switzerland | Aaa | 0 | 0.0553 | 0 | 0.18 | Western Europe
+Syria | NA | 0.1353873749322583 | 0.22183674721061358 | 0.16653674721061357 | 0.28 | Middle East
+Taiwan | Aa3 | 0.018017718318052423 | 0.07746316109494633 | 0.022163161094946322 | 0.2 | Asia
+Tajikistan | B3 | 0.02819722019265831 | 0.08998472103559396 | 0.03468472103559396 | 0.2 | Eastern Europe & Russia
+Tanzania | B1 | 0.050795714354283386 | 0.11778258410383172 | 0.06248258410383172 | 0.3 | Africa
+Thailand | Baa1 | 0.018017718318052423 | 0.07746316109494633 | 0.022163161094946322 | 0.2 | Asia
+Togo | NA | 0.08459166057797493 | 0.15935416310678188 | 0.10405416310678188 | 0.2915 | Africa
+Trinidad and Tobago | Ba1 | 0.02819722019265831 | 0.08998472103559396 | 0.03468472103559396 | 0.25 | Caribbean
+Tunisia | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.25 | Africa
+Turkey | Ba3 | 0.0406162124796775 | 0.10526102416318409 | 0.049961024163184084 | 0.22 | Western Europe
+Turks and Caicos Islands | Baa1 | 0.018017718318052423 | 0.07746316109494633 | 0.022163161094946322 | 0 | Caribbean
+Uganda | B2 | 0.06209496143509591 | 0.13168151563795058 | 0.07638151563795058 | 0.3 | Africa
+Ukraine | Caa1 | 0.08459166057797493 | 0.15935416310678188 | 0.10405416310678188 | 0.18 | Eastern Europe & Russia
+United Arab Emirates | Aa2 | 0.0055987260310332385 | 0.0621868579673562 | 0.006886857967356201 | 0.55 | Middle East
+United Kingdom | Aa2 | 0.0055987260310332385 | 0.0621868579673562 | 0.006886857967356201 | 0.19 | Western Europe
+United States | Aaa | 0 | 0.0553 | 0 | 0.25 | North America
+Uruguay | Baa2 | 0.02147874895541842 | 0.08172049147476651 | 0.02642049147476651 | 0.25 | Central and South America
+Venezuela | C | 0.18 | 0.27671366218902893 | 0.22141366218902891 | 0.34 | Central and South America
+Vietnam | Ba3 | 0.0406162124796775 | 0.10526102416318409 | 0.049961024163184084 | 0.2 | Asia
+Yemen, Republic | NA | 0.18 | 0.27671366218902893 | 0.22141366218902891 | 0.2 | Africa
+Zambia | Caa1 | 0.08459166057797493 | 0.15935416310678188 | 0.10405416310678188 | 0.35 | Africa
+Zimbabwe | NA | 0.10159142870856677 | 0.18026516820766345 | 0.12496516820766344 | 0.25 | Africa
+ERP | Default Spread | Tax rate | CRP
+Africa & Mid East | 0.09081165690381955 | 0.02694716799623581 | 0.29246787754291986 | 0.03551165690381955
+Australia, NZ & Canada | 0.055323552295498526 | 1.89657542405442e-05 | 0.2804198999549754 | 2.3552295498524556e-05
+Latin America & Caribbean | 0.10306101446405153 | 0.020003293959688404 | 0.2715 | 0.047761014464051524
+Japan | 0.06506681675370515 | 0.0072151867346079935 | 0.3086 | 0.009766816753705151
+US | 0.0553 | 0 | 0.25 | 0
+Europe | 0.06679944265365442 | 0.008234394257640143 | 0.22294096728054036 | 0.01149944265365442
+Emerging Markets | 0.0810091660951675 | 0.009273340052315787 | 0.26788870471142334 | 0.025709166095167504
+Asia | 0.07004617267480448 | 0.007842531771604233 | 0.2665 | 0.014746172674804476
+North America | 0.0553 | 0 | 0.25 | 0
+Global | 0.0696 | 0.0116 | 0.254 | 0.0143
+
+Sheet: Synthetic rating
+Inputs for synthetic rating estimation
+Please read the special cases worksheet (see below) before you use this spreadsheet.
+Before you use this spreadsheet, make sure that the iteration box (under calculation options in excel) is checked.
+Enter the type of firm = | 1
+Enter current Earnings before interest and taxes (EBIT) = | -14.721318580917085 | (Add back only long term interest expense for financial firms)
+Enter current interest expenses = | 786.8574517838847 | (Use only long term interest expense for financial firms)
+Enter long term risk free rate  = | 0.0226
+Output
+Interest  coverage ratio = | -100000
+Estimated Bond Rating = | D2/D | Note: If you get REF! All over the place, set the operating lease commitment question in cell F5
+Estimated Company Default Spread = | 0.19384615384615386 | to No, and then reset it to Yes. It should work.
+Estimated County Default Spread (if any) = | 0
+Estimated Cost of Debt = | 0.21644615384615387
+ If you want to update the spreads listed below, please visit http://www.bondsonline.com
+For large manufacturing firms
+If interest coverage ratio is
+> | ≤ to | Rating is | Spread is
+-100000 | 0.199999 | D2/D | 0.19384615384615386
+0.2 | 0.649999 | Caa/CCC | 0.14538461538461536
+0.65 | 0.799999 | Ca2/CC | 0.11076923076923077
+0.8 | 1.249999 | C2/C | 0.09
+1.25 | 1.499999 | B3/B- | 0.066
+1.5 | 1.749999 | B2/B | 0.054
+1.75 | 1.999999 | B1/B+ | 0.045
+2 | 2.2499999 | Ba2/BB | 0.036
+2.25 | 2.49999 | Ba1/BB+ | 0.03
+2.5 | 2.999999 | Baa2/BBB | 0.02
+3 | 4.249999 | A3/A- | 0.015625
+4.25 | 5.499999 | A2/A | 0.013749999999999998
+5.5 | 6.499999 | A1/A+ | 0.0125
+6.5 | 8.499999 | Aa2/AA | 0.01
+8.5 | 100000 | Aaa/AAA | 0.0075
+For smaller and riskier firms
+If interest coverage ratio is
+greater than | ≤ to | Rating is | Spread is
+-100000 | 0.499999 | D2/D | 0.19384615384615386 | Rating is | Spread is
+0.5 | 0.799999 | Caa/CCC | 0.14538461538461536 | A1/A+ | 0.0125
+0.8 | 1.249999 | Ca2/CC | 0.11076923076923077 | A2/A | 0.013749999999999998
+1.25 | 1.499999 | C2/C | 0.09 | A3/A- | 0.015625
+1.5 | 1.999999 | B3/B- | 0.066 | Aa2/AA | 0.01
+2 | 2.499999 | B2/B | 0.054 | Aaa/AAA | 0.0075
+2.5 | 2.999999 | B1/B+ | 0.045 | B1/B+ | 0.045
+3 | 3.499999 | Ba2/BB | 0.036 | B2/B | 0.054
+3.5 | 3.9999999 | Ba1/BB+ | 0.03 | B3/B- | 0.066
+4 | 4.499999 | Baa2/BBB | 0.02 | Ba1/BB+ | 0.03
+4.5 | 5.999999 | A3/A- | 0.015625 | Ba2/BB | 0.036
+6 | 7.499999 | A2/A | 0.013749999999999998 | Baa2/BBB | 0.02
+7.5 | 9.499999 | A1/A+ | 0.0125 | C2/C | 0.09
+9.5 | 12.499999 | Aa2/AA | 0.01 | Ca2/CC | 0.11076923076923077
+12.5 | 100000 | Aaa/AAA | 0.0075 | Caa/CCC | 0.14538461538461536
+D2/D | 0.19384615384615386
+
+Sheet: Industry Average Beta (US)
+Industry Name | Number of firms | Annual Average Revenue growth - Last 5 years | Pre-tax Operating Margin (Unadjusted) | After-tax ROC | Average effective tax rate | Unlevered Beta | Equity (Levered) Beta | Cost of equity | Std deviation in stock prices | Pre-tax cost of debt | Market Debt/Capital | Cost of capital | Sales/Capital | EV/Sales | EV/EBITDA | EV/EBIT | Price/Book | Trailing PE | Non-cash WC as % of Revenues | Cap Ex as % of Revenues | Net Cap Ex as % of Revenues | Reinvestment Rate | ROE | Dividend Payout Ratio | Equity Reinvestment Rate
+Advertising | 48 | 0.2348731578947369 | 0.11620506560024861 | 0.6461838437875413 | 0.3430024287265633 | 0.8679813153566758 | 1.2156116959064325 | 0.09925045707602338 | 0.66442375633202 | 0.0543 | 0.4154057697136008 | 0.07493864453151758 | 5.776923646928333 | 1.5708055487830423 | 7.858881553563366 | 12.662332027155431 | 5.536918842466178 | 10.813885381011287 | 0.007242860945584364 | 0.019223860472935356 | 0.01117970090122744 | 0.15177538352649336 | 0.22549358198122543 | 0.9911619792565329 | 0.9911619792565329
+Aerospace/Defense | 85 | 0.016258333333333333 | 0.1194118065975952 | 0.3976605543968433 | 0.2494240878926002 | 1.09222603297197 | 1.2398163663663664 | 0.10069305543543544 | 0.40771427541654326 | 0.0456 | 0.20251551096914536 | 0.08722718033802852 | 3.7185319212822536 | 1.8413416376871194 | 12.064660358059035 | 15.295896176024389 | 5.747575791412686 | 33.82815405335973 | 0.3373835721757761 | 0.026564253393694292 | 0.05648856931116478 | 0.7774181177372438 | 0.32005422802274547 | 0.380626803659001 | 0.38062680365900103
+Air Transport | 18 | 0.06652499999999999 | 0.10710601095342973 | 0.13641883593623133 | 0.1616045371050168 | 0.6344901276087225 | 1.021926388888889 | 0.08770681277777778 | 0.34188829892686035 | 0.041800000000000004 | 0.47319846454640696 | 0.06103885550460401 | 1.4020206803369184 | 1.2547742675171067 | 6.182254266175391 | 12.067713303340739 | 2.4575679253659524 | 7.9852749879249805 | 0.019600874259440144 | 0.11077364684284319 | 0.05779458261387901 | 0.6276562259443474 | 0.2762267832651104 | 0.14675786021016568 | 0.14675786021016568
+Apparel | 50 | 0.20058720000000002 | 0.10089500549797317 | 0.14253683335540257 | 0.3452823665999909 | 0.7631729241326889 | 0.9304300000000001 | 0.08225362800000001 | 0.4888966085660817 | 0.0456 | 0.2592569519513572 | 0.06979539087451561 | 1.618975394201646 | 1.6566633639765151 | 10.08186616284647 | 16.038471607508626 | 3.093124768398198 | 55.0519654892653 | 0.2565329279990175 | 0.02626162020808067 | 0.01704340798316539 | 0.7022844649710064 | 0.11320957593047598 | 0.5970126191089363 | 0.5970126191089363
+Auto & Truck | 14 | 0.16507666666666665 | 0.04206362243816362 | 0.036331887293582985 | 0.5333585472280709 | 0.3418710955309782 | 0.7928814814814816 | 0.0740557362962963 | 0.38244580488334956 | 0.041800000000000004 | 0.6615176773794114 | 0.04580513681079275 | 0.9015093203282659 | 1.1783008789688456 | 10.5749546875523 | 27.651868675272585 | 1.6348951976061001 | 17.747556677176725 | -0.06652070961511448 | 0.1093671622167674 | 0.04520243705236879 | 1.1013699842562434 | 0.07320882299850844 | 0.8058286602289482 | 0.8058286602289482
+Auto Parts | 52 | 0.09565 | 0.08875499328671654 | 0.20626772348829212 | 0.2551967159516111 | 0.9678850643412212 | 1.1667673333333335 | 0.09633933306666669 | 0.4428055793178448 | 0.0456 | 0.2854635800776462 | 0.07860081658581876 | 2.4957871007099723 | 0.6690777410540664 | 5.203491435978104 | 7.414023282336805 | 1.9089624036494788 | 18.917248196090494 | 0.11251849417366115 | 0.04388611442164219 | 0.036745540574836415 | 0.6844483976094344 | 0.20401246016487287 | 0.16704479077602918 | 0.16704479077602918
+Bank (Money Center) | 10 | 0.04938625 | 0 | -6.378428178485665e-05 | 0.3983338554159865 | 0.4282334507505517 | 0.7134388888888888 | 0.06932095777777778 | 0.18288196726115774 | 0.0358 | 0.6708878566456067 | 0.04082770794455838 | 0.14247968199870314 | 5.480852800538238 | NA | NA | 1.0150250933656284 | 12.689864379393407 | NA | 0.009858106928908086 | 0.01071180565790362 | NA | 0.08418117351597677 | 0.34077244526348205 | 0.34077244526348205
+Banks (Regional) | 633 | 0.097713891402715 | 0 | -0.00013224535762015297 | 0.22297002219278161 | 0.4043516578768579 | 0.5692942289675855 | 0.06072993604646809 | 0.20604688571762841 | 0.0358 | 0.43346147761811155 | 0.046044288906158914 | 0.26568756287658435 | 5.241468703044888 | NA | NA | 1.1742774403077287 | 25.296598787188334 | NA | 0.03991825616916314 | 0.03937008827660001 | NA | 0.11478557879942937 | 0.27207460072044903 | 0.2720746007204491
+Beverage (Alcoholic) | 31 | 0.0783 | 0.22385061841487794 | 0.1821154505773523 | 0.06628944152575122 | 1.0479649012287298 | 1.2988324074074074 | 0.10421041148148148 | 0.3348979541937112 | 0.041800000000000004 | 0.2547071524263968 | 0.08565234354841778 | 0.8339226314533351 | 3.866561826632142 | 13.579458341280555 | 17.231123895097713 | 2.4827087639266345 | 20.15591153447353 | 0.14882008998700547 | 0.07355577919807056 | 0.04579712959512279 | 0.2609107852718719 | 0.2534134146137474 | 0.1956360318403819 | 0.19563603184038192
+Beverage (Soft) | 37 | 0.17971285714285717 | 0.20759154198905067 | 0.2612373791326072 | 0.5110843480975958 | 1.0445632745746374 | 1.1772472222222226 | 0.09696393444444447 | 0.5031595907309422 | 0.0456 | 0.19050608798109836 | 0.08500702282713124 | 1.300387035141479 | 4.548294197461079 | 18.255111437613625 | 21.718865633482338 | 7.378502586812969 | 35.12813603539954 | -0.025643671348550123 | 0.043163967625905096 | 0.044555515734751014 | 0.417144741354895 | 0.24286370374307778 | 1.1774339680471226 | 1.1774339680471226
+Broadcasting | 24 | 0.08327210526315788 | 0.20424187259804424 | 0.24896896242510397 | 0.12239256989819652 | 0.5086546647315182 | 1.020249275362319 | 0.0876068568115942 | 0.37288378179252196 | 0.041800000000000004 | 0.5910865304731215 | 0.05435418650350579 | 1.2255192302727373 | 2.5611951652552665 | 8.83999216022648 | 12.288969689778817 | 3.5296899511055573 | 17.660453167502812 | 0.21973473399551832 | 0.024805848731091953 | 0.1532963341840001 | 0.9284765758754882 | 0.823220673546551 | 0.1415087389145348 | 0.14150873891453486
+Brokerage & Investment Banking | 38 | 0.1032588 | 0.004094867947083036 | 0.0004520560708783546 | 0.3877592284099212 | 0.4576710177663197 | 1.206132352941177 | 0.09868548823529415 | 0.3207572663914356 | 0.041800000000000004 | 0.747938692118865 | 0.048322671231403026 | 0.1946646607857298 | 5.564168115368791 | NA | NA | 1.1448869546388658 | 28.787296048701453 | NA | 0.06542991420733478 | 0.058975237727260724 | 125.58911234891147 | 0.11459834397953578 | 0.23420902972280616 | 0.2342090297228061
+Building Materials | 42 | 0.09464321428571429 | 0.0936555351024712 | 0.20162369047110043 | 0.3133628334606511 | 0.9149343033203543 | 1.0957829059829063 | 0.09210866119658122 | 0.3339983107374001 | 0.041800000000000004 | 0.2480883315486535 | 0.07703514631319147 | 2.489818554866706 | 1.2579318015866212 | 9.593957310313348 | 13.041103345290914 | 2.9400676758984026 | 21.86575509804135 | 0.1506428005529231 | 0.031577950304821065 | 0.07636268926388189 | 1.2359147542882467 | 0.19565074375862568 | 0.18216863181864973 | 0.18216863181864973
+Business & Consumer Services | 168 | 0.0824594871794872 | 0.10563611051704229 | 0.24965543580508312 | 0.17972698147216654 | 1.0001911265533716 | 1.217834063260341 | 0.09938291017031634 | 0.44863392862734747 | 0.0456 | 0.26299791661483 | 0.08223994059663153 | 2.4705283210788562 | 1.9338860078246274 | 11.05145663413676 | 17.326308705780793 | 3.9059289450023185 | 20.601147786325676 | 0.14134940579352998 | 0.03096173681001423 | 0.026340018342675374 | 0.4510216866283283 | 0.2010519854370493 | 0.26076236463595703 | 0.26076236463595703
+Cable TV | 14 | 0.17758571428571426 | 0.1841178889079714 | 0.14061186752496585 | 0.035533603951288774 | 0.761515774451065 | 1.1320272727272729 | 0.09426882545454547 | 0.26315139851739083 | 0.041800000000000004 | 0.41416336215039434 | 0.0682101531617371 | 0.7931153101971284 | 2.963493834330174 | 8.388118456357489 | 15.659773313807497 | 1.8577673570890567 | 10.685156430334361 | -0.002489078095879154 | 0.1288363076186461 | -0.023705444269231393 | -0.09844527740537483 | 0.3640052100400848 | 0.10323953286941578 | 0.10323953286941578
+Chemical (Basic) | 39 | 0.084436875 | 0.12729514310814333 | 0.19174072268168035 | 0.18682561072975765 | 1.1226945412373202 | 1.5495339506172838 | 0.11915222345679012 | 0.5433484436795 | 0.0456 | 0.39932415433211743 | 0.08522874866627433 | 1.6111118484114295 | 1.101434304751598 | 5.615561700477069 | 8.542636886016485 | 1.8022545650440824 | 13.469103577042613 | 0.2040130057436943 | 0.05575954649948237 | 0.03543686432568666 | 0.5277889444364297 | 0.29227889626673775 | 0.17890878313277644 | 0.17890878313277647
+Chemical (Diversified) | 6 | -0.011599999999999997 | 0.13591853453139674 | 0.16615880834935912 | 0.03995718872636461 | 1.4913554180375088 | 1.817388888888889 | 0.13511637777777777 | 0.32600131705662116 | 0.041800000000000004 | 0.2689813840276111 | 0.10720515386757914 | 1.185262233521704 | 1.654365086368366 | 8.029109684977515 | 12.11555391859188 | 1.2792924407629522 | 18.592151801617362 | 0.22704065721117067 | 0.04956449808659926 | 0.03313866135694631 | 0.0443920873240885 | 0.05020292448406517 | 0.8311414103458765 | 0.8311414103458765
+Chemical (Specialty) | 89 | 0.06172836734693877 | 0.1364814768101608 | 0.17229442204400203 | 0.26473889516158366 | 0.9890237899947718 | 1.1702732804232803 | 0.09654828751322751 | 0.4232685676048807 | 0.0456 | 0.24596795123635015 | 0.0812

@@ -1,0 +1,14 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session10soln.pdf
+
+Session	10:	Post	class	test	solutions	-	
+1. d.	Measured	inflation	is	almost	always	lower	than	actual	inflation.		
+Mistakes	cuts	in	both	directions,	whereas	bias	creates	mistakes	that	are	more	
+in	one	direction.	
+2. a.	9.52%.			Real	return	=	(1.15/1.05)-1	=	.0952	or	9.52%.	If	you	use	the	short	
+cut,	you	will	get	10%,	which	is	almost	the	right	answer	
+3. a.	$314.	Real	value	in	10	years	=	100	*(1.08/1.02)20		=	$314.	Again,	the	short	
+cut	would	have	given	you	a	close	answer	=	100*1.0620	=	$321.	
+4. a.		6.40%.		In	today’s	dollars,	the	expected	cash	flow	in	year	10	=	
+2,500/1.0310		=	$1,860.	Real	Return	=	(1860/1000)(1/10)	-1	=	6.40%	
+5. b.	23.33%.	In	today’s	dollars,	your	uncle	paid	$50,000*1.0430	=	$162,170.	
+You	paid	$200,000.	Percent	difference	=	200,000/162170-1	=	23.33%

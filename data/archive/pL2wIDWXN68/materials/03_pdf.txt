@@ -1,0 +1,91 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session6Asoln.pdf
+
+Session	6A:	Post	class	test	solutions	
+1. 		
+Gross Margin = 15.49% Gross Profit/ Revenues 
+Operating Margin = 4.39% Operating Income/ Revenues 
+Effective tax rate = 16.73% Taxes/ Earnings Before taxes 
+After-tax Operating 
+Margin = 3.66% 
+Operating Income (1 - Effective tax rate) / 
+Revenues 
+Net Margin = 1.92% Net Income/Revenues 
+	
+2. 		
+Return on 
+equity (starting 
+book equity) = 21.08% Net Income/ Shareholders Equity last year 
+Return on 
+equity (average 
+book equity) = 19.87% 
+Net Income/ ((Shareholders equity last year + this 
+year)/2) 
+Invested capital 
+(last year) =  $    2,352.00  
+Book Equity + LT Debt + Leases + ST Debt + ST 
+Leases - Cash - Goodwill 
+Invested capital 
+(current) =  $   4,672.00  
+Book Equity + LT Debt + Leases + ST Debt + ST 
+Leases - Cash – Goodwill* 
+Invested capital 
+(average) =  $    3,512.00  (Invested Cap last year + Invested Cap this year)/2 
+ROIC (starting 
+capital) 14.90% 
+Operating Income (1 - Effective tax rate) / Inv Cap 
+last year 
+ROIC (average 
+capital) 9.98% 
+Operating Income (1 - Effective tax rate) / Average 
+Inv Cap 
+*I	net	out	goodwill	from	invested	capital	with	mixed	feelings.	If	goodwill	
+represents	the	value	of	growth	potential	in	a	target	firm,	it	should	be	netted	
+out.	If	it	is	overpayment	or	because	the	accounting	book	value	is	miststated,	
+it	should	not	be.	
+3. 		
+Sales to Total Assets (starting) 1.22 Revenues/ Total Assets last year 
+Sales to Total Assets (average) 1.09 
+Revenues/ ((Total Assets last year + this 
+year)/2) 
+Sales to Invested Capital 
+(starting) 4.08 Revenues / Inv Cap last year 
+Sales to Invested Capital 
+(average) 2.73 Revenues / Average Inv Cap
+4. 		
+Debt to Equity 
+(Book) 489.79% 
+(LT Debt + Leases + ST Debt + ST Leases)/ Book 
+Equity 
+Debt to Equity 
+(Market) 149.84% 
+(LT Debt + Leases + ST Debt + ST Leases)/ Market 
+Equity 
+Book value of capital  
+ $     
+5,774.00  
+LT Debt + Leases + ST Debt + ST Leases + Book 
+Equity 
+Market value of 
+capital  $ 7,995.00  
+LT Debt + Leases + ST Debt + ST Leases + Market 
+Equity 
+Debt to Capital 
+(Book) 83.04% 
+(LT Debt + Leases + ST Debt + ST Leases)/ Book 
+Capital 
+Debt to Capital 
+(Market) 59.97% 
+(LT Debt + Leases + ST Debt + ST Leases)/ Market 
+Capital 
+	
+5. 	
+Interest coverage 
+ratio (without 
+financing) 1.85 
+(Operating Income- Financing Rev + Financing Op Exp)/ 
+Int expense company 
+Interest coverage 
+ratio (with 
+financing) 1.54 
+Operating Income/ (Int exp financing + Int expense 
+company)

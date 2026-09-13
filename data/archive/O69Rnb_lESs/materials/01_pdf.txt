@@ -1,0 +1,261 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ValeTheEnd.pdf
+
+IT’S	  PITCH	  BLACK	  HERE:	  MY	  VALE	  
+EXPERIMENT’S	  NOT-­‐SO-­‐HAPPY	  
+ENDING!	  
+It	  is	  darkest	  before	  the	  sun	  burns	  out..
+2
+An	  excursion	  on	  the	  dark	  side	  
+¨  In	  my	  ﬁrst	  post	  on	  Vale,	  in	  November	  2014,	  I	  argued	  that 	  
+your	  opportuniWes	  to	  ﬁnd	  mispricing	  are	  greatest,	  where 	  
+it	  is	  darkest,	  i.e.,	  where	  uncertainty	  abounds.	  
+¨  Using	  that	  logic,	  I	  looked	  at	  Vale	  and	  Lukoil	  as	  companies 	  
+that	  were	  in	  the	  midst	  of	  a	  trifecta	  of	  uncertainty,	  with	  
+country	  risk,	  currency	  risk	  and	  commodity	  risk	  all	  
+conspiring	  to	  drive	  investors	  away.	  
+¨  In	  my	  valuaWon	  of	  Vale,	  I	  assume	  that	  the	  operaWng	  
+income	  in	  the	  last	  twelve	  months	  (down	  about	  50%	  from 	  
+2013	  levels)	  reﬂected	  lower	  iron	  ore	  prices,	  that	  the	  
+company	  would	  se‘le	  into	  a	  steady	  state	  where	  its	  
+earnings	  would	  grow	  with	  iron	  ore	  prices	  (2%	  a	  year)	  and 	  
+the	  company	  will	  earn	  no	  excess	  returns.
+Valuing Vale in November 2014 (in US dollars)
+Let's start with some history & estimate what a normalized year will look like
+Assume that the company is in stable growth, growing 2% a year in perpetuity, with the last 12 months as 
+the base year (for both operating income and return on capital)
+Estimate the costs of equity &  capital for Vale
+Cost of equity = 2.50% + 1.2092 (7.84%) = 11.98%
+Cost of capital = 11.98% (.6003) + 6.50% (1-.34) (.3997) = 8.91%
+Value of operating assets = $121,313
++ Cash & Marketable Securities = $     7,873
+- Debt = $   29,253
+Value of equity = $ 99,933
+Value per share =$     19.40
+Stock price (11/18/14) = $   8.53  
+Commodity risk 
+shows up in ups & 
+downs of operating 
+income. Currency 
+risk affects 
+earnings in US $ 
+terms.
+Corporate 
+governance risk 
+shows up in 
+investment policy 
+(reinvestment & 
+ROC) & ﬁnancing 
+policy.
+Business
+Unlevere
+d,beta
+Proportion,of,
+value D/E,ratio
+Levered,
+beta
+Metals'&'Mining 0.86 16.65% 66.59% 1.2380
+Iron'Ore 0.83 76.20% 66.59% 1.1948
+Fertilizers 0.99 5.39% 66.59% 1.4251
+Logistics 0.75 1.76% 66.59% 1.0796
+Vale%Operations 0.84 100% 66.59% 1.2092
+Reserves in % of total ERP
+Brazil 68% 8.50%
+Rest of the world 32% 6.45%
+Vale 7.84%
+Riskfree Rate 2.50%
+Default Spread for Brazil 2.50%
+Default spread for Vale 1.50%
+Cost of debt for Vale (pre-tax) 6.50%
+Year Operating Income ($) Effective tax rate BV of Debt BV of Equity Cash Invested capital ROIC
+2010 $23,033 18.67% $23,613 $59,766 $11,040 $72,339 25.90%
+2011 $30,206 18.54% $27,668 $70,076 $9,913 $87,831 28.01%
+2012 $13,346 18.96% $23,116 $78,721 $3,538 $98,299 11.00%
+2013 $17,596 15.00% $30,196 $75,974 $5,818 $100,352 14.90%
+2014 (LTM) $12,475 20.00% $29,198 $64,393 $5,277 $88,314 11.30%
+Average $19,331 18.23% 18.22%
+Country risk shows up in the ERP and the cost of debt
+!"#$%"&'("$'!!"#$ = !"#$%&$'!!"#$%ℎ!!"#$
+!"#$%&!!"!!"#$%"&! = ! . 02
+. 1130 = .1770!!"!17.70%!
+!!"#$!!"!!"#$%&'()!!""#$" = ! $12,475! 1 − .20 1 − .177
+(.0891 − .02) = $121,313!
+4
+The	  search	  for	  investment	  serenity	  
+¨  As	  Vale’s	  stock	  price	  conWnued	  to	  drop,	  and	  all	  of	  the	  risks	  
+that	  were	  aﬀecWng	  the	  company	  in	  November	  2014	  
+conWnued	  to	  rise,	  I	  revisited	  my	  valuaWon	  of	  Vale,	  in	  a	  
+(desperate)	  search	  for	  comfort	  and	  serenity.	  
+¨  That	  serenity	  was	  threatened	  by	  the	  implosion	  at	  Petrobras,	  
+a	  company	  with	  more	  resemblance	  to	  Vale	  than	  I	  liked,	  
+where	  government	  intrusion	  had	  pushed	  to	  the	  company	  to	  
+the	  edge	  of	  disaster.	  
+¨  Using	  the	  updated	  earnings	  for	  the	  last	  twelve	  months,	  a	  
+drop	  of	  another	  50%	  from	  the	  November	  2014	  level,	  as	  the	  
+base	  year	  earnings	  and	  keeping	  the	  rest	  of	  the	  narraWve	  
+ﬁxed,	  the	  value	  per	  share	  that	  I	  obtained	  was	  much	  lower	  
+than	  in	  November	  2014	  but	  sWll	  higher	  than	  the	  stock	  price.
+Valuing Vale in April 2015 (in US dollars)
+Let's start with some history & estimate what a normalized year will look like
+Estimate the costs of equity &  capital for Vale
+Cost of equity = 2.00% + 1.3424 (8.15%) = 12.93%
+Cost of capital = 12.93% (.5246) + 7.00% (1-.34) (.4754) = 8.98%
+Value of operating assets = $ 77,195
++ Cash & Equity in Afﬂiates = $   8,121
+- Debt & Minority Interests = $ 30,108
+Value of equity = $ 55,208
+Value per share =$    10.71
+Stock price (4/15/15) = $     6.19
+Earning Surprise
+Vale's last quarter 
+earnings report 
+came in well below 
+expectations.
+Petrobrased?
+Vale could become 
+the government's 
+new focus, now 
+that Petrobras is 
+beyond repair.
+Brazil's rating & equity markets have held up, but its reputation and currency 
+have suffered. ERP & Default Spreads (country & Vale) have widened.
+Year Operating Income ($) Effective tax rate BV of Debt BV of Equity Cash Invested capital ROIC
+2010 $23,033 18.67% $23,613 $59,766 $11,040 $72,339 25.90%
+2011 $30,206 18.54% $27,668 $70,076 $9,913 $87,831 28.01%
+2012 $13,434 18.96% $23,116 $78,721 $3,538 $98,299 11.08%
+2013 $17,596 15.00% $30,196 $75,974 $5,818 $100,352 14.90%
+2014 $8,497 20.00% $29,198 $64,393 $5,277 $88,314 7.70%
+Average $18,553 18.23% 17.52%
+Riskfree Rate 2.00%
+Default Spread for Brazil 3.00%
+Default spread for Vale 2.00%
+Cost of debt for Vale (pre-tax) 7.00%
+Region % of total ERP
+Brazil 68% 8.60%
+Rest of the world 32% 7.18%
+Vale 8.15%
+Business
+Unlevered,
+beta
+Proportion,of,
+value D/E,ratio
+Levered,
+beta
+Metals'&'Mining 0.86 16.65% 90.63% 1.3744
+Iron'Ore 0.83 76.20% 90.63% 1.3264
+Fertilizers 0.99 5.39% 90.63% 1.5821
+Logistics 0.75 1.76% 90.63% 1.1986
+Vale%Operations 0.84 100% 90.63% 1.3424
+Reinvestment Rate = Expected growth rate
+Return on Capital = 2%
+8.98% = 22.27%
+Value of Operating Assets = $8,497 (1.02) (1-.1823)(1-.2227)
+(.0898 −.02)  = $77,195
+Assume that the company is in stable growth, growing 2% a year in perpetuity, with the last 12 months as the base year for 
+operating income and assuming return on capital = cost of capital in perpetuity.
+6
+Reality	  Checks	  
+¨  It	  looks	  like	  the	  dark	  places	  that	  I	  entered	  in	  November	  2014	  are	  
+almost	  pitch	  black,	  as	  country	  risk	  in	  parWcular	  conWnued	  to	  rise	  
+unchecked,	  with	  the	  Brazilian	  Reai	  hicng	  lows	  and	  the	  sovereign	  
+CDS	  spread	  hicng	  highs.	  
+¨  China,	  Vale’s	  biggest	  market,	  has	  gone	  from	  being	  a	  strength	  for	  
+the	  company	  to	  a	  potenWal	  vulnerability.	  
+¨  Vale	  conWnue	  to	  test	  the	  bo‘om	  for	  its	  earnings	  by	  reporWng	  
+trailing	  12-­‐month	  earnings	  that	  were	  about	  one	  quarter	  of	  the	  
+earnings	  reported	  in	  April	  2015.	  While	  some	  of	  the	  drop	  can	  be	  
+a‘ributed	  to	  delayed	  reacWons	  to	  earlier	  iron	  ore	  price	  drops,	  the	  
+adjusted	  earnings	  that	  I	  used	  (60%	  below	  the	  ﬁve-­‐year	  average)	  is	  
+a	  late	  acceptance	  that	  iron	  ore	  prices	  are	  not	  going	  back	  to	  
+pre-­‐2012	  levels.	  With	  the	  rest	  of	  the	  story	  holding,	  the	  value	  per	  
+share	  is	  now	  down	  to	  $4.28,	  now	  lower	  than	  the	  stock	  price	  of	  
+$5.05.
+Valuing Vale in September 2015 (in US dollars)
+Let's start with some history & estimate what a normalized year will look like
+Estimate the costs of equity &  capital for Vale
+Cost of equity = 2.13% + 1.5405 (11.30%) = 19.54%
+Cost of capital = 19.54% (.5582) + 9.63% (1-.34) (.4418) = 12.18%
+Value of operating assets = $ 48,451
++ Cash & Equity in Afﬂiates = $   7,626
+- Debt & Minority Interests = $ 33,952
+Value of equity = $ 22,125
+Value per share =$      4.28
+Stock price (4/15/15) = $     5.05
+Earning Down
+Vale's earnings for 
+the last 12 months 
+have collapsed, 
+with revenues & 
+margins down.
+The China Card
+The market 
+collapse in China 
+and the slowing 
+economy put at 
+risk Vale's biggest 
+market
+Brazil has seen its rating downgraded and the sovereign CDS spread has 
+almost doubled over the last year.
+Assume that the company is in stable growth, growing 2% a year in perpetuity, with the last 12 months as the base year for 
+operating income and assuming return on capital = cost of capital in perpetuity. 
+Year Operating Income ($) Effective tax rate BV of Debt BV of Equity Cash Invested capital ROIC
+2010 $24,531 18.70% $27,694 $70,773 $9,942 $88,525 22.53%
+2011 $29,109 18.90% $25,151 $78,320 $3,960 $99,511 23.72%
+2012 $14,036 18.96% $32,978 $75,130 $6,330 $101,778 11.18%
+2013 $16,185 15.00% $32,509 $64,682 $5,472 $91,719 15.00%
+2014 $6,538 20.00% $32,469 $56,526 $4,264 $84,731 6.17%
+Last 12 months $2,927 20.00% $32,884 $49,754 $3,426 $79,211 2.96%
+Average $15,554 18.59% 15.72%
+Riskfree(Rate 2.13%
+Default(Spread(for(Brazil 4.50%
+Default(spread(for(Vale 3.00%
+Cost(of(debt(for(Vale((pre@tax) 9.63%
+Business
+Unlevered,
+beta
+Proportion,
+of,value D/E,ratio
+Levered,
+beta
+Metals'&'Mining 0.86 16.65% 126.36% 1.5772
+Iron'Ore 0.83 76.20% 126.36% 1.5222
+Fertilizers 0.99 5.39% 126.36% 1.8156
+Logistics 0.75 1.76% 126.36% 1.3755
+Vale%Operations 0.84 100% 126.36% 1.5405
+Region % of total ERP
+Brazil 68% 13.00%
+Rest2of2the2world 32% 7.69%
+Vale 100% 11.30%
+Reinvestment)Rate= Expected(Growth(Rate
+Return'on'Capital! =! 2%
+12.18% =16.42%!
+Value&of&Operating&Assets=& 7,232%% 1.02 1!.20 (1!.1642)
+(.1642!.02) =$48,451!
+8
+Speciﬁc	  Lessons	  Learned	  
+1.  NormalizaWon	  is	  dangerous:	  While	  I	  did	  not	  use	  
+normalized	  earnings	  in	  any	  of	  my	  valuaWons,	  the	  use	  of	  
+trailing	  12-­‐month	  numbers	  represented	  implicit	  views	  
+on	  the	  future	  of	  iron	  ore	  prices	  that	  turned	  out	  to	  be	  
+incorrect.	  
+2.  PoliWcal	  risk	  is	  sWcky	  and	  persistent:	  PoliWcal	  risks	  tend	  
+to	  be	  long-­‐standing	  and	  persistent,	  since	  the	  raWonal	  
+soluWons	  to	  them	  almost	  always	  are	  not	  poliWcally	  
+acceptable	  or	  expedient.	  
+3.  Doubling	  down	  eﬀect	  of	  debt:	  Debt	  is	  a	  steroid,	  when	  
+companies	  are	  growing,	  but	  it	  becomes	  a	  sword	  
+hanging	  over	  the	  company,	  when	  risk	  kicks	  in.
+9
+Thoughts	  on	  losing	  
+¨  If	  I	  had	  known	  then	  (in	  November	  2014)	  what	  I	  know	  
+now,	  I	  would	  not	  have	  bought	  Vale,	  but	  that	  is	  both	  
+obvious	  and	  completely	  useless.	  
+¨  I	  have	  no	  regrets,	  since	  I	  made	  my	  best	  esWmates	  in	  my	  
+earlier	  valuaWons.	  I	  was	  wrong,	  but	  then	  again,	  this	  is	  
+neither	  the	  ﬁrst	  Wme	  nor	  the	  last	  Wme	  that	  I	  will	  be	  
+wrong.	  
+¨  I	  am	  glad	  that	  I	  followed	  my	  own	  precepts	  of	  spreading	  
+my	  bets	  and	  not	  invesWng	  money	  in	  “dark	  place”	  assets	  
+that	  I	  cannot	  aﬀord	  to	  lose.	  My	  porlolio	  weathered	  the	  
+Vale	  loss	  and	  my	  family’s	  life	  style	  has	  not	  been	  
+impacted.	  More	  importantly,	  I	  have	  passed	  the	  sleep	  
+test	  with	  Vale.

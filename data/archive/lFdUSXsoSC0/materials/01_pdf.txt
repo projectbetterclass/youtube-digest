@@ -1,0 +1,187 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate2for2020.pdf
+
+DATA UPDATE 2 FOR 2020: A 
+RETROSPECTIVE ON A DECADE 
+(2010-19)
+Change is the only constant!
+2
+A Decade in the Rear View Mirror: 2010-
+2019
+¨ It was a testing period for many active investors, and 
+particularly so for value investors, who found that 
+even as financial assets posted solid returns, what 
+they thought were tried and true approaches to 
+"beating the market" seemed to lose their power . 
+¨ In addition, trust in mean reversion, i.e., that things 
+would go back to historic norms was shaken as 
+interest rates remained low for much of the period 
+and PE ratios rose above historical averages and 
+continued to rise, rather than fall back.
+3
+1. A Good Year for Stocks & Bonds
+4
+More on stocks and bonds in 2019 …
+¨ Over the 92 years that are in this historical assessment,2019 
+ranked as the sixteenth best yearand second only to 2013 
+(annual return of 32.15%) in this century. 
+¨ While stocks have garnered the bulk of the attention for 
+having a good year, bonds were not slackers in the returns 
+game. In 2019, the ten-year US treasury bond returned 9.64% 
+and ten-year Baa corporate bonds weighing in with a 15.33% 
+return.   The bulk of these returns came from price 
+appreciation, as the US treasury bond rate declined from 
+2.69% to 1.92%, and the corporate bonds also benefited from 
+a decline in default spreads (the price of risk in the bond 
+market) during the year .
+5
+Putting 2010-19 in perspective…
+6
+a. Historical Equity Risk Premium 
+(updated)
+If you trust history (I don’t):
+Expected return on stocks in 2020 = T.Bond Rate + 
+Historical ERP = 1.92% + 4.83% = 6.75%
+Expected price appreciation on stocks = Expected Return 
+- Dividend yield = 6.75%- 1.82% = 4.93%
+7
+b. Stocks don’t always win in the long 
+term..
+¨ The fact that stocks have beaten treasury and corporate 
+bonds by wide margins historically is often the sales pitch 
+used to push investors to allocate more of their savings to 
+stocks, with the argument being that stocks always win in the 
+long term. The data should yield cautionary notes. 
+¤ First, in three decades out of the nine in the table, stocks under-
+performed bonds and treasury bills, and if your response is that ten 
+years is not a long enough time period, you may want to check the 
+actuarial tables. 
+¤ Second, there is a selection bias in our use of the US markets for 
+computing the historical premium. Looking across the globe, the US 
+was one of the most successful equity markets of the last century and 
+using it may be skewing our results upwards. Put bluntly, if you had 
+invested in the Nikkei at the height of its climb in the 1980s, you would 
+still be struggling to get back the money you lost, when the Japanese 
+markets collapsed.
+8
+c. Market Timing
+¨ It is human nature to try to time markets, and some investors make it 
+the central focus of their investment philosophies. The historical 
+return data gives us a sense of both the upside and the downside of 
+doing so. 
+¤ In terms of pluses, an investor who was able to avoid the doomed decades (when stocks 
+earned less than T. B i l l sand T. B o n d s) would be comfortably ahead of an investor who did 
+not, if he or she stayed fully invested in the remaining decades . 
+¤ In terms of minuses, if the market timing investor failed to stay invested in stocks in the 
+good decades, the opportunity costs would quickly overwhelm the benefits. 
+¨ In the last decade, there were many investors who believed that a 
+correction was around the corner, driven by their perception that 
+interest rates were being kept artificially low by central banks and that 
+they would revert to historic norms quickly. When that reversion did 
+not occur, these investors paid a hefty price in returns foregone.
+9
+2. A Low Interest Rate Decade
+10
+And Central Banks were only partly 
+responsible…
+11
+3. A Tech Decade
+12
+And FAANG stocks stole the show…
+13
+4. Old Patterns, New Markets?
+¨ One of the perils of being in a market like the US, where 
+rich historical data is available and easily accessible is 
+that analysts and academics have pored over the data 
+and not surprisingly found patterns that have very 
+quickly become part of investment lore.
+¨ Thus, we have been told that value beats growth, at 
+least over long periods, and that small cap stocks earn a 
+premium, and have converted these findings into 
+investing strategies and valuation practices. 
+¨ While it is dangerous to use a decade’s results to 
+abandon a long history, the last decade offered sobering 
+counters to old investing nostrums.
+14
+a. Value versus Growth – History
+15
+Across the decades…
+16
+b. The Size Premium
+17
+Across the decades…
+18
+5. The Decade’s Buzz Words
+¨ Every decade has its buzzwords, words that not only 
+become the focus for companies but are also money 
+makers for consultants, and the last decade was no 
+exception. There were two that stood out to me in 
+the last decade: 
+¤ The first was big data, driven partly by more extensive 
+collection of information, especially online, and partly by 
+tools that allowed this data to be accessed and analyzed. 
+¤ The other was crowd wisdom, where expert opinions were 
+replaced by crowd judgments on a wide range of 
+applications, from restaurant reviews to new (crypto) 
+currencies.
+¨
+19
+a. Big Data
+¨ The success of the FAANG stocks and the perception that 
+a big reason for their success is the data that they have 
+collected on their users has led other companies to 
+invest heavily in big data.
+¨ Like all buzz words, big data has been over sold. In 
+particular, for big data to create value:
+¤ The data has to be exclusive: For data to be valuable, there has 
+to be some exclusivity. Put simply, if everyone has it, no one has 
+an advantage. 
+¤ The data has to be useful in changing business offerings: For 
+value conversion to occur, the data that has been collected has 
+to be usable in modifying and adapting the products and 
+services you offer as a business.
+20
+b. Crowd Wisdom
+¨ One of the consequences of the 2008 crisis was a loss in faith 
+in both institutional authorities but also in experts, most of 
+whom had been hopelessly wrong in the lead up to the crisis.  
+It is therefore not surprising that you saw a move towards 
+trusting crowds.  
+¨ It is no coincidence that Satoshi Nakamoto (whoever he 
+might be) posted the paper laying out the architecture of 
+Bitcoin in November 2008, a proposal for a digital currency 
+without a central bank or regulatory overlay, where 
+transactions would be crowd-checked (by miners).  While 
+Bitcoin has been more successful as a speculative game than 
+as a currency during the last decade, the block chains that it 
+introduced have now found their way into a much wider 
+range of businesses.
+21
+Crowd wisdom and madness!
+¨ The crowd concept has expanded into almost every 
+aspect of our lives, with Yelp ratings replacing restaurant 
+reviewers in our choices of where to eat, Rotten 
+Tomatoes supplanting movie critics in deciding what to 
+watch and betting markets replacing polls in predicting 
+election outcomes. 
+¨ I share the distrust of experts that many others have, but 
+I also wary of crowd wisdom. After all, financial markets 
+have been laboratories for observing how crowds 
+behave for centuries, and we have found that while 
+crowds are often much better at gauging the right 
+answers than market gurus and experts, they are also 
+prone to herding and collective bad choices.
+22
+The Decade to Come
+¨ Study the past: It has been said that those who forget 
+the past are destined to relive it, and that is one reason 
+why we pore over historical track records, hoping to get 
+insight for the future. 
+¨ But don’t try to relive it: It has also been said that army 
+generals who prepare too intensely to fight the last war 
+will lose the next one, suggesting that reading too much 
+into history can be dangerous. 
+¨ Be adaptable & keep learning: Keep an open mind and 
+do not take conventional wisdom as a given. I don’t 
+know what the next decade will bring us, but I can 
+guarantee you that it will not look like the last one or any 
+of the prior ones,

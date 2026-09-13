@@ -1,0 +1,208 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/TeslaGoingPrivate.pdf
+
+THE PRIVATIZATION OF TESLA: 
+STRAY TWEET OR DEAL T0 COME?
+Aswath Damodaran
+2
+The Musk Tweet
+Aswath 
+Damodaran
+2
+¨ Even by Musk's own standards, his tweet on August 7 that 
+Tesla would be going private, adding both a price ($420) and 
+a postscript (that funding had been secured), was a news 
+maker, posing the stock up more than 10% for the day. 
+¨ The questions that have followed have been wide ranging, 
+from whether Tesla is a good candidate for "going private" to 
+the mechanics of how it will do so (about funding and 
+structure) to the legality of conveying a market-moving news 
+story in a tweet.
+3
+Public versus Private: Business Trade off
+Aswath 
+Damodaran
+3
+Private Business Publicly traded firm
+Access to capital Less                                                                                    More
+Access to capital, especially in large amounts, is easier for publicly traded 
+companies than for private businesses, who are more dependent on VCs 
+and PE funds.
+Information Disclosure Less                                                                                    More
+Disclosure requirements, both for financial data and for any news that 
+may move prices are more stringent and onerous for public companies 
+than for private businesses.
+Control and Governance Investor negotiated                       Corporate Governance Laws 
+In private businesses, the founders and investors (VCs and PE investors) 
+negotiate how control is shared, but control rests with insiders. In public 
+companies, the corporate governance rules are set by laws and backed 
+by regulators and opened up to outsiders (investors with shares).                                                                         
+Monitoring Internal                                                                       External
+The monitoring of a private company’s operations and results is internal 
+and oriented to its investors (VC, PE and founder). Public companies are 
+followed by equity analysts from both the buy and sell-side and their 
+questioning will reflect what they view as important for determining 
+pricing.  
+Pricing Negotiated & Infrequent              Market-set & Continuous 
+With private companies, the pricing of the company is usually estimated 
+at the time new capital is raised and is a negotiated number . With public 
+companies, the market sets the price and does so continuously.
+4
+Public versus Private: Investor Perspective
+Aswath Damodaran
+4
+Private Business Publicly traded firm
+Design flexibility High                                                                                 Low
+When investing in equity in a private business, you have lots of flexibility in 
+how the investment is designed; many VCs build in protection against future 
+dilution and lower pricing. With public companies, it is more of one size fits 
+all, though you can have shares with different voting & cash flow rights.
+Liquidity Low                                                                                   High
+An investment in a private business is much less liquid than an equivalent 
+investment in a public company. Put differently, there will be a much higher 
+cost to getting in and out of the investment.
+Information Disclosure Negotiated                                                                    Mandated
+Private business investors are entitled to less mandated disclosure than 
+public company investors, but they can ask for and get information that 
+might not be accessible in public markets
+Control and Governance Investor negotiated                       Corporate Governance Laws 
+The control that investors have in private companies is determined by how 
+much power they have negotiated for themselves. The control that investors 
+have in public companies stems from how voting rights are distributed 
+across shares and the effectiveness of corporate governance mechanisms 
+(board of directors, voting rules).
+5
+Public to Private: The Right Candidate
+Aswath Damodaran
+5
+¨ This transition makes sense if a public company 
+n that does not need access to large amounts of new capital to 
+continue operating
+n where the market is under pricing the company, relative to its 
+intrinsic value
+n that feels the actions that it needs to take in its best long term 
+interests will either create public backlash (layoffs and plant 
+closures) or adverse market reactions (because of the effect 
+that they will have on metrics that investors are focused 
+upon.)
+¨ Target: Aging companies (no growth, no capital needed), 
+trading at prices that are below their peer group (lower 
+multiples of earnings or cash flows) and that need to 
+shrink or slim down to keep operating.
+6
+Is Tesla a good candidate?
+¨ If It is a growing company and it needs new capital to not only 
+deliver on its growth promise but to survive for the next few 
+years. 
+¨ If markets are punishing Tesla by under pricing the company, 
+they are doing so in a very strange manner,giving it a higher 
+market capitalization than much larger, more profitable 
+automobile companies, ignoring large losses and generally 
+tolerant of Elon Musk's errant behavior . 
+¨ It is true that there was substantial drama and market 
+volatility around the 5000 cars/week production target, but 
+almost all of the drama in this episode, from setting the 
+target (5000 cars/week) to the constant tweets about 
+whether the targets would be met, was generated by Elon 
+Musk, not the market.
+7
+Public to Private: The Funding
+8
+Public to Private: Classic Buyout
+9
+Public to Private: Tesla’s Painless Solution
+10
+Why it may not be plausible
+¨ It may not be legal: The deal may not pass legal muster, since 
+the SEC restricts private companies to having less than 2000 
+shareholders, and Tesla has far more than that number . It is 
+true that you might be able to create a fund that has 
+individual shareholders, which then holds equity in the 
+private company, like Uber has, but that fund is restricted to 
+very wealthy, big investors, and the SEC may be unwilling to 
+go along with a structure where there are thousands of small 
+stockholders in the fund. 
+¨ It may not be viable: The second is that even if Tesla manages 
+to get regulatory approval for this unconventional set up, 
+many shareholders may choose to cash out at $420, if the 
+company goes private, even if they think that the shares are 
+worth more, because they value liquidity.
+11
+A Big Partner?
+¨ Tesla's large market capitalization and cash burning status work 
+against it, reducing the number of potential players in the game.  At 
+the limit, if all existing shareholders, other than Musk, cash out at 
+$420/share, you would need about $55-$60 billion in funding. No 
+sovereign fund or passive investment vehicle can afford to have 
+that much money tied up in one company, and especially one that 
+will need more capital infusions in the future. 
+¨ Even the biggest private equity and venture capital investors, 
+generally more willing to hold concentrated positions, will be hard 
+pressed to put this much capital, for the same reasons. The only 
+name that you can come up with that has even the possibility of 
+pulling this off is Softbank, for three reasons:
+¤ They may be big enough to make the investment
+¤ They have and are invested in young, growth companies
+¤ They have a history with Tesla
+12
+So, where is the ”secured funding”?
+¨ It is at this point that the "secured funding" claim 
+that Musk made in his initial tweet comes into 
+question. 
+¤ If the statement is true, he has either found an inept bank 
+that will lend tens of billions to a money losing company 
+with an undisciplined CEO, or a private equity investor who 
+is willing to make the largest PE investment in history, 
+while allowing Musk to continue running the company, 
+with no checks and balances. 
+¤ If the statement is false, we will be seeing lawyers debating 
+the meaning of the words "secured" and "funding" for a 
+while.
+13
+A Simpler Explanation: Occam’s Razor at 
+Work
+¨ This entire post has been premised on the notion 
+that Elon Musk had done his homework and that he 
+intended to send a serious signal to markets about a 
+future buyout. 
+¨ Given Musk's history of impetuous and personal 
+tweets, that premise might be completely wrong, in 
+which case the explanation for this episode may be 
+far simpler and rooted in the war with short sellers 
+that Musk has been fighting for a while.
+14
+Musk hates short sellers
+¨ Musk is convinced, rightly or wrongly, that short 
+sellers in Tesla are conspiring to bring not just the 
+stock price, but the entire company, down. 
+¨ He is obsessed with short sellers and spends a 
+disproportionate amount of his time and attention 
+on bringing them down. 
+¨ So, it is true that short sellers are a distraction to the 
+company, but only because Elon Musk has made it 
+so.
+15
+The short sellers hate Musk
+¨ Many of the short sellers in Tesla seem to be just as 
+obsessed with Musk and are convinced that he is a 
+scam artist. 
+¨ I have a sneaking feeling that for many of them, 
+winning will mean not just making money on their 
+Tesla positions, but seeing the company cease to 
+exist (and taking Musk down with it).
+16
+When investing gets personal, nothing 
+good follows!
+¨ Investing is a difficult game, to begin with, but it becomes 
+doubly so, when it becomes personal. Just as it is dangerous 
+to fall in love with a company that you have invested in, it is 
+just as dangerous to bet against a company because you hate 
+its management and want it to fail. 
+¨ I think both sides of the Tesla short selling game are so 
+infected with personal bias that they may do or say things 
+that are not in their best long term investing interests. 
+¨ I hope, for Tesla's sake, that Musk's personal dislike of short 
+sellers did not lead him to tweet out that Tesla would go 
+private. with both the price ($420) and the "secured funding" 
+being spur of the moment inventions. In his zeal to make 
+short sellers pay, he may have handed them the weapon they 
+need to bring him down.

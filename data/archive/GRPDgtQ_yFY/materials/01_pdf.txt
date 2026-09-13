@@ -1,0 +1,181 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/CountryRisk2018.pdf
+
+COUNTRY RISK 2018: A MID-YEAR 
+UPDATE
+Aswath Damodaran
+2
+Setting up country risk
+Aswath 
+Damodaran
+2
+¨ Investors are more global: Encouraged to spread their bets 
+around the world, investors have shed some of the home bias 
+in their portfolios and added foreign equities to their 
+portfolios. 
+¨ As are companies: Even those that have stayed invested with 
+companies in their own markets are finding that those 
+companies derive large chunks of their revenues from foreign 
+markets. 
+¨ No place to hide: There is no place to hide from assessing 
+global risk and analysts who bury their head in the sand will 
+miss large parts of the big picture.
+¨ My twice-annual updates: I update my country risk 
+premiums, twice every year, just as I have for the last 25 
+years.
+3
+The Fundamentals of Country Risk
+Aswath 
+Damodaran
+3
+¨ The prevalence of corruption in a country, with the 
+corrosive influences it has on business practices and 
+financial reports. 
+¨ Increased exposure to violence from war or terrorism in 
+some countries, creating not just additional operating 
+costs (for insurance and protection) but also the real 
+possibility of a complete loss of the business. 
+¨ The legal system for enforcing property rights, since a 
+share in even the most valuable business in the world is 
+worth little or nothing, if property rights are ignored or 
+violated on a whim. In this section, we will look at the 
+state of the world on these three dimensions.
+4
+1. Corruption: Why we care..
+Aswath Damodaran
+4
+1. It is a hidden tax: The effective tax rate that a company 
+pays in a corrupt economy will be much higher than 
+the statutory tax rate. Since it is not legal for companies 
+to pay bribes in much of the developed world, it is not 
+explicitly reported as such in the financial statements 
+but it is a drain on income, nevertheless.
+2. It can be a competitive advantage or disadvantage: In 
+many corrupt economies, there are companies that are 
+not only more willing but also more efficient at playing 
+the corruption game, giving them a leg up on 
+businesses that face moral or legal restrictions on 
+playing the game.
+5
+Global Corruption: A Picture
+Aswath Damodaran
+5
+6
+II. Violence: Why we care..
+¨ Protecting the business and its employees against 
+the violence is expensive, with more security built 
+into even the most common place practices. To the 
+extent that this protection is not complete, there is 
+the added cost of the destruction wrought by 
+violence. 
+¨ In extreme cases, the violence can cause a business 
+to fail. It is true that you can insure against some of 
+these events, but that insurance cost will be high 
+and reduce profit margins.
+7
+Violence: Global Picture
+8
+III. Legal Protection: Why we care..
+¨ In valuation, we value a business or a share in it, on 
+the assumption that that you are entitled, as the 
+owner, to a share of its assets and cash flows. That is 
+true, though, only if private property rights are 
+respected and are backed up a legal system in a 
+timely fashion. 
+¨ As property rights weaken, the claim on the cash 
+flows and assets also weakens, reducing the 
+assessed value, and in extreme circumstances, such 
+as nationalization with no compensation, the value 
+can converge on zero.
+9
+Legal Protection: Global Picture
+10
+Composite Risk Measures
+11
+Default Risk
+¨ Sovereign Ratings: Ratings agencies have rated corporate 
+bonds for default risk, using a letter grade system that goes 
+back almost a century. In the last three decades these 
+agencies have turned their attention to sovereign debt, using 
+the same rating system. 
+¨ Sovereign CDS Spreads: Look at what investors are 
+demanding as a spread for buying bonds issued by a risky 
+sovereign. Since there only a few countries where this is the 
+case, it is provident that the sovereign CDS market has 
+expanded over the last decade. This market, where you can 
+buy insurance, on an annual basis, against default risk, has 
+expanded over the last few years and there are now about 80 
+countries where you can observe the traded spreads.
+12
+Sovereign Ratings: Global Picture
+13
+Sovereign CDS Spreads: Global Picture
+14
+From Default to Equity Risk
+¨ If you are lending money to a business, or buying 
+bonds, it is default risk that you are focused on, but 
+if you own a business, your exposure to risk is far 
+broader, since your claims are residual. This is equity 
+risk.
+¨ If there are variations in default risk across 
+countries, it stands to reason that equity risk should 
+also vary across countries, leading investors and 
+business owners to demand different equity risk 
+premiums in different parts of the world.
+15
+Two Propositions on Country Risk
+¨ Proposition 1: If country risk is diversifiable and investors 
+are globally diversified, the equity risk premium should 
+be the same across countries. If country risk is not fully 
+diversifiable, either because the correlation 
+across markets is high or investors are not global, the 
+equity risk premium should vary across markets.
+¨ Proposition 2: If there are variations in equity risk 
+premiums across countries, the exposure of a business 
+to that risk should be determined by where the business 
+operates (in terms of producing and selling its goods and 
+services), not where it is incorporated.
+16
+Estimating Equity Risk Premium for a 
+Country
+17
+ERP: A Global Picture
+18
+Incorporating Country Risk into Valuation:
+Coca Cola, with Revenues
+19
+Incorporating Country Risk into Valuation: 
+Royal Dutch, with Production
+20
+Incorporating Country Risk Into Investment 
+Analysis
+¨ Assume that Coca Cola is considering making investments in Nigeria, 
+Chile and US and is trying to estimate the "right" cost of equity to use in 
+its assessment. Even if all of the investments are in identical businesses 
+(soft drinks) and are in the same currency (US dollars), the costs of equity 
+will vary across them (the beta for Coca Cola is 0.80 and the risk free rate 
+is 3%):
+¤ Nigeria project: Risk Free Rate +Beta* (Nigeria ERP) = 3% + 0.80 (13.15%) = 13.52%
+¤ Chile project: Risk Free Rate +Beta* (Chile ERP) = 3% + 0.80 (6.22%) = 7.98%
+¤ US project: Risk Free Rate +Beta* (USA ERP) = 3% + 0.80 (5.37%) = 7.30%
+¨ It is worth noting that many companies still adopt the practice of using 
+the same hurdle rate for investments in different markets and if Coca Cola 
+adopted this practice, it  will reduce the cost of equity for the Nigerian 
+investment and raise it for the Chilean and Canadian investments, and 
+over time, it will lead Coca Cola to over invest and over expand in the 
+riskiest markets.
+21
+Incorporating Country Risk into Pricing
+¨ If equity risk varies across countries, you should also expect to see 
+it show up in PE ratios or EV/EBITDA multiples, with companies in 
+riskier markets trading at lower values. 
+¨ This can be viewed as an argument for finding comparable firms in 
+markets of equivalent risk, but as we saw with Coca Cola and Royal 
+Dutch, that can be difficult to do. 
+¨ Since there are often far fewer companies listed in many emerging 
+markets, you have no choice but to look outside your market for 
+comparable firms, and when you do so, you have to at least 
+consider differences in country risk, when making your judgments. 
+¨ If you do not, and you are comparing publicly traded retailers 
+across Latin America, companies in riskier markets (like Venezuela, 
+Argentina and Ecuador) will look cheap relative to companies in 
+safer markets (like Chile and Colombia).

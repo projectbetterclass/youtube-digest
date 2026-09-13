@@ -1,0 +1,164 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/MarketTurmoil.pdf
+
+THIS IS A TEST ,THIS IS ONLY A
+TEST! MARKET TURMOIL IN 2018
+Aswath Damodaran
+2
+A Market Crisis
+¨ In a market crisis, the fear factor rises, some investors sell and 
+head for the safer pastures, some are paralyzed not knowing 
+what to do, and some double down as contrarians, buying 
+into the sell off. 
+¨ In the last week, I found myself drawn to each of three 
+camps, at different points in the same day, as the market 
+went through wild mood swings. 
+¨ I feel the urge to abandon my investment principles and go 
+with my gut, never a good idea. I know that I have to step 
+back from the action, regain perspective and return to what 
+works for me in markets, and it is for that reason that I find 
+myself going through the same sequence, each time I face a 
+market crisis.
+3
+Step 1: Assessing the Damage & Getting 
+Perspective
+¨ The first casualty in a crisis is perspective, as drawn 
+into the news of the day, we tend to lose any sense 
+of proportion.
+¨ It was a bad week, but in context:
+2/1/08 2/1/17 1/1/18 2/1/18
+S&P 500 on date 1355 2279 2674 2822
+S&P 500 on 2/8/18 2581 2581 2581 2581
+% Change 90.48% 13.25% -3.48% -8.54%
+4
+The pain cut across sectors..
+Industry Market Cap ($mm) Return in last 
+week Relative to Market
+Return last 
+year
+Energy $                5,137,375 -11.93% 1.40 -6.24%
+Real Estate $                3,699,797 -7.32% 0.86 -4.99%
+Materials $                6,117,691 -7.51% 0.88 10.89%
+Industrials $              10,574,220 -8.34% 0.98 12.08%
+Consumer Discretionary $              10,691,677 -6.10% 0.71 18.29%
+Consumer Staples $                7,047,157 -6.97% 0.82 0.68%
+Healthcare $                7,485,608 -8.24% 0.96 13.40%
+Financials $              27,098,950 -9.64% 1.13 16.10%
+Information Technology $              13,006,413 -9.55% 1.12 24.89%
+Telecommunication Services $                2,632,461 -9.43% 1.10 -8.29%
+Utilities $                2,727,960 -5.53% 0.65 -3.85%
+S&P 500
+$              96,219,308 -8.54% 12.48%
+5
+And geographies..
+6
+The Bond Market
+7
+Step 2: Look for reasons, but don’t get 
+carried away..
+Aswath Damodaran
+7
+Reason Symptoms Market Consequences
+Panic Attack
+Sharp movements in stock prices for 
+no discernible reasons with surge in 
+fear indices
+Market drops sharply but quickly 
+recovers back most or all of its losses as 
+panic subsides
+Fundamentals
+Event or news that causes expected 
+cash flows, growth or perceived risk 
+in equities to change significantly.
+Market drops sharply and stays down, 
+with price moves tied to the 
+fundamental(s) in focus.
+Repricing of Risk
+Event or news that leads to repricing 
+of risk (in the form of equity risk 
+premiums or default spreads).
+If price of risk is reassessed upwards, 
+market drops until the price of risk finds 
+its new equilibrium.
+8
+With this correction, the trigger was 
+fundamental
+¨ This avalanche of selling was started last Friday 
+(February 1, 2018) by a US unemployment report 
+that contained mostly good news, with 200,000 new jobs 
+created, a continuation of a long string of positive jobs 
+reports. Included in the report, though, was a finding 
+that wages increased 2.9% for US workers, at odds with 
+the mostly flat wage growth over the last decade. 
+¨ That higher wage growth has both positive and negative 
+connotations for stock fundamentals, providing a basis 
+for strong earnings growth at US companies that is built 
+on more than tax cuts, while also sowing the seeds for 
+higher inflation and interest rates, which will make that 
+future growth less valuable.
+9
+That led to a repricing of risk
+Date S&P 500 T. B o n d  R ate Implied ERP Link to spreadsheet
+31-Jan-18 2823.81 2.74% 4.78% ERP , Jan 31
+1-Feb-18 2821.98 2.77% 4.78% ERP , Feb 1
+2-Feb-18 2762.13 2.85% 4.88% ERP , Feb 2
+5-Feb-18 2648.94 2.79% 5.09% ERP , Feb 5
+6-Feb-18 2695.14 2.77% 5.00% ERP , Feb 6
+7-Feb-18 2681.66 2.84% 5.02% ERP , Feb 7
+8-Feb-18 2581.00 2.83% 5.22% ERP , Feb 8
+10
+And precipitated panic
+¨ The rise in the volatility indices are a clear indicator 
+of this panic response, with the VIX almost tripling in 
+the course of the week. 
+¨ Just in case you feel the urge to blame millennials, 
+with robo-advisors, for the panic selling, they seem 
+to be staying on the side lines for the most part, and 
+it is the usual culprits, "professional" money 
+managers that are most panicked of all.
+¨
+11
+Question 1: Where are interest rates 
+headed?
+12
+Question 2: What is a reasonable ERP?
+13
+When will the panic end?
+¨ There will be a moment, perhaps later today or in 
+two weeks or two months, where the fever will pass 
+and the momentum will shift. 
+¨ If you are a trader, you can get rich playing this 
+game, if you play it well, or poor in a hurry, if you 
+play it badly. I choose not to play it all.
+¨ If you are an investor, you should not even by trying 
+to answer this question.
+14
+An Intrinsic Valuation of the S&P 500
+15
+Step 3: Revisit your investment philosophy
+16
+And don’t let a market crisis change it..
+¨ The truest test of whether you have an investment philosophy is a 
+week like the last one, where you will be tempted to or panicked 
+into abandoning everything that you believe about markets. 
+¨ I see myself as an investor, not a trader, and that given my tool kit 
+and personality, what works for me is to be a investor grounded in 
+value, though my use of a more expansive definition of value than 
+old-time value investors, allows me to buy both growth stocks and 
+value stocks. 
+¨ I am not a market timer for two reasons. First, the overall market 
+has too many variables feeding into it that I do not control and 
+cannot forecast, making my valuations inherently too noisy to be 
+useful. Second, I see little that I bring to the overall market in terms 
+of tools or information that will give me an edge over others.
+17
+Final Suggestions
+¨ No regrets: During every market crisis, you will be 
+tempted to look and ask that ever present question of 
+"What if” . Not only is this pointless, unless you have 
+mastered time travel, but it can be damaging to your 
+future returns, as your regrets about past actions taken 
+and not taken play out in new actions that you take. 
+¨ Look forward: My suggestion is that you return to your 
+core investment philosophy and start to think about the 
+actions that you can take on Monday, when the market 
+opens, that would be consistent with that philosophy.

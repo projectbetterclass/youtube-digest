@@ -1,0 +1,18 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session11soln.pdf
+
+Session	11:	Post	class	test	solutions	-	
+1. e.	None	of	the	above.		Very	high	nominal	rates	are	consistent	with	high	
+expected	inflation	and	negative	nominal	rates	are	consistent	with	deflation.	
+Real	interest	rates	can	be	negative	during	severe	economic	slowdowns	and	
+can	climb	to	high	levels	when	economic	growth	is	very	strong.	
+2. b.	2.00%.			Short	cut	answer	=	Expected	inflation	=	T.Bond	rate	–	TIPS	rate	=	
+3%-1%	=	2.00%.	More	precise	answer	=	(1.03/1.01)-1	=	1.98%	
+3. c.	When	you	expect	inflation	to	be	high	and	everyone	else	expects	
+inflation	to	be	low	for	the	next	10	years.	The	10-year	treasury	bond	rate	
+will	reflect	consensus	expectations	about	inflation	and	be	low,	but	the	TIPS	
+rate	is	a	real	rate	and	buy	buying	the	bond,	you	will	get	the	real	rate	plus	
+actual	inflation	
+4. e.		None	of	the	above.		The	central	bank	sets	none	of	these	rates.	
+5. d.	Short	term	rates	are	high,	long	term	rates	are	lower.	Historically,	
+downward	sloping	curves	have	been	associated	with	slower	economic	
+growth,	though	the	evidence	is	weak.

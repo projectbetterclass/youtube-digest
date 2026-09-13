@@ -1,0 +1,133 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate3for2019.pdf
+
+JANUARY 2019 DATA UPDATE 3: 
+PLAYING THE NUMBERS GAME!
+Aswath Damodaran
+2
+An Annual Rite
+¨ Every year, for the last three decades, I have spent 
+the first week of the year, looking at numbers. 
+¨ Specifically, as the calendar year ends, I download 
+raw data on individual companies and try to 
+decipher trends and patterns in the data. 
+¨ Over the years, my data has become richer, but 
+ironically, I have become more wary about trusting 
+data.
+3
+The Sample
+¨ All publicly traded firms with a market price: My 
+sample includes all publicly traded firms with a 
+market capitalization greater than zero and all of the 
+information that I get from my data providers is in 
+the public domain. 
+¨ No sampling bias: If you are wondering why I don't 
+screen out firms that have small market 
+capitalizations or are in markets where information 
+disclosure is spotty, it is because any sampling 
+choices that I make to restrict my sample will create 
+biases that may skew the statistics.
+4
+Geographies…
+Geographical 
+Grouping Includes Rationale
+Australia, NZ and 
+Canada
+Australia, New Zealand 
+and Canada Share a reliance on natural resources.
+Developed Europe EU, UK, Switzerland and 
+Scandinavia
+Includes riskier EU countries, but 
+reflects European company pricing and 
+choices.
+Emerging Markets
+Asia other than Japan, 
+Africa, Middle East, Latin 
+America, Eastern Europe & 
+Russia
+A really mixed bag of countries from 
+many regions with different 
+characteristics, with variations in added 
+risk.
+Japan
+Japanese companies
+Different enough from the rest of the 
+world that it still deserves its own 
+grouping.
+United States US companies 
+Accounts for the biggest chunk of world 
+market capitalization.
+5
+And Breakdown..
+6
+Industry Groupings
+¨ To classif y companies into industrial groups, I start with the 
+industry listings provided by my raw data providers but add my 
+own twist to create industry groupings. In making my 
+classifications, I will err on the side of broader classifications, rather 
+than narrower one, for two reasons:
+¤ Law of large numbers : The power of averaging gets stronger, as sample 
+sizes increase, and using broader groupings results in larger samples. To 
+illustrate, I have 1148 apparel firms in my global sample, thus allowing for 
+enough firms in every sub grouping.
+¤ Better measures : In both valuation and corporate finance, there is an 
+argument to be made that the numbers we obtain for broader groups is a 
+better estimate of where companies will converge than focusing on 
+smaller groups.
+¨ That said, there will be times where the broad industry 
+classifications that I use will frustrate you, especially on pricing 
+metrics, like PE ratios and EV to EBITDA multiples.
+7
+The Largest Industries
+Aswath Damodaran
+7
+8
+Data: Timing
+¨ I download data from both accounting statements and 
+financial markets and in doing so, I do run into a mild 
+timing issue. 
+¤ The accounting data that I have for most firms on January 1, 
+2019, is as of the third quarter of 2018 (ending September 30, 
+2018) and I use the trailing 12-month data as of the most recent 
+financial filing. For companies in countries with semi-annual 
+filings, the data will be even mow dated, but there is little that 
+can be done about that. 
+¤ For market data, I use the market prices and rates, as of 
+December 31, 2018. 
+¨ While you may think of that as a timing inconsistency, I 
+do not, since that is most updated information an 
+investor would have had on January 1, 2019.
+9
+Data: Adjusting the Data
+¨ Leases: I convert lease commitments to debt, which alters 
+operating income and debt numbers, a modification that I 
+have made for more than 20 years. I am pleased to note that 
+accounting will finally come to its senses and try to do the 
+same starting in 2019 and you should be able to get a preview 
+of how margins, debt ratios and returns on capital will change 
+from my computations. 
+¨ R&D: The second adjustment is to convert R&D expenses 
+from an operating expense (which it clearly is not) to a capital 
+expense, which it clearly is, again affecting operating income 
+and invested capital.
+¨ Comparison: For purposes of transparency, I report both the 
+adjusted and the unadjusted numbers for the statistics that 
+are affected by it.
+10
+Data: Statistics
+11
+Data: Use
+1. Don't assume that mean reversion is automatic: While mean 
+reversion is a strong force, it is not immutable, and when you 
+have structural changes in the economy and sectors, it will break 
+down.
+2. Trust, but verify: While I would like to believe that my 
+computations of widely used ratios (from accounting ratios like 
+return on equity and ROIC to pricing metrics like EV to EBITDA) 
+are correct, they represent my views and may differ from yours. It 
+is for this reason that I provide a full listing ofhow I compute my 
+numbers at this link. 
+3. The data will age, and some more quickly than others, over the 
+course of the year: I have neither the interest, nor the inclination, 
+to be a full-fledged data service. The data will be updated a year 
+on January 5, 2020. The only numbers that I plan to update mid 
+year are the country risk premiums.

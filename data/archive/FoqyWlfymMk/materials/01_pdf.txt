@@ -1,0 +1,205 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/RideSharingAug2016.pdf
+
+THE	RIDE	SHARING	BUSINESS:	IS	
+THIS	A	BAR	MITZVAH	MOMENT?
+Disruption	is	easy,	making	money	of	disruption	is	
+difficult.
+2
+The	Ride	Sharing	Business	 - My	October	
+2015	perspective
+¨ I	valued	Uber	at	about	$23	billion	and	Lyft	at	close	to	
+$5	billion,	on	the	presumption	that	the	disruption	of	
+the	ride	sharing	(or	other	related)	businesses	was	
+well	under	way.
+¨ The	ride	sharing	business,	though	growing	fast,	has	
+not	found	a	pathway	to	profitability.
+3
+The	Possible	Pathways	to	a	Viable	Business	
+Model
+1. Winner	takes	all:	The	“winner	takes	all” ,	where	one	ride	
+sharing	company	emerges	as	the	winner	and	takes	the	bulk	
+of	the	ride	sharing	market.
+2. The	Loser’s	Game:	The	game	boils	down	to	two	or	a	few	
+ride	sharing	companies	that	constantly	compete	for	each	
+other’s	resources	and	customers,	making	this	a	loser’s	
+game.
+3. Divide	and	Rule:	The	two	or	few	ride	sharing	companies	
+come	to	a	truce,	where	they	divide	the	market	into	fiefdoms	
+and	respect	the	borders.
+4. The	Game	Changer:	Recognizing	that	the	ride	sharing	
+business	is	not	a	sustainable	model,	a	company	(either	
+within	the	existing	market	or	from	outside)	comes	up	with	a	
+new	business	model.
+4
+1.	Ride	Sharing	continues	on	a	growth	path	
+Year Number	of	US	ride	sharers	(in	millions) %	of	US	adult	population
+2014 8.20 3.40%
+2015 12.40 5.00%
+2016 15.00 6.00%
+2017 17.00 6.70%
+2018 18.20 7.10%
+2019 19.40 7.50%
+2020 20.40 7.80%
+5
+2.	Globalizing	Fast
+¨ Didi Chuang,	the	Chinese	ridesharing	company,	
+completed	1.43	billion	rides	just	in	2015	and	it	now	
+claims	to	have	250	million	users	in	360	Chinese	
+cities.	
+¨ Ride	sharing	is	also	acquiring	deep	roots	in	both	
+India	and	Malaysia,	and	is	making	advances	in	
+Europe	and	Latin	America,	despite	regulatory	
+pushback.
+6
+3.	Expanding	Choices
+¨ The	choices	in	ride	sharing	are	becoming	wider,	to	
+attract	an	even	larger	audience,	from	carpooling	and	
+private	bus	services	to	attract	mass	transit	
+customers	to	luxury	options	for	more	upscale	
+customers.
+¨ In	addition,	ride	sharing	companies	are	
+experimenting	with	pre-scheduled	rides	and	
+multiples	stops	on	single	trips	to	meet	customer	
+demand.
+7
+4.	Devastating	to	the	Status	Quo
+¨ Even	hardliners	in	the	taxicab	and	old	time	car	
+service	businesses	recognize	that	ride	sharing	is	not	
+going	away	and	that	the	ways	of	doing	business	have	
+to	change.
+¤ The	price	of	a	New	York	city	medallion	which	was	in	excess	
+of	$1.5	million	before	the	advent	of	ride	sharing	continues	
+its	plunge,	dropping	to	less	than	$500,000	in	March	2016.	
+¤ The	price	of	a	Chicago	cab	medallion,	which	peaked	at	
+$357,000	in	2013,	had	dropped	to	$60,000	by	July	2016.
+8
+A	Flawed	Business	Model
+1. The	Business	Model	Characteristics
+¤ Raising	capital	at	a	breathtaking	pace
+¤ At	sky	high	prices,	attached	to	the	companies
+¤ With	capital	from	public	market	investors
+¤ While	burning	through	cash	quickly
+2. A	Cash	Burn	test
+Assume	that	the	growth	ends	in	the	ride	sharing	business	
+tomorrow	and	that	the	ride	sharing	companies	were	to	
+compete	for	existing	riders.	Do	you	think	that	the	pieces	are	
+in	place	for	these	companies	to	generate	profits?
+9
+A	Bar	Mitzvah	Moment
+¨ Early	in	a	life	cycle,	young	companies	are	judged	based	
+upon	metrics	that	eventually	can	be	translated	into	
+earnings	and	value.	Those	metrics	vary	across	
+businesses,	but	in	ride	sharing,	it	has	been	about	cities,	
+drivers	and	rides.
+¨ There	is	a	point	in	time	in	their	lives	when	the	focus	
+shifts	from	these	raw	metrics	to	more	bottom	line	
+numbers.	That	is	the	bar	mitzvah	moment.
+¨ The	key	to	success	in	a	young	company	is	to	manage	it	at	
+two	levels,	delivering	the	raw	metrics	that	investors	care	
+about	early	while	also	working	on	creating	pathways	for	
+converting	these	metrics	into	profits.
+10
+Why	now?
+¨ Public	Investor	time	horizon :	The	first	factor	is	that	the	public	
+investors	who	have	put	their	money	into	the	ride	sharing	
+companies	operate	under	shorter	time	horizons	than	many	VC	
+investors	and	the	fact	that	an	IPO	is	not	imminent	in	any	of	these	
+companies	adds	to	their	impatience	to	see	tangible	results.
+¨ No	winner-take-all:	The	second	factor	is	that	the	belief	that	there	
+will	be	a	winner -take-all,	who	can	then	proceed	to	charge	what	the	
+market	will	bear ,	has	receded,	as	all	of	the	players	in	the	market	
+continue	to	attract	capital.
+¨ Big	Players	coming? The	third	factor	is	that	the	possibility	that	big	
+players	like	Apple	and	Google	will	enter	the	market	is	becoming	a	
+plausibility	and	perhaps	even	a	probability	and	their	technological	
+edge	and	deep	pockets	could	put	existing	ride	sharing	companies	at	
+a	disadvantage.
+11
+Building	a	Business	Model
+¨ Increased	Switching	costs:	The	ride	sharing	companies	are	
+working	on	ways	to	increase	the	costs	of	switching	to	their	
+competitors,	both	among	drivers	(who	I	described	in	a	prior	
+post	as	uncontracted	free	agents)	and	customers.	
+¨ Cooperation/Collusion:	Uber’s	decision	to	abandon	the	
+Chinese	market	to	Didi in	return	for	a	20%	ownership	stake	in	
+that	company,	in	particular,	seems	to	be	designed	to	stop	the	
+mutually	assured	destruction	that	a	free-for-all	fight	with	Didi
+will	create.
+¨ Higher	Capital	Intensity:	Ride	sharing	companies	now	
+recognize	that	their	absence	of	tangible	assets	and	
+infrastructure	investment	can	now	operate	as	an	impediment	
+to	building	a	sustainable	business.
+12
+Uber:	Changes	in	last	12	months
+¨ Revenues:	Growth	continues	but	decision	to	leave	China	will	reduce	total	
+market	potential.
+¨ Competition:	The	good	news	in	the	China	deal	is	two	fold.	First,	by	
+removing	the	costs	associated	with	going	after	the	China	market	from	the	
+equation,	it	 increases	the	odds	of	Uber	becoming	profitable.	Second,	its	
+peace	treaty	with	 Didi Chuxing and	its	20%	stake	in	the	company,	does	put	
+the	smaller	players	at	risk.	Lyft,	Ola	and	 Grabtaxi,	all	companies	that	 Didi
+invested	in	to	stop	the	Uber	juggernaut,	may	now	be	left	exposed	to	
+competition.
+¨ Costs:	On	the	cost	front,	the	ride	sharing	business	continued	to	evolve,	
+with	most	of	the	changes	signaling	higher	costs	for	the	ride	sharing	
+companies	in	the	future.	
+¨ Imminent	competition:	The	Silicon	Valley	gossip	continues	about	Apple	
+and	Google	preparing	to	enter	the	ride	sharing	 market.	T o	compete,	the	
+ride	sharing	companies	will	have	to	step	up	their	investment	in	
+technology	and	infrastructure .
+Base	year Years	1-5 Years	6-10 After	year	10
+Total	Market $180,000 Grow	1.5%	a	year
+Gross	Market	Share 4.71% 40%
+Revenue	Share 20.00% 15.00%
+Operating	Margin -23.06% 20.00%
+Reinvestment NA Reinvestment	rate	=	7.5%
+Cost	of	capital NA 10.00% 10%->8.00% 8.00%
+Risk	of	failure
+Total	Market Market	Share Revenues	(15%	of	Gross) EBIT	(1-t) Reinvestment FCFF
+1 198,702$					 9.42% 3,650$																																		 (479)$																																									 494$															 (973)$																								
+2 219,347$					 12.82% 5,342$																																		 (540)$																																									 564$															 (1,104)$																				
+3 242,137$					 16.22% 7,264$																																		 (516)$																																									 641$															 (1,156)$																				
+4 267,295$					 19.61% 9,437$																																		 (386)$																																									 724$															 (1,110)$																				
+5 295,067$					 23.01% 11,882$																																 (127)$																																									 815$															 (943)$																								
+6 325,725$					 26.41% 14,623$																																 284$																																										 914$															 (630)$																								
+7 359,568$					 29.81% 17,684$																																 877$																																										 1,020$											 (144)$																								
+8 396,927$					 33.20% 21,088$																																 1,681$																																							 1,135$											 546$																									
+9 438,167$					 36.60% 24,859$																																 2,731$																																							 1,257$											 1,474$																						
+10 483,693$					 40.00% 29,022$																																 4,063$																																							 1,388$											 2,675$																						
+Terminal	year 490,948$					 40.00% 29,457$																																 4,124$																																							 309$															 3,815$																						
+58,687$                                
+23,904$                                
+(2,442)$                                 
+21,461$                                
+0%
+-$                                      
+21,461$                                
+1,500.00$																													
+5,000.00$																													
+27,961.46$																										
+Uber,	The	Global	Logistics	Company	(August	2016)
+The	Story
+Uber	is	a	logistics	company,	doubling	the	market	size	by	drawing	in	new	users.	It	will	enjoy	weak	global	networking	benefits	while	seeing	its	slice	of	
+revenues	slip	(85/15),	higher	costs	(with	drivers	as	partial	employees)	and	low	capital	intensity.
+The	Assumptions
+Story	link
+Grow	10.39%	a	year Logistics	+	New	users	-	China
+4.71%>40% Peace	treaty	with	Didi	Kuaidi
+20%	->	15% Lower	revenue	share
+	-23.06%	->20% Cost	pressures	continue
+Sales	to	capital	ratio	of	3.00 Higher	capital	intensity	model
+At	75th	percentile	of	US	firms
+No	chance	of	failure	(with	equity	worth	zero) Cash	on	hand	+	Capital	access
+The	Cash	Flows
+The	Value
+Terminal value
+PV(Terminal value)
+PV (CF over next 10 years)
+Value of operating assets =
+Probability of failure
+Value in case of failure
+Adjusted Value for operating assets
+VCs	priced	Uber	at	about	$62,500	milllion	at	the	time
+	+	Cash	on	hand
+	+	Cross	holdings
+Value	of	all	assets

@@ -1,0 +1,146 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/goodbad.pdf
+
+GOOD	COMPANIES,	GOOD	
+MANAGERS,	GOOD	
+INVESTMENTS?
+Aswath	Damodaran
+2
+Good	companies,	managers	and	
+investments
+¨ Investment	advice	often	blurs	the	line	between	good	
+companies,	good	management	and	good	
+investments,	using	the	argument	that	for	a	company	
+to	be	a	"good"	company,	it	has	to	have	good	
+management,	and	if	a	company	has	good	
+management,	it	should	be	a	good	investment.	
+¨ That	is	not	true,	but	to	see	why,	we	have	to	be	
+explicit	about	what	makes	for	a	good	company,	how	
+we	determine	that	it	has	good	management	and	
+finally,	the	ingredients	for	a	good	investment.
+3
+Good	versus	Bad	Companies
+4
+Good	and	Bad	Management
+5
+Good	and	Bad	Investments
+6
+The	Price/Value	Divide
+¨ Pricing	Myopia:	If	your	investment	strategy	is	to	buy	low	
+PE	stocks,	you	may	end	up	with	stocks	that	look	cheap	
+but	are	not	good	investments,	if	these	are	companies	
+that	deserve	to	be	cheap	(because	they	have	made	awful	
+investments,	 borrowed	too	much	money	or	adopted	
+cash	return	policies	that	destroy	value).	
+¨ Value	Myopia:	Conversely,	if	your	investment	strategy	is	
+focused	on	finding	good	companies	(strong	moats,	low	
+risk),	you	can	easily	end	up	with	bad	investments,	if	the	
+price	already	more	than	reflects	these	good	qualities.
+7
+PE	Ratio	and	Fundamentals
+8
+Finding	good	investments	with	PE
+¨ Companies	that	have	low	growth,	high	risk	and	
+abysmally	low	returns	on	equity	should	trade	at	low	
+PE	ratios	and	those	with	higher	growth,	lower	risk	
+and	sold	returns	on	equity,	should	trade	at	high	PE	
+ratios.	
+¨ If	you	are	looking	to	screen	for	good	investments,	
+you	therefore	need	to	find	stocks	with	low	PE,	high	
+growth,	a	low	cost	of	equity	and	a	high	return	on	
+equity.
+9
+The	Other	Multiples
+Multiple Mismatch	for	cheap Mismatch	for	expensive
+PE
+Low	PE,	High	growth,	Low	Equity	
+Risk,	High	Payout
+High	PE,	Low	growth,	High	Equity	Risk,	
+Low	Payout
+PEG
+Low	PEG,	Low	Growth,	Low	Equity	
+Risk,	High	Payout
+High	PEG,	High	Growth,	High	Equity	Risk,	
+Low	Payout
+PBV
+Low	PBV,	High	Growth,	Low	Equity	
+Risk,	High	ROE
+High	PBV,	Low	Growth,	High	Equity	Risk,	
+Low	ROE
+EV/Invested	
+Capital
+Low	EV/IC,	High	Growth,	Low	
+Operating	Risk,	High	ROIC
+High	EV/IC,	Low	Growth,	High	Operating	
+Risk,	Low	ROIC
+EV/Sales
+Low	EV/Sales,	High	Growth,	Low	
+Operating	Risk,	High	Operating	
+Margin
+High	EV/Sales,	Low	Growth,	High	
+Operating	Risk,	High	Operating	Margin
+EV/EBITDA
+Low	EV/EBITDA,	High	Growth,	Low	
+Operating	Risk,	Low	Tax	Rate
+High	EV/EBITDA,	Low	Growth,	High	
+Operating	Risk,	High	Tax	Rate
+10
+The	Bottom	Line
+Aswath Damodaran
+10
+¨ Good	companies	bring	strong	competitive	advantages	to	
+a	growing	market	and	their	results	(high	margins,	high	
+returns	on	capital)	reflect	these	advantages.	
+¨ In	well	managed	companies,	the	investing,	financing	and	
+dividend	decisions	reflect	what	will	maximize	value	for	
+the	company,	thus	allowing	for	the	possibility	that	you	
+can	have	good	companies	that	are	sub-optimally	
+managed	and	bad	companies	that	are	well	managed.	
+¨ Good	investments	require	that	you	be	able	to	buy	at	a	
+price	that	is	less	than	the	value	of	the	company,	given	its	
+business	and	management.
+11
+An	Investing	Hierarchy
+Company's	Business Company's	Managers Company	Pricing Investment	Decision
+Good	(Strong	competitive	
+advantages,	Growing	market)
+Good	(Optimize	investment,	
+financing,	dividend	decisions) Good	(Price	<	Value) Emphatic	Buy
+Good	(Strong	competitive	
+advantages,	Growing	market)
+Bad	(Sub-optimal	investment,	
+financing,	dividend	decisions) Good	(Price	<	Value)
+Buy	&	hope	for	management	
+change
+Bad	(No	competitive	
+advantages,	Stagnant	or	
+shrinking	market)
+Good	(Optimize	investment,	
+financing,	dividend	decisions) Good	(Price	<	Value)
+Buy	&	hope	that	management	
+does	not	change
+Bad	(No	competitive	
+advantages,	Stagnant	or	
+shrinking	market)
+Bad	(Sub-optimal	investment,	
+financing,	dividend	decisions) Good	(Price	<	Value)
+Buy &	hope	for	management	
+change	&amp;	pray	company	
+survives
+Good	(Strong	competitive	
+advantages,	Growing	market)
+Good	(Optimize	investment,	
+financing,	dividend	decisions) Bad	(Price	>	Value) Admire,	but	don't	buy
+Good	(Strong	competitive	
+advantages,	Growing	market)
+Bad	(Sub-optimal	investment,	
+financing,	dividend	decisions) Bad	(Price	>	Value) Wait	for	management	change
+Bad	(No	competitive	
+advantages,	Stagnant	or	
+shrinking	market)
+Good	(Optimize	investment,	
+financing,	dividend	decisions) Bad	(Price	>	Value) Sell
+Bad	(No	competitive	
+advantages,	Stagnant	or	
+shrinking	market)
+Bad	(Sub-optimal	investment,	
+financing,	dividend	decisions) Bad	(Price	>	Value) Emphatic	Sell

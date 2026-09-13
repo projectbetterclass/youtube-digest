@@ -1,0 +1,115 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/BitcoinBlowback.pdf
+
+BITCOIN	BLOWBACK:	BACK	TO	
+THE	DRAWING	BOARD?
+The	Crypto	Currency	Debate
+2
+The	Bitcoin	Debate
+¨ My	thesis	that	Bitcoin	is	a	currency,	not	an	asset	or	a	
+commodity,	got	some	pushback.
+¨ Specifically,	there	were	some	who	argued	that	since	
+you	can	lend	Bitcoin	and	earn	interest,	it	is	an	asset,	
+and	since	it	is	scarce,	it	is	a	commodity.
+¨ While	I	don’t	believe	that	there	is	much	basis	for	
+these	arguments	with	Bitcoin,	the	crypto	currency	
+world	is	a	diverse	one	and	what	is	said	about	Bitcoin	
+may	not	apply	to	crypto	currency	or	ICOs.
+3
+The	Value	versus	Price	Debate
+To	value To price
+Assets Can	be	valued	based	upon
+expected	cashflows,	with	
+higher	cashflows &	lower	
+risk	=	higher	value.
+Can	be	priced	against	
+similar	assets,	after	
+controlling for	cash	flows	
+and	risk.
+Commodity Can	be	value	based	upon	
+utilitarian	demand	and	
+supply,	but	with	long	lags
+in	both.
+Can	be priced	against	its	
+own	history	(normalized	
+price	over	time)
+Currency Cannot	be	value Can	be priced	against	
+other	currencies,	with	
+greater	acceptance	&	more	
+stable	purchasing	power	=	
+higher	price.
+Collectible Cannot	be	value Can	be	priced based	upon	
+scarcity	and	desirability.
+4
+Bitcoin	as	Asset:	Counter	Arguments
+1. You	can	lend	Bitcoin	out	and	earn	interest
+¤ Since	the	interest	income	is	then	a	cash	flow,	the	argument	is	
+that	Bitcoin	is	an	asset.	
+¤ The	counter	is	that	you	can	lend	any	currency	out	and	earn	
+interest.	If	you	do,	it	is	the	loan	that	you	make	that	is	the	asset,	
+not	the	currency	itself.
+2. The	Bitcoin	network	has	value
+¤ Extrapolating	from	the	tech	space,	where	companies	like	large	
+network		companies	like	Facebook	have	value,	Bitcoin	has	
+value	because	of	the	networking	benefit.	
+¤ The	counter	is	that	an	investor	in	Facebook	is	not	valuing	it	
+highly	because	it	has	a	big	network,	but	because	he	or	she	
+makes	money	from	making	money	off	that	network	(by	selling	
+advertising).
+5
+Currency	versus	Commodity
+¨ The	essence	of	a	currency	is	that	its	primary	uses	are	as	
+a	medium	of	exchange	or	as	a	store	of	value.	The	key	to	
+a	commodity	is	that	it	is	an	input	into	a	process	that	has	
+a	utilitarian	function.	
+¨ Oil	and	coal	are	clearly	commodities,	since	they	derive	
+their	value	from	the	fact	that	they	can	be	used	to	
+produce	energy.	
+¨ It	is	true,	as	with	currencies,	that	you	can	create	an	asset	
+based	upon	a	commodity.	A	share	of	an	oil	well	is	an	
+asset	not	because	you	like	or	even	need	oil,	it	is	because	
+you	hope	to	sell	the	oil	to	generate	cash	flows.
+6
+Bitcoin	as	Commodity:	Counter	Arguments
+1. Bitcoin	is	scarce
+¤ Argument:	The	algorithm	imposed	limits	on	Bitcoin	effectively	
+mean	that	it	will	be	scarce	and	if	it	is	scarce,	it	will	have	value.
+¤ Counter:	There	are	lots	of	scarce	items	(sand	is	scarce	and	so	is	
+bull	manure)	but	if	there	is	no	utilitarian	or	aesthetic	benefit,	
+they	will	not	be	commodities.
+2. Time	and	energy	was	spent	”mining”	Bitcoin
+¤ Since	resources	were	expended	in	the	production	of	Bitcoin,	it	
+must	have	value	as	a	commodity.	
+¤ Not	really.	Not	unless	you	can	point	to	it	becoming	useful	as	an	
+input	into	producing	something	that	we	value.
+7
+A	Commodity	Argument	for	Crypto	
+Currencies
+1. Block	Chains	and	Smart	Contracts	will	create	large	disruptions	in	
+businesses:	Block	chains	and	the	smart	contracts	that	emerge	
+from	them	will	replace	conventional	contracts	in	many	
+businesses,	and	that	will	generate	cash	flows	to	the	contract	
+providers.	
+2. Crypto	Currencies	are	the	lubricants	for	smart	contracting:	Crypto	
+currencies	are	a	necessary	ingredient	to	make	smart	contracts	
+work	efficiently,	and	that	the	demand	for	them	will	then	rise	as	
+smart	contracting	expands.
+3. “Y our”	crypto	currency	will	be	one	of	the	winners:	Your	crypto	
+currency	of	choice	(Bitcoin,	Ethereum etc.)	will	become	the	
+winner	or	at	least	one	of	the	winners,	perhaps	because	it	has	the	
+“best	technology”	for	smart	contracting	or	has	the	most	buy	in	by	
+the	institutional	players	in	the	game.
+8
+Conclusion
+¨ As	you	listen	to	arguments	for	or	against	crypto	
+currencies,	my	only	advice	is	that	you	go	back	to	basics	
+about	the	needs	that	they	are	filling	and	that	you	ask	
+questions	about	their	long	term	staying	power .	
+¨ It	is	time	for	us	to	separate	arguments	about	block	
+chains/smart	contracts	from	arguments	about	crypto	
+currencies,	since	you	can	have	one	without	the	other .
+¨ It	is	also	time	that	we	differentiate	between	crypto	
+currencies,	rather	than	defend	them	or	abandon	them	
+all,	as	a	bundle.	Bitcoin,	Ethereum,	Ripple	and	 ICOs	are	
+different	enough	from	each	other,	not	only	in	structure	
+but	also	in	terms	of	end	game,	that	they	need	to	be	
+assessed	independently.

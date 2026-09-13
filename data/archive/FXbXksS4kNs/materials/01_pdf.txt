@@ -1,0 +1,241 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/slides/session12.pdf
+
+SESSION 12: CURRENCIES & 
+EXCHANGE RATES
+Aswath Damodaran
+Aswath Damodaran 1
+2
+Inflation across currencies
+Aswath Damodaran
+2
+¨In business and investing, we often have to grapple with 
+different currencies. As we move from one currency (say 
+US dollars) to another (say Indonesian Rupiah), looking 
+at the same project or company, the numbers can look 
+very different.
+¨Those differences do not come from country risk or from 
+business differences, since those do not change, but 
+from different inflation rates in different currencies.
+¨Those higher inflation rates will affect interest rates that 
+you observe in those currencies as well as your expected 
+nominal growth rates.
+3
+And Interest Rates
+Aswath Damodaran
+3
+-5.00%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+30.00%
+35.00%
+40.00%
+45.00%
+Croat ian  Kuna
+Bul garian Lev
+Vietnam ese Dong
+Japanese Yen
+Thai Baht
+Euro
+Swi ss F ranc
+Br itish Po und
+Danish Krone
+Taiwanese $
+Isr aeli  Shek el
+Hungarian Fo rint
+HK $
+Swedi sh Krona
+Czech Koruna
+Polish Zloty
+Phillipine Peso
+Canadian $
+US $
+Nor wegian Kr one
+Korean Won
+Australian $
+Si ngapor e $
+NZ $
+Pakistani Rupee
+Ic el and Krona
+Qa tari Dinar
+Maly asian Ri nggit
+Romanian Lev
+Chil ean Peso
+Chin ese Yuan
+Nigerian N ai ra
+Russian Rub le
+Br azil ian  Reai
+Col ombi an Peso
+In dian Rupee
+Peruvian Sol
+Mexi can Peso
+In donesi an Rupiah
+Kenyan Shilling
+So uth African R and
+Turkish Lira
+Za mbian kwa cha
+Risk free Rates by Currency in July 2020: Government Bond Based Estimate
+Risk free Rate De fault Spre ad ba se d on rating
+4
+Interest Rates and Inflation
+¨One simple technique is to use differential inflation and 
+the US dollar risk free rate (simple and compounded):
+¤Interest rate in currency = US dollar interest rate + Differential inflation
+¤Interest rate in currency = 1+𝑈𝑆$𝑟𝑎𝑡𝑒!"#$%&’(#)$*’(+#$,-**+$,.
+!"#$%&’(#)$*’(+#$/0$ −1
+¨Using this technique on the Egyptian pound in December 
+2015:
+¤Risk free rate in US dollars on 12/31/15 = 2.27%
+¤Expected inflation rate in the US = 1.50%
+¤Expected inflation rate in Egypt = 9.70% 
+¤Risk free rate in EGP = (1.0227) * (1.097/1.015) -1 =10.53%
+¨This is also a good way to check interest rates that you 
+do not trust. 
+Aswath Damodaran
+5
+Currency Consistency
+Aswath Damodaran
+5
+6
+Exchange Rates
+¨If you decide to be currency consistent, you often 
+have toforecast exchange rates. 
+¤In some currencies, you may be able to find market-based 
+forecasts in the forward/futures markets. 
+¤In others, you will have to forecast them on your own.
+¨If you have toforecast exchange rates, there are two 
+simple formulations that can help:
+¤Interest rate parity, where exchange rates can be forecast 
+based upon interest rates in the currencies in question.
+¤Purchasing power parity, where differences in inflation play 
+out as expected exchange rates.
+Aswath Damodaran
+6
+7
+ForecastingApproaches
+¨Expert/Personal Forecasts: In this approach, you forecast 
+exchange rates based upon your views on whether a 
+currency is too strong or weak (?) right now, as well as 
+fundamentals.
+¨MarketForecasts: You use market-set forward or future 
+exchange rates for the currency.
+¨Parityconditions:Youusetwoparity requirements to 
+forecast exchange rates:
+1. Interestrateparity:Use the differential interest rates between 
+currencies to forecast exchange rates.
+2. Purchasing power parity: Use inflation differentials to forecast 
+changesinexchangerates.
+Aswath Damodaran
+7
+8
+1. Expert/Personal Forecasts
+¨Exchange rate forecasts, like most othermacroeconomic
+forecasts, are not done well. Eventhe very best 
+forecasters barely beat random forecasts.
+¨Evenifyoudobelievethat you haveexchangerate
+forecasting ability (or can hire someone who does), 
+building in yourexchange rate forecasts into an analysis 
+(projectcashflowsorvaluation)risks muddying the 
+waters, since your final judgment(on whether to invest) 
+is determined more by your exchange rate forecasts than 
+by what you think about a project or investment.
+¨Putsimply,ifyouarethat good at forecasting exchange 
+rates, there are far easier ways to make money than 
+running a business or investing in companies.
+Aswath Damodaran
+8
+9
+2. Market Forecasts
+¨Over the last few decades, we have seen the 
+development of forward and futures markets on 
+exchange rates.
+¨Ifyouaredealingwith widely held currencies like the US 
+dollar and the Euro, you can very easily (and at low cost) 
+buy forward contracts that will lock in the exchange rate 
+in a future period (3, 5 or 10 years out).
+¨Inemergingmarketcurrencies,itbecome trickier, since 
+¤Forward markets may not run past the near term (say one or 
+two years)
+¤Theremaybeno market-set ratesand you will have to buy 
+customized forward contracts, with a bank setting the rates.
+Aswath Damodaran
+9
+10
+Forward Rates: US $/Euro Forward Rates 
+on 7/24/20
+Expiration Ask Bid Mid
+Current 1.1662 1.1653 1.1657
+Six Months 1.1712 1.1702 1.1707
+One Years 1.1756 1.1745 1.1750
+Two Years 1.1858 1.1838 1.1848
+Three Years 1.1968 1.1948 1.1958
+Four Years 1.2098 1.2068 1.2083
+Five Years 1.2235 1.2206 1.2220
+Six Years 1.2393 1.2343 1.2368
+Seven Years 1.2546 1.2496 1.2521
+Te n Ye ars 1.3025 1.2935 1.2980
+Aswath Damodaran
+10
+11
+3a. Interest Rate Parity
+¨Interest rate parity is an arbitrage condition, insofar as deviations 
+from it can be exploited for riskless profit.
+¨If you have two currencies (say $ and Euros), with a currency 
+exchange rate(XR), and interest rates on the two currencies, the 
+expected future exchange(XRF) rate can be computed as follows:
+¤𝑋𝑅𝐹$,3-*)=𝑋𝑅$,3-*)
+(!"5$(+*+6(7’(+!"$)
+(!"5$(+*+6(7’(+$%&’)
+¤Thus, if the current exchange rate is $1.1662/Euro, and interest rates at 2% 
+in the US and 1% in Euros, the expected exchange rate is: 
+𝑋𝑅𝐹$,3-*)=1.1662(!.:;)
+(!.:!)= $1.1777/ Euro
+¨The interest rates have tobe matched up to the forecast horizon, 
+one-year rates to forecast one year forward exchange rates, 
+compounded two-year rates to forecast exchange rates two years 
+from now and so on.
+AswathDamodaran
+11
+12
+3b. Purchasing Power Parity
+¨Purchasing power parity is built on the principle that currencies will high 
+inflation should depreciate over time, relative to currencies with low 
+inflation, because they will lose purchasing power (on a relative basis).
+¨If you have two currencies (say $ and Rupees), with a currency exchange 
+rate(XR), and interest rates on the two currencies, the expected future 
+exchange(XRF) rate can be computed as follows:
+𝑋𝑅𝐹$,#$=𝑋𝑅$,#$
+(&’()*+,-./)#,-0$)
+(&’()*+,-./)#,-0"#)
+¨Thus, if the current exchange rate is $0.013/Rupee, and the expected 
+inflation rate is 10% in India and 1% in the US:
+𝑋𝑅𝐹$,#$𝑛𝑒𝑥𝑡𝑦𝑒𝑎𝑟=$0.013$,#$
+(&.3&)
+(&.&3)= $0.0119
+𝑋𝑅𝐹$,#$𝑡𝑤𝑜𝑦𝑒𝑎𝑟𝑠𝑓𝑟𝑜𝑚𝑛𝑜𝑤=$0.013$,#$
+&.3&$
+&.&3$ =$0.0110
+Put simply, the rupee will depreciate roughly 9% against the dollar in the next year .
+AswathDamodaran
+12
+13
+An Example
+Aswath Damodaran
+13
+Assume that the expected inflation in the US $ = 2%
+Expected Inflation 6.00% 9.00% 0.50%
+$/Indian Rupee $/Brazilian Reai $ Swiss Franc
+Current 0.0130 0.1900 1.0900
+1 0.0125 0.1778 1.1063
+2 0.0120 0.1664 1.1228
+3 0.0116 0.1557 1.1395
+4 0.0111 0.1457 1.1565
+5 0.0107 0.1363 1.1738
+6 0.0103 0.1276 1.1913
+7 0.0099 0.1194 1.2091
+8 0.0096 0.1117 1.2272
+9 0.0092 0.1045 1.2455
+10 0.0088 0.0978 1.2641

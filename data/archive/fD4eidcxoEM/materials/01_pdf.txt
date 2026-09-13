@@ -1,0 +1,107 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/MOS.pdf
+
+THE	MARGIN	OF	SAFETY:	TOOL	
+FOR	ACTION	OR	EXCUSE	FOR	
+INACTION?
+You	can	be	too	conservative!!
+2
+The	Margin	of	Safety
+3
+Why	have	a	MOS?
+¨ Reasons
+¤ Your	value	estimates	have	error	in	them.	You	can	be	wrong	
+and	very	wrong,	in	some	cases.
+¤ Even	if	your	value	estimates	are	right,	the	market	price	
+may	not	move	towards	that	value.
+¨ Potential	Benefits
+¤ Less	likely	to	invest	in	over	valued	stocks,	because	you	have	
+a	buffer	of	safety.
+¤ Less	likely	to	invest	in	assets	that	have	significant	downside	
+risk.
+4
+MOS:	Differences	across	investors
+1. Value	Approach:	The	way	in	which	investors	can	
+estimate	value	can	vary:
+a. Intrinsic	Value,	estimated	 from	a	discounted	cash	flow	model.
+b. Asset-based	 Value,	usually	 estimated	 from	accounting	balance	
+sheets	but	perhaps	 also	from	liquidation	 estimates.
+c. Relative	 Value,	 estimated	 using	 a	multiple	 and	peer	 group	
+pricing.
+2. Magnitude:	The	magnitude	of	the	MOS	used	can	vary	
+across	investors,	increasing	with	how	conservative	they	
+are.
+3. Fixed	or	Variable:	Some	investors	have	difference	MOS	
+for	different	assets,	whereas	others	used	a	fixed	MOS,	
+no	matter	what	they	are	investing.
+5
+Myth	1:	Using	a	MOS	is	costless
+6
+Myth	2:	If	you	use	a	MOS,	 you	can	afford	
+to	take	valuation	short	cuts
+¨ A	MOS	is	only	as	good	as	the	value	that	it	is	based	
+off.	If	your	value	estimates	are	wrong,	your	MOS	is	
+just	a	percentage	variation	on	a	random	(or	close	to	
+random)	number	and	can	only	damage	you	as	an	
+investor .
+¨ If	you	are	conservative	 in	your	value	estimates,	your	
+values	will	be	biased	down	and	attaching	a	MOS	to	
+this	“conservative	value”	is	double	counting	or	even	
+triple	counting	risk.
+7
+Myth	3:	The	MOS	should	be	the	same	
+across	all	investments..
+¨ On	an	investment	 where	you	can	estimate	value	
+with	certainty	and	price	differences	are	guaranteed	
+to	disappear	at	a	finite	point,	you	should	not	have	
+and	should	never	use	a	MOS.
+¨ On	any	other	investment,	 your	MOS	should	vary	
+across	investments,	increasing	with	riskier	
+investments	 (and	less	efficient	markets)	and	falling	
+with	safer	ones	(and	more	efficient	ones).
+8
+Myth	4:	MOS	of	the	Sum	=	Sum	of	the	
+MOS	of	the	Parts
+¨ The	MOS	for	a	stand	alone	investment	 will	be	larger	
+than	the	MOS	for	that	same	investment	in	a	
+portfolio,	for	the	same	reasons	that	the	variance	of	a	
+stock	as	a	stand	alone	investment	 will	be	higher	than	
+the	variance	it	adds	to	a	portfolio.
+¨ It	follows	then	that	using	a	MOS	to	accept	or	reject	
+individual	investments	 will	bias	you	away	from	
+stocks	that	derive	the	bulk	of	their	risk	from	
+company-specific	risk	factors.
+9
+Myth	5:	The	MOS	is	an	alternative	to	other	
+risk	measures
+¨ If	you	don’t	like	conventional	 portfolio-theory	based	
+risk	measures	(like	beta	or	betas),	you	should	look	
+for	an	alternative	measure	of	risk	to	use	in	valuing	
+assets.
+¨ The	MOS	cannot	be	that	measure,	since	it	comes	
+into	the	decision	process	after	you	have	estimated	
+value,	not	before.
+10
+If	you	want	to	use	MOS..
+1. Self	Examination:	Make	sure	the	MOS	fits	your	needs	as	
+an	investor,	given	your
+a. Portfolio	Size
+b. Investment	 Philosophy
+c. Concentration/Diversification
+d. Beliefs	about	market
+2. Sound	Value:	Spend	time	developing	a	valuation	
+approach	that	yields	a	reasonable	and	an	unbiased	
+estimate	of	value.
+3. Be	Flexible:	Try	to	create	a	MOS	measure	that	is	flexible	
+and	varies	across	investments.
+11
+MOS	Determinants
+1. Valuation	Uncertainty:	The	greater	the	uncertainty	
+in	estimating	value,	the	higher	the	MOS.
+2. Source	of	Uncertainty:	The	more	company-specific	
+the	uncertainty,	the	lower	the	MOS,	with	the	drop	
+a	function	of	how	diversified	you	are.
+3. Market	Efficiency:	The	more	efficient	a	market	is	at	
+correcting	its	mistakes,	the	smaller	the	MOS.
+4. Pricing	Catalysts:	The	greater	the	likelihood	of	a	
+price	catalyst	(that	will	cause	the	price-value	gap	to	
+close),	the	smaller	the	MOS.

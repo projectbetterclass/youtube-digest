@@ -1,0 +1,463 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session12.pdf
+
+184
+Costs	of	Hybrids	
+Aswath	Damodaran	
+184
+¨ Preferred	stock	shares	some	of	the	characteris4cs	of	
+debt	-	the	preferred	dividend	is	pre-speciﬁed	at	the	4me	
+of	the	issue	and	is	paid	out	before	common	dividend	--	
+and	some	of	the	characteris4cs	of	equity	-	the	payments	
+of	preferred	dividend	are	not	tax	deduc4ble.	If	preferred	
+stock	is	viewed	as	perpetual,	the	cost	of	preferred	stock	
+can	be	wriBen	as	follows:	
+¤ 	kps	=	Preferred	Dividend	per	share/	Market	Price	per	
+preferred	share	
+¨ Conver4ble	debt	is	part	debt	(the	bond	part)	and	part	
+equity	(the	conversion	op4on).	It	is	best	to	break	it	up	
+into	its	component	parts	and	eliminate	it	from	the	mix	
+altogether.
+185
+Weights	for	Cost	of	Capital	Calcula4on	
+Aswath	Damodaran	
+185
+¨ The	weights	used	in	the	cost	of	capital	computa4on	should	
+be	market	values.		
+¨ There	are	three	specious	arguments	used	against	market	
+value	
+¤ Book	value	is	more	reliable	than	market	value	because	it	is	not	as	
+vola4le:	While	it	is	true	that	book	value	does	not	change	as	much	as	
+market	value,	this	is	more	a	reﬂec4on	of	weakness	than	strength	
+¤ Using	book	value	rather	than	market	value	is	a	more	conserva4ve	
+approach	to	es4ma4ng	debt	ra4os:	For	most	companies,	using	book	
+values	will	yield	a	lower	cost	of	capital	than	using	market	value	
+weights.	
+¤ Since	accoun4ng	returns	are	computed	based	upon	book	value,	
+consistency	requires	the	use	of	book	value	in	compu4ng	cost	of	
+capital:	While	it	may	seem	consistent	to	use	book	values	for	both	
+accoun4ng	return	and	cost	of	capital	calcula4ons,	it	does	not	make	
+economic	sense.
+186
+Disney:	From	book	value	to	market	value	
+for	interest	bearing	debt…	
+¨  In	Disney’s	2013	ﬁnancial	statements,	the	debt	due	over	4me	was	footnoted.	
+¨  Disney’s	total	debt	due,	in	book	value	terms,	on	the	balance	sheet	is	$14,288	
+million	and	the	total	interest	expense	for	the	year	was	$349	million.	Using	3.75%	
+as	the	pre-tax	cost	of	debt:	
+¨  Es4mated	MV	of	Disney	Debt	=		
+Aswath Damodaran
+Time dueAmount dueWeight Weight 
+*Maturity
+0.5 $1,452 11.96% 0.06
+2 $1,300 10.71% 0.21
+3 $1,500 12.36% 0.37
+4 $2,650 21.83% 0.87
+6 $500 4.12% 0.25
+8 $1,362 11.22% 0.9
+9 $1,400 11.53% 1.04
+19 $500 4.12% 0.78
+26 $25 0.21% 0.05
+28 $950 7.83% 2.19
+29 $500 4.12% 1.19
+  $12,139   7.92
+349
+(1− 1
+(1.0375)7.92
+.0375
+"
+#
+$
+$
+$
+$
+%
+&
+'
+'
+'
+'
++14,288
+(1.0375)7.92=$13,028 million
+The debt in this table does 
+not add up to the book value  
+of debt, because Disney 
+does not break down the 
+maturity of all of its debt.
+187
+Opera4ng	Leases	at	Disney	
+¨ The	“debt	value”	of	opera4ng	leases	is	the	present	
+value	of	the	lease	payments,	at	a	rate	that	reﬂects	
+their	risk,	usually	the	pre-tax	cost	of	debt.	
+¨ The	pre-tax	cost	of	debt	at	Disney		is	3.75%.		
+	
+¨ Debt	outstanding	at	Disney	=	$13,028	+	$	2,933=	$15,961	million	
+	
+Disney reported $1,784 million 
+in commitments after year 5. 
+Given that their average 
+commitment over the ﬁrst 5 
+years, we assumed 5 years @ 
+$356.8  million each.
+Aswath Damodaran
+Year Commitment Present Value @3.75% 
+1  $507.00   $488.67  
+2  $422.00   $392.05  
+3  $342.00   $306.24  
+4  $272.00   $234.76  
+5  $217.00   $180.52  
+ 6-10  $356.80   $1,330.69  
+Debt value of leases $2,932.93
+188
+Applica4on	Test:	Es4ma4ng	Market	Value	
+Aswath	Damodaran	
+188
+¨ Es4mate	the		
+¤ Market	value	of	equity	at	your	ﬁrm	and	Book	Value	of	
+equity	
+¤ Market	value	of	debt	and	book	value	of	debt	(If	you	cannot	
+ﬁnd	the	average	maturity	of	your	debt,	use	3	years):	
+Remember	to	capitalize	the	value	of	opera4ng	leases	and	
+add	them	on	to	both	the	book	value	and	the	market	value	
+of	debt.	
+¨ Es4mate	the	
+¤ Weights	for	equity	and	debt	based	upon	market	value	
+¤ Weights	for	equity	and	debt	based	upon	book	value
+189
+Current	Cost	of	Capital:	Disney	
+¨ Equity	
+¤ Cost	of	Equity	=	Riskfree	rate	+	Beta	*	Risk	Premium 	
+	 		 =		2.75%	+	1.0013	(5.76%)	=		8.52%	
+¤ Market	Value	of	Equity	=		 	$121,878	million	
+¤ Equity/(Debt+Equity	)	=	 	88.42%	
+¨ Debt	
+¤ Aher-tax	Cost	of	debt	=(Riskfree	rate	+	Default	Spread)	(1-t)	
+	 		 =		(2.75%+1%)	(1-.361)	= 	2.40%	
+¤ Market	Value	of	Debt	=	$13,028+	$2933	=	$		15,961	million	
+¤ Debt/(Debt	+Equity)	= 	 		 11.58%	
+¨ Cost	of	Capital	=	8.52%(.8842)+	2.40%(.1158)	=	7.81%	
+121,878/ (121,878+15,961)
+Aswath Damodaran
+190
+Divisional	Costs	of	Capital:	Disney	and	Vale	
+Disney	
+	
+	
+	
+	
+Vale	
+Aswath Damodaran
+!!
+Cost!of!
+equity!
+Cost!of!
+debt!
+Marginal!tax!
+rate!
+After6tax!cost!of!
+debt!
+Debt!
+ratio!
+Cost!of!
+capital!
+Media!Networks! 9.07%! 3.75%! 36.10%! 2.40%! 9.12%! 8.46%!
+Parks!&!Resorts! 7.09%! 3.75%! 36.10%! 2.40%! 10.24%! 6.61%!
+Studio!
+Entertainment! 9.92%! 3.75%! 36.10%! 2.40%! 17.16%! 8.63%!
+Consumer!Products! 9.55%! 3.75%! 36.10%! 2.40%! 53.94%! 5.69%!
+Interactive! 11.65%! 3.75%! 36.10%! 2.40%! 29.11%! 8.96%!
+Disney!Operations! 8.52%! 3.75%! 36.10%! 2.40%! 11.58%! 7.81%!
+ 
+Business 
+Cost of 
+equity 
+After-tax cost of 
+debt 
+Debt 
+ratio 
+Cost of capital (in 
+US$) 
+Cost of capital (in 
+$R) 
+Metals & 
+Mining 11.35% 2.67% 35.48% 8.27% 15.70% 
+Iron Ore 11.13% 2.67% 35.48% 8.13% 15.55% 
+Fertilizers 12.70% 2.67% 35.48% 9.14% 16.63% 
+Logistics 10.29% 2.67% 35.48% 7.59% 14.97% 
+Vale Operations 11.23% 2.67% 35.48% 8.20% 15.62%
+191
+Costs	of	Capital:	Tata	Motors,	Baidu	and	
+Bookscape	
+¨ To	es4mate	the	costs	of	capital	for	Tata	Motors	in	Indian	
+rupees:	
+Cost	of	capital=	14.49%	(1-.2928)	+	6.50%	(.2928)	=	12.15%	
+¨ For	Baidu,	we	follow	the	same	path	to	es4mate	a	cost	of	
+equity	in	Chinese	RMB:	
+Cost	of	capital	=	12.91%	(1-.0523)	+	3.45%	(.0523)	=	12.42%		
+¨ For	Bookscape,	the	cost	of	capital	is	diﬀerent	depending	on	
+whether	you	look	at	market	or	total	beta:	
+	
+Aswath Damodaran
+ 
+Cost of 
+equity Pre-tax Cost of debt 
+After-tax cost of 
+debt D/(D+E) Cost of capital 
+Market Beta 7.46% 4.05% 2.43% 17.63% 6.57% 
+Total Beta 11.98% 4.05% 2.43% 17.63% 10.30%
+192
+Applica4on	Test:	Es4ma4ng	Cost	of	Capital	
+Aswath	Damodaran	
+192
+¨ Using	the	boBom-up	unlevered	beta	that	you	computed	for	
+your	ﬁrm,	and	the	values	of	debt	and	equity	you	have	
+es4mated	for	your	ﬁrm,	es4mate	a	boBom-up	levered	beta	
+and	cost	of	equity	for	your	ﬁrm.	
+¨ Based	upon	the	costs	of	equity	and	debt	that	you	have	
+es4mated,	and	the	weights	for	each,	es4mate	the	cost	of	
+capital	for	your	ﬁrm.		
+¨ How	diﬀerent	would	your	cost	of	capital	have	been,	if	you	
+used	book	value	weights?
+193
+Choosing	a	Hurdle	Rate	
+Aswath	Damodaran	
+193
+¨ Either	the	cost	of	equity	or	the	cost	of	capital	can	be	
+used	as	a	hurdle	rate,	depending	upon	whether	the	
+returns	measured	are	to	equity	investors	or	to	all	
+claimholders	on	the	ﬁrm	(capital)	
+¨ If	returns	are	measured	to	equity	investors,	the	
+appropriate	hurdle	rate	is	the	cost	of	equity.	
+¨ If	returns	are	measured	to	capital	(or	the	ﬁrm),	the	
+appropriate	hurdle	rate	is	the	cost	of	capital.
+194
+Back	to	First	Principles	
+Aswath	Damodaran	
+194
+MEASURING	INVESTMENT	RETURNS	
+I:	THE	MECHANICS	OF	INVESTMENT	
+ANALYSIS	
+	
+	
+“Show	me	the	money”	
+					 from	Jerry	Maguire	
+Aswath	Damodaran 	 195
+196
+First	Principles	
+Aswath	Damodaran	
+196
+197
+Measures	of	return:	earnings	versus	cash	ﬂows	
+Aswath	Damodaran	
+197
+¨ Principles	Governing	Accoun4ng	Earnings	Measurement	
+¤ Accrual	Accoun4ng:	Show	revenues	when	products	and	services	are	
+sold	or	provided,	not	when	they	are	paid	for.	Show	expenses	
+associated	with	these	revenues	rather	than	cash	expenses.	
+¤ Opera4ng	versus	Capital	Expenditures:	Only	expenses	associated	with	
+crea4ng	revenues	in	the	current	period	should	be	treated	as	opera4ng	
+expenses.	Expenses	that	create	beneﬁts	over	several	periods	are	
+wriBen	oﬀ	over	mul4ple	periods	(as	deprecia4on	or	amor4za4on)	
+¨ To	get	from	accoun4ng	earnings	to	cash	ﬂows:	
+¤ you	have	to	add	back	non-cash	expenses	(like	deprecia4on)	
+¤ you	have	to	subtract	out	cash	ouolows	which	are	not	expensed	(such	
+as	capital	expenditures)	
+¤ you	have	to	make	accrual	revenues	and	expenses	into	cash	revenues	
+and	expenses	(by	considering	changes	in	working	capital).
+198
+Measuring	Returns	Right:	The	Basic	Principles	
+Aswath	Damodaran	
+198
+¨ Use	cash	ﬂows	rather	than	earnings.	You	cannot	spend	
+earnings.	
+¨ Use	“incremental”	cash	ﬂows	rela4ng	to	the	investment	
+decision,	i.e.,	cashﬂows	that	occur	as	a	consequence	of	
+the	decision,	rather	than	total	cash	ﬂows.	
+¨ Use	“4me	weighted”	returns,	i.e.,	value	cash	ﬂows	that	
+occur	earlier	more	than	cash	ﬂows	that	occur	later.	
+The	Return	Mantra:	“Time-weighted,	Incremental	Cash	
+Flow	Return”
+199
+Sepng	the	table:	What	is	an	investment/
+project?	
+Aswath	Damodaran	
+199
+¨ An	investment/project	can	range	the	spectrum	from	big	
+to	small,	money	making	to	cost	saving:	
+¤ Major	strategic	decisions	to	enter	new	areas	of	business	or	new	
+markets.	
+¤ Acquisi4ons	of	other	ﬁrms	are	projects	as	well,	notwithstanding	
+aBempts	to	create	separate	sets	of	rules	for	them.	
+¤ Decisions	on	new	ventures	within	exis4ng	businesses	or	
+markets.	
+¤ Decisions	that	may	change	the	way	exis4ng	ventures	and	
+projects	are	run.	
+¤ Decisions	on	how	best	to	deliver	a	service	that	is	necessary	for	
+the	business	to	run	smoothly.	
+¨ Put	in	broader	terms,	every	choice	made	by	a	ﬁrm	can	
+be	framed	as	an	investment.
+200
+Here	are	four	examples…	
+Aswath	Damodaran	
+200
+¨ Rio	Disney:	We	will	consider	whether	Disney	should	invest	in	its	ﬁrst	
+theme	parks	in	South	America.	These	parks,	while	similar	to	those	that	
+Disney	has	in	other	parts	of	the	world,	will	require	us	to	consider	the	
+eﬀects	of	country	risk	and	currency	issues	in	project	analysis.	
+¨ New	iron	ore	mine	for	Vale:	This	is	an	iron	ore	mine	that	Vale	is	
+considering	in	Western	Labrador,	Canada.		
+¨ An	Online	Store	for	Bookscape:	Bookscape	is	evalua4ng	whether	it	should	
+create	an	online	store	to	sell	books.	While	it	is	an	extension	of	their	basis	
+business,	it	will	require	diﬀerent	investments	(and	poten4ally	expose	
+them	to	diﬀerent	types	of	risk).	
+¨ Acquisi4on	of	Harman	by	Tata	Motors:	A	cross-border	bid	by	Tata	for	
+Harman	Interna4onal,	a	publicly	traded	US	ﬁrm	that	manufactures	high-
+end	audio	equipment,	with	the	intent	of	upgrading	the	audio	upgrades	on	
+Tata	Motors’	automobiles.	This	investment	will	allow	us	to	examine	
+currency	and	risk	issues	in	such	a	transac4on.
+201
+Earnings	versus	Cash	Flows:	A	Disney	Theme	
+Park	
+Aswath	Damodaran	
+201
+¨ The	theme	parks	to	be	built	near	Rio,	modeled	on	
+Euro	Disney	in	Paris	and	Disney	World	in	Orlando.	
+¨ The	complex	will	include	a	“Magic	Kingdom”	to	be	
+constructed,	beginning	immediately,	and	becoming	
+opera4onal	at	the	beginning	of	the	second	year,	and	
+a	second	theme	park	modeled	on	Epcot	Center	at	
+Orlando	to	be	constructed	in	the	second	and	third	
+year	and	becoming	opera4onal	at	the	beginning	of	
+the	fourth	year.	
+¨ The	earnings	and	cash	ﬂows	are	es4mated	in	
+nominal	U.S.	Dollars.
+202
+Key	Assump4ons	on	Start	Up	and	Construc4on	
+Aswath	Damodaran	
+202
+¨ Disney	has	already	spent	$0.5	Billion	researching	the	proposal	and	
+gepng	the	necessary	licenses	for	the	park;	none	of	this	investment	
+can	be	recovered	if	the	park	is	not	built.	This	expenditure	has	been	
+capitalized	and	will	be	depreciated	straight	line	over	ten	years	to	a	
+salvage	value	of	zero.	
+¨ Disney	will	face	substan4al	construc4on	costs,	if	it	chooses	to	build	
+the	theme	parks.	
+¤ The	cost	of	construc4ng	Magic	Kingdom	will	be	$3	billion,	with	$	2	billion	
+to	be	spent	right	now,	and	$1	Billion	to	be	spent	one	year	from	now.		
+¤ The	cost	of	construc4ng	Epcot	II	will	be	$	1.5	billion,	with	$	1	billion	to	be	
+spent	at	the	end	of	the	second	year	and	$0.5	billion	at	the	end	of	the	third	
+year.	
+¤ These	investments	will	be	depreciated	based	upon	a	deprecia4on	
+schedule	in	the	tax	code,	where	deprecia4on	will	be	diﬀerent	each	year.
+203
+Key	Revenue	Assump4ons	
+Aswath	Damodaran	
+203
+¨ Revenue	es4mates	for	the	parks	and	resort	proper4es	(in	millions)	
+Year 	Magic	Kingdom	Epcot	II	Resort	Proper4es	Total	
+1 	$0 	 	$0 	$0 	 	$0	
+2 	$1,000	 	$0 	$250 	 	$1,250	
+3 	$1,400	 	$0 	$350 	 	$1.750	
+4 	$1,700	 	$300 	$500 	 	$2.500	
+5 	$2,000	 	$500 	$625 	 	$3.125	
+6 	$2,200	 	$550 	$688 	 	$3,438	
+7 	$2,420	 	$605 	$756 	 	$3,781	
+8 	$2,662	 	$666 	$832 	 	$4,159	
+9 	$2,928	 	$732 	$915 	 	$4,575	
+10 	$2,987	 	$747 	$933 	 	$4,667	
+¨
+204
+Key	Expense	Assump4ons	
+Aswath	Damodaran	
+204
+¨ The	opera4ng	expenses	are	assumed	to	be	60%	of	
+the	revenues	at	the	parks,	and	75%	of	revenues	at	
+the	resort	proper4es.	
+¨ Disney	will	also	allocate	corporate	general	and	
+administra4ve	costs	to	this	project,	based	upon	
+revenues;	the	G&A	alloca4on	will	be	15%	of	the	
+revenues	each	year.		It	is	worth	no4ng	that	a	recent	
+analysis	of	these	expenses	found	that	only	one-third	
+of	these	expenses	are	variable	(and	a	func4on	of	
+total	revenue)	and	that	two-thirds	are	ﬁxed.
+205
+Deprecia4on	and	Capital	Maintenance	
+Aswath	Damodaran	
+205
+	
+¨ The	capital	maintenance	expenditures	are	low	in	the	
+early	years,	when	the	parks	are	s4ll	new	but	increase	as	
+the	parks	age.
+206
+Other	Assump4ons	
+Aswath	Damodaran	
+206
+¨ Disney	will	have	to	maintain	non-cash	working	
+capital	(primarily	consis4ng	of	inventory	at	the	
+theme	parks	and	the	resort	proper4es,	neBed	
+against	accounts	payable)	of	5%	of	revenues,	with	
+the	investments	being	made	at	the	end	of	each	year.	
+¨ The	income	from	the	investment	will	be	taxed	at	
+Disney’s	marginal	tax	rate	of	36.1%.
+207
+Laying	the	groundwork:	
+Book	Capital,	Working	Capital	and	Deprecia4on	
+Aswath	Damodaran	
+207
+12.5% of book 
+value at end of 
+prior year 
+($3,000)
+208
+Step	1:	Es4mate	Accoun4ng	Earnings	on	Project	
+Aswath	Damodaran	
+208
+209
+And	the	Accoun4ng	View	of	Return	
+Aswath	Damodaran	
+209
+(a) Based upon average book capital over the year
+(b) Based upon book capital at the start of each year
+Year 
+After-tax 
+Operating 
+Income 
+BV of pre-
+project 
+investment 
+BV of 
+fixed 
+assets 
+BV of 
+Working 
+capital 
+BV of 
+Capital 
+Average 
+BV of 
+Capital ROC(a) ROC(b) 
+0   500 2000 0 $2,500       
+1 -$32 $450 $3,000 $0 $3,450 $2,975 -1.07% -1.28% 
+2 -$96 $400 $3,813 $63 $4,275 $3,863 -2.48% -2.78% 
+3 -$54 $350 $4,145 $88 $4,582 $4,429 -1.22% -1.26% 
+4 $68 $300 $4,027 $125 $4,452 $4,517 1.50% 1.48% 
+5 $202 $250 $3,962 $156 $4,368 $4,410 4.57% 4.53% 
+6 $249 $200 $3,931 $172 $4,302 $4,335 5.74% 5.69% 
+7 $299 $150 $3,931 $189 $4,270 $4,286 6.97% 6.94% 
+8 $352 $100 $3,946 $208 $4,254 $4,262 8.26% 8.24% 
+9 $410 $50 $3,978 $229 $4,257 $4,255 9.62% 9.63% 
+10 $421 $0 $4,010 $233 $4,243 $4,250 9.90% 9.89% 
+Average             4.18% 4.11%
+210
+What	should	this	return	be	compared	to?	
+¨ The	computed	return	on	capital	on	this	investment	
+is	about	4.18%.	To	make	a	judgment	on	whether	this	
+is	a	suﬃcient	return,	we	need	to	compare	this	return	
+to	a	“hurdle	rate”.	Which	of	the	following	is	the	
+right	hurdle	rate?	Why	or	why	not?	
+a.  The	riskfree	rate	of	2.75%	(T.	Bond	rate)	
+b.  The	cost	of	equity	for	Disney	as	a	company	(8.52%)	
+c.  The	cost	of	equity	for	Disney	theme	parks	(7.09%)	
+d.  The	cost	of	capital	for	Disney	as	a	company	(7.81%)		
+e.  The	cost	of	capital	for	Disney	theme	parks	(6.61%)	
+f.  None	of	the	above	
+Aswath Damodaran

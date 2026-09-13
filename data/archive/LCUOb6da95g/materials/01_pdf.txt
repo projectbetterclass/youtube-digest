@@ -1,0 +1,223 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/IPOLessons.pdf
+
+IPO LESSONS FOR PUBLIC 
+MARKET INVESTORS
+Aswath Damodaran
+2
+The year of the IPO
+¨ I have found myself returning repeatedly to the IPO well, as high profile 
+companies have chosen to go public, and like a moth to a flame, I have 
+tried to value them. 
+¨ There was much enthusiasm at the start of the year that this would be a 
+blockbuster year, not just for the companies going public, but also for 
+public market investors who would now get a chance to own pieces of 
+companies which had made venture capitalists and private market 
+investors rich, at least on paper . 
+¨ As many of the new listings have disappointed in the after market, theeir
+failures have also created healthy discussions about
+¤ Whether public market investors should base their pricing of the latest VC rounds 
+¤ Whether the IPO process itself is in need of a change
+¤ What share count that we should be using in computing market capitalization
+¤ Whether investors should venture into the IPO space
+3
+The IPO Market in 2019: A Snapshot
+4
+A Subset of IPOs: Price Performance
+Levi Strauss Lyft Pinterest
+Beyond 
+Meat Uber Slack Peloton
+Listing Date 3/21/19 3/29/19 4/18/19 5/2/19 5/10/19 6/20/19 9/26/19
+Number of trading days since listing 140 134 120 112 105 77 10
+Offer Price $        17.00 $       72.00 $       19.00 $       25.00 $       45.00 $       26.00 $       29.00 
+Open: 1st Trading Day $        22.22 $       87.33 $       23.75 $       46.00 $       42.00 $       38.50 $       27.17 
+Close: 1st Trading Day $        22.24 $       78.29 $       24.40 $       65.75 $       41.57 $       38.62 $       25.76 
+Close: 10 days later $        21.61 $       61.01 $       29.74 $       86.92 $       40.47 $       36.00 $       23.51 
+Close: 50 days later $        19.27 $       58.41 $       26.68 $     166.81 $       43.69 $       29.98 
+Close: 10/8/19 $        18.96 $       38.66 $       25.63 $     142.73 $       29.28 $       25.70 $       23.21
+5
+IPO Returns
+6
+IPO Lesson 1: It stays a pricing game
+7
+And here is why…
+¨ The IPO process: The IPO process is one of gauging demand and supply 
+and setting a price based on that assessment, not estimating the value of 
+businesses. It is incontestable that the job of the bankers managing the 
+process is to make this judgment, usually based upon the responses they 
+get from their investor clientele. Thus, it should be not surprising that the 
+bulk of the backing for an offering price comes from finding a pricing 
+metric and relevant comparables(a subjectively judgment).
+¨ Self Selection: The players who get drawn into the IPO game tend to be 
+those with shorter time horizons who feel that their strength is in riding 
+momentum, when it exists, and detecting shifts, before the rest of the 
+market does. In short, the IPO market is built for traders, not investors.
+¨ Type of companies: Most initial public offerings tend to be of firms that 
+are younger and often less formed than their more seasoned public 
+counterparts. Consequently, more of their value lies in the future and 
+there is more uncertainty in assessing the numbers, allowing investors
+8
+So what?
+¨ Don’t try to explain price movements: Trying to use 
+value tools (like DCF) to explain why IPOs are priced the 
+way they are, and what causes them to move on a day-
+to-day basis in the after market is a recipe for frustration. 
+The nature of the pricing game is that mood and 
+momentum can not only cause these companies to be 
+priced at numbers very different from value but also 
+cause price movements on trivial, perhaps even 
+irrelevant, news stories. 
+¨ And be careful: Playing the momentum game is akin to 
+riding on the back of a tiger, with the danger that you 
+will be consumed, if the game shifts.
+9
+IPO Lesson 2: Pricing is on a shaky base
+¨ Peer Group Framing: With most public companies, a 
+combination of the company's operating history and 
+market learning leads to a consensus on what its peer 
+group should be, for pricing purposes. For many IPOs, 
+especially built around new business mechanisms, there 
+is much more for confusion about what grouping to put 
+the company into. IPOs try to influence this choice by 
+framing themselves as being in businesses that will 
+deliver a higher pricing, explaining why almost every one 
+of them likes to use the word "tech" in its description.
+¨ Past Pricing History: Unlike publicly traded companies, 
+where there is a market price history, the only price 
+history that you have with IPOs is from prior VC rounds.
+10
+VC history for the subset of IPOs
+11
+Reasons to be skeptical of VC prices
+¨ Extrapolating from small investment: The pricing for the 
+company is extrapolated from a small VC investment. With 
+Lyft, for instance, the estimated pricing of $14.5 billion from 
+the most recent round was extrapolated from an investment 
+of $600 million for the company for a 4.1% share of the 
+company. 
+¨ VC Protections: This problem is worsened by the fact that VC 
+investors can and usually do negotiate for post-investment 
+protections, when they invest. In effect, VCs are being 
+provided with options, and the presence of these additional 
+features makes simplistic extrapolation to pricing from a VC 
+investment almost impossible to do. 
+¨ One VC effect? All you need is one over optimistic venture 
+capitalist to push the pricing beyond reasonable bounds.
+12
+IPO Lesson 3: And an unstable share count
+¨ For most publicly listed firms, multiply share count by 
+share price should yield a market cap fairly close to the 
+truth, but IPOs are different for two reasons. 
+¤ First, an overwhelming number in recent years have had two 
+classes of shares (sometimes three) with different voting rights 
+and being sloppy and missing an entire share class will cause 
+devastating errors in computation. 
+¤ Second, most of these companies are young and cash-poor, and 
+they have chosen to compensate employees with equity, either 
+in the form of restricted shares and options. The way in which 
+investors and analysts deal with these employee equity claims 
+ranges from the abysmal to the barely acceptable, again with 
+significant consequences.
+13
+Peloton: An illustration
+¨ Peloton, in its final prospectus listed itself as having 41.8 million class A 
+shares, with lower voting rights, and 235.9 million class B shares, with 
+higher voting rights, after its IPO, yielding a total share count of 277.7 
+million shares. That is the share count that has been used byjournalists 
+in writing about the offeringand by most of the data servicessince, in 
+estimating the implied pricing. 
+¨ In the same prospectus, where Peloton states that 'the number of 
+shares..... does not include:
+¤ 64,602,124 shares of our Class B common stock issuable upon the exercise of 
+options to purchase shares of our Class B common stock outstanding as of June 30, 
+2019, with a weighted -average exercise price of $6.71 per share;
+¤ 883,550 shares of our Class B common stock issuable upon the exercise of options 
+to purchase shares of our Class B common stock granted between June 30, 2019 
+and September 10, 2019 with a weighted- average exercise price of $23.40 per 
+share;
+¤ 240,000 shares of our Class B common stock issuable upon the exercise of a 
+warrant to purchase Class B common stock outstanding as of June 30, 2019, with 
+an exercise price of $0.19 per share;
+14
+Adjusting for options
+¨ Let's assume that the Peloton bankers came to the 
+conclusion that $8.1 billion is a reasonable value to 
+attach to its equity, based upon past VC rounds and peer 
+group pricing. 
+¨ To get to an offer price, they cannot divide that number 
+by just the shares outstanding (277.7 million), since that 
+will treat the options as worthless. 
+¨ In my valuation of Peloton, I did what I think should 
+always be done, which is to value the options as options, 
+which allows me to include at-the-money and out-of-
+the-money options, as well as time value, net that 
+option value from my equity value and then divide by 
+the 277.7 million shares.
+15
+A Short Cut
+¨ Here is a simpler way to get to value per share from the estimated equity 
+value:
+¨ IF the bankers wanted to price Peloton at $8.1 billion, the estimated offer 
+price per share, counting only the 64.6 million additional options would 
+have been:
+¨ It is possible that this was a journalistic error in extrapolation and 
+that the bankers took options into account and meant to price it at 
+$29/share, in which case the implied market capitalization for 
+Peloton at the $29 offer price, using the exercise proceeds short 
+cut, would have been:
+¤ Implied Market Cap at $29/share = 277.7 * $29 + 64.6* ($29 - 6.71) = 
+$9.5 billion
+16
+IPO Lesson 4: A Bar Mitzvah Moment 
+Awaits!
+¨ If your intent is to trade IPOs, you should not care about value, but mine 
+is different. I consider myself an investor, not a trader, not because it is a 
+more noble calling but because I am a terrible trader. 
+¨ As an investor, it is my belief that these young companies that go public 
+are adept at playing the pricing game, delivering more users, subscribers 
+or revenues, if that is what the pricing gods want, and their stock prices 
+often continue to rise, even though their fundamentals don't merit it. It is 
+also my belief that each of these companies will face what I call a "Bar 
+Mitzvah" moment, where the market, hitherto focused on magical 
+metrics, asks the company about its pathway to profitability.
+¨ As I look back over time, the very best of these companies, and I would 
+include Facebook, Google and Amazon in this grouping, are ready for this 
+moment, since they have been building viable business models, even as 
+they delivered on market metrics. Many of these young companies, 
+though, seem unready for this question, and the market punishes them, 
+as was the case with Twitter in 2014.
+17
+Go where it is darkest!
+¨ .If you subscribe to old time value investing, you are probably 
+wondering why I would want to try to put my money at risk, 
+investing in these young companies, when it is so much easier to 
+value mature companies like Philip Morris and Coca Cola. 
+¨ I don't disagree with you on your premise that there is a great deal 
+more uncertainty in valuing Uber than in valuing Coca Cola, but I 
+believe that the payoff to imprecisely valuing Uber is greater than 
+the payoff to precisely valuing Coca Cola. After all, what made Coca 
+Cola easy for you to value also makes it easy for other investors to 
+do as well, and the uncertainty that scares you with Uber is scaring 
+most investors away from even trying.
+¨ It is for that reason that I value companies at the time of their 
+public offerings, and repeatedly thereafter, knowing that I will 
+badly wrong each time, but hoping that I am able to get in at the 
+right price.
+18
+And here are my numbers..
+19
+Act on value…
+¨ Levi Strauss's most recent earnings report was not well received by the market, 
+with the stock dropping 1.1% to $18.96. I see its fundamentals justifying a higher 
+value and I bought shares at $18.96.
+¨ I have gone back and forth on whether to buy Uber, Lyft or both. Lyft looks more 
+under valued, but Uber offers more upside, given its global ambitions. In addition, 
+I prefer Uber's single class of shares to Lyft's multiple voting right classes, and 
+these factors tilted me to buying the latter at $30/share.
+¨ Slack and Pinterest are getting close to fair value as their prices have drifted 
+down and Peloton has become less over valued but still has room to fall. For the 
+moment, I will add these companies to my watch list, and track their pricing.
+¨ With my story for Beyond Meat, I find the price almost unreachable, and while 
+this was the same conclusion that I drew a few months ago, I tried shorting the 
+stock at $142, but was unable to get my trade through . I ended up buying put 
+options with a 120 strike price, expiring in Decemberr, paying a mind-bending 
+time premium, but beggars cannot be choosers.

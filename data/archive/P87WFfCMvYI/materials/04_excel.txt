@@ -1,0 +1,3 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitda.xls
+
+[legacy .xls workbook: vebitda.xls — see raw file]

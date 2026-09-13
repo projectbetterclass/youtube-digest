@@ -1,0 +1,24 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session3soln.pdf
+
+Session	3:	Post	class	test	solutions	
+1. c.	At	original	cost,	adjusted	for	loss	is	value	from	aging	of	the	asset	
+(estimated	with	depreciation).	Book	value	in	conventional	accounting	is	a	
+reflection	of	original	investment,	net	of	depreciation.	There	is	no	inflation	
+adjustment.	
+2. b.	At	book	value	for	the	10%	holding.	The	investment	is	recorded	at	
+original	cost	at	the	time	it	is	made,	but	augmented	by	retained	earnings	since	
+the	investment,	making	it	a	current	book	value.		
+3. e.	At	book	value	for	a	100%	holding	on	assets,	with	a	liability	(minority	
+interests)	shown	for	the	40%	that	does	not	belong	to	the	company.	
+Companies	that	have	majority	stakes	have	to	consolidate,	thus	showing	the	
+entire	subsidiary	company	on	the	asset	side	and	offsetting	it	with	a	minority	
+interest	reflecting	the	portion	not	owned.	
+4. c.	It	measures	the	premium	paid	over	and	above	the	book	value	to	
+acquire	a	company.	This	is	the	closest	description	of	goodwill,	though	
+accountants	are	allowed	to	adjust	the	book	value	of	assets	of	the	target	
+company.	
+5. d.	For	mature	companies,	with	significant	physical	and	tangible	assets.	
+Growth	companies	will	usually	have	intrinsic	values	that	exceed	book	value,	
+because	the	value	of	growth	cannot	be	easily	captured	on	an	accounting	
+balance	sheet.	Tangible	assets	are	also	more	likely	to	be	recorded	on	
+accounting	balance	sheets	at	meaningful	values	than	intangible	assets.

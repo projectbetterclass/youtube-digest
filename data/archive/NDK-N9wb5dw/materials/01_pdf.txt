@@ -1,0 +1,172 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/SnapIPO.pdf
+
+SNAP ,	A	PICTURE	IS	WORTH	A	
+THOUSAND	WORDS!
+Aswath	Damodaran
+2
+The	History	of	Snap
+Date Event
+April 2011 Spiegel	and	Murphy	found Picaboo,	a	photo-
+sharing	site.
+September	2011 Picaboo renamed as	Snapchat
+October	2013 Launches Stories
+November	2013 Facebook	tries	to	buy Snapchat	for	$3	billion
+July	2014 Introduces	Geofilters
+October	2014 Tries	early version	of	ads
+October	2016 Starts	selling	Spectacles
+February	2017 Snap announces	IPO
+3
+Snap:	A	Camera	Company?
+¨ Snap’s	prospectus	starts	with	these	words,	“Snap	is	a	
+camera	company”.
+¨ When	most	people	think	of	camera	companies,	they	
+either	think	of	old-time	camera	companies	like	
+Kodak,	Polaroid	and	the	Japanese	names,	that	are	
+either	dead	or	dying	from	disruption	or	GoPro,	a	
+disruptor	that	cannot	figure	out	how	to	make	
+money.	Snap	is	not	a	camera	company.
+¨ In	my	view,	Snap	is	trying	to	carve	a	niche	for	itself	in	
+the	social	media	space	as	the	company	built	around	
+the	visual	image.
+4
+The	Digital	Advertising	Market:	Trends
+5
+With	Two	Giants!
+6
+Young	Companies:	The	Importance	of	
+Story
+7
+Snap:	A	Comparison	to	other	Social	Media	
+IPOs
+Google LinkedIn Facebook Twitter Snap
+IPO	date 19-Aug-04 19-May-11 18-May-12 7-Nov-13 NA
+Revenues $1,466	 $161	 $3,711	 $449	 $405	
+Operating	Income $326	 $13	 $1,756	 $(93) $(521)
+Net	Income $143	 $2	 $668	 $(99) $(515)
+Number	of	Users NA 80.6 845 218 161
+User	minutes	per	day	
+(January	2017) 50	 NA 50 2 25
+Market	Capitalization	
+on	offering	date $23,000	 $9,000	 $81,000	 $18,000	 ?
+8
+And	the	years	after ..
+9
+What	I	see	in	Snap
+1. An	Online	Advertising	company:	I	believe	that	Snap's	
+revenues	will	continue	to	come	entirely	or	
+predominantly	from	advertising.	
+2. Marketing	to	younger,	tech-savvy	users:	Snap's	
+platform,	with	its	emphasis	on	the	visual	and	the	
+temporary,	will remain	more	attractive	to	younger	
+users.
+3. With	an	emphasis	on	user	intensity	than	users:	It	is	
+striking	that	Snap's	prospectus	and	public	utterances	by	
+its	founders	emphasize	user	intensity	more	than	they	
+number	of	users,	in	contrast	to	earlier	social	media	
+company	IPOs.
+10
+The	Snap	Story
+Aswath Damodaran
+10
+11
+IPO	Details
+1. Share	count:	Adding	up	the	shares	outstanding	on	all	
+three	classes	of	shares,	including	shares	set	aside	for	
+restricted	stock	issues	and	assorted	purposes,	I	get	a	
+total	of	1,243.10	million	shares	outstanding	in	the	
+company.	In	addition,	I	estimate	that	there	are	44.90	
+million	options	outstanding	in	the	company,	with	an	
+average	exercise	price	of	$2.33	and	an	assumed	
+maturity	of	3	years.
+2. IPO	Proceeds:	In	the	case	of	Snap,	it	is	estimated	that	
+roughly	$3	billion	in	cash from	the	offering	that	will	be	
+held	by	the	company,	 to	cover	costs	like	the	$2	billion	
+that	Snap	has	contracted	to	pay	Google for	cloud	space	
+for	the	next	five	years.
+Base	year Years	1-5 Years	6-10 After	year	10 Link	to	story
+Revenues	(a) 404$																											 55.00% 2.47% 2.47% Focus	on	market	subset	(young)	will	cap	revenues
+Operating	margin	(b) -96.62% -96.62% 25.00% 25.00% Margins	improve	to	Google	levels
+Tax	rate 30.00% 30.00% 30.00% 30.00% After	NOL	runs	out,	taxed	at	US	marginal
+Reinvestment	(c	) Sales	to	capital	ratio	=2.00 RIR	= 20.58% Reinvest	like	online	tech	companies
+Return	on	capital -39.45% Marginal	ROIC	= 59.99% 12.00% User	base	&	loyalty	allow	for	high	ROIC
+Cost	of	capital	(d) 9.94% 8.00% 8.00% Start	of	at	85th	percentile;	10%	failure	risk
+Revenues Operating	Margin EBIT EBIT	(1-t) Reinvestment	 FCFF
+1 627$																											 -35.81% -$224.50 -$224.50 $111.23 -$335.73
+2 972$																											 -5.40% -$52.51 -$52.51 $172.41 -$224.93
+3 1,506$																								 9.80% $147.58 $147.58 $267.24 -$119.66
+4 2,335$																								 17.40% $406.21 $323.18 $414.22 -$91.04
+5 3,619$																								 21.20% $767.16 $537.01 $642.03 -$105.03
+6 5,229$																								 23.10% $1,207.85 $845.50 $805.06 $40.44
+7 7,006$																								 24.05% $1,684.95 $1,179.46 $888.59 $290.87
+8 8,651$																								 24.52% $2,121.70 $1,485.19 $822.58 $662.61
+9 9,774$																								 24.76% $2,420.23 $1,694.16 $561.29 $1,132.87
+10 10,015$																						 24.88% $2,491.91 $1,744.34 $120.71 $1,623.63
+Terminal	year 10,263$																						 25.00% $2,565.65 $1,795.95 $369.67 $1,426.29
+$25,791.78
+$10,544.72
+$946.34
+$11,491.06
+$919.28 10.00%
+$203.87
+$3,987.36
+$14,355.26
+$797.45
+1243.10
+$10.91 $20.00
+Includes	IPO	proceeds	of	$3	billion
+PV	(CF	over	next	10	years)
+	-	Debt	&	Mnority	Interests
+	+	Cash	&	Other	Non-operating	assets
+Value	of	equity
+PV(Terminal	value)
+	-	Value	of	equity	options
+Probability	of	failure	=
+Number	of	shares
+Value	per	share
+Adjustment	for	distress
+Value	of	operating	assets	=
+Stock	was	trading	at	=
+Snap
+The	Story
+The	Assumptions
+The	Cash	Flows
+The	Value
+Terminal	value
+Snap	is	an	online	advertising	company,	with	a	social	media	platform.	Its	focus	on	the	visual	(pictures	and	short	videos)	and	the	now	(they	both	disappear	after	being	viewed)	makes	it	attractive	to	the	young.	It	will	continue	to	make	its	money	on	online	advertising	with	
+the	focus	staying	on	the	young,	connected	portion	of	the	marketplace.	The	focus	on	a	sub-set	of	the	market	will	cap	its	revenues	much	below	the	giants	(Facebook	&	Google)	but	will	allow	it	to	deliver	high	profit	margins	(close	to	Google).
+13
+Snap:	Probability	Judgments	on	Inputs
+14
+Snap:	My	Value	Estimate
+15
+Alternative	Stories
+¨ The	numbers	at	the	high	end	of	the	spectrum	reflect	a	pathway	for	
+Snap	that	I	call	the Facebook	Light story,	where	it	emerges	as	a	
+serious	contender	to	Facebook	in	terms	of	time	that	users	spend	
+on	its	platform	but	with	a	smaller	user	base.	That	leads	to	revenues	
+of	$25	billion	by	2027,	an	operating	margin	of	40%	for	the	company	
+and	a	value	for	the	equity	of	$48	billion.
+¨ The	numbers	at	the	other	end	of	the	spectrum	capture	a	darker	
+version	of	the	story,	that	I	label Twitter	Redux,	where	Instagram	
+and	other	competitors	cause	user	growth	to	slow,	user	intensity	to	
+come	under	stress	and	advertising	to	lag	expectations.	In	this	story,	
+Snap	has	trouble	getting	pushing	revenue	growth	past	35%,	settling	
+for	about	$4	billion	in	revenues	in	2027,	is	able	to	improve	its	
+margin	to	only	10%	in	steady	state	and	ends	up	with	a	value	of	the	
+equity	of	about	$4	billion.
+16
+The	Pricing	Contrast!
+1. Offering	Price:	The	bankers	initial	pricing	of	Snap	is	a	
+number	between	$18.5	billion	and	$21.5	billion.
+2. Banker’s	price	companies,	not	value	them:	Value	is	
+determined	by	cash	flows,	growth	and	risk,	whereas	price	is	
+set	by	what	investors	are	paying	for	other	companies	in	the	
+space.
+3. Everything	is	relative:	if	investors	are	willing	to	attach	a	
+pricing	of	$12	billion	to	Twitter,	a	social	media	company	
+seeming	incapable	of	translating	potential	to	profits,	and	
+Microsoft	is	paying	$26	billion	for	LinkedIn,	another	social	
+media	company	whose	grasp	exceeded	its	reach,	why	
+should	they	not	pay	$20	billion	for	Snap,	a	company	with	
+vastly	greater	user	engagement	than	either	LinkedIn	or	
+Twitter?

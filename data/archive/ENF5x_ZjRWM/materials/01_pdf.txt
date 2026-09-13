@@ -1,0 +1,463 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfspr19/session16slides.pdf
+
+317
+IV . Assessing Existing or Past investments…
+Aswath Damodaran
+317
+¨While much of our discussion has been focused on 
+analyzing new investments, the techniques and 
+principles enunciated apply just as strongly to 
+existing investments. 
+¨With existing investments, we can try to address one 
+of two questions:
+¤Post –mortem: We can look back at existing investments 
+and see if they have created value for the firm. 
+¤What next? We can also use the tools of investment 
+analysis to see whether we should keep, expand or 
+abandon existing investments.
+318
+Analyzing an Existing Investment
+Aswath Damodaran
+318
+In a post-mortem, you look at the actual cash 
+flows, relative to forecasts.
+You can also reassess your expected cash 
+flows, based upon what you have learned, 
+and decide whether you should expand, 
+continue or divest (abandon) an investment
+319
+a. Post Mortem Analysis
+Aswath Damodaran
+319
+¨The actual cash flows from an investment can be greater than or less than 
+originally forecast for a number of reasons but all these reasons can be 
+categorized into two groups:
+¤Chance: The nature of risk is that actual outcomes can be different from 
+expectations. Even when forecasts are based upon the best of information, they 
+will invariably be wrong in hindsight because of unexpected shifts in both macro 
+(inflation, interest rates, economic growth) and micro (competitors, company) 
+variables.
+¤Bias: If the original forecasts were biased, the actual numbers will be different from 
+expectations. The evidence on capital budgeting is that managers tend to be over-
+optimistic about cash flows and the bias is worse with over-confident managers.
+¨While it is impossible to tell on an individual project whether chance or 
+bias is to blame, there is a way to tell across projects and across time. If 
+chance is the culprit, there should be symmetry in the errors –actuals 
+should be about as likely to beat forecasts as they are to come under 
+forecasts. If bias is the reason, the errors will tend to be in one direction.
+320
+b. What should we do next?
+Aswath Damodaran
+320
+........Liquidate the project
+........Terminate the project
+........Divest the project
+........Continue the project
+€ 
+NFn
+(1+r)n
+t=0
+t=n
+∑ >0>Divestiture Value€ 
+NFn
+(1+r)n
+t=0
+t=n
+∑ <Divestiture Value
+€ 
+NFn
+(1+r)n
+t=0
+t=n
+∑ <0
+€ 
+NFn
+(1+r)n
+t=0
+t=n
+∑ <Salvage Value
+321
+Example: Disney California Adventure –
+The 2008 judgment call
+Aswath Damodaran
+321
+¨Disney opened the Disney California Adventure (DCA) Park in 2001, at a 
+cost of $1.5 billion, with a mix of roller coaster rides and movie nostalgia. 
+Disney expected about 60% of its visitors to Disneyland to come across to 
+DCA and generate about $ 100 million in annual after-cash flows for the 
+firm.
+¨By 2008, DCA had not performed up to expectations. Of the 15 million 
+people who came to Disneyland in 2007, only 6 million visited California 
+Adventure, and the cash flow averaged out to only $ 50 million between 
+2001 and 2007. 
+¨In early 2008, Disney faced three choices:
+¤Shut down California Adventure and try to recover whatever it can of its initial 
+investment. It is estimated that the firm recover about $ 500 million of its investment.
+¤Continue with the status quo, recognizing that future cash flows will be closer to the 
+actual values ($ 50 million) than the original projections.
+¤Invest about $ 600 million to expand and modify the park, with the intent of increasing 
+the number of attractions for families with children, is expected to increase the 
+percentage of Disneyland visitors who come to DCA from 40% to 60% and increase the 
+annual after tax cash flow by 60% (from $ 50 million to $ 80 million) at the park.
+322
+DCA: Evaluating the alternatives…
+Aswath Damodaran
+322
+¨Continuing Operation: Assuming the current after-tax cash flow of 
+$ 50 million will continue in perpetuity, growing at the inflation rate 
+of 2% and discounting back at the theme park cost of capital in 
+2008 of 6.62% yields a value for continuing with the status quo
+Value of DCA = 
+¨Abandonment: Abandoning this investment currently would allow 
+Disney to recover only $ 500 million of its original investment.  
+Abandonment value of DCA = $ 500 million
+¨Expansion: The up-front cost of $ 600 million will lead to more 
+visitors in the park and an increase in the existing cash flows from $ 
+50 to $ 80 million. 
+Value of CF from expansion = 
+€ 
+Expected Cash Flow next year
+(Cost of capital - g) =50(1.02)
+(.0662−.02)=$1.103 billion
+€ 
+Increase in CF next year
+(Cost of capital - g)=30(1.02)
+(.0662−.02)=$662 million
+323
+First Principles
+Aswath Damodaran
+323
+CORPORATE FINANCE
+LECTURE NOTE PACKET 2
+CAPITAL STRUCTURE, DIVIDEND 
+POLICY AND VALUATION
+Aswath Damodaran Spring 2016
+Aswath Damodaran 1
+CAPITAL STRUCTURE: THE 
+CHOICES AND THE TRADE OFF
+Neither a borrower nor a lender be
+Someone who obviously hated this part of corporate finance
+Aswath Damodaran 2
+3
+First principles
+Aswath Damodaran
+3
+4
+The Choices in Financing
+Aswath Damodaran
+4
+¨There are only two ways in which a business can raise money. 
+¤The first is debt. The essence of debt is that you promise to make fixed 
+payments in the future (interest payments and repaying principal). If 
+you fail to make those payments, you lose control of your business.
+¤The other is equity. With equity, you do get whatever cash flows are 
+left over after you have made debt payments.
+5
+Global Patterns in Financing…
+Aswath Damodaran
+5
+6
+And a much greater dependence on bank loans 
+outside the US…
+Aswath Damodaran
+6
+7
+Assessing the existing financing choices: Disney, 
+Vale, Tata Motors, Baidu& Bookscape
+Aswath Damodaran
+7
+8
+9
+The Transitional Phases..
+Aswath Damodaran
+9
+¨The transitions that we see at firms –from fully owned 
+private businesses to venture capital, from private to public 
+and subsequent seasoned offerings are all motivated 
+primarily by the need for capital. 
+¨In each transition, though, there are costs incurred by the 
+existing owners:
+¤When venture capitalists enter the firm, they will demand their fair 
+share and more of the ownership of  the firm to provide equity.
+¤When a firm decides to go public, it has to trade off the greater access 
+to capital markets against the increased disclosure requirements (that 
+emanate from being publicly lists), loss of control and the transactions 
+costs of going public.
+¤When making seasoned offerings, firms have to consider issuance 
+costs while managing their relations with equity research analysts and 
+rat
+10
+Measuring a firms financing mix …
+Aswath Damodaran
+10
+¨The simplest measure of how much debt and equity a firm is 
+using currently is to look at the proportion of debt in the total 
+financing. This ratio is called the debt to capital ratio:
+Debt to Capital Ratio = Debt / (Debt + Equity)
+¨Debt includes all interest bearing liabilities, short term as well 
+as long term. It should also include other commitments that 
+meet the criteria for debt: contractually pre-set payments 
+that have to be made, no matter what the firm’s financial 
+standing.
+¨Equity can be defined either in accounting terms (as book 
+value of equity) or in market value terms (based upon the 
+current price). The resulting debt ratios can be very different.
+11
+The Financing Mix Question
+Aswath Damodaran
+11
+¨In deciding to raise financing for a business, is there 
+an optimal mix of debt and equity?
+¤If yes, what is the trade off that lets us determine this 
+optimal mix?
+nWhat are the benefits of using debt instead of equity?
+nWhat are the costs of using debt instead of equity?
+¤If not, why not?
+12
+The Illusory Benefits of Debt
+¨At first sight, the benefit of debt seems obvious. The cost 
+of debt is lower than the cost of equity. 
+¨That benefit is an illusion, though, because debt is 
+cheaper than equity for a simple reason. The lender gets 
+both first claim on the cash flows and a contractually 
+pre-set cash flow. The equity investor is last in line and 
+has to demand a higher rate of return than the lender 
+does.
+¨By borrowing money at a lower rate, you are not making 
+a business more valuable, but just moving the risk 
+around.
+Aswath Damodaran
+12
+13
+Costs and Benefits of Debt
+Aswath Damodaran
+13
+¨Benefits of Debt
+¤Tax Benefits: The tax code is tilted in favor of debt, with interest 
+payments being tax deductible in most parts of the world, while 
+cash flows to equity are not.
+¤Adds discipline to management: When managers are sloppy in 
+their project choices, borrowing money may make them less so.
+¨Costs of Debt
+¤Bankruptcy Costs: Borrowing money will increase your expected 
+probability and cost of bankruptcy.
+¤Agency Costs: What’s good for stockholders is not always what’s 
+good for lenders and that creates friction and costs.
+¤Loss of Future Flexibility: Using up debt capacity today will mean 
+that you will not be able to draw on it in the future.
+14
+Tax Benefits of Debt
+Aswath Damodaran
+14
+¨When you borrow money, you are allowed to deduct interest 
+expenses from your income to arrive at taxable income. This 
+reduces your taxes. When you use equity, you are not 
+allowed to deduct payments to equity (such as dividends) to 
+arrive at taxable income.
+¨The dollar tax benefit from the interest payment in any year is 
+a function of your tax rate and the interest payment:
+¤Tax benefit each year = Tax Rate * Interest Payment
+The caveat is that you need to have the income to cover interest 
+payments to get this tax benefit.
+¨Proposition 1: Other things being equal, the higher the 
+marginal tax rate of  a business, the more debt it will have in 
+its capital structure.
+15
+The Effects of Taxes
+Aswath Damodaran
+15
+¨You are comparing the debt ratios of real estate 
+corporations, which pay the corporate tax rate, and 
+real estate investment trusts, which are not taxed, 
+but are required to pay 95% of their earnings as 
+dividends to their stockholders. Which of these two 
+groups would you expect to have the higher debt 
+ratios?
+a.The real estate corporations
+b.The real estate investment trusts
+c.Cannot tell, without more information
+16
+Debt adds discipline to management
+Aswath Damodaran
+16
+¨If you are managers of a firm with no debt, and you 
+generate high income and cash flows each year, you 
+tend to become complacent. The complacency can 
+lead to inefficiency and investing in poor projects. 
+There is little or no cost borne by the managers 
+¨Forcing such a firm to borrow money can be an 
+antidote to the complacency. The managers now 
+have to ensure that the investments they make will 
+earn at least enough return to cover the interest 
+expenses. The cost of not doing so is bankruptcy and 
+the loss of such a job.
+17
+Debt and Discipline
+Aswath Damodaran
+17
+¨Assume that you buy into this argument that debt adds 
+discipline to management. Which of the following types 
+of companies will most benefit from debt adding this 
+discipline?
+a. Conservatively financed (very little debt), privately 
+owned businesses
+b. Conservatively financed, publicly traded companies, 
+with stocks held by millions of investors, none of whom 
+hold a large percent of the stock.
+c. Conservatively financed, publicly traded companies, 
+with an activist and primarily institutional holding.
+18
+Bankruptcy Cost
+Aswath Damodaran
+18
+¨The expected bankruptcy cost is a function of two variables--
+¤the probability of bankruptcy, which will depend upon how uncertain 
+you are about future cash flows
+¤the cost of going bankrupt
+ndirect costs: Legal and other Deadweight Costs
+nindirect costs: Costs arising because people perceive you to be in 
+financial trouble
+¨Proposition 2: Firms with more volatile earnings and cash 
+flows will have higher probabilities of bankruptcy at any given 
+level of debt and for any given level of earnings.
+¨Proposition 3: Other things being equal, the greater the 
+indirect bankruptcy cost, the less debt the firm can afford to 
+use for any given level of debt.
+19
+Debt & Bankruptcy Cost
+Aswath Damodaran
+19
+¨Rank the following companies on the magnitude of 
+bankruptcy costs from most to least, taking into 
+account both explicit and implicit costs:
+a. A Grocery Store
+b. An Airplane Manufacturer
+c. High Technology company
+20
+Agency Cost
+Aswath Damodaran
+20
+¨An agency cost arises whenever you hire someone else to do something 
+for you. It arises because your interests(as the principal) may deviate from 
+those of the person you hired (as the agent).
+¨When you lend money to a business, you are allowing the stockholders to 
+use that money in the course of running that business. Stockholders 
+interests are different from your interests, because 
+¤You (as lender) are interested in getting your money back
+¤Stockholders are interested in maximizing their wealth
+¨In some cases, the clash of interests can lead to stockholders
+¤Investing in riskier projects than you would want them to
+¤Paying themselves large dividends when you would rather have them keep the cash 
+in the business.
+¨Proposition 4: Other things being equal, the greater the agency problems 
+associated with lending to a firm, the less debt the firm can afford to use.
+21
+Debt and Agency Costs
+Aswath Damodaran
+21
+¨Assume that you are a bank. Which of the following 
+businesses would you perceive the greatest agency 
+costs?
+a. A Technology firm 
+b. A Large Regulated Electric Utility
+c. A Real Estate Corporation
+¨Why?
+22
+Loss of future financing flexibility
+Aswath Damodaran
+22
+¨When a firm borrows up to its capacity, it loses the 
+flexibility of financing future projects with debt. 
+¨Thus, if the firm is faced with an unexpected 
+investment opportunity or a business shortfall, it will 
+not be able to draw on debt capacity, if it has alread 
+used it up.
+¨Proposition 5: Other things remaining equal, the 
+more uncertain a firm is about its future financing 
+requirements and projects, the less debt the firm will 
+use for financing current projects.
+23
+What managers consider important in deciding 
+on how much debt to carry...
+Aswath Damodaran
+23
+¨A survey of Chief Financial Officers of large U.S. 
+companies provided the following ranking (from most 
+important to least important) for the factors that they 
+considered important in the financing decisions
+Factor Ranking (0-5)
+1. Maintain financial flexibility 4.55
+2. Ensure long-term survival 4.55
+3. Maintain Predictable Source of Funds 4.05
+4. Maximize Stock Price 3.99
+5. Maintain financial independence 3.88
+6. Maintain high debt rating 3.56
+7. Maintain comparability with peer group2.47
+24
+Debt: Summarizing the trade off
+Aswath Damodaran
+24
+25
+The Trade off for Disney, Vale, Tata Motors 
+and Baidu
+Aswath Damodaran
+25
+Debt trade off  Discussion of relative benefits/costs 
+Tax benefits Marginal tax rates of 40% in US (Disney & Bookscape), 32.5% in India (Tata 
+Motors), 25% in China (Baidu) and 34% in Brazil (Vale), but there is an offsetting 
+tax benefit for equity in Brazil (interest on equity capital is deductible). 
+Added 
+Discipline 
+The benefits should be highest at Disney, where there is a clear separation of 
+ownership and management and smaller at the remaining firms. 
+Expected 
+Bankruptcy 
+Costs 
+Volatility in earnings: Higher at Baidu (young firm in technology), Tata Motors 
+(cyclicality) and Vale (commodity prices) and lower at Disney (diversified across 
+entertainment companies).  
+Indirect bankruptcy costs likely to be highest at Tata Motors, since it’s products 
+(automobiles) have long lives and require service and lower at Disney and Baidu.  
+Agency Costs Highest at Baidu, largely because it’s assets are intangible and it sells services and 
+lowest at Vale (where investments are in mines, highly vi sible and easily 
+monitored) and Tata Motors (tangible assets, family group backing). At Disney, 
+the agency costs will vary across its business, higher in the movie and 
+broadcasting businesses and lower at theme parks.  
+Flexibility 
+needs 
+Baidu will value flexibility more than the other firms, because technology is a 
+shifting and unpredictable business, where future investment needs are difficult to 
+forecast. The flexibility needs should be lower at Disney and Tata Motors, since 
+they are mature companies with well-established investment needs. At Vale, the 
+need for investment funds may vary with commodity prices, since the firm grows 
+by acquiring both reserves and smaller companies. At Bookscape, the difficulty of 
+accessing external capital will make flexibility more necessary.
+26
+6 Application Test: Would you expect your 
+firm to gain or lose from using a lot of debt?
+Aswath Damodaran
+26
+¨Considering, for your firm,
+¤The potential tax benefits of borrowing
+¤The benefits of using debt as a disciplinary mechanism
+¤The potential for expected bankruptcy costs
+¤The potential for agency costs
+¤The need for financial flexibility
+¨Would you expect your firm to have a high debt ratio 
+or a low debt ratio?
+¨Does the firms current debt ratio meet your 
+expectations?
+27
+A Hypothetical Scenario
+Aswath Damodaran
+27
+Assume that you live in a world where
+(a) There are no taxes
+(b) Managers have stockholder interests at heart and do 
+whats best for stockholders.
+(c) No firm ever goes bankrupt
+(d) Equity investors are honest with lenders; there is no 
+subterfuge or attempt to find loopholes in loan agreements.
+(e) Firms know their future financing needs with certainty
+¨What happens to the trade off between debt and 
+equity? How much should a firm borrow?

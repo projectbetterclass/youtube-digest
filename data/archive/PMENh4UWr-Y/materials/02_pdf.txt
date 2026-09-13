@@ -1,0 +1,49 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session6test.pdf
+
+Session	6:	Post	Class	tests	
+1. You	have	been	offered	a	legal	settlement	of	a	lawsuit,	receiving	a	million	
+dollars	today,	a	million	at	the	end	of	year	3	and	a	million	at	the	end	of	10	
+years.	The	first	two	cashflows	are	backed	up	by	the	government,	and	the	last	
+one	is	a	private	commitment.	If	the	riskfree	rate	is	3%	and	the	default	risk	in	
+the	private	commitment	would	lead	you	to	add	an	additional	2%	to	the	
+riskfree	rate,	what	is	the	present	value	of	your	settlement?	
+a. $2.477	million	
+b. $2.529	million	
+c. $2.608	million	
+d. $2.659	million	
+e. $3.000	million	
+2. Faced	with	extreme	circumstances,	you	have	borrowed	money	from	a	money	
+lender,	who	will	be	charging	you	1%	a	week,	for	the	next	year.	What	annual	
+interest	rate	are	you	paying	on	the	loan?	
+a. 12.68%	
+b. 52.00%	
+c. 67.77%	
+d. 167.77%	
+e. None	of	the	above	
+3. You	are	an	agent	for	Ron	Judge,	a	baseball	player,	who	has	been	offered	a	10-
+year	contract,	$	8	million	a	year	for	five	years	and	$12	million	for	the	
+following	five	years,	with	payments	due	at	the	end	of	each	year	(with	the	first	
+payment	due	one	year	from	now).	You	have	come	up	with	a	discount	rate	of	
+5%	as	appropriate	given	the	risk	in	the	cash	flows.	What	is	the	value	of	this	
+contract?	
+a. $73.40	million	
+b. $75.34	million	
+c. $79.11	million	
+d. $86.59	million	
+e. None	of	the	above	
+4. You	are	an	independent	consultant	and	are	valuing	a	contract	that	offers	you	
+$2	million	at	the	end	of	next	year,	growing	10%	a	year	for	the	next	9	years	
+(with	the	last	payment	at	the	end	of	the	10th	years).	What	is	the	value	of	this	
+contract,	if	your	required	return	(discount	rate)	is	8%?	
+a. $15.36	million	
+b. $16.76	million	
+c. $20.14	million	
+d. $21.75	million	
+e. None	of	the	above	
+5. In	the	perpetual	growth	model,	which	of	the	following	is	the	most	reasonable	
+cap	on	the	growth	rate	forever?	
+a. It	should	not	be	higher	than	the	discount	rate	
+b. It	should	not	be	higher	than	the	nominal	growth	rate	of	the	economy	
+c. It	should	not	be	higher	than	the	real	growth	rate	of	the	economy
+d. It	should	not	be	higher	than	the	inflation	rate	
+e. It	should	not	be	higher	than	zero

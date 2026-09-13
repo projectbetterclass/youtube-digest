@@ -1,0 +1,70 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate6.pdf
+
+DATA	2017	UPDATE	6:	THE	COST	
+OF	CAPITAL
+Aswath	Damodaran
+2
+The	Swiss	Army	Knife	of	Finance
+3
+Cost	of	Capital:	The	Ingredients
+4
+Estimation	Specifics
+5
+Cost	of	Capital:	A	Global	Comparison
+6
+Why	costs	of	capital	vary	across	countries..
+¨ Country	risk:	Country	risk	shows	up	in	two	places	in	the	cost	of	capital	
+calculation,	the	equity	risk	premium	for	the	company	(which	is	set	equal	
+to	the	equity	risk	premium	of	the	country	it	is	in)	and	an	default	spread	in	
+the	cost	of	debt.
+¨ Industry	concentration:	Since	my	measure	of	relative	risk	comes	from	
+looking	at	the	global	beta	for	the	sector	in	which	a	company	operates,	the	
+cost	of	capital	for	a	country	will	reflect	the	breakdown	of	industries	in	that	
+country.	
+¨ Marginal	tax	rate:	To	the	extent	that	a	higher	marginal	tax	rate	lowers	the	
+after-tax	cost	of	debt,	holding	all	else	constant,	countries	with	higher	
+marginal	tax	rates	will	have	lower	after-tax	costs	of	debt	and	perhaps	
+lower	costs	of	capital.
+¨ Debt	ratio:	Twinned	with	the	marginal	tax	rate,	in	computing	how	much	a	
+company	is	being	helped	by	the	tax	benefit	of	debt,	is	the	amount	of	debt	
+that	the	company	uses,	with	higher	debt	ratios	often	translating	into	
+lower	costs	of	capital.
+7
+Costs	of	Capital	across	sectors:	Highs	and	
+Lows!
+8
+Differences	across	sectors:	Probing	for	
+reasons
+¨ Business	risk:	Some	businesses	are	clearly	more	risky	than	
+others	and	I	am	using	my	sector	betas	to	capture	the	
+differences	in	risk.
+¨ Leverage	differences:	Companies	in	some	sectors	borrow	
+more	than	others,	with	mixed	effects	on	the	cost	of	capital.	
+The	resulting	higher	debt	to	equity	ratios	push	up	sector	
+betas	more,	leading	to	higher	costs	of	equity.	That,	though,	is	
+more	than	partially	offset	by	the	benefit	of	raising	financing	
+at	the	after-tax	cost	of	debt,	a	bargain	relative	to	equity.
+¨ Country	exposure:	Some	industry	groupings	have	geographic	
+concentrations	and	to	the	extent	that	those	concentrations	
+are	in	countries	with	very	low	or	very	high	risk,	relative	to	the	
+rest	of	the	world,	your	cost	of	capital	will	be	skewed	low	or	
+high.
+9
+Cost	of	Capital:	Regaining	Perspective
+10
+Some	closing	thoughts
+1. The	cost	of	capital	(or	any	discount	rate)	is	not	a	receptacle	
+for	all	your	hopes	and	fears.	There	is	nothing	more	
+dangerous	that	intuitively	tweaking	costs	of	capital;	you	
+adjust	it	for	risks	that	you	should	not	adjusting	for	at	prices	
+that	the	market	will	never	pay.
+2. When	your	valuation	goes	wrong,	it	is	almost	always	the	
+case	that	it	is	because	you	got	the	numerator	(cash	flows)	
+wrong,	not	because	you	got	the	discount	rate	wrong.
+3. The	cost	of	capital	is	not	the	input	that	you	should	be	
+spending	the	bulk	of	your	time	in	a	valuation.
+4. If	you	are	in	a	hurry	to	value	a	company,	use	the	
+distributional	statistics	for	cost	of	capital(7%	for	a	safe	
+company,	8%	for	an	average	risk	company	and	10%	for	a	
+risky	company),	estimate	the	cash	flows	well	and	then	come	
+back	and	fine	tune	the	cost	of	capital.

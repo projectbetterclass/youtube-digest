@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/EVAemerg.xls
+
+[legacy .xls workbook: EVAemerg.xls — see raw file]

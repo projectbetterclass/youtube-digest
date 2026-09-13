@@ -1,0 +1,168 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate4for2018.pdf
+
+CURRENCY	CONUNDRUMS:	
+JANUARY	2018	DATA	UPDATE	4
+Aswath	Damodaran
+2
+The	Set	Up
+¨ There	is	perhaps	no	more	mangled	nor	
+misunderstood	part	of	financial	analysis	than	dealing	
+with	currencies,	and	globalization	has	only	made	the	
+problems	worse.	
+¨ In	financial	analyses,	we	often	make	implicit	(and	
+bad)	assumptions	about	currencies	and	these	feed	
+into	our	valuations.
+¨ I	look	at	three	of	the	most	common	misconceptions	
+related	to	currencies	and	use	them	to	update	
+currency	related	numbers	at	the	start	of	2018.
+3
+Misconception	1:	The	Government	Bond	
+Rate	is	always	the	Risk	Free	Rate
+¨ I	was	taught,	in	my	first	finance	class,	to	use	the	US	
+treasury	bond	rate	as	the	risk	free	rate,	when	estimating	
+expected	return,	reflecting	the	dollar-centric	world	of	my	
+MBA	studies.
+¨ The	notion,	though,	that	the	government	bond	rate,	
+denominated	in	the	local	currency,	is	the	risk	free	rate	in	
+that	currency	persists,	albeit	expanded	to	include	other	
+currencies.	
+¨ Thus,	we	are	told	to	use	the	Brazilian	$R	bond	as	the	$R	
+risk	free	rate	and	the	Indian	rupee	government	bond	as	
+the	Indian	rupee	risk	free	rate.	
+¨ Its	proponents	argue	that	governments	control	the	
+printing	of	money	and	hence	never	have	to	default.
+4
+But	the	facts	contradict	them..
+¨ In	the	last	three	decades,	a	significant	proportion	of	
+all	sovereign	defaults	have	been	local	currency	
+defaults;	of	the	58	sovereign	defaults	between	1996	
+and	2012,	31	were	in	the	local	currency.	
+¨ As	to	why	countries	would	choose	to	default	in	the	
+local	currency,	when	they	can	print	enough	money	
+to	pay	off	debt,	the	answer	is	straight	forward.	
+¨ Printing	more	money	debases	your	currency	and	
+countries,	faced	with	a	choice	between	defaulting	
+and	debasing	their	currencies.	often	conclude	that	
+default	is	a	better	option.
+5
+So	what?	
+¨ If	a	sovereign	entity	(or	government)	can	default	even	on	local	
+currency	debt,	it	stands	to	reason	that	a	bond	issued	by	it	is	no	
+longer	a	risk	free	rate.	In	fact,	using	that	government	bond	rate,	as	
+if	it	were	a	risk	free	rate,	can	lead	to	the	double	counting	of	risk,	
+especially	if	analysts	use	a	higher	equity	risk	premium	to	capture	
+additional	country	risk.	
+¨ For	instance,	consider	the	Nigerian	Naira	10-year	government	
+bond,	trading	to	yield	14.12%	on	January	1,	2018.	If	that	rate	is	
+used	as	the	risk	free	rate	in	Naira	for	a	Nigerian	company,	in	
+conjunction	with	a	high	equity	risk	premium	for	Nigeria,	you	are	
+counting	risk	twice	in	your	computation,	once	in	your	“risky”	risk	
+free	rate	and	again	in	your	equity	risk	premium.	
+¨ To	avoid	double	counting,	you	have	to	cleanse	the	government	
+bond	of	default	risk	and	to	do	so,	you	have	to	estimate	how	much	
+of	the	interest	rate	on	the	bond	can	be	attributed	to	default	risk.
+6
+Cleansing	the	Government	Bond	Rate
+¨ There	are	three	ways	to	get	the	default	spread:
+¤ Use	a	US	dollar	or	Euro	government	bond	issued	by	the	
+sovereign	in	question	and	to	net	out	the	US	Treasury	Bond	rate	
+or	the	German	Euro	bond	rate	as	the	risk	free	rates.
+¤ The	sovereign	Credit	Default	Swap	on	the	sovereign	in	question,	
+which	is	a	measure	of	the	default	spread	of	the	sovereign.	
+¤ Use	the	sovereign	rating	estimated	by	S&amp;P,	Moody’s	or	
+Fitch	for	a	country	and	to	estimate	the	typical	spread	at	which	
+other	bonds	with	the	same	rating	trade	at.	
+¨ The	problem	with	all	these	spreads	is	that	they	are	
+dollar-based,	not	local	currency-based,	and	netting	these	
+spreads	out	from	the	local	currency	government	bond	
+can	create	an	inconsistency.
+7
+Risk	free	Rates	in	Currencies
+Aswath Damodaran
+7
+8
+Misconception	2:	There	is	a	Global	Risk	
+Free	Rate
+¨ It	is	perhaps	understandable	that	an	analyst	who	looks	at	the	
+differences	in	rates	across	currencies,	before	or	after	
+adjusting	for	default	risk,	will	conclude	that	since	the	risk	free	
+rate	is	the	lowest	of	the	rates	at	which	an	entity	can	borrow	
+money,	the	lowest	of	the	rates	across	currencies,	perhaps	the	
+Swiss	Franc	or	the	Japanese	Yen,	is	the	global	risk	free	rate	
+and	that	all	other	currencies	are	risky.	
+¨ That	is	a	dangerous	delusion,	since	there	is	a	simple	and	
+powerful	reason	why	risk	free	rates	vary	across	currencies.	
+The	risk	free	rate	in	a	currency	is	a	reflection	of	expected	
+inflation	in	that	currency,	and	risk	free	rates	will	be	higher	in	
+high-inflation	currencies	than	in	low-inflation	ones,	and	can	
+become	negative	in	deflationary	currencies.
+9
+Implication	1:	No	blending	allowed!
+¨ When	valuing	a	company	that	has	operations	in	
+many	countries	and	derives	its	revenues	in	multiple	
+currencies,	you	cannot	create	blended	averages	of	
+risk	free	rates	or	growth	rates	in	different	currencies.	
+¨ Doing	so	would	be	akin	to	averaging	the	
+temperature	in	New	York	(measured	in	Fahrenheit)	
+with	the	temperature	in	Frankfurt	(measured	in	
+Celsius)	to	arrive	at	an	average	temperature	for	the	
+two	cities.
+10
+Implication	2:	Differential	Inflation	can	
+yield	risk	free	rates
+¨ The	risk	free	rate	in	any	currency	can	be	estimated	
+by	using	the	differential	inflation	rate	between	that	
+currency	and	one	where	a	risk	free	rate	is	observable	
+(like	the	US	dollar	or	the	Euro).\
+¨ There	is	a	short	cut
+¤ Local	Currency	Riskfree rate	=	US	$	Risk	free	Rate	+	
+(Expected	Inflation	rate	in	local	currency	– Expected	
+Inflation	rate	in	US	dollars)
+11
+Misconception	3:	Currency	choices	will	
+drive	value
+¨ When	valuing	a	company,	analysts	often	default	to	
+valuing	it	in	the	local	currency,	but	currency	is	a	choice.	I	
+can	value	Severstal,	a	Russian	steel	company,	in	rubles,	
+US	dollars	or	Euros.	
+¨ At	first	sight,	the	fact	that	risk	free	rates	are	lower	in	US	
+dollars	and	Euros,	relative	to	the	ruble,	may	seem	to	
+suggest	that	you	could	inflate	Severstal’svalue,	by	
+switching	the	valuation	currency	from	rubles	to	dollars,	
+but	you	will	not.	
+¨ The	answer	lies	in	the	last	section,	where	we	noted	that	
+risk	free	rates	vary	across	currencies,	because	of	
+differential	inflation.
+12
+The	Currency	Consistent	Valuation
+When estimating growth rates, remember that these 
+growth rates include the inflation rate and be consistent 
+with your currency choice.
+If you are using expected exchange rates to convert cash flows 
+from one currency to another, those expected exchange rates have 
+to reflect differential inflation, i.e., use purchasing power parity.
+13
+The	Macro	Pushback
+¨ The	other	push	back	that	you	will	get	is	that	your	views	on	a	
+currency	can	cause	the	value	estimated	in	that	currency	can	
+diverge.	For	instance,	if	you	expect	the	Brazilian	Reai to	
+appreciate	against	the	US	dollar	for	the	next	few	years,	the	
+value	of	Embraer	will	be	higher,	estimated	in	$R	than	in	US$.	
+¨ While	that	is	true,	the	reason	for	the	divergence	has	nothing	
+to	do	with	the	use	of	the	currency	and	everything	to	do	with	
+bringing	your	currency	views	into	your	valuation.	
+¨ Thus,	if	the	value	of	Embraer	is	20%	higher,	when	you	value	it	
+in	$R	than	in	US$,	that	20%	difference	is	entirely	due	to	your	
+view	that	the	$R	will	strengthen,	which	if	true,	you	can	profit	
+from	in	simpler	and	more	direct	ways	than	buying	Embraer .
+14
+In	conclusion
+¨ If	there	are	lessons	to	be	learned	from	looking	at	the	
+dangers	of	mixing	currencies,	it	is	that	it	is	time	that	
+we	stopped	being	casual	about	the	currencies	that	
+we	measure	and	use	in	our	analysis.	
+¨ At	the	risk	of	sounding	pedantic,	we	should	never	
+estimate	a	growth	rate,	without	being	explicit	about	
+what	currency	that	growth	rate	is	estimated	in,	or	
+talk	about	cash	flows,	without	thinking	about	the	
+inflation	that	we	have	embedded	in	them.

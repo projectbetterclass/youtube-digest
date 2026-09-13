@@ -1,0 +1,197 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate3for2021.pdf
+
+DATA UPDATE 3 FOR 2021: THE 
+REST OF THE (MARKET) STORY
+Joined at the hip?
+2
+The Rest of the (Market) Story!
+¨ As stock and bond markets went through gyrations in 2020, it 
+should come as no surprise that the same forces were playing 
+out in other markets as well. 
+¨ I will take a look at these other markets, starting with a way 
+of dividing investments into assets, commodities, currencies 
+and collectibles that I find useful in thinking about what I can 
+(and cannot) do in those markets, and then reviewing how 
+these markets performed during 2020. 
+¨ As I do this, there is no way that I can evade discussing Bitcoin 
+and other crypto assets, which continued to draw 
+disproportionate (relative to their actual standing in markets) 
+attention during the year, and talking about what 2020 taught 
+us about them.
+3
+Investments: A Classificaton
+¨ Assets: An asset has expected cash flows that can either be 
+contractually set , residual or even conditional on an event 
+occurring (options and warrants).
+¨ Commodities: A commodity derives its value from being an input 
+into a process to produce a item (product or service) that 
+consumers need or want. 
+¨ Currencies: A currency serves three functions. It is ameasure of 
+value (used to tell you how much a product or service costs), 
+a medium of exchange(facilitating the buying and selling of 
+products and services) and astore of value (allowing people to save 
+to meet future needs). 
+¨ Collectibles: A collectible's pricing comes from the perception that 
+it has value, driven by tastes (artwork) and/or scarcity (rare items). 
+There are a range of investments that fall into this grouping from 
+fine art to sports memorabilia to precious metals.
+4
+Value versus Price
+5
+Applied to Investment Groupings..
+To value To price
+Assets Can be valued based upon expected 
+cashflows, with higher cashflows & 
+lower risk = higher value.
+Can be priced against similar 
+assets, after controlling for cash 
+flows and risk.
+Commodity Can be roughly valued using macro 
+estimates of demand & supply for it.
+Can be priced against its own 
+history (normalized price over 
+time) or against related 
+commodities.
+Currency Cannot be valued Can be priced against other 
+currencies, with greater acceptance 
+& more stable purchasing power = 
+higher price.
+Collectible Cannot be valued Can be priced based upon scarcity, 
+desirability and longevity.
+6
+Trader or Investor?
+Trading Investing
+Underlying 
+philosophy
+The price is the only real number that you can act on. 
+No one knows what the value of an asset is and 
+estimating it is of little use.
+Every asset has a fair or true value. You can estimate that 
+value, albeit with error, and price has to converge on value 
+(eventually).
+To play the 
+game
+You try to guess which direction the price will move in 
+the next period(s) and trade ahead of the movement. i
+You try to estimate the value of an asset, and if it is 
+under(over) value, you buy (sell) the asset. 
+Key drivers Price is determined by demand & supply, which in turn 
+are affected by mood and momentum. Value is determined by cash flows, growth and risk.
+Information 
+effect
+Incremental information (news, stories, rumors) that 
+shifts the mood will move the price, even if it has no 
+real consequences for long term value.
+Only information that alter cash flows, growth and risk in a 
+material way can affect value.
+Tools of the 
+game
+(1) Technical indicators, (2) Price Charts (3) Investor 
+Psychology (1) Intrinsic Valuation (2) Fundamental Research
+Time horizon Can be very short term (minutes) to medium term 
+(weeks, months). Long term
+Key skill Be able to gauge market mood/momentum shifts 
+earlier than the rest of the market. Be able to “value” assets, given uncertainty.
+Key personality 
+traits
+(1) Market amnesia (2) Quick Actiing (3) Gambling 
+Instincts
+(1) Faith in “value” (2) Faith in markets (3) Patience (4) 
+Immunity from peer pressure
+Biggest 
+Danger(s)
+Momentum shifts can occur quickly, wiping out 
+months of profits in a few hours.
+The price may not converge on value, even if your value is 
+“right” .
+Added bonus Capacity to move prices (with lots of money and lots 
+of followers). Can provide the catalyst that can move price to value.
+Most Dangerous 
+Delusion A trader who thinks he is trading based on value. A value investor who thinks he can reason with markets or 
+lecture them on how they should price assets.
+7
+Commodities in 2020:: Oil and Copper
+8
+Commodities in 2020: Broader Indices
+9
+Currencies in 2020: US $ vs Key Currencies
+10
+Currencies in 2020: Broader Indices
+11
+Collectibles in 2020: Gold & Silver
+12
+And other collectibles…
+¨ The year (2020) had mixed effects on other collectible 
+markets. 
+¨ Fine art, for itself, built around in-person auctions of 
+expensive art works saw sales plummet in the early 
+months of 2020, as shutdowns kicked in, but saw a surge 
+of online auctions towards the end of the year. 
+Notwithstanding this development, overall sales of art 
+dropped in 2020, and transactions decreased, especially 
+in the highest-priced segments.
+¨ It is difficult to tell how much the pricing of individual art 
+pieces was affected, since the owners of this art tend to 
+pull it back from the market during down periods, rather 
+than sell at lower prices.
+13
+Cryptos: The Bitcoin Story
+14
+What is bitcoin? My views…
+¨ Bitcoin is not an asset. You can create securities denominated in bitcoin that have 
+contractual or residual cash flows, but it is the contractual claim that is the asset, not 
+bitcoin.
+¨ Bitcoin is not a commodity . It is true that block chains are finding their way into different 
+segments of the economy and that the demand for block chains may grow exponentially, but 
+bitcoin does not have a proprietary claim to block chain technology
+¨ Bitcoin is a currency, but it is not a very good one: Bitcoin’s acceptance remains narrow and 
+limited. There are simple reasons why it has not acquired wider acceptance. 
+¤ It is inefficient, with transactions times and costs remaining high. 
+¤ The wild volatility makes both buyers and sellers more reluctant to use it in transactions.
+¤ With an absolute limit in numbers, it is destined for deflation in steady state, in 
+economies with real growth.
+As a ”dark” markets currency, it will be a niche currency, constantly on the run from 
+regulators.
+¨ Bitcoin is a collectible, but with a question mark on longevity : I have described Bitcoin as 
+millennial gold, but there are two issues that they need to confront. 
+¤ It has limits on quantity, that assumes that it has no substitutes. 
+¤ The second is whether the desirability of bitcoin will endure, since much of it is built on 
+its past price performance.
+15
+The 2020 Experience
+16
+Bitcoin’s future
+¨ Does that mean that we are headed for a correction in one or both 
+of these cryptos? Not necessarily, since momentum is a dominant 
+force, and while momentum can and will break, the catalysts for 
+that to happen are not obvious in either Bitcoin or Ethereum, 
+precisely because they are unformed. 
+¨ Since the end game (currency or collectible?) is still being hashed 
+out, there are no markers against which progress is being 
+measured, and thus, no disappointments or surprises that will lead 
+to a reassessment. 
+¨ Put simply, if you don't know where Bitcoin is going, how would 
+you know if it is getting there? Let me suggest that this confusion 
+serves the interests of bitcoin traders, keeping its prices volatile, 
+but it comes at the expense of bitcoin’s long-term potential as a 
+currency or collectible, which require more stability.
+17
+Investment Lessons
+¨ Every investing class starts with a discourse on diversification, an 
+age-old lesson of not putting your eggs in one basket, and
+spreading your bets. In the last few decades, a combination of 
+modern portfolio theory and data access has quantified this search 
+for stability into a search for uncorrelated investments. 
+¨ When I was learning investments, admittedly a lifetime ago, I was 
+told to expand my stock holdings to foreign markets and real 
+estate, because their movements were driven by different forces 
+than my domestic stockholdings. 
+¤ That was sensible advice, but as we (collectively as investors) piled into 
+foreign stock funds and securitized real estate, we created an unwanted, 
+but predictable consequence. The correlations across markets rose, 
+reducing the benefits of diversification, and particularly so, during periods 
+of crisis. 
+¤ The co-movement of markets during the 2008 crisis has been well 
+chronicled.
+18
+Correlations in 2020

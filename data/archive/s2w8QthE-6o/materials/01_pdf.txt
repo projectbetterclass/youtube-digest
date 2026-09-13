@@ -1,0 +1,191 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/optimalrelative.pdf
+
+IN PRACTICE WEBCAST: OPTIMAL 
+FINANCING MIX – RELATIVE 
+ANALYSIS
+Aswath Damodaran
+2
+Optimal Debt Ratio: The Me Too Approach
+¨ In the cost of capital and adjusted present value approaches, 
+you use an intrinsic approach to estimate the optimal mix of 
+debt and equity. Put differently, you use a company’s capacity 
+to generate earnings/cash flows on a consistent basis, to 
+determine how much it can borrow.
+¨ While that may seem like the rational way of approaching this 
+question, most companies don’t use these approaches. 
+Instead, they look at how other companies in their “peer” 
+group, often decided by analysts and investors, are financing 
+themselves and try to stay as close as they can to that peer 
+group financing mix.
+¨ Even their choice of debt metrics can be driven by what 
+analysts and investors focus on, whether it be a book debt 
+ratio or debt as a multiple of EBITDA.
+3
+Step 1: Define your peer group
+¨ Focus: In relative analysis, your focus is on finding what 
+similar companies carry as debt, and to make this 
+judgment, you have to define “similar” .
+¨ The Sector: For better or worse, in most cases, “similar” 
+is defined as other companies in the same sector as you 
+are.
+¨ The Geography:  To the extent that constraints on capital 
+access and tax treatment can vary across geographies, 
+”similar ” is often defined as companies in the same 
+geographical market.
+¨ Other criteria: If there are enough firms that make it 
+through the sector and geographic screens, you can add 
+other ones including company size and growth potential.
+4
+Amgen: Peer Group
+Johnson & Johnson (NYSE:JNJ) Criteria for peer group
+1. Pharmaceutical or Biotech 
+company
+2. Publicly traded
+3. In the US
+4. With market cap >$10 billion
+Pfizer Inc. (NYSE:PFE)
+AbbVie Inc. (NYSE:ABBV)
+Merck & Co., Inc. (NYSE:MRK)
+Amgen Inc. (NasdaqGS:AMGN)
+Gilead Sciences, Inc. (NasdaqGS:GILD)
+Bristol-Myers Squibb Company (NYSE:BMY)
+Eli Lilly and Company (NYSE:LLY)
+Celgene Corporation (NasdaqGS:CELG)
+Biogen Inc. (NasdaqGS:BIIB)
+Vertex Pharmaceuticals Incorporated (NasdaqGS:VRTX)
+Zoetis Inc. (NYSE:ZTS)
+Regeneron Pharmaceuticals, Inc. (NasdaqGS:REGN)
+Alexion Pharmaceuticals, Inc. (NasdaqGS:ALXN)
+Incyte Corporation (NasdaqGS:INCY)
+BioMarin Pharmaceutical Inc. (NasdaqGS:BMRN)
+Nektar Therapeutics (NasdaqGS:NKTR)
+Alnylam Pharmaceuticals, Inc. (NasdaqGS:ALNY)
+Bioverativ Inc. (NasdaqGS:BIVV)
+bluebird bio, Inc. (NasdaqGS:BLUE)
+5
+Step 2: Choose your debt metric
+¨ Book value versus Market Value: In intrinsic analysis, 
+like the cost of capital approach, it is the market 
+value that wins every time. When doing me-too 
+capital structure, book value may end up winning if 
+this is how other CFOs assess financial leverage, and 
+analysts compute it.
+¨ Capital versus Cash Flow: In intrinsic analysis, the 
+debt is tracked as a percent of capital. The me-too 
+analysis is agnostic about metric, using whatever the 
+decision makers in companies in the sector use to 
+measure debt load.
+6
+Choice of metric
+¨ With pharmaceutical companies, EBITDA is not a 
+heavily used metric and at least three of the 
+companies in this list have negative EBITDA.
+¨ The choice then becomes book or market value. 
+With drug companies, the mistreatment of their
+biggest cap ex (R&D) leads to misstated book values. 
+So, we will use market value.
+¤ Chosen metric: Total Debt/ (Total Debt + Market Cap)
+¨ We have assumed that book debt is close to market 
+value of debt for the companies on this list.
+7
+Peer Group Debt Metrics
+Book Value Market Value
+Company Name Debt/Equity Debt/Capital Debt/Equity Debt/Capital Debt/EBITDA
+Johnson & Johnson (NYSE:JNJ) 47.82% 32.35% 10.15% 9.22% 1.46
+Pfizer Inc. (NYSE:PFE) 72.60% 42.06% 21.03% 17.37% 2.10
+AbbVie Inc. (NYSE:ABBV) 569.61% 85.07% 21.10% 17.42% 3.12
+Merck & Co., Inc. (NYSE:MRK) 70.65% 41.40% 18.07% 15.30% 2.12
+Amgen Inc. (NasdaqGS:AMGN) 140.02% 58.34% 27.32% 21.46% 2.86
+Gilead Sciences, Inc. (NasdaqGS:GILD) 186.07% 65.04% 35.69% 26.30% 2.47
+Bristol-Myers Squibb Company 67.81% 40.41% 7.46% 6.94% 1.40
+Eli Lilly and Company (NYSE:LLY) 90.87% 47.61% 16.77% 14.36% 2.08
+Celgene Corporation (NasdaqGS:CELG) 228.84% 69.59% 22.31% 18.24% 2.66
+Biogen Inc. (NasdaqGS:BIIB) 47.08% 32.01% 9.48% 8.66% 0.88
+Vertex Pharmaceuticals Incorporated 27.61% 21.64% 1.42% 1.40% 1.25
+Zoetis Inc. (NYSE:ZTS) 286.68% 74.14% 15.72% 13.58% 2.91
+Regeneron Pharmaceuticals, Inc. 
+(NasdaqGS:REGN)
+11.45% 10.27% 1.98% 1.94% 0.32
+Alexion Pharmaceuticals, Inc. 36.33% 26.65% 11.83% 10.58% 2.20
+Incyte Corporation (NasdaqGS:INCY) 1.47% 1.45% 0.13% 0.13% NA
+BioMarin Pharmaceutical Inc. 41.44% 29.30% 7.85% 7.28% NA
+Nektar Therapeutics 293.71% 74.60% 1.87% 1.84% NA
+Alnylam Pharmaceuticals, Inc. 1.70% 1.67% 0.25% 0.25% NA
+Bioverativ Inc. (NasdaqGS:BIVV) 0.00% 0.00% 0.00% 0.00% 0.00
+bluebird bio, Inc. (NasdaqGS:BLUE) 13.59% 11.96% 1.51% 1.49% NA
+8
+Step 3: Compare yourself to what is typical 
+for the sector
+¨ Average: The simple average across companies the 
+sector can be defined as ”typical” . It is simple and 
+intuitive, but it can also be skewed by outliers.
+¨ Median: When outliers are an issue, the middle of 
+the peer group or the median can be a better proxy 
+for “typical”.
+¨ Quartiles: More generally, you can compute ranges 
+based upon quartiles or deciles, especially if there is 
+a lot of variability across the sector .
+9
+Comparison to ”Typical”
+Book Value Market Value
+Debt/Equity Debt/Capital Debt/Equity Debt/Capital Debt/EBITDA
+Amgen Inc. 140.02% 58.34% 27.32% 21.46% 2.86
+Average 111.77% 38.28% 11.60% 9.69% 1.85
+Median 57.82% 36.38% 9.82% 8.94% 2.10
+First Quartile 24.11% 19.22% 1.78% 1.75% 1.32
+Third Quartile 151.53% 60.01% 18.81% 15.82% 2.57
+Looks slightly over levered 
+on a debt to capital basis, if 
+you use market value or 
+Debt/EBITDA
+10
+Step 4: Control for differences
+¨ If your company has a higher or lower debt ratio than is 
+“typical” for the sector, the naïve conclusion that it is over or 
+under levered follows.
+¨ When you make that judgment, you are assuming that your 
+firm’s debt fundamentals are similar to that of the typical 
+peer group company. These fundamentals include the items 
+in the debt trade off:
+¤ Marginal tax rate faced by the company (tax benefits)
+¤ Insider/activist holdings (disciplinary costs)
+¤ Volatility in earnings (bankruptcy cost)
+¤ Asset visibility (agency costs)
+¨ You can control for these differences subjectively or use 
+statistical tools (like regressions).
+11
+A Debt Ratio Regression
+¨ Regressing the debt to capital ratio (in market value 
+terms) against EBITDA/EV (as a measure of cash flows 
+available to service debt) and Standard deviation in 
+Earnings (as a measure of uncertainty), here is what we 
+get:
+¤ Debt/Capital = 0.0499 + 1.48 (EBITDA/EV) – .0559 (Std Deviation in Earnings)
+(5.39) (2.21) R Squared = 61.4%
+¨ Plugging in Amgen’s numbers for EBITDA/EV (7.51%) and 
+standard deviation in earnings (39.2%), here is what we 
+get:
+¤ Debt/Capital = 0.0499 + 1.48 (.0751) – .0559 (.392) = .1392 or 
+13.92%
+¤ Amgen is over levered at a debt to capital ratio of 21.46%
+12
+Step 5: Expand your assessment
+¨ Since entire sectors can sometimes get over or 
+under levered, you may want to expand your 
+analysis by looking at a broader definition of sector, 
+either by going across geographies or by defining 
+your business more broadly.
+¨ You can even expand your assessment to the entire 
+market, and look at whether your company is over 
+or under levered, relative to the market.
+13
+The Bottom Line
+¨ Your end game: When you make an assessment of 
+whether your firm has too much or too little debt, 
+relative to a peer group, you are determining 
+whether your company has too much or too little 
+debt, relative to the companies in that group.
+¨ The twist: If your peer group is filled with companies 
+that have borrowed too much money, your company 
+may have too little debt, relative to its sector, while 
+having too much debt, given its fundamentals.

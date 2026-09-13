@@ -1,0 +1,143 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DiscountRateMyth3.pdf
+
+Discount	Rate	Myth	3:	Discount	
+Rates	don’t	change	over	time
+2
+DCF:	Two	different	perspectives
+• In	a	discounted	cash	flow	valuation,	the	value	of	an	
+asset	is	the	present	value	of	the	expected	cash	flows,	
+with	the	equation	written	as	follows:
+• Here	is	an	alternate	and	perhaps	more	general	
+version	of	the	same	equation:
+3
+The	PV	Effect
+• In	the	presence	of	time	varying	discount	rates,	rather	
+than	discount	back	each	year’s	cash	flow	at	that	
+year’s	discount	rate,	we	compute	a	compounded	
+discount	rate	in	earn	period.	
+• Thus,	if	your	cost	of	capital	is	12%	in	year	1,	11%	in	
+year	2	and	10%	in	year	3,	the	present	value	of	$100	
+million	in	year	3	is	as	follows:
+4
+Why	discount	rates	could	(and	should)	
+change	over	time:	Firm	specific
+¨ Necessary,	not	optional:	Adjusting	discount	rates	across	time	
+may	seem	like	a	needless	complication	but	it	is	a	necessary	
+one,	if	you	want	your	valuation	to	remain	internally	
+consistent.	
+¨ Has	to	change	with	changes	in	company:	If	you	are	assuming	
+changes	in	your	company	characteristics	(growth,	business	
+mix,	geographical	exposure)	in	your	cash	flows,	as	you	move	
+through	time,	you	should	be	changing	the	discount	rate	to	
+reflect	these	changes.	
+¨ Greater	effect	at	young,	transitional	companies:	While	this	is	
+true	for	all	companies,	the	effect	will	be	greater	when	you	are	
+valuing	young	companies	or	companies	in	transition,	where	
+you	expect	large	changes	in	the	company	as	you	move	
+through	your	forecast	period.
+5
+Why	discount	rates	could	(and	should)	
+change	over	time:	Macro
+¨ Macro	inputs	can	change	as	well:	If	you	are	open	to	the	
+possibility	that	discount	rates	can	change	over	time,	you	
+can	also	then	bring	in	your	perspectives	on	the	macro	
+inputs	in	the	discount	rate	into	your	forecasts.
+¨ Risk	free	Rates:	With	the	risk	free,	for	example,	you	
+could	bring	in	an	assumption	that	the	rate	will	rise	or	fall	
+over	time	or	even	incorporate	a	term	structure	of	risk	
+free	rates	into	your	computations.
+¨ Risk	Premiums:	With	the	risk	premiums	(ERP	and	default	
+spread),	you	can	adjust	for	changes	that	you	expect	to	
+occur	especially	at	the	country	risk	level.
+6
+Examples	from	Valuations
+7
+Consequences	for	value:	Examples
+Uber	(June	
+2014)
+Tesla	(July	
+2016)
+Apple	(May	
+2016)
+Value	with	time-varying	
+Discount	Rate $5,895	 $22,364	 $692,852	
+Value	with	constant	discount	
+Rate $3,601	 $17,688	 $633,336	
+Effect	on	value -38.91% -20.91% -8.59%
+8
+Guidelines	for	Discount	Rate	Changes	over	
+Time
+Phase Forecast	
+years
+Beta	 Equity	Risk	
+Premium
+Debt	Ratio Cost	of	debt
+Start	of	
+valuation
+Yr 1-2 Reflects	current	
+business	mix
+Current	
+geography	of	
+operations
+Current	market	
+debt	ratio
+Current	bond	
+rating	or	default	
+risk	assessment
+Build	up Yrs 3-5 Changes	in	
+business	mix	(if	
+any)
+Changes	in	
+geography	(if	
+any)
+Targeted	debt	
+ratio	(if	any)
+Default	risk,	given	
+new	debt	ratio
+Transition Yrs 6-10 Move	
+incrementally	to	
+stable	period	beta
+Adjust	to	stable	
+period	ERP
+Adjust	to	stable	
+period	debt	
+ratio
+Adjust	to	stable	
+period	cost	of	
+debt
+Stable	growth	
+(Steady	State)
+Year	10	&	
+beyond
+Move	to	1,	if	
+company	grows	
+across	businesses,	
+or	to	industry	
+average,	if	it	stays	
+within	business
+Steady	state	
+geographic	
+exposure	and	
+equity	risk	
+premium	
+estimates	for	
+long	term.
+Market-average	
+debt	ratio	(if	
+growth	across	
+businesses)	or	
+industry-average	
+debt	ratio	(if	
+single	business)
+Stable	company	
+cost	of	debt
+9
+The	Bottom	Line
+¨ A	DCF	where	the	discount	rate	remains	constant	
+over	time	should	be	more	the	exception	than	the	
+rule	because	it	works	only	if	you	assume	that	the	
+company	that	you	are	valuing	will	not	change	over	
+time	(in	business	mix,	geography	and	debt	ratio).
+¨ Allowing	discount	rates	to	change	over	time	keeps	
+your	valuations	internally	consistent	and	reduces	the	
+pressure	on	you	to	get	it	right.

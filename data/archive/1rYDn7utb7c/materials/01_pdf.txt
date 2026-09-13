@@ -1,0 +1,255 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/IPODisclosure.pdf
+
+TRIGGERED DISCLOSURES: 
+ESCAPING THE DISCLOSURE 
+DILEMMA!
+Backing up company stories…
+2
+Recapping the Disclosure Dilemma
+¨Ina post a few weeks ago, I argued that the disclosure 
+process had lost its moorings, as corporate disclosures 
+(annual filings, prospectuses for IPOs) have become more 
+bulky, while also become less informative at the same time. 
+¨I argued that some of this disclosure opacity could be 
+attributed to the law of unintended consequences, with good 
+intentions driving disclosure rules, and that some of it is 
+deliberate, as companies use disclosure rules to create more 
+complexity.
+¨In this post, I propose one way out of the disclosure dilemma, 
+albeit one with little chance of being adopted by the SEC or 
+any other regulatory group, to the disclosure problem.
+3
+The Disease
+¨Company disclosures have become more bulky over time, 
+whether it be in the form on annual filings (like annual 
+reports or 10K/10Q filings in the US) or prospectuses for 
+initial public offerings. 
+¨These disclosures have become less readable and more 
+difficult to make sense of, partly because they are so bulky 
+and partly because disclosures with big consequences are 
+mingled with disclosure with small or even no consequences, 
+often leaving it up to investors to determine which ones 
+matter . 
+¨The net effect is that investors feel more in the dark now, 
+when investing in companies, than ever before, even though 
+the push towards more disclosures hasostensibly been for 
+their benefit.
+4
+The Diagnosis
+¨ The first is that technology has made it possible to collect more data, and on 
+more dimensions of business, than ever before in history, and report that 
+data. The second is that interest groups have become much more savvy about 
+lobbying regulatory groups and accounting rule writers to get their required 
+data items on the required list. The third is that companies have learned that 
+converting disclosures into data dumps has the perverse effect of making it 
+less likely that they will held accountable, rather than more. 
+¨ That said, there are three other reasons for the disclosure bloat:
+¤ The first is the prevailing orthodoxy in disclosure is tilted towards "one size fits all", where all 
+companies are covered by disclosure requirements, even if they are only tangentially exposed. 
+¤ The second is the notion ofmateriality, where ‘Information is material if omitting, misstating 
+or obscuring it could reasonably be expected to influence decisions that the primary users of 
+general purpose financial statements make on the basis of those financial statements, which 
+provide financial information about a specific reporting entity’.
+¤ The third is that thedisclosure rule writers happen to be in the disclosure business, and since 
+more disclosure is good for business, the conflict of interest will always tilt toward more rather 
+than less disclosure.
+5
+Escaping the Disclosure Trap
+¨There is a way out of this disclosure trap, but it will 
+require a rethink of the status quo in disclosures. 
+¤It starts first by moving away from "one size fits all" disclosure 
+rules to disclosures tailored to companies, a "triggered" 
+disclosure process, 
+¤where a company's contentions about its business model and 
+value trigger disclosures on the parameters of that model. 
+¤It extends into materiality, by reframing that concept in terms of 
+value, rather than profits, and connecting it to disclosure, with 
+disclosure requirements increasing proportionately with the 
+value effect. the disclosure business.
+6
+1. One Size does not fit all!
+¨At the time, the notion that it disclosure requirements should be general, 
+and apply to all companies, was rooted in the idea of fairness. 
+¨In the decades since, there have been carve outs to this general rule, but 
+they have been narrowly carved out for segments of firms. For instance, 
+oil companies have been required to disclose their ownership of "proven 
+undeveloped reserves", in addition to details about quantity, new 
+investments and progress made during the year in converting those 
+reserves. These exceptions notwithstanding, disclosure laws written to 
+cover concerns in one section (such as the issue and prevalence of 
+management options with technology firm or lease commitments at retail 
+and restaurant companies) have been applied broadly to all companies. 
+¨It is time to rethink this principle and allow for a more variegated 
+disclosure policy, with some disclosures required only of subsets of 
+companies. Since the next big bout of disclosures that are coming down 
+the pike will be related to ESG, this discussion will play out in a wide range 
+of ESG data items.
+7
+2. From earnings-based to value-based 
+materiality
+¨While we may agree with the premise that any information that has a 
+material effect should be disclosed, but there is disagreement on what 
+comprises materiality.
+¨I believe that the "materiality principle" is diluted by measuring it in terms 
+of impact on net income and the fact that accountants tend to be 
+naturally conservative in measuring that impact. Simply put, it is safer for 
+an accounting or audit firm to assume that a disclosure is material, and 
+include it in reports, even if it turns out to be immaterial, than it is to 
+assume that it is immaterial, and be found wrong subsequently. 
+¨One solution to this problem is to redefine materiality in terms of effects 
+on value, rather than earnings, thusaccomplishing two objectives. 
+¤First, it will reduce thenumber of noise disclosures, i.e., those that passthe 
+materiality threshold for earnings, but don't have a significant impact on value. 
+¤Second, since value is driven by expected cash flows in the future and not in the 
+past, it will shift the focus ondisclosures to itemsthat will have a recurring or 
+continuous impact on the company.
+8
+3. Triggered Disclosures
+¨Triggered disclosures, where disclosures are tailored 
+to a company's make-up and valuation stories, are 
+one solution.
+¤For instance, a company that claims that brand name is its 
+supreme competitive advantage would then have to 
+provide information to not only back up that claim, but 
+also to allow others to value that brand name.In contrast, 
+a company that does not have any pretentions about brand 
+name driving its value (Exxon Mobil, even Walmart) should 
+not be covered by those disclosure requirements.
+9
+Application: Initial Public Offerings
+¨Iwillfocusoninitialpublicofferings,wherethereisasense
+thatthedisclosurerulesarenothavingtheirdesiredeffect.
+¨Inmylastpost,Inotedthatprospectuses,theprimary
+disclosuredocumentsforacompaniesgoingpublic,have
+bulkedup,contrastingtheMicrosoftandAppleprospectuses
+thatcameinatlessthana100pagesinthe1980stothe400+
+pageprospectusesthatwehaveseenwithAirbnband
+Doordashinmorerecentyears.
+¨Atthesametime,applyingadisclosuretemplatelargely
+designedformaturepubliccompaniestoyoungcompanies,
+oftenwithbiglossesandunformedbusinessmodels,has
+resultedinprospectusesthatarefocusedinlargepartson
+detailsthatareoflittleconsequencetovalue,whileignoring
+thedetailsthatmatter.
+10
+Triggered Disclosures in Prospectuses
+¨Since companies going public often do so on the basis of 
+stories that they tell about their futures, and these stories 
+vary widely across companies, this segment of the market 
+lends itself well to the triggered disclosure approach. 
+¨To do so, I will drawon a paper that I co-wrotewith Dan 
+McCarthy and Maxime Cohen, to provide details. In that 
+paper, we argue that a going-public company that wants to 
+build its story around certain dimensions (a large total 
+addressable market or a large user base) will trigger 
+disclosure of a more systematic, business type-specific, 
+collection of “base disclosures” that are required to 
+understand the economics of businesses of that type, 
+whatever type that might be.
+11
+a. Total Addressable Market (TAM)
+Companies going public have increasingly supported high valuations by pointing 
+to market potential, using large TAMs as one of the justifications. These TAMs 
+are often not only aspirational, but also come with very little justification and no 
+timeline for how long it will take for the existing market sizes to grow into those 
+TAMs.
+12
+TAM Constraints
+¨a. Basis for TAM and its antecedents: Companies that specify a TAM 
+should also specify the existing market size (i.e., the serviceable 
+addressable market or SAM), as well as additional “bridges” so that 
+investors can understand the evolution from SAM to TAM. Investors who 
+may be skeptical of a lofty TAM could still look to SAM as a more 
+achievable intermediate metric.
+¨b. Market share estimates: As long as companies do not have to twin TAM 
+with expectations of market share, there is little incentive for them to 
+restrain themselves when estimating TAM. We would recommend 
+requiring that companies that disclose TAM figures couple them with 
+forecasts of their market share of those TAM figures. 
+¨c. Ongoing metrics or measures: Companies usually provide TAM, SAM, 
+and variants thereof on a one-shot basis, disclosing these figures in their 
+pre-IPO prospectuses and then never again. We believe that investors 
+should be given these measures on an ongoing basis.
+13
+b. Subscription based companies
+14
+Subscription Information
+¨ Total  subsc ri be r count: The most basic prerequisite is that we observe the total number of 
+subscribers in each period, to track overall growth trends in the number of subscribers and to 
+understand how revenue per subscriber evolves over time.
+¨ Subscriber churn: To value a subscriber, a key input is the renewal rate or its converse, the churn 
+rate. Holding all else constant, a subscription business with a higher renewal rate should have 
+more valuable subscribers than one with a lower renewal rate. 
+¨ Contribution profitability: It is not enough to retain customers –for customers to be valuable, they 
+need to generate incremental profits while they are alive. It is important to know, then, how 
+customers monetize over time and how this translates into variable profitability (more commonly 
+referred to as “contribution profitability”). 
+¨ Subscriber acquisitions & drop offs: To move from the value of a single subscriber to the value of 
+the entire subscriber base, we must also know how many subscribers are acquired over time, not 
+just the net subscriber count. 
+¨ Cost of acquiring subscribers (CAC): Subscription-based companies attract new subscribers by 
+offering special deals or discounts, or through paid advertising. While the cost of acquiring 
+subscribers can sometimes be backed out of other disclosures at subscription-based companies 
+(such as subscribers numbers, churn and marketing costs), it would make sense to require that it 
+be explicitly estimated and reported by the company.
+¨ Cohort data: While many subscriber companies are quick to report total numbers, only a provide a 
+breakdown of subscribers, based upon subscription age. This breakdown, called a cohort table, can 
+be informative to observe retention and/or monetization patterns across cohorts.
+15
+A Cohort Table
+16
+c. Transaction based companies
+17
+Transactional Information 
+¨Active customer count: We replace the notion of an “alive” customer, 
+which is relevant for subscription-based companies, with that of an 
+“active” customer, which is more suitable for transaction-based 
+businesses. An active customer is one who has placed at least one order 
+over some preceding time window. 
+¨Total orders: In transaction-based companies, the average purchase 
+frequency of active customers can change, often significantly, over time. 
+We need to know the total orders because this further allows us to 
+decompose changes in revenue per active customer into changes in order 
+frequency per active customer and changes in average order value. 
+¨Promotional activity: It can be easy to significantly increase purchase 
+activity through enticing targeted promotions, creating the illusion of 
+rapid growth that may not be sustainable over the long run, due to their 
+substantial cost. Since these promotions are often reported as revenue 
+reductions, rather than expenses, the cost of these campaigns are often 
+opaque, to investors.
+18
+d. Fintech Companies
+¨Quality/Risk metrics on operating activity: In the aftermath of the 2008 
+crisis, banks, insurance companies and investment banks have all seen 
+their disclosure requirements increase, but ironically, the young, 
+technology-based companies that have entered this space seem to have 
+escaped this scrutiny. In fact, the absence of a regulatory overlay at these 
+companies makes this oversight even more dangerous, since an online 
+lender that uses a growing loan base as its basis for a higher valuation, 
+but does not report on the default risk in that loan base, is a problem 
+waiting to blow up.
+¨Capital Buffer: In the last century, regulators have replaced these 
+voluntary capital set asides, at banks and insurance companies, with 
+regulatory capital needs, tied (sometimes imperfectly) to the risk in their 
+business portfolios. Many fintech companies have been able to avoid that 
+regulatory burden, largely because they are too small for regulatory 
+concern, but since they are not immune from shocks, they too should be 
+building capital buffers and reporting on the magnitude of these buffers 
+to investors.
+19
+Conclusion
+¨As data becomes easier to collect and access, the demands for data 
+disclosure from different interest groups will only increase over 
+time, as investors, regulators, environmentalists and others 
+continue to add to the list of items that they want disclosed.
+¨That will make already bulky disclosures even bulkier, and in our 
+view, less informative.
+¨There are three ways to have your cake and eat it too:
+¤Allow for increasing customization of disclosure requirements to the firms 
+in question, since requiring all firms to report everything not only results in 
+disclosures becoming data dumps, but also in the obscuring of the 
+disclosures that truly matter . 
+¤Shift the materiality definition from impact on earnings to impact on 
+value, thus moving the focus from the past to the future. 
+¤Tying disclosures to a company's characteristics and value stories will limit 
+those stories and create more accountability.

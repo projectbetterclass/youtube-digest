@@ -1,0 +1,212 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/AramcoFollowUp.pdf
+
+REGIME CHANGE AND VALUE: AN 
+ARAMCO VALUATION FOLLOW-UP
+Aswath Damodaran
+2
+Lead in
+¨ In my post from a couple of days ago, I valued Aramco at about 
+$1.65 trillion using three different perspectives on value.
+¨ I qualified that valuation by noting that this was the value before 
+adjusting for regime change concerns but that comment seems to 
+have been lost in the wind, and it is perhaps because (a) I made it 
+at the end of the valuation and (b) because the adjustment I made 
+for it seemed completely arbitrary, knocking off about 10% off the 
+value. 
+¨ Since this is a topic that is increasingly front and center in a world 
+where political disruptions seem to be the order of the day in many 
+parts of the world, I thought that a post dedicated to just regime 
+changes and how they affect value might be in order, and Aramco 
+would offer an exceptionally good lab experiment.
+3
+Going Concern and Truncation Risk
+¨ Risk is part and parcel of investing. That said, risk 
+came come from many sources and not all risk is 
+created equal, at least to investors. 
+¨ In fact, modern finance was born from the insight 
+that for a diversified investor, it is only risk that you 
+cannot diversify away, i.e., macroeconomic risk 
+exposure, that affects value. 
+¨ I want to talk about another stratification of risk into 
+going concern and truncation risk that is talked 
+about much less but could just matter even more.
+4
+DCF Value: A Going Concern Estimate?
+¨ The intrinsic value of a company has always been a 
+function of its expected cash flows, its growth and 
+how risky the cash flows are, but in recent decades a 
+combination of access to data and baby steps in 
+bringing economic models into valuation has 
+resulted in the development of discounted cashflow 
+valuation as a tool to estimate intrinsic value.
+¨ Extended to a publicly traded company, with a 
+potential life in perpetuity, this value can be written 
+as:
+5
+DCF Adaptability & Afterthoughts
+¨ I believe that people underestimate how adaptable it is, 
+usable in valuing everything from start ups to infrastructure 
+projects. 
+¨ There is, however,one significant limitation with DCF 
+models that neither its proponents nor its critics seem be 
+aware of. Specifically, aDCF is an approach to valuing going 
+concerns, and every aspect of it is built around the 
+presumption. 
+¤ Thus, you estimate expected cash flows each year for the firm, as a 
+going concern, and your discount rate reflects the risk that you see in 
+the company as a going concern. 
+¤ In fact, it is this going concern assumption that allows us to assume 
+that cash flows continue for the long term, sometimes forever, and 
+attach a terminal value to these cash flows.
+6
+Truncation Risk
+¨ If you accept the premise that a DCF is a going concern 
+value, you are probably wondering what other risks that 
+are being missed in a DCF valuation. 
+¨ The risks that I believe are either ignored or incorrectly 
+incorporated into value are truncation risks. 
+¨ The simplest way of illustrating the difference between 
+going concern and truncation risks is by picking a year in 
+your cash flow estimation, say year 3. With going 
+concern risk, you are worried about the cash flows in 
+year 3 being different from your expectations, but with 
+truncation risk, you are worried about whether there will 
+be a year 3 in the first place.
+7
+Examples of truncation risk
+¨ Looking at the corporate life cycle, and at its two extremes, 
+you will see truncation risk become not just significant but 
+perhaps the dominant risk that you worry about. 
+¤ With start ups, it is survival riskthat is front and center, given that two 
+thirds of start ups never make it to becoming viable businesses. 
+¤ With declining and aging companies, especially laden with debt, it is 
+distress risk, where the company unable to meet its contractual 
+obligations, shutters its doors and liquidates it assets. 
+¨ Looking at political risk, truncation risk can come in many 
+forms, starting with nationalization risk, where a government 
+takes over your business and pays you nothing in some cases 
+and less than fair value in the rest, but extending to other 
+expropriation risks, where you still are allowed to hold equity, 
+but in a much less valuable concern.
+8
+Typical Approaches for dealing with 
+truncation risk
+¨ Hike  up the discount rate: The problem, though, is that his higher 
+discount rate still goes into a DCF where expected cash flows 
+continue in perpetuity, creating an internal contradiction, where 
+you adjust the discount rate up for a truncation risk but you do 
+nothing to the cash flows. In addition, the discount rate that these 
+analysts use are made up, higher just for the sake of being higher, 
+with no rationale for the adjustment. Discount rates are blunt 
+instruments and are incapable of carrying the burden of truncation 
+risk, and should not be made to do so.
+¨ Scenario Analysis and Ranges for Value: Some analysts take the 
+more sensible approach of scenario analysis, allowing for good and 
+bad scenarios (including failure or nationalization) but never close 
+the loop by attaching probabilities to the scenarios. Instead, they 
+leave behind ranges for the value that are so wide as to be useless 
+for decision making purposes.
+9
+A Decision Tree Alternative
+¨ Use a decision tree approach, where you not only allow for different 
+scenarios, but you make these encompassing of all possibilities and also
+attach a probability to each one. 
+¨ In the case of a start up, then, your two possible outcomes will be that 
+the company will make it as a going concern and that it will not, and you 
+will follow through with a DCF, with a going concern discount rate, 
+yielding the value for the going concern outcome and a liquidation 
+providing your judgment for what the company will be worth, in the 
+failure scenario:
+10
+Revisiting the Aramco FCFE Valuation
+11
+Pushback from readers…
+¨ The biggest push back I have had on my valuations is that the cost 
+of equity seems low for a country like Saudi Arabia, and my 
+response is that you are right, if you consider all of the risk in 
+investing in a Saudi equity. 
+¨ However, much of the risk that you are contemplating in Saudi 
+Arabia is political risk, or put more bluntly, the risk of regime 
+change in the country, that could have dramatic effects on value. 
+¨ In fact, if you remove that risk from consideration and look at the 
+remaining risk, Aramco is a remarkably safe investment, with the 
+safety coming from its access to huge oil reserves and mind-
+blowing profits and cash flows. The DCF values that I have 
+estimated, centered around $1.65 trillion, are therefore values 
+before adjusting for the risk of regime change.
+12
+Regime Change and Consequence
+¨ If you invest in Aramco, you clearly have an interests 
+in who rules and runs the country, since every aspect 
+of your valuation is dependent on that assumption.
+13
+The extreme cases
+¨ If you believe that regime change in imminent and certain, and that the 
+change will be extreme (with equity being expropriated and Aramco being 
+brought back entirely into the hands of the state), my expected value for 
+equity becomes zero:
+¨ If at the other extreme, I either believe that regime change will never 
+happen, or even if it does, the new regime will not want to kill the goose 
+that lays the golden eggs and leaves existing terms in place, the value 
+effect of considering regime change will be zero:
+14
+The middle ground
+¨ The truth lies between the extremes, though where it lies is 
+open for debate. I believe that there remains a non-trivial 
+chance (perhaps as high as 20%) that there will be a regime 
+change over the long term and that if there is one, there will 
+be changes that reduce, but not extinguish, my claim, as an 
+equity investor, on the cash flows.
+15
+Democracy versus Autocracy
+¨ Democracies are messy institutions, where governments change and 
+policies morph, because voters change their minds. Put simply, a 
+democracy generally cannot offer any business iron clad guarantees about 
+regulations not changing or tax rates remaining stable, because the 
+government that offers those promises first has to get them through 
+legislatures, often can be checked by legal institutions and, most critically, 
+can be voted out of office. 
+¨ Autocracies offer more stability, since autocrats don't have to get policies 
+approved by legislators, often are unchecked by legal institutions and 
+don't have to worry about how their decision poll with voters. Companies 
+operating in autocracies can be promise rules that are fixed, regulations 
+that don't change and tax rates that will stay constant. 
+¨ The bottom line: Democracies create more going concern risk (higher 
+discount rates) and autocracies create more worries about regime change 
+(post-valuation adjustment).
+16
+The risk trade off
+¨ The going concern risk that is added by being in a democracy will depend 
+on how the democracy works. 
+¤ If you have a democracy, where the opposing parties tend to agree on basic 
+economic principles and disagree on the margins, the going concern risk added will 
+be small. 
+¤ In contrast, if you have a democracy, where governments are unstable and the 
+opposing parties have widely different views on the very fundamentals of how an 
+economy should be structured, the effect on going concern risk will be much 
+higher .
+¨ The regime change risk in an autocracy will vary in how the autocracy is 
+structured and how transitions happen. 
+¤ Autocracies structured around a person are inherently more unstable than 
+autocracies built around a party or ideology.
+¤ Transitions are more likely to be violent if the military is involved in regime change, 
+in either direction. In addition, violent regime changes feed on themselves, with 
+memories of past violent meted out to a group driving the violence that it metes 
+out, when its turn comes .
+17
+Bottom line
+¨ I have often described valuation as a craft, where mastery is an 
+elusive goal and the key to getting better is working at doing more 
+valuation. 
+¨ I am glad that I valued Aramco, because it is an unconventional 
+investment, a company where I have to worry more about political 
+risks than economic ones. The techniques I develop in valuing
+these risks will help me not only in valuing Latin American 
+companies, as that continent approaches one of its periodic phases 
+of disquiet but also in developed markets, which seem to be 
+showing emerging market traits. 
+¨ As we approach an election in Britain next month and a 
+presidential election in the United States in 2020, it is worth noting 
+that we face starker divides on economic first principles between 
+the opposing parties than we ever did in the past, leading to much 
+greater going concern risk for all companies

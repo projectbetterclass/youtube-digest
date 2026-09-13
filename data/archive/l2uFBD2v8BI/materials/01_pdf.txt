@@ -1,0 +1,108 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/NegativeIntRates.pdf
+
+NEGATIVE	INTEREST	RATES:	
+IMPOSSIBLE,	IRRATIONAL	OR	
+JUST	UNUSUAL?
+March	2016
+Aswath	Damodaran
+Aswath Damodaran 1
+2
+Negative	Interest	Rate	Currencies:	Central	
+Bank	and	Market	Rates
+Aswath Damodaran
+2
+3
+10-year	Government	Bond	Rates:	By	
+Currency	 (March	9,	2016)
+Aswath Damodaran
+3
+4
+Interest	Rates	101:	An	Intrinsic	Interest	
+Rate
+Aswath Damodaran
+4
+5
+Interest	Rates	101:	A	Market	Set	Rate
+Aswath Damodaran
+5
+6
+Intrinsic	versus	Market-set	Interest	Rates	–
+Convergence	 and	Divergence
+Aswath Damodaran
+6
+7
+The	Central	Bank’s	Interest	Rate	Plays
+Aswath Damodaran
+7
+8
+Negative	Interest	Rates
+¨ The	conventional	 view	of	nominal	interest	rates	is	that	
+they	cannot	be	negative,	since	you	have	the	option	to	
+hold	cash	(rather	than	save	it	at	negative	rates).
+¨ This	is	based	on	the	presumption	 that	holding	and	using	
+cash	is	costless	and	that	may	not	hold	for	two	reasons:
+¤ Storing	cash	may	require	security	 (and	its	costs).
+¤ Using	cash	for	some	 transactions	may	be	expensive	 and	perhaps	
+infeasible.
+¨ If	you	introduce	costs	to	holding	and	using	cash,	nominal	
+interest	rates	can	be	negative,	albeit	with	a	lower	bound,	
+since	at	some	interest	rate,	it	will	be	less	expensive	to	
+hold	cash.
+Aswath Damodaran
+8
+9
+The	Effect	of	Interest	Rates	on	Stock	and	
+Bond	Prices
+Aswath Damodaran
+9
+10
+Interest	Rates	and	the	Real	Economy
+Aswath Damodaran
+10
+11
+The	Hubristic	Banker
+Aswath Damodaran
+11
+12
+The	Real	World	Banker
+Aswath Damodaran
+12
+13
+ERP	and	Risk	Free	Rates
+Aswath Damodaran
+13
+14
+Dealing	with	negative	interest	rates
+1. Switch	currencies:	If	the	currency	that	your	company	
+reports	financials	in	has	a	negative	interest	rate,	switch	
+to	a	different	currency.	
+Caveat:	You	can	run,	but	you	cannot	hide.
+2. Normalize	risk	free	rates:	Replace	the	current	(negative)	
+interest	rate	with	a	normal	risk	free	rate,	obtained	from	
+either	history	or	fundamentals.
+Caveat:	Normalization	 is	in	the	eye	of	the	beholder.
+3. Stay	with	the	negative	risk	free	rate:	Use	the	negative	
+risk	free	rate	but	make	sure	that	your	other	
+assumptions	(nominal	growth,	risk	premiums)	are	
+consistent	with	a	deflationary,	no-growth	economy	
+with	high	risk	premiums.
+Aswath Damodaran
+14
+15
+Implications	and	Consequences
+1. Bad	news:	Negative	interest	rates	are	incompatible	 with	a	healthy	
+and	growing	economy .	
+2. Insanity,	Impotence	or	Irrelevance? Central	banks	have	lowered	
+rates	over	and	over	in	the	last	six	years	and	have	not	been	 able	to	
+nudge	economies	 out	of	their	comas.	But	they	keep	 doing	it..	The	
+very	 fact	that	they	 keep	 going	back	 to	this	lever	 is	a	signal	of	
+impotence	 on	the	part	of	policy	makers.	
+3. Unintended	consequences:	 Investors	who	desire	 (and	need)	fixed	
+income	 from	their	investments	 increasingly	 have	to	look	 further	
+and	further	away	from	their	preferred	 domains	 for	that	fixed	
+income.	 The	potential	for	scams	and	investment	 pain	is	immense.
+4. Digital	currencies:	 To	 t he	 ex t ent 	 t ha t 	 c ent r a l	 ba nks 	 ma ke	 it 	
+unattractive	to	save	their	currencies,	 they	are	ceding	ground	to	
+digital	currencies.
+Aswath Damodaran
+15

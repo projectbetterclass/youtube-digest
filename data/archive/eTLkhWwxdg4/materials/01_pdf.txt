@@ -1,0 +1,144 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/Superman&Stocks.pdf
+
+SUPERMAN	AND	STOCKS:	IT’S	
+NOT	THE	CAPE,	IT’S	THE	
+KRYPTONITE!
+It’s	a	bird,	it’s	a	plane,	its	Superman
+2
+A	wandering	mind..
+3
+Up,	up	and	away!	Super	stocks!
+4
+The	Bubblers
+1. The	Doomsday	Bubbler:	Has	been	warning	you	about	bubbles	
+ever	since	you’ve	known	them.
+2. The	Knee	Jerk	Bubbler:	Go	into	hibernation	in	bear	markets	but	
+become	increasingly	agitated,	the	more	they	go	up
+3. The	Armchair	Psychiatrist	Bubbler :	Use	psychological	 clues	from	
+their	surroundings	to	make	judgments	about	 bubbles.
+4. The	Conspiratorial	Bubbler :	Bubbles	are	 created	by	small	group	
+of	evil	people	who	plan	to	profit	from	them
+5. The	Righteous	Bubbler :	If	investors	are	having	too	much	fun	
+(because	stocks	are	going	up),	they	have	to	be	punished
+6. The	Rational	Bubbler :	Use	market	metrics	that	are	both	intuitive	
+and	widely	used,	note	their	divergence	from	historical	norms	and	
+argue	for	a	correction	back	to	the	average
+5
+The	Rational	Bubbler’s	Favorite	Tool
+¨ The	CAPE	ratio	is	the	PE	ratio	for	the	market,	
+adjusted	for	two	factors:
+¤ Varying	earnings	over	time,	by	averaging	earnings	over	ten	
+years.
+¤ Inflation,	by	inflation-adjusting	past	earnings.
+¨ The	ratio	comes	with	impeccable	credentials,	since	it	
+was	developed	by	Robert	Shiller,	who	not	only	won	a	
+Nobel	Prize	but	has	called	(if	tentatively)	the	bursting	
+of	both	the	dot-com	and	housing	bubblers.
+6
+The	Basis	for	the	Story
+7
+The	Case	against	CAPE
+1. The	Shiller	CAPE	is	not	that	informative,	since	it	moves	
+for	the	most	part	with	other	pricing	multiples.
+2. Its	predictive	power	is	weak	in	the	short	term,	with	
+conventional	PE	besting	it.	It	is	stronger	in	the	long	
+term	(5	years)	but	that	may	help	little	in	asset	
+allocation	and	investing.
+3. Investing	is	relative	and	just	because	the	CAPE	is	high,	
+relative	to	past	history,	does	not	mean	that	you	should	
+not	be	buying	stocks.
+4. It’s	the	cash	flow,	not	earnings,	that	drives	stock	prices.
+8
+1.	It’s	not	that	informative
+9
+2.	It’s	not	that	predictive
+10
+A	more	direct	test
+%	invested	in	equities
+CAPE	over	valued	cut	off 0% 25% 50% 75%
+10% $21,371 $49,125 $101,448 $189,332
+25% $59,992 $101,656 $160,083 $234,694
+50% $137,943 $179,065 $224,536 $272,432
+With	no	market	timing,	you	invest	100%	in	equities.	A	$100	invested	in	
+equities	in	1927 would	have	been	worth	 $320,173	in	August	2016.
+End Value of $100 invested at end of 1927
+11
+3.	Investing	is	relative
+12
+It’s	the	cash,	not	the	earnings..
+13
+Time	to	be	bullish!
+¨ Using	another	metric,	say	cash	flow	or	the	ratio	of	
+stock	PE	to	T. B o n dPE,	to	decide	that	stocks	are	
+under	priced	is	just	as	dangerous	as	using	CAPE	to	
+conclude	that	stocks	are	over	priced.
+¨ No	single	pricing	metric	can	time	the	market.	If	it	
+did,	we	would	all	be	successful	market	timers.
+14
+So,	what’s	the	market’s	kryptonite?
+1. The	Treasury	Alternative:	If	the	T. B o n drate	surges	
+suddenly,	and	the	stock	environment	remains	
+unchanged,	your	decision	can	flip.	
+2. The	Earnings	Hangover:	If	earnings,	which	have	
+dropped	last	year	and	this,	continue	to	drop,	your	
+judgment	on	stocks	could	quickly	shift.
+3. The	Cash	Flow	Sustainability:	If	companies	reduce	
+the	cash	that	they	return	to	investors,	especially	by	
+curbing	buybacks,	the	cash	story	can	quickly	turn	
+negative.
+15
+1.	The	” All	Powerful”	Central	Bank	
+¨ The	fear:	One	reason	that	stocks	look	attractive	right	
+now	is	because	interest	rates	are	low	in	many	currencies.	
+If	you	believe,	like	many	seem	to,	that	central	bankers	
+are	omnipotent	and	can	raise	rates	on	a	whim,	your	
+nightmare	scenario	is	a	Federal	Open	Market	Committee	
+meeting	that	“pushes”	long	term	treasury	bond	rates	to	
+4%	(over	night).
+¨ The	counter:	Central	banks	don’t	set	government	bond	
+rates	and	it	is	debatable	how	much	power	they	have	to	
+even	influence	them.	If	rates	are	to	rise,	it	will	have	to	be	
+because	inflation	and/or	real	growth	rise,	which	will	also	
+play	out	as	higher	growth	for	earnings	in	stocks.
+16
+2.	The	Earnings	Hangover
+0.00
+20.00
+40.00
+60.00
+80.00
+100.00
+120.00
+S&P	500	Earnings	over	time
+17
+3.	Cash	Flow	Sustainability
+Year Earnings Dividends Dividends	+	Buybacks Dividend	Payout Cash	Payout
+2001 38.85 15.74 30.08 40.52% 77.43%
+2002 46.04 16.08 29.83 34.93% 64.78%
+2003 54.69 17.88 31.58 32.69% 57.74%
+2004 67.68 19.407 40.60 28.67% 59.99%
+2005 76.45 22.38 61.17 29.27% 80.01%
+2006 87.72 25.05 73.16 28.56% 83.40%
+2007 82.54 27.73 95.36 33.60% 115.53%
+2008 49.51 28.05 67.52 56.66% 136.37%
+2009 56.86 22.31 37.43 39.24% 65.82%
+2010 83.77 23.12 55.53 27.60% 66.28%
+2011 96.44 26.02 71.28 26.98% 73.91%
+2012 96.82 30.44 75.90 31.44% 78.39%
+2013 107.3 36.28 88.13 33.81% 82.13%
+2014 113.01 39.44 101.98 34.90% 90.24%
+2015 100.48 43.16 106.10 42.95% 105.59%
+2016	(LTM) 98.61 43.88 110.62 44.50% 112.18%
+18
+The	Market	Timing	Mirage
+¨ There	will	be	another	market	correction.	When	it	
+happens,	the	bubblers	will	come	out	of	the	
+woodwork	claiming	to	have	seen	this	coming.
+¨ Before	we	anoint	these	bubblers	as	market	timers,	
+take	a	closer	look	at	their	predictions	and	what	
+following	those	predictions	would	have	meant	to	
+you,	if	you	had	followed	them	all	the	way	through.	
+¨ For	most	market	timing,	what	you	lose	by	staying	
+out	of	the	market	because	you	saw	calamity	coming	
+year	after	year	will	be	greater	than	what	you	gain	
+from	the	next	downturn.

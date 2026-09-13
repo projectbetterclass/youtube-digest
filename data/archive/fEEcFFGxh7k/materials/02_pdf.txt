@@ -1,0 +1,39 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/session2Atest.pdf
+
+Session 2A: Post Class Test 
+1. Stock market indices include subsets of stocks listed in the marketplace. Some indices 
+equally weight all stocks that are in them, and some use weighting, where some stocks count 
+more than others.  
+a. If your objective is to develop an index that is representative of what investors in the 
+market are earning on stocks, which approach would you use. (If weighted, what 
+weights would you use?) 
+b. What cautionary notes would you add about your index choice to those who want to 
+extrapolate from its returns to the entire market? 
+2. The NASDAQ is one of the more heavily followed indices in the US equity markets, but its 
+returns may not be representative of what US stocks for which of the following reasons. 
+a. There are not enough stocks listed on the NASDAQ 
+b. The NASDAQ is only one of many exchanges in the US 
+c. The NASDAQ gets a disproportionate share of its value from technology companies 
+d. There are other US indices, like the Dow 30 and the S&P 500, that have been around 
+for a longer time. 
+e. None of the above 
+3. You are looking at a research study that claims that larger market cap companies are better 
+investments than smaller ones, and backs this up by classifying companies, based upon their 
+market capitalization today, and then looking at the returns that they earned over the last 20 
+years. (Companies that do not have data for 20 years were removed from the sample). 
+a. Explain the statistical reasons why you should be skeptical about its findings. 
+b. How would you redo the study to test the hypothesis? 
+4. A research study, aimed at examining how stock prices react to CEO changes, looks at 50 
+companies where CEOs have changed, focusing in on how the stock prices of these 
+companies move in the two days before, the day of and two days after the CEO change 
+announcement. The sample was created by looking for news stories about CEO changes in 
+the Wall Street Journal between 2018 and 2020.  
+a. What are the questions about sampling that you have about this study? 
+b. What would you do to follow up on your concerns? 
+5. Assume that you have been given annual returns on the S&P 500 for the last 50 years (1971-
+2020) and have computed the following: the average annual return was 12.18% and the 
+standard deviation in annual returns was 19.49%.  
+a. Estimate the expected annual return on the S&P 500, with 95% confidence, based 
+upon this sample. 
+b. What concern or concerns would you have in making this extrapolation? 
+c. What would you do to alleviate or reduce these concerns?

@@ -1,0 +1,158 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/MeanReversion.pdf
+
+MEAN	REVERSION:	UNIVERSAL	
+TRUTH	OR	DANGEROUS	
+DELUSION!
+History	repeats	itself,	until	it	does	not!
+2
+The	Essence	of	Mean	Reversion
+¨ In	statistics,	mean	reversion	is	the	term	used	to	describe	the	
+phenomenon	that	if	you	get	an	extreme	value	(relative	to	the	
+average)	in	a	draw	of	a	variable,	the	second	draw	from	the	
+same	distribution	is	likely	to	be	closer	to	the	average.	
+¨ In	markets	and	in	investing,	mean	reversion	has	not	only	
+taken	on	a	much	bigger	role	but	has	arguably	had	a	greater	
+impact	than	in	any	other	discipline.	
+¤ Jeremy	Siegel's	argument	for	why	"stocks	win	in	the	long	term"	is	
+based	upon	his	observation	that	over	a	very	long	time	period	(more	
+than	200	years),	stocks	have	earned	higher	returns	than	other	asset	
+classes	and	that	there	is	no	20- year	time	period	in	his	history	where	
+stocks	have	not	outperformed	the	competition .
+¤ Many	“value”	investing	strategies	(buy	low	PE	stocks,	low	PBV	stocks	
+etc.)	are	based	upon	the	presumption	of	mean	reversion.
+3
+The	Counter	to	Mean	Reversion
+¨ Just	as	there	are	a	plethora	of	strategies	built	around	mean	
+reversion,	there	are	almost	as	many	built	on	the	presumption	
+that	it	will	not	happen,	at	least	during	a	specified	time	
+horizon.	
+¨ Many	momentum-based	strategies,	such	as	buying	stocks	
+with	high	relative	strength	(that	have	gone	up	the	most	over	
+a	recent	time	period)	or	have	had	the	highest	earnings	
+growth	in	the	last	few	years,	are	effectively	strategies	that	are	
+betting	against	mean	reversion	in	the	near	term.	
+¨ While	it	is	easy	to	be	an	absolutist	on	this	issue,	the	irony	is	
+that	not	only	can	both	sides	be	right,	even	though	their	
+beliefs	seem	fundamentally	opposed,	but	worse,	both	sides	
+can	be	and	often	are	wrong.
+4
+Forms	of	mean	reversion
+¨ In time	series	mean	reversion ,	you	assume	that	the	value	of	a	
+variable	reverts	back	to	a	historical	average.	This,	in	a	sense,	is	
+what	you	are	using	when	looking	at	the	CAPE	today	at	27.27	(in	
+August	2016)	and	argue	that	stocks	are	over	priced	because	the	
+average	CAPE	between	1871	and	2016	is	closer	to	16.
+¨ In cross	sectional	mean	reversion ,	you	assume	that	the	value	of	a	
+variable	reverts	back	to	a	cross	sectional	average.	This	is	the	basis	
+for	concluding	that	an	oil	stock	with	a	 PE	ratio	of	30	is	over	priced,	
+because	the	average	PE	across	oil	stocks	is	closer	to	15.
+¨ At	the	risk	of	over	generalizing,	market	timing	strategies	are	more	
+likely	to	be	built	on	time	series	mean	reversion	whereas	stock	
+picking	strategies	often	revolve	around	cross	sectional	mean	
+reversion.
+5
+Mean	Reversion:	The	Questions
+1. Measurement	Questions
+¤ The	Mean	can	be	very	different	depending	not	only	on	the	
+time	period	that	you	look	at	but	also	on	how	you	compute	it
+¤ On	Reversion,	there	can	be	differences	about	when	it	will	
+happen	and	how.
+2. Fundamental	Questions
+¤ Mean	reversion	is	built	on	the	presumption	that	the	underlying	
+process	is	stable	(and	therefore	reverts	back	to	historic	norms)
+¤ If	there	is	or	has	been	a	large	structural	change	in	the	underlying	
+process,	mean	reversion	will	no	longer	work.
+6
+The	Causes	for	Structural	Change
+¨ With	time	series	mean	reversion,	structural	change	
+can	come	from
+¤ Aging	of	either	a	company,	a	sector	or	the	entire	market,	
+changing	its	characteristics.
+¤ Technology	
+¤ Investor	preferences
+¨ With	cross	sectional	mean	reversion,	structural	
+change	can	come
+¤ Changes	in	industry	structure
+¤ Disruption
+7
+The	US	Equity	Market
+8
+The	2008	Wake	Up	Call
+1. Globalization	is	here	to	stay and	while	it	has	brought	pluses,	it	has	already	
+brought	some	minuses.	As	I	noted	in	my	post	on	country	risk,	no	investor	or	
+company	can	afford	to	stay	localized	any	more,	since	not	only	do	market	crisis	in	
+one	country	quickly	become	global	epidemics,	but	a	company	that	depends	on	
+just	its	domestic	market	for	operations	(revenues	and	production)	is	now	more	
+the	exception	than	the	rule.	
+2. Financial	service	firms	were	at	the	center	of	the	crisis ,	has	had	long	term	
+consequences.	Not	only	has	it	led	to	a	loss	of	faith	in	banks	as	well -regulated	
+entities,	run	by	sensible	(and	risk	averse)	people,	but	it	has	increased	the	role	of	
+central	bankers	in	economies,	with	perverse	consequences.	In	their	zeal	to	be	
+saviors	of	the	economy,	central	bankers	(in	my	view)	have	contributed	to	an	
+environment	of	low	economic	growth	and	higher	risk	premiums.	
+3. Low	economic	growth	and	low	inflation	has	resulted	in	interest	rates	lower	than	
+they	have	been	historically in	most	currencies	and	negative	interest	rates	in	
+some.	I	know	that	there	are	many	who	believe	that	I	am	over	reacting	and	that	
+it	only	a	question	of	time	before	we	revert	back	to	more	normal	interest	rates,	
+higher	economic	growth	and	typical	inflation	but	I	am	not	convinced.
+9
+The	Statistical	Basis	for	Mean	Reversion	–
+The	CAPE	Illustration
+10
+A	More	Useful	Picture?
+11
+More	Statistics:	Correlation
+12
+Statistics	Doubling	Down:	Regressions
+Expected annualized return in next 10 years 
+= 16.24% - 0.0044 (27.27) = 4.30%
+13
+From	Statistics	to	Investing:	Market	Timing	
+Choices
+¨ Timing	threshold:	If	you	decide	that	you	will	time	markets	
+using	a	metric,	you	have	to	follow	through	with	specifics.	
+¨ Asset	class	alternatives:	If	you	decide	to	move	money	out	of	
+stocks,	you	have	to	also	specify	where	the	money	will	go	and	
+you	have	four	choices.
+¨ Holding	period:	You	will	have	to	specify	how	long	you	plan	to	
+stay	with	the	"market	timed"	allocation	mix.
+¨ Allocation	Constraints	(if	any):	The	allocation	that	you	have	
+for	an	asset	class	can	be	floored	at	zero,	if	you	are	a	long	only	
+investor,	but	can	be	negative,	if	you	are	willing	to	go	short.	
+The	cap	on	what	you	can	allocate	to	an	asset	class	is	100%,	if	
+you	cannot	or	choose	not	to	borrow	money,	but	can	be	
+greater	than	100%,	if	you	can.
+14
+Market	Timing	Results
+15
+General	Conclusions
+1. Time	Period:	The	CAPE	delivers	a	positive	market	timing	payoff	in	the	first	half	
+of	the	entire	time	period	(from	1917	to	1966)	and	a	negative	one	in	the	second	
+half	(1967-2016).	
+2. Choice	of	time	period	for	median :	Using	the	lifetime	median	delivers	better	
+results	during	the	"good"	period	(1917 -1966)	but	worse	results	during	the	"bad"	
+period	(1967-2016).	Using	a	shorter	time	periods	for	the	median	reduces	the	
+outperformance	in	the	first	half	of	the	analysis	period	but	improves	it	in	the	
+second	half.
+3. Buy	and	Sell:	The	CAPE's	timing	payoff	is	greater	when	it	is	used	as	a	buying	
+metric	than	as	a	selling	metric.	In	fact,	you	make	a	positive	payoff	from	using	a	
+low	CAPE	as	a	buying	indicator	over	the	entire	period	but	using	it	is	a	signal	of	
+over	priced	markets	costs	you	money	in	both	time	period.
+4. Activity:	Increasing	the	degree	to	which	you	tilt	towards	or	away	from	stocks,	in	
+reaction	to	the	CAPE,	just	magnifies	the	return	difference,	positive	or	negative.	
+Thus,	in	the	first	half	of	the	century	(1917 -1966),	changing	your	equity	exposure	
+more	increases	the	payoff	to	market	timing.	In	the	second	half,	it	makes	the	
+negative	payoff	worse.
+16
+The	Bottom	Line
+¨ Long	Periods	of	Data:	are	a	blessing	and	a	curse,	a	
+blessing	because	we	can	extract	more	information	
+from	them	and	a	curse	because	that	information	
+may	no	longer	be	relevant.
+¨ Statistics	on	call:	Since	we	can	statistics	painlessly,	
+using	built	in	tools,	both	academics	and	practitioners	
+have	increasingly	turned	to	using	statistical	evidence	
+as	proof	that	you	can	beat	markets.	Correlation	is	
+not	cash	in	the	bank.	Converting	statistical	
+significance	to	investment	returns	is	far	more	
+difficult	than	it	looks.

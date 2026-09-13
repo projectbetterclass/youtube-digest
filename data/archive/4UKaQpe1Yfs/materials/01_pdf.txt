@@ -1,0 +1,185 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/slides/session10.pdf
+
+SESSION 10: INFLATION, THE 
+HIDDEN TAX!
+Aswath Damodaran
+Aswath Damodaran 1
+2
+What is inflation?
+¨Put simply, inflation refers to a general rise in prices and 
+deflation is the general fall in price level.
+¤Thus, you can have the prices of some products and services rise 
+and no overall inflation, if that price rise is offset by falling prices 
+on other products and services.
+¤These relative price changes, even though they do not show up 
+as inflation, can affect individuals who consume more or less of 
+the goods & services that are affected by relative price changes
+¨In investing and finance, we care about inflation because 
+it affects how much we value a cash flow today as 
+opposed to an equal cash flow in the future. 
+Aswath Damodaran
+2
+3
+How is it measured?
+¨To measure inflation, you need to first decide whether to invest it 
+from the perspective of consumers or producers, and within each 
+perspective, pick a basket of goods and services that you will use to 
+estimate price level changes.
+¨In most parts of the world, inflation is estimated by a government 
+or government agency, with each one often using different 
+approaches.
+¨In the US, for instance, the government measures inflation in 
+multiple ways:
+¤Consumer Price Index (CPI), measuring change over time in prices paid for 
+a market basket of consumer goods/services.
+¤Producer Price Index (PPI), measuring change in the prices received by 
+producers of goods and services.
+¤GDP deflator, calculated from nominal and real GDP growth numbers, 
+focused on price changes in all goods and services.
+Aswath Damodaran
+3
+4
+Inflation Measurement: Errors and Biases?
+¨Basket of goods/services: All inflation measures are based 
+upon measuring and remeasuring prices on a basket of goods 
+and services that reflects the usage of these. To the extent 
+that this basket is mis-specified, or mis-measured, the 
+measured inflation can be different from actual inflation.
+¨Sources for prices: When computing inflation, the question of 
+how and when prices are observed for goods and services can 
+have an effect onmeasured inflation.
+¨Other biases: Most inflation rates are measured by 
+governments or government agencies. To the extent that 
+governments have an interest in how much inflation is 
+reported (with most preferring lower rates), there can be 
+pressure on those measuring inflation to skew numbers.
+AswathDamodaran
+4
+5
+Inflation Rates: US
+Aswath Damodaran
+5
+6
+What causes inflation?
+¨Government Spending: In periods where governments 
+have tospend money they do not have in large 
+quantities, to fend off a crisis or fund a war, inflation can 
+surge.
+¨Real Economic Growth: In periods of high economic 
+growth, there will be more inflationary pressures as 
+consumers have more spendable income, and 
+production may not be able to keep up.
+¨Monetary Policy: Ultimately, inflation is a monetary 
+phenomenon, and governments that print money more 
+liberally are likely to see more inflation, at least in the 
+long term.
+AswathDamodaran
+6
+7
+Real versus Nominal
+Aswath Damodaran
+7
+¨We live in a nominal world. Our wages, taxes and 
+returns are all computed in nominal terms. 
+¨That said, the value of these wages, the amount of 
+taxes we pay and the returns we earn can be 
+affected by inflation during the period.
+¨Thus, the same wages, taxes and returns are worth a 
+lot less over time, if there is high inflation as 
+opposed to low inflation or deflation.
+8
+Converting Nominal to Real Returns
+¨The nominal return on an investment incorporates 
+inflation. In its simpler form:
+¤Nominal Return = Real Return + Inflation
+¤To the extent that there is a compounding effect, a more 
+precise measure is
+(1+ Nominal Return) = (1 + Real Return)  (1 + Inflation Rate)
+¨If you estimate the nominal return on an investment, 
+converting it into a real return is straightforward:
+¤Real Return = ("#$%&’()*+,-./()
+("#1(2*)-’%(+)-,) -1
+Aswath Damodaran
+8
+9
+US Equities: Nominal and Real Returns
+Aswath Damodaran
+9
+10
+US Equities: Quantifying the inflation 
+effect
+Aswath Damodaran
+10
+$502,417.21 
+$33,953.22 
+ $-
+ $100,000.00
+ $200,000.00
+ $300,000.00
+ $400,000.00
+ $500,000.00
+ $600,000.00
+1928
+1930
+1932
+1934
+1936
+1938
+1940
+1942
+1944
+1946
+1948
+1950
+1952
+1954
+1956
+1958
+1960
+1962
+1964
+1966
+1968
+1970
+1972
+1974
+1976
+1978
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+Value of $100 invested in 1928 in US Stocks: Nominal and Real Terms
+Compound ed value of $100 (nominal)  Compou nded value of $100 (real)
+11
+Nominal to Real Cash Flows
+Aswath Damodaran
+11
+¨The process of converting nominal to real is the same for 
+growth rates and cash flows, as it is for returns.
+¨With growth rates, you can use either the short cut or 
+the more precise compounding value:
+¤Real Growth Rate = Nominal Growth Rate –Inflation Rate
+¤Real Growth Rate = ("#$%&’()*+,%-./0).1)
+("#3(4*).’%(0).1) -1
+¨With cash flows, to get from nominal cash flows in a 
+future year (t) to real cash flows in that year, you do the 
+following:
+¤Real Cash Flowt= $%&’()*5)6/7*%-!
+("#3(4*).’%(0).1)!

@@ -1,0 +1,87 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/postclass/session6Atest.pdf
+
+Session 6A: Post Class Test 
+1. The following is data that you have collected on the up and down movements in a stock 
+index over nine hundred trading days, classified by the direction of the moment (up or down) 
+as a function of the change (up or down) in the index the prior day: 
+  Day 2 
+   Up Down Total 
+Day 1 
+Up 260 220 480 
+Down 220 200 420 
+Total 480 420 900 
+a. Over this entire time period, estimate the probability of an up day for the market, 
+based upon the data you have collected. 
+b. Do your results reject the hypothesis that the market follows a random walk? Explain. 
+c. Over this entire time period, estimate the probability of a reversal, where a up day is 
+followed by a down day or vice versa. 
+d. Over the entire time period, estimate the probability of a continuation, where a up day 
+is followed by another up day or a down day by a down day. 
+2. A service that tracks and classifies 400 hedge fund managers, based upon performance, into 
+quartiles has given you access to their rankings across two five-year time periods and a 
+transition matrix (of rankings across the two quarters): 
+  2016-2020 
+   Quartile 1 Quartile 2 Quartile 3 Quartile 4 
+2011-2015 Quartile 1 27.00% 24.00% 22.00% 27.00% 
+Quartile 2 25.00% 26.00% 27.00% 22.00% 
+Quartile 3 24.00% 26.00% 29.00% 21.00% 
+Quartile 4 28.00% 22.00% 24.00% 26.00% 
+a. If past performance has no predictive value for future performance, what would you 
+expect the numbers in this matrix to be? 
+b. What would you need to see to reject the hypothesis that there is no continuity in 
+performance? 
+c. How would your assessment be altered if you were told that there were 40 hedge fund 
+managers in the first group that did not survive into the second time period, and that 
+the service removed them from the rankings? 
+3. You are thinking of using a PROBIT to estimate the probability that a CEO at a publicly 
+traded company in the US will be fired. 
+a. Go through the steps involved in building this PROBIT. 
+b. Assume that a PROBIT has been run, using three independent variables: the annual 
+returns on the company’s equity in the prior year, the percent of shares held by 
+institutional investors and its operating profit margin. The result is summarized 
+below: 
+CEOFIRED = 0.05 - 0.40 (Stock Return in last year) + 0.20 (Percent of shares held 
+by institutions) – 0.30 (Operating Profit Margin)   R2 = 15%
+If you are looking at a firm whose shares earned a return of -20% in the most recent 
+year, has 60% of its shares held by institutions and has a 10% operating profit margin, 
+estimate the probability that its CEO will be fired next year. 
+c. What intuitive explanation would you offer for this PROBIT? What are some of the 
+concerns/questions that you might have in using this PROBIT? 
+4. You have been asked to assess the risk in a multi-stage investment, using a decision tree and 
+have been given the following information: 
+Step 1: You have to apply for regulatory permission, and it will cost you $50,000 to do 
+so. There is an 80% chance that you will be approved, and a 20% chance of rejection. 
+Step 2: If you get regulatory permission, you plan to spend $10 million on a small-scale 
+version of the infrastructure and test out the market. Based on what you know now, you 
+expect: 
+• A 25% chance of worst case: $0.5 million in after-tax cash flow in the next year 
+• A 50% chance of most likely case: $1.5 million in after-tax cash flow in the next year 
+• A 25% chance of best case: $ 4 million in after-tax cash flow in the next year 
+Step 3: In the worst case, you will continue with the investment for only five years, 
+earning $0.5 million a year, and then shut it down. In the most likely case, you will 
+continue the investment for fifteen years, earning $1.5 million a year. In the best case, 
+you will go back for regulatory approval for an expansion; that process will cost $2 
+million, and there is a 60% chance of approval. If approved, you will invest another $10 
+million, and generate $ 5 million in cash flow for the next 20 years. If not approved, you 
+will continue with the existing capacity, earning $ 4 million a year for the next 20 years. 
+b. Draw the decision tree for this investment. 
+Assuming your discount rate is 8%, estimate the expected value today of that tree (and by 
+extension, whether you will initiate the process today). 
+5. You have been asked to value a company that operates as a quasi-monopoly in a regulated 
+business, where an impending election may create regulatory change, ranging from a shift 
+that could be very positive for the company (where it will remain a monopoly, but get more 
+pricing power) to neutral (where the status quo prevails) to a one that could be very negative 
+for the company (where competition will be allowed). You have valued the company under 
+all three scenarios: 
+  Expected Operating Margin Value of company Probability 
+Monopoly + Pricing Power 15% $1,500.00 20% 
+Monopoly Status Quo 9% $900.00 50% 
+Competition 6% $500.00 30% 
+ 
+a. Estimate the expected value of the company across the three scenarios. 
+b. If you were valuing this company with point estimates, what would use as your 
+expected operating margin? 
+c. Will the value from a point-estimate valuation be the same as your expected value 
+across scenarios, assuming that your point estimates are all computed based upon 
+expected values (like margins in part b)? 
+d. What are the limitations of scenario analysis to deal with regulatory risk, in general?

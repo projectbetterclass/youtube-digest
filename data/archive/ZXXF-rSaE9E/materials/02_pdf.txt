@@ -1,0 +1,46 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session6test.pdf
+
+Session	6:	Post	Class	tests	
+1. If	you	wanted	to	measure	the	capacity	of	a	business	to	increase	profits	as	it	
+scales	up,	which	of	the	following	measures	of	profitability	would	you	look	at?	
+a. Gross	margins	
+b. Operating	margins	
+c. Net	margins	
+d. Difference	between	gross	and	operating	margins	
+e. Difference	between	operating	and	net	margins	
+f. Difference	between	gross	and	net	margins	
+2. The	return	on	equity	and	the	return	on	invested	capital	are	designed	to	
+measure	the	quality	of	investments	made	by	a	company	and	both	are	
+computed	using	book	value	measures	for	equity	and	invested	capital	in	the	
+denominator.	Why	do	we	use	book	values	(rather	than	market	values)	in	this	
+computation?	
+a. Because	book	values	are	less	volatile	than	market	values	
+b. Because	book	values	more	accurately	reflect	the	values	of	assets	than	
+market	values	
+c. Because	book	values	are	more	likely	to	reflect	the	capital	invested	in	
+existing	assets	and	projects	
+d. Because	you	may	not	be	able	to	get	the	market	value	of	equity	and/or	
+the	market	value	of	debt	for	most	companies	
+e. None	of	the	above	
+3. If	you	wanted	a	debt	ratio	that	would	be	an	indicator	of	default	risk	in	a	
+company,	which	of	the	following	would	you	use?	Explain	why.	
+a. Total	Debt/	(Total	Debt	+	Equity)	
+b. Long	Term	Debt/	(Long	Term	Debt	+	Equity)	
+c. Short	Term	Debt/	(Short	Term	Debt	+	Equity)	
+d. Total	Debt/	EBITDA	
+e. Long	Term	Debt/	EBITDA	
+f. Short	Term	Debt/	EBITDA	
+4. If	you	are	computing	an	interest	coverage	ratio	for	a	company	with	volatile	
+earnings	and	rising	debt,	with	the	intent	to	measure	its	buffer	against	default,	
+which	of	the	following	would	you	use?	
+a. Current	year’s	EBIT/	Current	year’s	interest	expense	
+b. Average	EBIT	over	time/	Current	year’s	interest		expense	
+c. Average	EBIT	over	time/	Average	interest		expense	over	time	
+d. Current	year’s	EBIT/	Average	interest		expense	over	time	
+5. Turnover	ratios	are	measures	of	investment	efficiency,	but	often	have	to	be	
+read	in	conjunction	with	operating	margins.	Rank	the	following	from	most	
+efficient	to	least	investment-efficient	companies:	
+a. High	sales	to	capital	and	low	operating	margins	
+b. Low	sales	to	capital	and	low	operating	margins	
+c. High	sales	to	capital	and	high	operating	margins	
+d. Low	sales	to	capital	and	high	operating	margins

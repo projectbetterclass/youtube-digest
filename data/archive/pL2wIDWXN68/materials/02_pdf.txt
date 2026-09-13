@@ -1,0 +1,18 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session6Atest.pdf
+
+Session	6A:	Post	Class	tests	
+In	the	tables	below,	I	have	reported	the	income	statements	(most	recent	year)	and	
+balance	sheets	(most	recent	year	and	last	year)		of	Navistar.	
+Income	Statements
+Balance	Sheets
+1. Compute	the	gross	margins,	operating	margins	(pre-tax	and	post-	tax)	and	
+net	margins	for	Navistar,	based	upon	the	most	recent	year’s	numbers.		
+2. Compute	the	returns	on	equity	and	after-tax	returns	on	invested	capital	for	
+Navistar.	
+3. Compute	the	turnover	ratios	(asset	and	capital)	for	Navistar.	
+4. Compute	the	debt	to	equity	and	debt	to	capital	ratios	for	Navistar,	based	
+upon	book	values.	If	the	market	value	of	Navistar’s	equity	is	3,200	million	
+and	the	market	value	of	Navistar’s	debt	is	close	to	its	book	value,	re-estimate	
+the	ratios	based	upon	market	values.	
+5. Compute	the	interest	coverage	ratios	for	Navistar,	with	and	without	the	
+financing	division.

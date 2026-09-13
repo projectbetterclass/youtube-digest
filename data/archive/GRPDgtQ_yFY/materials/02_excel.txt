@@ -1,0 +1,1039 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/CountryRiskTablesJuly2018.xlsx
+
+Sheet: ERP by country
+Country | Moody's rating | Adj. Default Spread | Equity Risk Premium | Country Risk Premium
+Abu Dhabi | Aa2 | 0.005737732884063316 | 0.06071029720499776 | 0.007010297204997762
+Albania | B1 | 0.05205688562086536 | 0.11730251464170696 | 0.06360251464170696
+Andorra (Principality of) | Baa2 | 0.02201202979158836 | 0.08059404927735506 | 0.026894049277355052
+Angola | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Argentina | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Armenia | B1 | 0.05205688562086536 | 0.11730251464170696 | 0.06360251464170696
+Aruba | Baa1 | 0.01846506764507649 | 0.07626041100517461 | 0.022560411005174617
+Australia | Aaa | 0 | 0.0537 | 0
+Austria | Aa1 | 0.0045901863072506524 | 0.059308237763998205 | 0.005608237763998209
+Azerbaijan | Ba2 | 0.03473936455260153 | 0.0961441630775319 | 0.0424441630775319
+Bahamas | Baa3 | 0.02545466952202635 | 0.0848002276003537 | 0.03110022760035371
+Bahrain | B1 | 0.05205688562086536 | 0.11730251464170696 | 0.06360251464170696
+Bangladesh | Ba3 | 0.04162464401347751 | 0.10455651972352922 | 0.05085651972352922
+Barbados | Caa3 | 0.11558923700985736 | 0.19492562369340946 | 0.14122562369340946
+Belarus | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Belgium | Aa3 | 0.006989601876949857 | 0.06223981659517909 | 0.00853981659517909
+Belize | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Bermuda | A2 | 0.009806307110944577 | 0.06568123522308708 | 0.011981235223087083
+Bolivia | Ba3 | 0.04162464401347751 | 0.10455651972352922 | 0.05085651972352922
+Bosnia and Herzegovina | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Botswana | A2 | 0.009806307110944577 | 0.06568123522308708 | 0.011981235223087083
+Brazil | Ba2 | 0.03473936455260153 | 0.0961441630775319 | 0.0424441630775319
+Bulgaria | Baa2 | 0.02201202979158836 | 0.08059404927735506 | 0.026894049277355052
+Burkina Faso | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Cambodia | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Cameroon | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Canada | Aaa | 0 | 0.0537 | 0
+Cape Verde | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Cayman Islands | Aa3 | 0.006989601876949857 | 0.06223981659517909 | 0.00853981659517909
+Chile | Aa3 | 0.006989601876949857 | 0.06223981659517909 | 0.00853981659517909
+China | A1 | 0.008137148453762523 | 0.06364187603617864 | 0.009941876036178646
+Colombia | Baa2 | 0.02201202979158836 | 0.08059404927735506 | 0.026894049277355052
+Congo (Democratic Republic of) | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Congo (Republic of) | Caa2 | 0.10411377124173073 | 0.18090502928341393 | 0.12720502928341393
+Cook Islands | B1 | 0.05205688562086536 | 0.11730251464170696 | 0.06360251464170696
+Costa Rica | Ba2 | 0.03473936455260153 | 0.0961441630775319 | 0.0424441630775319
+Côte d'Ivoire | Ba3 | 0.04162464401347751 | 0.10455651972352922 | 0.05085651972352922
+Croatia | Ba2 | 0.03473936455260153 | 0.0961441630775319 | 0.0424441630775319
+Cuba | Caa2 | 0.10411377124173073 | 0.18090502928341393 | 0.12720502928341393
+Curacao | A3 | 0.013874881337825837 | 0.0706521732411764 | 0.016952173241176406
+Cyprus | Ba3 | 0.04162464401347751 | 0.10455651972352922 | 0.05085651972352922
+Czech Republic | A1 | 0.008137148453762523 | 0.06364187603617864 | 0.009941876036178646
+Denmark | Aaa | 0 | 0.0537 | 0
+Dominican Republic | Ba3 | 0.04162464401347751 | 0.10455651972352922 | 0.05085651972352922
+Ecuador | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Egypt | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+El Salvador | Caa1 | 0.08669192775739301 | 0.15961921777005708 | 0.10591921777005708
+Estonia | A1 | 0.008137148453762523 | 0.06364187603617864 | 0.009941876036178646
+Ethiopia | B1 | 0.05205688562086536 | 0.11730251464170696 | 0.06360251464170696
+Fiji | Ba3 | 0.04162464401347751 | 0.10455651972352922 | 0.05085651972352922
+Finland | Aa1 | 0.0045901863072506524 | 0.059308237763998205 | 0.005608237763998209
+France | Aa2 | 0.005737732884063316 | 0.06071029720499776 | 0.007010297204997762
+Gabon | Caa1 | 0.08669192775739301 | 0.15961921777005708 | 0.10591921777005708
+Georgia | Ba2 | 0.03473936455260153 | 0.0961441630775319 | 0.0424441630775319
+Germany | Aaa | 0 | 0.0537 | 0
+Ghana | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Greece | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Guatemala | Ba1 | 0.02889730925246434 | 0.08900640592335236 | 0.035306405923352366
+Guernsey (States of) | Aa3 | 0.006989601876949857 | 0.06223981659517909 | 0.00853981659517909
+Honduras | B1 | 0.05205688562086536 | 0.11730251464170696 | 0.06360251464170696
+Hong Kong | Aa2 | 0.005737732884063316 | 0.06071029720499776 | 0.007010297204997762
+Hungary | Baa3 | 0.02545466952202635 | 0.0848002276003537 | 0.03110022760035371
+Iceland | A3 | 0.013874881337825837 | 0.0706521732411764 | 0.016952173241176406
+India | Baa2 | 0.02201202979158836 | 0.08059404927735506 | 0.026894049277355052
+Indonesia | Baa2 | 0.02201202979158836 | 0.08059404927735506 | 0.026894049277355052
+Iraq | Caa1 | 0.08669192775739301 | 0.15961921777005708 | 0.10591921777005708
+Ireland | A2 | 0.009806307110944577 | 0.06568123522308708 | 0.011981235223087083
+Isle of Man | Aa2 | 0.005737732884063316 | 0.06071029720499776 | 0.007010297204997762
+Israel | A1 | 0.008137148453762523 | 0.06364187603617864 | 0.009941876036178646
+Italy | Baa2 | 0.02201202979158836 | 0.08059404927735506 | 0.026894049277355052
+Jamaica | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Japan | A1 | 0.008137148453762523 | 0.06364187603617864 | 0.009941876036178646
+Jersey (States of) | Aa3 | 0.006989601876949857 | 0.06223981659517909 | 0.00853981659517909
+Jordan | B1 | 0.05205688562086536 | 0.11730251464170696 | 0.06360251464170696
+Kazakhstan | Baa3 | 0.02545466952202635 | 0.0848002276003537 | 0.03110022760035371
+Kenya | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Korea | Aa2 | 0.005737732884063316 | 0.06071029720499776 | 0.007010297204997762
+Kuwait | Aa2 | 0.005737732884063316 | 0.06071029720499776 | 0.007010297204997762
+Kyrgyzstan | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Latvia | A3 | 0.013874881337825837 | 0.0706521732411764 | 0.016952173241176406
+Lebanon | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Liechtenstein | Aaa | 0 | 0.0537 | 0
+Lithuania | A3 | 0.013874881337825837 | 0.0706521732411764 | 0.016952173241176406
+Luxembourg | Aaa | 0 | 0.0537 | 0
+Macao | Aa3 | 0.006989601876949857 | 0.06223981659517909 | 0.00853981659517909
+Macedonia | Ba3 | 0.04162464401347751 | 0.10455651972352922 | 0.05085651972352922
+Malaysia | A3 | 0.013874881337825837 | 0.0706521732411764 | 0.016952173241176406
+Maldives | B2 | 0.013874881337825837 | 0.0706521732411764 | 0.016952173241176406
+Malta | A3 | 0.013874881337825837 | 0.0706521732411764 | 0.016952173241176406
+Mauritius | Baa1 | 0.01846506764507649 | 0.07626041100517461 | 0.022560411005174617
+Mexico | A3 | 0.013874881337825837 | 0.0706521732411764 | 0.016952173241176406
+Moldova | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Mongolia | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Montenegro | B1 | 0.05205688562086536 | 0.11730251464170696 | 0.06360251464170696
+Montserrat | Baa3 | 0.02545466952202635 | 0.0848002276003537 | 0.03110022760035371
+Morocco | Ba1 | 0.02889730925246434 | 0.08900640592335236 | 0.035306405923352366
+Mozambique | Caa3 | 0.11558923700985736 | 0.19492562369340946 | 0.14122562369340946
+Namibia | Ba1 | 0.02889730925246434 | 0.08900640592335236 | 0.035306405923352366
+Netherlands | Aaa | 0 | 0.0537 | 0
+New Zealand | Aaa | 0 | 0.0537 | 0
+Nicaragua | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Nigeria | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Norway | Aaa | 0 | 0.0537 | 0
+Oman | Baa3 | 0.02545466952202635 | 0.0848002276003537 | 0.03110022760035371
+Pakistan | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Panama | Baa2 | 0.02201202979158836 | 0.08059404927735506 | 0.026894049277355052
+Papua New Guinea | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Paraguay | Ba1 | 0.02889730925246434 | 0.08900640592335236 | 0.035306405923352366
+Peru | A3 | 0.013874881337825837 | 0.0706521732411764 | 0.016952173241176406
+Philippines | Baa2 | 0.02201202979158836 | 0.08059404927735506 | 0.026894049277355052
+Poland | A2 | 0.009806307110944577 | 0.06568123522308708 | 0.011981235223087083
+Portugal | Ba1 | 0.02889730925246434 | 0.08900640592335236 | 0.035306405923352366
+Qatar | Aa3 | 0.006989601876949857 | 0.06223981659517909 | 0.00853981659517909
+Ras Al Khaimah (Emirate of) | A2 | 0.009806307110944577 | 0.06568123522308708 | 0.011981235223087083
+Romania | Baa3 | 0.02545466952202635 | 0.0848002276003537 | 0.03110022760035371
+Russia | Ba1 | 0.02889730925246434 | 0.08900640592335236 | 0.035306405923352366
+Rwanda | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Saudi Arabia | A1 | 0.008137148453762523 | 0.06364187603617864 | 0.009941876036178646
+Senegal | Ba3 | 0.04162464401347751 | 0.10455651972352922 | 0.05085651972352922
+Serbia | Ba3 | 0.04162464401347751 | 0.10455651972352922 | 0.05085651972352922
+Sharjah | A3 | 0.013874881337825837 | 0.0706521732411764 | 0.016952173241176406
+Singapore | Aaa | 0 | 0.0537 | 0
+Slovakia | A2 | 0.009806307110944577 | 0.06568123522308708 | 0.011981235223087083
+Slovenia | Baa1 | 0.01846506764507649 | 0.07626041100517461 | 0.022560411005174617
+Solomon Islands | B3 | 0.02545466952202635 | 0.0848002276003537 | 0.03110022760035371
+South Africa | Baa3 | 0.02545466952202635 | 0.0848002276003537 | 0.03110022760035371
+Spain | Baa1 | 0.01846506764507649 | 0.07626041100517461 | 0.022560411005174617
+Sri Lanka | B1 | 0.05205688562086536 | 0.11730251464170696 | 0.06360251464170696
+St. Maarten | Baa2 | 0.02201202979158836 | 0.08059404927735506 | 0.026894049277355052
+St. Vincent & the Grenadines | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Suriname | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Swaziland | B2 | 0 | 0.0537 | 0
+Sweden | Aaa | 0 | 0.0537 | 0
+Switzerland | Aaa | 0 | 0.0537 | 0
+Taiwan | Aa3 | 0.006989601876949857 | 0.06223981659517909 | 0.00853981659517909
+Tajikistan | B3 | 0.02889730925246434 | 0.08900640592335236 | 0.035306405923352366
+Tanzania | B1 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Thailand | Baa1 | 0.01846506764507649 | 0.07626041100517461 | 0.022560411005174617
+Trinidad and Tobago | Ba1 | 0.02889730925246434 | 0.08900640592335236 | 0.035306405923352366
+Tunisia | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Turkey | Ba2 | 0.03473936455260153 | 0.0961441630775319 | 0.0424441630775319
+Turks and Caicos Islands | Baa1 | 0.01846506764507649 | 0.07626041100517461 | 0.022560411005174617
+Uganda | B2 | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Ukraine | Caa2 | 0.10411377124173073 | 0.18090502928341393 | 0.12720502928341393
+United Arab Emirates | Aa2 | 0.005737732884063316 | 0.06071029720499776 | 0.007010297204997762
+United Kingdom | Aa2 | 0.005737732884063316 | 0.06071029720499776 | 0.007010297204997762
+United States | Aaa | 0 | 0.0537 | 0
+Uruguay | Baa2 | 0.02201202979158836 | 0.08059404927735506 | 0.026894049277355052
+Venezuela | C | 0.18 | 0.27362196611390255 | 0.21992196611390258
+Vietnam | B1 | 0.05205688562086536 | 0.11730251464170696 | 0.06360251464170696
+Zambia | B3 | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Algeria | NA | 0.08669192775739301 | 0.15961921777005708 | 0.10591921777005708
+Brunei | NA | 0.009806307110944577 | 0.06568123522308708 | 0.011981235223087083
+Gambia | NA | 0.08669192775739301 | 0.15961921777005708 | 0.10591921777005708
+Guinea | NA | 0.11558923700985736 | 0.19492562369340946 | 0.14122562369340946
+Guinea-Bissau | NA | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Guyana | NA | 0.04162464401347752 | 0.10455651972352922 | 0.050856519723529225
+Haiti | NA | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Iran | NA | 0.04162464401347752 | 0.10455651972352922 | 0.050856519723529225
+Korea, D.P.R. | NA | 0.10411377124173071 | 0.18090502928341393 | 0.12720502928341393
+Liberia | NA | 0.11558923700985736 | 0.19492562369340946 | 0.14122562369340946
+Libya | NA | 0.052056885620865356 | 0.11730251464170696 | 0.06360251464170696
+Madagascar | NA | 0.07521646198926639 | 0.14559862336006157 | 0.09189862336006158
+Malawi | NA | 0.08669192775739301 | 0.15961921777005708 | 0.10591921777005708
+Mali | NA | 0.08669192775739301 | 0.15961921777005708 | 0.10591921777005708
+Myanmar | NA | 0.06363667380506587 | 0.13145056900088425 | 0.07775056900088426
+Niger | NA | 0.13874881337825837 | 0.22322173241176405 | 0.16952173241176405
+Sierra Leone | NA | 0.13874881337825837 | 0.22322173241176405 | 0.16952173241176405
+Somalia | NA | 0.13874881337825837 | 0.22322173241176405 | 0.16952173241176405
+Sudan | NA | 0.17999999999999997 | 0.27362196611390255 | 0.21992196611390255
+Syria | NA | 0.13874881337825837 | 0.22322173241176405 | 0.16952173241176405
+Togo | NA | 0.08669192775739301 | 0.15961921777005708 | 0.10591921777005708
+Yemen, Republic | NA | 0.17999999999999997 | 0.27362196611390255 | 0.21992196611390255
+Zimbabwe | NA | 0.08669192775739301 | 0.15961921777005708 | 0.10591921777005708
+
+Sheet: Ratings
+Country | S&P Rating | Moody's rating
+Abu Dhabi | AA | Aa2
+Albania | B+ | B1
+Andorra (Principality of) | BBB | Baa2
+Angola | B- | B3
+Argentina | B+ | B2
+Armenia | NA | B1
+Aruba | BBB+ | Baa1
+Australia | AAA | Aaa
+Austria | AA+ | Aa1
+Azerbaijan | BB+ | Ba2
+Bahamas | BB+ | Baa3
+Bahrain | B+ | B1
+Bangladesh | BB- | Ba3
+Barbados | CCC | Caa3
+Belarus | B | B3
+Belgium | AA | Aa3
+Belize | B- | B3
+Bermuda | A+ | A2
+Bolivia | BB- | Ba3
+Bosnia and Herzegovina | B | B3
+Botswana | A- | A2
+Brazil | BB- | Ba2
+Bulgaria | BBB- | Baa2
+Burkina Faso | B | B2
+Cambodia | NA | B2
+Cameroon | B | B2
+Canada | AAA | Aaa
+Cape Verde | B | B2
+Cayman Islands | NA | Aa3
+Chile | AA- | Aa3
+China | A+ | A1
+Colombia | BBB | Baa2
+Congo (Democratic Republic of) | CCC+ | B3
+Congo (Republic of) | B- | Caa2
+Cook Islands | B+ | B1
+Costa Rica | BB- | Ba2
+Côte d'Ivoire | NA | Ba3
+Croatia | BB+ | Ba2
+Cuba | NA | Caa2
+Curacao | A- | A3
+Cyprus | BB+ | Ba3
+Czech Republic | AA | A1
+Denmark | AAA | Aaa
+Dominican Republic | BB- | Ba3
+Ecuador | B- | B3
+Egypt | B | B3
+El Salvador | CCC+ | Caa1
+Estonia | AA- | A1
+Ethiopia | B | B1
+Fiji | B+ | Ba3
+Finland | AA+ | Aa1
+France | AA | Aa2
+Gabon | NA | Caa1
+Georgia | BB- | Ba2
+Germany | AAA | Aaa
+Ghana | B- | B3
+Greece | B | B3
+Guatemala | BB | Ba1
+Guernsey (States of) | AA- | Aa3
+Honduras | BB- | B1
+Hong Kong | AA+ | Aa2
+Hungary | BBB- | Baa3
+Iceland | A | A3
+India | BBB- | Baa2
+Indonesia | BBB- | Baa2
+Iraq | B- | Caa1
+Ireland | A+ | A2
+Isle of Man | NA | Aa2
+Israel | A+ | A1
+Italy | BBB | Baa2
+Jamaica | B | B3
+Japan | A+ | A1
+Jersey (States of) | AA- | Aa3
+Jordan | B+ | B1
+Kazakhstan | BBB- | Baa3
+Kenya | B+ | B2
+Korea | AA | Aa2
+Kuwait | AA | Aa2
+Kyrgyzstan | NA | B2
+Latvia | A- | A3
+Lebanon | B- | B3
+Liechtenstein | AAA | Aaa
+Lithuania | A | A3
+Luxembourg | AAA | Aaa
+Macao | NA | Aa3
+Macedonia | BB- | Ba3
+Malaysia | A | A3
+Maldives | NA | B2
+Malta | A- | A3
+Mauritius | NA | Baa1
+Mexico | A- | A3
+Moldova | NA | B3
+Mongolia | B- | B3
+Montenegro | B+ | B1
+Montserrat | BBB- | Baa3
+Morocco | BBB- | Ba1
+Mozambique | B- | Caa3
+Namibia | NA | Ba1
+Netherlands | AAA | Aaa
+New Zealand | AA+ | Aaa
+Nicaragua | B+ | B2
+Nigeria | B | B2
+Norway | AAA | Aaa
+Oman | BB | Baa3
+Pakistan | B | B3
+Panama | BBB | Baa2
+Papua New Guinea | B | B2
+Paraguay | BB | Ba1
+Peru | A- | A3
+Philippines | BBB | Baa2
+Poland | A- | A2
+Portugal | BBB- | Ba1
+Qatar | AA- | Aa3
+Ras Al Khaimah (Emirate of) | A | A2
+Romania | BBB- | Baa3
+Russia | BBB | Ba1
+Rwanda | B | B2
+Saudi Arabia | A- | A1
+Senegal | B+ | Ba3
+Serbia | BB | Ba3
+Sharjah | BBB+ | A3
+Singapore | AAA | Aaa
+Slovakia | A+ | A2
+Slovenia | A+ | Baa1
+Solomon Islands | NA | B3
+South Africa | BB+ | Baa3
+Spain | A- | Baa1
+Sri Lanka | B+ | B1
+St. Maarten | NA | Baa2
+St. Vincent & the Grenadines | NA | B3
+Suriname | B | B2
+Swaziland | NA | B2
+Sweden | AAA | Aaa
+Switzerland | AAA | Aaa
+Taiwan | AA- | Aa3
+Tajikistan | B- | B3
+Tanzania | NA | B1
+Thailand | A- | Baa1
+Trinidad and Tobago | BBB+ | Ba1
+Tunisia | NA | B2
+Turkey | BB | Ba2
+Turks and Caicos Islands | BBB+ | Baa1
+Uganda | B | B2
+Ukraine | B- | Caa2
+United Arab Emirates | NA | Aa2
+United Kingdom | AA | Aa2
+United States | AA+ | Aaa
+Uruguay | BBB | Baa2
+Venezuela | CCC- | C
+Vietnam | BB- | B1
+Zambia | B | B3
+
+Sheet: PRS scores
+Country | PRS Score
+Albania | 71.8
+Algeria | 61
+Angola | 55.5
+Argentina | 63.5
+Armenia | 65.3
+Australia | 78
+Austria | 81
+Azerbaijan | 69
+Bahamas | 76.3
+Bahrain | 78.3
+Bangladesh | 64.8
+Belarus | 66.3
+Belgium | 77.5
+Bolivia | 66
+Botswana | 79.3
+Brazil | 67.5
+Brunei | 76.5
+Bulgaria | 77
+Burkina Faso | 64.8
+Cameroon | 62.3
+Canada | 82.3
+Chile | 77.3
+China | 73.5
+Colombia | 68.8
+Congo (Democratic Republic of) | 54.3
+Congo (Republic of) | 61.3
+Costa Rica | 74.3
+Côte d'Ivoire | 63.8
+Croatia | 75.3
+Cuba | 68.8
+Cyprus | 75.8
+Czech Republic | 81
+Denmark | 84
+Dominican Republic | 71.3
+Ecuador | 64.3
+Egypt | 61.3
+El Salvador | 68.5
+Estonia | 75.5
+Ethiopia | 57
+Finland | 83.3
+France | 75
+Gabon | 64.8
+Gambia | 62
+Germany | 84
+Ghana | 68.8
+Greece | 70.5
+Guatemala | 71
+Guinea | 56.75
+Guinea-Bissau | 65
+Guyana | 68.5
+Haiti | 62.8
+Honduras | 67.5
+Hong Kong | 82.5
+Hungary | 78.5
+Iceland | 84.3
+India | 70.3
+Indonesia | 68.5
+Iran | 69
+Iraq | 62.3
+Ireland | 84.3
+Israel | 78
+Italy | 76.3
+Jamaica | 70.5
+Japan | 81.8
+Jordan | 63.5
+Kazakhstan | 70
+Kenya | 64
+Korea | 83.8
+Korea, D.P.R. | 57.3
+Kuwait | 75.8
+Latvia | 73
+Lebanon | 58.3
+Liberia | 55.75
+Libya | 67.75
+Lithuania | 73.3
+Luxembourg | 87
+Madagascar | 63.75
+Malawi | 61
+Malaysia | 75.5
+Mali | 61
+Malta | 81
+Mexico | 66.3
+Moldova | 64.8
+Mongolia | 66.5
+Morocco | 69.8
+Mozambique | 57.8
+Myanmar | 64.5
+Namibia | 70
+Netherlands | 83.8
+New Zealand | 82.3
+Nicaragua | 61.8
+Niger | 54.8
+Nigeria | 61.8
+Norway | 90.5
+Oman | 73.3
+Pakistan | 59.8
+Panama | 75
+Papua New Guinea | 68.3
+Paraguay | 69.8
+Peru | 73
+Philippines | 70.8
+Poland | 76.3
+Portugal | 78.8
+Qatar | 71
+Romania | 71
+Russia | 71.5
+Saudi Arabia | 73.3
+Senegal | 64.3
+Serbia | 68.3
+Sierra Leone | 55
+Singapore | 86.3
+Slovakia | 75
+Slovenia | 75.3
+Somalia | 52
+South Africa | 70.5
+Spain | 75.5
+Sri Lanka | 64.8
+Sudan | 43.3
+Suriname | 63.8
+Sweden | 84.5
+Switzerland | 89.5
+Syria | 50.3
+Taiwan | 85
+Thailand | 71.8
+Togo | 61
+Trinidad and Tobago | 70
+Tunisia | 62.8
+Turkey | 60
+Uganda | 62.5
+Ukraine | 62.8
+United Arab Emirates | 78.5
+United Kingdom | 78
+United States of America | 78.3
+Uruguay | 75.3
+Venezuela | 47.5
+Vietnam | 68.8
+Yemen, Republic | 49.3
+Zambia | 65.8
+Zimbabwe | 61
+
+Sheet: CDS scores
+Country | CDS Spred | CDS Spread net of US
+Abu Dhabi | 0.0103 | 0.0075
+Algeria | 0.0123 | 0.0095
+Angola | 0.0504 | 0.0476
+Argentina | 0.0542 | 0.0514
+Australia | 0.0042 | 0.0013999999999999998
+Austria | 0.0028 | 0
+Bahrain | 0.0402 | 0.0374
+Belgium | 0.004 | 0.0012000000000000001
+Brazil | 0.0346 | 0.0318
+Bulgaria | 0.0122 | 0.0094
+Cameroon | 0.0463 | 0.043500000000000004
+Canada | 0.0042 | 0.0013999999999999998
+Chile | 0.0101 | 0.007299999999999999
+China | 0.0111 | 0.0083
+Colombia | 0.0193 | 0.0165
+Costa Rica | 0.0248 | 0.022
+Croatia | 0.0156 | 0.012799999999999999
+Cyprus | 0.0174 | 0.014599999999999998
+Czech Republic | 0.0071 | 0.0043
+Denmark | 0.0026 | -0.0002000000000000001
+Dubai | 0.0169 | 0.014099999999999998
+Egypt | 0.0414 | 0.0386
+El Salvador | 0.0407 | 0.0379
+Estonia | 0.0094 | 0.0066
+Finland | 0.0027 | -9.999999999999983e-05
+France | 0.005 | 0.0022
+Germany | 0.0023 | -0.0005
+Greece | 0.0414 | 0.0386
+Guatamela | 0.0261 | 0.0233
+Hong Kong | 0.006 | 0.0032
+Hungary | 0.0124 | 0.0096
+Iceland | 0.0087 | 0.005899999999999999
+India | 0.0148 | 0.012
+Indonesia | 0.0194 | 0.0166
+Iraq | 0.0468 | 0.044000000000000004
+Ireland | 0.0052 | 0.0024
+Israel | 0.0108 | 0.008
+Italy | 0.0234 | 0.0206
+Japan | 0.0047 | 0.0019000000000000002
+Kazakhstan | 0.0128 | 0.01
+Kenya | 0.039 | 0.0362
+Korea | 0.0065 | 0.0036999999999999997
+Kuwait | 0.0111 | 0.0083
+Latvia | 0.0104 | 0.007599999999999999
+Lebanon | 0.0635 | 0.060700000000000004
+Lithuania | 0.0102 | 0.0074
+Malaysia | 0.0154 | 0.0126
+Mexico | 0.0196 | 0.0168
+Morocco | 0.0135 | 0.0107
+Netherlands | 0.0023 | -0.0005
+New Zealand | 0.0036 | 0.0007999999999999999
+Nigeria | 0.0348 | 0.032
+Norway | 0.0025 | -0.0002999999999999999
+Oman | 0.0345 | 0.031700000000000006
+Pakistan | 0.0497 | 0.046900000000000004
+Panama | 0.0116 | 0.008799999999999999
+Peru | 0.0149 | 0.0121
+Philippines | 0.013 | 0.010199999999999999
+Poland | 0.0103 | 0.0075
+Portugal | 0.0141 | 0.0113
+Qatar | 0.0143 | 0.0115
+Romania | 0.0142 | 0.0114
+Russia | 0.0202 | 0.0174
+Rwanda | 0.0413 | 0.038500000000000006
+Saudi Arabia | 0.0142 | 0.0114
+Senegal | 0.0397 | 0.0369
+Serbia | 0.0166 | 0.0138
+Slovakia | 0.0081 | 0.005299999999999999
+Slovenia | 0.0118 | 0.009
+South Africa | 0.0267 | 0.0239
+Spain | 0.0098 | 0.006999999999999999
+Sweden | 0.0021 | -0.0007000000000000001
+Switzerland | 0.0021 | -0.0007000000000000001
+Thailand | 0.0083 | 0.0055
+Tunisia | 0.035 | 0.032200000000000006
+Turkey | 0.0384 | 0.0356
+Ukraine | 0.0547 | 0.0519
+United Kingdom | 0.0044 | 0.0016000000000000003
+United States | 0.0028 | 0
+Uruguay | 0.0195 | 0.0167
+Venezuela | NA | NA
+Vietnam | 0.0218 | 0.019
+
+Sheet: Corruption
+Country | Score
+Afghanistan | 15
+Albania | 38
+Algeria | 33
+Angola | 19
+Argentina | 39
+Armenia | 35
+Australia | 77
+Austria | 75
+Azerbaijan | 31
+Bahamas | 65
+Bahrain | 36
+Bangladesh | 28
+Barbados | 68
+Belarus | 44
+Belgium | 75
+Benin | 39
+Bhutan | 67
+Bolivia | 33
+Bosnia and Herzegovina | 38
+Botswana | 61
+Brazil | 37
+Brunei Darussalam | 62
+Bulgaria | 43
+Burkina Faso | 42
+Burundi | 22
+Cabo Verde | 55
+Cambodia | 21
+Cameroon | 25
+Canada | 82
+Central African Republic | 23
+Chad | 20
+Chile | 67
+China | 41
+Colombia | 37
+Comoros | 27
+Congo | 21
+Costa Rica | 59
+Côte D'Ivoire | 36
+Croatia | 49
+Cuba | 47
+Cyprus | 57
+Czech Republic | 57
+Democratic Republic of the Congo | 21
+Denmark | 88
+Djibouti | 31
+Dominica | 57
+Dominican Republic | 29
+Ecuador | 32
+Egypt | 32
+El Salvador | 33
+Equatorial Guinea | 17
+Eritrea | 20
+Estonia | 71
+Ethiopia | 35
+Finland | 85
+France | 70
+Gabon | 32
+Gambia | 30
+Georgia | 56
+Germany | 81
+Ghana | 40
+Greece | 48
+Grenada | 52
+Guatemala | 28
+Guinea | 27
+Guinea Bissau | 17
+Guyana | 38
+Haiti | 22
+Honduras | 29
+Hong Kong | 77
+Hungary | 45
+Iceland | 77
+India | 40
+Indonesia | 37
+Iran | 30
+Iraq | 18
+Ireland | 74
+Israel | 62
+Italy | 50
+Jamaica | 44
+Japan | 73
+Jordan | 48
+Kazakhstan | 31
+Kenya | 28
+Korea, North | 17
+Korea, South | 54
+Kosovo | 39
+Kuwait | 39
+Kyrgyzstan | 29
+Laos | 29
+Latvia | 58
+Lebanon | 28
+Lesotho | 42
+Liberia | 31
+Libya | 17
+Lithuania | 59
+Luxembourg | 82
+Macedonia | 35
+Madagascar | 24
+Malawi | 31
+Malaysia | 47
+Maldives | 33
+Mali | 31
+Malta | 56
+Mauritania | 28
+Mauritius | 50
+Mexico | 29
+Moldova | 31
+Mongolia | 36
+Montenegro | 46
+Morocco | 40
+Mozambique | 25
+Myanmar | 30
+Namibia | 51
+Nepal | 31
+Netherlands | 82
+New Zealand | 89
+Nicaragua | 26
+Niger | 33
+Nigeria | 27
+Norway | 85
+Oman | 44
+Pakistan | 32
+Panama | 37
+Papua New Guinea | 29
+Paraguay | 29
+Peru | 37
+Philippines | 34
+Poland | 60
+Portugal | 63
+Qatar | 63
+Romania | 48
+Russia | 29
+Rwanda | 55
+Saint Lucia | 55
+Saint Vincent and the Grenadines | 58
+Sao Tome and Principe | 46
+Saudi Arabia | 49
+Senegal | 45
+Serbia | 41
+Seychelles | 60
+Sierra Leone | 30
+Singapore | 84
+Slovakia | 50
+Slovenia | 61
+Solomon Islands | 39
+Somalia | 9
+South Africa | 43
+South Sudan | 12
+Spain | 57
+Sri Lanka | 38
+Sudan | 16
+Suriname | 41
+Swaziland | 39
+Sweden | 84
+Switzerland | 85
+Syria | 14
+Taiwan | 63
+Tajikistan | 21
+Tanzania | 36
+Thailand | 37
+Timor-Leste | 38
+Togo | 32
+Trinidad and Tobago | 41
+Tunisia | 42
+Turkey | 40
+Turkmenistan | 19
+Uganda | 26
+Ukraine | 30
+United Arab Emirates | 71
+United Kingdom | 82
+United States of America | 75
+Uruguay | 70
+Uzbekistan | 22
+Vanuatu | 43
+Venezuela | 18
+Vietnam | 35
+Yemen | 16
+Zambia | 37
+Zimbabwe | 22
+
+Sheet: Peace Index
+Country | Peace Score
+Afghanistan | 3.585
+Albania | 1.849
+Algeria | 2.182
+Angola | 2.048
+Argentina | 1.947
+Armenia | 2.287
+Australia | 1.435
+Austria | 1.274
+Azerbaijan | 2.454
+Bahrain | 2.437
+Bangladesh | 2.084
+Belarus | 2.112
+Belgium | 1.56
+Benin | 1.973
+Bhutan | 1.545
+Bolivia | 2.092
+Bosnia & Herzogovina | 2.065
+Botswana | 1.659
+Brazil | 2.16
+Bulgaria | 1.635
+Burkina Faso | 2.029
+Burundi | 2.488
+Cambodia | 2.101
+Cameroon | 2.484
+Canada | 1.372
+Central African Republic | 3.236
+Chad | 2.498
+Chile | 1.649
+China | 2.243
+Colombia | 2.729
+Congo (Democratic Republic) | 3.251
+Congo (Republic of) | 2.343
+Costa Rica | 1.767
+Croatia | 1.639
+Cuba | 2.037
+Cyprus | 1.913
+Czech Republic | 1.381
+Denmark | 1.353
+Djibouti | 2.269
+Dominican Republic | 2.073
+Ecuador | 1.987
+Egypt | 2.632
+El Salvador | 2.275
+Equatorial Guinea | 1.946
+Eritrea | 2.522
+Estonia | 1.732
+Ethiopia | 2.524
+Finland | 1.506
+France | 1.909
+Gabon | 2.099
+Gambia | 1.989
+Georgia | 2.13
+Germany | 1.531
+Ghana | 1.772
+Greece | 2.02
+Guatemala | 2.214
+Guinea | 2.101
+Guinea-Bissau | 2.275
+Guyana | 2.043
+Haiti | 2.064
+Honduras | 2.282
+Hungary | 1.531
+Iceland | 1.096
+India | 2.504
+Indonesia | 1.853
+Iran | 2.439
+Iraq | 3.425
+Ireland | 1.393
+Israel | 2.764
+Italy | 1.766
+Ivory Coast | 2.207
+Jamaica | 2.068
+Japan | 1.391
+Jordan | 2.104
+Kazakhstan | 1.974
+Kenya | 2.354
+Kosovo | 2.078
+Kuwait | 1.799
+Kyrgyz Republic | 2.181
+Laos | 1.821
+Latvia | 1.689
+Lebanon | 2.778
+Lesotho | 2.144
+Liberia | 1.931
+Libya | 3.262
+Lithuania | 1.749
+Macedonia | 2.058
+Madagascar | 1.766
+Malawi | 1.811
+Malaysia | 1.619
+Mali | 2.686
+Mauritania | 2.355
+Mauritius | 1.548
+Mexico | 2.583
+Moldova | 1.939
+Mongolia | 1.821
+Montenegro | 1.893
+Morocco | 1.979
+Mozambique | 2.056
+Myanmar | 2.302
+Namibia | 1.806
+Nepal | 2.053
+Netherlands | 1.574
+New Zealand | 1.192
+Nicaragua | 1.96
+Niger | 2.359
+Nigeria | 2.873
+North Korea | 2.95
+Norway | 1.519
+Oman | 1.984
+Pakistan | 3.079
+Palestine | 2.621
+Panama | 1.826
+Papua New Guinea | 2.109
+Paraguay | 1.997
+Peru | 1.986
+Philippines | 2.512
+Poland | 1.727
+Portugal | 1.318
+Qatar | 1.869
+Romania | 1.596
+Russia | 3.16
+Rwanda | 2.14
+Saudi Arabia | 2.417
+Senegal | 1.849
+Serbia | 1.851
+Sierra Leone | 1.74
+Singapore | 1.382
+Slovakia | 1.568
+Slovenia | 1.396
+Somalia | 3.367
+South Africa | 2.328
+South Korea | 1.823
+South Sudan | 3.508
+Spain | 1.678
+Sri Lanka | 1.954
+Sudan | 3.155
+Swaziland | 1.98
+Sweden | 1.502
+Switzerland | 1.407
+Syria | 3.6
+Taiwan | 1.736
+Tajikistan | 2.266
+Tanzania | 1.837
+Thailand | 2.259
+Timor-Leste | 1.895
+Togo | 2.104
+Trinidad & Tobago | 2.053
+Tunisia | 1.998
+Turkey | 2.898
+Turkmenistan | 2.283
+UAE | 1.82
+Uganda | 2.168
+Ukraine | 3.113
+United Kingdom | 1.876
+Uruguay | 1.761
+USA | 2.3
+Uzbekistan | 2.144
+Venezuela | 2.642
+Vietnam | 1.905
+Yemen | 3.305
+Zambia | 1.822
+Zimbabwe | 2.326
+
+Sheet: Property Rights
+COUNTRY  | IPRI  | LP  | PPR  | IPR 
+ALBANIA  | 3.8223 | 4.2412 | 3.9405 | 3.2854
+ALGERIA  | 4.1603 | 3.5344 | 5.1955 | 3.7512
+ARGENTINA  | 4.5683 | 3.8127 | 5.0544 | 4.8378
+ARMENIA  | 4.1261 | 4.1441 | 5.1736 | 3.0606
+AUSTRALIA  | 8.2435 | 8.2716 | 8.2386 | 8.2204
+AUSTRIA  | 8.0122 | 7.8543 | 7.9702 | 8.2121
+AZERBAIJAN  | 3.9463 | 3.842 | 4.6153 | 3.3818
+BAHREIN  | 6.1568 | 5.28 | 7.5265 | 5.664
+BANGLADESH  | 3.117 | 3.2262 | 3.5024 | 2.6225
+BELGIUM  | 7.8388 | 7.5489 | 7.5153 | 8.4522
+BENIN  | 4.5826 | 4.1692 | 4.448 | 5.1308
+BOLIVIA  | 3.9706 | 2.9663 | 5.381 | 3.5645
+BOSNIA&HERZEGOVINA  | 3.9169 | 4.0292 | 4.2621 | 3.4596
+BOTSWANA  | 6.1258 | 6.5447 | 7.0664 | 4.7665
+BRAZIL  | 5.4338 | 4.438 | 6.1175 | 5.7459
+BRUNEI DARUSSALAM  | 4.6317 | 6.1875 | 3.2598 | 4.4477
+BULGARIA  | 4.8127 | 4.4139 | 4.8029 | 5.2213
+BURUNDI  | 3.43 | 2.0979 | 4.8325 | 3.3595
+CAMEROON  | 4.2936 | 3.1444 | 5.3858 | 4.3505
+CANADA  | 8.1789 | 8.3684 | 7.9058 | 8.2624
+CHAD  | 3.8915 | 2.5762 | 4.8143 | 4.2839
+CHILE  | 6.9262 | 6.8691 | 7.5037 | 6.4058
+CHINA  | 5.7122 | 4.5244 | 6.9986 | 5.6136
+COLOMBIA  | 5.3541 | 3.7689 | 6.5752 | 5.7181
+CONGO, DEM. REP.  | 3.8184 | 1.8236 | 5.4352 | 4.1965
+COSTA RICA  | 6.0599 | 6.398 | 6.3987 | 5.3829
+CôTE D'IVOIRE  | 4.5873 | 3.9174 | 5.7245 | 4.1199
+CROATIA  | 4.7541 | 5.1497 | 4.3486 | 4.7638
+CYPRUS  | 5.4468 | 6.568 | 4.0168 | 5.7555
+CZECH REP.  | 6.8605 | 6.4351 | 6.8603 | 7.2859
+DENMARK  | 8.1584 | 8.5074 | 7.6839 | 8.2838
+DOMINICAN REP.  | 4.8228 | 3.8766 | 6.2301 | 4.3616
+ECUADOR  | 4.6274 | 3.2746 | 5.5428 | 5.0649
+EGYPT  | 4.4328 | 4.075 | 4.7528 | 4.4706
+EL SALVADOR  | 4.9449 | 4.1792 | 6.2072 | 4.4484
+ESTONIA  | 7.1992 | 7.3396 | 7.6472 | 6.6108
+ETHIOPIA  | 4.718 | 3.8259 | 5.902 | 4.426
+FINLAND  | 8.6257 | 8.8596 | 8.3461 | 8.6714
+FRANCE  | 7.3364 | 7.0381 | 6.8786 | 8.0924
+GABON  | 4.6942 | 4.0556 | 4.9807 | 5.0463
+GEORGIA  | 4.7074 | 5.3176 | 5.8393 | 2.9652
+GERMANY  | 7.9593 | 7.8379 | 7.6642 | 8.3759
+GHANA | 5.6456 | 5.2644 | 5.8779 | 5.7944
+GREECE  | 5.3887 | 4.9469 | 5.1937 | 6.0255
+GUATEMALA  | 5.0768 | 3.5911 | 6.9604 | 4.679
+HONDURAS  | 4.9018 | 3.5771 | 6.5373 | 4.591
+HONG KONG  | 7.7856 | 8.2339 | 7.8514 | 7.2716
+HUNGARY  | 5.9919 | 5.2857 | 6.1786 | 6.5113
+ICELAND  | 7.6996 | 8.1749 | 7.9266 | 6.9973
+INDIA  | 5.5637 | 4.4939 | 6.331 | 5.8662
+INDONESIA  | 5.1666 | 4.3394 | 6.9236 | 4.2368
+IRAN  | 4.5212 | 3.6076 | 5.7703 | 4.1858
+IRELAND  | 7.8724 | 8.1919 | 7.2465 | 8.1787
+ISRAEL  | 6.9741 | 6.3991 | 6.8884 | 7.6347
+ITALY  | 5.9791 | 5.2311 | 5.9132 | 6.793
+JAMAICA  | 6.0101 | 5.1662 | 6.6331 | 6.2309
+JAPAN  | 8.3267 | 7.9358 | 8.4578 | 8.5865
+JORDAN  | 6.2665 | 5.5082 | 7.4546 | 5.8366
+KAZAKHSTAN  | 4.4318 | 4.3968 | 4.9339 | 3.9646
+KENYA  | 4.8558 | 3.6694 | 6.3094 | 4.5887
+KOREA, REP  | 6.4951 | 5.7566 | 6.7813 | 6.9474
+KUWAIT  | 5.3799 | 5.1929 | 6.551 | 4.3958
+LATVIA  | 5.3411 | 5.8363 | 4.9326 | 5.2544
+LEBANON  | 4.3315 | 2.9617 | 6.6668 | 3.3659
+LIBERIA  | 4.8932 | 3.8475 | 6.0281 | 4.804
+LITHUANIA  | 5.9178 | 6.2008 | 5.4793 | 6.0732
+LUXEMBURG  | 8.4593 | 8.62 | 8.3131 | 8.4449
+MACEDONIA, FYR  | 4.6545 | 4.4009 | 5.3328 | 4.2299
+MADAGASCAR  | 4.0638 | 3.5014 | 4.4949 | 4.195
+MALAWI  | 4.6704 | 4.5108 | 5.1346 | 4.3659
+MALAYSIA  | 6.6102 | 5.8082 | 7.5945 | 6.4278
+MALI  | 4.8142 | 3.3901 | 5.8757 | 5.1767
+MALTA  | 6.8809 | 6.8439 | 7.3285 | 6.4704
+MAURITANIA  | 4.0911 | 3.3678 | 4.3391 | 4.5665
+MAURITIUS  | 6.3155 | 6.5347 | 7.2278 | 5.1839
+MEXICO  | 5.1942 | 3.6267 | 6.1022 | 5.8537
+MOLDOVA  | 3.1781 | 3.362 | 3.5102 | 2.6622
+MONTENEGRO  | 4.1915 | 4.8795 | 4.3999 | 3.2952
+MOROCCO  | 5.5004 | 4.5829 | 6.5473 | 5.3709
+MOZAMBIQUE  | 4.6253 | 3.4871 | 5.5706 | 4.8181
+NEPAL  | 4.9409 | 4.0112 | 6.654 | 4.1576
+NETHERLANDS  | 8.296 | 8.3913 | 7.9496 | 8.5471
+NEW ZEALAND  | 8.6335 | 9.0311 | 8.8255 | 8.0438
+NICARAGUA  | 3.9899 | 3.263 | 4.9574 | 3.7494
+NIGERIA  | 3.9505 | 2.8759 | 5.0707 | 3.9048
+NORWAY | 8.5326 | 8.8052 | 8.5115 | 8.2811
+OMAN  | 6.2797 | 5.975 | 7.6701 | 5.1941
+PAKISTAN  | 3.4743 | 2.839 | 4.2351 | 3.3487
+PANAMA  | 5.7982 | 4.5292 | 7.5795 | 5.2859
+PARAGUAY  | 4.4778 | 3.433 | 6.2234 | 3.777
+PERU  | 5.2173 | 3.8597 | 6.8331 | 4.9591
+PHILIPPINES  | 5.3309 | 4.137 | 6.4766 | 5.3792
+POLAND  | 6.2533 | 6.0433 | 6.6025 | 6.1142
+PORTUGAL  | 6.8479 | 6.7809 | 6.7476 | 7.0152
+QATAR  | 7.3478 | 7.1045 | 8.3744 | 6.5645
+ROMANIA  | 5.0418 | 5.1501 | 4.2341 | 5.7413
+RUSSIA  | 4.0431 | 3.4641 | 3.7222 | 4.9432
+RWANDA  | 6.5078 | 5.9816 | 7.5056 | 6.0361
+SAUDI ARABIA  | 6.1333 | 5.4711 | 7.3772 | 5.5516
+SENEGAL  | 4.9419 | 4.742 | 5.574 | 4.5098
+SERBIA  | 4.0442 | 4.4719 | 4.2012 | 3.4593
+SIERRA LEONE  | 4.5232 | 3.6086 | 4.9655 | 4.9954
+SINGAPORE  | 8.3585 | 8.3002 | 8.7039 | 8.0713
+SLOVAKIA  | 6.3956 | 5.3224 | 6.9959 | 6.8684
+SLOVENIA  | 5.9936 | 6.2072 | 5.8452 | 5.9283
+SOUTH AFRICA  | 7.0003 | 5.7123 | 7.8379 | 7.4508
+SPAIN  | 6.4219 | 5.8661 | 6.6453 | 6.7542
+SRI. LANKA  | 5.3896 | 5.0325 | 6.3383 | 4.7981
+SWEDEN  | 8.6084 | 8.6753 | 8.66 | 8.49
+SWITZERLAND  | 8.5614 | 8.7717 | 8.5083 | 8.4043
+TAIWAN (China)  | 7.2678 | 6.5862 | 8.2826 | 6.9345
+TANZANIA, UNITED REP. OF  | 5.051 | 4.1977 | 5.6975 | 5.2578
+THAILAND  | 5.215 | 4.3232 | 6.8654 | 4.4565
+TRINIDAD & TOBAGO  | 5.5031 | 4.9031 | 5.6822 | 5.9241
+TUNISIA  | 5.0806 | 4.4569 | 6.126 | 4.6588
+TURKEY  | 4.9246 | 3.9328 | 5.3787 | 5.4623
+UGANDA  | 5.1023 | 3.7307 | 6.3744 | 5.202
+UKRAINE  | 3.4243 | 2.4762 | 3.3779 | 4.4189
+UNITED ARAB EMIRATES  | 7.4826 | 7.0301 | 8.203 | 7.2146
+UNITED KINGDOM  | 8.1292 | 8.0987 | 7.832 | 8.457
+UNITED STATES  | 8.0741 | 7.3927 | 8.1141 | 8.7155
+URUGUAY  | 6.4115 | 7.1761 | 6.7077 | 5.3507
+VENEZUELA, BOLIVARIAN REP  | 3.0566 | 1.6795 | 4.6892 | 2.8012
+VIETNAM  | 4.9295 | 4.4765 | 5.7947 | 4.5174
+YEMEN, REP.  | 2.7281 | 1.6929 | 4.7837 | 1.7075
+ZAMBIA  | 4.9168 | 4.7346 | 6.0969 | 3.9187
+ZIMBABWE  | 3.7597 | 2.9813 | 4.7944 | 3.5035
+ALL Countries  | 5.6336 | 5.1715 | 6.2265 | 5.5027

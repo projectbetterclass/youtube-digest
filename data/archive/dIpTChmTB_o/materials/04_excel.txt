@@ -1,0 +1,15 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/UberPricingIPO.xlsx
+
+Sheet: Sheet1
+Input these numbers on Lyft (to update the price)
+Lyft stock price = | 59.9
+Market Cap | Enterprise Value | Gross Billings | Net Revenues | EBIT | Riders | Drivers | Rides | Cities
+Lyft | 17125.41 | 14607.41 | 8054 | 2156 | -911 | 18.6 | 1.1 | 713.6 | 350
+Uber | NA | NA | 49799 | 10025 | -1847 | 91 | 3.9 | 5220 | 710
+Lyft Multiple | Uber EV (based on Lyft Pricing) | Uber Equity Value | Per Share Value
+EV/Gross Billing | 1.8136838837844549 | 90319.64372858207 | 107556.64372858207 | 91.53756913070815
+EV/Revenue | 6.775236549165121 | 67921.74640538034 | 85158.74640538034 | 72.47552885564285
+EV/Rider | 785.3446236559139 | 71466.36075268817 | 88703.36075268817 | 75.49222191718142
+EV/Driver | 13279.463636363635 | 51789.90818181817 | 69026.90818181817 | 58.74630483558993
+EV/Ride | 20.470025224215245 | 106853.53167040358 | 124090.53167040358 | 105.60896312374773
+EV/City | 41.73545714285714 | 29632.17457142857 | 46869.17457142857 | 39.88865920972644

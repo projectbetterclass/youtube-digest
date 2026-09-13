@@ -1,0 +1,170 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dividendrelative.pdf
+
+IN PRACTICE WEBCAST: DIVIDEND 
+POLICY – RELATIVE ANALYSIS
+Aswath Damodaran
+2
+Dividend Policy: The Me Too Approach
+¨ Just as many companies decide how much to borrow 
+by looking at what other companies are borrowing, 
+companies set dividend policies by looking at peer 
+group practice.
+¨ With dividends, this me-too-ism is reinforced by 
+investors who judge the quality of companies by 
+focusing primarily on their dividend yields, relative 
+to their peer group.
+¨ In some cases, analysts determine whether 
+companies are paying too much or too little in 
+dividends by comparing payout ratios.
+3
+Step 1: Define your peer group
+¨ Focus: In relative analysis, your focus is on finding what 
+similar companies carry as debt, and to make this 
+judgment, you have to define “similar” .
+¨ The Sector: For better or worse, in most cases, “similar” 
+is defined as other companies in the same sector as you 
+are.
+¨ The Geography:  To the extent that constraints on capital 
+access and tax treatment can vary across geographies, 
+”similar ” is often defined as companies in the same 
+geographical market.
+¨ Other criteria: If there are enough firms that make it 
+through the sector and geographic screens, you can add 
+other ones including company size and growth potential.
+4
+Hormel: Peer Group
+Publicly traded Package Food companies, US,  Net Income>0, Mkt Cap > $1 billion
+Quad County Corn Processors Cooperative (OTCPK:QCCP) Blue Buffalo Pet Products, Inc. (NasdaqGS:BUFF)
+The Kraft Heinz Company (NasdaqGS:KHC) Pilgrim's Pride Corporation (NasdaqGS:PPC)
+Mondelez International, Inc. (NasdaqGS:MDLZ) Post Holdings, Inc. (NYSE:POST)
+General Mills, Inc. (NYSE:GIS) Seaboard Corporation (AMEX:SEB)
+Tyson Foods, Inc. (NYSE:TSN) Flowers Foods, Inc. (NYSE:FLO)
+Kellogg Company (NYSE:K) The Hain Celestial Group, Inc. (NasdaqGS:HAIN)
+The Hershey Company (NYSE:HSY) Lancaster Colony Corporation (NasdaqGS:LANC)
+Hormel Foods Corporation (NYSE:HRL) Sanderson Farms, Inc. (NasdaqGS:SAFM)
+Conagra Brands, Inc. (NYSE:CAG) J&J Snack Foods Corp. (NasdaqGS:JJSF)
+The J. M. Smucker Company (NYSE:SJM) Tootsie Roll Industries, Inc. (NYSE:TR)
+Campbell Soup Company (NYSE:CPB) B&G Foods, Inc. (NYSE:BGS)
+McCormick & Company, Incorporated (NYSE:MKC) Calavo Growers, Inc. (NasdaqGS:CVGW)
+Lamb Weston Holdings, Inc. (NYSE:LW) Hostess Brands, Inc. (NasdaqCM:TWNK)
+Pinnacle Foods Inc. (NYSE:PF)
+5
+Step 2: Choose your dividend metric
+¨ Dividend Yield: Dividends/ Market Capitalization
+¤ Portion of expected return that comes from dividends
+¤ Used by value investors as a measure of dividend attractiveness 
+of a stock
+¨ Dividend Payout: Dividends/ Net Income
+¤ Measure of dividend sustainability
+¤ Works best when dividends are only cash return and firm is a 
+mature company
+¨ Augmented Dividend Payout: (Dividends + Buybacks)/ 
+FCFE
+¤ Aggregated Measure of Cash Return
+¤ Proxy for cash build up or draw down for company
+6
+Peer Group Dividend Metrics
+Company Name Dividend Yield
+Dividend Payout 
+Ratio Cash Return/ FCFE
+The Kraft Heinz Company (NasdaqGS:KHC) 0.00% 0.00% 0.00%
+Mondelez International, Inc. (NasdaqGS:MDLZ) 1.82% 41.00% 78.29%
+General Mills, Inc. (NYSE:GIS) 3.50% 70.22% 89.82%
+Tyson Foods, Inc. (NYSE:TSN) 1.25% 12.38% 9.74%
+Kellogg Company (NYSE:K) 3.06% 58.00% 48.12%
+The Hershey Company (NYSE:HSY) 0.00% 0.00% 0.00%
+Hormel Foods Corporation (NYSE:HRL) 1.90% 40.86% 38.20%
+Conagra Brands, Inc. (NYSE:CAG) 2.53% 51.94% 143.35%
+The J. M. Smucker Company (NYSE:SJM) 2.47% 27.60% 51.90%
+Campbell Soup Company (NYSE:CPB) 3.09% 40.70% 33.76%
+McCormick & Company, Incorporated (NYSE:MKC) 1.72% 49.77% 9.09%
+Lamb Weston Holdings, Inc. (NYSE:LW) 1.01% 25.68% 11.70%
+Pinnacle Foods Inc. (NYSE:PF) 1.94% 76.40% 147.21%
+Blue Buffalo Pet Products, Inc. (NasdaqGS:BUFF) 0.00% 0.00% 14.27%
+Pilgrim's Pride Corporation (NasdaqGS:PPC) 0.00% 0.00% 0.53%
+Post Holdings, Inc. (NYSE:POST) 0.00% 0.00% 6.66%
+Seaboard Corporation (AMEX:SEB) 0.12% 1.83% 0.73%
+Flowers Foods, Inc. (NYSE:FLO) 3.15% 93.94% 69.81%
+The Hain Celestial Group, Inc. (NasdaqGS:HAIN) 0.00% 0.00% 2.88%
+Lancaster Colony Corporation (NasdaqGS:LANC) 1.85% 52.16% 39.25%
+Sanderson Farms, Inc. (NasdaqGS:SAFM) 0.78% 8.47% 4.33%
+J&J Snack Foods Corp. (NasdaqGS:JJSF) 1.21% 30.81% 20.85%
+Tootsie Roll Industries, Inc. (NYSE:TR) 1.02% 33.73% 48.25%
+B&G Foods, Inc. (NYSE:BGS) 5.52% 119.29% 18.97%
+Calavo Growers, Inc. (NasdaqGS:CVGW) 1.01% 42.09% 20.00%
+Hostess Brands, Inc. (NasdaqCM:TWNK) 1.01% 66.33% NA
+7
+Step 3: Compare yourself to what is typical 
+for the sector
+¨ Average: The simple average across companies the 
+sector can be defined as ”typical” . It is simple and 
+intuitive, but it can also be skewed by outliers.
+¨ Median: When outliers are an issue, the middle of 
+the peer group or the median can be a better proxy 
+for “typical”.
+¨ Quartiles: More generally, you can compute ranges 
+based upon quartiles or deciles, especially if there is 
+a lot of variability across the sector .
+8
+Comparison to ”Typical”
+Looks like Hormel is pretty 
+close to industry averages on 
+every measure of dividend 
+policy.
+Yield Payout Cash Return/ 
+FCFE
+Hormel Foods Corporation 1.90% 40.86% 38.20%
+Average 1.56% 35.07% 36.31%
+Median 1.23% 37.22% 20.00%
+First Quartile 0.29% 3.49% 6.66%
+Third Quartile 2.33% 52.10% 48.25%
+9
+Step 4: Control for differences
+¨ If your company returns more or less cash than is “typical” for 
+the sector, the naïve conclusion that it is returning too much 
+or too little.
+¨ When you make that judgment, you are assuming that your 
+firm’s dividend fundamentals are similar to that of the typical 
+peer group company. These fundamentals include the items 
+in the dividend trade off:
+¤ Growth rate (Higher -:> Lower dividends)
+¤ Project Quality (Higher -> Lower dividends)
+¤ Capital Access (Higher -> Higher dividends)
+¤ Risk (Higher -> Lower dividends)
+¨ You can control for these differences subjectively or use 
+statistical tools (like regressions).
+10
+A Dividend Payout Regression
+¨ In this sector, the fundamentals don’t strongly 
+explain the differences in dividend behavior.  
+Focusing on dividend yield,
+¤ Dividend Yield= 0.0357 – 0.051 (Exp Growth in EPS) – .027 (Beta)
+(1.00) (2.73) R Squared = 19.1%
+¨ Plugging in Hormel’s numbers for EPS growth(9.00%) 
+and beta (0.41), here is what we get:
+¤ Dividend Yield= 0.0357 – 0.051 (.09) – .027 (0.41) = .02 or 
+2%
+¤ Hormel’s actual dividend yield of 1.90% would put it at 
+about where it should be.
+11
+Step 5: Expand your assessment
+¨ Since entire sectors can sometimes return too much 
+or too little cash , you may want to expand your 
+analysis by looking at a broader definition of sector, 
+either by going across geographies or by defining 
+your business more broadly.
+¨ You can even expand your assessment to the entire 
+market, and look at whether your company is 
+returning too much or too little, relative to the 
+market.
+12
+The Bottom Line
+¨ Your end game: When you make an assessment of 
+whether your firm is paying out too much or too 
+little, relative to a peer group, you are determining 
+whether your company has the right dividend policy, 
+relative to the companies in that group.
+¨ The twist: If your peer group is filled with companies 
+that pay too much in dividends, your company may 
+be returning less cash, relative to its sector, while 
+returning too much cash, given its fundamentals.

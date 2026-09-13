@@ -1,0 +1,190 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/LyftIPO.pdf
+
+LYFTING OFF? THE FIRST RIDE 
+SHARING IPO!
+Aswath Damodaran
+2
+The Opening Salvo
+¨ Last week, Lyft became the first of the ride sharing 
+companies to announce plans for an initial public 
+officering, filing its prospectus. 
+¨ It is definitely not going to be the last, but its fate in 
+the market will not only determine when Uber, Didi, 
+Ola and GrabTaxiwill test public markets, but what 
+prices they can hope to get.
+3
+I. The Rise of Ride Sharing
+¨ The most impressive statistic, for ride sharing 
+companies, is not just the growth in revenues, which has 
+been explosive, but also how much it has become part of 
+day-to-day life, not just for younger, more tech savvy 
+individuals but for everyone. 
+¨ While the growth was initially in the United States, ride 
+sharing has taken off at an exponential rate in Asia, with 
+India (Ola), China (Didi) and Malaysia (GrabTaxi) all 
+developing home grown ride sharing companies. 
+¨ The regulatory push back has been strong in Europe, 
+slowing growth, but there are signs that even there,ride 
+sharing is acquiring a foothold.
+4
+Reasons why..,.
+1. Status Quo stunk: The taxi business in the 2009 had changed little 
+in decades, refusing to incorporate advance in technology and 
+shifting tastes. 
+2. Regulatory arbitrage: In most cities, rules and regulations that 
+were throwbacks in time or lobbied for by special interests 
+handicapped taxi operators and gave ride sharing companies, not 
+bound by the same rules, a decisive advantage. 
+3. Excess Capacity: Automobiles are underutilized resources for the 
+most part, since most cars sit idle for much of the day, and ride 
+sharing companies took advantage of excess capacity, by letting 
+car owners monetize it. 
+4. Underpriced drivers: Individuals often under price their time and 
+do not factor in long term costs in their decision making and the 
+ride sharing companies have exploited that irrationality.
+5
+The Bad News
+¨ While revenues have come easily, the companies have 
+struggled with profitability, reporting huge losses as they 
+grow. 
+¤ Lyft reported losses of $911 million in 2018, in its prospectus, 
+but Uber's loss was $1.8 billion during 2018, Didi almost 
+matched that with a $1.6 billion loss and the only reason that 
+Ola and GrabTaxi lost less was because they were smaller . 
+¨ While some of this can be attributed to growing pains, 
+that will ease as these companies age and grow bigger, a 
+significant portion of the profitability shortfall can be 
+attributed to how these businesses are designed. The 
+low capital intensity and drivers as contractors model 
+made growth so easy but has made profitability difficult.
+6
+II. The Playing Field Today
+¨ I argued, with tongue only half in cheek, that one 
+possible model for the ride sharing companies to 
+develop sustainable businesses was the Mafia's mostly 
+successful attempt to stop intrafamily warfare in the 
+1930s by dividing up New York city among five families, 
+giving each family its own fiefdom to exploit. 
+¨ It is interesting that in the years since, Uber has 
+extricated itself from China, leaving that market to Didi, 
+in return for a 20% stake in the company and then from 
+South East Asia, in return for a share of GrabTaxi. 
+¨ In fact, the United States may be the most competitive 
+ride sharing market in the world, with Uber and Lyft 
+going head-to-head in most cities.
+7
+Uber versus Lyft
+Aswath Damodaran
+7
+¨ While Uber and Lyft are ride sharing companies, their 
+evolution over the last decade offers a fascinating 
+contrast in business models, for young companies. 
+¤ Uber was the "big story" company, telling investors that it 
+wanted to be in all things logistics, expanding into delivery and 
+moving, and all over the world. 
+¤ Lyft was the "focused story" company, setting itself apart from 
+Uber by keeping its business in the United States and staying 
+with car service, as its primary business. 
+¨ I argued in 2015, that given how the two companies 
+were priced, I would rather be an investor in Lyft than 
+Uber.
+8
+Since 2015…
+¨ While Uber's bigger story gained it a much higher 
+pricing from investors, it has also brought the 
+company a whole host of troubles, ranging from 
+being a target for regulators to management over 
+reach. 
+¨ Lyft has stayed true to its US and car service focus, 
+and it has paid off in a higher market share in the 
+market. 
+¨ Both companies have jumped on the bike and 
+scooter craze, with Uber buying Jump and Lime and 
+Lyft acquiring Motivate.
+9
+III. The Lyft Valuation - Story
+¨ It will stay a US transportation services company : The total market that I assume 
+for US transportation services is $120 billion at the moment, well over two and a 
+half times larger than the taxi cab market was in 2009. 
+¨ In a growing transportation services market : Ride sharing will continue to draw 
+new customers, from mass transit users to self-drivers, causing the 
+transportations services market to double over the next ten years.
+¨ With strong market-wide networking benefits : I see only two or three ride sharing 
+companies dominating the US ride sharing market, in steady state. In my story, I 
+see Lyft as one of the winners, with a 40% market share of the US transportation 
+services market.
+¨ A sustained share of Gross Billings : Lyft, in 2018, reported revenues of $2,156 
+million on gross billings of $8.054 million, working out to a 26.77% share. I will 
+assume that as Lyft continues to grow and offers new services, this number will 
+revert back to 20%.
+¨ And a shift to drivers as employees : As the number who work for ride sharing 
+companies rises into the millions, s tates are already starting to push back, and in 
+my view, it is only a matter of time before ride sharing companies are forced to 
+deal with drivers as employees, causing operating margins in steady state to drop 
+to 15%.
+10
+Loose Ends
+¨ Cost of capital: I will take a short cut and give Lyft the cost of capital of 
+9.97%, at the 75th percentile of all US companies at the start of 2019 , and  
+assume that this cost of capital will drift down towards the median of 
+8.24% for all US companies as Lyft becomes larger and profitable.
+¨ Sales to capital: I will assume revenues of $2.50 for every dollar of capital 
+invested, in keeping with what you would expect from a technology 
+company.
+¨ Failure rate: Given that Lyft continues to lose money, with no clear 
+pathway to generating profits, I will assume that there is a 10% chance 
+that Lyft will not survive as a going concern .
+¨ Share Count: Lyft posits that it will have 240.6 million shares outstanding, 
+including both the class A shares that will be offered to the public and the 
+class B shares, with higher voting rights, but I will count deep in the 
+money options and RSUs, to arrive at a total share count is 279.03 million .
+12
+IV . Lyft - Pricing
+¨ When the stock opens for trading on the offering day, it 
+is not value that will determine the opening bid, but 
+pricing. In the pricing game, investors look at what 
+others are paying for similar companies, scaling to some 
+common operating variable. With Lyft, investors will face 
+two challenges.
+¤ The first is that it is the first ride sharing company to list, and the 
+only pricing that we have for other ride sharing companies is 
+from venture capital rounds that are sometimes dated (from the 
+middle or early last year).
+¤ The second is that every company in the ride sharing business is 
+losing money and the book values have no substance.
+13
+But they will try anyway
+14
+Pricing Lyft
+15
+And there will be feedback..
+¨ I think of pricing as a ladder, where if you move one rung of 
+the ladder, all of the other rungs have to move as well. 
+¤ If investors price Lyft at $25 billion, about 12 times its revenue in 2018, 
+Uber will be quicker to go public and will expect markets to attach a 
+pricing in excess of $130 billion to it, given that its revenues were more 
+than $11 billion in 2018. 
+¤ If investors price Lyft at only $12 billion, Uber may be tempted to wait 
+to go public, and continue to tap into private investors, with the caveat 
+being that those investors will also lower their pricing estimates. 
+¨ The Asian ride sharing companies, where rider numbers are 
+high, relative to revenues, will try to market themselves on 
+rider numbers, though it is not clear that investors will buy 
+that pitch. 
+¨ The pricing ladder can lead prices up, but they can also lead 
+prices down, and timing is the name of the game.
+16
+The Waiting Game
+¨ While some of the uncertainties will not be resolved in 
+the near future, we will learn more specifics about the 
+offering itself, including the amount that Lyft plans to 
+raise on the offering day, over the next few weeks. 
+¨ Sometime soon, we will also get the a pricing of the 
+company from the bankers that have been given the task 
+of taking the company public. 
+¤ The bankers' job is to price the company for the IPO, not value it. 
+¤ Not only should any talk of value from them be discounted, but 
+if you do see a discounted cash flow valuation from a bank for 
+Lyft, you can almost bet that it will be a Kabuki valuation, where 
+they will go through the motions of estimating valuation inputs, 
+when the ending number has been pre -decided.

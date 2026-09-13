@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/dbtfundChina.xls
+
+[legacy .xls workbook: dbtfundChina.xls — see raw file]

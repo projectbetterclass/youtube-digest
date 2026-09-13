@@ -1,0 +1,86 @@
+Source: http://people.stern.nyu.edu/adamodar/pdfiles/cfexams/CfQuiz1aSpr19.pdf
+
+Spring 2019 Name: 
+ 1 
+Quiz 1: Corporate Finance 
+Answer all questions and show necessary work. Please be brief. This is an open books, 
+open notes exam.  
+1. Corporate Governance/Risk Basics section.  
+Each of the following multiple-choice questions is worth ½ point. Please pick 
+only one answer for each question. 
+a. In much of Asia and Latin America, companies that are parts of family groups 
+comprise a large percentage of publicly traded companies. From a corporate 
+governance standpoint, which of the following would concern you the most at 
+these companies? 
+i. They will not borrow enough money to fund operations 
+ii. They will be too aggressive, in seeking out growth and investments. 
+iii. They will make decisions that are in the best interests of the family 
+group, rather than in the best interests of the company 
+iv. They will make decisions that are in the best interests of the company, 
+rather than in the best interests of the family group. 
+v. They will pay out too much in dividends. 
+b. There is a heated debate about whether companies shou ld be banned from 
+buying back their own stock. Assuming that you want to restrict buybacks, 
+which of the following groups of companies would you target for the ban? 
+i. Over levered (too much debt) firms, with few good investment 
+opportunities. 
+ii. Under levered (too little debt)  firms, with few good investment 
+opportunities. 
+iii. Over levered (too much debt) firms, with many good investment 
+opportunities. 
+iv. Under levered (too little debt) firms, with many good investment 
+opportunities. 
+c. In an efficient market, assume that a firm that is perceived to have great 
+growth opportunities announces that it will start paying dividends for the 
+first time. What effect will this announcement have on stock prices? 
+i. To rise. 
+ii. To fall. 
+iii. To stay unchanged. 
+d. If you are a diversified investor in Facebook, which of the following types of 
+risk would you include in your discount rate? 
+i. The risk that new privacy laws will restrict data gathering and access 
+ii. The risk that users will find a different social media platform to spend 
+their time on. 
+iii. The risk that a global economic slowdown will affect how much 
+companies spend on advertising 
+iv. The risk that Mark Zuckerberg will stay on as CEO 
+v. The risk that Mark Zuckerberg will leave as CEO
+Spring 2019 Name: 
+ 2 
+2. Tirage Inc. is a US-based consumer product company that is considering 
+expanding into Southeast Asia, expecting to get 60% of its revenues in Thailand 
+and 40% in Vietnam. You have collected the following information on the two 
+countries: 
+  
+10-year Govt 
+Bond Rate (in 
+local currency) 
+Sovereign 
+CDS Spread 
+s (Equity)/ s (Govt 
+Bond) 
+Thailand 4.50% (Baht) 1.50% 1.5 
+Vietnam 8.50% (Dong) 4.50% 1.2 
+The US treasury bond rate is 3%, the US equity risk premium is 6% and Tirage 
+has a beta of 1.20. Estimate the cost of equity in US dollars that Tirage should 
+use for its Southeast Asian expansion.
+Spring 2019 Name: 
+ 3 
+3. You are trying to estimate the levered beta for Zulu Streaming, a niche movie 
+streaming business that focuses on just animated and children’s movies. It has 
+increasingly expanded its content arm, making original content for its streaming 
+subscribers, and its current business mix with estimated values in millions is 
+listed below:  
+  Estimated Value (in $ millions) Unlevered Beta 
+Movies (Content) 500 1.2 
+Streaming (Subscription) 1500 0.8 
+The company is trading at its fair value, has no cash and $800 million in debt 
+outstanding. The marginal tax rate is 25%. 
+a. Estimate the levered beta for the company.    (2 points)
+Spring 2019 Name: 
+ 4 
+b. Now assume that Zulu Streaming acquires an animated movie company to 
+augment its content business. If the acquisition was at fair value, and was funded 
+by issuing $100 million in new shares and $400 million in new debt, estimate the 
+new levered beta for Zulu Streaming, after the acquisition. (You can assume that 
+the animated movie company is in the content business).

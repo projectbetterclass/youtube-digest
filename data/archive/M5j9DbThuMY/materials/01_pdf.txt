@@ -1,0 +1,157 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/GameStop.pdf
+
+THE GAMESTOP FRENZY: 
+LESSONS AND CONSEQUENCES
+The Redditors’ Revenge on Hedge Funds
+2
+The Rest of the (Market) Story!
+¨The Big Story: The last few days have been filled with news stories of how 
+small investors, brought together on online forums, have not only pushed 
+up the stock prices of the stocks that they have targeted (GameStop, 
+AMC, BB etc.), but in the process, driven some of the hedge funds that 
+have sold short on these companies to edge of oblivion. 
+¨David vs Goliath?The story resonates because it has all ofthe elements of 
+a David versus Goliath battle, andgiven the low esteem that many hold
+Wall Street in, it has led to sideline cheerleading.  Aswith everything in 
+life, this story has also acquired political undertones, as populists on all 
+sides, have found a new cause. 
+¨My perspective: I don't have an axe to grind in this fight, since I don't own 
+GameStop or care much about hedge funds, but I am interested in how 
+this episode will affect overall markets and whether I need to change the 
+ways in which I invest and trade.
+3
+ShortSales:AQuickIntroduction
+¨The Long: When most of look at investing, we think of stocks 
+that we believe (based upon research, instinct or innuendo) 
+will go up in value and buying those stocks.
+¤In investing parlance, if you do this, you have a "long" position. 
+¨AndShortofit:But what if you think a stock is too highly 
+priced and is likely to go down? If you already own the stock, 
+you can sell it, but if you don't have a position in the stock 
+and want to monetize your pessimistic point of view, you can 
+borrow shares in the stock and sell them, with an obligation 
+to return the shares at a specified point in time in the future. 
+¤This is a “short” sale, and if you are right and the stock price drops, you 
+can buy the shares at the now "discounted" price, return them to the 
+original owner and keep the difference as your profit.
+4
+Short Sellers: A Much MalignedBreed!
+¨Short sellers have never been popular in markets, and that 
+dislike is widely spread, not just among small investors, but 
+also among corporate CEOs, and many institutional investors. 
+In fact, this dislike shows up not only in restrictions on short 
+selling in some markets, but outright bans in others, 
+especially during periods of turmoil. 
+¨I don't believe that there is anything inherently immoral 
+about being a pessimist on markets, and that short selling 
+serves a purpose in well-functioning markets, as a counter-
+balance to relentless and sometimes baseless optimism. 
+¨In fact, mathematically, all that you do in a short sale, relative 
+to a conventional investment, is reverse the sequence of your 
+actions, selling first and buying back later .
+5
+A Short Squeeze
+¨It is true that short sellers face a problem that their long 
+counterparts generally do not, and that is they have far less control 
+over their time horizons. 
+¨While you may be able to sell short on a very liquid, widely traded 
+stock for a longer period, on most stocks, your short sale comes 
+with a clock that is ticking from the moment you initiate your short 
+sale. 
+¤Short sellers often try to speed the process along, going public with their reasons 
+for why the stock is destined to fall, and they sometimes step over the line. 
+¤While short sellers wait for the correction, they face multiple threats, some coming 
+from shifts in fundamentals and some from investors with a contrary view on the 
+stock, buying the stock and pushing the stock price up. 
+¤There stock price increases force them to buy back shares in the market to cover 
+their short position, in the process pushing prices up. In a short squeeze, this cycle
+speeds up to the point that short sellers have no choice but to exit the position.
+6
+A Short History of Short Squeezes
+¨ Its not new: In 1862, Cornelius Vanderbilt squeezed out short sellers in Harlem 
+Railroad, and used his power to gain full control of the New York railroad business. 
+¨ And not just the US: The short sale with the largest dollar consequences was the 
+one on Volkswagen in 2008, when Porsche bought enough shares in Volkswagen 
+to squeeze short sellers in the stock, and briefly made Volkswagen the highest 
+market cap company in the world. 
+¨ With large players as squeezers: Until this decade, though, most short squeezes 
+were initiated and carried through by large investors on the other side of short 
+sellers, with enough resources to force capitulation. 
+¨ Until the last decade: The game has changed, and the company where this 
+changed dynamic has played out most effectively has been Tesla. In the last 
+decade, there have been at least three and perhaps as many as five short 
+squeezes on Tesla, with the most recent one occurring at the start of 2020. With 
+Tesla, in d ivid u al investors w h o love the company have been at the front lines in 
+squeezing short sellers, but they have had help from institutional investors, either 
+true believers in the company, or too greedy not to jump on the bandwagon.
+7
+The GameStop Story
+8
+The COVID Effect..
+9
+The Congregation of Short Sellers..
+10
+And the last two weeks…
+11
+A Value Play?
+12
+Price Justification!
+13
+And Back Story to the Redditor Pushback..
+¨A loss of faith in experts (economic, scientific, financial, government): 
+During the 20th century, advances in education and increasing 
+specialization created expert classes in almost every aspect of human 
+activity, who we trusted to take the right actions, and when they were 
+wrong, we were kept in thedark. That pact has been shattered by a 
+combination of arrogance on the part of experts and catastrophic policy 
+failures, with the 2008 banking crisis acting as a wake-up call. 
+¨Anunquestioning worship of crowd wisdom, combinedwith an 
+empowering of crowds: We have also seen the rise of big data and the 
+elevation of "crowd" judgments over expert opinions, and it shows up in 
+our life choices. Social media has made it easier to get crowd input 
+(online), and precipitate crowd actions.
+¨A conversion of disagreements in every arena into the personal and the 
+political: While we can continue to debate the reasons, it remains 
+inarguable that public discourse has coarsened, with the almost every 
+debate, no matter in what realm, becoming personal and political.
+14
+What’s the end game?
+¨ It is a good value: It is possible that you believe that the company is a good value, 
+and that you can hold on to it as an investment. That may be a viable path, if you 
+bought GameStop at $40 or $50, but I don’t see how this works if  you paid $200 
+or $300 a share
+¨ It is a good trade: It is more likely that you believe that you can sell the stock to 
+someone else at a higher price, but to whom? You may get lucky and be able to 
+exit before everyone else tries to, but the risk that you will be caught in a 
+stampede is high, as everyone tries to rush the exit doors at the same time.
+¨ It is to do damage to hedge funds: I don’t think much of hedge funds either, and 
+view most of them as fee-earning machines, run by managers who bring nothing 
+to the investment table. That said, driving a hedge fund or two out of business will 
+not do serious damage to that business, since others will quickly fill the void.
+¨ Itistohelp the targeted companies: How has any of what’s happened in the last 
+two weeks help these companies? Their stock prices may have soared, but their 
+financial positions are just as precarious as they were two weeks ago. In a 
+perverse way, you might have made it more difficult for GameStop and AMC to 
+find a pathway to survive as parts of larger companies, by pushing up stock prices, 
+and making them more expensive as targets
+15
+Market Lessons
+¨Flattening of the Investment World: I believe that the investment world 
+has flattened over the last few decades, as access to data and powerful 
+tools widens, and trading eases. Portfolio managers and market gurus are 
+no longer are the arbiters of whether markets are cheap or expensive, 
+and their path of least resistance might come from following what 
+individual investors do.
+¨Emptiness of Investment Expertise: Professional money management has 
+always sold its wares (mutual funds, hedge funds, investment advice) as 
+the products of deep thinking and serious analysis, and as long asthe 
+processes stayed opaque and information was scanty, they were able to 
+preserve the delusion. In the last few decades, as we have stripped away 
+the layers, we have discovered how little there is under the surface. 
+¨Value and Price: Almost everything that is being talked about (the rising 
+power of the individual investor, the ease of trading, social media 
+investing forums) are about price, not value. It does mean that increasing 
+access to data and easing trading may have the perverse effect of causing 
+price to vary more, relative to value, and for longer periods.
+16
+A Danger to the Market?

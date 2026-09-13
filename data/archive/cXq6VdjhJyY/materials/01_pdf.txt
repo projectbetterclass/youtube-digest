@@ -1,0 +1,171 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/KraftHeinz.pdf
+
+THE PERILS OF IDOLS WORSHIP: 
+THE KRAFT HEINZ LESSONS
+Aswath Damodaran
+2
+The Kraft Heinz Earnings Blow Up
+¨ On February 22, Kraft-Heinz shocked investors with a trifecta of bad news in its 
+earnings report: sub-par operating results, a mention of accounting irregularities 
+and a massive impairment of goodwill, and followed up by cutting dividends per 
+share almost 40%. Investors in the company reacted by selling their shares, 
+causing the stock price to drop more than 25% overnight. 
+¤ While Kraft is neither the first, nor will it be the last company, to have a bad quarter, its travails 
+are noteworthy for a simple reason. Significant portions of the stock were held by Berkshire 
+Hathaway (26.7%) and 3G Capital (29%), a Brazil-based private equity group. 
+¤ Berkshire Hathaway’s lead oracle is Warren Buffett, venerated by some who track his every 
+utterance, and try to imitate his actions. 3G Capital might not have Buffett’s name recognition, 
+but its lead players are viewed as ruthlessly efficient managers, capable of delivering large cost 
+cuts. 
+¨ In fact, their initial joint deal to bring together Heinz and Kraft, two of the biggest 
+names in the food business, was viewed as a master stroke, and given the 
+pedigree of the two investors, guaranteed to succeed. As the promised benefits 
+have failed to materialize, the investors who followed them into the deal seem to 
+view their failure as a betrayal.
+3
+The Back Story
+¨ Heinz, the older of the two companies, traces its history back to 
+1869, when Henry Heinz started packing and selling horseradish, 
+and after a brief bout of bankruptcy, turned to making 57 varieties 
+of ketchup. Heinz was acquired by Berkshire Hathaway and 3G 
+Capital for $23 billion, becoming a private company. 
+¨ Kraft started life as a cheese company in 1903, and over the next 
+century, it expanded first into other dairy products, and then 
+widened its repertoire to includes other processed foods. In 1981, 
+it merged with Dart Industries, maker of Duracell batteries and 
+Tupperware, before it was acquired by Philip Morris in 1988. After 
+a series of convulsions, where parts of it were sold and rest merged 
+with Nabisco, Kraft was spun off by Philip Morris (renamed Altria).
+¨ In 2015, the two companies were brought together, with Berkshire 
+Hathaway and 3G playing both match makers and deal funders, as 
+Kraft Heinz, and the merger was completed in July 2015.
+4
+The Post-Merger Numbers
+5
+The Earnings Shock
+¨ Flatlining Operartions: Revenues for 2018 were unchanged from 
+revenues in 2017, but operating income dipped (before impairment 
+charges) from $6.2 billion in 2017 to $5.8 billion in 2018; the 
+operating margin dropped from 23.5% in 2017 to 22% in 2018.
+¨ Accounting Irregularities : In a surprise, the company also 
+announced that it was under SEC investigation for accounting 
+irregularities in its procurement area, and took a charge of $25 
+million to reflect expected adjustments to its costs.
+¨ Goodwill Impairment : The company took a charge of $15.4 billion 
+for impairment of goodwill, primarily on their US Refrigerated and 
+Canadian Retail, an admission that they paid too much for 
+acquisitions in prior years.
+¨ Dividend Cuts : The company, a perennial big -dividend payer, cut its 
+dividend per share from $2.50 to $1.60, to prepare itself for what it 
+said would be a difficult 2019.
+6
+Why the surprise?
+¨ While investors were shocked, the crumb trail leading up 
+to this report contained key clues. Revenues had already 
+flattened out in 2017, relative to 2016, and the decline in 
+margins reflected difficulties that 3G faced in trying to 
+cut costs, after the deal was made. 
+¨ The only people who care about impairment charges, a 
+pointless and delayed admission of overpayment on 
+acquisitions, are those who use book value of equity as a 
+proxy for overall value. 
+¨ The dividend cuts were perhaps a surprise, but more in 
+what they say about how panicked management must 
+be about future operations, since a company this 
+attached to dividends cuts them only as a last resort.
+9
+The Action Follow up
+Aswath Damodaran
+9
+¨ If you owned Kraft Heinz prior to the earnings report (and I 
+thankfully did not), selling now will accomplish little. The 
+damage has been done already, and the stock as priced now, 
+is a fair value investment. I know that 3G sold almost one 
+quarter of its hold 3 days after Tuesday, but that may say 
+more about 3G than it does about Kraft Heinz.
+¨ If you don’t own Kraft Heinz, the valuation suggests that the 
+stock is fairly valued, at today’s price, but at a lower price, it 
+would be a good investment. I have a limit buy on the stock at 
+a $30 price, and if it does hit that price, I will be a Kraft Heinz 
+stockholder, notwithstanding the fact that I think its future 
+looks grim. If it does not drop that low, there are other fish to 
+catch and I will move on.
+10
+Lesson 1: It is human to err
+¨ At the risk of stating the obvious, Warren Buffett and 3G’s key 
+operators are human, and are prone to not only making mistakes, 
+like the rest of us, but also to have blind spots in investing that hurt 
+them. 
+¨ In fact, Buffett has been open about his mistakes , and how much 
+they have cost him and Berkshire Hathaway shareholders. He has 
+also been candid about his blind spots, which include an 
+unwillingness to invest in businesses that he does not understand, 
+a sphere that only grows as he gets older and the economy 
+changes, and an excessive trust in the managers of the companies 
+that he invests in. 
+¨ The fault, in my view, is not with Buffett, but with the legions of 
+investors, analysts and journalists who treat him as an investment 
+deity, quoting his words as gospel and tarring and feathering 
+anyone who dares to question them.
+11
+Lesson 2: Stocks are not bonds…
+¨ One reason that stocks like Kraft Heinz become attractive conservative 
+value investors is because they offer high dividend yields, often much 
+higher than what you could earn investing in treasury or even safe 
+corporate bonds. In effect, the rationale that investors use is that by 
+buying these shares, they are in effect getting a bond (with the dividends 
+replacing coupons), with price appreciation. 
+¨ The underlying premise is that investors can count more on dividends 
+than on buybacks. While it is true that dividends are stickier than 
+buybacks, these dividend -based strategies become delusional when they 
+treat dividends as obligated payments, rather than expected ones. 
+¨ Much as companies do not like to cut dividends, they are not 
+contractually obligated to pay dividends. In fact, when a stock carries a 
+dividend yield that looks too good to be true, it is usually almost always 
+an unsustainable dividends.
+12
+Lesson 3: Brand Names last a long time, 
+but not forever ..
+¨ A major lodestone of conventional value investing is that 
+while technology, cost efficiencies and new products are 
+all competitive advantages that can generate value, it is 
+brand name that is the moat that has the most staying 
+power . 
+¨ Again, that statement reflects a truth, which is that 
+brand names last long, often stretching over decades, 
+but even brand name benefits fade, as customers change 
+and companies seek to become global. 
+¨ The troubles at Kraft-Heinz are part of a much bigger 
+story, where some of the most recognized and valued 
+brand names of the twentieth century, from Coca Cola to 
+McDonalds, are finding that their magic fading.
+13
+Lesson 4: Cost cutting can take you far, but 
+no further ..
+¨ For the last few decades, we have cut a great deal of 
+slack for those who use cost cutting as their pathway for 
+creating value, with many leveraged buyouts and 
+restructurings built almost entirely on its promise. 
+¨ In firms with significant cost inefficiencies and bloat, cost 
+cutting can deliver significant gains in profits, but even 
+with these firms, those gains will be time limited, since 
+there is only so much fat to cut out. 
+¨ Worse, there are firms that find themselves in trouble 
+for a myriad of reasons that have little to do with cost 
+inefficiencies and cutting costs as these firms is a recipe 
+for disaster.
+14
+The Final Lesson
+¨ I admire Buffett’s adherence to a core philosophy and his 
+willingness to be open about his mistakes, but I think he 
+is ill served by his devotees, who insist on putting him on 
+a pedestal and refuse to accept the reality that his 
+philosophy has its limits, that like the rest of us, he has 
+an ego and makes mistakes. 
+¤ If you have faith in value investing, you should be willing to have 
+that faith tested by the mistakes that you and the people you 
+admire make in its pursuit. 
+¤ If your investment views are dogma, and you believe that your 
+path is only the correct one to success, I wish you the best, but 
+righteousness and rigidity have never delivered positive 
+investing payoffs.

@@ -1,0 +1,96 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/CashBurn.pdf
+
+THE	BONFIRE	OF	VC:	CASH	BURN,	
+THE	GOOD,	THE	BAD	&	THE	UGLY
+Burn,	baby,	burn!
+2
+Start	with	cash	flow
+3
+The	basis	for	cash	burn
+4
+Cash	Burn	Measures
+¨ Cash	Burn:	This	is	a	measure	of	cash	that	a	company	
+burns	through,	stated	as	a	function	of	time.	Thus,	a	
+company	that	starts	the	year	with	a	cash	balance	of	
+$	1	billion	and	ends	with	a	cash	balance	of	$400	
+million,	has	a	cash	burn	of	$50	million	a	month	
+(assuming	that	it	raised	no	new	capital	during	the	
+period).
+¨ Cash	Runway:	This	is	the	amount	of	time	that	a	
+company	has	before	it	runs	out	of	cash,	given	its	
+current	cash	balance	and	its	cash	burn.
+5
+Cash	Burn:	The	Why?
+6
+Cash	Burn:	What	next?
+¨ If	cash	burn	is	a	feature	of	young	companies,	not	a	
+bug,	you	may	be	tempted	to	not	just	ignore	it	but	
+wear	it	as	a	badge	of	honor.
+¨ That	would	be	dangerous,	since	cash	burn	can	be	
+benign	in	some	young	companies	and	malignant	in	
+others.
+7
+The	Benign	Scenario
+8
+The	Malignant	Scenario
+9
+Cash	Burn:	So	what?
+¨ Dilution	Effect:	A	company	has	to	raise	cash	to	burn	through	it	and	
+if	that	cash	is	raised	from	fresh	equity,	as	it	inevitably	has	to	be	for	
+young	growth	companies,	the	existing	owners	of	the	business	will	
+have	to	give	up	some	of	their	ownership	of	the	company.	
+¨ The	Capital	Markets	Effect :	A	company	that	is	burning	through	cash	
+is	far	more	dependent	on	capital	markets	staying	open	and	
+accessible.	If	capital	dries	up,	two	effects	can	unfold:	
+¤ Growth	Effect:	The	best	case	scenario	for	the	 firm	is	that	it	is	able	to	rein	in	
+discretionary	spending	 until	capital	becomes	available	again.	In	the	
+meantime,	though,	the	company	will	have	to	scale	back	its	growth	plans.
+¤ Distress	Effect:	The	more	dangerous	consequence	of	capital	drying	up	for	a	
+young	firm	with	negative	free	cash	flows	Is	that	the	firm’s	survival	is	put	at	
+risk.
+10
+The	Intrinsic	Value	Response
+¨ The	dilution	effect	manifests	itself	as	negative	cash	
+flows	in	the	early	years	and	a	drop	in	the	present	
+value	of	cash	flows.	
+¨ To	capture	the	capital	market	effect,	you	can	adjust	
+the	valuation	in	two	ways.	
+¤ The	first	is	by	putting	a	cap	on	how	much	new	capital	the	
+firm	can	raise	each	year,	which	will	also	operate	as	a	
+constraint	on	future	growth.	
+¤ The	other	is	by	allowing	for	a	probability	that	the	firm	will	
+fail,	either	because	capital	markets	shut	down	or	cash	
+flows	are	more	negative	than	expected.
+11
+The	Cash	Burn	Effect	at	Uber
+12
+The	Pricing	Response
+13
+Investor	Checklist
+¨ Understand	why	the	company	is	burning	through	cash:	The	most	benign	scenario	is	one	where	a	
+money	making	company	reports	negative	cash	flows	because	of	large	reinvestment.	The	most	
+dangerous	combination	is	a	money	losing	company	that	reinvests	very	little,	since	there	is	little	
+potential	for	a	growth	payoff	and	management	will	be	helpless	if	capital	freezes	up.
+¨ Diagnose	the	operating	business:	The	most	benign	scenario	is	one	where	the	company	has	
+significant	pricing	power	and	a	cost	structure	that	benefits	from	scale.
+¨ Gauge	management	skills:	 The	best	case	scenario	for	investors	is	that	the	company	is	run	by	a	
+management	team	that	works	within	the	cash	flow	constraints	of	today	while	mapping	out	
+pathways	to	profitability	over	time.	The	worst	case	scenario	is	that	the	company	is	managed	by	
+those	who	view	negative	cash	flows	as	a	badge	of	honor	and	a	sign	of	growth	rather	than	a	
+temporary	problem	to	overcome.
+¨ Growth/Reinvestment	trade	off:	In	its	most	value-creating	form,	reinvestment	will	generate	high	
+growth	coupled	with	high	returns	and	its	most	value-destructive	form,	reinvestment	will	drain	cash	
+flows	while	generating	low	growth	and	poor	profits.
+¨ Capital	Market A	firm	with	a	cash	burn	problem	is	more	depending	upon	capital	markets	for	its	
+survival,	since	a	closing	of	these	markets	may	be	sufficient	to	put	the	firm	into	receivership.
+14
+The	Bottom	Line
+¨ To	value	investors	who	view	cash	burn	as	an	
+automatic	sign	of	a	death	spiral.	Chill!	It	is	more	an	
+indication	of	where	a	company	is	in	its	life	cycle	than	
+a	sign	of	company	quality.
+¨ To	VCs	and	founders	who	present	cash	burn	as	not	
+just	a	natural	phenomenon	but	a	sign	of	good	things	
+to	come.	Stop!	A	company	that	is	run	to	maximize	
+cash	burn	will	accomplish	that	objective	just	before	
+it	runs	into	the	ground.

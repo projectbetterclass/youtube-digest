@@ -1,0 +1,211 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/Slides/Session5A.pdf
+
+SESSION 5A: DATA 
+RELATIONSHIPS IN FINANCE
+Session 5
+Correlations, Covariances and Regressions
+2
+Macro and Micro Questions
+¨Micro versus Macro: In finance, we look for relationships 
+between both macro variables (interest rates and 
+inflation, for exam), as well as micro variables (a 
+company’s profit margins and its revenue growth).
+¨Motives: You can look at the relationship between 
+variables both for understanding and for forecasting.
+¤For analysis: We look at the relationship between two or more 
+variables to get an understanding of why they move (or don’t 
+move) together, with the hope that this understanding will lead 
+to better policy:
+¤For prediction: We also look at relationships between two or 
+more variables to make better forecasts of one of the variables 
+for the future, in the hope of acting on those forecasts.
+3
+How risky is a stock?
+¨The Capital Asset Pricing Model (CAPM) is one of 
+finance’s most common used and misused models to 
+estimate expected return on risky investments. In the 
+CAPM, 
+¤The risk of an investment is the risk added to the market 
+portfolio, which is a diversified portfolio of all risky, traded 
+assets.
+¤To measure that risk, you have tolook at how the investment 
+moves with the market portfolio, with investments that move 
+more being more risky.
+¨The tool that is used to measure this co-movement is a 
+regression, with past returns on the investment 
+regressed against past returns on a market index.
+4
+1. A Scatter Plot & Best Fit Line: Disney versus 
+S&P 500
+Return on Disney = .0071 + 1.2517 Return on Market
+R² = 0.73386
+-25.00%
+-20.00%
+-15.00%
+-10.00%
+-5.00%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+-20.00% -15.00% -10.00% -5.00% 0.00% 5.00% 10.00% 15.00%
+Disney
+S&P 500
+5
+Correlation and Covariance
+¨The correlation coefficient between Disney and S&P 500 returns is 
+captured (in a correlation matrix):
+¨The covariance is the non-standardized measure of this co-movement, 
+and it is captured in the table below:
+6
+Reading a Regression
+A function of 
+sample size & 
+number of 
+independent 
+variables. 
+A test of 
+autocorrelation in 
+residuals
+<2 Positive
+2-4 Negative
+Measures 
+whether 
+independent 
+variables are 
+adding 
+predictive value 
+The t statistic and p value measure 
+whether the specific independent variable 
+adds predictive value in regression.
+The lower (LCL) and upper (UCL) ends 
+of the range are computed by subtracting 
+or adding two standard errors to 
+coefficient.
+SS is the squared 
+error explained 
+(regression) and 
+unexplained 
+(residual). MS is SS 
+dividend by the 
+degrees of freedom.
+7
+2. A Time Series Example: Earnings to Price 
+ratios and Interest Rates
+Aswath Damodaran
+7
+0.00%
+2.00%
+4.00%
+6.00%
+8.00%
+10.00%
+12.00%
+14.00%
+16.00%
+1960
+1962
+1964
+1966
+1968
+1970
+1972
+1974
+1976
+1978
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+Earnings to Price Ratio and Interest Rates
+Earnings Y ield T.Bill Rate T.Bond Rate
+8
+Covariances and Correlations
+Covariances
+Correlations (Pearson)
+9
+A Scatter Plot of earnings yield on T. B o n d
+rate, with a best-fit line..
+10
+Regression and Prediction
+If the T.Bondrate right now is 2%, the predicted Earnings yield is:
+Predicted E/P = 3.457% + .530 (2%) = 4.517%
+The actual E/P ratio on January 1, 2021was 3.68%, making stocks over valued.
+11
+Regression Diagnostics
+12
+3. A Cross-sectional Example: European 
+Banks in 2013
+Name Bloomberg symbol PBV Ratio Return on Equity Standard Deviation
+BAYERISCHE HYPO-UND VEREINSB HVM GR Equity     0.80 -1.66% 49.06%
+COMMERZBANK AG CBK GR Equity     1.09 -6.72% 36.21%
+DEUTSCHE BANK AG -REG DBK GR Equity     1.23 1.32% 35.79%
+BANCA INTESA SPA BIN IM Equity     1.66 1.56% 34.14%
+BNP PARIBAS BNP FP Equity     1.72 12.46% 31.03%
+BANCO SANTANDER CENTRAL HISP SAN SM Equity     1.86 11.06% 28.36%
+SANPAOLO IMI SPA SPI IM Equity     1.96 8.55% 26.64%
+BANCO BILBAO VIZCAYA ARGENTA BBVA SM Equity     1.98 11.17% 18.62%
+SOCIETE GENERALE GLE FP Equity     2.04 9.71% 22.55%
+ROYAL BANK OF SCOTLAND GROUPRBS LN Equity     2.09 20.22% 18.35%
+HBOS PLC HBOS LN Equity     2.15 22.45% 21.95%
+BARCLAYS PLC BARC LN Equity     2.23 21.16% 20.73%
+UNICREDITO ITALIANO SPA UC IM Equity     2.30 14.86% 13.79%
+KREDIETBANK SA LUXEMBOURGEOIKBL LX Equity     2.46 17.74% 12.38%
+ERSTE BANK DER OESTER SPARK EBS AV Equity     2.53 10.28% 21.91%
+STANDARD CHARTERED PLC STAN LN Equity     2.59 20.18% 19.93%
+HSBC HOLDINGS PLC HSBA LN Equity     2.94 18.50% 19.66%
+LLOYDS TSB GROUP PLC LLOY LN Equity     3.33 32.84% 18.66%
+13
+Three-dimensional scatter plot
+14
+Correlation Matrix
+¨You can compute correlations across pairs of variables for as 
+many variables as you want, with the caveat that the number 
+of correlations you have tocompute will increase at a much 
+faster rate than the number of independent variables.
+¨The pair-wise correlations computed can be read the same 
+way as simple correlations, ranging between + 1 and -1.
+15
+Multiple Regressions
+16
+Predictions and Residuals
+PBV Ratio Predicted PBV Residual
+HVM GR Equity     0.79859 0.89324 -0.09465
+CBK GR Equity     1.08757 1.05332 0.03425
+DBK GR Equity     1.231 1.3566 -0.1256
+BIN IM Equity     1.6605 1.40925 0.25125
+BNP FP Equity     1.72301 1.88816 -0.16515
+SAN SM Equity     1.85809 1.9088 -0.05071
+SPI IM Equity     1.9612 1.86377 0.09743
+BBVA SM Equity     1.97547 2.17367 -0.1982
+GLE FP Equity     2.04314 2.01556 0.02758
+RBS LN Equity     2.09153 2.50928 -0.41775
+HBOS LN Equity     2.15222 2.4941 -0.34188
+BARC LN Equity     2.23284 2.47984 -0.247
+UC IM Equity     2.29741 2.43677 -0.13936
+KBL LX Equity     2.45553 2.57913 -0.12361
+EBS AV Equity     2.52774 2.05321 0.47453
+STAN LN Equity     2.5889 2.46551 0.12339
+HSBA LN Equity     2.94003 2.41157 0.52846
+LLOY LN Equity     3.32586 2.95884 0.36703
+17
+Residual Chart for European Banks

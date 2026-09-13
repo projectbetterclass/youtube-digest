@@ -1,0 +1,149 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/SpotifyLooseEnds.pdf
+
+SPOTIFY LOOSE ENDS: PRICING, 
+SUBSCRIBER-BASED VALUE AND 
+BIG DATA!
+Aswath Damodaran
+2
+Loose Ends
+Aswath 
+Damodaran
+2
+¨ In my last post, I valued Spotify, using information 
+from its prospectus, and promised to come back to 
+cover three loose ends, 
+¤ A pricing of the company to contrast with my intrinsic 
+valuation
+¤ A valuation of a Spotify subscriber and by extension a user-
+based valuation of the company
+¤ The value of big data, seen through the prism of what 
+Spotify can learn about its subscribers from their use of its 
+service and put to commercial use.
+3
+1. Pricing versus Value
+Aswath 
+Damodaran
+3
+¨ The value of an asset is determined by its expected cash 
+flows and the risk in these cash flows, which you can 
+estimate imprecisely using a discounted cash flow 
+model. 
+¨ The price of an asset is based on what others are paying 
+for similar assets, requiring judgments on what 
+comprises "similar". 
+¨ My last post reflected my attempt to attach an intrinsic 
+value to Spotify, but the pricing questions for Spotify are 
+two fold: 
+¤ the companies that investors in the market will compare it, to 
+make a pricing judgment
+¤ the metric that they will base the pricing on.
+4
+One-on-One Pricing: Raw Data
+Enterprise Value 
+(millions US $)
+# Users 
+(millions)
+# Premium 
+Subscribers 
+(millions)
+Revenues 
+(millions $) % from Ads
+Gross Profit 
+(millions $)
+Pandora $                    1,135 74.70 5.50 $        1,467 73.28% $          500 
+Netflix $                137,462 118.00 118.00 $      11,693 0% $       4,033 
+Spotify 159.00 71.00 $        5,049 10.17% $       1,048
+5
+Pricing Spotify
+Aswath 
+Damodaran
+5
+Pricing Multiple Pricing Spotify
+EV/ User EV/ Revenue
+EV/ Gross 
+Profit Users Revenues Gross Profit
+Pandora 15.19 0.77 2.27 $        2,416 $       3,906 $       2,379 
+Netflix 1164.93 11.76 34.08 $    185,224 $     59,356 $     35,720
+6
+What’s your price?
+Aswath Damodaran
+6
+¨ Those who are bullish on the company will try to avoid 
+comparisons to Pandora and encourage comparisons to 
+Netflix. 
+¨ If, as is rumored, Spotify's equity is priced at between 
+$20 and $25 billion, it will look massively over priced, if 
+compared to Pandora, but be a bargain, relative to 
+Netflix. 
+¨ The bottom line is that the pricing range for Spotify is 
+wide, because it depends on the company you compare 
+it to, and the metric you base the pricing on.
+7
+A Subscriber-based Valuation of Spotify
+Aswath Damodaran
+7
+¨ Last year, I did a user-based valuation of Uber and 
+used it to understand the dynamics that determine 
+user value and then to value Amazon Prime. 
+¨ That framework can be easily adapted to value 
+Spotify subscribers, both existing and new.It 
+requires that we break Spotify down into its 
+constituent parts and value each separately.
+8
+Valuing Existing Subscribers
+9
+Valuing New Subscribers
+10
+Valuing Advertising Business
+11
+Valuing the Corporate Drag
+12
+Valuing Spotify: Subscriber-based Model
+13
+Top Down versus Subscriber based Models
+¨ Tax Loss Carryforward: The first is that I did not incorporate the 
+benefits of the losses that Spotify has to carry forward 
+(approximately $1.7 billion), with the resulting tax benefit at a 25% 
+tax rate resulting in about $300 million in lost value. 
+¨ One cost of capital: The second reason is that I used a composite 
+cost of capital of 9.24% on all cash flows, whereas I used a lower 
+(8.5%) cost of capital for existing users and a higher (10% cost of 
+capital) for new users; that translates into about $600 million in 
+value. 
+¨ Growth in Users: The third reason is that I assumed that composite 
+cash flows for Spotify would grow at 2.85% a year forever, while I 
+capped the growth rate in new users to 1%, a more realistic 
+number since inflation cannot help me on user count; using a 
+2.85% growth rate in the number of users after year 10 adds $2.1 
+billion in value.
+14
+3. The Big Data Premium?
+¨ Spotify meets some of the requirements for a big data 
+payoff, listed in this post from a while back. 
+¤ It has exclusivity at least on the information it collects on 
+playlists that subscribers put together and the music that they 
+enjoy listening to 
+¤ It can adapt its products and services to take advantage of this 
+knowledge, perhaps in helping artists create new content and 
+customizing its offerings.
+¨ It seems undeniable that it is generating value from the 
+data. The question, though, is whether you should add a 
+premium to your valuation to reflect this.
+15
+Why I am not adding a premium!
+¨ It is counted in the valuations already: I allow Spotify to grow revenues 
+well beyond what the current music market would support and lower 
+content costs as they do so, because they have a data advantage. Adding 
+a premium to my estimated valued seems like double counting.
+¨ Decreasing Marginal Benefits: The big data argument, even if based on 
+exclusivity and adaptive behavior, starts to lose its power as more and 
+more companies exploit it. As Facebook, Amazon and Netflix, to name just 
+three, have learned so much about us, there is not much left of us that is 
+undiscovered.
+¨ Data Backlash: This week, we did see perhaps the beginnings of a 
+reassessment of where this has led us, with the savaging of Facebook in 
+the market. There may be some buyer's remorse that some of us are 
+feeling. If that translates into much stricter regulations on data gathering 
+and a reluctance to share private data, it would be bad news for Spotify, 
+but it would be worse news for Google, Facebook, Netflix and Amazon. 
+Time will tell!

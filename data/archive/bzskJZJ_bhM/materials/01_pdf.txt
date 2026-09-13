@@ -1,0 +1,249 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/TeachingSpr19.pdf
+
+A TEACHING MANIFESTO: IT’S 
+TIME FOR CLASS!
+Aswath Damodaran
+2
+Moments of Grace
+¨ I am convinced that each of us is granted moments of 
+grace, where, if we are open to learning, we find out 
+what we are meant to do with our lives. 
+¨ For me, one of those moments occurred in the second 
+year of my MBA program at UCLA, when, cash poor, I 
+decided to be a teaching assistant and the day that I 
+walked in to teach my first session, I knew that I had 
+found my calling. I was going to be a teacher, though I 
+was not sure what I would be teaching or to whom. 
+¨ As fate would have it, I found myself fascinated by 
+finance, and with a PhD under my belt, I ended up as a 
+professor at NYU's business school. 
+¨ I am a teacher, not a professor, researcher or academic.
+3
+Back from a long break..
+¨ A long break: I have had a break of almost a year and a half 
+from my teaching.  During that period, I continued to teach 
+my short-term (2 to 3 day) classes in different parts of the 
+globe, and while I have enjoyed these classes immensely, I 
+have missed my regular classroom. 
+¨ New semester: I have  three new classes, a corporate finance 
+class that I teach, primarily to first year MBAs, a valuation 
+class, an elective for mostly second year MBAs and another 
+valuation class for undergraduates in their sophomore, junior 
+and senior years. 
+¨ Not a Stern student: If you are not at Stern, you will not be 
+able to sit in the class physically but through the wonders of 
+technology, you can still sit on these classes. With no further 
+ado, let me describe them..
+4
+Corporate Finance
+¨ If there is one class in finance that everyone, no 
+matter what your path in life may be, should take, it 
+is corporate finance. 
+¨ Corporate finance is about the first principles that 
+govern how a business should be run and its reach is 
+complete. E
+¨ very decision that a firm makes is ultimately a 
+corporate finance decision, no matter which 
+functional area (marketing, production, personnel) it 
+originates from and that is the perspective I take in 
+the class.
+5
+Corporate Finance: The Big Picture
+The Investment Decision
+Invest in assets that earn a 
+return greater than the 
+minimum acceptable hurdle 
+rate
+The Financing Decision
+Find the right kind of debt 
+for your ﬁrm and the right 
+mix of debt and equity to 
+fund your operations 
+The Dividend Decision
+If you cannot ﬁnd investments 
+that make your minimum 
+acceptable rate, return the cash 
+to owners of your business
+The hurdle rate 
+should reﬂect the 
+riskiness of the 
+investment and the 
+mix of debt and 
+equity used to fund 
+it.
+Chapters 3,4
+The return  
+should relfect the 
+magnitude and 
+the timing of the 
+cashﬂows as welll 
+as all side effects.
+Chapters 5,6
+The right kind 
+of debt 
+matches the 
+tenor of your 
+assets
+Chapter 9
+How much 
+cash you can 
+return 
+depends upon 
+current  & 
+potential 
+investment 
+opportunities
+Chapter 10
+How you choose 
+to return cash to 
+the owners will 
+depend whether 
+they prefer 
+dividends or 
+buybacks
+Chapter 11
+Maximize the value of the business (ﬁrm): Chapter 2 & 12
+The optimal 
+mix of debt 
+and equity 
+maximizes ﬁrm 
+value
+Chapters 7,8
+Session 2-4, 24-25
+Sessions 5-12
+Sessions 13-15 Sessions 16-19 Session 20
+Session 21 Sessions 22-23
+6
+Taking the class?
+¨ In person: The class meets every Monday and Wednesday during this 
+period (barring the break week of May 16-23) and the syllabus for the 
+class can be foundat this link. 
+¨ Online: To follow along with the webcasts (each about 80 minutes 
+long), you can also access the slides that I use for each class, as well as 
+additional material. Finally, I demand a great deal of my class (weekly 
+puzzles, add on videos, exams and a project) and if you want, you can also 
+do the puzzles, take the exams anddo the project, though you will have to 
+grade yourself (with a template that I will put online). 
+¨ Two other options: 
+¤ YouTube playlist: https://www.youtube.com/playlist?list=PLUkh9m2Borqne -
+Uz_yTAr4FbdZu6qKn0q
+¤ iTunes U class: https://itunes.apple.com/us/course/id1448327448
+¨ Free, but..: The good news is that it will cost you but the bad news is that 
+you will not get any official certification, if that is what you are looking for.
+7
+Valuation
+Aswath Damodaran
+7
+Value Enhacement
+- Management
+- Activist Investors
+Acquisitions
+- Synergy
+- Control
+Every asset has a value. We just have to ﬁnd it.
+Perspectives on value
+Changing Value
+Ways of Applying Value
+Ways of thinking about/estimating value
+Intrinsic Value
+The value of an asset is the 
+present value of the expected 
+cashﬂows
+Relative Value/ Pricing
+The value of an asset is what 
+others are willing to pay for it (or 
+something like it)
+Contingent Value
+The value of an asset may be 
+contingent on what happens to 
+other assets
+Valuing publicly traded 
+ﬁrms
+- Small vs Large
+- Developed vs Emerging
+- Manufacturing vs 
+Technology
+And private 
+businesses
+- For owners
+- And investors
+(private equity, 
+venture  capital, IPO)
+Across the life cycle
+- Young ﬁrms
+-  IPOs
+- Mature ﬁrms
+- Declining ﬁrms
+In sickness and in 
+health
+- Survival Risk
+- Distress Risk
+- Nationalization Risk
+Investors
+- Small vs Large
+- Short term vs Long term
+- Individual vs Instiutional
+- Insider vs Outsider
+Analysts
+- Buy Side vs Sell Side
+Accountants
+Regulators/ Government
+8
+Taking the class
+Webcast 
+page YouTube PlaylistiTunes U class Starts Ends
+MBA Valuation Link Link Link 4-Feb-19
+13-May-
+19
+Undergraduate 
+Valuation Link Link Link 28-Jan-19
+13-May-
+19
+9
+Valuation of the week
+¨ My try: With both versions of the valuation class, I will also be 
+posting what I call my valuation of the week, a company that I 
+will value, with links to the excel spreadsheet and the story 
+behind the value. 
+¨ Your try: I encourage you, if you are taking the class (officially 
+or unofficially) to take my valuation and make it their own, 
+changing the story and the inputs, and then recording their 
+valuations in a shared Google spreadsheet. 
+¨ Crowd valuations: In a world where crowds decide what 
+movies are successes (Rotten Tomatoes) and which 
+restaurants we eat at (Yelp reviews), this is my version of 
+crowd valuations. It is an optional exercise, but the more 
+people who participate, the more fun we can have.
+10
+Other Options
+11
+Other Options
+¨ If time is your constraint: The webcasts for the class will stay 
+on for at least another year after the class ends.
+¨ If format is your concern: I have created online versions of 
+both classes (plus a third one on investment philosophies), 
+where I have compressed my 80 minute sessions into 12-15 
+minutes each. As with the regular classes, these are still free, 
+still come with slides and post class quizzes but offer no 
+official certification.
+¨ If you want accreditation: I do not have the bandwidth or the 
+authority to hand out accreditation or certificates. With the 
+help of NYU, by creating certificate versions of the online 
+classes (with shorter duration videos). It has more polished 
+content, has more touch and offers certification, but it will 
+cost you!
+12
+Final Thoughts
+¨ I know that there are some who say that those who 
+cannot do, teach, and I have been told that (or variants 
+of it) multiple times. I don't mind the insult, since I have 
+a thick skin, and I know that there is nothing else in the 
+world I would rather do than teach. 
+¨ I answer to no one (other than my wife), pick when I 
+work (for the most part), get to chance to change how 
+people think and make a decent living, doing so. 
+¨ If you desire to manage other people's money, be an 
+equity research analyst or investment banker or start 
+and run your own company, I wish you the very best, but 
+I know what I love doing, and I would be foolish to trade 
+it in for more money or prestige. Life is too short!

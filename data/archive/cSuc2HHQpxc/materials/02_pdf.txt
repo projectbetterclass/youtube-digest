@@ -1,0 +1,45 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session3test.pdf
+
+Session	3:	Post	Class	tests	
+1. In	conventional	(as	opposed	to	fair	value)	accounting,	which	of	the	following	
+best	describes	how	fixed	assets	are	recorded?	
+a. At	original	cost	
+b. At	current	market	value	
+c. At	original	cost,	adjusted	for	loss	is	value	from	aging	of	the	asset	
+(estimated	with	depreciation)	
+d. At	original	cost,	adjusted	for	loss	is	value	from	aging	of	the	asset	
+(estimated	with	depreciation),	as	well	as	for	inflation.	
+e. None	of	the	above	
+2. When	a	company	owns	10%	of	another	company	for	a	strategic/business	
+reason,	how	is	that	investment	recorded	on	the	balance	sheet?	
+a. At	original	cost	for	the	10%	holding	
+b. At	book	value	for	the	10%	holding	
+c. At	market	value	for	the	10%	holding	
+d. At	liquidation	value	for	the	10%	holding	
+e. At	book	value	for	a	100%	holding	on	assets,	with	a	liability	(minority	
+interests)	shown	for	the	90%	that	does	not	belong	to	the	company.	
+How	would	your	answer	change	if	the	investment	is	held	for	trading	reasons?	
+3. When	a	company	owns	60%	of	another	company	for	a	strategic/business	
+reason,	how	is	that	investment	recorded	on	the	balance	sheet?	
+a. At	original	cost	for	the	60%	holding	
+b. At	book	value	for	the	60%	holding	
+c. At	market	value	for	the	60%	holding	
+d. At	liquidation	value	for	the	60%	holding	
+e. At	book	value	for	a	100%	holding	on	assets,	with	a	liability	(minority	
+interests)	shown	for	the	40%	that	does	not	belong	to	the	company.	
+4. Goodwill	often	is	the	biggest	intangible	asset	on	a	balance	sheet.	Which	of	the	
+following	is	the	best	description	of	goodwill?	
+a. It	measures	value	of	intangible	assets	in	an	acquired	company	
+b. It	measures	the	value	of	growth	in	an	acquired	company	
+c. It	measures	the	premium	paid	over	and	above	the	book	value	to	
+acquire	a	company.	
+d. It	measures	overpayment	on	an	acquisition	
+e. None	of	the	above	
+5. The	shareholders’	equity	in	a	company	reflects	the	accounting	value	for	the	
+equity	in	the	company,	or	book	value.	For	which	of	the	following	companies	
+is	book	value	likely	to	be	closest	to	market	or	intrinsic	value?	
+a. For	growth	companies,	with	significant	intangible	assets	
+b. For	mature	companies,	with	significant	intangible	assets	
+c. For	growth	companies,	with	significant	physical	and	tangible	assets	
+d. For	mature	companies,	with	significant	physical	and	tangible	assets	
+e. None	of	the	above.

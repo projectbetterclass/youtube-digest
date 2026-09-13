@@ -1,0 +1,315 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfspr20/session20slides.pdf
+
+GETTING TO THE OPTIMAL:
+TIMING AND FINANCING 
+CHOICES
+You can take it slow.. Or perhaps not…
+Aswath Damodaran 102
+103
+Big Picture…
+Aswath Damodaran
+103
+The Investment Decision
+Invest in assets that earn a 
+return greater than the 
+minimum acceptable hurdle 
+rate
+The Financing Decision
+Find the right kind of debt 
+for your ﬁrm and the right 
+mix of debt and equity to 
+fund your operations 
+The Dividend Decision
+If you cannot ﬁnd investments 
+that make your minimum 
+acceptable rate, return the cash 
+to owners of your business
+The hurdle rate 
+should reﬂect the 
+riskiness of the 
+investment and 
+the mix of debt 
+and equity used 
+to fund it.
+The return  
+should reﬂect the 
+magnitude and 
+the timing of the 
+cashﬂows as well 
+as all side effects.
+The optimal 
+mix of debt 
+and equity 
+maximizes ﬁrm 
+value
+The right kind 
+of debt 
+matches the 
+tenor of your 
+assets
+How much 
+cash you can 
+return 
+depends upon 
+current  & 
+potential 
+investment 
+opportunities
+How you choose 
+to return cash to 
+the owners will 
+depend on 
+whether they 
+prefer dividends 
+or buybacks
+Maximize the value of the business (ﬁrm)
+104
+Now that we have an optimal.. And an actual.. 
+What next?
+Aswath Damodaran
+104
+¨At the end of the analysis of financing mix (using 
+whatever tool or tools you choose to use), you can 
+come to one of three conclusions:
+1. The firm has the right financing mix
+2. It has too little debt (it is under levered)
+3. It has too much debt (it is over levered)
+¨The next step in the process is
+¤Deciding how much quickly or gradually the firm should 
+move to its optimal
+¤Assuming thatit does, the right kind of financing to use in 
+making this adjustment
+105
+A Framework for Getting to the Optimal
+Aswath Damodaran
+105
+Is the actual debt ratio greater than or lesser than the optimal debt ratio?
+Actual > Optimal
+Overlevered
+Actual < Optimal
+Underlevered
+Is the firm under bankruptcy threat? Is the firm a takeover target?
+Yes No
+Reduce Debt quickly
+1. Equity for Debt swap
+2. Sell Assets; use cash
+to pay off debt
+3. Renegotiate with lenders
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes
+Take good projects with
+new equity or with retained
+earnings.
+No
+1. Pay off debt with retained
+earnings.
+2. Reduce or eliminate dividends.
+3. Issue new equity and pay off 
+debt.
+Yes No
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes
+Take good projects with
+debt.
+No
+Do your stockholders like
+dividends?
+Yes
+Pay Dividends No
+Buy back stock
+Increase leverage
+quickly
+1. Debt/Equity swaps
+2. Borrow money&
+buy shares.
+106
+Disney: Applying the Framework
+Is the actual debt ratio greater than or lesser than the optimal debt ratio?
+Actual > Optimal
+Overlevered
+Actual < Optimal
+Actual (11.58%) < Optimal (40%)
+Is the firm under bankruptcy threat? Is the firm a takeover target?
+Yes No
+Reduce Debt quickly
+1. Equity for Debt swap
+2. Sell Assets; use cash
+to pay off debt
+3. Renegotiate with lenders
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes
+Take good projects with
+new equity or with retained
+earnings.
+No
+1. Pay off debt with retained
+earnings.
+2. Reduce or eliminate dividends.
+3. Issue new equity and pay off 
+debt.
+Yes No. Large mkt cap & positive 
+Jensen’s a
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes. ROC > Cost of capital
+Take good projects
+With debt.
+No
+Do your stockholders like
+dividends?
+Yes
+Pay Dividends No
+Buy back stock
+Increase leverage
+quickly
+1. Debt/Equity swaps
+2. Borrow money&
+buy shares.
+107
+6Application Test: Getting to the Optimal
+Aswath Damodaran
+107
+¨Based upon your analysis of both the firm’s capital 
+structure and investment record, what path would 
+you map out for the firm?
+a.Immediate change in leverage
+b.Gradual change in leverage
+c.No change in leverage
+¨Would you recommend that the firm change its 
+financing mix by 
+a.Paying off debt/Buying back equity
+b.Take projects with equity/debt
+108
+The Mechanics of Changing Debt Ratio quickly…
+Aswath Damodaran
+108
+Assets Liabilities
+Opearing 
+Assets in place
+Debt
+EquityGrowth Assets
+Cash
+To decrease the debt ratio
+To increase the debt ratio
+Borrow money and buy 
+back stock or pay a large 
+special dividend
+Sell operating assets 
+and use cash to buy 
+back stock or pay or 
+special dividend
+Issue new stock to retire 
+debt or get debt holders to 
+accept equity in the ﬁrm.
+Sell operating assets 
+and use cash to pay 
+down debt.
+109
+The mechanics of changing debt ratios over time… 
+gradually…
+Aswath Damodaran
+109
+¨To change debt ratios over time, you use the same mix of 
+tools that you used to change debt ratios gradually:
+¤Dividends and stock buybacks: Dividends and stock buybacks will 
+reduce the value of equity.
+¤Debt repayments: will reduce the value of debt.
+¨The complication of changing debt ratios over time is 
+that firm value is itself a moving target. 
+¤If equity is fairly valued today, the equity value should change 
+over time to reflect the expected price appreciation:
+¤Expected Price appreciation = Cost of equity –Dividend Yield
+¤Debt will also change over time, in conjunction as firm value 
+changes.
+110
+Designing Debt: The Fundamental Principle
+Aswath Damodaran
+110
+¨The objective in designing debt is to make the cash 
+flows on debt match up as closely as possible with 
+the cash flows that the firm makes on its assets.
+¨By doing so, we reduce our risk of default, increase 
+debt capacity and increase firm value.
+111
+Firm with mismatched debt
+Aswath Damodaran
+111
+Firm Value
+Value of Debt
+112
+Firm with matched Debt
+Aswath Damodaran
+112
+Firm Value
+Value of Debt
+113
+Design the perfect financing instrument
+Aswath Damodaran
+113
+¨The perfect financing instrument will
+¤Have all ofthe tax advantages of debt
+¤While preserving the flexibility offered by equity
+Duration Currency Effect of Inflation
+Uncertainty about Future
+Growth Patterns Cyclicality &
+Other Effects
+Define Debt
+Characteristics
+Duration/
+Maturity
+Currency
+Mix
+Fixed vs. Floating Rate
+* More floating rate 
+- if CF move with 
+inflation
+- with greater uncertainty 
+on future
+Straight versus
+Convertible
+- Convertible if
+cash flows low 
+now but high
+exp. growth
+Special Features
+on Debt
+- Options to make 
+cash flows on debt 
+match cash flows 
+on assets
+Start with the 
+Cash Flows
+on Assets/
+Projects
+Commodity Bonds
+Catastrophe Notes
+Design debt to have cash flows that match up to cash flows on the assets financed
+114
+Ensuring that you have not crossed the line 
+drawn by the tax code
+Aswath Damodaran
+114
+¨All ofthis design work is lost, however, if the security 
+that you have designed does not deliver the tax 
+benefits. 
+¨In addition, there may be a trade off between 
+mismatching debt and getting greater tax benefits.
+Overlay tax
+preferences
+Deductibility of cash flows
+for tax purposes
+Differences in tax rates
+across different locales
+If tax advantages are large enough, you might override results of previous step
+Zero Coupons

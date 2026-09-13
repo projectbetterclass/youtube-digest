@@ -1,0 +1,85 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate5for2018.pdf
+
+COUNTRY RISK UPDATE: JANUARY 
+2018 DATA UPDATE 5
+Aswath Damodaran
+2
+The Set Up
+¨ There is more risk in investing in some countries 
+than others. It follows that the price of taking equity 
+risk, i.e., the equity risk premium will vary across 
+countries.
+¨ A company’s risk exposure comes from where it 
+does business, not just where it is incorporated and 
+traded. 
+¨ As globalization becomes the norm, not the 
+exception, even purely domestic investors have to 
+think about country risk.
+3
+Sovereign Default Risk Measure 1: 
+Sovereign Ratings
+4
+Sovereign Default Risk Measure 2: 
+Sovereign CDS Spreads
+5
+Equity Risk Measure 1: Risk Scores
+¨ The World Bank, Political Risk Services (PRS) and the 
+Economist, among others, try to measure the total 
+risk in countries. 
+¨ Those scores have no standardization and cannot be 
+compared, but they still represent more 
+comprehensive measures of risk than sovereign 
+ratings or CDS spreads.
+6
+PRS Scores
+7
+Equity Risk Premiums
+Aswath Damodaran
+7
+8
+ERP – A Global Picture
+Black #: Total ERP
+Red #: Country risk premium
+Regional #: GDP weighted average
+ERP : Jan 2018
+10
+From Country to Company Risk
+¨ A company's risk does not come from where it is 
+incorporated, but where it does business. 
+¨ If we adopt this perspective, it is clear that to value a 
+company, you need to see its risk exposure to 
+different countries, either because it has its 
+production and operations in those countries or 
+because it sells its products or services there. 
+¨ That risk exposure, in conjunction with the equity 
+risk premiums of the countries estimated in the 
+earlier section, can be used to compute the 
+company's equity risk premium.
+11
+Implications
+¨ A company cannot change its risk profile by delisting in one 
+market and re-listing in another: It is a common play for 
+emerging market companies to delist on their "risky" local 
+markets and to re-list on a more developed markets. 
+¨ A company's equity risk premium should change, as its 
+geographic exposure changes: In estimating the equity risk 
+premium for a company today, we need to consider where it 
+operates today. 
+¨ When multinationals assess projects, their hurdle rates 
+should vary across geographies: When multinationals assess 
+hurdle rates for projects, those hurdle rates should vary, 
+depending upon where a project will be, even if the hurdle 
+rates are estimated in the same currency.
+12
+In conclusion..
+¨ If, as the Chinese symbol for crisis suggests, Danger + 
+Opportunity = Risk, it is not surprising that the most risky 
+parts of the world also provide the most potential for 
+growth. 
+¨ By demanding higher equity risk premiums for investing 
+in these parts of the world, I am not suggesting that you 
+hold back from investing but only that you demand 
+enough of a premium for exposing yourself to additional 
+risk. 
+¨ After all, investing is never be bungee jumping, taking 
+risk for the sake of taking risk.

@@ -1,0 +1,40 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session3Atest.pdf
+
+Session	3A:	Post	Class	tests	
+Balance	Sheets	of	3	companies:	manufacturing,	retail	&	technology
+1. Net	property,	plant	and	equipment	(Net	P,P&E)	at	each	of	these	companies	is	
+computed	by	netting	out	accumulated	depreciation	from	gross	property,	
+plant	and	equipment	(Gross	P,P&E).	Estimate	Net	PP&E	as	a	percent	of	Gross	
+PP&E	at	each	company	and	explain	why	they	are	different.	
+2. Estimate	working	capital	(current	assets	minus	current	liabilities)	at	each	of	
+these	companies	and	analyze	the	differences	across	them.	How	would	you	
+modify	the	definition	of	working	capital	to	make	it	more	meaningful	in	
+financial	analysis?		
+3. Navistar	has	a	negative	value	for	shareholders’	equity.	How	would	you	
+explain	this?	
+a. The	company	may	have	had	major	restructuring	and	extraordinary	
+charges	against	income	in	prior	years.	
+b. The	company	may	have	reported	losses	in	prior	years	
+c. The	company	may	have	paid	far	more	in	dividends	than	it	reported	in	
+net	income	in	prior	years	
+d. The	company	may	have	bought	back	stock	in	large	quantities	in	prior	
+years	
+e. All	of	the	above	
+4. Google	reports	goodwill	of	$20.6	billion	on	its	balance	sheet.	Which	of	the	
+following	information	does	this	item	give	you	about	the	company?	
+a. Google	has	made	a	substantial	acquisition	and	the	target	company	has	
+significant	intangible	assets.	
+b. Google	has	made	a	substantial	acquisition	and	paid	more	than	it	
+should	have	on	the	acquisition	
+c. Google	has	made	a	substantial	acquisition	and	paid	significantly	more	
+than	book	value	for	the	target	firm	
+d. Google	has	made	a	substantial	acquisition	and	got	itself	a	bargain	
+(price	paid	was	well	below	value)	
+e. None	of	the	above.	
+5. Navistar	has	a	significant	pension	and	post-retirement	obligation	shown	as	a	
+liability.	Which	of	the	following	does	this	measure?	
+a. Total	pension	fund	and	post-retirement	obligations		
+b. Underfunded	pension	fund	and	post-retirement	obligations	(total	
+obligations	netted	out	against	pension	fund	assets)	
+c. Overfunded	pension	fund	and	post-retirement	obligations		
+d. None	of	the	above

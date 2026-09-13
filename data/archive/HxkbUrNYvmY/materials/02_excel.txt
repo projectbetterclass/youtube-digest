@@ -1,0 +1,446 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/TeslaAugust2017.xlsx
+
+Sheet: Input sheet
+Date of valuation | 2017-08-01 00:00:00 | Important: Before you run this spreadsheet, go into preferences in Excel and check under Calculation options
+Company name | Tesla (August 2017) | There should be a check against the iteration box. If there is not, you will get circular reasoning errors.
+Numbers from your base year below ( in consistent units)
+This year | Last year
+Country of incorporation | United States of America
+Industry (US) | Auto & Truck
+Industry (Global) | Auto & Truck | Last 10K | Years since last 10K
+Revenues | 10069 | 7000.1 | 0.5
+Operating income or EBIT | -637.6 | -625.4 | 0.5
+Interest expense | 328.3 | 198.8
+Book value of equity | 5105.8 | 4732.9
+Book value of debt | 9557.4 | 8592
+Do you have R&D expenses to capitalize? | Yes |  If you want to capitalize R&D, you have to input the numbers into the R&D worksheet. 
+Do you have operating lease commitments? | Yes | If you have operating leases, please enter your lease commitments in the lease worksheet below and I will convert to debt
+Cash and Marketable Securities | 3035.9 | 3393.2
+Cross holdings and other non-operating assets | 0 | 0
+Minority interests | 0 | 0
+Number of shares outstanding = | 157.9
+Current stock price = | 365 | Computed numbers: Here is what your company's numbers look like, relative to industry.
+Effective tax rate = | 0.3 | If you are not working in US dollars, you should add the inflation differential to the industry averages.
+Marginal tax rate = | 0.3 | Company | Industry (US data) | Industry (Global data)
+The value drivers below: | Revenue growth in the most recent year = | 1.069017639890081 | 0.2796714285714285 | 0.0586
+Compounded annual revenue growth rate over next 5 years = | 0.35 | Growth Lever | Pre-tax operating margin in the most recent year = | -0.010172389080458599 | 0.046162613513357605 | 0.0633
+Target pre-tax operating margin (EBIT as % of sales in year 10) = | 0.12 | Profitability Lever | Sales to capital ratio in most recent year = | 0.8659792041144547 | 1.1890462714463605 | 1.19
+Year of convergence | 10 | Return on invested capital in most recent year= | -0.007139867756393813 | 0.05063833144145695 | 0.0635
+Sales to capital ratio  (for computing reinvestment) = | 2.24 | Efficency of Growth Lever | Standard deviation in stock prices = | 0.33708676261598347 | 0.4242
+Market numbers  | Cost of capital = | 0.04695024777254853 | 0.0784
+Riskfree rate | 0.0223
+Initial cost of capital = | 0.08830249744604472 | Valuation Output Feedback (for you to use to fine tune your inputs, if you want)
+Other inputs | Revenues in year 10, based on your revenue growth = | 92692.6145445462
+Do you have employee options outstanding? | Yes | Pre-tax Operating Income in year 10, based on your operating margin = | 11123.113745345543
+Number of options outstanding = | 12.875 | Return on invested capital in year 10, based on your sales/capital ratio = | 0.151332460929525
+Average strike price = | 96.5 | Check the Diagnostics worksheet for more details.
+Average maturity = | 5.8
+Standard deviation on stock price = | 0.3
+Default assumptions. 
+In stable growth, I will assume that your firm will have a cost of capital similar to that of typical mature companies (riskfree rate + 4.5%)
+Do you want to override this assumption = | Yes | Mature companies generally see their risk levels approach the average
+If yes, enter the cost of capital after year 10 = | 0.075 | Though some sectors, even in stable growth, may have higher risk.
+I will assume that your firm will earn a return on capital equal to its cost of capital after year 10. I am assuming that whatever competitive advantages you have today will fade over time.
+Do you want to override this assumption = | Yes | Mature companies find it difficult to generate returns that exceed the cost of capital
+If yes, enter the return on capital you expect after year 10 | 0.09 | But there are significant exceptions among companies with long-lasting competitive advantages.
+I will assume that your firm has no chance of failure over the foreseeable future.
+Do you want to override this assumption = | Yes | Many young, growth companies fail, especially if they have trouble raising cash. Many distressed companies fail, because they have trouble making debt payments.
+If yes, enter the probability of failure = | 0.1 | Tough to estimate but a key input.
+What do you want to tie your proceeds in failure to? | V | B: Book value of capital, V= Estimated fair value for the company
+Enter the distress proceeds as percentage of book or fair value | 0.5 | This can be zero, if the assets will be worth nothing if the firm fails.
+I will assume that your effective tax rate will adjust to your marginal tax rate by your terminal year. If you override this assumption, I will leave the tax rate at your effective tax rate.
+Do you want to override this assumption = | No
+I will assume that you have no losses carried forward from prior years ( NOL) coming into the valuation. If you have a money losing company, you may want to override tis.
+Do you want to override this assumption = | Yes | Check the financial statements.
+If yes, enter the NOL that you are carrying over into year 1 | 4340 | An NOL will shield your income from taxes, even after you start making money.
+I will assume that the growth rate in perpetuity will be equal to the risk free rate. This allows for both valuation consistency and prevents "impossible" growth rates.
+Do you want to override this assumption = | No
+If yes, enter the growth rate in perpetuity | 0.005 | This can be negative, if you feel the company will decline (and disappear) after growth is done. If you let it exceed the risk free rate, you are on your own in uncharted territory.
+I have assumed that none of the cash is trapped (in foreign countries) and that there is no additional tax liability coming due and that cash is a neutral asset.
+Do you want to override this assumption | No
+If yes, enter trapped cash (if taxes) or entire balance (if mistrust) | 0 | Cash that is trapped in foreign markets (and subject to additoinal tax) or cash that is being discounted by the market (because of management mistrust)
+& Average tax rate of the foreign markets where the cash is trapped | 0.15 | Additional tax rate due on trapped cash or discount being applied to cash balance because of mistrust.
+
+Sheet: Valuation output
+Base year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Terminal year
+Revenue growth rate | 0.35 | 0.35 | 0.35 | 0.35 | 0.35 | 0.28446 | 0.21891999999999998 | 0.15337999999999996 | 0.08783999999999997 | 0.022299999999999986 | 0.0223
+Revenues | 10069 | 13593.150000000001 | 18350.752500000002 | 24773.515875000005 | 33444.24643125001 | 45149.73268218752 | 57993.02564096257 | 70688.8588142821 | 81531.11597921667 | 88692.80920683107 | 90670.6588521434 | 92692.6145445462
+EBIT (Operating) margin | -0.010172389080458599 | 0.002844849827587273 | 0.015862088735633134 | 0.028879327643678995 | 0.041896566551724856 | 0.054913805459770704 | 0.06793104436781656 | 0.08094828327586243 | 0.09396552218390827 | 0.10698276109195413 | 0.12 | 0.12
+EBIT (Operating income) | -102.42578565113763 | 38.67047043386795 | 291.08126452064164 | 715.4424818400081 | 1401.1990963791525 | 2479.3436370702966 | 3939.526797840152 | 5722.141767745951 | 7661.113887223883 | 9488.601617948678 | 10880.479062257207 | 11123.113745345543 | 11225.53953099668
+Tax rate | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | 0.3
+EBIT(1-t) | -102.42578565113763 | 38.67047043386795 | 291.08126452064164 | 715.4424818400081 | 1401.1990963791525 | 2303.6225519971067 | 2757.6687584881065 | 4005.4992374221656 | 5362.779721056718 | 6642.021132564074 | 7616.335343580045 | 7786.17962174188
+ - Reinvestment | 1573.2812500000005 | 2123.9296875 | 2867.305078125001 | 3870.8618554687514 | 5225.663504882816 | 5733.612928024578 | 5667.782666660501 | 4840.2933772029355 | 3197.1844766135678 | 882.9685916572932 | 1929.2422840538213 | 37912.12570018926
+FCFF | -1534.6107795661326 | -1832.8484229793585 | -2151.862596284993 | -2469.6627590895987 | -2922.040952885709 | -2975.9441695364712 | -1662.283429238335 | 522.4863438537823 | 3444.836655950506 | 6733.366751922752 | 5856.9373376880585
+NOL | 4340 | 4301.329529566132 | 4010.2482650454904 | 3294.8057832054824 | 1893.60668682633 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Cost of capital | 0.08830249744604472 | 0.08830249744604472 | 0.08830249744604472 | 0.08830249744604472 | 0.08830249744604472 | 0.08564199795683577 | 0.08298149846762683 | 0.08032099897841788 | 0.07766049948920893 | 0.07499999999999998 | 0.075
+Cumulated discount factor | 0.9188621751275339 | 0.8443076968801028 | 0.7758024068321697 | 0.7128554870109834 | 0.6550159433465097 | 0.6033443295112397 | 0.5571141615668841 | 0.5156931709128185 | 0.4785302710429189 | 0.4451444381794594
+PV(FCFF) | -1410.095798886297 | -1547.4880307360306 | -1669.420181370019 | -1760.512648883705 | -1913.9834112515668 | -1795.5190396318653 | -926.0816389666398 | 269.44263942060223 | 1648.458618670578 | 2997.320759840905
+Terminal cash flow | 5856.9373376880585
+Terminal cost of capital | 0.075
+Terminal value | 111137.33088592142
+PV(Terminal value) | 49472.16471797817
+PV (CF over next 10 years) | -6107.878731794039
+Sum of PV | 43364.285986184135
+Probability of failure = | 0.1
+Proceeds if firm fails = | 21682.142993092068
+Value of operating assets = | 41196.07168687493
+ - Debt | 10328.04716622463
+ - Minority interests | 0
+ +  Cash | 3035.9
+ + Non-operating assets | 0
+Value of equity | 33903.924520650304
+ - Value of options | 3533.024382724428
+Value of equity in common stock | 30370.900137925877
+Number of shares | 157.9
+Estimated value /share | 192.34262278610436
+Price | 365
+Price as % of value | 1.8976553127587337
+Implied variables | After year 10
+Sales to capital ratio | 2.24 | 2.24 | 2.24 | 2.24 | 2.24 | 2.24 | 2.24 | 2.24 | 2.24 | 2.24
+Invested capital | 14345.613832891297 | 15918.895082891297 | 18042.824770391297 | 20910.1298485163 | 24780.99170398505 | 30006.655208867865 | 35740.268136892446 | 41408.05080355295 | 46248.344180755885 | 49445.528657369454 | 50328.49724902675
+ROIC | -0.007139867756393813 | 0.0024292182486602806 | 0.01613279895054531 | 0.03421511425433702 | 0.056543301943554766 | 0.07677038763441775 | 0.07715859175778084 | 0.09673237835861813 | 0.1159561453724043 | 0.13433006609332984 | 0.151332460929525 | 0.09
+
+Sheet: Stories to Numbers
+Tesla (August 2017)
+The Story
+Tesla is an auto/tech company looking towards the mass market. Its primary competitive advantages lies in superior battery technology and brand loyalty with a secondary advantage in styling/design. In terms of investment needs and risk, it is as much tech as auto company. The combination of cash burn (negative cash flows for the next seven years) and a large debt burden exposes the firm to distress risk, reflected in a 10% probability of failure. | Tell your story about the company. Keep it focuses on the company's businesses and tie it into the three key levers of value: cash flows, growth and risk
+The Assumptions
+Base year | Years 1-5 | Years 6-10 | After year 10 | Link to story
+Revenues (a) | 10069 | 0.35 | 35%->2.23% | 0.0223 | Mass market focus = $100 billion in revenue | Tie each assumption to the part of your story that relates to it.
+Operating margin (b) | -0.010172389080458599 | -0.010172389080458599 | 0.12 | 0.12 | Tech superiority & brand = High margins
+Tax rate | 0.3 | 0.3 | 0.3 | 0.3 | Global marginal tax rate average
+Reinvestment (c ) | Sales to capital ratio = | 2.24 | RIR = | 0.2477777777777778 | Invest like an auto/tech company
+Return on capital | -0.007139867756393813 | Marginal ROIC = | 0.3052258130871021 | 0.09 | In maturity,, has tech features
+Cost of capital (d) | 0.08830249744604472 | 0.075 | 0.075 | 50% auto, 50% technology
+The Cash Flows
+Revenues | Operating Margin | EBIT | EBIT (1-t) | Reinvestment  | FCFF | These are the numbers that come from your assumptions. The revenues over time reflect your revenue growth, the operating margins evolve towards your target margin and your tax rate will change, if you have set it to. The reinvestment is estimated using the sales to capital ratio for the first 10 years and based on a reinvestment rate in stable growth (g/ ROC).
+1 | 13593.150000000001 | 0.002844849827587273 | 38.67047043386795 | 38.67047043386795 | 1573.2812500000005 | -1534.6107795661326
+2 | 18350.752500000002 | 0.015862088735633134 | 291.08126452064164 | 291.08126452064164 | 2123.9296875 | -1832.8484229793585
+3 | 24773.515875000005 | 0.028879327643678995 | 715.4424818400081 | 715.4424818400081 | 2867.305078125001 | -2151.862596284993
+4 | 33444.24643125001 | 0.041896566551724856 | 1401.1990963791525 | 1401.1990963791525 | 3870.8618554687514 | -2469.6627590895987
+5 | 45149.73268218752 | 0.054913805459770704 | 2479.3436370702966 | 2303.6225519971067 | 5225.663504882816 | -2922.040952885709
+6 | 57993.02564096257 | 0.06793104436781656 | 3939.526797840152 | 2757.6687584881065 | 5733.612928024578 | -2975.9441695364712
+7 | 70688.8588142821 | 0.08094828327586243 | 5722.141767745951 | 4005.4992374221656 | 5667.782666660501 | -1662.283429238335
+8 | 81531.11597921667 | 0.09396552218390827 | 7661.113887223883 | 5362.779721056718 | 4840.2933772029355 | 522.4863438537823
+9 | 88692.80920683107 | 0.10698276109195413 | 9488.601617948678 | 6642.021132564074 | 3197.1844766135678 | 3444.836655950506
+10 | 90670.6588521434 | 0.12 | 10880.479062257207 | 7616.335343580045 | 882.9685916572932 | 6733.366751922752
+Terminal year | 92692.6145445462 | 0.12 | 11123.113745345543 | 7786.17962174188 | 1929.2422840538213 | 5856.9373376880585
+The Value
+Terminal value | 111137.33088592142 | This is the output from your valuation. It reflects your cash flows being discounted back at the cost of capital to get to your operating asset value, which then gets adjusted for the likelihood that your firm will not make it. We add cash and non-operating assets, subtract out debt and minority interests to get to value of equity.
+PV(Terminal value) | 49472.16471797817
+PV (CF over next 10 years) | -6107.878731794039
+Value of operating assets = | 43364.285986184135
+Adjustment for distress | 2168.2142993092057 | Probability of failure = | 0.1
+ - Debt & Mnority Interests | 10328.04716622463
+ + Cash & Other Non-operating assets | 3035.9
+Value of equity | 33903.924520650304
+ - Value of equity options | 3533.024382724428
+Number of shares | 157.9
+Value per share | 192.34262278610436 | Stock was trading at = | 365
+
+Sheet: What if
+Revenue in 2026 (in billions) with 9% margin
+60 | 70 | 80 | 90 | 100 | 150
+Sales/Capital | 1.19 (Auto) | -60.34 | -63.3 | -66.29 | -68.74 | -71.16
+1.58 (Current) | -12.34 | -7.28 | -1.5 | 3.78 | 9.47
+2.24 (Tech) | 30.81 | 43.08 | 56.75 | 68.99 | 81.97
+Revenue in 2026 (in billions) with 12% margin
+60 | 70 | 80 | 90 | 100 | 150
+Sales/Capital | 1.19 (Auto) | 11.25 | 19.51 | 28.81 | 37.22 | 46.22
+1.58 (Current) | 59.25 | 75.53 | 93.6 | 109.75 | 126.85
+2.24 (Tech) | 102.4 | 125.89 | 151.85 | 174.96 | 199.35
+Revenue in 2026 (in billions) with 15% margin
+60 | 70 | 80 | 90 | 100 | 150
+Sales/Capital | 1.19 (Auto) | 82.66 | 102.11 | 123.68 | 142.95 | 163.33
+1.58 (Current) | 130.65 | 158.13 | 188.47 | 215.48 | 243.97
+2.24 (Tech) | 173.8 | 208.49 | 246.72 | 280.68 | 316.46
+
+Sheet: Option value
+Valuing Options or Warrants
+Enter the current stock price = | 365
+Enter the strike price on the option = | 96.5
+Enter the expiration of the option = | 5.8
+Enter the standard deviation in stock prices = | 0.3 | (volatility)
+Enter the annualized dividend yield on stock = | 0
+Enter the treasury bond rate = | 0.0223
+Enter the number of warrants (options) outstanding = | 12.875
+Enter the number of shares outstanding = | 157.9
+Do not input any numbers below this line
+VALUING WARRANTS WHEN THERE IS DILUTION
+Stock Price= | 365 | # Warrants issued= | 12.875
+Strike Price= | 96.5 | # Shares outstanding= | 157.9
+Adjusted S = | 358.1702496426551 | T.Bond rate= | 0.0223
+Adjusted K = | 96.5 | Variance= | 0.09
+Expiration (in years) = | 5.8 | Annualized dividend yield= | 0
+Div. Adj. interest rate= | 0.0223
+d1 =  | 2.3554541323958413
+N (d1) = | 0.9907499595917811
+d2 =  | 1.6329584576683036
+N (d2) = | 0.9487611329728863
+Value per option =  | 274.40966079413033
+Value of all options outstanding = | 3533.024382724428
+
+Sheet: Diagnostics
+VALUATION DIAGNOSTICS
+Invested capital at start of valuation | 14345.613832891297
+Invested capital at end of valuation | 50328.49724902675
+Change in invested capital over 10 years | 35982.883416135446
+Change in EBIT*(1–t) (after-tax operating income) over 10 years | 10982.904847908345
+Marginal ROIC over 10 years | 0.3052258130871021
+ROIC at end of valuation | 0.151332460929525
+Average WACC over the 10 years (compounded) | 0.08430111621608782
+Your calculated value as a percent of current price | 0.5269660898249434
+Inputs | If calculated value is negative or looks too low | If calculated value looks too high
+Revenue growth rate (input cell B3) | Increase revenue growth rate | Decrease revenue growth rate
+Last period EBIT as % of revenue (Input cell B14) | Increase the target pre-tax operating margin | Decrease the target pre-tax operating margin
+Sales to Capital Ratio or reinvestment (Input cell B15) | Decrease the sales/capital ratio | Increase the sales/capital ratio
+Return on capital in perpetuity (B30 & B31) | Increase relative to your cost of capital | If higher than your cost of capital, lower towards your cost of capital | T
+
+Sheet: R& D converter
+R & D Converter
+This spreadsheet converts R&D expenses from operating to capital expenses. It makes the appropriate adjustments to operating income, net
+income, the book value of assets and the book value of equity.
+Inputs
+Over how many years do you want to amortize R&D expenses | 3 | ! If in doubt, use the lookup table below
+Enter the current year's R&D expense = | 1152.1 | The maximum allowed is ten years
+Enter R& D expenses for past years: the number of years that you will need to enter will be determined by the amortization period
+Do not input numbers in the first column (Year). It will get automatically updated  based on the input above.
+Year | R& D Expenses
+-1 | 834.4 | ! Year -1 is the year prior to the current year
+-2 | 717.9 | ! Year -2 is the two years prior to the current year
+-3 | 464.7
+0
+0
+0
+0
+0
+0
+0
+Output
+Year | R&D Expense | Unamortized portion | Amortization this year
+Current | 1152.1 | 1 | 1152.1
+-1 | 834.4 | 0.6666666666666666 | 556.2666666666667 | 278.1333333333333
+-2 | 717.9 | 0.3333333333333333 | 239.29999999999998 | 239.29999999999998
+-3 | 464.7 | 0 | 0 | 154.9
+0 | 0 | 0 | 0 | 0
+0 | 0 | 0 | 0 | 0
+0 | 0 | 0 | 0 | 0
+0 | 0 | 0 | 0 | 0
+0 | 0 | 0 | 0 | 0
+0 | 0 | 0 | 0 | 0
+0 | 0 | 0 | 0 | 0
+Value of Research Asset = | 1947.6666666666665 | 672.3333333333333
+Amortization of asset for current year = | 672.3333333333333
+Adjustment to Operating Income = | 479.76666666666665 | ! A positive number indicates an increase in operating income (add to reported EBIT)
+Tax Effect of R&D Expensing | 143.92999999999998
+
+Sheet: Operating lease converter
+Operating Lease Converter
+The yellow cells are input cells. Please enter them.
+Inputs
+Operating lease expense in current year = | 165.5
+Operating Lease Commitments (From footnote to financials)
+Year | Commitment | ! Year 1 is next year, ….
+1 | 165.5
+2 | 150.925
+3 | 125.148
+4 | 102.804
+5 | 88.95
+6 and beyond | 292.7
+Output
+Pre-tax Cost of Debt = | 0.0498 | ! If you do not have a cost of debt, use the synthetic rating estimator
+Number of years embedded in yr 6 estimate = | 2 | ! I use the average lease expense over the first five years
+to estimate the number of years of expenses in yr 6
+Converting Operating Leases into debt
+Year | Commitment | Present Value
+1 | 165.5 | 157.64907601447894
+2 | 150.925 | 136.94558881585405
+3 | 125.148 | 108.16934706369527
+4 | 102.804 | 84.64157561498341
+5 | 88.95 | 69.76106631282661
+6 and beyond | 146.35 | 213.4805124027916 | ! Commitment beyond year 6 converted into an annuity for ten years
+Debt Value of leases = | 770.6471662246299
+Restated Financials
+Depreciation on Operating Lease Asset = | 110.09245231780427 | ! I use straight line depreciation
+Adjustment to Operating Earnings = | 55.40754768219573 | ! Add this amount to pre-tax operating income
+Adjustment to Total Debt outstanding = | 770.6471662246299 | ! Add this amount to debt
+Adjustment to Depreciation = | 110.09245231780427
+
+Sheet: Cost of capital worksheet
+Estimation of Current Cost of Capital | Operating Countries ERP calculator
+Inputs | Country | Revenues | ERP | Weight | Weighted ERP
+Equity | United States of America | 4046 | 0.06 | 0.6594947025264873 | 0.039569682151589236
+Number of Shares outstanding = | 157.9 | Norway | 356 | 0.06 | 0.05802770986145069 | 0.0034816625916870413
+Current Market Price per share = | 365 | China | 319 | 0.06900924440348612 | 0.05199674001629992 | 0.0035882557399693677
+0 | 0 | 0
+Approach for estimating beta | Multibusiness(Global) | 0 | 0 | 0
+If direct input, enter levered beta (or regression beta) | 1.2 | 0 | 0 | 0
+Unlevered beta = | 1.0590610328638497 | 0 | 0 | 0
+Riskfree Rate = | 0.0223 | 0 | 0 | 0
+What approach do you want to use to input ERP? | Operating countries | 0 | 0 | 0
+Direct input for ERP (if you choose "will input" | 0.0575 | 0 | 0 | 0
+Equity Risk Premium used in cost of equity = | 0.06337251001869797 | Rest of the World | 1414 | 0.0726 | 0.230480847595762 | 0.016732909535452322
+Total | 6135 | 1 | 0.06337251001869797
+Debt | Operating Regions ERP calculator
+Book Value of Straight Debt = | 9557.4 | Region | Revenues | ERP | Weight | Weighted ERP
+Interest Expense on Debt = | 328.3 | Africa | 0 | 0.11763246078639468 | 0 | 0
+Average Maturity = | 3 | Asia | 7440 | 0.07487890091658905 | 0.04906324806615625 | 0.003673802090591743
+Approach for estimating pre-tax cost of debt | Actual rating | Australia & New Zealand | 0.060049641455626995 | 0 | 0
+If direct input, input the pre-tax cost of debt | 0.035 | Caribbean | 0 | 0.14605171333175698 | 0 | 0
+If actual rating, input the rating | Ba1/BB+ | Central and South America | 0 | 0.10420480154981845 | 0 | 0
+If synethetic rating, input the type of company | 1 | Eastern Europe & Russia | 0.09646030891294588 | 0 | 0
+Pre-tax Cost of Debt = | 0.0498 | Middle East | 0 | 0.07105473276094752 | 0 | 0
+Tax Rate = | 0.3 | North America | 93864 | 0.05999999999999999 | 0.6189882683443132 | 0.03713929610065879
+Western Europe | 50337 | 0.07160384861537636 | 0.33194848358953055 | 0.02376878896704849
+Book Value of Convertible Debt = | 0 | hina
+Interest Expense on Convertible = | 0 | Total | 151641 | 1 | 0.06458188715829902
+Maturity of Convertible Bond = | 0
+Market Value of Convertible = | 0 | Multi Business (US Industry Averages)
+Business | Revenues | EV/Sales | Estimated Value | Unlevered Beta
+Debt value of operating leases = | 770.6471662246299 | Advertising | 50 | 1.6985542212711113 | 84.92771106355556 | 0.7384663721408828
+Entertainment | 16 | 2.8527853693917833 | 45.64456591026853 | 0.9782923489962891
+Preferred Stock | 0 | 0 | 0
+Number of Preferred Shares = | 0 | 0 | 0 | 0
+Current Market Price per Share= | 70 | 0 | 0 | 0
+Annual Dividend per Share = | 5 | 0 | 0 | 0
+0 | 0 | 0
+Output | 0 | 0 | 0
+Estimating Market Value of Straight Debt = | 9155.138484194005 | 0 | 0 | 0
+Estimated Value of Straight Debt in Convertible = | 0 | 0 | 0 | 0
+Value of Debt in Operating leases = | 770.6471662246299 | 0 | 0 | 0
+Estimated Value of Equity in Convertible = | 0 | 0 | 0 | 0
+Levered Beta for equity = | 1.1867369325062846 | Company | 66 | 130.5722769738241 | 0.8223031012021799
+Equity | Debt  | Preferred Stock | Capital | Multi Business (Global Industry Averages)
+Market Value | 57633.5 | 9925.785650418635 | 0 | 67559.28565041863 | Business | Revenues | EV/Sales | Estimated Value | Unlevered Beta
+Weight in Cost of Capital | 0.8530803640852717 | 0.1469196359147283 | 0 | 1 | Auto & Truck | 50 | 0.94 | 47 | 0.83
+Cost of Component | 0.09750649814481342 | 0.034859999999999995 | 0.07142857142857142 | 0.08830249744604472 | Electronics (General) | 50 | 1.19 | 59.5 | 1.24
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+Company | 100 | 106.5 | 1.0590610328638497
+
+Sheet: Synthetic rating
+Inputs for synthetic rating estimation
+Please read the special cases worksheet (see below) before you use this spreadsheet.
+Before you use this spreadsheet, make sure that the iteration box (under calculation options in excel) is checked.
+Enter the type of firm = | 1
+Enter current Earnings before interest and taxes (EBIT) = | -582.1924523178043 | (Add back only long term interest expense for financial firms)
+Enter current interest expenses = | 366.67822887798656 | (Use only long term interest expense for financial firms)
+Enter long term risk free rate  = | 0.0223
+Output
+Interest  coverage ratio = | -100000
+Estimated Bond Rating = | D2/D | Note: If you get REF! All over the place, set the operating lease commitment question in cell F5
+Estimated Company Default Spread = | 0.2 | to No, and then reset it to Yes. It should work.
+Estimated County Default Spread (if any) = | 0
+Estimated Cost of Debt = | 0.2223
+ If you want to update the spreads listed below, please visit http://www.bondsonline.com
+For large manufacturing firms
+If interest coverage ratio is
+> | ≤ to | Rating is | Spread is
+-100000 | 0.199999 | D2/D | 0.2
+0.2 | 0.649999 | Caa/CCC | 0.16
+0.65 | 0.799999 | Ca2/CC | 0.12
+0.8 | 1.249999 | C2/C | 0.09
+1.25 | 1.499999 | B3/B- | 0.075
+1.5 | 1.749999 | B2/B | 0.065
+1.75 | 1.999999 | B1/B+ | 0.055
+2 | 2.2499999 | Ba2/BB | 0.0425
+2.25 | 2.49999 | Ba1/BB+ | 0.0325
+2.5 | 2.999999 | Baa2/BBB | 0.0225
+3 | 4.249999 | A3/A- | 0.0175
+4.25 | 5.499999 | A2/A | 0.0125
+5.5 | 6.499999 | A1/A+ | 0.011
+6.5 | 8.499999 | Aa2/AA | 0.01
+8.5 | 100000 | Aaa/AAA | 0.0075
+For smaller and riskier firms
+If interest coverage ratio is
+greater than | ≤ to | Rating is | Spread is
+-100000 | 0.499999 | D2/D | 0.2 | Rating is | Spread is
+0.5 | 0.799999 | Caa/CCC | 0.16 | A1/A+ | 0.009
+0.8 | 1.249999 | Ca2/CC | 0.12 | A2/A | 0.01
+1.25 | 1.499999 | C2/C | 0.09 | A3/A- | 0.012
+1.5 | 1.999999 | B3/B- | 0.075 | Aa2/AA | 0.007
+2 | 2.499999 | B2/B | 0.065 | Aaa/AAA | 0.004
+2.5 | 2.999999 | B1/B+ | 0.055 | B1/B+ | 0.04
+3 | 3.499999 | Ba2/BB | 0.0425 | B2/B | 0.05
+3.5 | 3.9999999 | Ba1/BB+ | 0.0325 | B3/B- | 0.06
+4 | 4.499999 | Baa2/BBB | 0.0225 | Ba1/BB+ | 0.0275
+4.5 | 5.999999 | A3/A- | 0.0175 | Ba2/BB | 0.0325
+6 | 7.499999 | A2/A | 0.0125 | Baa2/BBB | 0.0175
+7.5 | 9.499999 | A1/A+ | 0.011 | C2/C | 0.07
+9.5 | 12.499999 | Aa2/AA | 0.01 | Ca2/CC | 0.08
+12.5 | 100000 | Aaa/AAA | 0.0075 | Caa/CCC | 0.1
+D2/D | 0.12
+
+Sheet: Industry Averages(US)
+Industry Name | Number of firms | Annual Average Revenue growth - Last 5 years | Pre-tax Operating Margin | After-tax ROC | Average effective tax rate | Unlevered Beta | Equity (Levered) Beta | Cost of equity | Std deviation in stock prices | Pre-tax cost of debt | Market Debt/Capital | Cost of capital | Sales/Capital | EV/Sales | EV/EBITDA | EV/EBIT | Price/Book | Trailing PE | Non-cash WC as % of Revenues | Cap Ex as % of Revenues | Net Cap Ex as % of Revenues | Reinvestment Rate | ROE | Dividend Payout Ratio | Equity Reinvestment Rate
+Advertising | 44 | -0.0048393333333333335 | 0.11611214770470371 | 0.5968413384594851 | 0.316459309637767 | 0.7384663721408828 | 1.0787380520266183 | 0.0874242831215971 | 0.7103290924953795 | 0.045200000000000004 | 0.36003272675004927 | 0.06571276763462153 | 5.348699731261644 | 1.6985542212711113 | 8.935198489758124 | 14.55950880372628 | 6.806824092310425 | 110.60536744471389 | -0.005443491129202956 | 0.023082066010313058 | 0.009626729053670298 | 0.11342385882925392 | 0.2595549378896131 | 0.6459511540189028 | 0.6459511540189028
+Aerospace/Defense | 92 | 0.04660586206896551 | 0.12450471063429 | 0.3015178999233392 | 0.28987105162401955 | 1.1953920656189123 | 1.3295169575705978 | 0.10247101745423587 | 0.4689667204366945 | 0.0352 | 0.1701093215015725 | 0.08863245107163323 | 2.797214069034757 | 1.5796532363870954 | 10.331276604535567 | 12.761747883649281 | 4.38812393432252 | 31.254281922655814 | 0.27608872573836024 | 0.02642612520702113 | 0.04193507267115577 | 0.6531880820356263 | 0.20187025441086814 | 0.35322673424781853 | 0.3532267342478186
+Air Transport | 20 | 0.093525 | 0.15266616604741687 | 0.1856792166614062 | 0.2097347032468694 | 0.8452993116296698 | 1.2682844827586206 | 0.09879706896551724 | 0.5194570636895143 | 0.0402 | 0.4110093955803309 | 0.0681040919862893 | 1.489224739400069 | 1.4819410646389195 | 5.800717037813839 | 9.7099107361307 | 3.480415540917156 | 12.011711164920712 | 0.03483409646377186 | 0.10460164951500221 | 0.061305911092450795 | 0.4718995454313922 | 0.4412956999459454 | 0.06780854005912035 | 0.0678085400591204
+Apparel | 63 | 0.1468372972972973 | 0.12131193613189956 | 0.159850905512989 | 0.2685873045244396 | 0.8817528303813614 | 1.055835652349264 | 0.08605013914095584 | 0.6061929086363066 | 0.0402 | 0.21787219270846409 | 0.07255728393157551 | 1.526622912056049 | 1.9738696753824103 | 10.838692682933795 | 16.38985741270954 | 3.7318741753818085 | 18.418072713863307 | 0.278202041146887 | 0.0344698235026751 | 0.06076592088146136 | 0.9181586208793019 | 0.1450507887211375 | 0.34578898879828535 | 0.34578898879828535
+Auto & Truck | 19 | 0.2796714285714285 | 0.046162613513357605 | 0.05063833144145695 | 0.28105330022521224 | 0.47138066877424006 | 0.9554061302681993 | 0.08002436781609196 | 0.33708676261598347 | 0.0352 | 0.5614884136742739 | 0.04695024777254853 | 1.1890462714463605 | 1.0402195701581045 | 10.02584181105124 | 20.928792359612256 | 2.2554051492552145 | 12.186723368247414 | -0.01348866383335712 | 0.0940697556929035 | 0.10086055208088991 | 3.2778798953947414 | 0.14703961224155562 | 0.45176076009483107 | 0.451760760094831
+Auto Parts | 65 | 0.052560857142857145 | 0.07649418079740689 | 0.1838162512456584 | 0.2633686970825959 | 1.0847454262865814 | 1.2855828698553953 | 0.09983497219132371 | 0.5506473425020062 | 0.0402 | 0.24762771459433067 | 0.08108584666701292 | 2.6441396807247433 | 0.7831433607748951 | 7.342813067341443 | 10.780991589320433 | 2.55763178938219 | 254.73693131655708 | 0.1009662307742369 | 0.03983044732173426 | 0.05020631707153507 | 1.082050406338663 | 0.21810907881247088 | 0.18141360800266418 | 0.18141360800266415
+Bank (Money Center) | 9 | 0.12195555555555554 | -0.0012326542197867451 | -0.0001217422011748052 | 0.26730732941717017 | 0.4735351267677558 | 1.110528735632184 | 0.08933172413793104 | 0.3276895096888652 | 0.0352 | 0.6839535982031797 | 0.04267806997415042 | 0.1331420474991374 | 7.743681925918236 | NA | NA | 0.9597708181429531 | 13.433615754573914 | NA | 0.013557067424058333 | 0.013557067424058333 | NA | 0.0992221155243167 | 0.21282250842734826 | 0.2128225084273483
+Banks (Regional) | 644 | 0.13288031602708789 | -0.0012699764026681494 | -0.00023609760109127964 | 0.2807815812222543 | 0.3632766129587277 | 0.5111829713326705 | 0.053370978279960235 | 0.28925289742969484 | 0.0352 | 0.4400680887948125 | 0.039178351906535125 | 0.24497462919109747 | 5.449526722703326 | NA | NA | 1.1557008391432382 | 18.154892666628836 | NA | 0.05691230562102416 | -0.033195337766640604 | NA | 0.09227747488260671 | 0.27686015254988455 | 0.2768601525498846
+Beverage (Alcoholic) | 22 | 0.09470333333333332 | 0.22903999176551046 | 0.15849331108066342 | 0.27105325521690476 | 0.8180933816000725 | 0.9382825166364188 | 0.07899695099818513 | 0.585113649652446 | 0.0402 | 0.15436514128240567 | 0.07052586270420264 | 0.7800206774014067 | 5.529721858630979 | 19.92630428892292 | 24.12658566543789 | 4.426933543961726 | 38.20156049113593 | 0.2455574333666495 | 0.08352794417681116 | 0.12970661060559827 | 0.8577889105370188 | 0.13026839756324504 | 0.30963881775015273 | 0.3096388177501528
+Beverage (Soft) | 43 | 0.08796470588235294 | 0.18044616898496854 | 0.22421933236723704 | 0.27934645045094264 | 0.9893615587239133 | 1.1525281143212178 | 0.09185168685927307 | 0.5455021303113443 | 0.0402 | 0.1868339433164866 | 0.07919710871587762 | 1.3214631938363832 | 3.5469362027485416 | 15.824641552350874 | 19.657822180938314 | 8.130629517176859 | 39.01998627734911 | 0.010168252929767422 | 0.045627489468454616 | 0.06533930307730972 | 0.47103299307672664 | 0.21981659427797612 | 0.8352979826061371 | 0.8352979826061371
+Broadcasting | 29 | 0.0912505 | 0.22593170920401368 | 0.19376921975091635 | 0.3109365994934158 | 0.7536637520408219 | 1.2912469135802471 | 0.10017481481481483 | 0.47220849997015885 | 0.0352 | 0.486467426346753 | 0.0617172225115327 | 1.088267511940662 | 2.9312765388753976 | 9.530796151671796 | 12.977636876351259 | 2.3872032881955825 | 24.16357566730734 | 0.2046649803687458 | 0.027838022121325367 | 0.06193462660859154 | 0.5194052426861168 | 0.11729049638345163 | 0.20401971775195327 | 0.20401971775195327
+Brokerage & Investment Banking | 42 | 0.05529666666666667 | 0.00014197448221603816 | 2.5206323880202364e-05 | 0.2781597606635 | 0.45570813127557197 | 1.3484917676296984 | 0.1036095060577819 | 0.48047247103486707 | 0.0352 | 0.7406264098404287 | 0.04251559933669659 | 0.1995661899342774 | 5.823858038800231 | NA | NA | 1.1579907795155997 | 43.7817063538021 | NA | 0.025613944848325926 | 0.03497723824556293 | NA | 0.07976576773372346 | 0.25199700794880425 | 0.2519970079488043
+Building Materials | 39 | 0.09361777777777779 | 0.09097750878731174 | 0.15910130983600126 | 0.3387408786187362 | 0.9803523618705265 | 1.1773270935960591 | 0.09333962561576355 | 0.4427377700797707 | 0.0352 | 0.24896253461429335 | 0.07535964457356771 | 2.2541213090760577 | 1.465147466578309 | 11.416885291987883 | 16.087633653289043 | 4.056701231966688 | 28.88049327885445 | 0.16920011365609686 | 0.030496983431890872 | 0.08567547126795548 | 1.436013752923405 | 0.12635243361942575 | 0.2487918283664055 | 0.24879182836640545
+Business & Consumer Services | 159 | 0.06038243589743588 | 0.11103764073224674 | 0.22408826449922928 | 0.34868740894267763 | 0.9498269783318233 | 1.1891302412174194 | 0.09404781447304515 | 0.501316296064812 | 0.0402 | 0.26105331803451504 | 0.07579292648195472 | 2.339017823147344 | 1.9153264594670423 | 11.144446733688136 | 17.14865251859587 | 3.8844027313917167 | 25.69647708843414 | 0.15679627548642364 | 0.03223340604964613 | 0.07279093965773967 | 1.1438452782483395 | 0.10000762844626339 | 0.4240828066573004 | 0.42408280665730036
+Cable TV | 19 | 0.060594999999999996 | 0.19942756885993665 | 0.16037624783600896 | 0.3630995989820313 | 0.8852767872810033 | 1.2313168103448278 | 0.09657900862068966 | 0.4158222247977182 | 0.0352 | 0.3315866558024559 | 0.07155780830198649 | 0.9710067082061342 | 3.067034916700762 | 9.32363160878473 | 15.156283905385768 | 4.572302904186213 | 29.37145286837885 | 0.09456568855583694 | 0.12055902296775559 | 0.0028909767035949748 | 0.024410617898300815 | 0.1957449334407615 | 0.43095060951181824 | 0.4309506095118183
+Chemical (Basic) | 42 | 0.059338235294117664 | 0.09565961198155089 | 0.125713734937927 | 0.3281499430847886 | 0.8072569695201738 | 1.1681739261947974 | 0.09279043557168784 | 0.5420010320130034 | 0.0402 | 0.3825087732078509 | 0.06652339150551276 | 1.4320914246048253 | 1.0591367829387413 | 6.58725388881548 | 10.932210897249504 | 1.5897605364663834 | 13.086852671356192 | 0.1913471213206706 | 0.07606380786302792 | 0.13789247968595336 | 1.5705518729084094 | -0.06249508301921378 | 0.003134181343605416 | 0.0031341813436054355
+Chemical (Diversified) | 9 | 0.049931666666666666 | 0.1128624707452928 | 0.12748997166579423 | 0.2836890004707359 | 1.2650470656106723 | 1.5548620689655173 | 0.11599172413793103 | 0.4055813481961074 | 0.0352 | 0.27679033351242455 | 0.08973214797289437 | 1.386443483816236 | 1.5515831104861315 | 9.097533935827817 | 13.620899632558755 | 3.099460540167755 | 25.399974864631172 | 0.20975401318792306 | 0.07451379576111303 | 0.1071660920823905 | 1.3401965150337272 | 0.17721613308205825 | 0.4395694126577037 | 0.43956941265770366
+Chemical (Specialty) | 104 | 0.07205032786885245 | 0.14647884735295158 | 0.20203511514327388 | 0.22052081366376264 | 1.0143943542009635 | 1.2471817528735627 | 0.09753090517241375 | 0.5042901809373416 | 0.0402 | 0.2388465892232871 | 0.07999696086018855 | 1.5069881522402766 | 2.186166894279353 | 10.67541114676131 | 14.808642200715624 | 3.7133049041727055 | 48.33414668320232 | 0.20672665782981006 | 0.06487805942291487 | 0.15916172432035103 | 1.4554981369547302 | 0.2178800759984357 | 0.29028849147852814 | 0.2902884914785282
+Coal & Related Energy | 38 | 0.007395714285714282 | 0.0036628497873305217 | 0.0021528686418970234 | 0.009751520837747043 | 0.38687819831720366 | 1.487334051724138 | 0.11194004310344828 | 0.8677657260524547 | 0.06520000000000001 | 0.7573282027311745 | 0.05679137073710713 | 0.5979058302279476 | 1.3542388084283392 | 6.035622846959112 | 184.3099416338985 | 0.7470340247513023 | 6.844203972540778 | 0.05703533750182205 | 0.12019596818924402 | -0.029654674216136725 | -2.5211831529391087 | -0.31489797375741024 | 0.028883813059009316 | 0.028883813059009333
+Computer Services | 118 | 0.09128926470588235 | 0.08817551024953633 | 0.3009980926948191 | 0.23220238444058605 | 0.9999471342974805 | 1.1708914942528734 | 0.0929534896551724 | 0.5173868121082053 | 0.0402 | 0.22400247981341503 | 0.07753461727820274 | 3.918980847447087 | 0.9705932341333869 | 8.269540027464828 | 10.891593779304888 | 4.429649526606406 | 31.904670452385208 | 0.11104254177279237 | 0.01777121656261046 | 0.0315514423517923 | 0.43985976620181344 | 0.32230082955632056 | 0.28325176534602686 | 0.2832517653460269
+Computers/Peripherals | 64 | 0.0397972972972973 | 0.19855116010727586 | 0.3569928437330082 | 0.24143154277472786 | 1.219678251088295 | 1.3288359096313915 | 0.10243015457788349 | 0.6391141105706918 | 0.0402 | 0.15715493377571216 | 0.09012332742123043 | 1.8997390312660039 | 1.7623564485975467 | 6.971382519139001 | 9.034364572412406 | 3.224118187985808 | 32.92846369915071 | 0.04965719658969708 | 0.04512536271266005 | 0.06432826883467445 | 0.33615953906961743 | 0.27525493488340275 | 0.23507439484858558 | 0.2350743948485856
+Construction Supplies | 52 | 0.11616029411764703 | 0.10442545912646156 | 0.12181240029397647 | 0.2900473597156743 | 1.178961428130513 | 1.649170881226054 | 0.12165025287356324 | 0.42413870439103213 | 0.0352 | 0.37139267939490705 | 0.08431405289860304 | 1.4034221493928838 | 1.2511036198048568 | 8.373296974166506 | 12.027370727209396 | 2.473721633627023 | 35.85286220552225 | 0.1664243115303954 | 0.055811505613319004 | 0.06577793082852414 | 0.884947695224111 | 0.1461535487627349 | 0.4448260594007051 | 0.4448260594007051
+Diversified | 26 | 0.05996799999999998 | 0.15656950090346713 | 0.07706402991076765 | 0.369407369889834 | 0.735705629144112 | 1.0084038662486938 | 0.08320423197492163 | 0.2737169503945261 | 0.0352 | 0.35783039333930194 | 0.06098860682716697 | 0.5804222605532788 | 2.73643002383349 | 12.710572262285599 | 17.47412926824469 | 1.8587680620907208 | 24.794311771973213 | 0.05678459984778599 | 0.07972905800517789 | 0.15631418113314013 | 1.5987406424742592 | 0.05673903662284213 | 0.5007974703106814 | 0.5007974703106814
+Drugs (Biotechnology) | 411 | 0.2029558119658121 | 0.35172215928739864 | 0.20331105242332265 | 0.2038490669676772 | 1.1948507312665528 | 1.2818401979565774 | 0.09961041187739464 | 0.888880844021551 | 0.06520000000000001 | 0.12502709591267827 | 0.0920474713498022 | 0.587269208654281 | 8.320703935219296 | 13.596235885345296 | 21.018842733464307 | 7.500631931233133 | 79.13959960484264 | 0.203282846054119 | 0.04682498735561264 | 0.32649468554657723 | 1.707435236064172 | 0.2234680987356988 | 0.32015757330471634 | 0.3201575733047164
+Drugs (Pharmaceutical) | 157 | 0.1656388372093023 | 0.24927606217836834 | 0.15191231371629962 | 0.2522942722676056 | 0.939009770823584 | 1.0171867593335115 | 0.0837312055600107 | 0.7730491688256578 | 0.045200000000000004 | 0.11514073829611902 | 0.07721294955599771 | 0.6331229724851027 | 4.755877625204674 | 13.627031590387197 | 19.353171965883107 | 4.046486862432035 | 41.82454499500409 | 0.25277052575057896 | 0.04146632364653893 | 0.20210973959115217 | 1.212459171101153 | 0.15210959428224505 | 0.6917573059628191 | 0.6917573059628191
+Education | 40 | -0.020763157894736848 | 0.07998322033766851 | 0.09628050394150674 | 0.40491055464102155 | 0.859296431522616 | 1.0528460375075621 | 0.08587076225045372 | 0.596163707765073 | 0.0402 | 0.3161787535912588 | 0.0663464832087951 | 1.3682637367262913 | 1.3717491925931489 | 6.961942337126592 | 16.422085680941414 | 1.7875684709894557 | 22.741552422584416 | 0.11226171613595194 | 0.050269276684520345 | 0.05409897712911227 | 1.1809973519395445 | 0.007868851879837713 | 1.0733527893141768 | 1.0733527893141768
+Electrical Equipment | 120 | 0.11635999999999999 | 0.11452523380027566 | 0.24347039293121886 | 0.3203934362686504 | 1.0305869828588605 | 1.1497065830721005 | 0.09168239498432602 | 0.7103905555367994 | 0.045200000000000004 | 0.1797202990056224 | 0.08007922205322386 | 2.275060520153187 | 1.7939287664872956 | 9.868573278007274 | 14.357350793966708 | 3.452859143316525 | 25.86576321345469 | 0.20272641012198994 | 0.059112385301806056 | 0.09876279260572743 | 1.3949287295719888 | 0.15433753241909345 | 0.44321944775949684 | 0.44321944775949684
+Electronics (Consumer & Office) | 25 | 0.06404166666666666 | 0.09840291877870079 | 0.20176415177315551 | 0.2578463472514306 | 1.164240864957417 | 1.2307431284357822 | 0.09654458770614692 | 0.6342445944963897 | 0.0402 | 0.12898350705017525 | 0.08720301038714508 | 2.2442939159327455 | 1.189368004972864 | 9.151439631327772 | 13.149372471137522 | 2.722158176273561 | 20.811468484224783 | 0.18810991907872993 | 0.029790698338726728 | 0.104300539067059 | 1.9086438975651638 | 0.17741524889978388 | 0.18021047270861867 | 0.18021047270861867
+Electronics (General) | 167 | 0.056084513274336285 | 0.09850884235754305 | 0.12501805053820983 | 0.21448134726820137 | 0.9797732715355728 | 1.0250152261531584 | 0.0842009135691895 | 0.5934398262940169 | 0.0402 | 0.16522560264295694 | 0.07427400841738077 | 1.395502836923502 | 1.4576547855683386 | 9.482051371257088 | 15.293119614054149 | 2.0136935617520018 | 42.26866624684032 | 0.21070066675824792 | 0.048757985359928445 | 0.12069472239900951 | 1.7225033459110102 | 0.10420953826235377 | 0.19953190671427123 | 0.19953190671427123
+Engineering/Construction | 51 | 0.09452413793103448 | 0.03657193721767663 | 0.1519800619615943 | 0.31489051006250934 | 1.0654127428021691 | 1.3162831339432322 | 0.10167698803659392 | 0.5701516623379648 | 0.0402 | 0.29532616956810226 | 0.07877237983650752 | 4.702794299886978 | 0.5048417567614228 | 7.516698779194784 | 13.68267699673028 | 1.4837584598870646 | 21.99344734317481 | 0.14996303706131467 | 0.0146440690774852 | 0.04788904055694519 | 1.7031712989222203 | 0.017402430993478303 | 0.4553859818368073 | 0.45538598183680734
+Entertainment | 84 | 0.11496083333333332 | 0.21386947258916972 | 0.330047154085737 | 0.26775691254640993 | 0.9782923489962891 | 1.2130703177822857 | 0.09548421906693713 | 0.6316266121950705 | 0.0402 | 0.2304228208255286 | 0.07904027440352251 | 1.595104303481293 | 2.8527853693917833 | 10.364015191784963 | 13.205137038023704 | 3.203575665053171 | 372.5698233930005 | 0.1205762239871975 | 0.04403162018516965 | 0.01591825006641869 | 0.8069865803575679 | 0.21918575215296215 | 0.27505348999150325 | 0.27505348999150325
+Environmental & Waste Services | 97 | 0.1666923529411765 | 0.12034776729979932 | 0.1831160493043983 | 0.2934818872617067 | 0.8219558091889966 | 1.1048646083934777 | 0.08899187650360865 | 0.6551442900893147 | 0.045200000000000004 | 0.2795533066998395 | 0.07169538883530074 | 1.6436848892082405 | 2.2398312374019613 | 10.128519003983751 | 18.585438268642417 | 3.147283108328815 | 56.01613251260913 | 0.1104146283875346 | 0.0736686436560513 | 0.04471801221218632 | 0.6281065573375872 | 0.08207608208589416 | 0.7390398390829273 | 0.7390398390829273
+Farming/Agriculture | 37 | 0.131699375 | 0.04885279847883789 | 0.07426201248350166 | 0.30146668940212074 | 0.7741951066487622 | 1.2498723741577489 | 0.09769234244946493 | 0.48686296250761596 | 0.0352 | 0.43093985913059285 | 0.064694267980993 | 1.67616885934917 | 0.7438639550435336 | 10.044966901488776 | 15.148105275566257 | 1.728036414644059 | 19.288641747954998 | 0.12090502099290253 | 0.033275227791970424 | 0.05431045150667706 | 1.7937121597698844 | 0.10455747664100024 | 0.35854537180714136 | 0.3585453718071414
+Financial Svcs. (Non-bank & Insurance) | 272 | 0.12284095808383239 | 0.058788430899593486 | 0.0015225186309279467 | 0.331231566770877 | 0.0558494718753152 | 0.648398737885959 | 0.06160392427315754 | 0.349692291780393 | 0.0352 | 0.9304933292683114 | 0.023933902794380978 | 0.031852988217444735 | 33.15545574513327 | NA | NA | 1.7256633970548645 | 66.90136378756242 | NA | 0.07952834553394673 | 0.12200581560697965 | 3.386576696330729 | -0.012019244249844827 | 0.1377580249513001 | 0.13775802495130007
+Food Processing | 89 | 0.12050645833333334 | 0.11610653001386752 | 0.23127279048518368 | 0.2329335732747667 | 0.7416481757000527 | 0.8860088536812675 | 0.07586053122087605 | 0.3829316772626014 | 0.0352 | 0.20737028985459252 | 0.06450897139480861 | 2.3181992559248004 | 2.2250505048174642 | 14.931052093408866 | 19.162124037723856 | 2.708826184496583 | 64.35977294125259 | 0.08709150637692317 | 0.035069607428263434 | 0.10000150753114749 | 1.0273101812596062 | 0.17568117948276987 | 0.40216880047366227 | 0.4021688004736623
+Food Wholesalers | 14 | 0.0933 | 0.029046927354065017 | 0.17943809666952226 | 0.3385853167951726 | 0.6108382574563238 | 0.7299272030651341 | 0.06649563218390805 | 0.5448821548736751 | 0.0402 | 0.19980254223873106 | 0.058028873144589835 | 7.340910709105522 | 0.4273702624243099 | 10.150842657741395 | 14.674475398533096 | 3.2838454070708316 | 24.43470686328084 | 0.07793014343334 | 0.012792150567863182 | 0.01752692197325355 | 1.087681591125912 | 0.1114035934613702 | 0.7616266308609752 | 0.7616266308609752
+Furn/Home Furnishings | 30 | 0.06300555555555558 | 0.08297040232890235 | 0.1506958473536899 | 0.2285232777667233 | 1.003465779242618 | 1.2302536662703132 | 0.09651521997621879 | 0.4449267905970876 | 0.0352 | 0.23632022156804552 | 0.07869780488626722 | 2.152115217109826 | 1.2573815147360903 | 9.974153586698488 | 15.026736968151845 | 2.840276031334685 | 20.102042670393477 | 0.13846400805953124 | 0.03502420759321287 | 0.09573868266760074 | 1.5457516112363858 | 0.13561101285170327 | 0.2453554547101033 | 0.24535545471010334
+Green & Renewable Energy | 28 | 0.36785 | 0.13423328315965632 | 0.028058671637783923 | 0.08413368194879495 | 0.842134293840427 | 1.6237662835249043 | 0.12012597701149424 | 0.6236484860768072 | 0.0402 | 0.5706633040719751 | 0.06533888895945686 | 0.21065775422020444 | 7.86176328017352 | 11.571072394813758 | 51.02069481358335 | 0.7288586296084972 | 90.27565333319028 | 0.13164612697696448 | 1.7141600669973196 | 2.432157183665198 | 20.69675819702026 | -0.04057751699023196 | 0.021564993564993563 | 0.02156499356499353
+Healthcare Products | 254 | 0.11979447761194036 | 0.16883639180763946 | 0.16746973279909438 | 0.21669006150593306 | 0.9169735409969484 | 1.0265938528533092 | 0.08429563117119855 | 0.6215712826195602 | 0.0402 | 0.1631666403414835 | 0.07447697560256583 | 1.0579242879828403 | 3.7516399566434497 | 14.26563024361717 | 21.693391011721552 | 3.8408125414891012 | 72.59675208035002 | 0.2649302225419424 | 0.05684660726212195 | 0.22169435010822316 | 1.833213767523508 | 0.10330733392058412 | 0.42162510170376644 | 0.42162510170376644
+Healthcare Support Services | 127 | 0.06455840579710145 | 0.04750331167074004 | 0.4149955438331973 | 0.4081841481351008 | 0.8905148234023309 | 1.0496146452635753 | 0.08567687871581452 | 0.5431709996945238 | 0.0402 | 0.22250400675225415 | 0.07198022655838324 | 10.139765498802689 | 0.5980593159577844 | 10.060796549494015 | 12.543626237936724 | 3.091007271647087 | 40.297268685069305 | -0.034162923149459824 | 0.007123104930110325 | 0.03243629114596103 | 1.276240942735944 | 0.1457460822977637 | 0.17962150601567056 | 0.1796215060156705
+Heathcare Information and Technology | 126 | 0.20060619047619035 | 0.13202538993828192 | 0.14344724170820464 | 0.16575663001118832 | 0.9867308827630387 | 1.109548514031272 | 0.08927291084187632 | 0.6051897020236576 | 0.0402 | 0.1503626666568883 | 0.07947634542723331 | 1.1673136659092975 | 4.017824647217945 | 17.935051754602803 | 29.92507192548724 | 4.240436709837107 | 65.64293740398917 | 0.24096223286820687 | 0.03347350002405414 | 0.0739320934157561 | 0.8944024048214325 | 0.11789373496306871 | 0.09443139596296676 | 0.09443139596296679
+Homebuilding | 34 | 0.1533157894736842 | 0.09955744456049502 | 0.08447099842137346 | 0.327191283669314 | 0.8107315261768017 | 1.1224885057471263 | 0.09004931034482758 | 0.41711357006109706 | 0.0352 | 0.37835167140296594 | 0.0639697905672083 | 1.084890176450319 | 1.4639202576662969 | 13.688534966525213 | 14.656798614999193 | 1.5969511054874064 | 15.59057911742809 | 0.7971330375292351 | 0.0035898934721882007 | 0.010503365422146076 | 1.2649992307322044 | 0.1600884740665231 | 0.05632732452455681 | 0.0563273245245568
+Hospitals/Healthcare Facilities | 58 | 0.14564375000000002 | 0.1292644711694512 | 0.09499909675414427 | 0.23902690046704117 | 0.44125508081978904 | 0.8192988505747127 | 0.07185793103448276 | 0.36491763342440864 | 0.0352 | 0.4961135694446191 | 0.046686154962730604 | 0.8203120251823224 | 2.3823277237790172 | 10.685534150696153 | 18.385101068374148 | 2.2033630799052903 | 38.97936600011673 | 0.19759255157656574 | 0.04760177063162918 | 0.08145489439418417 | 1.2506273489804076 | 0.09975756729777913 | 1.104725605086622 | 1.104725605086622
+Hotel/Gaming | 73 | 0.07609794871794871 | 0.1645572370626613 | 0.09405362722521454 | 0.15615218919355636 | 0.6791557878888513 | 0.9714221222721969 | 0.08098532733633182 | 0.4674579495810703 | 0.0352 | 0.35655311570143006 | 0.059640158352076714 | 0.6443049652475773 | 3.2982391754822 | 11.885324158285641 | 20.049549177266 | 3.1303456179928353 | 185.88915781089352 | 0.04825745483038321 | 0.10768203282058907 | 0.08358957775975755 | 0.6647227805557119 | 0.20352838912773094 | 0.4288064128390206 | 0.42880641283902055
+Household Products | 134 | 0.08441590163934426 | 0.17108696945219698 | 0.2900623469914083 | 0.33117512587818704 | 0.9149796629650655 | 1.0472515325670497 | 0.08553509195402298 | 0.6201798820833574 | 0.0402 | 0.16682952715013324 | 0.07528924120345137 | 1.8598277202057116 | 2.804128570958952 | 12.960304006155969 | 16.343625035544985 | 5.374212768775634 | 30.36998905679881 | 0.14124273788945962 | 0.04058283044170086 | 0.06583659162282188 | 0.5202536165393297 | 0.13462764603181518 | 0.9190553540390106 | 0.9190553540390106
+Information Services | 70 | 0.09461510638297874 | 0.2327345306885417 | 0.37612042099480003 | 0.28084109435019444 | 0.9175669579682862 | 1.0004082255747124 | 0.08272449353448275 | 0.4073777273857663 | 0.0352 | 0.13435792637194274 | 0.07444744152799589 | 1.932576971268391 | 4.63558366493345 | 15.71821612936442 | 19.904307926545513 | 5.761526257680123 | 26.220660419135296 | 0.01615649973243749 | 0.034534777413224235 | 0.06344856017319822 | 0.37475524980112995 | 0.23779842814977253 | 0.23806943016390336 | 0.23806943016390336
+Insurance (General) | 20 | 0.03491176470588235 | 0.1323444352597216 | 0.0626070374255706 | 0.27687748977527654 | 0.8192905945247294 | 1.0415208711433759 | 0.08519125226860255 | 0.3356613868512515 | 0.0352 | 0.2995398960530384 | 0.06599935602407733 | 0.6043158271843119 | 1.5839474994210458 | 8.265788565064955 | 11.973493875581763 | 0.9062822906035335 | 24.848856884912248 | 0.36563719942605716 | 0.022627541501073593 | 0.031455976542029196 | 0.3119845490311708 | 0.04673551748607432 | 0.27930588801776757 | 0.27930588801776757
+Insurance (Life) | 25 | 0.028254285714285718 | 0.14223739258700374 | 0.0855954318471131 | 0.28481211699891407 | 0.9106785438920709 | 1.2830771072796934 | 0.0996846264367816 | 0.3559074749480252 | 0.0352 | 0.44155180344637024 | 0.0649942739465303 | 0.7549954449110483 | 1.2895761432264066 | 8.379794116685245 | 9.047206639456508 | 0.9544117595148411 | 13.983875294753688 | 0.0850470547033691 | 0.0013679344400084053 | 0.0015056291004179212 | 0.04959159754532005 | 0.0868203889167383 | 0.2725798619341705 | 0.2725798619341705
+Insurance (Prop/Cas.) | 53 | 0.08059976744186045 | 0.1472263881115191 | 0.11694533074548917 | 0.28709220364559584 | 0.753856799699296 | 0.8960335812485917 | 0.0764620148749155 | 0.32925960340735677 | 0.0352 | 0.2389211352771917 | 0.06323963785247345 | 1.0164692492410123 | 1.4104776790220659 | 8.534627835370477 | 9.544787018772746 | 1.3784354768794442 | 21.597819827167818 | -0.21089241323445146 | 0.008360193942758387 | 0.010682191819139687 | 0.1547523510234973 | 0.11910543297185991 | 0.24355482046962165 | 0.24355482046962162
+Investments & Asset Management | 145 | 0.13387887096774198 | 0.19654873312137797 | 0.06232503139965177 | 0.21138096334841455 | 0.8069818330114105 | 1.173191260225743 | 0.09309147561354458 | 0.3784087554587898 | 0.0352 | 0.43300230409412827 | 0.061927660843825415 | 0.3442652668366762 | 4.384391103483131 | 18.347042968876206 | 21.265617858434727 | 1.1062803437772826 | 24.483261738300097 | NA | 0.026124907831154474 | 0.02268948632424529 | 0.32292818882311414 | 0.11178464750814164 | 0.6304087197228732 | 0.6304087197228732
+Machinery | 130 | 0.059958589743589724 | 0.1283232895884489 | 0.225353454880832 | 0.2900357874868072 | 1.2286140493062305 | 1.4350244373611516 | 0.10880146624166909 | 0.4607311818532042 | 0.0352 | 0.2161382282418906 | 0.08985014947854358 | 2.071712449120349 | 1.6229819585418301 | 9.59669384468075 | 12.604532614085644 | 2.9971076546367934 | 28.012638150982465 | 0.22804048424108564 | 0.029025027508605156 | 0.05973918757384151 | 0.6654435300651207 | 0.1275665350323054 | 0.37583579548967394 | 0.37583579548967394
+Metals & Mining | 114 | 0.3283433333333333 | 0.11154378152450048 | 0.08290337268377374 | 0.3666750060683116 | 0.8741227599856722 | 1.5545566343042072 | 0.11597339805825242 | 0.9102173940923738 | 0.0777 | 0.46165723947182574 | 0.08395589976268894 | 0.753914333747142 | 1.586637707458071 | 6.623217962840696 | 13.52152583434886 | 1.2111054910605663 | 24.168871601712958 | 0.13139162971187 | 0.179651903107391 | 0.12900891170513634 | 1.550850021243956 | -0.23486328834199438 | 0.002117370670033051 | 0.0021173706700330364
+Office Equipment & Services | 24 | 0.014800625000000001 | 0.1061354117706265 | 0.2302139209471858 | 0.34130431562680513 | 1.2940648547983142 | 1.8153683158420792 | 0.13162209895052476 | 0.4157589065992462 | 0.0352 | 0.3771807542323093 | 0.08994283392411256 | 2.6816713012803395 | 1.077466282696846 | 7.3893055665694645 | 10.165598437186945 | 3.8119294346731 | 13.859554734580339 | 0.09987354543620099 | 0.030270753623303098 | 0.061242174733618475 | 0.9754721276628012 | 0.29359277774001596 | 0.33111990402626645 | 0.33111990402626645
+Oil/Gas (Integrated) | 7 | -0.050366666666666664 | 0.0328868108089873 | 0.029531447608773242 | 0.28008666535355525 | 1.3768945488985402 | 1.5362471264367816 | 0.11487482758620689 | 0.50243840762969 | 0.0402 | 0.1416020644492272 | 0.10202375664126632 | 0.9778476108278217 | 1.4753869151733552 | 9.018648494106351 | 44.71164890042192 | 1.4884596094884361 | 17.958909254945034 | 0.03818453526309886 | 0.16791681904406097 | 0.040860979914407125 | 2.796175375401585 | 0.058392905412527986 | 0.9993594251848932 | 0.9993594251848932
+Oil/Gas (Production and Exploration) | 351 | 0.10457986486486481 | -0.12305717890978604 | -0.039332888850467436 | 0.31787666347499327 | 0.9474376234051323 | 1.6298061400609603 | 0.1204883684036576 | 0.8021762859389089 | 0.06520000000000001 | 0.45198603130885 | 0.08371100249481199 | 0.3291946927595799 | 3.0678558993379452 | 5.592029407660332 | NA | 1.1410846052081534 | 18.941951655155595 | 0.059667147017687376 | 0.6801894134781133 | 0.08246932162615855 | NA | -0.2752683621162678 | 0.004853319608581812 | 0.004853319608581819
+Oil/Gas Distribution | 79 | 0.12898944444444443 | 0.10105962467597684 | 0.09206347599247894 | 0.0901416264553904 | 0.6537293571308831 | 1.2236714285714283 | 0.0961202857142857 | 0.47815042594793106 | 0.0352 | 0.48548506190232804 | 0.05970876736159341 | 0.9650132873384005 | 2.0957958246447825 | 11.806397478505797 | 19.27786857331859 | 1.1863067319841192 | 26.548016505768057 | 0.02427017063711113 | 0.20238001215593301 | 0.23048574201652083 | 2.4790203266197235 | 0.07520780934886169 | 2.25732323156428 | 2.25732323156428
+Oilfield Svcs/Equip. | 143 | 0.11532546666666667 | 0.06987149087778434 | 0.1619393277057203 | 0.29920698334446066 | 1.410476112201879 | 1.7424245153542628 | 0.12724547092125577 | 0.6961691227412165 | 0.045200000000000004 | 0.28098404068534805 | 0.099111811526278 | 2.5630560061560383 | 0.6251086892474559 | 5.769229786488983 | 8.871951796379351 | 1.422667295539253 | 27.19387698510926 | 0.10261809456343488 | 0.04497660303782251 | 0.03248143697396134 | 0.5331158209939283 | 0.08264019231137831 | 0.518102210217902 | 0.518102210217902
+Packaging & Container | 25 | 0.04450944444444445 | 0.10078959783334858 | 0.17098123767411805 | 0.3047002915219041 | 0.9070684424742187 | 1.2638866995073894 | 0.09853320197044337 | 0.3209929374069431 | 0.0352 | 0.35372212932628844 | 0.07115043933149211 | 2.1584445488740247 | 1.4410672953547647 | 9.451445571351837 | 14.291862704423705 | 3.3066181189372648 | 32.95552030022354 | 0.10069635824172275 | 0.045649887239074115 | 0.08159038428660259 | 1.0290893768167864 | 0.16994238527380248 | 0.35847556639768774 | 0.35847556639768774
+Paper/Forest Products | 20 | 0.07625307692307692 | 0.08224956129781988 | 0.11921492243019582 | 0.2950390670802555 | 0.8935661904738545 | 1.5158620689655173 | 0.11365172413793104 | 0.3852966872470754 | 0.0352 | 0.47107607000077584 | 0.07006224318063856 | 1.7234139870086924 | 1.2698401881230612 | 9.08071048131151 | 15.411769505931497 | 3.2589369496217446 | 48.07584654054761 | 0.15690491863470207 | 0.054099073559422416 | 0.02355593331737535 | 0.4776805581065074 | 0.06339899709692476 | 1.1308301554708131 | 1.1308301554708131
+Power | 73 | 0.02995934426229507 | 0.18178467469287812 | 0.07199536034262638 | 0.31593714281956664 | 0.4988808528926162 | 0.7973411088573362 | 0.07054046653144018 | 0.29310365877915995 | 0.0352 | 0.45486968171225656 | 0.04806059465021276 | 0.5168432427530286 | 2.7859978572606106 | 8.917407519101031 | 15.32441392437063 | 1.5964701251353337 | 21.383736142274252 | 0.10818762459672764 | 0.22854956311009636 | 0.16683696598629502 | 1.304286709140839 | 0.08546939933689628 | 0.6867515732004315 | 0.6867515732004315
+Precious Metals | 113 | 0.09111799999999999 | 0.21548774177228755 | 0.09339986030505197 | 0.47234197202867306 | 1.0348311060447721 | 1.2930626710454294 | 0.10028376026272576 | 0.9312911916242506 | 0.0777 | 0.3334777325978032 | 0.08238809116763988 | 0.440558807591339 | 1.970951914838971 | 4.761478093130477 | 8.682221947235778 | 0.7282925942340818 | 12.889672873325827 | 0.1507450547241887 | 0.29652404019548173 | 0.2176452333944296 | 2.1815084611346935 | -0.04404644058861631 | 0.0024290996992920515 | 0.002429099699292059
+Publshing & Newspapers | 39 | 0.021931500000000003 | 0.08269876472473581 | 0.1324294964884394 | 0.18222824919580446 | 1.0689823736618371 | 1.4458879310344832 | 0.10945327586206899 | 0.5159624385759357 | 0.0402 | 0.33141778770061636 | 0.08117231035861568 | 1.853074710448909 | 1.3526362454156644 | 8.845522634647057 | 16.440385039997675 | 1.7531583502168442 | 46.12468433256036 | 0.11802274844633108 | 0.03640428363151563 | 0.0059739660845758765 | 0.0990453702923516 | 0.04180226420579509 | 1.1287741318391449 | 1.1287741318391449
+R.E.I.T. | 221 | 0.12805992957746487 | 0.22183320872445092 | 0.027270455835469182 | 0.02927961626692815 | 0.4128922023885307 | 0.7644639080459773 | 0.06856783448275863 | 0.25709291506981896 | 0.0352 | 0.47316485593147245 | 0.04611718671546379 | 0.1256660593794721 | 12.021492333472162 | 21.464463136095087 | 48.193339747267316 | 2.0610376778527035 | 82.14009042959522 | 0.5526280379686229 | 0.045747524127615895 | -0.0131815717204396

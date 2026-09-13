@@ -1,0 +1,116 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/feedbackloop.pdf
+
+PRICE AND VALUE: THE 
+FEEDBACK LOOP AT GME AND 
+AMC
+ConnectingPrice to Value
+2
+The Question
+¨One topic that I have always wanted to write about is the 
+potential for a feedback loop between price and value. I 
+can see you already rolling your eyes and getting ready 
+to move on.. But hang on…
+¨With the frenzy around GameStop and AMC, you may 
+find it interesting. 
+¤Specifically, a key question that many investors, traders and 
+interested observers have been asking is whether a company, 
+whose stock price and business is beleaguered, can take 
+advantage of a soaring stock price to not just pull itself out of 
+trouble, but make itself more valuable.
+¤Conversely, can a healthy company be dragged down by its stock 
+price dropping too low?
+3
+Price, Value and the Gap
+4
+Efficient Markets?
+¨In an efficient market, the value and pricing 
+processes do not leak into each other . In terms of 
+specifics, when a stock's value is roughly equal to its 
+price:
+¤Issuing new shares at the market price will have no effect 
+on the value per share or the price per share, dilution 
+bogeyman notwithstanding.
+¤Buying back shares at the market price will have no effect 
+on the value per share or price per share of the remaining 
+shares, even though the earnings per share may increase 
+as a result of decreased share count.
+5
+The Feedback Loop
+6
+And its limits with stock issuances..
+¨ Regulations and legal restrictions: A share issuance by a company that is already 
+public is a secondary offering, and while it is less involved than a primary offering 
+(IPO), there are still regulatory requirements that take time and require SEC 
+approval. 
+¨ Demand, supply and momentum: If the price is set by demand and supply, 
+increasing the supply of shares will cause price to drop, but the effect is more 
+insidious. To the extent that the demand for an over valued stock is driven by 
+mood and momentum, the very act of issuing shares can alter momentum, 
+magnifying the downward pressure on stock prices. 
+¨ Value transfer, not value creation: The increase in value per share that you get 
+comes from a value transfer, from the shareholders who buy the newly issued 
+shares at too high a price to the existing shareholders in the company.
+¨ Cash and trust: If you can live with the value transfer, there is one final hurdle. The 
+new stock issuance will leave the company with a substantial cash balance, and if 
+the company's business model is broken, there is a very real danger that 
+managers, rather than follow finding productive ways to fix the model will waste 
+the cash trying to reinvent themselves.
+7
+And with buybacks..
+¨With buybacks, the benefits of buying shares back at below 
+value are much touted, and Warren Buffett made this precept 
+an explicit part of the Berkshire Hathaway buyback program, 
+but buybacks face the same problems often in reverse. 
+¨But it too has its limits:
+¤A large buyback may require a tender offer, with all ofthe costs and 
+restrictions that come with them.
+¤The act of buying back stock may push the price up and beyond value 
+and buybacks too create no value. 
+¤The value transfer in buybacks, if they occur at below fair value, is also 
+for existing shareholders, but the losers will be those shareholders 
+who sold their shares back. 
+¤Finally, a buyback funded with cash that a company could have used 
+on productive investment opportunities is lost value for the company.
+8
+Reality Checks for GME and AMC
+¨Perception: For the moment, the rise in the stock price has bought 
+breathing room in both companies, as lenders back off, but that effect is 
+likely to be transient. Perception alone cannot drive up value.
+¨Implicit effects: On this dimension, AMC has already derived tangible 
+benefits,as $600 million in convertible debt will become equity, making 
+the company far less distressed. For those Redditors primed for revenge, 
+it is worth noting that the biggest beneficiary in this conversion is Silver 
+lake, a hedge fund that invested in these bonds in the dark days for the 
+company. 
+¨Explicit effects: On December 11, well ahead of the stock run-up. In that 
+offering, AMC filed for approval for issuance of up to 178 million 
+additional shares, from time to time, primarily to pay down debt. If the 
+stock price stays elevated, and that is a big if, AMC will be able to issue 
+shares at a price > value and increase its value per share. It is unclear 
+whether GameStop has the time to even try to do this, especially if the 
+stock price rise dissipates in days or weeks, rather than months.
+9
+Feedback Loop at GME –Valuepershare effect
+¨I modified my base case GameStop valuation, which 
+gave me an intrinsic value of $28.17,  and allowed 
+for two additional inputs: new shares issued and an 
+issuance price.
+10
+And the value transfer
+11
+Revenge on your mind..
+¨Investing with the intent of causing pain to someone else is 
+understandable, especially when the other party is viewed as evil 
+or privileged. 
+¨But itis also dangerous, at least in the context of markets because:
+¤By losing sight of the end game in investing, which is preserving and 
+growing your wealth, you may very well succeed at hurting your targets 
+but do even more damage to yourself.
+¤The winners and losers from an investing episode are a quickly shifting 
+coalition, with investors moving from side to side. Thepeoplewhoare
+helpedandhurtarenotalwaysthe people that you set out to help or hurt.
+¤If you truly want to punish a group that you think is deserving of 
+punishment, you have tofind a way to alter their investment models. With 
+hedge funds, the best revenge you can have is to see investorscollectively 
+pull their money out of funds, and that will happen if they under perform 
+as a group.

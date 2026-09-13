@@ -1,0 +1,171 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/IPOProcess.pdf
+
+DISRUPTING THE IPO PROCESS: 
+DIRECT LISTING THREAT TO 
+BANKS
+Aswath Damodaran
+2
+Rumblings of Discontent
+¨ In the age of disruption, where young companies are 
+challenging the status quo and upending conventional 
+businesses, it was only a matter of time before they turned 
+their attention to the process by which they are taken public. 
+¨ For decades, the standard operating procedure for a company 
+going public has been to use a banker or a banking syndicate 
+to market itself to public investors at a “guaranteed” price, in 
+return for a sizeable fee. That process has remained 
+surprisingly stable even as the investing world has changed. 
+¨ In the aftermath of some heavily publicized let downs in the 
+IPO market this year, there is now an active and healthy 
+discussion about how companies should make the transition 
+to being public.
+3
+Going Public: The Status Quo
+4
+Going Public: Direct Listing
+5
+The Banker’s Case for the Status Quo
+¨ Timing: Finding an optimal timing window for the public offering.
+¨ Filing/Offering Details:Navigate disclosure and legal requirements for 
+going public.
+¨ Pricing: Estimate a market-clearing price for the stock and help the 
+company frame its story to public market investos
+¨ Testing: Test the price out on preferred investor clientele, to check for 
+enthusiasm, and adjust it accordingly.
+¨ Selling/Marketing:Use sales teams and investor contacts to expand the 
+company’s investor base and follow up with a road show to whip up 
+enthusiasm.
+¨ Underwriting Guarantee: Set the offering price, with an underwriting 
+guarantee to make up the difference if it crashes and burns.
+¨ After-market Support: Go in and out of the market, giving pricing support 
+for your IPOs, in the post market. Also coordinate with equity research 
+reports to get ”good news” about the company out.
+6
+The Bankers’ Cost: Issuance Costs
+7
+The Bankers’ Cost: Underpricing
+8
+The Diminution of Banking Value Added: 
+Part 1
+¨ No timing skills: No one can really time the market, though some 
+bankers have been able to smooth talk issuing companies into 
+believing that they can. For the most part, they have been able to 
+get away with it, but when momentum shifts, as it seems to have 
+abruptly in the last few weeks in the IPO market, bankers are 
+exposed since they did not see it coming.
+¨ Boilerplate prospectuses: When I wrote my post on the IPO lessons 
+from WeWork, Uber and Peloton, I noted that these three very 
+different companies seem to have the same prospectus writers, 
+with much of the same language being used in the risk sections and 
+business sections. 
+¨ Mangled Pricing: This should be the strong point for bankers, since 
+their capacity to gauge demand (by talking to investors) and 
+influence supply (by guiding companies on offering size) should 
+give them a leg up on the market, when pricing companies.
+9
+The WeWork Pricing
+10
+Mispricing Mistakes?
+¨ The first is that bankers are mispricing these 
+companies, using the wrong metrics and a peer 
+group that does not quite fit, not surprising given 
+how unique each of these companies claims to be. 
+¨ The second is that the bankers are testing out prices 
+with a very biased subset of investors, who may 
+confirm the mistaken pricing. 
+¨ The third and perhaps most likely explanation is that 
+the desire to keep issuing companies happy is 
+leading bankers to set prices first and worry about 
+their reasonableness afterwards.
+11
+The Diminution of Banking Value Added: 
+Part 2
+¨ Ineffective Selling/Marketing: The first is that issuing companies, 
+through their product or service offerings, have a higher profile than 
+many of the investment banks taking them public. The second is that 
+the 2008 banking crisis has damaged the reputation of bankers as 
+arbiters of the truth, and investors have become more skeptical about 
+their stock pitches. 
+¨ Empty guarantee:  The under pricing of IPOs areunder priced dilutes 
+the underwriting guarantee. 
+¨ What after-market Support?. Bankers are on weaker ground with the 
+companies going public now, as opposed to a decade or two ago. 
+¤ Buying shares in the after-market becomes more difficult to do for larger 
+companies because banks don’t have the the capital to be able to pull it off. 
+¤ The same loss of faith that has corroded the trust in bank selling has also 
+undercut the effectiveness of investment banks in hyping IPOs and turning out 
+sell side equity research reports.
+12
+Why change has been slow to come….
+¨ Inertia: The strongest force in explaining much of what 
+we see companies do is inertia, where you stick with 
+what's been done in the past, mostly because of laziness.
+¨ Fear: The fear that shunning bankers may lead to 
+consequences that can affect their stock prices in the 
+offering and in the periods after, ranging from negative 
+recommendations from equity research analysts to 
+bankers actively talking investors out of buying the stock.
+¨ The Blame Game: One of the reasons that companies are 
+so quick to use bankers and consultants to answer 
+questions or take actions that they should be ready to do 
+on their own is that it allows managers and decisions 
+makers to pass the buck, if something goes wrong.
+13
+End Game for Issuing Companies and 
+Private Investors
+¨ Choose the IPO path that is right for you: If you are a company with a 
+higher pricing (in the billions rather than the millions), with a public 
+profile (investors already know what you do) and no instantaneous need 
+for cash, you should do a direct listing. If you are a smaller company and 
+feel that you can still benefit from even the diminished services that 
+bankers offer, you should stay with the conventional IPO listing route.
+¤ If you choose a banker, remember that your interests do not align with those of the 
+bankers, be real about what bankers can do for you and negotiate for the best 
+possible fee, but tie it to the quality of pricing.
+¤ If you choose the direct listing path , note that the market may not agree with you 
+on what you think your company is worth and not only should you accept and 
+move on, you should recognize that this disagreement will be part of your public 
+market existence for your listing life.
+¨ In either case, you should work on a narrativefor your company that 
+meets the 3P test, i.e., is it possible? plausible? probable? You are selling 
+a story, but you will also have to deliver on that story. Fairy tales have 
+happy endings only in the Disney version.
+14
+End Game for Investors 
+¨ Choose your game : You can play the pricing or the value game. There is nothing 
+inherently more noble about either game, but you should decide what game you came 
+to play and be consistent. 
+¨ Keep the feedback loop open : Both investors and traders often get locked into 
+positions on IPOs and are loath to revisit their original theses, mostly because they do 
+not want to admit mistakes. With IPOs, where change is the only constant, you have to 
+be willing to listen to people who disagree with you and change your views, if the facts 
+that merit that change.
+¨ Spread your bets: The old value investing advice of finding a few good investments and 
+concentrating your portfolio in them can be catastrophic with IPOs. No matter how 
+carefully you do your homework, some of the investments in you make in young 
+companies will blow up and if your portfolio succeeds, it will be because a few big 
+winners carried it.
+¨ Stop whining about bankers, VCs and founders : If you lose money on an IPO, the truth 
+is that it may not be your fault or that of any of the players, but the consequence of 
+circumstances out of your control. In the same vein, when you make money on an IPO, 
+recognize that it has much to do with luck as with your stock picking skills.
+15
+The End Game for Bankers
+¨ Get real about what you bring to the IPO table : It behooves bankers then to 
+understand which of the many services that they used to charge for in the old 
+days still provide added value today and to set fees that reflect that value added. 
+This will require revisiting practices that are taken as given, including the 6 -7% 
+underwriting fee and the notion that the offer price should be set about 15% 
+below what you think the fair prices should be.
+¨ Speak your mind : If one of the reasons that the IPOs this year have struggled has 
+been a widening gap between the private and public markets, bankers can play a 
+useful role in private companies by not only pointing to and explaining the gap, 
+but also in pushing back against private company proposals that they believe will 
+undercut the offering.
+¨ Get out of the echo chamber : An increasing number of banks have conceded the 
+IPO market to their West Coast or tech teams, staffed with members who are 
+bankers in name, but entirely Silicon Valley in spirit. It is natural that if you rub 
+shoulders with venture capitalists and founders all day that you relate more to 
+them than to public market investors. I am not suggesting that banks close their 
+West Coast offices, but they need to start putting some distance between their 
+employees and the tech world, partly to regain some of their objectivity.

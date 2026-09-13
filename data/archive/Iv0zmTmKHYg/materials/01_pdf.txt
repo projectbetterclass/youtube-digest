@@ -1,0 +1,162 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ValueInvesting1.pdf
+
+VALUE INVESTING I: SETTING THE 
+TABLE
+The Lead In
+2
+Value Investing: The Winner?
+¨ One of the classes that I teach is on investment philosophies, 
+where I begin by describing an investment philosophy as a set of 
+beliefs about how markets work (and sometimes don't) which lead 
+to investment strategies designed to take advantage of market 
+mistakes. 
+¨ Unlike some, I don't believe that there is a single "best" 
+philosophy, since the best investment philosophy for you is the one 
+that best fits you as a person. I start with technical analysis and 
+charting, move on to value investing, then on to growth investing, 
+and end with information trading and arbitrage. 
+¨ The most common pushback that I get is from old-time value 
+investors, arguing that there is no debate, sincevalue investing is 
+the only guaranteed way of winning over the long term.
+3
+Three Questions
+¨ What is value investing and what do you need to do 
+to be called a value investor?
+¤ There is no consensus even among value investors, other 
+than that value investing is buying cheap companies.
+¤ Within value investing, there are multiple strands, with 
+very different views of how markets work (or do not).
+¨ Where does this certitude that value investing is the 
+"winningest" philosophy come from? Is it deserved?
+¨ How long is the long term, and is it guaranteed that 
+value investing wins?
+4
+What is value investing?
+¨ Lazy Value Investing: Let's start with the easiest and most simplistic 
+definition, and the one that many data services and academics continue 
+to use, simply because it is quantifiable and convenient, and that is to 
+base whether you are a value or growth investor on whether the stocks 
+you buy trade at low or high multiples of earnings or book value. 
+¨ Cerebral Value Investing: Good value investing starts by looking at 
+cheapness (PE and PBV) but also includes other criteria such as good 
+management, solid moats or competitive advantages and other 
+qualitative factors.
+¨ Big Data Value Investing: Closely related to cerebral value investing in 
+philosophy, investors start with the conventional measures of cheapness 
+(low PE and low PBV) but also look for additional criteria that has 
+separated good investments from bad ones. Those criteria are found by 
+poring over the data and looking at historical returns, a path made more 
+accessible by access to huge databases and powerful statistical tools.
+5
+A different categorization
+¨ Passive Value Investing: In passive value investing, you screen for the best stocks 
+using criteria that you believe will improve your odds. Once you buy these stocks, 
+you are asked to be patient, and in some cases, to just buy and hold, and that 
+your patience will pay off as higher returns and a more solid portfolio. 
+¨ Contrarian Value Investing : In contrarian value investing, you focus your investing 
+energies on companies that have seen steep drops in stock prices, with the belief 
+that markets tend to overreact to news, and that corrections will occur, to deliver 
+higher returns, across the portfolio..
+¨ Activist Value Investing : In activist value investing, you target companies that are 
+not only cheap but badly run, and then expend resources (and you need a 
+considerable amount of those) to push for change, either in management 
+practices or in personnel. The payoff to activist value investing comes from activist 
+investors being the catalysts for both price change in the near term, as markets 
+react to their appearance, and to changes in how the company is run, in the long 
+term.
+¨ Minimalist Value Investing :  We have seen the rise of titled index funds and ETFs, 
+where you start with an index fund or ETF , and tilt the fund/ETF by overweighting 
+value stocks (high PE/PBV, for instance) and underweighting non -value stocks.
+6
+A Financial Balance Sheet Perspective
+7
+Value Investing Wins: The Story Roots
+¨ When stock markets were in their infancy, investors faced two problems. 
+¤ The first was that there were almost no information disclosure requirements , and investors had 
+to work with whatever information they had on companies, or on rumors and stories. 
+¤ The second was that investors, more using to pricing bonds than stocks, drew on bond pricing 
+methods to evaluate stocks, giving rise to the practice of paying dividends (as replacements for 
+coupons). 
+¨ Ben Graham laid the foundations for modern value investing, by formalizing his 
+approach to buying stocks and investing in 1934 in Security Analysis , a book that 
+reflected his definition of an investment as "one which thorough analysis, 
+promises safety of principal and adequate return". Graham's subsequently 
+wrote The Intelligent Investor, where he elaborated his more developed 
+philosophy of value investing and developed a list of screens, built around 
+observable values, for finding under valued stocks.
+¨ In 1938, John Burr Williams wrote The Theory of Investment Value , introducing the 
+notion of present value and discounted cash flow valuation.
+8
+The story gets augmented.. Buffett’s role
+¨ Buffett, one of Graham’s students at Columbia University, started 
+an investment partnership, putting value investing into practice, 
+with his own unique twists for his partners.
+¤ He dissolved that partnership (famously) in 1969 , arguing that given a 
+choice between bending his investment philosophy and finding 
+investments and not investing, he would choose the latter . 
+¤ These words, in his final letter to partners in May 1969 , more than any 
+others have cemented his status in value investing: "I just don't see 
+anything available that gives any reasonable hope of delivering such a 
+good year and I have no desire to grope around, hoping to "get lucky" with 
+other people's money. 
+¨ He did allow his partners a chance to receive shares in a struggling 
+textile maker, Berkshire Hathaway, and the rest, as they say, is 
+history, as Berkshire Hathaway morphed into an insurance 
+company, with an embedded closed end mutual fund, investing in 
+both public and some private businesses, run by Buffett.
+9
+And the Berkshire Hathaway payoff
+10
+Value Investing: The Numbers Roots
+¨ If all that value investing had for it were the stories of great value 
+investors and their exploits, it would not have the punch that it 
+does today, without the help of a numbers strand, ironically driven 
+by the very academicsthat value investors hold in low esteem. 
+¨ The capital asset pricing model, despised by value investors, also 
+was developed in 1964, and for much of the next 15 years, financial 
+researchers worked hard trying to test the model. To their 
+disappointment, the model not only revealed clear weaknesses, 
+but it consistently misestimated returns for classes of stock. 
+¤ In 1981, Rolf Banz published a paper, showing that smaller companies (in 
+terms of market capitalization) delivered much higher returns , after 
+adjusting for risk with the CAPM, than larger companies. 
+¤ Over the rest of the 1980s, researchers continued to find other company 
+characteristics that seemed to be systematically related to returns, even 
+though theory suggested that they should not.
+11
+The Fama-French Effect
+12
+With different interpretations..
+¨ It is a proxy for missed risk: In their 1992 paper, Fama and French argued 
+that companies that trade at low price to book ratios are more likely to be 
+distressed and that our risk and return models were not doing an 
+adequate job of capturing that risk. They and others who have advanced 
+the same type of argument would argue that rather than be a stamp of 
+approval for value investing, these studies indicate risks that may not 
+show up in near term returns or in traditional risk and return models but 
+eventually will manifest themselves and cleanse the excess returns. Put 
+simply, in their world, value investors will look like they are beating the 
+market, until these unseen risks show up and mark down their portfolios.
+¨ It is a sign of market inefficiency: During the 1980s, as behavioral finance 
+became more popular, academics also became more willing to accept and 
+even welcome the notion that markets make systematic mistakes and that 
+investors less susceptible to these behavioral quirks could take advantage 
+of these mistakes. For these researchers, the findings that low price to 
+book stocks were being priced to earn higher returns gave rise to theories 
+of how investor irrationalities could explain these returns.
+13
+The End Result
+¨ When valuing companies, I talk about how value is a bridge 
+between stories and numbers, and how the very best and 
+most valuable companies represent an uncommon mix of 
+strong stories backed up by strong numbers. 
+¨ In the realm of investment philosophies, value investing has 
+had that unique mix work in its favor, with stories of value 
+investors and their winning stocks backed up by numbers on 
+how well value investing does, relative to other philosophies. 
+¨ It is therefore no surprise that many investors, when asked to 
+describe their investment philosophies, describe themselves 
+as value investors, more because it has been historically 
+viewed as not just a winning philosophy, but one with 
+intellectual and academic backing for its successes than due 
+to any loyalty or adherence to its core principles.

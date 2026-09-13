@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/leaseeffectIndia.xls
+
+[legacy .xls workbook: leaseeffectIndia.xls — see raw file]

@@ -1,0 +1,303 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/PelotonIPO.pdf
+
+INSIGHTS ON VC PRICING: 
+LESSONS FROM UBER, WEWORK
+AND PELOTON
+Aswath Damodaran
+http://www.damodaran.com
+Aswath Damodaran 1
+2
+Started a Peloton Valuation, but 
+distraction struck…
+¨ Déjà vu? The Peloton prospectus, with the descriptions of its 
+business, its measure of total market size and its success at scaling 
+up revenues accompanied by large losses, I was reminded of 
+prospectuses from Lyft, Uber, Slack, Pinterest and, most recently, 
+WeWorks, not only shared many of the same characteristics but 
+also used much of the same language. 
+¨ Learned Behavior: It is possible that they all used a ProspectusApp,
+which wrote the prospectus for them, with all the necessary pieces 
+and buzzwords, but more likely,these companies are emphasizing 
+those features that allowed them to get to where they are today.
+¨ Insight into whatVC prize and price most: Examining the features 
+they emphasize should give us insight into how venture capitalists 
+price companies, and the dangers of basing what you pay on the 
+most recent VC pricing. 
+Aswath Damodaran
+2
+3
+1a. Grandiosity in Business Description
+¨ It is natural that companies, especially early in their lives, puff up 
+their business descriptions and inflate their potential markets, but 
+the companies that have gone public this year seem to have taken 
+it to an art form. 
+¤ Lyft, which went public before Uber, described themselves as a 
+transportation company, a little over -the-top for a car service company, 
+but Uber topped this easily, with their identification as a personal mobility 
+company. 
+¤ WeWork, in its prospectus, steers clear of ever describing itself business as 
+real estate, framing itself instead as a community company , whatever that 
+means. 
+¤ Peloton, in perhaps the widest stretch of all, calls itself a technology, 
+media, software, product, experience, fitness, design, retail, apparel and 
+logistics company, and names itself Peloton Interactive for emphasis. 
+¨ All of them also claim to be tech companies.
+Aswath Damodaran
+3
+4
+Ib. Total Addressable (Accessible) Markets 
+(TAM)
+"IT" IS POSSIBLE
+This	could	happen,	but	
+you	are	not	sure	what	
+“this”	is,	when	it	will	
+happen	and	what	it	will	
+look	like	when	it	does.
+"IT" IS PLAUSIBLE
+This	is	something	that	
+you	can	make	a	reasoned	
+argument	could	happen,	
+though	you	have	little	
+tangible	evidence	for	it	
+happening	(yet).
+IT IS PROBABLE
+This	is	something	that	you	
+expect	to	happen,	with	
+some	basis	or	evidence	for	
+that	expectation.	There	
+can	be	substantial	
+uncertainty	in	your	
+expectations.
+TAM Overreach
+Count	every	conceiveable	customer ,	
+now	or	in	the	future,	as	part	of	potential	
+market.
+Expanded TAM
+Start	with	existing	market	reach,	but	
+expand	to	include	new	customers	drawn	
+in	both	product/service	changes	and	
+market	trends.
+Constrained TAM
+Given	product/service	
+characteristics,	count	only	customers	
+that	you	can	reach	today.
+Cannot assess Low Increasing
+Total Addressable or Accessible Markets (TAM): The 3P Test
+5
+Uber’s TAM
+6
+WeWork’sTAM
+Peloton’s TAM
+8
+2. Scaling Success ($ and Units)
+Aswath Damodaran
+8
+9
+A Platform Argument (but for what?)
+¨ A Platform? I understand the allure of user numbers, since the 
+platform that they inhabit can be used to generate more revenues. 
+That is implicitly the message that all these companies are sending
+¨ User value: I did estimate a lifetime value of an Uber rider at close 
+to $500 and I could use the model (described in this paper) to 
+derive values for a WeWork member or a Peloton subscriber. 
+¨ The success stories: After all, the most successful user-based 
+companies, such as Facebook and Amazon Prime, have shown how 
+having a large user base can provide a foundation for new products 
+and profits. 
+¨ And the failures: However, there are companies that focus just on 
+adding users, using badly constructed business models and pricing 
+products/services much too cheaply, hoping to raise prices once 
+the users are acquired. 
+Aswath Damodaran
+9
+10
+3. Blurry Business Models and
+Questionable Earnings Adjustments
+Aswath Damodaran
+10
+¨ Most of the companies that have gone public this 
+year have entered the public markets with large 
+losses, even after you correct for what they spend to 
+acquire new users or subscribers. 
+¨ For some investors, this, by itself, is sufficient to turn 
+away from these companies
+¨ Since these are young companies, pursuing 
+ambitious growth targets, neither the negative 
+earnings, nor the negative cash flows, is enough to 
+scare me away.
+11
+3a. Pathways to Profitability?
+¨ As money losing companies, I had hoped that Uber, WeWorkand 
+Peloton would all spend more time talking, in their investor 
+pitches, talking about their existing business models, current 
+weaknesses in these models and how they planned to reduce these 
+vulnerabilities. 
+¤ With Uber and Lyft, the question of how the companies planned to deal 
+with the transition of drivers from independent contractors to employees 
+should have been dealt with front and center (in their prospectuses), 
+rather than be viewed as a surprise that no one saw coming. 
+¤ With WeWork, their vulnerability, stemming from a duration 
+mismatch, begged for a response, and plan, from the company in its 
+prospectus, but none was provided. 
+¤ Peloton may have done the best job, of the there companies, of 
+positioning themselves on this front, with an (implicit) argument that as 
+subscriptions rise, with higher contribution margins, profits would show 
+up and increase.
+Aswath Damodaran
+11
+12
+3b. Adjusted EBITDA
+Aswath Damodaran
+12
+¨ General practice: As has become standard practice 
+across many publicly traded companies, these IPOs do 
+the adjusted EBITDA dance, adding back stock-based 
+compensation and a variety of other expenses. 
+¨ Stock based compensation: I have made my case against 
+adding back stock-based compensation here and here, 
+but I would state a more general proposition that adding 
+back any expense that will persist as part of regular 
+operations is bad practice. 
+¨ Community EBITDA: That is why WeWork's attempt to 
+add back most of its operating expenses, arguing that 
+they were community related, to get to community 
+EBITDA did not pass the smell test.
+13
+4. Founder Worship
+¨ Some time in the last two decades, newly public 
+companies and many of their institutional investors 
+seem to have lost faith in the quid quo pro that has 
+characterized public companies over their history, where 
+in return for providing capital, public market investors 
+are at least given the semblance of a say in how the 
+company is run, voting at annual meetings for board 
+directors and substantive changes to the corporate 
+charter . 
+¨ The most charitable characterization of the corporate 
+governance arrangement at most newly minted public 
+companies is that they are benevolent dictatorships, 
+with a founder/CEO at the helm, controlling its destiny.
+Aswath Damodaran
+13
+14
+Manifestations of Corporate Dictatorship
+Aswath Damodaran
+14
+¨ Shares with different voting classes: With the exception of Uber, every 
+high profile IPO that has hit the market has had multiple classes of shares, 
+with the low-voting right shares being the ones offered to the market in 
+the public offering and the high voting right shares held by insiders and 
+the founder/CEO. 
+¨ Captive boards of directors: I am sure that the directors on the boards of 
+newly public companies are there to represent the interests of investors 
+in the company and and that many are well qualified, but they seem to do 
+the bidding of the founder/CEO. 
+¨ Complex ownership and corporate structures: When private companies 
+go public, there is a transition period where shares of one class are being 
+converted to another, some options have forced exercises and there are 
+restricted share offerings that ripen, all of which make it difficult to 
+estimate value per share. It does not help when the company going public 
+takes this confusion and adds to it, as WeWorkdid, with additional layers 
+of complex organizational structure.
+15
+Learned Behavior?
+Aswath Damodaran
+15
+¨ The fact that almost every company that went public this 
+year framed its total market as implausibly big, 
+emphasized how quickly it has scaled itself up, both in 
+terms of revenues and users/subscribers, glossed over 
+the flaws and weaknesses in its business model, and had 
+shares with different voting rights suggests to me that 
+this is behavior that was learned, because venture 
+capitalists encouraged and rewarded it. 
+¨ Bluntly put, the pricing offered by venture capitalists for 
+companies must value scaling magnitude over sound 
+business models, unrealistic (but huge) total addressable 
+markets over plausible ones, with nary a thought given 
+to corporate governance.
+16
+Pricing Pitch
+¨ VC Pricing as Base: In almost every IPO this year, the basis for 
+at least the initial estimate of what the company would get 
+from the market was the pricing at the most recent VC round, 
+about $66 billion for Uber, $47 billion for WeWorks on the 
+Softbank investment and about $4.2 billion at Peloton. 
+¨ Follow the VCs? The strongest sales pitch that the company 
+and its bankers seem to be making is that venture capitalists 
+are smart people who know a great deal about the company, 
+and that you should be willing to base your pricing on theirs. 
+¨ But should you? This is not very persuasive, because VCs 
+price companies, they don't value them, and the pricing 
+ladder, while it can lead price up, up and away, can also bring 
+price down, when the momentum shifts.
+17
+The Peloton Business Model
+¨ The Equipment: The Peloton product offerings started 
+with an upscale exercise bike, but has since expanded to 
+include an even more expensive treadmill; the bike 
+currently sells for about $2,250 and the treadmill for 
+more than $4,000. 
+¨ The Innovations: 
+¤ Focusing on the upper end of the market with a very limited 
+product 
+¤ Monthly subscription to those who bought, where you can take 
+online classes and access other fitness-related services, with a 
+monthly subscription fee of $40/month. 
+¤ Peloton Digital: In 2018, Peloton expanded its subscription 
+service to non-Peloton fitness product owners, charging about 
+$20 a month, with a membership count of 100,000 in 2018.
+18
+The Subscription Business Grows…
+19
+My Peloton Story
+¨ A Cult? Peloton owners/subscribers rave about the online classes and 
+how they keep them motivated to exercise, and while I take their praise 
+with a grain of salt, it is quite clear that the company's online presence is 
+not only polished but looks amazing on the high resolution TV screens 
+that are built into their bikes and treadmills. 
+¨ My growth story: The total accessible market will grow as Peloton and 
+other new entrants into the subscription model draw in new customers, 
+and that Peloton's allure will last. In my base case valuation, I see 
+Peloton's subscription model as their ticket for future growth, pushing 
+revenues by year 10 for the company to just above $10 billion, a lofty 
+goal, given that the largest US fitness companies (gyms and equipment 
+makers) have revenues of $2-$3 billion.
+¨ Subscription shift side effects:  I also believe that the shift towards 
+subscriptions will continue, allowing for higher margins and lower capital 
+investment than at the typical fitness company.
+‹#›Aswath Damodaran20
+21
+Lots of uncertainty?
+Aswath Damodaran
+21
+¨ There is no denying that there is uncertainty in the 
+future. While some argue that this is reason enough to 
+either not invest in the company, or not do a discounted 
+cash flow valuation, I disagree. 
+¤ At the right price, you should be willing to expose yourself to 
+uncertainty, and while I would not buy Peloton at $26/share, I 
+certainly would be interested at a price lower than $19.35. 
+¤ The notion that the value of a business is a function of its 
+capacity to generate cash flows is not repealed, just because you 
+have a young, high growth company. If your critique is that my 
+assumptions could be very wrong, I completely agree, but I can 
+still estimate value, facing up to that uncertainty.
+22
+Peloton Simulation
+23
+A Requiem…
+¨ The flood of companies going public, and their diverse 
+businesses, has made for interesting valuations, but 
+there are also more general lessons to be learned, even 
+for those not interested in investing in these companies. 
+¤ Our experiences with these IPOs makes clear it is the pricing 
+game that dominates how numbers get attached to companies, 
+and that is especially true for IPOs, not just on the offering day, 
+but in the VC rounds leading up to the offering. 
+¤ To the extent that the pricing game becomes centered on 
+intermediate metrics, say revenue growth or on users or 
+subscribers, it can lead companies astray, as they strive to 
+deliver on those metrics, often at the expense of creating viable 
+business models, and the pricing players (VCs and public 
+investors) can get blindsided when the game changes.

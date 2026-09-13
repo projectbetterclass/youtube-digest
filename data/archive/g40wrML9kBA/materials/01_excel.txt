@@ -1,0 +1,3 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pc/datasets/EVA.xls
+
+[legacy .xls workbook: EVA.xls — see raw file]

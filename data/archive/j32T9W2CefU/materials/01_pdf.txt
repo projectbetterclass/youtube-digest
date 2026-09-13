@@ -1,0 +1,73 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate7.pdf
+
+DATA	2017	UPDATE	7:	OF	GOOD	
+AND	BAD	BUSINESSES
+Aswath	Damodaran
+2
+What	is	a	“good”	business?
+¨ If	asked	to	describe	a	successful	business,	most	
+people	will	tell	you	that	it	is	one	that	makes	money	
+and	that	is	not	an	unreasonable	starting	point,	but	it	
+is	not	a	good	ending	point.	
+¨ For	a	business	to	be	a	success,	it	is	not	just	enough	
+that	it	makes	money	but	that	it	makes	enough	
+money	to	
+¤ compensate	the	owners	for	the	capital	that	they	have	
+invested	in	it,	
+¤ the	risk	that	they	are	exposed	to	and	
+¤ the	time	that	they	have	to	wait	to	get	their	money	back.
+3
+Measuring	Investment	Returns
+4
+The	limitations	of	ROIC
+5
+Estimation	Details
+6
+Excess	Return	Measures
+7
+Excess	Returns:	The	Distribution
+8
+Excess	Returns:	A	Global	Perspective
+9
+Excess	Returns:	Regional	Differences
+10
+Across	Industries:	Bad	Businesses
+"Worst"	Businesses	in	2016
+Industry	Name Number	of	Firms ROC Cost	of	Capital (ROC	- WACC)
+Oil/Gas	(Production	and	Exploration) 964 -4.02% 10.26% -14.27% 
+Oil/Gas	(Integrated) 49 1.66% 9.56% -7.90% 
+Precious	Metals 961 3.24% 9.44% -6.20% 
+Metals	&	Mining 1517 3.01% 8.76% -5.75% 
+Coal	&	Related	Energy 278 2.80% 7.89% -5.09% 
+Steel 737 2.79% 7.32% -4.53% 
+Shipbuilding	&	Marine 326 2.94% 7.14% -4.20% 
+Oilfield	Svcs/Equip. 544 5.65% 9.07% -3.41% 
+Utility	(Water) 96 5.23% 7.55% -2.31% 
+Real	Estate	(General/Diversified) 420 4.77% 6.80% -2.04%
+11
+Across	Industries:	Good	Businesses
+"Best"	Businesses	in	2016
+Industry	Name Number	of	Firms ROC Cost	of	Capital (ROC	- WACC)
+Aerospace/Defense 222 19.70% 8.91% 10.79% 
+Computer	Services 929 22.62% 8.26% 14.36% 
+Business	&	Consumer	Services 772 22.66% 7.77% 14.88% 
+Beverage	(Soft) 103 22.02% 6.79% 15.23% 
+Entertainment 353 23.92% 8.38% 15.54% 
+Household	Products 494 25.16% 7.91% 17.25% 
+Healthcare	Support	Services 334 30.86% 7.93% 22.93% 
+Advertising 251 33.48% 8.25% 25.23% 
+Information	Services 186 33.98% 8.67% 25.30% 
+Tobacco 59 38.92% 6.83% 32.09%
+12
+Closing	Thoughts
+¨ There	are	more	“bad”	businesses	in	the	world	than	
+most	people	realize.	In	fact,	it	is	the	“good”	business	
+that	is		unusual,	not	the	”bad”	one.
+¨ Many	of	these	bad	businesses	seem	to	operate	as	if	
+they	were	in	good	businesses,	either	because	they	
+are	ignorant	(of	how	much	capital	they	have	at	play	
+and	what	they	need	to	make),	in	denial	or	just	don’t	
+care.
+¨ That,	in	a	nutshell,	is	why	you	need	oversight	over	
+management	and	the	willingness	to	change	
+management.

@@ -1,0 +1,103 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate3for2020.pdf
+
+DATA UPDATE 3: THE PRICE OF 
+RISK
+Danger and Opportunity
+2
+The Trade off on Risk
+¨ When investing, risk is a given and if you choose to avoid 
+it, at any cost, you will and in the last decade, you have 
+borne a staggering cost in terms of returns unearned. 
+¨ At the other extreme, seeking out risk for the sake of 
+taking risk is more suited to casinos than to financial 
+markets, and as in casinos, the end game is almost 
+always disastrous. 
+¨ The middle ground on risk is to accept that it is part and 
+parcel of investing, to try to gauge how exposed you are 
+to it and to make sure that your expected return is high 
+enough to compensate you for taking that risk.
+3
+Defining Risk
+¨ There are almost as many definitions of risk, as there are 
+investors, but I find many of them wanting. 
+¤ There is, of course, the definition of risk as uncertainty, a circular play 
+on words, since it just replaces one nebulous word (risk) with another . 
+¤ There is the definition of risk as encompassing all the bad outcomes 
+you can have on an investment, which by making risk into a negative 
+and something to be avoided, leads you right into the arms of those 
+selling your protection against it (in the form of hedging). 
+¤ In finance, we have become so used to measuring risk in statistical 
+terms that we have taken to defining risk with these measures, an arid 
+and antiseptic view of risk. 
+¨ Risk, at least in business, is neither a good nor a bad, but a 
+given. It is a combination of danger (the likelihood that bad 
+things will happen to you) and opportunity:
+4
+The Price of Risk
+¨ When you invest in fixed income securities (bonds), your 
+compensation takes the form of a default spread, i.e., what 
+you charge over the riskfree rate to invest in that bond.
+¨ When you invest in equities, the payoff to taking risk comes in 
+the form of an equity risk premium, i.e., the premium you 
+demand over and above the risk free rate for investing in 
+equities as an asset class.
+¨ The default spread is a function of what investors believe is 
+the likelihood that borrowers will fail to make their 
+contractually obligated payments, and it will rise and fall with 
+the economy. The equity risk premium is a more complex 
+number and I think of it as the receptacle for everything in 
+the market.
+5
+The Default Spread in 2019
+6
+And over time….
+7
+The US Equity Risk Premium
+Using a backward-looking number with a large 
+estimation error (see the standard errors in the table 
+above) as an expectation for the future cuts against 
+the very essence of an equity risk premium as a 
+number that should be dynamic and constantly 
+changing, as new information comes into markets.
+8
+A Forward-looking Estimate
+9
+The ERP’s Path in 2019
+10
+And over time…
+11
+A Real Estate Risk Premium
+¨ Every risky asset class has a price for risk, i.e., a risk premium, 
+though measuring that price can be difficult, when liquidity is 
+lacking.
+¨ Consider the real estate market, perhaps the biggest asset 
+class outside of stocks and bonds. Investors in commercial 
+real estate attach prices to properties, based upon their 
+expectations of income from the properties and capitalization 
+rates. 
+¤ Thus, a property with expected income of $10 million and a 
+capitalization rate of 8% will be valued at $125 million = $10/.08. 
+¤ Since the capitalization rate is effectively a measure of expected return 
+on real estate, subtracting out the risk free rate should yield a measure 
+of the risk premium in real estate.
+Risk Premium for Real Estate = Cap Rate – Risk free rate
+12
+A Comparative Analysis
+13
+In conclusion..
+¨ The debate about equity risk premiums is not an abstract one, 
+since which side of the debate you come down upon is going to 
+drive your asset allocation judgments. 
+¤ If you are market neutral, like me, you are effectively taking the market 
+price of risk, as it is set today, to be right and valuing companies with that 
+equity risk premium. 
+¤ If you are a bear, you believe that equity risk premiums should be higher, 
+either for fundamental reasons or instinct, and you should put less of your 
+wealth into stocks than you normally would, given your age, liquidity 
+needs and risk aversion. 
+¤ If you are a market bull, your story has to be one of declining equity risk 
+premiums, perhaps because you think in your own version of mean 
+reversion or because of continued economic growth.
+¨ If you build in your market views into every valuation that you do, 
+your findings will jointly reflect both your market views and your 
+views of the company.

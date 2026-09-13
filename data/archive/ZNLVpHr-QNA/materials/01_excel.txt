@@ -1,0 +1,3 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pc/datasets/divfund.xls
+
+[legacy .xls workbook: divfund.xls — see raw file]

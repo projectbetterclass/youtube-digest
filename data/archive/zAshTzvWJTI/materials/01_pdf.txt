@@ -1,0 +1,67 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate10.pdf
+
+DATA	UPDATE	10:	THE	PRICING	
+GAME
+Aswath	Damodaran
+2
+Multiple	=	Standardized	Price
+3
+The	Consistency	Rule
+¨ If	your	numerator	is	the	market	value	of	equity	(market	
+capitalization	or	price	per	share),	your	denominator	has	
+to	be	an	equity	measure	as	well	(net	income	or	
+earnings	per	share,	book	value	of	equity.
+¨ A	price	earnings	ratio	is	consistent,	since	both	the	
+numerator	and	denominator	are	equity	values,	and	so	is	
+an	EV	to	EBITDA	multiple.	A	Price	to	EBITDA	or	a	Price	to	
+Sales	ratio	is	inconsistent	and	will	lead	to	conclusions	
+that	are	not	merited	by	the	fundamentals.
+¨
+4
+PE	ratios
+5
+PE	by	Country
+6
+Why	I	mistrust	PE
+¨ Don’t	trust	accountants:	The	more	accountants	can	
+work	on	a	number,	the	less	trustworthy	it	becomes,	
+and	there	is	no	more	massaged,	manipulated	and	
+mangled	variable	than	earnings	per	share.	
+¨ Sampling	bias:	The	sampling	bias	introduced	by	
+eliminating	a	large	subset	of	your	sample,	by	
+eliminating	money	losing	companies,	is	immense.	
+¨ Volatility:	Because	of	its	dependence	on	net	income	
+or	earnings	per	share,	it	is	the	most	volatile	of	all	of	
+the	multiples.
+7
+PBV	Ratio:	The	Distribution
+8
+PBV	by	Country
+9
+EV	to	EBITDA:	The	Distribution
+10
+EV	to	EBITDA,	by	Country
+Aswath Damodaran
+10
+11
+EV	to	Sales:	The	Distribution
+12
+EV	to	Sales,	by	Country
+13
+Sector	Comparisons:	Across	Sectors
+14
+Sector	Comparisons:	Across	Time
+15
+Closing	Thoughts
+¨ Absolute	rules	of	thumb	are	dangerous	(and	lazy):	If	you	
+are	playing	the	pricing	game,	you	have	to	work	with	the	
+market	you	have,	not	the	one	you	wished	you	did.
+¨ Most	stocks	that	look	cheap	deserve	to	be	cheap:	If	you	
+want	to	price	a	stock,	you	have	to	bring	in	not	just	how	
+cheap	it	is	but	also	look	at	measures	of	value	that	may	
+explain	why	the	stock	is	cheap.
+¨ If	you	are	paying	a	price,	you	are	"estimating"	the	future:	
+The	only	difference	between	intrinsic	valuation	and	
+pricing	is	that	you	are	explicit	about	you	are	explicit	
+about	your	assumptions	in	the	former,	and	implicit	in	the	
+latter .

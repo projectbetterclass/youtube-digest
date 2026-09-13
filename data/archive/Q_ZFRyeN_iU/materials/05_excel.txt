@@ -1,0 +1,24 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/CoronaDistressedEquity.xlsx
+
+Sheet: Screening
+CORONA DISTRESSED EQUITY BETS
+Screening Criteria
+1) Company Type: Public Company
+2) Market Capitalization [My Setting] [Latest] ($USDmm, Historical rate): is between 1000 and 5000
+3) % Price Change [02/14/2020-03/20/2020]: is less than -50
+4) EBIT Margin % [LTM]: is greater than 20
+5) Net Debt/EBITDA [LTM]: is greater than 5 (Unreported data set to 0)
+Capital IQ Company Screening Report > CoronaBeatenUp
+Company Name | Exchange:Ticker | Company Type | Market Capitalization [My Setting] [Latest] ($USDmm, Historical rate) | % Price Change [02/14/2020-03/20/2020] | EBIT Margin % [LTM] | Net Debt/EBITDA [LTM]
+TLG Immobilien AG (XTRA:TLG) | XTRA:TLG | Public Company | 1554.9 | -57.9 | 64.7 | 11.5
+Air Lease Corporation (NYSE:AL) | NYSE:AL | Public Company | 1880.7 | -63.5 | 58 | 11
+AerCap Holdings N.V. (NYSE:AER) | NYSE:AER | Public Company | 2392 | -70.4 | 54.8 | 10.4
+Pandox AB (publ) (OM:PNDX B) | OM:PNDX B | Public Company | 1185.1 | -69 | 54.4 | 10.1
+The Wendy's Company (NasdaqGS:WEN) | NasdaqGS:WEN | Public Company | 2440 | -52.2 | 20 | 9.72
+Nexstar Media Group, Inc. (NasdaqGS:NXST) | NasdaqGS:NXST | Public Company | 2295.3 | -60.3 | 22.8 | 8.13
+Intrum AB (publ) (OM:INTRUM) | OM:INTRUM | Public Company | 1627.9 | -54.1 | 32.7 | 7.66
+Inter Pipeline Ltd. (TSX:IPL) | TSX:IPL | Public Company | 2283.9 | -64.4 | 29 | 6.49
+Essential Properties Realty Trust, Inc. (NYSE:EPRT) | NYSE:EPRT | Public Company | 1160.6 | -53.3 | 53.3 | 6.13
+Wyndham Destinations, Inc. (NYSE:WYND) | NYSE:WYND | Public Company | 1719 | -60.1 | 20.5 | 5.33
+Piramal Enterprises Limited (BSE:500302) | BSE:500302 | Public Company | 2046.4 | -55.2 | 55.7 | 5.31
+Western Midstream Partners, LP (NYSE:WES) | NYSE:WES | Public Company | 2344.2 | -67.1 | 36.5 | 5.22

@@ -1,0 +1,181 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/slides/session2.pdf
+
+SESSION 2: THE STRUCTURE OF A 
+BUSINESS
+Aswath Damodaran 0
+1
+A Financial Balance Sheet
+2
+Assets in Place
+•The assets in place reflect investments that a business 
+has already made. The investments were made in the 
+past, but the value that is attached to them is your 
+estimate of what they will generate for you in the future.
+•With this definition, you can see that the value of assets 
+in place can be
+•Significantly lower than what you originally invested, if their 
+earnings power has deteriorated.
+•Significantly higher than what you originally invested, if their 
+earnings power has improved.
+•About what you invested, if the earnings power has stagnated.
+3
+Growth Assets
+¨Growth assets reflect the value of investments that 
+you expect a business to make in the future. 
+¨That value is measured by the “excess returns” you 
+expect to generate on future investments. 
+¨The value of growth assets will be
+¤Higher, if you are in a business where you access to lots of 
+investments that generate excess returns
+¤Lower, if you are in a business that either has very few 
+investments or low or zero excess returns
+¤Negative, if you are in a business with bad investments and 
+you make them anyway.
+4
+Debt
+¨You have the choice of borrowing money to fund 
+some or a big part of your value. 
+¨There are three characteristics that set debt apart 
+from equity:
+¤Contractual commitments to make payments to the 
+lenders (interest & principal)
+¤Failure to meet these commitments can result in you going 
+out of business or losing your equity stake
+¤In much of the world, the tax law is tilted to give you a 
+benefit when you borrow
+Aswath Damodaran
+4
+5
+Equity
+¨Equity is a residual claim. If you are the sole owner 
+of a business, you are entitled to lay claim on 
+whatever cash flows are left over after every one 
+else has been paid their contractual dues.
+¨The Dividend Claim: If you are the stockholder in a 
+public company, the managers have the discretion to 
+decide how much of the cash flows are paid out to 
+you as dividends.
+Aswath Damodaran
+5
+6
+The Corporate Life Cycle
+Stage 2
+Young Growth
+Stage 1
+Start-up
+Stage 4
+Mature Growth
+Stage 6
+Decline
+Revenues
+Earnings
+Stage 3:
+High GrowthGrowth stage
+$ Revenues/
+Earnings
+Time
+Stage 5
+Mature Stable
+Have an idea for 
+a business that 
+meets an unmet 
+need in the 
+market.
+Description
+Create a business 
+model that 
+converts ideas 
+into potential 
+revenues & 
+earnings
+Build the 
+business, 
+converting 
+potential into 
+revenues.
+Grow your 
+business, 
+shifting from 
+losses to 
+proﬁts
+Scale down 
+your business 
+as market 
+shrinks.
+The Bar Mitzvah
+From idea to business
+The Lightbulb (Idea) Moment
+The Scaling up Test
+The Midlife Crisis
+The End Game
+Defend your 
+business from 
+new 
+competitors & 
+ﬁnd new 
+markets
+7
+The Asset Side across the Life cycle
+8
+The Financing Side
+Aswath Damodaran
+8
+Stage 2
+Rapid Expansion
+Stage 1
+Start-up
+Stage 4
+Mature Growth
+Stage 5
+Decline
+Financing Choices across the life cycle
+External
+Financing
+Revenues
+Earnings
+Owner’s Equity
+Bank Debt
+Venture Capital
+Common Stock
+Debt Retire debt
+Repurchase stock
+External funding
+needs
+High, but 
+constrained by 
+infrastructure
+High, relative 
+to firm value.
+Moderate, relative
+to firm value.
+Declining, as a 
+percent of firm 
+value
+Internal financing
+Low, as projects dry
+up.
+Common stock
+Warrants
+Convertibles
+Stage 3
+High Growth
+ Negative or
+low
+ Negative or
+low
+Low, relative to 
+funding needs
+High, relative to
+funding needs
+More than funding needs
+Accessing private equityInital Public offering Seasoned equity issueBond issues
+Financing
+Transitions
+Growth stage
+$ Revenues/
+Earnings
+Time
+9
+The Harvesting Side
+Aswath Damodaran
+9

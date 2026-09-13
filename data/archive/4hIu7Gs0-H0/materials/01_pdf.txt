@@ -1,0 +1,362 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session13.pdf
+
+212
+Should	there	be	a	risk	premium	for	foreign	
+projects?	
+¨ The	exchange	rate	risk	should	be	diversiﬁable	risk	(and	hence	
+should	not	command	a	premium)	if	
+¤ the	company	has	projects	is	a	large	number	of	countries	(or)	
+¤ the	investors	in	the	company	are	globally	diversiﬁed.	
+¤ For	Disney,	this	risk	should	not	aﬀect	the	cost	of	capital	used.	
+Consequently,	we	would	not	adjust	the	cost	of	capital	for	Disney’s	
+investments	in	other	mature	markets	(Germany,	UK,	France)	
+¨ The	same	diversiﬁcaJon	argument	can	also	be	applied	against	
+some	poliJcal	risk,	which	would	mean	that	it	too	should	not	aﬀect	
+the	discount	rate.	However,	there	are	aspects	of	poliJcal	risk	
+especially	in	emerging	markets	that	will	be	diﬃcult	to	diversify	and	
+may	aﬀect	the	cash	ﬂows,	by	reducing	the	expected	life	or	cash	
+ﬂows	on	the	project.	
+¨ For	Disney,	this	is	the	risk	that	we	are	incorporaJng	into	the	cost	of	
+capital	when	it	invests	in	Brazil	(or	any	other	emerging	market)	
+Aswath Damodaran
+213
+EsJmaJng	a	hurdle	rate	for	Rio	Disney	
+¨ We	did	esJmate	a	cost	of	capital	of	6.61%	for	the	Disney	theme	park	
+business,	using	a	boVom-up	levered	beta	of	0.7537	for	the	business.	
+¨ This	cost	of	equity	may	not	adequately	reﬂect	the	addiJonal	risk	
+associated	with	the	theme	park	being	in	an	emerging	market.		
+¨ The	only	concern	we	would	have	with	using	this	cost	of	equity	for	this	
+project	is	that	it	may	not	adequately	reﬂect	the	addiJonal	risk	associated	
+with	the	theme	park	being	in	an	emerging	market	(Brazil).	We	ﬁrst	
+computed	the	Brazil	country	risk	premium	(by	mulJplying	the	default	
+spread	for	Brazil	by	the	relaJve	equity	market	volaJlity)	and	then	re-
+esJmated	the	cost	of	equity:	
+¤ Country	risk	premium	for	Brazil	=	5.5%+	3%	=	8.5%	
+¤ Cost	of	Equity	in	US$=	2.75%	+	0.7537	(8.5%)	=	9.16%	
+¨ Using	this	esJmate	of	the	cost	of	equity,	Disney’s	theme	park	debt	raJo	
+of	10.24%	and	its	ader-tax	cost	of	debt	of	2.40%	(see	chapter	4),	we	can	
+esJmate	the	cost	of	capital	for	the	project:	
+¤ Cost	of	Capital	in	US$	=	9.16%	(0.8976)	+	2.40%	(0.1024)	=	8.46%		
+Aswath Damodaran
+214
+Would	lead	us	to	conclude	that...	
+¨ Do	not	invest	in	this	park.	The	return	on	capital	of	
+4.18%	is	lower	than	the	cost	of	capital	for	theme	
+parks	of	8.46%;	This	would	suggest	that	the	project	
+should	not	be	taken.	
+¨ Given	that	we	have	computed	the	average	over	an	
+arbitrary	period	of	10	years,	while	the	theme	park	
+itself	would	have	a	life	greater	than	10	years,	would	
+you	feel	comfortable	with	this	conclusion?	
+¤ Yes	
+¤ No	
+Aswath Damodaran
+215
+A	Tangent:	From	New	to	ExisJng	
+Investments:	ROC	for	the	enJre	ﬁrm	
+Assets Liabilities
+Assets in Place Debt
+Equity
+Fixed Claim on cash flows
+Little or No role in management
+Fixed Maturity
+Tax Deductible
+Residual Claim on cash flows
+Significant Role in management
+Perpetual Lives
+Growth Assets
+Existing Investments
+Generate cashflows today
+Includes long lived (fixed) and 
+short-lived(working 
+capital) assets
+Expected Value that will be 
+created by future investments
+How “good” are the 
+existing investments 
+of the ﬁrm?
+Measuring ROC for existing investments..
+Aswath Damodaran
+216
+Old	wine	in	a	new	bo,le..	Another	way	of	
+presen6ng	the	same	results…	
+¨ The	key	to	value	is	earning	excess	returns.	Over	6me,	there	have	been	
+a,empts	to	restate	this	obvious	fact	in	new	and	diﬀerent	ways.	For	
+instance,	Economic	Value	Added	(EVA)	developed	a	wide	following	in	the	
+the	1990s:	
+¨ EVA	=	(ROC	–	Cost	of	Capital	)	(Book	Value	of	Capital	Invested)	
+¨ The	excess	returns	for	the	four	ﬁrms	can	be	restated	as	follows:	
+Aswath Damodaran
+217
+Return	Spreads	Globally….	
+217
+218
+6	ApplicaJon	Test:	Assessing	Investment	
+Quality	
+¨ For	the	most	recent	period	for	which	you	have	data,	
+compute	the	ader-tax	return	on	capital	earned	by	your	
+ﬁrm,	where	ader-tax	return	on	capital	is	computed	to	be	
+¨ Ader-tax	ROC	=	EBIT	(1-tax	rate)/	(BV	of	debt	+	BV	of	
+Equity-Cash)previous	year	
+¨ For	the	most	recent	period	for	which	you	have	data,	
+compute	the	return	spread	earned	by	your	ﬁrm:	
+¨ Return	Spread	=	Ader-tax	ROC	-	Cost	of	Capital	
+¨ For	the	most	recent	period,	compute	the	EVA	earned	by	
+your	ﬁrm	
+EVA	=	Return	Spread	*	((BV	of	debt	+	BV	of	Equity-
+Cash)previous	year	
+Aswath Damodaran
+219
+The	cash	ﬂow	view	of	this	project..	
+To get from income to cash ﬂow, we
+I.  added back all non-cash charges such as depreciation. Tax 
+beneﬁts:
+II.  subtracted out the capital expenditures
+III.  subtracted out the change in non-cash working capital
+Aswath Damodaran
+  0 1 2 3 4 5 6 7 8 9 10
+After-tax Operating Income 		 -$32	 -$96	-$54	$68	$202	$249	$299	$352	$410	$421	
+ + Depreciation & Amortization $0	 $50	 $425	$469	$444	$372	$367	$364	$364	$366	$368	
+ - Capital Expenditures $2,500	$1,000	$1,188	$752	$276	$258	$285	$314	$330	$347	$350	
+ - Change in non-cash Work Capital   $0 $63 $25 $38 $31 $16 $17 $19 $21 $5 
+Cashﬂow to ﬁrm ($2,500)($982)($921)($361)$198 $285 $314 $332 $367 $407 $434
+220
+The	DepreciaJon	Tax	Beneﬁt	
+Aswath	Damodaran	
+220
+¨ While	depreciaJon	reduces	taxable	income	and	taxes,	it	does	not	reduce	
+the	cash	ﬂows.	
+¨ The	beneﬁt	of	depreciaJon	is	therefore	the	tax	beneﬁt.	In	general,	the	tax	
+beneﬁt	from	depreciaJon	can	be	wriVen	as:	
+¨ Tax	Beneﬁt	=	DepreciaJon	*	Tax	Rate	
+¨ Disney	Theme	Park:	DepreciaJon	tax	savings	(Tax	rate	=	36.1%)	
+¨ ProposiJon	1:	The	tax	beneﬁt	from	depreciaJon	and	other	non-cash	
+charges	is	greater,	the	higher	your	tax	rate.	
+¨ ProposiJon	2:	Non-cash	charges	that	are	not	tax	deducJble	(such	as	
+amorJzaJon	of	goodwill)	and	thus	provide	no	tax	beneﬁts	have	no	eﬀect	
+on	cash	ﬂows.	
+		 1	 2	 3	 4	 5	 6	 7	 8	 9	 10	
+Depreciation $50	 $425	 $469	$444	$372	$367	$364	$364	$366	$368	
+Tax Bendﬁts from Depreciation $18	 $153	 $169	$160	$134	$132	$132	$132	$132	$133
+221
+DepreciaJon	Methods	
+Aswath	Damodaran	
+221
+¨ Broadly	categorizing,	depreciaJon	methods	can	be	classiﬁed	
+as	straight	line	or	accelerated	methods.	In	straight	line	
+depreciaJon,	the	capital	expense	is	spread	evenly	over	Jme,	
+In	accelerated	depreciaJon,	the	capital	expense	is	
+depreciated	more	in	earlier	years	and	less	in	later	years.	
+Assume	that	you	made	a	large	investment	this	year,	and	that	
+you	are	choosing	between	straight	line	and	accelerated	
+depreciaJon	methods.	Which	will	result	in	higher	net	income	
+this	year?	
+¤ Straight	Line	DepreciaJon	
+¤ Accelerated	DepreciaJon	
+¨ Which	will	result	in	higher	cash	ﬂows	this	year?	
+¤ Straight	Line	DepreciaJon	
+¤ Accelerated	DepreciaJon
+222
+The	Capital	Expenditures	Eﬀect	
+Aswath	Damodaran	
+222
+¨ Capital	expenditures	are	not	treated	as	accounJng	expenses	
+but	they	do	cause	cash	ouslows.	
+¨ Capital	expenditures	can	generally	be	categorized	into	two	
+groups	
+¤ New	(or	Growth)	capital	expenditures	are	capital	expenditures	
+designed	to	create	new	assets	and	future	growth	
+¤ Maintenance	capital	expenditures	refer	to	capital	expenditures	
+designed	to	keep	exisJng	assets.	
+¨ Both	iniJal	and	maintenance	capital	expenditures	reduce	
+cash	ﬂows	
+¨ The	need	for	maintenance	capital	expenditures	will	increase	
+with	the	life	of	the	project.	In	other	words,	a	25-year	project	
+will	require	more	maintenance	capital	expenditures	than	a	2-
+year	project.
+223
+To	cap	ex	or	not	to	cap	ex?	
+Aswath	Damodaran	
+223
+¨ Assume	that	you	run	your	own	sodware	business,	and	
+that	you	have	an	expense	this	year	of	$	100	million	from	
+producing	and	distribuJon	promoJonal	CDs	in	sodware	
+magazines.	Your	accountant	tells	you	that	you	can	
+expense		this	item	or	capitalize	and	depreciate	it	over	
+three	years.	Which	will	have	a	more	posiJve	eﬀect	on	
+income?	
+¤ Expense	it	
+¤ Capitalize	and	Depreciate	it	
+¨ Which	will	have	a	more	posiJve	eﬀect	on	cash	ﬂows?	
+¤ Expense	it	
+¤ Capitalize	and	Depreciate	it
+224
+The	Working	Capital	Eﬀect	
+Aswath	Damodaran	
+224
+¨ IntuiJvely,	money	invested	in	inventory	or	in	accounts	receivable	cannot	
+be	used	elsewhere.	It,	thus,	represents	a	drain	on	cash	ﬂows	
+¨ To	the	degree	that	some	of	these	investments	can	be	ﬁnanced	using	
+supplier	credit	(accounts	payable),	the	cash	ﬂow	drain	is	reduced.	
+¨ Investments	in	working	capital	are	thus	cash	ouslows	
+¤ Any	increase	in	working	capital	reduces	cash	ﬂows	in	that	year	
+¤ Any	decrease	in	working	capital	increases	cash	ﬂows	in	that	year	
+¨ To	provide	closure,	working	capital	investments	need	to	be	salvaged	at	
+the	end	of	the	project	life.	
+¨ ProposiJon	1:	The	failure	to	consider	working	capital	in	a	capital	
+budgeJng	project	will	overstate	cash	ﬂows	on	that	project	and	make	it	
+look	more	aVracJve	than	it	really	is.	
+¨ ProposiJon	2:	Other	things	held	equal,	a	reducJon	in	working	capital	
+requirements	will	increase	the	cash	ﬂows	on	all	projects	for	a	ﬁrm.
+225
+The	incremental	cash	ﬂows	on	the	project	
+$ 500 million has 
+already been spent & $ 
+50 million in 
+depreciation will exist 
+anyway
+2/3rd of allocated G&A is ﬁxed.
+Add back this amount (1-t)
+Tax rate = 36.1%
+Aswath Damodaran
+226
+A	more	direct	way	of	getng	to	
+incremental	cash	ﬂows	
+  0 1 2 3 4 5 6 7 8 9 10
+Revenues   $0 $1,250 $1,750 $2,500 $3,125 $3,438 $3,781 $4,159 $4,575 $4,667 
+Direct Expenses   $0 $788 $1,103 $1,575 $1,969 $2,166 $2,382 $2,620 $2,882 $2,940 
+Incremental Depreciation   $0 $375 $419 $394 $322 $317 $314 $314 $316 $318 
+Incremental G&A   $0 $63 $88 $125 $156 $172 $189 $208 $229 $233 
+Incremental Operating Income   $0 $25 $141 $406 $678 $783 $896 $1,017 $1,148 $1,175 
+ - Taxes   $0 $9 $51 $147 $245 $283 $323 $367 $415 $424 
+Incremental after-tax Operating income   $0 $16 $90 $260 $433 $500 $572 $650 $734 $751 
+ + Incremental Depreciation   $0 $375 $419 $394 $322 $317 $314 $314 $316 $318 
+ - Capital Expenditures $2,000 $1,000 $1,188 $752 $276 $258 $285 $314 $330 $347 $350 
+ - Change in non-cash Working Capital   $0 $63 $25 $38 $31 $16 $17 $19 $21 $5 
+Cashﬂow to ﬁrm ($2,000)($1,000)($859)($267) $340 $466 $516 $555 $615 $681 $715 
+Aswath	Damodaran	
+226
+227
+Sunk	Costs	
+Aswath	Damodaran	
+227
+¨ What	is	a	sunk	cost?	Any	expenditure	that	has	already	
+been	incurred,	and	cannot	be	recovered	(even	if	a	
+project	is	rejected)	is	called	a	sunk	cost.	A	test	market	
+for	a	consumer	product	and	R&D	expenses	for	a	drug	
+(for	a	pharmaceuJcal	company)	would	be	good	
+examples.	
+¨ The	sunk	cost	rule:	When	analyzing	a	project,	sunk	costs	
+should	not	be	considered	since	they	are	not	incremental.	
+¨ A	Behavioral	Aside:	It	is	a	well	established	ﬁnding	in	
+psychological	and	behavioral	research	that	managers	
+ﬁnd	it	almost	impossible	to	ignore	sunk	costs.
+228
+Test	MarkeJng	and	R&D:	The	Quandary	of	Sunk	
+Costs	
+Aswath	Damodaran	
+228
+¨ A	consumer	product	company	has	spent	$	100	million	on	
+test	markeJng.	Looking	at	only	the	incremental	cash	
+ﬂows	(and	ignoring	the	test	markeJng),	the	project	looks	
+like	it	will	create	$25	million	in	value	for	the	company.	
+Should	it	take	the	investment?	
+¤ Yes	
+¤ No	
+¨ Now	assume	that	every	investment	that	this	company	
+has	shares	the	same	characterisJcs	(Sunk	costs	>	Value	
+Added).	The	ﬁrm	will	clearly	not	be	able	to	survive.	What	
+is	the	soluJon	to	this	problem?
+229
+Allocated	Costs	
+Aswath	Damodaran	
+229
+¨ Firms	allocate	costs	to	individual	projects	from	a	
+centralized	pool	(such	as	general	and	administraJve	
+expenses)	based	upon	some	characterisJc	of	the	
+project	(sales	is	a	common	choice,	as	is	earnings)	
+¨ For	large	ﬁrms,	these	allocated	costs	can	be	
+signiﬁcant	and	result	in	the	rejecJon	of	projects	
+¨ To	the	degree	that	these	costs	are	not	incremental	
+(and	would	exist	anyway),	this	makes	the	ﬁrm	worse	
+oﬀ.	Thus,	it	is	only	the	incremental	component	of	
+allocated	costs	that	should	show	up	in	project	
+analysis.
+230
+Breaking	out	G&A	Costs	into	ﬁxed	and	variable	
+components:	A	simple	example	
+Aswath	Damodaran	
+230
+¨ Assume	that	you	have	a	Jme	series	of	revenues	and	
+G&A	costs	for	a	company.	
+¤ What	percentage	of	the	G&A	cost	is	variable?
+231
+To	Time-Weighted	Cash	Flows	
+Aswath	Damodaran	
+231
+¨ Incremental	cash	ﬂows	in	the	earlier	years	are	worth	
+more	than	incremental	cash	ﬂows	in	later	years.	
+¨ In	fact,	cash	ﬂows	across	Jme	cannot	be	added	up.	
+They	have	to	be	brought	to	the	same	point	in	Jme	
+before	aggregaJon.	
+¨ This	process	of	moving	cash	ﬂows	through	Jme	is	
+¤ discounJng,	when	future	cash	ﬂows	are	brought	to	the	
+present	
+¤ compounding,	when	present	cash	ﬂows	are	taken	to	the	
+future
+232
+Present	Value	Mechanics	
+Aswath	Damodaran	
+232
+¨ Cash	Flow	Type 	DiscounJng	Formula 	Compounding	Formula	
+1.	Simple	CF 		 	CFn	/	(1+r)n 		 	CF0	(1+r)n	
+	
+2.	Annuity 	 			
+	
+	
+	
+3.	Growing	Annuity	
+	
+	
+	
+4.	Perpetuity 	 		 A/r	
+5.	Growing	Perpetuity 	Expected	Cashﬂow	next	year/(r-g)	 			
+A 
+1 - 1
+(1+r)n
+r
+!
+"
+#
+#
+#
+#
+$
+%
+&
+&
+&
+&
+€ 
+A (1+r)n - 1
+r
+" 
+# $ 
+% 
+& ' 
+A(1+g) 
+1 - (1+g)n
+(1+r)n
+r-g
+!
+"
+#
+#
+#
+#
+$
+%
+&
+&
+&
+&

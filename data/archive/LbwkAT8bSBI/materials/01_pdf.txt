@@ -1,0 +1,195 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate2.pdf
+
+DATA	2017	UPDATE	2:	THE	
+RESILIENT	US	MARKETS!
+Aswath	Damodaran
+2
+The	Year-beginning	Worries,	A	Bad	Start	
+and	a	Resilient	End
+¨ At	the	start	of	the	year,	the	two	big	worries	were
+¤ The	Federal	Reserve’s	imminent	retreat	from	quantitative	
+easing.
+¤ The	possibility	of	a	slowdown	in	China	rippling	across	the	globe.
+¨ Those	fears	contributed	to	making	January	2016	one	of	
+the	worst-ever	starts	to	the	year for	US	stock	markets.
+¨ During	the	year,	the	Fed	did	pull	back	from	its	easy	
+money	policy	a	bit,	with	promises	of	more	to	come.	And	
+during	the	China	continued	to	report	signs	of	slowing.
+¨ In	surprises,	the	market	was	hit	with	political	tidal	
+waves,	with	the	UK	voters	okaying	Brexit	and	US	voters	
+picking	Donald	Trump	as	president.
+3
+A	Month-by-month	Picture	of	Stocks	and	
+Interest	Rates
+4
+Some	Historical	Perspective
+5
+A	Forward	Looking	ERP
+6
+A	Modified	Implied	ERP
+7
+As	for	T. B o n dRates
+Aswath Damodaran
+7
+8
+As	for	PE	ratios…
+0.00
+5.00
+10.00
+15.00
+20.00
+25.00
+30.00
+35.00
+40.00
+45.00
+50.00
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+PE	Ratios	for	S&P	500	&	Shiller	PE:	1969	to	2016
+PE Normalized	PE CAPE Shiller	PE
+9
+Relative	to	interest	rates..
+2.85
+0.67
+27.27
+40.82
+0.00
+0.50
+1.00
+1.50
+2.00
+2.50
+3.00
+0.00
+10.00
+20.00
+30.00
+40.00
+50.00
+60.00
+1960
+1962
+1964
+1966
+1968
+1970
+1972
+1974
+1976
+1978
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+Shiller	PE	versus	T .Bond	PE
+Ratio	of	Shiller	PE	to	T.Bond	PE Shiller	PE T.Bond	PE
+10
+Explaining	the	divergence..
+30.50
+23.10
+26.63 27.14 26.43 27.27
+25.95
+15.37
+20.32
+22.39
+20.52 21.23
+24.86
+26.79 25.97
+27.27
+38.17
+29.50
+35.21
+29.85
+20.41 19.39
+15.40 13.38
+29.79
+22.65
+17.64 18.79 20.97 20.19 19.26 20.60
+0.00
+5.00
+10.00
+15.00
+20.00
+25.00
+30.00
+35.00
+40.00
+45.00
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+Shiller	PE	versus	Price/	Cash	Return	for	S&P	500	
+Shiller	PE Price/(Dividends	+	Buybacks)
+11
+In	closing
+¨ If there is one lesson that we should learn from
+2016, it is that making predictions about overall
+markets is a fool’s game. The market delights in
+proving experts wrong.
+¨ That said, here are the key questions that we will get
+answers to next year:
+¤ Will US treasury bond rates rise above 3% in 2017? Why?
+¤ How will the tax code change and how will this change play
+out in earnings and cash flows?
+¤ What are the crises for this year and how will the market
+weather them?

@@ -1,0 +1,171 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/slides/session3.pdf
+
+SESSION 3: BALANCE SHEETS -
+ASSETS OWNED & MONEY OWED 
+Accounting for Finance
+2
+The Balance Sheet: Dueling Views
+qRecord of capital invested: There are some (including 
+me) who believe that the main function of a balance 
+sheet is to record how much a business has invested in 
+its assets-in-place, i.e., the assets that allow for its 
+current operations to occur .
+qMeasure of current value: There is a large and perhaps 
+dominant school of thought among accountants, or at 
+least accounting rule writers, that a balance sheet should 
+reflect the value of the business today.
+qLiquidation value: There is a third school, with lenders to 
+the firm among its primary members, who feel that a 
+balance should reflect what you would get for the assets 
+of the firm, if you liquidated them today.
+3
+Revisiting the Balance Sheet
+4
+Fixed and Current Assets
+qThe Old Way: If you are old enough to learned your 
+accounting two or three decades ago, the way you were 
+taught to value fixed and current assets was to show 
+them at original cost, net of accounting depreciation. 
+qThe New Way: As accounting has increasingly adopted 
+the fair value standard, there has been a move to mark 
+assets to current market value. 
+qDivergent Effects: The difference in values that you get 
+for assets, using the two approaches, varies. It is
+qGreater on older assets than on newer ones
+qGreater on fixed assets than current assets
+5
+Financial Assets
+¨Financial assets can take the form of holdings of securities or part 
+ownership of other companies, private or public.
+¨With holdings of publicly traded securities, the movement to using 
+current market prices to mark up their values is almost complete. 
+¨With equity ownership in other companies, the rules can vary 
+depending on
+¤Whether the stake is viewed as a majority stake (>50%) or a minority stake. 
+The former will lead to full consolidation (where 100% of the subsidiaries 
+revenues and operating income will be included in the parent company’s 
+financials, with the portion that is not owned shown as minority or non-
+controlling interest on the liability side) and with the latter, the actual 
+stake will be shown as an asset.
+¤With a minority stake, whether it is held for trading or as a long-term 
+investment. With the former, the holding will be marked to market. With 
+the latter, it will be shown at book value terms.
+6
+Intangible Assets
+¨Big game: Accountants talk a big game when it 
+comes to intangible assets, and from that talk, you 
+would think that they have figured out how to value 
+the big intangibles (brand name, management 
+quality etc.).
+¨But different reality: In reality, accountants are 
+much better at valuing small-bore intangibles like 
+licenses and customer lists, where the earnings and 
+cash flows from the intangible are observable and 
+forecastable than they are at valuing the big 
+intangibles.
+7
+Goodwill: The Most Dangerous Intangible
+¨After all the talk of intangibles in accounting, it is telling 
+that the bulk of intangible assets on accounting balance 
+sheets across the world take the form of one item: 
+goodwill.
+¨Goodwill may sound good, but it is a plug variable that 
+signifies little. 
+¤For goodwill to manifest itself on a balance sheet, a company 
+has to do an acquisition.
+¤When that acquisition occurs, goodwill is measured as the 
+difference between the price paid on the acquisition and the 
+target company’s asset value (dressed up book value).
+¤It shows up as an asset because without it in place, balance 
+sheets would not balance.
+8
+Goodwill Impairment: Valuable information or 
+Make-work-for-accountants?
+¨Old rules: For much of the last century, goodwill once created in an 
+acquisition, was written off on autopilot, often amortized over long 
+periods in equal installments.
+¨New Rules: In the late 1990s, both GAAP and IFRS rewrote the 
+rules, requiring accountants to revisit goodwill estimates each year, 
+and make judgments on whether the goodwill had been impaired 
+or not. To make that judgment, accountants would have to revisit 
+the target company valuations and decide whether the value had 
+increased (in which case goodwill would be left unchanged) or 
+decreased (and goodwill would be impaired).
+¨Is it informational? The rationale for this rule change was to 
+provide information to markets, but since goodwill impairments 
+are often based upon market pricing movements (in the sector) 
+and lag them by months and sometimes years, the effect of 
+goodwill impairments on stock prices has been negligible.
+9
+Current Liabilities
+qCurrent liabilities can be broadly broken into three 
+groups:
+qNon-interest-bearing liabilities, such as accounts payable and 
+supplier credit, which represent part of normal operations.
+qInterest-bearing short-term borrowings such as commercial 
+paper, short term debt and the short term portion (<1 year) of 
+long term debt.
+qDeferred salaries, taxes and other amounts due in the short 
+term.
+qWhen computing non-cash working capital, we do not 
+include interest-bearing short term debt in the 
+calculation, moving it instead into the debt column.
+10
+Debt Due
+¨When companies borrow money, it can take three forms:
+¤Corporate bonds, represent debt raised from public markets
+¤Bank loans, debt raised from banks and other lending institiutions
+¤Lease debt, arising out of lease contracts requiring lease payments 
+in future years. Until 2019, only leases classified as capital leases 
+qualified, but since 2019, operating lease commitments are also 
+debt.
+¨The mark-to-market movement on the asset side of the 
+balance sheet has been muted on the liability side of the 
+balance sheet. Bank debt, for the most part, is recorded as 
+originally borrowed, and corporate bonds due, are for the 
+most part not marked to market.
+11
+Debt details
+¨While balance sheets are the repositories for total 
+debt due, broken down into current and long term, 
+there is additional information on debt in the 
+footnotes, for most companies.
+¨This additional information can be on two fronts:
+¤Individual debt due, with stated interest rates and 
+maturities.
+¤Additional features on the debt, including floating/fixed 
+and straight/convertible provisions.
+¤A consolidated table of when debt repayments come due, 
+by year .
+12
+Shareholder’s Equity
+qOld ways: The shareholders’ equity in a business was a 
+reflection of its entire history, since it started with the 
+equity brought in to start the business, adds on equity 
+augmentations over time as well as the cumulation of 
+retained earnings.
+qNew ways: The shareholders’ equity in a business 
+reflects the jumbled mess of mark-to-market accounting, 
+with all of its contradictions.
+qMy cynical view: Old or new ways, shareholders’ equity 
+(or book equity) has little hope of ever being a measure 
+of the intrinsic value of equity in a business. This quixotic 
+quest on the part of accounting will do more damage 
+than good.
+13
+More on shareholders’ equity
+¨Par value: This is a throwback in time and should be ignored.
+¨Company Age: Since shareholders’ equity reflects a company’s 
+cumulated history of equity raises and retained earnings, young 
+companies will tend to have far less shareholders’ equity than older 
+companies, of equivalent market value.
+¨Capitalization effects: Since only capitalized expenses become part 
+of assets, shareholders’ equity can be skewed by accounting rules 
+and corporate actions on what is capitalized and what is expensed.
+¨Buyback effects: Both dividends and buybacks reduce shareholders’ 
+equity, by reducing it, but the magnitude of buybacks makes their 
+effect more dramatic.
+¨Negative equity? There is no mathematical reason why 
+shareholders’ equity cannot become negative, either because a 
+company has lost money for an extended period or because of 
+large buyback/write off.

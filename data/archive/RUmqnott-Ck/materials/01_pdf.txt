@@ -1,0 +1,398 @@
+Source: https://www.stern.nyu.edu/~adamodar/pdfiles/country/NoiseMotleyFool.pdf
+
+LIVING WITH NOISE:
+INVESTING AND VALUATION IN 
+THE FACE OF UNCERTAINTY
+Aswath Damodaran
+http://www.damodaran.com
+Aswath Damodaran 1
+2
+Uncertainty is a feature, not a bug.
+Aswath Damodaran
+2
+3
+And we deal with uncertainty as humans 
+always have…
+¨Paralysis & Denial: When faced with uncertainty, some of us get 
+paralyzed. Accompanying the paralysis is the hope that if you close 
+your eyes to it, the uncertainty will go away
+¨Mental short cuts (rules of thumb): Behavioral economists note that 
+investors faced with uncertainty adopt mental short cuts that have 
+no basis in reality. And here is the clincher. More intelligent people 
+are more likely to be prone to this.
+¨Herding: When in doubt, it is safest to go with the crowd..  The 
+herding instinct is deeply engrained and very difficult to fight.
+¨Outsourcing: Assuming that there are experts out there who have 
+the answers does take a weight off your shoulders, even if those 
+experts have no idea of what they are talking about.
+¨Divine Intervention: Praying for intervention from a higher power is 
+the oldest and most practiced risk management system of all.
+Aswath Damodaran
+3
+Categorizing uncertainty
+5
+I. Estimation versus Economic Uncertainty
+¨Estimation versus Economic uncertainty
+¤Estimation uncertainty reflects the possibility that you could 
+have the “wrong model”or estimated inputs incorrectly within 
+this model.
+¤Economic uncertainty comes from real sources: that markets 
+and economies can change over time and that even the best 
+medals will fail to capture these unexpected changes.
+¨Estimation uncertainty can be mitigated by doing your 
+homework, collecting more data or building better 
+models, but economic uncertainty is here to stay.
+6
+II. Micro versus Macro Uncertainty
+¨Micro uncertainty versus Macro uncertainty
+¤Micro uncertainty refers to uncertainty about the firm you are 
+valuing and its business model -the potential market or markets 
+for its products, the competition it will face and the quality of its 
+management team.
+¤Macro uncertainty reflects the reality that your firm’s fortunes 
+can be affected by changes in the macro economic environment 
+–the strength of the economy, the level of interest rates and the 
+price of risk (equity and debt).
+¨Micro uncertainty can be mitigated or even eliminated 
+by diversifying across companies but macro uncertainty 
+will remain even in the most diversified portfolios.
+7
+III. Discrete versus Continuous Uncertainty 
+¨Discrete versus continuous uncertainty
+¤Some events that you are uncertain about are discrete. Thus, a 
+biotechnology firm with a new drug working its way through the 
+FDA pipeline may see the drug fail at some stage of the approval 
+process. In the same vein, a company in Venezuela or Argentina 
+may worry about nationalization risk.
+¤Most uncertainties, though, are continuous. Thus, changes in 
+interest rates or economic growth occur continuously and affect 
+value as they happen. 
+¨In valuation, we are better at dealing with continuous 
+risks than with discrete risks. In fact, discount rate risk 
+adjustment models are designed for continuous risk.
+Uncertainty: A Reality Check
+1. Uncertainty evolves as companies age
+10
+And they show up in business drivers
+Aswath Damodaran
+10
+Aswath Damodaran11
+‹#›Aswath Damodaran12
+‹#›Aswath Damodaran13
+14
+2. The Macro Part of Company Valuation
+Aswath Damodaran
+14
+What are the 
+cashﬂows from 
+existing assets?
+- Equity: Cashﬂows 
+after debt payments
+- Firm: Cashﬂows 
+before debt payments
+What is the value added by growth  assets?
+Equity: Growth in equity earnings/ cashﬂows
+Firm: Growth in operating earnings/ 
+cashﬂows
+How risky are the cash ﬂows from both 
+existing assets and growth assets?
+Equity: Risk in equity in the company
+Firm: Risk in the ﬁrm’s operations
+When will the ﬁrm 
+become a mature 
+ﬁirm, and what are 
+the potential 
+roadblocks?
+General 
+Inflation
+Overall Economic 
+Growth
+Exchange 
+Rates
+Relative 
+Inflation
+Risk free Interest Rate Risk Premiums for equity & debt
+Political 
+Risk
+15
+a. Discount Rates
+¨The discount rate that you use on a cash flow will reflect the risk of 
+that cash flow, but the overall level is affected by macro economic 
+variables. There are two key macro components to discount rates 
+that have little to do with the asset that you are valuing and are set 
+by the market.
+¨The first is the riskfree rate, that is the base for your discount rate. 
+¤Risk free rate = Expected Inflation + Expected Real Interest Rate
+¤The expected inflation will be a function of the currency you choose to do 
+your analysis in
+¤The expected real interest rate is set by the demand for & supply of capital 
+in the real economy. It should increase if growth is expected to be robust 
+and decrease if growth is anticipated to be anemic.
+¨The second is the risk premium that investors charge for investing 
+in equity markets (the equity risk premium) or for lending money 
+(default spreads).
+Aswath Damodaran
+15
+16
+Interest Rates in 2022
+17
+Equity Risk Premiums
+18
+b. Expected growth and cash flows
+¨The expected cash flows on an asset or company are 
+determined partly by the company’s choices and partly 
+by macro variables. 
+¤Thus, the earnings growth for a company will be higher, other 
+things remaining equal, if the economy grows faster .
+¤In the same vein, earnings and cash flows will be affected (and 
+not always by the same amount) by the overall level of inflation 
+as well as relative inflation (i.e., inflation in the goods/services 
+that the company either consumes of produces, relative to 
+overall inflation).
+¤Finally, exchange rate movement can have positive or negative 
+effects on earnings and cash flows.
+¨And hanging over all of this is the possibility of a macro 
+shock, caused by acts of God or acts of man, that can 
+alter everything.
+Aswath Damodaran
+18
+19
+Rule 1: Be macro consistent
+Discount rate and Cash flow assumptions
+¨The riskfree rate that you used to estimate your discount rate 
+already incorporates assumptions about inflation and real 
+growth. The cash flows that you use should reflect the same 
+expectations. 
+¨If you mismatch inflation or real growth assumptions, you will 
+misvalue companies.
+¤If you build in higher expectations of inflation and real growth into 
+your cash flows than you have incorporated into your discount rate, 
+you will over value companies.
+¤If you build in lower expectations of inflation and real growth into your 
+cash flows than you have incorporated into your discount rate, you will 
+under value companies.
+¨Bottom line: It is more important that you be consistent in 
+your inflation/ growth assumptions than that you are right.
+Aswath Damodaran
+19
+20
+Inflation Consistency in Valuation
+¨In a scenario where inflation is volatile and you are trying to estimate its 
+level and effects on the value of a company, trying to get it right is an 
+impossible task. You should however always maintain internal consistency 
+in your valuation.
+¨Put simply, if you expect inflation to be low (high), your discount rate and 
+expected growth rate should both incorporate that low (high) inflation.
+21
+Rule 2: Keep your focus
+Don’t let the macro drown the micro
+¨When you are asked to value a company, you should 
+keep your focus on what drives that value. If you 
+bring in your specific macro views into the valuation, 
+the value that you obtain for a company will be a 
+joint result of what you think about the company 
+and your macro views.
+¨Bottom line: If you have macro views, provide them 
+separately. You should be as macro-neutral as you 
+can be, in your company valuations. 
+¨Follow up: If you find macro risk dominating your 
+thoughts, deal with it frontally.
+Aswath Damodaran
+21
+Tools for Dealing with Uncertainty
+‹#›
+22
+Aswath Damodaran
+23
+Ways of dealing with risk in analysis
+¨Risk Adjusted Value
+¤Estimate expected cash flows and adjust the discount rate for risk
+¤Use certainty equivalent cash flows and use the riskfree rate as the 
+discount rate
+¨Probabilistic Approaches
+¤Sensitivity Analysis: Ask what if questions about inputs into your valuation
+¤Scenario Analysis: Evaluate values under different specified scenarios, with 
+probabilities estimates for each scenario and an expected value across 
+scenarios. 
+¤Decision Trees: Estimate probabilities of risky events occurring, with 
+outcomes on each event. Work backwards to get an expected value today.
+¤Simulations: Replace point estimates of input variables with distributions, 
+and estimate distribution of value, given multiple  draws from 
+distributions.
+24
+I. Risk Adjusted Value
+¨The value of a risky asset can be estimated by discounting the 
+expected cash flows on the asset over its life at a risk-adjusted 
+discount rate: 
+where the asset has a n-year life, E(CFt) is the expected cash flow in period t 
+and r is a discount rate that reflects the risk of the cash flows.
+¨Alternatively, we can replace the expected cash flows with the 
+guaranteed cash flows we would have accepted as an alternative 
+(certainty equivalents) and discount these at the riskfreerate:
+where CE(CFt) is the certainty equivalent of E(CFt) and rfis the riskfreerate.
+25
+II. Probabilistic Approaches
+¨The essence of risk that you are unclear about what the 
+outcomes will be from an investment. In the risk 
+adjusted cash flow approach, we make the adjustment 
+by either raising discount rates or lowering cash flows. 
+¨In probabilistic approaches, we deal with uncertainty 
+more explicitly by 
+¤Asking what if questions about key inputs and looking at the 
+impact on value (Sensitivity Analysis)
+¤Looking at the cash flows/value under different scenarios for the 
+future (Scenario Analysis)
+¤Using probability distributions for key inputs, rather than 
+expected values, and computing value as a distribution as well 
+(Simulations)
+26
+a. Sensitivity Analysis and What-if 
+Questions…
+¨The NPV, IRR and accounting returns for an investment will change 
+as we change the values that we use for different variables. 
+¨One way of analyzing uncertainty is to check to see how sensitive 
+the decision measure (NPV, IRR..) is to changes in key assumptions. 
+While this has become easier and easier to do over time, there are 
+caveats that we would offer.
+¨Caveat 1: When analyzing the effects of changing a variable, we 
+often hold all else constant. In the real world, variables move 
+together.
+¨Caveat 2: The objective in sensitivity analysis is that we make 
+better decisions, not churn out more tables and numbers.
+¤Corollary 1: Less is more. Not everything is worth varying…
+¤Corollary 2: A picture is worth a thousand numbers (and tables).
+27
+What-if Analyses: Limits and Extensions
+¨One equation, one unknown: Since the intrinsic value is 
+one equation, themostyoucansolveforis one 
+unknown. 
+¤You can pick your ”key variable” (growth, discount rates, margin, 
+CAP) and solve for that variable.
+¤Implicitly, you are holding all else constant, which makes sense 
+only if your input variables are uncorrelated with each other .
+¨Consideringcorrelations:Intherealworld, inputs don’t 
+move independently. 
+¤Ifyour what-if is around business models, increasing one 
+variable can come at the expense of another.
+¤Ifyourwhat-if is around macro shocks/changes, the shock can 
+affect variables in the same direction.
+Aswath Damodaran
+27
+28
+Valuing the S&P 500 on September 23, 
+2022
+Aswath Damodaran
+28
+29
+b. Scenario Analysis
+¨Scenario analysis is best employed when the outcomes of a project 
+are a function of the macro economic environment and/or 
+competitive responses.
+¨As an example, assume that Boeing is considering the introduction 
+of a new large capacity airplane, capable of carrying 650 
+passengers, called the Super Jumbo, to replace the Boeing 747. The 
+cash flows will depend upon two major “uncontrollable”factors:
+¤The growth in the long-haul, international market, relative to the domestic 
+market. Arguably, a strong Asian economy will play a significant role in 
+fueling this growth, since a large proportion of it will have to come from an 
+increase in flights from Europe and North America to Asia. 
+¤The likelihood that Airbus, Boeing’s primary competitor, will come out 
+with a larger version of its largest capacity airplane, the A-300, over the 
+period of the analysis.
+‹#›Aswath Damodaran30
+31
+Valuing easyJet: Brexit’s Consequences
+No Deal Brexit Bad Deal Brexit Soft or No Brexit
+Restructuring cost 
+(up front)
+£500 million £300 million $0
+Revenue growth 3.00% 5.00% 5.00%
+Operating Margin 6.00% 7.00% 8.00%
+Sales to Capital 
+Ratio
+1.73 1.73 1.73
+Aswath Damodaran
+31
+No Deal Brexit Delayed & Messy 
+Brexit
+Soft or No Brexit
+Probability 25% 50% 25%
+Value Per Share £12.02 £15.70 £19.38
+Expected Value per share = .25 (£12.02) + .50 (£15.70) + .25 (£19.38) = £15.70
+32
+A Story-based Scenario Analysis
+Aswath Damodaran
+32
+33
+c. Decision Trees
+34
+With cash flows…
+35
+And on outcome…
+36
+d. Simulations
+Aswath Damodaran
+36
+Do a base case valuation,with 
+expected values for inputs
+Identify the key value drivers
+Value Sensiitivity 
+"What ifs"
+Investor fears & 
+disagreements
+Collect data on value driversHistorical data Cross Sectional 
+Data
+Choose probability 
+distributions & parameters 
+for value drivers
+Build in constraints and 
+connections
+Run Simulations Value distributionValue Percentiles
+Value Simulation: The Steps
+37
+Shell’s Revenues & Oil Prices
+ $-
+ $20.00
+ $40.00
+ $60.00
+ $80.00
+ $100.00
+ $120.00
+ 0
+ 50,000.0
+ 100,000.0
+ 150,000.0
+ 200,000.0
+ 250,000.0
+ 300,000.0
+ 350,000.0
+ 400,000.0
+ 450,000.0
+ 500,000.0
+198919901991199219931994199519961997199819992000200120022003200420052006200720082009201020112012201320142015
+Average Oil Price during year
+Revenues (in millions of $)
+Shell: Revenues vs Oil Price
+Revenue Oi l pr ice
+Revenues =  39,992.77 + 4,039.39 * Average Oil Price    
+R squared = 96.44%
+Aswath Damodaran38
+Aswath Damodaran39
+40
+Choosing a Probabilistic Approach
+Why bother?
+‹#›
+41
+Aswath Damodaran
+42
+Forecasting in the face of uncertainty. A 
+test:
+¨In which of these two cities would you find it easier 
+to forecast the weather?
+Aswath Damodaran
+42
+43
+But the payoff is greatest where there is 
+the most uncertainty…
+Aswath Damodaran
+43

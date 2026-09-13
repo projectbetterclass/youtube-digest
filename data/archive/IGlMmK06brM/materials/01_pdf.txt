@@ -1,0 +1,156 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/TurkeyCrisis.pdf
+
+DÉJÀ VU IN TURKEY: CURRENCY 
+CRISIS AND CORPORATE INSANITY
+Aswath Damodaran
+2
+The Turkish Crisis: The Lira as Symbol
+Aswath 
+Damodaran
+2
+3
+The Fundamentals
+4
+And the Consequences
+¨ In Turkey: The drop of the lira has sent Turkey 
+spiraling into a crisis, with foreign currency reserves 
+running short and the economy going into shock.
+¨ The Contagion effect: As Turkey goes into crisis, the 
+rest of the world is being drawn in:
+¤ Emerging market currencies are dropping and developed 
+market currencies are gaining.
+¤ Default spreads for both sovereigns and corporates are 
+increasing.
+¤ Equity markets around the world are coming under selling 
+pressure.
+5
+Corporate Finance: First Principles
+6
+The Financing Principle: Debt Matching
+Projects/assets Debt Design
+Duration of projects If projects are long term (short term), debt 
+should be long term (short term) as well.
+Cash flow profile If cash flows are even over time, straight debt is 
+better . If cash flows are low in early years, but 
+expected to grow over time, convertible debt
+fits.
+Currency Currency mix of debt should be reflective of 
+currency mix of cashflows (especially inflows). 
+Pricing power With pricing power, as inflation rises, cash flows 
+will rise as well and floating rate debt makes 
+sense. Without pricing power, as inflation rises, 
+profits can be squeezed, cash flows can drop 
+and fixed rate debt is a better fit.
+7
+Debt Matching
+¨ Debt Design: The simplest and most direct way to match 
+debt up to assets is to design the debt to match up to 
+asset characteristics (in terms of maturity, convertibility, 
+fixed/floating rate and currency).
+¨ Derivatives & Swaps: The other is to issue mismatched 
+debt (for whatever reason) and then use derivatives 
+markets or swaps to reduce or eliminate the mismatch.
+¨ Simple rule: A company that knows its long term project 
+characteristics and asset composition should issue debt 
+that matches that long term exposure, and then use 
+derivatives to protect itself against short term 
+movements.
+8
+The Turkish Problem
+¨ Corporations around the world seem to revel in 
+mismatching debt and assets, using short term debt 
+to fund long term assets (or vice versa) and 
+sometimes debt in one currency to fund projects 
+that generate cashflows in another . 
+¨ In numerous studies, done over the decades, looking 
+across countries, Turkish companies rank among the 
+very worst, when it comes to mismatching 
+currencies on debt, using foreign currency debt 
+(Euros and dollars primarily) to fund domestic 
+investments.
+9
+1. The FX Imbalance
+10
+2. With Turkish Banks being the main 
+facilitators…
+11
+3. With a maturity mismatch added in..
+12
+4. With pain in the near term…
+13
+The Rationale for Mismatching
+¨ Clearly a problem: Turkish firms clearly have a debt mismatch 
+problem, and the institutions (government, bank regulators, banks) 
+that should have been keeping the problem in check seem to have 
+played an active role in making it worse. 
+¨ And has happened before: Worse, this is not the first time that 
+Turkish firms and banks will be working through a debt mismatch 
+crisis. It has happened before, in 1994, 2001 and 2008, just looking 
+at recent decades. If insanity is doing the same thing over and over, 
+expecting a different outcome, there is a good case to be made 
+that Turkish institutions, from top to bottom, are insane, at least 
+when it comes to dealing with financing. 
+¨ And is happening elsewhere: This mismatching seems to occur in 
+many emerging markets, though to a lesser scale, why do 
+companies go for currency mismatches?
+14
+1. Acceptable Reasons
+¨ The mismatched debt is subsidized: If the mismatched debt is 
+being offered to you at rates that are well below what you 
+should be paying, given your default risk, you should accept 
+that mismatched debt. 
+¨ Domestic debt markets are moribund: There are emerging 
+markets where the only option for borrowing money is local 
+banks, and during periods of uncertainty or crisis, these banks 
+can pull back from lending.
+¨ Domestic debt markets are too rigid: As you can see from the 
+debt design section, the perfect debt for your firm will often 
+require tweaks that include not only conversion and floating 
+rate options, but more unusual tweaks (such as commodity-
+linked interest rates).
+15
+2. Dangerous Reasons
+1. Speculate on currency: Mismatching currencies, when 
+you borrow money, can be a profitable exercise, if the 
+currency moves in the right direction. There will be a 
+moment of reckoning, when exchange rates will 
+correct, and unless the company can see this moment 
+coming and correct its mismatch, it will not only lose all 
+of the east profits, but find its survival threatened.
+2. Everyone does it Many of these companies argue that 
+the government cannot let the entire corporate sector 
+slide into default and will step in to bail them out, and 
+true to form, governments deliver those bailouts. In 
+effect, the taxpayers become the backstop for bad 
+corporate behavior .
+16
+3. Bad Reasons
+1. The mismatched debt has a lower interest rate: I have 
+heard CFOs of companies in emerging markets, where 
+domestic debt carries high interest rates, argue that it 
+is cheaper to borrow in US dollars or Euros, because 
+interest rates are lower . 
+2. Risk/Reward: Some companies believe that they will 
+earn higher profits, on average and over time, with 
+mismatched debt than with matched debt, but with 
+more variability in those profits. This argument stems 
+from the misplaced belief that markets reward all risk 
+taking, when the truth is that senseless risk taking just 
+delivers more risk, with no reward, and mismatching 
+debt is senseless.
+17
+Fixing the Mismatch Problem
+¨ Governments should stop enabling debt mismatching, by not stepping in 
+repeatedly to save corporates that have mismatched debt. 
+¨ Bank Regulators should measure how much the banks that they regulate 
+have lent out to corporates, in mismatched debt, and require them to set 
+aside more capital to cover the inevitable losses. 
+¨ Banks have to incorporate whether the debt being taken by a business is 
+mismatched in deciding how much to lend and on what terms. 
+¨ Companies and businesses have to consider what currency a loan or bond 
+is in, when evaluating the interest rate, and in their own best interests, try 
+to match up debt to assets.
+¨ Investors in companies should start breaking down the profitability of 
+firms with mismatched debt, especially in good periods, into profits from 
+debt mismatch and profits from operations, and ignore or at least 
+discount the former, when pricing these companies.

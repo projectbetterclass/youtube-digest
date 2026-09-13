@@ -1,0 +1,324 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/UberSept2015.pdf
+
+THE	  UBER	  PHENOMENON:	  
+REVISITING	  VALUE	  
+To	  uber,	  or	  not	  to	  uber..
+2
+Uber:	  My	  odyssey	  
+¨  My	  interest	  in	  Uber	  was	  triggered	  by	  a	  news	  story	  
+that	  I	  read	  in	  June	  2014	  that	  menJoned	  that	  Uber	  
+was	  being	  valued	  at	  $17	  billion	  by	  VC	  investors.	  
+¨  As	  a	  complete	  novice	  on	  the	  company,	  in	  my	  iniJal	  
+valuaJon	  of	  the	  company,	  I	  viewed	  it	  as	  
+¤  An	  urban,	  car-­‐sharing	  company	  
+¤  With	  local	  (not	  global)	  networking	  beneﬁts	  
+¤  Signiﬁcant	  compeJJve	  advantages	  (and)	  
+¤  A	  low	  capital-­‐intensity	  business	  model
+Term yr
+EBIT (1-t)   $881
+- Reinv         88
+FCFF          $793
+Terminal Value10= 793/(.08-025) = $14,418
+Value of operating assets = $6,595 
+Stable Growth (after year 10)
+Expected growth rate = 2.50%
+Cost of capital = 8% 
+Return on capital= 25%
+Reinvestment Rate= 2.5%/25% = 10%
+Based on the investment 
+of $1.2 billion made by 
+investors, the imputed 
+value for Uber's operating 
+assets, in June 2014 ,was 
+$17 billion.
+Uber: Intrinsic valuation - June 8, 2014 (in US $)
+Global taxi market is $100 billlion 
+currently, expected to grow 6% a 
+year for next ten years.
+Uber's market share of this market will increase to 10% over the next 10 years.
+Uber will keep 20% of the gross cab 
+receipts as its revenues
+Uber's operating 
+expenses will amount 
+to 60% of its 
+revenues. (Operating 
+margin=40%)
+Uber will pay a tax rate 
+of 30% on its income, 
+increasing to 40% over 
+the next 10 years
+Uber will generate $5 in 
+incremental revenues for 
+every dollar of 
+incremental capital.
+1 2 3 4 5 6 7 8 9 10
+Overall1market $106,000 $112,360 $119,102 $126,248 $133,823 $141,852 $150,363 $159,385 $168,948 $179,085
+Share1of1market1(gross) 3.63% 5.22% 6.41% 7.31% 7.98% 8.49% 8.87% 9.15% 9.36% 10.00%
+Revenues1as1percent1of1gross 20.00% 20.00% 20.00% 20.00% 20.00% 20.00% 20.00% 20.00% 20.00% 20.00%
+Annual1Revenue $769 $1,173 $1,528 $1,846 $2,137 $2,408 $2,666 $2,916 $3,163 $3,582
+Operating1margin 7.00% 10.67% 14.33% 18.00% 21.67% 25.33% 29.00% 32.67% 36.33% 40.00%
+Operating1Income $54 $125 $219 $332 $463 $610 $773 $953 $1,149 $1,433
+Effective1tax1rate 31% 32% 33% 34% 35% 36% 37% 38% 39% 40%
+1K1Taxes $17 $40 $72 $113 $162 $220 $286 $362 $448 $573
+AfterKtax1operating1income $37 $85 $147 $219 $301 $390 $487 $591 $701 $860
+Sales/Capital1Ratio 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00
+1K1Reinvestment $94 $81 $71 $64 $58 $54 $52 $50 $49 $84
+Free1Cash1Flow1to1the1Firm K$57 $4 $76 $156 $243 $336 $435 $541 $652 $776
+Cost of capital for ﬁrst 5 years = 
+Top decile of US companies = 
+12%
+Cost of capital declines from 12% to 
+8% from years 6 to 10.
+Discount back the cash ﬂows (including terminal value) at the cumulated cost of capital.
+Adust for probability of failure (10%)
+Expected value = $6,595 (.9) = $5,895
+4
+The	  Bill	  Gurley	  Counter	  
+¨  Bill	  Gurley,	  an	  early	  investor	  in	  Uber,	  countered	  by	  
+arguing	  that	  I	  was	  taking	  too	  narrow	  a	  view	  of	  Uber’s	  
+prospects	  and	  that	  Uber	  was	  
+¤  More	  than	  just	  urban	  
+¤  Not	  just	  car	  servce	  
+¤  On	  its	  way	  to	  creaJng	  global	  networking	  beneﬁts	  
+¨  That	  expanded	  narraJve	  plays	  out	  as	  a	  much	  higher	  
+value	  for	  Uber	  as	  a	  company.
+5
+Uber	  value:	  My	  original	  vs	  Gurley	  
+narraJves	  
+! Uber!(Gurley)! Uber!(Damodaran)!
+Narrative( Uber(will(expand(the(car(service(market(substantially,(
+bringing(in(mass(transit(users(&(non<users(from(the(
+suburbs(into(the(market,(and(use(its(networking(
+advantage(to(gain(a(dominant(market(share,(while(
+maintaining(its(revenue(slice(at(20%.(
+Uber(will(expand(the(car(service(market(moderately,(
+primarily(in(urban(environments,(and(use(its(
+competitive(advantages(to(get(a(significant(but(not(
+dominant(market(share(and(maintain(its(revenue(
+slice(at(20%.(
+Total(
+Market(
+$300(billion,(growing(at(3%(a(year( $100(billion,(growing(at(6%(a(year(
+Market(
+Share(
+40%( 10%(
+Uber’s(
+revenue(
+slice(
+20%( 20%(
+Value(for(
+Uber(
+$53.4(billion(+(Option(value(of(entering(car(ownership(
+market(($10(billion+)(
+$5.9(billion(+(Option(value(of(entering(car(ownership(
+market(($2<3(billion)(
+(
+6
+Uber:	  The	  NarraJve	  Eﬀect	  in	  December	  
+2014
+7
+UpdaJng	  the	  Uber	  NarraJve	  
+¨  There	  have	  been	  dozens	  of	  news	  stories	  about	  Uber	  
+in	  the	  last	  few	  months,	  some	  contain	  good	  news	  and 	  
+some	  bad,	  some	  are	  local	  and	  some	  are	  general	  but	  
+they	  all	  aﬀect	  narraJve.	  
+¨  The	  way	  that	  you	  view	  these	  stories	  will	  depend	  
+upon	  your	  priors	  on	  Uber,	  with	  those	  who	  are	  
+posiJve	  on	  the	  company	  latching	  on	  to	  the	  good	  
+news	  and	  those	  who	  do	  not	  like	  the	  company	  
+focusing	  on	  the	  bad.
+8
+Total	  Market	  is	  broader,	  bigger	  &	  more	  
+global	  
+¨  The	  market	  is	  broader	  &	  bigger:	  Uber	  has	  managed	  to	  not	  
+only	  make	  	  inroads	  into	  exurbia	  and	  suburbia,	  but	  also	  been	  
+able	  to	  increase	  the	  size	  of	  the	  car	  sharing	  market	  in	  the	  ciJes 	  
+where	  it	  is	  most	  acJve.	  
+¨  It	  is	  a‘racJng	  new	  users	  with	  new	  oﬀerings :	  By	  expanding	  
+the	  type	  of	  services	  it	  oﬀers,	  Uber	  has	  drawn	  in	  new	  users	  
+into	  the	  mix.	  
+¨  It	  is	  more	  global:	  The	  big	  growth	  markets	  of	  the	  last	  year	  
+have	  been	  India	  and	  China,	  no	  surprise,	  given	  the	  trifecta	  that 	  
+they	  oﬀer	  car	  sharing	  businesses:	  large	  populaJon,	  low	  car	  
+ownership	  &	  limited	  mass	  transit.	  
+¨  Uber’s	  numbers	  reﬂect	  this:	  The	  leaked	  numbers	  (they	  are	  
+leaked	  for	  a	  reason)	  reﬂect	  staggering	  growth	  rates,	  with	  the	  
+gross	  billings	  climbing	  to	  over	  $10	  billion	  in	  2015.
+9
+And	  even	  the	  bad	  news	  has	  a	  good	  Jnge..	  
+¨  The	  empire	  is	  ﬁghJng	  back:	  Regulatory	  authoriJes	  in	  
+ciJes	  spread	  across	  the	  world	  have	  either	  banned	  Uber	  
+or	  tried	  to	  restrict	  its	  growth.	  
+¨  And	  its	  troops	  are	  unhappy:	  Cab	  drivers	  are	  
+understandably	  upset	  at	  the	  loss	  of	  their	  livelihoods	  and	  
+are	  making	  it	  known.	  
+¨  But	  the	  ﬁght	  has	  a	  “desperate”	  look	  to	  it:	  Cab	  revenues	  
+are	  down	  and	  the	  price	  of	  cab	  medallions	  has	  
+plummeted.	  
+The	  total	  market	  for	  Uber	  is	  bigger	  than	  the	  urban	  car	  
+service	  market	  that	  I	  visualized	  in	  June	  2014	  and	  will	  a?ract 	  
+new	  customers	  and	  expand	  in	  new	  markets	  (with	  Asia	  
+becoming	  the	  focus)	  and	  perhaps	  even	  new	  businesses.
+10
+CompeJJon	  is	  more	  concentrated,	  capital	  
+rich	  and	  intense	  
+¨  The	  cost	  of	  entering	  the	  car	  sharing	  business	  is	  higher:	  The	  amount	  that	  
+car	  sharing	  companies	  have	  to	  spend	  to	  enter	  a	  new	  market	  and	  stay	  
+compeJJve	  in	  it	  has	  gone	  up.	  
+¨  And	  has	  led	  to	  fewer	  compeJtors:	  In	  the	  US,	  Uber’s	  primary	  compeJtor	  
+has	  become	  Lye.	  In	  Asia,	  local	  car	  sharing	  companies	  dominate	  the	  
+market.	  (Ola	  in	  India,	  Didi	  Kuaidi	  in	  China	  and	  GrabTaxi	  in	  South	  East	  
+Asia.)	  
+¨  They	  are	  stronger:	  These	  compeJtors	  are	  stronger	  than	  they	  were	  a	  year	  
+ago,	  and	  in	  some	  cases,	  they	  have	  the	  home	  ﬁeld	  advantage,	  
+understanding	  their	  local	  markets	  be‘er	  than	  Uber	  and	  perhaps	  even	  
+having	  rules	  Jlted	  in	  their	  favor.	  
+¨  And	  have	  access	  to	  capital:	  All	  of	  the	  major	  car	  sharing	  companies	  have	  
+been	  able	  to	  raise	  large	  amounts	  of	  capital.	  
+The	  car	  sharing	  market	  is	  becoming	  compeFFve,	  but	  as	  costs	  of	  entry	  rise	  
+and	  the	  capital	  requirements	  become	  intense,	  it	  looks	  like	  this	  will	  be	  a	  
+market	  with	  fewer	  players	  and	  larger	  regional	  networking	  beneﬁts.
+11
+Cost	  structure	  has	  become	  more	  onerous	  
+¨  CompeJng	  for	  drivers	  is	  expensive:	  The	  cost	  of	  signing	  up	  new	  drivers	  (the	  signing	  
+bonuses)	  has	  surged,	  	  
+¨  The	  costs	  of	  keeping	  them	  is	  rising:	  The	  California	  Labor	  commission	  and	  a	  
+subsequent	  court	  decision	  aﬃrmed	  that	  Uber	  drivers	  are	  employees,	  not	  
+independent	  contractors.	  While	  Uber	  will	  ﬁght	  this,	  eventually	  the	  companies	  will	  
+have	  to	  treat	  them	  as	  parJal	  employees	  and	  bear	  higher	  costs.	  	  
+¨  And	  the	  insurance	  blind	  spot	  is	  being	  ﬁlled:	  Regulators	  and	  insurance	  companies	  
+are	  waking	  up	  to	  the	  higher	  risk	  associated	  with	  driving	  for	  a	  car	  sharing	  company	  
+and	  it	  is	  only	  a	  ma‘er	  of	  Jme	  before	  car	  sharing	  companies	  bear	  some	  of	  this	  
+cost.	  
+¨  Uber	  is	  losing	  money	  (lots	  of	  it):	  In	  2014,	  Uber’s	  operaJng	  loss	  was	  greater	  than	  
+its	  revenues	  and	  while	  the	  number	  is	  not	  known	  for	  2015,	  there	  is	  no	  reason	  to	  
+believe	  that	  it	  will	  be	  any	  be‘er.	  
+The	  costs	  of	  running	  a	  car	  sharing	  business	  are	  high,	  and	  while	  some	  of	  these	  costs	  
+will	  drop,	  as	  business	  scales	  up,	  the	  operaFng	  margins	  are	  likely	  to	  be	  smaller	  than	  I	  
+anFcipated	  just	  over	  a	  year	  ago.
+12
+Capital	  Intensity	  has	  not	  changed	  (yet)	  
+¨  Car	  services	  companies	  have	  adopted	  a	  low	  capital	  
+intensity	  model,	  but	  that	  has	  created	  costs:	  While	  the	  
+Uber	  model,	  copied	  by	  other	  car	  sharing	  comapnies,	  is	  a	  
+low	  capital-­‐investment	  model,	  that	  model	  comes	  with	  
+other	  costs,	  as	  companies	  have	  to	  compete	  on	  other	  
+dimensions	  (like	  a‘racJng	  drivers).	  
+¨  Change	  may	  be	  on	  its	  way:	  There	  is	  no	  change	  in	  this	  
+model	  yet,	  but	  there	  are	  moves	  by	  the	  companies	  that	  
+may	  be	  a	  precursor	  to	  a	  more	  capital-­‐intensive	  business	  
+model.	  
+For	  the	  moment,	  we	  will	  conFnue	  with	  the	  low	  capital	  
+intensity	  model,	  with	  the	  recogniFon	  that	  the	  model	  may	  
+change	  over	  Fme.
+13
+Management	  Culture	  remains	  a	  wild	  card	  
+¨  Love	  or	  hate?	  Uber	  is	  a	  company	  that	  people	  either	  love	  
+or	  hate.	  There	  are	  very	  few	  people	  who	  are	  ambivalent	  
+about	  the	  company.	  
+¨  Will	  drive	  your	  views	  of	  Uber’s	  management	  culture:	  The 	  
+way	  you	  view	  Uber’s	  management	  culture	  will	  reﬂect	  
+your	  priors	  and	  your	  poliJcs.	  
+¤  If	  you	  like	  the	  company,	  you	  will	  ﬁnd	  it	  innovaJve,	  brash	  and	  
+aggressive,	  a	  disruptor	  who	  is	  unmoved	  by	  the	  status	  quo	  and	  
+eager	  to	  win	  ﬁghts.	  
+¤  If	  you	  dislike	  the	  company,	  you	  will	  ﬁnd	  it	  arrogant,	  unwilling	  to	  
+play	  by	  the	  rules	  and	  uncaring	  about	  its	  drivers	  and	  customers.
+14
+RevisiJng	  the	  Inputs	  
+Input& June&2014& September&2015&
+Total&Market& $100&billion;&Urban&car&service&& $230&billion;&Logistics&
+Growth&in&market& Increase&market&size&by&34%;&CAGR&of&6%.& Double&market&size;&CAGR&of&10.39%.&&&
+Market&Share& 10%&(Local&Networking)& 25%&(Weak&Global&Networking)&
+Slice&of&gross&receipts& 20%&(Left&at&status&quo)& 15%&&
+Operating&margin& 40%&(Low&cost&model)& 25%&(Partial&employee&model)&
+Cost&of&capital& 12%&(Ninth&decile&of&US&companies)& 10%&(75th&percentile&of&US&companies)&
+Probability&of&failure& 10%&& 0%&
+Value&of&equity& $5.9&billion& $23.4&billion&
+&
+Potential)Market Market)size)(in)millions)
+A1.$Urban$car$service $100,000
+A2.$All$car$service $175,000
+A3.$Logistics $230,000
+A4.$Mobility$Services $310,000
+Growth'Effect CAGR'(next'10'years)
+B1.$None 3.00%
+B2.$Increase$market$by$25% 5.32%
+B3.$Increase$market$size$by$50% 7.26%
+B4:$Double$market$size 10.39%
+Network(Effects Market(Share
+C1.$No$network$effects 5%
+C2.$Weak$local$network$effects 10%
+C3.$Strong$local$network$effects 15%
+C4.$Weak$global$network$effects 25%
+C5.$Strong$global$network$effects 40%
+Expense'Profile Operating'Margin
+E1:$Independent$contractor 40%
+E2:$Partial$employee 25%
+E3:$Full$employee 15%
+Competitive)Advantages Slice)of)Gross)Receipts
+D1.$None 5%
+D2.$Weak 10%
+D3.$Semi4strong 15%
+D4.$Strong$&$Sustainable 20%
+Increases overall market to $618 billion in year 10
+Risk Estimates
+G1. Cost of capital at 75th percentile of US companies = 10%
+G2.  Probability of failure in next 10 years= 0%
+Uber Valuation: September 2015
+Base 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 Assumptions
+Overall3market $230,000 $253,897 $280,277 $309,398 $341,544 $377,031 $416,204 $459,448 $507,184 $559,881 $618,052 A3+&+B4
+Share3of3market3(gross) 4.71% 6.74% 8.77% 10.80% 12.83% 14.86% 16.89% 18.91% 20.94% 22.97% 25.00% C4
+Gross3Billings $10,840 $17,117 $24,582 $33,412 $43,813 $56,014 $70,277 $86,900 $106,218 $128,612 $154,513
+Revenues3as3percent3of3gross 20.00% 19.50% 19.00% 18.50% 18.00% 17.50% 17.00% 16.50% 16.00% 15.50% 15.00% D3
+Annual3Revenue $2,168 $3,338 $4,670 $6,181 $7,886 $9,802 $11,947 $14,338 $16,995 $19,935 $23,177
+Operating3margin J23.06% J18.26% J13.45% J8.64% J3.84% 0.97% 5.77% 10.58% 15.39% 20.19% 25.00% E2
+Operating3Income J$500 J$609 J$628 J$534 J$303 $95 $690 $1,517 $2,615 $4,026 $5,794
+Effective3tax3rate 30.00% 31.00% 32.00% 33.00% 34.00% 35.00% 36.00% 37.00% 38.00% 39.00% 40.00%
+3J3Taxes J$150 J$189 J$201 J$176 J$103 $33 $248 $561 $994 $1,570 $2,318
+AfterJtax3operating3income J$350 J$420 J$427 J$358 J$200 $62 $442 $956 $1,621 $2,456 $3,477
+Sales/Capital3Ratio 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00 5.00 F
+3J3Reinvestment $234 $267 $302 $341 $383 $429 $478 $531 $588 $648
+Free3Cash3Flow3to3the3Firm J$654 J$694 J$660 J$541 J$322 $13 $478 $1,090 $1,868 $2,828
+Terminal3value $56,258
+Present3value3of3FCFF J$595 J$573 J$496 J$369 J$200 $7 $248 $520 $822 $1,152
+Present3value3of3terminal3value $22,914
+Cost3of3capital 10.00% 10.00% 10.00% 10.00% 10.00% 10.00% 9.60% 9.20% 8.80% 8.40% 8.00% G1
+PV3of3cash3flows3during3next3103years3= $515
+PV3of3terminal3value3= $22,914
+Value3of3operating3assets $23,429
+Probability3of3failure 0.00% G2
+Adjusted3value3of3operating3assets $23,429
+Less3Debt $0
+Value3of3Equity $23,429
+Capital Intensity
+F: Status Quo: Sales/Capital = 5
+16
+Please	  disagree	  with	  me..	  
+¨  If	  you	  think	  value	  is	  too	  high,	  it	  should	  not	  because	  the	  company	  is	  losing	  
+money,	  trades	  at	  a	  high	  mulJple	  or	  is	  not	  worth	  much	  with	  a	  dividend	  
+discount	  model.	  It	  should	  be	  because	  you	  believe	  that	  
+¤  The	  total	  market	  is	  much	  smaller	  than	  I	  am	  esJmaJng	  
+¤  That	  compeJJon	  will	  be	  more	  intense	  
+¤  That	  the	  costs	  will	  conJnue	  to	  climb	  and	  stay	  high	  
+¤  That	  capital	  requirements	  will	  mount	  
+¨  If	  you	  think	  value	  is	  too	  low,	  don’t	  blame	  the	  DCF	  model	  for	  my	  cramped	  
+imaginaJon.	  It	  must	  be	  because	  you	  think	  that	  my	  total	  market	  is	  too	  
+small,	  that	  Uber	  will	  be	  more	  dominant	  in	  these	  markets	  and	  that	  the	  
+costs	  will	  start	  to	  adjust	  as	  business	  scales	  up.	  
+¨  If	  you	  think	  that	  I	  have	  no	  business	  valuing	  Uber,	  because	  I	  am	  not	  a	  	  tech	  
+person,	  don’t	  understand	  the	  car	  sharing	  market	  and	  have	  not	  made	  
+money	  as	  a	  VC,	  you	  are	  right	  on	  all	  three	  counts.	  So,	  why	  not	  go	  into	  the	  
+model	  and	  replace	  my	  uninformed	  or	  ﬂawed	  inputs	  with	  be‘er	  ones?
+17
+The	  best	  news	  is	  that	  the	  story	  conJnues..	  
+¨  Game	  on:	  The	  game	  is	  not	  even	  close	  to	  over	  and	  
+there	  will	  be	  more	  news	  stories	  in	  the	  future,	  which	  
+will	  change	  the	  way	  that	  I	  think	  about	  the	  company	  
+and	  the	  value	  that	  I	  a‘ach	  to	  it.	  
+¨  The	  gie	  that	  keeps	  on	  giving:	  It	  has	  given	  me	  more	  
+learning	  and	  teaching	  moments	  than	  almost	  any	  
+other	  company	  that	  I	  have	  valued.	  
+¨  It’s	  personal:	  Like	  others,	  I	  ﬁnd	  it	  diﬃcult	  to	  maintain 	  
+my	  distance	  from	  the	  company	  and	  I	  am	  gekng	  
+more	  biased	  towards	  the	  company	  over	  Jme.

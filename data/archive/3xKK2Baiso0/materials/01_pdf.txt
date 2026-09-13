@@ -1,0 +1,628 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/eqnotes/TTM/Apple10K.pdf
+
+9/17/12 12:45 PMForm 10-K
+Page 1 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+10-K 1 d220209d10k.htm FORM 10-K  
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549 
+ 
+Form 10-K 
+ 
+(Mark One)
+! ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended September 24, 2011
+Or
+ 
+" TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                            to                             
+Commission file number: 000-10030 
+ 
+APPLE INC.(Exact name of registrant as specified in its charter)
+ 
+  
+California  94-2404110
+(State or other jurisdiction of incorporation or organization)  (I.R.S. Employer Identification No.)
+ 
+1 Infinite Loop
+Cupertino, California  95014
+(Address of principal executive offices)  (Zip Code)
+Registrant’s telephone number, including area code: (408) 996-1010 
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+Common Stock, no par value  The NASDAQ Global Select Market
+(Title of class)  (Name of exchange on which registered)
+Securities registered pursuant to Section 12(g) of the Act: None
+ 
+ 
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes  !    No   "
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes  "    No   !
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes  !    No   "
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and
+posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit
+and post such files).
+Yes  !    No   "
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (section 229.405 of this chapter) is not contained herein, and will not be
+contained, to the best of the registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.  "
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of
+“large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act. 
+Large accelerated filer !    Accelerated filer  "
+Non-accelerated filer   "  (Do not check if smaller reporting company)   Smaller Reporting Company "
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).
+9/17/12 12:45 PMForm 10-K
+Page 2 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+Yes  "    No  !
+The aggregate market value of the voting and non-voting stock held by non-affiliates of the registrant, as of March 25, 2011, the last business day of the Company’s most
+recently completed second fiscal quarter, was approximately $322,921,000,000 based upon the closing price reported for such date on the NASDAQ Global Select Market. For
+purposes of this disclosure, shares of common stock held by persons who hold more than 5% of the outstanding shares of common stock and shares held by executive officers
+and directors of the registrant have been excluded because such persons may be deemed to be affiliates. This determination of executive officer or affiliate status is not
+necessarily a conclusive determination for other purposes.
+929,409,000 shares of Common Stock Issued and Outstanding as of October 14, 2011
+DOCUMENTS INCORPORATED BY REFERENCE
+(1) Portions of the registrant’s definitive Proxy Statement relating to its 2012 Annual Meeting of Shareholders are incorporated by reference into Part III of this Annual Report
+on Form 10-K where indicated. Such Proxy Statement will be filed with the U.S. Securities and Exchange Commission within 120 days after the end of the fiscal year to which
+this report relates.
+9/17/12 12:45 PMForm 10-K
+Page 3 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+The Business section and other parts of this Annual Report on Form 10-K (“Form 10-K”) contain forward-looking statements that
+involve risks and uncertainties. Many of the forward-looking statements are located in “Management’s Discussion and Analysis of
+Financial Condition and Results of Operations.” Forward-looking statements provide current expectations of future events based on
+certain assumptions and include any statement that does not directly relate to any historical or current fact. Forward-looking
+statements can also be identified by words such as “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,”
+and similar terms. Forward-looking statements are not guarantees of future performance and the Company’s actual results may differ
+significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are
+not limited to, those discussed in the subsection entitled “Risk Factors” under Part I, Item 1A of this Form 10-K, which are
+incorporated herein by reference. The Company assumes no obligation to revise or update any forward-looking statements for any
+reason, except as required by law.
+PART I 
+Item 1. Business
+Company Background
+Apple Inc. and its wholly-owned subsidiaries (collectively “Apple” or the “Company”) designs, manufactures and markets mobile
+communication and media devices, personal computers, and portable digital music players, and sells a variety of related software,
+services, peripherals, networking solutions, and third-party digital content and applications. The Company’s products and services
+include iPhone, iPad, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and Mac
+OS X operating systems, iCloud, and a variety of accessory, service and support offerings. The Company also sells and delivers
+digital content and applications through the iTunes Store, App Store, iBookstore, and Mac App Store. The Company sells its
+products worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network
+carriers, wholesalers, retailers, and value-added resellers. In addition, the Company sells a variety of third-party iPhone, iPad, Mac and
+iPod compatible products, including application software, printers, storage devices, speakers, headphones, and various other
+accessories and peripherals, through its online and retail stores. The Company sells to consumers, small and mid-sized businesses
+(“SMB”), and education, enterprise and government customers. The Company’s fiscal year is the 52 or 53-week period that ends on
+the last Saturday of September. Unless otherwise stated, all information presented in this Form 10-K is based on the Company’s fiscal
+calendar. The Company is a California corporation established in 1977.
+Business Strategy
+The Company is committed to bringing the best user experience to its customers through its innovative hardware, software,
+peripherals, and services. The Company’s business strategy leverages its unique ability to design and develop its own operating
+systems, hardware, application software, and services to provide its customers new products and solutions with superior ease-of-use,
+seamless integration, and innovative design. The Company believes continual investment in research and development and marketing
+and advertising is critical to the development and sale of innovative products and technologies. As part of its strategy, the Company
+continues to expand its platform for the discovery and delivery of third-party digital content and applications through the iTunes Store.
+As part of the iTunes Store, the Company’s App Store and iBookstore allow customers to discover and download applications and
+books through either a Mac or Windows-based computer or through “iOS devices,” namely iPhone, iPad and iPod touch. In January
+2011, the Company opened the Mac App Store to allow customers to easily discover, download and install applications for their Macs.
+The Company also supports a community for the development of third-party software and hardware products and digital content that
+complement the Company’s offerings. The Company’s strategy also includes expanding its distribution network to effectively reach
+more customers and provide them with a high-quality sales and post-sales support experience.
+ 
+1
+® ® ® ® ®
+® ®
+® SM SM
+®
+9/17/12 12:45 PMForm 10-K
+Page 4 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+Consumer and Small and Mid-Sized Business
+The Company believes a high-quality buying experience with knowledgeable salespersons who can convey the value of the
+Company’s products and services greatly enhances its ability to attract and retain customers. The Company sells many of its products
+and resells third-party products in most of its major markets directly to consumers and businesses through its retail and online stores.
+The Company has also invested in programs to enhance reseller sales by placing high quality Apple fixtures, merchandising materials
+and other resources within selected third-party reseller locations. Through the Apple Premium Reseller Program, certain third-party
+resellers focus on the Apple platform by providing a high level of product expertise, integration and support services.
+The Company’s retail stores are typically located at high-traffic locations in quality shopping malls and urban shopping districts. By
+operating its own stores and locating them in desirable high-traffic locations, the Company is better positioned to ensure a high quality
+customer buying experience and attract new customers. The stores are designed to simplify and enhance the presentation and
+marketing of the Company’s products and related solutions. To that end, retail store configurations have evolved into various sizes to
+accommodate market-specific demands. The Company believes providing direct contact with its customers is an effective way to
+demonstrate the advantages of its products over those of its competitors. The stores employ experienced and knowledgeable personnel
+who provide product advice, service and training. The stores offer a wide selection of third-party hardware, software, and other
+accessories and peripherals that complement the Company’s products.
+Education
+Throughout its history, the Company has been committed to delivering solutions to help educators teach and students learn. The
+Company believes effective integration of technology into classroom instruction can result in higher levels of student achievement and
+has designed a range of products, services and programs to address the needs of education customers. The Company also supports
+mobile learning and real-time distribution and accessibility of education related materials through iTunes U™, a platform that allows
+students and teachers to share and distribute educational media online. The Company sells its products to the education market through
+its direct sales force, select third-party resellers and its online and retail stores.
+Enterprise and Government
+The Company also sells its hardware and software products to enterprise and government customers in each of its geographic
+segments. The Company’s products are deployed in these markets because of their power, productivity, ease of use and the simplicity
+of seamless integration into information technology environments. The Company’s products are compatible with thousands of third-
+party business applications and services, and its tools enable the development and secure deployment of custom applications as well as
+remote device administration.
+Business Organization
+The Company manages its business primarily on a geographic basis. Accordingly, the Company has determined that its reportable
+operating segments, which are generally based on the nature and location of its customers, consist of the Americas, Europe, Japan,
+Asia-Pacific and Retail. The results of the Americas, Europe, Japan and Asia-Pacific reportable segments do not include the results of
+the Retail segment. The Americas segment includes both North and South America. The Europe segment includes European countries,
+as well as the Middle East and Africa. The Asia-Pacific segment includes Australia and Asian countries, other than Japan. The Retail
+segment operates Apple retail stores worldwide. Each reportable operating segment provides similar hardware and software products
+and similar services. Further information regarding the Company’s operating segments may be found in Part II, Item 7 of this Form
+10-K under the subheading “Segment Operating Performance,” and in Part II, Item 8 of this Form 10-K in Notes to Consolidated
+Financial Statements in Note 8, “Segment Information and Geographic Data.”
+ 
+2
+9/17/12 12:45 PMForm 10-K
+Page 5 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+Products
+The Company offers a range of mobile communication and media devices, personal computing products, and portable digital music
+players, as well as a variety of related software, services, peripherals, networking solutions and third-party hardware and software
+products. In addition, the Company offers its own software products, including iOS, the Company’s proprietary mobile operating
+system; Mac OS X, the Company’s proprietary operating system software for the Mac; server software and application software for
+consumer, SMB, and education, enterprise and government customers. The Company’s primary products are discussed below.
+iPhone
+iPhone combines a mobile phone, an iPod, and an Internet communications device in a single handheld product. Based on the
+Company’s Multi-Touch™ user interface, iPhone features desktop-class email, web browsing, searching, and maps and is compatible
+with both Macs and Windows-based computers. iPhone automatically syncs content from users’ iTunes libraries, as well as contacts,
+bookmarks, and email accounts. iPhone allows customers to access the iTunes Store to download audio and video files, as well as a
+variety of other digital content and applications. In October 2011, the Company launched iPhone 4S, its latest version of iPhone, which
+includes Siri™, a voice activated intelligent assistant. In addition to the Company’s own iPhone accessories, third-party iPhone
+compatible accessories are available through the Company’s online and retail stores and from third parties.
+iPad
+iPad is a multi-purpose mobile device for browsing the web, reading and sending email, viewing photos, watching videos, listening to
+music, playing games, reading e-books and more. iPad is based on the Company’s Multi-Touch technology and allows customers to
+connect with their applications and content in a more interactive way. iPad allows customers to access the iTunes Store to download
+audio and video files, as well as a variety of other digital content and applications. In March 2011, the Company introduced iPad 2, its
+second-generation iPad. In addition to the Company’s own iPad accessories, third-party iPad compatible accessories are available
+through the Company’s online and retail stores and from third parties.
+Mac Hardware Products
+The Company offers a range of personal computing products including desktop and portable computers, related devices and
+peripherals, and third-party hardware products. The Company’s Mac desktop and portable systems feature Intel microprocessors, the
+Mac OS X Lion operating system and the iLife suite of software for creation and management of digital photography, music, movies,
+DVDs and websites.
+The Company’s desktop computers include iMac, Mac Pro and Mac mini. The iMac desktop computer has an all-in-one design that
+incorporates a display, processor, graphics card, storage, memory and other components inside a single enclosure. The Mac Pro
+desktop computer is targeted at business and professional customers and is designed to meet the performance, expansion, and
+networking needs of the most demanding Mac user. The Mac mini is a desktop computer in a compact enclosure.
+The Company’s portable computers include MacBook Pro and MacBook Air. MacBook Pro is a portable computer designed for
+professionals and consumers. MacBook Air is an ultra-slim portable computer designed for professionals and consumers.
+iPod
+The Company’s iPod line of portable digital music and media players includes iPod touch, iPod nano , iPod shuffle and iPod
+classic. All iPods work with iTunes. In addition to the Company’s own iPod accessories, third-party iPod compatible accessories are
+available, through the Company’s online and retail stores or from third parties.
+ 
+3
+®
+®
+® ®
+® ®
+®
+9/17/12 12:45 PMForm 10-K
+Page 6 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+The iPod touch, based on iOS, is a flash-memory-based iPod with a widescreen display and a Multi-Touch user interface. iPod touch
+allows customers to access the iTunes Store to download audio and video content, as well as a variety of digital applications. The iPod
+nano is a flash-memory-based iPod that features the Company’s Multi-Touch interface allowing customers to navigate their music
+collection by tapping or swiping the display. The iPod nano features a polished aluminum and glass enclosure with a built-in clip. The
+iPod shuffle is a flash-memory-based iPod that features a clickable control pad to control music playback and VoiceOver technology
+enabling customers to hear song titles, artists and playlist names. The iPod classic is a hard-drive based portable digital music and
+video player.
+iTunes
+iTunes is an application that supports the purchase, download, organization and playback of digital audio and video files and is
+available for both Mac and Windows-based computers. iTunes 10 is the latest version of iTunes and features AirPlay wireless music
+playback, Genius Mixes, Home Sharing, and improved syncing functionality with iOS devices.
+iTunes is integrated with the iTunes Store, a service that allows customers to discover, purchase, rent, and download digital content
+and applications. The iTunes Store includes the App Store™ and iBookstore. The App Store allows customers to discover and
+download applications, and the iBookstore features electronic books from major and independent publishers and allows customers to
+preview and buy books for their iOS devices. Customers can access the App Store through either a Mac or Windows-based computer
+or through an iOS device. The iBookstore is accessed through the iBooks application on an iOS device.
+Mac App Store
+In January 2011, the Company opened the Mac App Store allowing customers to discover, download and install applications for their
+Macs. The Mac App Store offers applications in education, games, graphics and design, lifestyle, productivity, utilities and other
+categories. The Company’s Mac OS X operating system software and iLife and iWork application software are also available on the
+Mac App Store.
+iCloud
+In October 2011, the Company launched iCloud, its new cloud service, which stores music, photos, applications, contacts, calendars,
+and documents and wirelessly pushes them to multiple iOS devices, Macs and Windows-based computers. iCloud’s features include
+iTunes in the Cloud, Photo Stream, Documents in the Cloud, Contacts, Calendar, Mail, automatic downloads and purchase history for
+applications and iBooks, and iCloud Backup. Users can sign up for free access to iCloud using a device running iOS 5 or a Mac
+running Mac OS X Lion.
+Software Products and Computer Technologies
+The Company offers a range of software products for consumer, SMB, education, enterprise and government customers, including the
+Company’s proprietary iOS and Mac OS X operating system software; server software; professional application software; and
+consumer, education, and business oriented application software.
+Operating System Software
+iOS
+iOS is the Company’s mobile operating system that serves as the foundation for iOS devices. In October 2011, the Company released
+iOS 5, which supports iCloud and includes new features such as Notification Center, a way to view and manage notifications in one
+place; iMessage™, a messaging service that allows users to send text messages, photos and videos between iOS devices; and
+Newsstand, a way to purchase and organize newspaper and magazine subscriptions.
+ 
+4
+®
+®
+®
+®
+®
+9/17/12 12:45 PMForm 10-K
+Page 7 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+Mac OS X
+Mac OS X, the operating system for Macs, is built on an open-source UNIX-based foundation. Mac OS X Lion is the eighth major
+release of Mac OS X and became available in July 2011. Mac OS X Lion includes support for new Multi-Touch gestures; iCloud
+integration; system-wide support for full screen applications; Mission Control™, a way to view everything running on a user’s Mac;
+the Mac App Store; Launchpad™, a new home for a user’s applications; and a redesigned Mail application.
+Application Software
+iLife
+iLife ’11 is the latest version of the Company’s consumer-oriented digital lifestyle application suite included with all Mac computers.
+iLife features iPhoto, iMovie, iDVD, GarageBand, and iWeb™. iPhoto is the Company’s consumer-oriented digital photo
+application and iMovie is the Company’s consumer-oriented digital video editing software application. iDVD is the Company’s
+consumer-oriented software application that enables customers to turn iMovie files, QuickTime files, and digital pictures into
+interactive DVDs. GarageBand is the Company’s consumer-oriented music creation application that allows customers to play, record
+and create music. iWeb allows customers to create online photo albums, blogs and podcasts, and to customize websites using editing
+tools.
+iWork
+iWork ’09 is the latest version of the Company’s integrated productivity suite designed to help users create, present, and publish
+documents, presentations, and spreadsheets. iWork ’09 includes Pages ’09 for word processing and page layout, Keynote ’09 for
+presentations, and Numbers ’09 for spreadsheets. The Company also has a Multi-Touch version of each iWork application designed
+specifically for use on iOS devices.
+Other Application Software
+The Company also sells various other application software, including Final Cut Pro, Logic Studio, Logic Express 9, Logic Studio
+Pro, and its FileMaker Pro database software.
+Displays & Peripheral Products
+The Company manufactures the Apple LED Cinema Display™ and Thunderbolt Display. The Company also sells a variety of Apple-
+branded and third-party Mac-compatible and iOS-compatible peripheral products, including printers, storage devices, computer
+memory, digital video and still cameras, and various other computing products and supplies.
+Apple TV
+Apple TV allows customers to watch movies and television shows on their high definition television. Content from iTunes, Netflix,
+YouTube, and Flickr as well as music, photos, videos, and podcasts from a Mac or Windows-based computer can also be wirelessly
+streamed to a television through Apple TV. With the release of iCloud in October 2011, content purchased on Apple TV can be re-
+downloaded on iOS devices.
+Product Support and Services
+AppleCare offers a range of support options for the Company’s customers. These options include assistance that is built into software
+products, printed and electronic product manuals, online support including comprehensive product information as well as technical
+assistance, and the AppleCare Protection Plan (“APP”). APP is a fee-based service that typically includes two to three years of phone
+support and hardware repairs and dedicated web-based support resources.
+ 
+5
+® ® ® ®
+® ®
+®
+® ® ® ®
+®
+®
+9/17/12 12:45 PMForm 10-K
+Page 8 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+Markets and Distribution
+The Company’s customers are primarily in the consumer, SMB, and education, enterprise and government markets. The Company
+uses a variety of direct and indirect distribution channels, such as its retail stores, online stores, and direct sales force, and third-party
+cellular network carriers, wholesalers, retailers, and value-added resellers. The Company believes that sales of its innovative and
+differentiated products are enhanced by knowledgeable salespersons who can convey the value of the hardware and software
+integration, and demonstrate the unique solutions that are available on its products. The Company further believes providing direct
+contact with its targeted customers is an effective way to demonstrate the advantages of its products over those of its competitors and
+providing a high-quality sales and after-sales support experience is critical to attracting new and retaining existing customers. To
+ensure a high-quality buying experience for its products in which service and education are emphasized, the Company continues to
+expand and improve its distribution capabilities by expanding the number of its own retail stores worldwide. Additionally, the
+Company has invested in programs to enhance reseller sales by placing high quality Apple fixtures, merchandising materials and other
+resources within selected third-party reseller locations. Through the Apple Premium Reseller Program, certain third-party resellers
+focus on the Apple platform by providing a high level of integration and support services, and product expertise.
+No single customer accounted for more than 10% of net sales in 2011 or 2010. One of the Company’s customers accounted for 11% of
+net sales in 2009.
+Competition
+The markets for the Company’s products and services are highly competitive and the Company is confronted by aggressive
+competition in all areas of its business. These markets are characterized by frequent product introductions and rapid technological
+advances that have substantially increased the capabilities and use of mobile communication and media devices, personal computers,
+and other digital electronic devices. The Company’s competitors who sell mobile devices and personal computers based on other
+operating systems have aggressively cut prices and lowered their product margins to gain or maintain market share. The Company’s
+financial condition and operating results can be adversely affected by these and other industry-wide downward pressures on gross
+margins. Principal competitive factors important to the Company include price, product features, relative price/performance, product
+quality and reliability, design innovation, a strong third-party software and peripherals ecosystem, marketing and distribution
+capability, service and support, and corporate reputation.
+The Company is focused on expanding its market opportunities related to mobile communication and media devices. These industries
+are highly competitive and include several large, well-funded and experienced participants. The Company expects competition in these
+industries to intensify significantly as competitors attempt to imitate some of the features of the Company’s products and applications
+within their own products or, alternatively, collaborate with each other to offer solutions that are more competitive than those they
+currently offer. These industries are characterized by aggressive pricing practices, frequent product introductions, evolving design
+approaches and technologies, rapid adoption of technological and product advancements by competitors, and price sensitivity on the
+part of consumers and businesses.
+The Company’s digital content services have faced significant competition from other companies promoting their own digital music
+and content products and services, including those offering free peer-to-peer music and video services. The Company believes it offers
+superior innovation and integration of the entire solution including the hardware (iPhone, iPad, Mac, and iPod), software (iTunes), and
+distribution of digital content and applications (iTunes Store, App Store, iBookstore and Mac App Store). Some of the Company’s
+current and potential competitors have substantial resources and may be able to provide such products and services at little or no profit
+or even at a loss to compete with the Company’s offerings.
+The Company’s future financial condition and operating results depend on the Company’s ability to continue to develop and offer new
+innovative products and services in each of the markets it competes in.
+ 
+6
+9/17/12 12:45 PMForm 10-K
+Page 9 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+Supply of Components
+Although most components essential to the Company’s business are generally available from multiple sources, a number of
+components are currently obtained from single or limited sources, which subjects the Company to significant supply and pricing risks.
+Many components are at times subject to industry-wide shortages and significant commodity pricing fluctuations. In addition, the
+Company has entered into various agreements for the supply of components; however there can be no guarantee that the Company will
+be able to extend or renew these agreements on similar terms, or at all. Therefore, the Company remains subject to significant risks of
+supply shortages and price increases that can materially adversely affect its financial condition and operating results.
+The Company and other participants in the mobile communication and media device, and personal computer industries compete for
+various components with other industries that have experienced increased demand for their products. The Company also uses some
+custom components that are not common to the rest of these industries, and new products introduced by the Company often utilize
+custom components available from only one source. When a component or product uses new technologies, initial capacity constraints
+may exist until the suppliers’ yields have matured or manufacturing capacity has increased. If the Company’s supply of components
+for a new or existing product were delayed or constrained, or if a key manufacturing vendor delayed shipments of completed products
+to the Company, the Company’s financial condition and operating results could be materially adversely affected. The Company’s
+business and financial performance could also be materially adversely affected depending on the time required to obtain sufficient
+quantities from the original source, or to identify and obtain sufficient quantities from an alternative source. Continued availability of
+these components at acceptable prices, or at all, may be affected if those suppliers concentrated on the production of common
+components instead of components customized to meet the Company’s requirements.
+Substantially all of the Company’s hardware products are manufactured by outsourcing partners primarily located in Asia. A
+significant concentration of this manufacturing is currently performed by a small number of outsourcing partners, often in single
+locations. Certain of these outsourcing partners are the sole-sourced suppliers of components and manufacturer for many of the
+Company’s products. Although the Company works closely with its outsourcing partners on manufacturing schedules, the Company’s
+operating results could be adversely affected if its outsourcing partners were unable to meet their production commitments. The
+Company’s purchase commitments typically cover the Company’s requirements for periods up to 150 days.
+Research and Development
+Because the industries in which the Company competes are characterized by rapid technological advances, the Company’s ability to
+compete successfully depends heavily upon its ability to ensure a continual and timely flow of competitive products, services and
+technologies to the marketplace. The Company continues to develop new technologies to enhance existing products and to expand the
+range of its product offerings through research and development, licensing of intellectual property and acquisition of third-party
+businesses and technology. Total research and development expense was $2.4 billion, $1.8 billion and $1.3 billion in 2011, 2010 and
+2009, respectively.
+Patents, Trademarks, Copyrights and Licenses
+The Company currently holds rights to patents and copyrights relating to certain aspects of its iPhone, iPad, Mac and iPod devices,
+peripherals, software and services. The Company has registered or has applied for trademarks and service marks in the U.S. and a
+number of foreign countries. Although the Company believes the ownership of such patents, copyrights, trademarks and service marks
+is an important factor in its business and that its success does depend in part on the ownership thereof, the Company relies primarily on
+the innovative skills, technical competence and marketing abilities of its personnel.
+ 
+7
+9/17/12 12:45 PMForm 10-K
+Page 10 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+The Company regularly files patent applications to protect inventions arising from its research and development, and is currently
+pursuing thousands of patent applications around the world. Over time, the Company has accumulated a large portfolio of issued
+patents in the U.S. and worldwide. The Company holds copyrights relating to certain aspects of its products and services. No single
+patent or copyright is solely responsible for protecting the Company’s products. The Company believes the duration of its patents is
+adequate relative to the expected lives of its products. Due to the fast pace of innovation and product development, the Company’s
+products are often obsolete before the patents related to them expire, and sometimes are obsolete before the patents related to them are
+even granted.
+Many of the Company’s products are designed to include intellectual property obtained from third parties. While it may be necessary
+in the future to seek or renew licenses relating to various aspects of its products and business methods, based upon past experience and
+industry practice, the Company believes such licenses generally could be obtained on commercially reasonable terms; however, there
+is no guarantee that such licenses could be obtained at all. Because of technological changes in the industries in which the Company
+competes, current extensive patent coverage, and the rapid rate of issuance of new patents, it is possible that certain components of the
+Company’s products and business methods may unknowingly infringe existing patents or intellectual property rights of others. From
+time to time, the Company has been notified that it may be infringing certain patents or other intellectual property rights of third
+parties.
+Foreign and Domestic Operations and Geographic Data
+The U.S. represents the Company’s largest geographic market. Approximately 39% of the Company’s net sales in 2011 came from
+sales to customers inside the U.S. Final assembly of the Company’s products is currently performed in the Company’s manufacturing
+facility in Ireland, and by outsourcing partners, primarily located in Asia. The supply and manufacture of a number of components is
+performed by sole-sourced outsourcing partners in the U.S., Asia and Europe. Single-sourced outsourcing partners in Asia perform
+final assembly of substantially all of the Company’s hardware products. Margins on sales of the Company’s products in foreign
+countries, and on sales of products that include components obtained from foreign suppliers, can be adversely affected by foreign
+currency exchange rate fluctuations and by international trade regulations, including tariffs and antidumping penalties. Information
+regarding financial data by geographic segment is set forth in Part II, Item 7 and Item 8 of this Form 10-K and in Notes to
+Consolidated Financial Statements in Note 8, “Segment Information and Geographic Data.”
+Seasonal Business
+The Company has historically experienced increased net sales in its first fiscal quarter compared to other quarters in its fiscal year due
+to increased holiday seasonal demand. This historical pattern should not be considered a reliable indicator of the Company’s future net
+sales or financial performance.
+Warranty
+The Company offers a limited parts and labor warranty on most of its hardware products. The basic warranty period is typically one
+year from the date of purchase by the original end-user. The Company also offers a 90-day basic warranty for its service parts used to
+repair the Company’s hardware products. In addition, consumers may purchase the APP, which extends service coverage on many of
+the Company’s hardware products in most of its major markets.
+Backlog
+In the Company’s experience, the actual amount of product backlog at any particular time is not a meaningful indication of its future
+business prospects. In particular, backlog often increases in anticipation of or immediately following new product introductions as
+customers anticipate shortages. Backlog is often reduced once customers
+ 
+8
+9/17/12 12:45 PMForm 10-K
+Page 11 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+believe they can obtain sufficient supply. Because of the foregoing, backlog should not be considered a reliable indicator of the
+Company’s ability to achieve any particular level of revenue or financial performance.
+Employees
+As of September 24, 2011, the Company had approximately 60,400 full-time equivalent employees and an additional 2,900 full-time
+equivalent temporary employees and contractors.
+Available Information
+The Company’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to
+reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (“Exchange Act”), are filed with
+the U.S. Securities and Exchange Commission (the “SEC”). Such reports and other information filed by the Company with the SEC
+are available free of charge on the Company’s website at www.apple.com/investor when such reports are available on the SEC
+website. The public may read and copy any materials filed by the Company with the SEC at the SEC’s Public Reference Room at 100
+F Street, NE, Room 1580, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room
+by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements and
+other information regarding issuers that file electronically with the SEC at www.sec.gov. The contents of these websites are not
+incorporated into this filing. Further, the Company’s references to the URLs for these websites are intended to be inactive textual
+references only.
+ 
+Item 1A. Risk Factors
+Because of the following factors, as well as other factors affecting the Company’s financial condition and operating results, past
+financial performance should not be considered to be a reliable indicator of future performance, and investors should not use historical
+trends to anticipate results or trends in future periods.
+Global economic conditions could materially adversely affect the Company.
+The Company’s operations and performance depend significantly on worldwide economic conditions. Uncertainty about global
+economic conditions poses a risk as consumers and businesses postpone spending in response to tighter credit, unemployment,
+negative financial news and/or declines in income or asset values, which could have a material negative effect on demand for the
+Company’s products and services. Demand also could differ materially from the Company’s expectations because the Company
+generally raises prices on goods and services sold outside the U.S. to offset the effect of a strengthening of the U.S. dollar. Other
+factors that could influence demand include increases in fuel and other energy costs, conditions in the real estate and mortgage
+markets, unemployment, labor and healthcare costs, access to credit, consumer confidence, and other macroeconomic factors affecting
+consumer spending behavior. These and other economic factors could materially adversely affect demand for the Company’s products
+and services and the Company’s financial condition and operating results.
+In the event of financial turmoil affecting the banking system and financial markets, additional consolidation of the financial services
+industry, or significant financial service institution failures, there could be a new or incremental tightening in the credit markets, low
+liquidity, and extreme volatility in fixed income, credit, currency, and equity markets. This could have a number of effects on the
+Company’s business, including the insolvency or financial instability of outsourcing partners or suppliers or their inability to obtain
+credit to finance development and/or manufacture products resulting in product delays; inability of customers, including channel
+partners, to obtain credit to finance purchases of the Company’s products; and failure of derivative counterparties and other financial
+institutions. Other income and expense also could vary materially from expectations depending on gains or losses realized on the sale
+or exchange of financial instruments; impairment charges resulting from revaluations of debt and equity securities and other
+investments; interest rates; cash balances; and
+ 
+9
+9/17/12 12:45 PMForm 10-K
+Page 12 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+changes in fair value of derivative instruments. Increased volatility in the financial markets and overall economic uncertainty would
+increase the risk of the actual amounts realized in the future on the Company’s financial instruments differing significantly from the
+fair values currently assigned to them.
+Global markets for the Company’s products and services are highly competitive and subject to rapid technological change. If the
+Company is unable to compete effectively in these markets, its financial condition and operating results could be materially adversely
+affected.
+The Company’s products and services compete in highly competitive global markets characterized by aggressive price cutting, with
+resulting downward pressure on gross margins, frequent introduction of new products, short product life cycles, evolving industry
+standards, continual improvement in product price/performance characteristics, rapid adoption of technological and product
+advancements by competitors, and price sensitivity on the part of consumers.
+The Company’s ability to compete successfully depends heavily on its ability to ensure a continuing and timely introduction of
+innovative new products and technologies to the marketplace. The Company believes it is unique in that it designs and develops nearly
+the entire solution for its products, including the hardware, operating system, numerous software applications, and related services. As
+a result, the Company must make significant investments in research and development and as such, the Company currently holds a
+significant number of patents and copyrights and has registered and/or has applied to register numerous patents, trademarks and
+service marks. By contrast, many of the Company’s competitors seek to compete primarily through aggressive pricing and very low
+cost structures. If the Company is unable to continue to develop and sell innovative new products with attractive margins or if other
+companies infringe on the Company’s intellectual property, the Company’s ability to maintain a competitive advantage could be
+negatively affected and its financial condition and operating results could be materially adversely affected.
+The Company markets certain mobile communication and media devices based on the iOS mobile operating system and also markets
+related third-party digital content and applications. The Company faces substantial competition in these markets from companies that
+have significant technical, marketing, distribution and other resources, as well as established hardware, software and digital content
+supplier relationships. Additionally, the Company faces significant price competition as competitors reduce their selling prices and
+attempt to imitate the Company’s product features and applications within their own products or, alternatively, collaborate with each
+other to offer solutions that are more competitive than those they currently offer. The Company also competes with illegitimate ways
+to obtain third-party digital content and applications. The Company has entered the mobile communications and media device markets,
+and some of its competitors in these markets have greater experience, product breadth and distribution channels than the Company.
+Because some current and potential competitors have substantial resources and/or experience and a lower cost structure, they may be
+able to provide such products and services at little or no profit or even at a loss. The Company also expects competition to intensify as
+competitors attempt to imitate the Company’s approach to providing these components seamlessly within their individual offerings or
+work collaboratively to offer integrated solutions. The Company’s financial condition and operating results depend substantially on the
+Company’s ability to continually improve iOS and iOS devices in order to maintain their functional and design advantages.
+The Company is the only authorized maker of hardware using Mac OS X, which has a minority market share in the personal computer
+market. This market is dominated by computer makers using competing operating systems, most notably Windows. In the market for
+personal computers and peripherals, the Company faces a significant number of competitors, many of which have broader product
+lines, lower priced products, and a larger installed customer base. Consolidation in this market has resulted in larger and potentially
+stronger competitors. Price competition has been particularly intense as competitors selling Windows-based personal computers have
+aggressively cut prices and lowered product margins. An increasing number of Internet devices that include software applications and
+are smaller and simpler than traditional personal computers compete for market share with the Company’s existing products. The
+Company’s financial condition and operating results depend substantially on its ability to continually improve the Mac platform to
+maintain its functional and design advantages.
+ 
+10
+9/17/12 12:45 PMForm 10-K
+Page 13 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+There can be no assurance the Company will be able to continue to provide products and services that compete effectively.
+To remain competitive and stimulate customer demand, the Company must successfully manage frequent product introductions and
+transitions.
+Due to the highly volatile and competitive nature of the industries in which the Company competes, the Company must continually
+introduce new products, services and technologies, enhance existing products and services, and effectively stimulate customer demand
+for new and upgraded products. The success of new product introductions depends on a number of factors including but not limited to
+timely and successful product development, market acceptance, the Company’s ability to manage the risks associated with new
+products and production ramp issues, the availability of application software for new products, the effective management of purchase
+commitments and inventory levels in line with anticipated product demand, the availability of products in appropriate quantities and
+costs to meet anticipated demand, and the risk that new products may have quality or other defects in the early stages of introduction.
+Accordingly, the Company cannot determine in advance the ultimate effect of new product introductions and transitions on its
+financial condition and operating results.
+The Company faces substantial inventory and other asset risk in addition to purchase commitment cancellation risk.
+The Company records a write-down for product and component inventories that have become obsolete or exceed anticipated demand
+or net realizable value and accrues necessary cancellation fee reserves for orders of excess products and components. The Company
+also reviews its long-lived assets for impairment whenever events or changed circumstances indicate the carrying amount of an asset
+may not be recoverable. If the Company determines that impairment has occurred, it records a write-down equal to the amount by
+which the carrying value of the assets exceeds its fair market value. Although the Company believes its provisions related to inventory,
+other assets and purchase commitments are currently adequate, no assurance can be given that the Company will not incur additional
+related charges given the rapid and unpredictable pace of product obsolescence in the industries in which the Company competes. Such
+charges could materially adversely affect the Company’s financial condition and operating results.
+The Company must order components for its products and build inventory in advance of product announcements and shipments.
+Consistent with industry practice, components are normally acquired through a combination of purchase orders, supplier contracts,
+open orders and, where appropriate, inventory component prepayments, in each case based on projected demand. Such purchase
+commitments typically cover forecasted component and manufacturing requirements for periods up to 150 days. Because the
+Company’s markets are volatile, competitive and subject to rapid technology and price changes, there is a risk the Company will
+forecast incorrectly and order or produce excess or insufficient amounts of components or products, or not fully utilize firm purchase
+commitments. The Company’s financial condition and operating results have been in the past and could be in the future materially
+adversely affected by the Company’s ability to manage its inventory levels and respond to short-term shifts in customer demand
+patterns.
+Future operating results depend upon the Company’s ability to obtain components in sufficient quantities.
+Because the Company currently obtains components from single or limited sources, the Company is subject to significant supply and
+pricing risks. Many components that are available from multiple sources are at times subject to industry-wide shortages and significant
+commodity pricing fluctuations. The Company has entered into various agreements for the supply of components; there can be no
+guarantee that the Company will be able to extend or renew these agreements on similar terms, or at all. The follow-on effects from the
+credit crisis on the Company’s suppliers, referred to in “Economic conditions could materially adversely affect the Company” above,
+also could affect the Company’s ability to obtain components. Therefore, the Company remains subject to significant risks of supply
+shortages and price increases that could materially adversely affect the Company’s
+ 
+11
+9/17/12 12:45 PMForm 10-K
+Page 14 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+financial condition and operating results. The Company expects to experience decreases in its gross margin percentage in future
+periods, as compared to levels achieved during 2011, largely due to a higher mix of new and innovative products with flat or reduced
+pricing that have higher cost structures and deliver greater value to customers, and potential future component cost and other cost
+increases.
+The Company and other participants in the mobile communication and media device, and personal computer industries compete for
+various components with other industries that have experienced increased demand for their products. The Company uses some custom
+components that are not common to the rest of these industries. The Company’s new products often utilize custom components
+available from only one source. When a component or product uses new technologies, initial capacity constraints may exist until the
+suppliers’ yields have matured or manufacturing capacity has increased. Continued availability of these components at acceptable
+prices, or at all, may be affected if those suppliers decided to concentrate on the production of common components instead of
+components customized to meet the Company’s requirements. If the supply of components for a new or existing product were delayed
+or constrained, or if a key manufacturing vendor delayed shipments of completed products to the Company, the Company’s financial
+condition and operating results could be materially adversely affected.
+The Company depends on component and product manufacturing and logistical services provided by outsourcing partners, many of
+whom are located outside of the U.S.
+Substantially all of the Company’s manufacturing is performed in whole or in part by a few outsourcing partners primarily located in
+Asia. The Company has also outsourced much of its transportation and logistics management. While these arrangements may lower
+operating costs, they also reduce the Company’s direct control over production and distribution. It is uncertain what effect such
+diminished control will have on the quality or quantity of products or services, or the Company’s flexibility to respond to changing
+conditions. Although arrangements with these partners may contain provisions for warranty expense reimbursement, the Company
+may remain responsible to the consumer for warranty service in the event of product defects. The Company also relies on its partners
+to adhere to the Company’s supplier code of conduct. Any unanticipated product defect or warranty liability, whether pursuant to
+arrangements with outsourcing partners or otherwise, or material violations of the supplier code of conduct, could materially adversely
+affect the Company’s reputation, financial condition and operating results.
+The supply and manufacture of many critical components is performed by sole-sourced outsourcing partners in the U.S., Asia and
+Europe. Single-sourced outsourcing partners in Asia perform final assembly of substantially all of the Company’s hardware products.
+If manufacturing or logistics in these locations is disrupted for any reason including, but not limited to, natural and man-made
+disasters, information technology system failures, military actions or economic, business, labor, environmental, public health, or
+political issues, the Company’s financial condition and operating results could be materially adversely affected.
+The Company relies on third-party intellectual property and digital content, which may not be available to the Company on
+commercially reasonable terms or at all.
+Many of the Company’s products include third-party intellectual property, which requires licenses from those third parties. Based on
+past experience and industry practice, the Company believes such licenses generally could be obtained on reasonable terms. There is
+however no assurance that the necessary licenses could be obtained on acceptable terms or at all. If the Company is unable to obtain or
+renew critical licenses on reasonable terms, its financial condition and operating results may be materially adversely affected.
+The Company also contracts with third parties to offer their digital content through the iTunes Store. The licensing arrangements with
+these third parties are short-term and do not guarantee the continuation or renewal of these arrangements on reasonable terms, if at all.
+Some third-party content providers currently or in the future may offer competing products and services, and could take action to make
+it more difficult or impossible for the
+ 
+12
+9/17/12 12:45 PMForm 10-K
+Page 15 of 88http://www.sec.gov/Archives/edgar/data/320193/000119312511282113/d220209d10k.htm
+Company to license their content in the future. Other content owners, providers or distributors may seek to limit the Company’s access
+to, or increase the cost of, such content. If the Company is unable to continue to offer a wide variety of content at reasonable prices
+with acceptable usage rules, or continue to expand its geographic reach, the Company’s financial condition and operating results may
+be materially adversely affected.
+Many third-party content providers require the Company to provide digital rights management (“DRM”) and other security solutions.
+If these requirements change, the Company may have to develop or license new technology to provide these solutions. There is no
+assurance the Company will be able to develop or license such solutions at a reasonable cost and in a timely manner. In addition,
+certain countries have passed or may propose legislation that would force the Company to license its DRM, which could lessen the
+protection of content and subject it to piracy and also could affect arrangements with the Company’s content providers.
+The Company’s future results could be materially adversely affected if it is found to have infringed on intellectual property rights.
+Technology companies, including many of the Company’s competitors, frequently enter into litigation based on allegations of patent
+infringement or other violations of intellectual property rights. In addition, patent holding companies seek to monetize patents they
+have purchased or otherwise obtained. As the Company has grown, the intellectual property rights claims against it have increased and
+may continue to increase. In particular, the Company’s cellular enabled products compete with mobile communication and media
+device companies that hold significant patent portfolios, and the number of patent claims against the Company has significantly
+increased. The Company is vigorously defending infringement actions in courts in a number of U.S. jurisdictions and before the U.S.
+International Trade Commission, as well as internationally in Europe and Asia. The plaintiffs in these actions frequently seek
+injunctions and substantial damages.
+Regardless of the scope or validity of such patents or the merits of any patent claims by potential or actual litigants, the Company may
+have to engage in protracted litigation. If the Company is found to infringe one or more patents, it may be required to pay substantial
+damages. If there is a temporary or permanent injunction prohibiting the Company from marketing or selling certain products or a
+successful claim of infringement against the Company requiring it to pay royalties to a third-party, its financial condition and operating
+results could be materially adversely affected, regardless of whether it can develop non-infringing technology.
+In certain cases, the Company may consider the desirability of entering into licensing agreements, although no assurance can be given
+that such licenses can be obtained on acceptable terms or that litigation will not occur. These licenses may also significantly increase
+the Company’s operating expenses.
+In management’s opinion there is not at least a reasonable possibility the Company may have incurred a material loss, or a material
+loss in excess of a recorded accrual, with respect to loss contingencies, including matters related to infringement of intellectual
+property rights. However, the outcome of litiga

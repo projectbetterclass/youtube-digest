@@ -1,0 +1,153 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfexams/NetflixFitPresentation.pdf
+
+NETFLIX FIT: CASE ANALYSIS
+Aswath Damodaran
+2
+Discrete and Continuous Time
+3
+Summary of Conclusions
+¨ On a stand-alone basis, this project is a value-adding project in the finite life case, 
+albeit only marginal, but with the synergy benefits counted in, it does do better .
+¨ The average return on capital, in the finite life case, is 10.76%, without synergy and about 
+14.08% with synergy. The latter is higher than the cost of capital for Netflix Fit, which is 8.01%. 
+¤ The net present value of the cash flows on Netflix Fit, using a cost of capital of 8.01%
+nIs $106 million, under the finite life assumption of a of 10 years. Adding the present value 
+of the side benefits to Netflix Entertainment, the NPV is  +$483 million.
+nIs $ 346 million, under the assumption of an infinite life. Adding the present value of the 
+side benefits of the stories, the NPV is $1,055 million.
+n The IRR is 8.69% (11.17%) with a  10-year life and 8.97% (11.53%) with the infinite life, with 
+the number in brackets representing the IRR with synergy counted in.
+¨ All ofthe numbers in the case are based upon the assumption that existing users 
+stay on as existing users, i.e., that the renewal rate is close to 100%. If we lower 
+that renewal rate, the cash flows decrease and so does the NPV. While extending 
+the life does make the investment better, technology is a fickle advantage.
+¨ We would recommend that Netflix leave this business to players like Peloton, 
+companies that serve a niche market, unless you can find a way to increase the 
+side benefits to the entertainment business.
+5
+Cost of Capital: Your numbers
+6
+Netflix Fit: Operating Income & 
+Incremental Operating Income
+Operating Income
+Incremental Operating Income
+7
+Return on Capital Computation
+BV of capital = Undepreciated portion of original investment 
++ BV of Studio + Non-cash Working capital
+8
+Some Thoughts on Operating Income...
+¨There are a number ofallocation mechanisms that 
+can be used to compute operating income, and the 
+return on capital is affected by decisions on 
+allocation.
+¨Your choices on depreciation have profound effects 
+on return on capital. Using a more accelerated 
+depreciation method would raise your return on 
+capital substantially.
+¨Note that the operating income is computed after 
+marginal taxes (Why?) and does not include the tax 
+savings due to interest expenses (Why?).
+9
+Your findings: Return on Capital
+10
+Finite Life case assumptions
+¨Incremental Effects
+¤When analyzing the cost of studio expansion, we consider the cost of the 
+system in year 4 ($ 520 million) but we show the savings in year 8 ($ 541 
+million). Similarly, for depreciation, we show the depreciation on the existing 
+system of $ 52 million from year 5-8, but show the differential depreciation of 
+-$2 million between the two systems in years 9 & 10. 
+¤Since we are planning on wrapping up the business in 10 years, there is no 
+need for significant capital maintenance expenditures.
+¨Both working capital investments and capital investments are assumed to 
+occur at the start of the year and are therefore shown at the end of the 
+previous year .
+11
+Incremental Cash Flows -Finite Life
+12
+The Side Benefits for Netflix Entertainment
+13
+Finite Life NPV
+14
+The Value Effect: NPV
+15
+Explanations for Infinite Life Case
+¨Whenextendingtheprojectlifetoinfinity,Ididmakesome
+changestotheassumptionsaboutcapitalmaintenance.
+¤Madethecapitalexpenditureexceeddepreciationby1%(theinflation
+rate)allthroughthe10years.Essentially,Iamassumingthatwhatever
+depletionoccursinbookvaluebecauseofdepreciationismadeupby
+newcapitalmaintenanceexpendituresinthatyear,withtheinflation
+adjustment.
+¤Setcapitalexpenditureshigherthandepreciation,usingtheinflation
+adjustmentfor10years(=200*1.0110),inyear11,toallowforthefact
+thatinperpetuity,Iwouldhavetokeepstoreslookingpristinetohave
+growthof1%ayearforever.
+¨Thesynergybenefitsnowcontinueinperpetuityaswell.
+16
+Incremental Cash Flows-Infinite Life
+17
+The terminal value: Assumptions and 
+Calculation
+¨After year 10, I assume that the number of subscribers is 
+level, but subscription prices grow at the inflation rate of 1% 
+a year .
+¨My cash flow in year 11 is much lower than my cash flow in 
+year 10, because I no longer have add on subscribers. 
+¨Terminal Value 
+= CF in year 11/ (Cost of capital –g)
+= 244.33/(.0801-.01) = $ 3,486 million
+18
+Finite versus Infinite: The Cash Flow Trade off
+Year Finite Perpetual Differential
+0 $ (2,500.00) $ (2,500.00) $            -
+1 $     132.94 $      (35.19) $   (168.13)
+2 $     200.68 $       30.87 $   (169.81)
+3 $     272.66 $     101.15 $   (171.51)
+4 $    (171.29) $    (344.51) $   (173.22)
+5 $     459.60 $     284.65 $   (174.95)
+6 $     944.35 $     757.25 $   (187.10)
+7 $     442.58 $     264.38 $   (178.20)
+8 $     484.43 $     304.45 $   (179.99)
+9 $     528.60 $     346.81 $   (181.79)
+10 $  1,143.52 $  3,917.23 $  2,773.71
+19
+Value Added: NPV of Infinite Life Case
+20
+Consistency in growth and investment 
+assumptions
+After year 15 Capital Expenditure Assumption
+Project ends No (or very low) capital maintenance
+Let assets run down towards end of life
+Infinite life; g=0% Capital maintenance = Depreciation
+Maintain invested capital at base level
+Infinite life; g= inflationCapital maintenance > Depreciation
+Capital invested has to grow at inflation rate
+Infinite life; g> inflationCapital investment to increase capacity
+Capital maintenance > Depreciation
+Capital invested has to grow to reflect real 
+growth
+21
+Your findings: Infinite Life
+0
+1
+2
+3
+4
+5
+6
+7
+8
+< -500 -500 To 0 0 To 500 500 To 1,0001,000 To 2,0002,000 To 3,0003,000 To 4,0004,000 To 5,0005,000 To 10,000 >10,000
+NPV Perpetual Life
+22
+Final Conclusions
+¨Of the 45 groups that turned in numbers on this project,  17 
+decided that it should be rejected.
+¨28 groups suggested that the investment be made…
+¨If you did accept or reject, is it possible that the six weeks 
+since the case was written might have changed your views. 
+¤Why or why not?
+¤If the events of the last few weeks changed your views, what would you do 
+other than express regrets?

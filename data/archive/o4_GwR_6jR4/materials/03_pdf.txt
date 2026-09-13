@@ -1,0 +1,32 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/postclass/session5Asoln.pdf
+
+Session	5A:	Post	class	test	solutions	
+Year R&D expense Unamortized portion Amortization this year 
+LTM $26,018   $        26,018.00   $               -    
+Year -1 $21,419   $        14,279.33   $    7,139.67  
+Year -2 $16,625   $          5,541.67   $    5,541.67  
+Year -3 $13,948   $                     -     $    4,649.33  
+   $        45,839.00   $  17,330.67  
+	
+1. Effect	on	operating	income	=	Add	back	the	R&D	expense	from	the	last	12	
+months	and	subtract	out	amortization	of	R&D	=	+$26,018	-	$17,331	=	$8,687	
+million	
+2. Effect	on	book	value	of	equity	=	Add	back	the	unamortized	portion	of	R&D	
+=	+$45,839	million	
+Year Lease commitment PV at 3% 
+1 $333.00  $323.30  
+2 $353.00  $332.74  
+3 $327.00  $299.25  
+4 $300.00  $266.55  
+5 $252.00  $217.38  
+Yrs 6-10 $227.20  $897.55  
+Sum of PV of lease commitments $2,336.76  
+	
+3. Effect	on	debt	=	Increase	by	PV	of	lease	commitments	=	+$2,337	million	
+4. Effect	on	operating	income	=	Add	back	the	lease	expense	from	the	last	12	
+months	and	subtract	out	depreciation	of	leased	asset	=	+374	million	-	
+$2337/10	=	+$140	million.	(The	depreciation	should	be	based	upon	the	value	
+of	the	leased	asset	last	year,	but	given	that	the	lease	commitment	did	not	
+change	much,	I	am	assuming	it	was	similar	in	value	to	this	year’s	number.)	
+5. Effect	on	interest	expense	=	PV	of	lease	commitments	*	Pre-tax	cost	of	debt	
+=	$2,337	million	*	.03	=	$70.10	million

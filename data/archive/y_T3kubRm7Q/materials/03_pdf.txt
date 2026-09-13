@@ -1,0 +1,26 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session3soln.pdf
+
+Session	3:	Post	class	test	solutions	
+1. d.	A	one-time	charge	to	cover	a	lawsuit	settlement.	Even	though	it	is	a	
+one-time	expense	and	may	be	classified	as	extraordinary,	it	is	an	actual	cash	
+expense	(since	the	settlement	has	to	be	paid).	
+2. a.	Investment	in	marketable	securities	(treasury	bills	and	commercial	
+paper)	Non-financial	service	companies	invest	excess	cash	into	marketable	
+securities.	It	is	not	reinvestment	into	operating	businesses	and	should	not	be	
+subtracted	out	for	cash	flows.	
+3. Effects	
+a. Increase	in	inventory:	Ties	up	cash	and	reduces	cash	flow	
+b. Increase	in	accounts	payable:	Frees	up	cash	and	increases	cash	flow	
+c. Increase	in	accounts	receivable:	Ties	up	cash	and	reduces	cash	flow	
+d. Increase	in	taxes	due:	Frees	up	cash	and	increases	cash	flow	
+e. Increase	in	cash	balance:	No	effect.	It	is	where	the	net	cash	flow	shows	
+up.	
+4. d.	Low	capital	expenditures,	high	depreciation,	decreasing	working	capital.	
+The	high	depreciation	and	the	decrease	in	working	capital	both	push	up	cash	
+flows,	and	since	the	cap	ex	is	lower	than	depreciation,	cashflows	will	exceed	
+earnings.	
+5. b.	Young,	growth	companies,	just	starting	to	turn	profitable	and	with	
+high	growth	potential.	The	growth	rate	in	income	will	be	high,	but	the	
+reinvestment	needed	to	deliver	future	growth	will	generally	outweigh	the	
+profit	effect,	causing	cash	flows	to	become	more	negative	(at	least	initially	
+before	they	turn	positive.

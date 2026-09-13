@@ -1,0 +1,217 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/slides/session5.pdf
+
+SESSION 5: CLEANING UP 
+ACCOUNTING
+Accounting for Finance
+2
+The Accountant’s Role
+qAccountants like order and consistency, as can be seen in 
+their propensity to write rules. 
+qThat said, much of accounting as practiced today was 
+developed in detail in the 20thcentury for the manufacturing 
+firms that dominated that century.
+qAs the center of economic gravity has shifted from 
+manufacturing to technology & service companies, and 
+corporate financial behavior has changed over time, 
+accountants have struggled with four key issues:
+qTaxes, and the actions that companies take to avoid or delay paying 
+them.
+qManagerial compensation in the form of equity (stock)
+qCommitments that are contractual but are not debt
+qInvestments for long term benefits that are not in physical assets
+3
+1. Taxes: Dueling Tax Rates
+1. Marginal tax rate: The marginal tax rate is the tax rate in the 
+statutory tax codes. Thus, in 2020, a US company should be 
+paying 21% of its taxable income in the US as federal taxes. 
+Since US companies now operate on a regional tax model, 
+the marginal tax rate for multinationals will reflect where 
+they make (or report to make) their taxable income.
+2. Effective Tax Rate: The effective tax rate for a company 
+reflects the taxes and taxable income it reports in its income 
+statement, which is based on accrual accounting: 
+¤ Effective tax rate = Taxes/ Taxable Income
+3. Cash Tax Rate: The cash tax rate for a company reflects the 
+taxes it actually pays on its taxable income.
+4
+Deferred Tax Assets & Liabilities
+qFormostcompanies,theeffectivetaxratewillbelowerthan
+themarginaltaxrate,reflecting:
+qOperationsincountrieswithlowertaxrates
+q(Legal)Taxdeferralandavoidancestrategies
+qWhentherearedifferencesbetweenwhatisexpensedand
+whatisreportedastaxableincomebetweenthereporting
+andtaxbooks,theresultingdifferenceintaxesisreportedas
+adeferredtaxliability(asset)ifthecompanypaysless(more)
+intaxesonitstaxbooksthanitreportsinitsfinancial
+statements.
+qThelogicfordoingsoissimple.Theitemsthatgiverisetoless
+(more)taxespaidinthecurrentperiodwillreverseandresult
+inmore(less)taxespaidinfutureperiods.
+5
+Net Operating Losses & Carryforwards
+¨When a US company loses money, it is allowed to carry 
+those losses forward and use them to reduce taxes paid 
+in future years. 
+¤Until the Tax Reform Act of 2017, the NOL could be carried back 
+two years and used to reduce taxes paid in prior years (as a tax 
+credit) and forward 20 years.
+¤The Tax Reform Act of 2017 removed the carry back provision 
+and allows losses to be carried forward indefinitely.
+¨When a company has losses that are over multiple years, 
+these losses are cumulated over time as a Net Operating 
+Loss (NOL) and should be disclosed in a company’s 
+financials.
+6
+2. Stock Based Compensation is an 
+Operating Expense… 
+qCompanies have used stock-based compensation to 
+reward employees for decades for two reasons:
+qTo align the interests of employees & managers with those of 
+the shareholders
+qTo make up for the absence of cash (to provide compensation 
+packages that are competitive)
+qStock-based compensation primarily takes two forms:
+qOptions to buy the company’s stock (or invest in its equity) at a 
+fixed price for a specified period.
+qShares in the company, sometimes with restrictions on trading 
+on those shares (restricted shares)
+7
+What type of expense is it?
+¨No matter what the motive for providing stock-based 
+compensation (to align interests or to make up for lack of cash), 
+it is clearly a compensation expense.
+¤If a grant is large and occasional, and primarily driven by the desire to align 
+interests, there is an argument that it should be spread out over time.
+¤If a company uses stock-based compensation consistently, and more to 
+make up for its cash poor status than to align interests, it is an annual 
+expense.
+¨To expense stock-based compensation, you have to value of the 
+options or stock given to employees, at the time they are 
+granted.
+¤Until 2004, companies were allowed leeway to estimate the value of 
+option grants based upon exercise value at the time of the grant.
+¤After 2004, FAS 123 requires companies to value options based upon their 
+time premium (using option pricing models) and show that expense in the 
+year the options are granted.
+8
+Is it a cash flow?
+qNow that options and restricted stock are treated 
+(correctly) as compensation, and expensed in the years 
+they are granted, the debate has shifted to the question 
+of whether they are non-cash expenses (like 
+depreciation), deserving of being added back to get to 
+cash flows.
+qMost companies and analysts seem to have come down 
+on yes as the answer, and many companies add back 
+stock-based compensation to get to adjusted earnings.
+qI disagree strongly. There is a fundamental difference 
+between a non-cash expense like depreciation, where 
+you pay nothing, and giving a share of equity (options or 
+shares) in lieu of cash.
+9
+3. Leases are debt
+¨The Essence of Debt: When you borrow money, you create contractual 
+obligations for the future, and a failure to meet them can put your 
+survival as a going concern at risk. 
+¨Lease contracts: When you sign a lease contract, you create commitments 
+for the future, and a failure to meet these commitments will put your 
+survival at risk. Put simply, there is no reason (and there never has been) 
+to treat leases as debt.
+¨Accounting for leases: Until 2019, accountants disagreed and broke leases 
+down into two groups:
+¤Capital leases, where the lessee has effective ownership of the asset, is treated as 
+debt, with a counter asset. 
+¤Operating leases, where the lessee has (temporary) use of the asset for a period, 
+were treated as operating expenses, with no debt or counter assets on the balance 
+sheet.
+Starting in 2019, both GAAP and IFRS are requiring companies to treat all lease 
+commitments as debt, no matter how structured.
+10
+Capitalizing Leases
+¨The process of converting lease commitments to debt follows a simple 
+process, akin to how any bank debt or corporate bond can be valued.
+¨Here are the steps:
+¤Start with the contractual lease commitments for future years, by year .
+¤Compute the pre-tax cost of borrowing for the firm today, based upon its default 
+risk.
+¤Take the present value of lease commitments, using the pre-tax cost of debt as your 
+discount rate.
+¨The present value of lease commitments is treated as debt, with the same 
+value shown as a counter-asset. 
+¨To complete the cycle, you compute interest expenses on the lease debt 
+and depreciation on the counter asset and bring them into your income 
+statement.
+¤Interest expense on lease debt = PV of lease commitments * Pre-tax cost of debt
+¤Depreciation on lease asset is computed using the life of the lease (as the life of the 
+asset) and the depreciation method chosen.
+11
+Other Contractual Commitments
+¨While accounting has (finally) come to terms with 
+treating leases as debt, there are a whole host of 
+contractual commitments that share the same 
+characteristics as leases, and require the same 
+treatment.
+¨Here are some examples:
+1. Purchase commitments for many manufacturing firms
+2. Content commitments at a streaming company (like 
+Netflix)
+3. Player contracts for a sports team
+12
+4. R&D is a cap ex
+¨If the essence of a capital expenditure is that it is an expense 
+whose expected benefits are not just in the current period, but in 
+future periods, research and development (R&D) expenses clearly 
+fit the bill.
+¨That said, accounting rules around the world, for the most part, 
+require companies to expense R&D, using one of two rationale:
+¤The benefits of R&D are too uncertain. Consequently, they should be 
+expensed until the R&D is closer to commercial development.
+¤It is better to be conservative in estimating earnings.
+¨Neither justification makes sense. 
+¤Uncertainty is never used with other types of capital expenditure (building 
+a factory to make a new and untested product) as the divining rod for 
+capital vs operating expenses. 
+¤Accounting should deliver the most realistic estimate of earnings, not the 
+most conservative.
+13
+Capitalizing R&D
+¨To capitalize R&D, there are three steps:
+¤Step 1: Estimate an amortizable life for R&D by making your best 
+judgment on how long it takes, on average, for R&D to pay off (as 
+commercial success).
+¤Step 2: Collect R&D expenses from past years (going back as long as 
+the amortizable life). If your company has not been in existence for 
+that long, collect as many years as you can.
+¤Step 3: For each of the past years of R&D, estimate
+nHow much you will be amortizing this year
+nHow much of the R&D expense remains unamortized
+¨To complete the cycle, here are the last steps:
+¤Adjust earnings by adding back the current year’s R&D expense and 
+subtracting out the amortization of past years R&D
+¤Show the unamortized R&D as an asset, and show the same amount as 
+an increase in book equity.
+14
+Other Capital Investments
+¨There are other expenses that fit the R&D profile, i.e., 
+expenses designed to create benefits over many years, 
+but since these investments are not in physical assets, 
+they are treated as operating expenses.
+¨Here are some examples:
+¤Advertising expenses by a consumer product company to build 
+up brand name
+¤Recruiting and training expensesby a consulting firm to build its 
+consulting practice
+¤Exploration costs for an oil company
+¤Customer acquisition costs for a subscriber or user based 
+company.
+15
+The Bottom Line: Trust, but verify…
+¨Accounting statements reflect not only an 
+“accounting” view of the company, but the burden 
+of accounting history and legacy rules.
+¨When analyzing a company, you should start with 
+accounting statements, but you should have no 
+qualms about changing, modifying or redoing them 
+to reflect what you are trying to do with the data in 
+those statements.

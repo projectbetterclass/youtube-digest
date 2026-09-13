@@ -1,0 +1,164 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session2.pdf
+
+THE	OBJECTIVE	IN	CORPORATE	
+FINANCE	
+“If	you	don’t	know	where	you	are	going,	it	does’nt	
+maCer	how	you	get	there”	
+Aswath	Damodaran 	 1
+2
+First	Principles	
+Aswath	Damodaran	
+2
+The Investment Decision
+Invest in assets that earn a 
+return greater than the 
+minimum acceptable hurdle 
+rate
+The Financing Decision
+Find the right kind of debt 
+for your ﬁrm and the right 
+mix of debt and equity to 
+fund your operations 
+The Dividend Decision
+If you cannot ﬁnd investments 
+that make your minimum 
+acceptable rate, return the cash 
+to owners of your business
+The hurdle rate 
+should reﬂect the 
+riskiness of the 
+investment and 
+the mix of debt 
+and equity used 
+to fund it.
+The return  
+should reﬂect the 
+magnitude and 
+the timing of the 
+cashﬂows as well 
+as all side effects.
+The optimal 
+mix of debt 
+and equity 
+maximizes ﬁrm 
+value
+The right kind 
+of debt 
+matches the 
+tenor of your 
+assets
+How much 
+cash you can 
+return 
+depends upon 
+current  & 
+potential 
+investment 
+opportunities
+How you choose 
+to return cash to 
+the owners will 
+depend on 
+whether they 
+prefer dividends 
+or buybacks
+Maximize the value of the business (ﬁrm)
+3
+The	ObjecIve	in	Decision	Making	
+Aswath	Damodaran	
+3
+¨ In	tradiIonal	corporate	ﬁnance,	the	objecIve	in	decision	making	is	to	
+maximize	the	value	of	the	ﬁrm.		
+¨ A	narrower	objecIve	is	to	maximize	stockholder	wealth.	When	the	stock	
+is	traded	and	markets	are	viewed	to	be	eﬃcient,	the	objecIve	is	to	
+maximize	the	stock	price.	
+Assets Liabilities
+Assets in Place Debt
+Equity
+Fixed Claim on cash flows
+Little or No role in management
+Fixed Maturity
+Tax Deductible
+Residual Claim on cash flows
+Significant Role in management
+Perpetual Lives
+Growth Assets
+Existing Investments
+Generate cashflows today
+Includes long lived (fixed) and 
+short-lived(working 
+capital) assets
+Expected Value that will be 
+created by future investments
+Maximize 
+ﬁrm value
+Maximize equity 
+value
+Maximize market 
+estimate of equity  
+value
+4
+Maximizing	Stock	Prices	is	too	“narrow”	an	
+objecIve:	A	preliminary	response	
+Aswath	Damodaran	
+4
+¨ Maximizing	stock	price	is	not	incompaIble	with	
+meeIng	employee	needs/objecIves.	In	parIcular:	
+¤ Employees	are	oVen	stockholders	in	many	ﬁrms	
+¤ Firms	that	maximize	stock	price	generally	are	proﬁtable	
+ﬁrms	that	can	aﬀord	to	treat	employees	well.	
+¨ Maximizing	stock	price	does	not	mean	that	
+customers	are	not	criIcal	to	success.	In	most	
+businesses,	keeping	customers	happy	is	the	route	to	
+stock	price	maximizaIon.	
+¨ Maximizing	stock	price	does	not	imply	that	a	
+company	has	to	be	a	social	outlaw.
+5
+Why	tradiIonal	corporate	ﬁnancial	theory	
+focuses	on	maximizing	stockholder	wealth.	
+Aswath	Damodaran	
+5
+¨ Stock	price	is	easily	observable	and	constantly	updated	
+(unlike	other	measures	of	performance,	which	may	not	
+be	as	easily	observable,	and	certainly	not	updated	as	
+frequently).	
+¨ If	investors	are	raIonal	(are	they?),	stock	prices	reﬂect	
+the	wisdom	of	decisions,	short	term	and	long	term,	
+instantaneously.	
+¨ The	objecIve	of	stock	price	performance	provides	some	
+very	elegant	theory	on:	
+¤ AllocaIng	resources	across	scarce	uses	(which	investments	to	
+take	and	which	ones	to	reject)	
+¤ how	to	ﬁnance	these	investments	
+¤ how	much	to	pay	in	dividends
+6
+The	Classical	ObjecIve	FuncIon	
+Aswath	Damodaran	
+6
+STOCKHOLDERS
+Maximize
+stockholder 
+wealth
+Hire & ﬁre
+managers
+- Board
+- Annual Meeting
+BONDHOLDERS/
+LENDERS
+Lend Money
+Protect
+bondholder
+Interests
+FINANCIAL MARKETS
+SOCIETYManagers
+Reveal
+information
+honestly and
+on time
+Markets are
+efﬁcient and
+assess effect on
+value
+No Social Costs
+All costs can be
+traced to ﬁrm

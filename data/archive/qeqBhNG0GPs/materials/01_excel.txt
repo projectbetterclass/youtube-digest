@@ -1,0 +1,90 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/ratings.xlsx
+
+Sheet: Start here Ratings sheet
+Inputs for synthetic rating estimation | Yes | 1
+Please read the special cases worksheet (see below) before you use this spreadsheet. | No | 2
+Before you use this spreadsheet, make sure that the iteration box (under calculation options in excel) is checked. | 3
+Enter the type of firm = | 2 | (Enter 1 if large manufacturing firm, 2 if smaller or riskier firm, 3 if financial service firm) | Small: <$5 billion
+Do you have any operating lease or rental commitments? | No | Yes or No
+Enter current Earnings before interest and taxes (EBIT) = | 50 | (Add back only long term interest expense for financial firms)
+Enter current interest expenses = | 8 | (Use only long term interest expense for financial firms)
+Enter current long term government bond rate = | 0.03
+Output
+Interest  coverage ratio = | 6.25
+Estimated Bond Rating = | A2/A | Note: If you get REF! All over the place, set the operating lease commitment question in cell F5
+Estimated Default Spread = | 0.0078 | to No, and then reset it to Yes. It should work.
+Estimated Cost of Debt = | 0.0378
+ If you want to update the spreads listed below, please visit http://www.bondsonline.com
+For large non-financial service firms | For financial service firms (default spreads are slighty different)
+If interest coverage ratio is | If long term interest coverage ratio is
+> | ≤ to | Rating is | Spread is | greater than | ≤ to | Rating is | Spread is
+-100000 | 0.199999 | D2/D | 0.19 | -100000 | 0.049999 | D2/D | 0.19
+0.2 | 0.649999 | C2/C | 0.16 | 0.05 | 0.099999 | C2/C | 0.16
+0.65 | 0.799999 | Ca2/CC | 0.1261 | 0.1 | 0.199999 | Ca2/CC | 0.1261
+0.8 | 1.249999 | Caa/CCC | 0.0885 | 0.2 | 0.299999 | Caa/CCC | 0.0885
+1.25 | 1.499999 | B3/B- | 0.0509 | 0.3 | 0.399999 | B3/B- | 0.0509
+1.5 | 1.749999 | B2/B | 0.0321 | 0.4 | 0.499999 | B2/B | 0.0321
+1.75 | 1.999999 | B1/B+ | 0.0275 | 0.5 | 0.599999 | B1/B+ | 0.0275
+2 | 2.2499999 | Ba2/BB | 0.0184 | 0.6 | 0.749999 | Ba2/BB | 0.0184
+2.25 | 2.49999 | Ba1/BB+ | 0.0138 | 0.75 | 0.899999 | Ba1/BB+ | 0.0138
+2.5 | 2.999999 | Baa2/BBB | 0.0111 | 0.9 | 1.199999 | Baa2/BBB | 0.0111
+3 | 4.249999 | A3/A- | 0.0089 | 1.2 | 1.49999 | A3/A- | 0.0089
+4.25 | 5.499999 | A2/A | 0.0078 | 1.5 | 1.99999 | A2/A | 0.0078
+5.5 | 6.499999 | A1/A+ | 0.007 | 2 | 2.49999 | A1/A+ | 0.007
+6.5 | 8.499999 | Aa2/AA | 0.0055 | 2.5 | 2.99999 | Aa2/AA | 0.0055
+8.5 | 100000 | Aaa/AAA | 0.004 | 3 | 100000 | Aaa/AAA | 0.004
+For smaller and riskier firms
+If interest coverage ratio is
+greater than | ≤ to | Rating is | Spread is
+-100000 | 0.499999 | D2/D | 0.19
+0.5 | 0.799999 | C2/C | 0.16
+0.8 | 1.249999 | Ca2/CC | 0.1261
+1.25 | 1.499999 | Caa/CCC | 0.0885
+1.5 | 1.999999 | B3/B- | 0.0509
+2 | 2.499999 | B2/B | 0.0321
+2.5 | 2.999999 | B1/B+ | 0.0275
+3 | 3.499999 | Ba2/BB | 0.0184
+3.5 | 3.9999999 | Ba1/BB+ | 0.0138
+4 | 4.499999 | Baa2/BBB | 0.0111
+4.5 | 5.999999 | A3/A- | 0.0089
+6 | 7.499999 | A2/A | 0.0078
+7.5 | 9.499999 | A1/A+ | 0.007
+9.5 | 12.499999 | Aa2/AA | 0.0055
+12.5 | 100000 | Aaa/AAA | 0.004
+
+Sheet: Operating Leases
+Operating lease inputs
+Operating lease expense in current year = | 25
+Operating Lease Commitments (From footnote to financials)
+Year | Commitment | ! Year 1 is next year, ….
+1 | 24
+2 | 22
+3 | 22
+4 | 21
+5 | 20
+6 and beyond | 111
+Pre-tax Cost of Debt = | 0.0378 | ! If you do not have a cost of debt, use the attached ratings estimator
+From the current financial statements, enter the following
+Reported Operating Income (EBIT) = | 50 | ! This is the EBIT reported in the current income statement
+Reported Debt = | 92.97 | ! This is the interest-bearing debt reported on the balance sheet
+Reported Interest Expenses = | 8
+Output
+Number of years embedded in yr 6 estimate = | 5 | ! I use the average lease expense over the first five years
+to estimate the number of years of expenses in yr 6
+Converting Operating Leases into debt
+Year | Commitment | Present Value
+1 | 24 | 23.125843129697436
+2 | 22 | 20.42656536476776
+3 | 22 | 19.682564429338754
+4 | 21 | 18.103586827734972
+5 | 20 | 16.613520200914913
+6 and beyond | 22.2 | 82.60595120743427 | ! Commitment beyond year 6 converted into an annuity for ten years
+Debt Value of leases = | 180.55803115988812
+Restated Financials
+Operating Income with Operating leases reclassified as debt = | 56.94419688401119
+Debt with Operating leases reclassified as debt = | 273.5280311598881
+Full Operating lease adjustment
+Reported Operating income = | 50
+ + Current year's operating lease expense = | 25
+ - Depreciation on leased asset = | 18.055803115988812
+Adjusted Operating Income | 56.94419688401119

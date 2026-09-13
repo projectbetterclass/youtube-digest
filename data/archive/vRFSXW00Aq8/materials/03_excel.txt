@@ -1,0 +1,113 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/SpotifySubscriber2018.xlsx
+
+Sheet: Inputs
+Input cell | Computed Value
+Operating Information | Notes/Comments | Corporate Expense Growth
+All dollar values in millions | Most Recent | Prior year | A1. Grow at same rate as total users | 0.1673393845372817
+Number of Premium Subscribers | 71 | 48 | Number of users , with growth over last year | A2. Grow at inflation rate | 0.02
+Annual Subscription Revenue/ Subscriber | 77.62962962962963 | 86.74698795180723 | Subscription Revenues/ # Users | A3. Grow at risk free rate | 0.0285
+Preimum Content Cost as % of revenues | 0.7924 | Content cost as % of subscription revenues (starting year) | A4. Direct Input | 0.05
+Effective tax rate (current) | 0.25 | 0 | Effective tax rate in most recent year
+Effective tax rate (steady state) | 0.25 | Effective tax rate in steady state
+Allocated Costs
+R&D, S,G&A costs | 814.8148148148148 | Total other Costs (other than content and marketing)
+Existing User Data | Cost of Capital (in euros)
+Lifetime of a Spotify Subscriber (in years) | 15 | Typical subscriber life with company | B1. Lowest decile of Global  companies (7%) | 0.07
+Annual Renewal Probability | 0.945 | Annual Renewal probability (assumed to be constant over time) | b2. 25th percentile of Global companies (7.5%) | 0.075
+Growth rate in Subscription Charge | 0.03 | Growth Rate in Subscription Charge/Subscriber | B3. Median of Global companies (8.5%) | 0.085
+Growth rate in Content Cost/Subscriber | 0.015 | Growth rate in Content Cost/Subscriber | B4. 75th percentile of Global companies (10%) | 0.1
+New User Information | B5. Ninth decile of Global companies (12%) | 0.12
+Total cost of acquiring new users in most recent year | 700 | Selling and Marketing Cost in most recent year | B6. Direct input | 0.0924
+Growth rate in # Members (Years 1-5) | 0.25 | Growth Rate in # Premium Subscribers - Years 1-5
+Growth rate in # Members (Years 6-10) | 0.1 | Growth Rate in # Premium Subscribers - Years 6-10
+Growth rate in # Members after year 10 | 0.01 | Growth Rate in # Premium Subscribers after year 10
+G&A Data
+Growth rate approach for R&D, SG&A | A4. Direct Input | Growth Rate option for total other costs
+Growth rate in corporate expenses for next 10 years | 0.05 | DO NOT INPUT
+Advertising Revenues | Do not input
+Advertising Revenues in most recent year | 513.5802469135803 | Total Revenues from Advertising (most recent year)
+Expected growth rate in revenues, years 1-5 | 0.1 | Growth rate in advertising revenues - Years 1-5
+Expected growth rate in revenues, years 6-10 | 0.05 | Growth rate in advertising revenues - Years 6-10
+Macroeconomic Data
+Risk free Rate | 0.0285 | Risk free Rate
+Inflation Rate | 0.02 | Inflation Rate
+Cost of capital for existing users (input choice) | B3. Median of Global companies (8.5%) | Cost of capital option (for existing subscribers)
+Cost of capital (existing users) | 0.085 | DO NOT INPUT
+Cost of capital for new users (input choice) | B4. 75th percentile of Global companies (10%) | Cost of capital option (for new subscribers
+Cost of capital (new users) | 0.1 | Do not input | DO NOT INPUT
+Other Company Data
+Cash & Marketable Securities | 1863.9629629629628 | Cash and Marketable Securities
+Cross Holdings in Other Companies | 1123.4567901234568 | Minority Cross Holdings
+Debt Outstanding | 0 | Total Debt Outstanding
+Equity Options oustanding (value) | 1659.6049382716049 | Value of Equity Options outstanding
+Valuation Output Summary
+Category | Value per user | Aggregate Value
+Existing Members | 108.6518498039496 | 7714.281336080422
+New Members | 81.35075776026785 | 20764.561067856434
+Advertising Revenues | 2921.7027479065096
+Corporate Expenses | 13139.745331571445
+Value of Spotify Premium | 21248.21957335834
+
+Sheet: Valuation
+Value of Premium Subscribers
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
+Life Indicator  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0
+Membership Survival | 1 | 0.945 | 0.893025 | 0.843908625 | 0.7974936506249999 | 0.7536314998406248 | 0.7121817673493904 | 0.6730117701451739 | 0.6359961227871893 | 0.6010163360338938 | 0.5679604375520296 | 0.5367226134866679 | 0.5072028697449011 | 0.47930671190893154 | 0.45294484275394026 | 0.4280328764024735 | 0.4044910682003374 | 0.38224405944931883 | 0.36122063617960626 | 0.3413535011897279 | 0.32257905862429287
+Revenue/Subscriber | 77.62962962962963 | 79.95851851851853 | 82.35727407407408 | 84.82799229629632 | 87.37283206518521 | 89.99401702714077 | 92.69383753795499 | 95.47465266409364 | 98.33889224401645 | 101.28905901133695 | 104.32773078167706 | 107.45756270512737 | 110.6812895862812 | 114.00172827386963 | 117.42178012208572 | 120.9444335257483 | 124.57276653152074 | 128.30994952746636 | 132.15924801329035 | 136.12402545368906 | 140.20774621729973
+Content Cost/ Subscriber | 61.51371851851852 | 62.436424296296295 | 63.372970660740734 | 64.32356522065184 | 65.28841869896162 | 66.26774497944604 | 67.59309987903495 | 68.94496187661565 | 70.32386111414796 | 71.73033833643092 | 73.16494510315954 | 74.62824400522273 | 76.12080888532718 | 77.64322506303373 | 79.1960895642944 | 80.78001135558029 | 82.3956115826919 | 84.04352381434573 | 85.72439429063265 | 87.4388821764453 | 89.18765981997421
+Operating Profit/Loss per Subscriber | 16.11591111111111 | 17.522094222222236 | 18.98430341333335 | 20.50442707564447 | 22.084413366223586 | 23.726272047694735 | 25.10073765892004 | 26.52969078747799 | 28.01503112986849 | 29.558720674906027 | 31.162785678517523 | 32.82931869990465 | 34.56048070095402 | 36.358503210835906 | 38.225690557791324 | 40.16442217016801 | 42.17715494882884 | 44.266425713120626 | 46.43485372265771 | 48.68514327724375 | 51.020086397325514
+Tax rate | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25
+After-tax Operating Income | 12.086933333333333 | 12.41878428000001 | 12.715093166769012 | 12.977897144864922 | 13.209134578005893 | 13.410649491698155 | 13.407215780777307 | 13.391095618713504 | 13.363088383769078 | 13.323955498410996 | 13.274422041983202 | 13.215178298699673 | 13.146881243465362 | 13.070155967937065 | 12.985597049144678 | 12.893769862905216 | 0 | 0 | 0 | 0 | 0
+Present Value (at Cost of Capital) | 11.445884129032267 | 10.800903112632685 | 10.160500775315786 | 9.531371828923675 | 8.918691067779251 | 8.217887091287047 | 7.5649827807286165 | 6.957751848567953 | 6.3938954384893965 | 5.8710832622134514 | 5.386986745278301 | 4.939305423522991 | 4.525787657415465 | 4.144246579967123 | 3.792572062795594 | 0 | 0 | 0 | 0 | 0
+Life of subscriber = | 15
+Value per Subscriber = | 108.6518498039496
+Number of Premium Subscribers = | 71
+Value of Premium Subscribers = | 7714.281336080422
+Value of New Premium Subscribers
+Cost of acquiring New Subscriber = | 27.301092043681745
+Value per new user (in today's $) = | 81.35075776026785
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+Total Subscribers | 71 | 84.845 | 106.05625 | 132.5703125 | 165.712890625 | 207.14111328125 | 227.85522460937506 | 250.64074707031259 | 275.70482177734385 | 303.27530395507824 | 333.6028343505861
+New Subscribers | 0 | 17.75 | 25.877725000000012 | 32.34715625 | 40.43394531250001 | 50.54243164062501 | 32.10687255859379 | 35.31755981445317 | 38.84931579589847 | 42.734247375488316 | 47.00767211303715
+Value per Subscriber | 81.35075776026785 | 82.97777291547321 | 84.63732837378268 | 86.33007494125833 | 88.05667644008349 | 89.81780996888516 | 91.61416616826286 | 93.44644949162812 | 95.31537848146068 | 97.2216860510899 | 99.1661197721117
+Value added by new Subscribers | 1472.8554692496496 | 2190.2215083914466 | 2792.5324231990926 | 3560.4788395788437 | 4539.610520463026 | 2941.4443577262505 | 3300.300569368853 | 3702.9372388318516 | 4154.695581969338 | 4661.5684429695975
+Terminal Value (New Subscribers) | 4217.967575009585
+Present Value  | 1338.9595174996814 | 1810.10042015822 | 2098.070941547026 | 2431.8549549749628 | 2818.740970539161 | 1660.368656640245 | 1693.5760297730496 | 1727.44755036851 | 1761.9965013758801 | 3423.4455249796974
+Value Added by New Users | 20764.561067856434
+Value of Advertising Revenues
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+Advertising Revenue | 513.5802469135803 | 564.9382716049383 | 621.4320987654322 | 683.5753086419755 | 751.9328395061731 | 827.1261234567904 | 868.48242962963 | 911.9065511111115 | 957.5018786666672 | 1005.3769726000005 | 1055.6458212300006
+ - Content Costs | 406.960987654321 | 441.13780846218384 | 478.1848185903187 | 518.3430582097969 | 561.8738101856682 | 609.0603000701926 | 633.3044479370645 | 658.5136541170835 | 684.7263335528121 | 711.9824303253026 | 740.3234785227176
+Operating Income | 106.61925925925925 | 123.8004631427545 | 143.24728017511353 | 165.2322504321786 | 190.05902932050492 | 218.0658233865978 | 235.17798169256548 | 253.39289699402798 | 272.77554511385506 | 293.39454227469787 | 315.32234270728304
+After-tax Operating Income | 79.96444444444444 | 92.85034735706587 | 107.43546013133515 | 123.92418782413395 | 142.5442719903787 | 163.54936753994835 | 176.3834862694241 | 190.04467274552098 | 204.5816588353913 | 220.0459067060234 | 236.49175703046228
+Terminal Value | 4304.987116917353
+PV of After-tax Operating Income | 85.57635701112062 | 91.26161959806761 | 97.02125023896524 | 102.85628103795396 | 108.76775836416098 | 108.11339196971359 | 107.36124345792634 | 106.51941931881184 | 105.5955582644882 | 2008.6298686453013
+Value of Advertising Business | 2921.7027479065096
+Value Drag of Corporate Expenses (Cost)
+Base Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+Total R&D & G&A Costs | 814.8148148148148
+Corporate Expenses | 814.8148148148148 | 855.5555555555555 | 898.3333333333334 | 943.2500000000001 | 990.4125000000001 | 1039.9331250000002 | 1091.9297812500004 | 1146.5262703125004 | 1203.8525838281255 | 1264.0452130195317 | 1327.2474736705083
+After-tax Corporate Expenses | 641.6666666666666 | 673.75 | 707.4375000000001 | 742.809375 | 779.9498437500001 | 818.9473359375003 | 859.8947027343753 | 902.8894378710941 | 948.0339097646488 | 995.4356052528813
+Terminal Value (Corporate Exp) | 18120.45168146174
+PV of Corporate Expenses | 591.3978494623656 | 572.3204994797087 | 553.858547883589 | 535.9921431131507 | 518.7020739804685 | 501.96974901335676 | 485.77717646453874 | 470.1069449656827 | 454.94220480549944 | 8454.678142403085
+Value Drag of Corporate Expenses | 13139.745331571445
+Valuing Spotify
+Value of Existing Subscribers | 7714.281336080422
+Value of New Subscribers | 20764.561067856434
+Value of Advertising Business | 2921.7027479065096
+ - PV of Corporate Expenses | 13139.745331571445
+Value of Spotify Operating Assets | 18260.79982027192
+ + Cash & Cross Holdings | 2987.4197530864194
+ - Debt | 0
+Value of Equity | 21248.21957335834
+ - Value of Equity Options | 1659.6049382716049
+Value of Equity in common stock | 19588.614635086735
+
+Sheet: Input choices
+Yes or No | Cost of capital
+Yes | Lowest decile of US companies (7%)
+No | 25th percentile of US companies (7.5%)
+Median of US companies (8%)
+75th percentile of US companies (10%)
+Ninth decile of US companies (12%)
+Direct input

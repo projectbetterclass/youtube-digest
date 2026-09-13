@@ -1,0 +1,38 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session12test.pdf
+
+Session	12:	Post	Class	tests	
+1. When	companies	borrow	money,	interest	rates	can	vary	across	currencies.	
+Assume	that	a	given	company	is	issuing	a	bond	to	fund	a	specific	project,	
+what	is	the	biggest	reason	for	differences	in	interest	rates	across	currencies?		
+a. Differences	in	country	risk	
+b. Differences	in	company	risk	
+c. Differences	in	project	risk		
+d. Differences	in	expected	inflation	
+e. None	of	the	above	
+2. The	exchange	rate	currently	is	22	Mexican	pesos/US	dollar.	If	the	interest	rate	
+in	pesos	is	6%	and	the	interest	rate	in	US	dollars	is	2%,	what	would	you	expect	
+the	exchange	rate	a	year	to	be	a	year	from	now?	
+a. 20.75	pesos/$	
+b. 21.17	pesos/$	
+c. 22.86	pesos/$	
+d. 23.32	pesos/$	
+e. None	of	the	above	
+3. You	are	trying	to	forecast	the	US	$/British	Pound	exchange	rates	for	the	next	
+10	years,	using	expected	inflation,	anticipated	to	be	1%	(annually)	in	the	US	
+and	2%	in	the	UK.		If	the	current	exchange	rate	is	$1.30/£,	what	is	the	
+expected	exchange	rate	in	year	10?	
+a. $1.07/£.	
+b. $1.18/£.	
+c. $1.43/£.	
+d. $1.58/£.	
+e. None	of	the	above	
+4. Now	assume	that	you	are	forecasting	the	Indian	Rupee/US	$	exchange	rate	
+five	years	from	now.	If	expected	inflation	in	the	US	$	is	expected	to	be	1%,	
+but	inflation	in	the	rupee	is	anticipated	to	be	10%	for	the	next	2	years	and	
+6%	in	the	following	three	years,	what	is	the	expected	Rs/$	exchange	rate	in	
+year	5,	if	the	current	exchange	rate	is	Rs	75/US	$?	
+a. Rs	54.70/$	
+b. Rs	95.50/$	
+c. Rs	102.84/$	
+d. Rs	114.93/$	
+e. None	of	the	above

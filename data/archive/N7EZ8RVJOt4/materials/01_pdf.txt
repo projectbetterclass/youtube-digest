@@ -1,0 +1,185 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DiscountRateMyth4.pdf
+
+DISCOUNT	RATE	MYTH	4:	IT	IS	A	
+RECEPTACLE	FOR	ALL	YOUR	
+HOPES	&	FEARS
+2
+The	Discount	Rate	as	a	receptacle..
+• Management/Business	Quality:	Some	analysts	use	
+discount	rates	to	bring	in	the	quality	of	management,	
+pushing	down	discount	rates	for	what	they	perceive	as	
+well-managed	firms	and	pushing	up	discount	rates	for	
+poor	management.	
+• Survival	Risk:	Venture	capitalists	pump	up	discount	rates	
+to	compensate	themselves	for	failure	risk,	i.e.,	that	many	
+of	the	firms	that	they	invest	in	will	not	make	it.	
+• Double	Counting?	While	these	adjustments	may	seem	
+intuitive,	they	are	dangerous	for	many	reasons:	you	can	
+double	count	both	the	good	and	bad,	you	may	be	
+adjusting	for	risks	you	should	not	be	and	biasing	your	
+valuations.
+3
+The	Good	Stuff
+• If	you	think	a	company	is	well	managed	and	well	run,	
+should	it	have	a	lower	discount	rate?
+¨ The	answer	is	no,	because	the	place	to	show	the	effects	of	
+great	management	or	strong	barriers	to	entry	is	in	the	cash	
+flows	(as	higher	current	cash	flows,	higher	excess	returns	
+and	more	valuable	growth).
+¨ Note	that	you	will	get	a	higher	value	for	a	well-managed	
+firm.	You	just	won’t	be	double	counting	that	value.
+¨ Even	the	intuition	that	better	management	is	less	
+risky	is	not	solid.
+4
+¨ Consider	two	companies	with	vastly	different	
+management	in	the	same	business.	
+¤ Company	A,	with	“high	quality” managers	in	place	is	aggressive	
+in	its	pursuit	of	growth	while	also	being	discriminating,	a	rare	
+combination	that	delivers	an	expected	operating	margin	of	8%,	
+with	high	variability,	with	margins	ranging	from	5%	to	11%.	
+¤ Company	B	has	a	management	team	whose	governing	style	is	
+inertia,	delivering	sub-par	margins	of	3%	but	with	much	less	
+variability	(2.5%	- 3.5%).	
+¨ In	this	example,	company	A	will	have	a	higher	cost	of	
+capital	than	company	B	but	with	its	higher	cash	flows,	it	
+will	also	be	worth	a	great	deal	more.
+5
+The	Bad	Stuff
+Type of Risk Distinction Effect on value
+Estimation versus
+Economic
+Estimation risk is risk that reflects input errors that you are making as an
+analyst because you are not using the information that you have about
+the firm. Economic risk is risk that comes from the firm or the
+macroeconomic environment that cannot be eliminated by collecting
+more information or processing it better.
+Most risk in valuation is economic risk and
+since there is little that you can do to make it
+go away, you (as an investor or analyst) can
+only demand compensation in the form of a
+risk premium and move on.
+Micro versus Macro Micro risk is related to the company and its competitive environment
+and thus reflects your expectations of how its management will perform
+and competitive developments that may affect the company’s standing
+(in good or bad ways). Macro risk also affects the company but it comes
+from macroeconomic forces (commodity prices, interest rates,
+economic growth and inflation).
+If you are valuing a company for a diversified
+investor, it is only macroeconomic risk that is
+incorporated into your discount rate. If the
+valuation is to an undiversified investor, some
+or all of the micro risk also has to find its way
+into the discount rate.
+Continuous versus
+Discrete
+If a company is exposed to a risk continuously, as is the case when a
+company has foreign operations in a floating rate currency, your cash
+flows and value will change continuously as well. If the risk is discrete, as
+is the case when the foreign operations are in a fixed-rate currency
+subject to infrequent revaluations, your value may be unaffected for
+long periods before undergoing a large change.
+Discount rates are designed to capture
+continuous risks better than discrete risks,
+especially when the latter are large and
+potentially catastrophic.
+6
+The	Risk	in	the	Discount	Rate
+¨ Going	concern	risk:	A	DCF	is	a	going	concern	concept	
+and	the	discount	rate	is	designed	to	capture	risks	to	
+a	going	concern.
+¨ Diversified	investors? If	the	investors	in	this	company	
+are	diversified,	that	effectively	means	that	the	only	
+risks	that	should	show	up	in	your	discount	rate	are	
+macroeconomic	and	continuous	risks.
+¨ Truncation	risk? If	you	are	exposed	to	large	amount	
+of	estimation	risk,	company-specific	risk	or	
+truncation	risk,	the	discount	rate	is	not	a	good	
+receptacle	for	these.
+7
+Estimation	Risk	and	Micro	(Company-
+specific)	Risks
+¨ With	estimation	risk,	you	have	to	learn	to	let	go.	As	
+long	as	you	are	just	wrong	(and	not	biased),	your	
+estimation	mistakes	will	average	out	over	time	on	
+your	investments.
+¨ With	company-specific	risks,	you	should	be	
+incorporating	the	outcomes	into	your	expected	cash	
+flow.	This	is,	of	course,	not	a	risk	adjustment	but	an	
+expected	value.	If	you	are	diversified,	these	risks	will	
+average	out	across	your	portfolio.	If	not,	you	do	
+need	to	consider	how	to	bring	them	into	your	
+discount	rate.
+8
+A	Better	Way	of	Dealing	with	Truncation	
+Risk
+¨ If	your	firm	is	exposed	to	nationalization	risk,	
+regulatory	shut	down	or	catastrophic	failure,	your	
+discount	rate	is	ill-equipped	to	convey	this	risk.	
+¨ Though	these	risks	do	not	show	up	in	the	discount	
+rates,	they	will	still	affect	value.	To	me,	the	best	tool	
+for	bringing	in	the	effects	of	truncation	risk	is	
+through	a	decision	tree.
+9
+The	Distractions
+¨ The	Margin	of	Safety:	This	is	the	alternative	that	some	
+value	investors	offer	to	discount	rates.	Since	the	margin	
+of	safety	requires	a	value	and	a	price	to	use,	it	is	clearly	
+not	an	alternative,	since	you	need	a	discount	rate	to	get	
+to	value.
+¨ Doing	your	homework	won’t	make	most	risk	go	away:	
+No,	using	more	data	and	doing	more	research	is	not	
+going	to	make	risk	go	away.	The	only	risk	that	is	affected	
+is	estimation	risk.
+¨ Screening	for	Risk:	Screening	for	safe	assets	(cash	flows,	
+liquidity,	book	value)	is	a	pricing	tool,	not	a	valuation	
+tool.
+10
+A	Template	for	Risk	Adjusting	Value
+Expected Cash Flows Risk-adjusted 
+Discount Rate Value
+Company Speciﬁc Risks 
+get reﬂected in the 
+expected cash ﬂows
+Discount rate is adjusted for only the 
+risk that cannot be diversiﬁed away 
+(macro economic risk) by marginal 
+investor
+get discounted at to get Adjusted Value
+Discrete risks (distress, nationalization, 
+regulatory approval etc.) are brought in 
+through probabilities and value 
+consequences.
+And probability 
+adjusted to 
+arrive at
+For a public company
+Company Speciﬁc Risks 
+get reﬂected in the 
+expected cash ﬂows
+Discount rate is adjusted (upwards) 
+to reﬂect all risk that the investor in 
+the private business is exposed to.
+Discrete risks (distress, nationalization, 
+regulatory approval etc.) are brought in 
+through probabilities and value 
+consequences.
+Business Macro 
+Risk Exposure
+Country Macro 
+Risk Exposure
+Beta Country Risk Premium
+Probability of 
+discrete event
+Value if event 
+occursImplicit in 
+numbers
+Explicit (Senario 
+analysis or 
+Simulation)
+Beta adjusted for 
+total risk
+Risk premium adjusted for 
+company-speciﬁc risk
+For a private business
+Can be
+X

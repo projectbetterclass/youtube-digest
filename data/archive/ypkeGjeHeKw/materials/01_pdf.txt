@@ -1,0 +1,129 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate7for2019.pdf
+
+JANUARY 2019 DATA UPDATE 7: 
+DEBT , NEITHER POISON OR 
+NECTAR1
+Aswath Damodaran
+2
+Debt: Emotional Overload?
+¨ Debt is a hot button issue, viewed as destructive to 
+businesses by some at one end of the spectrum and an 
+easy value creator by some at the other . The truth, as is 
+usually the case, falls in the middle. 
+¨ In this post, I will look at debt ratios across companies, 
+sectors and regions, with two big shifts in mind:
+¤ Change in US corporate tax rate: It was reduced from close to 
+40% to approximately 25%. 
+¤ A Preview of a Coming Accounting change: I will look at the 
+effect of capitalizing leases on profit margins and returns, 
+because both IFRS and GAAP will finally do the right thing, and 
+start treating leases as debt in 2019.
+3
+1. Debt: The Trade off
+4
+US Tax Reform
+¨ At the start of 2018, the US tax code was changed in two 
+ways that should have affected the tax benefits of debt:
+¤ The federal corporate tax rate was lowered from 35% to 21%.
+¤ Restrictions were put on the deductibility of interest expenses, 
+with amounts exceeding 30% of taxable income no longer 
+receiving the tax benefit.
+¨ Since there were no significant changes to bankruptcy 
+laws or costs, these tax code changes make debt less 
+attractive, relative to equity, for all US companies.
+5
+Debt Changes across the World
+6
+Why did US companies not lower debt?
+¨ Inertia: It is possible that it will be years before 
+companies wake up to the changed tax environment 
+and start borrowing less.
+¨ Uncertainty about future tax rates: It is also possible 
+that companies view the current tax code as a 
+temporary phase and that the drop in corporate tax 
+rates will be reversed by future administrations.
+¨ Illusory and Transient Benefits: Many companies 
+perceive benefits in debt that I term illusory, 
+because they create value, only if you ignore the full 
+consequences.
+7
+Illusory Trade offs on Debt
+Aswath Damodaran
+7
+8
+Debt: Definition
+9
+Balance Sheet Tests for Debt: Gray Areas?
+¨ the defining features for debt are contractual 
+commitments, with a loss of control and default flowing 
+from a failure to meet them, it follows that all interest 
+bearing debt, short term as well as long term, bank loans 
+and corporate bonds, are debt.
+¨ Gray Areas:
+¤ Accounts Payable and Supplier Credit: If interest expenses are 
+explicit, treat as debt. If implicit, treat as working capital.
+¤ Underfunded Pension and Health Care Obligations: If firm is 
+required to contribute to cover obligations, treat as debt. If just 
+informational, not…
+10
+Debt Details: Regional Breakdown
+11
+Debt Load: As percent of Capital
+12
+Debt Load: Relative to Earnings/Cash flows
+13
+Operating Leases: The Accounting 
+Netherworld!
+¨ In lease agreements, lease payments are clearly set out by 
+contract, and failing to make these payments will lead to loss of 
+that site, and the income from it. 
+¨ You can argue that leases providing more flexibility that a bank loan 
+and that defaulting on a lease is less onerous, because the claims 
+are against a specific location and not the business, but those are 
+arguments about whether leases are more like unsecured debt 
+than secured debt, and not whether leases should be treated as 
+debt. 
+¨ For much of accounting history, though, accountants have followed 
+a different path, treating only a small subset of leases as debt and 
+bringing them on to the balance sheet as capital leases, while 
+allowing the bulk of lease expenses as operating expenses and 
+ignoring future lease commitments on balance sheets.
+14
+Converting Leases to Debt
+1. Estimate a current cost of borrowing or pre -tax cost of debt for the company 
+today, given its default risk and current interest rates (and default spreads).
+2. Starting with the lease commitment table that is included in the footnotes 
+today, discount each lease commitment back to today, using the pre- tax cost of 
+debt as your discount rate (since the lease commitments are pre -tax). Most 
+companies provide only a lump -sum value for commitments after year 5, and 
+while you can act as if this entire amount will come due in year 6, it makes more 
+sense to convert it into an annuity, before discounting.
+3. The sum total of the present value of lease commitments will be the lease debt 
+that will now show up on your balance sheet, but to keep the balance sheet 
+balanced, you will have to create a counter asset.
+4. To th e extent th at th e accou ntin g h as treated  th e cu rrent year's lease exp en se 
+as an operating expense, you have to recompute the operating income, 
+reflecting your treatment of leases as debt:
+Adjusted Operating Income = Stated Operating Income + Current year's lease expense 
+- Depreciation on the leased asset
+15
+The Lease Effect
+16
+The Most and Least Impacted Industries
+17
+Final Thoughts on Debt
+¨ One of the biggest impediments to any rational discussion of debt's 
+place in capital is the emotional baggage that we bring to that 
+discussion. 
+¨ Debt is neither poison, as some detractors claim it to be, nor 
+nectar, as its biggest promoters describe it. It is a source of capital 
+that comes with fixed commitments and the risk of default, good 
+for some companies and bad for others, and when it does create 
+value, it is because the tax code it tilted towards it. 
+¤ It is true that some companies and investors, especially those in the 
+leveraged space, over estimate its benefits and under estimate its side 
+costs, but they will learn their lessons the hard way. 
+¤ It is also true that other companies and investors, especially of the prudent 
+sort, think that less debt is always better than more debt, and no debt is 
+optimal, and they too are leaving money on the table, by being too 
+conservative.

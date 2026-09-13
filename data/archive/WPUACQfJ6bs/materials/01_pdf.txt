@@ -1,0 +1,226 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/Slides/Session6A.pdf
+
+SESSION 6A: PROBABILITIES & 
+DECISION TREES IN FINANCE
+Session 6
+There is a chance!
+2
+1. Stock Market as a Random Walk
+¨One of the simplest, albeit weakest, tests of randomness is to test to see 
+whether there is a 50:50 chance that markets will go up (or down). Thus, 
+if you have a hundred days of market changes, you would expectto see 50 
+up and 50 down days.
+¨To test this proposition, you can look at price changes for n trading days, 
+andcompute the number of days that the market was up (and down). 
+However, even if markets are random, the actual number that you find 
+will deviate from 50:50. The standard error is a function of the number of 
+trading days and can be computed as follows:
+¤Std Error in probability= !.#∗!.#
+% where n = Number of days in your sample.
+¤This can be generalized more generally to any two-outcome experiment as
+Std Error in probability=&(()&)
+% where p = Probability of one of the outcomes
+¤Thus, if you observe a hundred trading days, the range, with 95% probability, on up 
+(or down) days, even if markets have a 50:50 chance of going up and down, would 
+be 45-55. (Std Error = 2.5%)
+3
+Probability that the market will go up (or 
+down)…
+¨There were 1257 trading days between January 1, 2016and December 
+31, 2020.  Over that period, the S&P 500 was
+¤Up on 700 trading days
+¤Down on 557 trading days
+¨Based upon that data, the probability that the market was up during the 
+period was 55.69% and the probability that the market was down was 
+44.31%.
+¨Can you use this to accept or reject the hypothesis that there was a 50% 
+chance of up/down days., at least during this period? 
+¤Std Error in probability, if random =!.#∗!.#
+(+#,= 0.0141 or 1.41%
+¤Range with 95% confidence, on up probability = 0.5569 ±2.0141: Range: 52.87% 
+to 58.51% probability of up (or down) days, during this period
+¤At least during this period, you can reject the 50:50 up/down hypothesis.
+¨Can you extrapolate from this that there will be more up than down days 
+in the market in the future?
+4
+Conditional Probabilities…
+¨Using the same data )returns on the S&P 500 on a 
+daily basisfrom January 1, 2016, to December 31, 
+2020), and breaking down into up and down days:
+¨Converting these numbers into probabilities, you 
+get:
+5
+Cumulative Probabilities…
+¨If the probability that the market will go up (down) on a 
+given day was 55.69% (44.31%), all through the time 
+period, you can estimate the probabilities of the market 
+going up or down two, three or even ten days in a row.
+¨Thus, to estimate the probability that the market was up 
+three or five days in a row:
+¤Probability of three up days in a row = (0.5569)3= .1727 
+¤Probability of five up days in a row = (0.5569)5= .0536
+¨Similarly, to estimate the probability that the market was 
+down three or five days in a row:
+¤Probability of three up days in a row = (0.4431)3= .0870
+¤Probability of five up days in a row =(0.4431)5= .0171
+6
+2. Transition Probabilities
+¨In investing and finance, it is common to put portfolio managers 
+and companies into groupings, reflecting their standing on a metric 
+(returns, debt ratios, dividends) or rankings in performance.
+¨Those rankings are not only used to judge investors and companies, 
+butare also used as predictors for the future. While every mutual 
+or hedge fund touts the warning that past performance is not a 
+predictor of the future, it is undeniable that funds that have 
+performed/ranked well in the past market themselves on that 
+basis, and that investors redirect their money to these funds.
+¨The test of whether chasing past performance is a good strategy 
+can be converted into a test of whether there is stickiness in 
+rankings. Put simply, if you ranked funds into groups based upon 
+success, do these rankings persist?
+7
+Money Manager Performance
+The performance persistence varies across
+-Markets (Geographical, asset class)
+-Time (Some periods have more 
+persistence than others)
+-Style classes (value versus growth, 
+small vs large cap)
+It is also difficult for investors to convert 
+this statistical persistence into returns.
+Each of these probability 
+estimates has a standard 
+error that will decrease 
+as the sample size 
+increases.
+8
+3. Probability of Corporate Default
+0.00%
+0.50%
+1.00%
+1.50%
+2.00%
+2.50%
+3.00%
+3.50%
+4.00%
+4.50%
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Global Corporate Default Rate (as % of Loans Outstanding)
+9
+Conditional Probabilities: Bond Ratings 
+and Default Rates
+10
+A Multiple Discriminant Model of Default: 
+The Altman Z Score
+Altman analyzed 66 
+manufacturing companies, of 
+which 33 became bankrupt 
+within the years 1946-1965 
+and the other half were 
+existing companies in 1966.
+11
+A ProbitModel: Hostile Acquisitions
+¨While there are no easy pathways to making money, it seems 
+clear that investors in companies that are targeted in 
+acquisitions (especially hostile ones) earn high returns, but 
+only if they invest before the event.
+¨There are probitmodels for predicting companies that will be 
+targeted, and they involve:
+¤You start with all firms that publicly traded at the start of a period
+¤The dependent variable becomes the stand-in for whether a firm is 
+targeted in a hostile acquisition 
+¤The independent variables reflect what you believe are key drivers of 
+hostile acquisitions, including poor stock price performance, lagging 
+accounting returns and managers with little or no shareholdings.
+¤You build a probitmodel that will yield as output an equation that 
+resembles a regression, butwill yield a probability of a hostile 
+acquisition.
+Source: Hostility in Takeovers: In the Eyes of the Beholder, G.W. Schwert, JF 2000
+13
+3. Decision Tree: An Example
+¨ Consider a pharmaceutical drug for treating Type 1 diabetes that has gone 
+through preclinical testing and is about to enter phase 1 of the FDA approval 
+process. 
+¤ Phase 1 is expected to cost $ 50 million and will involve 100 volunteers to determine safety 
+and dosage; it is expected to last 1 year . There is a 70% chance that the drug will successfully 
+complete the first phase.
+¤ In phase 2, the drug will be tested on 250 volunteers for effectiveness in treating diabetes over 
+a two-year period. This phase will cost $ 100 millionand the drug will have to show a 
+statistically significant impact on the disease to move on to the next phase. There is only a 30% 
+chance that the drug will prove successful in treating type 1 diabetes but there is a 10% chance 
+that it will be successful in treating both type 1 and type 2 diabetes and a 10% chance that it 
+will succeed only in treating type 2 diabetes. 
+¤ In phase 3, the testing will expand to 4,000 volunteers to determine the long-term 
+consequences of taking the drug. If the drug is tested on only type 1 or type 2 diabetes 
+patients, this phase will last 4 years and cost $ 250 million; there is an 80% chance of success. 
+If it is tested on both types, the phase will last 4 years and cost $ 300 million; there is a 75% 
+chance of success.  
+¨ If the drug passes through all 3 phases, the costs and annual cash flows are below:
+Disease treatment Cost of Development Annual Cash Flow
+Type 1 diabetes only $ 500 million $ 300 million for 15 years
+Type 2 diabetes only $ 500 million $ 125 million for 15 years
+Type 1 and 2 diabetes $ 600 million $ 400 million for 15 years
+14
+The Tree…
+15
+The Fold Back
+16
+4. Scenario Analysis: easyJet and Brexit in 
+2019
+No Deal Brexit Bad Deal Brexit Soft or No Brexit
+Restructuring cost 
+(up front)
+£500 million £300 million $0
+Revenue growth 3.00% 5.00% 5.00%
+Operating Margin 6.00% 7.00% 8.00%
+Sales to Capital 
+Ratio
+1.73 1.73 1.73
+Aswath Damodaran
+16
+No Deal Brexit Delayed & Messy 
+Brexit
+Soft or No Brexit
+Probability 25% 50% 25%
+Value Per Share £12.02 £15.70 £19.38
+Expected Value per share = .25 (£12.02) + .50 (£15.70) + .25 (£19.38) = £15.70

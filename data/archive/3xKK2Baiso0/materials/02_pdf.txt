@@ -1,0 +1,1371 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/eqnotes/TTM/Apple10Q.pdf
+
+9/17/12 12:44 PMForm 10-Q
+Page 1 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+10-Q 1 d365704d10q.htm FORM 10-Q  
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549 
+ 
+Form 10-Q 
+ 
+(Mark One)
+!QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended June 30, 2012
+or
+ 
+" TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from              to             .
+Commission file number: 000-10030 
+ 
+APPLE INC.(Exact name of Registrant as specified in its charter) 
+  
+California  94-2404110
+(State or other jurisdiction
+of incorporation or organization)  
+(I.R.S. Employer Identification No.)
+1 Infinite Loop
+Cupertino, California  95014
+(Address of principal executive offices)  (Zip Code)
+Registrant’s telephone number, including area code: (408) 996-1010 
+ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.
+Yes  !    No   "
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every
+Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes  !    No   "
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company. See the definitions of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2
+of the Exchange Act.
+ 
+Large accelerated filer !   Accelerated filer  "
+9/17/12 12:44 PMForm 10-Q
+Page 2 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+Non-accelerated filer "  (Do not check if a smaller reporting company)   Smaller reporting company "
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes  "    No  !
+937,406,000 shares of common stock issued and outstanding as of July 13, 2012
+9/17/12 12:44 PMForm 10-Q
+Page 3 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+PART I. FINANCIAL INFORMATION 
+Item 1. Financial Statements
+APPLE INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+(in millions, except number of shares which are reflected in thousands and per share amounts)
+ 
+   Three Months Ended    Nine Months Ended  
+   
+June 30,
+2012    
+June 25,
+2011    
+June 30,
+2012    
+June 25,
+2011  
+Net sales   $ 35,023    $ 28,571    $120,542    $ 79,979  
+Cost of sales    20,029     16,649     66,281     47,541      
+ 
+    
+ 
+    
+ 
+    
+ 
+Gross margin    14,994     11,922     54,261     32,438      
+ 
+    
+ 
+    
+ 
+    
+ 
+Operating expenses:         
+Research and development    876     628     2,475     1,784  
+Selling, general and administrative    2,545     1,915     7,489     5,574      
+ 
+    
+ 
+    
+ 
+    
+ 
+Total operating expenses    3,421     2,543     9,964     7,358      
+ 
+    
+ 
+    
+ 
+    
+ 
+Operating income    11,573     9,379     44,297     25,080  
+Other income and expense    288     172     573     334      
+ 
+    
+ 
+    
+ 
+    
+ 
+Income before provision for income taxes    11,861     9,551     44,870     25,414  
+Provision for income taxes    3,037     2,243     11,360     6,115      
+ 
+    
+ 
+    
+ 
+    
+ 
+Net income   $ 8,824    $ 7,308    $ 33,510    $ 19,299      
+ 
+    
+ 
+    
+ 
+    
+ 
+Earnings per common share:         
+Basic   $ 9.42    $ 7.89    $ 35.89    $ 20.91  
+Diluted   $ 9.32    $ 7.79    $ 35.48    $ 20.63  
+Shares used in computing earnings per share:         
+Basic    936,596     926,108     933,672     922,917  
+Diluted    947,059     937,810     944,440     935,688  
+See accompanying Notes to Condensed Consolidated Financial Statements.
+ 
+2
+9/17/12 12:44 PMForm 10-Q
+Page 4 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+APPLE INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+(in millions, except number of shares which are reflected in thousands)
+ 
+   
+June 30,
+2012    
+September 24,
+2011  
+ASSETS:     
+Current assets:     
+Cash and cash equivalents   $ 7,945    $ 9,815  
+Short-term marketable securities    19,709     16,137  
+Accounts receivable, less allowances of $94 and $53, respectively    7,657     5,369  
+Inventories    1,122     776  
+Deferred tax assets    2,309     2,014  
+Vendor non-trade receivables    6,641     6,348  
+Other current assets    6,560     4,529      
+ 
+    
+ 
+Total current assets    51,943     44,988  
+Long-term marketable securities    89,567     55,618  
+Property, plant and equipment, net    10,487     7,777  
+Goodwill    1,132     896  
+Acquired intangible assets, net    4,329     3,536  
+Other assets    5,438     3,556      
+ 
+    
+ 
+Total assets   $162,896    $116,371      
+ 
+    
+ 
+LIABILITIES AND SHAREHOLDERS’ EQUITY:     
+Current liabilities:     
+Accounts payable   $ 16,808    $ 14,632  
+Accrued expenses    10,430     9,247  
+Deferred revenue    5,822     4,091      
+ 
+    
+ 
+Total current liabilities    33,060     27,970  
+Deferred revenue – non-current    2,530     1,686  
+Other non-current liabilities    15,560     10,100      
+ 
+    
+ 
+Total liabilities    51,150     39,756      
+ 
+    
+ 
+Commitments and contingencies     
+Shareholders’ equity:     
+Common stock, no par value; 1,800,000 shares authorized; 937,266 and 929,277 shares issued
+and outstanding, respectively    15,573     13,331  
+Retained earnings    95,641     62,841  
+Accumulated other comprehensive income    532     443      
+ 
+    
+ 
+Total shareholders’ equity    111,746     76,615      
+ 
+    
+ 
+Total liabilities and shareholders’ equity   $162,896    $116,371      
+ 
+    
+ 
+See accompanying Notes to Condensed Consolidated Financial Statements.
+ 
+3
+9/17/12 12:44 PMForm 10-Q
+Page 5 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+APPLE INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+(in millions)
+ 
+   Nine Months Ended  
+   
+June 30,
+2012   
+June 25,
+2011  
+Cash and cash equivalents, beginning of the period   $ 9,815   $ 11,261      
+ 
+   
+ 
+Operating activities:    
+Net income    33,510    19,299  
+Adjustments to reconcile net income to cash generated by operating activities:    
+Depreciation, amortization and accretion    2,296    1,271  
+Share-based compensation expense    1,292    870  
+Deferred income tax expense    4,066    2,232  
+Changes in operating assets and liabilities:    
+Accounts receivable, net    (2,278)   (592) 
+Inventories    (346)   162  
+Vendor non-trade receivables    (293)   (955) 
+Other current and non-current assets    (3,238)   (1,551) 
+Accounts payable    2,450    2,480  
+Deferred revenue    2,575    1,276  
+Other current and non-current liabilities    1,686    2,608      
+ 
+   
+ 
+Cash generated by operating activities    41,720    27,100      
+ 
+   
+ 
+Investing activities:    
+Purchases of marketable securities    (121,091)   (75,133) 
+Proceeds from maturities of marketable securities    10,344    16,396  
+Proceeds from sales of marketable securities    73,140    34,301  
+Payments made in connection with business acquisitions, net of cash acquired    (350)   0  
+Payments for acquisition of property, plant and equipment    (4,834)   (2,615) 
+Payments for acquisition of intangible assets    (1,067)   (266) 
+Other    (56)   34      
+ 
+   
+ 
+Cash used in investing activities    (43,914)   (27,283)     
+ 
+   
+ 
+Financing activities:    
+Proceeds from issuance of common stock    433    577  
+Excess tax benefits from equity awards    1,036    915  
+Taxes paid related to net share settlement of equity awards    (1,145)   (479)     
+ 
+   
+ 
+Cash generated by financing activities    324    1,013      
+ 
+   
+ 
+(Decrease)/increase in cash and cash equivalents    (1,870)   830      
+ 
+   
+ 
+Cash and cash equivalents, end of the period   $ 7,945   $ 12,091      
+ 
+   
+ 
+Supplemental cash flow disclosure:    
+Cash paid for income taxes, net   $ 5,901   $ 2,563  
+See accompanying Notes to Condensed Consolidated Financial Statements.
+ 
+4
+9/17/12 12:44 PMForm 10-Q
+Page 6 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+Apple Inc.
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+Note 1 – Summary of Significant Accounting Policies
+Apple Inc. and its wholly-owned subsidiaries (collectively “Apple” or the “Company”) designs, manufactures, and markets mobile
+communication and media devices, personal computers, and portable digital music players, and sells a variety of related software,
+services, peripherals, networking solutions, and third-party digital content and applications. The Company sells its products worldwide
+through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers,
+retailers and value-added resellers. In addition, the Company sells a variety of third-party iPhone, iPad, Macintosh (“Mac”), and iPod
+compatible products including application software and various accessories through its online and retail stores. The Company sells to
+consumers, small and mid-sized businesses, and education, enterprise and government customers.
+Basis of Presentation and Preparation
+The accompanying condensed consolidated financial statements include the accounts of the Company. Intercompany accounts and
+transactions have been eliminated. The preparation of these condensed consolidated financial statements in conformity with U.S.
+generally accepted accounting principles (“GAAP”) requires management to make estimates and assumptions that affect the amounts
+reported in these condensed consolidated financial statements and accompanying notes. Actual results could differ materially from
+those estimates. Prior period costs associated with the Company’s high-profile retail stores have been reclassified to conform to the
+current period’s presentation. Refer to Note 7, “Segment Information and Geographic Data,” of this Form 10-Q.
+These condensed consolidated financial statements and accompanying notes should be read in conjunction with the Company’s annual
+consolidated financial statements and the notes thereto for the fiscal year ended September 24, 2011, included in its Annual Report on
+Form 10-K (the “2011 Form 10-K”). The Company’s fiscal year is the 52 or 53-week period that ends on the last Saturday of
+September. The Company’s fiscal year 2012 will include 53-weeks and ends on September 29, 2012. An additional week has been
+included in the first quarter of 2012 to realign the Company’s fiscal quarters more closely to calendar quarters. Unless otherwise
+stated, references to particular years or quarters refer to the Company’s fiscal years ended in September and the associated quarters of
+those fiscal years.
+Earnings Per Common Share
+Basic earnings per common share is computed by dividing income available to common shareholders by the weighted-average number
+of shares of common stock outstanding during the period. Diluted earnings per common share is computed by dividing income
+available to common shareholders by the weighted-average number of shares of common stock outstanding during the period
+increased to include the number of additional shares of common stock that would have been outstanding if the potentially dilutive
+securities had been issued. Potentially dilutive securities include outstanding stock options, shares to be purchased under the
+Company’s employee stock purchase plan and unvested restricted stock units (“RSUs”). The dilutive effect of potentially dilutive
+securities is reflected in diluted earnings per common share by application of the treasury stock method. Under the treasury stock
+method, an increase in the fair market value of the Company’s common stock can result in a greater dilutive effect from potentially
+dilutive securities.
+ 
+5
+9/17/12 12:44 PMForm 10-Q
+Page 7 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+The following table shows the computation of basic and diluted earnings per common share for the three- and nine-month periods
+ended June 30, 2012 and June 25, 2011 (in thousands, except net income in millions and per share amounts):
+ 
+   Three Months Ended    Nine Months Ended  
+   
+June 30,
+2012    
+June 25,
+2011    
+June 30,
+2012    
+June 25,
+2011  
+Numerator:         
+Net income   $ 8,824    $ 7,308    $ 33,510    $ 19,299  
+Denominator:         
+Weighted-average shares outstanding    936,596     926,108     933,672     922,917  
+Effect of dilutive securities    10,463     11,702     10,768     12,771      
+ 
+    
+ 
+    
+ 
+    
+ 
+Weighted-average diluted shares    947,059     937,810     944,440     935,688      
+ 
+    
+ 
+    
+ 
+    
+ 
+Basic earnings per common share   $ 9.42    $ 7.89    $ 35.89    $ 20.91  
+Diluted earnings per common share   $ 9.32    $ 7.79    $ 35.48    $ 20.63  
+The number of potentially dilutive securities excluded from the computation of diluted earnings per common share because their effect
+would have been antidilutive was not significant for the three- and nine-month periods ended June 30, 2012 and June 25, 2011.
+Fair Value Measurements
+Fair value is the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between
+market participants at the measurement date. Fair value is estimated by applying the following hierarchy, which prioritizes the inputs
+used to measure fair value into three levels and bases the categorization within the hierarchy upon the lowest level of input that is
+available and significant to the fair value measurement:
+Level 1 – Quoted prices in active markets for identical assets or liabilities.
+Level 2 – Observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or
+similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for
+substantially the full term of the assets or liabilities.
+Level 3 – Inputs that are generally unobservable and typically reflect management’s estimate of assumptions that market participants
+would use in pricing the asset or liability.
+ 
+6
+9/17/12 12:44 PMForm 10-Q
+Page 8 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+Note 2 – Financial Instruments
+Cash, Cash Equivalents and Marketable Securities
+The following tables show the Company’s cash and available-for-sale securities’ adjusted cost, gross unrealized gains, gross unrealized
+losses and fair value by significant investment category recorded as cash and cash equivalents or short- and long-term marketable
+securities as of June 30, 2012 and September 24, 2011 (in millions):
+ 
+   June 30, 2012  
+   
+Adjusted
+Cost    
+Unrealized
+Gains    
+Unrealized
+Losses   
+Fair
+Value    
+Cash and
+Cash
+Equivalents   
+Short-Term
+Marketable
+Securities   
+Long-Term
+Marketable
+Securities 
+Cash   $ 3,269    $ 0    $ 0   $ 3,269    $ 3,269    $ 0    $ 0  
+Level 1:              
+Money market funds    1,181     0     0    1,181     1,181     0     0  
+Mutual funds    1,894     34     (17)   1,911     0     1,911     0      
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+    
+ 
+    
+ 
+Subtotal    3,075     34     (17)   3,092     1,181     1,911     0      
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+    
+ 
+    
+ 
+Level 2:              
+U.S. Treasury securities    20,587     10     (6)   20,591     1,100     4,169     15,322  
+U.S. agency securities    19,197     41     (3)   19,235     479     2,026     16,730  
+Non-U.S. government securities    6,919     103     (7)   7,015     1     1,842     5,172  
+Certificates of deposit and time deposits   2,411     2     0    2,413     857     377     1,179  
+Commercial paper    2,301     0     0    2,301     991     1,310     0  
+Corporate securities    44,545     306     (31)   44,820     24     7,482     37,314  
+Municipal securities    5,541     61     (3)   5,599     43     588     4,968  
+Mortgage- and asset-backed securities   8,867     24     (5)   8,886     0     4     8,882      
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+    
+ 
+    
+ 
+Subtotal    110,368     547     (55)   110,860     3,495     17,798     89,567      
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+    
+ 
+    
+ 
+Total   $ 116,712    $ 581    $ (72)  $ 117,221    $ 7,945    $ 19,709    $ 89,567      
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+    
+ 
+    
+ 
+ 
+7
+9/17/12 12:44 PMForm 10-Q
+Page 9 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+   September 24, 2011  
+   
+Adjusted
+Cost    
+Unrealized
+Gains    
+Unrealized
+Losses   
+Fair
+Value    
+Cash and
+Cash
+Equivalents   
+Short-Term
+Marketable
+Securities   
+Long-Term
+Marketable
+Securities 
+Cash   $ 2,903    $ 0    $ 0   $ 2,903    $ 2,903    $ 0    $ 0  
+Level 1:              
+Money market funds    1,911     0     0    1,911     1,911     0     0  
+Mutual funds    1,227     0     (34)   1,193     0     1,193     0      
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+    
+ 
+    
+ 
+Subtotal    3,138     0     (34)   3,104     1,911     1,193     0      
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+    
+ 
+    
+ 
+Level 2:              
+U.S. Treasury securities    10,717     39     (3)   10,753     1,250     2,149     7,354  
+U.S. agency securities    13,467     24     (3)   13,488     225     1,818     11,445  
+Non-U.S. government securities    5,559     11     (2)   5,568     551     1,548     3,469  
+Certificates of deposit and time deposits   4,175     2     (2)   4,175     728     977     2,470  
+Commercial paper    2,853     0     0    2,853     2,237     616     0  
+Corporate securities    35,241     132     (114)   35,259     10     7,241     28,008  
+Municipal securities    3,411     56     0    3,467     0     595     2,872      
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+    
+ 
+    
+ 
+Subtotal    75,423     264     (124)   75,563     5,001     14,944     55,618      
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+    
+ 
+    
+ 
+Total   $ 81,464    $ 264    $ (158)  $ 81,570    $ 9,815    $ 16,137    $ 55,618      
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+    
+ 
+    
+ 
+The net unrealized gains as of June 30, 2012 and September 24, 2011 are related primarily to long-term marketable securities. The
+Company may sell certain of its marketable securities prior to their stated maturities for strategic reasons including, but not limited to,
+anticipation of credit deterioration and duration management. The net realized gains or losses recognized during the three- and nine-
+month periods ended June 30, 2012 and June 25, 2011 related to such sales were not significant. The maturities of the Company’s
+long-term marketable securities generally range from one to five years.
+As of June 30, 2012 and September 24, 2011, gross unrealized losses related to individual securities that had been in a continuous loss
+position for 12 months or longer were not significant.
+As of June 30, 2012, the Company considers the declines in market value of its marketable securities investment portfolio to be
+temporary in nature and does not consider any of its investments other-than-temporarily impaired. The Company typically invests in
+highly-rated securities, and its investment policy generally limits the amount of credit exposure to any one issuer. The policy requires
+investments generally to be investment grade, with the primary objective of minimizing the potential risk of principal loss. Fair values
+were determined for each individual security in the investment portfolio. When evaluating an investment for other-than-temporary
+impairment, the Company reviews factors such as the length of time and extent to which fair value has been below its cost basis, the
+financial condition of the issuer and any changes thereto, and the Company’s intent to sell, or whether it is more likely than not it will
+be required to sell the investment before recovery of the investment’s cost basis. During the three- and nine-month periods ended
+June 30, 2012 and June 25, 2011, the Company did not recognize any significant impairment charges.
+Derivative Financial Instruments
+The Company uses derivatives to partially offset its business exposure to foreign currency exchange risk. The Company may enter into
+foreign currency forward and option contracts to offset some of the foreign exchange risk on expected future cash flows on certain
+forecasted revenue and cost of sales, on net investments in certain foreign subsidiaries, and on certain existing assets and liabilities.
+ 
+8
+9/17/12 12:44 PMForm 10-Q
+Page 10 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+To help protect gross margins from fluctuations in foreign currency exchange rates, certain of the Company’s subsidiaries whose
+functional currency is the U.S. dollar hedge a portion of forecasted foreign currency revenue. The Company’s subsidiaries whose
+functional currency is not the U.S. dollar and who sell in local currencies may hedge a portion of forecasted inventory purchases not
+denominated in the subsidiaries’ functional currencies. The Company typically hedges portions of its forecasted foreign currency
+exposure associated with revenue and inventory purchases generally up to six months.
+To help protect the net investment in a foreign operation from adverse changes in foreign currency exchange rates, the Company may
+enter into foreign currency forward and option contracts to offset the changes in the carrying amounts of these investments due to
+fluctuations in foreign currency exchange rates.
+The Company may also enter into foreign currency forward and option contracts to partially offset the foreign currency exchange gains
+and losses generated by the re-measurement of certain assets and liabilities denominated in non-functional currencies. However, the
+Company may choose not to hedge certain foreign currency exchange exposures for a variety of reasons including, but not limited to,
+accounting considerations and the prohibitive economic cost of hedging particular exposures. There can be no assurance the hedges
+will offset more than a portion of the financial impact resulting from movements in foreign currency exchange rates.
+The Company records all derivatives in the Condensed Consolidated Balance Sheets at fair value. The Company’s accounting
+treatment of these instruments are based on whether the instruments are designated as hedge or non-hedge instruments. The effective
+portions of cash flow hedges are recorded in accumulated other comprehensive income (“AOCI”) until the hedged item is recognized
+in earnings. The effective portions of net investment hedges are recorded in other comprehensive income as a part of the cumulative
+translation adjustment. The ineffective portions of cash flow hedges and net investment hedges are recorded in other income and
+expense. Derivatives that are not designated as hedging instruments are adjusted to fair value through earnings in the financial
+statement line item to which the derivative relates.
+The Company had a net deferred gain associated with cash flow hedges of $201 million and $290 million, net of taxes, recorded in
+AOCI as of June 30, 2012 and September 24, 2011, respectively. Deferred gains and losses associated with cash flow hedges of
+forecasted foreign currency revenue are recognized as a component of net sales in the same period as the related revenue is recognized,
+and deferred gains and losses related to cash flow hedges of forecasted inventory purchases are recognized as a component of cost of
+sales in the same period as the related costs are recognized. Substantially all of the Company’s hedged transactions as of June 30, 2012
+are expected to occur within six months.
+Derivative instruments designated as cash flow hedges must be de-designated as hedges when it is probable the forecasted hedged
+transaction will not occur in the initially identified time period or within a subsequent two-month time period. Deferred gains and
+losses in AOCI associated with such derivative instruments are reclassified immediately into other income and expense. Any
+subsequent changes in fair value of such derivative instruments are reflected in other income and expense unless they are re-designated
+as hedges of other transactions. The Company did not recognize any significant net gains or losses related to the loss of hedge
+designation on discontinued cash flow hedges during the three- and nine-month periods ended June 30, 2012 and June 25, 2011.
+The Company’s unrealized net gains and losses on net investment hedges, included in the cumulative translation adjustment account of
+AOCI, were not significant as of June 30, 2012 and September 24, 2011, respectively. The ineffective portions of and amounts
+excluded from the effectiveness test of net investment hedges are recorded in other income and expense.
+During the three and nine-month periods ended June 30, 2012 and June 25, 2011, the gain/loss recognized in other income and expense
+for foreign currency forward and option contracts not designated as hedging instruments was not significant. These amounts represent
+the net gain or loss on the derivative contracts and do not include changes in the related exposures, which generally offset a portion of
+the gain or loss on the derivative contracts.
+ 
+9
+9/17/12 12:44 PMForm 10-Q
+Page 11 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+The following table shows the notional principal amounts of the Company’s outstanding derivative instruments and credit risk
+amounts associated with outstanding or unsettled derivative instruments as of June 30, 2012 and September 24, 2011 (in millions):
+ 
+   June 30, 2012    September 24, 2011  
+   
+Notional
+Principal   
+Credit Risk
+Amounts   
+Notional
+Principal   
+Credit Risk
+Amounts 
+Instruments designated as accounting hedges:         
+Foreign exchange contracts   $ 33,892    $ 569    $ 13,705    $ 537  
+Instruments not designated as accounting hedges:         
+Foreign exchange contracts   $ 10,637    $ 40    $ 9,891    $ 56  
+The notional principal amounts for outstanding derivative instruments provide one measure of the transaction volume outstanding and
+does not represent the amount of the Company’s exposure to credit or market loss. The credit risk amounts represent the Company’s
+gross exposure to potential accounting loss on derivative instruments that are outstanding or unsettled if all counterparties failed to
+perform according to the terms of the contract, based on then-current currency exchange rates at each respective date. The Company’s
+gross exposure on these transactions may be further mitigated by collateral received from certain counterparties. The Company’s
+exposure to credit loss and market risk will vary over time as a function of currency exchange rates. Although the table above reflects
+the notional principal and credit risk amounts of the Company’s foreign exchange instruments, it does not reflect the gains or losses
+associated with the exposures and transactions that the foreign exchange instruments are intended to hedge. The amounts ultimately
+realized upon settlement of these financial instruments, together with the gains and losses on the underlying exposures, will depend on
+actual market conditions during the remaining life of the instruments.
+The Company generally enters into master netting arrangements, which reduce credit risk by permitting net settlement of transactions
+with the same counterparty. To further limit credit risk, the Company generally enters into collateral security arrangements that
+provide for collateral to be received or posted when the net fair value of certain financial instruments fluctuates from contractually
+established thresholds. The Company presents its derivative assets and derivative liabilities at their gross fair values. The Company
+received cash collateral related to the derivative instruments under its collateral security arrangements of $492 million and $288
+million as of June 30, 2012 and September 24, 2011, respectively. These amounts are classified as accrued expenses in the Condensed
+Consolidated Balance Sheets. The Company did not have any derivative instruments with credit risk-related contingent features that
+would require it to post additional collateral as of June 30, 2012 or September 24, 2011.
+The following tables show the Company’s derivative instruments at gross fair value as reflected in the Condensed Consolidated
+Balance Sheets as of June 30, 2012 and September 24, 2011 (in millions):
+ 
+   June 30, 2012  
+   
+Fair Value of
+Derivatives
+Designated
+as Hedge
+Instruments   
+Fair Value  of
+Derivatives
+Not Designated
+as Hedge
+Instruments   
+Total
+Fair Value 
+Derivative assets (a):       
+Foreign exchange contracts   $ 548    $ 40    $ 588  
+Derivative liabilities (b):       
+Foreign exchange contracts   $ 165    $ 13    $ 178  
+ 
+10
+9/17/12 12:44 PMForm 10-Q
+Page 12 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+   September 24, 2011  
+   
+Fair Value of
+Derivatives
+Designated
+as Hedge
+Instruments   
+Fair Value of
+Derivatives
+Not Designated
+as Hedge
+Instruments   
+Total
+Fair Value 
+Derivative assets (a):       
+Foreign exchange contracts   $ 460    $ 56    $ 516  
+Derivative liabilities (b):       
+Foreign exchange contracts   $ 72    $ 37    $ 109  
+  
+(a)The fair value of derivative assets is measured using Level 2 fair value inputs and is recorded as other current assets in the
+Condensed Consolidated Balance Sheets. 
+(b)The fair value of derivative liabilities is measured using Level 2 fair value inputs and is recorded as accrued expenses in the
+Condensed Consolidated Balance Sheets.
+The following tables show the pre-tax effect of the Company’s derivative instruments designated as cash flow and net investment
+hedges in the Condensed Consolidated Statements of Operations for the three- and nine-month periods ended June 30, 2012 and
+June 25, 2011 (in millions):
+ 
+   Three Months Ended  
+   
+Gains/(Losses)
+Recognized in  OCI -
+Effective Portion (e)   
+Gains/(Losses)
+Reclassified  from AOCI
+into Income -
+Effective Portion (e)   
+Gains/(Losses) Recognized -
+Ineffective Portion and
+Amount Excluded from
+Effectiveness Testing  
+   
+June 30,
+2012    
+June 25,
+2011   
+June 30,
+2012 (a)   
+June 25,
+2011 (b)  Location   
+June 30,
+2012   
+June 25,
+2011  
+Cash flow hedges:            
+Foreign exchange
+contracts   
+$ 234  
+  
+$ 12  
+ 
+$ 84  
+  
+$ (162) 
+ 
+Other income
+and expense  
+$ (39) 
+ 
+$ 15  
+Net investment hedges:            
+Foreign exchange
+contracts   
+ 3  
+  
+ (7) 
+ 
+ 0  
+  
+ 0  
+ 
+Other income
+and expense  
+ 1  
+ 
+ 1  
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+     
+ 
+   
+ 
+Total   $ 237    $ 5   $ 84    $ (162)    $ (38)  $ 16      
+ 
+    
+ 
+   
+ 
+    
+ 
+     
+ 
+   
+ 
+ 
+11
+9/17/12 12:44 PMForm 10-Q
+Page 13 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+   Nine Months Ended  
+   
+Gains/(Losses)
+Recognized in OCI -
+Effective Portion (e)   
+Gains/(Losses)
+Reclassified from AOCI
+into Income -
+Effective Portion (e)   
+Gains/(Losses) Recognized -
+Ineffective Portion and
+Amount Excluded from
+Effectiveness Testing  
+   
+June 30,
+2012    
+June 25,
+2011  
+June 30,
+2012 (c)   
+June 25,
+2011 (d)  Location   
+June 30,
+2012   
+June 25,
+2011  
+Cash flow hedges:            
+Foreign exchange contracts
+  
+$ 337  
+  
+$ (270) 
+ 
+$ 468  
+  
+$ (701) 
+ 
+Other income
+and expense  
+$ (248) 
+ 
+$ (104) 
+Net investment hedges:            
+Foreign exchange contracts
+  
+ 10  
+  
+ (21) 
+ 
+ 0  
+  
+ 0  
+ 
+Other income
+and expense  
+ 2  
+ 
+ 1  
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+     
+ 
+   
+ 
+Total   $ 347    $ (291)  $ 468    $ (701)    $ (246)  $ (103)     
+ 
+    
+ 
+   
+ 
+    
+ 
+     
+ 
+   
+ 
+  
+(a)Includes gains/(losses) reclassified from AOCI into net income for the effective portion of cash flow hedges, of which $63
+million and $21 million were recognized within net sales and cost of sales, respectively, within the Condensed Consolidated
+Statement of Operations for the three months ended June 30, 2012. There were no amounts reclassified from AOCI into net
+income for the effective portion of net investment hedges for the three months ended June 30, 2012. 
+(b)Includes gains/(losses) reclassified from AOCI into net income for the effective portion of cash flow hedges, of which $(101)
+million and $(61) million were recognized within net sales and cost of sales, respectively, within the Condensed Consolidated
+Statement of Operations for the three months ended June 25, 2011. There were no amounts reclassified from AOCI into net
+income for the effective portion of net investment hedges for the three months ended June 25, 2011. 
+(c)Includes gains/(losses) reclassified from AOCI into net income for the effective portion of cash flow hedges, of which $404
+million and $64 million were recognized within net sales and cost of sales, respectively, within the Condensed Consolidated
+Statement of Operations for the nine months ended June 30, 2012. There were no amounts reclassified from AOCI into net
+income for the effective portion of net investment hedges for the nine months ended June 30, 2012. 
+(d)Includes gains/(losses) reclassified from AOCI into net income for the effective portion of cash flow hedges, of which $(382)
+million and $(319) million were recognized within net sales and cost of sales, respectively, within the Condensed Consolidated
+Statement of Operations for the nine months ended June 25, 2011. There were no amounts reclassified from AOCI into net
+income for the effective portion of net investment hedges for the nine months ended June 25, 2011. 
+(e)Refer to Note 5, “Shareholders’ Equity and Share-based Compensation” of this Form 10-Q, which summarizes the activity in
+AOCI related to derivatives.
+Accounts Receivable
+The Company has considerable trade receivables outstanding with its third-party cellular network carriers, wholesalers, retailers,
+value-added resellers, small and mid-sized businesses, and education, enterprise and government customers that are not covered by
+collateral, third-party financing arrangements or credit insurance. There were no customers that accounted for 10% or more of the
+Company’s trade receivables as of June 30, 2012 and September 24, 2011, respectively. The Company’s cellular network carriers
+accounted for 47% and 52% of trade receivables as of June 30, 2012 and September 24, 2011, respectively.
+ 
+12
+9/17/12 12:44 PMForm 10-Q
+Page 14 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+Additionally, the Company has non-trade receivables from certain of its manufacturing vendors. Vendor non-trade receivables from
+two of the Company’s vendors accounted for 56% and 26% of non-trade receivables as of June 30, 2012 and two of the Company’s
+vendors accounted for 53% and 29% of non-trade receivables as of September 24, 2011.
+Note 3 – Condensed Consolidated Financial Statement Details
+The following tables show the Company’s condensed consolidated financial statement details as of June 30, 2012 and September 24,
+2011 (in millions):
+Property, Plant and Equipment
+ 
+   June 30, 2012  September 24, 2011 
+Land and buildings   $ 2,315   $ 2,059  
+Machinery, equipment and internal-use software    10,576    6,926  
+Office furniture and equipment    228    184  
+Leasehold improvements    3,086    2,599      
+ 
+   
+ 
+Gross property, plant and equipment    16,205    11,768  
+Accumulated depreciation and amortization    (5,718)   (3,991)     
+ 
+   
+ 
+Net property, plant and equipment   $ 10,487   $ 7,777      
+ 
+   
+ 
+Accrued Expenses
+ 
+   June 30, 2012   September 24, 2011 
+Accrued taxes   $ 1,598    $ 1,140  
+Accrued warranty and related costs    1,565     1,240  
+Deferred margin on component sales    1,279     2,038  
+Accrued compensation and employee benefits    765     590  
+Accrued marketing and selling expenses    581     598  
+Other current liabilities    4,642     3,641      
+ 
+    
+ 
+Total accrued expenses   $ 10,430    $ 9,247      
+ 
+    
+ 
+Non-Current Liabilities
+ 
+    June 30, 2012   September 24, 2011 
+Deferred tax liabilities   $ 13,195    $ 8,159  
+Other non-current liabilities    2,365     1,941      
+ 
+    
+ 
+Total other non-current liabilities   $ 15,560    $ 10,100      
+ 
+    
+ 
+Note 4 – Income Taxes
+As of June 30, 2012, the Company recorded gross unrecognized tax benefits of $1.8 billion, of which $792 million, if recognized,
+would affect the Company’s effective tax rate. As of September 24, 2011, the total amount of gross unrecognized tax benefits was $1.4
+billion, of which $563 million, if recognized, would affect the Company’s effective tax rate. The Company’s total gross unrecognized
+tax benefits are classified as other non-current liabilities in the Condensed Consolidated Balance Sheets. The Company had $343
+million and $261 million of gross interest and penalties accrued as of June 30, 2012 and September 24, 2011, respectively, which are
+classified as other non-current liabilities in the Condensed Consolidated Balance Sheets.
+Management believes that an adequate provision has been made for any adjustments that may result from tax examinations. However,
+the outcome of tax audits cannot be predicted with certainty. If any issues addressed in the Company’s tax audits are resolved in a
+manner not consistent with management’s expectations, the Company could be required to adjust its provision for income tax in the
+period such resolution occurs. Although timing of the resolution and/or closure of audits is not certain, the Company believes it is
+reasonably possible that tax audit resolutions could reduce its unrecognized tax benefits by between $120 million and $170 million in
+9/17/12 12:44 PMForm 10-Q
+Page 15 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+the next 12 months.
+ 
+13
+9/17/12 12:44 PMForm 10-Q
+Page 16 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+Note 5 – Shareholders’ Equity and Share-based Compensation
+Preferred Stock
+The Company has five million shares of authorized preferred stock, none of which is issued or outstanding. Under the terms of the
+Company’s Restated Articles of Incorporation, the Board of Directors is authorized to determine or alter the rights, preferences,
+privileges and restrictions of the Company’s authorized but unissued shares of preferred stock.
+Comprehensive Income
+Comprehensive income consists of two components, net income and other comprehensive income. Other comprehensive income refers
+to revenue, expenses, and gains and losses that under GAAP are recorded as an element of shareholders’ equity but are excluded from
+net income. The Company’s other comprehensive income consists of foreign currency translation adjustments from those subsidiaries
+not using the U.S. dollar as their functional currency, unrealized gains and losses on marketable securities classified as available-for-
+sale, and net deferred gains and losses on certain derivative instruments accounted for as cash flow hedges.
+The following table presents the components of comprehensive income, net of taxes, during the three- and nine-month periods ended
+June 30, 2012 and June 25, 2011 (in millions):
+ 
+   Three Months Ended    Nine Months Ended  
+   
+June 30,
+2012   
+June 25,
+2011    
+June 30,
+2012   
+June 25,
+2011  
+Net income   $ 8,824   $ 7,308    $ 33,510   $ 19,299  
+Other comprehensive income:       
+Change in unrecognized gains/losses on derivative instruments    96    112     (89)   273  
+Change in foreign currency translation    (91)   11     (88)   101  
+Change in unrealized gains/losses on marketable securities    3    140     266    61      
+ 
+   
+ 
+    
+ 
+   
+ 
+Total comprehensive income   $ 8,832   $ 7,571    $ 33,599   $ 19,734      
+ 
+   
+ 
+    
+ 
+   
+ 
+The following table summarizes activity in other comprehensive income related to derivatives, net of taxes, held by the Company
+during the three- and nine-month periods ended June 30, 2012 and June 25, 2011 (in millions):
+ 
+   Three Months Ended    Nine Months Ended  
+   
+June 30,
+2012   
+June 25,
+2011    
+June 30,
+2012   
+June 25,
+2011  
+Change in fair value of derivatives   $ 150   $ 8    $ 216   $ (175) 
+Adjustment for net gains/losses realized and included in net income    (54)   104     (305)   448      
+ 
+   
+ 
+    
+ 
+   
+ 
+Change in unrecognized gains/losses on derivative instruments   $ 96   $ 112    $ (89)  $ 273      
+ 
+   
+ 
+    
+ 
+   
+ 
+ 
+14
+9/17/12 12:44 PMForm 10-Q
+Page 17 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+The following table shows the components of AOCI, net of taxes, as of June 30, 2012 and September 24, 2011 (in millions):
+ 
+   June 30, 2012  September 24, 2011 
+Net unrealized gains/losses on marketable securities   $ 396   $ 130  
+Net unrecognized gains/losses on derivative instruments    201    290  
+Cumulative foreign currency translation    (65)   23      
+ 
+   
+ 
+Accumulated other comprehensive income   $ 532   $ 443      
+ 
+   
+ 
+Equity Awards
+A summary of the Company’s RSU activity and related information for the nine months ended June 30, 2012 is as follows (in
+thousands, except weighted-average grant date fair value amounts):
+ 
+   
+Number of
+RSUs   
+Weighted-
+Average
+Grant  Date
+Fair Value   
+Aggregate
+Intrinsic
+Value  
+Balance at September 24, 2011    14,446   $ 231.49    
+RSUs granted    7,223   $ 414.88    
+RSUs vested    (5,955)  $ 202.92    
+RSUs cancelled    (812)  $ 245.20        
+ 
+   
+Balance at June 30, 2012    14,902   $ 331.05    $8,702,991      
+ 
+   
+RSUs that vested during the three- and nine-month periods ended June 30, 2012 had fair values of $1.5 billion and $3.1 billion,
+respectively, as of their applicable vesting dates. RSUs that vested during the three- and nine-month periods ended June 25, 2011 had
+fair values of $637 million and $1.4 billion, respectively, as of their applicable vesting dates.
+A summary of the Company’s stock option activity and related information for the nine months ended June 30, 2012 is as follows (in
+thousands, except weighted-average exercise price amounts and weighted-average remaining contractual term in years):
+ 
+   
+Number
+of Options  
+Weighted-
+Average
+Exercise
+Price    
+Weighted-
+Average
+Remaining
+Contractual 
+Term    
+Aggregate
+Intrinsic
+Value  
+Balance at September 24, 2011    11,866   $ 108.64      
+Options granted    —     $ —        
+Options assumed    41   $ 30.92      
+Options cancelled    (23)  $ 103.35      
+Options exercised    (3,910)  $ 85.19          
+ 
+     
+Balance at June 30, 2012    7,974   $ 119.75     1.9    $3,702,090      
+ 
+     
+Exercisable at June 30, 2012    7,869   $ 119.93     1.9    $3,652,052  
+Expected to vest after June 30, 2012    105   $ 106.00     4.9    $ 50,039  
+Aggregate intrinsic value represents the value of the Company’s closing stock price on the last trading day of the fiscal period in
+excess of the weighted-average exercise price multiplied by the number of options outstanding or exercisable. The total intrinsic value
+of options at the time of exercise was $332 million and $1.5 billion for the three- and nine-month periods ended June 30, 2012,
+respectively, and $248 million and $2.1 billion for the three- and nine-month periods ended June 25, 2011, respectively.
+ 
+15
+9/17/12 12:44 PMForm 10-Q
+Page 18 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+The Company had approximately 38.2 million shares reserved for future issuance under the Company’s stock plans as of June 30,
+2012. RSUs granted are deducted from the shares available for grant under the Company’s stock plans utilizing a factor of two times
+the number of RSUs granted. Similarly, RSUs cancelled are added back to the shares available for grant under the Company’s stock
+plans utilizing a factor of two times the number of RSUs cancelled.
+Share-based Compensation
+Share-based compensation cost for RSUs is measured based on the closing fair market value of the Company’s common stock on the
+date of grant. Share-based compensation cost for stock options and employee stock purchase plan rights (“stock purchase rights”) is
+estimated at the grant date and offering date, respectively, based on the fair-value as calculated by the Black-Scholes Merton (“BSM”)
+option-pricing model. The BSM option-pricing model incorporates various assumptions including expected volatility, expected life
+and interest rates. The expected volatility is based on the historical volatility of the Company’s common stock over the most recent
+period commensurate with the estimated expected life of the Company’s stock options and other relevant factors including implied
+volatility in market traded options on the Company’s common stock. The Company bases its expected life assumption on its historical
+experience and on the terms and conditions of the stock awards it grants to employees. The Company recognizes share-based
+compensation cost as expense on a straight-line basis over the requisite service period.
+During the nine-month period ended June 30, 2012, in conjunction with certain business combinations, the Company assumed 41,000
+stock options with a weighted-average fair value per share of $400.79.
+The weighted-average fair value per share of stock purchase rights was $114.01 and $102.41 during the three- and nine-month periods
+ended June 30, 2012, respectively, and was $72.63 and $67.70 during the three- and nine-month periods ended June 25, 2011,
+respectively.
+The following table provides a summary of the share-based compensation expense included in the Condensed Consolidated Statements
+of Operations for the three- and nine-month periods ended June 30, 2012 and June 25, 2011 (in millions):
+ 
+   Three Months Ended    Nine Months Ended  
+   
+June 30,
+2012    
+June 25,
+2011    
+June 30,
+2012    
+June 25,
+2011  
+Cost of sales   $ 70    $ 52    $ 196    $ 155  
+Research and development    172     119     500     336  
+Selling, general and administrative    206     113     596     379      
+ 
+    
+ 
+    
+ 
+    
+ 
+Total share-based compensation expense   $ 448    $ 284    $ 1,292    $ 870      
+ 
+    
+ 
+    
+ 
+    
+ 
+The income tax benefit related to share-based compensation expense was $131 million and $432 million for the three- and nine-month
+periods ended June 30, 2012, respectively, and $113 million and $349 million for the three- and nine-month periods ended June 25,
+2011, respectively. As of June 30, 2012, the total unrecognized compensation cost related to outstanding stock options and RSUs
+expected to vest was $4.3 billion, which the Company expects to recognize over a weighted-average period of 3.4 years.
+Employee Benefit Plans
+Rule 10b5-1 Trading Plans
+During the three-month period ended June 30, 2012, executive officers Timothy D. Cook, Peter Oppenheimer, D. Bruce Sewell, Philip
+W. Schiller, and Jeffrey E. Williams, and directors William V. Campbell and Arthur D. Levinson had equity trading plans adopted in
+accordance with Rule 10b5-1(c)(1) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). An equity trading plan
+is a written document that pre-establishes the amounts, prices and dates (or formula for determining the amounts, prices and dates) of
+future purchases or sales of the Company’s stock, including shares acquired pursuant to the Company’s employee equity plans.
+ 
+16
+9/17/12 12:44 PMForm 10-Q
+Page 19 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+Dividend and Stock Repurchase Program
+In March 2012, the Board of Directors of the Company approved a dividend policy pursuant to which it plans to make, subject to
+subsequent declaration, quarterly dividends of $2.65 per share, beginning in the fourth quarter of 2012. Additionally, in March 2012,
+the Company’s Board of Directors authorized a program to repurchase up to $10 billion of the Company’s common stock beginning in
+2013. The repurchase program is expected to be executed over a three-year period with the primary objective of neutralizing the
+impact of dilution from future employee equity grants and employee stock purchase programs. The repurchase program does not
+obligate the Company to acquire any specific number of shares.
+Note 6 – Commitments and Contingencies
+Accrued Warranty and Indemnification
+The following table presents changes in the Company’s accrued warranties and related costs for the three- and nine-month periods
+ended June 30, 2012 and June 25, 2011 (in millions):
+ 
+   Three Months Ended   Nine Months Ended  
+   
+June 30,
+2012   
+June 25,
+2011   
+June 30,
+2012   
+June 25,
+2011  
+Beginning accrued warranty and related costs   $ 1,678   $ 1,103   $ 1,240   $ 761  
+Cost of warranty claims    (436)   (288)   (1,301)   (790) 
+Accruals for product warranty    323    375    1,626    1,219      
+ 
+   
+ 
+   
+ 
+   
+ 
+Ending accrued warranty and related costs   $ 1,565   $ 1,190   $ 1,565   $ 1,190      
+ 
+   
+ 
+   
+ 
+   
+ 
+The Company generally does not indemnify end-users of its operating system and application software against legal claims that the
+software infringes third-party intellectual property rights. Other agreements entered into by the Company sometimes include
+indemnification provisions under which the Company could be subject to costs and/or damages in the event of an infringement claim
+against the Company or an indemnified third-party. However, the Company has not been required to make any significant payments
+resulting from such an infringement claim asserted against it or an indemnified third-party and, in the opinion of management, does not
+have a potential liability related to unresolved infringement claims subject to indemnification that would materially adversely affect its
+financial condition or operating results. Therefore, the Company did not record a liability for infringement costs as of either June 30,
+2012 or September 24, 2011.
+The Company has entered into indemnification agreements with its directors and executive officers. Under these agreements, the
+Company has agreed to indemnify such individuals to the fullest extent permitted by law against liabilities that arise by reason of their
+status as directors or officers and to advance expenses incurred by such individuals in connection with related legal proceedings. It is
+not possible to determine the maximum potential amount of payments the Company could be required to make under these agreements
+due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each claim. However, the
+Company maintains directors and officers liability insurance coverage to reduce its exposure to such obligations, and payments made
+under these agreements historically have not been material.
+Concentrations in the Available Sources of Supply of Materials and Product
+Although most components essential to the Company’s business are generally available from multiple sources, a number of
+components are currently obtained from single or limited sources, which subjects the Company to significant supply and pricing risks.
+Many components that are available from multiple sources are at times subject to industry-wide shortages and significant commodity
+pricing fluctuations. In addition, the Company has entered into various agreements for the supply of components; however, there can
+be no guarantee that the Company will be able to extend or renew these agreements on similar terms, or at all. Therefore, the Company
+remains subject to significant risks of supply shortages and price increases that can materially adversely affect its financial condition
+and operating results.
+ 
+17
+9/17/12 12:44 PMForm 10-Q
+Page 20 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+The Company and other participants in the mobile communication and media device and personal computer industries also compete
+for various components with other industries that have experienced increased demand for their products. The Company also uses some
+custom components that are not common to the rest of these industries, and new products introduced by the Company often utilize
+custom components available from only one source. When a component or product uses new technologies, initial capacity constraints
+may exist until the suppliers’ yields have matured or manufacturing capacity has increased. If the Company’s supply of components
+for a new or existing product were delayed or constrained, or if an outsourcing partner delayed shipments of completed products to the
+Company, the Company’s financial condition and operating results could be materially adversely affected. The Company’s business
+and financial performance could also be materially adversely affected depending on the time required to obtain sufficient quantities
+from the original source, or to identify and obtain sufficient quantities from an alternative source. Continued availability of these
+components at acceptable prices, or at all, may be affected if those suppliers concentrated on the production of common components
+instead of components customized to meet the Company’s requirements.
+Substantially all of the Company’s hardware products are manufactured by outsourcing partners that are primarily located in Asia. A
+significant concentration of this manufacturing is currently performed by a small number of outsourcing partners, often in single
+locations. Certain of these outsourcing partners are the sole-sourced suppliers of components and manufacturers for many of the
+Company’s products. Although the Company works closely with its outsourcing partners on manufacturing schedules, the Company’s
+operating results could be adversely affected if its outsourcing partners were unable to meet their production commitments. The
+Company’s purchase commitments typically cover its requirements for periods up to 150 days.
+Long-Term Supply Agreements
+The Company has entered into long-term agreements to secure the supply of certain inventory components. Under certain of these
+agreements, which expire between 2012 and 2022, the Company has made prepayments for the future purchase of inventory
+components and has agreed to acquire capital equipment to use in the manufacturing of such components.
+As of June 30, 2012, the Company had a total of $4.4 billion of inventory component prepayments outstanding, of which $1.3 billion
+is classified as other current assets and $3.1 billion is classified as other assets in the Condensed Consolidated Balance Sheets. The
+Company had a total of $2.3 billion of inventory component prepayments outstanding as of September 24, 2011. The Company’s
+outstanding prepayments will be applied to certain inventory component purchases made during the term of each respective agreement.
+During the three- and nine-month periods ended June 30, 2012, the Company utilized $41 million and $634 million of inventory
+component prepayments, respectively.
+Additionally, as of June 30, 2012, the Company had outstanding off-balance sheet commitments under certain long-term supply
+agreements to make inventory component prepayments and to acquire capital equipment to use in the manufacturing of such
+components of $302 million.
+Other Off-Balance Sheet Commitments
+The Company leases various equipment and facilities, including retail space, under noncancelable operating lease arrangements. The
+Company does not currently utilize any other off-balance sheet financing arrangements. The major facility leases are typically for
+terms not exceeding 10 years and generally provide renewal options for terms not exceeding five additional years. Leases for retail
+space are for terms ranging from five to 20 years, the majority of which are for 10 years, and often contain multi-year renewal options.
+As of June 30, 2012, the Company’s total future minimum lease payments under noncancelable operating leases were $4.1 billion, of
+which $3.0 billion related to leases for retail space.
+The Company utilizes several outsourcing partners to manufacture sub-assemblies for the Company’s products and to perform final
+assembly and testing of finished products. These outsourcing partners acquire components and build product based on demand
+information supplied by the Company, which typically covers periods up to 150 days. The Company also obtains individual
+components for its products from a wide variety of individual suppliers. Consistent with industry practice, the Company acquires
+components through a combination of purchase orders, supplier contracts, and open orders based on projected demand information. As
+of June 30, 2012, the Company had outstanding off-balance sheet third-party manufacturing commitments and component purchase
+commitments of $13.6 billion.
+ 
+18
+9/17/12 12:44 PMForm 10-Q
+Page 21 of 57http://www.sec.gov/Archives/edgar/data/320193/000119312512314552/d365704d10q.htm
+In addition to the off-balance sheet commitments mentioned above, the Company had outstanding obligations of $4.5 billion as of
+June 30, 2012, which were comprised mainly of commitments to acquire capital assets, including product tooling and manufacturing
+process equipment, and commitments related to advertising, research and development, Internet and telecommunications services and
+other obligations.
+Contingencies
+The Company is subject to various legal proceedings and claims that have arisen in the ordinary course of business and have not been
+fully adjudicated, certain of which are discussed in Part II, Item 1 of this Form 10-Q under the heading “Legal Proceedings” and in
+Part II, Item 1A of this Form 10-Q under the heading “Risk Factors.” In the opinion of management, there was not at least a reasonable
+possibility the Company may have incurred a material loss, or a material loss in excess of a recorded accrual, with respect to loss
+contingencies. However, the outcome of litigation is inherently uncertain. Therefore, although management considers the likelihood of
+such an outcome to be remote, if one or more of these legal matters were resolved against the Company in a reporting period for
+amounts in excess of management’s expectations, the Company’s consolidated financial statements for that reporting period could be
+materially adversely affected.
+Note 7 – Segment Information and Geographic Data
+The Company reports segment information based on the “management” approach. The management approach designates the internal
+reporting used by management for making decisions and assessing performance as the source of the Company’s reportable segments.
+The Company manages its business primarily on a geographic basis. Accordingly, the Company determined its reportable operating
+segments, which are generally based on the nature and location of its customers, to be the Americas, Europe, Japan, Asia-Pacific and
+Retail. The results of the Americas, Europe, Japan and Asia-Pacific segments do not include results of the Retail segment. The
+Americas segment includes both North and South America. The Europe segment includes European countries, as well as the Middle
+East and Africa. The Asia-Pacific segment includes Australia and Asian countries, other than Japan. The Retail segment operates
+Apple retail stores in 12 countries, including the U.S. Each reportable operating segment provides similar hardware and software
+products and similar services. The accounting policies of the various segments are the same as those described in Note 1, “Summary of
+Significant Accounting Policies” of this Form 10-Q and in the Notes to Consolidated Financial Statements in Part II, Item 8 of the

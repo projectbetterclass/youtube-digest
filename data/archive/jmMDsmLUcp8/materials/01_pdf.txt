@@ -1,0 +1,90 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/webcasts/dividends/dividendtradeoff.pdf
+
+IN	  PRACTICE	  WEBCAST:	  THE	  
+DIVIDEND	  TRADE	  OFF	  
+“Companies	  don’t	  have	  cash.	  They	  hold	  cash	  for	  
+their	  stockholders.”	  
+Aswath Damodaran 1
+2
+The	  balanced	  viewpoint	  
+Aswath Damodaran
+2
+¨ If	  a	  company	  has	  excess	  cash,	  and	  few	  good	  
+investment	  opportuniLes	  (NPV>0),	  returning	  money	  
+to	  stockholders	  (dividends	  or	  stock	  repurchases)	  is	  
+good.	  
+¨ If	  a	  company	  does	  not	  have	  excess	  cash,	  and/or	  has	  
+several	  good	  investment	  opportuniLes	  (NPV>0),	  
+returning	  money	  to	  stockholders	  (dividends	  or	  stock	  
+repurchases)	  is	  bad.
+Aswath Damodaran3
+4
+Where	  does	  Intel	  ﬁt	  in	  the	  life	  cycle?	  
+¨ While	  Intel	  was	  one	  of	  the	  great	  growth	  companies	  
+of	  the	  last	  century,	  the	  last	  decade	  has	  seen	  its	  
+growth	  slow,	  investment	  opportuniLes	  drop	  oﬀ	  and	  
+cash	  build	  up.	  
+¨ In	  life	  cycle	  terms,	  Intel	  enter	  a	  more	  mature	  phase	  
+around	  2000	  and	  was	  poised	  to	  start	  returning	  more	  
+cash.	  	  
+Aswath Damodaran
+4
+5
+Should	  Intel	  pay/increase	  dividends?	  
+Aswath Damodaran
+5
+¨ Clientele	  Eﬀect:	  The	  investors	  in	  your	  company	  like	  
+dividends.	  
+¨ The	  Signalling	  Story:	  Dividends	  can	  be	  signals	  to	  the	  
+market	  that	  you	  believe	  that	  you	  have	  good	  cash	  
+ﬂow	  prospects	  in	  the	  future.	  
+¨ The	  Wealth	  AppropriaLon	  Story:	  Dividends	  are	  one	  
+way	  of	  transferring	  wealth	  from	  lenders	  to	  equity	  
+investors	  (this	  is	  good	  for	  equity	  investors	  but	  bad	  
+for	  lenders)
+6
+The	  Clientele	  Eﬀect	  at	  Intel?	  Who	  owns	  
+Intel	  stock?	  
+Aswath Damodaran
+6
+7
+And	  more	  evidence	  of	  the	  insLtuLonal	  Llt	  
+Aswath Damodaran
+7
+8
+2.	  Dividends	  as	  a	  signal?	  Does	  Intel	  need	  to?	  
+Aswath Damodaran
+8
+9
+A	  case	  for	  a	  Llt	  towards	  buybacks	  
+¨ Even	  as	  a	  mature	  ﬁrm,	  Intel	  is	  sLll	  subject	  to	  big	  
+swings	  in	  earnings	  and	  cash	  ﬂows	  from	  year	  to	  year.	  	  
+¨ Since	  earnings	  are	  not	  predictable,	  it	  will	  be	  
+dangerous	  for	  Intel	  to	  increase	  dividends	  
+substanLally	  and	  be	  stuck	  with	  those	  dividends.	  
+¨ Given	  that	  Intel’s	  stockholders	  don’t	  look	  like	  a	  
+classic	  dividend	  clientele,	  that	  Intel	  does	  not	  need	  to	  
+use	  dividends	  to	  signal	  to	  markets	  and	  that	  there	  is	  
+li[le	  potenLal	  for	  wealth	  transfer	  from	  paying	  
+higher	  dividends,	  we	  would	  expect	  Intel	  to	  be	  
+returning	  most	  of	  its	  cash	  in	  stock	  buybacks.	  
+Aswath Damodaran
+9
+10
+Intel’s	  actual	  dividends	  
+Year	   Net	  Income	   Dividends	  (aggregate)	  Stock	  Buybacks	  Cash	  Returned	  %	  in	  dividends	  
+Dividend	  Payout	  
+Ra@o	  
+2005	  	  $13,309.00	  	   	  $1,958.00	  	   	  $10,637.00	  	   	  $12,595.00	  	   15.55%	   14.71%	  
+2006	  	  $10,400.00	  	   	  $2,320.00	  	   	  $4,593.00	  	   	  $6,913.00	  	   33.56%	   22.31%	  
+2007	  	  $16,350.00	  	   	  $2,618.00	  	   	  $2,788.00	  	   	  $5,406.00	  	   48.43%	   16.01%	  
+2008	  	  $12,195.00	  	   	  $3,100.00	  	   	  $7,195.00	  	   	  $10,295.00	  	   30.11%	   25.42%	  
+2009	  	  $14,693.00	  	   	  $3,108.00	  	   	  $1,762.00	  	   	  $4,870.00	  	   63.82%	   21.15%	  
+2010	  	  $22,893.00	  	   	  $3,503.00	  	   	  $1,736.00	  	   	  $5,239.00	  	   66.86%	   15.30%	  
+2011	  	  $12,942.00	  	   	  $4,127.00	  	   	  $14,340.00	  	   	  $18,467.00	  	   22.35%	   31.89%	  
+2012	  	  $11,005.00	  	   	  $4,350.00	  	   	  $5,110.00	  	   	  $9,460.00	  	   45.98%	   39.53%	  
+2013	   	  $9,620.00	  	   	  $4,479.00	  	   	  $2,440.00	  	   	  $6,919.00	  	   64.73%	   46.56%	  
+2014	  	  $11,704.00	  	   	  $4,409.00	  	   	  $11,117.00	  	   	  $15,526.00	  	   28.40%	   37.67%	  
+	  	   	  $135,111.00	  	   	  $33,972.00	  	   	  $61,718.00	  	  	  $95,690.00	  	   35.50%	   25.14%	  
+Aswath Damodaran
+10

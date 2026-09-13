@@ -1,0 +1,86 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate2for2018.pdf
+
+US	EQUITIES,	RESILIENT	AGAIN:	
+JANUARY	2018	DATA	UPDATE	2
+Aswath	Damodaran
+2
+A	Good	Year	for	Stocks
+Start	of	month S&P	500 Price	Appreciation	in	
+Month T. Bo nd	 R ate Monthly	
+return
+1-Jan-17 2239 2.45% 
+1-Feb-17 2279 1.79% 2.47% 0.03% 
+1-Mar-17 2364 3.73% 2.40% 0.82% 
+1-Apr-17 2363 -0.04% 2.39% 0.29% 
+1-May-17 2384 0.89% 2.30% 1.00% 
+1-Jun-17 2412 1.17% 2.21% 0.99% 
+1-Jul-17 2423 0.46% 2.30% -0.61% 
+1-Aug-17 2470 1.94% 2.30% 0.19% 
+1-Sep-17 2418 -2.11% 2.12% 1.80% 
+1-Oct-17 2519 4.18% 2.33% -1.68% 
+1-Nov-17 2575 2.22% 2.37% -0.16% 
+1-Dec-17 2648 2.83% 2.42% -0.24% 
+1-Jan-18 2674 0.98% 2.41% 0.29% 
+Dividend	Yield 2.22% - 
+Total	Return 21.65% 2.80%
+3
+Historical	Perspective
+Ranking the years from 1928 to 2017 in terms of 
+stock market returns, 2017 ranked as the 30th best 
+year during that history.
+If you a believer in mean reversion, the historical 
+equity risk premium over treasury bonds, using the 
+geometric averages from 1928 to 2017 is 4..77% 
+(9.65% – 4.88%).
+4
+The	Fundamentals	got	healthier…
+2016 2017 %	Change	for	year
+10-Year	
+Average
+Earnings	(index	units) 106.26 124.94 17.58% 93.00
+Dividends	(index	units) 45.7 49.73 8.82% 32.76
+Dividends	+	Buybacks	
+(index	units) 108.02 109.89 1.73% 82.28
+Payout	Ratio 43.01% 39.80% 42.05% 
+Cash	Return	Ratio 101.66% 87.95% 89.35%
+5
+With	the	T .	Bond	rate,	a	battle	with	the	
+fundamentals.
+6
+An	Implied	ERP
+7
+Compared	to	history…
+Aswath Damodaran
+7
+8
+Meaning	what?
+Aswath Damodaran
+8
+¨ There	is	a	reason	why	those	who	are	intent	on	claiming	
+that	the	market	is	in	a	bubble	have	a	tough	sell.	Unlike	
+the	end	of	1999,	when	implied	equity	risk	premiums	
+were	at	historical	lows	(close	to	2%),	the	current	implied	
+ERP	is	well	within	the	bounds	of	historic	norms.	
+¨ It	is	only	if	you	read	this	graph,	in	conjunction	with	the	
+earlier	one	on	risk	free	rates,	that	you	should	be	
+concerned,	since	one	reason	that	the	premium	is	at	
+5.08%	is	because	the	US	treasury	bond	rate	is	2.41%.	
+¨ If	the	T. B o n drate	moves	towards	4.50%,	and	nothing	
+else	changes,	the	implied	ERP	will	drop	below	comfort	
+levels.
+9
+Equity	Market	Worries?
+¨ There	has	never	been	a	year	in	the	last	three	decades	where	I	have	
+felt	sanguine	about	equity	markets	and	I	am	thankful	for	that,	since	
+that	is	a	sure	sign	of	denial	about	the	risk	that	is	always	under	the	
+surface.	
+¨ My	worries	shift	from	year	to	year	and	in	this	new	year,	I	will	
+continue	to	watch	how	the	changing	tax	code	will	play	out	in	both	
+earnings	and	cash	flows,	since	both	are	likely	to	be	significantly	
+affected,	the	former	because	it	a	lower	tax	rate	should	raise	after-
+tax	earnings	and	the	latter	because	of	the	release	of	hundreds	of	
+billions	of	trapped	cash.	
+¨ My	macro	crystal	ball	is	always	hazy	but	I	expect	T .	Bond	rates	to	
+rise,	but	if	those	higher	rates	go	with	a	more	robust	economy,	the	
+market	will	take	it	in	stride.	If	the	economy	stumbles	and	rates	go	
+up,	equities	will	be	hard	pressed	to	repeat	what	they	did	this	year .

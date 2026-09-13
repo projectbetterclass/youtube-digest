@@ -1,0 +1,902 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/capstru.xlsx
+
+Sheet: READ ME 1ST
+PRELIMINARY STUFF AND INPUTS
+Objective | This spreadsheet allows you to compute the optimal capital structure for a non-financial
+service firm
+Before you start | Open preferences in excel, go into calculation options and put a check in the iteration box.
+If it is already checked, leave it as is.
+Inputs | The inputs are primarily in the input sheet. If your company has operating leases, 
+use the operating lease worksheet to enter your lease or rental commitments.
+Units | Enter all numbers in the same units (000s, millions or even billions)
+Income inputs | The key income input is the earnings before long term interest expenses and depreciation.
+Enter the most updated numbers you have for each (even if they are 12-month trailing
+numbers). If the most recent period for which you have data has an operating income that
+is abnormal, either because of extraordinary losses/gains or some other occurrence, use
+an average operating income over the last few years.
+Balance Sheet | Enter the book value of total debt. If you have a market value enter that 
+number. Alternatively, input the average maturity of the debt and I will estimate the
+market value of debt. 
+Market Data | Enter the current stock price, the current risk free rate, the equity  risk
+premium you would like to use to estimate your cost of equity and the current rating for
+your firm. If you do not have a rating, there is an option for you at the very bottom of
+the spreadsheet to compute a synthetic rating.
+Tax Rate | Enter a marginal tax rate, if you can find it. Otherwise, use the marginal tax rate of country
+Default Spreads | This spreadsheet has interest coverage ratios, ratings and default spreads built into it in
+the worksheet. You can choose between two tables, one for large and stable 
+firms, and the other for small or risky firms. If you want you can change the interest
+coverage ratios and ratings in these tables.
+READING THE OUTPUT
+Summary | The summary provides a picture of your firm's current cost of capital and debt ratio, and 
+compares it to your firm's optimal debt ratio and the cost of capital at that level. The
+firm value is computed at each debt ratio, based upon how the expected operating income
+and the cost of capital. The optimal debt ratio is that ratio at which firm value is
+maximized. It might not be the same point at which cost of capital is minimized.
+Details | The details of the calculation at each debt ratio are below the summary.
+References
+Corporate Finance: Theory and Practice, Chapter 18
+Applied Corporate Finance: Chapter 8
+
+Sheet: FAQs
+Question | Answer
+Q1: What do I do excel says there are circular references? | Go into preferences, choose calculation options and make sure the iteration box has a check in it.
+Q2: My spreadsheet has gone crazy. I get errors all over. What did I do wrong? | I am sorry to say this, but you probably just made an input error. While you might have fixed it, the iterations in the spreadsheet make it very sensitive and the errors will not go away. The only fix (Sorry, sorry…) is to copy the inputs into a fresh version of the spreadsheet.
+Q3: I am entering the inputs for my company but the optimal numbers do not seem to change from the originals. | You probably forgot to check the iteration box (see Q1)
+Q4: I am getting an optimal debt ratio of 0%. This can't be right. Can it? | Sure. If your operating income is either negative or very low, relative to your firm value,
+you can end up at an optimal debt ratio of 0%. For instance, if you have EBIT of 100 on a
+firm value of 10000, a 10% debt ratio would probably push you into a C rating and give
+you a very high cost of capital.
+Q5: My cost of capital at my optimal debt ratio is higher | Generally, you are right. However, I would suggest that you look at three factors:
+than the current cost of capital. I thought it was supposed |  - If your optimal is just slightly higher or lower than your current debt ratio, it is possible that you
+to be lower. | are closer to the optimal than the stated optimal. Let me explain. Assume that you are at a 24% debt ratio
+and the optimal comes out to 30%. The true optimal is really somewhere around 30% since
+I am constrained to work in 10% increments of the debt ratio. If the true optimal were
+26%, your current debt ratio of 24% is closer to the optimal.
+ - Rating Differences: One of the costs of rating a company based only on the interest
+coverage ratio is that the rating might be very different from the actual rating. Thus, your
+current cost of capital is based upon your current rating, and the optimal is based upon
+the synthetic ratings, and the two don't match, the current and the optimal cost of capital
+can be mismatched. You can get around this by switching to a synthetic rating for computing
+the current cost of capital (in the input sheet).
+ - Existing debt at low rates: I assume in the spreadsheet that existing debt gets refinanced at
+the new pre-tax cost of debt at each debt ratio. Consequently, if you have a lot of old debt on
+your books at much lower rates, the interest expense that I report will be much higher than
+your actual interest expense. This, in turn, can affect your interest coverage ratio and rating.
+This, too, you can fix by locking in debt at current rates in the input sheet.
+Q6: I am getting an optimal debt ratio at a mix where my cost  | Not necessarily. If you chose to build in indirect bankruptcy costs (an option on the input page),
+of capital is not minimized? Is something wrong? | your operating income also changes as your debt ratio changes. Since the objective ultimately is to 
+maximize firm value, it is possible that the net effect (lower cost of capital is good but it could be offset
+by lower operating income) is resulting in an optimal at a higher debt ratio.
+
+Sheet: Inputs
+In December 2017, Congress passed a major tax reform that not only lowered the tax rate for US companies but alao imposed limits on interst tax deductions for tax purposes. Starting in 2018, interest will be deductible, for tax purposes, only if it is less than 30% of taxable income. However, Congress in its wisdom has defined EBITDA as taxable income until 2022 and EBIT thereafter. I have added an option to the spreadsheet to allow you to incorporate this limit.  If you are working with a company outside the US, just set the option to constrain interest expenses to no and you should be ready to go. | Input Cell
+Calculated/Output Cell
+Important: This spreadsheet includes circular references, by design. Please go into calculation options and check the iteration box.
+Inputs
+Please enter the name of the company you are analyzing: | Disney
+Country of incorporatiion | United States
+Please enter the date that you are doing this analysis | 2023-02-26 00:00:00
+Financial Information | Output Summary
+Earnings before interest expenses, depreciation & amortization (EBITDA) | 11767 | Current | Optimal
+Depreciation and Amortization: | 5200 | Debt to Capital | 0.19664174049407343 | 0.2
+Capital Spending: | 5313 | Debt to EBITDA | 3.8115118520562237 | 3.8766050813826056
+Interest expense on debt: | 1653 | Interest Coverage | 3.972776769509982 | 3.9959010488062647
+Marginal tax rate to use for pre-tax cost of debt | 0.25 | (See marginal tax rate worksheet) | Cost of capital | 0.09567120276370804 | 0.09521199524948196
+Current Bond Rating on debt (if available): | A3/A- | Enterprise value | 216465.05996314558 | 218233.40818955714
+Enter the current pre-tax cost of debt for your company | 0.069 | Value per share | 100.3 | 101.2679928347382
+Market Information & information on debt | For details, check "Optimal Capital Structure" worksheet
+Number of shares outstanding: | 1826.8195413758724
+Market price per share: | 100.3
+Beta of the stock: | 1.02 | Circular Reasoning/ IterationI: When you open this spreadsheet, you may be warned that there is circular reasoning. That is a feature, not a bug, since I need to use circular reasoning to get to the interest rate at each level of debt. To get the spreadsheet working properly, go to Calculation options in Excel and make sure the iteraion box is checked.
+Cash and marketable securities = | 11615
+Book value of debt: | 51608
+Can you estimate the market value of the interest bearing debt? | No
+If so, enter the market value of "interest bearing" debt:
+Do you want me to try and estimate market value of debt? | Yes
+If yes, enter the weighted average maturity of outstanding debt? | 4.2
+Do you have any operating leases? | No
+Interest deduction constraints
+Are there any restrictions on interest deductions for tax purposes? | No
+If yes, what earnings or operating measure is the restriction tied to? | EBITDA
+Enter the maximum percentage of that measure that is deductible | 0.3
+Indirect bankruptcy costs & ratings constraints (if any)
+Do you want to incorporate indirect bankruptcy costs into your optimal? | No
+If yes, specify the magnitude of your indirect bankruptcy costs | Medium
+General Market Data
+Current riskfree rate in the currency of analysis = | 0.039
+Risk premium (for use in the CAPM) | 0.0661
+Country Default spread (for cost of debt) | 0.0181 | (I use the country of incorporation. If you want to override it, you can)
+General Data
+Which spread/ratio table would you like to use for your anlaysis? | 1
+Do you want to assume that existing debt is refinanced at the 'new' rate? | No | (Yes or No)
+Do you want the firm's current rating & cost of debt to be adjusted to the synthetic rating? | No | (Yes or No)
+
+Sheet: Optimal CS Worksheet
+Disney
+2023-02-26 00:00:00 | Drivers of the optimal debt ratio
+Capital Structure | Financial Market | Income Statement | Marginal tax rate = | 0.25
+Current MV of Equity = | 183230 | Current Beta for Stock = | 1.02 | Current EBITDA = | 11767 | EBITDA/ Enterprise value = | 0.05435981216554486
+Market Value of interest-bearing debt = | 44850.059963145584 | Current Bond Rating = | A3/A- | Current Depreciation = | 5200 | EBIT/ Enterprise value = | 0.030337459547134623
+# of Shares Outstanding = | 1826.8195413758724 | Summary of Inputs | Current Tax Rate = | 0.25 | Unlevered beta = | 0.861791468261517
+Debt Value of Operating leases = | 0 | Riskfree Rate = | 0.039 | Current Capital Spending= | 5313
+Equity Risk Premium = | 0.0661 | Pre-tax cost of debt = | 0.069 | Current Interest Expense = | 1653
+RESULTS FROM ANALYSIS
+Current | Optimal | Change
+D/(D+E) Ratio = | 0.19664174049407343 | 0.2 | 0.0033582595059265807
+Total Debt = | 44850.059963145584 | 45616.01199262912 | 765.9520294835384 | Implied Growth Rate Calculation
+Beta for the  Stock = | 1.02 | 1.0233773685605514 | 0.003377368560551375 | Enterprise value = | 216465.05996314558
+Cost of Equity    = | 0.10642200000000002 | 0.10664524406185244 | 0.0002232440618524234 | Current WACC = | 0.09567120276370804
+Rating on Debt | A3/A- | Current FCFF = | 4812.25 | ! I am ignoring working capital
+After-tax cost of Debt = | 0.051750000000000004 | 0.049479 | -0.002271000000000002 | Implied Growth Rate = | 0.07184298582462004
+If this number is >your riskfree rate, I use the riskfree rate as a perpetual growth rate.
+WACC | 0.09567120276370804 | 0.09521199524948196 | -0.0004592075142260815
+Implied Growth Rate = | 0.039
+Enterprise value  | 216465.05996314558 | 218233.40818955714 | 1768.3482264115592
+Value/share (Perpetual Growth) = | 100.3 | 101.2679928347382 | 0.9679928347381974
+We use the following default spreads in our analysis. Change them in the input sheet if necessary: | Ratings comparison at current debt ratio
+Rating | Coverage gt | and lt | Spread | Drop in EBITDA | Current Interest coverage ratio = | 3.972776769509982
+AAA | 8.5 | 100000 | 0.004 | 0 | Rating based upon coverage = | A3/A-
+AA | 6.5 | 8.499999 | 0.0055060000000000005 | 0 | Interest rate based upon coverage = | 0.065972
+A+ | 5.5 | 6.499999 | 0.0070030000000000005 | 0 | Current rating for company = | A3/A-
+A | 4.25 | 5.499999 | 0.007751000000000001 | 0 | Current interest rate on debt = | 0.069
+A- | 3 | 4.249999 | 0.008872 | -0.02 | Drop in operating income based on current rating | -0.02
+BBB | 2.5 | 2.999999 | 0.011113 | -0.1
+BB+ | 2.25 | 2.49999 | 0.013828 | -0.2
+BB | 2 | 2.2499999 | 0.018394999999999998 | -0.2
+B+ | 1.75 | 1.999999 | 0.027531 | -0.2
+B | 1.5 | 1.749999 | 0.032098 | -0.2
+B- | 1.25 | 1.499999 | 0.050899 | -0.25
+CCC | 0.8 | 1.249999 | 0.0885 | -0.4
+CC | 0.65 | 0.799999 | 0.126101 | -0.4
+C | 0.2 | 0.649999 | 0.16 | -0.4
+D | -100000 | 0.199999 | 0.19 | -0.5
+Current beta= | 1.02 | Current Equity= | 183230 | Current Depreciation= | 5200
+Current  Debt= | 44850.059963145584 | Current EBITDA= | 11767 | Current Interest rate (Company)= | 0.069
+Tax rate= | 0.25 | Current Rating= | A3/A- | Current T.Bond rate= | 0.039
+Enterprise value = | 216465.05996314558 | Adjusted EBITDA = | 12007.142857142857
+WORKSHEET FOR ESTIMATING RATINGS/INTEREST RATES
+D/(D+E) | 0 | 0.1 | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 | 0.8 | 0.9
+D/E | 0 | 0.11111111111111112 | 0.25 | 0.4285714285714286 | 0.6666666666666667 | 1 | 1.4999999999999998 | 2.333333333333333 | 4.000000000000001 | 9.000000000000002
+$ Debt | 0 | 22808.00599631456 | 45616.01199262912 | 68424.01798894367 | 91232.02398525825 | 114040.02998157279 | 136848.03597788734 | 159656.0419742019 | 182464.0479705165 | 205272.05396683104
+Beta | 0.861791468261517 | 0.9336074239499766 | 1.0233773685605514 | 1.1387958687741475 | 1.352913619600388 | 1.6356273244025117 | 2.0527538501726337 | 2.7438809739402252 | 4.144437916633337 | 8.29826796594114
+Cost of Equity | 0.09596441605208628 | 0.10071145072309345 | 0.10664524406185244 | 0.11427440692597116 | 0.12842759025558564 | 0.14711496614300604 | 0.1746870294964111 | 0.2203705323774489 | 0.3129473462894636 | 0.5875155125487094
+% Drop in EBITDA | 0 | 0 | -0.02 | -0.2 | -0.4 | -0.4 | -0.4 | -0.4 | -0.5 | -0.5
+EBITDA | 12007.142857142857 | 12007.142857142857 | 12007.142857142857 | 12007.142857142857 | 12007.142857142857 | 12007.142857142857 | 12007.142857142857 | 12007.142857142857 | 12007.142857142857 | 12007.142857142857
+Depreciation | 5200 | 5200 | 5200 | 5200 | 5200 | 5200 | 5200 | 5200 | 5200 | 5200
+EBIT | 6807.142857142857 | 6807.142857142857 | 6807.142857142857 | 6807.142857142857 | 6807.142857142857 | 6807.142857142857 | 6807.142857142857 | 6807.142857142857 | 6807.142857142857 | 6807.142857142857
+Interest | 0 | 730.5385582062464 | 1703.531387289088 | 3648.087641681318 | 11722.52438920066 | 16674.142491000548 | 21625.760592800438 | 26577.378694600324 | 35657.41643662135 | 41293.27471831068
+Taxable Income | 6807.142857142857 | 6076.604298936611 | 5103.611469853769 | 3159.055215461539 | -4915.381532057803 | -9866.999633857691 | -14818.61773565758 | -19770.23583745747 | -28850.273579478497 | -34486.13186116782
+Tax | 1701.7857142857142 | 1519.1510747341526 | 1275.9028674634424 | 789.7638038653847 | -1228.8453830144508 | -2466.749908464423 | -3704.654433914395 | -4942.558959364367 | -7212.568394869624 | -8621.532965291955
+Net Income | 5105.357142857143 | 4557.453224202458 | 3827.708602390327 | 2369.291411596154 | -3686.5361490433525 | -7400.249725393269 | -11113.963301743186 | -14827.676878093102 | -21637.705184608873 | -25864.598895875868
+(+)Deprec'n | 5200 | 5200 | 5200 | 5200 | 5200 | 5200 | 5200 | 5200 | 5200 | 5200
+Funds from Op. | 10305.357142857143 | 9757.453224202458 | 9027.708602390327 | 7569.291411596154 | 1513.4638509566475 | -2200.249725393269 | -5913.963301743186 | -9627.676878093102 | -16437.705184608873 | -20664.598895875868
+D/(D+E) | 0 | 0.1 | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 | 0.8 | 0.9
+Pre-tax Int. cov | ∞ | 9.317978881028559 | 3.9959010488062647 | 1.8659482791388213 | 0.5806891614074112 | 0.4082454531509997 | 0.3147701015153689 | 0.2561254416909764 | 0.19090398400686404 | 0.1648487048697148
+Funds/Debt | ∞ | 0.4278082540744298 | 0.1979065728904375 | 0.11062331084998898 | 0.01658917324032185 | -0.019293661407742503 | -0.04321555117311875 | -0.06030261529124463 | -0.09008736442844327 | -0.10066932393639402
+Likely Rating | Aaa/AAA | Aaa/AAA | A3/A- | B1/B+ | C2/C | C2/C | C2/C | C2/C | D2/D | D2/D
+Pre-tax cost of debt | 0.0611 | 0.0611 | 0.065972 | 0.08463100000000001 | 0.21710000000000002 | 0.21710000000000002 | 0.21710000000000002 | 0.21710000000000002 | 0.24710000000000001 | 0.24710000000000001
+Tax rate for debt (deduction constraint) | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25 | 0.25
+Tax rate for debt tax benefits (Interest limits) | 0.25 | 0.25 | 0.25 | 0.25 | 0.1451722903518528 | 0.10206136328774991 | 0.0786925253788422 | 0.06403136042274413 | 0.04772599600171604 | 0.04121217621742873
+Tax rate to use in after-tax cost of debt | 0.25 | 0.25 | 0.25 | 0.25 | 0.1451722903518528 | 0.10206136328774991 | 0.0786925253788422 | 0.06403136042274413 | 0.04772599600171604 | 0.04121217621742873
+COST OF CAPITAL CALCULATIONS
+D/(D+E) | 0 | 0.1 | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 | 0.8 | 0.9
+D/E | 0 | 0.11111111111111112 | 0.25 | 0.4285714285714286 | 0.6666666666666667 | 1 | 1.4999999999999998 | 2.333333333333333 | 4.000000000000001 | 9.000000000000002
+$ Debt | 0 | 22808.00599631456 | 45616.01199262912 | 68424.01798894367 | 91232.02398525825 | 114040.02998157279 | 136848.03597788734 | 159656.0419742019 | 182464.0479705165 | 205272.05396683104
+Cost of equity | 0.09596441605208628 | 0.10071145072309345 | 0.10664524406185244 | 0.11427440692597116 | 0.12842759025558564 | 0.14711496614300604 | 0.1746870294964111 | 0.2203705323774489 | 0.3129473462894636 | 0.5875155125487094
+Cost of debt | 0.045825000000000005 | 0.045825000000000005 | 0.049479 | 0.06347325000000001 | 0.18558309576461277 | 0.1949424780302295 | 0.20001585274025338 | 0.20319879165222227 | 0.235306906387976 | 0.2369164712566734
+Cost of Capital | 0.09596441605208628 | 0.09522280565078411 | 0.09521199524948196 | 0.09903405984817981 | 0.1512897924591965 | 0.17102872208661776 | 0.18988432344271647 | 0.20835031386979025 | 0.2508349943682735 | 0.271976375385877
+0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Value (perpetual growth) | 215350.8480313889 | 218191.44673472116 | 218233.40818955714 | 204339.59214906534 | 109247.10996226399 | 92914.14103350654 | 81302.91487231248 | 72437.62957452638 | 57909.86206510798 | 52654.84658739046
+Interest cov | Interest cov | RATING | Interest rate | Drop in
+Low | High | EBITDA
+-100000 | 0.199999 | D2/D | 0.24710000000000001 | -0.5
+0.2 | 0.649999 | C2/C | 0.21710000000000002 | -0.4
+0.65 | 0.799999 | Ca2/CC | 0.183201 | -0.4
+0.8 | 1.249999 | Caa/CCC | 0.1456 | -0.4
+1.25 | 1.499999 | B3/B- | 0.10799900000000001 | -0.25
+1.5 | 1.749999 | B2/B | 0.089198 | -0.2
+1.75 | 1.999999 | B1/B+ | 0.08463100000000001 | -0.2
+2 | 2.2499999 | Ba2/BB | 0.075495 | -0.2
+2.25 | 2.49999 | Ba1/BB+ | 0.070928 | -0.2
+2.5 | 2.999999 | Baa2/BBB | 0.068213 | -0.1
+3 | 4.249999 | A3/A- | 0.065972 | -0.02
+4.25 | 5.499999 | A2/A | 0.064851 | 0
+5.5 | 6.499999 | A1/A+ | 0.06410300000000001 | 0
+6.5 | 8.499999 | Aa2/AA | 0.06260600000000001 | 0
+8.5 | 100000 | Aaa/AAA | 0.0611 | 0
+
+Sheet: Marginal tax rate by country
+Country | Corporate Tax Rate
+Aruba | 0.22
+Afghanistan | 0.2
+Angola | 0.25
+Anguilla | 0
+Aland Islands | 0.2
+Albania | 0.15
+Andorra | 0.1
+United Arab Emirates | 0.09
+Argentina | 0.35
+Armenia | 0.18
+American Samoa | 0.34
+Antigua and Barbuda | 0.25
+Australia | 0.3
+Austria | 0.23
+Azerbaijan | 0.2
+Burundi | 0.3
+Belgium | 0.25
+Benin | 0.3
+Bonaire, Sint Eustatius and Saba | 0.258
+Burkina Faso | 0.275
+Bangladesh | 0.275
+Bulgaria | 0.1
+Bahrain | 0
+Bahamas | 0
+Bosnia and Herzegovina | 0.1
+Saint Barthelemy | 0
+Belarus | 0.25
+Belize | 0
+Bermuda | 0
+Plurinational State of Bolivia | 0.25
+Brazil | 0.34
+Barbados | 0.09
+Brunei Darussalam | 0.185
+Bhutan | 0.25
+Botswana | 0.22
+Central African Republic | 0.3
+Canada | 0.2614
+Switzerland | 0.1961
+Chile | 0.27
+China | 0.25
+Cote d'Ivoire | 0.25
+Cameroon | 0.33
+Democratic Republic of the Congo | 0.3
+Congo | 0.28
+Cook Islands | 0.2
+Colombia | 0.35
+Comoros | 0.5
+Cabo Verde | 0.21420000000000003
+Costa Rica | 0.3
+Cuba | 0.35
+Curacao | 0.22
+Cayman Islands | 0
+Cyprus | 0.125
+Czechia | 0.21
+Germany | 0.2993
+Djibouti | 0.25
+Dominica | 0.25
+Denmark | 0.22
+Dominican Republic | 0.27
+Algeria | 0.26
+Ecuador | 0.25
+Egypt | 0.225
+Eritrea | 0.3
+Spain | 0.25
+Estonia | 0.2
+Ethiopia | 0.3
+Finland | 0.2
+Fiji | 0.25
+Falkland Islands (Malvinas) | 0.26
+France | 0.2583
+Faroe Islands | 0.18
+Federated States of Micronesia | 0.3
+Gabon | 0.3
+United Kingdom of Great Britain and Northern Ireland | 0.25
+Georgia | 0.15
+Guernsey | 0
+Ghana | 0.25
+Gibraltar | 0.15
+Guinea | 0.25
+Gambia | 0.27
+Guinea-Bissau | 0.25
+Equatorial Guinea | 0.35
+Greece | 0.22
+Grenada | 0.28
+Greenland | 0.265
+Guatemala | 0.25
+Guam | 0.21
+Guyana | 0.25
+China, Hong Kong Special Administrative Region | 0.165
+Honduras | 0.3
+Croatia | 0.18
+Haiti | 0.3
+Hungary | 0.09
+Indonesia | 0.22
+Isle of Man | 0
+India | 0.3
+Ireland | 0.125
+Islamic Republic of Iran | 0.25
+Iraq | 0.15
+Iceland | 0.21
+Israel | 0.23
+Italy | 0.2781
+Jamaica | 0.25
+Jersey | 0
+Jordan | 0.2
+Japan | 0.2974
+Kazakhstan | 0.2
+Kenya | 0.3
+Kyrgyzstan | 0.1
+Cambodia | 0.2
+Kiribati | 0.3
+Saint Kitts and Nevis | 0.33
+Republic of Korea | 0.264
+Kuwait | 0.15
+Lao People's Democratic Republic | 0.2
+Lebanon | 0.17
+Liberia | 0.25
+Libya | 0.2
+Saint Lucia | 0.3
+Liechtenstein | 0.125
+Sri Lanka | 0.3
+Lesotho | 0.25
+Lithuania | 0.15
+Luxembourg | 0.2494
+Latvia | 0.2
+China, Macao Special Administrative Region | 0.12
+Saint Martin (French Part) | 0.2
+Morocco | 0.33
+Monaco | 0.25
+Republic of Moldova | 0.12
+Madagascar | 0.2
+Maldives | 0.15
+Mexico | 0.3
+The former Yugoslav Republic of Macedonia | 0.1
+Mali | 0.3
+Malta | 0.35
+Myanmar | 0.22
+Montenegro | 0.15
+Mongolia | 0.25
+Northern Mariana Islands | 0.21
+Mozambique | 0.32
+Mauritania | 0.25
+Montserrat | 0.3
+Mauritius | 0.15
+Malawi | 0.3
+Malaysia | 0.24
+Namibia | 0.32
+New Caledonia | 0.3
+Niger | 0.3
+Nigeria | 0.3
+Nicaragua | 0.3
+Niue | 0.3
+Netherlands | 0.258
+Norway | 0.22
+Nepal | 0.25
+Nauru | 0.25
+New Zealand | 0.28
+Oman | 0.15
+Pakistan | 0.29
+Panama | 0.25
+Peru | 0.295
+Philippines | 0.25
+Papua New Guinea | 0.3
+Poland | 0.19
+Puerto Rico | 0.375
+Portugal | 0.315
+Paraguay | 0.1
+State of Palestine | 0.15
+French Polynesia | 0.25
+Qatar | 0.1
+Romania | 0.16
+Russian Federation | 0.2
+Rwanda | 0.28
+Saudi Arabia | 0.2
+Sudan | 0.35
+Senegal | 0.3
+Singapore | 0.17
+Saint Helena | 0.25
+Solomon Islands | 0.3
+Sierra Leone | 0.25
+El Salvador | 0.3
+San Marino | 0.17
+Serbia | 0.15
+South Sudan | 0.3
+Sao Tome and Principe | 0.25
+Suriname | 0.36
+Slovakia | 0.21
+Slovenia | 0.22
+Sweden | 0.20600000000000002
+Swaziland | 0.25
+Sint Maarten (Dutch part) | 0.345
+Seychelles | 0.25
+Syrian Arab Republic | 0.25
+Turks and Caicos Islands | 0
+Chad | 0.35
+Togo | 0.27
+Thailand | 0.2
+Tajikistan | 0.18
+Tokelau | 0
+Turkmenistan | 0.08
+Timor-Leste | 0.1
+Tonga | 0.25
+Trinidad and Tobago | 0.3
+Tunisia | 0.15
+Turkey | 0.25
+Taiwan | 0.2
+United Republic of Tanzania | 0.3
+Uganda | 0.3
+Ukraine | 0.18
+Uruguay | 0.25
+United States of America | 0.2563
+Uzbekistan | 0.15
+Saint Vincent and the Grenadines | 0.28
+Bolivarian Republic of Venezuela | 0.34
+British Virgin Islands | 0
+United States Virgin Islands | 0.231
+Viet Nam | 0.2
+Vanuatu | 0
+Wallis and Futuna Islands | 0
+Samoa | 0.27
+Kosovo | 0.1
+Yemen | 0.2
+South Africa | 0.27
+Zambia | 0.3
+Zimbabwe | 0.24719999999999998
+Tokelau | 0
+Tonga | 0.25
+Trinidad and Tobago | 0.3
+Tunisia | 0.25
+Turkey | 0.22
+Turkmenistan | 0.08
+Turks and Caicos Islands | 0
+Tuvalu | NA
+Uganda | 0.3
+Ukraine | 0.18
+United Arab Emirates | 0
+United Kingdom of Great Britain and Northern Ireland | 0.19
+United Republic of Tanzania | 0.3
+United States Minor Outlying Islands | NA
+United States of America | 0.25886140999999996
+United States Virgin Islands | 0.231
+Uruguay | 0.25
+Uzbekistan | 0.12
+Vanuatu | 0
+Venezuela (Bolivarian Republic of) | 0.34
+Viet Nam | 0.2
+Wallis and Futuna Islands | 0
+Western Sahara | NA
+Yemen | 0.2
+Zambia | 0.35
+Zimbabwe | 0.2575
+
+Sheet: Operating leases
+Operating Lease Converter
+Operating lease expenses are really financial expenses, and should be treated as such. Accounting standards allow them to
+be treated as operating expenses. This program will convert commitments to make operating leases into debt and
+adjust the operating income accordingly, by adding back the imputed interest expense on this debt.
+Inputs
+Operating lease expense in current year = | 269
+Operating Lease Commitments (From footnote to financials)
+Year | Commitment | ! Year 1 is next year, ….
+1 | 277
+2 | 284
+3 | 272
+4 | 256
+5 | 220
+6 and beyond | 1131
+Pre-tax Cost of Debt = | 0.069 | ! If you do not have a cost of debt, use the attached ratings estimator
+From the current financial statements, enter the following
+Reported Operating Income (EBIT) = | 6567 | ! This is the EBIT reported in the current income statement
+Reported Interest Expenses = | 1653
+Output
+Number of years embedded in yr 6 estimate = | 4 | ! I use the average lease expense over the first five years
+to estimate the number of years of expenses in yr 6
+Converting Operating Leases into debt
+Year | Commitment | Present Value
+1 | 277 | 259.1206735266604
+2 | 284 | 248.52090682128636
+3 | 272 | 222.65671041578244
+4 | 256 | 196.03298116175202
+5 | 220 | 157.59199549661426
+6 and beyond | 282.75 | 687.6025690423635 | ! Commitment beyond year 6 converted into an annuity for ten years
+Debt Value of leases = | 1771.525836464459
+Restated Financials
+Operating Income with Operating leases reclassified as debt = | 6639.163795948393
+Interest expenses with Operating leases classified as debt = | 1775.2352827160478
+Depreciation with operating leases classified as debt = | 5396.836204051607
+
+Sheet: Default Spreads and Ratios
+Inputs for synthetic rating estimation
+Enter the type of firm = | 1 | (Enter 1 if  safe & large market cap firm, 2 if risky or small market cap firm, 3 I inflrastructure company or utility)
+Earnings before interest and taxes (EBIT) = | 6567 | (Add back only long term interest expense for financial firms)
+Current interest expenses = | 1653 | (Use only long term interest expense for financial firms)
+Current riskfree rate = | 0.039
+Output
+Interest  coverage ratio = | 3.972776769509982
+Estimated Bond Rating = | A3/A-
+Estimated Default Spread = | 0.026972000000000003
+Estimated Cost of Debt = | 0.065972
+For large non-financial service firms
+If interest coverage ratio is
+> | ≤ to | Rating is | Spread is | Drop in EBITDA | Rating is | Spread is
+-100000 | 0.199999 | D2/D | 0.19 | -0.5 | A1/A+ | 0.0070030000000000005
+0.2 | 0.649999 | C2/C | 0.16 | -0.4 | A2/A | 0.007751000000000001
+0.65 | 0.799999 | Ca2/CC | 0.126101 | -0.4 | A3/A- | 0.008872
+0.8 | 1.249999 | Caa/CCC | 0.0885 | -0.4 | Aa2/AA | 0.0055060000000000005
+1.25 | 1.499999 | B3/B- | 0.050899 | -0.25 | Aaa/AAA | 0.004
+1.5 | 1.749999 | B2/B | 0.032098 | -0.2 | B1/B+ | 0.027531
+1.75 | 1.999999 | B1/B+ | 0.027531 | -0.2 | B2/B | 0.032098
+2 | 2.2499999 | Ba2/BB | 0.018394999999999998 | -0.2 | B3/B- | 0.050899
+2.25 | 2.49999 | Ba1/BB+ | 0.013828 | -0.2 | Ba1/BB+ | 0.013828
+2.5 | 2.999999 | Baa2/BBB | 0.011113 | -0.1 | Ba2/BB | 0.018394999999999998
+3 | 4.249999 | A3/A- | 0.008872 | -0.02 | Baa2/BBB | 0.011113
+4.25 | 5.499999 | A2/A | 0.007751000000000001 | 0 | C2/C | 0.16
+5.5 | 6.499999 | A1/A+ | 0.0070030000000000005 | 0 | Ca2/CC | 0.126101
+6.5 | 8.499999 | Aa2/AA | 0.0055060000000000005 | 0 | Caa/CCC | 0.0885
+8.5 | 100000 | Aaa/AAA | 0.004 | 0 | D2/D | 0.19
+For smaller and riskier non-financial service firms
+If interest coverage ratio is
+greater than | ≤ to | Rating is | Spread is | Drop in EBITDA
+-100000 | 0.499999 | D2/D | 0.19 | -0.5
+0.5 | 0.799999 | C2/C | 0.16 | -0.4
+0.8 | 1.249999 | Ca2/CC | 0.126101 | -0.4
+1.25 | 1.499999 | Caa/CCC | 0.0885 | -0.4
+1.5 | 1.999999 | B3/B- | 0.050899 | -0.25
+2 | 2.499999 | B2/B | 0.032098 | -0.2
+2.5 | 2.999999 | B1/B+ | 0.027531 | -0.2
+3 | 3.499999 | Ba2/BB | 0.018394999999999998 | -0.2
+3.5 | 3.9999999 | Ba1/BB+ | 0.013828 | -0.2
+4 | 4.499999 | Baa2/BBB | 0.011113 | -0.1
+4.5 | 5.999999 | A3/A- | 0.008872 | -0.02
+6 | 7.499999 | A2/A | 0.007751000000000001 | 0
+7.5 | 9.499999 | A1/A+ | 0.0070030000000000005 | 0
+9.5 | 12.499999 | Aa2/AA | 0.0055060000000000005 | 0
+12.5 | 100000 | Aaa/AAA | 0.004 | 0
+For infrastructure companies/Utilities
+greater than | ≤ to | Rating is | Spread is | Drop in EBITDA
+-100000 | 0.199999 | D2/D | 0.19 | -0.5
+0.2 | 0.499999 | C2/C | 0.155 | -0.4
+0.5 | 0.749999 | Ca2/CC | 0.101 | -0.4
+0.75 | 0.999999 | Caa/CCC | 0.0728 | -0.4
+1 | 1.199999 | B3/B- | 0.0442 | -0.25
+1.2 | 1.399999 | B2/B | 0.03 | -0.2
+1.4 | 1.599999 | B1/B+ | 0.0261 | -0.2
+1.6 | 1.799999 | Ba2/BB | 0.0183 | -0.2
+1.8 | 1.999999 | Ba1/BB+ | 0.0155 | -0.2
+2 | 2.249999 | Baa2/BBB | 0.012 | -0.1
+2.25 | 2.999999 | A3/A- | 0.0095 | -0.02
+3 | 3.499999 | A2/A | 0.0085 | 0
+3.5 | 3.999999 | A1/A+ | 0.0077 | 0
+4 | 4.49999 | Aa2/AA | 0.006 | 0
+4.5 | 100000 | Aaa/AAA | 0.0045 | 0
+
+Sheet: ERP Calculator
+If you are a multinational company and have a breakdown by country, you can use this table (for up to 10 countries)
+Country | Revenues | ERP | Weight | Weighted ERP
+China | 800 | 0.0514 | 0.6153846153846154 | 0.03163076923076923 | The last two rows in each of country/regiion risk premium tables is set aside for your input to provide you with flexibility to enter some numbers directly. For instance, assume that you have a company that breaks its revenues down into three countries and then puts the rest into "Rest of the World". You can enter the "Rest of the World" in one of these two rows and enter an equity risk premium for the rest of the world. The easiest way to do that is to go into the country equity risk premium worksheet and change the GDP for the three countries that you have data for to zero and compute the global weighted average ERP for the remaining countries. With the regional worksheet, you can use the last two rows to enter the data for an individual country (usually the domestic country) that might be broken out though the rest of the revenues are broken down by region. You can look up the ERP for the country in the country ERP worksheet.
+India | 500 | 0.0708 | 0.38461538461538464 | 0.027230769230769232
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0 | 0
+0 | 0
+0 | 0
+Total | 1300 | 1 | 0.058861538461538465
+If you are a multinational company and have a breakdown only by region, you can use this table instead
+Region | Revenues | ERP | Weight | Weighted ERP
+Africa | 0.11949308050536839 | 0 | 0
+Asia | 11 | 0.057223235648452254 | 0.11 | 0.006294555921329748
+Australia & New Zealand | 0.04234082173200421 | 0 | 0
+Caribbean | 0.117176823349771 | 0 | 0
+Central and South America | 5 | 0.08462849620618983 | 0.05 | 0.0042314248103094915
+Eastern Europe | 0.07577709101845075 | 0 | 0
+Middle East | 0.0623668644036819 | 0 | 0
+North America | 72 | 0.04446474878479404 | 0.72 | 0.032014619125051706
+Western Europe | 12 | 0.052665467678857734 | 0.12 | 0.006319856121462928
+0 | 0.0776 | 0 | 0
+0 | 0
+Total | 100 | 1 | 0.048860455978153874
+
+Sheet: Country ERP 
+Mature Market ERP + | 0.0423 | Updated January 1, 2026
+Changing this number will update all your country equity risk premiums.
+Country | Moody's rating | Adj. Default Spread | Equity Risk Premium | Country Risk Premium | Corporate Tax Rate
+Abu Dhabi | Aa2 | 0.0042 | 0.0487 | 0.0064 | 0.09
+Albania | Ba3 | 0.0306 | 0.0889 | 0.0466 | 0.15
+Algeria | NR | 0.0383 | 0.1006 | 0.0583 | 0.1007
+Andorra (Principality of) | Baa1 | 0.0136 | 0.063 | 0.0207 | 0.1
+Angola | B3 | 0.0552 | 0.12639999999999998 | 0.0841 | 0.25
+Anguilla | NR | 0.04915183026184869 | 0.117176823349771 | 0.074876823349771 | 0.2652654754337485
+Antigua & Barbuda | NR | 0.027785941866780777 | 0.08462849620618983 | 0.04232849620618983 | 0.31546691365656965
+Argentina | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.35
+Armenia | Ba3 | 0.0306 | 0.0889 | 0.0466 | 0.18
+Aruba | Baa3 | 0.0187 | 0.0708 | 0.0285 | 0.22
+Australia | Aaa | 0 | 0.0423 | 0 | 0.3
+Austria | Aa1 | 0.0023 | 0.045899999999999996 | 0.0036 | 0.23
+Azerbaijan | Baa3 | 0.0187 | 0.0708 | 0.0285 | 0.2
+Bahamas | B1 | 0.0383 | 0.1006 | 0.0583 | 0
+Bahrain | B2 | 0.0467 | 0.11349999999999999 | 0.0712 | 0
+Bangladesh | B2 | 0.0467 | 0.11349999999999999 | 0.0712 | 0.275
+Barbados | B2 | 0.0467 | 0.11349999999999999 | 0.0712 | 0.09
+Belarus | C | 0.175 | 0.3089 | 0.2666 | 0.25
+Belgium | Aa3 | 0.0051 | 0.0501 | 0.0078 | 0.25
+Belize | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0
+Benin | B1 | 0.0383 | 0.1006 | 0.0583 | 0.3
+Bermuda | A2 | 0.0072 | 0.0533 | 0.011 | 0
+Bolivia | Ca | 0.102 | 0.19770000000000001 | 0.1554 | 0.25
+Bosnia and Herzegovina | B3 | 0.0552 | 0.12639999999999998 | 0.0841 | 0.1
+Botswana | Baa1 | 0.0136 | 0.063 | 0.0207 | 0.22
+Brazil | Ba1 | 0.0213 | 0.07469999999999999 | 0.0324 | 0.34
+British Virgin Islands | NR | 0.04915183026184869 | 0.117176823349771 | 0.074876823349771 | 0.2652654754337485
+Brunei | NR | 0.0051 | 0.0501 | 0.0078 | 0.0502
+Bulgaria | Baa1 | 0.0136 | 0.063 | 0.0207 | 0.1
+Burkina Faso | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.275
+Cambodia | B2 | 0.0467 | 0.11349999999999999 | 0.0712 | 0.2
+Cameroon | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.33
+Canada | Aaa | 0 | 0.0423 | 0 | 0.2614
+Cape Verde | B2 | 0.0467 | 0.11349999999999999 | 0.0712 | 0.2686
+Cayman Islands | NR | 0.0051 | 0.0501 | 0.0078 | 0
+Channel Islands | NR | 0.006804264459189996 | 0.052665467678857734 | 0.010365467678857737 | 0.25557231156583926
+Chile | A2 | 0.0072 | 0.0533 | 0.011 | 0.27
+China | A1 | 0.006 | 0.0514 | 0.0091 | 0.25
+Colombia | Baa3 | 0.0187 | 0.0708 | 0.0285 | 0.35
+Congo (Democratic Republic of) | B3 | 0.0552 | 0.12639999999999998 | 0.0841 | 0.3
+Congo (Republic of) | Caa2 | 0.0765 | 0.15889999999999999 | 0.1166 | 0.2686
+Cook Islands | B1 | 0.0383 | 0.1006 | 0.0583 | 0.2
+Costa Rica | Ba2 | 0.0256 | 0.0813 | 0.039 | 0.3
+Croatia | A3 | 0.0102 | 0.0578 | 0.0155 | 0.18
+Cuba | Ca | 0.102 | 0.19770000000000001 | 0.1554 | 0.35
+Curaçao | NR | 0.027785941866780777 | 0.08462849620618983 | 0.04232849620618983 | 0.31546691365656965
+Cyprus | A3 | 0.0102 | 0.0578 | 0.0155 | 0.125
+Czech Republic | Aa3 | 0.0051 | 0.0501 | 0.0078 | 0.21
+Denmark | Aaa | 0 | 0.0423 | 0 | 0.22
+Dominican Republic | Ba2 | 0.0256 | 0.0813 | 0.039 | 0.27
+Ecuador | Caa3 | 0.085 | 0.1718 | 0.1295 | 0.25
+Egypt | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.225
+El Salvador | B3 | 0.0552 | 0.12639999999999998 | 0.0841 | 0.3
+Estonia | A1 | 0.006 | 0.0514 | 0.0091 | 0.2
+Ethiopia | Caa2 | 0.0765 | 0.15889999999999999 | 0.1166 | 0.3
+Falkland Islands | NR | 0.027785941866780777 | 0.08462849620618983 | 0.04232849620618983 | 0.31546691365656965
+Fiji | B1 | 0.0383 | 0.1006 | 0.0583 | 0.25
+Finland | Aa1 | 0.0023 | 0.045899999999999996 | 0.0036 | 0.2
+France | Aa3 | 0.0051 | 0.0501 | 0.0078 | 0.2583
+French Guiana | NR | 0.027785941866780777 | 0.08462849620618983 | 0.04232849620618983 | 0.31546691365656965
+Gabon | Caa2 | 0.0765 | 0.15889999999999999 | 0.1166 | 0.3
+Gambia | NR | 0.0467 | 0.11349999999999999 | 0.0712 | 0.1136
+Georgia | Ba2 | 0.0256 | 0.0813 | 0.039 | 0.15
+Germany | Aaa | 0 | 0.0423 | 0 | 0.2993
+Ghana | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.25
+Gibraltar | NR | 0.006804264459189996 | 0.052665467678857734 | 0.010365467678857737 | 0.25557231156583926
+Greece | Baa3 | 0.0187 | 0.0708 | 0.0285 | 0.22
+Greenland | Aaa | 0 | 0.0423 | 0 | 0.22
+Guatemala | Ba1 | 0.0213 | 0.07469999999999999 | 0.0324 | 0.25
+Guernsey (States of) | A1 | 0.006 | 0.0514 | 0.0091 | 0
+Guinea | NR | 0.0765 | 0.15889999999999999 | 0.1166 | 0.159
+Guinea-Bissau | NR | 0.0637 | 0.1394 | 0.0971 | 0.1395
+Guyana | NR | 0.0136 | 0.063 | 0.0207 | 0.0631
+Haiti | NR | 0.085 | 0.1718 | 0.1295 | 0.1719
+Honduras | B1 | 0.0383 | 0.1006 | 0.0583 | 0.3
+Hong Kong | Aa3 | 0.0051 | 0.0501 | 0.0078 | 0.165
+Hungary | Baa2 | 0.0162 | 0.0669 | 0.0246 | 0.09
+Iceland | A1 | 0.006 | 0.0514 | 0.0091 | 0.21
+India | Baa3 | 0.0187 | 0.0708 | 0.0285 | 0.3
+Indonesia | Baa2 | 0.0162 | 0.0669 | 0.0246 | 0.22
+Iran | NR | 0.0637 | 0.1394 | 0.0971 | 0.1395
+Iraq | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.15
+Ireland | Aa3 | 0.0051 | 0.0501 | 0.0078 | 0.125
+Isle of Man | Aa3 | 0.0051 | 0.0501 | 0.0078 | 0
+Israel | Baa1 | 0.0136 | 0.063 | 0.0207 | 0.23
+Italy | Baa2 | 0.0162 | 0.0669 | 0.0246 | 0.2781
+Ivory Coast | Ba2 | 0.0256 | 0.0813 | 0.039 | 0.25
+Jamaica | Ba3 | 0.0306 | 0.0889 | 0.0466 | 0.25
+Japan | A1 | 0.006 | 0.0514 | 0.0091 | 0.2974
+Jersey (States of) | Aa3 | 0.0051 | 0.0501 | 0.0078 | 0
+Jordan | Ba3 | 0.0306 | 0.0889 | 0.0466 | 0.2
+Kazakhstan | Baa1 | 0.0136 | 0.063 | 0.0207 | 0.2
+Kenya | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.3
+Korea, D.P.R. | NR | 0.102 | 0.19770000000000001 | 0.1554 | 0.1978
+Kuwait | A1 | 0.006 | 0.0514 | 0.0091 | 0.15
+Kyrgyzstan | B3 | 0.0552 | 0.12639999999999998 | 0.0841 | 0.1
+Laos | Caa2 | 0.0765 | 0.15889999999999999 | 0.1166 | 0.2
+Latvia | A3 | 0.0102 | 0.0578 | 0.0155 | 0.2
+Lebanon | C | 0.175 | 0.3089 | 0.2666 | 0.17
+Liberia | NR | 0.0765 | 0.15889999999999999 | 0.1166 | 0.159
+Libya | NR | 0.0256 | 0.0813 | 0.039 | 0.0814
+Liechtenstein | Aaa | 0 | 0.0423 | 0 | 0.125
+Lithuania | A2 | 0.0072 | 0.0533 | 0.011 | 0.15
+Luxembourg | Aaa | 0 | 0.0423 | 0 | 0.2494
+Macau | Aa3 | 0.0051 | 0.0501 | 0.0078 | 0.25
+Macedonia | Ba3 | 0.0306 | 0.0889 | 0.0466 | 0.1
+Madagascar | NR | 0.0552 | 0.12639999999999998 | 0.0841 | 0.1265
+Malawi | NR | 0.085 | 0.1718 | 0.1295 | 0.1719
+Malaysia | A3 | 0.0102 | 0.0578 | 0.0155 | 0.24
+Maldives | Caa2 | 0.0765 | 0.15889999999999999 | 0.1166 | 0.15
+Mali | Caa2 | 0.0765 | 0.15889999999999999 | 0.1166 | 0.3
+Malta | A2 | 0.0072 | 0.0533 | 0.011 | 0.35
+Martinique | NR | 0.04915183026184869 | 0.117176823349771 | 0.074876823349771 | 0.2652654754337485
+Mauritius | Baa3 | 0.0187 | 0.0708 | 0.0285 | 0.15
+Mexico | Baa2 | 0.0162 | 0.0669 | 0.0246 | 0.3
+Moldova | B3 | 0.0552 | 0.12639999999999998 | 0.0841 | 0.12
+Monaco | NR | 0 | 0.0423 | 0 | 0.2
+Mongolia | B1 | 0.0383 | 0.1006 | 0.0583 | 0.25
+Montenegro | B1 | 0.0383 | 0.1006 | 0.0583 | 0.15
+Montserrat | Baa3 | 0.0187 | 0.0708 | 0.0285 | 0.3
+Morocco | Ba1 | 0.0213 | 0.07469999999999999 | 0.0324 | 0.33
+Mozambique | Caa3 | 0.085 | 0.1718 | 0.1295 | 0.32
+Myanmar | NR | 0.102 | 0.19770000000000001 | 0.1554 | 0.1978
+Namibia | B1 | 0.0383 | 0.1006 | 0.0583 | 0.32
+Nepal | Ba3 | 0.0306 | 0.0889 | 0.0466 | 0.25
+Netherlands | Aaa | 0 | 0.0423 | 0 | 0.258
+Netherlands Antilles | NR | 0.04915183026184869 | 0.117176823349771 | 0.074876823349771 | 0.2652654754337485
+New Zealand | Aaa | 0 | 0.0423 | 0 | 0.28
+Nicaragua | B2 | 0.0467 | 0.11349999999999999 | 0.0712 | 0.3
+Niger | Caa3 | 0.085 | 0.1718 | 0.1295 | 0.3
+Nigeria | B3 | 0.0552 | 0.12639999999999998 | 0.0841 | 0.3
+Norway | Aaa | 0 | 0.0423 | 0 | 0.22
+Oman | Baa3 | 0.0187 | 0.0708 | 0.0285 | 0.15
+Pakistan | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.29
+Palestinian Authority | NR | 0.013172608945359637 | 0.0623668644036819 | 0.020066864403681904 | 0.1612022550597852
+Panama | Baa3 | 0.0187 | 0.0708 | 0.0285 | 0.25
+Papua New Guinea | B2 | 0.0467 | 0.11349999999999999 | 0.0712 | 0.3
+Paraguay | Baa3 | 0.0187 | 0.0708 | 0.0285 | 0.1
+Peru | Baa1 | 0.0136 | 0.063 | 0.0207 | 0.295
+Philippines | Baa2 | 0.0162 | 0.0669 | 0.0246 | 0.25
+Poland | A2 | 0.0072 | 0.0533 | 0.011 | 0.19
+Portugal | A3 | 0.0102 | 0.0578 | 0.0155 | 0.315
+Qatar | Aa2 | 0.0042 | 0.0487 | 0.0064 | 0.1
+Ras Al Khaimah (Emirate of) | A3 | 0.0102 | 0.0578 | 0.0155 | 0.1894
+Reunion | NR | 0.05067230446817149 | 0.11949308050536839 | 0.07719308050536838 | 0.27390173905276305
+Romania | Baa3 | 0.0187 | 0.0708 | 0.0285 | 0.16
+Russia | NR | 0.0256 | 0.0813 | 0.039 | 0.0814
+Rwanda | B2 | 0.0467 | 0.11349999999999999 | 0.0712 | 0.28
+Saint Lucia | NR | 0.04915183026184869 | 0.117176823349771 | 0.074876823349771 | 0.2652654754337485
+Saudi Arabia | Aa3 | 0.0051 | 0.0501 | 0.0078 | 0.2
+Senegal | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.3
+Serbia | Ba2 | 0.0256 | 0.0813 | 0.039 | 0.15
+Sharjah | Ba1 | 0.0213 | 0.07469999999999999 | 0.0324 | 0.1894
+Sierra Leone | NR | 0.0552 | 0.12639999999999998 | 0.0841 | 0.1265
+Singapore | Aaa | 0 | 0.0423 | 0 | 0.17
+Slovakia | A3 | 0.0102 | 0.0578 | 0.0155 | 0.21
+Slovenia | A3 | 0.0102 | 0.0578 | 0.0155 | 0.22
+Solomon Islands | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.3
+Somalia | NR | 0.085 | 0.1718 | 0.1295 | 0.1719
+South Africa | Ba2 | 0.0256 | 0.0813 | 0.039 | 0.27
+South Korea | Aa2 | 0.0042 | 0.0487 | 0.0064 | 0.264
+Spain | A3 | 0.0102 | 0.0578 | 0.0155 | 0.25
+Sri Lanka | Ca | 0.102 | 0.19770000000000001 | 0.1554 | 0.3
+St. Maarten | Ba2 | 0.0256 | 0.0813 | 0.039 | 0.2
+St. Vincent & the Grenadines | B3 | 0.0552 | 0.12639999999999998 | 0.0841 | 0.28
+Sudan | NR | 0.175 | 0.3089 | 0.2666 | 0.309
+Suriname | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.36
+Swaziland | B2 | 0.0467 | 0.11349999999999999 | 0.0712 | 0.25
+Sweden | Aaa | 0 | 0.0423 | 0 | 0.206
+Switzerland | Aaa | 0 | 0.0423 | 0 | 0.1961
+Syria | NR | 0.102 | 0.19770000000000001 | 0.1554 | 0.1978
+Taiwan | Aa3 | 0.0051 | 0.0501 | 0.0078 | 0.2
+Tajikistan | B3 | 0.0552 | 0.12639999999999998 | 0.0841 | 0.18
+Tanzania | B1 | 0.0383 | 0.1006 | 0.0583 | 0.3
+Thailand | Baa1 | 0.0136 | 0.063 | 0.0207 | 0.2
+Togo | B3 | 0.0552 | 0.12639999999999998 | 0.0841 | 0.27
+Trinidad &' Tobago | Ba2 | 0.0256 | 0.0813 | 0.039 | 0.3
+Tunisia | Caa1 | 0.0637 | 0.1394 | 0.0971 | 0.15
+Turkey | B1 | 0.0383 | 0.1006 | 0.0583 | 0.25
+Turks & Caicos Islands | NR | 0.04915183026184869 | 0.117176823349771 | 0.074876823349771 | 0.2652654754337485
+Uganda | B3 | 0.0552 | 0.12639999999999998 | 0.0841 | 0.3
+Ukraine | Ca | 0.102 | 0.19770000000000001 | 0.1554 | 0.18
+United Arab Emirates | Aa2 | 0.0042 | 0.0487 | 0.0064 | 0.09
+United Kingdom | Aa3 | 0.0051 | 0.0501 | 0.0078 | 0.25
+United States | Aa1 | 0.0023 | 0.0446 | 0.0023 | 0.25
+Uruguay | Baa1 | 0.0136 | 0.063 | 0.0207 | 0.25
+Uzbekistan | Ba3 | 0.0306 | 0.0889 | 0.0466 | 0.15
+Venezuela | C | 0.175 | 0.3089 | 0.2666 | 0.34
+Vietnam | Ba2 | 0.0256 | 0.0813 | 0.039 | 0.2
+Yemen | NR | 0.102 | 0.19770000000000001 | 0.1554 | 0.1978
+Zambia | Caa2 | 0.0765 | 0.15889999999999999 | 0.1166 | 0.3
+Zimbabwe | NR | 0.0765 | 0.15889999999999999 | 0.1166 | 0.159
+Region | ERP | Weighted Average: Default Spread | Tax Rate | Weighted Average: CRP | Total GDP (in $ millions)
+Africa | 0.11949308050536839 | 0.05067230446817149 | 0.27390173905276305 | 0.07719308050536838 | 2340875.22920722
+Asia | 0.057223235648452254 | 0.009796146694470292 | 0.25654534735852497 | 0.014923235648452259 | 34731689.374811396
+Australia & New Zealand | 0.04234082173200421 | 2.6796847845597547e-05 | 0.29735221227379716 | 4.0821732004207806e-05 | 2018608.836750448
+Caribbean | 0.117176823349771 | 0.04915183026184869 | 0.2652654754337485 | 0.074876823349771 | 347814.1324698501
+Central and South America | 0.08462849620618983 | 0.027785941866780777 | 0.31546691365656965 | 0.04232849620618983 | 6538486.855845697
+Eastern Europe | 0.07577709101845075 | 0.021975562287317348 | 0.17637480027426933 | 0.03347709101845075 | 3491477.193139935
+Middle East | 0.0623668644036819 | 0.013172608945359637 | 0.1612022550597852 | 0.020066864403681904 | 3565018.312473313
+North America | 0.04446474878479404 | 0.0021647487847940407 | 0.25082522328519713 | 0.0021647487847940407 | 30994592.95736496
+Western Europe | 0.052665467678857734 | 0.006804264459189996 | 0.25557231156583926 | 0.010365467678857737 | 23561725.635146514
+Global | 0.05625707330046291 | 0.009376176752184568 | 0.25367576019974325 | 0.013957073300462912 | 107590288.52720933
+ERP | Default Spread | Tax rate | CRP
+Africa & Mid East | 0.08491484948674607 | 0.028036085188648738 | 0.20587211383081347 | 0.042614849486746084
+Australia, NZ & Canada | 0.0423192903892356 | 1.2691045549737567e-05 | 0.27842704609921326 | 1.92903892356011e-05
+Latin America & Caribbean | 0.08617494101154734 | 0.02886509277075483 | 0.3129313332754861 | 0.04387494101154734
+Japan | 0.05140924819663502 | 0.005992926445154621 | 0.2974 | 0.009109248196635023
+US | 0.04584719233838787 | 0.002333679169992019 | 0.25 | 0.003547192338387869
+Europe | 0.052642481977968794 | 0.006804264459189996 | 0.25557231156583926 | 0.010342481977968793
+Emerging Markets | 0.06622434319976982 | 0.01573969947353278 | 0.2511014733202446 | 0.023924343199769823
+Small Asia (No India, China & Japan) | 0.06698520980036643 | 0.01624026960550423 | 0.2572634936183723 | 0.024685209800366432
+India | 0.07069049021284582 | 0.018677954087398564 | 0.3 | 0.028390490212845818
+China | 0.05140924819663502 | 0.005992926445154621 | 0.25 | 0.009109248196635023
+Global | 0.05655178866332054 | 0.009376176752184568 | 0.25367576019974325 | 0.014251788663320544
+For other regional groupings
+ERP | Default Spread | Tax rate | CRP
+EMEA | 0.0591112 | 0.01106 | 0.2486 | 0.016811200000000002
+
+Sheet: Repurchase price Worksheet
+Stock price buyback effect
+Current Stock price = | 100.3
+# Shares outstanding before buyback = | 1826.8195413758724
+Expected buyback price = | 67.71 | Enter this number
+Current Debt = | 44850.059963145584
+Debt at Optimal = | 45616.01199262912
+New Debt issued = | 765.9520294835384
+# Shares bought back = | 11.31224382637038
+Shares outstanding after buyback = | 1815.507297549502
+Enterprise value after buyback = | 218233.40818955714
+ + Cash | 11615
+ - Debt | 45616.01199262912
+Equity value after buyback  | 184232.39619692802
+/ Number of shares after buyback | 1815.507297549502
+Value per share for remaining shares | 101.4770893213139
+
+Sheet: Summary Table
+Debt Ratio | Beta | Cost of Equity | Bond Rating | Interest rate on debt | Tax Rate | Cost of Debt (after-tax) | Cost of Capital | Enterprise Value
+0 | 0.861791468261517 | 0.09596441605208628 | Aaa/AAA | 0.0611 | 0.25 | 0.045825000000000005 | 0.09596441605208628 | 215350.8480313889
+0.1 | 0.9336074239499766 | 0.10071145072309345 | Aaa/AAA | 0.0611 | 0.25 | 0.045825000000000005 | 0.09522280565078411 | 218191.44673472116
+0.2 | 1.0233773685605514 | 0.10664524406185244 | A3/A- | 0.065972 | 0.25 | 0.049479 | 0.09521199524948196 | 218233.40818955714
+0.3 | 1.1387958687741475 | 0.11427440692597116 | B1/B+ | 0.08463100000000001 | 0.25 | 0.06347325000000001 | 0.09903405984817981 | 204339.59214906534
+0.4 | 1.352913619600388 | 0.12842759025558564 | C2/C | 0.21710000000000002 | 0.1451722903518528 | 0.18558309576461277 | 0.1512897924591965 | 109247.10996226399
+0.5 | 1.6356273244025117 | 0.14711496614300604 | C2/C | 0.21710000000000002 | 0.10206136328774991 | 0.1949424780302295 | 0.17102872208661776 | 92914.14103350654
+0.6 | 2.0527538501726337 | 0.1746870294964111 | C2/C | 0.21710000000000002 | 0.0786925253788422 | 0.20001585274025338 | 0.18988432344271647 | 81302.91487231248
+0.7 | 2.7438809739402252 | 0.2203705323774489 | C2/C | 0.21710000000000002 | 0.06403136042274413 | 0.20319879165222227 | 0.20835031386979025 | 72437.62957452638
+0.8 | 4.144437916633337 | 0.3129473462894636 | D2/D | 0.24710000000000001 | 0.04772599600171604 | 0.235306906387976 | 0.2508349943682735 | 57909.86206510798
+0.9 | 8.29826796594114 | 0.5875155125487094 | D2/D | 0.24710000000000001 | 0.04121217621742873 | 0.2369164712566734 | 0.271976375385877 | 52654.84658739046
+Debt Ratio | $ Debt | Interest Expense | Interest Coverage Ratio | Bond Rating | Pre-tax cost of debt | Tax rate | After-tax cost of debt
+0 | 0 | 0 | ∞ | Aaa/AAA | 0.0611 | 0.25 | 0.045825000000000005
+0.1 | 22808.00599631456 | 730.5385582062464 | 9.317978881028559 | Aaa/AAA | 0.0611 | 0.25 | 0.045825000000000005
+0.2 | 45616.01199262912 | 1703.531387289088 | 3.9959010488062647 | A3/A- | 0.065972 | 0.25 | 0.049479
+0.3 | 68424.01798894367 | 3648.087641681318 | 1.8659482791388213 | B1/B+ | 0.08463100000000001 | 0.25 | 0.06347325000000001
+0.4 | 91232.02398525825 | 11722.52438920066 | 0.5806891614074112 | C2/C | 0.21710000000000002 | 0.1451722903518528 | 0.18558309576461277
+0.5 | 114040.02998157279 | 16674.142491000548 | 0.4082454531509997 | C2/C | 0.21710000000000002 | 0.10206136328774991 | 0.1949424780302295
+0.6 | 136848.03597788734 | 21625.760592800438 | 0.3147701015153689 | C2/C | 0.21710000000000002 | 0.0786925253788422 | 0.20001585274025338
+0.7 | 159656.0419742019 | 26577.378694600324 | 0.2561254416909764 | C2/C | 0.21710000000000002 | 0.06403136042274413 | 0.20319879165222227
+0.8 | 182464.0479705165 | 35657.41643662135 | 0.19090398400686404 | D2/D | 0.24710000000000001 | 0.04772599600171604 | 0.235306906387976
+0.9 | 205272.05396683104 | 41293.27471831068 | 0.1648487048697148 | D2/D | 0.24710000000000001 | 0.04121217621742873 | 0.2369164712566734
+Debt Ratio | Cost of Capital | Enterprise Value
+0 | 0.09596441605208628 | 215350.8480313889
+0.1 | 0.09522280565078411 | 218191.44673472116
+0.2 | 0.09521199524948196 | 218233.40818955714
+0.3 | 0.09903405984817981 | 204339.59214906534
+0.4 | 0.1512897924591965 | 109247.10996226399
+0.5 | 0.17102872208661776 | 92914.14103350654
+0.6 | 0.18988432344271647 | 81302.91487231248
+0.7 | 0.20835031386979025 | 72437.62957452638
+0.8 | 0.2508349943682735 | 57909.86206510798
+0.9 | 0.271976375385877 | 52654.84658739046
+
+Sheet: Input choices page
+Rating is | Yes/No | IBC | Type of firm | Earnings/Operating Measure
+Aaa/AAA | Yes | High | 1
+Aa2/AA | No | Medium | 2 | EBITDA
+A1/A+ | Low | 3 | EBIT
+A2/A
+A3/A-
+Baa2/BBB
+Ba1/BB+
+Ba2/BB
+B1/B+
+B2/B
+B3/B-
+Caa/CCC
+Ca2/CC
+C2/C
+D2/D
+Not rated
+Rating is | Low IBC | Medium |  High IBC
+D2/D | -0.3 | -0.5 | -1
+Caa/CCC | -0.25 | -0.4 | -0.5
+Ca2/CC | -0.25 | -0.4 | -0.5
+C2/C | -0.25 | -0.4 | -0.5
+B3/B- | -0.15 | -0.25 | -0.3
+B2/B | -0.1 | -0.2 | -0.25
+B1/B+ | -0.1 | -0.2 | -0.25
+Ba2/BB | -0.1 | -0.2 | -0.25
+Ba1/BB+ | -0.1 | -0.2 | -0.25
+Baa2/BBB | -0.05 | -0.1 | -0.15
+A3/A- | 0 | -0.02 | -0.05
+A2/A | 0 | 0 | -0.02
+A1/A+ | 0 | 0 | 0
+Aa2/AA | 0 | 0 | 0
+Aaa/AAA | 0 | 0 | 0

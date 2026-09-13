@@ -1,0 +1,152 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/UberIPO.pdf
+
+UBER: THE OTHER RIDE SHARING SHOE 
+DROPS ON PUBLIC MARKETS!
+Aswath Damodaran
+2
+The Uber Entrée!
+¨ The Lyft Preview: After Lyft’s IPO on March 29, 2019, it 
+was only a matter of time before Uber threw its hat in 
+the public market ring, and on Friday, April 12, 2019, the 
+company filed its prospectus. 
+¨ Public, without being public: It is the first time that this 
+company, which has been in the news more frequently 
+than almost any publicly traded company in the market, 
+has opened its books for investors, journalists and 
+curiosity seekers. 
+¨ Opening the books: As someone who has valued Uber 
+with the tidbits of information that have hitherto been 
+available about the company, mostly leaked and 
+unofficial, I am .
+3
+The Prospectus
+¨ It’s big and dense: To get a sense of where Uber stands 
+now, just ahead of its IPO, I started with the prospectus, 
+which weighing in at 285 pages, not counting 
+appendices, and filled with pages of details, can be 
+daunting. 
+¨ Disclosure’s dark side: It is a testimonial to how 
+information disclosure requirements have had the 
+perverse consequence of making the disclosures useless, 
+by drowning investors in data and meaningless legalese. 
+¤ I know that there are many who have latched on to the 
+statement that "we may not achieve profitability" that Uber 
+makes in the prospectus (on page 27) as an indication of its 
+worthlessness, but I view it more as evidence that lawyers 
+should never be allowed to write about investing risk.
+4
+The Business Spin! Personal Mobility? 
+Really?
+5
+Uber’s Growth Story
+6
+And its losses!
+7
+The Rider Numbers
+8
+Uber’s Expenses
+¨ User Acquisition costs: I computed the user acquisition cost each 
+year by dividing the selling expenses by the number of riders added 
+during the year .
+¨ Operating Expenses for Existing Rides: I have included the cost of 
+revenues (not including depreciation) and operations and support 
+as expenses associated with current riders.
+¨ Corporate Expenses; These are expenses that I assume are general 
+expenses, not directly related to either servicing existing users or 
+acquiring new ones and I include R&D, G&A and depreciation in 
+this grouping.
+9
+Uber’s Business Expansion, but with a 
+catch?
+10
+Uber’s Geographical Reach (with a crimp)
+11
+Uber: A Top Down Valuation
+¨ I used a top-down approach, starting with US 
+transportation services as my total accessible market 
+and working down through market share, margins 
+and reinvestment to derive a value of $13.9 billion 
+for its operating assets and $16.4 billion with the IPO 
+proceeds counted in. 
+¨ Using a similar approach is trickier for Uber, since its 
+decision to be in multiple parts of the logistics 
+business and its global ambitions require assessment 
+of a global logistics market, a challenge.
+13
+An Alternate Approach
+¨ The uncertainty about the total accessible market, 
+though, makes me uneasy with my top down valuation. 
+¨ In June 2017, I presented a different approach to valuing 
+companies like Uber, that derive their value from users, 
+subscribers or members. In that approach, 
+¤ I began by valuing an existing user (rider), by looking at the 
+revenues and cash flows that Uber would generate over the 
+user’s lifetime 
+¤ Then extended the approach to valuing a new user, where the 
+cost of user acquisition has to be netted out against the user 
+value. 
+¤ I completed the assessment by computing the value drag 
+created by non-rider related corporate expenses.
+15
+What if analysis?
+16
+Reading the table
+¨ If you are a trader, deeply suspicious of intrinsic 
+value, you may look at this table as confirmation that 
+intrinsic value models can be used to deliver 
+whatever value you want them to, and your 
+suspicions would be well founded. 
+¨ I am a believer in value and I see this table in a 
+different light It is a reminder that my estimate of 
+value is just mine, based on my story and inputs, and 
+that there are others with different stories for the 
+company that may explain why they would pay much 
+more or much less than I would for the company.
+17
+Pathways for Uber
+¨ Uber is a company that is poised on a knife's edge. 
+¤ If it just continues to just add to its rider count, but pushes up its 
+cost of acquiring riders as it goes along, and existing riders do 
+not increase the usage of the service, its value implodes. 
+¤ If it can get riders to significantly increase usage (either in the 
+form of more rides or other add on services), it can find a way to 
+justify a value that exceeds $100 billion. 
+¨ The table also indicates that if Uber has to pick between 
+spending money on acquiring more riders or getting 
+existing riders to buy more of its services, the latter 
+provides a much bigger bang for the buck than the 
+former.
+18
+The Business Bottom Line
+¨ I hope Dara Khoshrowshahi means it when he says that 
+Uber has to show a pathway to profitability, but I think 
+that is what is more critical is that he acts on those 
+words. 
+¨ This remains a business (whether you define it to be ride 
+sharing, transportation services or personal mobility) 
+without a business model that can generate sustained 
+profits, precisely because the existing model was 
+designed to deliver exponential growth and little else, 
+and Uber, and the other players in this game), have only 
+a limited window to fix it.
+19
+Uber versus Lyft
+¨ Having spent all of this time on Uber's valuation, let 
+me concede to the reality that Uber will be priced by 
+the market, and it will be priced relative to Lyft. 
+¨ That is why Uber has probably been pulling harder 
+than almost any one else in the market for the Lyft 
+IPO to be well received and for its stock to continue 
+to do well in the aftermarket.
+20
+Pricing Uber
+21
+Ball is in your court now!
+¨ I am sure that there are many who understand the 
+ride sharing business much better than I do, and see 
+obvious limitations and pitfalls in my valuations of 
+both Uber and Lyft. 
+¨ I hope that even if you disagree with me on my 
+numbers, the spreadsheets that are linked are 
+flexible enough for you to take your stories about 
+these companies to arrive at your value judgments.

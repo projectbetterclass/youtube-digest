@@ -1,0 +1,248 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/AramcoIPO.pdf
+
+A COMING OUT PARTY FOR THE 
+WORLD’S MOST VALUABLE 
+COMPANY: THE ARAMCO IPO
+Aswath Damodaran
+2
+Aramco: History
+¨ Aramco’s beginnings trace back to 1933, when Standard Oil of 
+California discovered oil in the desert sands of Saudi Arabia. Shortly 
+thereafter, Texaco and Chevron formed the Arabian American Oil 
+Company (Aramco) to develop oil fields in the country and the 
+company also built the Trans-Arabian pipeline to deliver oil to the 
+Mediterranean Sea. 
+¨ In 1960, the oil producing countries, then primarily concentrated in 
+the Middle East, created OPEC and in the early 1970s, the price of 
+oil rose rapidly, almost quadrupling in 1973. 
+¨ The Saudi Government which had been gradually buying Aramco’s 
+assets, nationalized the company in 1980 and effectively gave it full 
+power over all Saudi reserves and production. The company was 
+renamed Saudi Aramco in 1988.
+3
+Aramco: Current Standing
+¨ Lots of oil: In 2018, it was estimated that Aramco had in excess of 
+330 billion barrels of oil and gas in its reserves, a quarter of all of
+the world’s reserves, and almost ten times those of Exxon Mobil, 
+the current leader in market cap, among oil companies. 
+¨ Easy to extract: To add to the allure, oil in Saudi Arabia is close to 
+the surface and cheap to extract, making it the most profitable 
+place on oil to own reserves, with production costs of $20-$25 a 
+barrel, well below the $40 costs that many other conventional oil 
+producers, and even further below the new entrants into the game. 
+¨ Big payoffs: Aramco produced 13.6 million barrels of oil &amp; gas 
+every day in 2018, and reported revenues of $355 billion for the 
+year, on which it generated operating income of $212 billion and 
+net income of $111 billion.
+4
+Company, Country or extension of Saudi 
+Royalty?
+¨ Saudi Arabia Inc? Saudi Arabia is one of the wealthier 
+countries in the world, on a per capital basis, and one of the 
+20 largest economies, in terms of GDP , but it derives almost 
+80% of that GDP from oil. Thus, a company that controls 
+those oil spigots is a stand in for the entire country, and over 
+the last few decades, it should not surprise you to learn that 
+the Saudi budget is largely dependent on the cash flows it 
+collects from Aramco. 
+¨ House of Saud: The overlap between company and country 
+becomes even trickier when you bring in the Saudi royal 
+family, and close to absolute control of the country, which 
+also means that Aramco’s fortunes are tied to the royal 
+family’s powers. If there is a change in regime in Saudi Arabia, 
+the terms laid out in the prospectus will be revisited.
+5
+The Consequences
+¨ Corporate governance: There is no way that this company can or ever will 
+be controlled by shareholders. The Saudi government is open about this, 
+stating in its prospectus that “the Government will continue to own a 
+controlling interest in the Company after the Offering and will be able to 
+control matters requiring shareholder approval”.
+¨ Country risk: Aramco has a few holdings and joint ventures outside Saudi 
+Arabia, but this company is not only almost entirely dependent on Saudi 
+Arabia but its corporate mission will keep it so. 
+¨ Political risk: For decades, the Middle East has had more than its fair 
+share of turmoil, terrorism and war, and while Saudi Arabia has been a 
+relatively untouched part, it too is being drawn into the problem. On an 
+even larger scale, the last decade has seen regime changes in many 
+countries in the Middle East, with some occurring in countries, where the 
+ruling class was viewed as insulated. The Saudi political order seems 
+settled for the moment, with the royal family firmly in control, but that 
+too can change, and quickly.
+6
+IPO Twists: Part 1
+¨ Dividends: The company commits to paying at least $75 billion in 
+dividends in 2020, with holders of shares issued in the IPO getting their 
+share, and to maintaining these dividends through 2024. Beyond 2024, 
+dividends will revert back to their normal discretionary status, with the 
+board of directors determining the appropriate amount. 
+¨ IPO Proceeds: The offering is not expected to be more than a couple of 
+percent of the company. None of the proceeds from the IPO will remain in 
+Aramco & will be redirected elsewhere, in pursuit of thegovernment’s
+policy of making Saudi Arabia an economy less dependent on oil.
+¨ Trading constraints: Once the offering is complete, the shares will be 
+listed on the Saudi stock exchange and its size will make it the dominant 
+listing overnight, and also subjecting it to the trading restrictions of the 
+exchange, including a limit of a 10% movement in the stock price in a day; 
+trading will be stopped if it hits this limit.
+7
+IPO Twists: Part 2
+¨ Inducements for Saudi domestic investors: The Saudi government 
+will give one bonus share, for every ten shares bought and held for 
+six months, by a Saudi investor, with a cap at a hundred bonus 
+shares.
+¨ Corporate tax rate: The corporate tax rate will be 20% on taxable 
+income on the downstream income, though tax rates on different 
+income streams can be different. The Saudi government also 
+imposes a Zakat, a levy on revenues, which is effectively a tax on 
+income. In sum, these tax rate changes were already in effect in 
+2018, and the company paid almost 48% of its taxable income in 
+taxes that year.
+¨ Royalties: The royalties on oil were reset ahead of the IPO and will 
+vary, depending on the oil price, starting at 40% if oil prices are less 
+than $70/barrel, increasing to 45% if they fell between $70 and 
+$100, and becoming 80% if the oil price exceeds $100/barrel.
+8
+Pricing Aramco
+¨ Early estimates: The initial attempts by the Saudi government to 
+take Aramco public, came with a rumored expectation that the 
+company would be “valued” at $2 trillion or more. 
+¨ IPO pricing range: Much has been made about the fact that there 
+seem to be wide divergences in how much bankers seem to think 
+Aramco is worth, with numbers ranging from $1.2 billion to $2.3 
+trillion, with Prince Mohammed, the crown prince, rumored to be 
+hoping for $2 trillion. 
+¨ Pricing, not valuations: Most of these numbers are not valuations, 
+but instead represent pricings of Aramco, where assessment of 
+price being made by looking at how the market is pricing publicly 
+traded oil companies, relative to a metric, and extending that to 
+Aramco, adjusting (subjectively) for its unique set up in terms of 
+corporate governance, country risk and political risk.
+9
+The Sector: Integrated Oil
+10
+Pricing Aramco: A First Cut
+11
+Pricing Implications
+¨ Book value & Sales: If you price Aramco based on its revenues of $356 
+billion or on its book value of equity of $271 billion, its value looks 
+comparable or slightly higher than the value of Exxon Mobil and Royal 
+Dutch, the largest of the integrated oil companies.
+¨ Income: That pricing is missing Aramco’s immense cost advantage, which 
+allows it to generate much higher earnings from the same revenues. Thus, 
+when you base the pricing on Aramco’s EBITDA of $224 billion, you can 
+see the pricing rise to above a trillion and if you shift to Aramco’s net 
+income of $111 billions, the pricing approaches $1.5 trillion.
+¨ The pricing is highest when you focus on Aramco’s most valuable edge, its 
+control of the Saudi oil reserves and its capacity to produce more oil than 
+any other oil company in the world. If you base the pricing on the 10.3 
+billion barrels of oil that Aramco produced in 2018, Aramco should be 
+priced above $1.5 trillion and perhaps even closer to $2 trillion. If you 
+base the pricing on the 265.9 billion barrels of proven reserves that 
+Aramco controls for the next 40 years, Aramco’s pricing rises to sky high 
+levels.
+12
+Pricing Caveats
+¨ Production limits: Aramco not only does not own its 
+reserves in perpetuity, with the rights reverting back to 
+the Saudi government after 40 years, with the possibility 
+of a 20-year extension, if the government decides to 
+grant it, but Aramco is also restricted in how much oil it 
+can extract from those reserves to 12 million barrels a 
+year.
+¨ Governance and Risk: We noted, earlier, that Aramco’s 
+flaws: the government’s absolute control of it, the 
+country risk created by its dependence on domestic 
+production and the political risk emanating from the 
+possibility of regime change.
+13
+The Country/Governance Discount for 
+Russian Oil
+14
+Valuing Aramco: General Assumptions
+¨ In US $: I will do my valuation in US dollars, rather than Saudi Riyals, since 
+as a commodity company, revenues are in dollars and the company 
+reports its financials in US dollars (as well as Riyal). This will also allow me 
+to evade tricky issues related to the Saudi Riyal being pegged to the US 
+dollar though the reverberations from the peg unraveling will be felt in 
+the operating numbers. 
+¨ Expected Inflation: I will use an expected inflation rate of 1.00% in US 
+dollars, representing a rough approximation of the difference between 
+the US treasury bond rate and the US TIPs rate. 
+¨ Equity Risk: I will use the equity risk premium of 6.23% for Saudi Arabia, 
+representing about a 0.79% premium over my estimate of a mature 
+market premium of 5.44% at the start of November 2019. 
+¨ Life: I will use a 50-year growth period, representing the fact that the 
+company's primary asset, its oil reserves, are not infinite and will run out 
+at some point in time, even if additional reserves are discovered.
+15
+Valuing Aramco: Promised Dividends
+16
+Valuing Aramco: Potential Dividends
+17
+Valuing Aramco: As a business
+18
+Valuation Afterthoughts
+¨ Political Risk: I have used the default spread of the country as a proxy for the 
+Saudi equity risk premium, but that misses the risk of regime change, a 
+discontinuous risk that will have very large and potentially catastrophic effects on 
+value. While that risk may seem low, it is definitely not zero.
+¨ Upside limits : The royalty structure that the Saudi government has created, where 
+the royalty rate will climb from 40% at current oil prices to 45% if they rise above 
+$ 70 and 80% if they rise above $100/barrel will mean that your share, as an 
+equity investor , of the benefits of higher oil prices will be capped, dampening the 
+value today.
+¨ Price setter/taker: Aramco has more influence on the oil price than any of them, 
+as a result of Saudi Arabia's role in the oil market. Put simply, while the power of 
+the Saudi government to set oil prices has decreased from the 1970s, it does 
+continue to wield more influence than any other entity in this process.
+¨ Value Effect: The first two factors are clear negatives and should lead you to mark 
+down the value of Aramco, the third factor may help provide some downside 
+protection. Overall, I would expect the value of equity in Aramco to be closer to 
+$1.5 trillion than $1.7 trillion, after these adjustments are made.
+19
+IPO Details and Thoughts
+¨ Over the weekend, we got a little more clarity on the IPO 
+details, with a rumored pricing of $1.7 trillion for the 
+company's equity and a planned offering of 1.5% of the 
+outstanding shares. 
+¨ That price is within shouting distance of my valuation, 
+and my guess is that given the small size of the offering 
+(at least on a percentage basis), it will attract enough 
+investors to be fully subscribed. 
+¨ At this pricing, I think that the company will be more 
+attractive to domestic than international investors, with 
+Saudi investors, in particular, drawn to the company's 
+reputation.
+20
+Good investment
+¨ It will be a solid investment, as long as investors 
+recognize what they are getting is more bond than stock, 
+with dividends representing the primary return and 
+limited price appreciation. 
+¤ They will have no say in how the company is run, and if they 
+don't like the way it is run, they can vote with their feet. 
+¤ If they are worried about risk, the research they should do is 
+more political than economic, with the primary concerns about 
+regime stability. 
+¨ If you are a Saudi investor, with your human capital and 
+real estate already tied to Saudi Arabia's (and oil's) well 
+being, investing your wealth in Aramco will be doubling 
+down on that dependence.
+21
+Not for me…
+¨ Aramco is not a stock for me for two reasons. 
+¤ I am lucky enough not to be dependent on cash flows from my investment portfolio 
+to meet personal liquidity needs, and have no desire to receive large dividends, just 
+for the sake of reaching them, since they just create a concurrent tax burden. 
+¤ Second, if I were tempted to invest in the company as a play on oil prices, the rising 
+royalty rates, as oil prices go up, imply that my upside will be limited at Aramco.
+¨ This company will be the ultimate politically incorrect investment, 
+operating both as a long-term bet on oil, in a world where people are as 
+dependent as ever on fossil fuels, but are repelled by those who produce 
+it, and as a bet on Saudi royalty, an unpopular institution in many circles. 
+¨ I don't much care for political correctness nor for investors who seem to 
+believe that the primary purpose of investing is virtue signaling, and I 
+must confess that I am tempted to buy Aramco just to see their heads 
+explode. However, that would be both petty and self-defeating, and I will 
+stay an observer on Aramco, rather than an investor.

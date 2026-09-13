@@ -1,0 +1,20 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session4soln.pdf
+
+Session	4:	Post	class	test	solutions	
+1. d.	Risk	may	be	easier	to	measure	and	to	insure	against	than	
+uncertainty,	but	investors	should	care	about	both,	when	investing.	Just	
+because	you	cannot	measure	something	does	not	mean	that	it	does	not	affect	
+you	and	that	you	will	not	try	to	protect	yourself	against	it.	
+2. c.	Investors	will	take	risk,	but	only	if	they	feel	that	they	get	a	sufficient	
+reward	for	risk	taking.	Risk	averse	does	not	imply	that	you	avoid	risk	at	all	
+costs	and	it	certainly	does	not	imply	that	you	will	seek	it	out.	
+3. c.	Less	than	$50.	If	you	were	risk	neutral,	you	would	pay	$50.	If	you	were	
+risk	seeking,	you	would	pay	more	than	$50.	
+4. b.	Investor	B	is	more	risk	averse	than	investor	A.	These	cash	flows	are	
+certainty	equivalents,	and	the	more	risk	averse	you	are,	the	less	you	will	be	
+willing	to	pay,	relative	to	expected	value,	to	take	a	gamble.	
+5. d.	Rejecting	a	$60	loss	to	take	a	bet	where	you	have	a	60%	chance	of	
+losing	$100.	The	reason	this	is	a	behavioral	quirk	is	that	risk	aversion,	in	
+general,	should	lead	you	to	accept	a	guaranteed	amount	over	an	uncertain	
+bet	with	the	same	expected	value.	That	seems	to	work	with	gains	but	not	
+with	losses.

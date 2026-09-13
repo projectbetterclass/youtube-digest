@@ -1,0 +1,88 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate5for2020.pdf
+
+DATAUPDATE 5: A HURDLE RATE 
+WRAP UP
+When markets drop…
+2
+From the Macro to the Micro..
+¨ In my last four posts, I focused on the macro variables that we 
+use, in both corporate finance and valuation, to estimate 
+required returns or hurdle rates. 
+¨ To get from the macro risk measures to company-level hurdle 
+rates, you need to make judgments on relative risk. If you buy 
+into the proposition, like I do, that some investments are 
+riskier than others, you need a measure of relative risk that 
+captures this variation. 
+¨ It is in this context that I think of betas, a loaded concept that 
+carries with it the baggage of modern portfolio theory and 
+efficient markets. If you add to this the standard approach to 
+estimating betas, built on looking at past prices and running 
+regressions against market indices, you have the makings of a 
+perfect storm, designed to drive value investors to apoplexy.
+3
+Relative Risk Proposition 1: Beta and Discounted 
+Cash Flow Valuation
+¨ Relative Risk Proposition 1: You do not need to 
+believe in betas to do financial analysis and 
+valuation.
+¨ While there are many who tie discounted cash flow 
+valuations to the use of beta or betas, there is 
+nothing inherently in a DCF that requires that you 
+make this leap:
+4
+Relative Risk Proposition 2: If you don’t like 
+betas, there are alternatives
+5
+Relative Risk Proposition 3: The Margin of 
+Safety is not a risk measure
+¨ When value investors talk about protecting 
+themselves from risk by using a margin of safety, 
+they are talking about building a buffer between 
+value and price, but to use the margin of safety,you 
+need to value a stock first. 
+¨ To get that value, you need a risk measure, and that 
+brings us back full circle to how you adjust for risk, 
+when valuing companies.
+¨ Having one margin of safety that applies for all firms
+does not make sense, and setting it so high that you 
+end up not investing is even worse.
+6
+Relative Risk in 2020: Betas
+7
+Relative Risk in 2020: Standard Deviation in 
+Stock Prices
+8
+Relative Risk in 2020: HiLo Risk Measure
+Hi Lo Risk = (High Price – Low Price)/(High Price + Low Price)
+9
+Relative Risk in 2020: Earnings Variability
+CV in Earnings = Std Dev in Earnings over last 10 years/ 
+Average Earnings in last 10 years
+10
+Cost of Equity
+11
+Cost of Equity in 2020
+12
+Cost of Debt
+13
+Cost of Debt in 2020
+14
+The Tax Effect
+¨ It is worth noting that the tax law tilt towards debt, 
+represented in the fact that interest expenses are tax 
+deductible and cash flows to equity (dividends and buybacks) 
+have to come from after-tax cash flows, is not just a 
+phenomenon for the US, but true over much of the world, 
+with the Middle East representing the holdout. 
+¨ This tax benefit shows up in the cost of capital, through the 
+conversion of the pre-tax cost of debt into an after-tax cost, 
+using the marginal tax rate to make the adjustment:
+¤ After-tax cost of debt = Pre-tax cost of debt (1 - Marginal Tax Rate)
+¤ In my sample, I use the marginal tax rate of the country in which a 
+company is incorporated
+15
+The Final Puzzle Piece: Debt Mix in 2020
+16
+Cost of Capital in 2020: A Picture
+17
+And a table..

@@ -1,0 +1,230 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ViralUpdate12.pdf
+
+A VIRAL MARKET UPDATE XII: THE 
+RESILIENCE OF RISK CAPITAL
+Risk on, risk off…
+2
+The lead in…
+¨ Search for a Unifying Theory: In the midst ofchaos and confusion, it is 
+human nature to look for order, and finding a unifying theory that 
+explains the world can help in this search. 
+¨ Winners and Losers: I have used the data from markets to try to come up 
+with explanations for why markets have rebounded as much as they have, 
+and in the process, why they have added value to some companies while 
+reducing the value of others. It is in this pursuit that I noted that the crisis 
+has enriched growth companiesat the expense of value 
+companies, flexible companieshave gained at the expense of rigid ones, 
+and young companieshave gained on older, more mature businesses. 
+¨ The Answer: In this post, I look at a factor that lies behind all of these 
+shifts, and that is theresilience of private risk capital, taking the form of 
+venture capital for start ups and private business, initial public offerings in 
+public markets and debt (in the form bonds and bank loans) to the riskiest 
+companies, as the crisis has unfolded.
+3
+Market Overview: Equities
+4
+Market Overview: Treasuries
+5
+Market Overview: Commodities
+6
+Market Overview: Gold and Bitcoin
+7
+Global Equities: By Region
+8
+Global Equities: By Sector
+9
+Global Equities: Industry Winners & Losers
+10
+Risk Capital in Crises
+¨ Risk capital is capital that is invested in the riskiest assets and markets and it 
+encompasses a wide range of investment activity. 
+¤ For young companies, often private and in need of capital to be able to deliver on their 
+potential, it takes the form of venture capital. 
+¤ In public markets, it manifests itself in the money that flows into initial public offerings and to 
+the riskiest companies, often smaller and more money losing. 
+¤ It can also take the form of debt, especially to firms that are in or on the verge of distress and 
+or in high yield bonds.
+¨ In most market crises, risk capital is a casualty, as fear dominates greed, and 
+investors look for safety. 
+¤ Thus, you will see venture capital, always a boom and bust business, become scarce, and the 
+young companies that are dependent on it have to either shut down or sell themselves to 
+deep-pocketed and more established companies at bargain basement prices. 
+¤ In public markets, initial public offerings become rare or non -existent and money flows out of 
+the riskiest companies to safer companies (generally with stable earnings and large dividends). 
+¤ In corporate bond market, new issuance of corporate bonds drops off, across the board, but 
+much more so for the riskiest companies (those below investment grade). As I will argue in the 
+rest of this section, that has not been the case in this crisis.
+11
+Private Equity Risk Capital
+¨ Investing in young companies, especially start-ups and angel 
+ventures, has always been a high-risk endeavors for two reasons. 
+¤ First, these businesses have to be priced or valued with much less 
+information on business models or history than more mature companies, 
+and many are uncomfortable making that leap. 
+¤ Second, the failure rate among these companies is high, since more than 
+two thirds do not make the transition to being viable businesses. 
+¨ Venture capital's role is to nurture these young companies through 
+these early dangers, and in return, the hope is that the investment 
+will earn outsize returns. 
+¨ This accentuated risk return trade off makes venture capital the 
+canary in the coal mine, during a crisis, and you can see that play 
+out in the following graph, tracking venture capital raised by year, 
+both in the US and globally:
+12
+VC: The 2008 Crisis
+0.00%
+10.00%
+20.00%
+30.00%
+40.00%
+50.00%
+60.00%
+70.00%
+80.00%
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+% of Capital Raised in US
+Capital Raised (in $ billions)
+Capital Raised by Venture Capital: US and Global: 2007-2019
+Glob al US % from US
+VC capital raised dropped off by more 
+than 50% after the 2008 crisis, with
+13
+VC: The COVID crisis
+Q2  20 19 Q3  20 19 Q4  20 19 Q1  20 20 Q2  20 20
+Technology Growth $2.80 $3.20 $4.00 $2.20 $11.90
+Late Stage $39.10 $37.90 $42.90 $35.50 $35.70
+Early Stage $24.90 $23.10 $24.80 $19.10 $19.60
+Angel Seed $3.70 $3.80 $4.00 $2.80 $2.30
+ $-
+ $10.00
+ $20.00
+ $30.00
+ $40.00
+ $50.00
+ $60.00
+ $70.00
+ $80.00
+VC Investing: By Type
+Angel Seed Early Stage Late Stage Technology Growth
+14
+Public Markets: The Role of Risk Capital
+¨ In public markets, risk capital plays out in more 
+subtle ways than in public markets, flowing in and 
+out of the riskiest segments of the market, as fears 
+rise during a crisis. 
+¤ In most crises, as I noted earlier, the money flow favors the 
+safer companies, pushing up their pricing and valuation, 
+and works against the riskiest companies.
+¤ At the same time, new companies are reluctant to list in 
+public markets, leading to a drop off in IPOs.
+¤ The shrinking of risk capital also leads to increases in the 
+price of risk in the equity market, with investors 
+demanding higher equity risk premiums.
+15
+Public Market Value Flows: COVID Effects
+16
+IPOs: The 2008 Crisis
+17
+IPOs: The COVID effect
+ $-
+ $5.00
+ $10.00
+ $15.00
+ $20.00
+ $25.00
+ $30.00
+0
+10
+20
+30
+40
+50
+60
+70
+Q2  20 17 Q3  20 17 Q4  20 17 Q1  20 18 Q2  20 18 Q3  20 18 Q4  20 18 Q1  20 19 Q2  20 19 Q3  20 19 Q4  20 19 Q1  20 20 Q2  20 20
+IPOs by Quarter: Including COVID quarters
+Number of IPOs Proceeds Raised (in $ billion)
+18
+ERP: The 2008 Crisis
+19
+ERP: The COVID effect
+Blue: ERP on 7/1/20
+Red: ERP on 4/1/20
+Green: ERP on 1/1/20
+ERP : July 1, 2020
+Aswath Damodaran
+21
+Risk Capital in Debt/Bond Markets
+¨ Much of the discussion about risk capital so far has 
+been focused on equity markets, but there is risk 
+capital in other markets as well. 
+¤ In the private lending market, risk capital is what supplies 
+debt to the companies most in need of it, often distressed.
+¤ In the corporate bond market, it manifests itself as 
+demand for the riskiest corporate bonds, usually below 
+investment grade.
+¤ The absence of risk capital causes default spreads to rise in 
+debt markets, and more so for the riskiest companies.
+22
+Corporate Bond Issuance: The 2008 Crisis
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+30.00%
+ $-
+ $200.00
+ $400.00
+ $600.00
+ $800.00
+ $1,000.00
+ $1,200.00
+2004 2005 2006 2007 2008 2009 2010 2011 2012
+Corporate Bond Issuances: The 2008 Crisis
+In vestment  Grade High Yield % from HY Bonds
+23
+Corporate Bond Issuance: The COVID effect
+High yield bond issuances hit an all -
+time high in June 2020
+24
+The Price of Bond Market Risk: The 2008 Crisis
+25
+The Price of Bond Market Risk: The COVID effect
+26
+Explaining the Resilience: The Fed did it.. But 
+did it?
+¨ The turnaround in this market can be traced to the Fed's announcement 
+on March 23, that it would provide a backstop to the corporate 
+bond/lending market. While its targets were lofty, its actions have been 
+modest:
+27
+Explaining the Resilience: Contributing Factors
+¨ Investor Composition: First, investors are much more willing to invest across 
+markets; money moves from equity to debt markets and across geographies 
+much more easily than it used to. Second, the investment world has flattened, 
+as retail investors catch up to institutional investors in terms of access to 
+information, data and tools.
+¨ Unique Crisis: Unlike prior crises, where market meltdowns came first and the 
+economic damage followed, in this one, the economic shutdown, precipitated 
+by the virus, came when markets were at all- time highs and risk capital was 
+widely accessible.
+¨ Change in Corporate Structure: The biggest companies of today's markets are 
+less capital intensive and more flexible than the companies of yester -year. 
+That flexibility, allowing them to take advantage of opportunities quickly and 
+scale down quickly in the face of threats, limits downside and increases 
+upside. There is more optionality in the biggest companies of today, making 
+risk more an ally than an enemy for investors and with options, risk is more 
+ally than enemy.

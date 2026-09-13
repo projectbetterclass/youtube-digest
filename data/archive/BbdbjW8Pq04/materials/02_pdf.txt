@@ -1,0 +1,47 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session5test.pdf
+
+Session	5:	Post	Class	tests	
+1. In	the	mean	variance	framework,	we	assume	that	investors	judge	
+investments	on	only	two	dimensions,	the	expected	return	being	the	good	and	
+the	variability	of	returns	around	that	expectation	being	the	bad.	In	this	
+framework,	find	the	best	and	worst	investments.	
+a. Expected	Return	=	3%,	Standard	deviation	=	20%	
+b. Expected	Return	=	8%,	Standard	deviation	=	10%	
+c. Expected	Return	=	8%,	Standard	deviation	=	20%	
+d. Expected	Return	=	5%,	Standard	deviation	=	10%	
+e. Expected	Return	=	3%,	Standard	deviation	=	10%	
+How	would	you	rank	them?	
+2. If	you	are	a	diversified	investor	in	Facebook,	which	of	the	following	types	of	
+risk	would	you	consider	to	be	not	diversifiable?	
+a. The	risk	that	new	privacy	laws	will	restrict	data	gathering	and	access	
+b. The	risk	that	users	will	find	a	different	social	media	platform	to	spend	
+their	time	on.	
+c. The	 risk	that	 a	global	 economic	 slowdown	 will	 affect	how	 much	
+companies	spend	on	advertising	
+d. The	risk	that	Mark	Zuckerberg	will	stay	on	as	CEO	
+e. The	risk	that	Mark	Zuckerberg	will	leave	as	CEO	
+3. As	you	hold	more	investments	in	your	portfolio,	you	get	more	diversified.	
+The	key	benefit	of	being	diversified	is:	
+a. That	you	will	never	lose	money	
+b. That	you	will	have	no	risk	in	your	portfolio	
+c. That	you	will	make	higher	returns	than	investors	who	are	not	
+diversified	
+d. That	you	will	have	lower	risk	than	investors	who	are	not	diversified	
+e. That	you	will	get	a	better	risk/return	trade	off	than	investors	who	are	
+not	diversified	
+4. To	make	the	assumption	that	the	one	risk	that	will	be	priced	in	by	the	market	
+is	risk	that	cannot	be	diversified	away,	which	of	the	following	assumptions	
+do	you	need	to	make?	
+a. That	all	investors	are	diversified	
+b. That	companies	are	diversified	across	businesses	
+c. That	investors	who	hold	large	stakes	and	trade	them,	are	diversified	
+d. That	most	investors	are	diversified	
+e. That	the	founder/CEO	is	diversified	
+5. In	the	CAPM,	investors	are	not	just	diversified	but	supremely	so,	holding	
+every	risky	asset	in	the	market,	in	proportion	to	market	value	(market	
+portfolio).	What	assumptions	do	you	need	to	make	for	this	to	be	true?	
+a. There	are	no	transactions	costs	to	adding	investments	
+b. There	is	no	payoff	to	picking	stocks	(no	private	information)	
+c. Every	asset	is	traded	
+d. There	is	a	riskfree	alternative	
+e. All	of	the	above

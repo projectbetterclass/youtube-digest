@@ -1,0 +1,206 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/ViralUpdate3.pdf
+
+A VIRAL MARKET UPDATE III: 
+PRICE VS VALUE, INVESTING VS 
+TRADING
+A Market Update
+2
+How much can happen in eleven days?
+¨ This is the third and I hope the last of my viral market updates, 
+reflecting how much change a week can deliver, and last week 
+delivered more change than most investors could handle. 
+¨ Not only did we see two of the worst market days in history, in 
+absolute terms, we also saw the worst single day in US market 
+history since October 19, 1987, in percentage terms, on March 12. 
+¨ In fact, the price change this week has been so dramatic that it 
+makes the tables that I provided on where the market damage was 
+last week, across sectors and regions, seem dated. 
+¨ In this post, I will update those tables, but I want to focus on a 
+much larger question of how investors should craft a response to 
+the market meltdown, and how that response cannot be one -size-
+fits-all.
+3
+Price vs Value
+4
+1. Upper and Lower Bounds
+¨ Since price is determined by demand and supply, and there is 
+nothing that requires that those buying and selling in markets have 
+to be constrained, at least in the near term, by fundamentals, it 
+follows that there is no upper or lower bound to prices .
+¨ Value on the other hand has both upper and lower bounds, with 
+both bounds being set by expected cash flows, growth and risk. 
+The upper bound is set by those who are more optimistic about a 
+stock and the lower bound by those who are most pessimistic 
+about that same stock, in terms of future expectations or 
+liquidation value. 
+¤ It is possible, for some stocks, especially early in the life cycle and with 
+substantial uncertainty about the future, for the lower bound on value to 
+be zero, 
+¤ Stocks collectively cannot have that lower bound. For equities collectively 
+to be worth nothing, you would require an apocalyptic scenario, one in 
+which there is little point thinking about investments anyway.
+5
+2. Price is reactive, value is proactive
+¨ Incremental Information versus Fundamental Information: 
+Pricing forces can take information that, at least at first sight, 
+seems insignificant to long term value and cause price 
+changes that are disproportional. Thus, when the mood is 
+upbeat, small pieces of good news can result in big jumps in 
+stock prices, but if that mood turns sour, small pieces of bad 
+news can cause large drops in stock prices. 
+¨ Reactive versus Proactive: Tradersreact to the incremental 
+information to adjust the price and put little thought into 
+whether the starting price itself has a basis to it. Value is 
+driven by expectations of cash flows, growth and risk, and 
+information has to be used to reassess those expectations, a 
+more difficult task, but one that forces you to separate the 
+wheat from the chaff.
+6
+3. Price may never converge on value…
+¨ Old time value investors live by the adage that the price can 
+go up and down, with little relationship to value, but that it 
+will eventually converge to value. 
+¨ Absent a catalyst causing the convergence, price will not only 
+diverge from value in the short term, but it could do so in the 
+long term. Keynes was close to the truth when he said that 
+the "market can stay irrational longer than you and I can stay 
+solvent". 
+¨ So what is it that keeps investors toiling at the fundamentals, 
+hoping to get rewarded? The answer is faith, faith that they 
+can estimate valueand faith that the price will adjust to 
+value. It is faith because I can offer you no proof for either 
+proposition, and it is faith, because its strength will be tested 
+by markets like this one.
+7
+An Investing Game Plan: Step 1
+Do you have faith that every asset has a value and that 
+the price will eventually reflect that value?
+Yes. No.
+• In the abstract, most market participants describe 
+themselves as long term, patient and believers in 
+value.
+• Warren Buffett once said that it is only when the tide 
+goes out that you can tell who’s been swimming 
+naked, and it is only when the market goes into crisis 
+mode that you can tell the investors from the traders.
+8
+Step 2a: If you have faith
+Yes.
+Do you have liquidity and patience?
+Yes. No.
+Hold on. Do 
+nothing.
+Do you want to bet on a market, 
+sector or company-level pricing 
+mistake?
+Market. Individual Stocks.Sector
+9
+Step 2b: Value Action Plan
+Market. Individual Stocks.
+Gauge effect of crisis on 
+market earnings, growth 
+& risk premiums
+If Price < 
+Value
+If Price > 
+Value
+Increase 
+equity 
+exposure
+Decrease 
+equity 
+exposure
+Sector
+Deploy cash to buy 
+under valued sectors 
+and/or sell over 
+valued sectors/?
+Deploy cash to buy 
+under valued stocks 
+and/or sell over 
+valued stocks?
+Value the market, using a DCF 
+model, or use a pricing indicator 
+(PE or variants)
+Look at sectors where 
+pricing has been least 
+or most affected 
+during the crisis, and 
+gauge whether effect 
+reflects 
+fundamentals.
+Look at stocks where 
+pricing has been least 
+or most affected 
+during the crisis, and 
+gauge whether effect 
+reflects 
+fundamentals.
+10
+Step 3a: if you don’t have faith
+No.
+Are you are adept at playing the pricing 
+game (i.e., detecting mood & mood 
+swings)?
+Yes. No.
+Do you need liquidity?
+Yes. No.
+Do you want to ride 
+momentum or bet on reversal?
+Momentum Reversal
+11
+Step 3b: Pricing Action Plan
+Yes. No.
+Hold on. Do 
+nothing.
+Sell stocks & 
+add to cash 
+holdings
+Momentum Reversal
+Sell into 
+market 
+weakness, buy 
+into market 
+strength
+Look for 
+market mood 
+shifts & buy or 
+sell ahead of 
+shifts
+Use or develop indicators (price, 
+volume) that backs up your pricing 
+philosophy (momentum or reversal)
+If selling, consider tax 
+consequences, diversification 
+effects & transaction costs. More 
+generally, if you don't believe in 
+value & have no pricing skills, you 
+should be invested in index funds 
+and ETFs, not individual stocks.
+12
+What now? Valuing the Index
+13
+Individual Stocks
+14
+Checking the Market Reaction: Across Sectors
+15
+Most and Least Affected Industries..
+16
+And Regionally…
+17
+Investing End Game
+¨ The market damage lines up well with our priors, which is 
+what makes investing tricky. In fact, there are two 
+perspectives that you can bring to surveying these stocks, 
+leading to contradictory strategies.
+¤ If you believe that markets have over reacted , your best chance at 
+finding value might be to look in the rubble, the worst affected 
+regions, sectors and companies
+¤ If you think that markets have not fully incorporated the economic 
+damage from the virus , you should look at the regions, sectors and 
+companies that are more protected.
+¨ The first two stocks on my radar for in-depth intrinsic 
+valuation are Zoom, one of the few stocks that has benefited 
+from this crisis, andBoeing, a stock that has lost more than 
+half of its market capitalization, as its high-leverage, travel-
+focused business is put to the test by this virus.

@@ -1,0 +1,115 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/Paytm2021.pdf
+
+THE INDIAN SMARTPHONE 
+REVOLUTION: PAYTM’S COMING 
+OF AGE IPO!
+An Adolescent with Attention Deficit!
+2
+India’s Biggest IPO
+qA few weeks ago, I valued Zomato, the Indian online food delivery 
+company, just prior to its IPO, and argued that the excitement 
+about its potential was tied to the potential for growth in India and 
+the shifting habits of Indian consumers. Since its public offering, 
+Zomato's stock price has reflected that excitement, more than 
+doubling from its offering price of 74 rupees per share. 
+qWaiting in the wings to go public, is Paytm, a company that in many 
+ways is even more closely tied to India's macro story, drawing on 
+the growth of online commerce in India and a willingness of Indian 
+consumers to use mobile payment mechanisms. 
+qI will look at the levers that drive Paytm's value, and you can make 
+your judgments on where you think this offering will lead in terms 
+of valuation and pricing.
+3
+Setting the Stage: The Growth of Smartphones
+Reliance Jio 
+launch in Indian 
+market
+4
+And Their Usage…
+5
+Rise of Mobile Payments
+In 2016, United Payments Interface (UPI), a real-time payment interface devised by 
+the National Payments Corporation of India, and regulated by the Reserve Bank of 
+India, was introduced, facilitating and speeding up inter-bank, person to person and 
+person to merchant transactions.
+6
+Paytm: A Parallel History
+¨When it was founded in in 2010 by by Vijay Sharma, it operated as 
+a pre-paid mobile platform, but its market then was small both in 
+terms of numbers and services offered. 
+¨As mobile access improved, Paytm added to its suite of products. 
+¤In 2014, it introducedPaytm Wallet, a digital wallet that was accepted as a 
+payment option by leading service providers and retailers. 
+¤In 2016, it added ticket booking to movies, events and amusement parks, 
+with flight bookings soon after , and startedPaytm Mall, a consumer 
+shopping app, based upon Alibaba's Taobao Mall model. 
+¤In 2017 it addedPaytm Gold, allowing users to buy gold in quantities as 
+little as 1 rupee, andPaytm Payments Bank, a messaging platform with in-
+Chat payments. 
+¤In 2018, it added aPaytm Money, for investment and wealth 
+management, and in 2019, it launched aPaytm for Business appfor 
+merchants to track payments. In short, over time, it has used its platform 
+of users to launch itself into almost every online activity.
+7
+Paytm: Financial History
+8
+Paytm’s Funding
+9
+And ownership structure
+10
+The Paytm Story: Drivers
+11
+The Competitive Landscape
+12
+Take rates and Margins: Peer Analysis
+13
+Risk, Share Count and IPO Proceeds
+¨On the risk front, there is little reason to reinvent the wheel. 
+Paytm's cost of capital, in rupee terms, is 10.43%, reflecting 
+its business risk, and puts the company just below the 
+median Indian company, in risk terms. The company's 
+capacity to burn cash will continue to expose it to risk, but 
+with deep pocketed investors (Alibaba and Softbank), and a 
+large cash balance (post IPO), the risk of failure is low (5%).
+¨To get from these numbers to a value per share, I use the 
+existing share count (617 million shares), in conjunction with 
+the information in the prospectus that the company plans to 
+raise₹166,000 million at the offering, with half of these 
+proceeds staying in the firm to cover future investment needs 
+and the other half going to existing shareholders, cashing out.
+16
+Investment Implications
+¨Given that almost all of the value of Paytm comes from 
+expectations of the future, and there is significant uncertainty on 
+every single dimension, it should come as no surprise that the 
+range on estimated value is immense, with a 3% chance that the 
+company's equity is worth nothing to more than  at the 90th 
+percentile. 
+¨With this range in value, the potential for your priors and biases to 
+play out on your final valuation are strong. Put simply, if you like 
+the company so much that you want to buy the stock, you can find 
+a way to make the assumptions that get to that value. 
+¨Even if you strongly favor the company and find it under valued, it 
+would be hubris to concentrate your portfolio, around this stock. In 
+other words, this is the type of stock that you would put 5% or 
+perhaps 10% of your portfolio in, not 25% or 40%.
+17
+Closing Thoughts
+¨ As human beings, it is natural for us to categorize choices we face into broad 
+groupings, because those groupings then allow us to generalize what we have 
+learned from observing the group. In the 1980s, when technology companies first 
+entered the market in big numbers, we classified them all as high growth, high risk 
+investments. While that categorization would have worked at the time, it is quite 
+clear that the technology sector today is not only a dominant segment of the 
+market (accounting for the largest slice of the S&P 500 market capitalization pie), 
+but it is also home to a wide array of companies. 
+¨ A few weeks ago, when I valued Zomato, I argued that it was a joint bet on the 
+company's continued dominance of the food delivery market and the growth in 
+the Indian restaurant/food delivery business. Paytm is also a joint bet on an early 
+entrant into the Indian mobile payment market, continuing to maintain market 
+share, in a growing digital payment market in India. 
+¨ That said, the companies have very different business models, with Zomato's 20% 
+plus take of every dollar spent on its platform vastly exceeding Paytm's less than 
+1% take of every dollar spent on its platform. They are both big market bets, but 
+the Paytm bet is much more dependent on management figuring out a way to 
+grow, while improving take rates at the same time.

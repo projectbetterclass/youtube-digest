@@ -1,0 +1,47 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session11test.pdf
+
+Session	11:	Post	Class	tests	
+1. The	Fisher	Equation	breaks	down	a	nominal	interest	rate	into	expected	
+inflation	and	expected	real	interest	rate	components.	Which	of	the	following	
+would	be	inconsistent	with	the	Fisher	equation?	
+a. Double	digit	nominal	interest	rates	
+b. Double	digit	real	interest	rates	
+c. Negative	real	interest	rates	
+d. Negative	nominal	interest	rates.	
+e. None	of	the	above	
+2. You	are	checking	the	rates	on	both	the	US	10-year	treasury	bond	and	on	the	
+US	10-year	TIPs.	The	former	is	trading	at	an	interest	rate	of	3%	and	the	latter	
+has	an	interest	rate	of	1%.	What	is	the	expected	inflation	rate	(approximately)	
+for	the	next	10	years?	
+a. 1.00%	
+b. 2.00%	
+c. 3.00%	
+d. 4.00%	
+e. None	of	the	above	
+What	is	the	more	precise	estimate	of	inflation?	
+3. Under	which	of	the	following	conditions	does	it	make	the	most	sense	to	buy	a	
+ten-year	TIPS	instead	of	a	ten-year	treasury	bond?	
+a. When	you	and	everyone	else	expects	inflation	to	be	high	for	the	next	
+10	years.	
+b. When	you	and	everyone	else	expects	inflation	to	be	lowh	for	the	next	
+10	years.	
+c. When	you	expect	inflation	to	be	low	and	everyone	else	expects	
+inflation	to	be	high	for	the	next	10	years.	
+d. When	you	expect	inflation	to	be	high	and	everyone	else	expects	
+inflation	to	be	low	for	the	next	10	years.	
+e. None	of	the	above	
+4. It	is	conventional	wisdom	that	central	banks	set	interest	rates.	Which	of	the	
+following	rates	is	set	by	central	banks?	
+a. Commercial	paper	interest	rates	
+b. US	treasury	bill	interest	rates	
+c. Mortgage	rates	
+d. Corporate	borrowing	rates	
+e. None	of	the	above	
+5. The	yield	curve	looks	rates	across	maturities	and	investors	look	at	it	for	cues	
+for	the	future.	Which	of	the	following	would	be	viewed	as	a	sign	of	a	rcession	
+or	an	economic	slowdown?	
+a. Both	short	term	and	long	term	rates	are	low	
+b. Both	short	term	and	long	term	rates	are	high		
+c. Short	term	rates	are	low,	long	term	rates	are	higher	
+d. Short	term	rates	are	high,	long	term	rates	are	lower	
+e. None	of	the	above

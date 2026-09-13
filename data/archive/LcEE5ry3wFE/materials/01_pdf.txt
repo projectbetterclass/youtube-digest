@@ -1,0 +1,57 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate8.pdf
+
+DATA	2017	UPDATE	8:	DEBT ,	THE	
+DARK	AND	LIGHT	SIDES
+Aswath	Damodaran
+2
+Debt	versus	Equity:	The	Real	Factors
+3
+Debt	versus	Equity:	The	Illusory	Factors
+4
+Debt	versus	Equity:	The	Transient	Factors
+¨ To	the	extent	that	your	equity	is	mis-priced	or	your	
+debt	carries	the	wrong	interest	rate,	market	frictions	
+can	affect	your	debt/equity	mix,	in	either	direction:
+¤ If	equity	is	over	priced	and	debt	carries	too	high	an	interest	
+rate,	you	will	use	more	equity	&	less	debt
+¤ If	equity	is	under	priced	and	debt	carries	too	low	an	
+interest	rate,	you	will	use	more	debt	&	less	equity.
+¨ This	requires	the	firm	to	be	able	to	determine	what	
+the	right	value	for	its	equity	is	and	what	interest	rate	
+it	should	be	paying	on	its	debt.
+5
+Measures	of	Financial	Leverage
+¨ Debt	to	Capital =	Debt/	(Debt +	Equity):	This	is	a	measure	
+of	how	much	of	the	capital	in	a	company	comes	from	
+debt.	It	can	be	measured	as	accountants	see	value	(with	
+book	values	for	debt	and	equity)	or	as	the	market	sees	it	
+(with	market	values	for	debt	and	equity).
+¨ Debt	to	Equity =	Debt/Equity:	This	is	a	close	variant	of	
+debt	to	capital,	with	debt	stated	as	a	percent	of	equity,	
+again	in	book	value	or	market	value	terms.
+¨ Debt	to	EBITDA =	Debt/EBITDA:	This	measures	how	
+much	debt	a	company	has	relative	to	the	cash	it	
+generates	from	operations,	before	taxes	and	capital	
+expenditures.
+6
+The	Cross	Sectional	Distribution
+7
+A	Country-by-Country	Look
+8
+Most	and	Least	Levered	Sectors
+9
+A	Year	of	Change?
+¨ Tax	changes	coming:	The	coming	year	is	likely	to	be	one	of	
+change,	at	least	for	the	US	tax	code	and	almost	every	version	
+of	tax	reform	that	is	being	talked	about	will	reduce	the	
+marginal	tax	rate	and	therefore	the	tax	benefits	of	debt.	In	
+fact,	there	are	some	versions	where	the	entire	tax	benefit	of	
+debt	will	be	removed.	
+¨ With	big	consequences:	While	I	believe	that	this	will	be	
+healthier	in	the	long	term,	it	will	be	a	seismic	shift	that	will	
+have	massive	effects	not	just	on	corporate	borrowing	but	on	
+the	corporate	bond	market.	
+¨ We’re	not	ready:	I	am	not	sure	that	we	are	ready	for	that	big	
+a	change.	So,	small	steps	way	from	the	status	quo,	which	is	
+skewed	strongly	towards	borrowers,	may	be	all	that	you	can	
+expect	to	see.

@@ -1,0 +1,203 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfexams/GoogleGCar.pdf
+
+GOOGLE GCAR: CASE ANALYSIS
+Aswath Damodaran
+2
+Discrete and Continuous Time
+3
+Summary of Conclusions
+¨ On a stand-alone basis, this project is a value-adding project in the finite life case, 
+albeit only marginal, but with the synergy benefits counted in, it does do better .
+¨ The average return on capital, in the finite life case, is 10.67%, without synergy, and 11.62%, 
+with synergy, both of  which are higher than the cost of capital for the Google GCar, which is 
+7.84%. 
+¤ The net present value of the cash flows on Google GCar, using a cost of capital of 7.84%
+nIs $1,744 million, under the finite life assumption of a of 10 years. Adding the present value 
+of the side benefits to Google Software/Devices, the NPV is  +$2,989 million.
+nIs $ 16,382 million, under the assumption of an infinite life. Adding the present value of the 
+side benefits of the stories, the NPV is $18,471 million.
+n The IRR is 9.42% with a  10-year life and 10.77%with the infinite life, both of which are greater 
+than the cost of capital.
+¨ All ofthe numbers in the case are based upon the assumptions that Google is able 
+tocapture its forecasted share of the electric car market, andpreserve pricing 
+power . Relaxing one or both assumptions causes NPV to drop significantly.
+¨ We would recommend that Google enter the electric car market.
+5
+Cost of Capital: Your numbers
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+<6% 6-6.5% 6.5-7% 7-7.5% 7.5-8% 8-8.5% 8.5-10% >10%
+Cost of Capital for Gcar
+6
+Google GCar: Operating Income & 
+Incremental Operating Income
+7
+Return on Capital Computation
+8
+Some Thoughts on Operating Income...
+¨There are a number of allocation mechanisms that 
+can be used to compute operating income, and the 
+return on capital is affected by decisions on 
+allocation.
+¨Your choices on depreciation have profound effects 
+on return on capital. Using a more accelerated 
+depreciation method would raise your return on 
+capital substantially.
+¨Note that the operating income is computed after 
+marginal taxes (Why?) and does not include the tax 
+savings due to interest expenses (Why?).
+9
+Your findings: Return on Capital
+0
+1
+2
+3
+4
+5
+6
+7
+8
+<5% 5-7.5% 7.5-10% 10-12.5% 12.5-15% 15-20% >20%
+Return on Capital for Gcar
+10
+Finite Life case assumptions
+¨Incremental Effects
+¤When analyzing the cost of capacity expansion, we consider the cost of the 
+system in year 3 ($ 5,151 million) but we show the savings in year 8 ($ 5,414  
+million). Similarly, for depreciation, we show the depreciation on the existing 
+system of $ 257.575 million from year 4-8, but show the differential 
+depreciation of -$13.14 million between the two systems in years 9 & 10. 
+¤Since we are planning on wrapping up the business in 10 years, there is no 
+need for significant capital maintenance expenditures. Even if you do assume 
+capital maintenance, it should scale down as you approach year 10.
+¨Both working capital investments and capital investments are assumed to 
+occur at the start of the year and are therefore shown at the end of the 
+previous year.
+11
+Incremental Cash Flows -Finite Life
+12
+The Side Benefits for Google Devices
+How would you have approached this section 
+-If you had just been given incremental revenues?
+-If you had been given a pre-tax operating margin?
+-If you had additional expenses to generate these revenues?
+-If you had to wait to get these synergies?
+13
+Finite Life NPV
+14
+NPV with 10-year life
+0
+2
+4
+6
+8
+10
+12
+<-2500  -250O to -1000  -1000 to 0 0 to 50 0 500 to 1000 1000 to 2000 2500 to 5000 >5000
+NPV for 10-year Life
+15
+Explanations for Infinite Life Case
+¨Whenextendingtheprojectlifetoinfinity,Ididmakesome
+changestotheassumptionsaboutcapitalmaintenance.
+¤Madethecapitalexpenditureexceeddepreciationby1%(theinflation
+rate)allthroughthe10years.Essentially,Iamassumingthatwhatever
+depletionoccursinbookvaluebecauseofdepreciationismadeupby
+newcapitalmaintenanceexpendituresinthatyear,withtheinflation
+adjustment.
+¤Setcapitalexpenditureshigherthandepreciation,usingtheinflation
+adjustmentfor10years(=200*1.0110),inyear11,toallowforthefact
+thatinperpetuity,Iwouldhavetokeepcapacitylookingpristineto
+havegrowthof1%ayearforever.
+¨Thesynergybenefitsnowcontinueinperpetuityaswell.
+16
+Incremental Cash Flows-Infinite Life
+17
+The terminal value: Assumptions and 
+Calculation
+¨After year 10, I assume that the number of subscribers is 
+level, but subscription prices grow at the inflation rate of 1% 
+a year .
+¨My cash flow in year 11 is much lower than my cash flow in 
+year 10, because I no longer have add on subscribers. 
+¨Terminal Value 
+= CF in year 11/ (Cost of capital –g)
+= $ 4,753 m/(.0784-.01) = $ 69,408 million
+18
+Finite versus Infinite: The Cash Flow Trade off
+Year Finite Longer Life Trade Off Cashflow
+0 $(27,598,000) $(27,598,000) $                   -
+1 $        70,222 $  (1,444,778) $      (1,515,000)
+2 $    1,112,325 $     (627,139) $      (1,739,464)
+3 $  (2,890,624) $  (4,855,232) $      (1,964,608)
+4 $    3,588,368 $    1,389,925 $      (2,198,443)
+5 $    5,739,296 $    3,290,165 $      (2,449,131)
+6 $    5,994,271 $    3,511,778 $      (2,482,493)
+7 $    6,262,119 $    3,743,752 $      (2,518,367)
+8 $  11,957,775 $    9,400,881 $      (2,556,894)
+9 $    6,771,391 $    4,173,164 $      (2,598,227)
+10 $  13,970,874 $  73,988,152 $      60,017,278
+19
+Value Added: NPV of Infinite Life Case
+20
+Consistency in growth and investment 
+assumptions
+After year 15 Capital Expenditure Assumption
+Project ends No (or very low) capital maintenance
+Let assets run down towards end of life
+Infinite life; g=0% Capital maintenance = Depreciation
+Maintain invested capital at base level
+Infinite life; g= inflationCapital maintenance > Depreciation
+Capital invested has to grow at inflation rate
+Infinite life; g> inflationCapital investment to increase capacity
+Capital maintenance > Depreciation
+Capital invested has to grow to reflect real 
+growth
+21
+Your findings: Infinite Life
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+< 0 0 to 25 00 2500 to 1000010000 to 1500015000 to 2000020000 to 3000030000 to 4000040000 to 50000 >5000 0
+NPV with longer life
+22
+Why Google may hold back…
+¨Search engine business is much too lucrative: Google’s 
+search box is one of the most lucrative products in 
+history, generating huge returns with very little 
+additional effort or capital invested, after its initial 
+success.
+¨Not their preferred habitat: Like any organization, Google 
+is afraid of entering new businesses with very different 
+capital requirements and business models than the ones 
+that they know.
+¨Technology fading: As a technology company, they know 
+how quickly technology can change, and an electric car is 
+more electronics product than automobile.
+23
+Final Conclusions
+¨Of the 38 groups that turned in numbers on this project,  5 
+decided that it should be rejected.
+¨31 groups suggested that the investment be made…
+¨2 groups suggested a conditional acceptance…
+¨If you did accept or reject, is it possible that the six weeks 
+since the case was written might have changed your views. 
+¤Why or why not?
+¤If the events of the last few weeks changed your views, what would you do 
+other than express regrets?

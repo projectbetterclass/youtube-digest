@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/leaseeffect.xls
+
+[legacy .xls workbook: leaseeffect.xls — see raw file]

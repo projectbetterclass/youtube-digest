@@ -1,0 +1,233 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/UserEconomics.pdf
+
+USER	AND	SUBSCRIBER	
+ECONOMICS	II:	VALUE	
+IMPLICATIONS
+Losses,	Network	Effects	and	Growth!
+2
+My	“uncertain”	Uber	user	valuation
+¨ Lots	of	assumptions:	My	Uber	user	valuation	was	based	
+upon	assumptions	piled	on	top	of	assumptions.
+¨ On	paltry	data:	Those	assumptions	were	based	upon	
+noisy,	dated	and	second-hand	data.
+¨ But	valuation	still	is	useful
+¤ Much	of	the	uncertainty	is	coming	from	the	future,	not	from	the	
+data.
+¤ Even	a	noisy	valuation	model	can	be	used	to	derive	propositions	
+about	value	(and	what	should	drive	value)
+¤ Those	propositions	can	be	used	by	investors	(to	ask	the	right	
+questions	of	companies)	and	by	managers	(to	make	the	trade	
+offs	that	are	part	of	business).
+3
+1.	Estimation	versus	Economic	Uncertainty
+¨ Estimation	uncertainty	comes	from	incomplete,	missing	or	
+misleading	information	provided	by	the	company	that	you	are	
+valuing.
+¨ Economic	uncertainty	is	driven	by	forthcoming	changes	in	the	
+business	that	the	company	operates	in,	as	well	as	macro	
+economic	factors.
+¨ The	first	can	be	reduced	by	obtaining	better	and	more	
+complete	information	but	the	latter	will	remain,	no	matter	
+how	time	you	put	in	and	data	analysis	that	you	do.
+¨ With	Uber,	it	is	economic	uncertainty	that	is	the	dominant	
+source.	So,	getting	better	information	from	Uber	(either	as	an	
+investor	or	when	it	goes	public)	is	going	to	do	little	to	reduce	
+uncertainty.
+4
+2.	Uncertainty	is	a	fact	of	life	(and	
+business)
+¨ Uncertainty	is	part	and	parcel	of	doing	business	and	
+you	cannot	wish	it,	pray	it	or	analyze	it	away.	
+¨ You	have	two	choices	when	it	comes	to	uncertainty.
+¤ You	can	deal	with	it	frontally	by	making	explicit	
+assumptions.	You	will	be	wrong	100%	of	the	time,	but	you	
+will	be	able	to	see	where	you	are	wrong	and	adjust	your	
+valuation.
+¤ You	can	go	into	"denial"	model	and	make	implicit	
+assumptions	about	variables.	When	pricing	by	looking	at	
+what	others	are	paying	for	users	in	similar	companies,	you	
+are	making	assumptions	about	all	of	the	variables	as	well,	
+but	those	assumptions	are	implicit.
+5
+3.	Uncertainty	can	be	visualized
+6
+User	Cost	Propositions
+• Profits	are	better	than	losses:	If	you	are	an	investor	in	a	
+business,	you	would	rather	that	the	business	make	money	
+than	lose	money.
+• Young	companies	lose	money:	If	you	have	a	young	company,	
+you	should	expect	the	company	to	make	losses,	even	if	it	is	a	
+valuable	business.
+• Not	all	losses	are	created	equal:	For	young	growth	
+companies,	dependent	upon	users	or	subscribers,	there	are	
+good	ways	to	lose	money	and	bad	ways	to	lose	money.
+• Investor	beware:	To	invest	in	these	companies,	you	need	to	
+know	why	they	lost	money,	not	just	how	much.
+7
+1.	Existing	User	versus	New	User	Costs
+User	Value	Proposition	1:	A	money-losing	company	
+that	is	losing	money	providing	service	to	existing	
+users/customers	is	worth	less	than	a	company	with	
+equivalent	losses,	where	the	primary	expenses	are	
+coming	from	customer	acquisitions.
+8
+2.	Fixed	versus	Variable	Costs
+¨ User	Value	Proposition	2:	A	company	whose	
+expenses	are	primarily	fixed	(will	not	grow	with	
+revenues)	will	be	worth	more	than	an	otherwise	
+identical	company	whose	expenses	are	variable	
+(track	revenues).
+9
+User	Growth	Propositions
+• For	young	companies,	we	generally	view	growth	as	good	
+and	reward	companies	with	higher	growth	rates	with	
+higher	value.
+• Not	all	growth	is	created	equal.	Some	growth	strategies	
+create	more	value	than	others	and	some	may	even	
+destroy	value.
+• In	a	user	or	subscriber	based	model,	there	are	two	ways	
+you	can	grow	your	revenues.	One	is	to	get	existing	users	
+to	buy	more	or	your	product	or	service	or	perhaps	other	
+products	and	services	that	you	come	up	with.	The	other	
+is	by	trying	to	acquire	new	users.
+10
+1.	Growth	from	Existing	Users
+11
+2.	Growth	from	New	Users
+12
+Growth	Proposition
+¨ User	Value	Proposition	3:	A	company	that	is	growing	
+revenues	by	increasing	revenues/user	is	worth	more	
+than	an	otherwise	similar	growth	company	that	is	
+deriving	growth	from	increasing	the	number	of	
+users/customers.
+¨ Young	companies	face	trade	offs	and	the	question	of	
+whether	to	allocate	resources	to	get	new	users	or	try	to	
+sell	more	to	existing	users	is	one	of	those.	
+¨ At	least	in	the	case	of	Uber,	the	numbers	seem	to	
+indicate	that	if	you	have	to	put	priorities,	it	should	be	on	
+getting	existing	users	to	use	the	service	more	than	to	
+keep	looking	for	new	users.
+13
+User	Business	Propositions
+¨ Looking	at	a	company	as	a	user	or	subscriber	based	
+company	can	be	useful	in	deciphering	how	and	why	they	
+make	the	strategic	and	business	choices	that	they	do.
+¤ From	Buzz	words	to	value:	A	user-focus	can	help	us	make	sense	
+of	the	focus	on	“big	data”	and	“networking	benefits”	that	many	
+of	these	companies	have	and	link	them	more	directly	to	value.
+¤ Revenue	Models:	A	user	focus	can	help	determine	what	type	of	
+revenue	model	(subscription,	advertising	or	transaction)	will	
+optimize	value	for	a	company.
+¤ Real	Options:	Does	a	company	with	a	large	and	loyal	customer	
+user	base	have	optionality	(leading	to	a	premium	being	added	to	
+its	value)?	While	real	options	are	notoriously	difficult		to	value,	
+in	this	context,	a	user	focus	can	give	us	direction.
+14
+1.	The	Great,	the	Good,	the	Bad	and	the	
+Ugly!
+15
+Network	Benefits	and	Big	Data:	Keys	to	
+being	exceptional
+¨ User	Value	Proposition	4:	 The	exceptional	firm	will	be	
+the	one	that	is	able	to	find	a	pathway	to	high	value	per	
+user	and	a	low	cost	to	adding	a	new	user	in	a	market	
+where	its	competitors	struggle	with	either	low	value	per	
+user	or	high	costs	of	acquiring	users.
+¨ The	keys	to	being	an	exceptional	user-based	company	lie	
+in	utilizing:
+¤ Network	Benefits,	to	reduce	your	cost	per	new	user,	as	you	get	
+bigger .
+¤ Big	Data that	you	have	accumulated	on	your	users	to	(a)	
+customize	existing	products/services	to	meet	user	preferences,	
+(b)	create	new	products	or	services	that	meet	perceived	user	
+needs	or	(c)	for	differential	pricing
+16
+2.	Revenue	Models
+Subscription Transaction Advertising
+User	Stickiness	(User	life	&	
+Renewal	Probability)
+High	(High	life	&	
+renewal	probability)
+Intermediate	
+(Intermediate	life	&	
+renewal	probability)
+Low	(Low	life	&	renewal	
+probability)
+Revenue	per	User	
+Predictability	(Discount	
+rate)
+High	(Low	Discount	
+Rate)
+Low	Predictability	
+(High	Discount	Rate)
+Intermediate	(Average	
+Discount	Rate)
+Revenue	per	User	Growth	
+(Annual	Growth	Rate)
+Low	(Low	growth	rate	in	
+revenues/user)
+Low	(High	growth	rate	
+in	revenues/user)
+Intermediate	
+(Intermediate	growth	
+rate	in	revenues/user)
+Growth	rate	in	users	(CAGR	
+in	#	Users)
+Low	(Low	CAGR	in	#	
+users)
+Intermediate	
+(Intermediate	CAGR	in	
+#	users)
+High	(High	CAGR	in	#	
+users)
+Cost	of	adding	new	users	
+(Cost/New	User)
+High	(High	Cost/New	
+User)
+Intermediate	
+(Middling	Cost/New	
+User)
+Low	(Low	Cost/New	
+User)
+17
+The	“best”	revenue	model
+¨ User	Value	Proposition	5:	 The	"optimal"	revenue	
+model	will	vary	across	firms	depending	upon where	
+they	are	in	the	life	cycle,	the	product	or	service	
+offering	and	whether	they	are	focused	on	user	
+growth,	revenue	growth	or	revenue	sustainability.
+¨ An	advertising-based	model	will	allow	for	much	
+more	rapid	growth	in	a	firm's	early	years,	a	
+subscription-based	model	will	generate	more	
+sustainable	growth	and	a	transaction-based	model	
+has	the	greatest	potential	for	revenue	growth	from	
+existing	users.
+18
+3.	Real	Options
+19
+The	Value	of	Optionality
+¨ User	Value	Proposition	6:	The	value	of	optionality	
+from	a	user	base	will	be	greatest	at	firms	with	lots	of	
+sticky,	intense	users in	businesses	where	the future	
+is	unpredictable because	of	changes	in	
+product/service	technology	and	customer	tastes.
+¨ The	value	of	a	real	option	comes	from	exclusivity,	
+and	to	the	extent	that	you	have	sticky,	intense	users,	
+you	have	a	base	that	you	can	use	to	experiment	with	
+other	products	and	services,	with	the	value	scaling	
+up	with	the	number	of	uses.
+20
+Bottom	Line
+¨ The	most	direct	applications	of	a	user	or	subscriber	
+based	model	is	in	the	valuation	of	companies	like	Uber,	
+Facebook	and	Netflix.	
+¨ That	said,	more	and	more	companies	are	seeing	benefits	
+in	shifting	from	their	traditional	business	models	to	user-
+based	ones.	Apple’s	billion	iPhone	users,	Amazon’s	
+seventy	million	Prime	members	and	Microsoft’s	hundred	
+million	365	users	are	all	giving	these	companies	their	
+versions	of	user-based	models.
+¨ Understanding	user	economics	is	key	to	investing	in	
+these	companies	(valuing	or	pricing)	and	in	managing	
+them.

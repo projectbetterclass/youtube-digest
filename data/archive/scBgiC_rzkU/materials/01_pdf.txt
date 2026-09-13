@@ -1,0 +1,304 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate1for2021.pdf
+
+A LOOK BACK AT A MOST 
+FORGETTABLE YEAR: MY 
+JANUARY 2021 DATA UPDATE
+Aswath Damodaran
+2
+An Annual Ritual
+¨I spent the first week of 2021 in the same way that I have 
+spent the first week of every year since 1995, collecting data 
+on publicly traded companies and analyzing how they 
+navigated the cross currents of the prior year, both in 
+operating and market value terms.
+¨I knew that this year would be more challenging than most 
+other years, for two reasons. 
+¤The first was that the shut down of the global economy, that was 
+initiated by the spreading of COVID early last year, had lasting and 
+divergent effects on the operations of companies in different sectors, 
+and across the world. 
+¤The second was that, starting mid-year in 2020, markets and the real 
+economy moved in different directions, with the former rising on the 
+expectations a post-virus future, and the latter languishing, as most of 
+the world continued to operate with significant constraints.
+3
+A Skeptical Look at Big Data
+1. If everyone has it, no one does: I believe that if 
+everyone has a resource or easy access to that 
+resource, it is difficult to make money off that resource. 
+Applying that concept to data, the most valuable data 
+is unique and exclusively available to its owner, and the 
+further away you get from exclusivity, the less valuable 
+data becomes.
+2. Data is not dollars:Data is valuable only if it can be 
+converted into a product or service, or improvements 
+thereof, allowing a company to capture higher earnings 
+and cash flows from those actions. Data that is 
+interesting but that cannot be easily monetized 
+through products or services is not as valuable.
+4
+My motivation
+1. Gain perspective: One of the challenges of being a business or an investor is 
+developing and maintaining perspective, i.e., a big picture view of comprises normal, 
+high or low. 
+2. Clear tunnel vision: Investors are creatures of habit, staying in their preferred 
+markets, and often within those markets, in their favored sectors. Equity research 
+analysts are even more focused on handfuls of companies in their assigned 
+industries. So what? By focusing so much attention on a small subset of companies, 
+you risk developing tunnel vision.
+3. Expose BS: I know that everyone is entitled to their opinions, but they are not 
+entitled to their facts. I am tired of market experts and analysts who make 
+assertions, often based upon anecdotal evidence and often plainly untrue, to 
+advance a thesis or agenda. The big questions aboutleverage, taxes and profitability 
+beg to be addressed with data, not emotions or opinions. 
+4. Challenge conventional wisdom: Investing has always had rules of thumb on how and 
+when to invest, ranging from using historical PE or CAPE ratios to decide if markets 
+are over valued, to simplistic rules (for individual stocks. It is very likely that these 
+rules of thumb were developed from data and observation, but at a very different 
+point in time, but markets and companies have moved on, and they no longer work.
+5
+DataandBias
+¨I also want to dispense with the notion that data is objective
+and that numbers-focused people have no bias. 
+¤If you have a bias or a preconception, it is amazing how quickly you can 
+bend the data to reflect that bias or preconception. 
+¤Thestrongeryourpreconceptions,themoreyouwilllookfordata that 
+back them up.
+¨As an exercise, take a lookat myupdated industry averages 
+for taxespaid by US companies in 2021. From past 
+experience, I predict that numbers in this table will be quoted 
+by journalists, economists and even politicians during the 
+year, but the tax rate measure (since I report several different 
+measures) that they quote will reflect their biases. Put simply, 
+if you find my data quoted elsewhere, I would suggestthat 
+you visit the source and make your own judgments.
+6
+The Sample
+¨The focus in markets is often on subsets of firms, usually with good 
+reason. 
+¤In general, larger firms (especially in market value terms) get more 
+attention that smaller ones, because their movements in their value are 
+more consequential for more investors.
+¤Publicly traded firms generally garner more attention than privately 
+owned businesses, partly because they are larger, but also because there 
+are is more information disclosed and investment opportunity with the 
+former. 
+¤Companies in developed and more liquid markets are in the 
+spotlight more than their counterparts in emerging markets. That said, 
+focusing on just large or developed market companies can create biased 
+samples and skew assessments about market and operating performance.
+¨It is to avoid this that I started by looking at all publicly traded 
+companies that were traded on January 1, 2021, and arrived at a 
+sample of 46,579 firms, spread across 136 countries.
+7
+Sample: Geography
+8
+Ssmple: Sector Breakdown
+9
+Sample: Company Age
+10
+Data: General Observations
+¨ Currency: One of the challenges of dealing with a global sample is that you are working with 
+accounting and market numbers quoted in multiple currencies. I will employ two techniques. 
+¤ First, all value numbers (like market capitalization, debt or revenues) that I aggregateor average will be 
+converted into US dollars to ensure currency consistency. 
+¤ Second, most of the numbers that I report will be ratios, where the currencies are no longer an issue.
+¨ Missing Data: Information disclosure requirements vary across the world, and there are some data 
+items that are available for some companies or some markets, and not for others. Rather than 
+remove all firms with missing data, which will eliminate a large portion of my sample, I keep the 
+firms in the sample and report only the variable/metric that is affected by the missing item as 
+"NA".
+¨ Accounting Differences: In addition to disclosure differences, there are also accounting differences 
+in revenue recognition, expensing rules, depreciation methods and other details across markets. I 
+work with the publicly available data, recognizing that net income for a Japanese company may be 
+measured differently than earnings for an Indian company, and accept that this may skew the 
+results. 
+¨ Source Reliability and Errors: I obtain my raw data from S&P , Bloomberg and others, and while they  
+obtain the data from computerized databases in different markets that collect public filings and at 
+every stage in this process, there is the possibility of errors. I do run some simple error checks to 
+eliminate obvious mistakes, but I am sure that there are others that I miss. My defense is that, 
+unless the mistake is on a very large scale, the impact it has on my group statistics is small, simply 
+because of my sample size. In addition, there is also the possibility of accounting fraud in some 
+companies, and there is little or nothing that can be done about them.
+11
+Data: Macro
+¨ US Equity Risk Premiums: The equity risk premium is the price of risk in equity markets. In my view, 
+it is the most comprehensive measure (much more so than PE ratios or other pricing multiples) of 
+how stocks are being priced, with a higher (lower) equity risk premium correlating with lower 
+(higher) stock prices. 
+¤ The conventional approach to measuring this premium is looking at past returns on stocks and treasuries (or 
+something close to riskfree) and measuring the difference in historical returns and I report the updated 
+levels (through 2020) for historical premiums for stocks over treasuries in this dataset. 
+¤ I have argued that this is both backward looking and static, andhave computed and reported a forward-
+looking and dynamic equity risk premium, based upon current stock price levels and expected future cash 
+flows; you can find both the current level and past values in this dataset.
+¨ Country Risk Premiums: In a world where both investing and business is globalized, we need equity 
+risk premiums for markets around the world, not only to value companies listed in those markets, 
+but also to value companies that have operations in those countries. 
+¨ Bond Default Spreads: The bond default spread is the price of risk in corporate bond (lending) 
+markets, and as with the equity risk premium, higher (lower) spreads go with lower (higher) 
+corporate bond prices. In the same dataset where I compute historical equity risk premiums, I 
+report historical returns on corporate bonds in two ratings classes (Moody’s Aaaand Baa ratings). I 
+also report estimates of the default spreads based upon current yields on bonds in different ratings 
+classes and the current riskfreerate.
+12
+Data: Micro Methods 
+¨ Industry: Data can be consolidated by geography, industry or company size, and I use all three, to some extent or the other . 
+My primary consolidation is by industry and I break down my sample of 46,579 firms into 94 industry groupings. 
+¨ Geography: There is one dataset where I look at companies broken down by country, and I report a number ofdifferent 
+statistics for 136 countries. I would caution you to take this data with a grain of salt, since there are only a handful of listings 
+in some country. I do report much more data for a broader geographical classification, where I classify firms into six broad 
+geographical groupings: Note that while emerging markets is a very large and diverse group, I do report statistics for India 
+and China, two of the bigger components, separately.
+¨ Averaging: I hope it does not sound patronizing, but I want to explain how I compute group values (averages), because it is 
+not as obvious as it sounds. For instance, you could compute the PE ratio for each company in the group and take a simple 
+average, but that approach has two problems. First, it weights small firms as much as large firms, and outliers can cause the
+average to take on outlandish values. Second, it eliminates firms that have negative earnings (and thus have no PE ratios) 
+from the sample, potentially creating biased samples. 
+¤ Using a weighted average PE ratio can counter the first problem and using a median can reduce the outlier effect, but neither
+approach can deal with the second problem (of sample bias). 
+¤ For most of my industry averaging, I use an aggregation approach, where I compute ratios using aggregated values; to compute 
+the PE ratio for chemical companies, I add up the market capitalizations of all chemical companies and divide that number by the
+aggregate net income of all chemical companies (including money losers). This ensures that (a) all companies are counted, (b)the 
+computed number is weighted since larger companies contribute more to the aggregate and (c) the risk of outliers is reduced, 
+since it is less likely to occur in a large sample than for an individual firm.
+¨ Current data: The focus of this data update is to report on how companies did in 2020, rather than to provide historical 
+time series. Since I am updating the data in early January, and the complete numbers for 2020 will not be available until 
+March or April at the latest, I will be using the trailing twelve-month numbers for operating variables (like revenues and 
+operating income) to compute ratios. For most companies, that will effectively be the twelve months through September 
+30, 2020, that will be captured in the data.
+13
+Data: Micro Variables
+Risk Measures
+1. Beta
+2. Standard deviation in stock 
+price
+3. Standard deviation in 
+operating income
+4. High-Low Price Risk Measure
+Cost of Funding
+1. Cost of Equity
+2. Cost of Debt
+3. Cost of Capital
+Pricing Multiples
+1. PE &PEG
+2. Price to Book
+3. EV/EBIT and EV/EBITDA
+4. EV/Sales and Price/Sales
+Profitability
+1. Net Profit Margin
+2. Operating Margin
+3. EBITDA, EBIT and EBITDAR&D 
+Margins
+Financial Leverage
+1. D/E ratio & Debt/Capital (book 
+& market)
+2. Debt/EBITDA
+3. Interest Coverage Ratios
+4. Accounting lease debt vs my 
+estimates
+Cash Flow Add-ons
+1. Cap Ex & Net Cap Ex
+2. Non-cash Working Capital as % 
+of Revenue
+3. Sales/Invested Capital
+4. COVID effects on market cap 
+and earnings
+Returns
+1. Return on Equity
+2. Return on Invested Capital
+3. ROE –Cost of Equity
+4. ROIC –Cost of Capital
+Dividend Policy
+1. Dividend Payout & Yield
+2. Dividends/FCFE & (Dividends + 
+Buybacks)/ FCFE
+Risk Premiums
+1. Equity Risk Premiums
+2. Bond Default Spreads
+14
+Data:COVID effects
+¨ COVID effects: To capture how COVID has played out in different sectors and geographies, I 
+computed the changes in aggregate market capitalization during 2020 broken down by sub periods 
+(1/1/20 -2/14, 2/14-3/20, 3/20 -9/1 and 9/1 -12/31/20), reflecting the ups and downs in the 
+overall market. I also looked at the change in revenues and operating income over the last twelve 
+months (October 2019 -September 2020) compared to revenues in the year prior (October 2018 -
+September 2019). 
+¨ Operating metrics: My computations for operating margins and accounting returns (returns on 
+equity and capital) reflect the COVID effect on earnings in 2020, and not surprisingly, you will see 
+that their values are much lower for the most damaged sectors (restaurants, airlines) than in prior 
+years. If you are comparing across companies in these sectors, that may not be an issue, but if you 
+are valuing companies and want to find a target value for margins or accounting returns, you will 
+be better served using my archived values for these variables from 2019.
+¨ Pricing metrics: I compute and report a range of pricing multiples from PE ratios to Enterprise 
+Value (EV) to sales ratios, but as with the operating metrics, COVID has left its imprint on the 
+numbers this year . As market capitalizations have quickly retraced their losses, but operating 
+variables have not, the multiples reflect that disconnect. They are either not meaningful in some 
+sectors, which are reporting aggregated losses, or at elevated levels in others (where the collective 
+earnings are down significantly, but market values are not). Again, while this should not be an issue 
+with cross company comparisons, there are two cautionary notes. The first is that investors who 
+come in with strong preconceptions of what comprises cheap or expensive in pricing ratio terms or 
+historic norms will find that everything looks exorbitantly priced. The other is that you will lose 
+large segments of your peer groups if you stick with multiples like PE ratios for comparisons, since 
+so many companies will be money losing.
+15
+Data Access and Use
+¨ Data access:The data is accessible on my website, if you click on data. The data for 2020 is 
+available under current data, and data from previous years under archived data. If you do click on 
+current data, you will see the data classified into groupings based upon how I see the world 
+(corporate governance, risk, investment returns, debt, dividends and pricing). You can see the data 
+online for US companies by clicking on the links next to the data item, but I would strongly 
+recommend that you download the excel spreadsheets that contain the data instead. Not only will 
+this let you access data for other geographical regions, but each excel spreadsheet includes 
+descriptions of the variables reported in that dataset and many include short YouTube videos 
+explaining the data.
+¨ Data Use:I know that those who download my data use it in many different contexts. If you use it 
+at their jobs as corporate finance or equity analysts, I am glad to take some of that burden off you, 
+and I hope that you find more enjoyable uses for the time you save. If you use my data to buttress 
+an argument or debunk someone else’s, I wish you the best, as long asyou don’t make it personal. 
+If you use is it to back your case in legal settings, go ahead, but please do not involve me formally. I 
+believe that courts are a graveyard for good valuation practices and while I do not begrudge you, I 
+have no interest in playing that game.
+¨ Data Questions: If you have a question about how a variable is computed, please check the 
+website first, since the question has probably been answered already, but if you cannot find that 
+answer, you know how to find me, and I will try to address your issues. As I mentioned earlier, the 
+excel spreadsheets that contain the data include the descriptions of how I compute the variables.
+16
+Useandpassiton…
+Aswath Damodaran
+16
+¨I know that the numbers (in terms of companies and variables) makes this 
+data update sound like daunting work, but I will make a confession. I 
+enjoy the process, even including the messy details, and it prepares me 
+for the year to come. In fact, the time that this aggregated data saves me 
+through the year, when I value and analyze companies, represents a huge 
+multiple of the time I spend putting it together. 
+¨Put simply, if you are tempted to anoint me for sainthood for sharing my 
+data, I would do it anyway and sharing it costs nothing, while potentially 
+benefiting you.
+¨In sum, I hope you find the data that I provide useful, and if you do, you 
+do not have to thank me or even acknowledge me as the source. In the 
+next month, I will add about a dozen posts on what I see in the data, but I 
+will do so with the recognition that change is the only constant and that 
+assuming that things always revert backto historic norms is not an 
+investment philosophy.
+17
+The Caveats
+Aswath Damodaran
+17
+¨Numbers ≠ Facts: While the numbers, once reported, look precise, they 
+are not facts but opinions. Thus, when you look at the debt ratios that I 
+report for a sector, it is worth emphasizing that I have capitalized lease 
+commitments and added them to all interest bearing debt (short and long 
+term) to arrive at total debt, yielding a different number that what you 
+may see on a different service. I have tried to be as transparent as I can in 
+making my estimates but they remain estimates.
+¨Past is not always prologue: I believe that knowing history is useful in 
+investing, but trusting it to repeat itself is dangerous.
+¨Just because everyone does it does not make it right: As you look at the 
+datasets, you will see patterns in investment, financing and dividend 
+policy in sectors. While there are often good reasons for these 
+differences, there are also bad ones, with inertial on top of that list. The 
+reality is that there are established corporate finance policies in many 
+sectors that no longer make sense, because the sectors have changed 
+fundamentally over time.

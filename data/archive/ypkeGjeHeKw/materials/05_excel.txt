@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/dbtfundJapan.xls
+
+[legacy .xls workbook: dbtfundJapan.xls — see raw file]

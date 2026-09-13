@@ -1,0 +1,3 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pc/datasets/divfcfe.xls
+
+[legacy .xls workbook: divfcfe.xls — see raw file]

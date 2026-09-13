@@ -1,0 +1,101 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate5.pdf
+
+DATA	2017	UPDATE	5:	A	TAXING	
+YEAR	AHEAD?
+Aswath	Damodaran
+2
+The	Tax	Effect	on	Value
+3
+Tax	Rate	Specifics
+Tax	Rate	Measure Computed	as Used	in
+Marginal	Tax	Rate The	tax	rate	on	your	last	
+dollars	of	income,	usually	
+obtained	from	the	tax	code	
+(not	the	company
+financials)
+Computing after-tax	cost	
+of	debt	and	levered	beta,	
+in	computing	the	tax	
+savings	from	interest	
+expenses
+Effective Tax	Rate Taxesfrom	Income	
+Statement/	Taxable	
+Income	from	Income	
+Statement;	it	is	an	accrual	
+number,	reported	in	
+financials
+Computing	after-tax	
+earnings as	a	starting	point	
+to	get	to	taxes.	Difference	
+between	accrual	and	cash	
+taxes	shows	up	as	a	
+working	capital	change.
+Cash	Tax	Rate Cash	Taxes	Paid/	Taxable	
+Income. Usually	requires	
+calculation.
+Not used.
+4
+The	Marginal	Tax	Rate
+5
+Effective	Tax	Rate	Distribution:	US	
+companies
+6
+The	Effective	Tax	Rate	by	Country
+7
+Paying	their	fair	share?
+Sub Group Effective Tax Rate
+Africa and Middle East 15.48% 
+Australia & NZ 26.76% 
+Canada 19.68% 
+China 21.72% 
+EU & Environs 23.03% 
+Eastern Europe & Russia 19.88% 
+India 27.65% 
+Japan 31.07% 
+Latin America & Caribbean 22.91% 
+Small Asia 21.59% 
+UK 22.26%
+United States 26.22%
+8
+Effective	Tax	Rate	by	Industry	Group
+9
+Tax	Law	Changes?	Existing	System	tweaks
+¨ Tweaks	to	existing	tax	system:	The	marginal	tax	rate	
+is	lowered,	with	some	tax	deductions/credits	taken	
+away	and	changes	to	how	foreign	income	gets	taxed	
+(a	partial	move	to	a	regional	tax	system).
+¨ Winners	and	Losers
+¤ Winners:	Companies	that	pay	high	effective	tax	rates	and	
+use	little	debt.
+¤ Losers:	Companies	that	pay	low	effective	tax	rates,	using	
+deductions	that	will	be	lost,	and	use	lots	of	debt	in	funding	
+operations.
+10
+Tax	Law	Changes:	Radical	Alterations?
+¨ Replace	the	current	corporate	income	tax	with	a	
+"Destination	Based	Cash-flow	Tax"	(DBCT),	a	value	added	
+tax	system,	with	a	deduction	for	wages.	The	tax	rate	that	
+you	pay	as	a	company	will	be	a	function	of	how	much	of	
+your	input	you	import	and	where	you	sell	your	output.	
+¨ Winners	and	Losers
+¤ Winners:	Companies	with	products	and	services	that	are	entirely	
+US-based	that	then	export	these	goods	and	services.
+¤ Losers:	Companies	that	are	heavily	reliant	on	imported	inputs	
+that	sell	their	products	in	the	United	States	would	pay	the	most	
+in	taxes..
+11
+The	DBCT	Effect	on	taxes	at	a	US	firm
+12
+Advice	for	the	tax	law	writers
+¨ Keep	it	simple:	When	tax	law	gets	complex,	bad	corporate	
+behavior	seems	to	follow.	Unfortunately,	the	way	legislative	
+processes	work	seems	to	conspire	against	simplicity,	as	
+legislators	trying	to	protect	specific	industries	try	to	make	
+sure	that	their	ox	does	not	get	gored.
+¨ The	tax	code	is	not	an	effective	behavior	modifier	for	
+businesses:	I	understand	the	desire	of	some	to	use	tax	law	as	
+a	corporate	behavior	modification	tool	but	it	is	not	a	very	
+effective	one.
+¨ Make	it	predictable:	There	are	enough	uncertainties	for	a	
+company	to	deal	with.	Adding	uncertainty	about	future	taxes	
+only	makes	it	worse.

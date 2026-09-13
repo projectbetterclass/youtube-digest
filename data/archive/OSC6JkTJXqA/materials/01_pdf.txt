@@ -1,0 +1,737 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/ProjSumm20.pdf
+
+THE FAT LADY IS SINGING: SPRING 
+2020
+Aswath Damodaran
+2
+Ponderous Thoughts, or maybe not
+1. There are few facts and lots of opinions.
+a. Even the givens (cash & risk free rate) are not.
+b. With accounting and market numbers, all bets are off.
+2. The real world is a messy place.
+a. Money making firms can become money losers
+b. Companies can be restructured/ given facelifts
+3. Models don’t compute values and optimal paths. 
+You do.
+4. Change is the only constant. Everything changes all 
+the time.
+3
+The most analyzed companies this 
+semester were..
+Company Number of analyses
+Netflix 9
+Activision Blizzard 7
+Lululemon 6
+Take-Two Interactive 6
+Chipotle 6
+Electronics Arts 5
+Salesforce 5
+Starbucks 4
+4
+And here’s why you can do the same 
+company..
+Company 
+picked for 
+project
+Corporate 
+Governance 
+Measure (0-
+2)
+Regression 
+Beta
+Jensen's 
+Alpha (% 
+annualized)
+R Squared 
+(%)
+Bottom up 
+Levered 
+Beta (%)
+Cost of 
+Capital (%)
+Return on 
+Equity (%)
+Return on 
+Capital
+Optimal 
+Debt Ratio 
+(%)
+Change in 
+Value (in % 
+terms)
+Price per 
+share ($)
+Value per 
+share ($)
+Activision 
+Blizzard 1 0.76 -1.07% 11.27% 0.94 8.31% 11.74% 14.60% 40% 2.98% $73.10 $29.07
+Activision 
+Blizzard 0 0.69 54.83% 2.80% 0.69 4.49% 12.40% 7.30% 0 -4.97% $73.10 $68.72
+Activision 
+Blizzard 0 0.59 153.96% 59.00% 1.17 5.82% 12.34% 11.05% 30% 5% 73.14 17.04
+Activision 
+Blizzard 1 0.77 -0.23% 12.10% 1.11 10.24% 11.74% 12.44% 0% -2.33% $73.06 $17.64
+Activision 
+Blizzard 1 0.84 1.49% 11.60% 0.78 5.06% 11.74% 11.80% 10% -0.25% $73.32 $86.59
+Activision 
+Blizzard 1 0.88 1.36% 12.82% 1.22 8.79% 11.74% 12.76% 10% 0.70% $59.42 $59.81
+Activision 
+Blizzard 1 0.87 0.36% 8.95% 0.85 5.57% 12.42% 11.49% 10% 1.43% 73.1 35.53
+5
+The Breakdown in the Classical Objective 
+Function
+STOCKHOLDERS
+Managers put
+their interests
+above stockholders
+Have little control
+over managers
+BONDHOLDERS
+Lend Money
+Bondholders can
+get ripped off
+FINANCIAL MARKETS
+SOCIETYManagers
+Delay bad
+news or 
+provide 
+misleading
+information
+Markets make
+mistakes and
+can over react
+Significant Social Costs
+Some costs cannot be
+traced to firm
+6
+I. Where does the power lie?
+Shareholders have no power
+17%
+Shareholders have some 
+power
+75%
+Shareholders have lots of 
+power
+8%
+WHERE THE POWER LIES: SPRING 2020
+7
+II. Who is your marginal investor?
+From Spring 2019
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+Small Large US Europe Em erging Markets
+The Marginal Investor
+Insti tutional Ind ividual Insider
+8
+III. Risk Profiles and Costs of Equity
+Cost of Equity
+Riskfree Rate :
+- No default risk
+- No reinvestment risk
+- In same currency and
+in same terms (real or 
+nominal as cash flows
++
+Beta
+- Measures market risk X
+Risk Premium
+- Premium for average
+risk investment
+Type of 
+Business
+Operating 
+Leverage
+Financial
+Leverage
+Base Equity
+Premium
+Country Risk
+Premium
+9
+Beta: The Standard Approach
+Beta of Equity
+Rj
+Rm
+Slope = Beta
+Intercept - Rf (1-Beta) = Jensen!s Alpha
+Top-Down Bottom-up
+1. Identify businesses that firm is in.
+2. Take weighted average of the
+unlevered betas of other firms in the
+business 
+3. Compute the levered beta using the
+firm!s current debt to equity ratio:
+!l = !u [1 + (1-tax rate) (Debt/Equity)]
+R2: 
+Proportion of 
+risk that is not 
+diversifiable
+10
+Your choice on beta approach 
+Typical reasons
+1. My company is unique. I cannot find comparable firms.
+2. My company is in only one line of business
+3. My bottom-up beta is too different from my regression beta
+89%
+9%
+2%
+Beta Approach
+Bott om up
+Regression
+Ot her
+11
+Beta Distribution
+12
+Jensen’s Alpha Distribution
+0
+10
+20
+30
+40
+50
+60
+<-20 %  -10--20%  -10 -0%  0-2% 2-5%  5-10%  10-20%  20-30%  30-40%  40-50%  >50%
+Jensen's Alpha: Spring 2020
+13
+R Squared
+0.
+20.
+40.
+60.
+80.
+100.
+120.
+0 To 0.05 0.05 To 0.1 0.1 To 0.2 0.2 To 0.3 0.3 To 0.4 0.4 To 0.5 0.5 and over
+R Squared Distribution
+R Squared
+Average 24.95%
+Median 20.90%
+14
+Cost of Capital
+Cost of Equity Cost of Debt
+= Riskfree Rate + Default
+Spread 
+Market-value Weights 
+of Debt & Equity
+Cost of Capital = Cost of Equiity (E/(D+E)) + After-tax cost of debt (D/(D+E))
+Equity 
+includes
+Options 
+Debt includes 
+all fixed 
+commitments
+Rating
+Actual
+Rating
+Synthetic
+Rating
+15
+Distribution of Current Market Value Debt 
+Ratios
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+<10% 10-20 % 20-30 % 30-40 % 40-50 % 50-60 % 60-70 % 70-80 % 80-90 % >90%
+Debt to Capital (Market): Spring 2020
+16
+IV . The Quality of Investments: The Firm View
+Cost of Capital = Cost of Equiity (E/(D+E)) + After-tax cost of debt (D/(D+E))
+After-tax Operating Income Capital Invested in Assets in Place
+Return on Capital = After-tax Operating Income/ Capital Invested in Assets in Place
+Return Spread =
+ROC - WACC
+EVA = (ROC - WACC) (Capital
+Invested)
+Cost of Equiity
+Net Income Equity Invested in Assets in Place
+Return on Equity= Net Income/ Equity Invested in Assets in Place
+Return Spread =
+ROE - COE
+Equity EVA = (ROE - COE) 
+(Equity Invested)
+17
+Return Spreads
+0
+10
+20
+30
+40
+50
+60
+<-5%  -2% to -5%  -2% to 0%  0-2%  2-5%  5-10%  10-15%  15-20% >20%
+Excess Returns (ROIC - Cost of Capital): Spring 2020
+18
+VI. The Optimal Financing Mix
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+<10% 10-20 % 20-30 % 30-40 % 40-50 % 50-60 % 60-70 % 70-80 % 80-90 % >90%
+Actual and Optimal Debt Ratios: Spring 2020
+Actua l Opt imal
+19
+Under versus Over Levered Firms
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Under levered >30% Underl evered 20-
+30%
+Underl evered 10-
+20%
+Undelevered <10% Ov er levred<10% Ov el ev ered 10-20%Ov el ev ered 20-30%Ov er levered >30%
+Under and Over leverage: Spring 2020
+20
+VIII. The Right Kind of Financing
+Sensitivity of Firm
+Value to Changes
+in Interest Rates
+Sensitivity of Firm
+Value to Changes
+in GDP
+Sensitivity of Firm
+Value to Changes
+in Inflation
+Sensitivity of Firm
+Value to Changes
+in Exchange Rates
+Duration of Assets Cyclicality of Firm Pricing Power Foreign Currency
+Exposure
+Duration of Debt Margin for Error Fixed versus
+Floating Rate
+Domestic versus
+Foreign Currency
+Debt
+21
+IX. Measuring Potential Dividends
+Begin with the net income (which is after interest expenses and taxes)
+Add back the non-cash charges such as depreciation & amortization
+Subtract out reinvestment needs
+- Capital expenditures
+- Investments in Non-cash Working Capital (Change)
+Subtract out payments to non-equity investors
+- Principal Repayments
+- Preferred Stock Dividends
+Add any cash inflows from new debt 
+- New Debt Issues
+To get to the Cash that is available for return to Owners
+22
+Dividends versus FCFE
+0
+20
+40
+60
+80
+100
+120
+<25% 25-50 % 50-75 % 75-10 0% 100-1 25% 125-1 50% 15-17 5% 175-2 00% >200 %
+(Dividends + Buybacks)/ FCFE: Spring 2020
+23
+X. Valuation: 
+Match up cashflows and discount rates… 
+Cashflow to Equity
+Net Income
+- (Cap Ex - Depr) (1- DR)
+- Change in WC (!-DR)
+= FCFE
+Expected Growth
+Retention Ratio *
+Return on Equity
+FCFE1 FCFE2 FCFE3 FCFE4 FCFE5
+Forever
+Firm is in stable growth:
+Grows at constant rate
+forever
+Terminal Value= FCFEn+1/(ke-gn)
+FCFEn.........
+Financing Weights
+Debt Ratio = DR
+Discount at Cost of Equity
+Value of Equity
+EQUITY VALUATION WITH FCFE
+Cashflow to Firm
+EBIT (1-t)
+- (Cap Ex - Depr)
+- Change in WC
+= FCFF
+Expected Growth
+Reinvestment Rate
+* Return on Capital
+FCFF1 FCFF2 FCFF3 FCFF4 FCFF5
+Forever
+Firm is in stable growth:
+Grows at constant rate
+forever
+Terminal Value= FCFFn+1/(r-gn)
+FCFFn.........
+Discount at Cost of Capital (WACC) = Cost of Equity (Equity/(Debt + Equity)) + Cost of Debt (Debt/(Debt+ Equity))
+Firm Value
+- Value of Debt
+= Value of Equity
+DISCOUNTED CASHFLOW VALUATION
+24
+From firm value to equity value per share
+Aswath Damodaran
+24
+Approach used To get to equity value per share
+Discount dividends per share at the cost 
+of equity
+Present value is value of equity per share
+Discount aggregate FCFE at the cost of 
+equity
+Present value is value of aggregate equity. 
+Subtract the value of equity options given 
+to managers and divide by number of 
+shares.
+Discount aggregate FCFF at the cost of 
+capital
+PV = Value of operating assets
++ Cash & Near Cash investments
++ Value of minority cross holdings
+-Debt outstanding
+= Value of equity
+-Value of equity options 
+=Value of equity in common stock
+/ Number of shares
+25
+Valuing Deutsche Bank in early 2008
+Aswath Damodaran
+25
+¨ To value Deutsche Bank, we started with the norm alized incom e over the 
+previous five years (3,954 million Euros) and the dividends in 2008 (2,146 
+million Euros). We assumed that the payout ratio and ROE, based on 
+these numbers will continue for the next 5 years:
+¤ Payout ratio = 2,146/3954 = 54.28%
+¤ Expected growth rate = (1 -.5428) * .1181 = 0.054 or 5.4% 
+¤ Cost of equity = 9.23%
+26
+Deutsche Bank in stable growth
+Aswath Damodaran
+26
+¨ At the end of year 5, the firm is in stable growth. We assume that the cost 
+of equity drops to 8.5% (as the beta moves to 1) and that the return on 
+equity also drops to 8.5 (to equal the cost of equity).
+Stable Period Payout Ratio = 1 – g/ROE = 1 – 0.03/0.085 = 0.6471 or 64.71% 
+Expected Dividends in Year 6 = Expected Net Income5 *(1+gStable)* Stable Payout Ratio
+= €5,143 (1.03) * 0.6471 = €3,427 million
+Term inal Value = 
+PV of Terminal Value =  
+¨ Value of equity = €9,653+ €40,079 = €49,732 million Euros
+¨ Value of equity per share= 
+Stock was trading at 89 Euros per share at the time of the analysis.
+Expected Dividends6
+(Cost of Equity-g) = 3,247
+(.085-.03) = 62,318 million Euros
+Terminal Valuen
+(1+Cost of EquityHigh growth )n = 62,318
+(1.0923)5 = 40, 079 mil Euros
+Value of Equity
+# Shares = 49,732
+474.2 =104.88 Euros/share
+27
+Disney: Inputs to Valuation
+ High Growth Phase Transition Phase Stable Growth Phase 
+Length of Period 5 years 5 years Forever after 10 years 
+Tax Rate 31.02% (Effective) 
+36.1% (Marginal) 
+31.02% (Effective) 
+36.1% (Marginal) 
+31.02% (Effective) 
+36.1% (Marginal) 
+Return on Capital 12.61% Declines linearly to 10% Stable ROC of 10% 
+Reinvestment Rate 
+ 
+53.93% (based on normalized 
+acquisition costs) 
+Declines gradually to 25% 
+as ROC and growth rates 
+drop: 
+25% of after-tax operating 
+income. 
+Reinvestment rate = g/ ROC 
+= 2.5/10=25% 
+Expected Growth 
+Rate in EBIT 
+ROC * Reinvestment Rate = 
+0.1261*.5393 = .068 or 6.8% 
+Linear decline to Stable 
+Growth Rate of 2.5% 
+2.5%  
+Debt/Capital Ratio 11.5% Rises linearly to 20.0% 20% 
+Risk Parameters Beta = 1.0013, ke = 8.52%% 
+Pre-tax Cost of Debt = 3.75% 
+Cost of capital = 7.81% 
+Beta changes to 1.00;  
+Cost of debt stays at 3.75% 
+Cost of capital declines 
+gradually to 7.29% 
+Beta = 1.00; ke = 8.51% 
+Cost of debt stays at 3.75% 
+Cost of capital = 7.29% 
+ 
+Aswath Damodaran
+Aswath Damodaran
+Term Yr
+10,639
+2,660
+7,980
+Terminal Value 10= 7,980/(.0729-.025) = 165,323
+Cost of Capital (WACC) = 8.52% (0.885) + 2.40% (0.115) = 7.81%
+Return on Capital
+12.61%
+Reinvestment Rate
+ 53.93%
+Unlevered Beta for 
+Sectors: 0.9239
+ERP for operations
+5.76%Beta 
+1.0013Riskfree Rate :
+Riskfree rate = 2.75%
+Op. Assets   125,477
++ Cash:         3,931
++ Non op inv   2,849
+- Debt      15,961
+- Minority Int    2,721
+=Equity        113,575
+-Options            972
+Value/Share $ 62.56
+Weights
+E = 88.5% D = 11.5%
+Cost of Debt
+(2.75%+1.00%)(1-.361)
+= 2.40%
+Based on actual A rating
+Cost of Equity
+8.52%
+Stable Growth
+g = 2.75%;  Beta = 1.00;
+Debt %= 20%;  k(debt)=3.75
+Cost of capital =7.29% 
+Tax rate=36.1%; ROC= 10%; 
+Reinvestment Rate=2.5/10=25%
+Expected Growth 
+.5393*.1261=.068 or 6.8%
+Current Cashﬂow to Firm
+EBIT(1-t)= 10,032(1-.31)=    6,920
+- (Cap Ex - Deprecn)      3,629            
+- Chg Working capital               103
+= FCFF                              3,188
+Reinvestment Rate = 3,732/6920
+=53.93%
+Return on capital = 12.61%
++ X
+Disney - November 2013
+In November 2013, 
+Disney was trading at  
+$67.71/share
+First 5 years
+D/E=13.10%
+1 2 3 4 5 6 7 8 9 10
+EBIT/*/(1/2/tax/rate) $7,391 $7,893 $8,430 $9,003 $9,615 $10,187 $10,704 $11,156 $11,531 $11,819
+/2/Reinvestment $3,985 $4,256 $4,546 $4,855 $5,185 $4,904 $4,534 $4,080 $3,550 $2,955
+FCFF $3,405 $3,637 $3,884 $4,148 $4,430 $5,283 $6,170 $7,076 $7,981 $8,864
+Growth declines 
+gradually to 2.75%
+Cost of capital declines 
+gradually to 7.29%
+29
+Value versus Price
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+30.00%
+35.00%
+40.00%
+Spr ing 2008 Spr ing 2010 Spr ing 2012 Spr ing 2014 Spr ing 2017 Spr ing 2019 Spr ing 2020
+Valuation: Spring 2020
+Underval ued > 50% Underval ued 10-50% Underval ued < 10% Ov er valued less than 10%
+Ov er valued between  10-50%Ov er valued 50-100% Ov er valued >100%
+30
+Most undervalued stocks!!
+Company
+Price per 
+share ($) Value per share ($) % Under valued
+Activision Blizzard $20.19 $115.09 -82.46%
+Apollo Tyres $22.64 $71.81 -68.47%
+Lululemon $26.30 $75.12 -64.99%
+Take Two Interactive $22.54 $59.24 -61.95%
+Match Group $58.14 126.45 -54.02%
+Lionsgate $13.97 $25.30 -44.78%
+AMC 41.14 74.23 -44.58%
+Nordstrom 22.37 37.86 -40.91%
+Comcast $27.20 $44.72 -39.18%
+Starbucks (SBUX) $27.56 $45.23 -39.07%
+Qualcomm $27.32 $43.82 -37.65%
+31
+Ways of changing value…
+Cashflows from existing assets
+Cashflows before debt payments, 
+but after taxes and reinvestment to 
+maintain exising assets
+Expected Growth during high growth period
+Growth from new investments
+Growth created by making new 
+investments; function of amount and 
+quality of investments
+Efficiency Growth
+Growth generated by 
+using existing assets 
+better
+Length of the high growth period
+Since value creating growth requires excess returns, 
+this is a function of
+- Magnitude of competitive advantages
+- Sustainability of competitive advantages
+Stable growth firm, 
+with no or very 
+limited excess returns
+Cost of capital to apply to discounting cashflows
+Determined by
+- Operating risk of the company
+- Default risk of the company
+- Mix of debt and equity used in financing
+How well do you manage your 
+existing investments/assets?
+Are you investing optimally for
+future growth? Is there scope for more 
+efficient utilization of 
+exsting assets?
+Are you building on your 
+competitive advantages?
+Are you using the right 
+amount and kind of 
+debt for your firm?
+Aswath Damodaran32
+Term Yr
+12,275
+3,069
+9,206
+Terminal Value 10= 9,206/(.0676-.025) = 216,262
+Cost of Capital (WACC) = 8.52% (0.60) + 2.40%(0.40) = 7.16%
+Return on Capital
+14.00%
+Reinvestment Rate
+ 50.00%
+Unlevered Beta for 
+Sectors: 0.9239
+ERP for operations
+5.76%Beta 
+1.3175Riskfree Rate :
+Riskfree rate = 2.75%
+Op. Assets   147,704
++ Cash:         3,931
++ Non op inv   2,849
+- Debt      15,961
+- Minority Int    2,721
+=Equity        135,802
+-Options            972
+Value/Share $ 74.91
+Weights
+E = 60% D = 40%
+Cost of Debt
+(2.75%+1.00%)(1-.361)
+= 2.40%
+Based on synthetic A rating
+Cost of Equity
+10.34%
+Stable Growth
+g = 2.75%;  Beta = 1.20;
+Debt %= 40%;  k(debt)=3.75%
+Cost of capital =6.76% 
+Tax rate=36.1%; ROC= 10%; 
+Reinvestment Rate=2.5/10=25%
+Expected Growth 
+.50* .14 = .07 or 7%
+Current Cashﬂow to Firm
+EBIT(1-t)= 10,032(1-.31)=    6,920
+- (Cap Ex - Deprecn)      3,629            
+- Chg Working capital               103
+= FCFF                              3,188
+Reinvestment Rate = 3,732/6920
+=53.93%
+Return on capital = 12.61%
++ X
+Disney (Restructured)- November 2013
+In November 2013, 
+Disney was trading at  
+$67.71/share
+First 5 years
+D/E=66.67%
+Growth declines 
+gradually to 2.75%
+Cost of capital declines 
+gradually to 6.76%
+More selective 
+acquisitions & 
+payoff from gaming
+Move to optimal 
+debt ratio, with 
+higher beta.
+1 2 3 4 5 6 7 8 9 10
+EBIT * (1 - tax rate) $7,404 $7,923 $8,477 $9,071 $9,706 $10,298 $10,833 $11,299 $11,683 $11,975
+ - Reinvestment $3,702 $3,961 $4,239 $4,535 $4,853 $4,634 $4,333 $3,955 $3,505 $2,994
+Free Cashflow to Firm $3,702 $3,961 $4,239 $4,535 $4,853 $5,664 $6,500 $7,344 $8,178 $8,981
+33
+The Triple Whammy: Under levered, Cash Build-
+up and Under valued  by at least 10%?
+Company picked for 
+project
+Debt to 
+Capital 
+Ratio
+Optimal 
+Debt Ratio 
+(%)
+Cash Return as 
+% of FCFE
+Price per 
+share ($)
+Value per 
+share ($) Price/Value
+% Under or 
+over value
+Micron Technology 8.41% 50% 49.47% $45.70 $51.74 113.22% 13.22%
+Activision Blizzard 5.49% 10% 45.87% $73.32 $86.59 118.10% 18.10%
+Live Nation 27.20% 40% 0.00% 40.92 48.5 118.52% 18.52%
+Nucor 27.90% 60% 89.02% 40.5 51.94 128.25% 28.25%
+Capgemini 28.36% 60% 33.82% 97.9 144 147.09% 47.09%
+Solar Edge 1.53% 10% 0.00% $104.69 $155.22 148.27% 48.27%
+Southwest Airlines 22.60% 70% 87.91% $27.20 $44.72 164.41% 64.41%
+34
+First Principles
+35
+Objectives of this class
+¨ If you get the big picture, the details will come 
+(sooner or later)
+¨ Tools are useful but only in the larger context of 
+answering bigger questions.
+¨ Corporate finance is not so bad !!!

@@ -1,0 +1,45 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session4test.pdf
+
+Session	4:	Post	Class	tests	
+1. Frank	Knight	drew	a	distinction	between	risk	and	uncertainty,	based	
+primarily	upon	measurability.	Which	of	the	following	statements	would	you	
+agree	with,	based	upon	that	distinction?	
+a. It	is	easier	to	insure	against	uncertainty	than	it	is	to	insure	against	
+risk.	
+b. Investors	should	avoid	uncertainty	but	seek	out	risk	
+c. Investors	should	seek	out	uncertainty	but	avoid	risk	
+d. Risk	may	be	easier	to	measure	and	insure	against	than	uncertainty,	
+but	investors	should	care	about	both,	when	investing.		
+2. In	economics	and	investing,	we	assume	that	investors	are	risk	averse.	That	
+implies	that:	
+a. Investors	will	not	take	risk	
+b. Investors	will	seek	out	risk	
+c. Investors	will	take	risk,	but	only	if	they	feel	that	they	get	a	sufficient	
+reward	for	risk	taking	
+d. Investors	will	take	risk,	but	only	if	they	are	guaranteed	that	they	will	
+not	lose	money	
+e. None	of	the	above	
+3. Assume	that	you	are	risk	averse	and	are	offered	a	gamble,	where	there	is	a	
+50%	chance	you	will	make	$100	and	a	50%	chance	of	making	nothing.	How	
+much	would	you	be	willing	to	pay	to	partake?	
+a. 	$50	
+b. More	than	$50	
+c. Less	than	$50	
+d. I	would	not	play.	This	is	gambling.	
+4. Two	investors	are	offered	the	gamble	described	in	the	previous	question	
+(50%	chance	you	will	make	$100	and	a	50%	chance	of	making	nothing).	
+Investor	A	is	willing	to	pay	$40	to	pay	and	Investor	B	is	willing	to	pay	only	
+$35	to	partake.	Based	upon	this	observation,	which	of	the	following	is	true?	
+a. Investor	A	is	more	risk	averse	than	investor	B	
+b. Investor	B	is	more	risk	averse	than	investor	A	
+c. Investors	A	and	B	are	equally	risk	averse	
+5. In	behavioral	finance,	there	is	well	documented	evidence	on	“loss	aversion”.	
+Which	of	the	following	is	evidence	of	loss	aversion?	
+a. Accepting	a	$60	gain,	instead	of	taking	a	bet	where	you	have	a	60%	
+chance	of	making	$100.	
+b. Rejecting	a	$60	gain	to	take	a	bet	where	you	have	a	60%	chance	of	
+making	$100.	
+c. Accepting	a	$60	loss,	instead	of	taking	a	bet	where	you	have	a	60%	
+chance	of	losing	$100.	
+d. Rejecting	a	$60	loss	to	take	a	bet	where	you	have	a	60%	chance	of	
+losing	$100.

@@ -1,0 +1,131 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate1for2020.pdf
+
+DATAUPDATE 1 FOR 2020: 
+SETTING THE TABLE
+Aswath Damodaran
+2
+TimeforMoneyball
+¨Starting in the early 1990s, I have spent the first week or 
+two of every new year playing my version of Moneyball, 
+downloading raw market and accounting data on 
+publicly traded companies and using that data to 
+compute operating, pricing and risk metrics for them. 
+¨This year, I got a later start than usual on January 6, but 
+as the week draws to a close, the results of my data 
+exploration are posted on mywebsiteand will be the 
+basis for a series of posts here over the next six weeks. 
+¨As you look at the data, you will find that the choices I 
+have made on how to classify companies and compute 
+metrics affect my findings, and I will use this post to cast 
+some light on those choices.
+3
+Raw Data: Crediting the Sources
+¨We live in an age when accessing raw data is easy, albeit 
+not always cheap, and the tools to analyze that data are 
+also widely available. 
+¨My raw data is drawn from a variety of sources, ranging 
+from S&P Capital IQ to Bloomberg to the Federal 
+Reserve.
+¨There are two rules that I try to follow. 
+¤The first is to be careful about attributing sources for the raw 
+data
+¤The second is to not undercut my raw data providers by 
+replicating their data on my site, if they have commercial 
+interests.
+4
+The Sample
+5
+Data: Broad Groups
+¨The first ismacro data, where my ambitions tend to be 
+modest, and the only numbers that I update are 
+numbers that I need and use in my valuation and 
+corporate financial analysis. 
+¨The second isbusiness data, where I consolidate the 
+company-level data into industry groupings, and report 
+statistics on how companies invest, finance their 
+operations and return cash (dividends and buybacks). 
+¨The third aremy data archives, where you can look at 
+trend lines in the statistics by accessing my statistics 
+from prior years.
+6
+Macro Data
+¨ Risk free rates in currencies: I update my currency risk free rates, starting with the 
+government bond rates, and then netting out default spreads andreport them here. I also 
+update an intrinsic measure of the US dollar risk free rate, obtained by adding the inflation 
+rate to real GDP growth each year, and report the time series inthis dataset.
+¨ Equity Risk Premiums: I update the historical risk premium for US stocks, by bringing in 2019 
+returns on stocks, treasury bonds and treasury billsin this dataset; my updated geometric 
+average premium for stocks over US treasuries. I estimate the implied ERP to be 5.20% at the 
+start of 2020and report theyear-end estimates of the premium going back to 1960in this 
+dataset.
+¨ Corporate Default Spreads: I break down bonds into bond rating classes (S&amp;Pand 
+Moody's) and report my estimates of default spreads at the start of 2020 inthis 
+spreadsheet.
+¨ Corporate Tax Rates: I am grateful to KPMG forgoing through tax codes in different countries 
+and compiling corporate tax rates, which I reproducein this dataset.
+¨ Country Risk Premiums: At the start of 2020, I use my approach, flaws and all, to estimate 
+equity risk premiums for 170 countries and report themin this dataset.
+7
+Micro Data
+8
+Archived Data
+¨When I first started compiling my datasets, I did not 
+expect them to be widely used, and certainly did not 
+believe that they would be referenced over time. 
+¨As I starting getting requests for datasets from earlier 
+years, I decided that it would save both me and you a 
+great deal of time to createan archive of past datasets. 
+¨As you look at these archives, you will notice that not all 
+datasets go back in time to the 1990s, reflecting first the 
+expansion of my analysis from just US companies to 
+global companies about 15 years ago and second the 
+adding on of variables that I either did not or could not 
+report in earlier years.
+9
+The Rationale for Data Analysis
+¨ It gives me perspective: It gives me perspective not only on what comprises 
+normal in corporate financial behavior , but also on the differences across sectors 
+and geographies.
+¨ Possible, Plausible and Probable: I have long argued that the valuation of a 
+company always starts with a story but that a critical part of the process of 
+converting narrative to value is checking the story for possibility, plausibility and 
+probability. Having the global data aggregated and analyzed can help significantly 
+in making this assessment.
+¨ Rules of thumb: In spite ofall of the data that we now have available, investors 
+and companies seem to still rely on rules of thumb devised in a different time and 
+market. Using the global data, we can back up or dispel these rules of thumb and 
+perhaps replace them with more dynamic and meaningful decision rules.
+¨ Fact-based opinions: Many market prognosticators and economists seem to have 
+no qualms about making up stuff about investor and corporate behavior and 
+stating them as facts. Those "facts" are now driving political debate and may well 
+lead to change in policy, but these are more opinions than facts, and the data can 
+be arbiter .
+10
+The Rationale for Sharing
+¨Nothing that I am doing is unique, and I have no 
+secret data stashes. In short, anyone with access to 
+data (and there are literally tens of thousands who 
+do) can do the same analysis. 
+¨I lose nothing by sharing, and I gain a great deal in 
+karmic payoffs. 
+¨So, please use whatever data you want, and in 
+whatever context, and I hope that it saves you time 
+and helps you in your decision making and analysis.
+11
+The Caveats
+¨Data is not objective: The notion that using data makes you 
+objective is nonsense. In fact, the most egregious biases are data-
+backed, as people with agendas pick and choose the data that 
+confirms their priors. 
+¨Crowds are not always wise: One of the strongest forces in 
+corporate finance is me-tooism, where companies decide how to 
+invest, how much to borrow and what to pay in dividends by 
+looking at what their peers do. In my datasets, I offer them 
+guidance in this process, by reporting debt ratios and dividend 
+payout ratios for sectors, as well as regional breakdowns. The 
+implicit assumption is that what other companies do, on average, 
+must be sensible, but that assumption is not always true. This 
+warning is particularly relevant when you look at the pricing 
+metrics (PE, EV to EBITDA etc.) that I report, by sector and by 
+region. The market may be right, on average, but it can also over 
+price or under price a sector, at times.

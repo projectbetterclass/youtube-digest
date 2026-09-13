@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/EVARest.xls
+
+[legacy .xls workbook: EVARest.xls — see raw file]

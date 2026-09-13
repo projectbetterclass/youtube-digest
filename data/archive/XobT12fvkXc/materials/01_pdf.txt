@@ -1,0 +1,94 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Accounting101/slides/session4.pdf
+
+SESSION 4: CASH FLOW 
+STATEMENTS –CASH IN AND 
+CASH OUT
+Accounting for Finance
+2
+The End Game with Cash Flows
+qThe surface level objective of a statement of cash flows is to 
+explain how much the cash balance of a business changed during a 
+period and why it changed.
+qEmbedded in the statement of cash flows, though, is other 
+information including:
+qHow much cash earnings the company had during the period, as 
+contrasted with accrual earnings (in income statements)
+qHow much and where the company reinvested cash during the period to 
+sustain and grow its business
+qHow much cash it raised from or returned to its debt and equity investors
+qThe statement of cash flows preserves the signs on cash flows, with 
+negative cash flows shown as minuses and positive cash flows as 
+pluses. It also looks at cash flows through the eyes of equity 
+investors in the company.
+3
+Revisiting the Cash Flow Statement
+4
+1. Cash flows from Operations
+Change in non-cash working capital
+5
+The Working Capital Effect?
+¨Embedded in the cash flow from operations is the 
+change in working capital items, excluding cash
+¤Non-cash Working capital = Non-cash current assets –Non-debt 
+current liabilities
+¤An increase in non-cash working capital will decrease cash flows, 
+whereas a decrease in non-cash working capital will increase 
+cash flows.
+¨To the extent that non-cash working capital ties up cash 
+and capital, a firm with higher needs for that working 
+capital will have lower cash flows from operations, for 
+any given level of net income, than a firm with lower 
+needs.
+6
+2. Cash Flows from Investing
+7
+Operating or Non-operating Assets
+qThe investing activities section includes investments in both 
+operating and non-operating assets, except for investment in 
+liquid, close to riskless securities, which is treated as cash & 
+marketable securities.
+qThe investments into operating assets, whether internal (cap 
+ex, net of divestitures) or external (acquisitions of other 
+companies) are the engine that drives growth in the 
+operating line items (revenues, operating income etc.) Note 
+that acquisitions funded with stock will not show up here for 
+obvious reasons.
+qThe investments into non-operating assets create a separate 
+source of value, where the payoff will not show up in the 
+operating line items but below the operating income line, as 
+income from cross holdings or securities.
+8
+3. Cash flows from Financing
+9
+Debt Cash Flows
+¨While interest expenses show up in the operating cash 
+flow section, by reducing net income and showing up in 
+deferred taxes, debt repayments are part of the 
+financing section.
+¨To the extent that some or all of these debt repayments 
+are funded with debt issuances, the net effect on cash 
+flows can be neutralized or become positive.
+¨If total debt increases during a period, it will represent 
+a cash inflow, and if it decreases, it will be a cash 
+outflow. Companies that embark on plans to bring their 
+debt down (up) over time should therefore expect 
+these consequences.
+10
+Dividends and Buybacks
+qUntil the 1980s, the only cash flow that was received by 
+equity investors in publicly traded companies was dividends. 
+The effect of paying dividends is simple: it reduces the cash 
+balance at the company and increases the cash in the pockets 
+of every shareholder who receives dividends.
+qStarting in the 1980s, US companies have returned increasing 
+amounts to their shareholders in the form of buybacks. 
+qThe effect of buying back stock is exactly the same as paying dividends, 
+to the company, with cash leaving the company.
+qFor shareholders, though, the cash flow effect is disparate. Those 
+shareholders who sell their shares back get cash from the company, 
+and those that do not get no cash, but get a larger share of the equity 
+left in the company.
+qBoth dividends and buybacks reduce shareholder equity on the 
+balance sheet.
+11
+Potential Dividends (Free CF to Equity)

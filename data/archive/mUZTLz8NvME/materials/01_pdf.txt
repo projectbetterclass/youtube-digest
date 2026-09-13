@@ -1,0 +1,137 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/TechTakedown.pdf
+
+TECH TAKEDOWN: COME EASY , 
+GO EASY!
+Aswath Damodaran
+2
+Change in the air?
+¨ The last three weeks have been humbling ones for tech 
+companies, especially the big four (Facebook, Amazon, 
+Netflix and Alphabet or FANG) which seemed 
+unstoppable in their pursuit of revenues and ever-rising 
+market capitalizations, and for tech investors, many of 
+whom seem to have mistaken luck for skill. 
+¨ Some of the cheerleaders who were just a short while 
+ago telling us that nothing could go wrong with these 
+companies are in the midst of a mood shift, where they 
+are convinced that nothing can go right with them.
+3
+The Rise of FANG: From 2012 to 2017
+4
+FANG and the S&P 500: Change in Value
+5
+Some perspective on the rise of FANG
+¨ The four companies that comprise FANG added almost 
+$1.7 trillion in market capitalization over these five years 
+and accounted for one-sixth of the increase in value for 
+the entire index. 
+¨ Put simply, if you were a large-cap US portfolio manager 
+and you held none of these stocks between 2013-2017, 
+it would have been very, very difficult, if not impossible, 
+to beat the S&P 500 over this period.
+¨ Alternatively, if you had one or moreof these stocks in 
+your portfolio over the entire five-year period, your odds 
+of beating the market went up dramatically.
+6
+A Reversal in Fortunes: March 15, 2018 –
+April 2, 2018
+7
+Here’s some perspective
+8
+The FANG Story Line
+Aswath Damodaran
+8
+¨ Scaling Success: Each of these companies has been able 
+to keep revenue growing rapidly, even as they scale up 
+and acquire larger market share.
+¨ Bigger Slice of a Bigger Pie: They have changed the 
+businesses that they have entered, increasing the size of 
+the total market by attracting new customers, while also 
+changing the way business is run to their benefit.
+¨ Profitability: Google and Facebook are money machines. 
+Amazon and Netflix don’t look as good on the surface, 
+but capitalizing some of their mis-categorized operating 
+expenses makes them look better .
+9
+1. Scaling Success
+Aswath Damodaran
+9
+10
+2. Bigger Pie + Bigger Slice
+¨ Make businesses bigger: Each of these companies 
+has made the business they have entered bigger by 
+drawing in new customers and users.
+¤ With Google and Facebook, that business is advertising, 
+and with Netflix, it is entertainment.
+¤ With Amazon, it is just about any business it enters, from 
+retailing to entertainment to cloud services. 
+¨ Change them to their advantage: They have also 
+changed the way the business is run to their 
+advantage, thus claiming a larger share of the 
+business.
+11
+3. Profitability
+12
+The Roots of Success
+¨ Centralized Power: These companies are more corporate 
+dictatorships, than corporate democracies. All four of these 
+companies continue to be run by founder/CEOs, whose 
+visions and narratives have focused these companies.
+¨ Big Data: You can argue that what Google learns from our 
+search behavior, Facebook from our social media interactions, 
+Netflix from our video watching choices and Amazon from 
+our shopping carts (and Alexa) is central to these companies 
+being able to scale up successfully and change the businesses 
+they are in. 
+¨ Intimidation Factor: There is one final intangible in the mix 
+and that is the perception that these companies have created 
+in regulators, customers and competitors that they are 
+unstoppable.
+13
+Has the story changed?
+¨ CEO heads cannot roll: Unlike traditional companies facing crises, 
+where CEOs can be offered by a board of director as a sacrificial 
+offering to calm investors, regulators or politicians, the FANG 
+companies and their CEOs are so intertwined, with power 
+entrenched in the current CEOs, this option is off the table. 
+¨ The Dark Side of Sharing The recent news stories about how the 
+data that Facebook has accumulated on us was used has pushed 
+some of us out of denial and perhaps into a reassessment of how 
+we share data and how that data is used. It has also created a 
+firestorm about data sharing and privacy that may result in 
+restrictions in how the data gets used.
+¨ No Friends: When other companies feel threatened by your 
+success and growth, it should come as no surprise that many of 
+them are cheering, as you stumble.
+14
+Three Scenarios
+1. Sharing Pull Back: It is possible that the news stories about how 
+exposed we have left ourselves, as a consequence of our sharing, 
+will lead us to all to reassess how much and how we interact 
+online. 
+2. Tempest in a teapot: The story will blow over and that not only 
+will the companies revert back to their old ways, but that they 
+will continue to accumulate users and grow revenues, while doing 
+so.
+3. Data Protections: There may be new restrictions on how the data 
+that is collected from their usage is utilized by the companies. 
+That would include not only privacy restrictions, similar to those 
+already in place in the EU, but also regulations on how the data is 
+collected, stored and shared. In addition, the companies 
+themselves may feel pressure to change current business 
+practices, which while profitable, have left data vulnerabilities.
+15
+The Bottom Line (to be continued)
+¨ Sharing genie is out of the bottle: I think that we are too 
+far gone down the sharing road to reverse field, and that 
+while we will have a few high profile individuals signal 
+their displeasure by abandoning (or claiming to 
+abandon) a platform, most of us are too attached to 
+these firm’s products/services
+¨ Bu there will be changes: There are changes coming to 
+these firms, from within and without, that will increase 
+costs and crimp revenue growth, and through those 
+changes, the value.
+¨ Buy, sell or sit on your hands: The only way to answer is
+to value each of these companies and I will in the next 
+posts/sessions.

@@ -1,0 +1,151 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/OctoberSurprise.pdf
+
+AN OCTOBER SURPRISE: MAKING 
+SENSE OF MARKET MAYHEM!
+Aswath Damodaran
+2
+Reactions to a market sell off
+¨ As stocks have gone through contortions, more down 
+than up, like many of you, I have been looking at my 
+portfolio, wondering whether this is the crash that the 
+market bears have been warning me about since 2012, 
+just a pause in a continuing bull market or perhaps a 
+prognosticator of economic troubles to come
+¨ I have been wrestling with what, if anything, I should be 
+doing, as an investor, in response to the market 
+movements. 
+¨ As in previous market crises, I find myself going back to a 
+four-step process that gets me through with my sanity 
+intact.
+3
+Step 1: Hit the pause button
+¨ Take a breath: When faced with fast-moving 
+markets, I have to force myself to consciously slow 
+down. It helps that I don't work as a trader or a 
+portfolio manager, since part of your job is to look 
+like you are in control, even when you are not.
+¨ Turn off the noise: I don't have a Bloomberg terminal 
+on my desk, a ticker tape running on my computer 
+or stock apps on my phone, and I am happy that I 
+don't during periods like this month.
+¨
+4
+Step 2: Assess the damage
+¨ During the last four weeks, I have seen at least a half 
+a dozen hypotheses about the stock swoon, from it 
+being the Fed's fault (as usual) to a long overdue 
+tech company correction to it being a response to 
+global crises (in Italy and Saudi Arabia). 
+¨ In keeping with the old adage of "trust, but verify", I 
+decided to take a look at the data to see if there are 
+answers in it to these questions.
+5
+A. The Fed’s Fault?
+6
+B. A tech meltdown?
+7
+Maybe young tech?
+Aswath Damodaran
+7
+8
+Or those FANG stocks..
+¨
+9
+3. A Correction for over valued stocks…
+10
+4. US Problem?
+11
+5. Panic Attack?
+12
+Crisis Assets?
+13
+Step 3: Look at the fundamentals
+14
+Is it earnings?
+15
+Is it growth?
+¨ At the start of the year, the expectation that 
+earnings growth would be strong for this year, 
+helped both the tax law changes of last year and a 
+strong economy. 
+¨ That growth has been delivered, but it is possible 
+that investors are now doubtful about the 
+sustainability of that earnings growth. That has not 
+shown up yet in forecasted growth for next year, but 
+it bears watching.
+16
+The Price of Equity Risk
+End of Day US 10-yr T .Bond S&P 500 Implied ERP
+9/28/18 3.06% 2913.98 5.38%
+10/1/18 3.09% 2924.59 5.36%
+10/2/18 3.05% 2923.43 5.36%
+10/3/18 3.15% 2925.51 5.35%
+10/4/18 3.19% 2901.61 5.39%
+10/5/18 3.23% 2885.57 5.41%
+10/8/18 3.22% 2884.43 5.42%
+10/9/18 3.21% 2880.34 5.43%
+10/10/18 3.22% 2785.68 5.61%
+10/11/18 3.14% 2728.37 5.73%
+10/12/18 3.15% 2767.13 5.65%
+10/15/18 3.16% 2750.79 5.68%
+10/16/18 3.16% 2809.92 5.57%
+10/17/18 3.19% 2809.21 5.56%
+10/18/18 3.17% 2768.78 5.65%
+10/19/18 3.20% 2767.78 5.64%
+10/22/18 3.20% 2755.88 5.67%
+10/23/18 3.17% 2740.69 5.70%
+10/24/18 3.10% 2656.10 5.89%
+10/25/18 3.14% 2705.57 5.78%
+10/26/18 3.08% 2658.69 5.89%%
+17
+A Value Bottom Line
+¨ You could attribute the higher equity risk premiums to 
+global crises (in Italy and Saudi Arabia) but that would be 
+a reach since the increase in risk premiums predates 
+both crises. 
+¨ In fact, halving the expected growth rate from 2019 on 
+from the current estimate of 7.29% to 4.71% (the 
+compounded average annual earnings growth rate over 
+the last 10 years) reduces the equity risk premium to 
+5.28%, but even that number is a healthy one, relative to 
+historic norms. 
+¨ The bottom line is that, at least by my calculations, I am 
+estimating an equity risk premium that seems fair, given 
+macro and micro fundamentals and my risk preferences.
+18
+Step 4: Investment Action
+¨ One of the biggest perils of being reactive in a crisis 
+is that it can knock you off your investment game 
+and cause you to abandon your core philosophy. 
+¨ I don't believe that there is one investment 
+philosophy that is right for every one, but I do 
+believe that there is one that is right for you, and 
+shifting away from it is a recipe for bad results
+19
+My philosophy: Value investing with a 
+twist
+¨ Under valued stocks can be found across sectors and 
+the life cycle: I believe that we should try to assess 
+fair value, not a conservative estimate of value, and 
+that the value should include expected value added 
+from future growth. 
+¨ Intrinsic value can change over time: I believe that 
+intrinsic value is a dynamic number that changes 
+over time, not only because new information may 
+come out about a company. but also because the 
+price of equity risk can change over time.
+20
+My investment actions
+¨ No big asset allocation changes: The bottom line is that I am not 
+changing my asset allocation in significant ways, moving money in 
+or out of stocks, since I don't see a fundamental reason to do so. 
+¨ Revisit existing holdings: I have already starting revaluing my 
+existing holdings, to see if they still meet my buy criteria. 
+¨ My short sales pay off: Finally, I did sell short on Amazon and Apple 
+at the start of the month, and while I would like to claim 
+prescience, it was pure luck on timing, and the market downdraft 
+during the month has helped me. 
+¨ Check the carnage I plan to take a closer look at the stocks that 
+have been pummeled the most during the month, including 3M 
+and Caterpillar, to see if they are cheap at October 26 prices, and 
+using an October 26 ERP in my valuation.

@@ -1,0 +1,134 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/RideSharing.pdf
+
+RIDE	SHARING:	BRINGING	OUT	
+THE	CRYSTAL	BALL	
+The	“other”	ride	sharing	company!
+2
+The	Ride	Sharing	Market	
+¨  It	is	big	and	geHng	bigger:	The	ride	sharing	market	is	
+both	broader	and	bigger	than	most	anIcipated	to	be	and 	
+you	can	see	this	in	
+¤  Anecdotal	evidence,	seen	in	how	many	and	what	type	of	people	
+“uber”	to	their	desInaIons.	
+¤  Revenue	growth	at	the	exisIng	ride	sharing	companies	has	been 	
+red-hot	at	every	ride	sharing	company	
+¤  Investor	expectaIons	have	more	than	kept	up,	as	the	pricing	of	
+these	companies	has	increased	more	dramaIcally.	
+¨  It	is	a	tough	market	to	make	money	and	the	costs	that	
+these	companies	are	incurring	are	not	going	to	easily	
+scale	down,	as	the	companies	get	bigger.
+3
+The	Crystal	Ball	
+1.  Winner	takes	all:	The	“winner	takes	all”,	where	one	ride	
+sharing	company	emerges	as	the	winner	and	takes	the	bulk	
+of	the	ride	sharing	market.	
+2.  The	Loser’s	Game:	The	game	boils	down	to	two	or	a	few	
+ride	sharing	companies	that	constantly	compete	for	each	
+other’s	resources	and	customers,	making	this	a	loser’s	
+game.	
+3.  Divide	and	Rule:	The	two	or	few	ride	sharing	companies	
+come	to	a	truce,	where	they	divide	the	market	into	
+ﬁefdoms	and	respect	the	borders.	
+4.  The	Game	Changer:	Recognizing	that	the	ride	sharing	
+business	is	not	a	sustainable	model,	a	company	(either	
+within	the	exisIng	market	or	from	outside)	comes	up	with	a 	
+new	business	model.
+4
+1.	Winner	takes	all	
+¨  For	each	company,	this	is	the	“highest	value”	
+scenario,	if	it	can	pull	it	oﬀ.		
+¨  For	this	scenario	to	unfold,	the	winning	player	has	to	 	
+¤  Drive	out	the	compeItors,	using	any	means	necessary	
+¤  Keep	new	entrants	from	entering	the	business	
+¨  The	downsides	are	that	
+¤  It	will	be	expensive	to	drive	out	compeItors,	and	it	
+become	even	more	so,	if	they	have	staying	power.	
+¤  It	may	a‘ract	legal	and	regulatory	scruIny.
+5
+2.	The	Loser’s	Game	
+¨  This	is	the	logical	end	product,	if	every	company	in	the	
+business	plays	the	“winner	takes	all”	game	and	ends	up	
+not	succeeding	in	driving	compeIIon	out.	
+¨  If	compeIIon	conInues	to	be	intense	and	lasts	long	
+enough,	you	will	end	up	with	a	business	where	the	
+players	have	
+¤  Large	revenues	
+¤  Small	or	non-existent	proﬁts	
+¤  Returns	on	capital	<	Cost	of	capital	
+¨  In	essence,	the	business	will	become	a	“bad”	one,	where	
+growth	destroys	value.
+6
+3.	Divide	and	Rule	
+¨  If	the	possibility	of	scenario	2	rises,	and	all	of	the	players	
+in	the	ride	sharing	business	recognize	that	they	could	
+collecIve	drive	themselves	into	the	ground,	it	is	possible	
+that	they	could	come	to	a	truce,	where	they	divide	the	
+market	up	into	segments,	and	each	company	gets	to	
+dominate	its	designated	segment.	
+¨  This	truce	will	never	be	a	peaceful	one,	since	the	desire	
+to	enter	more	lucraIve	segments	is	a	powerful	one.	It	is	
+also	a	truce	that	can	be	disturbed	by	a	loose	cannon	in	
+any	of	the	enIIes	involved.	
+¨  It	is	also	dependent	on	no	new	entrants	coming	into	the	
+game	and	spoiling	the	peace.
+7
+4.	The	Game	Changer	
+¨  The	ride	sharing	business,	as	constructed,	has	a	sustainability	
+problem	and	may	need	arIﬁcial	support	systems	(like	the	divide	
+and	rule	opIon)	to	keep	it	aﬂoat.	
+¨  There	may	be	another	ride	sharing	business	model,	with	more	
+sustainable	compeIIve	advantages.	Without	knowing	what	that	
+model	is,	I	would	hazard	a	guess	that	it	has	to	include	more	
+investment	in	the	infrastructure	of	ride	sharing	(the	cars,	the	
+drivers	etc.)	
+¨  It	is	conceivable	that	one	of	the	ride	sharing	companies	in	the	
+business	is	working	on	a	be‘er	model.	(Keep	your	eye	on	Uber’s	
+roboIcs	investment)	
+¨  It	is	also	possible	that	one	of	the	players	not	in	the	game	may	be	
+the	game	changer,	whether	it	be	an	exisIng	tech	giant	(Google	and 	
+Apple	come	to	mind)	or	a	new	business	with	access	to	capital.
+8
+The	Dance	of	the	Disrupted	
+Stage&of&disruption& The&Taxi&Cab&Business&
+1.&Denial&and&
+Delusion&
+Long%in%the%past,%when%cab%drivers%(car%service%operators)%
+thought%that%no%one%would%switch%to%a%tech%company%with%few%
+cars%and%untested%drivers.%
+2.&Failure&and&False&
+Hope&
+Each%misstep%by%a%ride%sharing%creates%the%hope%that%this%could%
+be%the%tipping%point.%Fewer%and%fewer%believe%it%now.%
+3.&Imitation&and&
+Institutional&
+Inertia&
+Mistaken%belief%that%it%just%the%app%that%separates%ride%sharing%
+company%from%conventional%cabs/car%service%B>%Providing%
+apps%to%car%drivers%will%bring%customers%back.%
+4.&Regulation,&Rule&
+Rigging&and&Legal&
+Challenges&
+Regulatory,%legal%and%political%hurdles%abound,%but%the%game%is%
+destined%to%be%lost,%since%the%ultimate%arbiters%of%who%wins%the%
+game%will%be%customers%and%they%are%voting%with%dollars.%
+5.&Acceptance&and&
+Adjustment&
+Earnings%will%continue%to%drop,%prices%for%medallions%will%drop%
+even%further%and%the%debt%load%at%cab%operating%businesses%will%
+tip%many%of%them%over.%
+%
+9
+The	end	game	for	the	disrupted!	
+¨  TradiIonal	taxi	cabs	and	car	service	will	not	disappear,	
+but	it	will	shrink	to	
+¤  The	porIons	of	the	market	where	regulaIon	is	most	powerful	
+and	easiest	to	enforce.	(The	airports,	stadiums	and	train	staIons 	
+are	obvious	places	to	mount	your	last	ﬁght.)	
+¤  The	porIons	of	the	market	where	you	are	negoIaIng	with	a	
+large	enIty	(investment	bank	or	corporaIon)	for	a	large	number 	
+of	customers.	
+¨  The	consequences	for	earnings	and	prices	(for	licenses	
+to	operate	cabs)	will	be	large.	Earnings	will	drop	
+signiﬁcantly	but	the	eﬀect	on	prices	could	be	
+catastrophic,	unless	the	regulators	act	quickly	(and	
+adjust	the	number	of	licenses/medallions).

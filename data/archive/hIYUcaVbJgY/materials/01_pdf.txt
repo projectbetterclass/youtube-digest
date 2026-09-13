@@ -1,0 +1,496 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session22.pdf
+
+100
+A	Framework	for	Getting	to	the	Optimal
+Aswath Damodaran
+100
+Is the actual debt ratio greater than or lesser than the optimal debt ratio?
+Actual > Optimal
+Overlevered
+Actual < Optimal
+Underlevered
+Is the firm under bankruptcy threat? Is the firm a takeover target?
+Yes No
+Reduce Debt quickly
+1. Equity for Debt swap
+2. Sell Assets; use cash
+to pay off debt
+3. Renegotiate with lenders
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes
+Take good projects with
+new equity or with retained
+earnings.
+No
+1. Pay off debt with retained
+earnings.
+2. Reduce or eliminate dividends.
+3. Issue new equity and pay off 
+debt.
+Yes No
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes
+Take good projects with
+debt.
+No
+Do your stockholders like
+dividends?
+Yes
+Pay Dividends No
+Buy back stock
+Increase leverage
+quickly
+1. Debt/Equity swaps
+2. Borrow money&
+buy shares.
+101
+Disney:	Applying	the	Framework
+Is the actual debt ratio greater than or lesser than the optimal debt ratio?
+Actual > Optimal
+Overlevered
+Actual < Optimal
+Actual (11.58%) < Optimal (40%)
+Is the firm under bankruptcy threat? Is the firm a takeover target?
+Yes No
+Reduce Debt quickly
+1. Equity for Debt swap
+2. Sell Assets; use cash
+to pay off debt
+3. Renegotiate with lenders
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes
+Take good projects with
+new equity or with retained
+earnings.
+No
+1. Pay off debt with retained
+earnings.
+2. Reduce or eliminate dividends.
+3. Issue new equity and pay off 
+debt.
+Yes No. Large mkt cap & positive 
+Jensen’s α
+Does the firm have good 
+projects?
+ROE > Cost of Equity
+ROC > Cost of Capital
+Yes. ROC > Cost of capital
+Take good projects
+With debt.
+No
+Do your stockholders like
+dividends?
+Yes
+Pay Dividends No
+Buy back stock
+Increase leverage
+quickly
+1. Debt/Equity swaps
+2. Borrow money&
+buy shares.
+102
+6Application	Test:	Getting	to	the	Optimal
+Aswath Damodaran
+102
+¨Based	upon	your	analysis	of	both	the	firm’s	capital	
+structure	and	investment	 record,	what	path	would	
+you	map	out	for	the	firm?
+a.Immediate	change	in	leverage
+b.Gradual	change	in	leverage
+c.No	change	in	leverage
+¨Would	you	recommend	that	the	firm	change	its	
+financing	mix	by	
+a.Paying	off	debt/Buying	back	equity
+b.Take	projects	with	equity/debt
+103
+The	Mechanics	of	Changing	Debt	Ratio	quickly…
+Aswath Damodaran
+103
+Assets Liabilities
+Opearing 
+Assets in place
+Debt
+EquityGrowth Assets
+Cash
+To decrease the debt ratio
+To increase the debt ratio
+Borrow money and buy 
+back stock or pay a large 
+special dividend
+Sell operating assets 
+and use cash to buy 
+back stock or pay or 
+special dividend
+Issue new stock to retire 
+debt or get debt holders to 
+accept equity in the ﬁrm.
+Sell operating assets 
+and use cash to pay 
+down debt.
+104
+The	mechanics	of	changing	debt	ratios	over	time…	
+gradually…
+Aswath Damodaran
+104
+¨To	change	debt	ratios	over	time,	you	use	the	same	mix	of	
+tools	that	you	used	to	change	debt	ratios	gradually:
+¤Dividends	 and	stock	buybacks:	 Dividends	 and	stock	buybacks	 will	
+reduce	the	value	of	equity .
+¤Debt	repayments:	 will	 reduce	the	value	of	debt.
+¨The	complication	of	changing	debt	ratios	over	time	is	
+that	firm	value	is	itself	a	moving	target.	
+¤If	equity	 is	fairly	valued	today ,	the	equity	 value	should	change	
+over	time	to	reflect	the	expected	price	appreciation:
+¤Expected	 Price	appreciation	 =	Cost	of	equity	–Dividend	 Yield
+¤Debt	will	also	change	over	time,	in	conjunction	as	firm	value	
+changes.
+105
+Designing	Debt:	The	Fundamental	Principle
+Aswath Damodaran
+105
+¨The	objective	in	designing	debt	is	to	make	the	cash	
+flows	on	debt	match	up	as	closely	as	possible	with	
+the	cash	flows	that	the	firm	makes	on	its	assets.
+¨By	doing	so,	we	reduce	our	risk	of	default,	increase	
+debt	capacity	and	increase	firm	value.
+106
+Firm	with	mismatched	debt
+Aswath Damodaran
+106
+Firm Value
+Value of Debt
+107
+Firm	with	matched	Debt
+Aswath Damodaran
+107
+Firm Value
+Value of Debt
+108
+Design	the	perfect	financing	instrument
+Aswath Damodaran
+108
+¨The	perfect	financing	instrument	will
+¤Have	all	of	the	tax	advantages	of	debt
+¤While	preserving	the	flexibility	offered	by	equity
+Duration Currency Effect of Inflation
+Uncertainty about Future
+Growth Patterns Cyclicality &
+Other Effects
+Define Debt
+Characteristics
+Duration/
+Maturity
+Currency
+Mix
+Fixed vs. Floating Rate
+* More floating rate 
+- if CF move with 
+inflation
+- with greater uncertainty 
+on future
+Straight versus
+Convertible
+- Convertible if
+cash flows low 
+now but high
+exp. growth
+Special Features
+on Debt
+- Options to make 
+cash flows on debt 
+match cash flows 
+on assets
+Start with the 
+Cash Flows
+on Assets/
+Projects
+Commodity Bonds
+Catastrophe Notes
+Design debt to have cash flows that match up to cash flows on the assets financed
+109
+Ensuring	that	you	have	not	crossed	the	line	
+drawn	by	the	tax	code
+Aswath Damodaran
+109
+¨All	of	this	design	work	is	lost,	however ,	if	the	security	
+that	you	have	designed	does	not	deliver	the	tax	
+benefits.	
+¨In	addition,	there	may	be	a	trade	off	between	
+mismatching	debt	and	getting	greater	tax	benefits.
+Overlay tax
+preferences
+Deductibility of cash flows
+for tax purposes
+Differences in tax rates
+across different locales
+If tax advantages are large enough, you might override results of previous step
+Zero Coupons
+110
+While	keeping	equity	research	analysts,	ratings	
+agencies	and	regulators	applauding
+Aswath Damodaran
+110
+¨Ratings	agencies	want	companies	to	issue	equity,	since	it	
+makes	them	safer .	
+¨Equity	research	analysts	want	them	not	to	issue	equity	
+because	it	dilutes	earnings	per	share.	
+¨Regulatory	authorities	want	to	ensure	that	you	meet	their	
+requirements	in	terms	of	capital	ratios	(usually	book	value).	
+¨Financing	that	leaves	all	three	groups	happy	is	nirvana.
+Consider 
+ratings agency
+& analyst concerns
+Analyst Concerns
+- Effect on EPS
+- Value relative to comparables
+Ratings Agency
+- Effect on Ratios
+- Ratios relative to comparables
+Regulatory Concerns
+- Measures used
+Can securities be designed that can make these different entities happy?
+Operating Leases
+MIPs
+Surplus Notes
+111
+Debt	or	Equity:	The	Strange	Case	of	Trust	
+Preferred
+Aswath Damodaran
+111
+¨Trust	preferred	stock	has
+¤A	fixed	dividend	payment,	specified	at	the	time	of	the	issue
+¤That	is	tax	deductible
+¤And	failing	to	make	the	payment	can	give	these	
+shareholders	voting	rights	
+¨When	trust	preferred	was	first	created,	ratings	
+agencies	treated	it	as	equity.	As	they	have	become	
+more	savvy,	ratings	agencies	have	started	giving	
+firms	only	partial	equity	credit	for	trust	preferred.
+112
+Debt,	Equity	and	Quasi	Equity
+Aswath Damodaran
+112
+¨Assuming	that	trust	preferred	stock	gets	treated	as	
+equity	by	ratings	agencies,	which	of	the	following	
+firms	is	the	most	appropriate	firm	to	be	issuing	it?
+a. A	firm	that	is	under	levered,	but	has	a	rating	constraint	
+that	would	be	violated	if	it	moved	to	its	optimal
+b. A	firm	that	is	over	levered	that	is	unable	to	issue	debt	
+because	of	the	rating	agency	concerns.
+113
+Soothe	bondholder	fears
+Aswath Damodaran
+113
+¨There	are	some	firms	that	face	skepticism	from	
+bondholders	when	they	go	out	to	raise	debt,	
+because
+¤Of	their	past	history	of	defaults	or	other	actions
+¤They	are	small	firms	without	any	borrowing	history
+¨Bondholders	tend	to	demand	much	higher	interest	
+rates	from	these	firms	to	reflect	these	concerns.
+Factor in agency
+conflicts between stock
+and bond holders
+Observability of Cash Flows
+by Lenders
+- Less observable cash flows 
+lead to more  conflicts
+Type of Assets financed
+- Tangible and liquid assets 
+create less agency problems
+Existing Debt covenants
+- Restrictions on Financing
+If agency problems are substantial, consider issuing convertible bonds
+Convertibiles
+Puttable Bonds
+Rating Sensitive
+Notes
+LYONs
+114
+And	do	not	lock	in	market	mistakes	that	work	
+against	you
+Aswath Damodaran
+114
+¨Ratings	agencies	can	sometimes	under	rate	a	firm,	and	
+markets	can	under	price	a	firm’s	stock	or	bonds.	If	this	
+occurs,	firms	should	not	lock	in	these	mistakes	by	issuing	
+securities	for	the	long	term.	In	particular,	
+¤Issuing	equity	or	equity	 based	products	(including	convertibles),	
+when	 equity	 is	under	 priced	 transfers	 wealth	 from	existing	
+stockholders	 to	the	new	stockholders
+¤Issuing	long	term	debt	when	a	firm	is	under	 rated	locks	in	rates	
+at	levels	 that	are	far	too	high,	given	the	firm’s	default	risk.
+¨What	is	the	solution
+¤If	you	need	to	use	equity?
+¤If	you	need	to	use	debt?
+115
+Designing	Debt:	Bringing	it	all	together
+Aswath Damodaran
+115
+Duration Currency Effect of Inflation
+Uncertainty about Future
+Growth Patterns Cyclicality &
+Other Effects
+Define DebtCharacteristics
+Duration/
+Maturity
+Currency
+Mix
+Fixed vs. Floating Rate
+* More floating rate 
+-if CF move with 
+inflation
+-with greater uncertainty 
+on future
+Straight versus
+Convertible
+-Convertible if
+cash flows low 
+now but high
+exp. growth
+Special Features
+on Debt
+-Options to make 
+cash flows on debt 
+match cash flows 
+on assets
+Start with the Cash Flowson Assets/Projects
+Overlay taxpreferences
+Deductibility of cash flows
+for tax purposes
+Differences in tax rates
+across different locales
+Consider ratings agency& analyst concerns
+Analyst Concerns
+-Effect on EPS
+-Value relative to comparables
+Ratings Agency
+-Effect on Ratios
+-Ratios relative to comparables
+Regulatory Concerns
+-Measures used
+Factor in agencyconflicts between stockand bond holders
+Observability of Cash Flows
+by Lenders
+-Less observable cash flows 
+lead to more  conflicts
+Type of Assets financed
+-Tangible and liquid assets 
+create less agency problems
+Existing Debt covenants
+-Restrictions on Financing
+Consider Information Asymmetries Uncertainty about Future Cashflows
+-When there is more uncertainty, it
+may be better to use short term debt
+Credibility & Quality  of the Firm
+-Firms with credibility problems
+will issue more short term debt
+If agency problems are substantial, consider issuing convertible bonds
+Can securities be designed that can make these different entities happy?
+If tax advantages are large enough, you might override results of previous step
+Zero Coupons
+Operating Leases
+MIPs
+Surplus Notes
+Convertibiles
+Puttable Bonds
+Rating Sensitive
+Notes
+LYONs
+Commodity Bonds
+Catastrophe Notes
+Design debt to have cash flows that match up to cash flows on the assets financed
+116
+Approaches	for	evaluating	Asset	Cash	Flows
+Aswath Damodaran
+116
+I.	Intuitive	Approach
+¤Are	the	projects	 typically	long	term	or	short	 term?	What	is	the	cash	
+flow	pattern	on	projects?	
+¤How	much	growth	potential	does	 the	firm	have	relative	 to	current	
+projects?
+¤How	cyclical	are	the	cash	flows?	What	specific	 factors	determine	 the	
+cash	flows	on	projects?
+II.	Project	Cash	Flow	Approach
+¤Estimate	 expected	 cash	flows	on	a	typical	project	for	the	firm
+¤Do	scenario	 analyses	 on	these	 cash	flows,	based	 upon	different	 macro	
+economic	scenarios
+III.	Historical	Data
+¤Operating	Cash	 Flows
+¤Firm	Value
+117
+I.		Intuitive	Approach	-Disney
+Aswath Damodaran
+117
+Business Project Cash Flow Characteristics Type of Financing 
+Studio 
+entertainment 
+Movie projects are likely to 
+• Be short-term  
+• Have cash outflows primarily in dollars (because Disney makes most of its 
+movies in the U.S.), but cash inflows could have a substantial foreign currency 
+component (because of overseas revenues) 
+• Have net cash flows that are heavily driven by whether the movie is a hit, which 
+is often difficult to predict 
+Debt should be 
+1. Short-term 
+2. Mixed currency debt, 
+reflecting audience make-
+up. 
+3. If possible, tied to the 
+success of movies. 
+Media networks Projects are likely to be 
+1. Short-term 
+2. Primarily in dollars, though foreign component is growing, especially for ESPN. 
+3. Driven by advertising revenues and show success (Nielsen ratings) 
+Debt should be 
+1. Short-term 
+2. Primarily dollar debt 
+3. If possible, linked to 
+network ratings 
+Park resorts Projects are likely to be 
+1. Very long-term 
+2. Currency will be a function of the region (rather than country) where park is 
+located. 
+3. Affected by success of studio entertainment and media networks divisions 
+Debt should be 
+1. Long-term 
+2. Mix of currencies, based 
+on tourist makeup at the 
+park. 
+ 
+Consumer 
+products 
+Projects are likely to be short- to medium-term and linked to the success of the 
+movie division; most of Disney’s product offerings and licensing revenues are 
+derived from their movie productions 
+Debt should be 
+1. Medium-term 
+2. Dollar debt 
+Interactive Projects are likely to be short-term, with high growth potential and significant risk. 
+While cash flows will initially be primarily in US dollars, the mix of currencies will 
+shift as the business ages. 
+Debt should be short-term, 
+convertible US dollar debt.
+118
+6Application	Test:	Choosing	your	Financing	
+Type
+Aswath Damodaran
+118
+¨Based	upon	the	business	that	your	firm	is	in,	and	the	
+typical	investments	that	it	makes,	what	kind	of	
+financing	would	you	expect	your	firm	to	use	in	terms	
+of
+a. Duration	(long	term	or	short	term)
+b. Currency
+c. Fixed	or	Floating	rate
+d. Straight	or	Convertible

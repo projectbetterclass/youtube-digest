@@ -1,0 +1,3 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pc/datasets/fundgr.xls
+
+[legacy .xls workbook: fundgr.xls — see raw file]

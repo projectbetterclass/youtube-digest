@@ -1,0 +1,125 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/IntRateValue.pdf
+
+INTERESTRATES AND VALUE
+Ifratesgoup,stocks go ?
+2
+Interest rates take center stage…
+¨ The first quarter of 2021 has been, for the most 
+part, a good time for equity markets, but there 
+have been surprises. 
+¤ The first has been the steep rise in treasury rates in the 
+last twelve weeks, as investors reassess expected 
+economic growth over the rest of the year and worry 
+about inflation. 
+¤ The second has been a shift within equity markets, a 
+"rotation" in Wall Street terms, as the winners from last 
+year underperformed the losers, raising questions about 
+whether this shift is a long termshift or just a short term
+adjustment.
+3
+InterestRates: Long Term Perspective
+4
+Interest Rates in 2021
+5
+TheFed’s Role
+6
+Lookingforward…
+¨As for rates for the rest of the year, you may draw comfort from the Fed's 
+assurances that it will keep rate low, but I don't. Put bluntly, the only rate 
+that the Fed directly sets is the Fed Funds rate, and while it may send 
+signals to the market with its words and actions, it faces two limits.
+¤One is that the Fed Funds rate is currently close to zero, limiting the Fed's capacity 
+to signal with lower rates.
+¤The second and more powerful reason is that the only reason that a central bank is 
+able tosignal to markets is if it has credibility, since the signal is more about what 
+the Fed sees, using data that only it might have, about inflation and real growth in 
+the future. Every time a Federal Reserve chair or any of the FOMC members make 
+utterances that undercut that credibility, the Fed risks losing even the limited 
+signaling power it continues to have.
+¨In particular, the Fed's own assessments of real growth of 6.5% for 2021 
+and inflation of 2.2% for the year are at war with its concurrent promise 
+that it will keep rates low; after all, the intrinsic riskfree rate is 8.7%, 
+based on those numbers.
+7
+TheEquities Story in 2021
+8
+Divergence across sectors
+9
+Value vs Growth (A Lazy Categorization)
+10
+Interest Rates and Value
+11
+Drivers of Interest Rates
+Higher real growth Higher inflation
+Riskfree Rate Riskfree rate will rise. Riskfree rate will rise.
+Risk premia
+No effect or even a decrease. Risk premia may rise as inflation increases, 
+because higher inflation is almost always more 
+volatile than low inflation.
+Revenue Growth Increases with economic growth, and 
+more so economy-dependent companies
+Increases, as inflation provides a backdraft 
+adding to existing real growth.
+Operating Margins
+Increases, as increased consumer 
+spending/demand allows for price 
+increases
+For companies with the power to pass through 
+inflation to their customers, stable margins, but 
+for companies without that pricing power, 
+margins decrease.
+Investment EfficiencyImproves, as the same investment delivers 
+more revenues/profits.
+No effect, in real terms, but in nominal terms, 
+companies can look more efficient.
+Value Effect
+More likely to be positive. Investors will 
+demand higher rates of return (negative), 
+but higher earnings and cash flows can 
+more than offset effect.
+More likely to be negative. Investors will 
+demand higher rates of return (negative), and 
+while revenue growth will increase, lower 
+margins will lead to lagging earnings.
+12
+StockReturns and Rates: History
+13
+Intrinsic PE: S&P 500
+14
+Explaining and looking forward
+¨This should provide some insight into both why the equity market 
+has been able to maintain its upward trend in the face of rising 
+rates as well as the periods of whiplash, when stocks have sold off. 
+¨For the most part, the primary story driving interest rates, for much 
+of 2021, has been one of economic resurgence, and it does not 
+surprise me that the positives have outweighed the negatives. 
+¨At the same time, there is concern that inflation might be lurking 
+under the surface, and on days when these worries surface, the 
+market is much more susceptible to melting down. 
+¨My guess is that this dance will continue for the foreseeable future, 
+but as economic reports come out on both real growth and 
+inflation, one or other point of view will get vindication.
+15
+TheCorporate Life Cycle and Cash Flows
+16
+The Corporate Life Cycle and Financial Balance 
+Sheet
+17
+Interest Rate Effects on Value
+18
+Conclusion
+¨This analysis should provide some insight into both why the equity 
+market has been able to maintain its upward trend in the face of 
+rising rates as well as the periods of whiplash, when stocks have 
+sold off. 
+¨For the most part, the primary story driving interest rates, for much 
+of 2021, has been one of economic resurgence, and it does not 
+surprise me that the positives have outweighed the negatives. 
+¨At the same time, there is concern that inflation might be lurking 
+under the surface, and on days when these worries surface, the 
+market is much more susceptible to melting down. 
+¨My guess is that this dance will continue for the foreseeable future, 
+but as economic reports come out on both real growth and 
+inflation, one or other point of view will get vindication. 
+¨And for those who count inflation out, or underestimate its impact, 
+I wish you the good fortune of never living withitsthreat.

@@ -1,0 +1,194 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/Taxes2021.pdf
+
+CORPORATE TAX REFORM: YET 
+AGAIN?
+You are entitled to opinions, but not to the facts!
+2
+Another tax reform moment?
+¨The Biden Administration's $ 2 trillion infrastructure plan, 
+announced with fanfare a few weeks ago, has seemed to have 
+opened up a debate about not only what comprises infrastructure, 
+but also about how to pay for it.  Not surprisingly. it is corporate 
+taxes that are the primary vehicle for delivering the revenues 
+needed for the plan, with an increase in the federal corporate tax 
+rate from 21% to 28% being the central proposal. 
+¨I will leave the debate on what comprises infrastructure to others, 
+and focus entirely on the corporate tax question in this post. 
+¨I do this, knowing fully well that tax debates quickly turn toxic, as 
+people have strong priors on whether corporations pay their fair 
+share of taxes, and selectively find inforrmationto back their 
+positions.
+3
+Taxes and Value: It is complicated
+¨ Feedback effect on taxable income: This may seem cynical, but it is nevertheless 
+true that the amount that companies report as taxable income and how much 
+they choose to defer taxes into future years is a function of the corporate tax rate. 
+Astax rates rise, corporations use the discretion built into the tax code toreport 
+less taxable incomeand todefer more taxesto future years. It is for this reason 
+that legislatures around the world over estimate how much additional revenue 
+they will generate, when they raise taxes, and investors over estimate how much 
+corporate earnings will rise when tax rates are decreased.
+¨ Contemporaneous changes in the tax code: When corporate tax rates are 
+changed, it is a given that there will be other changes in the tax code that may 
+either counter the change or add to it. For instance, the 2017 US tax reform act, in 
+addition to lowering the corporate tax rate, also changed the way that foreign 
+income to US companies was taxed.
+¨ Financing Mix: Companies can raise capital either from equity or debt, and the 
+costs of equity and debt can be altered when the tax rate changes. That is because 
+interest on debt is tax deductible, and as the corporate tax rate rises, the after-tax 
+cost of debt falls, making debt a more attractive financing option for companies.
+4
+Taxes and Value: A Picture
+5
+Taxes and Value: Differentiating Factors
+¨Note that it is the effective tax rate, determined by tax deferrals and other 
+tax management tools, that drives after-tax earnings and cash flows, and 
+the marginal tax rate, i.e., the tax rate on the last dollar of income earned 
+that determines the corporate after-tax borrowing cost. It is this reason 
+that the effect of raising or lowering corporate tax rates on value can get 
+murky, with the following general propositions:
+¤Tax Deferral Options: Companies that have more options when it comes to 
+deferring taxes than others can buffer the impact of higher corporate taxes by 
+choosing to defer taxes and report less taxable income. 
+¤Debt funding: Firms that are heavier users of debt financing will be able to offset 
+some or even all of the impact of a higher corporate tax rate, by using the tax 
+advantages that come with the higher tax rate to lower their costs of capital.
+¨Put simply, when corporate tax rates are raised, not all companies will 
+lose the same, and there may even be a few companies that emerge as 
+net winners.
+6
+Marginal Tax Rates: US Corporate Tax Rates over 
+history
+7
+But the world has changed..
+¨While that system worked well for most of the twentieth century, it 
+started to break down towards the end of that century, as the US became 
+a less dominant player in the global economy and othercountries lowered 
+theircorporate tax rates. The first development meant that larger 
+proportions of UScorporate income was generated overseas, and the 
+second increased the differential tax rates and thus the repatriation 
+penalty. 
+¨By 2014, when Iwrote this post, the US tax code had become 
+dysfunctional, as the trapped cash cumulated to trillions of dollars and 
+some US companies sought to change move their incorporation to other 
+countries. 
+¨This history is worth emphasizing, because the change in the US 
+corporate tax rate in 2021, from 35% to 21%, accompanied by 
+theabandonment of the global tax model just brought the US closer to 
+the rest ofthe world in terms of both tax rates and treatment of foreign 
+income.
+9
+Effective Tax Rates
+¨To measure how much companies pay in taxes, you have 
+to start with the financial statements of the company, 
+recognizing that these are reporting documents, not tax 
+documents. 
+¨Put simply, what you see as taxable income in the annual 
+report or public financial filing for a company can be very 
+different from the taxable income in the tax filings made 
+by the same company. 
+¨Since we have no access to the latter, at least for 
+individual companies, there are clues in the reported 
+financials that can nevertheless help us assess how much 
+a company pays in taxes
+10
+The Clues in the Financial Statements
+11
+Why effective tax rates can mislead..
+¨ Accrual income: It is worth remembering that accrual income is after accounting 
+expenses, some of which are related to operations (cost of goods sold, marketing), 
+some to financial (interest expenses) and some of which are determined by the 
+tax code (depreciation and amortization, write offs, special charges). A company 
+that is savvy about using tax provisions to lower its accrual income may be able to 
+look like it is paying a high effective tax rate, but is actually paying much less.
+¨ Cash taxes versus Accrual taxes: The actual taxes paid by to the government (cash 
+taxes) can be higher or lower than the accrual taxes, and the difference should be 
+visible in the cash flow statement in the form of deferred taxes.
+¨ Past tax behavior: One final aspect that can affect a company's tax burden is its 
+past history. A company that has lost considerable amounts in prior years can 
+accumulate net operating losses that can reduce taxes paid in the current period. 
+In addition, a company that has deferred taxes in prior years will find itself playing 
+catch-up and paying more in taxes in the current year , just as companies that have 
+pre-paid taxes may be able to pay far less in taxes in the current year .
+12
+Measuring Tax Rates for a Group: Alternative 
+measures
+¨Taxes paid in dollar value (Accrual and Cash): This reflects the aggregate 
+amount paid by all companies in a grouping during the most recent year. 
+Ultimately, this is the number that matters most from a tax collection 
+perspective.
+¨Average effective tax rate across all companies: This is the average tax 
+rate across all companies in a grouping, including money losing 
+companies. Not surprisingly, the average will be pushed down as the 
+number of money losing firms increases.
+¨Average effective tax rate across money making companies: This deals 
+with the problem of money losing companies, but it is a simple average 
+and it weights very small companies and very large companies equally.
+¨Aggregate tax rate: This is the tax rate that best captures how much 
+companies pay in a sector, and is computed by dividing the sum of taxes 
+paid by all companies in a sector by the sum of taxable income. It thus 
+weights companies that are bigger more than smaller companies.
+13
+US Effective Tax Rates: 2016 -2020
+14
+And over time…
+15
+Effects of lowering marginal tax rates?
+¨Note that while the corporate tax rate dropped by 14% 
+(from 35% to 21%) from 2017 to 2018, the effective tax 
+rate decreased by 6.8% and the cash tax rate by 2.75%. 
+¨In a more telling statistic, the dollar value of taxes paid 
+increased between 2017 and 2019 by 1.4% and cash 
+taxes by almost 18%, as companies reported more 
+taxable income. 
+¨While the argument about the right tax rate for 
+companies is a legitimate one, it has to start with a 
+reality check. The widely held perception that US 
+companies are now paying less in taxes than they were 
+prior to 2017, while it may fit your preconceptions about 
+corporate tax behavior, is not backed up by facts.
+17
+Sector Specific Tax Rates: For US
+18
+Reading the tea leaves..
+¨There are clear differences in taxes paid across sectors, 
+with some of the reasons being obvious (REITs are pass 
+through entities that pay no federal taxes) and some not. 
+¨For instance, technology companies and pharmaceutical 
+businesses are mostly in the first two columns (with the 
+lowest tax rates) and retail companies pay much higher 
+tax rates. 
+¨Pharmaceutical and technology companies do share a 
+common characteristic, which is that their primary 
+capital expenditure takes the form of R&D, which has 
+historically been expensed at these companies, rather 
+than capitalized and depreciated.
+19
+R&D and Taxes
+20
+Market Cap and Taxes
+There seems to be a perception that it is the largest companies that 
+are not paying their fair share in taxes, fed by anecdotal evidence of 
+high profile companies that pay no taxes; in the last few years, those 
+examples have includedGE,AmazonandFedEx.
+21
+Thoughts on new tax laws
+¨ Get your mission right: In keeping with the saying that if you do not know where you going, it does 
+not matter how you get there, the starting point for all tax legislation has to be with the end game. 
+Early on, legislators have to decide whether they consider corporate taxes to primarily a source of 
+revenues to the government or a weapon to punish "bad" corporate behavior and to "reward" 
+good corporate behavior. 
+¨ All tax talk is agenda-driven: Economists and experts will use numbers that back their arguments 
+and look like facts, but it is easy to lie with numbers, especially when it comes to taxes. 
+¨ Focus on removing tax deductions/credits, not on increasing tax rates: If the end game is to get 
+companies to pay more in taxes, removing tax deductions and credits will be more effective than 
+increasing the tax rate. In fact, raising the tax rate will not only raise the effective tax rate paid by 
+companies far less than expected, but it will also have disparate effects across companies.
+¨ Remember that you operate in a global economy: No matter how careful you write the tax laws, 
+multinationals will retain a substantial amount of freedom to move their operations and income 
+around the world. A country that is an outlier when it comes to taxes, as the United States was 
+prior to 2017, will lose out in the competition for new businesses. 
+¨ Provide long-term predictability: Whatever Congress decides to do with the tax code, it should also 
+provide a degree of predictability for an extended period. Changes to the tax law that are 
+temporary or come with sunset provisions create uncertainty for businesses trying to make 
+investment decisions for the long term.

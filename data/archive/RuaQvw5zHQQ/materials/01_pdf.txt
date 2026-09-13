@@ -1,0 +1,1088 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/webcasts/optdebt/dell10K2013.pdf
+
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form 10-K
+(Mark One)
+ 
+ 
+ 
+ 
+ 
+x
+ 
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the fiscal year ended February 1, 2013
+or
+o
+ 
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the transition period from 
+          
+ to 
+          
+Commission file number: 0-17017
+Dell Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+ 
+74-2487834
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S. Employer
+Identification No.)
+One Dell Way, Round Rock, Texas 78682
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code: 
+1-800-289-3355
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+ 
+Name of each exchange on which registered
+Common Stock, par value $.01 per share
+ 
+The NASDAQ Stock Market LLC
+(NASDAQ Global Select Market)
+Securities registered pursuant to Section 12(g) of the Act:
+ None
+ 
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.  Yes  
+o 
+No 
+R
+ 
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+o
+ No 
+R
+ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes 
+R
+  No 
+o
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and
+posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes 
+R
+  No 
+o
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant’s
+knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+R
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large
+accelerated filer,” “accelerated filer,” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer 
+R
+ 
+Accelerated filer 
+o
+Non-accelerated filer 
+o
+  (Do not check if a smaller reporting company)
+ 
+Smaller reporting company 
+o
+ 
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes 
+o
+ No 
+R
+ 
+Approximate aggregate market value of the registrant’s common stock held by non-affiliates as of August 3, 2012, based upon the last sale
+price reported for such date on the NASDAQ Global Select Market
+ 
+$17.1 billion
+Number of shares of common stock outstanding as of March 6, 2013
+ 
+1,747,220,324
+Table of Contents
+DOCUMENTS INCORPORATED BY REFERENCE
+ 
+The information required by Part III of this report, to the extent not set forth herein, is incorporated by reference from the registrant's proxy statement relating to
+the annual meeting of stockholders in 
+2013
+. 
+Such proxy statement will be filed with the Securities and Exchange Commission within 120 days after the end of
+the fiscal year to which this report relates.
+PART I
+Table of Contents
+Page
+Item 1.
+Business
+4
+Item 1A.
+Risk Factors
+15
+Item 1B.
+Unresolved Staff Comments
+22
+Item 2.
+Properties
+23
+Item 3.
+Legal Proceedings
+23
+Item 4.
+Mine Safety Disclosures
+23
+PART II
+ 
+ 
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+24
+Item 6.
+Selected Financial Data
+26
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+27
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+59
+Item 8.
+Financial Statements and Supplementary Data
+60
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+116
+Item 9A.
+Controls and Procedures
+116
+Item 9B.
+Other Information
+117
+PART III
+ 
+ 
+Item 10
+Directors, Executive Officers and Corporate Governance
+118
+Item 11
+Executive Compensation
+118
+Item 12
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+118
+Item 13
+Certain Relationships and Related Transactions, and Director Independence
+118
+Item 14
+Principal Accounting Fees and Services
+118
+PART IV
+ 
+ 
+Item 15.
+Exhibits, Financial Statement Schedules
+119
+Signatures
+121
+Exhibit Index
+123
+Exhibits
+ 
+ 
+ 
+EX-12.1
+ 
+EX-21
+ 
+EX-23
+ 
+EX-31.1
+ 
+EX-31.2
+ 
+EX-32.1
+ 
+EX-101 INSTANCE DOCUMENT
+ 
+EX-101 SCHEMA DOCUMENT
+ 
+EX-101 CALCULATION LINKBASE DOCUMENT
+ 
+EX-101 DEFINITION LINKBASE DOCUMENT
+ 
+EX-101 LABELS LINKBASE DOCUMENT
+ 
+EX-101 PRESENTATION LINKBASE DOCUMENT
+Table of Contents
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This report includes “forward-looking statements.” 
+The words “may,” “will,” “anticipate,” “estimate,” “expect,” “intend,” “plan,” “aim,” “seek” and similar
+expressions as they relate to us or our management are intended to identify these forward-looking statements. 
+All statements by us regarding our expected
+financial position, revenues, cash flows and other operating results, business strategy, legal proceedings and similar matters are forward-looking statements.
+Our expectations expressed or implied in these forward-looking statements may not turn out to be correct. 
+Our results could be materially different from our
+expectations because of various risks, including the risks discussed in this report under “Part I - Item 1A - Risk Factors.” 
+Any forward-looking statement
+speaks only as of the date as of which such statement is made, and, except as required by law, we undertake no obligation to update any forward-looking
+statement to reflect events or circumstances, including unanticipated events, after the date as of which such statement was made.
+Table of Contents
+PART I
+All percentage amounts and ratios were calculated using the underlying data in thousands. 
+Unless otherwise noted, all references to time periods
+refer to our fiscal years. 
+Our fiscal year is the 52 or 53 week period ending on the Friday nearest January 31. 
+The fiscal years ended February 1,
+2013 ("Fiscal 2013") and January 28, 2011 ("Fiscal 2011") were 52 week periods, while the fiscal year ended February 3, 2012 ("Fiscal 2012")
+was a 53 week period.
+Unless the context indicates otherwise, references in this report to “we,” “us,” “our” and “Dell” mean Dell Inc. and our consolidated
+subsidiaries.
+ITEM 1 — BUSINESS
+General
+Dell is a global information technology company that offers its customers a broad range of products and services. 
+We are focused on providing end-to-end
+technology solutions to our customers.
+Dell Inc. is a holding company that conducts its business worldwide through its subsidiaries. 
+We were incorporated in the state of Delaware in 1984. 
+Our
+global corporate headquarters is located in Round Rock, Texas. 
+When we refer to our company and its business in this report, we are referring to the business
+and activities of our consolidated subsidiaries.
+Merger Agreement
+On February 5, 2013, Dell announced that it had signed a definitive agreement and plan of merger (the “merger agreement”) pursuant to which it will be
+acquired by Denali Holding Inc. (“Parent”), a Delaware corporation owned by Michael S. Dell, the Chairman, Chief Executive Officer and founder of Dell,
+and investment funds affiliated with Silver Lake Partners, a global private equity firm (“Silver Lake”). 
+Following completion of the transaction, Mr. Dell will
+continue to lead Dell as Chairman and Chief Executive Officer and will maintain a significant equity investment in Dell by contributing his Dell shares to
+Parent and making a cash investment in Parent. 
+Subject to the satisfaction or permitted waiver of closing conditions set forth in the merger agreement, the
+merger is expected to be consummated before the end of the second quarter of the fiscal year ending January 31, 2014.
+At the effective time of the merger, each share of Dell's common stock issued and outstanding immediately before the effective time, other than certain excluded
+shares, will be converted into the right to receive $13.65 in cash, without interest (the “merger consideration”). 
+Shares of common stock held by the Parent
+and its
+ 
+subsidiaries, shares held by Mr. Dell and certain of Mr. Dell's related parties (together with Mr. Dell, the “MD Investors”), and by Dell or any wholly-
+owned subsidiary of Dell will not be entitled to receive the merger consideration.
+Dell's stockholders will be asked to vote on the adoption of the merger agreement and the merger at a special stockholders meeting that will be held on a date to
+be announced. 
+The closing of the merger is subject to a non-waivable condition that the merger agreement be adopted by the affirmative vote of the holders of
+(1) at least a majority of all outstanding shares of common stock and (2) at least a majority of all outstanding shares of common stock held by stockholders
+other than Parent and its subsidiaries, the MD Investors, any other officers and directors of Dell or any other person having any equity interest in, or any right
+to acquire any equity interest in, Parent's merger subsidiary or any person of which the merger subsidiary is a direct or indirect subsidiary. 
+Consummation of
+the merger is also subject to certain customary conditions. 
+The merger agreement does not contain a financing condition.
+The merger agreement places limitations on Dell's ability to engage in certain types of transactions without Parent's consent during the period between the
+signing of the merger agreement and the effective time of the merger. 
+During this period, Dell may not repurchase shares of its common stock or declare
+dividends in excess of the quarterly rate of $0.08 per share authorized under its current dividend policy. 
+In addition, with limited exceptions, Dell may not
+incur additional debt other than up to $1.8 billion under its existing commercial paper program, $2.0 billion under its revolving credit facilities, $1.5 billion
+under its structured financing debt facilities, and up to $25 million of additional indebtedness. 
+Further, other than in transactions in the ordinary course of
+business or within specified dollar limits and certain other limited exceptions, Dell generally may not acquire other businesses, make investments in other
+persons, or sell, lease, or encumber its material assets.
+Parent has obtained equity and debt financing commitments for the transactions contemplated by the merger agreement, the aggregate proceeds of which,
+together with the proceeds of a rollover investment of Dell shares in Parent by the MD Investors, an investment in subordinated securities and the available
+cash of Dell, will be sufficient for Parent to pay the
+4
+Table of Contents
+aggregate merger consideration and all related fees and expenses. 
+The commitment of financial institutions to provide debt financing for the transaction is
+subject to a number of customary conditions, including the execution and delivery by the borrowers and the guarantors of definitive documentation consistent
+with the debt commitment letter.
+Pursuant to the terms of a “go-shop” provision in the merger agreement, during the period beginning on the date of the merger agreement and expiring after
+March 22, 2013, Dell and its subsidiaries and their respective representatives may initiate, solicit and encourage any alternative acquisition proposals from
+third parties, provide nonpublic information to such third parties and participate in discussions and negotiations with such third parties regarding alternative
+acquisition proposals. 
+Under the terms and conditions set forth in the merger agreement, before the company stockholder approvals adopting the merger
+agreement, the Board of Directors may change its recommendation, including in order to approve, and may authorize Dell to enter into, an alternative
+acquisition proposal if the special committee of the Board of Directors that recommended approval of the merger has determined in good faith, after
+consultation with outside counsel and its financial advisors, that such alternative acquisition proposal would be more favorable to Dell's stockholders, taking
+into account all of the terms and conditions of such proposal (including, among other things, the financing, likelihood and timing of its consummation and
+any adjustments to the merger agreement).
+The merger agreement contains certain termination rights for Dell and Parent. 
+Among such rights, and subject to certain limitations, either Dell or Parent may
+terminate the merger agreement if the merger is not completed by November 5, 2013.
+Additional information about the merger agreement is set forth in our current report on Form 8
+‑
+K filed with the SEC on February 6, 2013.
+Business Strategy
+Dell built its reputation as a leading technology provider through listening to customers and developing solutions that meet customer needs.  A few years ago,
+we initiated a broad transformation of the company to become an end-to-end technology solutions provider, and we remain committed to this transformation.
+We believe that changing our corporate structure to 
+align with our product and services business units will allow us to better serve and demonstrate our
+solutions capabilities to our customers and execute our strategy. 
+This change will correspond with how we intend to manage the performance of our product
+and services offerings. 
+Accordingly, on January 10, 2013, we announced our intention to replace our current segment reporting structure described in the
+Operating Business Segments section below with the following product and services business units in the first quarter of Fiscal 2014:
+•
+End-User Computing Group (“EUC”)
+•
+Enterprise Solutions Group (“ESG”)
+•
+Dell Services
+•
+Dell Software Group
+EUC will include notebooks, desktop PCs, thin client products, tablets, third-party software, and client-related peripherals. 
+ESG will include servers,
+networking, storage, converged infrastructure offerings, and ESG-related peripherals. 
+Dell Services will include a broad range of IT and business services,
+including support and deployment services, infrastructure, cloud, and security services, and applications and business process services. 
+The Dell Software
+Group will include systems management, security, and information management. 
+See the Product and Services section below for a more detailed discussion of
+our offerings.
+Products and Services
+ 
+We design, develop, manufacture, market, sell, and support a wide range of products and services.
+•
+Client
+ 
+-
+ 
+We offer a wide variety of client computing devices, including desktop PCs, notebooks, and tablets, designed with customer needs in mind. 
+Our
+offerings balance performance, manageability, design, and security. 
+In Fiscal 2013, we expanded our thin client offerings through the acquisition of Wyse
+Technologies, which has enabled us to develop features such as our cloud-based mobile computing offerings. 
+In addition, we introduced a portfolio of
+Windows-8 touch-enabled tablets and convertibles. 
+Our tablet and convertible solutions are designed to optimize efficiency, while reducing the total cost of
+ownership for commercial customers, including the use of such solutions in the workplace as part of the "Bring Your Own Device" trend. 
+In addition,
+our client solutions provide uncompromised performance for the entertainment needs of our consumer customers.
+•
+Servers 
+-
+ Our servers are designed to offer customers affordable performance, reliability, and scalability. 
+Our portfolio includes high performance rack,
+blade, tower, and hyperscale servers for enterprise customers and value tower servers
+5
+Table of Contents
+for small organizations, networks, and remote offices. 
+Our hyperscale servers are designed to maximize performance and operating efficiency in the most
+intense data environments. 
+During Fiscal 2013, we enhanced our servers with features that deliver high performance and flexibility while maximizing
+energy efficiency. 
+In addition, during the first quarter of Fiscal 2013, we introduced our 12
+th
+ generation line of PowerEdge servers, which are designed for
+optimal performance.
+•
+Networking 
+- 
+Our networking solutions are designed to help companies simplify their IT environments. 
+These products employ scalable technologies that
+help companies of all sizes build for the future. 
+Our networking solutions are designed to lower data center operating costs and improve manageability in
+high performance computing environments.
+     
+•
+Storage
+ 
+-
+ 
+We offer a comprehensive portfolio of advanced storage solutions, including storage area networks, network-attached storage, direct-attached
+storage, and various backup systems. 
+Our storage offerings allow customers to grow capacity, add performance, and protect their data in a more
+economical manner. 
+The flexibility and scalability offered by our storage systems help organizations optimize storage for diverse environments with varied
+requirements. 
+During Fiscal 2013, we enhanced our storage offerings with a number of new options, including new hardware platforms for greater
+performance and capacity, new network-attached storage gateways, which provide unified storage solutions, synchronous replication, which offers real
+time data protection, and enterprise-class storage blade arrays for converged infrastructure offerings.
+•
+Third-party software and peripherals 
+- 
+In connection with the sale of our product offerings, we sell a wide range of 
+peripherals, including monitors,
+printers, projectors, other client and enterprise peripherals, as well as third-party software products.
+•
+Services
+ 
+-
+ Our services include a broad range of configurable IT and business services, including infrastructure technology, consulting and applications,
+and product-related support services.  We manage our services based on a customer engagement model, which groups our services with similar demand,
+economic, and delivery profiles into three categories of services: support and deployment services; infrastructure, cloud, and security services; and
+applications and business process services.  Within those categories, we offer a variety of services to our customers as part of an overall solution.   
+                       
+•
+Support and Deployment Services -
+ 
+Support and deployment services are closely tied to the sale of our hardware offerings, as well as
+multivendor support services. 
+These services include support and extended warranty services, enterprise installation, and configuration
+services.
+•
+Infrastructure, Cloud, and Security Services - 
+Infrastructure, cloud, and security services may be performed under multi-year outsourcing
+arrangements, subscription services, or short-term consulting contracts. 
+These services include infrastructure and security managed services,
+cloud computing, infrastructure consulting, and security consulting and threat intelligence. 
+We are often responsible for defining the
+infrastructure technology strategies for our customers through the identification and delivery of new technology offerings and innovations that
+deliver value to our customers.
+•
+Applications and Business Process Services -
+ 
+Applications services include such services as application development and maintenance,
+application migration and management services, package implementation, testing and quality assurance functions, business intelligence and
+data warehouse solutions, and application consulting services. 
+Business process services involve assuming responsibility for certain customer
+business functions, including back office administration, call center management, and other technical and administration services.
+•
+Software
+ -
+ 
+Software is a critical component of enterprise solutions and end-user computing. 
+Accordingly, in early Fiscal 2013, we announced the
+formation of our software group to expand our ability to execute in this strategic area. Our software offerings consist of system management, security
+software offerings, and information management. 
+We believe our investments in this area will help support our ongoing strategic transformation to an end-
+to-end technology solutions provider.
+For additional information about the above products and services, see “Part II - Item 7 - Management's Discussion and Analysis of Financial Condition and
+Results of Operations - Results of Operations - Revenue by Product and Services Categories.”
+6
+Table of Contents
+Operating Business Segments
+ 
+Through Fiscal 2013, we managed our business in four global customer-centric operating segments: Large Enterprise, Public, Small and Medium Business,
+and Consumer. 
+These operating segments consist of the following types of customers:
+•
+Large Enterprise
+ 
+-
+ Our Large Enterprise customers include large global and national corporate businesses. 
+We are focused on delivering innovative
+solutions and services to these customers through data center and cloud computing solutions. We believe that continuing our transformation to an
+end-to-end technology solutions provider will position us for long-term success in this market.
+•
+Public -
+ 
+Our Public customers include educational institutions, government, health care, and law enforcement agencies. 
+These customers have a
+broad range of unique IT needs, and we strive to expand our leadership and address their urgent IT challenges through the delivery of technology
+solutions that help them achieve their mission.
+  
+•
+Small and Medium Business ("SMB") -
+ Our SMB segment is focused on helping small and medium-sized businesses get the most out of their
+technology by offering scalable products, services, and solutions. 
+As cloud computing and workforce mobility become a routine part of a growing
+business's operations, server and storage virtualization facilitate achievement of the organization's IT goals. 
+Through our mid-market design point
+focus, we continue to create and deliver SMB-specific solutions so customers worldwide can take advantage of these emerging technologies and grow
+their businesses.
+•
+Consumer -
+ Our Consumer segment is focused on delivering what customers want from the total technology experience of entertainment, mobility,
+gaming, and design. 
+We are designing new, innovative products and experiences with fast development cycles and competitive features and will
+continue our efforts to deliver high quality products and services to Consumer customers around the world.
+We refer to our Large Enterprise, Public, and SMB segments as "Commercial." 
+For financial information about the results of our reportable operating
+segments for each of the last three fiscal years, see “Part II - Item 7 - Management's Discussion and Analysis of Financial Condition and Results of
+Operations - Results of Operations - Segment Discussion” and Note 15 of the Notes to the Consolidated Financial Statements included in “Part II - Item 8 -
+Financial Statements and Supplementary Data.”
+Financial Services
+We offer or arrange various financing options and services for our Commercial and Consumer customers in the U.S. and Canada through Dell Financial
+Services ("DFS"). 
+DFS offers a wide range of financial services, including originating, collecting, and servicing customer receivables primarily related to the
+purchase of Dell products. 
+DFS offers private label credit financing programs to qualified Consumer and Commercial customers and offers leases and fixed-
+term financing primarily to Commercial customers. 
+Financing through DFS is one of many sources of funding that our customers may select. 
+For additional
+information about our financing arrangements, see “Part II 
+-
+ Item 7 
+-
+ Management's Discussion and Analysis of Financial Condition and Results of
+Operations 
+-
+ Dell Financial Services and Financing Receivables” and Note 4 of the Notes to the Consolidated Financial Statements included in “Part II 
+-
+Item 8 
+-
+Financial Statements and Supplementary Data.”
+During Fiscal 2012, we entered into a definitive agreement to acquire CIT Vendor Finance's Dell-related financing assets portfolio and sales and servicing
+functions in Europe for approximately $500 million. 
+Subject to customary closing, regulatory, and other conditions, we expect to complete this transaction in
+Fiscal 2014. 
+In connection with this transaction, we have filed an application for a bank license with The Central Bank of Ireland to facilitate ongoing
+financing offerings in Europe. 
+CIT Vendor Finance is currently a Dell financing preferred vendor operating in more than 25 countries and will continue to
+support Dell for the transition period in Europe. 
+CIT Vendor Finance will also continue to provide financing programs with Dell in select countries around the
+world after completion of this transaction.
+Product Development
+We focus on developing scalable technologies that incorporate highly desirable features and capabilities at competitive prices. 
+We employ a collaborative
+approach to product design and development in which our engineers, with direct customer input, design innovative solutions and work with a global network
+of technology companies to architect new
+7
+Table of Contents
+system designs, influence the direction of future development, and integrate new technologies into our products. 
+We manage our research, development, and
+engineering ("RD&E") spending by targeting those innovations and products that we believe are most valuable to our customers and by relying on the
+capabilities of our strategic relationships. 
+Through this collaborative, customer-focused approach, we strive to deliver new and relevant products to the market
+quickly and efficiently.
+To further our transformation to an end-to-end technology solutions provider, we have been increasing our investment in research and development activities
+that support our initiatives to grow our enterprise solutions, services, and software capabilities. 
+We currently operate 17 global research and development
+centers, including the Dell Silicon Valley Research and Development Center. 
+Our total research, development, and engineering expenses were $1.1 billion,
+$0.9 billion, and $0.7 billion for Fiscal 
+2013
+, Fiscal 
+2012
+, and Fiscal 
+2011
+, respectively. 
+These increases reflect our focus in shifting our investments to
+research and development activities that support our initiatives to grow our enterprise solutions, services, and software offerings.
+Manufacturing and Materials
+Third parties manufacture the majority of the client products we sell under the Dell brand. 
+We use contract manufacturers and manufacturing outsourcing
+relationships as part of our strategy to enhance our variable cost structure and to achieve our goals of generating cost efficiencies, delivering products faster,
+better serving our customers, and building a world-class supply chain. 
+Our manufacturing facilities are located in Austin, Texas; Penang, Malaysia;
+Chengdu, China; Xiamen, China; Hortolândia, Brazil; Chennai, India; and Lodz, Poland. 
+See “Part I - Item 2 - Properties” for information about our
+manufacturing and distribution locations.
+Our manufacturing process consists of assembly, software installation, functional testing, and quality control. 
+Testing and quality control processes are also
+applied to components, parts, sub-assemblies, and systems obtained from third-party suppliers. 
+Quality control is maintained through the testing of
+components, sub-assemblies, and systems at various stages in the manufacturing process. 
+Quality control also includes a burn-in period for completed units
+after assembly, ongoing production reliability audits, failure tracking for early identification of production and component problems, and information from
+customers obtained through services and support programs. 
+We are certified to the ISO (International Organization for Standardization) 9001: 2008 Quality
+management systems standard. 
+This certification includes most of our global sites that design, manufacture, and service our products.
+We purchase materials, supplies, product components, and products from a large number of vendors. 
+In some cases, where multiple sources of supply are not
+available, we rely on single-source vendors. 
+In other cases, we may establish a working relationship with a single source or a limited number of sources of
+supply if we believe it is advantageous to do so due to performance, quality, support, delivery, capacity, or price considerations. 
+We believe that any
+disruption that may occur because of our dependence on single- or limited-source vendors would not disproportionately disadvantage us relative to our
+competitors. 
+See “Part I 
+-
+ Item 1A 
+-
+ Risk Factors” for information about the risks associated with our use of single- or limited-source suppliers.
+Geographic Operations 
+Our global corporate headquarters is located in Round Rock, Texas. 
+We have operations and conduct business in many countries located in the Americas,
+Europe, the Middle East, Asia and other geographic regions. 
+To increase our global presence, we continue to focus on markets outside of the U.S., Western
+Europe, Canada, and Japan. 
+Our continued expansion outside of the U.S. creates additional complexity in coordinating the design, development, procurement,
+manufacturing, distribution, and support of our increasingly complex product and service offerings. 
+For additional information on our product and service
+offerings, see “Products and Services - Manufacturing and Materials” and “Part I - Item 2 - Properties.” 
+For information about percentages of revenue we
+generated from our operations outside of the U.S. and other financial information for each of the last three fiscal years, see “Part II - Item 7 - Management's
+Discussion and Analysis of Financial Condition and Results of Operations - Results of Operations” and Note 15 of the Notes to the Consolidated Financial
+Statements included in “Part II 
+-
+ Item 8 
+-
+ Financial Statements and Supplementary Data."
+Competition
+We operate in an industry in which there are rapid technological advances in hardware, software, and service offerings and we face ongoing product and price
+competition in all areas of our business, including from both branded and generic competitors. 
+We compete based on our ability to offer our customers
+competitive, scalable, and integrated solutions that provide the most current and desired product and services features. 
+We believe that our strong relationships
+with our
+8
+Table of Contents
+customers and our distribution channels, described below, allow us to respond to changing customer needs faster than many of our competitors.
+Sales and Marketing
+We sell our products and services directly to customers and through various other sales distribution channels, such as retailers, third-party solution
+providers, system integrators, and third-party resellers. 
+Our customers include large global and national corporate businesses, public institutions that include
+government, education, and healthcare organizations, law enforcement agencies, small and medium-sized businesses, and consumers. 
+No single customer
+accounted for more than 10% of our consolidated net revenue during any of the last three fiscal years.
+Our sales efforts are organized around the evolving needs of our customers, and our marketing initiatives reflect this focus. We believe that our unified global
+sales and marketing team creates a sales organization that is more customer-focused, collaborative, and innovative. 
+Our direct business model emphasizes
+direct communication with our customers, thereby allowing us to refine our products and marketing programs for specific customer groups. 
+As part of our
+transformation to an end-to-end technology solutions provider, we have increased the number of sales specialists focused on enterprise solutions. 
+We market
+our products and services to small and medium-sized businesses and consumers through various advertising media. 
+Customers may offer suggestions for
+current and future Dell products, services, and operations on an interactive portion of our Internet website called Dell IdeaStorm. 
+In order to react quickly to
+our customers' needs, we track our Net Promoter Score, a customer loyalty metric that is widely used across various industries. 
+Increasingly, we also engage
+with customers through our social media communities on 
+www.dell.com
+ and in external social media channels.
+For large business and institutional customers, we maintain a field sales force throughout the world. 
+Dedicated account teams, which include field-based
+enterprise solution specialists, form long-term relationships to provide our largest customers with a single source of assistance, develop tailored solutions for
+these customers, and provide us with customer feedback. 
+For these customers, we offer several programs designed to provide single points of contact and
+accountability with global account specialists, special global pricing, and consistent global service and support programs. 
+We also maintain specific sales and
+marketing programs targeted at federal, state, and local governmental agencies, as well as healthcare and educational customers.
+Patents, Trademarks, and Licenses
+At 
+February 1, 2013
+, we held a worldwide portfolio of 4,120 patents and had an additional 2,291 patent applications pending. 
+We also hold licenses to use
+numerous third-party patents. 
+To replace expiring patents, we obtain new patents through our ongoing research and development activities. 
+The inventions
+claimed in our patents and patent applications cover aspects of our current and possible future computer system products, manufacturing processes, and
+related technologies. 
+Our product, business method, and manufacturing process patents may establish barriers to entry in many product lines. 
+While we use
+our patented inventions and also license them to others, we are not substantially dependent on any single patent or group of related patents. 
+We have entered
+into a variety of intellectual property licensing and cross-licensing agreements. 
+We have also entered into various software licensing agreements with other
+companies. 
+We anticipate that our worldwide patent portfolio will be of value in negotiating intellectual property rights with others in the industry.
+We have obtained U.S. federal trademark registration for the DELL word mark and the Dell logo mark. 
+We own
+registrations for 158 of our other trademarks in the U.S. 
+At 
+February 1, 2013
+, we had pending applications for registration of 39 other trademarks. 
+We believe
+that establishment of the DELL word mark and logo mark in the U.S. is material to our operations. 
+We have also applied for or obtained registration of the
+DELL word mark and several other marks in approximately 182 other countries.
+From time to time, other companies and individuals assert exclusive patent, copyright, trademark, or other intellectual property rights to technologies or marks
+that are important to the technology industry or our business. 
+We evaluate each claim relating to our products and, if appropriate, seek a license to use the
+protected technology. 
+The licensing agreements generally do not require the licensor to assist us in duplicating its patented technology, nor do these agreements
+protect us from trade secret, copyright, or other violations by us or our suppliers in developing or selling these products.
+Government Regulation and Sustainability
+•
+Government Regulation
+ 
+Our business is subject to regulation by various U.S. federal and state governmental agencies and other governmental agencies. 
+Such regulation
+includes the radio frequency emission regulatory activities of the U.S.
+9
+Table of Contents
+Federal Communications Commission; the anti-trust regulatory activities of the U.S. Federal Trade Commission, the U.S. Department of Justice,
+and the European Union; the consumer protection laws and financial services regulations of the U.S. Federal Trade Commission and various state
+governmental agencies; the export regulatory activities of the U.S. Department of Commerce and the U.S. Department of Treasury; the import
+regulatory activities of U.S. Customs and Border Protection; the product safety regulatory activities of the U.S. Consumer Product Safety
+Commission and the U.S. Department of Transportation; the investor protection and capital markets regulatory activities of the U.S. Securities and
+Exchange Commission; the health information privacy and security requirements of the U.S. Department of Health and Human Services; and the
+environmental, employment and labor, and other regulatory activities of a variety of governmental authorities in each of the countries in which we
+conduct business. 
+We were not assessed any material environmental fines, nor did we have any material environmental remediation or other
+environmental costs, during Fiscal 
+2013
+.
+•
+Sustainability
+ 
+Environmental stewardship and social responsibility are both integral parts of how we manage our business, and complement our focus on business
+efficiencies and customer satisfaction. 
+We use open dialogue with our stockholders, customers, vendors, and other stakeholders as part of our
+sustainability governance process in which we solicit candid feedback and offer honest discussions on the challenges we face globally. 
+Our
+environmental initiatives take many forms, including maximizing product energy efficiency, reducing and eliminating sensitive materials from our
+products, and providing responsible, convenient computer recycling options for customers.
+We were the first company in our industry to offer a free worldwide recycling program for our consumers. 
+We also provide consumers with no-charge
+recycling of any brand of computer or printer with the purchase of a new Dell computer or printer. 
+We have streamlined our transportation network to
+reduce transit times, minimize air freight, and reduce emissions. 
+Our packaging is designed to minimize box size and to increase recycled content of
+materials along with recyclability. 
+When developing and designing products, we select materials guided by a precautionary approach in which we
+seek to eliminate environmentally sensitive substances (where reasonable alternatives exist) from our products and work towards developing reliable,
+environmentally sound, and commercially scalable solutions. 
+We also have created a series of tools that help customers assess their current IT
+operations and uncover ways to reduce both the costs of those operations and their impact on the environment.
+Iran Sanctions
+Section 219 of the Iran Threat Reduction and Syria Human Rights Act of 2012 added Section 13(r) to the Securities Exchange Act of 1934. 
+Section 13(r)
+requires an issuer to disclose in its annual or quarterly reports filed with the SEC whether the issuer or any of its affiliates has knowingly engaged in certain
+activities, transactions or dealings relating to Iran or with designated natural persons or entities involved in terrorism or the proliferation of weapons of mass
+destruction.
+We are disclosing the following information pursuant to Section 13(r) concerning activity by a UK affiliate of Quest Software, Inc. (“Quest Software”), which
+Dell acquired on September 27, 2012. 
+The disclosure is regarding a maintenance services software renewal transaction with Melli Bank PLC valued at 106.13
+British pounds (approximately $169.90 at the exchange rate for U.S. dollars on the renewal date) and marketing activity.
+Quest Software specializes in business software. 
+On September 10, 2012, prior to our acquisition of Quest Software, Quest Software (UK) Ltd., then a UK
+subsidiary of Quest Software, renewed two software maintenance licenses with Melli Bank PLC. 
+The first license, for Quest Recovery Manager for Exchange
+software, had been in effect for seven years before the renewal, while the second license, for Spotlight on Messaging software, had been in effect for four years
+before the renewal. 
+Recovery Manager for Exchange software enables users to search and retrieve message-level data and compare contents between different
+mailboxes. 
+Spotlight on Messaging is a business software program that helps manage messaging and real-time communications and provides troubleshooting
+solutions. 
+Marketing activity also occurred prior to and after the acquisition with respect to Quest customers generally, including Melli Bank PLC, but no
+transactions were concluded other than the license renewal transaction.
+Melli Bank PLC is a wholly-owned subsidiary of Bank Melli in Iran. 
+Melli Bank PLC is headquartered in London and is listed by the Treasury
+Department's Office of Foreign Assets Control as a Specially Designated National.
+The profit on the license renewal transaction was no more than the annual renewal transaction value indicated above. 
+Following our acquisition of Quest
+Software and our discovery of the renewal transaction, we terminated all software maintenance activity under the licenses. 
+We will not engage in future activity
+under the licenses.
+10
+Table of Contents
+Product Backlog
+We believe that product backlog is not a meaningful indicator of net revenue that can be expected for any period. 
+Our business model generally gives us
+flexibility to manage product backlog at any point in time by expediting shipping or prioritizing customer orders toward products that have shorter lead times,
+thereby reducing product backlog and increasing current period revenue. 
+Moreover, product backlog at any point in time may not translate into net revenue in
+any subsequent period, as unfilled orders can generally be canceled at any time by the customer.
+Trademarks and Service Marks
+ 
+Unless otherwise noted, trademarks appearing in this report are trademarks owned by us. 
+We disclaim proprietary interest in the marks and names of others.
+FICO is a registered trademark of Fair Isaac and Company. 
+Net Promoter Score is a trademark of Satmetrix Systems, Inc., Bain & Company, Inc., and Fred
+Reichheld.
+Available Information
+ 
+The mailing address of our principal executive offices is One Dell Way, Round Rock, Texas 78682. 
+Our telephone number is 1-800-289-3355.
+We maintain an Internet website at 
+www.dell.com.
+ 
+All of our reports filed with the SEC (including annual reports on Form 10-K, quarterly reports on Form 10-
+Q, current reports on Form 8-K, and all amendments to those reports) are accessible through the Investor Relations section of our website at
+www.dell.com/investor
+, free of charge, as soon as reasonably practicable after we electronically file the reports with the SEC. 
+You may read and copy any
+materials that we file with the SEC at the SEC's Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. 
+You may obtain information on the
+operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. 
+The SEC maintains an Internet site that contains reports, proxy and
+information statements, and other information regarding issuers that file electronically with the SEC at 
+www.sec.gov
+. 
+Information on our website is not
+incorporated by reference into this report and does not otherwise form a part of this report.
+ 
+Employees
+ 
+At the end of Fiscal 
+2013
+, we had approximately
+ 111,300 total employees (consisting of 108,800 regular employees and 2,500 t
+emporary employees),
+compared to approximately 109,400 total employees (consisting of 106,700 regular employees and 2,700 temporary emp
+loyees) at the end of Fiscal 
+2012
+.
+Approximately 40,500 of our regular employees at the end of Fiscal 
+2013
+ were located in the U.S., and approximately 68,300 regular employees were located in
+other countries.
+Executive Officers of Dell
+ 
+The following table sets forth the name, age, and position of each of the persons who were serving as our executive officers as 
+of March 8, 
+2013
+:
+Name
+ 
+Age
+ 
+Title
+Michael S. Dell
+ 
+48
+ 
+Chairman and Chief Executive Officer
+Jeffrey W. Clarke
+ 
+50
+ 
+Vice Chairman and President, End-User Computing Solutions & Operations
+Stephen J. Felice
+ 
+55
+ 
+President, Chief Commercial Officer
+Brian T. Gladden
+ 
+48
+ 
+Senior Vice President and Chief Financial Officer
+Marius Haas
+ 
+45
+ 
+President, Enterprise Solutions
+Steven H. Price
+ 
+51
+ 
+Senior Vice President, Human Resources
+Karen H. Quintos
+ 
+49
+ 
+Senior Vice President, Chief Marketing Officer
+John A. Swainson
+ 
+58
+ 
+President, Software
+Lawrence P. Tu
+ 
+58
+ 
+Senior Vice President, General Counsel and Secretary
+Suresh Vaswani
+ 
+53
+ 
+President, Services
+Our executive officers are elected annually by, and serve at the pleasure of, our Board of Directors.
+Set forth below is biographical information about each of our executive officers.
+•
+Michael S. Dell — 
+Mr. Dell currently serves as Chairman of the Board of Directors and Chief Executive Officer. He has held the title of Chairman of
+the Board since he founded Dell in 1984. 
+Mr. Dell also served as Chief
+11
+Table of Contents
+Executive Officer of Dell from 1984 until July 2004 and resumed that role in January 2007. 
+He is an honorary member of the Foundation Board of
+the World Economic Forum and is an executive committee member of the International Business Council. 
+In addition, he serves as the chairman of
+the Technology CEO Council and is a member of the U.S. Business Council and the Business Roundtable. 
+He also serves on the governing board of
+the Indian School of Business in Hyderabad, India, and is a board member of Catalyst, Inc.
+•
+Jeffrey W. Clarke
+ 
+—
+ 
+Mr. Clarke serves as Vice Chairman and President, End User Computing Solutions & Operations. 
+In this role, in which he
+has served since January 2009, he is responsible for global manufacturing, procurement, and supply chain activities worldwide, as well as the
+engineering, design and development of desktop PCs, notebooks, and workstations for customers ranging from consumers and small and medium-
+sized businesses to large corporate enterprises. 
+From January 2003 until January 2009, Mr. Clarke served as Senior Vice President, Business Product
+Group. 
+From November 2001 to January 2003, Mr. Clarke served as Vice President and General Manager, Relationship Product Group. 
+In 1995,
+Mr. Clarke became the director of desktop development. 
+Mr. Clarke joined Dell in 1987 as a quality engineer and has served in a variety of
+engineering and management roles. 
+Mr. Clarke received a Bachelor's degree in Electrical Engineering from the University of Texas at San Antonio.
+•
+Stephen J. Felice
+ 
+—
+ 
+Mr. Felice was named President, Chief Commercial Officer in January 2012. 
+From November 2009 until January 2012, he
+served as President, Consumer, Small and Medium Business. 
+Mr. Felice leads the Dell organization that creates and delivers specific solutions and
+technology to Commercial customers globally and is responsible for Dell's portfolio of products, including desktop PCs, laptops, software and
+peripherals, as well as product design and sales. 
+From January 2009 until November 2009, Mr. Felice served as President, Small and Medium
+Business, and from March 2007 until January 2009, as Senior Vice President and President, Asia Pacific-Japan, after having served as Vice
+President, Asia Pacific-Japan since August 2005. 
+In those positions, Mr. Felice was responsible for Dell's operations throughout the APJ region,
+including sales and customer service centers in Penang, Malaysia, and Xiamen, China. 
+From February 2002 until July 2005, Mr. Felice was Vice
+President, Corporate Business Group, Dell Americas. 
+Mr. Felice joined Dell in February 1999 and has held various executive roles in our sales and
+consulting services organizations. 
+Prior to joining Dell, Mr. Felice served as Chief Executive Officer and President of DecisionOne Corp. 
+Mr. Felice
+also served as Vice President, Planning and Development, with Bell Atlantic Customer Services, and spent five years with Shell Oil in Houston.
+Mr. Felice holds a Bachelor's degree in Business Administration from the University of Iowa and a Master of Business Administration degree from
+the University of Houston.
+•
+Brian T. Gladden
+ 
+—
+ Mr. Gladden serves as Senior Vice President and Chief Financial Officer (“CFO”). 
+In this role, in which he has served since
+June of 2008, he is responsible for all aspects of Dell's finance functions, including accounting, financial planning and analysis, tax, treasury,
+corporate development and strategy, and investor relations. 
+He is also responsible for Dell's information technology and global security and facilities
+functions.  Prior to joining Dell, Mr. Gladden was President and CEO of SABIC Innovative Plastics Holding BV from August 2007 through
+May 2008. 
+Prior to this role, Mr. Gladden spent nearly 20 years with General Electric Company (“GE”) in a variety of financial and management
+leadership roles.  He is a member of the University of Texas McCombs School of Business Advisory Council. 
+Mr. Gladden earned a Bachelor of
+Science degree in Business Administration and Finance from Millersville University in Millersville, Pennsylvania.
+•
+Marius Haas 
+ 
+—
+ Marius Haas joined Dell in August 2012 and serves as President, Enterprise Solutions. 
+In this role, he is responsible for
+worldwide engineering, design, development, and marketing of Dell enterprise solutions, which include servers, networking, and storage systems.
+From 2011 until August 2012, Mr. Haas served with Kohlberg Kravis Roberts & Co. L.P. (“KKR”), a global private equity firm, where he was
+responsible for identifying and pursuing new investments, particularly in the technology sector, while also supporting existing portfolio companies
+with operational expertise. 
+Prior to 2011, Mr. Haas was Senior Vice President and Worldwide General Manager of the Hewlett-Packard (“HP”)
+Networking Division from 2008 to 2011, and also served as Senior Vice President of Strategy and Corporate Development from 2003 to 2008. 
+During
+his tenure at HP, Mr. Haas led initiatives to improve efficiency and drive growth, including the execution and integration of all acquisitions, and also
+managed the company's strategic planning process, new business incubation and strategic alliances. 
+Earlier in his career, Mr. Haas held a wide range
+of senior operations roles at Compaq and Intel Corporation. 
+He also served as a member of the McKinsey & Company CSO Council, the Ernst &
+Young Corporate Development Leadership Network, and as a board member of the Association of Strategic Alliance Professionals. 
+Mr. Haas holds a
+Bachelor's degree from Georgetown University and a Master's degree in International Management from the American Graduate School of Integration
+Management (Thunderbird) in Glendale, Arizona.
+12
+Table of Contents
+•
+Steven H. Price
+ 
+—
+ 
+Mr. Price serves as Senior Vice President, Human Resources. 
+In this role, he is responsible for overall human resources ("HR")
+strategy in support of the purpose, values and business initiatives of Dell. 
+He is also responsible for developing and driving people strategy and
+fostering an environment where the global Dell team thrives. 
+Mr. Price joined Dell in February 1997 and has played leadership roles throughout the
+HR organization, including Vice President of HR for the global Consumer business, Global Talent Management and Americas Human Resources.
+From November 2006 until June 2010, he served as Vice President, Human Resources Dell Global Consumer Group. 
+From January 2003 until
+November 2006, he served as Vice President, Human Resources Dell Americas Business Group. 
+From July 2001 until January 2003, he served as
+Vice President, Human Resources Global HR Operations. 
+From May 1999 to July 2001, he served as Vice President, Human Resources Dell
+EMEA.  Prior to joining Dell in 1997, Mr. Price spent 13 years with SC Johnson Wax, based in Racine, Wisconsin. 
+Having started his career there
+in sales, he later moved into HR, where he held a variety of senior positions. 
+Mr. Price is a member of the Executive Advisory Board for the Rawls
+College of Business at Texas Tech University and also serves on the Executive Advisory Board for The Wharton School at the University of
+Pennsylvania. 
+He holds a Bachelor's degree in Business from Southwestern Oklahoma State University and a Master's degree in Business
+Administration from the University of Central Oklahoma.
+•
+Karen H. Quintos
+ 
+—
+ Karen Quintos is Senior Vice President and Chief Marketing Officer (“CMO”) for Dell, where she leads marketing for Dell's
+global commercial business. 
+She is also responsible for Dell's brand strategy, global communications, social media, corporate responsibility,
+customer insights, marketing talent development, and agency management. 
+Ms. Quintos is also the executive sponsor of the largest employee resource
+group at Dell, Women in Search of Excellence. 
+Before becoming CMO in September 2010, Ms. Quintos served as Vice President of Dell's global
+Public business, from
+ 
+January 2008 to September 2010, and was responsible for driving global marketing strategies, product and pricing programs,
+communications, and channel plans. 
+She has also held various executive roles in SMB marketing and Dell's Services and Supply Chain
+Management teams since joining Dell in 2000.  She came to Dell from Citigroup, where she served as Vice President of Global Operations and
+Technology. 
+She also spent 12 years with Merck & Co., where she held a variety of roles in marketing, planning, operations, and supply chain
+management. 
+Ms. Quintos holds a Master's degree in Marketing and International Business from New York University and a Bachelor of Science
+degree in Supply Chain Management from The Pennsylvania State University State College. 
+She has served on multiple boards of directors and
+currently serves on the Ad Council, the Susan G. Komen for the Cure, and the Penn State's Smeal Business School.
+•
+John A. Swainson
+ 
+—
+ Mr. Swainson joined Dell in February 2012. 
+He currently serves as President of Dell's newly formed Software Group.
+Immediately prior to joining Dell, Mr. Swainson was a Senior Advisor to Silver Lake Partners, a global private equity firm, from May 2010 to
+February 2012.  From February 2005 until December 2009, Mr. Swainson served as Chief Executive Officer and Director of CA, Inc., an enterprise
+software company.  Prior to joining CA, Inc. Mr. Swainson worked for IBM for over 26 years, where he held various management positions in the
+U.S. and Canada, including seven years in the role of General Manager of the Application Integration Middleware Division.  Mr. Swainson holds a
+Bachelor's degree in Engineering from the University of British Colombia, Canada.  He currently serves on the board of directors of Visa Inc. 
+Mr.
+Swainson also served on the boards of directors of Cadence Design Systems, Inc., from February 2006 to May 2012, Assurant Inc., from May
+2010 to May 2012, and Broadcom Corporation, from August 2010 to May 2012.
+•
+Lawrence P. Tu
+ 
+—
+ Mr. Tu joined Dell as Senior Vice President, General Counsel and Secretary in July 2004, and is responsible for overseeing Dell's
+global legal, governmental affairs, and ethics and compliance departments. Before joining Dell, Mr. Tu served as Executive Vice President and
+General Counsel at NBC Universal for three years. 
+Prior to his position at NBC, he was a partner with the law firm of O'Melveny & Myers LLP,
+where he focused on energy, technology, internet, and media-related transactions. 
+He also served five years as managing partner of the firm's Hong
+Kong office. 
+Mr. Tu's prior experience also includes serving as General Counsel Asia-Pacific for Goldman Sachs, attorney for the U.S. State
+Department, and law clerk for U.S. Supreme Court Justice Thurgood Marshall. 
+Mr. Tu holds Juris Doctor and Bachelor of Arts degrees from
+Harvard University, as well as a Master's degree from Oxford University, where he was a Rhodes Scholar.
+•
+Suresh C. Vaswani — 
+Suresh Vaswani joined Dell in April 2011, and was named President of Services, the global IT services and business
+solutions unit of Dell, in December 2012. 
+In this role, he is responsible for developing and delivering end-to-end IT services and business solutions
+for various customers. 
+From April 2011 to December 2012, Mr. Vaswani led the global Applications & Business Process Outsourcing services
+business for Dell Services. 
+He also served as chairman for Dell India. 
+In this role, Mr. Vaswani was responsible for building
+13
+Table of Contents
+next-generation solutions, providing strategic leadership to grow and expand Dell's presence and position in the region, and enhancing Dell's
+capabilities in India with regard to IT services, delivery, manufacturing, and operations. 
+Prior to joining Dell, Mr. Vaswani was joint-CEO of Wipro
+Limited's 
+IT business and a member of the board of directors of that company. 
+Mr. Vaswani holds an Engineering degree from the Indian Institute of
+Technology, Kharagpur and a degree in Business Administration from the Indian Institute of Management, Ahmedabad.
+14
+Table of Contents
+ITEM 1A — RISK FACTORS
+ 
+ 
+Our business, operating results, financial condition, and prospects are subject to a variety of significant risks, many of which are beyond our control. 
+The
+following is a description of some of the important risk factors that may cause our actual results in future periods to differ substantially from those we
+currently expect or seek. 
+The risks described below are not the only risks facing us. 
+There are additional risks and uncertainties not currently known to us or
+that we currently deem to be immaterial that also may materially adversely affect our business, operating results, financial condition, or prospects.
+•
+    
+If our proposed merger does not close, our operations after any termination of the merger agreement may suffer from the effects of business
+uncertainties resulting from announcement of the transaction, contractual restrictions on our activities during the period in which we are
+subject to the merger agreement, and costs associated with the proposed transaction.
+Uncertainty about the effect of the proposed merger on our employees, customers, and other parties may have an adverse effect on our business.
+Such uncertainty may impair our ability to attract, retain, and motivate key personnel, including our executive leadership, and could cause
+customers, suppliers, financial counterparties, and others to seek to change existing business relationships with us.
+The merger agreement restricts us, without the consent of the other merger parties, from making certain acquisitions and investments, from accessing
+the debt and capital markets, and from taking other specified actions until the proposed merger occurs or the merger agreement terminates. 
+The
+restrictions may prevent us from pursuing otherwise attractive business opportunities and taking other actions with respect to our business that we
+may consider advantageous.
+Our costs of accessing funds in the debt and capital markets may continue for some period to be higher than before execution of the merger agreement
+as a result of the downgrading of our credit rating that occurred after announcement of the transaction.
+We have incurred, and will continue to incur, significant costs, expenses, and fees for professional services and other transaction costs in connection
+with the proposed merger. 
+Many of the fees and costs will be payable by us even 

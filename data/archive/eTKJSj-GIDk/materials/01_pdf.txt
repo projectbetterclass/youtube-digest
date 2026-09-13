@@ -1,0 +1,137 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/optimalspecial.pdf
+
+IN PRACTICE WEBCAST: OPTIMAL 
+DEBT RATIO SPECIAL CASES
+Aswath Damodaran
+2
+Optimizing Debt: Earnings as a Driver
+¨ In the cost of capital and adjusted present value approaches, it is a 
+company’s capacity to generate operating income that determines 
+it debt capacity. 
+¨ With negative or very low operating income, the benefits of debt 
+dissipate, because
+¤ There are no tax benefits from interest expenses without the income to 
+offset them against. 
+¤ The synthetic ratings collapses quickly, as interest coverage ratios turn 
+negative.
+¤ The cost of equity also rises faster, since the levered beta does not get the 
+partial protection that taxes offer .
+¨ If you are wondering why it is not EBITDA, but EBIT , that 
+determines optimal debt ratio, a company that is a going concern 
+with growing earnings will have to reinvest the DA back as cap ex to 
+keep itself going.
+3
+Using last year’s earnings
+¨ When computing optimal debt ratios, it is natural to 
+latch on to the most recent year’s financial statements, 
+and use the operating income from that year . After all, it 
+is the most updated value that you have on that metric.
+¨ This can create problems with
+¤ Commodity or Cyclical companies, where earnings go through 
+cycles of down and up years.
+¤ Companies that had a really good or bad year, for transient 
+reasons.
+¤ Companies that play operating income games, moving non 
+operating income into the operating income column or claiming 
+non operating expenses as operating expenses.
+4
+With cyclical companies, it is best to determine 
+debt capacity with normal income
+¨ With cyclical companies, earnings will track the economy, 
+looked abnormally high in boom years and abnormally low or 
+negative in recession years. 
+¨ Since you are making a judgment on debt capacity for the 
+long term, you should be borrowing on income that you can 
+generate across a cycle, not just the most recent year.
+¨ To normalize, 
+¤ Go back over time to cover an entire cycle, or better still, more than 
+one economic cycle.
+¤ You can average across the cycle, using
+n Average absolute earnings, for firms that are stable
+n Average pre-tax operating margin for firms which are growing or 
+shrinking. Your normalized income can be estimated by multiplying 
+revenues in the most recent year by the pre-tax operating margin.
+5
+Turkish: Ups and Downs, with Growth
+Ambitions!
+Operating 
+Margin Optimal
+Current 0%
+2012-2016 10%
+2007-2011 30%
+2002-2006 40%
+6
+Henkel: Margin Compression?
+Operating 
+Margin Optimal 
+Current 40%
+Average (Last 
+10 years) 30%
+7
+PZ Cussons Nigeria: Country and Currency 
+Risk Overlay
+-10.00%
+-5.00%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+30.00%
+₦ 0
+₦ 10,000
+₦ 20,000
+₦ 30,000
+₦ 40,000
+₦ 50,000
+₦ 60,000
+₦ 70,000
+₦ 80,000
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 LTM
+PZ Cussons: A Tale of Two Companies?
+Revenues Operating Income Operating Margin Revenue Growth Rate
+Operating 
+Margin Optimal
+2001-2007 level 40%
+2009-2016 level 20%
+Current 0%
+8
+With commodity companies, it is trickier ..
+¨ If you believe that commodity cycles are short and 
+predictable, you can use the same normalization 
+approach that you would use for cyclical companies, 
+either averaging earnings or margins over a cycle.
+¨ If you feel that commodity cycles are very long term 
+and/or unpredictable, you can do one of two things:
+¤ Compute operating income that you would have at a 
+“conservative” commodity price, normalizing earnings to reflect 
+that commodity price.
+¤ Compute operating income at today’s commodity price, 
+compute an optimal based on that number, and then build a 
+buffer by setting your actual below the optimal.
+9
+Royal Dutch: The Oil Price Driver
+Oil Price Optimal Debt Ratio
+$30 10%
+$40 20%
+$50 20%
+$60 30%
+$70 40%
+$80 40%
+$90 50%
+10
+With companies playing operating 
+earnings games..
+¨ If an extraordinary or one-time item is causing the 
+earnings to be too low or too high, estimate the earnings 
+without that item and compute the optimal debt ratio, 
+with the re-estimated operating income.
+¨ If the item that is distorting earnings is not one-time, but 
+is causing distortions every year, re-compute the 
+earnings without that item over time and us the 
+normalization approaches mentioned earlier .
+¨ One simple way of checking is to compare the company’s 
+margins to the sector averages and if they are wildly 
+different, you may consider using the sector average or a 
+number closer to it, in computing the optimal.

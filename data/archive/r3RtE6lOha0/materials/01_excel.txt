@@ -1,0 +1,3 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pc/datasets/roc.xls
+
+[legacy .xls workbook: roc.xls — see raw file]

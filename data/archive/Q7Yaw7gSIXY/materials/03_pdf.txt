@@ -1,0 +1,58 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/eqnotes/postclass/session5test.pdf
+
+Session	  5:	  Post	  Class	  tests	  
+1. The	  implied	  equity	  risk	  premium	  is	  a	  forward-­‐looking	  premium,	  estimated	  from	  
+the	   level	   of	   stock	   prices	   (the	   index)	   today	   and	   expected	   earnings/cash	   flows	   in	  
+the	  future.	  Assume	  that	  you	  compute	  the	  implied	  ERP	  at	  the	  start	  of	  a	  year	  and	  
+the	  market	  goes	  up	  20%	  during	  the	  course	  of	  the	  year	  and	  that	  you	  compute	  the	  
+implied	  ERP	  again	  at	   the	   end	   of	   the	   year.	   Assuming	   that	   the	   risk	   free	   rate	   and	  
+growth	   rate	   do	   not	   change	   over	   the	   course	   of	   the	   year,	   which	   of	   the	   following	  
+would	  you	  expect	  to	  happen	  to	  the	  implied	  ERP?	  
+a. The	  ERP	  will	  go	  down	  
+b. The	   ERP	   will	   go	   down,	   if	   the	   earnings/	   cash	   flows	   went	   up	   by	   less	   than	  
+20%	  during	  the	  year	  
+c. The	  ERP	  will	  go	  down,	  if	  the	  earnings/	  cash	  flows	  went	  up	  by	  more	  than	  
+20%	  during	  the	  year	  
+d. The	  ERP	  will	  not	  change	  
+e. The	  ERP	  will	  go	  up	  
+2. To	   compute	   the	   implied	   ERP,	   one	   input	   that	   you	   need	   is	   the	   expected	   growth	  
+rate	   in	   earnings/cash	   flows	   in	   future	   years.	   That	   input	   can	   be	   estimated	   by	  
+looking	  at	  analyst	  estimates	  of	  growth	  in	  earnings	  for	  individual	  companies,	  but	  
+there	   are	   studies	   that	   indicate	   that	   these	   estimates	   are	   biased	   upwards.	  
+Assuming	  that	  these	  growth	  rates	  are	  biased	  upwards,	  what	  effect	  will	  it	  have	  on	  
+your	  computed	  ERP?	  
+a. You	  will	  over	  estimate	  the	  implied	  ERP	  
+b. You	  will	  under	  estimate	  the	  implied	  ERP	  
+c. You	  could	  under	  or	  over	  estimate	  the	  implied	  ERP	  
+3. One	   argument	   made	   by	   those	   who	   use	   a	   historical	   ERP	   is	   that	   using	   it	   is	  
+defensible,	  even	   if	   it	   is	   wrong,	   as	   long	   as	  you	   use	   the	   same	  ERP	  in	   all	   your	  
+valuations.	   Assume	   that	   the	   implied	   ERP	   is	   greater	   than	   the	   historical	   ERP	   and	  
+that	  you	  use	  the	  historical	  ERP	  to	  value	  all	  stocks.	  Which	  of	  the	  following	  will	  you	  
+find?	  
+a. You	  will	  under	  value	  all	  stocks	  equally	  
+b. You	  will	  over	  value	  all	  stocks	  equally	  
+c. You	   will	   under	   value	   all	   stocks,	   but	   you	   will	   undervalue	   riskier	   stocks	  
+more	  than	  safe	  stocks	  
+d. You	  will	  over	  value	  all	  stocks,	  but	  you	  will	  over	  value	  riskier	  stocks	  more	  
+than	  safe	  stocks	  
+e. You	   will	   over	   value	   all	   stocks,	   but	   you	   will	   over	   value	  safe	  stocks	   more	  
+than	  riskier	  stocks	  
+4. Historically,	   the	  implied	  equity	   risk	   premium	   in	   the	   United	   States	   have	   been	  
+about	  twice	  the	  default	  spread	  on	  Baa	  corporate	  bonds.	  Assume	  that	  the	  equity	  
+risk	   premium	   has	   dropped	   to	   4%	   and	   that	   the	   Baa	   default	   spread	   is	   now	   3%.	  
+Which	   of	   the	   following	   would	   you	   do	   as	   an	   investor,	  assuming	   that	   you	   expect	  
+normalcy	  to	  return?	  
+a. Buy	  stocks	  and	  buy	  bonds	  
+b. Buy	  stocks	  and	  sell	  bonds	  
+c. Sell	  stocks	  and	  buy	  bonds
+d. Sell	  stocks	  and	  sell	  bonds	  
+e. Do	  nothing	  
+5. One	   measure	   of	   expected	   return	   from	   real	   estate	   is	   the	   capitalization	   rate,	   the	  
+rate	   used	   to	   convert	   the	   earnings	   on	   a	   property	   into	   its	   estimated	   value.	  
+Assuming	   that	   you	   were	   interested	   in	   investing	   in	   real	   estate,	   which	   of	   the	  
+following	  scenarios	  would	  be	  your	  best	  opportunity	  to	  do	  so?	  
+a. High	  capitalization	  rates,	  High	  PE	  ratios,	  High	  bond	  default	  spreads	  
+b. High	  capitalization	  rates,	  Low	  PE	  ratios,	  Low	  bond	  default	  spreads	  
+c. High	  capitalization	  rates,	  High	  PE	  ratios,	  Low	  bond	  default	  spreads	  
+d. High	  capitalization	  rates,	  Low	  PE	  ratios,	  High	  bond	  default	  spreads	  
+e. None	  of	  the	  above

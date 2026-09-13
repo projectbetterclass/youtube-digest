@@ -1,0 +1,428 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfspr20/session12slides.pdf
+
+225
+A Tangent: From New to Existing 
+Investments: ROC for the entire firm
+Assets Liabilities
+Assets in Place Debt
+Equity
+Fixed Claim on cash flows
+Little or No role in management
+Fixed Maturity
+Tax Deductible
+Residual Claim on cash flows
+Significant Role in management
+Perpetual Lives
+Growth Assets
+Existing Investments
+Generate cashflows today
+Includes long lived (fixed) and 
+short-lived(working 
+capital) assets
+Expected Value that will be 
+created by future investments
+How “good”are the 
+existing investments 
+of the firm?
+Measuring ROC for existing investments..
+Aswath Damodaran
+226
+The return on capital is an accounting number, 
+though, and that should scare you.
+Aswath Damodaran
+227
+Return Spreads Globally….
+227
+228
+6Application Test: Assessing Investment 
+Quality
+¨For the most recent period for which you have data, 
+compute the after-tax return on capital earned by your 
+firm, where after-tax return on capital is computed to be
+¨After-tax ROC = EBIT (1-tax rate)/ (BV of debt + BV of 
+Equity-Cash)previous year
+¨For the most recent period for which you have data, 
+compute the return spread earned by your firm:
+¨Return Spread = After-tax ROC -Cost of Capital
+¨For the most recent period, compute the EVA earned by 
+your firm
+EVA = Return Spread * ((BV of debt + BV of Equity-
+Cash)previous year
+Aswath Damodaran
+229
+The cash flow view of this project..
+To get from income to cash flow, we
+I. added back all non-cash charges such as depreciation. Tax 
+benefits:
+II. subtracted out the capital expenditures
+III. subtracted out the change in non-cash working capital
+Aswath Damodaran
+0 1 2 3 4 5 6 7 8 9 10
+After-tax Operating Income -$32 -$96 -$54 $68$202$249$299$352$410$421
++ Depreciation & Amortization $0 $50 $425$469$444$372$367$364$364$366$368
+-Capital Expenditures $2,500$1,000$1,188$752$276$258$285$314$330$347$350
+-Change in non-cash Work Capital $0 $63 $25 $38 $31 $16 $17 $19 $21 $5 
+Cashflow to firm ($2,500)($982)($921)($361)$198 $285 $314 $332 $367 $407 $434
+230
+The Depreciation Tax Benefit
+Aswath Damodaran
+230
+¨While depreciation reduces taxable income and taxes, it does not reduce 
+the cash flows.
+¨The benefit of depreciation is therefore the tax benefit. In general, the tax 
+benefit from depreciation can be written as:
+¨Tax Benefit = Depreciation * Tax Rate
+¨Disney Theme Park: Depreciation tax savings (Tax rate = 36.1%)
+¨Proposition 1: The tax benefit from depreciation and other non-cash 
+charges is greater, the higher your tax rate.
+¨Proposition 2: Non-cash charges that are not tax deductible (such as 
+amortization of goodwill) and thus provide no tax benefits have no effect 
+on cash flows.
+1 2 3 4 5 6 7 8 9 10
+Depreciation $50 $425 $469 $444$372$367$364$364$366$368
+Tax Bendfits from Depreciation $18 $153 $169 $160$134$132$132$132$132$133
+231
+Depreciation Methods
+Aswath Damodaran
+231
+¨Broadly categorizing, depreciation methods can be classified 
+as straight line or accelerated methods. In straight line 
+depreciation, the capital expense is spread evenly over time, 
+In accelerated depreciation, the capital expense is 
+depreciated more in earlier years and less in later years. 
+Assume that you made a large investment this year, and that 
+you are choosing between straight line and accelerated 
+depreciation methods. Which will result in higher net income 
+this year?
+¤Straight Line Depreciation
+¤Accelerated Depreciation
+¨Which will result in higher cash flows this year?
+¤Straight Line Depreciation
+¤Accelerated Depreciation
+232
+The Capital Expenditures Effect
+Aswath Damodaran
+232
+¨Capital expenditures are not treated as accounting expenses
+but they do cause cash outflows.
+¨Capital expenditures can generally be categorized into two 
+groups
+¤New (or Growth) capital expenditures are capital expenditures 
+designed to create new assets and future growth
+¤Maintenance capital expenditures refer to capital expenditures 
+designed to keep existing assets.
+¨Both initial and maintenance capital expenditures reduce 
+cash flows
+¨The need for maintenance capital expenditures will increase 
+with the life of the project. In other words, a 25-year project 
+will require more maintenance capital expenditures than a 2-
+year project.
+233
+To cap ex or not to cap ex?
+Aswath Damodaran
+233
+¨Assume that you run your own software business, and 
+that you have an expense this year of $ 100 million from 
+producing and distribution promotional CDs in software 
+magazines. Your accountant tells you that you can 
+expense  this item or capitalize and depreciate it over 
+three years. Which will have a more positive effect on 
+income?
+¤Expense it
+¤Capitalize and Depreciate it
+¨Which will have a more positive effect on cash flows?
+¤Expense it
+¤Capitalize and Depreciate it
+234
+The Working Capital Effect
+Aswath Damodaran
+234
+¨Intuitively, money invested in inventory or in accounts receivable cannot 
+be used elsewhere. It, thus, represents a drain on cash flows
+¨To the degree that som e of these investm ents can be financed using 
+supplier credit (accounts payable), the cash flow drain is reduced.
+¨Investments in working capital are thus cash outflows
+¤Any increase in working capital reduces cash flows in that year
+¤Any decrease in working capital increases cash flows in that year
+¨To provide closure, working capital investm ents need to be salvaged at 
+the end of the project life.
+¨Proposition 1: The failure to consider working capital in a capital 
+budgeting project will overstate cash flows on that project and make it 
+look more attractive than it really is.
+¨Proposition 2: Other things held equal, a reduction in working capital 
+requirements will increase the cash flows on all projects for a firm.
+235
+The incremental cash flows on the project
+$ 500 million has 
+already been spent & $ 
+50 million in 
+depreciation will exist 
+anyway
+2/3rd of allocated G&A is fixed.
+Add back this amount (1-t)
+Tax rate = 36.1%
+Aswath Damodaran
+236
+A more direct way of getting to 
+incremental cash flows
+0 1 2 3 4 5 6 7 8 9 10
+Revenues $0 $1,250 $1,750 $2,500 $3,125 $3,438 $3,781 $4,159 $4,575 $4,667 
+Direct Expenses $0 $788 $1,103 $1,575 $1,969 $2,166 $2,382 $2,620 $2,882 $2,940 
+Incremental Depreciation $0 $375 $419 $394 $322 $317 $314 $314 $316 $318 
+Incremental G&A $0 $63 $88 $125 $156 $172 $189 $208 $229 $233 
+Incremental Operating Income $0 $25 $141 $406 $678 $783 $896 $1,017 $1,148 $1,175 
+-Taxes $0 $9 $51 $147 $245 $283 $323 $367 $415 $424 
+Incremental after-tax Operating income $0 $16 $90 $260 $433 $500 $572 $650 $734 $751 
++ Incremental Depreciation $0 $375 $419 $394 $322 $317 $314 $314 $316 $318 
+-Capital Expenditures $2,000 $1,000 $1,188 $752 $276 $258 $285 $314 $330 $347 $350 
+-Change in non-cash Working Capital $0 $63 $25 $38 $31 $16 $17 $19 $21 $5 
+Cashflow to firm ($2,000)($1,000)($859)($267)$340 $466 $516 $555 $615 $681 $715 
+Aswath Damodaran
+236
+237
+Sunk Costs
+Aswath Damodaran
+237
+¨What is a sunk cost?Any expenditure that has already 
+been incurred, andcannot be recovered (even if a 
+project is rejected) is called a sunk cost. A test market for 
+a consumer product and R&D expenses for a drug (for a 
+pharmaceutical company) would be good examples.
+¨The sunk cost rule: When analyzing a project, sunk costs 
+should not be considered since they are not incremental.
+¨A Behavioral Aside: It is a well establishedfinding in 
+psychological and behavioral research that managers 
+find it almost impossible to ignore sunk costs.
+238
+Test Marketing and R&D: The Quandary of Sunk 
+Costs
+Aswath Damodaran
+238
+¨A consumer product company has spent $ 100 million on 
+test marketing. Looking at only the incremental cash 
+flows (and ignoring the test marketing), the project looks 
+like it will create $25 million in value for the company. 
+Should it take the investment?
+¤Yes
+¤No
+¨Now assume that every investment that this company 
+has shares the same characteristics (Sunk costs > Value 
+Added). The firm will clearly not be able to survive. What 
+is the solution to this problem?
+239
+Allocated Costs
+Aswath Damodaran
+239
+¨Firms allocate costs to individual projects from a 
+centralized pool (such as general and administrative 
+expenses) based upon some characteristic of the 
+project (sales is a common choice, as is earnings)
+¨For large firms, these allocated costs can be 
+significant and result in the rejection of projects
+¨To the degree that these costs are not incremental 
+(and would exist anyway), this makes the firm worse 
+off. Thus, it is only the incremental component of 
+allocated costs that should show up in project 
+analysis.
+240
+Breaking out G&A Costs into fixed and variable 
+components: A simple example
+Aswath Damodaran
+240
+¨Assume that you have a time series of revenues and 
+G&A costs for a company.
+¤What percentage of the G&A cost is variable?
+241
+To Time-Weighted Cash Flows
+Aswath Damodaran
+241
+¨Incremental cash flows in the earlier years are worth 
+more than incremental cash flows in later years.
+¨In fact, cash flows across time cannot be added up. 
+They have tobe brought to the same point in time 
+before aggregation.
+¨This process of moving cash flows through time is
+¤discounting, when future cash flows are brought to the 
+present
+¤compounding, when present cash flows are taken to the 
+future
+242
+Present Value Mechanics
+Aswath Damodaran
+242
+¨Cash Flow Type Discounting Formula Compounding Formula
+1. Simple CF CFn/ (1+r)n CF0(1+r)n
+2. Annuity
+3. Growing Annuity
+4. Perpetuity A/r
+5. Growing Perpetuity Expected Cashflownext year/(r-g)
+A 
+1 - 1
+(1+r)n
+r
+!
+"
+#
+#
+#
+#
+$
+%
+&
+&
+&
+&
+€ 
+A (1+r)n - 1
+r
+" 
+# $ 
+% 
+& ' 
+A(1+g) 
+1 - (1+g)n
+(1+r)n
+r-g
+!
+"
+#
+#
+#
+#
+$
+%
+&
+&
+&
+&
+243
+Discounted cash flow measures of return
+Aswath Damodaran
+243
+¨Net Present Value (NPV): The net present value is the 
+sum of the present values of all cash flows from the 
+project (including initial investment).
+¤NPV = Sum of the present values of all cash flows on the project, 
+including the initial investment, with the cash flows being 
+discounted at the appropriate hurdle rate (cost of capital, if cash 
+flow is cash flow to the firm, and cost of equity, if cash flow is to 
+equity investors)
+¤Decision Rule: Accept if NPV > 0
+¨Internal Rate of Return (IRR): The internal rate of return 
+is the discount rate that sets the net present value equal 
+to zero. It is the percentage  rate of return, based upon 
+incremental time-weighted cash flows.
+¤Decision Rule: Accept if IRR > hurdle rate
+244
+Closure on Cash Flows
+¨In a project with a finite and short life, you would need to compute 
+a salvage value, which is the expected proceeds from selling all of
+the investment in the project at the end of the project life. It is 
+usually set equal to book value of fixed assets and working capital 
+¨In a project with an infinite or very long life, we compute cash flows 
+for a reasonable period, and then compute a terminal value for this 
+project, which is the present value of all cash flows that occur after 
+the estimation period ends..
+¨Assuming the project lasts forever , and that cash flows after year 
+10 grow 2% (the inflation rate) forever, the present value at the end 
+of year 10 of cash flows after that can be written as:
+¤Terminal Value in year 10= CF in year 11/(Cost of Capital -Growth Rate)
+=715 (1.02) /(.0846-.02) = $ 11,275  million
+Aswath Damodaran
+245
+Which yields aNPV of..
+Discounted at Rio Disney cost 
+of capital of 8.46%Aswath Damodaran
+246
+Which makes the argument that..
+¨The project should be accepted. The positive net 
+present value suggests that the project will add 
+value to the firm, andearn a return in excess of the 
+cost of capital.
+¨By taking the project, Disney will increase its value as 
+a firm by $3,296 million.
+Aswath Damodaran
+247
+The IRR of this project
+Aswath Damodaran
+-$3,000.00
+-$2,000.00
+-$1,000.00
+$0.00
+$1,000.00
+$2,000.00
+$3,000.00
+$4,000.00
+$5,000.00
+8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%
+NPV
+Discount Rate
+Internal Rate of Return=12.60%
+248
+The IRR suggests..
+¨The project is a good one. Using time-weighted, incremental cash 
+flows, this project provides a return of 12.60%. This is greater than 
+the cost of capital of 8.46%.
+¨The IRR and the NPV will yield similar results most of the time, 
+though there are differences between the two approaches that 
+may cause project rankings to vary depending upon the approach 
+used. They can yield different results, especially why comparing 
+across projects because
+¤A project can have only one NPV, whereas it can have more than one IRR.
+¤The NPV is a dollar surplus value, whereas the IRR is a percentage measure 
+of return. The NPV is therefore likely to be larger for “large scale”projects, 
+while the IRR is higher for “small-scale”projects.
+¤The NPV assumes that intermediate cash flows get reinvested at the 
+“hurdle rate”, which is based upon what you can make on investments of 
+comparable risk, while the IRR assumes that intermediate cash flows get 
+reinvested at the “IRR”.
+Aswath Damodaran
+249
+Does the currency matter?
+¨The analysis was done in dollars. Would the 
+conclusions have been any different if we had done 
+the analysis in Brazilian Reais?
+a. Yes
+b. No
+Aswath Damodaran
+250
+The ‘‘Consistency Rule”for Cash Flows
+Aswath Damodaran
+250
+¨The cash flows on a project and the discount rate 
+used should be defined in the same terms. 
+¤If cash flows are in dollars ($R), the discount rate has tobe 
+a dollar ($R) discount rate
+¤If the cash flows are nominal (real), the discount rate has 
+tobe nominal (real).
+¨If consistency is maintained, the project conclusions 
+should be identical, no matter what cash flows are 
+used.
+251
+Disney Theme Park: Project Analysis in $R
+Aswath Damodaran
+251
+¨The inflation rates were assumed to be 9% in Brazil and 2% in the 
+United States. The $R/dollar rate at the time of the analysis was 
+2.35 $R/dollar .
+¨The expected exchange rate was derived assuming purchasing 
+power parity.
+¤Expected Exchange Ratet= Exchange Rate today * (1.09/1.02)t
+¨The expected growth rate after year 10 is still expected to be the 
+inflation rate, but it is the 9% $R inflation rate.
+¨The cost of capital in $R was derived from the cost of capital in 
+dollars and the differences in inflation rates:
+$R Cost of Capital =
+= (1.0846) (1.09/1.02) –1 = 15.91% 
+€ 
+(1+US $ Cost of Capital)(1+Exp InflationBrazil)
+(1+Exp InflationUS)−1
+252
+Disney Theme Park: $R NPV
+NPV = R$ 7,745/2.35= $ 3,296 Million
+NPV is equal to NPV in dollar terms
+Discount at $R cost of capital
+= (1.0846) (1.09/1.02) –1 = 15.91% 
+Expected Exchange Ratet
+= Exchange Rate today * (1.09/1.02)t
+Aswath Damodaran

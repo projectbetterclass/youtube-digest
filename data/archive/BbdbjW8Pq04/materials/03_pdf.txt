@@ -1,0 +1,20 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session5soln.pdf
+
+Session	5:	Post	class	test	solutions	
+1. b	(Exp	Return	=	8%	&	Std	Dev	=	10%)	is	best	and	a	(Exp	Return	=	3%	&	
+Std	Dev	=	20%)	is	the	worst.	If	you	wanted	to	rank	these	investments,	you	
+could	compute	the	ratio	of	Expected	Return	to	Standard	deviation	and	rank	
+them	from	highest	(best)	to	lowest	(worst).	
+2. c.	The	risk	that	a	global	economic	slowdown	will	affect	how	much	
+companies	spend	on	advertising.	All	the	other	risks	are	company-specific	
+and	can	be	diversified	away.	
+3. e.	That	you	will	get	a	better	risk/return	trade	off	than	investors	who	are	
+not	diversified.	Diversifying	will	not	cause	risk	to	go	away	or	even	make	
+your	portfolio	less	risky	than	your	neighbors,	but	it	will	improve	your	risk	
+return	trade	off.	
+4. c.	That	investors	who	hold	large	stakes	in	the	company,	and	trade	them,	
+are	diversified.		These	marginal	investors,	by	virtue	of	their	large	holdings	
+and	their	trading,	set	prices	and	thus	determine	what	is	priced	in.	Everyone	
+else	is	a	price	taker.	
+5. e.	All	of	the	above.	All	of	these	assumptions	are	necessary	for	the	end	result	
+to	be	that	investors	hold	the	market	portfolio.

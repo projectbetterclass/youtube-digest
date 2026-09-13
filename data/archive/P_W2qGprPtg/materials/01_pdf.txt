@@ -1,0 +1,251 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/Splits&Indices.pdf
+
+ILLUSION AND REALITY: STOCK 
+SPLITS AND INDEX
+IN(EX)CLUSIONS!
+Market Domination!
+2
+A Momentous Day (or not)!
+¨ After big market movements, we are eager to look for 
+explanations, fundamental reasons why a stock or stocks 
+collectively moved on that day, but the reality is that a great deal of 
+the price movement on a day-to-day basis has nothing to do with 
+earnings, cash flows or risk. 
+¨ On August 31, this reality was brought home by two events, neither 
+with a strong connection to fundamentals, that represented the 
+news of the day and contributed to price movements. 
+¤ The first was that two of the highest profile stocks in the market, Apple 
+and Tesla, had stock splits that day (August 31), though the market had 
+been trading on the expectation of these stock splits, for weeks leading 
+into the day. 
+¤ On the same day, the Dow 30, a hopelessly flawed, but still among the 
+most followed indices in the market, also announced a major reshuffling, 
+replacing Exxon Mobil, Pfizer and Raytheon , three of its components, with 
+Honeywell, Salesforce and Amgen.
+3
+Value and Price: Revisiting Basics
+• A value-based investor, for instance, believes that value and price can 
+diverge, often by large amounts and for long periods, but that the price 
+will eventually converge on value, delivering profits to those with the 
+patience to hold on to the investment.
+• A trader, in contrast, has little interest in value and plays the pricing game, 
+gauging momentum and mood shifts to make money, and using liquidity or 
+the lack of it to magnify these gains.
+• An efficient marketermay agree that the price and value processes can 
+diverge, creating gaps, but also believes that investors are incapable of 
+finding and taking advantage of the gaps.
+4
+Value, Gap & Pricing Events
+5
+Mostly Value Events
+¨ When a manufacturing company adds to its production capacity or a 
+retailer opens new stores, the effects will almost entirely be on value. 
+Since these actions are generally in the normal course of operations for 
+these firms, they are unlikely to attract new market attention(which you 
+need for gap events) or change market mood and momentum. 
+¨ Higher profile actions, though, almost always have spillover effects, and 
+here are two examples. 
+¤ When Walmart recently announced its intent to partner with Microsoft to buy 
+TikTok, there is clearly a value impact that this action will have, costing tens of 
+billions in current cash flows, while promising to deliver higher growth and cash 
+flows in the future. At the same time, this action, by attracting tech investors to 
+buy Walmart, may alter momentum and have a secondary impact on pricing. 
+¤ When a California court ruled against ride sharing companies a few weeks ago, on 
+the issue of drivers being employees rather than independent contractors, that 
+decision had consequences for cost structure and value for Uber and Lyft, but it 
+may have induced some investors to revisit the price-value gap.
+6
+Mostly Gap Events
+¨ Gap events can be initiated either by the companies that are being mispriced (or 
+at least perceive themselves to be mispriced) or by investors with the same 
+perception. In academic finance, these events are termed signals, and while there 
+is no guarantee that they will work, the motivation is to try to close the perceived 
+gap between price and value. 
+¨ The cleanest example is a spin off or a split up, where a multi business 
+company spins off one or more of its businesses or splits itself up, with no 
+consequential changes in how it is run as a company, but with two objectives. 
+¤ One is that the action will expose the disconnect between the underlying fundamentals and 
+the pricing, by providing more transparency on cash flows, growth and risk of individual 
+businesses. 
+¤ The other is that the action will draw investor attention to the company, and that the attention 
+can lead to a repricing of the stock. Not all gap events originate with the company. 
+¨ When activist investors target a company either as a buy or a short sale, they are 
+attempting to provide the catalysts for the pricing gap to close, though their end 
+games may involve changing the way the company is run, thus affecting cash 
+flows, risk and value.
+7
+Mostly Pricing Events
+¨ With mostly pricing events, the end game is altering 
+mood and momentum or changing the liquidity in the 
+stock, and by doing so, affecting the pricing of a stock. 
+¨ An emerging market company that lists its shares on a 
+more liquid, developed market exchange, for instance, 
+has clearly not altered its fundamentals through that 
+action. There is no value effect, but 
+¤ It may benefit from higher liquidity pushing up price. 
+¤ There can be spillover effects from increased information 
+disclosure, perhaps helping to close gaps between price and 
+value, and perhaps even greater access to capital, allowing for a 
+value effect.
+8
+Buybacks: Who and Why?
+¨ There are some events that can fall into any of the three 
+buckets, depending upon who initiates the event and how 
+the market views the initiator . 
+¨ Stock buybacks are perhaps the best example, since there are 
+arguments you can make for buybacks to be value, gap or 
+pricing events.
+¤ If companies buy back stock, using borrowed money, the intent is to 
+change value byaltering the financing mixand cost of capital.
+¤ In contrast, if companies buy back stock, butonly if they perceive their 
+shares to be under valued, the buyback becomes a gap event, focused 
+on moving prices up to intrinsic value.
+¤ Finally, if companies buy back stock to feed pricing momentum or to 
+provide a floor to the price, buybacks are primarily pricing events.
+Stock Splits: The Evidence
+¨ In the decades since, there 
+have been dozens of studies 
+and while they generally find 
+that split announcements are 
+accompanied by small stock 
+price increases, they disagree 
+on the reasons. 
+¨ Some argue that it is because 
+of post-split changes in 
+liquidity, some posit that it is 
+because splits operate as 
+signals and some claim that 
+they change value.
+10
+Stock Splits: The Value Effect
+¨ A stock split or dividend is a purely cosmetic action, and 
+the analogy that I would offer is that a pizza, sliced into 
+six pieces, will not taste better and nor will there be 
+more of it, if it sliced into twelve pieces. 
+¨ Neither Tesla nor Apple become more valuable 
+companies, because of their stock splits, because 
+nothing fundamental has changed in either company, as 
+a consequence of the split. 
+¨ In short, if you thought Apple was overvalued on August 
+30, trading at $500/share, you would still find it 
+overvalued trading at $125/share, after a four for one 
+stock split, since both price and value will be a fourth of 
+what they were the prior day
+11
+Stock Splits: The Gap Effect
+¨ There is an argument to be made that stock splits can operate 
+as gap events, especially if a company is lightly followed and 
+little attention is being paid to it, leading it to be under 
+valued. 
+¨ The split, while just cosmetic, can bring the company (at least 
+briefly) into the news and that attention may be sufficient to 
+causing the gap to close, by pushing the price towards value 
+(which remains unchanged). 
+¨ This argument does not hold for Apple, the most highly 
+valued company in the world, and Tesla, a company that 
+clearly has never had a problem with attention seeking, but it 
+could be used by a company like Marten Transport, which 
+announced a 3 for 2 split on July 17, 2020, after seeing its 
+stock price stagnate for a three year period.
+12
+Stock Split: The Pricing Effect
+¨ Liquidity: With high priced stocks, the argument that stock 
+splits reduce transactions costs and increase liquidity had 
+more resonance in the past when trading shares in less than 
+round lots often cost substantially more than in odd numbers. 
+In addition, an argument can be made that when share prices 
+reach really high levels, some investors will be shut out of the 
+stock, because they cannot afford to buy any shares in it, 
+round lot or not. Here, a stock split, by bringing the price 
+down to more affordable levels expands its investor base, and 
+by doing so, its stock price. 
+¨ Momentum feed: Stock splits feed momentum that is already 
+prevalent in the stock, perhaps because of the perception 
+that lower priced shares (even if there are more of them out 
+there) just seem cheaper to investors.
+13
+Index Inclusions (and Exclusions): The Evidence
+¨ Positive or negative : The consensus view across studies is that a company that is 
+added to (removed from) the S&P 500 sees its stock price increase (decrease) 
+modestly, and that the change is permanent. There are two caveats. 
+¤ The first is that this increase may be more a consequence of the circumstances 
+that led to the the company being added on to the index than the index 
+addition. This paper, for instance, looked at a matched sample, where 
+companies added to the index were paired with companies with similar 
+characteristics (high momentum, rising earnings etc.) that were not added to 
+the index and concluded that there was no index addition effect. 
+¤ The second is that there seems to be some evidence that the index effect has 
+become smaller over time , rather than larger, even as passive investing has 
+become a larger part of the index.
+¨ Volatility and variance : There is some evidence that a stocks that get added to the 
+index see increased price volatility , as institutions become bigger players, and 
+move more with the index , for the obvious reason that they are now part of it.
+14
+Index Inclusions (and Exclusions): The Value 
+Effect
+¨ As with stock splits, it is difficult to make an argument 
+that index inclusion or exclusion changes value, but 
+there is a possible, albeit unlikely, path. 
+¨ When a company becomes part of a widely followed and 
+tracked index like the S&P 500, its investor base will 
+change to become more institutional and more passive. 
+¤ You can argue that these investors bring very different 
+preferences for risk, investing, capital structure and cash return 
+than investors in the rest of the market. 
+¤ For instance, a study documents that companies that become 
+part of the S&P 500 tend to behave more like their peer group 
+and take lower return investments, after the index inclusion 
+than before the inclusion, and this can affect value adversely.
+15
+Index Inclusions (and Exclusions): The Gap Effect
+¨ There is no index that looks at how much a company 
+is under or over valued in making a judgment on 
+whether to include it. 
+¨ That said, though, companies that get added on to 
+the index tend to be companies whose stock prices 
+have done better in the period prior to that add 
+on, than the companies removed from it were doing 
+prior to their removal. 
+¨ For some contrarians, the act of being included in an 
+index may therefore be a signal that the stock price 
+has outrun value.
+16
+Index Inclusions (and Exclusions): The Pricing 
+Effect
+¨ Index inclusion can increase the investor base for a company, by drawing in 
+investors who invest only in that index (like index funds) or primarily in the index 
+(like many large active institutional investors), and that increase should play out in 
+a jump in stock prices on the stock. 
+¨ The effect, though, will vary depending upon the company in question and the 
+index on which it is listed. 
+¤ The Dow 30 may be widely followed index, but it is not an index fund favorite or even one that 
+institutional investors use to track their returns. 
+¤ In contrast, when ServiceNow was added to the S&P 500, its stock price climbed 4%, reflecting 
+both the company's status (low profile, not widely followed) and the S&P 500's standing as an 
+index. 
+¨ I know that many Tesla bulls are awaiting its inclusion in the S&P 500, and with 
+the full recognition that I will be wrong in hindsight, there is nothing that leads me 
+to be believe that it will be a game changer for the company. In fact, you could 
+argue that this company's rise in market capitalization has come from individual 
+investors with strong views on the company, and that the investors that may be 
+drawn to the company post -index-inclusion may not be in sync with the 
+company's business practices.
+17
+What now?
+¨ If you are an investor, nothing that happened on August 31 should alter 
+your views on the company. In other words, if you believed that Tesla and 
+Apple were (under) over valued on August 30, 2020, you will continue to 
+do so on August 31.
+¨ If you believe that one or both of these stocks is under or over valued, 
+and you are hoping that the stock splits will close the gap, I am afraid that 
+you are disappointed. These are among the most widely followed stocks 
+in the world and stock splits are not going to cause neglected details to 
+come to the surface.
+¨ However, if you are a trader and you play the momentum game, this is 
+your moment of maximum pain and gain. 
+¤ It is conceivable, and perhaps even likely, that the split will keep the momentum 
+going for the near term, and that you can take advantage by buying today and 
+holding for a period. 
+¤ The problem with momentum is that it is fickle and for those who bought the stock 
+expecting the stock split to be their big payday, if the results fall short of 
+expectations, there will be disappointment.

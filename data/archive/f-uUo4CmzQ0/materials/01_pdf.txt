@@ -1,0 +1,136 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate8for2018.pdf
+
+DEBT AND TAXES: JANUARY 2018 
+DATA UPDATE 8
+Aswath Damodaran
+2
+The Set Up
+¨ Tilted Tax Code: In the United States, as in much of the 
+rest of the world, and as has been true for most of the 
+last century, the tax code has been tilted towards debt, 
+rewarding firms that borrow money with tax savings, 
+relative to those that use equity to fund their operations. 
+¨ But Change is coming: The most revolutionary 
+component of the US tax reform package that passed at 
+the end of last year is that it reduces the benefits of debt 
+in multiple ways, and by doing so, challenges companies 
+that have long depended on debt to reexamine their 
+financing policies.
+3
+The Debt Trade Off
+4
+The Tax Code Change: Marginal Tax Rate
+US: Marginal Tax Rate = 40% in 2017 -: 24% in 2018
+5
+Tax Code Change: Interest Deduction 
+Limits
+¨ Until last year, US companies have been able to claim 
+their interest expenses as tax deductions, as long as they 
+have the income to cover these expenses. 
+¨ With the new tax code, there is a limit to how much 
+interest you can deduct, at 30% of “operating income” . 
+¨ Two details: 
+¤ Any excess interest expenses that cannot be deducted can be 
+carried forward and claimed in future years 
+¤ Congress has chosen to make up its own definitions of operating 
+income, with EBITDA standing on for operating income until 
+2022 and then transitioning to earnings before interest and 
+taxes (EBIT).
+6
+Indirect Effects of other Code Changes
+¨ Capital Expensing: Attempting to encourage investments 
+in physical assets, especially at manufacturing 
+companies, the tax code will allow companies to expense 
+their capital investments for a temporary period. The 
+resulting tax deductions may be large enough to reduce 
+the benefit to having the interest tax deduction. 
+¨ Un-trapped Cash: As companies are allowed to pay a 
+one-time tax and bring trapped cash back to the United 
+States, the cash will be now available for other uses and 
+reduce the need for debt as a funding source.
+7
+Optimal Debt Ratio – Cost of Capital 
+Approach
+Aswath Damodaran
+7
+8
+Tax Code Effect : Disney Cost of Capital and 
+Value
+9
+Tax Code Effect on Value
+10
+Generalizing…
+1. Value added by debt decreases: The value added by debt drops 
+with the new tax code and the change is larger at higher debt 
+ratios. Taking away 40% of the tax benefits of debt (by lowering 
+the marginal tax rate from 40% to 24%) has consequences. 
+2. No effect if you are not borrowing: The lost value is almost 
+entirely hypothetical, for Facebook, since it did not borrow 
+money even under the old code and did not have much capacity 
+to add value from debt in the first place. 
+3. Effect increases with existing debt: It is large, for Disney and Ford, 
+as existing debt becomes less valuable, with the new tax reform. 
+4. Other benefits may compensate: Note, though, that companies 
+will also benefit from the tax code changes, paying lower taxes on 
+income both domestically, with the lowering of the US tax rate, 
+and on foreign income, from the shift to a regional tax model.
+11
+Debt Ratio: Cross Section
+12
+Regional Differences on Leverage
+Sub Group
+Debt/Capital 
+(Book)
+Debt/Capital 
+(Market)
+Net Debt/ Capital 
+(Book)
+Net Debt/ 
+Capital (Market) Debt/EBITDA
+Africa and Middle East 45.23% 34.00% 30.27% 21.31% 5.99
+Australia & NZ 61.66% 43.48% 57.82% 39.60% 8.57
+Canada 55.35% 42.42% 52.46% 39.60% 7.16
+China 51.63% 39.34% 41.83% 30.40% 8.52
+EU & Environs 60.75% 47.17% 53.68% 40.07% 7.78
+Eastern Europe & 
+Russia 31.02% 38.05% 21.35% 27.05% 2.47
+India 54.89% 20.85% 50.58% 18.15% 3.92
+Japan 56.16% 49.11% 27.64% 22.35% 7.61
+Latin America & 
+Caribbean 51.67% 40.01% 46.23% 34.90% 5.74
+Small Asia 44.04% 34.76% 36.01% 27.59% 4.54
+UK 63.74% 46.39% 53.68% 36.33% 7.94
+United States 64.06% 37.11% 60.86% 33.99% 7.09
+13
+Most Highly Levered Sectors
+14
+Implications
+¨ Deleveraging at firms that have pushed to their optimal debt ratios, 
+under old tax code: There will be highly levered firms which would 
+have been at the right mix of debt and equity, under the old tax 
+regime, will find themselves over levered and in need of paying 
+down debt.
+¨ Go slow at firms that have held back: For firms like Facebook that 
+have held back from borrowing, under the old tax code, the new 
+tax code reduces the incentive to add to debt, even as they mature. 
+Transactions that derive most of their value from leverage will be 
+handicapped: With highly levered transactions, while one reason 
+was that they were equity constrained (and that reason remains), 
+the bigger reason was that it allowed them to generate added 
+value from recapitalization. For these investors, the new tax code is 
+unequivocally bad news.
+15
+In conclusion
+¨ From financial first principles, there is nothing inherently good or 
+bad about debt. It is a source of financing that you can use to build 
+a business, but by itself, it neither adds nor detracts from the value 
+of the business. 
+¨ It is the addition of tax benefits and bankruptcy costs that makes 
+the use of debt a trade off between its benefits (primarily tax 
+driven) and its costs (from increased distress and agency costs). 
+¨ The new tax code has not removed the tax benefits of debt but it 
+has substantially reduced them, and we should expect to see less 
+debt overall at companies, as a consequence. 
+¨ In my view, that is a positive for the economy, since debt magnifies 
+economic shocks to businesses and not only creates more volatile 
+earnings and value, but deadweight costs for society.

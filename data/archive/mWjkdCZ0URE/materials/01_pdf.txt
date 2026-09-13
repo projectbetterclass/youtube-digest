@@ -1,0 +1,79 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/Statistics101/Slides/Session4.pdf
+
+SESSION 4: DATA DISTRIBUTIONS
+Session 4
+Accounting & Statistics
+2
+Data Distributions: Why they matter!
+¨While data descriptive statistics provide you with useful 
+information about location, dispersion and symmetry in 
+your data, data distributions provide the same 
+information in fuller and usually visual form.
+¤In its simplest and least complicated form, data (in either 
+discrete or continuous form) can be converted into a histogram 
+or a bar chart.
+¤That histogram/chart provides the same information that data 
+descriptive statistics provide
+¨When the distributions approach or resemble classic 
+statistical distributions, you gain the benefit of being 
+able to draw on their established distributional 
+properties to extrapolate  from the data.
+3
+Histogram: Visualizing Data
+4
+Statistical Distributions
+¨While histograms summarize data in visual form, 
+there is an advantage to replacing them with one of 
+many standardized statistical distributions (normal, 
+exponential, uniform etc.).
+¤You have tofind a distribution that best fits your data in 
+terms of symmetry, skewness and tails. 
+¤The benefit of using a standardized distribution is that you 
+can  draw on their established distributional properties to 
+extrapolate  from the data or to make probabilistic 
+statements relating to the data.
+5
+The Normal Distribution
+6
+And its properties…
+¨Dispersion: The standard deviation in a normal 
+distribution measures the spread around the mean, but 
+with links to probabilities of a number occurring in the 
+sample falling within or out of that spread.
+¨Skewness: A normal distribution is symmetric and has no 
+skewness.
+¨Kurtosis: A variable that is normally distributed can take 
+on values from minus infinity to plus infinity, but the 
+likelihood of extreme values is constrained. The kurtosis 
+for a normal distribution is three, which becomes the 
+standard against which other distributions are 
+measured.
+7
+A Close Relative: The t distribution
+8
+A more distant relative: The  (Symmetric) 
+Triangular Distribution
+9
+A Uniform Distribution
+10
+Negative Skew: Minimum Extreme Value
+11
+Positive Skew: Log Normal Distribution
+12
+Thin tails and Fat tails…
+13
+Measured with kurtosis…
+¨Kurtosis is a measure of the combined weights of the 
+tails, relative to the rest of the distribution.
+¨Most often,kurtosisis measured against thenormal 
+distribution. Pearson’s kurtosis is the excess kurtosis 
+over three
+¤If thePearson kurtosisis close to 0, then anormal 
+distributionis often assumed. These are called 
+mesokurticdistributions. 
+¤If the Pearsonkurtosisis less than 0, then thedistributionhas 
+thin tails and is called a platykurticdistribution. (Uniform 
+distribution is a good example)
+¤If thePearson kurtosisis greater than 0, then 
+thedistributionhas fat tails and is called a 
+leptokurticdistribution.

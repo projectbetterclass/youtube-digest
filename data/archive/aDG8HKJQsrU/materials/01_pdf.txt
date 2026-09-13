@@ -1,0 +1,357 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session6.pdf
+
+86
+Why	the	CAPM	persists…	
+Aswath	Damodaran	
+86
+¨ The	CAPM,	notwithstanding	its	many	cri:cs	and	limita:ons,	
+has	survived	as	the	default	model	for	risk	in	equity	valua:on	
+and	corporate	ﬁnance.	The	alterna:ve	models	that	have	
+been	presented	as	beDer	models	(APM,	Mul:factor	model..)	
+have	made	inroads	in	performance	evalua:on	but	not	in	
+prospec:ve	analysis	because:	
+¤ The	alterna:ve	models	(which	are	richer)	do	a	much	beDer	job	than	
+the	CAPM	in	explaining	past	return,	but	their	eﬀec:veness	drops	oﬀ	
+when	it	comes	to	es:ma:ng	expected	future	returns	(because	the	
+models	tend	to	shiK	and	change).	
+¤ The	alterna:ve	models	are	more	complicated	and	require	more	
+informa:on	than	the	CAPM.	
+¤ For	most	companies,	the	expected	returns	you	get	with	the	the	
+alterna:ve	models	is	not	diﬀerent	enough	to	be	worth	the	extra	
+trouble	of	es:ma:ng	four	addi:onal	betas.
+87
+Applica:on	Test:	Who	is	the	marginal	investor	
+in	your	ﬁrm?	
+Aswath	Damodaran	
+87
+¨ You	can	get	informa:on	on	insider	and	ins:tu:onal	
+holdings	in	your	ﬁrm	from:	
+¤ hDp://ﬁnance.yahoo.com/		
+¤ Enter	your	company’s	symbol	and	choose	proﬁle.	
+¨ Looking	at	the	breakdown	of	stockholders	in	your	
+ﬁrm,	consider	whether	the	marginal	investor	is	
+¤ An	ins:tu:onal	investor		
+¤ An	individual	investor	
+¤ An	insider
+FROM	RISK	&	RETURN	MODELS	TO	
+HURDLE	RATES:	
+ESTIMATION	CHALLENGES	
+	
+“The	price	of	purity	is	purists…”	
+					 Anonymous	
+Aswath	Damodaran 	 88
+89
+Inputs	required	to	use	the	CAPM	-		
+Aswath	Damodaran	
+89
+¨ The	capital	asset	pricing	model	yields	the	following	
+expected	return:	
+¤ Expected	Return	=	Riskfree	Rate+	Beta	*	(Expected	Return	
+on	the	Market	Porbolio	-	Riskfree	Rate)	
+¨ To	use	the	model	we	need	three	inputs:	
+a.  The	current	risk-free	rate	
+b.  The	expected	market	risk	premium,	the	premium	
+expected	for	inves:ng	in	risky	assets,	i.e.	the	market	
+porbolio,	over	the	riskless	asset.	
+c.  The	beta	of	the	asset	being	analyzed.
+90
+The	Riskfree	Rate	and	Time	Horizon	
+Aswath	Damodaran	
+90
+¨ On	a	riskfree	asset,	the	actual	return	is	equal	to	the	
+expected	return.	Therefore,	there	is	no	variance	around	
+the	expected	return.	
+¨ For	an	investment	to	be	riskfree,	i.e.,	to	have	an	actual	
+return	be	equal	to	the	expected	return,	two	condi:ons	
+have	to	be	met	–	
+¤ There	has	to	be	no	default	risk,	which	generally	implies	that	the	
+security	has	to	be	issued	by	the	government.	Note,	however,	
+that	not	all	governments	can	be	viewed	as	default	free.	
+¤ There	can	be	no	uncertainty	about	reinvestment	rates,	which	
+implies	that	it	is	a	zero	coupon	security	with	the	same	maturity	
+as	the	cash	ﬂow	being	analyzed.
+91
+Riskfree	Rate	in	Prac:ce	
+Aswath	Damodaran	
+91
+¨ The	riskfree	rate	is	the	rate	on	a	zero	coupon	
+default-free	bond	matching	the	:me	horizon	of	the	
+cash	ﬂow	being	analyzed.	
+¨ Theore:cally,	this	translates	into	using	diﬀerent	
+riskfree	rates	for	each	cash	ﬂow	-	the	1	year	zero	
+coupon	rate	for	the	cash	ﬂow	in		year	1,	the	2-year	
+zero	coupon	rate	for	the	cash	ﬂow	in	year	2		...	
+¨ Prac:cally	speaking,	if	there	is	substan:al	
+uncertainty	about	expected		cash	ﬂows,	the	present	
+value	eﬀect	of	using	:me	varying	riskfree	rates	is	
+small	enough	that	it	may	not	be	worth	it.
+92
+The	BoDom	Line	on	Riskfree	Rates	
+¨ If	the	government	is	default-free,	using	a	long	term	government	rate	
+(even	on	a	coupon	bond)	as	the	risk	free	rate	on	all	of	the	cash	ﬂows	in	a	
+long	term	analysis	will	yield	a	close	approxima:on	of	the	true	value.	For	
+short	term	analysis,	it	is	en:rely	appropriate	to	use	a	short	term	
+government	security	rate	as	the	riskfree	rate.	
+¨ The	riskfree	rate	that	you	use	in	an	analysis	should	be	in	the	same	
+currency	that	your	cashﬂows	are	es:mated	in.		
+¤ In	other	words,	if	your	cashﬂows	are	in	U.S.	dollars,	your	riskfree	rate	has	to	be	in	
+U.S.	dollars	as	well.	
+¤ If	your	cash	ﬂows	are	in	Euros,	your	riskfree	rate	should	be	a	Euro	riskfree	rate.	
+¨ The	conven:onal	prac:ce	of	es:ma:ng	riskfree	rates	is	to	use	the	
+government	bond	rate,	with	the	government	being	the	one	that	is	in	
+control	of	issuing	that	currency.	In	November	2013,	for	instance,	the	rate	
+on	a	ten-year	US	treasury	bond	(2.75%)	is	used	as	the	risk	free	rate	in	US	
+dollars.	
+Aswath Damodaran
+93
+What	is	the	Euro	riskfree	rate?	An	exercise	
+in	November	2013	
+Aswath Damodaran
+0.00%	
+1.00%	
+2.00%	
+3.00%	
+4.00%	
+5.00%	
+6.00%	
+7.00%	
+8.00%	
+9.00%	
+Germany	 Austria	 France	 Belgium	 Ireland	 Italy	 Spain	 Portugal	 Slovenia	 Greece	
+1.75%	
+2.10%	 2.15%	 2.35%	
+3.30%	
+3.90%	 3.95%	
+5.90%	
+6.42%	
+8.30%	
+Rate	on	10-year	Euro	Government	Bonds:	November	2013
+94
+When	the	government	is	default	free:	Risk	
+free	rates	–	in	November	2013	
+!
+Aswath Damodaran
+95
+What	if	there	is	no	default-free	en:ty?	
+Risk	free	rates	in	November	2013	
+¨ Adjust	the	local	currency	government	borrowing	rate	for	default	risk	to	
+get	a	riskless	local	currency	rate.		
+¤ In	November	2013,	the	Indian	government	rupee	bond	rate	was	8.82%.	the	local	
+currency	ra:ng	from	Moody’s	was	Baa3	and	the	default	spread	for	a	Baa3	rated	
+country	bond	was	2.25%.	
+Riskfree	rate	in	Rupees	=	8.82%	-	2.25%	=	6.57%	
+¤ In	November	2013,	the	Chinese	Renmimbi	government	bond	rate	was	4.30%	and	
+the	local	currency	ra:ng	was	Aa3,	with	a	default	spread	of	0.8%.	
+Riskfree	rate	in	Chinese	Renmimbi	=	4.30%	-	0.8%	=	3.5%	
+¨ Do	the	analysis	in	an	alternate	currency,	where	geqng	the	riskfree	rate	is	
+easier.	With	Vale	in	2013,	we	could	chose	to	do	the	analysis	in	US	dollars	
+(rather	than	es:mate	a	riskfree	rate	in	R$).	The	riskfree	rate	is	then	the	
+US	treasury	bond	rate.	
+¨ Do	your	analysis	in	real	terms,	in	which	case	the	riskfree	rate	has	to	be	a	
+real	riskfree	rate.	The	inﬂa:on-indexed	treasury	rate	is	a	measure	of	a	
+real	riskfree	rate.	
+Aswath Damodaran
+96
+Three	paths	to	es:ma:ng	sovereign	
+default	spreads	
+¤ Sovereign	dollar	or	euro	denominated	bonds:	The	diﬀerence	
+between	the	interest	rate	on	a	sovereign	US	$		bond,	issued	
+by	the	country,	and	the	US	treasury	bond	rate	can	be	used	as	
+the	default	spread.	For	example,	in	November	2013,	the	10-
+year	Brazil	US	$	bond,	denominated	in	US	dollars	had	a	yield	
+of	4.25%	and	the	US	10-year	T.Bond	rate	traded	at	2.75%.	
+Default	spread	=	4.25%	-	2.75%	=	1.50%	
+¨ CDS	spreads:	Obtain	the	default	spreads	for	sovereigns	in	the	
+CDS	market.	The	CDS	spread	for	Brazil	in	November	2013	was	
+2.50%.		
+¨ Average	spread:	If	you	know	the	sovereign	ra:ng	for	a	
+country,	you	can	es:mate	the	default	spread	based	on	the	
+ra:ng.	In	November	2013,	Brazil’s	ra:ng	was	Baa2,	yielding	a	
+default	spread	of	2%.	
+Aswath	Damodaran	
+96
+97
+Risk	free	rates	in	currencies:	Sovereigns	
+with	default	risk	in	November	2013	
+Aswath	Damodaran	
+97
+0.00%	
+2.00%	
+4.00%	
+6.00%	
+8.00%	
+10.00%	
+12.00%	
+14.00%	
+16.00%	
+Figure	4.2:	Risk	free	rates	in	Currencies	where	Governments	not	Aaa	
+rated	
+Default	Spread	
+Risk	free	rate
+98
+Risk	free	Rates	in	January	2016	
+Aswath	Damodaran	
+98
+-5.00%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+Japanese	Yen
+Czech	Koruna
+Swiss	Franc
+Taiwanes e	 $
+Bulgarian	 Lev
+Euro
+Hungarian	Forint
+Thai	 Baht
+Danish	Krone
+Swedish	Krona
+HK	$
+Croatian	Kuna
+Israeli	 Shekel
+Romanian	Leu
+Canadian	$
+Norwegian	Krone
+British	Pound
+Korean	Won
+Pakistani	Rupee
+Phillipine	Peso
+Polish	Zloty
+Vietnamese	 Dong
+Chinese	Yuan
+US	$
+Singapore	 $
+Malyasian	Ringgit
+Australian	$
+NZ	$
+Iceland	Krona
+Chilean	Peso
+Mexican	Peso
+Indian	Rupee
+Peruvian	Sol
+Colombian	Peso
+Indonesian	Rupiah
+Venezuelan	 Bolivar
+Russian	Ruble
+Nigerian	Naira
+Turkis h	Lira
+South	African	Rand
+Kenyan	Shilling
+Brazilian	Reai
+Risk	free	Rates	-January	2016
+Risk	free	Rate De fault	Spre ad	base d	on	rating
+99
+Measurement	of	the	risk	premium	
+Aswath	Damodaran	
+99
+¨ The	risk	premium	is	the	premium	that	investors	
+demand	for	inves:ng	in	an	average	risk	investment,	
+rela:ve	to	the	riskfree	rate.	
+¨ As	a	general	proposi:on,	this	premium	should	be	
+¤ greater	than	zero	
+¤ increase	with	the	risk	aversion	of	the	investors	in	that	
+market	
+¤ increase	with	the	riskiness	of	the	“average”	risk	
+investment
+100
+What	is	your	risk	premium?	
+¨ Assume	that	stocks	are	the	only	risky	assets	and	that	you	are	
+oﬀered	two	investment	op:ons:	
+¤ a	riskless	investment	(say	a	Government	Security),	on	which	you	can	
+make	3%	
+¤ a	mutual	fund	of	all		stocks,	on	which	the	returns	are	uncertain	
+¨ How	much	of	an	expected	return	would	you	demand	to	shiK	
+your	money	from	the	riskless	asset	to	the	mutual	fund?	
+a.  Less	than	3%	
+b.  Between	3%	-	5%	
+c.  Between		5%	-	7%	
+d.  Between		7%	-9%	
+e.  Between	9%-	11%	
+f.  More	than		11%	
+Aswath Damodaran
+101
+Risk	Aversion	and	Risk	Premiums	
+Aswath	Damodaran	
+101
+¨ If	this	were	the	en:re	market,	the	risk	premium	
+would	be	a	weighted	average	of	the	risk	premiums	
+demanded	by	each	and	every	investor.	
+¨ The	weights	will	be	determined	by	the	wealth	that	
+each	investor	brings	to	the	market.	Thus,	Warren	
+BuﬀeD’s	risk	aversion	counts	more	towards	
+determining	the	“equilibrium”	premium	than	yours’	
+and	mine.	
+¨ As	investors	become	more	risk	averse,	you	would	
+expect	the	“equilibrium”	premium	to	increase.
+102
+Risk	Premiums	do	change..	
+Aswath	Damodaran	
+102
+¨ Go	back	to	the	previous	example.	Assume	now	that	
+you	are	making	the	same	choice	but	that	you	are	
+making	it	in	the	aKermath	of	a	stock	market	crash	(it	
+has	dropped	25%	in	the	last	month).	Would	you	
+change	your	answer?	
+a.  I	would	demand	a	larger	premium	
+b.  I	would	demand	a	smaller	premium	
+c.  I	would	demand	the	same	premium
+103
+Es:ma:ng	Risk	Premiums	in	Prac:ce	
+Aswath	Damodaran	
+103
+¨ Survey	investors	on	their	desired	risk	premiums	and	
+use	the	average	premium	from	these	surveys.	
+¨ Assume	that	the	actual	premium	delivered	over	long	
+:me	periods	is	equal	to	the	expected	premium	-	i.e.,	
+use	historical	data	
+¨ Es:mate	the	implied	premium	in	today’s	asset	
+prices.
+104
+The	Survey	Approach	
+Aswath	Damodaran	
+104
+¨ Surveying	all	investors	in	a	market	place	is	imprac:cal.	
+¨ However,	you	can	survey	a	few	individuals	and	use	these	results.	In	
+prac:ce,	this	translates	into	surveys	of	the	following:	
+¨ The	limita:ons	of	this	approach	are:	
+¤ There	are	no	constraints	on	reasonability	(the	survey	could	produce	
+nega:ve	risk	premiums	or	risk	premiums	of	50%)	
+¤ The	survey	results	are	more	reﬂec:ve	of	the	past	than	the	future.	
+¤ They	tend	to	be	short	term;	even	the	longest	surveys	do	not	go	beyond	
+one	year.
+105
+The	Historical	Premium	Approach	
+Aswath	Damodaran	
+105
+¨ This	is	the	default	approach	used	by	most	to	arrive	at	the	
+premium	to	use	in	the	model	
+¨ In	most	cases,	this	approach	does	the	following	
+¤ Deﬁnes	a	:me	period	for	the	es:ma:on	(1928-Present,	last	50	years...)	
+¤ Calculates	average	returns	on	a	stock	index	during	the	period	
+¤ Calculates	average	returns	on	a	riskless	security	over	the	period	
+¤ Calculates	the	diﬀerence	between	the	two	averages	and	uses	it	as	a	
+premium	looking	forward.	
+¨ The	limita:ons	of	this	approach	are:	
+¤ it	assumes	that	the	risk	aversion	of	investors	has	not	changed	in	a	
+systema:c	way	across	:me.	(The	risk	aversion	may	change	from	year	
+to	year,	but	it	reverts	back	to	historical	averages)	
+¤ it	assumes	that	the	riskiness	of	the	“risky”	porbolio	(stock	index)	has	
+not	changed	in	a	systema:c	way	across	:me.
+106
+ERP:	A	Historical	Snapshot	
+	
+	
+	
+	
+¨ If	you	are	going	to	use	a	historical	risk	premium,	make	it	
+¤ Long	term	(because	of	the	standard	error)	
+¤ Consistent	with	your	risk	free	rate	
+¤ A	“compounded”	average	
+¨ No	maDer	which	es:mate	you	use,	recognize	that	it	is	
+backward	looking,	is	noisy	and	may	reﬂect	selec:on	bias.
+		
+Historical 
+premium for the 
+US

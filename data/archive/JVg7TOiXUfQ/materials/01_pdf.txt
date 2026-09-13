@@ -1,0 +1,135 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/CountryRiskJuly2019.pdf
+
+COUNTRY RISK: THE 2019 MID-
+YEAR UPDATE
+Aswath Damodaran
+2
+Globalization’s side effect
+¨ A New World Order? Analysts , investors and companies can 
+no longer stay focused on just their domestic markets but 
+have to understand the risks and opportunities elsewhere in 
+the world. 
+¨ A Trade Off? When developed market companies first 
+embarked on the journey of expanding into emerging market 
+growth economies, investors pushed up their stock prices, 
+primarily because of the growth potential, but this strategy 
+comes with additional risk, not just from changing exchange 
+rates but from economic and political forces. 
+¨ The other shoe: A sensible assessment of foreign expansion 
+has to incorporate the additional risk in theanalysis in the 
+form of country risk.
+3
+If you ignore it, will it go away?
+¨ Pass it through: Until the mid-1980s, the conventional 
+wisdom was that country risk should not be a factor in 
+investment decisions.
+¨ A Diversification Argument: As a company expands 
+into many markets, it was argued that the risks in the 
+different markets would average out, leaving it 
+unaffected.
+¨ The Correlation Question:  That premise broke down in 
+the last few decades, partly as a result of globalization 
+on the part of investors and companies.
+4
+The Sources of Country Risk
+¨ The obvious added risk: When companies invest 
+outside their domestic markets, the most immediate 
+a risk that they are exposed to is exchange rate risk, 
+since revenues, profits and cash flows are affected 
+by changing exchange rates. 
+¨ Is not the big risk: That risk, though, is but a piece of 
+the puzzle, a symptom of economic fundamentals 
+and affected by political crises. Put simply, there are 
+good reasons why some countries are riskier than 
+others, and it is not always a consequence of poor 
+governance.
+5
+1. Life Cycle
+¨ Corporate life cycle: Companies at different stages in the 
+life cycle differ on cash flow generation and growth 
+potential. It is also generally true that younger 
+companies, deriving more or most of their value from 
+future growth, are riskier than more mature companies.
+¨ Country life cycle: The same construct can be applied to 
+countries, with emerging economies that are growing 
+rapidly being more exposure to global shocks than 
+mature countries. 
+¨ Global Shocks: It should come as no surprise, therefore, 
+that in almost every market crisis over the last decade, 
+emerging markets have paid a much large price in terms 
+of lost economic growth and lower market value than 
+developed markets.
+6
+2. Political Risk
+¨ Politics can affect economic and market risk, not just 
+in emerging markets, but also in developed ones. 
+¨ While there are many forms of political risk, ranging 
+from abrupt changes in fiscal and monetary policy to 
+regime change, there are at least two measurable 
+manifestations of this risk:
+¤ Corruption Risk: Generally countries with more unstable 
+political environments seem to lend themselves more to 
+corruption and bribery.
+¤ Violence Risk: Again generally, more political instability 
+seems to lead to more violence within countries.
+7
+2a. Corruption across Countries
+8
+2b. Exposure to Violence
+9
+3. Legal Risk
+10
+4. Structure of Economy
+11
+Measuring Country Risk
+¨ There are broad measures of country risk available 
+that take the form of country risk scores. 
+¤ The pluses of these measures is that many of them are 
+comprehensive and cover all aspectsof country risk.
+¤ The minus is that they do not follow the same scalar and are 
+not easily convertible into investment decision criteria.
+¨ There are financial market measures of country risk, 
+which are more easily incorporated into investment 
+decisions but they tend to focus primarily on default 
+risk:
+¤ Sovereign Ratings, assigned by “independent” ratings 
+agencies, convertible to default spreads
+¤ Sovereign credit default swaps, measuring the cost of buying 
+insurance against sovereign default in the market.
+12
+1. Country Risk Scores
+13
+2a. Sovereign Ratings
+14
+2b. Sovereign CDS Spreads
+15
+Equity Risk Premiums
+16
+Global ERP
+17
+From Country To Company…
+¨ The risk exposure of a company does not come from 
+where it is incorporated but from where it does 
+business. Thus, Coca Cola and Royal Dutch may be 
+US and UK-listed companies respectively, but their 
+business models expose them to risk around the 
+world.
+¨ When multinationals try to estimate hurdle rates for 
+projects, it should reflect not just the currency you 
+do the analysis in but also the country in which the 
+project will be located.
+18
+Conclusion
+¨ A gray line? There was a time a few decades ago when 
+the line between developed and emerging markets was a 
+clear one. The last decade has seen a blurring of lines, 
+as some “developed markets” mimic emerging market 
+behavior and some emerging markets mature. 
+¨ No convergency (yet): There are some (companies and 
+investors) who have decided that this convergence is a 
+reason to ignore country risk, but I think that they do so 
+at their own peril. 
+¨ Caveat emptor: Notwithstanding globalization, we face 
+wide variations in risk across the world, and prudence 
+and good sense demand that we incorporate these 
+differences into our decisions.

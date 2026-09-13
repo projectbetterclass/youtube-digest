@@ -1,0 +1,342 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session3.pdf
+
+7
+What	can	go	wrong?	
+Aswath	Damodaran	
+7
+STOCKHOLDERS
+Managers put
+their interests
+above stockholders
+Have little control
+over managers
+BONDHOLDERS
+Lend Money
+Bondholders can
+get ripped off
+FINANCIAL MARKETS
+SOCIETYManagers
+Delay bad
+news or 
+provide 
+misleading
+information
+Markets make
+mistakes and
+can over react
+Signiﬁcant Social Costs
+Some costs cannot be
+traced to ﬁrm
+8
+I.	Stockholder	Interests	vs.	Management	
+Interests	
+Aswath	Damodaran	
+8
+¨ In	theory:		The	stockholders	have	signiﬁcant	control	over	
+management.	The	two	mechanisms	for	disciplining	
+management	are	the	annual	mee@ng	and	the	board	of	
+directors.	Speciﬁcally,	we	assume	that	
+¤ Stockholders	who	are	dissa@sﬁed	with	managers	can	not	only	
+express	their	disapproval	at	the	annual	mee@ng,	but	can	use	
+their	vo@ng	power	at	the	mee@ng	to	keep	managers	in	check.		
+¤ The	board	of	directors	plays	its	true	role	of	represen@ng	
+stockholders	and	ac@ng	as	a	check	on	management.	
+¨ In	Prac@ce:		Neither	mechanism	is	as	eﬀec@ve	in	
+disciplining	management	as	theory	posits.
+9
+The	Annual	Mee@ng	as	a	disciplinary	venue	
+Aswath	Damodaran	
+9
+¨ The	power	of	stockholders	to	act	at	annual	mee@ngs	is	
+diluted	by	three	factors	
+¤ Most	small	stockholders	do	not	go	to	mee@ngs	because	the	cost	
+of	going	to	the	mee@ng	exceeds	the	value	of	their	holdings.	
+¤ Incumbent	management	starts	oﬀ	with	a	clear	advantage	when	
+it	comes	to	the	exercise	of	proxies.	Proxies	that	are	not	voted	
+becomes	votes	for	incumbent	management.	
+¤ For	large	stockholders,	the	path	of	least	resistance,	when	
+confronted	by	managers	that	they	do	not	like,	is	to	vote	with	
+their	feet.	
+¨ Annual	mee@ngs	are	also	@ghtly	scripted	and	controlled	
+events,	making	it	diﬃcult	for	outsiders	and	rebels	to	
+bring	up	issues	that	are	not	to	the	management’s	liking.
+10
+And	ins@tu@onal	investors	go	along	with	
+incumbent	managers…	
+Aswath	Damodaran	
+10
+11
+Board	of	Directors	as	a	disciplinary	mechanism	
+Aswath	Damodaran	
+11
+¨ Directors	are	paid	well:	In	2010,	the	median	board	member	at	a	Fortune	
+500	company	was	paid	$212,512,	with	54%	coming	in	stock	and	the	
+remaining	46%	in	cash.	If	a	board	member	was	a	non-execu@ve	chair,	he	
+or	she	received	about	$150,000	more	in	compensa@on.	
+¨ Spend	more	@me	on	their	directorial	du@es	than	they	used	to:	A	board	
+member	worked,	on	average,	about	227.5	hours	a	year	(and	that	is	being	
+generous),	or	4.4	hours	a	week,	according	to	the	Na@onal	Associate	of	
+Corporate	Directors.	Of	this,	about	24	hours	a	year	are	for	board	
+mee@ngs.	Those	numbers	are	up	from	what	they	were	a	decade	ago.	
+¨ Even	those	hours	are	not	very	produc@ve:	While	the	@me	spent	on	being	
+a	director	has	gone	up,	a	signiﬁcant	por@on	of	that	@me	was	spent	on	
+making	sure	that	they	are	legally	protected	(regula@ons	&	lawsuits).	
+¨ And	they	have	many	loyal@es:	Many	directors	serve	on	three	or	more	
+boards,	and	some	are	full	@me	chief	execu@ves	of	other	companies.
+12
+The	CEO	o^en	hand-picks	directors..		
+Aswath	Damodaran	
+12
+¨ CEOs	pick	directors:	A	1992	survey	by	Korn/Ferry	revealed	that	74%	of	
+companies	relied	on	recommenda@ons	from	the	CEO	to	come	up	with	
+new	directors	and	only	16%	used	an	outside	search	ﬁrm.	While	that	
+number	has	changed	in	recent	years,	CEOs	s@ll	determine	who	sits	on	
+their	boards.	While	more	companies	have	outsiders	involved	in	picking	
+directors		now,	CEOs	exercise	signiﬁcant	inﬂuence	over	the	process.	
+¨ Directors	don’t	have	big	equity	stakes:	Directors	o^en	hold	only	token	
+stakes	in	their	companies.	Most	directors	in	companies	today	s@ll	receive	
+more	compensa@on	as	directors	than	they	gain	from	their	stockholdings.	
+While	share	ownership	is	up	among	directors	today,	they	usually	get	
+these	shares	from	the	ﬁrm	(rather	than	buy	them).	
+¨ And	some	directors	are	CEOs	of	other	ﬁrms:	Many	directors	are	
+themselves	CEOs	of	other	ﬁrms.	Worse	s@ll,	there	are	cases	where	CEOs	
+sit	on	each	other’s	boards.
+13
+Directors	lack	the	exper@se	(and	the	willingness)	
+to	ask	the	necessary	tough	ques@ons..	
+Aswath	Damodaran	
+13
+¨ Robert’s	Rules	of	Order?	In	most	boards,	the	CEO	
+con@nues	to	be	the	chair.	Not	surprisingly,	the	CEO	sets	
+the	agenda,	chairs	the	mee@ng	and	controls	the	
+informa@on	provided	to	directors.		
+¨ Be	a	team	player?	The	search	for	consensus	overwhelms	
+any	aeempts	at	confronta@on.		
+¨ The	CEO	as	authority	ﬁgure:	Studies	of	social	psychology	
+have	noted	that	loyalty	is	hardwired	into	human	
+behavior.	While	this	loyalty	is	an	important	tool	in	
+building	up	organiza@ons,	it	can	also	lead	people	to	
+suppress	internal	ethical	standards	if	they	conﬂict	with	
+loyalty	to	an	authority	ﬁgure.	In	a	board	mee@ng,	the	
+CEO	generally	becomes	the	authority	ﬁgure.
+14
+The	worst	board	ever?	The	Disney	Experience	-	
+1997	
+Aswath	Damodaran	
+14
+15
+The	Calpers	Tests	for	Independent	Boards	
+Aswath	Damodaran	
+15
+¨ Calpers,	the	California	Employees	Pension	fund,	
+suggested	three	tests	in	1997	of	an	independent	
+board:	
+¤ Are	a	majority	of	the	directors	outside	directors?	
+¤ Is	the	chairman	of	the	board	independent	of	the	company	
+(and	not	the	CEO	of	the	company)?	
+¤ Are	the	compensa@on	and	audit	commieees	composed	
+en@rely	of	outsiders?	
+¨ Disney	was	the	only	S&P	500	company	to	fail	all	
+three	tests.
+16
+Business	Week	piles	on…	The	Worst	Boards	in	
+1997..	
+Aswath	Damodaran	
+16
+17
+Applica@on	Test:	Who’s	on	board?	
+Aswath	Damodaran	
+17
+¨ Look	at	the	board	of	directors	for	your	ﬁrm.		
+¤ How	many	of	the	directors	are	inside	directors	(Employees	of	the	ﬁrm,	
+ex-managers)?	
+¤ Is	there	any	informa@on	on	how	independent	the	directors	in	the	ﬁrm	
+are	from	the	managers?				
+¨ Are	there	any	external	measures	of	the	quality	of	corporate	
+governance	of	your	ﬁrm?	
+¤ Yahoo!	Finance	now	reports	on	a	corporate	governance	score	for	
+ﬁrms,	where	it	ranks	ﬁrms	against	the	rest	of	the	market	and	against	
+their	sectors.	
+¨ Is	there	tangible	evidence	that	your	board	acts	independently	
+of	management?	
+¤ Check	news	stories	to	see	if	there	are	ac@ons	that	the	CEO	has	wanted	
+to	take	that	the	board	has	stopped	him	or	her	from	taking	or	at	least	
+slowed	him	or	her	down.
+18
+So,	what	next?	When	the	cat	is	idle,	the	mice	
+will	play	....	
+Aswath	Damodaran	
+18
+¨ When	managers	do	not	fear	stockholders,	they	will	o^en	put	
+their	interests	over	stockholder	interests	
+¤ Greenmail:	The	(managers	of	)	target	of	a	hos@le	takeover	buy	out	the	
+poten@al	acquirer's	exis@ng	stake,	at	a	price	much	greater	than	the	
+price	paid	by	the	raider,	in	return	for	the	signing	of	a	'stands@ll'	
+agreement.	
+¤ Golden	Parachutes:	Provisions	in	employment	contracts,	that	allows	
+for	the	payment	of	a	lump-sum	or	cash	ﬂows	over	a	period,	if	
+managers	covered	by	these	contracts	lose	their	jobs	in	a	takeover.		
+¤ Poison	Pills:	A	security,		the	rights	or	cashﬂows	on	which	are	triggered	
+by	an	outside	event,	generally	a	hos@le	takeover,	is	called	a	poison	pill.	
+¤ Shark	Repellents:	An@-takeover	amendments	are	also	aimed	at	
+dissuading	hos@le	takeovers,	but	diﬀer	on	one	very	important	count.	
+They	require	the	assent	of	stockholders	to	be	ins@tuted.		
+¤ Overpaying	on	takeovers:	Acquisi@ons	o^en	are	driven	by	
+management	interests	rather	than	stockholder	interests.	
+No stockholder approval needed….. Stockholder Approval needed
+19
+Overpaying	on	takeovers	
+Aswath	Damodaran	
+19
+¨ The	quickest	and	perhaps	the	most	decisive	way	to	
+impoverish	stockholders	is	to	overpay	on	a	takeover.	
+¨ The	stockholders	in	acquiring	ﬁrms	do	not	seem	to	share	
+the	enthusiasm	of	the	managers	in	these	ﬁrms.	Stock	
+prices	of	bidding	ﬁrms	decline	on	the	takeover	
+announcements	a	signiﬁcant	propor@on		of	the	@me.		
+¨ Many	mergers	do	not	work,	as	evidenced	by	a	number	
+of	measures.		
+¤ The	proﬁtability	of	merged	ﬁrms	rela@ve	to	their	peer	groups,	
+does	not	increase	signiﬁcantly	a^er	mergers.	
+¤ An	even	more	damning	indictment	is	that	a	large	number	of	
+mergers	are	reversed	within	a	few	years,	which	is	a	clear	
+admission	that	the	acquisi@ons	did	not	work.
+A	case	study	in	value	destruc@on:	
+Eastman	Kodak	&	Sterling	Drugs	
+Kodak	enters	bidding	war	
+¨ In	late	1987,	Eastman	Kodak	
+entered	into	a	bidding	war	with	
+Hoﬀman	La	Roche	for	Sterling	
+Drugs,	a	pharmaceu@cal	
+company.		
+¨ The	bidding	war	started	with	
+Sterling	Drugs	trading	at	about	
+$40/share.	
+¨ At	$72/share,	Hoﬀman	dropped	
+out	of	the	bidding	war,	but	Kodak	
+kept	bidding.	
+¨ At	$89.50/share,	Kodak	won	and	
+claimed	poten@al	synergies	
+explained	the	premium.	
+Kodak	wins!!!!	
+!
+21
+Earnings	and	Revenues	at	Sterling	Drugs		
+Aswath	Damodaran	
+21
+Sterling Drug under Eastman Kodak: Where is the synergy?
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+5,000
+1988 1989 1990 1991 1992
+Revenue Operating Earnings
+22
+Kodak	Says	Drug	Unit	Is	Not	for	Sale	…	but…	
+Aswath	Damodaran	
+22
+¨  An	ar@cle	in	the	NY	Times	in	August	of	1993	suggested	that	Kodak	was	eager	to	
+shed	its	drug	unit.	
+¤ In	response,	Eastman	Kodak	oﬃcials	say	they	have	no	plans	to	sell	Kodak’s	Sterling	Winthrop	
+drug	unit.	
+¤ Louis	Maqs,	Chairman	of	Sterling	Winthrop,	dismissed	the	rumors	as	“massive	specula@on,	
+which	ﬂies	in	the	face	of	the	stated	intent	of	Kodak	that	it	is	commieed	to	be	in	the	health	
+business.”	
+¨  A	few	months	later…Taking	a	stride	out	of	the	drug	business,	Eastman	Kodak	said	
+that	the	Sanoﬁ	Group,	a	French	pharmaceu@cal	company,	agreed	to	buy	the	
+prescrip@on	drug	business	of	Sterling	Winthrop	for	$1.68	billion.						
+¤ Shares	of	Eastman	Kodak	rose	75	cents	yesterday,	closing	at	$47.50	on	the	New	York	Stock	
+Exchange.				
+¤ Samuel	D.	Isaly	an	analyst	,	said	the	announcement	was	“very	good	for	Sanoﬁ	and	very	good	
+for	Kodak.”				
+¤ 	“When	the	dives@tures	are	complete,	Kodak	will	be	en@rely	focused	on	imaging,”	said	George	
+M.	C.	Fisher,	the	company's	chief	execu@ve.		
+¤ The	rest	of	the	Sterling	Winthrop	was	sold	to	Smithkline	for	$2.9	billion.
+23
+The	connec@on	to	corporate	governance:	HP	
+buys	Autonomy…	and	explains	the	premium	
+Aswath	Damodaran	
+23
+24
+A	year	later…	HP	admits	a	mistake…and	explains	
+it…	
+Aswath	Damodaran	
+24
+25
+Applica@on	Test:	Who	owns/runs	your	ﬁrm?	
+Aswath	Damodaran	
+25
+¨ Look	at:	Bloomberg	printout	HDS	for	your	ﬁrm	
+¨ Who	are	the	top	stockholders	in	your	ﬁrm?	
+¨ What	are	the	poten@al	conﬂicts	of	interests	that	you	see	
+emerging	from	this	stockholding	structure?	
+Control of the firm
+Outside stockholders
+- Size of holding
+- Active or Passive?
+- Short or Long term?
+Inside stockholders
+% of stock held
+Voting and non-voting shares
+Control structure
+Managers
+- Length of tenure
+- Links to insiders
+Government
+Employees Lenders
+26
+Case	1:	Splintering	of	Stockholders	
+Disney’s	top	stockholders	in	2003	
+Aswath Damodaran
+27
+Case	2:	Vo@ng	versus	Non-vo@ng	Shares	&	
+Golden	Shares:		Vale	
+Vale Equity
+Common (voting) shares
+3,172 million
+Preferred (non-voting)
+1,933 million
+Golden (veto) 
+shares owned 
+by Brazilian govt
+Valespar(
+54%(Non/Brazilian(
+(ADR&Bovespa)(
+29%(
+Brazilian(Ins=tu=onal(
+6%(
+Brazilian(retail(
+5%( Brazilian(
+Govt.(
+6%(
+Valespar(
+1%(
+Non.Brazilian(
+(ADR&Bovespa)(
+59%(
+Brazilian(Ins<tu<onal(
+18%(
+Brazilian(retail(
+18%(
+Brazilian(Govt.(
+4%(
+Litel&Participaço 49.00%
+Eletron&S.A. 0.03%
+Bradespar&S.A. 21.21%
+Mitsui&&&Co. 18.24%
+BNDESPAR 11.51%
+Valespar(ownership
+Vale has eleven members on its board of directors, ten of 
+whom were nominated by Valepar and the board was 
+chaired by Don Conrado, the CEO of Valepar. Aswath Damodaran
+28
+Case	3:	Cross	and	Pyramid	Holdings	
+Tata	Motor’s	top	stockholders	in	2013		
+Aswath Damodaran

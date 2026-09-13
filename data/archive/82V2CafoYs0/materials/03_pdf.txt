@@ -1,0 +1,14 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session8soln.pdf
+
+Session	8:	Post	class	test	solutions	
+1. c.	The	cash	flow	after	debt	payments	and	reinvestment.		In	general,	this	
+can	be	computed	as	Net	Income	+	Depreciation	–	Capital	Expenditures	–	
+Change	in	Working	Capital	–	(Debt	Repaid	–	Debt	Raised)	
+2. e.	Dividends	have	to	be	approximately	equal	to	potential	dividends	
+(FCFE).			If	dividends	are	much	greater	(lower)		than	potential	dividends,	you	
+will	over	(under)	value	the	company.	The	fact	that	a	company	does	not	pay	
+dividends	right	now	should	not	stop	you	from	forecasting	dividends	that	are	
+positive	in	the	future	and	using	the	dividend	discount	model.	
+3. d.	$25.50/share.	Value	per	share	=	$2.00	(1.02)/(.10-.02)	=	$25.50.	You	
+have	to	forecast	next	year’s	dividends.		
+4. d.		7.0%.		Price	per	share	=	40.80	=	2.00	(1.02)/	(r	-.02).	Solve	for	r.

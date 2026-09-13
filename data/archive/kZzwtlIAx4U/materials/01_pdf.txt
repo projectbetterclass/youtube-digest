@@ -1,0 +1,44 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/EVAspreadsheet.pdf
+
+MEASURING EXCESS RETURNS: A 
+GUIDE TO THE DATA
+Aswath Damodaran
+2
+The Value Test
+¨ As a business, making money is easier than creating 
+value, since to create value, you have to not just 
+make money, but more money than you could have 
+if you had invested your capital elsewhere.
+¤ Profits: How much do you expect to generate as profits and 
+cash flows from existing projects?
+¤ Invested Capital: How much capital is invested in existing 
+assets/projects?
+¤ Opportunity Cost: Given the risk of the investment, what 
+return do you need to make to break even?
+3
+In a perfect world, here is what youwould
+do..
+¨ For profits: You would use expected earnings and cash 
+flows in future years to measure profits to both equity 
+investors and the business.
+¨ For invested capital: You would have an inflation-
+adjusted estimate of how much capital is invested in 
+existing assets or equity.
+¨ For hurdle rates: You would have costs of equity and 
+capital that reflected
+¤ The mix of businesses that a firm operates in
+¤ The current debt to equity ratio for the firm, with all financial 
+commitments treated as debt
+¤ The mix of countries that the firm does business in
+4
+Different Perspectives
+5
+Return on Equity
+6
+Cost of Equity
+7
+Measuring Excess Returns: Estimation 
+Choices for Return on Capital
+8
+Measuring Excess Returns: Estimation 
+Choices for Cost of Capital

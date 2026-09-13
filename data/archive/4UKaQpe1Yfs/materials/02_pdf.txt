@@ -1,0 +1,47 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session10test.pdf
+
+Session	10:	Post	Class	tests	
+1. When	inflation	is	measured,	there	are	two	issues	that	you	have	to	deal	with.	
+The	first	is	that	there	can	be	mistakes	in	how	the	basket	of	goods/services	is	
+specified	and	how	prices	are	measured.	The	other	is	that	there	can	bias	in	the	
+process.	Which	of	the	following	is	more	consistent	with	bias?	
+a. Measured	inflation	is	different	from	actual	inflation.	
+b. Measured	inflation	is	equal	to	actual	inflation	
+c. Measured	inflation	is	sometimes	lower	than	actual	inflation.	
+d. Measured	inflation	is	almost	always	lower	than	actual	inflation.	
+e. None	of	the	above	
+2. Your	mutual	fund	investment	generated	a	return	of	15%	over	the	last	year.	If	
+inflation	during	the	year	was	5%,	what	was	your	real	return	on	the	fund?	
+a. 9.52%	
+b. 10.00%	
+c. 15.00%	
+d. 20.75%	
+e. None	of	the	above	
+3. Assume	that	you	invest	$100	in	stocks	and	that	your	time	horizon	is	20	years.	
+If	your	expected	annual	return	on	stocks	is	8%	and	the	expected	inflation	
+rate,	annually,	is	2%,	how	much	money	would	you	expect	to	have,	in	real	
+terms,	at	the	end	of	20	years?	
+a. $314	
+b. $321	
+c. $466	
+d. $672	
+e. None	of	the	above	
+4. You	are	looking	at	investing	$1	million	in	in	a	friend’s	business,	and	you	
+expect	to	receive	$2.5	million	back,	ten	years	from	now.	If	the	annual	
+inflation	rate	is	expected	to	be	3%	for	the	next	ten	years,	what	is	the	
+expected	real	return	on	this	investment.	
+a. 6.40%	
+b. 6.59%	
+c. 9.59%	
+d. 12.59%	
+e. None	of	the	above	
+5. You	have	just	bought	your	first	house	for	$200,000.	Your	aging	uncle	tells	
+you	that	he	bought	his	house	cheap,	paying	only	$50,000	for	a	similar	house	
+30	years	ago.		If	the	average	annual	inflation	rate	over	the	last	30	years	was	
+4%,	how	much	more	or	less	did	you	spend	(in	percent	terms)	in	buying	your	
+house	today?	
+a. 5.67%	less	
+b. 23.33%	more	
+c. 81.81%	more	
+d. 300.00%	more	
+e. None	of	the	above

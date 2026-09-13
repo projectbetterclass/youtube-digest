@@ -1,0 +1,229 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/Inflation.pdf
+
+INFLATION AND INVESTING: IS 
+THE GENIE OUT OF THE BOTTLE?
+Aswath Damodaran
+2
+Inflation takes center stage?
+¨Looking at US equities, the S&P 500 is up about 11% and 
+the NASDAQ is up about 5%, from start of the year 
+levels, and that underperformance has led to a wave of 
+stories about whether this is start of the long awaited
+return of value stocks, after a decade of lagging growth 
+stocks. 
+¨Along the way, it has been a bumpy ride, as the market 
+wrestles with two competing factors, 
+¤an economy growing faster than expected, acting as a positive 
+¤And worries that this growth will bring with it higher inflation 
+and interest rates, as a negative.
+3
+What is inflation?
+¨Put simply, inflation is a measure of the change in 
+purchasing power in a givencurrency over time. Implicit 
+in this definition are two key components of inflation.
+¤The first is that to define purchasing power, you have tostart 
+with a definition of what you are purchasing, and this detail, as 
+we will see, can lead to differences in inflation measured over a 
+given period, across measures/services.
+¤The second is that inflation is tied to currencies, and different 
+currencies can be exposed to different levels of inflation over 
+the same period. Understanding these differences is key to 
+understanding why interest rates can vary across currencies and 
+the changes in exchange rates over time.
+4
+ActualInflation:Measures
+¨ Consumption basket is misspecified: While the services try their best to get the 
+basket of goods and services right, there are two fundamental problems. The first 
+is that within a country, the basket varies widely across consumers and identifying 
+the representative consumer is inherently subjective. The second is that the 
+basket is not stable over time, as consumers adjust to changing tastes and prices 
+to alter what and how much they consume of different goods and services. 
+¨ Prices of goods and services are wrong/biased: Even if you had consensus on the 
+consumption basket, the prices for goods and services have tobe estimated. 
+While services use sampling techniques to obtain prices of goods and service from 
+sellers, and double check them against consumer expenditures, there is no 
+practical way that you can survey every store and consumer . 
+¨ Prices of goods and services have seasonal patterns and/or volatility: There are 
+some goods and service, where there can be seasonal patterns in prices, and 
+services sometimes try to control for the seasonality, when measuring changes in 
+pricing power . With items, where prices can be volatile over short period, like 
+gasoline, services will measure inflation with and without these items to highlight 
+the effect of volatility.
+5
+ExpectedInflation
+¨Inflation surveys: There are services that report measures of expected 
+inflation, obtained by surveying economic experts or consumers.
+¨Interest rates: To understand the link between expected inflation and 
+interest rates, consider the Fisher equation, where a nominal riskfree 
+interest rate (which is what treasury bond rates) can be broken down into 
+expected inflation and expected real interest rate components. Put 
+simply, if you expect the annual inflation rate to be 2% in the future, you 
+wouldneed to set the interest rate on a bond above 2% to earn a real 
+return.
+¨Exchange rates: The third approach to estimating inflation rates is to use 
+forward exchange rate, in conjunction with spot rates, to back out 
+expected inflation in a currency. To use this approach, you need to have a 
+base currency, where you can estimate expected inflation, say the US 
+dollar and forward exchange rates in the currency in which you want to 
+estimate inflation.
+6
+ExpectedInflation:TreasuryMarkets
+7
+Expected Inflation: Survey versus Treasury
+8
+What causes inflation?
+¨Inflation, at its core, is a monetary phenomenon, created by too 
+much money chasing too few goods. That said, it is true that in the 
+near term (which can extend to years), inflation is affected by other 
+forces as well.
+¤Economic slack: When an economy has employment and production slack, as is the 
+case after recessions or economic crises, you could see inflation stay subdued, even 
+in the presence of fiscal and monetary stimuli, as it grows to fill in capacity. 
+¤Structural Changes: There are times when structural changes in the economy, 
+arising as you transition from a manufacturing to a service economy, or from one 
+that is domestically focused to one that is export-oriented, can create periods 
+where inflation stays subdued in the face of monetary expansion.
+¤Consumer/investor behavior: Consumers are the final wild card in this process, as 
+changes in demographics and behavior can have consequences for inflation. 
+¤Size of the economy: It is not fair, but larger economies with currencies that are 
+used more globally, also have the capacity to absorb shocks that would put a lesser 
+economy into an inflationary spiral.
+9
+Difference of views?
+10
+Currency and Inflation
+11
+Leading to interest rate differences..
+-5.00%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+30.00%
+35.00%
+40.00%
+Croat ian  Kuna
+Bul garian Lev
+Vietnam ese Dong
+Japanese Yen
+Euro
+Swi ss F ranc
+Danish Krone
+Taiwanese $
+Thai Baht
+Swedi sh Krona
+HK $
+Isr aeli  Shek el
+Br itish Po und
+Hungarian Fo rint
+Polish Zloty
+Czech Koruna
+Canadian $
+Nor wegian Kr one
+Si ngapor e $
+US $
+NZ $
+Australian $
+Qa tari Dinar
+Korean Won
+Phillipine Peso
+Romanian Lev
+Maly asian Ri nggit
+Chil ean Peso
+Ic el and Krona
+Nigerian N ai ra
+Chin ese Yuan
+Col ombi an Peso
+Peruvian Sol
+Russian Rub le
+In dian Rupee
+Mexi can Peso
+Pakistani Rupee
+Br azil ian  Reai
+In donesi an Rupiah
+So uth African R and
+Kenyan Shilling
+Turkish Lira
+Za mbian kwa cha
+Riskfree Rates in January 2021 : Government Bond Rate
+Riskfree Rate Default Spread based on rating
+12
+Inflation in the US
+13
+Inflation and Value: Fixed Income
+¨Expected inflation and unexpected inflation play out in very different ways 
+on bond value:
+¤At the time that the contract is specified, the buyer of a bond takes into account
+the expected inflation, at that time, when deciding the coupon rate for the bond. 
+¤Subsequent tothe contract being settled and the bond being issued, both the bond 
+buyer and seller are exposed to actual inflation, which can be higher or lower than 
+the inflation that was expected at the time the bond was issued.  The return that 
+the bond buyer will earn on the bond has two components, a coupon portion that 
+will increase with expected inflation and a price appreciation portion that will move 
+inversely with unexpected inflation.
+¨Inflation value proposition 1:In periods when inflation is lower than 
+expected, treasury bond returns will be boosted by price appreciation 
+and in periods when inflation is higher than expected, treasury bond 
+returns will be dragged down by price depreciation.
+¨Inflation value proposition 2:In periods when inflation is higher (lower) 
+than expected, corporate default risk can increase (decrease), leading to 
+corporate bond returns lagging (leading) treasury bond returns.
+14
+Inflation and Stocks
+15
+Inflation: Value Effects
+¨As you work through these competing effects, you can see why you see 
+competing claims about how equities will be affected by inflation. I have 
+heard, from market experts, that inflation is good for stocks, that it is a 
+neutral and that it is a bad, and I think that all three statements can be 
+true, but not at the same company.
+¨Inflation value proposition 3:In periods when inflation is higher (lower) 
+than expected, individual companies can benefit, be left unaffected or be 
+hurt by inflation, depending on whether the benefits of inflation (higher 
+revenue growth and margins) are greater than, equal to or less thanthe 
+costs ofunexpected inflation (higher risk freerates, higher risk premiums, 
+higher default spreads and higher taxes).
+¨Inflation value proposition 3: Extending this discussion from individual 
+stocks to the entire equity market, it is difficult to visualize a scenario 
+where unexpectedly high inflation is not a net minus for markets, at least 
+until expectations are reset, as investors struggle to reassess risk 
+premiums and companies try to adjust their product pricing and cost 
+structures to deal with the higher inflation.
+16
+Inflation and Financial Asset Returns
+Aswath Damodaran
+16
+17
+Financial Asset Returns: By Decade
+Aswath Damodaran
+17
+18
+Real Asset Returns and Inflation
+19
+And by decade…
+20
+Inflation and Cryptos?
+21
+Inflation Hedges?
+22
+Whatnow?
+¨ Inflation is back: There is no question that we are seeing higher inflation now than we have 
+seen in a decade, in reported numbers (CPI, PPI and GDP deflators), in expectations (from 
+the treasury markets and surveys) and in commodity markets.
+¨ Transitory or Permanent?The debate, both among investors and at central banks, is 
+whether this surge in inflation reflects a return from an economic shutdown, which will burn 
+out once things settle down, or a sign of a permanent increase from the abnormally low 
+inflation that we witnessed all ofthe last decade. 
+¨ Return to Normal: If some or all ofthe inflation increase is permanent, and we are reverting 
+backto more normal inflation levels (2-3%), there will be an adjustment, perhaps even 
+painful, as interest rates riseand stock prices recalibrate. 
+¨ With a non-trivial chance of a breakout: If it is permanent, and we see inflation rise to levels 
+not seen since the 1970s and 1980s (>5%), stocks and bonds will have to be repriced 
+significantly. Not only will investors need to move money out of financial into real assets and 
+collectibles, but companies and individuals that have chosen to borrow to capacity, based 
+upon current low rates, will face a default risk reckoning.
+¨ Fed Follies?It behooves the Fed to get ahead of the inflation game. Since the probability of 
+inflation rising to dangerous levels is non-trivial, the Fed should stop its happy talk about 
+inflation being under control and interest rates staying low, no matter what.

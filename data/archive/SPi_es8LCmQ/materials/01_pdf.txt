@@ -1,0 +1,146 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfUGspr16/Session11.pdf
+
+174
+What	is	debt?	
+Aswath	Damodaran	
+174
+¨ General	Rule:	Debt	generally	has	the	following	
+characteris:cs:	
+¤ Commitment	to	make	ﬁxed	payments	in	the	future	
+¤ The	ﬁxed	payments	are	tax	deduc:ble	
+¤ Failure	to	make	the	payments	can	lead	to	either	default	or	
+loss	of	control	of	the	ﬁrm	to	the	party	to	whom	payments	
+are	due.	
+¨ As	a	consequence,	debt	should	include	
+¤ Any	interest-bearing	liability,	whether	short	term	or	long	
+term.	
+¤ Any	lease	obliga:on,	whether	opera:ng	or	capital.
+175
+Es:ma:ng	the	Cost	of	Debt	
+Aswath	Damodaran	
+175
+¨ If	the	ﬁrm	has	bonds	outstanding,	and	the	bonds	are	traded,	
+the	yield	to	maturity	on	a	long-term,	straight	(no	special	
+features)	bond	can	be	used	as	the	interest	rate.	
+¨ If	the	ﬁrm	is	rated,	use	the	ra:ng	and	a	typical	default	spread	
+on	bonds	with	that	ra:ng	to	es:mate	the	cost	of	debt.	
+¨ If	the	ﬁrm	is	not	rated,		
+¤ and	it	has	recently	borrowed	long	term	from	a	bank,	use	the	interest	
+rate	on	the	borrowing	or	
+¤ es:mate	a	synthe:c	ra:ng	for	the	company,	and	use	the	synthe:c	
+ra:ng	to	arrive	at	a	default	spread	and	a	cost	of	debt	
+¨ The	cost	of	debt	has	to	be	es:mated	in	the	same	currency	as	
+the	cost	of	equity	and	the	cash	ﬂows	in	the	valua:on.
+176
+The	easy	route:	Outsourcing	the	
+measurement	of	default	risk	
+¨ For	those	ﬁrms	that	have	bond	ra:ngs	from	global	
+ra:ngs	agencies,	I	used	those	ra:ngs:	
+	
+¨ If	you	want	to	es:mate	Vale’s	cost	of	debt	in	$R	
+terms,	we	can	again	use	the	diﬀeren:al	inﬂa:on	
+approach	we	used	for	the	cost	of	equity:	
+Aswath Damodaran
+Company S&P Rating Risk-Free Rate Default Spread Cost of Debt 
+Disney A 2.75% (US $) 1.00% 3.75% 
+Deutsche Bank A 1.75% (Euros) 1.00% 2.75% 
+Vale A- 2.75% (US $) 1.30% 4.05%
+177
+A	more	general	route:	Es:ma:ng	
+Synthe:c	Ra:ngs	
+¨ The	ra:ng	for	a	ﬁrm	can	be	es:mated	using	the	
+ﬁnancial	characteris:cs	of	the	ﬁrm.	In	its	simplest	
+form,	we	can	use	just	the	interest	coverage	ra:o:	
+Interest	Coverage	Ra:o	=	EBIT	/	Interest	Expenses	
+¨ For	the	non-ﬁnancial	service	companies,	we	obtain	
+the	following:	
+Aswath Damodaran
+Company Operating income Interest Expense Interest coverage ratio 
+Disney $10.023 $444 22.57 
+Vale $15,667 $1,342 11.67 
+Tata Motors  Rs 166,605 Rs 36,972 4.51 
+Baidu CY 11,193 CY 472 23.72 
+Bookscape $2,536 $492 5.16
+178
+Interest	Coverage	Ra:os,	Ra:ngs	and	
+Default	Spreads-	November	2013	
+Disney: Large cap, developed 22.57  à AAA
+Vale: Large cap, emerging 11.67 à AA
+Tata Motors: Large cap, Emerging 4.51 à A-
+Baidu: Small cap, Emerging 23.72 à AAA
+Bookscape: Small cap, private 5.16 à A-Aswath Damodaran
+179
+Synthe:c	versus	Actual	Ra:ngs:	Rated	
+Firms	
+¨ Disney’s	synthe:c	ra:ng	is	AAA,	whereas	its	actual	ra:ng	is	
+A.	The	diﬀerence	can	be	a]ributed	to	any	of	the	following:	
+¤ Synthe:c	ra:ngs	reﬂect	only	the	interest	coverage	ra:o	whereas	
+actual	ra:ngs	incorporate	all	of	the	other	ra:os	and	qualita:ve	factors	
+¤ Synthe:c	ra:ngs	do	not	allow	for	sector-wide	biases	in	ra:ngs	
+¤ Synthe:c	ra:ng	was	based	on	2013	opera:ng	income	whereas	actual	
+ra:ng	reﬂects	normalized	earnings	
+¨ Vale’s	synthe:c	ra:ng	is	AA,	but	the	actual	ra:ng	for	dollar	
+debt	is	A-.	The	biggest	factor	behind	the	diﬀerence	is	the	
+presence	of	country	risk,	since	Vale	is	probably	being	rated	
+lower	for	being	a	Brazil-based	corpora:on.	
+¨ Deutsche	Bank	had	an	A	ra:ng.	We	will	not	try	to	es:mate	a	
+synthe:c	ra:ng	for	the	bank.	Deﬁning	interest	expenses	on	
+debt	for	a	bank	is	diﬃcult…	
+Aswath Damodaran
+180
+Es:ma:ng	Cost	of	Debt	
+¨ For	Bookscape,	we	will	use	the	synthe:c	ra:ng	(A-)	to	es:mate	the	cost	
+of	debt:	
+¤ Default	Spread	based	upon	A-	ra:ng	=	1.30%	
+¤ Pre-tax	cost	of	debt	=	Riskfree	Rate	+	Default	Spread	=	2.75%	+	1.30%	=	4.05%	
+¤ Ager-tax	cost	of	debt	=	Pre-tax	cost	of	debt	(1-	tax	rate)	=	4.05%	(1-.40)	=	2.43%	
+¨ For	the	three	publicly	traded	ﬁrms	that	are	rated	in	our	sample,	we	will	
+use	the	actual	bond	ra:ngs	to	es:mate	the	costs	of	debt.	
+¨ For	Tata	Motors,	we	have	a	ra:ng	of	AA-	from	CRISIL,	an	Indian	bond-
+ra:ng	ﬁrm,	that	measures	only	company	risk.	Using	that	ra:ng:	
+Cost	of	debtTMT	=	Risk	free	rateRupees	+	Default	spreadIndia	+	Default	spreadTMT	
+	 	=	6.57%	+	2.25%	+	0.70%	=	9.62%	
+Ager-tax	cost	of	debt	=	9.62%	(1-.3245)	=	6.50%	
+	Aswath Damodaran
+Company S&P Rating Risk-Free Rate Default Spread Cost of Debt Tax Rate After-Tax Cost of Debt 
+Disney A 2.75% (US $) 1.00% 3.75% 36.1% 2.40% 
+Deutsche Bank A 1.75% (Euros) 1.00% 2.75% 29.48% 1.94% 
+Vale A- 2.75% (US $) 1.30% 4.05% 34% 2.67%
+181
+Updated	Default	Spreads	–	January	2016	
+Aswath Damodaran
+182
+Default	Spreads	–	January	2016	
+Aswath Damodaran
+0.75% 1.00% 1.10% 1.25%
+1.75%
+2.25%
+3.25%
+4.25%
+5.50%
+6.50%
+7.50%
+9.00%
+12.00%
+16.00%
+20.00%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+Aaa/AAA Aa2/AA A1/A+ A2/A A3/A- Baa2/BBBBa1/BB+ Ba2/BB B1/B+ B2/B B3/B- Caa/CCC Ca2/CC C2/C D2/ D
+Default	Spreads	for	10-year	Corporate	Bonds:	January	2015	vs	January	2016
+Spread:	 2016 Spread:	 2015
+183
+	Applica:on	Test:	Es:ma:ng	a	Cost	of	Debt	
+Aswath	Damodaran	
+183
+¨ Based	upon	your	ﬁrm’s	current	earnings	before	
+interest	and	taxes,	its	interest	expenses,	es:mate	
+¤ An	interest	coverage	ra:o	for	your	ﬁrm	
+¤ A	synthe:c	ra:ng	for	your	ﬁrm	(use	the	tables	from	prior	
+pages)	
+¤ A	pre-tax	cost	of	debt	for	your	ﬁrm	
+¤ An	ager-tax	cost	of	debt	for	your	ﬁrm

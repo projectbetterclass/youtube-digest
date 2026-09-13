@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/betaIndia.xls
+
+[legacy .xls workbook: betaIndia.xls — see raw file]

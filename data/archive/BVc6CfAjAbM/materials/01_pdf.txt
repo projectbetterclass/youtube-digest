@@ -1,0 +1,144 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/TeslaDIY.pdf
+
+A DO-IT-YOURSELF (DIY) 
+VALUATION OF TESLA
+Investment Regrets and Disagreement
+2
+Tesla Again?
+¨ I was hoping to move on to my data update posts but my last 
+post on Tesla drew some attention, in good and bad ways, 
+partly because of its timing. 
+¨ Right after I sold my shares for $640, based upon my 
+valuation of the stock at about $430, the stock took off, 
+climbing to more than $900/share in the matter of days. 
+¤ There were people on both sides of the great Tesla divide on my 
+valuation, with bears accusing me of wearing rose-colored glasses and 
+making unrealistically optimistic assumptions and bulls pointing to 
+inputs that they felt under-estimated the company’s potential
+¤ I thought I would revisit the valuation and present it in a different 
+format, one in which you (as the reader) can choose your story for 
+Tesla and estimate the value for yourself.
+4
+The drivers of value
+¨ The Growth Lever: The revenue growth rate controls how much and how quickly the firm 
+will be able to grow its revenues from autos, software, solar panels and anything else that 
+you believe the company. In my Tesla story (valuation), I have estimated revenues of $125 
+billion in 2030, a five -fold increase over the 2019 revenues.
+¨ The Profitability Lever: The target (pre-tax) operating margin determines how profitable you 
+think the company will be, once its growth days start to scale down. In keeping with my view 
+that R&amp;D is really a capital expense, I capitalize R&amp;D, which improves Tesla’s 
+profitability and target an operating margin of 12% by 2025.
+¨ The Investment Efficiency Lever: To grow, companies have to invest in capacity and the sales 
+to invested capital drives how efficiently investment is done, with higher sales to capital 
+ratios reflecting more efficiency. With T esla, I assume that every dollar of investment (in new 
+factories, technology and new R&amp;D) in the first 5 years generates $3 in revenue.
+¨ The Risk lever: The first is the cost of capital that I start the valuation with, a reflection of 
+risk as seen through the eyes of a diversified investor in the company. The second is 
+the likelihood of failure (or distress). With Tesla, I set this cost of capital at 7% and assume 
+that given its marginal profitability and significant debt load, the chance of failure is 10 %.
+5
+The Growth Lever
+6
+The Biggest Auto Companies
+7
+A tech company twist?
+8
+Your growth choice
+9
+The Profitability Lever
+10
+A tech twist?
+¨ The median operating margin for tech companies 
+(including both software & hardware is 10.25%).
+¨ The picture is brighter for the FAANG stocks, where 
+the aggregate operating margin across all five stocks 
+is 19.87%, well above auto industry averages. That 
+margin, though, is delivered on smaller revenues and 
+with business models where production costs are a 
+small fraction of selling prices.
+¨ The operating margin for just software companies is 
+even higher at 21.24%, because the marginal unit of 
+software is close to costless to produce.
+11
+Your choice on profitability
+12
+3. The Investment Efficiency Lever
+13
+More on investment efficiency
+¨ Looking across global auto companies, the median company 
+generates $1.37 in sales for every dollar of capital invested, 
+and at the 75th percentile, the more capital-efficient auto 
+companies generate $2.42 in revenues for every dollar of 
+capital invested. 
+¨ My estimate of $3 in revenues for every dollar of capital 
+invested reflects an optimistic view of Tesla’s capacity to bring 
+technological innovation to its production processes, and 
+reduce the capital needed to fund those processes. 
+¨ Since Tesla, in 2019, generates $1.32 in revenue for every 
+dollar of capital invested, my estimate is more aspirational 
+than based on observable efficiencies, right now.
+14
+Your choice on investment efficiency
+15
+4. Risk: The Cost of Capital - Global
+16
+Your choice on cost of capital & the failure rate
+17
+Valuation Stories
+18
+The Stories
+¨ The Big Auto Story: If your story is that Tesla will emerge from its growth period as one of the 
+largest auto companies in the world (revenues of $100 - $300 billion in year 10), with top -tier auto 
+company margins (7.42%), investment efficiency (2.42) and cost of capital (6.94%), the value per 
+share ranges from $106/share (with BMW like revenues) to $227/share (with Daimler -like 
+revenues) to $333/share (with VW/Toyota like revenues).
+¨ The Techy Auto Company Story: Te sl a is an auto/software/services company with tech company 
+characteristics, giving it higher margins (10.25%) and a higher cost of capital (8.86%). With this 
+story, the value per share ranges from $111/share (with BMW like revenues) to $212/share (with 
+Daimler-like revenues) to $298/share (with VW/T oyota like revenues). Put simply, the higher risk 
+nullifies the benefits of higher profitability.
+¨ The FAANGy Auto Company: Te sl a not only develops a tech twist, but becomes as successful as the 
+most successful tech companies (I use the FAANG stocks + Microsoft). In this story, the margins 
+approach 18.97% and with a tech cost of capital, the value per share ranges from $459/share (with 
+BMW like revenues) to $855/share (with Daimler-like revenues) to $2,106/share (with VW/T oyota 
+like revenues).
+¨ The Make-your-best Company: I give Tesla the best possible outcomes on each variable, revenues 
+like VW/T oyota, margins like pure software companies (21.24%), a sales to capital ratio that is 
+higher than any of the sector averages (4.00) and a cost of capital of an auto company (6.94%), and 
+arrive at a value per share of $2106.
+19
+Possible? Plausible? Probable?
+¨ With the big auto stories, the key question will be whether T esla can climb to the 
+very top of the heap in terms of revenues, generally reserved for mass market 
+companies, while earning operating margins that are usually reserved for smaller 
+luxury auto companies?
+¨ With the techy auto stories, the key question becomes whether a company that 
+derives the bulk of its revenues from selling cars be profitable and reinvest like a 
+tech company?
+¨ With the FAANGy stories, the investment question becomes whether you should 
+up front for a company on the expectation that it will be an exceptional company. 
+It very well might make it to the top of the heap, but if it does not, you are set up 
+for disappointment.
+¨ With the MYB story, you are approaching the most dangerous place in valuation, 
+where you pick and choose each assumption, without considering the ones you 
+have already made. Put simply, is it even possible to build a company that 
+generates revenues like Toyota, earns margins like Microsoft and invests more 
+efficiently than any manufacturing company in history has ever done, while still 
+preserving the low cost of capital of an auto company ?
+20
+It’s only an investment!
+¨ Money on the table, but no regrets: In the week since I sold Tesla at $640, 
+the stock has gone on a wild ride, rising above $900 in two trading days. I. 
+I made my decision to buy, based on my story and valuation for Tesla, and 
+my decision to sell, for the same reason. If I abandon that philosophy to 
+play the momentum game, a game that I am not good at and don’t really 
+play well, I may make a bit more money, but at what cost? 
+¨ Why the vitriol? In a world where we face unbridgeable divides on 
+politics, religion and culture, do we need to add investing to the mix? If 
+you stayed with your Tesla investment, I wish you the best, and I hope 
+that you are holding on for the right reasons. If you sold short and lost 
+money, I get no joy out of your losses and no inclination to do a 
+celebratory dance.
+¨ Not worth losing sleep over: As far as I am concerned, Tesla is a 
+fascinating company, but it is just an investment, not a matter of life or 
+death, and definitely not worth losing sleep and friends over.

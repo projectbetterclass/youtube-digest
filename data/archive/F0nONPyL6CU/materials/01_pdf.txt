@@ -1,0 +1,160 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/SpotifyIPO.pdf
+
+STREAM ON: VALUING SPOTIFY , 
+FOR ITS IPO
+Aswath Damodaran
+2
+Unicorns going public?
+Aswath 
+Damodaran
+2
+¨ We have seen two high profile unicorns file for initial 
+public offerings. 
+¤ The first out of the gate was Dropbox, a storage solution 
+for a world where gigabyte files are the rule rather than 
+the exception, with a filing on February 23.
+¤ Following close after, on February 28, Spotify, positioning 
+itself as the music streaming analog to Netflix, filed its 
+prospectus. 
+¨ With it's larger potential market capitalization and 
+unusual IPO structure, Spotify has attracted more 
+attention than Dropbox, and I would like to focus 
+this post on it.
+3
+The Back Story - A Changing Business
+Aswath 
+Damodaran
+3
+4
+The Spotify Business Model
+¨ Free or Premium: Listeners can subscribe to a free version, with limited 
+customization features (playlists, stations etc.) and online ads. 
+Alternatively, they can subscribe to a premium version of the service, 
+paying a monthly fee, in return for a plethora of customization options, 
+and no ads. 
+¨ Pricing: The company's standard service cost $9.99/month in the United 
+States in 2018, with a family membership, where up to six family 
+members living at the same address, can share a family service for 
+$14.99/month, while preserving individualized playlists and stations.  
+Prices vary globally, ranging from a high of $16.94 in the UK (for standard 
+service) to much lower prices in Eastern Europe and Latin America
+¨ Content Cost: Spotify pays for its music content, based upon how often a 
+song is streamed, but the rates vary depending on whether it is on the 
+free or premium service and where in the world, creating some 
+complexity in how it is computed.
+5
+1. Growth Company
+Aswath 
+Damodaran
+5
+6
+2. Predominantly Subscription Driven, with a 
+discordant note
+Aswath Damodaran
+6
+7
+3. Declining Content Costs, but Taylor Swift 
+and Jay-Z are no longer here..
+Aswath Damodaran
+7
+8
+4. Other Costs are big and getting bigger
+9
+The IPO Structure: Spotify Twists
+¨ No Banks: In a typical IPO, the issuing company seeks out an 
+investment bank, which not only sets an offering price (backed up 
+by a guarantee) but also creates a syndicate with other banks to 
+market the IPO, in roadshows and private client pitches. The 
+Spotify IPO will dispense with the bankers and go directly to the 
+market, letting demand and supply set the price on the opening 
+day.
+¨ Cashing Out: In most IPOs, the cash that comes in on the offering, 
+from the shares that are bought by the public, is kept in the 
+company, either to retire existing financing that is not 
+advantageous to the firm, or to cover future investment needs. 
+Spotify is aiming to raise about $1 billion from its offering, but 
+none of it will go to company. Instead, existing equity investors in 
+the company will be receiving the cash in return for their holdings.
+10
+Thoughts about Twists
+¨ No bankers, no problem: Bankers don't value IPOs; they price 
+them, usually with fairly crude pricing metrics, though they often 
+reverse engineer DCFs to back up their pricing. Their guarantee on 
+the offering price is significantly diluted in value by the fact that 
+they set offering prices 10% to 15% below what they think the 
+market will bear, and their marketing efforts are more useful in 
+gauging demand than in selling the securities. 
+¨ Control or Growth: The cashing out of existing owners sends two 
+negative signals. 
+¤ Equity investors who cash out) do not feel that staying on as investors in 
+the company, as a publicly traded entity, is worth it. Since they have access 
+to data that I don't, I would like to know what they see in the company's 
+future. 
+¤ The structure of the share offering, with voting and non-voting shares, 
+indicates a consolidation of control with the founders, and the offering 
+may provide an opportunity to get rid of dissenting voices.
+11
+My Spotify Story
+¨ Continued (but Slower) Revenue Growth: Scaling and increased 
+competition will result in a revenue growth of 25% a year for the 
+next five years, scaling down to much lower growth in the years 
+after . 
+¨ With Reduced Content Costs: Since Spotify pays for its content 
+based upon song streams, those savings have to come from either 
+paying less per stream (which is going to and should create push 
+back from labels and artists) or finding ways to create economies of 
+scale on this cost component. I assume that they can reduce 
+content costs to 70% of revenues, while finding a way to keep 
+artists and labels happy. That is not going to be an easy balance to 
+maintain, especially with the top artists, as evidenced by Taylor 
+Swift's and Jay-Z's decisions to pull their music from Spotify.
+12
+With economies of scale reducing other 
+costs, as a percent of revenues
+13
+With limited operating risk but significant
+failure risk…
+¨ With Limited Capital Investments: Spotify's business model is built for 
+scaling, with little need for capital reinvestment, except for R&D and 
+perhaps acquisitions. I assume that small capital investments can 
+generate large revenues, using a sales to capital ratio of 4.00, the 90th 
+percentile of global companies.
+¨ Manageable Operating Risk but Significant Failure Risk: Spotify's 
+subscription based model and low turnover rate among subscribers does 
+lend some stability to revenues, though adding more subscribers and 
+going for growth is a riskier proposition. 
+¤ Overall, allowing for their business mix (90% entertainment, 10% advertising) and 
+their global mix of revenues yields a cost of capital of 9.24%, at the 80th percentile 
+of global companies; the firm is planning to convert much of its debt into equity at 
+the time of the IPO, giving it a equity dominated capital structure. 
+¤ However, the company is still young, losing money and faces deep pocketed 
+competition, suggesting that failure is a very real possibility. I assume a 20% chance 
+of failure, with failure translating into selling the company to the highest bidder at 
+half of its going concern value.
+14
+And the loose ends…
+1. Add the cash balance of the company of 1.5 billion Euros, 
+ignore the proceeds from the IPO because of the cash-out 
+structure 
+2. Deal with options: Net out the value of 20.82 million 
+options/warrants outstanding, with an average strike price 
+of 42.56 Euros per share. 
+3. Get share count: Dividing the equity value by 177.17 million 
+shares (including restricted shares) yields a value per share 
+of 88.26 Euros per share or $108.97. 
+4. Non voting discount? The shares that you will be buying will 
+be non-voting, implying a discount on this number, though 
+how much you discount it will depend on how much you 
+like and trust the company's founders.
+16
+Here’s what I left out
+1. IPOs are a pricing game: To price Spotify, you have to 
+decide your “comparable firms” (Netflix or Pandora) 
+and your pricing variable (users or revenues). 
+2. User-based, not top down valuations: You could value 
+Spotify from the ground up, by valuing its existing and 
+new users.
+3. The Data Advantage: Spotify is learning about its 
+subscriber music tastes and that data can be used to 
+not only modify its offerings but perhaps create 
+content that is more closely tailored to these tastes.

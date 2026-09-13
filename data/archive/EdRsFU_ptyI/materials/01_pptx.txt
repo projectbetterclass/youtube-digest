@@ -1,0 +1,70 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/Amazon2018.pptx
+
+Slide 1:
+Amazon: Glimpses of shoeless joe?
+Aswath Damodaran
+
+Slide 2:
+Revisiting my (Amazon) Past
+Learning wheels: I valued Amazon for the first time in 1998, as an online book retailer, and much of what I know about valuing young companies today came from the struggles I went through.
+Field of Dreams Story: When I was put off balance by an Amazon product, service or corporate announcement, I re-read Jeff Bezos’ letter to Amazon shareholders from 1997, because it helped me understand (though not always agree with) how Amazon views the business world. In that letter, Bezos laid out what I called the Field of Dreams story, telling his stockholders that if Amazon built it (revenues), they (the profits and cash flows) would come.
+My Track Record: I have valued Amazon about once a year every year over its existence, and I have bought Amazon four times and sold it four times in that period. That said, there are two confessions that I have to make.
+First, I have not owned Amazon since 2012, and have thus missed out on its bull run since then.
+Second, through all of this time, I have consistently under estimated not only the innovative genius of this company but also its patience.
+
+Slide 3:
+The Market Cap Rise
+
+Slide 4:
+And the Pain in its wake..
+
+Slide 5:
+Operating History
+
+Slide 6:
+The Segment Breakdown
+
+Slide 7:
+The Costs for Future Growth
+
+Slide 8:
+Breaking Down Amazon
+Aswath Damodaran
+
+Slide 9:
+The Amazon Business Model
+Aswath Damodaran
+From its 10K:
+Focus on free cash flow: While many companies claim to care about free cash flow, they use self serving definitions, usually designed to make their cash flows look much better than their earnings. Amazon actually estimates free cash flows after reinvestment and taxes.
+Manage working capital: While Amazon is realistic about its needs for working capital, it also is actively focused on keeping it’s investment contained, often by leaning on its suppliers.
+Use operating leverage: Amazon clearly focused on how it can gain economies of scale, where fixed costs become less consequential as the company grows.
+My add ons:
+Patience: The company is willing to wait, and while some of this can be attributed to its size and access to capital, it is more deeply engrained in the company’s DNA.
+Willingness to experiment: Try different ways to shake up the status quo, abandoning those experiments that don’t work, until it finds one that does.
+
+Slide 10:
+Fighting Amazon: The Failed Ways
+Imitation: Trying to out-Amazon, by selling at or below cost and reinvesting for long periods, does not seem to work, even for large and deep pocketed competitors.
+Cut costs: Trying to cut costs, to be able to sell at Amazon-level priced and still make money, creates death spirals, where service suffers and core customers feel abandoned (and turn to Amazon).
+Whining: Whining that Amazon fights unfairly and that society is made worse off by its growth will not stop Amazon, even if there are seeds of truth in both statements.
+
+Slide 11:
+Fighting Amazon: Improve the Odds
+Tilt the game: Governments and regulators can be called upon to restrain Amazon, thus making the game more winnable for competitors.
+Play to your strengths: Rediscover what made you successful in the first place and nourish those strengths. Rather than reacting to Amazon’s actions, be proactive with your core customers.
+And to Amazon’s weaknesses:  Amazon prefers to be in high-growth businesses with low capital intensity. Drawing them into lower-growth businesses that require large investments, if that is your strength, can play in your favor.
+
+Slide 12:
+Valuing Amazon
+In my prior iterations, I tried to value Amazon as a consolidated company, arguing that it was predominantly a retail company with some media businesses.
+The growth of AWS and the substantial spending on Amazon Prime has led me to conclude that a more prudent path is to value Amazon in pieces, with Amazon Retail/Media, AWS and Amazon Prime, each considered separately.
+To do that, I have to break down the company numbers into its parts and make separate assumptions about cash flows, growth and risk with each part.
+
+Slide 16:
+Amazon’s Value per Share
+
+Slide 17:
+My Investment Judgment
+Not for me, but who knows for you? At $1,460/share, the stock is clearly out of my reach. Given that I have not been able to justify buying the stock at any time in the last five years, as it rose from $250/share to $1500, my suggestion is that you do you don't take my word and make your own judgment.
+Good companies, Bad investments: There are good companies that can be bad investments and bad companies that can be terrific investments, as I noted in this post. Amazon has fallen into the first category for much of the last five years and continues to do so, at today's market price.
+Wait: But good things come to those who wait and I know that there be a time and a price at which it will be back in my portfolio.

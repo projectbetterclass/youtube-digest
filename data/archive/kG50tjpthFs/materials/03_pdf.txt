@@ -1,0 +1,25 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfovhds/postclass/session6soln.pdf
+
+Session	  6:	  Post	  class	  test	  solutions	  
+1. b.	  Equity	  risk	  premiums	  should	  rise.	  If	  companies	  try	  to	  manage	  and	  
+manipulate	  earnings,	  investors	  trust	  those	  earnings	  numbers	  less.	  If	  they	  trust	  
+the	  earnings	  numbers	  less,	  equities	  will	  become	  riskier.	  Thus,	  earnings	  
+management,	  in	  general,	  even	  if	  it	  makes	  earnings	  smoother	  will	  make	  them	  less	  
+reliable	  and	  equity	  risk	  premiums	  should	  rise.	  
+2. b.	  Risk	  premium	  is	  4.5%,	  Standard	  error	  is	  2%.	  A	  risk	  premium	  in	  a	  hurdle	  
+rate	  will	  get	  compounded	  over	  time	  and	  is	  therefore	  better	  computed	  using	  the	  
+geometric	  averages.	  The	  standard	  error	  is	  computed	  by	  dividing	  the	  standard	  
+deviation	  of	  20%	  by	  the	  square	  root	  of	  100.	  
+3. a.	  11.75%	  or	  d.	  10.5%.	  	  There	  are	  two	  solutions.	  My	  preferred	  one	  is	  to	  take	  the	  
+default	  spread	  and	  scale	  it	  up	  to	  reflect	  the	  higher	  risk	  in	  equities	  (5%	  *30/24	  =	  
+6.25%)	  and	  to	  add	  this	  to	  the	  mature	  market	  premium	  (5.5%).	  My	  second	  best	  
+solution	  is	  to	  just	  add	  the	  default	  spread	  to	  the	  mature	  market	  premium	  (5.5%	  +	  
+5%	  =	  10.5%)	  
+4. e.	  The	  implied	  equity	  risk	  premium	  will	  increase	  if	  stock	  prices	  decrease	  
+while	  cash	  flows	  increase.	  Just	  as	  lower	  bond	  prices	  translate	  into	  higher	  
+interest	  rats,	  lower	  stock	  prices	  usually	  translate	  into	  higher	  equity	  risk	  
+premiums.	  However,	  if	  cash	  flows	  decrease	  by	  more	  than	  stock	  prices	  drop,	  the	  
+equity	  risk	  premium	  will	  actually	  go	  down.	  	  
+5. d.	  8.3%.	  The	  risk	  free	  rate	  is	  2%.	  The	  equity	  risk	  premium	  is	  a	  weighted	  average	  
+of	  the	  Mexico	  and	  US	  equity	  risk	  premiums:	  0.6	  (5.5%)	  +	  0.4	  (7.5%)	  =	  6.3%.	  The	  
+overall	  cost	  of	  equity	  =	  2%	  +	  6.3%	  =	  8.3%.

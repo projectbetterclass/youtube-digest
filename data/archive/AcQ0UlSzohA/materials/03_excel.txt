@@ -1,0 +1,29 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/blog/EqMultCalculator.xlsx
+
+Sheet: Equity Multiple
+Equity Multiples from a 2-stage equity cash flow model
+Enter the following inputs for the two-stage DDM
+Current Inputs | The yellow cells are your input cells, and I have arbitrarily picked growth differentials for growth, mature and declining firms. Feel free to change my defaults. Once you pick your defaults, here is what I do. I compute the payout ratio = 1 - g/ ROE for each period, and then compute teh preesent value of the cash that will be paid out over the high grtowth period. At the end of high growth (which I have assumed lasts 10 years, but you can change), I give your company a growth rate = riskfree rate, and compute the terminal value.
+Current Earnings per share = | 2 | (in $ per share)
+Current Revenues per share = | 15
+Riskfree Rate | 0.015
+Return on equity = | 0.15
+Is this a growth or mature company? | Declining
+High Growth Period
+Length of high-growth period (n) = | 10 |  (Number of periods)
+Growth rate during period (g) = | -0.035 | (in percent)
+Payout ratio during period (π) = | 1.2333333333333334 | (in percent)
+Cost of Equity during period  = | 0.065 | (in percent)
+Stable Growth Period | Growth rate differential | Equity Premuum (over risk free rate)
+Growth rate in steady state = | 0.015 | (in percent) | Declining | -0.05 | 0.05
+Payout ratio in steady state = | 0.9 | (in percent) | Growth | 0.1 | 0.05
+Cost of Equity in steady state = | 0.065 | (in percent) | Mature | 0.01 | 0.05
+Output
+Value of Equity per share = | 28.554856364271096
+Price/Earnings Ratio = | 14.277428182135548
+Price/Book Value Ratio = | 2.141614227320332
+
+Sheet: Inputs
+Declining | -0.05
+Mature | 0.01
+Growth | 0.1

@@ -1,0 +1,35 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/cfexams/CfQuiz3aSpr19.pdf
+
+Spring 2019 Name: 
+ 1 
+Quiz 3: Corporate Finance 
+Answer all questions and show necessary work. Please be brief. This is an open book, 
+open notes exam.  
+1. Corinthian Corporation, a firm that is currently over levered with a debt to capital 
+ratio of 80% and a pre-tax cost of debt of 8%, is considering a restructuring that 
+will reduce its debt to capital ratio to 40% and its pre-tax cost of debt to 6%.  
+  Current Recapitalized 
+Debt/(Debt + Equity) 80% 40% 
+Cost of debt (Pre-tax) 8% 6% 
+Cost of equity 24.10%  
+If the marginal tax rate is 25%, the risk free rate is 2.5% and the equity risk 
+premium is 6%, estimate the cost of capital after the restructuring.  (3 points)
+Spring 2019 Name: 
+ 2 
+2. Nestor Media is an entertainment company with 75 million shares trading at 
+$10/share and $250 million in debt outstanding. The firm is considering 
+borrowing money to buy back 25 million shares at $11/share, and believes that 
+this recapitalization will lower its cost of capital from 8% to 7.50%. Assuming a 
+2.5% growth rate in perpetuity, estimate the value per share after the 
+recapitalization.       (3 points)
+Spring 2019 Name: 
+ 3 
+3. Lenox Inc. is a company that operates in two businesses, hotels and technology, 
+and its current financial balance sheet (in market value terms) is below: 
+Business Value ($ mil) Duration   Value ($ mil) Duration 
+Hotels  $     800.00  11 Debt  $     200.00  4 
+Technology  $     400.00  2 Equity  $  1,000.00    
+Lenox is considering borrowing $800 million, using a combination of 8-year and 
+3-year zero coupon bonds, and invest in its technology business If it wants its 
+total debt to have the same duration as all of its assets after the expansion,  how 
+much of the new debt should be 8-year zero coupon debt?    (4 points)

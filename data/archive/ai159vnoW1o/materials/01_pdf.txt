@@ -1,0 +1,311 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/cfspr19/session2slides.pdf
+
+CORPORATE FINANCE
+B40.2302
+LECTURE NOTES: PACKET 1
+Aswath Damodaran
+Aswath Damodaran 0
+THE OBJECTIVE IN CORPORATE 
+FINANCE
+If you dont know where you are going, it does’nt 
+matter how you get there
+Aswath Damodaran 1
+2
+First Principles
+Aswath Damodaran
+2
+The Investment Decision
+Invest in assets that earn a 
+return greater than the 
+minimum acceptable hurdle 
+rate
+The Financing Decision
+Find the right kind of debt 
+for your ﬁrm and the right 
+mix of debt and equity to 
+fund your operations 
+The Dividend Decision
+If you cannot ﬁnd investments 
+that make your minimum 
+acceptable rate, return the cash 
+to owners of your business
+The hurdle rate 
+should reﬂect the 
+riskiness of the 
+investment and 
+the mix of debt 
+and equity used 
+to fund it.
+The return  
+should reﬂect the 
+magnitude and 
+the timing of the 
+cashﬂows as well 
+as all side effects.
+The optimal 
+mix of debt 
+and equity 
+maximizes ﬁrm 
+value
+The right kind 
+of debt 
+matches the 
+tenor of your 
+assets
+How much 
+cash you can 
+return 
+depends upon 
+current  & 
+potential 
+investment 
+opportunities
+How you choose 
+to return cash to 
+the owners will 
+depend on 
+whether they 
+prefer dividends 
+or buybacks
+Maximize the value of the business (ﬁrm)
+3
+The Objective in Decision Making
+Aswath Damodaran
+3
+¨In traditional corporate finance, the objective in decision making is to 
+maximize the value of the firm. 
+¨A narrower objective is to maximize stockholder wealth. When the stock 
+is traded and markets are viewed to be efficient, the objective is to 
+maximize the stock price.
+Assets Liabilities
+Assets in Place Debt
+Equity
+Fixed Claim on cash flows
+Little or No role in management
+Fixed Maturity
+Tax Deductible
+Residual Claim on cash flows
+Significant Role in management
+Perpetual Lives
+Growth Assets
+Existing Investments
+Generate cashflows today
+Includes long lived (fixed) and 
+short-lived(working 
+capital) assets
+Expected Value that will be 
+created by future investments
+Maximize 
+firm value
+Maximize equity 
+value
+Maximize market 
+estimate of equity 
+value
+4
+Maximizing Stock Prices is too narrowan 
+objective: A preliminary response
+Aswath Damodaran
+4
+¨Maximizing stock price is not incompatible with 
+meeting employee needs/objectives. In particular:
+¤Employees are often stockholders in many firms
+¤Firms that maximize stock price generally are profitable 
+firms that can afford to treat employees well.
+¨Maximizing stock price does not mean that 
+customers are not critical to success. In most 
+businesses, keeping customers happy is the route to 
+stock price maximization.
+¨Maximizing stock price does not imply that a 
+company has to be a social outlaw.
+5
+Why traditional corporate financial theory 
+focuses on maximizing stockholder wealth.
+Aswath Damodaran
+5
+¨Stock price is easily observable and constantly updated 
+(unlike other measures of performance, which may not 
+be as easily observable, and certainly not updated as 
+frequently).
+¨If investors are rational (are they?), stock prices reflect 
+the wisdom of decisions, short term and long term, 
+instantaneously.
+¨The objective of stock price performance provides some 
+very elegant theory on:
+¤Allocating resources across scarce uses (which investments to 
+take and which ones to reject)
+¤how to finance these investments
+¤how much to pay in dividends
+6
+The Classical Objective Function
+Aswath Damodaran
+6
+STOCKHOLDERS
+Maximize
+stockholder 
+wealth
+Hire & fire
+managers
+-Board
+-Annual Meeting
+BONDHOLDERS/
+LENDERS
+LendMoney
+Protect
+bondholder
+Interests
+FINANCIAL MARKETS
+SOCIETYManagers
+Reveal
+information
+honestly and
+on time
+Markets are
+efficient and
+assess effect on
+value
+No Social Costs
+All costs can be
+traced to firm
+7
+What can go wrong?
+Aswath Damodaran
+7
+STOCKHOLDERS
+Managers put
+their interests
+above stockholders
+Have little control
+over managers
+BONDHOLDERS
+Lend Money
+Bondholders can
+get ripped off
+FINANCIAL MARKETS
+SOCIETYManagers
+Delay bad
+news or 
+provide 
+misleading
+information
+Markets make
+mistakes and
+can over react
+Significant Social Costs
+Some costs cannot be
+traced to firm
+8
+I. Stockholder Interests vs. Management 
+Interests
+Aswath Damodaran
+8
+¨In theory:  The stockholders have significant control over 
+management. The two mechanisms for disciplining 
+management are the annual meeting and the board of 
+directors. Specifically, we assume that
+¤Stockholders who are dissatisfied with managers can not only 
+express their disapproval at the annual meeting, but can use 
+their voting power at the meeting to keep managers in check. 
+¤The board of directors plays its true role of representing 
+stockholders and acting as a check on management.
+¨In Practice:  Neither mechanism is as effective in 
+disciplining management as theory posits.
+9
+The Annual Meeting as a disciplinary venue
+Aswath Damodaran
+9
+¨The power of stockholders to act at annual meetings is 
+diluted by three factors
+¤Most small stockholders do not go to meetings because the cost 
+of going to the meeting exceeds the value of their holdings.
+¤Incumbent management starts off with a clear advantage when 
+it comes to the exercise of proxies. Proxies that are not voted 
+becomes votes for incumbent management.
+¤For large stockholders, the path of least resistance, when 
+confronted by managers that they do not like, is to vote with 
+their feet.
+¨Annual meetings are also tightly scripted and controlled 
+events, making it difficult for outsiders and rebels to 
+bring up issues that are not to the management’s liking.
+10
+And institutional investors go along with incumbent 
+managers…
+Aswath Damodaran
+10
+11
+Board of Directors as a disciplinary mechanism
+Aswath Damodaran
+11
+¨Directors are paid well: In 2010, the median board member at a Fortune 
+500 company was paid $212,512, with 54% coming in stock and the 
+remaining 46% in cash. If a board member was a non-executive chair, he 
+or she received about $150,000 more in compensation.
+¨Spend more time on their directorial duties than they used to: A board 
+member worked, on average, about 227.5 hours a year (and that is being 
+generous), or 4.4 hours a week, according to the National Associate of 
+Corporate Directors. Of this, about 24 hours a year are for board 
+meetings. Those numbers are up from what they were a decade ago.
+¨Even those hours are not very productive: While the time spent on being 
+a director has gone up, a significant portion of that time was spent on 
+making sure that they are legally protected (regulations & lawsuits).
+¨And they have many loyalties: Many directors serve on three or more 
+boards, and some are full time chief executives of other companies.
+12
+The CEO often hand-picks directors.. 
+Aswath Damodaran
+12
+¨CEOs pick directors: A 1992 survey by Korn/Ferry revealed that 74% of 
+companies relied on recommendations from the CEO to come up with 
+new directors and only 16% used an outside search firm. While that 
+number has changed in recent years, CEOs still determine who sits on 
+their boards. While more companies have outsiders involved in picking 
+directors  now, CEOs exercise significant influence over the process.
+¨Directors don’t have big equity stakes: Directors often hold only token 
+stakes in their companies. Most directors in companies today still receive 
+more compensation as directors than they gain from their stockholdings. 
+While share ownership is up among directors today, they usually get these 
+shares from the firm (rather than buy them).
+¨And some directors are CEOs of other firms: Many directors are 
+themselves CEOs of other firms. Worse still, there are cases where CEOs 
+sit on each others boards.
+13
+Directors lack the expertise (and the willingness) 
+to ask the necessary tough questions..
+Aswath Damodaran
+13
+¨Robert’s Rules of Order?In most boards, the CEO 
+continues to be the chair. Not surprisingly, the CEO sets 
+the agenda, chairs the meeting and controls the 
+information provided to directors. 
+¨Be a team player?The search for consensus overwhelms 
+any attempts at confrontation. 
+¨The CEO as authority figure: Studies of social psychology 
+have noted that loyalty is hardwired into human 
+behavior . While this loyalty is an important tool in 
+building up organizations, it can also lead people to 
+suppress internal ethical standards if they conflict with 
+loyalty to an authority figure. In a board meeting, the 
+CEO generally becomes the authority figure.
+14
+The worst board ever?The Disney Experience -
+1997
+Aswath Damodaran
+14
+15
+The Calpers Tests for Independent Boards
+Aswath Damodaran
+15
+¨Calpers, the California Employees Pension fund, 
+suggested three tests in 1997 of an independent 
+board:
+¤Are a majority of the directors outside directors?
+¤Is the chairman of the board independent of the company 
+(and not the CEO of the company)?
+¤Are the compensation and audit committees composed 
+entirely of outsiders?
+¨Disney was the only S&P 500 company to fail all 
+three tests.
+16
+Business Week piles on… The Worst Boards in 1997..
+Aswath Damodaran
+16

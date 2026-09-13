@@ -1,0 +1,74 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/dataupdate4.pdf
+
+DATA	2017	UPDATE	4:	COUNTRY	
+RISK	
+Aswath	Damodaran
+2
+Proposition	1:	It’s	where	you	operate,	not	
+where	you	incorporate
+¨It	is	where	a	company	operates	that	determines	its	risk	
+exposure,	not	just	where	it	is	incorporated.	
+¨Thus,	you	can	have	US	companies	like	Coca	Cola	
+(through	its	revenues)	and	Exxon	Mobil	(from	its	oil	
+reserves)	with	substantial	emerging	market	exposure	
+and	emerging	market	companies	like	Tata	Consulting	
+Services	and	Embraer	with	significant	developed	market	
+exposure.	
+¨In	fact,	what	we	face	in	valuation	increasingly	are	global	
+companies	that	through	the	accident	of	history	happen	
+to	be	incorporated	in	different	countries.
+3
+Proposition	2:	Country	Risk	affects	Value
+4
+Measuring	Country	Risk	–Sovereign	
+Ratings
+5
+Measuring	Country	Risk	–Government	
+Bond	Default	Spreads
+Country MaturityUS$	Bond	rate US	T. B o n drate	(same	maturity) Default	Spread
+Argentina 10	years 6.81% 2.45% 4.36% 
+Brazil 10	years 5.08% 2.45% 2.63% 
+Chile 10	years 3.14% 2.45% 0.69% 
+Colombia 10	years 3.84% 2.45% 1.39% 
+Indonesia 10	years 3.99% 2.45% 1.54% 
+Mexico 10	years 4.16% 2.45% 1.71% 
+Peru 10	years 3.34% 2.45% 0.89% 
+Russia 10	years 4.27% 2.45% 1.82% 
+Ukraine 10	years 8.44% 2.45% 5.99% 
+Venezuela 10	years 21.91% 2.45% 19.46%
+6
+Measuring	Country	Risk	with	Sovereign	
+CDS	Spreads
+7
+Beyond	Default	Risk	–Country	Risk	Scores
+8
+Measuring	Country	ERP
+¨There	are	many	who	use	country	default	spreads	as	a	proxy	
+for	the	additional	risk	that	you	would	demand	for	investing	in	
+equity	in	that	country,	adding	it	on	to	a	base	equity	risk	
+premium	(ERP)	that	they	have	estimated	for	a	mature	market	
+(usually	the	US).
+¤ERP	for	Country	A	=	ERP	for	US	+	Default	Spread	for	Country	A
+¨I	use	a	variant	where	I	adjust	the	default	spread	for		the	
+additional	risk	of	equity:
+9
+Moving	on	to	Equity	Risk
+Aswath Damodaran
+9
+10
+Equity	Risk	Premiums	in	January	2017
+11
+From	Country	to	Company	Risk
+¨The	one	prediction	that	we	can	also	safely	make	for	next	
+year	is	that	just	as	we	have	each	year	since	2008,	there	
+will	be	at	least	one	and	perhaps	even	two	major	shocks	
+to	the	global	economic	system,	precipitated	by	politics	or	
+by	economics	or	both.	
+¨Those	shocks	affect	all	markets	globally,	but	to	different	
+degrees	and	it	behooves	us	to	not	only	be	aware	of	the	
+impact	after	they	happen	but	be	proactive	and	start	
+building	in	the	expectation	that	they	will	happen	into	our	
+required	returns	and	values.
+¨In	short,	we	no	longer	have	the	luxury	of	being	just	
+domestic-market	focused	even	if	every	company	that	we	
+invest	in	is	just	a	domestic	company.

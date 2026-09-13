@@ -1,0 +1,3 @@
+Source: http://www.stern.nyu.edu/~adamodar/pc/datasets/betaGlobal.xls
+
+[legacy .xls workbook: betaGlobal.xls — see raw file]

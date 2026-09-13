@@ -1,0 +1,136 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/blog/DataUpdate4for2021.pdf
+
+DATA UPDATE 4 FOR 2021: THE 
+ELUSIVE HURDLE RATE
+Connecting Price to Value
+2
+The Hurdle Rate
+¨There are multiple definitions floating around, from it is 
+the cost of raising capital for that business to an 
+opportunity cost, i.e., a return that you can make 
+investing elsewhere, to a required return for investors in 
+that business. 
+¨In a sense, each of those definitions has an element of 
+truth to it, but used loosely, each of them can also lead 
+you to the wrong destination. 
+¨In this session, I will start by looking at the role that 
+hurdle rates play in running a business, with the 
+consequences of setting them too high or too low, and 
+then look at the fundamentals that should cause hurdle 
+rates to vary across companies.
+3
+1. Hurdle Rate as Cost of Funding
+4
+2. Hurdle Rate as Opportunity Cost
+5
+3. Hurdle Rate as Clearer of Capital…
+6
+Fundamentals that determine hurdle rates
+¨The hurdle rate that you use on an investment should 
+reflect:
+¤The business that the investment is in, and its risk
+¤The geography of the investment, both in terms of production 
+and sales
+¤The currency you choose to do your analysis in
+¤The time at which you are doing the investment, since the 
+market prices for risk vary across time
+¨It follows that companies should have dynamic hurdle 
+rates that vary across time and across investment, not 
+corporate hurdle rates frozen in time.
+7
+1. Business
+¨If you are a company with two business lines, one with 
+predictable revenues and stable profit margins, and the other 
+with cyclical revenues and volatile margins, you would expect 
+to, other things remaining equal, use a lower hurdle rate for 
+the first than the second.
+¨That said, there are two tricky components of business risk 
+that you need to navigate:
+¤Firm specific versus Macro risk: When you invest in a company, there 
+are two types of risks that you are exposed to, risks that are specific to 
+the company and risks that are macroeconomic and market-wide. 
+¤Financial leverage: Debt can lower the hurdle rate for some 
+companies, but almost entirely because of the tax subsidy feature, not 
+because it is cheaper. (More on that issue in a future data update 
+post...) It can also raise the hurdle rate for others, because the distress 
+risk it brings into the business overwhelms the tax advantage.
+8
+Costs of Capital in US $: Global Sectors
+9
+2. Geography
+¨As a business, should you demand a higher US $ hurdle rate for 
+investing in a project in Nigeria than the US $ hurdle rate you 
+would require for an otherwise similar project in Germany 
+¨The answer, to me, seems obviously yes, though there are still 
+some who argue otherwise. The vehicle that I use to convey this 
+country risk into hurdle rates is the equity risk premium, the price 
+of risk in equity markets, that I talked about in my earlier post on 
+the topic. In that post, I computed the equity risk premium for the 
+S&P 500 at the start of 2021 to be 4.72%, using a forward-looking, 
+dynamic measure of the risk premium. 
+¨But what if the company is looking at a project in Nigeria or 
+Bangladesh? To answer that question, I estimate equity risk 
+premiums for almost every country in the world, using a very 
+simple (or simplistic) approach.
+10
+Estimation Process
+Blue: Moody’ s Rating
+Red: Added Country Risk
+Green #: Total ERP
+ERP : Jan 2021
+Aswath Damodaran
+12
+3. Currency
+¨Currencies are a scaling variable and dealing with them is simple if you 
+remember two truths. The primary reason why hurdle rates vary across 
+currencies is because they bring different inflation expectations into the 
+process, with higher inflation currencies commanding higher hurdle rates. 
+¨To illustrate, if you assume that inflation in the US $ is 1% and that 
+inflation in the Nigerian Naira is 8%, the hurdle rate that we computed for 
+the Nigerian project in the last section can be calculated as follows:
+¤Cost of equity in Naira for Nigerian project (short cut) = 12.06% + (8% -1%) = 
+19.06%
+¤Cost of equity in Naira for Nigerian project (precise) = 1.1206 * (1.08/1.01) -1 = 
+19.83%
+¨In effect, the Nigerian Naira hurdle rate will be higher by 7% (7.77%) 
+roughly (precisely) and that difference is entirely attributable to inflation 
+differentials.
+13
+Risk free Rates in Currencies
+14
+Implication 1: Nail down currency
+¨We all have our frames of reference, based upon where 
+we work, and not surprisingly, when we talk with others, 
+we expect them to share the same frames of reference. 
+¤When it comes to hurdle rates, that can be dangerous, since 
+hurdle rates will vary across currencies, and cross-currency 
+comparisons are useless. 
+¤Thus, a 6% hurdle rate in Euros may look lower than a 12% 
+hurdle rate in Turkish lira, but after inflation is considered, the 
+latter may be the lower value. 
+¤Any talk of a global risk free rate is nonsensical, since risk free 
+rates go with currencies, and currencies matter only because 
+they convey inflation. That is why you always have the option of 
+completely removing inflation from your analysis, and do it in 
+real terms.
+15
+Implication 2: We live in a low hurdle rate 
+world…
+16
+Implication 3: Don’t sweat the small stuff… 
+¨I spend a lot of my time talking about and doing intrinsic valuations, and 
+for those of you who use discounted cash flow valuations to arrive at 
+intrinsic value, it is true that discount rates are an integral part of a DCF . 
+¨That said, I would argue that we spend way too much time on discount 
+rates, finessing risk measures and risk premiums, and too little time on 
+cash flows. 
+¨In fact, if you are in a hurry to value a company in US dollars, just use a 
+cost of capital based upon the distribution in the graph above (4.16% for a 
+safe company, 5.30% for an average risk company or 5.73% for a risky 
+company) as your discount rate, spend your time estimating revenue 
+growth, margins and reinvestment, and if you do have the time, come 
+back and tweak the discount rate.
+¨And as for those sensitivity analysis that claim to show that value is very 
+sensitive to the discount rate, that happens only if you change the 
+discount rate and leave everything else alone, which is valuation 
+malpractice.

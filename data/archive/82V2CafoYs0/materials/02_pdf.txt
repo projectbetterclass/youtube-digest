@@ -1,0 +1,38 @@
+Source: http://www.stern.nyu.edu/~adamodar/pdfiles/FoundationsOnline/postclass/session8test.pdf
+
+Session	8:	Post	Class	tests	
+1. When	you	invest	in	the	equity	in	a	business,	you	are	entitled	to	the	residual	
+cash	flows.	Which	of	the	following	is	the	best	description	of	what	that	
+residual	cash	flow	is?	
+a. Net	Income	
+b. The	cash	flow	before	debt	payments	and	reinvestment		
+c. The	cash	flow	after	debt	payments	and	reinvestment	
+d. The	cash	flow	after	debt	payments	but	before	reinvestment	
+e. None	of	the	above	
+2. Some	 investors	use	 dividends	 as	 their	measure	 of	 cash	 flows	 to	 equity,	 and	
+value	 equity	based	 upon	 expected	 dividends.	For	this	 approach	to	yield	
+reasonable	values	for	equity,	which	of	the	following	assumptions	have	to	hold?	
+a. Earnings	have	to	be	positive	
+b. The	company	must	be	paying	dividends	currently	
+c. Dividends	cannot	exceed	earnings	
+d. Dividends	have	to	be	expected	to	increase	over	time	
+e. Dividends	should	approximate	potential	dividends	(free	cash	flows	to	
+equity)	
+3. You	are	valuing	a	company	that	reported	$3.00	in	earnings	per	share	in	the	
+most	recent	year,	on	which	it	paid	dividends	of	$2.00	per	share.	If	you	expect	
+these	dividends	to	grow	at	2%	a	year	in	perpetuity	and	the	cost	of	equity	is	
+10%,	estimate	the	value	of	equity	per	share.	
+a. $20.00/share	
+b. $20.40/share	
+c. $25.00/share	
+d. $25.50/share	
+e. $37.50/share	
+f. $38.25/share	
+4. Assume	that	the	shares	of	the	company	(described	in	the	example	above)	are	
+trading	at	$40.80/share.	If	your	estimate	of	growth	in	dividends	is	correct,	
+estimate	the	cost	of	equity	that	the	market	is	attaching	to	the	company.	
+a. 4.9%	
+b. 5.0%	
+c. 6.9%	
+d. 7.0%	
+e. None	of	the	above

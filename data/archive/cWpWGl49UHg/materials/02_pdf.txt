@@ -1,0 +1,645 @@
+Source: http://www.stern.nyu.edu/~adamodar/podcasts/valspr15/valsession5.pdf
+
+60
+Implied	  Equity	  Premiums	  
+¨ Let’s	  start	  with	  a	  general	  proposi9on.	  If	  you	  know	  the	  price	  
+paid	  for	  an	  asset	  and	  have	  es9mates	  of	  the	  expected	  	  cash	  
+ﬂows	  on	  the	  asset,	  you	  can	  es9mate	  the	  IRR	  of	  these	  cash	  
+ﬂows.	  If	  you	  paid	  the	  price,	  this	  is	  what	  you	  have	  priced	  the	  
+asset	  to	  earn	  (as	  an	  expected	  return).	  
+¨ If	  you	  assume	  that	  stocks	  are	  correctly	  priced	  in	  the	  
+aggregate	  and	  you	  can	  es9mate	  the	  expected	  cashﬂows	  from	  
+buying	  stocks,	  you	  can	  es9mate	  the	  expected	  rate	  of	  return	  
+on	  stocks	  by	  ﬁnding	  that	  discount	  rate	  that	  makes	  the	  
+present	  value	  equal	  to	  the	  price	  paid.	  Subtrac9ng	  out	  the	  
+riskfree	  rate	  should	  yield	  an	  implied	  equity	  risk	  premium.	  
+¨ This	  implied	  equity	  premium	  is	  a	  forward	  looking	  number	  and	  
+can	  be	  updated	  as	  oIen	  as	  you	  want	  (every	  minute	  of	  every	  
+day,	  if	  you	  are	  so	  inclined).	  
+	  
+Aswath Damodaran
+60
+61
+Implied	  Equity	  Premiums:	  January	  2008	  
+¨  We	  can	  use	  the	  informa9on	  in	  stock	  prices	  to	  back	  out	  how	  risk	  averse	  the	  market	  is	  and	  how	  much	  of	  a	  risk	  
+premium	  it	  is	  demanding.	  
+¨  If	  you	  pay	  the	  current	  level	  of	  the	  index,	  you	  can	  expect	  to	  make	  a	  return	  of	  8.39%	  on	  stocks	  (which	  is	  obtained	  by	  
+solving	  for	  r	  in	  the	  following	  equa9on)	  
+¨  Implied	  Equity	  risk	  premium	  =	  Expected	  return	  on	  stocks	  -­‐	  Treasury	  bond	  rate	  =	  8.39%	  -­‐	  4.02%	  =	  4.37%	  
+€ 
+1468.36=61.98
+(1+r)+65.08
+(1+r)2+68.33
+(1+r)3+71.75
+(1+r)4+75.34
+(1+r)5+75.35(1.0402)
+(r−.0402)(1+r)5
+January 1, 2008
+S&P 500 is at 1468.36
+4.02% of 1468.36 = 59.03
+Between 2001 and 2007 
+dividends and stock 
+buybacks averaged 4.02% 
+of the index each year. 
+Analysts expect earnings to grow 5% a year for the next 5 years. We 
+will assume that dividends & buybacks will keep pace..
+Last year’s cashflow (59.03) growing at 5% a year
+After year 5, we will assume that 
+earnings on the index will grow at 
+4.02%, the same rate as the entire 
+economy (= riskfree rate).
+61.98 65.08 68.33 71.75 75.34
+Aswath Damodaran
+61
+62
+Implied	  Risk	  Premium	  Dynamics	  
+¨ Assume	  that	  the	  index	  jumps	  10%	  on	  January	  2	  and	  that	  nothing	  else	  
+changes.	  What	  will	  happen	  to	  the	  implied	  equity	  risk	  premium?	  
+a.  Implied	  equity	  risk	  premium	  will	  increase	  	  
+b.  Implied	  equity	  risk	  premium	  will	  decrease	  
+¨ Assume	  that	  the	  earnings	  jump	  10%	  on	  January	  2	  and	  that	  nothing	  else	  
+changes.	  What	  will	  happen	  to	  the	  implied	  equity	  risk	  premium?	  
+a.  Implied	  equity	  risk	  premium	  will	  increase	  	  
+b.  Implied	  equity	  risk	  premium	  will	  decrease	  
+¨ Assume	  that	  the	  riskfree	  rate	  increases	  to	  5%	  on	  January	  2	  and	  that	  
+nothing	  else	  changes.	  What	  will	  happen	  to	  the	  implied	  equity	  risk	  
+premium?	  
+a.  Implied	  equity	  risk	  premium	  will	  increase	  	  
+b.  Implied	  equity	  risk	  premium	  will	  decrease	  
+Aswath Damodaran
+62
+63
+A	  year	  that	  made	  a	  diﬀerence..	  The	  implied	  
+premium	  in	  January	  2009	  
+Year Market value of indexDividends BuybacksCash to equityDividend yieldBuyback yieldTotal yield
+2001 1148.09 15.74 14.34 30.08 1.37% 1.25% 2.62%
+2002 879.82 15.96 13.87 29.83 1.81% 1.58% 3.39%
+2003 1111.91 17.88 13.70 31.58 1.61% 1.23% 2.84%
+2004 1211.92 19.01 21.59 40.60 1.57% 1.78% 3.35%
+2005 1248.29 22.34 38.82 61.17 1.79% 3.11% 4.90%
+2006 1418.30 25.04 48.12 73.16 1.77% 3.39% 5.16%
+2007 1468.36 28.14 67.22 95.36 1.92% 4.58% 6.49%
+2008 903.25 28.47 40.25 68.72 3.15% 4.61% 7.77%
+Normalized 903.25 28.47 24.11 52.584 3.15% 2.67% 5.82%
+January 1, 2009
+S&P 500 is at 903.25
+Adjusted Dividends & 
+Buybacks for 2008 = 52.58
+In 2008, the actual cash 
+returned to stockholders was 
+68.72. However, there was a 
+41% dropoff in buybacks in 
+Q4. We reduced the total 
+buybacks for the year by that 
+amount.
+Analysts expect earnings to grow 4% a year for the next 5 years. We 
+will assume that dividends & buybacks will keep pace..
+Last year’s cashﬂow (52.58) growing at 4% a year
+After year 5, we will assume that 
+earnings on the index will grow at 
+2.21%, the same rate as the entire 
+economy (= riskfree rate).
+54.69 56.87 59.15 61.52 63.98
+Expected Return on Stocks (1/1/09) = 8.64%
+Riskfree rate = 2.21%
+Equity Risk Premium = 6.43%
+903.25 = 54.69
+(1+r)+56.87
+(1+r)2+59.15
+(1+r)3+61.52
+(1+r)4+63.98
+(1+r)5+63.98(1.0221)
+(r−.0221)(1+r)5
+Aswath Damodaran
+63
+64
+The	  Anatomy	  of	  a	  Crisis:	  Implied	  ERP	  from	  
+September	  12,	  2008	  to	  January	  1,	  2009	  
+Aswath Damodaran
+64
+65
+An	  Updated	  Equity	  Risk	  Premium:	  January	  
+2015	  	  
+Aswath Damodaran
+65
+Base year cash ﬂow  (last 12 mths)
+Dividends (TTM): 38.57
++ Buybacks (TTM): 61.92
+= Cash to investors (TTM): 100.50
+Earnings in TTM:                114.74
+Expected growth in next 5 years
+Top down analyst estimate of earnings 
+growth for S&P 500 with stable 
+payout: 5.58%
+106.10 112.01 118.26 124.85 131.81 Beyond year 5
+Expected growth rate = 
+Riskfree rate = 2.17%
+Expected CF in year 6 = 
+131.81(1.0217)
+Risk free rate = T.Bond rate on 1/1/15= 2.17%
+r = Implied Expected Return on Stocks = 7.95%
+S&P 500 on 1/1/15= 
+2058.90
+E(Cash to investors)
+Minus
+Implied Equity Risk Premium (1/1/15) = 7.95% - 2.17% = 5.78%
+Equals
+100.5 growing @ 
+5.58% a year
+2058.90=106.10
+(1+r)+112.91
+(1+r)2+118.26
+(1+r)3+124.85
+(1+r)4+131.81
+(1+r)5+131.81(1.0217)
+(r−.0217)(1+r)5
+66
+Implied	  Premiums	  in	  the	  US:	  1960-­‐2014	  
+Aswath Damodaran
+66
+0.00%
+1.00%
+2.00%
+3.00%
+4.00%
+5.00%
+6.00%
+7.00%
+1960
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Implied Premium
+Year
+Implied Premium for US Equity Market: 1960-2014
+67
+Implied	  Premium	  versus	  Risk	  Free	  Rate	  
+Aswath Damodaran
+67
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Implied ERP and Risk free Rates
+Implied Premium (FCFE)
+T. Bond Rate 
+Expected Return on Stocks = T.Bond Rate + Equity Risk 
+Premium 
+Since 2008, the expected return 
+on stocks has stagnated at about 
+8%, but the risk free rate has 
+dropped dramatically.
+68
+Equity	  Risk	  Premiums	  and	  Bond	  Default	  Spreads	  
+Aswath Damodaran
+68
+0.00 
+1.00 
+2.00 
+3.00 
+4.00 
+5.00 
+6.00 
+7.00 
+8.00 
+9.00 
+0.00% 
+1.00% 
+2.00% 
+3.00% 
+4.00% 
+5.00% 
+6.00% 
+7.00% 
+ERP / Baa Spread 
+Premium (Spread) 
+Figure 16: Equity Risk Premiums  and Bond Default Spreads 
+ERP/Baa Spread Baa - T.Bond Rate ERP
+69
+Equity	  Risk	  Premiums	  and	  Cap	  Rates	  (Real	  
+Estate)	  
+Aswath Damodaran
+69
+-­‐8.00%	  
+-­‐6.00%	  
+-­‐4.00%	  
+-­‐2.00%	  
+0.00%	  
+2.00%	  
+4.00%	  
+6.00%	  
+8.00%	  
+1980	  
+1981	  
+1982	  
+1983	  
+1984	  
+1985	  
+1986	  
+1987	  
+1988	  
+1989	  
+1990	  
+1991	  
+1992	  
+1993	  
+1994	  
+1995	  
+1996	  
+1997	  
+1998	  
+1999	  
+2000	  
+2001	  
+2002	  
+2003	  
+2004	  
+2005	  
+2006	  
+2007	  
+2008	  
+2009	  
+2010	  
+2011	  
+2012	  
+2013	  
+2014	  
+Figure	  17:	  Equity	  Risk	  Premiums,	  Cap	  Rates	  and	  Bond	  Spreads	  	  
+ERP	  
+Baa	  Spread	  
+Cap	  Rate	  premium
+70
+Why	  implied	  premiums	  macer?	  
+¨ In	  many	  investment	  banks,	  it	  is	  common	  prac9ce	  (especially	  
+in	  corporate	  ﬁnance	  departments)	  to	  use	  historical	  risk	  
+premiums	  (and	  arithme9c	  averages	  at	  that)	  as	  risk	  premiums	  
+to	  compute	  cost	  of	  equity.	  If	  all	  analysts	  in	  the	  department	  
+used	  the	  arithme9c	  average	  premium	  (for	  stocks	  over	  T.Bills)	  
+for	  1928-­‐2014	  of	  8%	  to	  value	  stocks	  in	  January	  2014,	  given	  
+the	  implied	  premium	  of	  5.75%,	  what	  are	  they	  likely	  to	  ﬁnd?	  
+a.  The	  values	  they	  obtain	  will	  be	  too	  low	  (most	  stocks	  will	  look	  
+overvalued)	  
+b.  The	  values	  they	  obtain	  will	  be	  too	  high	  (most	  stocks	  will	  
+look	  under	  valued)	  	  
+c.  There	  should	  be	  no	  systema9c	  bias	  as	  long	  as	  they	  use	  the	  
+same	  premium	  to	  value	  all	  stocks.	  
+Aswath Damodaran
+70
+71
+Which	  equity	  risk	  premium	  should	  you	  use?	  
+If	  you	  assume	  this	   Premium	  to	  use	  
+Premiums	  revert	  back	  to	  historical	  norms	  
+and	  your	  9me	  period	  yields	  these	  norms	  
+Historical	  risk	  premium	  
+Market	  is	  correct	  in	  the	  aggregate	  or	  that	  
+your	  valua9on	  should	  be	  market	  neutral	  
+Current	  implied	  equity	  risk	  premium	  
+Marker	  makes	  mistakes	  even	  in	  the	  
+aggregate	  but	  is	  correct	  over	  9me	  
+Average	  implied	  equity	  risk	  premium	  
+over	  9me.	  
+Aswath Damodaran
+71
+72
+And	  the	  approach	  can	  be	  extended	  to	  emerging	  markets	  
+Implied	  premium	  for	  the	  Sensex	  (September	  2007)	  
+¨ Inputs	  for	  the	  computa9on	  
+¤ Sensex	  on	  9/5/07	  =	  15446	  
+¤ Dividend	  yield	  on	  index	  =	  3.05%	  
+¤ Expected	  growth	  rate	  -­‐	  next	  5	  years	  =	  14%	  
+¤ Growth	  rate	  beyond	  year	  5	  =	  6.76%	  (set	  equal	  to	  riskfree	  rate)	  
+¨ Solving	  for	  the	  expected	  return:	  
+¨ Expected	  return	  on	  stocks	  =	  11.18%	  
+¨ Implied	  equity	  risk	  premium	  for	  India	  =	  11.18%	  -­‐	  6.76%	  =	  
+4.42%	  
+€ 
+15446=537.06
+(1+r)+612.25
+(1+r)2+697.86
+(1+r)3+795.67
+(1+r)4+907.07
+(1+r)5+907.07(1.0676)
+(r−.0676)(1+r)5
+Aswath Damodaran
+72
+73
+Can	  country	  risk	  premiums	  change?	  Brazil	  CRP	  
+&	  Total	  ERP	  from	  2000	  to	  2013	  
+Aswath Damodaran
+73
+0.00%
+1.00%
+2.00%
+3.00%
+4.00%
+5.00%
+6.00%
+7.00%
+8.00%
+9.00%
+2.50%
+3.51%4.05%4.12%3.95%3.88%3.95%4.04%4.55%4.86%5.10%
+7.64%
+6.35%
+5.59%5.28%
+4.06%
+3.15%
+3.23%
+4.00%4.31%
+3.70%
+2.28%
+0.82%
+2.43%
+0.86%0.70%
+0.69%
+0.65%
+1.34%1.87%
+Risk Premium
+Figure 15: Implied Equity Risk Premium - Brazil 
+Brazil Country Risk
+US premium
+74
+The	  evolu9on	  of	  Emerging	  Market	  Risk	  
+Aswath Damodaran
+74
+Relative Risk Measure
+How risky is this asset, 
+relative to the average 
+risk investment?
+The CAPM Beta
+Regression beta of 
+stock returns at 
+ﬁrm versus stock 
+returns on market 
+index
+Price Variance Model
+Standard deviation, relative to the 
+average across all stocks
+Accounting Earnings Volatility
+How volatile is your company's 
+earnings, relative to the average 
+company's earnings?
+Accounting Earnings Beta
+Regression beta of changes 
+in earnings at ﬁrm versus 
+changes in earnings for 
+market index
+Sector-average Beta
+Average regression beta 
+across all companies in the 
+business(es) that the ﬁrm 
+operates in.
+Proxy measures
+Use a proxy for risk 
+(market cap, sector).
+Debt cost based
+Estimate cost of equity based 
+upon cost of debt and relative 
+volatility
+Balance Sheet Ratios
+Risk based upon balance 
+sheet ratios (debt ratio, 
+working capital, cash, ﬁxed 
+assets) that measure risk
+Implied Beta/ Cost of equity
+Estimate a cost of equity for 
+ﬁrm or sector based upon 
+price today and expected 
+cash ﬂows in future
+Composite Risk Measures
+Use a mix of quantitative (price, 
+ratios) & qualitative analysis 
+(management quality) to 
+estimate relative risk
+APM/ Multi-factor Models
+Estimate 'betas' against 
+multiple macro risk factors, 
+using past price data
+MPT Quadrant
+Price based, Model 
+Agnostic Quadrant
+Accounting Risk 
+Quadrant
+Intrinsic Risk Quadrant
+Aswath Damodaran75
+Measuring Relative Risk
+76
+The	  CAPM	  Beta	  
+¨ The	  standard	  procedure	  for	  es9ma9ng	  betas	  is	  to	  
+regress	  stock	  returns	  (Rj)	  against	  market	  returns	  (Rm)	  -­‐	  
+Rj	  =	  a	  +	  b	  Rm	  
+where	  	  a	  is	  the	  intercept	  and	  b	  is	  the	  slope	  of	  the	  regression.	  	  
+¨ The	  slope	  of	  the	  regression	  corresponds	  to	  the	  beta	  of	  
+the	  stock,	  and	  measures	  the	  riskiness	  of	  the	  stock.	  	  
+¨ This	  beta	  has	  three	  problems:	  
+¤ It	  has	  high	  standard	  error	  
+¤ It	  reﬂects	  the	  ﬁrm’s	  business	  mix	  over	  the	  period	  of	  the	  
+regression,	  not	  the	  current	  mix	  
+¤ It	  reﬂects	  the	  ﬁrm’s	  average	  ﬁnancial	  leverage	  over	  the	  period	  
+rather	  than	  the	  current	  leverage.	  
+Aswath Damodaran
+76
+77
+Beta	  Es9ma9on:	  The	  Noise	  Problem	  
+Aswath Damodaran
+77
+78
+Beta	  Es9ma9on:	  The	  Index	  Eﬀect	  
+Aswath Damodaran
+78
+79
+Stock-­‐priced	  based	  solu9ons	  to	  the	  Regression	  
+Beta	  Problem	  
+¨ Modify	  the	  regression	  beta	  by	  
+¤ changing	  the	  index	  used	  to	  es9mate	  the	  beta	  	  
+¤ adjus9ng	  the	  regression	  beta	  es9mate,	  by	  bringing	  in	  informa9on	  
+about	  the	  fundamentals	  of	  the	  company	  
+¨ Es9mate	  the	  beta	  for	  the	  ﬁrm	  using	  	  
+¤ the	  standard	  devia9on	  in	  stock	  prices	  instead	  of	  a	  regression	  against	  
+an	  index	  
+¤ Rela9ve	  risk	  =	  Standard	  devia9on	  in	  stock	  prices	  for	  investment/	  
+Average	  standard	  devia9on	  across	  all	  stocks	  
+¨ Es9mate	  the	  beta	  for	  the	  ﬁrm	  from	  the	  bocom	  up	  without	  
+employing	  the	  regression	  technique.	  This	  will	  require	  
+¤ understanding	  the	  business	  mix	  of	  the	  ﬁrm	  
+¤ es9ma9ng	  the	  ﬁnancial	  leverage	  of	  the	  ﬁrm	  
+¨ Imputed	  or	  implied	  beta	  (cost	  of	  equity)	  for	  the	  sector.	  	  
+Aswath Damodaran
+79
+80
+Alterna9ve	  measures	  of	  rela9ve	  risk	  for	  equity	  
+¨ Accoun9ng	  risk	  measures:	  To	  the	  extent	  that	  you	  don’t	  trust	  market-­‐
+priced	  based	  measures	  of	  risk,	  you	  could	  compute	  rela9ve	  risk	  measures	  
+based	  on	  
+¤ Accoun9ng	  earnings	  vola9lity:	  Compute	  an	  accoun9ng	  beta	  or	  rela9ve	  vola9lity	  
+¤ Balance	  sheet	  ra9os:	  You	  could	  compute	  a	  risk	  score	  based	  upon	  accoun9ng	  ra9os	  
+like	  debt	  ra9os	  or	  cash	  holdings	  (akin	  to	  default	  risk	  scores	  like	  the	  Z	  score)	  
+¨ Proxies:	  In	  a	  simpler	  version	  of	  proxy	  models,	  you	  can	  categorize	  ﬁrms	  
+into	  risk	  classes	  based	  upon	  size,	  sectors	  or	  other	  characteris9cs.	  
+¨ Qualita9ve	  Risk	  Models:	  In	  these	  models,	  risk	  assessments	  are	  based	  at	  
+least	  par9ally	  on	  qualita9ve	  factors	  (quality	  of	  management).	  
+¨ Debt	  based	  measures:	  You	  can	  es9mate	  a	  cost	  of	  equity,	  based	  upon	  an	  
+observable	  costs	  of	  debt	  for	  the	  company.	  
+¤ Cost	  of	  equity	  =	  Cost	  of	  debt	  *	  Scaling	  factor	  
+Aswath Damodaran
+80
+81
+Determinants	  of	  Betas	  &	  Rela9ve	  Risk	  
+Beta of Firm (Unlevered Beta)
+Beta of Equity (Levered Beta)
+Nature of product or 
+service offered by 
+company:
+Other things remaining equal, 
+the more discretionary the 
+product or service, the higher 
+the beta.
+Operating Leverage (Fixed 
+Costs as percent of total 
+costs):
+Other things remaining equal 
+the greater the proportion of 
+the costs that are fixed, the 
+higher the beta of the 
+company.
+Financial Leverage:
+Other things remaining equal, the 
+greater the proportion of capital that 
+a firm raises from debt,the higher its 
+equity beta will be
+Implications
+1. Cyclical companies should 
+have higher betas than non-
+cyclical companies.
+2. Luxury goods firms should 
+have higher betas than basic 
+goods.
+3. High priced goods/service 
+firms should have higher betas 
+than low prices goods/services 
+firms.
+4. Growth firms should have 
+higher betas.
+Implications
+1. Firms with high infrastructure 
+needs and rigid cost structures 
+should have higher betas than 
+firms with flexible cost structures.
+2. Smaller firms should have higher 
+betas than larger firms.
+3. Young firms should have higher 
+betas than more mature firms.
+Implciations
+Highly levered firms should have highe betas 
+than firms with less debt.
+Equity Beta  (Levered beta) = 
+Unlev Beta (1 + (1- t) (Debt/Equity Ratio))
+Aswath Damodaran
+81
