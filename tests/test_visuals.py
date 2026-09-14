@@ -111,3 +111,14 @@ def test_render_index_detects_visuals_on_disk(tmp_path: Path):
     assert "[visuals](v/visuals.md)" in md
     # and no link when nothing on disk / no flag
     assert "[visuals]" not in render_index(lib)
+
+
+def test_render_index_detects_materials_on_disk(tmp_path: Path):
+    (tmp_path / "v" / "materials").mkdir(parents=True)
+    (tmp_path / "v" / "materials" / "01_pdf.txt").write_text("Source: u\n\nslide text", encoding="utf-8")
+    lib = {"videos": {"v": {"channel": "On", "title": "T", "url": "u", "published": "2026-09-05"}}}
+    md = render_index(lib, archive_dir=tmp_path)
+    assert "[materials](v/materials/)" in md
+    # flag alone also works, and nothing shows without disk or flag
+    assert "[materials]" in render_index({"videos": {"v": {"had_materials": True}}})
+    assert "[materials]" not in render_index(lib)
