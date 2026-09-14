@@ -329,13 +329,22 @@ def process_video_visuals(
 
 def select_pending(
     channels: list[Channel], state: dict, library: dict, budget: int,
+    channel_filter: Optional[str] = None,
 ) -> list[Video]:
     """Videos on opt-in channels that are archived but not yet visually captured.
 
     Ordered newest-first (most recent uploads get visuals first), capped to `budget`.
+    `channel_filter` (a watchlist channel name, case-insensitive) narrows the pool to a
+    single channel — used to focus a backlog, e.g. Ticker Symbol: YOU.
     """
-    visual_ids = {c.channel_id for c in channels if c.wants_visuals}
-    names = {c.channel_id: c.name for c in channels}
+    opted = [c for c in channels if c.wants_visuals]
+    if channel_filter:
+        cf = channel_filter.strip().lower()
+        opted = [c for c in opted if c.name.strip().lower() == cf]
+        if not opted:
+            log.warning("No opted-in channel matches --channel %r", channel_filter)
+    visual_ids = {c.channel_id for c in opted}
+    names = {c.channel_id: c.name for c in opted}
     if not visual_ids:
         return []
 
@@ -375,14 +384,15 @@ def run_visuals(
     library: dict,
     client: Optional[Anthropic] = None,
     budget: Optional[int] = None,
+    channel_filter: Optional[str] = None,
 ) -> int:
     """Enrich up to `budget` pending videos with on-screen visuals. Returns #processed.
 
     Marks every attempt in state (success or hard failure) so expensive downloads are
-    not repeated. Records visuals_path on the library entry so the index can link it.
+    not repeated. `channel_filter` focuses one channel's backlog (see select_pending).
     """
     budget = settings.visual_budget_per_run if budget is None else budget
-    pending = select_pending(channels, state, library, budget)
+    pending = select_pending(channels, state, library, budget, channel_filter=channel_filter)
     if not pending:
         log.info("No pending videos for visual capture.")
         return 0
