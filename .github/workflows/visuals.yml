@@ -17,6 +17,10 @@ on:
         description: "Max videos to process this run (blank = config default)"
         required: false
         default: ""
+      channel:
+        description: "Focus one opted-in channel (watchlist name; blank = all opted-in)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -45,8 +49,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           $b = "${{ github.event.inputs.budget }}"
-          if ($b) { .\.venv\Scripts\python scripts/run_visuals.py --budget $b }
-          else    { .\.venv\Scripts\python scripts/run_visuals.py }
+          $c = "${{ github.event.inputs.channel }}"
+          $cliArgs = @()
+          if ($b) { $cliArgs += @("--budget", $b) }
+          if ($c) { $cliArgs += @("--channel", $c) }
+          .\.venv\Scripts\python scripts/run_visuals.py @cliArgs
 
       - name: Commit visuals
         shell: powershell

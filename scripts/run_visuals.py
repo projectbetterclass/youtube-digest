@@ -38,6 +38,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Capture on-screen visuals for opted-in channels.")
     parser.add_argument("--config", default=None, help="Path to watchlist.yml")
     parser.add_argument("--budget", type=int, default=None, help="Max videos to process this run")
+    parser.add_argument("--channel", default=None, help="Focus one opted-in channel's backlog (by watchlist name)")
     parser.add_argument("--video", default=None, help="Force one archived video id (ignores opt-in/dedup)")
     parser.add_argument("--dry-run", action="store_true", help="Write visuals.md but don't save state/library")
     parser.add_argument("-v", "--verbose", action="store_true", help="Debug logging")
@@ -76,7 +77,7 @@ def main() -> int:
         print(f"{args.video}: {n} slide(s) → data/archive/{args.video}/visuals.md")
         return 0
 
-    processed = run_visuals(settings, channels, state, library, budget=args.budget)
+    processed = run_visuals(settings, channels, state, library, budget=args.budget, channel_filter=args.channel)
     print(f"\n{'=' * 60}\nVisual capture: {processed} video(s) processed\n{'=' * 60}")
 
     # Only the ledger is saved. library.json / INDEX.md stay owned by the cloud digest,
