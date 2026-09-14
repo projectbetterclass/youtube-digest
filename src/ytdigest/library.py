@@ -83,6 +83,21 @@ def _has_visuals(vid: str, rec: dict, archive_dir: Path | None) -> bool:
     return False
 
 
+def _has_materials(vid: str, rec: dict, archive_dir: Path | None) -> bool:
+    """Whether to show a materials link: recorded flag, or extracted material text on disk.
+
+    Disk detection (like _has_visuals) lets the index surface documents added out-of-band
+    — e.g. the re-fetch that recovered Aswath's slide PDFs and valuation spreadsheets —
+    without needing every record's had_materials flag to be back-filled.
+    """
+    if rec.get("had_materials"):
+        return True
+    if archive_dir is not None:
+        d = archive_dir / vid / "materials"
+        return d.is_dir() and any(d.glob("*.txt"))
+    return False
+
+
 def render_index(library: dict, archive_dir: Path | None = None) -> str:
     videos = library.get("videos", {})
     epoch = ""  # unknown dates sort last
@@ -111,6 +126,8 @@ def render_index(library: dict, archive_dir: Path | None = None) -> str:
         takeaway = _cell(r.get("takeaway", "") or "—")
         video_cell = f"[{title}]({url})" if url else title
         sources = f"[transcript]({vid}/transcript.md)"
+        if _has_materials(vid, r, archive_dir):
+            sources += f" · [materials]({vid}/materials/)"
         if _has_visuals(vid, r, archive_dir):
             sources += f" · [visuals]({vid}/visuals.md)"
         out.append(
