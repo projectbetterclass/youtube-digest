@@ -59,6 +59,7 @@ channels:
   - name: "BWB - Business With Brian"
     channel_id: UCyqlbzLoYtpqDXwRI9Yh5LA
     backfill: 100
+    visual: true             # chart-heavy — slide-driven finance content (22/24 frames chart-dense)
   - name: "Chris Raroque"
     channel_id: UC4x3CR25WSlvMJUtSPPzwwg
     backfill: 100
@@ -72,6 +73,7 @@ channels:
   - name: "New Money"
     channel_id: UCvSXMi2LebwJEM1s4bz5IBA
     backfill: 30
+    visual: true             # chart-heavy — screen-shares market news/data (12–16/24 chart-dense)
   - name: "Starter Story"
     channel_id: UChhw6DlKKTQ9mYSpTfXUYqA
     backfill: 100
