@@ -1,0 +1,5 @@
+# How I build and test iOS apps with Claude Code #ad
+
+<https://www.youtube.com/shorts/3V2NmlyX5s4>
+
+Here's the workflow I used to get Claude to build and test iPhone apps for hours at a time. First, you need to give it the right tools. For iOS apps, I always give it a simulator. You can use the new built-in simulator integration in Claude Code Desktop or an MCP server like Xcode Build MCP, so Claude can run the app, tap through it in the iPhone simulator, and read the logs. Second, you have to give it really clear completion criteria. Instead of just saying build a Pomodoro timer, you define exactly what needs to work and how Claude should verify it. Third, I turn on auto mode and use {slash} goal. Auto mode lets Claude Code handle safe actions without stopping to ask me for permission, and {slash} goal keeps it working until those criteria are met. And with all three of these things together, it can keep building, testing, and fixing things for hours without me having to intervene. And when it's done, I mostly just do a quick final review. If you want to try this yourself, you can get started with Claude Code on the Max plan through the link in my bio.
