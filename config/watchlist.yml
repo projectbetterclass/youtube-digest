@@ -99,3 +99,6 @@ channels:
     channel_id: UC__d7jgOunIVFz6TU_t1QOQ
     backfill: 100
     visual: true             # chart-heavy — capture on-screen slides (self-hosted visuals job)
+  - name: "JulienHimself"
+    channel_id: UCaN4Pe5JEsWzAByY2WfxxjQ
+    backfill: 100            # talking-head — audio only, no visual capture
