@@ -10,38 +10,55 @@ This repo is two things:
 
 ## Project state (keep this section current)
 
+### Snapshot (2026-09-25)
+Library: **1,943 videos, 1,839 with transcripts**, 699 with linked documents, 73 with
+on-screen visuals (574 slides). 20 channels in `config/watchlist.yml`.
+
+**GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
+disabled for this user"), so neither the cloud digest nor the visuals job is running;
+last cloud digest was 2026-09-22. Waiting on GitHub Support. Until then, backfill can be
+run locally from the PC: `.env` holds the Webshare credentials, and the local run commits
+`data/` to `main` the same way the job does (e.g. JulienHimself, 2026-09-25).
+
 ### How the daily job runs
 Runs on **GitHub-hosted cloud runners** (`ubuntu-latest`) 3×/day (06:00 / 14:00 / 22:00 UTC).
 All YouTube traffic (RSS, transcripts, yt-dlp) goes through a **Webshare residential proxy**
 so cloud IPs aren't blocked. Secrets needed: `ANTHROPIC_API_KEY`, `WEBSHARE_PROXY_USERNAME`,
-`WEBSHARE_PROXY_PASSWORD`.
+`WEBSHARE_PROXY_PASSWORD`. Webshare plan: 3 GB/month (cycle resets on the 24th); a
+transcript fetch costs ~0.5 MB because it downloads the whole watch page.
 
-### Back-catalog backfill (Aswath Damodaran)
-- **Target:** 1000 videos (`backfill: 1000` in `config/watchlist.yml`)
-- **Budget:** 100 videos per run (`backfill_budget_per_run: 100`)
-- **Progress as of 2026-09-11:** ~302 done, ~698 remaining, ~817 in queue
-- **Materials:** `materials: true` — slide PDFs also downloaded and extracted for each video
-- **ETA:** ~3 days at current pace (100/run × 3 runs/day)
-- Queue file: `data/backfill_queue/UCLvnJL8htRR1T9cbSccaoVw.json`
+### Back-catalog backfill
+- **Aswath Damodaran:** effectively done. 819 of his 1,413 videos collected (771 with
+  transcripts); the rest are the valuation courses, excluded on purpose via
+  `skip_playlist_titles`. `materials: true` means his slide PDFs and spreadsheets are
+  extracted too (822 PDFs + 394 Excel files). Queue file: `data/backfill_queue/UCLvnJL8htRR1T9cbSccaoVw.json`.
+- **Other channels:** most deep-backfill channels (`backfill: 100`) are at target; still
+  behind: Ben Yanes, Starter Story, David Carbutt, Tom Nash, Justin Sung (not started).
+- **Aswath's interviews on other channels** (173 transcripts + a CSV of 302 appearances)
+  live in the separate Valuation Agent repo, not here.
 
-### Phase 2 — on-screen visual capture (merged; runs on the self-hosted runner)
-Merged to `main` (was branch `phase2-visuals`, PR #18).
-
+### Phase 2 — on-screen visual capture (runs on the self-hosted runner)
 What it does:
 - `src/ytdigest/visuals.py` — downloads video (480p, no proxy), samples frames at ~1fps,
   deduplicates with perceptual hash, scores by "slide prior" (flat fill + straight lines),
   sends top candidates to Claude vision to classify and transcribe on-screen text
-- `scripts/run_visuals.py` — entry point
+- `scripts/run_visuals.py` — entry point (`--budget`, `--channel` to target one channel)
 - `.github/workflows/visuals.yml` — separate **self-hosted** workflow (video downloads
-  stay off the metered proxy; cloud digest is unaffected)
-- `tests/test_visuals.py` — 9 tests (no cv2/network needed)
-- Opted-in channels: Ticker Symbol: YOU, David Carbutt (Aswath excluded — his slides are PDFs)
+  stay off the metered proxy; cloud digest is unaffected); manual dispatch takes the
+  same `budget` / `channel` inputs
+- `tests/test_visuals.py` — no cv2/network needed
 - Output: `data/archive/<video_id>/visuals.md` alongside the transcript
 
-Status: merged and deployed. The `visuals.yml` workflow runs on the self-hosted runner
-(schedule + manual dispatch), so visuals only advance while the PC's runner is online;
-the cloud digest is independent. It keeps its own ledger `data/visuals_state.json` and
-writes only `visuals.md`, so it never conflicts with the digest's commits.
+Opted in (`visual: true`), with progress (videos done / in library):
+Ticker Symbol: YOU 63/102 · David Carbutt 10/13 · BWB 0/102 · New Money 0/22.
+Checked and kept **audio-only**: Felix & Friends, HealthyGamerGG, JulienHimself; Aswath is
+excluded (his slides are PDFs). Other channels haven't been checked yet. Visuals can be
+switched on for a channel later without re-fetching transcripts — the job enriches videos
+already in the library.
+
+The visuals job only advances while the PC's runner is online; the cloud digest is
+independent. It keeps its own ledger `data/visuals_state.json` and writes only
+`visuals.md`, so it never conflicts with the digest's commits.
 
 ---
 
