@@ -20,6 +20,17 @@ last cloud digest was 2026-09-22. Waiting on GitHub Support. Until then, backfil
 run locally from the PC: `.env` holds the Webshare credentials, and the local run commits
 `data/` to `main` the same way the job does (e.g. JulienHimself, 2026-09-25).
 
+### Where the copies live
+- **User's PC (Windows):** working copy at `C:\Users\Gebruiker\Downloads\Youtube Scraper`
+  (the folder name differs from the repo name). Local Claude Code sessions run here. To
+  update it in PowerShell: `cd "C:\Users\Gebruiker\Downloads\Youtube Scraper"` then `git pull`.
+- `C:\actions-runner\_work\youtube-digest\...` is the self-hosted runner's own checkout —
+  don't work in it.
+- Cloud Claude Code sessions clone the repo fresh; they can't reach the PC, so give the
+  user the commands above when the PC copy needs updating.
+- Chat history is **not** shared between sessions — anything every session should know
+  goes in this file.
+
 ### How the daily job runs
 Runs on **GitHub-hosted cloud runners** (`ubuntu-latest`) 3×/day (06:00 / 14:00 / 22:00 UTC).
 All YouTube traffic (RSS, transcripts, yt-dlp) goes through a **Webshare residential proxy**
