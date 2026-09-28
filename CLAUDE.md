@@ -10,15 +10,22 @@ This repo is two things:
 
 ## Project state (keep this section current)
 
-### Snapshot (2026-09-25)
-Library: **1,943 videos, 1,839 with transcripts**, 699 with linked documents, 73 with
+### Snapshot (2026-09-28)
+Library: **2,031 videos, 1,928 with transcripts**, 699 with linked documents, 73 with
 on-screen visuals (574 slides). 20 channels in `config/watchlist.yml`.
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
 disabled for this user"), so neither the cloud digest nor the visuals job is running;
-last cloud digest was 2026-09-22. Waiting on GitHub Support. Until then, backfill can be
-run locally from the PC: `.env` holds the Webshare credentials, and the local run commits
-`data/` to `main` the same way the job does (e.g. JulienHimself, 2026-09-25).
+last cloud digest was 2026-09-22. Waiting on GitHub Support.
+
+**"Collect my priority channels"** — until Actions is back, when the user says this, run on
+the PC (not possible from a cloud session):
+`.venv\Scripts\python.exe scripts\local_collect.py`. It pulls transcripts (no briefs — the
+PC has no Anthropic key) for the user's **priority channels: JulienHimself, HealthyGamerGG,
+Ben Yanes** (`PRIORITY` in the script), through the Webshare proxy (`.env`), then commits
+and pushes `data/`. It stands down by itself once the cloud digest commits again. Nothing
+schedules it — the user chose to trigger it by hand. Only collect the channels the user
+names; they haven't decided on the others.
 
 ### Where the copies live
 - **User's PC (Windows):** working copy at `C:\Users\Gebruiker\Downloads\Youtube Scraper`
