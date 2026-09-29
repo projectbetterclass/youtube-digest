@@ -127,8 +127,16 @@ def import_video(video: Video, settings: Settings, session=None, fetch_materials
     )
 
 
-def run_backfill(settings: Settings, channels: list[Channel], state: dict, library: dict) -> int:
-    """Drip up to backfill_budget_per_run past videos into the library. Returns the count."""
+def run_backfill(
+    settings: Settings, channels: list[Channel], state: dict, library: dict,
+    cache: dict | None = None,
+) -> int:
+    """Drip up to backfill_budget_per_run past videos into the library. Returns the count.
+
+    `cache` (channel_id -> candidates) lets a caller that runs several batches in a row
+    enumerate each channel once instead of once per batch — enumeration goes through the
+    metered proxy, and a whole-channel listing is many pages.
+    """
     budget = settings.backfill_budget_per_run
     if budget <= 0:
         return 0
@@ -141,7 +149,12 @@ def run_backfill(settings: Settings, channels: list[Channel], state: dict, libra
         if channel.backfill <= 0:
             continue
         try:
-            candidates = _candidates_for(channel)
+            if cache is not None and channel.channel_id in cache:
+                candidates = cache[channel.channel_id]
+            else:
+                candidates = _candidates_for(channel)
+                if cache is not None:
+                    cache[channel.channel_id] = candidates
         except Exception as exc:  # noqa: BLE001 — one bad channel shouldn't stop the drip
             log.warning("Backfill enumerate failed for %s: %s", channel.name, exc)
             continue

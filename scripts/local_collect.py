@@ -21,6 +21,7 @@ import shutil
 import subprocess
 import sys
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -35,6 +36,7 @@ log = logging.getLogger("local_collect")
 LOG_DIR = Path(os.environ.get("LOCALAPPDATA", ROOT)) / "ytdigest"
 LOCK = ROOT / "tmp_downloads" / "local_collect.lock"
 BATCH = 10  # save after every batch so an interrupted run keeps its progress
+PUSH_EVERY = 100  # commit + push this often during a long run
 # The user's priority channels (their choice; only these unless they name others).
 PRIORITY = ["JulienHimself", "HealthyGamerGG", "Ben Yanes"]
 
@@ -62,29 +64,71 @@ def cloud_is_back() -> bool:
     return bool(git("log", "origin/main", "--since=24.hours", "--grep=^digest: update", "--format=%h"))
 
 
+def _save(state, library) -> None:
+    save_state(C.STATE_PATH, state)
+    save_library(C.LIBRARY_PATH, library)
+    write_index(C.INDEX_PATH, library)
+
+
+def push(names: list[str], n: int) -> None:
+    """Commit data/ and push, the way the cloud job does."""
+    git("add", "data/")
+    git("commit", "-q", "-m", f"local: +{n} transcripts ({', '.join(names)})")
+    git("pull", "-q", "--rebase", "--autostash", "origin", "main")
+    git("push", "-q", "origin", "main")
+
+
+def failed_this_run(state: dict, names: set[str], since: str) -> list[str]:
+    """Videos from these channels recorded without a transcript during this run.
+
+    Through the rotating proxy these are mostly a 429 on one exit IP (YouTube's "sorry"
+    page) rather than a video with no captions, so they are worth one retry.
+    """
+    return [vid for vid, r in state.get("processed", {}).items()
+            if r.get("channel") in names and not r.get("transcript_available")
+            and (r.get("processed_at") or "") >= since]
+
+
 def collect(names: list[str], max_total: int) -> int:
     settings, channels = C.load_config()
     chans = select_channels(channels, names)
     batch = dataclasses.replace(settings, backfill_budget_per_run=BATCH)
-    total = 0
+    cache: dict = {}  # enumerate each channel once per run, not once per batch
+    since = datetime.now(timezone.utc).isoformat()
+    total = pushed = 0
     while total < max_total:
+        LOCK.touch()  # keep the lock fresh through a long run
         state, library = load_state(C.STATE_PATH), load_library(C.LIBRARY_PATH)
-        n = run_backfill(batch, chans, state, library)
+        n = run_backfill(batch, chans, state, library, cache=cache)
         if n:
-            save_state(C.STATE_PATH, state)
-            save_library(C.LIBRARY_PATH, library)
-            write_index(C.INDEX_PATH, library)
+            _save(state, library)
         total += n
         log.info("batch +%d (total %d)", n, total)
+        if total - pushed >= PUSH_EVERY:  # get progress off the PC during a long run
+            push(names, total - pushed)
+            pushed = total
         if n < BATCH:
             break
+
+    state, library = load_state(C.STATE_PATH), load_library(C.LIBRARY_PATH)
+    retry = failed_this_run(state, {c.name for c in chans}, since)
+    if retry:
+        for vid in retry:
+            del state["processed"][vid]
+        n = run_backfill(dataclasses.replace(settings, backfill_budget_per_run=len(retry)),
+                         chans, state, library, cache=cache)
+        _save(state, library)
+        still = len(failed_this_run(state, {c.name for c in chans}, since))
+        log.info("retried %d without a transcript: %d re-imported, %d still without", len(retry), n, still)
+    if total > pushed:
+        push(names, total - pushed)
     return total
 
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--channel", action="append", help="watchlist channel name (repeatable; default: PRIORITY)")
-    ap.add_argument("--max", type=int, default=60, help="most transcripts to pull in one run")
+    ap.add_argument("--max", type=int, default=2000, help="safety cap on transcripts pulled in one run")
     args = ap.parse_args()
     args.channel = args.channel or PRIORITY
 
@@ -105,11 +149,6 @@ def main() -> int:
             return 0
         git("pull", "-q", "--rebase", "--autostash", "origin", "main")
         n = collect(args.channel, args.max)
-        if n:
-            git("add", "data/")
-            git("commit", "-q", "-m", f"local: +{n} transcripts ({', '.join(args.channel)})")
-            git("pull", "-q", "--rebase", "--autostash", "origin", "main")
-            git("push", "-q", "origin", "main")
         log.info("done: %d new transcript(s)%s", n, ", pushed" if n else "")
         return 0
     except Exception:  # noqa: BLE001 — log it; the next scheduled run retries
