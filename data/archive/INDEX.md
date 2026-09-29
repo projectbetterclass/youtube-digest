@@ -1,6 +1,6 @@
 # 📚 Library index
 
-2231 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+2331 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
@@ -323,6 +323,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Divergence: The Changing Drug Business](https://www.youtube.com/watch?v=-THL-U7ACBQ) | — | — | [transcript](-THL-U7ACBQ/transcript.md) · [materials](-THL-U7ACBQ/materials/) |
 | — | Ben Yanes | [If You Can't Feel Your Middle Delts, Do This](https://www.youtube.com/watch?v=-TghI8yYoFg) | — | — | [transcript](-TghI8yYoFg/transcript.md) |
 | — | Aswath Damodaran | [An October Surprise: Making Sense of Market Mayhem!](https://www.youtube.com/watch?v=-TtZj9pE9nI) | — | — | [transcript](-TtZj9pE9nI/transcript.md) · [materials](-TtZj9pE9nI/materials/) |
+| — | HealthyGamerGG | [How to Gain Control in Today's Chaotic World](https://www.youtube.com/watch?v=-UAeSxgGmL0) | — | — | [transcript](-UAeSxgGmL0/transcript.md) |
 | — | JulienHimself | [This Stops 90% Of LOGICAL PEOPLE From Improving](https://www.youtube.com/watch?v=-Uxcsk8xxoY) | — | — | [transcript](-Uxcsk8xxoY/transcript.md) |
 | — | Ben Yanes | [What Nobody Knows About Close Grip Bench](https://www.youtube.com/watch?v=-Y5HXoPwzkc) | — | — | [transcript](-Y5HXoPwzkc/transcript.md) |
 | — | JulienHimself | [How Joking Too Much Lowers Your Confidence](https://www.youtube.com/watch?v=-ZAaK5ngMio) | — | — | [transcript](-ZAaK5ngMio/transcript.md) |
@@ -362,6 +363,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [The most profitable lie in fitness](https://www.youtube.com/watch?v=0REN79vmJgA) | — | — | [transcript](0REN79vmJgA/transcript.md) |
 | — | JulienHimself | [You Made SELF LOVE Impossible (On Purpose)](https://www.youtube.com/watch?v=0RJ7K8j4Lgk) | — | — | [transcript](0RJ7K8j4Lgk/transcript.md) |
 | — | JulienHimself | [How To Be CONFIDENT (Without Fixing Your Anxiety)](https://www.youtube.com/watch?v=0RaypJPlVKU) | — | — | [transcript](0RaypJPlVKU/transcript.md) |
+| — | HealthyGamerGG | [How To Actually Be Good At Texting (With Anyone)](https://www.youtube.com/watch?v=0RqbsHlqrUg) | — | — | [transcript](0RqbsHlqrUg/transcript.md) |
 | — | Aswath Damodaran | [Debt Ratios: Dataset support](https://www.youtube.com/watch?v=0TrtK_qBtrM) | — | — | [transcript](0TrtK_qBtrM/transcript.md) · [materials](0TrtK_qBtrM/materials/) |
 | — | Aswath Damodaran | [Session 10: Private Company Costs of Equity, Debt & its Cost (SKIP FIRST 40 MINUTES. QUIZ TIME)](https://www.youtube.com/watch?v=0UY3mHALsnY) | — | — | [transcript](0UY3mHALsnY/transcript.md) · [materials](0UY3mHALsnY/materials/) |
 | — | Aswath Damodaran | [Session 3: Managers, Markets and Morality](https://www.youtube.com/watch?v=0VW2o4qAL4c) | — | — | [transcript](0VW2o4qAL4c/transcript.md) · [materials](0VW2o4qAL4c/materials/) |
@@ -374,7 +376,9 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [A "Fairly Highly Valued" (Stock) Market: The Fed Chair Opines but should anyone listen?](https://www.youtube.com/watch?v=0faNl-maR5o) | — | — | [transcript](0faNl-maR5o/transcript.md) · [materials](0faNl-maR5o/materials/) |
 | — | Aswath Damodaran | [A Coming-out party for an Oil Colossus: Pricing and Valuing Aramco's IPO!](https://www.youtube.com/watch?v=0gWnC0Bvp4c) | — | — | [transcript](0gWnC0Bvp4c/transcript.md) · [materials](0gWnC0Bvp4c/materials/) |
 | — | BWB - Business With Brian | [Urgent Update!  Investing With Tariffs Enforced - What to Expect](https://www.youtube.com/watch?v=0hUuPF3uTUQ) | — | — | [transcript](0hUuPF3uTUQ/transcript.md) |
+| — | HealthyGamerGG | [The Real Reason You Never Follow Through (And How to Fix It)](https://www.youtube.com/watch?v=0hePvDEOZYs) | — | — | [transcript](0hePvDEOZYs/transcript.md) |
 | — | Ticker Symbol: YOU | [If I Could Only Buy 1 Stock in 2026, THIS Would Be It (Here's Why)](https://www.youtube.com/watch?v=0i2qkboRQRQ) | — | — | [transcript](0i2qkboRQRQ/transcript.md) · [visuals](0i2qkboRQRQ/visuals.md) |
+| — | HealthyGamerGG | [Therapist Reacts to ADHD Tiktoks \| Pt 3](https://www.youtube.com/watch?v=0iO2ztxGVOI) | — | — | [transcript](0iO2ztxGVOI/transcript.md) |
 | — | Riley Brown | [Go from a Cursor, Replit, or Bolt Site to the App Store (in One Prompt)](https://www.youtube.com/watch?v=0iWAugxM2ok) | — | — | [transcript](0iWAugxM2ok/transcript.md) |
 | — | HealthyGamerGG | [How Your Negativity Becomes Contagious (And How To Fix It)](https://www.youtube.com/watch?v=0j_z0xHF8DM) | — | — | [transcript](0j_z0xHF8DM/transcript.md) |
 | — | Chris Raroque | [Am I still using Claude Code (2 month update)?](https://www.youtube.com/watch?v=0jpcFxY_38k) | — | — | [transcript](0jpcFxY_38k/transcript.md) |
@@ -382,6 +386,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Information Timing and Release: The Debate over Quarterly Reporting and Fed Guidance!](https://www.youtube.com/watch?v=0pTXwulvxzA) | — | — | [transcript](0pTXwulvxzA/transcript.md) |
 | — | Aswath Damodaran | [Data Update 3 for 2020: The Price of Risk](https://www.youtube.com/watch?v=0qoheA3R8x4) | — | — | [transcript](0qoheA3R8x4/transcript.md) · [materials](0qoheA3R8x4/materials/) |
 | — | Ben Yanes | [Exercise Scientist Teaches Me REAL Science (ft. Dr. Eric Helms)](https://www.youtube.com/watch?v=0s1CYjJAWhY) | — | — | [transcript](0s1CYjJAWhY/transcript.md) |
+| — | HealthyGamerGG | [Psychiatrist Explains Why You Feel Tired All The Time](https://www.youtube.com/watch?v=0sppw7Zq35w) | — | — | [transcript](0sppw7Zq35w/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! My Top 4 AI Stocks to Get Rich in 2025 (Without Getting Lucky)](https://www.youtube.com/watch?v=0y23kpnRW6k) | — | — | [transcript](0y23kpnRW6k/transcript.md) · [visuals](0y23kpnRW6k/visuals.md) |
 | — | Aswath Damodaran | [Alphabet Soup: All Alpha (Google), No Bets?](https://www.youtube.com/watch?v=17UjaSk0x7c) | — | — | [transcript](17UjaSk0x7c/transcript.md) · [materials](17UjaSk0x7c/materials/) |
 | — | Chris Raroque | [How I Get AI To Follow My Designs (In-Depth Walkthrough)](https://www.youtube.com/watch?v=18V3lFePdWU) | — | — | [transcript](18V3lFePdWU/transcript.md) |
@@ -432,6 +437,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [You're Stuck Because You Refuse to Grow Up](https://www.youtube.com/watch?v=2Z3RcXlNaMw) | — | — | [transcript](2Z3RcXlNaMw/transcript.md) |
 | — | Riley Brown | [Cursor 2.0 Tutorial for Beginners (Full Course)](https://www.youtube.com/watch?v=2aldTxnbNt0) | — | — | [transcript](2aldTxnbNt0/transcript.md) |
 | — | HealthyGamerGG | [How To Learn While Sleeping (Using Science)](https://www.youtube.com/watch?v=2hIhFlNMFxY) | — | — | [transcript](2hIhFlNMFxY/transcript.md) |
+| — | HealthyGamerGG | [Talking with Ludwig - @ludwig](https://www.youtube.com/watch?v=2nJDlm2Uz_Y) | — | — | [transcript](2nJDlm2Uz_Y/transcript.md) |
 | — | Aswath Damodaran | [Session 10 (Quiz-shortened): Private Company Betas and Costs of Debt](https://www.youtube.com/watch?v=2q5xyhi-MSA) | — | — | [transcript](2q5xyhi-MSA/transcript.md) · [materials](2q5xyhi-MSA/materials/) |
 | — | HealthyGamerGG | [Are You A Socially Anxious Extrovert? ft @drali](https://www.youtube.com/watch?v=2qGe9ctFP1o) | — | — | [transcript](2qGe9ctFP1o/transcript.md) |
 | — | Aswath Damodaran | [Session 22: The Dividend Principle - First Steps](https://www.youtube.com/watch?v=2riFF4O1-bM) | — | — | [transcript](2riFF4O1-bM/transcript.md) · [materials](2riFF4O1-bM/materials/) |
@@ -440,6 +446,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Can You 'Change' Your Personality?](https://www.youtube.com/watch?v=2zOe9Kd2n-w) | — | — | [transcript](2zOe9Kd2n-w/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [I Analyzed The Entire Stock Market. It's Broken.](https://www.youtube.com/watch?v=30lkcnyuHZU) | — | — | [transcript](30lkcnyuHZU/transcript.md) |
 | — | HealthyGamerGG | [2024 Was Not What We Expected (Yearly Recap)](https://www.youtube.com/watch?v=31lsU24vhE8) | — | — | [transcript](31lsU24vhE8/transcript.md) |
+| — | HealthyGamerGG | [Can AI Replace Therapists? \| Psychiatrist Explains](https://www.youtube.com/watch?v=3BgdhHXJ-CU) | — | — | [transcript](3BgdhHXJ-CU/transcript.md) |
 | — | Aswath Damodaran | [Session 3A: Descriptive Statistics - Applications in Finance & Investing](https://www.youtube.com/watch?v=3ECw8-su_hk) | — | — | [transcript](3ECw8-su_hk/transcript.md) · [materials](3ECw8-su_hk/materials/) |
 | — | BWB - Business With Brian | [Top Small Cap ETF That You Won't Want to Miss!](https://www.youtube.com/watch?v=3IA98jCUMbc) | — | — | [transcript](3IA98jCUMbc/transcript.md) |
 | — | JulienHimself | [They DESTROYED Your Self Esteem (Make Them Regret It)](https://www.youtube.com/watch?v=3Lb8kkKIuVo) | — | — | [transcript](3Lb8kkKIuVo/transcript.md) |
@@ -450,6 +457,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Terminal Value Myth 5: The Terminal value ate my DCF!](https://www.youtube.com/watch?v=3T5sAeswybo) | — | — | [transcript](3T5sAeswybo/transcript.md) |
 | — | Riley Brown | [Codex GPT-5 vs Claude Code… The Winner Was Obvious](https://www.youtube.com/watch?v=3V6fppDLVXs) | — | — | [transcript](3V6fppDLVXs/transcript.md) |
 | — | Aswath Damodaran | [In Practice Webcast 7b: Estimating Cost of Capital for a Privately Owned Business](https://www.youtube.com/watch?v=3W2kpVle12w) | — | — | [transcript](3W2kpVle12w/transcript.md) · [materials](3W2kpVle12w/materials/) |
+| — | HealthyGamerGG | [How to Deal with Emotionally Manipulative People](https://www.youtube.com/watch?v=3X30suG6igk) | — | — | [transcript](3X30suG6igk/transcript.md) |
 | — | Aswath Damodaran | [Data Update 7 for 2026: Debt and Taxes](https://www.youtube.com/watch?v=3X6rah8r4Do) | — | — | [transcript](3X6rah8r4Do/transcript.md) · [materials](3X6rah8r4Do/materials/) |
 | — | Aswath Damodaran | [An Ode to Luck: Revisiting Tesla in January 2020](https://www.youtube.com/watch?v=3YkUN7_Uj0w) | — | — | [transcript](3YkUN7_Uj0w/transcript.md) · [materials](3YkUN7_Uj0w/materials/) |
 | — | HealthyGamerGG | [How to Stop Locking Up in Conversations](https://www.youtube.com/watch?v=3ZeQJeTpVMI) | — | — | [transcript](3ZeQJeTpVMI/transcript.md) |
@@ -462,6 +470,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [I Can't Believe Mike Mentzer's Favorite Biceps Exercise](https://www.youtube.com/watch?v=3gEdY1PNSnY) | — | — | [transcript](3gEdY1PNSnY/transcript.md) |
 | — | Aswath Damodaran | [Postcards from the edge: Lessons from the COVID crisis](https://www.youtube.com/watch?v=3n3816i_vEg) | — | — | [transcript](3n3816i_vEg/transcript.md) · [materials](3n3816i_vEg/materials/) |
 | — | BWB - Business With Brian | [Invest or Pay Off The Mortgage?  I Was Shocked!](https://www.youtube.com/watch?v=3p2tKFb9S_8) | — | — | [transcript](3p2tKFb9S_8/transcript.md) |
+| — | HealthyGamerGG | [Therapist Answers Most Googled Questions About ADHD](https://www.youtube.com/watch?v=3wqOyE7jxeo) | — | — | [transcript](3wqOyE7jxeo/transcript.md) |
 | — | Aswath Damodaran | [Valuation Tools Webcast #6: Estimating Trailing 12-month number](https://www.youtube.com/watch?v=3xKK2Baiso0) | — | — | [transcript](3xKK2Baiso0/transcript.md) · [materials](3xKK2Baiso0/materials/) |
 | — | HealthyGamerGG | [How To Succeed At Anything](https://www.youtube.com/watch?v=3y5p7V05xls) | — | — | [transcript](3y5p7V05xls/transcript.md) |
 | — | Aswath Damodaran | [In Practice Webcast #1: Corporate Governance](https://www.youtube.com/watch?v=3yCJeFpgt-Y) | — | — | [transcript](3yCJeFpgt-Y/transcript.md) · [materials](3yCJeFpgt-Y/materials/) |
@@ -549,12 +558,14 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Implied ERP: Dataset Support](https://www.youtube.com/watch?v=6HMKLNLCaAs) | — | — | [transcript](6HMKLNLCaAs/transcript.md) · [materials](6HMKLNLCaAs/materials/) |
 | — | Aswath Damodaran | [Session 12: Earnings to Time Weighted Incremental Cash flows](https://www.youtube.com/watch?v=6IXuKpVeL9w) | — | — | [transcript](6IXuKpVeL9w/transcript.md) · [materials](6IXuKpVeL9w/materials/) |
 | — | Aswath Damodaran | [Data Update 4 for 2026: A Tumultuous Year (2025) for Global Markets!](https://www.youtube.com/watch?v=6JLvhmGzeuQ) | — | — | [transcript](6JLvhmGzeuQ/transcript.md) |
+| — | HealthyGamerGG | [Psychiatrist Interviews A Potential School Shooter](https://www.youtube.com/watch?v=6JjRS4rz7A8) | — | — | [transcript](6JjRS4rz7A8/transcript.md) |
 | — | HealthyGamerGG | [A Guide To Being Alone & Happy](https://www.youtube.com/watch?v=6KGYCU_INVI) | — | — | [transcript](6KGYCU_INVI/transcript.md) |
 | — | JulienHimself | [CONFIDENCE HACKS Every People Pleaser Should Know](https://www.youtube.com/watch?v=6LdZJKjRN6w) | — | — | [transcript](6LdZJKjRN6w/transcript.md) |
 | — | Greg Isenberg | [How I Use Obsidian + Claude Code to Run My Life](https://www.youtube.com/watch?v=6MBq1paspVU) | — | — | [transcript](6MBq1paspVU/transcript.md) |
 | — | Aswath Damodaran | [Corporate Finance Spring 2015: Pre-class Intro](https://www.youtube.com/watch?v=6OkATW85CWQ) | — | — | [transcript](6OkATW85CWQ/transcript.md) |
 | — | Aswath Damodaran | [Session 10: Debt and its cost](https://www.youtube.com/watch?v=6R5I-7uBuaE) | — | — | [transcript](6R5I-7uBuaE/transcript.md) · [materials](6R5I-7uBuaE/materials/) |
 | — | Felix & Friends (Goat Academy) | [An Opportunity Like This Won’t Come Again… (Emergency Update)](https://www.youtube.com/watch?v=6TRPy8UWvPQ) | — | — | [transcript](6TRPy8UWvPQ/transcript.md) |
+| — | HealthyGamerGG | [Dr. K Explains: Borderline Personality Disorder](https://www.youtube.com/watch?v=6TS4d-zqRFA) | — | — | [transcript](6TS4d-zqRFA/transcript.md) |
 | — | Riley Brown | [How to Build Fully Polished Apps with AI (Vibecode App Full Guide)](https://www.youtube.com/watch?v=6VDpkO9RWqs) | — | — | [transcript](6VDpkO9RWqs/transcript.md) |
 | — | Chris Raroque | [My app's first week (what actually happened)](https://www.youtube.com/watch?v=6YFT7CwHvLk) | — | — | [transcript](6YFT7CwHvLk/transcript.md) |
 | — | JulienHimself | [95% Of People Secretly Hate Themselves (Here's Why)](https://www.youtube.com/watch?v=6arqBu5db1E) | — | — | [transcript](6arqBu5db1E/transcript.md) |
@@ -572,6 +583,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [The Claude Code Skill My Smartest Friends Use](https://www.youtube.com/watch?v=71ES9jzqa0Q) | — | — | [transcript](71ES9jzqa0Q/transcript.md) |
 | — | JulienHimself | [You’ll Never Be Confident Until You Fix THIS](https://www.youtube.com/watch?v=75mBOoNZwaI) | — | — | [transcript](75mBOoNZwaI/transcript.md) |
 | — | Chris Raroque | [I'm building a budgeting app (and naming it after my dog)](https://www.youtube.com/watch?v=76VPbr1RifM) | — | — | [transcript](76VPbr1RifM/transcript.md) |
+| — | HealthyGamerGG | [How To Move On In Your Life (Processing Emotions)](https://www.youtube.com/watch?v=7AywxObPgeM) | — | — | [transcript](7AywxObPgeM/transcript.md) |
 | — | Aswath Damodaran | [Session 21(MBA): More Debt Design & First Steps on Dividends](https://www.youtube.com/watch?v=7EO4v4qZRdI) | — | — | [transcript](7EO4v4qZRdI/transcript.md) · [materials](7EO4v4qZRdI/materials/) |
 | — | Aswath Damodaran | [Buy the Dip? The Allure and Dangers of Contrarian Investing](https://www.youtube.com/watch?v=7IHreZHXE98) | — | — | [transcript](7IHreZHXE98/transcript.md) · [materials](7IHreZHXE98/materials/) |
 | — | Aswath Damodaran | [Session 14: Acquisition Analysis, NPV vs IRR and Side Costs/Benefits](https://www.youtube.com/watch?v=7KkvCSVClZ4) | — | — | [transcript](7KkvCSVClZ4/transcript.md) · [materials](7KkvCSVClZ4/materials/) |
@@ -580,6 +592,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Stop Optimizing Your Life. Start Living.](https://www.youtube.com/watch?v=7P29lfYJLw0) | — | — | [transcript](7P29lfYJLw0/transcript.md) |
 | — | HealthyGamerGG | [Stop Using Shame to Motivate Yourself](https://www.youtube.com/watch?v=7SFhQBxdznQ) | — | — | [transcript](7SFhQBxdznQ/transcript.md) |
 | — | Aswath Damodaran | [Session 11: Costs of debt and capital](https://www.youtube.com/watch?v=7VFe5lcPnnc) | — | — | [transcript](7VFe5lcPnnc/transcript.md) · [materials](7VFe5lcPnnc/materials/) |
+| — | HealthyGamerGG | [If You're Feeling Overwhelmed Watch This](https://www.youtube.com/watch?v=7VfSCQnGfk4) | — | — | [transcript](7VfSCQnGfk4/transcript.md) |
 | — | Aswath Damodaran | [A Tale of Two Markets: Risk on or Risk off? The best of times or the worst of times?](https://www.youtube.com/watch?v=7WnAkX4fFNI) | — | — | [transcript](7WnAkX4fFNI/transcript.md) · [materials](7WnAkX4fFNI/materials/) |
 | — | Aswath Damodaran | [In Practice Webcast 14a: Valuing Control](https://www.youtube.com/watch?v=7XOT9fYKwPA) | — | — | [transcript](7XOT9fYKwPA/transcript.md) · [materials](7XOT9fYKwPA/materials/) |
 | — | HealthyGamerGG | [Your Imagination Won't Fix Your Life](https://www.youtube.com/watch?v=7_Q2xfoSiuw) | — | — | [transcript](7_Q2xfoSiuw/transcript.md) |
@@ -596,6 +609,7 @@ Each transcript link points to the full text under this folder.
 | — | Chris Raroque | [Day in the life of a software developer (realistic) - meetings, gym, working on my side project](https://www.youtube.com/watch?v=7qCGKc5DymA) | — | — | [transcript](7qCGKc5DymA/transcript.md) |
 | — | Aswath Damodaran | [Session 22: The Option to Delay (Patents & Natural Resources)](https://www.youtube.com/watch?v=7qbQR_5SkIM) | — | — | [transcript](7qbQR_5SkIM/transcript.md) |
 | — | Aswath Damodaran | [Session 1: The Financial Statements - An Overview](https://www.youtube.com/watch?v=7rW7lpQZpqY) | — | — | [transcript](7rW7lpQZpqY/transcript.md) · [materials](7rW7lpQZpqY/materials/) |
+| — | HealthyGamerGG | [Empathy, Misogyny & The Friendzone - Interview With Sweet Anita](https://www.youtube.com/watch?v=7rdcIqCSQuk) | — | — | [transcript](7rdcIqCSQuk/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 20: Lessons for the Road](https://www.youtube.com/watch?v=7s3-Xb2gnTY) | — | — | [transcript](7s3-Xb2gnTY/transcript.md) · [materials](7s3-Xb2gnTY/materials/) |
 | — | JulienHimself | [CONFIDENCE HACKS From Someone Who Was Actually Shy](https://www.youtube.com/watch?v=7vE8zoSdiCA) | — | — | [transcript](7vE8zoSdiCA/transcript.md) |
 | — | Aswath Damodaran | [Invisible, but Invaluable: Valuing Intangibles - The Birkenstock IPO](https://www.youtube.com/watch?v=7vIsyP9pROM) | — | — | [transcript](7vIsyP9pROM/transcript.md) · [materials](7vIsyP9pROM/materials/) |
@@ -611,12 +625,14 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [The BEST Leg Extension Video EVER](https://www.youtube.com/watch?v=8DpfmuB1v8Y) | — | — | [transcript](8DpfmuB1v8Y/transcript.md) |
 | — | Aswath Damodaran | [Session 8: The Greeks are here (Regression Beta)](https://www.youtube.com/watch?v=8JVyDBWGdgk) | — | — | [transcript](8JVyDBWGdgk/transcript.md) · [materials](8JVyDBWGdgk/materials/) |
 | — | Aswath Damodaran | [Session 35: Relative Valuation](https://www.youtube.com/watch?v=8N69eLBLTvA) | — | — | [transcript](8N69eLBLTvA/transcript.md) |
+| — | HealthyGamerGG | [How I Conquered My Video Game Addiction](https://www.youtube.com/watch?v=8PYhEWK2wVA) | — | — | [transcript](8PYhEWK2wVA/transcript.md) |
 | — | Aswath Damodaran | [Session 17: The Debt Equity Trade off](https://www.youtube.com/watch?v=8Q-YBcKlyHw) | — | — | [transcript](8Q-YBcKlyHw/transcript.md) · [materials](8Q-YBcKlyHw/materials/) |
 | — | Chris Raroque | [I built an AI agent I actually use every day (code available)](https://www.youtube.com/watch?v=8R6fYMJLI5E) | — | — | [transcript](8R6fYMJLI5E/transcript.md) |
 | — | Aswath Damodaran | [Session 13: Time Weighted Returns, Equity Analysis and Dealing with Uncertainty](https://www.youtube.com/watch?v=8RkE8ra8o5Y) | — | — | [transcript](8RkE8ra8o5Y/transcript.md) · [materials](8RkE8ra8o5Y/materials/) |
 | — | BWB - Business With Brian | [Everyone's Watching AI. They're Missing This](https://www.youtube.com/watch?v=8ScZQi6Xikw) | — | — | [transcript](8ScZQi6Xikw/transcript.md) |
 | — | HealthyGamerGG | ["Is Dating Even Worth It?"](https://www.youtube.com/watch?v=8TL-K-dc4n4) | — | — | [transcript](8TL-K-dc4n4/transcript.md) |
 | — | BWB - Business With Brian | [This Sale Won't Last – 5 Stocks Worth Buying](https://www.youtube.com/watch?v=8TL58UKT7mk) | — | — | [transcript](8TL58UKT7mk/transcript.md) |
+| — | HealthyGamerGG | [Here's Why Trauma Is So Common (A Deep Dive Into Understanding Trauma)](https://www.youtube.com/watch?v=8TkbP4XfggM) | — | — | [transcript](8TkbP4XfggM/transcript.md) |
 | — | Aswath Damodaran | [Session 16: The Trade off on Debt](https://www.youtube.com/watch?v=8VS87oLMHRM) | — | — | [transcript](8VS87oLMHRM/transcript.md) · [materials](8VS87oLMHRM/materials/) |
 | — | Riley Brown | [Cursor Just Unleashed GrokBot (Everything You NEED to Know)](https://www.youtube.com/watch?v=8Yf9IoXkROM) | — | — | [transcript](8Yf9IoXkROM/transcript.md) |
 | — | JulienHimself | [90% Of People Are LYING To Themselves... (This Might Hurt)](https://www.youtube.com/watch?v=8azE7RgIVJI) | — | — | [transcript](8azE7RgIVJI/transcript.md) |
@@ -626,6 +642,7 @@ Each transcript link points to the full text under this folder.
 | — | Chris Raroque | [How I Make Apps FEEL 10x Better (5 Design Secrets)](https://www.youtube.com/watch?v=8mMH6Pq8qnE) | — | — | [transcript](8mMH6Pq8qnE/transcript.md) |
 | — | Ben Yanes | [My Chest Training Changed Forever When I Discovered This](https://www.youtube.com/watch?v=8nSQbdQJmFo) | — | — | [transcript](8nSQbdQJmFo/transcript.md) |
 | — | Aswath Damodaran | [Data Update 1 for 2024: The data speaks, but what is it saying?](https://www.youtube.com/watch?v=8np1_fSeInc) | — | — | [transcript](8np1_fSeInc/transcript.md) · [materials](8np1_fSeInc/materials/) |
+| — | HealthyGamerGG | [How Your Feelings Are Disappearing (Alexithymia 101)](https://www.youtube.com/watch?v=8pQBdZ3RdfA) | — | — | [transcript](8pQBdZ3RdfA/transcript.md) |
 | — | Aswath Damodaran | [Valuation Tools Webcast: From First Principles to Valuation Models](https://www.youtube.com/watch?v=8pfDYA_UEGI) | — | — | [transcript](8pfDYA_UEGI/transcript.md) · [materials](8pfDYA_UEGI/materials/) |
 | — | Aswath Damodaran | [Tesla at a Trillion-Dollar Market Cap: Revisiting its Valuation](https://www.youtube.com/watch?v=8rZps01Ok7I) | — | — | [transcript](8rZps01Ok7I/transcript.md) · [materials](8rZps01Ok7I/materials/) |
 | — | Aswath Damodaran | [Session 17: The Debt Equity Trade off](https://www.youtube.com/watch?v=8sS2TIvH91o) | — | — | [transcript](8sS2TIvH91o/transcript.md) · [materials](8sS2TIvH91o/materials/) |
@@ -671,7 +688,9 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Screening for Stocks on S&P Capital IQ: A Quick Tour](https://www.youtube.com/watch?v=A4hpXxval_U) | — | — | [transcript](A4hpXxval_U/transcript.md) |
 | — | Aswath Damodaran | [AI's Bar Mitzvah Moment? From Hype & Hope to Business Questions!](https://www.youtube.com/watch?v=AAi9QIl6gw8) | — | — | [transcript](AAi9QIl6gw8/transcript.md) · [materials](AAi9QIl6gw8/materials/) |
 | — | Aswath Damodaran | [Session 2: The Objective in Corporate Finance](https://www.youtube.com/watch?v=AC5a_KobBNE) | — | — | [transcript](AC5a_KobBNE/transcript.md) · [materials](AC5a_KobBNE/materials/) |
+| — | HealthyGamerGG | [Rejection Sensitivity: The Real Reason You're Struggling in Relationships](https://www.youtube.com/watch?v=ACI7xDjajPg) | — | — | [transcript](ACI7xDjajPg/transcript.md) |
 | — | Ticker Symbol: YOU | [The Only AI Stocks I'm Buying (Before It's Too Late)](https://www.youtube.com/watch?v=AEClm2Inh-M) | — | — | [transcript](AEClm2Inh-M/transcript.md) · [visuals](AEClm2Inh-M/visuals.md) |
+| — | HealthyGamerGG | [I Have Had Burnout For 6 Years... (Viewer Interview)](https://www.youtube.com/watch?v=AFceCu-cXEc) | — | — | [transcript](AFceCu-cXEc/transcript.md) |
 | — | Aswath Damodaran | [Data Update 7 for 2018: Profits, Excess Returns and Value](https://www.youtube.com/watch?v=ANx1NrduyRM) | — | — | [transcript](ANx1NrduyRM/transcript.md) · [materials](ANx1NrduyRM/materials/) |
 | — | Felix & Friends (Goat Academy) | [US Panic: Japan’s Central Bank Just Collapsed!?](https://www.youtube.com/watch?v=APOKCdoCpug) | — | — | [transcript](APOKCdoCpug/transcript.md) |
 | — | HealthyGamerGG | [Addressing All 25 Year Old Thinkers](https://www.youtube.com/watch?v=AS7wrOX9q4w) | — | — | [transcript](AS7wrOX9q4w/transcript.md) |
@@ -694,6 +713,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 9: Betas - Drivers and Determinants](https://www.youtube.com/watch?v=B2pvG3hbvac) | — | — | [transcript](B2pvG3hbvac/transcript.md) · [materials](B2pvG3hbvac/materials/) |
 | — | Aswath Damodaran | [Session 13: Dealing with Uncertainty and Equity Analysis](https://www.youtube.com/watch?v=B6YmeZgYAAM) | — | — | [transcript](B6YmeZgYAAM/transcript.md) · [materials](B6YmeZgYAAM/materials/) |
 | — | Aswath Damodaran | [Session 30: Valuation - Cash Flows & Discount Rates](https://www.youtube.com/watch?v=BFFhDAYFZM4) | — | — | [transcript](BFFhDAYFZM4/transcript.md) |
+| — | HealthyGamerGG | [How Do Men Deal with Eating Disorders and Body Image Issues](https://www.youtube.com/watch?v=BGkQpmdqgPY) | — | — | [transcript](BGkQpmdqgPY/transcript.md) |
 | — | HealthyGamerGG | [Why Chasing Red Flags Leads To Love](https://www.youtube.com/watch?v=BHf0L8dZJbE) | — | — | [transcript](BHf0L8dZJbE/transcript.md) |
 | — | Greg Isenberg | [The $1M+ Solo AI Agent Business (Full Course)](https://www.youtube.com/watch?v=BI-MNjm1tTQ) | — | — | [transcript](BI-MNjm1tTQ/transcript.md) |
 | — | Aswath Damodaran | [Online Education: Promise, Pitfalls and Potential](https://www.youtube.com/watch?v=BK0umdfCDbs) | — | — | [transcript](BK0umdfCDbs/transcript.md) |
@@ -710,8 +730,10 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [The Uncomfortable Silver Truth](https://www.youtube.com/watch?v=BkolED63RA0) | — | — | [transcript](BkolED63RA0/transcript.md) |
 | — | Aswath Damodaran | [Data 2017 Update 4: Country  Risk](https://www.youtube.com/watch?v=BmtdVKFw_mw) | — | — | [transcript](BmtdVKFw_mw/transcript.md) · [materials](BmtdVKFw_mw/materials/) |
 | — | Riley Brown | [Vibe Coding for Beginners (Full Course 2026)](https://www.youtube.com/watch?v=BpOsHF5Oj_I) | — | — | [transcript](BpOsHF5Oj_I/transcript.md) |
+| — | HealthyGamerGG | [Why is it So Hard to be A Good Asian Kid?](https://www.youtube.com/watch?v=BrU85ut8_fs) | — | — | [transcript](BrU85ut8_fs/transcript.md) |
 | — | Greg Isenberg | [I Built an Entire App with OpenAI's Codex and 8 AI Agent Employees](https://www.youtube.com/watch?v=Bs7sBbcwn60) | — | — | [transcript](Bs7sBbcwn60/transcript.md) |
 | — | HealthyGamerGG | [Why You're Too Tired To Go To Bed](https://www.youtube.com/watch?v=Bw3871NdUXg) | — | — | [transcript](Bw3871NdUXg/transcript.md) |
+| — | HealthyGamerGG | [Dealing with Drama \| What It’s Really Like to be a Creator Part 5](https://www.youtube.com/watch?v=BxU-MJxI3Hk) | — | — | [transcript](BxU-MJxI3Hk/transcript.md) |
 | — | New Money | [‘Big Short’ Investor: The AI Narrative is Falling Apart.](https://www.youtube.com/watch?v=Bz2oWtHFNr4) | — | — | [transcript](Bz2oWtHFNr4/transcript.md) |
 | — | Aswath Damodaran | [Data Update 2 for 2026: A Test for US Equities](https://www.youtube.com/watch?v=BzG8M74BfrY) | — | — | [transcript](BzG8M74BfrY/transcript.md) · [materials](BzG8M74BfrY/materials/) |
 | — | HealthyGamerGG | [How AI is Killing Your Potential](https://www.youtube.com/watch?v=BzsLbHoNXTs) | — | — | [transcript](BzsLbHoNXTs/transcript.md) |
@@ -751,6 +773,7 @@ Each transcript link points to the full text under this folder.
 | — | Chris Raroque | [I built 3 apps - Here’s how I pick winning ideas](https://www.youtube.com/watch?v=Cufn-fjnVCE) | — | — | [transcript](Cufn-fjnVCE/transcript.md) |
 | — | HealthyGamerGG | [How to Destroy Your Depression](https://www.youtube.com/watch?v=Cv3bj1M96fQ) | — | — | [transcript](Cv3bj1M96fQ/transcript.md) |
 | — | HealthyGamerGG | [NIHILISM: The Reason Your Life Feels Hopeless](https://www.youtube.com/watch?v=CvM9spJ8Fns) | — | — | [transcript](CvM9spJ8Fns/transcript.md) |
+| — | HealthyGamerGG | [Can Masculinity Be Healthy?](https://www.youtube.com/watch?v=CxAAiGz_TlY) | — | — | [transcript](CxAAiGz_TlY/transcript.md) |
 | — | Aswath Damodaran | [Session 7: Estimating Hurdle Rates - Implied ERP, Country Risk and Company Risk](https://www.youtube.com/watch?v=CxJ9e61wJyQ) | — | — | [transcript](CxJ9e61wJyQ/transcript.md) |
 | — | BWB - Business With Brian | [99% of You Will Miss the Memory Stack (My Full Map)](https://www.youtube.com/watch?v=CyVOwEx3i5k) | — | — | [transcript](CyVOwEx3i5k/transcript.md) |
 | — | Ben Yanes | [Why You Should Stop Watching Fitness Content (Yes, Even This Video)](https://www.youtube.com/watch?v=Cygf-Pycg-w) | — | — | [transcript](Cygf-Pycg-w/transcript.md) |
@@ -787,6 +810,8 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [I Was Wrong. This Is a Historic Buying Opportunity.](https://www.youtube.com/watch?v=DzN-IOA-png) | — | — | [transcript](DzN-IOA-png/transcript.md) · [visuals](DzN-IOA-png/visuals.md) |
 | — | Riley Brown | [Convert Your Web App to a Mobile App in MINUTES with AI (2026)](https://www.youtube.com/watch?v=E3IL7N0E5-k) | — | — | [transcript](E3IL7N0E5-k/transcript.md) |
 | — | HealthyGamerGG | [Work Culture Today Is Actually Unrealistic](https://www.youtube.com/watch?v=E7imbL_XX_A) | — | — | [transcript](E7imbL_XX_A/transcript.md) |
+| — | HealthyGamerGG | [I'm Tired of Trying and Failing](https://www.youtube.com/watch?v=E80ZpmvMqjs) | — | — | [transcript](E80ZpmvMqjs/transcript.md) |
+| — | HealthyGamerGG | [This is Why You Don't Learn From Your Mistakes](https://www.youtube.com/watch?v=EAjI3uwmDtU) | — | — | [transcript](EAjI3uwmDtU/transcript.md) |
 | — | Aswath Damodaran | [Session 7 (Undergraduate): Equity Risk Premiums (Implied) and Company](https://www.youtube.com/watch?v=EAnVj1dJ7dc) | — | — | [transcript](EAnVj1dJ7dc/transcript.md) · [materials](EAnVj1dJ7dc/materials/) |
 | — | Aswath Damodaran | [Session 5: Marginal Investors, Risk Measures and Models](https://www.youtube.com/watch?v=EF_wMELoY90) | — | — | [transcript](EF_wMELoY90/transcript.md) · [materials](EF_wMELoY90/materials/) |
 | — | HealthyGamerGG | [Your Goals are Designed to Make You Quit](https://www.youtube.com/watch?v=EFeX17tQFXo) | — | — | [transcript](EFeX17tQFXo/transcript.md) |
@@ -808,15 +833,19 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [WebMCP: Let AI Agents pay you money](https://www.youtube.com/watch?v=EoNH3Tn8wYE) | — | — | [transcript](EoNH3Tn8wYE/transcript.md) |
 | — | Aswath Damodaran | [Session 3: The Real World Strikes Back - Corporate Governance](https://www.youtube.com/watch?v=EsU8uOXdyDQ) | — | — | [transcript](EsU8uOXdyDQ/transcript.md) |
 | — | Chris Raroque | [How I'm Rebuilding My App for the AI Era](https://www.youtube.com/watch?v=Et45hFGwSqQ) | — | — | [transcript](Et45hFGwSqQ/transcript.md) |
+| — | HealthyGamerGG | [Psychiatrist Explains Good ADHD Hacks](https://www.youtube.com/watch?v=Eu2_nWyrIxY) | — | — | [transcript](Eu2_nWyrIxY/transcript.md) |
 | — | Greg Isenberg | [My top secrets to running an AI Agent Workforce](https://www.youtube.com/watch?v=EzQAgnjTq2k) | — | — | [transcript](EzQAgnjTq2k/transcript.md) |
 | — | Aswath Damodaran | [Country Risk: A 2023 Mid-year Update](https://www.youtube.com/watch?v=F-6_XeUxbmI) | — | — | [transcript](F-6_XeUxbmI/transcript.md) · [materials](F-6_XeUxbmI/materials/) |
 | — | Aswath Damodaran | [Stream On: An IPO Valuation of Spotify!](https://www.youtube.com/watch?v=F0nONPyL6CU) | — | — | [transcript](F0nONPyL6CU/transcript.md) · [materials](F0nONPyL6CU/materials/) |
+| — | HealthyGamerGG | [Can You Diagnose Yourself With A Mental Illness](https://www.youtube.com/watch?v=F69ba1vS0oo) | — | — | [transcript](F69ba1vS0oo/transcript.md) |
 | — | Aswath Damodaran | [Valuation Tools Webcast: Becoming a spreadsheet ninja (not)!](https://www.youtube.com/watch?v=F9GfXJ-IrSA) | — | — | [transcript](F9GfXJ-IrSA/transcript.md) · [materials](F9GfXJ-IrSA/materials/) |
 | — | HealthyGamerGG | [Attachment Styles Deep Dive (Valentines Members Gift)](https://www.youtube.com/watch?v=FAzsArI7QJo) | — | — | [transcript](FAzsArI7QJo/transcript.md) |
 | — | Aswath Damodaran | [Session 25: Valuation, the final frontiers!](https://www.youtube.com/watch?v=FC_FjEvElHQ) | — | — | [transcript](FC_FjEvElHQ/transcript.md) · [materials](FC_FjEvElHQ/materials/) |
 | — | Aswath Damodaran | [Session 4: Closing the books on the objective function & Opening the one on Risk](https://www.youtube.com/watch?v=FDscJkpaukY) | — | — | [transcript](FDscJkpaukY/transcript.md) · [materials](FDscJkpaukY/materials/) |
 | — | Aswath Damodaran | [Session 21: Debt Design](https://www.youtube.com/watch?v=FEridcFHPdQ) | — | — | [transcript](FEridcFHPdQ/transcript.md) · [materials](FEridcFHPdQ/materials/) |
 | — | Felix & Friends (Goat Academy) | [The $14 Stock You’ll Wish You Bought before the SpaceX IPO](https://www.youtube.com/watch?v=FJhjpqVaXbY) | — | — | [transcript](FJhjpqVaXbY/transcript.md) |
+| — | HealthyGamerGG | [We made something for everyone that is emotionally unavailable…](https://www.youtube.com/watch?v=FMeNI3a7yZ4) | — | — | [transcript](FMeNI3a7yZ4/transcript.md) |
+| — | HealthyGamerGG | [Does Journaling Actually Work? (Journaling 101)](https://www.youtube.com/watch?v=FNJO1pZV-I8) | — | — | [transcript](FNJO1pZV-I8/transcript.md) |
 | — | Aswath Damodaran | [Loss Leader or Value Creator? Breaking down Amazon Prime](https://www.youtube.com/watch?v=FSmClzGlODs) | — | — | [transcript](FSmClzGlODs/transcript.md) · [materials](FSmClzGlODs/materials/) |
 | — | Riley Brown | [Codex is The NEW Best AI Coding Tool (Here's Why)](https://www.youtube.com/watch?v=FU2iB-UfPPA) | — | — | [transcript](FU2iB-UfPPA/transcript.md) |
 | — | Aswath Damodaran | [Session 26: The Fat Lady is Singing!](https://www.youtube.com/watch?v=FWoXH-ouZw0) | — | — | [transcript](FWoXH-ouZw0/transcript.md) · [materials](FWoXH-ouZw0/materials/) |
@@ -832,6 +861,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [The Ride Sharing Business: Is this a Bar Mitzvah Moment?](https://www.youtube.com/watch?v=FoqyWlfymMk) | — | — | [transcript](FoqyWlfymMk/transcript.md) · [materials](FoqyWlfymMk/materials/) |
 | — | Ticker Symbol: YOU | [Top 5 Stocks I'm Buying Before The Fed Cuts Rates!](https://www.youtube.com/watch?v=FrWFsSrTCfw) | — | — | [transcript](FrWFsSrTCfw/transcript.md) · [visuals](FrWFsSrTCfw/visuals.md) |
 | — | Aswath Damodaran | [Session 5A: Data Relationships - Applications in Finance & Investing](https://www.youtube.com/watch?v=FrpB3UmVFxQ) | — | — | [transcript](FrpB3UmVFxQ/transcript.md) · [materials](FrpB3UmVFxQ/materials/) |
+| — | HealthyGamerGG | [What Everyone Should Know About Sexual Assault](https://www.youtube.com/watch?v=FuLG0YkFGEQ) | — | — | [transcript](FuLG0YkFGEQ/transcript.md) |
 | — | Riley Brown | [OpenAI Just Merged ChatGPT and Codex. This Changes Everything.](https://www.youtube.com/watch?v=Fv0XfyLT3xU) | — | — | [transcript](Fv0XfyLT3xU/transcript.md) |
 | — | Aswath Damodaran | [Session 20: Adjusted Present Value (APV) and Peer Pressure](https://www.youtube.com/watch?v=FvMMumZPoNU) | — | — | [transcript](FvMMumZPoNU/transcript.md) · [materials](FvMMumZPoNU/materials/) |
 | — | Aswath Damodaran | [Session 6: Risk, Riskfree Rates and Equity Risk Premiums (a start)](https://www.youtube.com/watch?v=Fxv-g5eQo_w) | — | — | [transcript](Fxv-g5eQo_w/transcript.md) · [materials](Fxv-g5eQo_w/materials/) |
@@ -842,9 +872,11 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [In-Practice Webcast #5: Estimating a bottom up beta](https://www.youtube.com/watch?v=G75Z1wb3o9Q) | — | — | [transcript](G75Z1wb3o9Q/transcript.md) |
 | — | Ticker Symbol: YOU | [E15: How NVIDIA'S HUGE AI Factories Are Disrupting Data Centers](https://www.youtube.com/watch?v=GDU0boGinJ4) | — | — | [transcript](GDU0boGinJ4/transcript.md) · [visuals](GDU0boGinJ4/visuals.md) |
 | — | Aswath Damodaran | [Session 13: Earnings to Cash flows to Incremental Cash Flows](https://www.youtube.com/watch?v=GGFm9Hke-NU) | — | — | [transcript](GGFm9Hke-NU/transcript.md) · [materials](GGFm9Hke-NU/materials/) |
+| — | HealthyGamerGG | [I Tried Intermittent Fasting for Technology - Does it Really Work?](https://www.youtube.com/watch?v=GI594-ha2SQ) | — | — | [transcript](GI594-ha2SQ/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [A 10 Bagger Like These Stocks May Never Happen Again](https://www.youtube.com/watch?v=GPu66SAZFI0) | — | — | [transcript](GPu66SAZFI0/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The $29 Trillion Gold Race Has Begun (Hint: Act Now!)](https://www.youtube.com/watch?v=GQvr9w7n7W8) | — | — | [transcript](GQvr9w7n7W8/transcript.md) |
 | — | Aswath Damodaran | [Country Risk 2018: A Mid-Year Update](https://www.youtube.com/watch?v=GRPDgtQ_yFY) | — | — | [transcript](GRPDgtQ_yFY/transcript.md) · [materials](GRPDgtQ_yFY/materials/) |
+| — | HealthyGamerGG | [The Unique Challenges of Studying as a Gifted Kid](https://www.youtube.com/watch?v=GS_DbSgHnFo) | — | — | [transcript](GS_DbSgHnFo/transcript.md) |
 | — | JulienHimself | [You Built A Life To Impress Someone Else](https://www.youtube.com/watch?v=GbXszHN23rg) | — | — | [transcript](GbXszHN23rg/transcript.md) |
 | — | Aswath Damodaran | [Session 9:  Introduction to Option Valuation](https://www.youtube.com/watch?v=GbpHHt08obE) | — | — | [transcript](GbpHHt08obE/transcript.md) · [materials](GbpHHt08obE/materials/) |
 | — | Aswath Damodaran | [Session 24 (MBA): Dividend Analysis and First Steps on Valuation](https://www.youtube.com/watch?v=GeNNsiBmn64) | — | — | [transcript](GeNNsiBmn64/transcript.md) · [materials](GeNNsiBmn64/materials/) |
@@ -861,6 +893,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [Global Currency RESET Is Happening NOW](https://www.youtube.com/watch?v=H0-mwxr2-rw) | — | — | [transcript](H0-mwxr2-rw/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The Global Monetary Reset Has Begun (Why Gold & Silver are Next)](https://www.youtube.com/watch?v=H0OGs8GZL0M) | — | — | [transcript](H0OGs8GZL0M/transcript.md) |
 | — | Chris Raroque | [My App Design Process: What Took Me 5 Years to Learn in 10 Minutes](https://www.youtube.com/watch?v=H0czeRyXPxA) | — | — | [transcript](H0czeRyXPxA/transcript.md) |
+| — | HealthyGamerGG | ["I Hate My ADHD Son" \| Reddit Submission](https://www.youtube.com/watch?v=H29GopTVZnQ) | — | — | [transcript](H29GopTVZnQ/transcript.md) |
 | — | Aswath Damodaran | [Session 18: Optimizing Financing Mix](https://www.youtube.com/watch?v=H2gwDX-ZCE4) | — | — | [transcript](H2gwDX-ZCE4/transcript.md) · [materials](H2gwDX-ZCE4/materials/) |
 | — | HealthyGamerGG | [How To ACTUALLY Break An Addiction](https://www.youtube.com/watch?v=H877DXOAlXI) | — | — | [transcript](H877DXOAlXI/transcript.md) |
 | — | Aswath Damodaran | [Session 1: Introduction to the class](https://www.youtube.com/watch?v=H8QYr-Z5qfY) | — | — | [transcript](H8QYr-Z5qfY/transcript.md) · [materials](H8QYr-Z5qfY/materials/) |
@@ -892,7 +925,9 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 11: Estimating Hurdle Rates - More on bottom up betas](https://www.youtube.com/watch?v=I2bkISzheQA) | — | — | [transcript](I2bkISzheQA/transcript.md) |
 | — | Aswath Damodaran | [The Sharing Economy comes home! The Airbnb IPO (at long last)!](https://www.youtube.com/watch?v=I2bl-R7vQh8) | — | — | [transcript](I2bl-R7vQh8/transcript.md) · [materials](I2bl-R7vQh8/materials/) |
 | — | BWB - Business With Brian | [Which Cheap Stock Could Explode Next?](https://www.youtube.com/watch?v=I2byxVGZwkA) | — | — | [transcript](I2byxVGZwkA/transcript.md) |
+| — | HealthyGamerGG | [Are Autism and Gender Identity Connected? A Psychiatrist Explains](https://www.youtube.com/watch?v=I6MWY6wnpxk) | — | — | [transcript](I6MWY6wnpxk/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [They Crashed Silver on Purpose… Here’s The Real Plan](https://www.youtube.com/watch?v=I7xO8l3ire4) | — | — | [transcript](I7xO8l3ire4/transcript.md) |
+| — | HealthyGamerGG | [Psychiatrist Explains Why You're Tired All The Time (Exhaustion 101)](https://www.youtube.com/watch?v=IAW494zhWGI) | — | — | [transcript](IAW494zhWGI/transcript.md) |
 | — | Chris Raroque | [Building an Outlook calendar integration for my app (spoiler: it was hard) \| Building Ellie ep. 5](https://www.youtube.com/watch?v=IAakZj8pk6U) | — | — | [transcript](IAakZj8pk6U/transcript.md) |
 | — | Ticker Symbol: YOU | [WARNING: If You Hold Nvidia & Palantir Stock... GET READY](https://www.youtube.com/watch?v=IAdc4QebyYA) | — | — | [transcript](IAdc4QebyYA/transcript.md) · [visuals](IAdc4QebyYA/visuals.md) |
 | — | Aswath Damodaran | [Session 3: Managers and Markets (video fix replacement)](https://www.youtube.com/watch?v=IEEv0pMlb8E) | — | — | [transcript](IEEv0pMlb8E/transcript.md) · [materials](IEEv0pMlb8E/materials/) |
@@ -921,6 +956,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Screensharing How to Start an AI Agent Business Today](https://www.youtube.com/watch?v=Ix43w_IssR8) | — | — | [transcript](Ix43w_IssR8/transcript.md) |
 | — | Aswath Damodaran | [The Anatomy of a Crisis: Tariff Talk and Market Reaction!](https://www.youtube.com/watch?v=IzZ-P26eyFQ) | — | — | [transcript](IzZ-P26eyFQ/transcript.md) · [materials](IzZ-P26eyFQ/materials/) |
 | — | Aswath Damodaran | [Session 7: Equity Risk Premiums](https://www.youtube.com/watch?v=J1m0PKrQrH4) | — | — | [transcript](J1m0PKrQrH4/transcript.md) · [materials](J1m0PKrQrH4/materials/) |
+| — | HealthyGamerGG | [You are a 25 Year Old Loner](https://www.youtube.com/watch?v=J4M5Den94M0) | — | — | [transcript](J4M5Den94M0/transcript.md) |
 | — | Riley Brown | [I Built an AI Employee That ACTUALLY Works (Claude Opus Guide)](https://www.youtube.com/watch?v=J4yASL-0erU) | — | — | [transcript](J4yASL-0erU/transcript.md) |
 | — | Aswath Damodaran | [Session 9 (MBA): Bottom up Betas](https://www.youtube.com/watch?v=J5UN2YA0mUE) | — | — | [transcript](J5UN2YA0mUE/transcript.md) · [materials](J5UN2YA0mUE/materials/) |
 | — | Chris Raroque | [App Branding Masterclass](https://www.youtube.com/watch?v=JDwxt9fHofk) | — | — | [transcript](JDwxt9fHofk/transcript.md) |
@@ -931,6 +967,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [Claude Just Killed Software Stocks (Here's What Happens Next)](https://www.youtube.com/watch?v=JGm_v3YFMes) | — | — | [transcript](JGm_v3YFMes/transcript.md) · [visuals](JGm_v3YFMes/visuals.md) |
 | — | Aswath Damodaran | [Macro Bet or Micro Delusion? The Marketing of Beyond Meat](https://www.youtube.com/watch?v=JN6eqkDVgvw) | — | — | [transcript](JN6eqkDVgvw/transcript.md) · [materials](JN6eqkDVgvw/materials/) |
 | — | Felix & Friends (Goat Academy) | [Silver Runs Out on THIS Date… Most Aren't Ready](https://www.youtube.com/watch?v=JPjzgzYzUbg) | — | — | [transcript](JPjzgzYzUbg/transcript.md) |
+| — | HealthyGamerGG | [What Every Man Should Understand About Birth Control](https://www.youtube.com/watch?v=JQrNBmMo5aQ) | — | — | [transcript](JQrNBmMo5aQ/transcript.md) |
 | — | BWB - Business With Brian | [Everyone Says AI Is a Dot-Com BUBBLE… Urgent Update for All Investors!](https://www.youtube.com/watch?v=JRORSt0xm4Q) | — | — | [transcript](JRORSt0xm4Q/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Investing In This Breakthrough AI Chip (Here's Why)](https://www.youtube.com/watch?v=JVEKSlDEQR0) | — | — | [transcript](JVEKSlDEQR0/transcript.md) · [visuals](JVEKSlDEQR0/visuals.md) |
 | — | Aswath Damodaran | [Country Risk: A 2019 mid-year update](https://www.youtube.com/watch?v=JVg7TOiXUfQ) | — | — | [transcript](JVg7TOiXUfQ/transcript.md) · [materials](JVg7TOiXUfQ/materials/) |
@@ -979,6 +1016,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Is Your Identity Leading You To Failure?](https://www.youtube.com/watch?v=KmJmvaMIjIY) | — | — | [transcript](KmJmvaMIjIY/transcript.md) |
 | — | HealthyGamerGG | [Stop Trading Your Time For Nothing](https://www.youtube.com/watch?v=KmmQzsZw4kQ) | — | — | [transcript](KmmQzsZw4kQ/transcript.md) |
 | — | Ben Yanes | [How I fixed a 2-month plateau with 1 change](https://www.youtube.com/watch?v=KsH4qQ3f80Y) | — | — | [transcript](KsH4qQ3f80Y/transcript.md) |
+| — | HealthyGamerGG | [Is It Possible to Avoid the Friend Zone?](https://www.youtube.com/watch?v=KtkL40jRLvU) | — | — | [transcript](KtkL40jRLvU/transcript.md) |
 | — | HealthyGamerGG | [How To Actually Process Your Emotions](https://www.youtube.com/watch?v=KyLXDC_vrsc) | — | — | [transcript](KyLXDC_vrsc/transcript.md) |
 | — | New Money | [The SaaSpocalypse Is Getting Worse.](https://www.youtube.com/watch?v=KzYfh-9hKmc) | — | — | [transcript](KzYfh-9hKmc/transcript.md) |
 | — | Aswath Damodaran | [Introduction to Corporate Finance Class (Short)](https://www.youtube.com/watch?v=L-6kF8T4dSs) | — | — | [transcript](L-6kF8T4dSs/transcript.md) |
@@ -995,6 +1033,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Country Risk 2025: The Story behind the Numbers!](https://www.youtube.com/watch?v=LTDZCLjCa-E) | — | — | [transcript](LTDZCLjCa-E/transcript.md) · [materials](LTDZCLjCa-E/materials/) |
 | — | Ben Yanes | [Why You Never Feel The Right Muscles (simple solution)](https://www.youtube.com/watch?v=LTn19xx8rL4) | — | — | [transcript](LTn19xx8rL4/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In Robots After CES 2026 (Here's Why)](https://www.youtube.com/watch?v=LV-44eWQ474) | — | — | [transcript](LV-44eWQ474/transcript.md) · [visuals](LV-44eWQ474/visuals.md) |
+| — | HealthyGamerGG | ["I Spent $50,000 on Dating Advice" - Viewer Talks with Dr. K](https://www.youtube.com/watch?v=LWV_Zl2qW_4) | — | — | [transcript](LWV_Zl2qW_4/transcript.md) |
 | — | Greg Isenberg | [Stop using Claude. Start using Codex?](https://www.youtube.com/watch?v=LWx4FGam2aQ) | — | — | [transcript](LWx4FGam2aQ/transcript.md) |
 | — | Ticker Symbol: YOU | [Get In Early. This Stock Will Make Millionaires By 2029.](https://www.youtube.com/watch?v=LXw0fnglbpw) | — | — | [transcript](LXw0fnglbpw/transcript.md) · [visuals](LXw0fnglbpw/visuals.md) |
 | — | Greg Isenberg | [AI Apps Are Making $10K/Month. Here's Exactly How.](https://www.youtube.com/watch?v=LYomocq6Dpo) | — | — | [transcript](LYomocq6Dpo/transcript.md) |
@@ -1006,6 +1045,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [The Wisdom (and Madness) of Crowds: Political Markets as Election Predictors!](https://www.youtube.com/watch?v=LejPvcakKpE) | — | — | [transcript](LejPvcakKpE/transcript.md) · [materials](LejPvcakKpE/materials/) |
 | — | Ben Yanes | ["Front squats are better for quads"](https://www.youtube.com/watch?v=LhTCRImOHes) | — | — | [transcript](LhTCRImOHes/transcript.md) |
 | — | Aswath Damodaran | [Session 9: Analyst Estimates of Growth & Fundamental Growth](https://www.youtube.com/watch?v=LhkalvrWdUU) | — | — | [transcript](LhkalvrWdUU/transcript.md) · [materials](LhkalvrWdUU/materials/) |
+| — | HealthyGamerGG | [Does Money Actually Buy Happiness? A Psychiatrist Explains](https://www.youtube.com/watch?v=Li8OK7JZtUs) | — | — | [transcript](Li8OK7JZtUs/transcript.md) |
 | — | HealthyGamerGG | [Priorities, Emotions & Goals - Talking with @Jinnytty 企鵝妹 윰찌](https://www.youtube.com/watch?v=LskDuBmNmyY) | — | — | [transcript](LskDuBmNmyY/transcript.md) |
 | — | Aswath Damodaran | [Session 15 (MBA): Netflix Case and Closing the Books on Investment Analysis](https://www.youtube.com/watch?v=Lsq-z9P_g0g) | — | — | [transcript](Lsq-z9P_g0g/transcript.md) · [materials](Lsq-z9P_g0g/materials/) |
 | — | Aswath Damodaran | [Sow the wind, Reap the whirlwind: An Inflation Update (September 23, 2022)](https://www.youtube.com/watch?v=Ltr704qDQlQ) | — | — | [transcript](Ltr704qDQlQ/transcript.md) · [materials](Ltr704qDQlQ/materials/) |
@@ -1021,13 +1061,17 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [The Global Monetary Reset Has Begun (Hint: Act Now!)](https://www.youtube.com/watch?v=M8jEbBFczt4) | — | — | [transcript](M8jEbBFczt4/transcript.md) |
 | — | Aswath Damodaran | [Data Update 1 for 2020: Setting the table](https://www.youtube.com/watch?v=M9pFTApeo_8) | — | — | [transcript](M9pFTApeo_8/transcript.md) · [materials](M9pFTApeo_8/materials/) |
 | — | Aswath Damodaran | [Session 25: Valuation 101](https://www.youtube.com/watch?v=MB6W3qirKTs) | — | — | [transcript](MB6W3qirKTs/transcript.md) · [materials](MB6W3qirKTs/materials/) |
+| — | HealthyGamerGG | [I Get Burned Out When I Try To Achieve My Goals](https://www.youtube.com/watch?v=MId2AotFA4A) | — | — | [transcript](MId2AotFA4A/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [If You Don’t Understand Silver, You Don’t Understand Money](https://www.youtube.com/watch?v=MJQsmzVJ0Iw) | — | — | [transcript](MJQsmzVJ0Iw/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In The Figma Stock IPO (Here's Why)](https://www.youtube.com/watch?v=MLVEvIRIbKo) | — | — | [transcript](MLVEvIRIbKo/transcript.md) · [visuals](MLVEvIRIbKo/visuals.md) |
+| — | HealthyGamerGG | [Can Anger Actually be Healthy? (Healthy vs Unhealthy Anger)](https://www.youtube.com/watch?v=MMbUTXJBHL0) | — | — | [transcript](MMbUTXJBHL0/transcript.md) |
 | — | Greg Isenberg | [Cloudflare will make 1000+ AI millionaires](https://www.youtube.com/watch?v=MNNfat_QP0E) | — | — | [transcript](MNNfat_QP0E/transcript.md) |
+| — | HealthyGamerGG | [Why it's Actually Valuable to be Detached](https://www.youtube.com/watch?v=MQ15cXicr7U) | — | — | [transcript](MQ15cXicr7U/transcript.md) |
 | — | Ticker Symbol: YOU | [E24: I Tested NVIDIA's Self Driving Car... Is Tesla In Trouble?](https://www.youtube.com/watch?v=MSmSA8uTn8Y) | — | — | [transcript](MSmSA8uTn8Y/transcript.md) |
 | — | New Money | [Is the U.S. Running Out of Lenders?](https://www.youtube.com/watch?v=MUQ8Koa3yoI) | — | — | [transcript](MUQ8Koa3yoI/transcript.md) |
 | — | Aswath Damodaran | [User/Subscriber Economics II: Growth, Costs and Business Models](https://www.youtube.com/watch?v=MUSuqTyfi8M) | — | — | [transcript](MUSuqTyfi8M/transcript.md) · [materials](MUSuqTyfi8M/materials/) |
 | — | HealthyGamerGG | [AI Is Slowly Destroying Your Brain](https://www.youtube.com/watch?v=MW6FMgOzklw) | — | — | [transcript](MW6FMgOzklw/transcript.md) |
+| — | HealthyGamerGG | [The Shame of Adult Virgins and their Identity Crisis](https://www.youtube.com/watch?v=MWMWTTE-JR0) | — | — | [transcript](MWMWTTE-JR0/transcript.md) |
 | — | Chris Raroque | [How I Make Apps FEEL Premium (5 examples)](https://www.youtube.com/watch?v=MXLF8b15GhQ) | — | — | [transcript](MXLF8b15GhQ/transcript.md) |
 | — | BWB - Business With Brian | [URGENT - When Rates Drop Do This First](https://www.youtube.com/watch?v=MaWa7pVDgd0) | — | — | [transcript](MaWa7pVDgd0/transcript.md) |
 | — | HealthyGamerGG | [Procrastination Holds You Back](https://www.youtube.com/watch?v=MbJ-zU43WaY) | — | — | [transcript](MbJ-zU43WaY/transcript.md) |
@@ -1065,12 +1109,15 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 6: Cost of Debt and Capital](https://www.youtube.com/watch?v=N_FH89DCdGs) | — | — | [transcript](N_FH89DCdGs/transcript.md) |
 | — | Riley Brown | [AI Agents Just Changed Forever: GLM 5.2, Codex Skills, Claude & Cursor](https://www.youtube.com/watch?v=Nbynj-mKcNI) | — | — | [transcript](Nbynj-mKcNI/transcript.md) |
 | — | Ticker Symbol: YOU | [E16: This AI Supercomputer Fits In The Palm of My Hand](https://www.youtube.com/watch?v=Nd5hXJT1kxI) | — | — | [transcript](Nd5hXJT1kxI/transcript.md) · [visuals](Nd5hXJT1kxI/visuals.md) |
+| — | HealthyGamerGG | [Psychiatrist Reacts To Tinder Horror Stories...](https://www.youtube.com/watch?v=NdfXtpHwJhU) | — | — | [transcript](NdfXtpHwJhU/transcript.md) |
 | — | Aswath Damodaran | [Session 4: Alternatives to Stock Price Maximization and First Steps on Risk](https://www.youtube.com/watch?v=NhGTHp0ouYk) | — | — | [transcript](NhGTHp0ouYk/transcript.md) · [materials](NhGTHp0ouYk/materials/) |
 | — | Ticker Symbol: YOU | [Claude Will Crash Stocks Within 257 Days (Prepare Now)](https://www.youtube.com/watch?v=NlPHuk1Rjo8) | — | — | [transcript](NlPHuk1Rjo8/transcript.md) · [visuals](NlPHuk1Rjo8/visuals.md) |
 | — | Chris Raroque | [How I Make Landing Pages For My Apps](https://www.youtube.com/watch?v=Nn23ZVdu6_A) | — | — | [transcript](Nn23ZVdu6_A/transcript.md) |
 | — | Riley Brown | [Can I Vibecode a $250M App Better Than a Pro Developer? (With No Code)](https://www.youtube.com/watch?v=NnYLzGMk8Tg) | — | — | [transcript](NnYLzGMk8Tg/transcript.md) |
 | — | BWB - Business With Brian | [Last Chance at 5%: Best Places to Park Your Cash](https://www.youtube.com/watch?v=No2l4YGQ3so) | — | — | [transcript](No2l4YGQ3so/transcript.md) |
 | — | Riley Brown | [ChatGPT Just Became the Best AI Image Model in the World](https://www.youtube.com/watch?v=NrKABtmG4zs) | — | — | [transcript](NrKABtmG4zs/transcript.md) |
+| — | HealthyGamerGG | ["I feel like I have no purpose."](https://www.youtube.com/watch?v=NuHEY7CjjTI) | — | — | [transcript](NuHEY7CjjTI/transcript.md) |
+| — | HealthyGamerGG | [The Surprising Link Between Anger and Motivation](https://www.youtube.com/watch?v=NxA3iDJQhYE) | — | — | [transcript](NxA3iDJQhYE/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [US Panic: The Great Liquidation Just Started](https://www.youtube.com/watch?v=NxlfHXcw2vM) | — | — | [transcript](NxlfHXcw2vM/transcript.md) |
 | — | JulienHimself | [You're A SLAVE To Other People's "Rules"](https://www.youtube.com/watch?v=O-Yfe-7OfSM) | — | — | [transcript](O-Yfe-7OfSM/transcript.md) |
 | — | Aswath Damodaran | [Session 5 (Undergraduate): Risk and Return Models](https://www.youtube.com/watch?v=O0eOdrK85uk) | — | — | [transcript](O0eOdrK85uk/transcript.md) · [materials](O0eOdrK85uk/materials/) |
@@ -1103,6 +1150,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [E21: NVIDIA'S HUGE AI Chip Breakthroughs Change Everything](https://www.youtube.com/watch?v=OoKRnWK30JY) | — | — | [transcript](OoKRnWK30JY/transcript.md) · [visuals](OoKRnWK30JY/visuals.md) |
 | — | Aswath Damodaran | [Session 6: Equity Risk Premiums](https://www.youtube.com/watch?v=Or8VGMUOqBY) | — | — | [transcript](Or8VGMUOqBY/transcript.md) · [materials](Or8VGMUOqBY/materials/) |
 | — | BWB - Business With Brian | [I Was Ranked #1: My Top Stock Picks for 2026 📈](https://www.youtube.com/watch?v=OsEeetpStF4) | — | — | [transcript](OsEeetpStF4/transcript.md) |
+| — | HealthyGamerGG | [What to Do After You Get Laid Off…](https://www.youtube.com/watch?v=Ot4ojgFArbo) | — | — | [transcript](Ot4ojgFArbo/transcript.md) |
 | — | HealthyGamerGG | [Why You Can’t Stop Scrolling (End-Stage Screen Addiction)](https://www.youtube.com/watch?v=OwlXbUYDf0w) | — | — | [transcript](OwlXbUYDf0w/transcript.md) |
 | — | Aswath Damodaran | [Session 16 (Undergraduate): Options in Projects and First Steps on Debt](https://www.youtube.com/watch?v=OyHvZC9aT40) | — | — | [transcript](OyHvZC9aT40/transcript.md) · [materials](OyHvZC9aT40/materials/) |
 | — | Aswath Damodaran | [Viral Market Update XII: The Resilience of Risk Capital](https://www.youtube.com/watch?v=Oyq13AcQQGk) | — | — | [transcript](Oyq13AcQQGk/transcript.md) · [materials](Oyq13AcQQGk/materials/) |
@@ -1129,11 +1177,13 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [Give Me 12 Minutes And I'll Teach You SHADOW WORK](https://www.youtube.com/watch?v=PWv125ieRHM) | — | — | [transcript](PWv125ieRHM/transcript.md) |
 | — | HealthyGamerGG | [Anhedonia: why nothing feels fun anymore](https://www.youtube.com/watch?v=PZMWdRnm8Wg) | — | — | [transcript](PZMWdRnm8Wg/transcript.md) |
 | — | Aswath Damodaran | [Perception, Illusion and Reality: Stock Splits and Index Inclusions (Exclusions)](https://www.youtube.com/watch?v=P_W2qGprPtg) | — | — | [transcript](P_W2qGprPtg/transcript.md) · [materials](P_W2qGprPtg/materials/) |
+| — | HealthyGamerGG | [5 Habits that Destroy Your Productivity](https://www.youtube.com/watch?v=Pa51EGS7Hnc) | — | — | [transcript](Pa51EGS7Hnc/transcript.md) |
 | — | Aswath Damodaran | [January 2019 Data Update 8: Buybacks - Fact and Fiction](https://www.youtube.com/watch?v=PeChOugZl3A) | — | — | [transcript](PeChOugZl3A/transcript.md) · [materials](PeChOugZl3A/materials/) |
 | — | Aswath Damodaran | [Session 19: APV & Relative Analysis - Capital Structure](https://www.youtube.com/watch?v=PedOLRN-gP8) | — | — | [transcript](PedOLRN-gP8/transcript.md) · [materials](PedOLRN-gP8/materials/) |
 | — | Felix & Friends (Goat Academy) | [They Crashed Japan on Purpose… Here’s The Real Plan](https://www.youtube.com/watch?v=Pfuq2jcLpHU) | — | — | [transcript](Pfuq2jcLpHU/transcript.md) |
 | — | Aswath Damodaran | [Terminal Value Myth 3: Growth is good, more growth is better!](https://www.youtube.com/watch?v=PjMTqLvdqfI) | — | — | [transcript](PjMTqLvdqfI/transcript.md) |
 | — | Greg Isenberg | [Sahil Bloom Gives You a Plan for 2026](https://www.youtube.com/watch?v=Pl_nmulyjqI) | — | — | [transcript](Pl_nmulyjqI/transcript.md) |
+| — | HealthyGamerGG | [You Can't LOGIC Your Way Out of Depression](https://www.youtube.com/watch?v=PmGIwRvcIrg) | — | — | [transcript](PmGIwRvcIrg/transcript.md) |
 | — | Riley Brown | [How I Created & Shipped a Full iOS App With AI (With VibeCode App)](https://www.youtube.com/watch?v=Pq_gP9GEDeo) | — | — | [transcript](Pq_gP9GEDeo/transcript.md) |
 | — | Greg Isenberg | [Watch me use AI to make millions in ecommerce](https://www.youtube.com/watch?v=PrP_aGVLBMI) | — | — | [transcript](PrP_aGVLBMI/transcript.md) |
 | — | Aswath Damodaran | [Data Update 4 for 2025: Interest Rates, Inflation and the Fed!](https://www.youtube.com/watch?v=Pt-tJJZNFPo) | — | — | [transcript](Pt-tJJZNFPo/transcript.md) · [materials](Pt-tJJZNFPo/materials/) |
@@ -1225,7 +1275,9 @@ Each transcript link points to the full text under this folder.
 | — | Riley Brown | [Claude Code: The NEW Way to Code (Here’s How)](https://www.youtube.com/watch?v=SjDvHYZGFaQ) | — | — | [transcript](SjDvHYZGFaQ/transcript.md) |
 | — | Aswath Damodaran | [Session 2 (Undergraduate): More themes in corporate finance & introducing its objective](https://www.youtube.com/watch?v=SkBNurlXRGs) | — | — | [transcript](SkBNurlXRGs/transcript.md) · [materials](SkBNurlXRGs/materials/) |
 | — | Greg Isenberg | [Claude Code New Features, Explained](https://www.youtube.com/watch?v=SkY-tR9kf-k) | — | — | [transcript](SkY-tR9kf-k/transcript.md) |
+| — | HealthyGamerGG | [AITA For Crossing Boundaries With My GF?](https://www.youtube.com/watch?v=SleABv6Gs9o) | — | — | [transcript](SleABv6Gs9o/transcript.md) |
 | — | Chris Raroque | [How I keep my app stable - Day in the life of a software developer (Building Ellie ep.6)](https://www.youtube.com/watch?v=SplDgwzmX2A) | — | — | [transcript](SplDgwzmX2A/transcript.md) |
+| — | HealthyGamerGG | [What People Don't Understand About OCD](https://www.youtube.com/watch?v=Sz9bg3GMNGU) | — | — | [transcript](Sz9bg3GMNGU/transcript.md) |
 | — | Aswath Damodaran | [Walmart's Flipkart Gambit: Growth Rebirth or Costly Facelift?](https://www.youtube.com/watch?v=T--w6IY-DIE) | — | — | [transcript](T--w6IY-DIE/transcript.md) · [materials](T--w6IY-DIE/materials/) |
 | — | HealthyGamerGG | [What Your Dreams Are Actually Trying To Tell You](https://www.youtube.com/watch?v=T-sphXaWLCI) | — | — | [transcript](T-sphXaWLCI/transcript.md) |
 | — | Aswath Damodaran | [Session 16: The Debt Equity Trade off](https://www.youtube.com/watch?v=T0lBRwFlF3E) | — | — | [transcript](T0lBRwFlF3E/transcript.md) · [materials](T0lBRwFlF3E/materials/) |
@@ -1233,11 +1285,14 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Announcing Pre-Orders For Dr. K's Book - How to Raise a Healthy Gamer](https://www.youtube.com/watch?v=T5yDfN7eGaI) | — | — | [transcript](T5yDfN7eGaI/transcript.md) |
 | — | Chris Raroque | [How I use my own app (ellieplanner.com) to timebox my day](https://www.youtube.com/watch?v=T7ubIkjfoYU) | — | — | [transcript](T7ubIkjfoYU/transcript.md) |
 | — | JulienHimself | [STOP Trying To Be "Cool" & Instead Do This!](https://www.youtube.com/watch?v=T8_JsmJxHU8) | — | — | [transcript](T8_JsmJxHU8/transcript.md) |
+| — | HealthyGamerGG | [Why Video Games Are So Hard To Put Down (And How To Learn To Moderate)](https://www.youtube.com/watch?v=T8tq0xiOwKI) | — | — | [transcript](T8tq0xiOwKI/transcript.md) |
 | — | HealthyGamerGG | [Is It Too Late To Start Your Life Over?](https://www.youtube.com/watch?v=TATiapf0tF4) | — | — | [transcript](TATiapf0tF4/transcript.md) |
 | — | Ticker Symbol: YOU | [I Can't Stay Quiet on Google Stock (GOOG) Any Longer](https://www.youtube.com/watch?v=TAoAGrF5c-w) | — | — | [transcript](TAoAGrF5c-w/transcript.md) · [visuals](TAoAGrF5c-w/visuals.md) |
 | — | Ticker Symbol: YOU | [SpaceX: The Most Tragic IPO In Stock Market History](https://www.youtube.com/watch?v=TEimEZVjN9o) | — | — | [transcript](TEimEZVjN9o/transcript.md) · [visuals](TEimEZVjN9o/visuals.md) |
+| — | HealthyGamerGG | [How to Start to Find Purpose in Your Life](https://www.youtube.com/watch?v=TGGwCG6AFz4) | — | — | [transcript](TGGwCG6AFz4/transcript.md) |
 | — | JulienHimself | [Why Trying To Be "LIKED" Doesn't Work Anymore](https://www.youtube.com/watch?v=TJCBIzBD_x4) | — | — | [transcript](TJCBIzBD_x4/transcript.md) |
 | — | Aswath Damodaran | [Session 2: The Structure of a Business](https://www.youtube.com/watch?v=TKoLoLVI_Js) | — | — | [transcript](TKoLoLVI_Js/transcript.md) · [materials](TKoLoLVI_Js/materials/) |
+| — | HealthyGamerGG | [Psychiatrist Answers Twitter's Questions About Online Gambling (Gambling Addiction)](https://www.youtube.com/watch?v=TLignTQm5iA) | — | — | [transcript](TLignTQm5iA/transcript.md) |
 | — | Ben Yanes | [How to Actually Hit Chest on Any Machine Press](https://www.youtube.com/watch?v=TOnxfzgmHMk) | — | — | [transcript](TOnxfzgmHMk/transcript.md) |
 | — | HealthyGamerGG | [The Neuroscience Behind Male Rage](https://www.youtube.com/watch?v=TRsEi1Ce-XA) | — | — | [transcript](TRsEi1Ce-XA/transcript.md) |
 | — | HealthyGamerGG | [Why Your Thoughts Aren’t The Enemy](https://www.youtube.com/watch?v=TSBd_Ku1Zf0) | — | — | [transcript](TSBd_Ku1Zf0/transcript.md) |
@@ -1286,6 +1341,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [In Practice Webcast 10a: You have an optimal debt ratio, now what?](https://www.youtube.com/watch?v=VApq5ZRb1TU) | — | — | [transcript](VApq5ZRb1TU/transcript.md) · [materials](VApq5ZRb1TU/materials/) |
 | — | HealthyGamerGG | [How To Defuse Procrastination And Be Productive (Without Using Willpower)](https://www.youtube.com/watch?v=VBifDZwPiI4) | — | — | [transcript](VBifDZwPiI4/transcript.md) |
 | — | New Money | [Mohnish Pabrai's Brutally Honest Thoughts on the Stock Market.](https://www.youtube.com/watch?v=VClxzcbjpgA) | — | — | [transcript](VClxzcbjpgA/transcript.md) |
+| — | HealthyGamerGG | [What Happens When a Gifted Kid Grows Up](https://www.youtube.com/watch?v=VEBDy7h_2y4) | — | — | [transcript](VEBDy7h_2y4/transcript.md) |
 | — | Aswath Damodaran | [Shareholder Value to Stakeholder Interests: CEO Capitulation or Empty Doublespeak?](https://www.youtube.com/watch?v=VINIeZ2nHbQ) | — | — | [transcript](VINIeZ2nHbQ/transcript.md) · [materials](VINIeZ2nHbQ/materials/) |
 | — | Ben Yanes | [Lifting Gives You Pain - Now What?](https://www.youtube.com/watch?v=VIiR2tldZ4c) | — | — | [transcript](VIiR2tldZ4c/transcript.md) |
 | — | Ticker Symbol: YOU | [These 7 AI Stocks Will Make Millionaires (New Magnificent 7)](https://www.youtube.com/watch?v=VMGR-v0ZoPs) | — | — | [transcript](VMGR-v0ZoPs/transcript.md) · [visuals](VMGR-v0ZoPs/visuals.md) |
@@ -1328,6 +1384,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [The Secret To Rear Delt Growth \| Learn Biomechanics](https://www.youtube.com/watch?v=WR86bb4N3E4) | — | — | [transcript](WR86bb4N3E4/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Gold's Bloodbath, the Dollar Reset, and What Happens Next](https://www.youtube.com/watch?v=WWRJJ1vBsnw) | — | — | [transcript](WWRJJ1vBsnw/transcript.md) |
 | — | Aswath Damodaran | [Review for Final Exam](https://www.youtube.com/watch?v=WZ7bwKnONsw) | — | — | [transcript](WZ7bwKnONsw/transcript.md) |
+| — | HealthyGamerGG | [Dr. K Explains: Obsessive Compulsive Disorder (OCD)](https://www.youtube.com/watch?v=WZUOnhpqFAM) | — | — | [transcript](WZUOnhpqFAM/transcript.md) |
 | — | Ticker Symbol: YOU | [E17: I Flew 2800 Miles to Ask NVIDIA About AI Agents](https://www.youtube.com/watch?v=WaydA3mhYJ8) | — | — | [transcript](WaydA3mhYJ8/transcript.md) · [visuals](WaydA3mhYJ8/visuals.md) |
 | — | Aswath Damodaran | [Runaway Story to Meltdown in Motion: The Unraveling of the WeWork IPO](https://www.youtube.com/watch?v=WhDi_2-hvLw) | — | — | [transcript](WhDi_2-hvLw/transcript.md) · [materials](WhDi_2-hvLw/materials/) |
 | — | Felix & Friends (Goat Academy) | [If You Missed Palantir or Nvidia. This is Even Bigger. (Most Aren’t Ready)](https://www.youtube.com/watch?v=WhNytjLPkDc) | — | — | [transcript](WhNytjLPkDc/transcript.md) |
@@ -1369,6 +1426,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 25: Valuation - The Last Frontier!](https://www.youtube.com/watch?v=XxdjBiF0bVc) | — | — | [transcript](XxdjBiF0bVc/transcript.md) · [materials](XxdjBiF0bVc/materials/) |
 | — | Felix & Friends (Goat Academy) | [A Once in a Lifetime Financial Reset is Coming. (Why Gold is Next)](https://www.youtube.com/watch?v=XyDktgyuK2c) | — | — | [transcript](XyDktgyuK2c/transcript.md) |
 | — | JulienHimself | [SOCIAL ANXIETY HACKS Everyone Should Know](https://www.youtube.com/watch?v=XylV5PRAa9g) | — | — | [transcript](XylV5PRAa9g/transcript.md) |
+| — | HealthyGamerGG | [Talking with ExtraEmily - @extra emily](https://www.youtube.com/watch?v=XzsQuH03Y9o) | — | — | [transcript](XzsQuH03Y9o/transcript.md) |
 | — | Aswath Damodaran | [The Indian Smartphone Revolution: Paytm's "Coming of Age" IPO](https://www.youtube.com/watch?v=Y0U-XsjQdD4) | — | — | [transcript](Y0U-XsjQdD4/transcript.md) · [materials](Y0U-XsjQdD4/materials/) |
 | — | Aswath Damodaran | [Session 8 (MBA): Determinants of Betas](https://www.youtube.com/watch?v=Y1t0fPrfAdo) | — | — | [transcript](Y1t0fPrfAdo/transcript.md) · [materials](Y1t0fPrfAdo/materials/) |
 | — | Felix & Friends (Goat Academy) | [The Global Monetary Reset Has Begun (Hint: Act Now!)](https://www.youtube.com/watch?v=Y4FSMYSt2zQ) | — | — | [transcript](Y4FSMYSt2zQ/transcript.md) |
@@ -1378,6 +1436,7 @@ Each transcript link points to the full text under this folder.
 | — | Riley Brown | [Build The Ultimate AI Second Brain With Notion + Codex](https://www.youtube.com/watch?v=YGWcFMR8gk8) | — | — | [transcript](YGWcFMR8gk8/transcript.md) |
 | — | New Money | [Jamie Dimon Explains How America's Economy Will Deflate (2026)](https://www.youtube.com/watch?v=YGXWzizs5bo) | — | — | [transcript](YGXWzizs5bo/transcript.md) |
 | — | Riley Brown | [I Made a $1 Billion App in 34 Minutes (How You Can Too)](https://www.youtube.com/watch?v=YKqU394Ye9Y) | — | — | [transcript](YKqU394Ye9Y/transcript.md) |
+| — | HealthyGamerGG | [This is Why You're Indecisive](https://www.youtube.com/watch?v=YNOQzE1XTdU) | — | — | [transcript](YNOQzE1XTdU/transcript.md) |
 | — | New Money | [Are We Literally Staring at Another Dot Com Bubble?](https://www.youtube.com/watch?v=YQWgf7oEnIk) | — | — | [transcript](YQWgf7oEnIk/transcript.md) |
 | — | Greg Isenberg | [How I Use Clawdbot to Run My Business and Life 24/7](https://www.youtube.com/watch?v=YRhGtHfs1Lw) | — | — | [transcript](YRhGtHfs1Lw/transcript.md) |
 | — | Aswath Damodaran | [Session 6: Equity Risk Premiums](https://www.youtube.com/watch?v=YRtgxu52n38) | — | — | [transcript](YRtgxu52n38/transcript.md) · [materials](YRtgxu52n38/materials/) |
@@ -1408,6 +1467,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Data Update 6 for 2020: Growth, Profitability and Reinvestment](https://www.youtube.com/watch?v=Yz2bzPNSS3c) | — | — | [transcript](Yz2bzPNSS3c/transcript.md) · [materials](Yz2bzPNSS3c/materials/) |
 | — | Aswath Damodaran | [Data Update 1 for 2018: The Numbers don't lie, or do they?](https://www.youtube.com/watch?v=Z0bpQM3gbQk) | — | — | [transcript](Z0bpQM3gbQk/transcript.md) · [materials](Z0bpQM3gbQk/materials/) |
 | — | Aswath Damodaran | [Capital Structure (updated for January 2018)](https://www.youtube.com/watch?v=Z229yOq5vjA) | — | — | [transcript](Z229yOq5vjA/transcript.md) · [materials](Z229yOq5vjA/materials/) |
+| — | HealthyGamerGG | [Imposter Syndrome Is Holding You Back In Life...](https://www.youtube.com/watch?v=Z4P40hzv7OI) | — | — | [transcript](Z4P40hzv7OI/transcript.md) |
 | — | JulienHimself | [ANXIETY ATTACK? Watch This Before You Spiral...](https://www.youtube.com/watch?v=Z4vRfMvqkVk) | — | — | [transcript](Z4vRfMvqkVk/transcript.md) |
 | — | JulienHimself | [Quitting Smoking Is Easier Than You Think…](https://www.youtube.com/watch?v=Z94qrmzoVTo) | — | — | [transcript](Z94qrmzoVTo/transcript.md) |
 | — | Ben Yanes | [Is Squatting Like This Actually Bad?](https://www.youtube.com/watch?v=ZDhTxAqld1c) | — | — | [transcript](ZDhTxAqld1c/transcript.md) |
@@ -1425,6 +1485,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [WTF Happened to Lengthened Partials? \| Biomechanics Academy Podcast #3](https://www.youtube.com/watch?v=ZVWM5f4my0c) | — | — | [transcript](ZVWM5f4my0c/transcript.md) |
 | — | Aswath Damodaran | [The Macro Delusion and Pricing Bubbles: The Good, Bad and the Ugly!](https://www.youtube.com/watch?v=ZWwsOan0tHk) | — | — | [transcript](ZWwsOan0tHk/transcript.md) · [materials](ZWwsOan0tHk/materials/) |
 | — | Aswath Damodaran | [Session 6: Financial Ratios](https://www.youtube.com/watch?v=ZXXF-rSaE9E) | — | — | [transcript](ZXXF-rSaE9E/transcript.md) · [materials](ZXXF-rSaE9E/materials/) |
+| — | HealthyGamerGG | [It's done! 4 Modules in 1 Bundle.](https://www.youtube.com/watch?v=ZYOfFk8zZW8) | — | — | [transcript](ZYOfFk8zZW8/transcript.md) |
 | — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on GOOGLE vs NVIDIA Any Longer](https://www.youtube.com/watch?v=ZZ2nWg1QhR4) | — | — | [transcript](ZZ2nWg1QhR4/transcript.md) |
 | — | Aswath Damodaran | [Session 16: Wrapping up Investment Analysis](https://www.youtube.com/watch?v=ZZSIDJXzIII) | — | — | [transcript](ZZSIDJXzIII/transcript.md) · [materials](ZZSIDJXzIII/materials/) |
 | — | JulienHimself | [Psychological Tricks People Use To Make You Feel Inferior](https://www.youtube.com/watch?v=Z_LcCfGjJf0) | — | — | [transcript](Z_LcCfGjJf0/transcript.md) |
@@ -1445,6 +1506,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [Unfortunately, Fitness Really Isn't Simple](https://www.youtube.com/watch?v=_CmhLvyWytM) | — | — | [transcript](_CmhLvyWytM/transcript.md) |
 | — | BWB - Business With Brian | [Quantum Stocks That Could 10X Before 2030!](https://www.youtube.com/watch?v=_DKkcn1mpAI) | — | — | [transcript](_DKkcn1mpAI/transcript.md) |
 | — | Aswath Damodaran | [Session 18: Revenue Multiples](https://www.youtube.com/watch?v=_ECSqmEppqA) | — | — | [transcript](_ECSqmEppqA/transcript.md) |
+| — | HealthyGamerGG | [Why is it Impossible to Gain Confidence?](https://www.youtube.com/watch?v=_FZUc_AmBvY) | — | — | [transcript](_FZUc_AmBvY/transcript.md) |
 | — | Greg Isenberg | [Building a Software Factory that actually works (Full Course)](https://www.youtube.com/watch?v=_LCeJZFIsd4) | — | — | [transcript](_LCeJZFIsd4/transcript.md) |
 | — | HealthyGamerGG | [Why Gifted People Burn Out The Fastest](https://www.youtube.com/watch?v=_N6qPEA_dGc) | — | — | [transcript](_N6qPEA_dGc/transcript.md) |
 | — | Aswath Damodaran | [Session 5: Closure on the end game and first steps on risk](https://www.youtube.com/watch?v=_SxIBHEGhbo) | — | — | [transcript](_SxIBHEGhbo/transcript.md) · [materials](_SxIBHEGhbo/materials/) |
@@ -1460,6 +1522,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [This Metal Is Set To Explode (Not Gold Or Silver)](https://www.youtube.com/watch?v=_opyvjj_BTQ) | — | — | [transcript](_opyvjj_BTQ/transcript.md) |
 | — | Aswath Damodaran | [The GE End Game: The Bataan Death March or Resurrection?](https://www.youtube.com/watch?v=_p1mxkW1Fls) | — | — | [transcript](_p1mxkW1Fls/transcript.md) · [materials](_p1mxkW1Fls/materials/) |
 | — | HealthyGamerGG | [Streamer Culture Is A Time Bomb](https://www.youtube.com/watch?v=_t0jCsU_5v4) | — | — | [transcript](_t0jCsU_5v4/transcript.md) |
+| — | HealthyGamerGG | [Therapist Teaches You How To Open Up](https://www.youtube.com/watch?v=_tq6FHP9iXw) | — | — | [transcript](_tq6FHP9iXw/transcript.md) |
 | — | Aswath Damodaran | [Discount Rate Myth 1: If you don't like betas, you cannot do DCF](https://www.youtube.com/watch?v=_uIowZm1DsY) | — | — | [transcript](_uIowZm1DsY/transcript.md) · [materials](_uIowZm1DsY/materials/) |
 | — | JulienHimself | [How A PLASTIC BABY Changed Her Life](https://www.youtube.com/watch?v=_x8S53EDfxc) | — | — | [transcript](_x8S53EDfxc/transcript.md) |
 | — | HealthyGamerGG | [Why You Can Never Clean Your Room](https://www.youtube.com/watch?v=a3IIYz-UlK0) | — | — | [transcript](a3IIYz-UlK0/transcript.md) |
@@ -1467,6 +1530,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Risk Capital and Markets: A Temporary Retreat or Long term Retrenchment?](https://www.youtube.com/watch?v=a9VD38tZz88) | — | — | [transcript](a9VD38tZz88/transcript.md) · [materials](a9VD38tZz88/materials/) |
 | — | Ben Yanes | [The Biggest Back Muscle Nobody Knows](https://www.youtube.com/watch?v=aCHk5G0vxJY) | — | — | [transcript](aCHk5G0vxJY/transcript.md) |
 | — | Aswath Damodaran | [Session 6 (Undergraduate): Risk free Rates and Risk Premiums (Part 1)](https://www.youtube.com/watch?v=aDG8HKJQsrU) | — | — | [transcript](aDG8HKJQsrU/transcript.md) · [materials](aDG8HKJQsrU/materials/) |
+| — | HealthyGamerGG | [This is Why You're Living Life on Autopilot](https://www.youtube.com/watch?v=aEGukyCsHMg) | — | — | [transcript](aEGukyCsHMg/transcript.md) |
 | — | Riley Brown | [We Built 2 FULL Video Games In 7 Prompts (Claude Code vs GPT-5 Codex)](https://www.youtube.com/watch?v=aEdRB2yVK-I) | — | — | [transcript](aEdRB2yVK-I/transcript.md) |
 | — | Aswath Damodaran | [Session 6: Equity Risk Premiums](https://www.youtube.com/watch?v=aIRPvY2SQ94) | — | — | [transcript](aIRPvY2SQ94/transcript.md) · [materials](aIRPvY2SQ94/materials/) |
 | — | JulienHimself | [You're Not "Kind" (You're AFRAID)](https://www.youtube.com/watch?v=aJjEAuAc3pA) | — | — | [transcript](aJjEAuAc3pA/transcript.md) |
@@ -1508,6 +1572,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [The Zomato IPO: A Bet on Big Markets and User Platforms!](https://www.youtube.com/watch?v=baKYuxwiS1o) | — | — | [transcript](baKYuxwiS1o/transcript.md) · [materials](baKYuxwiS1o/materials/) |
 | — | Aswath Damodaran | [Data 2017 Update 1: The Promise and Perils of Data](https://www.youtube.com/watch?v=bafT7qUvcOs) | — | — | [transcript](bafT7qUvcOs/transcript.md) · [materials](bafT7qUvcOs/materials/) |
 | — | Greg Isenberg | [Claude Fable 5 is BANNED. What to do?](https://www.youtube.com/watch?v=bdhUBBACglw) | — | — | [transcript](bdhUBBACglw/transcript.md) |
+| — | HealthyGamerGG | [Let's Talk about Touch Starvation (Reddit Review)](https://www.youtube.com/watch?v=beLEmk_FIEM) | — | — | [transcript](beLEmk_FIEM/transcript.md) |
 | — | Ben Yanes | [Why You Only Feel Your Back on 45° Extensions](https://www.youtube.com/watch?v=bfUY5our0s0) | — | — | [transcript](bfUY5our0s0/transcript.md) |
 | — | Ticker Symbol: YOU | [If You Hold Palantir Stock (PLTR)... GET READY!](https://www.youtube.com/watch?v=bftPNb0y0BA) | — | — | [transcript](bftPNb0y0BA/transcript.md) · [visuals](bftPNb0y0BA/visuals.md) |
 | — | HealthyGamerGG | [This Isn’t Anxiety, It’s ADHD](https://www.youtube.com/watch?v=bj_PSYBCUsM) | — | — | [transcript](bj_PSYBCUsM/transcript.md) |
@@ -1546,6 +1611,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 15: The Whole Foods Dining Case, Synergy and Options in Investing](https://www.youtube.com/watch?v=cosSoL0KZQ4) | — | — | [transcript](cosSoL0KZQ4/transcript.md) · [materials](cosSoL0KZQ4/materials/) |
 | — | Chris Raroque | [I Built An App In 12 Hours](https://www.youtube.com/watch?v=cpF_EtwB8tc) | — | — | [transcript](cpF_EtwB8tc/transcript.md) |
 | — | Aswath Damodaran | [Session 11: Cost of Capital & First Steps on Returns](https://www.youtube.com/watch?v=cqmkxIvwyfs) | — | — | [transcript](cqmkxIvwyfs/transcript.md) · [materials](cqmkxIvwyfs/materials/) |
+| — | HealthyGamerGG | [Does ADHD Make You More Anxious?](https://www.youtube.com/watch?v=cscVzF_n9R0) | — | — | [transcript](cscVzF_n9R0/transcript.md) |
 | — | Aswath Damodaran | [Session 26 (Undergraduate): Dividend Closing & Valuation Opening](https://www.youtube.com/watch?v=cttCBnIDDxA) | — | — | [transcript](cttCBnIDDxA/transcript.md) · [materials](cttCBnIDDxA/materials/) |
 | — | Riley Brown | [This is Why They Banned Claude Fable 5](https://www.youtube.com/watch?v=cv0Pspf6xno) | — | — | [transcript](cv0Pspf6xno/transcript.md) |
 | — | Aswath Damodaran | [Session 9: Beta Determinants and Bottom up Betas](https://www.youtube.com/watch?v=cv_WF2wPd2I) | — | — | [transcript](cv_WF2wPd2I/transcript.md) · [materials](cv_WF2wPd2I/materials/) |
@@ -1553,6 +1619,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Why Your Sleep Habits Aren't Healthy](https://www.youtube.com/watch?v=cyKEfejsVps) | — | — | [transcript](cyKEfejsVps/transcript.md) |
 | — | Aswath Damodaran | [Session 2 (MBA): The Objective in Corporate Finance](https://www.youtube.com/watch?v=d31O4aRU-V0) | — | — | [transcript](d31O4aRU-V0/transcript.md) · [materials](d31O4aRU-V0/materials/) |
 | — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is About to Happen to SILVER](https://www.youtube.com/watch?v=d6dyNRzk_yM) | — | — | [transcript](d6dyNRzk_yM/transcript.md) |
+| — | HealthyGamerGG | [Why You Can't Just Be Normal...](https://www.youtube.com/watch?v=d6pF4vq9Y9c) | — | — | [transcript](d6pF4vq9Y9c/transcript.md) |
 | — | Aswath Damodaran | [Value Investing III: Rebirth, Reincarnation or Requiem?](https://www.youtube.com/watch?v=dA9AlDAbcMI) | — | — | [transcript](dA9AlDAbcMI/transcript.md) · [materials](dA9AlDAbcMI/materials/) |
 | — | Chris Raroque | [Undo task deletion - Ellie](https://www.youtube.com/watch?v=dCPYbQGxrQc) | — | — | [transcript](dCPYbQGxrQc/transcript.md) |
 | — | Ben Yanes | [Why You're Stronger But Not Bigger](https://www.youtube.com/watch?v=dDPLql78nAA) | — | — | [transcript](dDPLql78nAA/transcript.md) |
@@ -1566,6 +1633,7 @@ Each transcript link points to the full text under this folder.
 | — | Riley Brown | [Browsers Are Dead. Claude Just Replaced Them.](https://www.youtube.com/watch?v=dSndHNRzFCg) | — | — | [transcript](dSndHNRzFCg/transcript.md) |
 | — | Ticker Symbol: YOU | [I Can't Stay Quiet on CoreWeave Stock (CRWV) Any Longer](https://www.youtube.com/watch?v=dT2sUPF52lg) | — | — | [transcript](dT2sUPF52lg/transcript.md) |
 | — | Aswath Damodaran | [Management Matters: Facebook and Twitter](https://www.youtube.com/watch?v=dVjSzHBzAUA) | — | — | [transcript](dVjSzHBzAUA/transcript.md) · [materials](dVjSzHBzAUA/materials/) |
+| — | HealthyGamerGG | [Loneliness - The Silent Struggle We All Feel](https://www.youtube.com/watch?v=dWS3A2EAwTk) | — | — | [transcript](dWS3A2EAwTk/transcript.md) |
 | — | Aswath Damodaran | [Session 22: Dividends, Taxes and Trade offs](https://www.youtube.com/watch?v=dWi4KtdD624) | — | — | [transcript](dWi4KtdD624/transcript.md) · [materials](dWi4KtdD624/materials/) |
 | — | Aswath Damodaran | [Deutsche Bank: A Greek Tragedy at a German Institution?](https://www.youtube.com/watch?v=dXhAGTSMlF0) | — | — | [transcript](dXhAGTSMlF0/transcript.md) · [materials](dXhAGTSMlF0/materials/) |
 | — | Greg Isenberg | [OpenAI's NEW AI Agent Builder Replaces n8n & Zapier](https://www.youtube.com/watch?v=dYb6DGBhBBk) | — | — | [transcript](dYb6DGBhBBk/transcript.md) |
@@ -1630,6 +1698,7 @@ Each transcript link points to the full text under this folder.
 | — | Riley Brown | [Master Claude for Excel in 20 Minutes (Full Guide)](https://www.youtube.com/watch?v=fZ1Kmuafzzk) | — | — | [transcript](fZ1Kmuafzzk/transcript.md) |
 | — | HealthyGamerGG | [Self Awareness, Mental Health & More - Talking with @RTGame](https://www.youtube.com/watch?v=fayaDRGBkv0) | — | — | [transcript](fayaDRGBkv0/transcript.md) |
 | — | Aswath Damodaran | [The Indexing Question: Should SpaceX, OpenAI and Anthropic be in the S&P 500?](https://www.youtube.com/watch?v=fbesNIjd_pY) | — | — | [transcript](fbesNIjd_pY/transcript.md) · [materials](fbesNIjd_pY/materials/) |
+| — | HealthyGamerGG | [How To Not Take Feedback Personally](https://www.youtube.com/watch?v=fd41IXXImxM) | — | — | [transcript](fd41IXXImxM/transcript.md) |
 | — | Greg Isenberg | [I fixed OpenClaw so it actually works (full setup)](https://www.youtube.com/watch?v=fd4k16REDOU) | — | — | [transcript](fd4k16REDOU/transcript.md) |
 | — | Aswath Damodaran | [Session 17: Optimizing the Debt Mix with Cost of Capital approach](https://www.youtube.com/watch?v=fdEnaqWUYzM) | — | — | [transcript](fdEnaqWUYzM/transcript.md) · [materials](fdEnaqWUYzM/materials/) |
 | — | Chris Raroque | [I Built An AI Agent - Here’s How I Test It](https://www.youtube.com/watch?v=fdqnj2ZJSLI) | — | — | [transcript](fdqnj2ZJSLI/transcript.md) |
@@ -1641,6 +1710,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Deep Dive into Relationships and Attachment Styles \| MEMBERS' LIVESTREAM](https://www.youtube.com/watch?v=fpXFXQfFa1c) | — | — | [transcript](fpXFXQfFa1c/transcript.md) |
 | — | New Money | [Elon Musk's Controversial New Plan for Tesla...](https://www.youtube.com/watch?v=fsEa6jX06jU) | — | — | [transcript](fsEa6jX06jU/transcript.md) |
 | — | Aswath Damodaran | [Fairness Opinions: Time to fish or cut bait!](https://www.youtube.com/watch?v=fumkkYEu_tk) | — | — | [transcript](fumkkYEu_tk/transcript.md) |
+| — | HealthyGamerGG | [Why I Work 7 Days A Week... (Productivity and Burnout)](https://www.youtube.com/watch?v=fvj7D2DT1JQ) | — | — | [transcript](fvj7D2DT1JQ/transcript.md) |
 | — | Aswath Damodaran | [DeepSeek crashes the AI Party: Story break, change or shift?](https://www.youtube.com/watch?v=fx5jnE5HnhE) | — | — | [transcript](fx5jnE5HnhE/transcript.md) · [materials](fx5jnE5HnhE/materials/) |
 | — | Aswath Damodaran | [January 2019 Data Update 5: Of Hurdle Rates and Funding Costs](https://www.youtube.com/watch?v=fxJ5jZwzjIo) | — | — | [transcript](fxJ5jZwzjIo/transcript.md) · [materials](fxJ5jZwzjIo/materials/) |
 | — | Aswath Damodaran | [Data 2017 Update 9: Dividends, Rodney Dangerfield of Corporate Finance](https://www.youtube.com/watch?v=fxq7egTZg0Y) | — | — | [transcript](fxq7egTZg0Y/transcript.md) · [materials](fxq7egTZg0Y/materials/) |
@@ -1661,10 +1731,12 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Why 40% of Young Men Have Erectile Dysfunction](https://www.youtube.com/watch?v=gWX1xuXAVw4) | — | — | [transcript](gWX1xuXAVw4/transcript.md) |
 | — | HealthyGamerGG | [What Makes ADHD in Women Different](https://www.youtube.com/watch?v=gaFianJ8x4M) | — | — | [transcript](gaFianJ8x4M/transcript.md) |
 | — | Aswath Damodaran | [Introduction to corporate finance session](https://www.youtube.com/watch?v=gbtB1g2bK4M) | — | — | [transcript](gbtB1g2bK4M/transcript.md) |
+| — | HealthyGamerGG | [So What Is Dr. K's Guide to Mental Health?](https://www.youtube.com/watch?v=gfuPfzBGbVo) | — | — | [transcript](gfuPfzBGbVo/transcript.md) |
 | — | Aswath Damodaran | [Quiz 3: Review Webcast](https://www.youtube.com/watch?v=gg8MhWjWSs8) | — | — | [transcript](gg8MhWjWSs8/transcript.md) · [materials](gg8MhWjWSs8/materials/) |
 | — | Chris Raroque | [We Built An App And Got 100 Users!](https://www.youtube.com/watch?v=ghxgQaxZ9Kw) | — | — | [transcript](ghxgQaxZ9Kw/transcript.md) |
 | — | Aswath Damodaran | [Quiz3: Review Session (MBA)](https://www.youtube.com/watch?v=giYQ2HxeaWg) | — | — | [transcript](giYQ2HxeaWg/transcript.md) · [materials](giYQ2HxeaWg/materials/) |
 | — | Aswath Damodaran | [Session 9: Beta Determinants and Bottom up Betas](https://www.youtube.com/watch?v=gkYXsuz05Ts) | — | — | [transcript](gkYXsuz05Ts/transcript.md) · [materials](gkYXsuz05Ts/materials/) |
+| — | HealthyGamerGG | [Why Gifted Kids Are Afraid of Failure](https://www.youtube.com/watch?v=gm-eQdHIyyk) | — | — | [transcript](gm-eQdHIyyk/transcript.md) |
 | — | Greg Isenberg | [Claude Opus 4.6 vs GPT-5.3 Codex](https://www.youtube.com/watch?v=gmSnQPzoYHA) | — | — | [transcript](gmSnQPzoYHA/transcript.md) |
 | — | Aswath Damodaran | [Investing Politics: Making Sense of Trump, Tariffs and Tesla!](https://www.youtube.com/watch?v=gogGFGDyF9c) | — | — | [transcript](gogGFGDyF9c/transcript.md) · [materials](gogGFGDyF9c/materials/) |
 | — | HealthyGamerGG | [Boundaries Don't Work - Here's Why](https://www.youtube.com/watch?v=gqwjBEf3znc) | — | — | [transcript](gqwjBEf3znc/transcript.md) |
@@ -1688,6 +1760,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 20 (Undergraduate): The Cost of Capital and Financing Mix](https://www.youtube.com/watch?v=hNSUygf4bxQ) | — | — | [transcript](hNSUygf4bxQ/transcript.md) · [materials](hNSUygf4bxQ/materials/) |
 | — | HealthyGamerGG | [We Give Discipline Too Much Credit, Here’s What Actually Works](https://www.youtube.com/watch?v=hQRjSn7_BKY) | — | — | [transcript](hQRjSn7_BKY/transcript.md) |
 | — | Aswath Damodaran | [Session 18: Cost of Capital as Financing Mix Optimizer](https://www.youtube.com/watch?v=hVZUd2Rce-o) | — | — | [transcript](hVZUd2Rce-o/transcript.md) · [materials](hVZUd2Rce-o/materials/) |
+| — | HealthyGamerGG | [This is How You Can Counteract Negative Thoughts (Morning Routine)](https://www.youtube.com/watch?v=hYK6Y9kkPrg) | — | — | [transcript](hYK6Y9kkPrg/transcript.md) |
 | — | Ben Yanes | [Upper Chest - Everything You Need To Know](https://www.youtube.com/watch?v=hbaRnp_hz2I) | — | — | [transcript](hbaRnp_hz2I/transcript.md) |
 | — | Aswath Damodaran | [Session 1: Setting the table](https://www.youtube.com/watch?v=hc9JuBlfor4) | — | — | [transcript](hc9JuBlfor4/transcript.md) · [materials](hc9JuBlfor4/materials/) |
 | — | BWB - Business With Brian | [Options Trading for Beginners:  Total Guide with Examples!](https://www.youtube.com/watch?v=hcalZ_sRtRY) | — | — | [transcript](hcalZ_sRtRY/transcript.md) |
@@ -1706,11 +1779,13 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Making $$$ with OpenClaw](https://www.youtube.com/watch?v=i13XK-uUOLQ) | — | — | [transcript](i13XK-uUOLQ/transcript.md) |
 | — | Greg Isenberg | [Vercel's CEO Shares 5 AI Startup Ideas So Good You’ll Quit Your Job](https://www.youtube.com/watch?v=i43kYARbSGM) | — | — | [transcript](i43kYARbSGM/transcript.md) |
 | — | Aswath Damodaran | [Session 9: The Right Financing Mix](https://www.youtube.com/watch?v=i4atCUbe_CM) | — | — | [transcript](i4atCUbe_CM/transcript.md) · [materials](i4atCUbe_CM/materials/) |
+| — | HealthyGamerGG | [Shame Isn't Something to Overcome Alone](https://www.youtube.com/watch?v=i5BE-AK4FKM) | — | — | [transcript](i5BE-AK4FKM/transcript.md) |
 | — | Aswath Damodaran | [Session 15: The Case (Lowe's Furniture) and Implications for Investment Analysis](https://www.youtube.com/watch?v=i6ijmkoAKqc) | — | — | [transcript](i6ijmkoAKqc/transcript.md) · [materials](i6ijmkoAKqc/materials/) |
 | — | Aswath Damodaran | [Session 5B: Data Relationships - More Applications in Finance & Investing](https://www.youtube.com/watch?v=i7oD_8gPXnI) | — | — | [transcript](i7oD_8gPXnI/transcript.md) · [materials](i7oD_8gPXnI/materials/) |
 | — | Aswath Damodaran | [Chapter/Session 10: Valuing and Pricing Start-ups and Young High Growth Firms](https://www.youtube.com/watch?v=i80avS70k8E) | — | — | [transcript](i80avS70k8E/transcript.md) · [materials](i80avS70k8E/materials/) |
 | — | Ben Yanes | [THE Chest Press Masterclass](https://www.youtube.com/watch?v=i8Te1lsSXHk) | — | — | [transcript](i8Te1lsSXHk/transcript.md) |
 | — | Aswath Damodaran | [Session 2: Shareholders, Stakeholders and the End Game in Business](https://www.youtube.com/watch?v=iB_KEfHySyA) | — | — | [transcript](iB_KEfHySyA/transcript.md) · [materials](iB_KEfHySyA/materials/) |
+| — | HealthyGamerGG | [She's Been Online All Her Life - Talking with Adrianah Lee](https://www.youtube.com/watch?v=iDdjSfM5JCI) | — | — | [transcript](iDdjSfM5JCI/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The FED Just Did the UNTHINKABLE (Global Monetary Reset Starts Now)](https://www.youtube.com/watch?v=iGd35DO24Mg) | — | — | [transcript](iGd35DO24Mg/transcript.md) |
 | — | Greg Isenberg | [OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI) | — | — | [transcript](iHyK-CW3ciI/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Iran Oil Crisis: What's About to Happen to Your Gold & Silver](https://www.youtube.com/watch?v=iJ63xafWM1s) | — | — | [transcript](iJ63xafWM1s/transcript.md) |
@@ -1724,6 +1799,7 @@ Each transcript link points to the full text under this folder.
 | — | Riley Brown | [28 Insane Things Astra Can Do (2 Hour Course)](https://www.youtube.com/watch?v=ifz8NGHuHtY) | — | — | [transcript](ifz8NGHuHtY/transcript.md) |
 | — | Aswath Damodaran | [An Ode to Restraint: Lessons from the Tim Cook Legacy!](https://www.youtube.com/watch?v=ig2ewJ9wx2Y) | — | — | [transcript](ig2ewJ9wx2Y/transcript.md) · [materials](ig2ewJ9wx2Y/materials/) |
 | — | Aswath Damodaran | [Data Update 2 for 2018: The (Continued) Resilience of US Equities](https://www.youtube.com/watch?v=ihz8RIlZsW4) | — | — | [transcript](ihz8RIlZsW4/transcript.md) · [materials](ihz8RIlZsW4/materials/) |
+| — | HealthyGamerGG | [This is Why You Always Feel Intimidated](https://www.youtube.com/watch?v=iiTJxNhiUtA) | — | — | [transcript](iiTJxNhiUtA/transcript.md) |
 | — | Aswath Damodaran | [Valuation Tools Webcast #2: Estimating Risk free Rates](https://www.youtube.com/watch?v=imfy-O9QuVc) | — | — | [transcript](imfy-O9QuVc/transcript.md) |
 | — | Aswath Damodaran | [Session 9 (Undergraduate): Determinants of Betas](https://www.youtube.com/watch?v=iqE7iUr53y0) | — | — | [transcript](iqE7iUr53y0/transcript.md) · [materials](iqE7iUr53y0/materials/) |
 | — | Aswath Damodaran | [Session 19: Financing Mix - The Rest of the Story](https://www.youtube.com/watch?v=iqvjWuGxhM4) | — | — | [transcript](iqvjWuGxhM4/transcript.md) · [materials](iqvjWuGxhM4/materials/) |
@@ -1740,6 +1816,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [This Stops 95% Of People Pleasers From Being Confident](https://www.youtube.com/watch?v=jFODiqmUR7w) | — | — | [transcript](jFODiqmUR7w/transcript.md) |
 | — | Aswath Damodaran | [Quiz 1 Review](https://www.youtube.com/watch?v=jH8L7cW6Yns) | — | — | [transcript](jH8L7cW6Yns/transcript.md) · [materials](jH8L7cW6Yns/materials/) |
 | — | Greg Isenberg | ["Learn AI” Is Bad Advice. Learn This Instead](https://www.youtube.com/watch?v=jJIOA4GroBw) | — | — | [transcript](jJIOA4GroBw/transcript.md) |
+| — | HealthyGamerGG | [Your Goals Are Incompatible With Modern Life](https://www.youtube.com/watch?v=jOUoDCuKYbU) | — | — | [transcript](jOUoDCuKYbU/transcript.md) |
 | — | Aswath Damodaran | [Session 9: Beta Determinants and Bottom up Betas](https://www.youtube.com/watch?v=jPQ0DTH_wBE) | — | — | [transcript](jPQ0DTH_wBE/transcript.md) · [materials](jPQ0DTH_wBE/materials/) |
 | — | Greg Isenberg | [How I Design Apps 10x Better (Free Course)](https://www.youtube.com/watch?v=jSWuepkuFrU) | — | — | [transcript](jSWuepkuFrU/transcript.md) |
 | — | Aswath Damodaran | [Terminal Value Myth 4: Negative Growth Rates are impossible](https://www.youtube.com/watch?v=jco_NwmL_2w) | — | — | [transcript](jco_NwmL_2w/transcript.md) |
@@ -1764,6 +1841,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [Why Being Confident Feels CRINGE AF](https://www.youtube.com/watch?v=kOauN-_W2FQ) | — | — | [transcript](kOauN-_W2FQ/transcript.md) |
 | — | HealthyGamerGG | [Dealing with controlling parents](https://www.youtube.com/watch?v=kSKVIZKcxpw) | — | — | [transcript](kSKVIZKcxpw/transcript.md) |
 | — | Aswath Damodaran | [Data Update 7 for 2025: The End Game in Business](https://www.youtube.com/watch?v=kVk0v0l6s8A) | — | — | [transcript](kVk0v0l6s8A/transcript.md) · [materials](kVk0v0l6s8A/materials/) |
+| — | HealthyGamerGG | [Does Rehab Actually Work?? (A Therapist Explains)](https://www.youtube.com/watch?v=kWt6szZ7KVg) | — | — | [transcript](kWt6szZ7KVg/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Trump to FLOOD the Market on THIS Date (Most Aren’t Ready)](https://www.youtube.com/watch?v=kZhSH5JT3Xs) | — | — | [transcript](kZhSH5JT3Xs/transcript.md) |
 | — | Aswath Damodaran | [Excess Return (EVA) Data: Guide to Spreadsheet](https://www.youtube.com/watch?v=kZzwtlIAx4U) | — | — | [transcript](kZzwtlIAx4U/transcript.md) · [materials](kZzwtlIAx4U/materials/) |
 | — | BWB - Business With Brian | [Don't Miss Out - Huge Update for Palantir Investors!](https://www.youtube.com/watch?v=kahuv7R_h-k) | — | — | [transcript](kahuv7R_h-k/transcript.md) |
@@ -1775,6 +1853,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Good Intentions, Perverse Outcomes: The Impact of Impact Investing](https://www.youtube.com/watch?v=kmAVbmDYMtQ) | — | — | [transcript](kmAVbmDYMtQ/transcript.md) · [materials](kmAVbmDYMtQ/materials/) |
 | — | Ben Yanes | [How To Coach The Perfect Lat Row](https://www.youtube.com/watch?v=koKfAj-4Q14) | — | — | [transcript](koKfAj-4Q14/transcript.md) |
 | — | HealthyGamerGG | [Why Someone Hates You for No Reason (Displaced Hatred)](https://www.youtube.com/watch?v=kqriaA0MQlo) | — | — | [transcript](kqriaA0MQlo/transcript.md) |
+| — | HealthyGamerGG | [Why It's Hard To Focus (And What To Do About It)](https://www.youtube.com/watch?v=kwCp41BqbzQ) | — | — | [transcript](kwCp41BqbzQ/transcript.md) |
 | — | Aswath Damodaran | [Valuation Modeling: Excel as a tool](https://www.youtube.com/watch?v=kyKfJ_7-mdg) | — | — | [transcript](kyKfJ_7-mdg/transcript.md) · [materials](kyKfJ_7-mdg/materials/) |
 | — | Aswath Damodaran | [ROE, Returns to Shareholders, Good/Bad Companies and Efficient Markets: Back to Basics](https://www.youtube.com/watch?v=kyUettM26ME) | — | — | [transcript](kyUettM26ME/transcript.md) · [materials](kyUettM26ME/materials/) |
 | — | Aswath Damodaran | [Alternative Investing: Promise and  Performance!](https://www.youtube.com/watch?v=kyZ1KjV49nE) | — | — | [transcript](kyZ1KjV49nE/transcript.md) · [materials](kyZ1KjV49nE/materials/) |
@@ -1868,9 +1947,11 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This HUGE AI Chip Breakthrough](https://www.youtube.com/watch?v=noiNE1a2OfI) | — | — | [transcript](noiNE1a2OfI/transcript.md) |
 | — | HealthyGamerGG | [Why Giving Up Addiction Feels Impossible](https://www.youtube.com/watch?v=nsUz2Ysg1XU) | — | — | [transcript](nsUz2Ysg1XU/transcript.md) |
 | — | Greg Isenberg | [How I'd use Sora 2 + Claude to hit 1M+ views on AI videos](https://www.youtube.com/watch?v=nt8gUax1Aj0) | — | — | [transcript](nt8gUax1Aj0/transcript.md) |
+| — | HealthyGamerGG | [Stop Comparing Yourself to Other People (Here's Why)](https://www.youtube.com/watch?v=nujgUpYIVOE) | — | — | [transcript](nujgUpYIVOE/transcript.md) |
 | — | Aswath Damodaran | [Data Update 1 for 2026: The Push and Pull of Data](https://www.youtube.com/watch?v=nvR2gxNREHM) | — | — | [transcript](nvR2gxNREHM/transcript.md) |
 | — | HealthyGamerGG | [Social Anxiety Isn't Something To "Fix"](https://www.youtube.com/watch?v=nwJCZiLW3qo) | — | — | [transcript](nwJCZiLW3qo/transcript.md) |
 | — | Greg Isenberg | [Making $$ with AI Agents](https://www.youtube.com/watch?v=nyO60uzTnP4) | — | — | [transcript](nyO60uzTnP4/transcript.md) |
+| — | HealthyGamerGG | [You Can't Always Be Both Friend and Therapist](https://www.youtube.com/watch?v=nyW4j2YeOCU) | — | — | [transcript](nyW4j2YeOCU/transcript.md) |
 | — | HealthyGamerGG | [Why AI Will Replace Your Therapist](https://www.youtube.com/watch?v=o-9aumQSTXA) | — | — | [transcript](o-9aumQSTXA/transcript.md) |
 | — | HealthyGamerGG | [Dr K. Explains: Escaping Your Ego (Free Members Lecture)](https://www.youtube.com/watch?v=o14J4h5SWSA) | — | — | [transcript](o14J4h5SWSA/transcript.md) |
 | — | Aswath Damodaran | [Session 5A: Accounting Inconsistencies (Examples)](https://www.youtube.com/watch?v=o4_GwR_6jR4) | — | — | [transcript](o4_GwR_6jR4/transcript.md) · [materials](o4_GwR_6jR4/materials/) |
@@ -1889,6 +1970,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [How To Not Be Awkward](https://www.youtube.com/watch?v=oTrCLOyoRq8) | — | — | [transcript](oTrCLOyoRq8/transcript.md) |
 | — | Aswath Damodaran | [India Rising hits a Roadblock: The Short Selling Threat to the Adani Group!](https://www.youtube.com/watch?v=oVGJeBe_xGA) | — | — | [transcript](oVGJeBe_xGA/transcript.md) · [materials](oVGJeBe_xGA/materials/) |
 | — | Greg Isenberg | [3 Days in San Francisco's AI Gold Rush](https://www.youtube.com/watch?v=oVjNM18jtgQ) | — | — | [transcript](oVjNM18jtgQ/transcript.md) |
+| — | HealthyGamerGG | [Let's Talk About Anxiety in Today's World](https://www.youtube.com/watch?v=oWf_v_sSPuw) | — | — | [transcript](oWf_v_sSPuw/transcript.md) |
 | — | Ticker Symbol: YOU | [Dips Never Last. I'm Buying These 5 Stocks Now.](https://www.youtube.com/watch?v=oYL9n9A2keg) | — | — | [transcript](oYL9n9A2keg/transcript.md) |
 | — | Ben Yanes | [The Real Reason Lifters Stop Building Muscle](https://www.youtube.com/watch?v=o_Ftl9mU46E) | — | — | [transcript](o_Ftl9mU46E/transcript.md) |
 | — | JulienHimself | [Watch Me Coach 100 People In 1hr 26mins](https://www.youtube.com/watch?v=ocG-KX1sC7M) | — | — | [transcript](ocG-KX1sC7M/transcript.md) |
@@ -1922,10 +2004,12 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 24: Closure on Dividends and first steps on Valuation](https://www.youtube.com/watch?v=pe9iVnFur_c) | — | — | [transcript](pe9iVnFur_c/transcript.md) · [materials](pe9iVnFur_c/materials/) |
 | — | Felix & Friends (Goat Academy) | [Trump Just Opened Up A $1.15 TRILLION Market (Get In Now?)](https://www.youtube.com/watch?v=pfLXdA_CIgM) | — | — | [transcript](pfLXdA_CIgM/transcript.md) |
 | — | Riley Brown | [Codex Is Winning… So Why Am I Still Paying for Claude?](https://www.youtube.com/watch?v=piOSL8Ms9mY) | — | — | [transcript](piOSL8Ms9mY/transcript.md) |
+| — | HealthyGamerGG | [Psychiatrist Reacts To Career And Burnout TikTok](https://www.youtube.com/watch?v=pkKt_sU2hsM) | — | — | [transcript](pkKt_sU2hsM/transcript.md) |
 | — | HealthyGamerGG | [Why You Can't Ever Put Your Phone Down](https://www.youtube.com/watch?v=pwptE3KmKuE) | — | — | [transcript](pwptE3KmKuE/transcript.md) |
 | — | Aswath Damodaran | [Session 15: Celsius Case Analysis, Real Options and Investment Post-mortems](https://www.youtube.com/watch?v=pz2hF0_ygm4) | — | — | [transcript](pz2hF0_ygm4/transcript.md) · [materials](pz2hF0_ygm4/materials/) |
 | — | Felix & Friends (Goat Academy) | [The US Iran War Will Make (Some) Investors Rich l Here’s How](https://www.youtube.com/watch?v=q0BUPCHMeH4) | — | — | [transcript](q0BUPCHMeH4/transcript.md) |
 | — | Ben Yanes | [How To FINALLY Fix Uneven Shoulders & Hips](https://www.youtube.com/watch?v=q1aDMIx7K1o) | — | — | [transcript](q1aDMIx7K1o/transcript.md) |
+| — | HealthyGamerGG | [How to Deal With a Toxic Family](https://www.youtube.com/watch?v=q225u22Qn1g) | — | — | [transcript](q225u22Qn1g/transcript.md) |
 | — | Aswath Damodaran | [Session 3: Managers, Markets and Morality!](https://www.youtube.com/watch?v=q30QmNzRfws) | — | — | [transcript](q30QmNzRfws/transcript.md) · [materials](q30QmNzRfws/materials/) |
 | — | HealthyGamerGG | [Why People With ADHD Struggle With Relationships](https://www.youtube.com/watch?v=q3kbXwKOstk) | — | — | [transcript](q3kbXwKOstk/transcript.md) |
 | — | Chris Raroque | [My Budgeting App Got Its First Paying User 🥳 1 Month Update (Improving App Retention / New Features)](https://www.youtube.com/watch?v=q4tvOy4xSRY) | — | — | [transcript](q4tvOy4xSRY/transcript.md) |
@@ -1941,6 +2025,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [The Power of Expectations: Nvidia's Earnings Report and Market Reaction](https://www.youtube.com/watch?v=qOGZk9Ypk1Y) | — | — | [transcript](qOGZk9Ypk1Y/transcript.md) · [materials](qOGZk9Ypk1Y/materials/) |
 | — | BWB - Business With Brian | [Biggest Investment Opportunity of a Lifetime?!](https://www.youtube.com/watch?v=qPPSHkRyKkE) | — | — | [transcript](qPPSHkRyKkE/transcript.md) |
 | — | Greg Isenberg | [Making $$$ with Grok Bot](https://www.youtube.com/watch?v=qQluNEfSVHk) | — | — | [transcript](qQluNEfSVHk/transcript.md) |
+| — | HealthyGamerGG | [Why Do Narcissists HATE Boundaries?](https://www.youtube.com/watch?v=qS205o-LlLg) | — | — | [transcript](qS205o-LlLg/transcript.md) |
 | — | Ben Yanes | [Why Does Cbum Train Triceps Like This?](https://www.youtube.com/watch?v=qTPIlfAHdnA) | — | — | [transcript](qTPIlfAHdnA/transcript.md) |
 | — | Aswath Damodaran | [Elon's Twitter Play: Valuation Question or Political Rorschach Test?](https://www.youtube.com/watch?v=qUkEMdlUIQo) | — | — | [transcript](qUkEMdlUIQo/transcript.md) · [materials](qUkEMdlUIQo/materials/) |
 | — | Felix & Friends (Goat Academy) | [Leaked: Trump’s $100 BILLION Defense Stock - The Opportunity of a Lifetime!?](https://www.youtube.com/watch?v=qY8XOJrCMfg) | — | — | [transcript](qY8XOJrCMfg/transcript.md) |
@@ -1951,6 +2036,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Data Update 5 for 2023: Profitability, Returns and Value](https://www.youtube.com/watch?v=qfssMonQ8Ek) | — | — | [transcript](qfssMonQ8Ek/transcript.md) · [materials](qfssMonQ8Ek/materials/) |
 | — | Aswath Damodaran | [Session 10: Divisional and Private Company Betas & Costs of Equity](https://www.youtube.com/watch?v=qhjkOSZ_LZw) | — | — | [transcript](qhjkOSZ_LZw/transcript.md) · [materials](qhjkOSZ_LZw/materials/) |
 | — | HealthyGamerGG | [Why You're The Least Valuable Friend](https://www.youtube.com/watch?v=ql5sWIEAcFw) | — | — | [transcript](ql5sWIEAcFw/transcript.md) |
+| — | HealthyGamerGG | [Why Your Brain Fog Never Goes Away (and How To Get Clarity)](https://www.youtube.com/watch?v=qoR72-aM4mI) | — | — | [transcript](qoR72-aM4mI/transcript.md) |
 | — | Aswath Damodaran | [Session 4: Defining and Measuring Risk](https://www.youtube.com/watch?v=qofdyX0vudk) | — | — | [transcript](qofdyX0vudk/transcript.md) |
 | — | Aswath Damodaran | [Terminal Value Myth 1: Don't believe in forever? You can't do DCF!](https://www.youtube.com/watch?v=qvsp0gRd6EA) | — | — | [transcript](qvsp0gRd6EA/transcript.md) |
 | — | HealthyGamerGG | [What Enlightenment Does to Your Brain](https://www.youtube.com/watch?v=qwQrwPhK06I) | — | — | [transcript](qwQrwPhK06I/transcript.md) |
@@ -1966,9 +2052,12 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Stare into the Abyss: Facing up to uncertainty with simulations](https://www.youtube.com/watch?v=rFd_qEpYFBc) | — | — | [transcript](rFd_qEpYFBc/transcript.md) · [materials](rFd_qEpYFBc/materials/) |
 | — | Aswath Damodaran | [Session 16: Options in Projects and Project Post-mortems](https://www.youtube.com/watch?v=rFgIyuJLeKU) | — | — | [transcript](rFgIyuJLeKU/transcript.md) · [materials](rFgIyuJLeKU/materials/) |
 | — | HealthyGamerGG | [You Should Ignore Yourself More](https://www.youtube.com/watch?v=rGUsOt5K_uk) | — | — | [transcript](rGUsOt5K_uk/transcript.md) |
+| — | HealthyGamerGG | [The Harsh Reality of Problem Solving: What to Do When Nothing Works](https://www.youtube.com/watch?v=rKJf98jdxz0) | — | — | [transcript](rKJf98jdxz0/transcript.md) |
 | — | Chris Raroque | [I Built an App Worth Paying For (in 48 Hours)](https://www.youtube.com/watch?v=rK_vTNKYe0U) | — | — | [transcript](rK_vTNKYe0U/transcript.md) |
 | — | Greg Isenberg | [Blueprint to Build a $1M SaaS From Scratch](https://www.youtube.com/watch?v=rO3dIBMXD2g) | — | — | [transcript](rO3dIBMXD2g/transcript.md) |
 | — | Greg Isenberg | [My AI Videos Hit 1M+ Views (Veo3 + Sora 2 Demo)](https://www.youtube.com/watch?v=rQgaQ1p4tKU) | — | — | [transcript](rQgaQ1p4tKU/transcript.md) |
+| — | HealthyGamerGG | [Not Letting Go of the Past is Ruining my Future](https://www.youtube.com/watch?v=rRkGQA94bA4) | — | — | [transcript](rRkGQA94bA4/transcript.md) |
+| — | HealthyGamerGG | [If You Date Someone With Borderline Personality Disorder (BPD)...Watch This Video](https://www.youtube.com/watch?v=rT5PN7IhyPc) | — | — | [transcript](rT5PN7IhyPc/transcript.md) |
 | — | Aswath Damodaran | [Session 28: Dividend Policy - The End Game](https://www.youtube.com/watch?v=rTHDKTIt200) | — | — | [transcript](rTHDKTIt200/transcript.md) |
 | — | BWB - Business With Brian | [Optimal Portfolio by Age - Vanguard Funds](https://www.youtube.com/watch?v=rV8N_0bfAzI) | — | — | [transcript](rV8N_0bfAzI/transcript.md) |
 | — | Ticker Symbol: YOU | [Top Stocks I'm Buying For Massive Growth In July 2026](https://www.youtube.com/watch?v=rWXXooBZXIY) | — | — | [transcript](rWXXooBZXIY/transcript.md) |
@@ -1990,6 +2079,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 23: Assessing Dividend Policy](https://www.youtube.com/watch?v=s4FfmvcPYmc) | — | — | [transcript](s4FfmvcPYmc/transcript.md) · [materials](s4FfmvcPYmc/materials/) |
 | — | Riley Brown | [We Built an Entire App in Only 27 Minutes (With No Code)](https://www.youtube.com/watch?v=s50dOsodoVQ) | — | — | [transcript](s50dOsodoVQ/transcript.md) |
 | — | BWB - Business With Brian | [Buy, Sell, or Hold Palantir?](https://www.youtube.com/watch?v=s65Ubw3oa10) | — | — | [transcript](s65Ubw3oa10/transcript.md) |
+| — | HealthyGamerGG | [Overthinking Won't Solve Your Problems: Here's Why](https://www.youtube.com/watch?v=s7fjjhZuhms) | — | — | [transcript](s7fjjhZuhms/transcript.md) |
 | — | Ben Yanes | [I'm Begging You To Train Your Hip Flexors](https://www.youtube.com/watch?v=sBZVDM84XMk) | — | — | [transcript](sBZVDM84XMk/transcript.md) |
 | — | Aswath Damodaran | [Session 9 (MBA): Add on to explain bottom up beta](https://www.youtube.com/watch?v=sC3N8Kt8EOw) | — | — | [transcript](sC3N8Kt8EOw/transcript.md) · [materials](sC3N8Kt8EOw/materials/) |
 | — | Aswath Damodaran | [Disrupting the IPO Process: Challenging the Banker-run Model!](https://www.youtube.com/watch?v=sC7ht0CAQsk) | — | — | [transcript](sC7ht0CAQsk/transcript.md) · [materials](sC7ht0CAQsk/materials/) |
@@ -2000,6 +2090,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 14: Acquisition Analysis and Investment Decision Rules](https://www.youtube.com/watch?v=sWZvhkl_LGA) | — | — | [transcript](sWZvhkl_LGA/transcript.md) · [materials](sWZvhkl_LGA/materials/) |
 | — | Chris Raroque | [I Got My First 10 Users (And What I Did Next)](https://www.youtube.com/watch?v=sWs_qAgEEdI) | — | — | [transcript](sWs_qAgEEdI/transcript.md) |
 | — | Aswath Damodaran | [Data Update 1 for 2021: A (Data) Look back at a Most Forgettable Year!](https://www.youtube.com/watch?v=scBgiC_rzkU) | — | — | [transcript](scBgiC_rzkU/transcript.md) · [materials](scBgiC_rzkU/materials/) |
+| — | HealthyGamerGG | [How to Grow Without Losing Who You Are - @destiny](https://www.youtube.com/watch?v=sctts1tjQ1I) | — | — | [transcript](sctts1tjQ1I/transcript.md) |
 | — | Ben Yanes | [Why Squatting Deeper ISN'T Better](https://www.youtube.com/watch?v=sdBch43rbyI) | — | — | [transcript](sdBch43rbyI/transcript.md) |
 | — | JulienHimself | [How To Be Unapologetically You (Even If Everyone Hates It)](https://www.youtube.com/watch?v=slBSEsEn9aQ) | — | — | [transcript](slBSEsEn9aQ/transcript.md) |
 | — | BWB - Business With Brian | [Hot AI Companies I'm Buying on the Dip - And It's Not Nvidia](https://www.youtube.com/watch?v=spQwE307TA0) | — | — | [transcript](spQwE307TA0/transcript.md) |
@@ -2020,7 +2111,9 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [The Price/Value Feedback Loop: Revisiting AMC and GME!](https://www.youtube.com/watch?v=tDjw9IB8zvs) | — | — | [transcript](tDjw9IB8zvs/transcript.md) · [materials](tDjw9IB8zvs/materials/) |
 | — | Aswath Damodaran | [Facebook (Meta) Lesson 3: Tell me a story!](https://www.youtube.com/watch?v=tDqTHFBKwsY) | — | — | [transcript](tDqTHFBKwsY/transcript.md) · [materials](tDqTHFBKwsY/materials/) |
 | — | Ticker Symbol: YOU | [Forget Oil. These 3 AI Stocks Will Make Millionaires By 2029](https://www.youtube.com/watch?v=tI8b26_S7pw) | — | — | [transcript](tI8b26_S7pw/transcript.md) |
+| — | HealthyGamerGG | [How To Rewire Your Brain Away From Negativity](https://www.youtube.com/watch?v=tJCXwNrK700) | — | — | [transcript](tJCXwNrK700/transcript.md) |
 | — | Chris Raroque | [Vibe Coding Has A Security Problem (And How To Fix It)](https://www.youtube.com/watch?v=tK4NQtzfZbM) | — | — | [transcript](tK4NQtzfZbM/transcript.md) |
+| — | HealthyGamerGG | [I Don't Want to Have a Goal](https://www.youtube.com/watch?v=tNN7gX1KIsQ) | — | — | [transcript](tNN7gX1KIsQ/transcript.md) |
 | — | Chris Raroque | [My approach to experimental features (and why they don't make it into the product)](https://www.youtube.com/watch?v=tShK1pruNJ8) | — | — | [transcript](tShK1pruNJ8/transcript.md) |
 | — | Aswath Damodaran | [Session 9: Bottom Up Betas](https://www.youtube.com/watch?v=tTtX9Zx4mgc) | — | — | [transcript](tTtX9Zx4mgc/transcript.md) · [materials](tTtX9Zx4mgc/materials/) |
 | — | Greg Isenberg | [OpenAI Codex: Build Apps That Work For You 24/7](https://www.youtube.com/watch?v=tUeSxXHmE9w) | — | — | [transcript](tUeSxXHmE9w/transcript.md) |
@@ -2031,6 +2124,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [He Made Millions… And It Fixed NOTHING](https://www.youtube.com/watch?v=tY4FaVRsDM0) | — | — | [transcript](tY4FaVRsDM0/transcript.md) |
 | — | Aswath Damodaran | [Session 22: The Dividend Trade off - Good and Bad Reasons for Paying Dividends](https://www.youtube.com/watch?v=taDy3ukoxa0) | — | — | [transcript](taDy3ukoxa0/transcript.md) · [materials](taDy3ukoxa0/materials/) |
 | — | HealthyGamerGG | [The Easiest Way To Stop Sabotaging Your Future](https://www.youtube.com/watch?v=tbjTrR8yeUc) | — | — | [transcript](tbjTrR8yeUc/transcript.md) |
+| — | HealthyGamerGG | [Let's Talk about Perfectionism (Reddit Review)](https://www.youtube.com/watch?v=tcXCnYs6s_U) | — | — | [transcript](tcXCnYs6s_U/transcript.md) |
 | — | Ticker Symbol: YOU | [A One In A Lifetime Crash Is Coming (3 Warning Signs)](https://www.youtube.com/watch?v=te3W5UHierw) | — | — | [transcript](te3W5UHierw/transcript.md) |
 | — | HealthyGamerGG | [Why Overthinkers Make No Progress (Rumination)](https://www.youtube.com/watch?v=tfbM6vYsW9g) | — | — | [transcript](tfbM6vYsW9g/transcript.md) |
 | — | Chris Raroque | [My New App Is FINALLY Live](https://www.youtube.com/watch?v=tg6Vmi2LFb4) | — | — | [transcript](tg6Vmi2LFb4/transcript.md) |
@@ -2101,9 +2195,11 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [This Stops 95% Of INTROVERTS From Being Confident](https://www.youtube.com/watch?v=vseaqr7KK2Q) | — | — | [transcript](vseaqr7KK2Q/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This HUGE AI Chip Breakthrough](https://www.youtube.com/watch?v=vueJvHOXLJg) | — | — | [transcript](vueJvHOXLJg/transcript.md) |
 | — | Aswath Damodaran | [Session 22: Dividends - Measures and Drivers](https://www.youtube.com/watch?v=vuj6jLcrvOg) | — | — | [transcript](vuj6jLcrvOg/transcript.md) · [materials](vuj6jLcrvOg/materials/) |
+| — | HealthyGamerGG | [Let's Talk About Bipolar Disorder (What Happens When You Go Off Medication)](https://www.youtube.com/watch?v=vunPCeoynXk) | — | — | [transcript](vunPCeoynXk/transcript.md) |
 | — | Aswath Damodaran | [Session 13: Dealing with uncertainty and more project analyses](https://www.youtube.com/watch?v=vxuuxJ68Dj8) | — | — | [transcript](vxuuxJ68Dj8/transcript.md) · [materials](vxuuxJ68Dj8/materials/) |
 | — | Greg Isenberg | [Claude Design: Full Walkthrough. I'm blown away.](https://www.youtube.com/watch?v=vyLaimDeK_g) | — | — | [transcript](vyLaimDeK_g/transcript.md) |
 | — | Greg Isenberg | [Reviewing Claude Opus 4.5](https://www.youtube.com/watch?v=vyZX0oQozzc) | — | — | [transcript](vyZX0oQozzc/transcript.md) |
+| — | HealthyGamerGG | [How to Avoid Being a People Pleaser and Set Boundaries](https://www.youtube.com/watch?v=w-MB1PDThEg) | — | — | [transcript](w-MB1PDThEg/transcript.md) |
 | — | Aswath Damodaran | [Session 14: Investment Returns I- Setting the Table](https://www.youtube.com/watch?v=w0WE8jsG-Ig) | — | — | [transcript](w0WE8jsG-Ig/transcript.md) |
 | — | Aswath Damodaran | [Session 1: Introduction to statistics](https://www.youtube.com/watch?v=w0dsBZn7DsI) | — | — | [transcript](w0dsBZn7DsI/transcript.md) · [materials](w0dsBZn7DsI/materials/) |
 | — | Greg Isenberg | [Glif AI: The $10 App That Replaces a Full Creative Team](https://www.youtube.com/watch?v=w1OU6IdxF0Y) | — | — | [transcript](w1OU6IdxF0Y/transcript.md) |
@@ -2158,6 +2254,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [GLM 5.2: What you need to know](https://www.youtube.com/watch?v=xa-9O5cDm3c) | — | — | [transcript](xa-9O5cDm3c/transcript.md) |
 | — | HealthyGamerGG | [How Years Of Gaming Affects Your Brain](https://www.youtube.com/watch?v=xaICKlp9kQc) | — | — | [transcript](xaICKlp9kQc/transcript.md) |
 | — | Ticker Symbol: YOU | [My Top 4 Investments To Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=xhG3E1RaX6c) | — | — | [transcript](xhG3E1RaX6c/transcript.md) |
+| — | HealthyGamerGG | [Why You're Struggling With Discipline](https://www.youtube.com/watch?v=xkd36cJ6Z78) | — | — | [transcript](xkd36cJ6Z78/transcript.md) |
 | — | Chris Raroque | [I asked SF founders: should I keep bootstrapping?](https://www.youtube.com/watch?v=xlOyK8Pt3WQ) | — | — | [transcript](xlOyK8Pt3WQ/transcript.md) |
 | — | HealthyGamerGG | [What To Do If You Stole Your Personality](https://www.youtube.com/watch?v=xnuDmmDu7is) | — | — | [transcript](xnuDmmDu7is/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The Once in a Lifetime 2026 Market Every Investor Must Prepare For](https://www.youtube.com/watch?v=xtGkCbIFu34) | — | — | [transcript](xtGkCbIFu34/transcript.md) |
@@ -2182,6 +2279,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [US Panic: Black Rock’s Debt Bomb Just Exploded](https://www.youtube.com/watch?v=ySLiFHLUdxQ) | — | — | [transcript](ySLiFHLUdxQ/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [This is Bigger Than Palantir & Nvidia. These 5 Stocks Win the Next AI Boom](https://www.youtube.com/watch?v=ySPZxegniU8) | — | — | [transcript](ySPZxegniU8/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD](https://www.youtube.com/watch?v=ySc7g_dRd9Q) | — | — | [transcript](ySc7g_dRd9Q/transcript.md) |
+| — | HealthyGamerGG | [Is It Toxic To Hold Your Parents Accountable?](https://www.youtube.com/watch?v=ySc9QaQuVKE) | — | — | [transcript](ySc9QaQuVKE/transcript.md) |
 | — | BWB - Business With Brian | [The SpaceX IPO Has a Massive Catch](https://www.youtube.com/watch?v=yTeUTandjDg) | — | — | [transcript](yTeUTandjDg/transcript.md) |
 | — | Ben Yanes | [What Nobody Knows About Bench Press](https://www.youtube.com/watch?v=yUokYJRgi-o) | — | — | [transcript](yUokYJRgi-o/transcript.md) |
 | — | Aswath Damodaran | [Session 3: Cash Flows](https://www.youtube.com/watch?v=y_T3kubRm7Q) | — | — | [transcript](y_T3kubRm7Q/transcript.md) · [materials](y_T3kubRm7Q/materials/) |
@@ -2198,6 +2296,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 15: Netflix Fit Case and Side Costs of Projects](https://www.youtube.com/watch?v=yzuirJ9GhLw) | — | — | [transcript](yzuirJ9GhLw/transcript.md) · [materials](yzuirJ9GhLw/materials/) |
 | — | Aswath Damodaran | [Data 2017 Update 10: The Pricing Game](https://www.youtube.com/watch?v=zAshTzvWJTI) | — | — | [transcript](zAshTzvWJTI/transcript.md) · [materials](zAshTzvWJTI/materials/) |
 | — | Felix & Friends (Goat Academy) | [US Panic: Japan’s Debt Bomb Just Exploded](https://www.youtube.com/watch?v=zBNP2EcgMko) | — | — | [transcript](zBNP2EcgMko/transcript.md) |
+| — | HealthyGamerGG | [Why Don't You Want To Do Anything After Binging 4 Hours of YouTube Videos...](https://www.youtube.com/watch?v=zBgCRJluWTc) | — | — | [transcript](zBgCRJluWTc/transcript.md) |
 | — | Ticker Symbol: YOU | [These 3 AI Stocks Will Skyrocket In 2026 (Don't Miss Out)](https://www.youtube.com/watch?v=zBlSEABSHYs) | — | — | [transcript](zBlSEABSHYs/transcript.md) |
 | — | HealthyGamerGG | [How ADHD Turns Waiting Into Wasting the Day](https://www.youtube.com/watch?v=zCKxgx0T_s4) | — | — | [transcript](zCKxgx0T_s4/transcript.md) |
 | — | Aswath Damodaran | [Session 18: Finishing up with Cost of Capital Optimization](https://www.youtube.com/watch?v=zDbBR8-myEQ) | — | — | [transcript](zDbBR8-myEQ/transcript.md) · [materials](zDbBR8-myEQ/materials/) |
@@ -2216,6 +2315,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [Stop Trying to Be "Somebody" & You're FREE to Be Anybody](https://www.youtube.com/watch?v=za0IkD2yxts) | — | — | [transcript](za0IkD2yxts/transcript.md) |
 | — | Aswath Damodaran | [Session 23: Potential Dividends and Actual Cash Returned](https://www.youtube.com/watch?v=za0YJjyLbTY) | — | — | [transcript](za0YJjyLbTY/transcript.md) · [materials](za0YJjyLbTY/materials/) |
 | — | BWB - Business With Brian | [The UNTHINKABLE Just Happened. Prep for the Dip!](https://www.youtube.com/watch?v=zbplIgHL8zk) | — | — | [transcript](zbplIgHL8zk/transcript.md) |
+| — | HealthyGamerGG | [Revenge Porn, Deepfakes, and Parasocial Relationships](https://www.youtube.com/watch?v=zd7efB-WexU) | — | — | [transcript](zd7efB-WexU/transcript.md) |
 | — | Aswath Damodaran | [Session 12: Investment Returns - Earnings to Incremental Cash flows](https://www.youtube.com/watch?v=zdAw6zu4_sM) | — | — | [transcript](zdAw6zu4_sM/transcript.md) · [materials](zdAw6zu4_sM/materials/) |
 | — | Riley Brown | [Why the Government Just Killed Claude Fable 5](https://www.youtube.com/watch?v=zeVuhlKWRfI) | — | — | [transcript](zeVuhlKWRfI/transcript.md) |
 | — | Aswath Damodaran | [In Practice Webcast: Introduction to using a Bloomberg Terminal for data collection](https://www.youtube.com/watch?v=zfeygyUpvR0) | — | — | [transcript](zfeygyUpvR0/transcript.md) · [materials](zfeygyUpvR0/materials/) |
@@ -2226,13 +2326,13 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Claude Code Clearly Explained (and how to use it)](https://www.youtube.com/watch?v=zxMjOqM7DFs) | — | — | [transcript](zxMjOqM7DFs/transcript.md) |
 | — | Ben Yanes | [The Truth About Muscle Imbalance](https://www.youtube.com/watch?v=zxW98mVfsOI) | — | — | [transcript](zxW98mVfsOI/transcript.md) |
 | — | JulienHimself | [People Pleasers AREN'T Actually “Nice”](https://www.youtube.com/watch?v=zxqXgJmmZqk) | — | — | [transcript](zxqXgJmmZqk/transcript.md) |
-| — | HealthyGamerGG | [Talking with Ludwig - @ludwig](https://www.youtube.com/watch?v=2nJDlm2Uz_Y) | — | — | [transcript](2nJDlm2Uz_Y/transcript.md) |
-| — | HealthyGamerGG | [Why It's Hard To Focus (And What To Do About It)](https://www.youtube.com/watch?v=kwCp41BqbzQ) | — | — | [transcript](kwCp41BqbzQ/transcript.md) |
-| — | HealthyGamerGG | [Talking with ExtraEmily - @extra emily](https://www.youtube.com/watch?v=XzsQuH03Y9o) | — | — | [transcript](XzsQuH03Y9o/transcript.md) |
-| — | HealthyGamerGG | [Overthinking Won't Solve Your Problems: Here's Why](https://www.youtube.com/watch?v=s7fjjhZuhms) | — | — | [transcript](s7fjjhZuhms/transcript.md) |
-| — | HealthyGamerGG | [If You're Feeling Overwhelmed Watch This](https://www.youtube.com/watch?v=7VfSCQnGfk4) | — | — | [transcript](7VfSCQnGfk4/transcript.md) |
-| — | HealthyGamerGG | [Can AI Replace Therapists? \| Psychiatrist Explains](https://www.youtube.com/watch?v=3BgdhHXJ-CU) | — | — | [transcript](3BgdhHXJ-CU/transcript.md) |
-| — | HealthyGamerGG | [How to Grow Without Losing Who You Are - @destiny](https://www.youtube.com/watch?v=sctts1tjQ1I) | — | — | [transcript](sctts1tjQ1I/transcript.md) |
-| — | HealthyGamerGG | [Here's Why Trauma Is So Common (A Deep Dive Into Understanding Trauma)](https://www.youtube.com/watch?v=8TkbP4XfggM) | — | — | [transcript](8TkbP4XfggM/transcript.md) |
-| — | HealthyGamerGG | [This is Why You're Living Life on Autopilot](https://www.youtube.com/watch?v=aEGukyCsHMg) | — | — | [transcript](aEGukyCsHMg/transcript.md) |
-| — | HealthyGamerGG | [The Surprising Link Between Anger and Motivation](https://www.youtube.com/watch?v=NxA3iDJQhYE) | — | — | [transcript](NxA3iDJQhYE/transcript.md) |
+| — | HealthyGamerGG | [Constantly Overwhelmed \| What It’s Actually Like to be a Creator Pt. 4](https://www.youtube.com/watch?v=XArRsEpryaQ) | — | — | [transcript](XArRsEpryaQ/transcript.md) |
+| — | HealthyGamerGG | [Doing the Small Stuff Feels Pointless](https://www.youtube.com/watch?v=MVlI8GJdDGo) | — | — | [transcript](MVlI8GJdDGo/transcript.md) |
+| — | HealthyGamerGG | [Dr. K, how do I Pursue my Passion?](https://www.youtube.com/watch?v=JprTBxSfVvs) | — | — | [transcript](JprTBxSfVvs/transcript.md) |
+| — | HealthyGamerGG | [Am I Running Out of Time to be Successful?](https://www.youtube.com/watch?v=y31i_FXNQRo) | — | — | [transcript](y31i_FXNQRo/transcript.md) |
+| — | HealthyGamerGG | [The Honest Truth of ADHD & Adderall Meds](https://www.youtube.com/watch?v=4PTl27tTmfY) | — | — | [transcript](4PTl27tTmfY/transcript.md) |
+| — | HealthyGamerGG | [Creator Mental Health: Expectations vs. Reality \| Part 3 Group Coaching Stream](https://www.youtube.com/watch?v=WbOKu3sGU0Q) | — | — | [transcript](WbOKu3sGU0Q/transcript.md) |
+| — | HealthyGamerGG | [Psychiatrist Tells the Truth About Anti Depressants](https://www.youtube.com/watch?v=q5NkUPMDoO4) | — | — | [transcript](q5NkUPMDoO4/transcript.md) |
+| — | HealthyGamerGG | [Psychiatrist Explains the Science of Love](https://www.youtube.com/watch?v=yHoByyyHJ8c) | — | — | [transcript](yHoByyyHJ8c/transcript.md) |
+| — | HealthyGamerGG | [NEW Community Challenge! Connect the Dots](https://www.youtube.com/watch?v=u4E0BeqiFaE) | — | — | [transcript](u4E0BeqiFaE/transcript.md) |
+| — | HealthyGamerGG | [HELP: My kid is failing 9th grade because of video games.](https://www.youtube.com/watch?v=dtqq4ZpN1pg) | — | — | [transcript](dtqq4ZpN1pg/transcript.md) |
