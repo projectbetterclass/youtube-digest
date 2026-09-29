@@ -55,7 +55,7 @@ channels:
     backfill: 100
   - name: "HealthyGamerGG"
     channel_id: UClHVl2N3jPEbkNJVx-ItQIQ
-    backfill: 100
+    backfill: 1100           # whole channel (~996 videos) — a user priority channel
   - name: "BWB - Business With Brian"
     channel_id: UCyqlbzLoYtpqDXwRI9Yh5LA
     backfill: 100
@@ -88,7 +88,7 @@ channels:
     backfill: 30
   - name: "Ben Yanes"
     channel_id: UCTwuK33U_RjE4bLkQJzG-cQ
-    backfill: 100
+    backfill: 700            # whole channel (~595 videos) — a user priority channel
   - name: "Justin Sung"
     channel_id: UC2Zs9v2hL2qZZ7vsAENsg4w
     backfill: 100
@@ -101,4 +101,4 @@ channels:
     visual: true             # chart-heavy — capture on-screen slides (self-hosted visuals job)
   - name: "JulienHimself"
     channel_id: UCaN4Pe5JEsWzAByY2WfxxjQ
-    backfill: 100            # talking-head — audio only, no visual capture
+    backfill: 700            # whole channel (~572 videos) — a user priority channel; audio only

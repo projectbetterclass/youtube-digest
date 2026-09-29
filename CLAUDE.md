@@ -50,8 +50,10 @@ transcript fetch costs ~0.5 MB because it downloads the whole watch page.
   transcripts); the rest are the valuation courses, excluded on purpose via
   `skip_playlist_titles`. `materials: true` means his slide PDFs and spreadsheets are
   extracted too (822 PDFs + 394 Excel files). Queue file: `data/backfill_queue/UCLvnJL8htRR1T9cbSccaoVw.json`.
+- **Priority channels** (JulienHimself, HealthyGamerGG, Ben Yanes): target is the **whole
+  channel** (`backfill` set just above each catalog size), collected via `local_collect.py`.
 - **Other channels:** most deep-backfill channels (`backfill: 100`) are at target; still
-  behind: Ben Yanes, Starter Story, David Carbutt, Tom Nash, Justin Sung (not started).
+  behind: Starter Story, David Carbutt, Tom Nash, Justin Sung (not started).
 - **Aswath's interviews on other channels** (173 transcripts + a CSV of 302 appearances)
   live in the separate Valuation Agent repo, not here.
 

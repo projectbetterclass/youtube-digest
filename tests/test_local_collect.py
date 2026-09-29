@@ -33,3 +33,14 @@ def test_priority_channels_are_all_in_the_watchlist():
     _, channels = load_config()
     picked = local_collect.select_channels(channels, local_collect.PRIORITY)
     assert len(picked) == len(local_collect.PRIORITY)
+
+
+def test_failed_this_run_picks_only_this_runs_misses_for_these_channels():
+    state = {"processed": {
+        "a": {"channel": "Ben Yanes", "transcript_available": False, "processed_at": "2026-09-29T10:00:00+00:00"},
+        "b": {"channel": "Ben Yanes", "transcript_available": True, "processed_at": "2026-09-29T10:00:00+00:00"},
+        "c": {"channel": "Ben Yanes", "transcript_available": False, "processed_at": "2026-09-01T10:00:00+00:00"},
+        "d": {"channel": "Tom Nash", "transcript_available": False, "processed_at": "2026-09-29T10:00:00+00:00"},
+    }}
+    got = local_collect.failed_this_run(state, {"Ben Yanes"}, "2026-09-29T09:00:00+00:00")
+    assert got == ["a"]
