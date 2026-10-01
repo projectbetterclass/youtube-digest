@@ -22,7 +22,8 @@ last cloud digest was 2026-09-22. Waiting on GitHub Support.
 the PC (not possible from a cloud session):
 `.venv\Scripts\python.exe scripts\local_collect.py`. It pulls transcripts (no briefs — the
 PC has no Anthropic key) for the user's **priority channels: JulienHimself, HealthyGamerGG,
-Ben Yanes** (`PRIORITY` in the script), through the Webshare proxy (`.env`), then commits
+Ben Yanes, Tom Nash, Ticker Symbol: YOU, BWB, David Carbutt, Felix & Friends** (`PRIORITY` in
+the script), through the Webshare proxy (`.env`), then commits
 and pushes `data/`. It stands down by itself once the cloud digest commits again. Nothing
 schedules it — the user chose to trigger it by hand. Only collect the channels the user
 names; they haven't decided on the others.
@@ -50,7 +51,8 @@ transcript fetch costs ~0.5 MB because it downloads the whole watch page.
   transcripts); the rest are the valuation courses, excluded on purpose via
   `skip_playlist_titles`. `materials: true` means his slide PDFs and spreadsheets are
   extracted too (822 PDFs + 394 Excel files). Queue file: `data/backfill_queue/UCLvnJL8htRR1T9cbSccaoVw.json`.
-- **Priority channels** (JulienHimself, HealthyGamerGG, Ben Yanes): target is the **whole
+- **Priority channels** (JulienHimself, HealthyGamerGG, Ben Yanes; since 2026-10-01 also Tom
+  Nash, Ticker Symbol: YOU, BWB, David Carbutt, Felix & Friends): target is the **whole
   channel** (`backfill` set just above each catalog size), collected via `local_collect.py`.
   **Complete as of 2026-10-01:** HealthyGamerGG 1,035 (1,023 transcripts), Ben Yanes 611
   (610), JulienHimself 572 (571); the few without failed 3 tries, likely no captions.
