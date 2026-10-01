@@ -49,17 +49,17 @@ channels:
     visual: true             # hand-drawn framework diagrams + product screens (screen check 2026-10-01)
   - name: "Ticker Symbol: YOU"
     channel_id: UC7kCeZ53sli_9XwuQeFxLqw
-    backfill: 100
+    backfill: 500            # whole channel (~411 videos) — user's choice 2026-10-01
     visual: true             # chart-heavy — capture on-screen slides (self-hosted visuals job)
   - name: "Felix & Friends (Goat Academy)"
     channel_id: UCJtfma0mE_XrBAD9uakcjfA
-    backfill: 100
+    backfill: 250            # whole channel (~201 videos) — user's choice 2026-10-01
   - name: "HealthyGamerGG"
     channel_id: UClHVl2N3jPEbkNJVx-ItQIQ
     backfill: 1100           # whole channel (~996 videos) — a user priority channel
   - name: "BWB - Business With Brian"
     channel_id: UCyqlbzLoYtpqDXwRI9Yh5LA
-    backfill: 100
+    backfill: 250            # whole channel (~184 videos) — user's choice 2026-10-01
     visual: true             # chart-heavy — slide-driven finance content (22/24 frames chart-dense)
   - name: "Chris Raroque"
     channel_id: UC4x3CR25WSlvMJUtSPPzwwg
@@ -100,11 +100,11 @@ channels:
     visual: true             # mind maps drawn on iPad + whiteboard (screen check 2026-10-01)
   - name: "Tom Nash"
     channel_id: UCJwKCyEIFHwUOPQQ-4kC1Zw
-    backfill: 100
+    backfill: 1000            # whole channel (~868 videos) — user's choice 2026-10-01
     visual: true             # market charts presented on screen (screen check 2026-10-01)
   - name: "David Carbutt"
     channel_id: UC__d7jgOunIVFz6TU_t1QOQ
-    backfill: 100
+    backfill: 1150            # whole channel (~1,011 videos) — user's choice 2026-10-01
     visual: true             # chart-heavy — capture on-screen slides (self-hosted visuals job)
   - name: "JulienHimself"
     channel_id: UCaN4Pe5JEsWzAByY2WfxxjQ

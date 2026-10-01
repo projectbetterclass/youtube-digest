@@ -38,7 +38,9 @@ LOCK = ROOT / "tmp_downloads" / "local_collect.lock"
 BATCH = 10  # save after every batch so an interrupted run keeps its progress
 PUSH_EVERY = 100  # commit + push this often during a long run
 # The user's priority channels (their choice; only these unless they name others).
-PRIORITY = ["JulienHimself", "HealthyGamerGG", "Ben Yanes"]
+PRIORITY = ["JulienHimself", "HealthyGamerGG", "Ben Yanes",
+            "Tom Nash", "Ticker Symbol: YOU", "BWB - Business With Brian", "David Carbutt",
+            "Felix & Friends (Goat Academy)"]
 
 
 def select_channels(channels, names):
