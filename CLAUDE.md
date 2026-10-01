@@ -71,12 +71,14 @@ What it does:
 - `tests/test_visuals.py` — no cv2/network needed
 - Output: `data/archive/<video_id>/visuals.md` alongside the transcript
 
-Opted in (`visual: true`), with progress (videos done / in library):
-Ticker Symbol: YOU 63/102 · David Carbutt 10/13 · BWB 0/102 · New Money 0/22.
-Checked and kept **audio-only**: Felix & Friends, HealthyGamerGG, JulienHimself; Aswath is
-excluded (his slides are PDFs). Other channels haven't been checked yet. Visuals can be
-switched on for a channel later without re-fetching transcripts — the job enriches videos
-already in the library.
+Opted in (`visual: true`): Ticker Symbol: YOU (63 done), David Carbutt (10), BWB, New Money,
+and — from the 2026-10-01 screen check, user's choice — Greg Isenberg, Tom Nash, Justin Sung,
+plus the borderline Riley Brown, Alex Hormozi, Starter Story, Chris Raroque.
+Checked and kept **audio-only**: Felix & Friends, HealthyGamerGG, JulienHimself, Ben Yanes,
+Chris Williamson, Leila Hormozi, Vinh Giang, The Diary Of A CEO; Aswath is excluded (his
+slides are PDFs). Every channel has now been checked. Visuals can be switched on for a
+channel later without re-fetching transcripts — the job enriches videos already in the library.
+User's current run order for screen capture: Ticker Symbol: YOU, BWB, David Carbutt first.
 
 The visuals job only advances while the PC's runner is online; the cloud digest is
 independent. It keeps its own ledger `data/visuals_state.json` and writes only
