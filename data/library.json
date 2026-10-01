@@ -2396,6 +2396,7 @@
     },
     "2A-sWPWVrr8": {
       "channel": "HealthyGamerGG",
+      "channel_id": "UClHVl2N3jPEbkNJVx-ItQIQ",
       "had_materials": false,
       "published": null,
       "takeaway": "",
@@ -14282,11 +14283,12 @@
     },
     "JFLDKTJUozE": {
       "channel": "HealthyGamerGG",
+      "channel_id": "UClHVl2N3jPEbkNJVx-ItQIQ",
       "had_materials": false,
       "published": null,
       "takeaway": "",
       "title": "Why 'Learning From Failure' Is Ruining Your Life",
-      "transcript_available": false,
+      "transcript_available": true,
       "transcript_path": "data/archive/JFLDKTJUozE/transcript.md",
       "url": "https://www.youtube.com/watch?v=JFLDKTJUozE",
       "verdict": ""
@@ -19863,6 +19865,7 @@
     },
     "Qsi8mjYZsbE": {
       "channel": "HealthyGamerGG",
+      "channel_id": "UClHVl2N3jPEbkNJVx-ItQIQ",
       "had_materials": false,
       "published": null,
       "takeaway": "",
@@ -30365,7 +30368,7 @@
       "published": null,
       "takeaway": "",
       "title": "Where is the Line Between Enjoying Video Games and Video Gaming Addiction? | Episode 2",
-      "transcript_available": false,
+      "transcript_available": true,
       "transcript_path": "data/archive/f5DKrHcrhM4/transcript.md",
       "url": "https://www.youtube.com/watch?v=f5DKrHcrhM4",
       "verdict": ""
@@ -30929,6 +30932,7 @@
     },
     "fpXFXQfFa1c": {
       "channel": "HealthyGamerGG",
+      "channel_id": "UClHVl2N3jPEbkNJVx-ItQIQ",
       "had_materials": false,
       "published": null,
       "takeaway": "",
