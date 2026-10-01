@@ -46,6 +46,7 @@ channels:
   - name: "Greg Isenberg"
     channel_id: UCPjNBjflYl0-HQtUvOx0Ibw
     backfill: 100
+    visual: true             # hand-drawn framework diagrams + product screens (screen check 2026-10-01)
   - name: "Ticker Symbol: YOU"
     channel_id: UC7kCeZ53sli_9XwuQeFxLqw
     backfill: 100
@@ -63,9 +64,11 @@ channels:
   - name: "Chris Raroque"
     channel_id: UC4x3CR25WSlvMJUtSPPzwwg
     backfill: 100
+    visual: true             # borderline — app/productivity screens (not sampled: 403) (screen check 2026-10-01)
   - name: "Riley Brown"
     channel_id: UCMcoud_ZW7cfxeIugBflSBw
     backfill: 100
+    visual: true             # borderline — app-building screen recordings (screen check 2026-10-01)
   - name: "Chris Williamson"
     channel_id: UCIaH-gZIVC432YRjNVvnyCA
   - name: "The Diary Of A CEO"
@@ -77,9 +80,11 @@ channels:
   - name: "Starter Story"
     channel_id: UChhw6DlKKTQ9mYSpTfXUYqA
     backfill: 100
+    visual: true             # borderline — on-screen business numbers; sample was mostly sponsor pages (screen check 2026-10-01)
   - name: "Alex Hormozi"
     channel_id: UCUyDOdBWhC1MCxEjC46d-zw
     backfill: 30
+    visual: true             # borderline — occasional model diagrams (screen check 2026-10-01)
   - name: "Vinh Giang"
     channel_id: UC9K9Wnz6t4cLnCdTzAVrXqQ
     backfill: 30
@@ -92,9 +97,11 @@ channels:
   - name: "Justin Sung"
     channel_id: UC2Zs9v2hL2qZZ7vsAENsg4w
     backfill: 100
+    visual: true             # mind maps drawn on iPad + whiteboard (screen check 2026-10-01)
   - name: "Tom Nash"
     channel_id: UCJwKCyEIFHwUOPQQ-4kC1Zw
     backfill: 100
+    visual: true             # market charts presented on screen (screen check 2026-10-01)
   - name: "David Carbutt"
     channel_id: UC__d7jgOunIVFz6TU_t1QOQ
     backfill: 100
