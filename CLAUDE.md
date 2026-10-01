@@ -10,8 +10,8 @@ This repo is two things:
 
 ## Project state (keep this section current)
 
-### Snapshot (2026-09-28)
-Library: **2,031 videos, 1,928 with transcripts**, 699 with linked documents, 73 with
+### Snapshot (2026-10-01)
+Library: **3,892 videos, 3,783 with transcripts**, 699 with linked documents, 73 with
 on-screen visuals (574 slides). 20 channels in `config/watchlist.yml`.
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
@@ -52,6 +52,8 @@ transcript fetch costs ~0.5 MB because it downloads the whole watch page.
   extracted too (822 PDFs + 394 Excel files). Queue file: `data/backfill_queue/UCLvnJL8htRR1T9cbSccaoVw.json`.
 - **Priority channels** (JulienHimself, HealthyGamerGG, Ben Yanes): target is the **whole
   channel** (`backfill` set just above each catalog size), collected via `local_collect.py`.
+  **Complete as of 2026-10-01:** HealthyGamerGG 1,035 (1,023 transcripts), Ben Yanes 611
+  (610), JulienHimself 572 (571); the few without failed 3 tries, likely no captions.
 - **Other channels:** most deep-backfill channels (`backfill: 100`) are at target; still
   behind: Starter Story, David Carbutt, Tom Nash, Justin Sung (not started).
 - **Aswath's interviews on other channels** (173 transcripts + a CSV of 302 appearances)
