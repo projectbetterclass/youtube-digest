@@ -22,9 +22,24 @@ import logging
 import os
 import time
 
+import requests
 from youtube_transcript_api import YouTubeTranscriptApi
 
 log = logging.getLogger(__name__)
+
+# A stuck proxy connection otherwise hangs for minutes: the library sets no timeout.
+REQUEST_TIMEOUT = 30
+# Behind a rotating proxy every request leaves from a new IP, so a block or a timeout is
+# retried straight away (no backoff) — the next attempt is effectively a different client.
+PROXY_ATTEMPTS = 5
+
+
+class _TimeoutSession(requests.Session):
+    """requests.Session with a default per-request timeout."""
+
+    def request(self, *args, **kwargs):
+        kwargs.setdefault("timeout", REQUEST_TIMEOUT)
+        return super().request(*args, **kwargs)
 
 
 class TranscriptBlocked(Exception):
@@ -45,7 +60,9 @@ def _build_proxy_config():
             from youtube_transcript_api.proxies import WebshareProxyConfig
 
             log.info("Using Webshare residential proxy for transcript fetches.")
-            return WebshareProxyConfig(proxy_username=user, proxy_password=pw)
+            # retries_when_blocked=0: the library's urllib3 Retry honours Retry-After on a
+            # 429 and can sleep for minutes; fetch_transcript retries on a fresh IP instead.
+            return WebshareProxyConfig(proxy_username=user, proxy_password=pw, retries_when_blocked=0)
         except Exception as exc:  # noqa: BLE001
             log.warning("Webshare proxy configured but could not be initialized: %s", exc)
 
@@ -73,20 +90,28 @@ def fetch_transcript(video_id: str, languages: list[str]) -> tuple[str, bool, bo
     reason  : short reason when ok is False (for logging / the brief)
     """
     proxy_config = _build_proxy_config()
+    # Rotating proxy: retry blocks and network errors immediately on a fresh IP.
+    # Single IP (home/no proxy): one retry after a 20s back-off, only for a block.
+    attempts = PROXY_ATTEMPTS if proxy_config else 2
     reason = ""
-    for attempt in range(2):  # one retry, only for a transient IP block
+    for attempt in range(attempts):
+        last = attempt == attempts - 1
         try:
-            api = YouTubeTranscriptApi(proxy_config=proxy_config) if proxy_config else YouTubeTranscriptApi()
+            api = YouTubeTranscriptApi(proxy_config=proxy_config, http_client=_TimeoutSession())
             fetched = api.fetch(video_id, languages=list(languages))
         except Exception as exc:  # noqa: BLE001 — any failure means "no usable transcript"
             reason = f"{type(exc).__name__}: {exc}".strip()
             blocked = _is_ip_block(exc)
-            if blocked and attempt == 0:
+            if proxy_config and (blocked or isinstance(exc, requests.RequestException)) and not last:
+                continue  # new exit IP on the next attempt
+            if not proxy_config and blocked and not last:
                 log.info("Transcript for %s IP-blocked; backing off 20s then retrying", video_id)
                 time.sleep(20)
                 continue
-            log.info("No transcript for %s (%s)", video_id, reason)
-            return "", False, blocked, reason
+            log.info("No transcript for %s (%s)", video_id, reason[:200])
+            # With a rotating pool, exhausting the attempts isn't an IP block of *ours* —
+            # record it as a miss (the caller can retry later) instead of halting the run.
+            return "", False, blocked and not proxy_config, reason
 
         parts = []
         for snippet in fetched:
@@ -98,4 +123,4 @@ def fetch_transcript(video_id: str, languages: list[str]) -> tuple[str, bool, bo
             return "", False, False, "empty transcript"
         return text, True, False, ""
 
-    return "", False, True, reason  # both attempts were IP-blocked
+    return "", False, not proxy_config, reason
