@@ -75,6 +75,8 @@ def _save(state, library) -> None:
 def push(names: list[str], n: int) -> None:
     """Commit data/ and push, the way the cloud job does."""
     git("add", "data/")
+    if not git("diff", "--cached", "--name-only"):
+        return  # nothing changed — nothing to commit
     git("commit", "-q", "-m", f"local: +{n} transcripts ({', '.join(names)})")
     git("pull", "-q", "--rebase", "--autostash", "origin", "main")
     git("push", "-q", "origin", "main")
@@ -122,7 +124,7 @@ def collect(names: list[str], max_total: int) -> int:
         _save(state, library)
         still = len(failed_this_run(state, {c.name for c in chans}, since))
         log.info("retried %d without a transcript: %d re-imported, %d still without", len(retry), n, still)
-    if total > pushed:
+    if total > pushed or retry:  # the retry pass rewrites state even when nothing new arrived
         push(names, total - pushed)
     return total
 
