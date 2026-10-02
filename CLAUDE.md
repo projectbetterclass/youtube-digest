@@ -22,8 +22,8 @@ last cloud digest was 2026-09-22. Waiting on GitHub Support.
 the PC (not possible from a cloud session):
 `.venv\Scripts\python.exe scripts\local_collect.py`. It pulls transcripts (no briefs — the
 PC has no Anthropic key) for the user's **priority channels: JulienHimself, HealthyGamerGG,
-Ben Yanes, Tom Nash, Ticker Symbol: YOU, BWB, David Carbutt, Felix & Friends** (`PRIORITY` in
-the script), through the Webshare proxy (`.env`), then commits
+Ben Yanes, Tom Nash, Ticker Symbol: YOU, BWB, David Carbutt, Felix & Friends, New Money,
+Starter Story, Greg Isenberg, Riley Brown, Justin Sung** (`PRIORITY` in the script), through the Webshare proxy (`.env`), then commits
 and pushes `data/`. It stands down by itself once the cloud digest commits again. Nothing
 schedules it — the user chose to trigger it by hand. Only collect the channels the user
 names; they haven't decided on the others.
@@ -54,12 +54,14 @@ until it resets.
   `skip_playlist_titles`. `materials: true` means his slide PDFs and spreadsheets are
   extracted too (822 PDFs + 394 Excel files). Queue file: `data/backfill_queue/UCLvnJL8htRR1T9cbSccaoVw.json`.
 - **Priority channels** (JulienHimself, HealthyGamerGG, Ben Yanes; since 2026-10-01 also Tom
-  Nash, Ticker Symbol: YOU, BWB, David Carbutt, Felix & Friends): target is the **whole
+  Nash, Ticker Symbol: YOU, BWB, David Carbutt, Felix & Friends; since 2026-10-02 also New
+  Money, Starter Story, Greg Isenberg, Riley Brown, Justin Sung): target is the **whole
   channel** (`backfill` set just above each catalog size), collected via `local_collect.py`.
   **All 8 complete as of 2026-10-02:** HealthyGamerGG 1,035, David Carbutt 1,022, Tom Nash 869,
   Ben Yanes 612, JulienHimself 572, Ticker Symbol: YOU 412, Felix & Friends 243, BWB 184. The
   few without a transcript are unplayable (private/removed), captions-off, or non-English.
-- **Other channels:** all at their target (100 or 30) as of 2026-10-02, collected from the PC.
+- **Other channels** (Alex Hormozi, Vinh Giang, Leila Hormozi, Chris Raroque, Aswath): at their
+  target as of 2026-10-02, collected from the PC.
   Chris Williamson and The Diary Of A CEO are new-uploads-only and miss everything since
   2026-09-22 (user chose not to catch them up).
 - **Aswath's interviews on other channels** (173 transcripts + a CSV of 302 appearances)

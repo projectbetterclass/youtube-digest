@@ -40,7 +40,8 @@ PUSH_EVERY = 100  # commit + push this often during a long run
 # The user's priority channels (their choice; only these unless they name others).
 PRIORITY = ["JulienHimself", "HealthyGamerGG", "Ben Yanes",
             "Tom Nash", "Ticker Symbol: YOU", "BWB - Business With Brian", "David Carbutt",
-            "Felix & Friends (Goat Academy)"]
+            "Felix & Friends (Goat Academy)", "New Money", "Starter Story", "Greg Isenberg",
+            "Riley Brown", "Justin Sung"]
 
 
 def select_channels(channels, names):
