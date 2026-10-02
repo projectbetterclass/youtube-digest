@@ -11,7 +11,7 @@ This repo is two things:
 ## Project state (keep this section current)
 
 ### Snapshot (2026-10-02)
-Library: **6,560 videos, 6,389 with transcripts**, 699 with linked documents, 73 with
+Library: **7,625 videos, 7,439 with transcripts**, 699 with linked documents, 73 with
 on-screen visuals (574 slides). 20 channels in `config/watchlist.yml`.
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
@@ -45,8 +45,8 @@ All YouTube traffic (RSS, transcripts, yt-dlp) goes through a **Webshare residen
 so cloud IPs aren't blocked. Secrets needed: `ANTHROPIC_API_KEY`, `WEBSHARE_PROXY_USERNAME`,
 `WEBSHARE_PROXY_PASSWORD`. Webshare plan: 3 GB/month (cycle resets on the 24th); a
 transcript fetch costs ~0.5 MB because it downloads the whole watch page. The Sep 24 – Oct 24
-cycle is estimated at ~2.3 GB used after the whole-channel runs, so go easy on big backfills
-until it resets.
+cycle is estimated at **~2.8 of 3 GB** used after the whole-channel runs — **no big backfills
+until it resets on Oct 24**; routine "collect my priority channels" runs are small.
 
 ### Back-catalog backfill
 - **Aswath Damodaran:** effectively done. 819 of his 1,413 videos collected (771 with
@@ -57,9 +57,10 @@ until it resets.
   Nash, Ticker Symbol: YOU, BWB, David Carbutt, Felix & Friends; since 2026-10-02 also New
   Money, Starter Story, Greg Isenberg, Riley Brown, Justin Sung): target is the **whole
   channel** (`backfill` set just above each catalog size), collected via `local_collect.py`.
-  **All 8 complete as of 2026-10-02:** HealthyGamerGG 1,035, David Carbutt 1,022, Tom Nash 869,
-  Ben Yanes 612, JulienHimself 572, Ticker Symbol: YOU 412, Felix & Friends 243, BWB 184. The
-  few without a transcript are unplayable (private/removed), captions-off, or non-English.
+  **All 13 complete as of 2026-10-02:** HealthyGamerGG 1,035, David Carbutt 1,022, Tom Nash 869,
+  Ben Yanes 612, JulienHimself 572, Greg Isenberg 455, New Money 440, Ticker Symbol: YOU 412,
+  Felix & Friends 243, Justin Sung 236, Starter Story 203, Riley Brown 190, BWB 184. The few
+  without a transcript are unplayable (private/removed), captions-off, or non-English.
 - **Other channels** (Alex Hormozi, Vinh Giang, Leila Hormozi, Chris Raroque, Aswath): at their
   target as of 2026-10-02, collected from the PC.
   Chris Williamson and The Diary Of A CEO are new-uploads-only and miss everything since
