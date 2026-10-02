@@ -10,8 +10,8 @@ This repo is two things:
 
 ## Project state (keep this section current)
 
-### Snapshot (2026-10-01)
-Library: **3,892 videos, 3,783 with transcripts**, 699 with linked documents, 73 with
+### Snapshot (2026-10-02)
+Library: **6,560 videos, 6,389 with transcripts**, 699 with linked documents, 73 with
 on-screen visuals (574 slides). 20 channels in `config/watchlist.yml`.
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
@@ -44,7 +44,9 @@ Runs on **GitHub-hosted cloud runners** (`ubuntu-latest`) 3×/day (06:00 / 14:00
 All YouTube traffic (RSS, transcripts, yt-dlp) goes through a **Webshare residential proxy**
 so cloud IPs aren't blocked. Secrets needed: `ANTHROPIC_API_KEY`, `WEBSHARE_PROXY_USERNAME`,
 `WEBSHARE_PROXY_PASSWORD`. Webshare plan: 3 GB/month (cycle resets on the 24th); a
-transcript fetch costs ~0.5 MB because it downloads the whole watch page.
+transcript fetch costs ~0.5 MB because it downloads the whole watch page. The Sep 24 – Oct 24
+cycle is estimated at ~2.3 GB used after the whole-channel runs, so go easy on big backfills
+until it resets.
 
 ### Back-catalog backfill
 - **Aswath Damodaran:** effectively done. 819 of his 1,413 videos collected (771 with
@@ -54,10 +56,12 @@ transcript fetch costs ~0.5 MB because it downloads the whole watch page.
 - **Priority channels** (JulienHimself, HealthyGamerGG, Ben Yanes; since 2026-10-01 also Tom
   Nash, Ticker Symbol: YOU, BWB, David Carbutt, Felix & Friends): target is the **whole
   channel** (`backfill` set just above each catalog size), collected via `local_collect.py`.
-  **Complete as of 2026-10-01:** HealthyGamerGG 1,035 (1,023 transcripts), Ben Yanes 611
-  (610), JulienHimself 572 (571); the few without failed 3 tries, likely no captions.
-- **Other channels:** most deep-backfill channels (`backfill: 100`) are at target; still
-  behind: Starter Story, David Carbutt, Tom Nash, Justin Sung (not started).
+  **All 8 complete as of 2026-10-02:** HealthyGamerGG 1,035, David Carbutt 1,022, Tom Nash 869,
+  Ben Yanes 612, JulienHimself 572, Ticker Symbol: YOU 412, Felix & Friends 243, BWB 184. The
+  few without a transcript are unplayable (private/removed), captions-off, or non-English.
+- **Other channels:** all at their target (100 or 30) as of 2026-10-02, collected from the PC.
+  Chris Williamson and The Diary Of A CEO are new-uploads-only and miss everything since
+  2026-09-22 (user chose not to catch them up).
 - **Aswath's interviews on other channels** (173 transcripts + a CSV of 302 appearances)
   live in the separate Valuation Agent repo, not here.
 
