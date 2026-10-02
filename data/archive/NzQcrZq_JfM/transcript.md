@@ -1,0 +1,5 @@
+# Elon's Perfect Reaction to Charlie Munger's Takedown
+
+<https://www.youtube.com/watch?v=NzQcrZq_JfM>
+
+even if you think something has a 10 chance of succeeding but it's really important it's worth trying well this is like his uh charlie munger lunch right like charlie munger spent the whole lunch i don't know if this is actually a true story but it's definitely been told several times of like charlie munger at a lunch with with elon musk tells the entire table all the reasons why tesla will fail and elon responded by basically agreeing with all of the reasons and saying i agree all of those are real reasons why it is likely to fail but it is still worth trying yeah yeah i mean you know it's like you miss 100 of the shots you don't take kind of thing like if this really matters well the one way to guarantee the failure is to not try it at all um but you know he's not crazy if he thought if he thinks it's a 0.1 percent chance of succeeding he's not gonna put his time into it misery love a company [Music]
