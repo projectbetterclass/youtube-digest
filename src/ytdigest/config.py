@@ -16,6 +16,9 @@ STATE_PATH = DATA_DIR / "state.json"
 # (which the cloud digest rewrites every run) — the two jobs stay conflict-free.
 VISUALS_STATE_PATH = DATA_DIR / "visuals_state.json"
 ARCHIVE_DIR = DATA_DIR / "archive"
+# Capture-only frames (screen capture step 1) waiting to be read by Claude vision. PC-only
+# and gitignored: ~1 MB per video, too bulky for the repo, and only the reader needs them.
+FRAMES_DIR = REPO_ROOT / "frames"
 LIBRARY_PATH = DATA_DIR / "library.json"        # rich per-video index (for "ask your library")
 INDEX_PATH = ARCHIVE_DIR / "INDEX.md"           # human/Claude-friendly library index
 DIGESTS_DIR = REPO_ROOT / "digests"

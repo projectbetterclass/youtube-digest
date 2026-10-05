@@ -3,6 +3,7 @@
 
 # Ephemeral downloads (binaries are never committed; only extracted .txt is kept)
 tmp_downloads/
+frames/
 *.pdf
 *.pptx
 

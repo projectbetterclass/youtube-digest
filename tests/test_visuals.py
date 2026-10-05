@@ -122,3 +122,64 @@ def test_render_index_detects_materials_on_disk(tmp_path: Path):
     # flag alone also works, and nothing shows without disk or flag
     assert "[materials]" in render_index({"videos": {"v": {"had_materials": True}}})
     assert "[materials]" not in render_index(lib)
+
+
+# ── Capture-only (frames saved now, read later) ──────────────────────────────
+
+import pytest
+
+from ytdigest import config as C
+from ytdigest import visuals as V
+
+
+def test_capture_only_skips_captured_and_records_failures(tmp_path, monkeypatch):
+    monkeypatch.setattr(C, "FRAMES_DIR", tmp_path)
+    V.save_frames("vidNEW", [])  # already captured (no frames kept) → skipped
+    captured = []
+
+    def fake_capture(video, settings):
+        if video.video_id == "vidOLD":
+            raise RuntimeError("HTTP Error 403")
+        captured.append(video.video_id)
+        V.save_frames(video.video_id, [])  # what the real capture_frames does
+        return 0
+
+    monkeypatch.setattr(V, "capture_frames", fake_capture)
+    lib = _lib()
+    lib["videos"]["vidMID"] = {"channel_id": "CID_ON", "channel": "On", "title": "Mid",
+                               "url": "u4", "published": "2026-05-01"}
+    done, failed = V.run_capture_only(None, _channels(), {"visuals": {}}, lib, budget=10)
+    assert (done, failed) == (1, 1) and captured == ["vidMID"]
+    frames, err = V.load_frames("vidOLD")
+    assert frames == [] and "403" in err          # failure noted, so not retried next run
+    assert V.run_capture_only(None, _channels(), {"visuals": {}}, lib, budget=10) == (0, 0)
+
+
+def test_reader_uses_stored_frames_without_downloading(tmp_path, monkeypatch):
+    monkeypatch.setattr(C, "FRAMES_DIR", tmp_path / "frames")
+    monkeypatch.setattr(C, "ARCHIVE_DIR", tmp_path / "archive")
+    V.save_frames("vidNEW", [])
+    monkeypatch.setattr(V, "_download_and_extract",
+                        lambda *a, **k: pytest.fail("should not download when frames are stored"))
+    video = Video(video_id="vidNEW", title="New", channel_name="On", channel_id="CID_ON", url="u1")
+    assert V.process_video_visuals(video, None, client=None) == 0
+    assert (tmp_path / "archive" / "vidNEW" / "visuals.md").exists()
+
+
+def test_reader_reports_an_earlier_capture_failure(tmp_path, monkeypatch):
+    monkeypatch.setattr(C, "FRAMES_DIR", tmp_path)
+    V.save_frames("vidOLD", [], error="members-only video")
+    video = Video(video_id="vidOLD", title="Old", channel_name="On", channel_id="CID_ON", url="u2")
+    with pytest.raises(RuntimeError, match="members-only"):
+        V.process_video_visuals(video, None, client=None)
+
+
+def test_save_and_load_frames_round_trip(tmp_path, monkeypatch):
+    np = pytest.importorskip("numpy")
+    pytest.importorskip("cv2")
+    monkeypatch.setattr(C, "FRAMES_DIR", tmp_path)
+    img = np.full((48, 64, 3), 200, np.uint8)
+    V.save_frames("vidX", [(12.5, img, 7.0), (40.0, img, 3.0)])
+    frames, err = V.load_frames("vidX")
+    assert err == "" and [(ts, round(sc)) for ts, _, sc in frames] == [(12.5, 7), (40.0, 3)]
+    assert frames[0][1].shape == (48, 64, 3)

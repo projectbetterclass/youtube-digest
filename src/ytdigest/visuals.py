@@ -26,9 +26,11 @@ the same way (see CLAUDE.md).
 from __future__ import annotations
 
 import base64
+import json
 import logging
 import os
 import tempfile
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -300,24 +302,14 @@ def render_visuals_md(video: Video, kept: list[dict]) -> str:
     return "\n".join(lines)
 
 
-def process_video_visuals(
-    video: Video, settings: Settings, client: Anthropic
-) -> int:
-    """Download, extract candidates, describe via vision, write visuals.md. Returns #slides.
-
-    The temp video is always deleted (finally), even on failure.
-    """
+def _download_and_extract(video_id: str, settings: Settings) -> list[tuple[float, object, float]]:
+    """Download the video to a temp dir, extract candidate frames, always delete the video."""
     tmp = tempfile.mkdtemp(prefix="ytvis_")
     try:
-        path = _download_video(video.video_id, tmp, settings)
+        path = _download_video(video_id, tmp, settings)
         frames = candidate_frames(path, settings)
-        log.info("%s: %d candidate frame(s) after dedup/cap", video.video_id, len(frames))
-        kept = describe_slides(video, frames, settings, client) if frames else []
-
-        vdir = C.ARCHIVE_DIR / video.video_id
-        vdir.mkdir(parents=True, exist_ok=True)
-        (vdir / "visuals.md").write_text(render_visuals_md(video, kept), encoding="utf-8")
-        return len(kept)
+        log.info("%s: %d candidate frame(s) after dedup/cap", video_id, len(frames))
+        return frames
     finally:
         try:
             for p in Path(tmp).glob("*"):
@@ -325,6 +317,90 @@ def process_video_visuals(
             os.rmdir(tmp)
         except OSError:
             pass
+
+
+# ── Capture-only (step 1 without an API key) ─────────────────────────────────
+# The download + frame extraction is the slow, free part; the vision read is the paid part.
+# Splitting them lets the PC capture frames ahead of time (no Anthropic key needed) and
+# lets the reader run later straight from disk, with no re-download.
+
+def _frames_dir(video_id: str) -> Path:
+    return C.FRAMES_DIR / video_id
+
+
+def has_stored_frames(video_id: str) -> bool:
+    """True once a capture-only run has handled this video (frames saved, or failure noted)."""
+    return (_frames_dir(video_id) / "manifest.json").exists()
+
+
+def save_frames(video_id: str, frames: list[tuple[float, object, float]], error: str = "") -> Path:
+    """Write candidate frames as JPEGs plus a manifest; an `error` records a failed capture."""
+    d = _frames_dir(video_id)
+    d.mkdir(parents=True, exist_ok=True)
+    entries = []
+    if frames:
+        import cv2
+
+        for i, (ts, frame, score) in enumerate(frames):
+            name = f"{i:02d}_{int(ts)}s.jpg"
+            cv2.imwrite(str(d / name), frame, [cv2.IMWRITE_JPEG_QUALITY, 85])
+            entries.append({"file": name, "ts": ts, "score": score})
+    manifest = {
+        "video_id": video_id,
+        "captured_at": datetime.now(timezone.utc).isoformat(),
+        "error": error,
+        "frames": entries,
+    }
+    (d / "manifest.json").write_text(json.dumps(manifest, indent=1), encoding="utf-8")
+    return d
+
+
+def load_frames(video_id: str) -> tuple[list[tuple[float, object, float]], str]:
+    """(frames, error) from a capture-only run. frames is [] when none were kept."""
+    d = _frames_dir(video_id)
+    manifest = json.loads((d / "manifest.json").read_text(encoding="utf-8"))
+    if manifest.get("error"):
+        return [], manifest["error"]
+    if not manifest.get("frames"):
+        return [], ""
+    import cv2
+
+    frames = []
+    for e in manifest["frames"]:
+        img = cv2.imread(str(d / e["file"]))
+        if img is not None:
+            frames.append((float(e["ts"]), img, float(e.get("score", 0.0))))
+    return frames, ""
+
+
+def capture_frames(video: Video, settings: Settings) -> int:
+    """Capture-only: download, extract and save candidate frames. Returns #frames saved."""
+    frames = _download_and_extract(video.video_id, settings)
+    save_frames(video.video_id, frames)
+    return len(frames)
+
+
+def process_video_visuals(
+    video: Video, settings: Settings, client: Anthropic
+) -> int:
+    """Get candidate frames, describe via vision, write visuals.md. Returns #slides.
+
+    Uses frames saved by a capture-only run when present (no re-download); otherwise
+    downloads the video (always deleted afterwards) and extracts them now.
+    """
+    if has_stored_frames(video.video_id):
+        frames, error = load_frames(video.video_id)
+        if error:
+            raise RuntimeError(f"capture failed earlier: {error}")
+        log.info("%s: %d stored frame(s) from capture-only run", video.video_id, len(frames))
+    else:
+        frames = _download_and_extract(video.video_id, settings)
+    kept = describe_slides(video, frames, settings, client) if frames else []
+
+    vdir = C.ARCHIVE_DIR / video.video_id
+    vdir.mkdir(parents=True, exist_ok=True)
+    (vdir / "visuals.md").write_text(render_visuals_md(video, kept), encoding="utf-8")
+    return len(kept)
 
 
 def select_pending(
@@ -375,6 +451,39 @@ def select_pending(
         ))
     pending.sort(key=lambda t: t[0], reverse=True)
     return [v for _, v in pending[:budget]]
+
+
+def run_capture_only(
+    settings: Settings,
+    channels: list[Channel],
+    state: dict,
+    library: dict,
+    budget: int,
+    channel_filter: Optional[str] = None,
+) -> tuple[int, int]:
+    """Capture frames for up to `budget` pending videos without reading them. (done, failed).
+
+    Same pending pool and order as run_visuals, minus videos already captured. Needs no
+    API key and never touches the visuals ledger — the reader marks videos done later.
+    A failed download is noted in the manifest so it isn't retried every run.
+    """
+    pool = select_pending(channels, state, library, budget=10**9, channel_filter=channel_filter)
+    pending = [v for v in pool if not has_stored_frames(v.video_id)][:budget]
+    if not pending:
+        log.info("Nothing left to capture.")
+        return 0, 0
+    done = failed = 0
+    for video in pending:
+        try:
+            n = capture_frames(video, settings)
+        except Exception as exc:  # noqa: BLE001 — one bad video shouldn't stop the batch
+            log.warning("Capture failed for %s (%s): %s", video.title, video.video_id, exc)
+            save_frames(video.video_id, [], error=str(exc)[:200])
+            failed += 1
+            continue
+        log.info("Captured %s: %d frame(s)", video.video_id, n)
+        done += 1
+    return done, failed
 
 
 def run_visuals(
