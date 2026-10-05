@@ -89,6 +89,13 @@ slides are PDFs). Every channel has now been checked. Visuals can be switched on
 channel later without re-fetching transcripts — the job enriches videos already in the library.
 User's current run order for screen capture: Ticker Symbol: YOU, BWB, David Carbutt first.
 
+**Capture-only mode (no API key needed):** `run_visuals.py --capture-only --channel X --budget N`
+downloads videos and saves candidate frames to `frames/<id>/` (gitignored, PC-only); a normal
+run later reads them with Claude vision instead of re-downloading. As of 2026-10-05 the next
+~100 videos each of Ticker Symbol: YOU, BWB and David Carbutt are captured (300 videos, 6,551
+frames, 306 MB) and **waiting to be read** — that needs `ANTHROPIC_API_KEY` in the PC's `.env`
+(still empty; the user has added Console credit). Then: `run_visuals.py --channel X --budget 100`.
+
 The visuals job only advances while the PC's runner is online; the cloud digest is
 independent. It keeps its own ledger `data/visuals_state.json` and writes only
 `visuals.md`, so it never conflicts with the digest's commits.
