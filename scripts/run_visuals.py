@@ -11,6 +11,9 @@ Examples:
     python scripts/run_visuals.py --budget 2      # just a couple (handy for a first test)
     python scripts/run_visuals.py --dry-run       # process + write visuals.md, but don't save state/library
     python scripts/run_visuals.py --video VIDEOID # force one specific archived video
+    python scripts/run_visuals.py --capture-only --channel "Ticker Symbol: YOU" --budget 100
+        # step 1 only: download + save candidate frames to frames/ (no API key needed);
+        # a later normal run reads them from disk instead of re-downloading
 """
 
 from __future__ import annotations
@@ -41,6 +44,8 @@ def main() -> int:
     parser.add_argument("--channel", default=None, help="Focus one opted-in channel's backlog (by watchlist name)")
     parser.add_argument("--video", default=None, help="Force one archived video id (ignores opt-in/dedup)")
     parser.add_argument("--dry-run", action="store_true", help="Write visuals.md but don't save state/library")
+    parser.add_argument("--capture-only", action="store_true",
+                        help="Only download + save candidate frames to frames/ (no API key needed)")
     parser.add_argument("-v", "--verbose", action="store_true", help="Debug logging")
     args = parser.parse_args()
 
@@ -52,6 +57,15 @@ def main() -> int:
     settings, channels = C.load_config(args.config)
     state = load_state(C.VISUALS_STATE_PATH)  # Phase 2's own ledger (never state.json)
     library = load_library(C.LIBRARY_PATH)     # read-only: which videos exist + metadata
+
+    if args.capture_only:
+        from ytdigest.visuals import run_capture_only
+
+        budget = args.budget if args.budget is not None else settings.visual_budget_per_run
+        done, failed = run_capture_only(settings, channels, state, library, budget, channel_filter=args.channel)
+        print(f"\n{'=' * 60}\nCapture only: {done} video(s) captured, {failed} failed "
+              f"→ {C.FRAMES_DIR}\n{'=' * 60}")
+        return 0
 
     if args.video:
         # Single-video override: reconstruct a channel opt-in on the fly so select_pending
