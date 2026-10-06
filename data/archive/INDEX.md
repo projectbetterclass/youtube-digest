@@ -4155,7 +4155,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [Michael Burry on The Stock Market Crash (It Will Get Worse)](https://www.youtube.com/watch?v=X636tYL5NZ8) | — | — | [transcript](X636tYL5NZ8/transcript.md) · [visuals](X636tYL5NZ8/visuals.md) |
 | — | Tom Nash | [IT’S STARTING: THE FED IS ABOUT TO FLIP THE STOCK MARKET](https://www.youtube.com/watch?v=X6NLITmyR5A) | — | — | [transcript](X6NLITmyR5A/transcript.md) |
 | — | Leila Hormozi | [The Truth About Balance Nobody Told You](https://www.youtube.com/watch?v=X6S2D1OEaQo) | — | — | [transcript](X6S2D1OEaQo/transcript.md) |
-| — | Ticker Symbol: YOU | [IT'S TIME! I'm SELLING Nvidia Stock (NVDA) to Avoid THESE Mistakes!](https://www.youtube.com/watch?v=X74A4sw0c2M) | — | — | [transcript](X74A4sw0c2M/transcript.md) |
+| — | Ticker Symbol: YOU | [IT'S TIME! I'm SELLING Nvidia Stock (NVDA) to Avoid THESE Mistakes!](https://www.youtube.com/watch?v=X74A4sw0c2M) | — | — | [transcript](X74A4sw0c2M/transcript.md) · [visuals](X74A4sw0c2M/visuals.md) |
 | — | New Money | [10 Stocks the Smart Money is Buying for 2021](https://www.youtube.com/watch?v=X7hr1VDufA0) | — | — | [transcript](X7hr1VDufA0/transcript.md) |
 | — | Tom Nash | [6% February CPI: What FED Does Next?](https://www.youtube.com/watch?v=X8JCuZ9-qhM) | — | — | [transcript](X8JCuZ9-qhM/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [EXPOSED: America’s Brutal Index Fund Problem](https://www.youtube.com/watch?v=X8u9eBkBIo0) | — | — | [transcript](X8u9eBkBIo0/transcript.md) |
@@ -4192,7 +4192,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Corporate Finance: Final Exam Review](https://www.youtube.com/watch?v=XOCfyjEdg-k) | — | — | [transcript](XOCfyjEdg-k/transcript.md) · [materials](XOCfyjEdg-k/materials/) |
 | — | Aswath Damodaran | [Total Beta: Dataset Support](https://www.youtube.com/watch?v=XOKIkHQWpDM) | — | — | [transcript](XOKIkHQWpDM/transcript.md) · [materials](XOKIkHQWpDM/materials/) |
 | — | HealthyGamerGG | [Meditation To Remove Negative Emotion](https://www.youtube.com/watch?v=XOoFuiLeaPg) | — | — | [transcript](XOoFuiLeaPg/transcript.md) |
-| — | Ticker Symbol: YOU | [I Can't Stay Quiet on Palantir Stock (PLTR) Crashing Any More](https://www.youtube.com/watch?v=XP2P1O-jl0o) | — | — | [transcript](XP2P1O-jl0o/transcript.md) |
+| — | Ticker Symbol: YOU | [I Can't Stay Quiet on Palantir Stock (PLTR) Crashing Any More](https://www.youtube.com/watch?v=XP2P1O-jl0o) | — | — | [transcript](XP2P1O-jl0o/transcript.md) · [visuals](XP2P1O-jl0o/visuals.md) |
 | — | Ben Yanes | [Modern Meathead Experience #50 - Why Ranking Exercises is Dumb](https://www.youtube.com/watch?v=XQj89nh79H0) | — | — | [transcript](XQj89nh79H0/transcript.md) |
 | — | David Carbutt | [Palantir Just Made $200M Investment!](https://www.youtube.com/watch?v=XR4W7Pjs5Ew) | — | — | [transcript](XR4W7Pjs5Ew/transcript.md) |
 | — | David Carbutt | [Palantir: Drone Secret UNLEASHED](https://www.youtube.com/watch?v=XRH-sJyGQDE) | — | — | [transcript](XRH-sJyGQDE/transcript.md) |
@@ -5466,7 +5466,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [How To Grow the Upper Glutes - The Anatomy of Lifting](https://www.youtube.com/watch?v=hUWs61NEIUY) | — | — | [transcript](hUWs61NEIUY/transcript.md) |
 | — | Aswath Damodaran | [Session 18: Cost of Capital as Financing Mix Optimizer](https://www.youtube.com/watch?v=hVZUd2Rce-o) | — | — | [transcript](hVZUd2Rce-o/transcript.md) · [materials](hVZUd2Rce-o/materials/) |
 | — | Felix & Friends (Goat Academy) | [Leaked Trade War Plot That Could Make You Wealthy](https://www.youtube.com/watch?v=hVtE6WCp2Bk) | — | — | [transcript](hVtE6WCp2Bk/transcript.md) |
-| — | BWB - Business With Brian | [Health Savings Account Explained: How to Invest in Your HSA](https://www.youtube.com/watch?v=hWHUZX4gpLU) | — | — | [transcript](hWHUZX4gpLU/transcript.md) |
+| — | BWB - Business With Brian | [Health Savings Account Explained: How to Invest in Your HSA](https://www.youtube.com/watch?v=hWHUZX4gpLU) | — | — | [transcript](hWHUZX4gpLU/transcript.md) · [visuals](hWHUZX4gpLU/visuals.md) |
 | — | HealthyGamerGG | [Your Friends Think You Are Too Needy](https://www.youtube.com/watch?v=hWSoyJ8iLRk) | — | — | [transcript](hWSoyJ8iLRk/transcript.md) |
 | — | JulienHimself | [The Hero In You - Motivational Video (Feat. Julien Blanc)](https://www.youtube.com/watch?v=hWaBNOys2XY) | — | — | [transcript](hWaBNOys2XY/transcript.md) |
 | — | Tom Nash | [Palantir Q3 Earnings REALLY Surprised Me (Huge Update)](https://www.youtube.com/watch?v=hX01QOY3rQQ) | — | — | [transcript](hX01QOY3rQQ/transcript.md) |
@@ -5482,7 +5482,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [The Investment Opportunity of a Lifetime](https://www.youtube.com/watch?v=haw1twX8Yz4) | — | — | [transcript](haw1twX8Yz4/transcript.md) |
 | — | Ben Yanes | [Upper Chest - Everything You Need To Know](https://www.youtube.com/watch?v=hbaRnp_hz2I) | — | — | [transcript](hbaRnp_hz2I/transcript.md) |
 | — | Aswath Damodaran | [Session 1: Setting the table](https://www.youtube.com/watch?v=hc9JuBlfor4) | — | — | [transcript](hc9JuBlfor4/transcript.md) · [materials](hc9JuBlfor4/materials/) |
-| — | BWB - Business With Brian | [Options Trading for Beginners:  Total Guide with Examples!](https://www.youtube.com/watch?v=hcalZ_sRtRY) | — | — | [transcript](hcalZ_sRtRY/transcript.md) |
+| — | BWB - Business With Brian | [Options Trading for Beginners:  Total Guide with Examples!](https://www.youtube.com/watch?v=hcalZ_sRtRY) | — | — | [transcript](hcalZ_sRtRY/transcript.md) · [visuals](hcalZ_sRtRY/visuals.md) |
 | — | Ben Yanes | [How To Train Abs (using biomechanics)](https://www.youtube.com/watch?v=hciB5a5Er6Y) | — | — | [transcript](hciB5a5Er6Y/transcript.md) |
 | — | Ticker Symbol: YOU | [Top 3 AI Stocks I'm Buying Now (Over Nvidia Stock)](https://www.youtube.com/watch?v=heZQy15Ykwg) | — | — | [transcript](heZQy15Ykwg/transcript.md) |
 | — | Justin Sung | [3 Steps to Write Essays Faster and Procrastinate Less (By a Published Author)](https://www.youtube.com/watch?v=helUBfeHcCc) | — | — | [transcript](helUBfeHcCc/transcript.md) |
