@@ -3822,7 +3822,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [How Psychedelics Make People Feel One with the Universe](https://www.youtube.com/watch?v=TxOsUzlXTGk) | — | — | [transcript](TxOsUzlXTGk/transcript.md) |
 | — | David Carbutt | [Palantir's Road into $8.6 Trillion Market](https://www.youtube.com/watch?v=Txdo49VNE5s) | — | — | [transcript](Txdo49VNE5s/transcript.md) |
 | — | New Money | [Alibaba Stock: Understanding China's Ecommerce Giant](https://www.youtube.com/watch?v=TyGtwIlKkDU) | — | — | [transcript](TyGtwIlKkDU/transcript.md) |
-| — | Ticker Symbol: YOU | [The REAL Reason Stocks Like Nvidia Are Crashing (DO THIS NOW)](https://www.youtube.com/watch?v=TzVOmTHnUiI) | — | — | [transcript](TzVOmTHnUiI/transcript.md) |
+| — | Ticker Symbol: YOU | [The REAL Reason Stocks Like Nvidia Are Crashing (DO THIS NOW)](https://www.youtube.com/watch?v=TzVOmTHnUiI) | — | — | [transcript](TzVOmTHnUiI/transcript.md) · [visuals](TzVOmTHnUiI/visuals.md) |
 | — | HealthyGamerGG | [The Secret to Dealing With People You Can’t Stand](https://www.youtube.com/watch?v=Tzo_s9q4fwM) | — | — | [transcript](Tzo_s9q4fwM/transcript.md) |
 | — | Justin Sung | [Private Workshop - How to Learn Anything Faster](https://www.youtube.com/watch?v=U0QMMlarSC4) | — | — | [transcript](U0QMMlarSC4/transcript.md) |
 | — | HealthyGamerGG | [Why You Can't Enjoy Anything Anymore](https://www.youtube.com/watch?v=U0jyfgdrsmk) | — | — | [transcript](U0jyfgdrsmk/transcript.md) |
@@ -3850,7 +3850,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [This Will Change The Way You Deadlift Forever](https://www.youtube.com/watch?v=UEyfSmUwvek) | — | — | [transcript](UEyfSmUwvek/transcript.md) |
 | — | David Carbutt | [Palantir Sensitive Data](https://www.youtube.com/watch?v=UFkatHIpN6w) | — | — | [transcript](UFkatHIpN6w/transcript.md) |
 | — | David Carbutt | [Dan Ives Just Called Palantir a MUST-BUY](https://www.youtube.com/watch?v=UGSIN_50W2c) | — | — | [transcript](UGSIN_50W2c/transcript.md) |
-| — | Ticker Symbol: YOU | [🔥 3 Stocks to Buy As the Market Crashes (High Growth)](https://www.youtube.com/watch?v=UHfIXZKaqQU) | — | — | [transcript](UHfIXZKaqQU/transcript.md) |
+| — | Ticker Symbol: YOU | [🔥 3 Stocks to Buy As the Market Crashes (High Growth)](https://www.youtube.com/watch?v=UHfIXZKaqQU) | — | — | [transcript](UHfIXZKaqQU/transcript.md) · [visuals](UHfIXZKaqQU/visuals.md) |
 | — | David Carbutt | [Palantir Signs $22M Contract!](https://www.youtube.com/watch?v=UHgf7l1oVRk) | — | — | [transcript](UHgf7l1oVRk/transcript.md) |
 | — | JulienHimself | [Why "Self-Help" Is A WASTE OF TIME: What The Gurus Don't Tell You  - Transformation Mastery (3 of 5)](https://www.youtube.com/watch?v=UInoxKbKyJI) | — | — | [transcript](UInoxKbKyJI/transcript.md) |
 | — | JulienHimself | [When "Low Vibration Energy" TAKES OVER! How To Let Go & Reprogram Your Subconscious Mind](https://www.youtube.com/watch?v=UK35eRQhROM) | — | — | [transcript](UK35eRQhROM/transcript.md) |
@@ -5121,7 +5121,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Stop Trying to "Heal" Your Trauma](https://www.youtube.com/watch?v=ePehwMH66-E) | — | — | [transcript](ePehwMH66-E/transcript.md) |
 | — | Aswath Damodaran | [Russia in Ukraine: Let Loose the Dogs of War!](https://www.youtube.com/watch?v=eRL2kjD63QM) | — | — | [transcript](eRL2kjD63QM/transcript.md) · [materials](eRL2kjD63QM/materials/) |
 | — | Aswath Damodaran | [Session 16: Closing the Books on Investment Analysis](https://www.youtube.com/watch?v=eRf-XfhU_NY) | — | — | [transcript](eRf-XfhU_NY/transcript.md) · [materials](eRf-XfhU_NY/materials/) |
-| — | BWB - Business With Brian | [Nuclear Stocks That Could 10X Before 2035! (But No One’s Watching)](https://www.youtube.com/watch?v=eRnN7P2kQeU) | — | — | [transcript](eRnN7P2kQeU/transcript.md) |
+| — | BWB - Business With Brian | [Nuclear Stocks That Could 10X Before 2035! (But No One’s Watching)](https://www.youtube.com/watch?v=eRnN7P2kQeU) | — | — | [transcript](eRnN7P2kQeU/transcript.md) · [visuals](eRnN7P2kQeU/visuals.md) |
 | — | Aswath Damodaran | [In Practice Webcast 10b: Estimating an Optimal Debt Ratio - Special Cases](https://www.youtube.com/watch?v=eTKJSj-GIDk) | — | — | [transcript](eTKJSj-GIDk/transcript.md) · [materials](eTKJSj-GIDk/materials/) |
 | — | Aswath Damodaran | [Superman and Stocks: It's not the cape (CAPE), it's the kryptonite (Cash Flow)](https://www.youtube.com/watch?v=eTLkhWwxdg4) | — | — | [transcript](eTLkhWwxdg4/transcript.md) · [materials](eTLkhWwxdg4/materials/) |
 | — | Justin Sung | [5 Levels of Learning Every Graduate MUST Master](https://www.youtube.com/watch?v=eTOFa5BX6qs) | — | — | [transcript](eTOFa5BX6qs/transcript.md) |
