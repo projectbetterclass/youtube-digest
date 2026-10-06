@@ -509,6 +509,11 @@ def run_capture_only(
     return done, failed
 
 
+def _is_out_of_credit(exc: Exception) -> bool:
+    """True for the API's 'credit balance is too low' error (a billing stop, not a bad video)."""
+    return "credit balance" in str(exc).lower()
+
+
 def run_visuals(
     settings: Settings,
     channels: list[Channel],
@@ -517,14 +522,23 @@ def run_visuals(
     client: Optional[Anthropic] = None,
     budget: Optional[int] = None,
     channel_filter: Optional[str] = None,
+    stored_only: bool = False,
 ) -> int:
     """Enrich up to `budget` pending videos with on-screen visuals. Returns #processed.
 
     Marks every attempt in state (success or hard failure) so expensive downloads are
     not repeated. `channel_filter` focuses one channel's backlog (see select_pending).
+    `stored_only` reads only videos a capture-only run has already saved frames for, so a
+    reader can run alongside an ongoing capture without downloading anything itself.
+    An out-of-credit API error stops the batch WITHOUT marking the video, so it is
+    simply retried once the balance is topped up.
     """
     budget = settings.visual_budget_per_run if budget is None else budget
-    pending = select_pending(channels, state, library, budget, channel_filter=channel_filter)
+    if stored_only:
+        pool = select_pending(channels, state, library, budget=10**9, channel_filter=channel_filter)
+        pending = [v for v in pool if has_stored_frames(v.video_id)][:budget]
+    else:
+        pending = select_pending(channels, state, library, budget, channel_filter=channel_filter)
     if not pending:
         log.info("No pending videos for visual capture.")
         return 0
@@ -535,6 +549,9 @@ def run_visuals(
         try:
             n = process_video_visuals(video, settings, client)
         except Exception as exc:  # noqa: BLE001 — one bad video shouldn't stop the batch
+            if _is_out_of_credit(exc):
+                log.warning("Anthropic credit balance is too low — stopping; top up and re-run.")
+                break
             log.warning("Visual capture failed for %s (%s): %s", video.title, video.video_id, exc)
             mark_visual_done(state, video.video_id, slides=0, error=str(exc)[:200])
             continue

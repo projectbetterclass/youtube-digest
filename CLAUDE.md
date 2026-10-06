@@ -80,11 +80,11 @@ What it does:
 - `tests/test_visuals.py` — no cv2/network needed
 - Output: `data/archive/<video_id>/visuals.md` alongside the transcript
 
-Opted in (`visual: true`): Ticker Symbol: YOU (163 read), BWB (100 read), David Carbutt (10 read,
-+100 captured waiting), New Money,
+Opted in (`visual: true`): Ticker Symbol: YOU (163 read), BWB (100 read), New Money,
 and — from the 2026-10-01 screen check, user's choice — Greg Isenberg, Tom Nash, Justin Sung,
 plus the borderline Riley Brown, Alex Hormozi, Starter Story, Chris Raroque.
-Checked and kept **audio-only**: Felix & Friends, HealthyGamerGG, JulienHimself, Ben Yanes,
+**David Carbutt: transcripts only** since 2026-10-06 (user's choice; 20 videos were read, then
+switched off — his frames are mostly b-roll). Checked and kept **audio-only**: Felix & Friends, HealthyGamerGG, JulienHimself, Ben Yanes,
 Chris Williamson, Leila Hormozi, Vinh Giang, The Diary Of A CEO; Aswath is excluded (his
 slides are PDFs). Every channel has now been checked. Visuals can be switched on for a
 channel later without re-fetching transcripts — the job enriches videos already in the library.
@@ -94,9 +94,12 @@ User's current run order for screen capture: Ticker Symbol: YOU, BWB, David Carb
 downloads videos and saves candidate frames to `frames/<id>/` (gitignored, PC-only); a normal
 run later reads them with Claude vision instead of re-downloading. The PC's `.env` now has its
 own `ANTHROPIC_API_KEY` ("PC screen capture" key, 2026-10-06). On 2026-10-06 the captured
-Ticker Symbol: YOU and BWB batches were read (~9 charts kept per video, ~20s each). **David
-Carbutt's 100 captured videos are still waiting** — his frames are mostly b-roll, so the user
-should decide before spending on them: `run_visuals.py --channel "David Carbutt" --budget 25`.
+Ticker Symbol: YOU and BWB batches were read (~9 charts kept per video, ~20s each, ~1.8¢ each).
+**User's plan (2026-10-06): screen capture for the WHOLE channel of Ticker Symbol: YOU, Tom
+Nash, BWB and New Money** — the valuation agent is the main consumer. Capture-only runs fill
+`frames/`; `run_visuals.py --stored-only --channel X --budget 25` reads alongside without
+downloading. An out-of-credit API error stops a read batch without marking videos, so a
+re-run after topping up continues cleanly.
 
 The visuals job only advances while the PC's runner is online; the cloud digest is
 independent. It keeps its own ledger `data/visuals_state.json` and writes only
