@@ -7,6 +7,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Optional
 
+from .fsutil import atomic_write_text
 from .models import Video
 
 
@@ -24,11 +25,7 @@ def load_state(path: Path | str) -> dict:
 
 
 def save_state(path: Path | str, state: dict) -> None:
-    path = Path(path)
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with open(path, "w", encoding="utf-8") as fh:
-        json.dump(state, fh, indent=2, sort_keys=True)
-        fh.write("\n")
+    atomic_write_text(path, json.dumps(state, indent=2, sort_keys=True) + "\n")
 
 
 def is_processed(state: dict, video_id: str) -> bool:
