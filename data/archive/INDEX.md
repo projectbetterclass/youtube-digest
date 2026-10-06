@@ -1004,7 +1004,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Icarus or Lazarus? The GoPro and LinkedIn Question](https://www.youtube.com/watch?v=4v8wnsMevTY) | — | — | [transcript](4v8wnsMevTY/transcript.md) · [materials](4v8wnsMevTY/materials/) |
 | — | BWB - Business With Brian | [Our Top 10 Stocks to Set It & Forget It!](https://www.youtube.com/watch?v=4vgg_-dkDC0) | — | — | [transcript](4vgg_-dkDC0/transcript.md) · [visuals](4vgg_-dkDC0/visuals.md) |
 | — | Tom Nash | [Palantir Stock Skyrockets 38%](https://www.youtube.com/watch?v=4wXu84CJ9EY) | — | — | [transcript](4wXu84CJ9EY/transcript.md) · [visuals](4wXu84CJ9EY/visuals.md) |
-| — | New Money | [Big Short Investor Explains the Commercial Real Estate Crisis](https://www.youtube.com/watch?v=4xQLFH_Ce4c) | — | — | [transcript](4xQLFH_Ce4c/transcript.md) |
+| — | New Money | [Big Short Investor Explains the Commercial Real Estate Crisis](https://www.youtube.com/watch?v=4xQLFH_Ce4c) | — | — | [transcript](4xQLFH_Ce4c/transcript.md) · [visuals](4xQLFH_Ce4c/visuals.md) |
 | — | Chris Raroque | [No coding experience? Start here](https://www.youtube.com/watch?v=4xg5GrFEVeE) | — | — | [transcript](4xg5GrFEVeE/transcript.md) |
 | — | Ben Yanes | [Modern Meathead Experience #11 - How Do You Know What Works?](https://www.youtube.com/watch?v=4xhgLfAV9Jk) | — | — | [transcript](4xhgLfAV9Jk/transcript.md) |
 | — | JulienHimself | [I Studied ANXIETY In Thousands Of Clients & Learned This...](https://www.youtube.com/watch?v=4yY2Qf1TgUs) | — | — | [transcript](4yY2Qf1TgUs/transcript.md) |
@@ -1243,7 +1243,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Palantir Signs Huge NEW Deal!](https://www.youtube.com/watch?v=7524AzsppI0) | — | — | [transcript](7524AzsppI0/transcript.md) |
 | — | David Carbutt | [Alex Karp Leaves Audience Speechless on Palantir's Q2 Earnings Call](https://www.youtube.com/watch?v=75lboM5zqos) | — | — | [transcript](75lboM5zqos/transcript.md) |
 | — | JulienHimself | [You’ll Never Be Confident Until You Fix THIS](https://www.youtube.com/watch?v=75mBOoNZwaI) | — | — | [transcript](75mBOoNZwaI/transcript.md) |
-| — | Tom Nash | [CRITICAL WARNING TO ALL INVESTORS](https://www.youtube.com/watch?v=75sJ6bPjdMY) | — | — | [transcript](75sJ6bPjdMY/transcript.md) |
+| — | Tom Nash | [CRITICAL WARNING TO ALL INVESTORS](https://www.youtube.com/watch?v=75sJ6bPjdMY) | — | — | [transcript](75sJ6bPjdMY/transcript.md) · [visuals](75sJ6bPjdMY/visuals.md) |
 | — | New Money | [How Is Warren Buffett Spending His $80B Net Worth?](https://www.youtube.com/watch?v=75yR04kLC9U) | — | — | [transcript](75yR04kLC9U/transcript.md) |
 | — | Chris Raroque | [I'm building a budgeting app (and naming it after my dog)](https://www.youtube.com/watch?v=76VPbr1RifM) | — | — | [transcript](76VPbr1RifM/transcript.md) |
 | — | New Money | [The 5 Best Investments For LIFE!](https://www.youtube.com/watch?v=76jD2bTbUis) | — | — | [transcript](76jD2bTbUis/transcript.md) |
@@ -7367,7 +7367,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Therapist Reacts: "I Tell Lies For No Reason"](https://www.youtube.com/watch?v=xfCs2mV5ZlM) | — | — | [transcript](xfCs2mV5ZlM/transcript.md) |
 | — | Tom Nash | [we need to talk... [about Palantir]](https://www.youtube.com/watch?v=xgMfJxea9KU) | — | — | [transcript](xgMfJxea9KU/transcript.md) |
 | — | Ticker Symbol: YOU | [My Top 4 Investments To Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=xhG3E1RaX6c) | — | — | [transcript](xhG3E1RaX6c/transcript.md) |
-| — | BWB - Business With Brian | [The 10 Best Dividend ETFs To Invest In For 2023](https://www.youtube.com/watch?v=xiBkyxgbYxE) | — | — | [transcript](xiBkyxgbYxE/transcript.md) |
+| — | BWB - Business With Brian | [The 10 Best Dividend ETFs To Invest In For 2023](https://www.youtube.com/watch?v=xiBkyxgbYxE) | — | — | [transcript](xiBkyxgbYxE/transcript.md) · [visuals](xiBkyxgbYxE/visuals.md) |
 | — | Tom Nash | [A Once in a Lifetime Investment Opportunity is Coming.](https://www.youtube.com/watch?v=xj3ejxMFHgI) | — | — | [transcript](xj3ejxMFHgI/transcript.md) |
 | — | David Carbutt | [The Biggest Risk to Palantir.](https://www.youtube.com/watch?v=xk80nRy2qAU) | — | — | [transcript](xk80nRy2qAU/transcript.md) |
 | — | Tom Nash | [Palantir Just Did The Unthinkable](https://www.youtube.com/watch?v=xkGVbSP9jME) | — | — | [transcript](xkGVbSP9jME/transcript.md) |
@@ -7399,7 +7399,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [The Dark Fight Over Palantir’s AI](https://www.youtube.com/watch?v=xx7OylUDYOE) | — | — | [transcript](xx7OylUDYOE/transcript.md) |
 | — | Aswath Damodaran | [Historical Returns: Dataset Support](https://www.youtube.com/watch?v=xxQA5m4P_UY) | — | — | [transcript](xxQA5m4P_UY/transcript.md) · [materials](xxQA5m4P_UY/materials/) |
 | — | HealthyGamerGG | [Why OCD Is Deeper Than You Think](https://www.youtube.com/watch?v=xxvMYGT23Ww) | — | — | [transcript](xxvMYGT23Ww/transcript.md) |
-| — | BWB - Business With Brian | [If You Missed Palantir at $25... It's Happening Again](https://www.youtube.com/watch?v=xzC97KtG09M) | — | — | [transcript](xzC97KtG09M/transcript.md) |
+| — | BWB - Business With Brian | [If You Missed Palantir at $25... It's Happening Again](https://www.youtube.com/watch?v=xzC97KtG09M) | — | — | [transcript](xzC97KtG09M/transcript.md) · [visuals](xzC97KtG09M/visuals.md) |
 | — | Aswath Damodaran | [Checkmate or Stalemate: Valeant's fall from investing grace](https://www.youtube.com/watch?v=xzfPeAfJYw8) | — | — | [transcript](xzfPeAfJYw8/transcript.md) · [materials](xzfPeAfJYw8/materials/) |
 | — | Felix & Friends (Goat Academy) | [Silver: The Quiet Rule Change That Changes Everything](https://www.youtube.com/watch?v=xziUSXN-cVw) | — | — | [transcript](xziUSXN-cVw/transcript.md) |
 | — | Ben Yanes | [Triceps Anatomy 101](https://www.youtube.com/watch?v=y--jW2o3rUU) | — | — | [transcript](y--jW2o3rUU/transcript.md) |
@@ -7408,7 +7408,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Palantir Stock at $7: Buy? Hold? or Sell?](https://www.youtube.com/watch?v=y05r0He841o) | — | — | [transcript](y05r0He841o/transcript.md) |
 | — | HealthyGamerGG | [China BANS video games - is Gaming a PROBLEM? Dr K talks](https://www.youtube.com/watch?v=y0wziXfR-Gk) | — | — | [transcript](y0wziXfR-Gk/transcript.md) |
 | — | Ben Yanes | [Modern Meathead Experience #26 - The Problem with Long Muscle Length Training](https://www.youtube.com/watch?v=y1aWU2rVHbs) | — | — | [transcript](y1aWU2rVHbs/transcript.md) |
-| — | BWB - Business With Brian | [𝐖𝐡𝐚𝐭 𝐂𝐚𝐮𝐬𝐞𝐬 𝐈𝐧𝐟𝐥𝐚𝐭𝐢𝐨𝐧 \| Explained with Humor](https://www.youtube.com/watch?v=y1aiy1y4eVA) | — | — | [transcript](y1aiy1y4eVA/transcript.md) |
+| — | BWB - Business With Brian | [𝐖𝐡𝐚𝐭 𝐂𝐚𝐮𝐬𝐞𝐬 𝐈𝐧𝐟𝐥𝐚𝐭𝐢𝐨𝐧 \| Explained with Humor](https://www.youtube.com/watch?v=y1aiy1y4eVA) | — | — | [transcript](y1aiy1y4eVA/transcript.md) · [visuals](y1aiy1y4eVA/visuals.md) |
 | — | New Money | [The Smart Money Just Doubled Down.](https://www.youtube.com/watch?v=y1g8JcJ3S8c) | — | — | [transcript](y1g8JcJ3S8c/transcript.md) |
 | — | David Carbutt | [What Alex Karp Said Just Shocked Everyone](https://www.youtube.com/watch?v=y1q3SKUa-pI) | — | — | [transcript](y1q3SKUa-pI/transcript.md) |
 | — | HealthyGamerGG | [Pro Player Stress \| Dr.K Explains](https://www.youtube.com/watch?v=y29TVZTbA8g) | — | — | [transcript](y29TVZTbA8g/transcript.md) |
