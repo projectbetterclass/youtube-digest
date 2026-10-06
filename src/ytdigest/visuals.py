@@ -38,6 +38,7 @@ from anthropic import Anthropic
 
 from . import config as C
 from .config import Channel, Settings
+from .fsutil import atomic_write_text
 from .models import Video
 from .state import mark_visual_done, visual_done
 
@@ -414,7 +415,7 @@ def save_frames(video_id: str, frames: list[tuple[float, object, float]], error:
         "error": error,
         "frames": entries,
     }
-    (d / "manifest.json").write_text(json.dumps(manifest, indent=1), encoding="utf-8")
+    atomic_write_text(d / "manifest.json", json.dumps(manifest, indent=1))
     return d
 
 
@@ -462,7 +463,7 @@ def process_video_visuals(
 
     vdir = C.ARCHIVE_DIR / video.video_id
     vdir.mkdir(parents=True, exist_ok=True)
-    (vdir / "visuals.md").write_text(render_visuals_md(video, kept), encoding="utf-8")
+    atomic_write_text(vdir / "visuals.md", render_visuals_md(video, kept))
     return len(kept)
 
 

@@ -16,6 +16,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
+from .fsutil import atomic_write_text
 from .models import Brief
 
 
@@ -30,11 +31,7 @@ def load_library(path: Path | str) -> dict:
 
 
 def save_library(path: Path | str, library: dict) -> None:
-    path = Path(path)
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with open(path, "w", encoding="utf-8") as fh:
-        json.dump(library, fh, indent=2, sort_keys=True, ensure_ascii=False)
-        fh.write("\n")
+    atomic_write_text(path, json.dumps(library, indent=2, sort_keys=True, ensure_ascii=False) + "\n")
 
 
 def record_from_brief(brief: Brief) -> dict:
@@ -139,9 +136,7 @@ def render_index(library: dict, archive_dir: Path | None = None) -> str:
 
 def write_index(index_path: Path | str, library: dict) -> Path:
     index_path = Path(index_path)
-    index_path.parent.mkdir(parents=True, exist_ok=True)
     # The index lives at data/archive/INDEX.md, so its parent is the archive dir — pass it
     # so visuals links appear for any video that has a visuals.md on disk.
-    with open(index_path, "w", encoding="utf-8") as fh:
-        fh.write(render_index(library, archive_dir=index_path.parent))
+    atomic_write_text(index_path, render_index(library, archive_dir=index_path.parent))
     return index_path
