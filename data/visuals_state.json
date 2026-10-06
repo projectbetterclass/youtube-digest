@@ -17,6 +17,11 @@
       "error": "",
       "slides": 5
     },
+    "-2SGGkxSjbI": {
+      "at": "2026-10-06T19:52:28.532592+00:00",
+      "error": "",
+      "slides": 14
+    },
     "-2bPY14Omw4": {
       "at": "2026-10-06T16:37:27.238698+00:00",
       "error": "",
@@ -121,6 +126,11 @@
       "at": "2026-10-06T19:41:10.268485+00:00",
       "error": "",
       "slides": 5
+    },
+    "-lr-Pz0Gudw": {
+      "at": "2026-10-06T19:50:58.063846+00:00",
+      "error": "",
+      "slides": 0
     },
     "-pg2pMCa790": {
       "at": "2026-10-06T17:03:06.636573+00:00",
@@ -246,6 +256,26 @@
       "at": "2026-09-21T18:31:27.540389+00:00",
       "error": "",
       "slides": 7
+    },
+    "0ic4lTDTe5Y": {
+      "at": "2026-10-06T19:50:58.065365+00:00",
+      "error": "capture failed earlier: ERROR: [youtube] 0ic4lTDTe5Y: Join this channel to get access to members-only content like this video, and other exclusive perks.",
+      "slides": 0
+    },
+    "0ojChiwu42g": {
+      "at": "2026-10-06T19:51:02.536472+00:00",
+      "error": "",
+      "slides": 2
+    },
+    "0qWstoOPgvo": {
+      "at": "2026-10-06T19:51:05.889653+00:00",
+      "error": "",
+      "slides": 1
+    },
+    "0t2ieYbdHts": {
+      "at": "2026-10-06T19:51:06.776271+00:00",
+      "error": "",
+      "slides": 0
     },
     "0wIZ_7KYtTE": {
       "at": "2026-10-06T16:41:44.902577+00:00",
@@ -2007,15 +2037,35 @@
       "error": "",
       "slides": 13
     },
+    "msgRI_oxbP0": {
+      "at": "2026-10-06T19:51:33.886739+00:00",
+      "error": "",
+      "slides": 0
+    },
     "mt7hRJSjiqo": {
       "at": "2026-10-06T19:45:48.292105+00:00",
       "error": "",
       "slides": 12
     },
+    "nBpGkBpvrxk": {
+      "at": "2026-10-06T19:52:35.403845+00:00",
+      "error": "",
+      "slides": 5
+    },
+    "nD-M93bF5xk": {
+      "at": "2026-10-06T19:51:54.407930+00:00",
+      "error": "",
+      "slides": 14
+    },
     "ukjHHCtLq2g": {
       "at": "2026-10-06T19:37:47.185450+00:00",
       "error": "",
       "slides": 9
+    },
+    "y3cim4d4iWo": {
+      "at": "2026-10-06T19:52:12.693529+00:00",
+      "error": "",
+      "slides": 8
     }
   }
 }
