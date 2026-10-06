@@ -1002,11 +1002,6 @@
       "error": "",
       "slides": 13
     },
-    "K9Eguq3hSBs": {
-      "at": "2026-10-06T18:44:03.263079+00:00",
-      "error": "capture failed earlier: ERROR: unable to download video data: HTTP Error 403: Forbidden",
-      "slides": 0
-    },
     "K9yEAklsGX8": {
       "at": "2026-10-06T18:44:14.740223+00:00",
       "error": "",
@@ -1232,11 +1227,6 @@
       "error": "",
       "slides": 11
     },
-    "PKfJmi83VjA": {
-      "at": "2026-10-06T18:48:33.879767+00:00",
-      "error": "capture failed earlier: ERROR: unable to download video data: HTTP Error 403: Forbidden",
-      "slides": 0
-    },
     "PQa34nXm5EI": {
       "at": "2026-10-06T17:18:51.685937+00:00",
       "error": "",
@@ -1305,11 +1295,6 @@
     "QzMoUg5EOEM": {
       "at": "2026-09-22T19:09:44.801884+00:00",
       "error": "",
-      "slides": 0
-    },
-    "R3iaY2jwQ2U": {
-      "at": "2026-10-06T18:50:25.219361+00:00",
-      "error": "capture failed earlier: ERROR: unable to download video data: HTTP Error 403: Forbidden",
       "slides": 0
     },
     "R4dBrtVV8Lc": {
@@ -1562,11 +1547,6 @@
       "error": "",
       "slides": 14
     },
-    "WH-wyXmZKZI": {
-      "at": "2026-10-06T19:11:35.920062+00:00",
-      "error": "capture failed earlier: ERROR: unable to download video data: HTTP Error 403: Forbidden",
-      "slides": 0
-    },
     "WROae6XP4P8": {
       "at": "2026-10-06T17:23:49.070410+00:00",
       "error": "",
@@ -1702,11 +1682,6 @@
       "error": "",
       "slides": 8
     },
-    "ZZ2nWg1QhR4": {
-      "at": "2026-09-22T19:31:05.040353+00:00",
-      "error": "ERROR: unable to download video data: HTTP Error 403: Forbidden",
-      "slides": 0
-    },
     "ZdFtF7rFTQk": {
       "at": "2026-10-06T19:30:33.325206+00:00",
       "error": "",
@@ -1746,16 +1721,6 @@
       "at": "2026-10-06T18:53:20.969874+00:00",
       "error": "",
       "slides": 8
-    },
-    "_gf-3joyIJo": {
-      "at": "2026-10-06T18:53:20.978874+00:00",
-      "error": "capture failed earlier: ERROR: unable to download video data: HTTP Error 403: Forbidden",
-      "slides": 0
-    },
-    "aQT1wvYbbgY": {
-      "at": "2026-10-06T18:53:20.984872+00:00",
-      "error": "capture failed earlier: ERROR: \r[download] Got error: HTTPSConnectionPool(host='rr3---sn-uhvcpaxoa-xpoe.googlevideo.com', port=443): Read timed out.",
-      "slides": 0
     },
     "a_ORzZ9eG40": {
       "at": "2026-09-22T19:33:05.935916+00:00",
@@ -1816,11 +1781,6 @@
       "at": "2026-10-06T19:01:34.121570+00:00",
       "error": "",
       "slides": 9
-    },
-    "dbbT-x_ttRc": {
-      "at": "2026-10-06T19:01:34.128565+00:00",
-      "error": "capture failed earlier: ERROR: unable to download video data: HTTP Error 403: Forbidden",
-      "slides": 0
     },
     "de7nzQUzjzg": {
       "at": "2026-10-06T19:01:51.356970+00:00",
