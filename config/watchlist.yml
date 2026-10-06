@@ -105,7 +105,7 @@ channels:
   - name: "David Carbutt"
     channel_id: UC__d7jgOunIVFz6TU_t1QOQ
     backfill: 1150            # whole channel (~1,011 videos) — user's choice 2026-10-01
-    visual: true             # chart-heavy — capture on-screen slides (self-hosted visuals job)
+    visual: false            # transcripts only (user's choice 2026-10-06): trial read was mostly b-roll
   - name: "JulienHimself"
     channel_id: UCaN4Pe5JEsWzAByY2WfxxjQ
     backfill: 700            # whole channel (~572 videos) — a user priority channel; audio only

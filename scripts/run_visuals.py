@@ -14,6 +14,8 @@ Examples:
     python scripts/run_visuals.py --capture-only --channel "Ticker Symbol: YOU" --budget 100
         # step 1 only: download + save candidate frames to frames/ (no API key needed);
         # a later normal run reads them from disk instead of re-downloading
+    python scripts/run_visuals.py --stored-only --channel "Tom Nash" --budget 25
+        # read only already-captured videos (safe to run alongside a capture-only run)
 """
 
 from __future__ import annotations
@@ -44,6 +46,8 @@ def main() -> int:
     parser.add_argument("--channel", default=None, help="Focus one opted-in channel's backlog (by watchlist name)")
     parser.add_argument("--video", default=None, help="Force one archived video id (ignores opt-in/dedup)")
     parser.add_argument("--dry-run", action="store_true", help="Write visuals.md but don't save state/library")
+    parser.add_argument("--stored-only", action="store_true",
+                        help="Read only videos whose frames a capture-only run already saved")
     parser.add_argument("--capture-only", action="store_true",
                         help="Only download + save candidate frames to frames/ (no API key needed)")
     parser.add_argument("-v", "--verbose", action="store_true", help="Debug logging")
@@ -91,7 +95,8 @@ def main() -> int:
         print(f"{args.video}: {n} slide(s) → data/archive/{args.video}/visuals.md")
         return 0
 
-    processed = run_visuals(settings, channels, state, library, budget=args.budget, channel_filter=args.channel)
+    processed = run_visuals(settings, channels, state, library, budget=args.budget,
+                            channel_filter=args.channel, stored_only=args.stored_only)
     print(f"\n{'=' * 60}\nVisual capture: {processed} video(s) processed\n{'=' * 60}")
 
     # Only the ledger is saved. library.json / INDEX.md stay owned by the cloud digest,

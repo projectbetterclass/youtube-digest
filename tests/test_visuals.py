@@ -193,3 +193,19 @@ def test_slide_items_tolerates_json_strings_and_junk():
     assert V._slide_items({"slides": ["oops", {"index": 0, "description": "chart"}]}) == good
     assert V._slide_items({"slides": "not json"}) == []
     assert V._slide_items({"slides": None}) == []
+
+
+def test_stored_only_reads_captured_videos_and_credit_errors_dont_mark(tmp_path, monkeypatch):
+    monkeypatch.setattr(C, "FRAMES_DIR", tmp_path)
+    V.save_frames("vidOLD", [])                      # captured; vidNEW is not
+    seen = []
+
+    def fake_process(video, settings, client):
+        seen.append(video.video_id)
+        raise RuntimeError("Your credit balance is too low to access the Anthropic API")
+
+    monkeypatch.setattr(V, "process_video_visuals", fake_process)
+    state = {"visuals": {}}
+    assert V.run_visuals(None, _channels(), state, _lib(), client=object(), budget=10, stored_only=True) == 0
+    assert seen == ["vidOLD"]                         # vidNEW skipped: no stored frames
+    assert state["visuals"] == {}                     # credit stop leaves it to retry later
