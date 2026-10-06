@@ -431,7 +431,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Why Alex Karp is Selling His Palantir Shares?](https://www.youtube.com/watch?v=03tSnVEzloM) | — | — | [transcript](03tSnVEzloM/transcript.md) · [visuals](03tSnVEzloM/visuals.md) |
 | — | Justin Sung | [I lived like Elon for 1 year...](https://www.youtube.com/watch?v=04aDKK7VWtI) | — | — | [transcript](04aDKK7VWtI/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [My Simple $689 Plan To Retire (stress-free)](https://www.youtube.com/watch?v=0520vkJR-dg) | — | — | [transcript](0520vkJR-dg/transcript.md) |
-| — | New Money | [Gamestop Stock CRASHES! But Who Won the Battle?](https://www.youtube.com/watch?v=05YDRWZKVcA) | — | — | [transcript](05YDRWZKVcA/transcript.md) |
+| — | New Money | [Gamestop Stock CRASHES! But Who Won the Battle?](https://www.youtube.com/watch?v=05YDRWZKVcA) | — | — | [transcript](05YDRWZKVcA/transcript.md) · [visuals](05YDRWZKVcA/visuals.md) |
 | — | HealthyGamerGG | [How To Get A Girlfriend](https://www.youtube.com/watch?v=05tG47pv1vM) | — | — | [transcript](05tG47pv1vM/transcript.md) |
 | — | HealthyGamerGG | [The Guide You've Been Waiting For...](https://www.youtube.com/watch?v=05vyXRCdrUg) | — | — | [transcript](05vyXRCdrUg/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Trump to FLOOD the Market on THIS Date (Most Aren’t Ready)](https://www.youtube.com/watch?v=06-HO8j9Ruw) | — | — | [transcript](06-HO8j9Ruw/transcript.md) |
@@ -465,7 +465,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [🚀 🪐 ARKX & Elon's Path to Trillions \| A Deep Dive Into ARK Invest's New Space Exploration Fund!](https://www.youtube.com/watch?v=0M62vZDaMKk) | — | — | [transcript](0M62vZDaMKk/transcript.md) · [visuals](0M62vZDaMKk/visuals.md) |
 | — | JulienHimself | [The Frame Game: Powerful Techniques To Improve Your Social Skills (Become Socially ELECTRIC)](https://www.youtube.com/watch?v=0MCW8wCOhjg) | — | — | [transcript](0MCW8wCOhjg/transcript.md) |
 | — | Ticker Symbol: YOU | [😲 TSLA \| This HUGE Tesla News Will Reshape the EV Market](https://www.youtube.com/watch?v=0MDIoQqHTIA) | — | — | [transcript](0MDIoQqHTIA/transcript.md) · [visuals](0MDIoQqHTIA/visuals.md) |
-| — | New Money | [How I Achieved High Income In My 20s  \|  How to Make More Money](https://www.youtube.com/watch?v=0Mt4oCFc-2k) | — | — | [transcript](0Mt4oCFc-2k/transcript.md) |
+| — | New Money | [How I Achieved High Income In My 20s  \|  How to Make More Money](https://www.youtube.com/watch?v=0Mt4oCFc-2k) | — | — | [transcript](0Mt4oCFc-2k/transcript.md) · [visuals](0Mt4oCFc-2k/visuals.md) |
 | — | HealthyGamerGG | [Discipline Is Actually An Emotion](https://www.youtube.com/watch?v=0N0LV0mqTYQ) | — | — | [transcript](0N0LV0mqTYQ/transcript.md) |
 | — | Ben Yanes | [The Viral Ab Exercise That Doesn't Train Abs!?](https://www.youtube.com/watch?v=0NNksI28sZU) | — | — | [transcript](0NNksI28sZU/transcript.md) |
 | — | David Carbutt | [Palantir: HUGE Contract Renewal!](https://www.youtube.com/watch?v=0ONnSj2tSz0) | — | — | [transcript](0ONnSj2tSz0/transcript.md) |
@@ -784,7 +784,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [2024 Was Not What We Expected (Yearly Recap)](https://www.youtube.com/watch?v=31lsU24vhE8) | — | — | [transcript](31lsU24vhE8/transcript.md) |
 | — | David Carbutt | [Why Palantir is like Call of Duty!](https://www.youtube.com/watch?v=32EKp7eUfPA) | — | — | [transcript](32EKp7eUfPA/transcript.md) |
 | — | Starter Story | [My Two Apps Make $150K/Month Each](https://www.youtube.com/watch?v=32vqaJa90kw) | — | — | [transcript](32vqaJa90kw/transcript.md) |
-| — | Tom Nash | [MIND-BLOWING News Just Hit The Stock Market!](https://www.youtube.com/watch?v=32x9dDr76us) | — | — | [transcript](32x9dDr76us/transcript.md) |
+| — | Tom Nash | [MIND-BLOWING News Just Hit The Stock Market!](https://www.youtube.com/watch?v=32x9dDr76us) | — | — | [transcript](32x9dDr76us/transcript.md) · [visuals](32x9dDr76us/visuals.md) |
 | — | JulienHimself | [I Studied SELF ESTEEM In Thousands Of Clients & Learned This...](https://www.youtube.com/watch?v=33R5J9uNwrI) | — | — | [transcript](33R5J9uNwrI/transcript.md) |
 | — | JulienHimself | [Want To Help Yourself? Give Up On "Self-Help" (Julien Blanc Shares His Biggest Epiphany!)](https://www.youtube.com/watch?v=33pwVOqYofc) | — | — | [transcript](33pwVOqYofc/transcript.md) |
 | — | David Carbutt | [Palantir, Industrial Engineering & Data](https://www.youtube.com/watch?v=34OVvp-hsGk) | — | — | [transcript](34OVvp-hsGk/transcript.md) |
@@ -4645,7 +4645,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [The FASTEST Way To Build Self Confidence](https://www.youtube.com/watch?v=aTdjpl7Id1M) | — | — | [transcript](aTdjpl7Id1M/transcript.md) |
 | — | JulienHimself | [STOP "Playing It Safe" & Instead Do This!](https://www.youtube.com/watch?v=aVLfzLqJ4Zk) | — | — | [transcript](aVLfzLqJ4Zk/transcript.md) |
 | — | HealthyGamerGG | [How Gaming Affects Learning Circuitry \| Episode 005 Video Game Addiction](https://www.youtube.com/watch?v=aWbh2-tW2e0) | — | — | [transcript](aWbh2-tW2e0/transcript.md) |
-| — | Ticker Symbol: YOU | [I'm Buying Palantir Stock (PLTR) After Earnings (Here’s Why)](https://www.youtube.com/watch?v=aWwbwO3a5-k) | — | — | [transcript](aWwbwO3a5-k/transcript.md) |
+| — | Ticker Symbol: YOU | [I'm Buying Palantir Stock (PLTR) After Earnings (Here’s Why)](https://www.youtube.com/watch?v=aWwbwO3a5-k) | — | — | [transcript](aWwbwO3a5-k/transcript.md) · [visuals](aWwbwO3a5-k/visuals.md) |
 | — | HealthyGamerGG | [Why You Never Get the Second Date](https://www.youtube.com/watch?v=aWz5n_cOqrs) | — | — | [transcript](aWz5n_cOqrs/transcript.md) |
 | — | David Carbutt | [Palantir & Vertical Take off Jets](https://www.youtube.com/watch?v=aXjj4pH2I2c) | — | — | [transcript](aXjj4pH2I2c/transcript.md) |
 | — | JulienHimself | [Why Being "Nice" Makes You Less Confident](https://www.youtube.com/watch?v=aYgDscyF_Xc) | — | — | [transcript](aYgDscyF_Xc/transcript.md) |
@@ -6578,7 +6578,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 7:  Valuing Bonds](https://www.youtube.com/watch?v=rBWBUKZd4WY) | — | — | [transcript](rBWBUKZd4WY/transcript.md) · [materials](rBWBUKZd4WY/materials/) |
 | — | Starter Story | [How We Built It: $30K/month Mobile App](https://www.youtube.com/watch?v=rCV-TVCnF6Q) | — | — | [transcript](rCV-TVCnF6Q/transcript.md) |
 | — | Ticker Symbol: YOU | [My Top 4 Investments To Get Rich in 2025 (Without Getting Lucky)](https://www.youtube.com/watch?v=rD5f9ydaFvQ) | — | — | [transcript](rD5f9ydaFvQ/transcript.md) |
-| — | BWB - Business With Brian | [Top AI Stock 2025 - Millionaire Makers](https://www.youtube.com/watch?v=rDdh9MDQYkI) | — | — | [transcript](rDdh9MDQYkI/transcript.md) |
+| — | BWB - Business With Brian | [Top AI Stock 2025 - Millionaire Makers](https://www.youtube.com/watch?v=rDdh9MDQYkI) | — | — | [transcript](rDdh9MDQYkI/transcript.md) · [visuals](rDdh9MDQYkI/visuals.md) |
 | — | Ben Yanes | [Stop Doing Lat Pulldowns Like This! (3 MISTAKES)](https://www.youtube.com/watch?v=rEPMBpjg8uM) | — | — | [transcript](rEPMBpjg8uM/transcript.md) |
 | — | David Carbutt | [Elon & NVIDIA CEO: Things Are About to Get WILD!](https://www.youtube.com/watch?v=rF5y3chaHoA) | — | — | [transcript](rF5y3chaHoA/transcript.md) |
 | — | Aswath Damodaran | [Stare into the Abyss: Facing up to uncertainty with simulations](https://www.youtube.com/watch?v=rFd_qEpYFBc) | — | — | [transcript](rFd_qEpYFBc/transcript.md) · [materials](rFd_qEpYFBc/materials/) |
@@ -6589,7 +6589,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [You Should Ignore Yourself More](https://www.youtube.com/watch?v=rGUsOt5K_uk) | — | — | [transcript](rGUsOt5K_uk/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! Top 5 Stocks I'm Buying Before Nvidia Earnings (NVDA)](https://www.youtube.com/watch?v=rGYmTdcHK4I) | — | — | [transcript](rGYmTdcHK4I/transcript.md) |
 | — | JulienHimself | [The "Julien Blanc" Fiasco: How To Defend Fragile Reputations In An Age Of Instant Scandal](https://www.youtube.com/watch?v=rHOmS1B-em0) | — | — | [transcript](rHOmS1B-em0/transcript.md) |
-| — | BWB - Business With Brian | [𝐇𝐨𝐰 𝐓𝐨 𝐌𝐚𝐧𝐚𝐠𝐞 𝐚 𝟒𝟎𝟏𝐊, 𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐑𝐀, 𝐨𝐫 𝐑𝐨𝐭𝐡 𝐈𝐑𝐀](https://www.youtube.com/watch?v=rHT1EL-w_BY) | — | — | [transcript](rHT1EL-w_BY/transcript.md) |
+| — | BWB - Business With Brian | [𝐇𝐨𝐰 𝐓𝐨 𝐌𝐚𝐧𝐚𝐠𝐞 𝐚 𝟒𝟎𝟏𝐊, 𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐑𝐀, 𝐨𝐫 𝐑𝐨𝐭𝐡 𝐈𝐑𝐀](https://www.youtube.com/watch?v=rHT1EL-w_BY) | — | — | [transcript](rHT1EL-w_BY/transcript.md) · [visuals](rHT1EL-w_BY/visuals.md) |
 | — | Justin Sung | [16 Note-Taking Secrets of the Top 1% of Learners](https://www.youtube.com/watch?v=rHzmiH7bSNA) | — | — | [transcript](rHzmiH7bSNA/transcript.md) |
 | — | HealthyGamerGG | [The Harsh Reality of Problem Solving: What to Do When Nothing Works](https://www.youtube.com/watch?v=rKJf98jdxz0) | — | — | [transcript](rKJf98jdxz0/transcript.md) |
 | — | Chris Raroque | [I Built an App Worth Paying For (in 48 Hours)](https://www.youtube.com/watch?v=rK_vTNKYe0U) | — | — | [transcript](rK_vTNKYe0U/transcript.md) |
