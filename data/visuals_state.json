@@ -1002,6 +1002,16 @@
       "error": "",
       "slides": 13
     },
+    "K9Eguq3hSBs": {
+      "at": "2026-10-06T18:44:03.263079+00:00",
+      "error": "capture failed earlier: ERROR: unable to download video data: HTTP Error 403: Forbidden",
+      "slides": 0
+    },
+    "K9yEAklsGX8": {
+      "at": "2026-10-06T18:44:14.740223+00:00",
+      "error": "",
+      "slides": 10
+    },
     "KBO6TOHNi5w": {
       "at": "2026-10-06T17:15:46.079566+00:00",
       "error": "",
@@ -1011,6 +1021,11 @@
       "at": "2026-09-21T19:33:25.912374+00:00",
       "error": "",
       "slides": 11
+    },
+    "KOaBEqxyxa0": {
+      "at": "2026-10-06T18:44:31.658692+00:00",
+      "error": "",
+      "slides": 10
     },
     "KS_cIBPbE_o": {
       "at": "2026-09-21T19:35:34.737381+00:00",
@@ -1027,6 +1042,16 @@
       "error": "",
       "slides": 6
     },
+    "L6rJA0z2Kag": {
+      "at": "2026-10-06T18:44:46.198180+00:00",
+      "error": "",
+      "slides": 11
+    },
+    "LDR4M6l0bwo": {
+      "at": "2026-10-06T18:45:06.906586+00:00",
+      "error": "",
+      "slides": 0
+    },
     "LV-44eWQ474": {
       "at": "2026-09-21T19:40:20.394795+00:00",
       "error": "",
@@ -1037,6 +1062,16 @@
       "error": "",
       "slides": 15
     },
+    "Lm3b1SCidRI": {
+      "at": "2026-10-06T18:45:20.507941+00:00",
+      "error": "",
+      "slides": 12
+    },
+    "M4F1BfKB0Dk": {
+      "at": "2026-10-06T18:45:41.624564+00:00",
+      "error": "",
+      "slides": 0
+    },
     "M8_DnpYV2hY": {
       "at": "2026-10-06T17:16:20.340385+00:00",
       "error": "",
@@ -1046,6 +1081,11 @@
       "at": "2026-09-21T19:44:04.605543+00:00",
       "error": "",
       "slides": 10
+    },
+    "MQ1tyv5PYYE": {
+      "at": "2026-10-06T18:45:57.651453+00:00",
+      "error": "",
+      "slides": 13
     },
     "MSmSA8uTn8Y": {
       "at": "2026-10-06T17:40:11.523133+00:00",
@@ -1077,6 +1117,11 @@
       "error": "",
       "slides": 8
     },
+    "NaTiQ8fvhiQ": {
+      "at": "2026-10-06T18:46:12.303409+00:00",
+      "error": "",
+      "slides": 14
+    },
     "Nd5hXJT1kxI": {
       "at": "2026-09-22T18:58:36.115059+00:00",
       "error": "",
@@ -1097,6 +1142,31 @@
       "error": "",
       "slides": 9
     },
+    "NtdvkfwjuMc": {
+      "at": "2026-10-06T18:46:29.138381+00:00",
+      "error": "",
+      "slides": 13
+    },
+    "NuJJQ-7MnAg": {
+      "at": "2026-10-06T18:46:45.207916+00:00",
+      "error": "",
+      "slides": 10
+    },
+    "O4AG1cz01rw": {
+      "at": "2026-10-06T18:47:06.033584+00:00",
+      "error": "",
+      "slides": 15
+    },
+    "O9QoGhcYoRI": {
+      "at": "2026-10-06T18:47:26.421764+00:00",
+      "error": "",
+      "slides": 0
+    },
+    "OCqwP3PH1jA": {
+      "at": "2026-10-06T18:47:33.958929+00:00",
+      "error": "",
+      "slides": 6
+    },
     "OQXc6AGGd0Y": {
       "at": "2026-10-06T17:17:18.981586+00:00",
       "error": "",
@@ -1111,6 +1181,16 @@
       "at": "2026-09-22T19:04:18.198455+00:00",
       "error": "",
       "slides": 14
+    },
+    "OcmxpmseE8k": {
+      "at": "2026-10-06T18:47:55.253563+00:00",
+      "error": "",
+      "slides": 0
+    },
+    "OdumYC0xjAo": {
+      "at": "2026-10-06T18:48:09.224738+00:00",
+      "error": "",
+      "slides": 9
     },
     "Oh6ibjUiZlc": {
       "at": "2026-10-06T17:17:51.489155+00:00",
@@ -1132,6 +1212,16 @@
       "error": "",
       "slides": 12
     },
+    "OwdjuaDS7iA": {
+      "at": "2026-10-06T18:48:23.198187+00:00",
+      "error": "",
+      "slides": 10
+    },
+    "P254RGBZQIw": {
+      "at": "2026-10-06T18:48:33.862775+00:00",
+      "error": "",
+      "slides": 14
+    },
     "PBDG4DbBMIA": {
       "at": "2026-10-06T17:18:21.334753+00:00",
       "error": "",
@@ -1141,6 +1231,11 @@
       "at": "2026-10-06T17:18:38.891769+00:00",
       "error": "",
       "slides": 11
+    },
+    "PKfJmi83VjA": {
+      "at": "2026-10-06T18:48:33.879767+00:00",
+      "error": "capture failed earlier: ERROR: unable to download video data: HTTP Error 403: Forbidden",
+      "slides": 0
     },
     "PQa34nXm5EI": {
       "at": "2026-10-06T17:18:51.685937+00:00",
@@ -1152,6 +1247,11 @@
       "error": "",
       "slides": 15
     },
+    "PZbBj6LSsuY": {
+      "at": "2026-10-06T18:48:44.138413+00:00",
+      "error": "",
+      "slides": 11
+    },
     "PkGfIEavY5A": {
       "at": "2026-10-06T17:19:29.392240+00:00",
       "error": "",
@@ -1162,15 +1262,60 @@
       "error": "",
       "slides": 6
     },
+    "Q1v32il6gBo": {
+      "at": "2026-10-06T18:48:59.190141+00:00",
+      "error": "",
+      "slides": 10
+    },
+    "QFfjX8dW-QQ": {
+      "at": "2026-10-06T18:49:05.965427+00:00",
+      "error": "",
+      "slides": 4
+    },
+    "QNn0XJ3Ev7o": {
+      "at": "2026-10-06T18:49:16.607156+00:00",
+      "error": "",
+      "slides": 9
+    },
+    "QY59G8Xs_PI": {
+      "at": "2026-10-06T18:49:32.323893+00:00",
+      "error": "",
+      "slides": 12
+    },
+    "QZsveouDX-c": {
+      "at": "2026-10-06T18:49:53.965009+00:00",
+      "error": "",
+      "slides": 12
+    },
+    "QmQ4hikLMiE": {
+      "at": "2026-10-06T18:50:17.222303+00:00",
+      "error": "",
+      "slides": 0
+    },
     "QnDHbvCqvkM": {
       "at": "2026-10-06T17:19:50.371354+00:00",
       "error": "",
       "slides": 14
     },
+    "QoYmhCrAflE": {
+      "at": "2026-10-06T18:50:25.210849+00:00",
+      "error": "",
+      "slides": 5
+    },
     "QzMoUg5EOEM": {
       "at": "2026-09-22T19:09:44.801884+00:00",
       "error": "",
       "slides": 0
+    },
+    "R3iaY2jwQ2U": {
+      "at": "2026-10-06T18:50:25.219361+00:00",
+      "error": "capture failed earlier: ERROR: unable to download video data: HTTP Error 403: Forbidden",
+      "slides": 0
+    },
+    "R4dBrtVV8Lc": {
+      "at": "2026-10-06T18:50:37.858159+00:00",
+      "error": "",
+      "slides": 9
     },
     "R59p-hQlEdU": {
       "at": "2026-10-06T17:20:07.729160+00:00",
@@ -1182,10 +1327,30 @@
       "error": "",
       "slides": 7
     },
+    "R6eKR9uY0nY": {
+      "at": "2026-10-06T18:50:46.013304+00:00",
+      "error": "",
+      "slides": 5
+    },
+    "RHOYo-mbjEk": {
+      "at": "2026-10-06T18:50:53.619921+00:00",
+      "error": "",
+      "slides": 6
+    },
+    "RLnLlFnbQLQ": {
+      "at": "2026-10-06T18:51:14.534889+00:00",
+      "error": "",
+      "slides": 0
+    },
     "RNyx2zZiObE": {
       "at": "2026-09-12T19:16:04.335554+00:00",
       "error": "",
       "slides": 0
+    },
+    "R_UhKVk2Smo": {
+      "at": "2026-10-06T18:51:21.095901+00:00",
+      "error": "",
+      "slides": 6
     },
     "Rgdy4UouKgY": {
       "at": "2026-10-06T17:20:43.164389+00:00",
@@ -1197,20 +1362,50 @@
       "error": "",
       "slides": 5
     },
+    "Rq3JjUUgTBI": {
+      "at": "2026-10-06T18:51:35.164009+00:00",
+      "error": "",
+      "slides": 10
+    },
     "RuemIwA9Dak": {
       "at": "2026-09-22T19:11:25.894430+00:00",
       "error": "",
       "slides": 4
+    },
+    "RwSjPxlFFto": {
+      "at": "2026-10-06T18:51:44.226068+00:00",
+      "error": "",
+      "slides": 8
+    },
+    "SAEdbjqhNOc": {
+      "at": "2026-10-06T18:51:58.518376+00:00",
+      "error": "",
+      "slides": 10
     },
     "SBs4LV0_PjA": {
       "at": "2026-09-22T19:13:31.718052+00:00",
       "error": "",
       "slides": 7
     },
+    "SFfMnWptIJo": {
+      "at": "2026-10-06T18:52:13.655167+00:00",
+      "error": "",
+      "slides": 13
+    },
     "SMDIOxTunY8": {
       "at": "2026-10-06T17:20:50.661116+00:00",
       "error": "",
       "slides": 8
+    },
+    "SPbqOua3eLc": {
+      "at": "2026-10-06T18:52:17.661880+00:00",
+      "error": "",
+      "slides": 3
+    },
+    "SR8-iDLMxPw": {
+      "at": "2026-10-06T18:52:33.302566+00:00",
+      "error": "",
+      "slides": 11
     },
     "SdIx__D3vXk": {
       "at": "2026-09-13T08:16:52.267696+00:00",
@@ -1226,6 +1421,11 @@
       "at": "2026-09-22T19:17:22.837183+00:00",
       "error": "",
       "slides": 11
+    },
+    "THPABU-UGT8": {
+      "at": "2026-10-06T18:52:35.410604+00:00",
+      "error": "",
+      "slides": 1
     },
     "TNhID6oi3kE": {
       "at": "2026-10-06T17:20:58.997017+00:00",
@@ -1382,10 +1582,45 @@
       "error": "",
       "slides": 15
     },
+    "_DKkcn1mpAI": {
+      "at": "2026-10-06T18:52:59.147889+00:00",
+      "error": "",
+      "slides": 0
+    },
+    "_THdwH39NpQ": {
+      "at": "2026-10-06T18:53:14.653348+00:00",
+      "error": "",
+      "slides": 10
+    },
+    "_T_s3S_AWEw": {
+      "at": "2026-10-06T18:53:20.969874+00:00",
+      "error": "",
+      "slides": 8
+    },
+    "_gf-3joyIJo": {
+      "at": "2026-10-06T18:53:20.978874+00:00",
+      "error": "capture failed earlier: ERROR: unable to download video data: HTTP Error 403: Forbidden",
+      "slides": 0
+    },
+    "aQT1wvYbbgY": {
+      "at": "2026-10-06T18:53:20.984872+00:00",
+      "error": "capture failed earlier: ERROR: \r[download] Got error: HTTPSConnectionPool(host='rr3---sn-uhvcpaxoa-xpoe.googlevideo.com', port=443): Read timed out.",
+      "slides": 0
+    },
     "a_ORzZ9eG40": {
       "at": "2026-09-22T19:33:05.935916+00:00",
       "error": "",
       "slides": 12
+    },
+    "aup7LG54YRg": {
+      "at": "2026-10-06T18:53:33.734153+00:00",
+      "error": "",
+      "slides": 13
+    },
+    "bCfoQFpLE-8": {
+      "at": "2026-10-06T18:53:47.951930+00:00",
+      "error": "",
+      "slides": 9
     },
     "bftPNb0y0BA": {
       "at": "2026-09-22T19:34:30.698865+00:00",
