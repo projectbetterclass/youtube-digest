@@ -2534,7 +2534,7 @@ Each transcript link points to the full text under this folder.
 | — | New Money | [How a River Guide Turned $1,000 into $1.5M in 5 Years (The Phil Town Interview)](https://www.youtube.com/watch?v=IUI5MEskL1I) | — | — | [transcript](IUI5MEskL1I/transcript.md) |
 | — | HealthyGamerGG | [Why people don't believe in you...](https://www.youtube.com/watch?v=IVEGx2x7GEI) | — | — | [transcript](IVEGx2x7GEI/transcript.md) |
 | — | Ticker Symbol: YOU | [WARNING: If You Hold NVIDIA Stock (NVDA)... GET READY](https://www.youtube.com/watch?v=IVSQ5oVt1iA) | — | — | [transcript](IVSQ5oVt1iA/transcript.md) · [visuals](IVSQ5oVt1iA/visuals.md) |
-| — | Tom Nash | [I sat down with Meet Kevin (and asked him some difficult questions)](https://www.youtube.com/watch?v=IV_KBAJoo1k) | — | — | [transcript](IV_KBAJoo1k/transcript.md) |
+| — | Tom Nash | [I sat down with Meet Kevin (and asked him some difficult questions)](https://www.youtube.com/watch?v=IV_KBAJoo1k) | — | — | [transcript](IV_KBAJoo1k/transcript.md) · [visuals](IV_KBAJoo1k/visuals.md) |
 | — | Ben Yanes | [These Exercises Made My Back WIDE](https://www.youtube.com/watch?v=IWL46r9RAQo) | — | — | [transcript](IWL46r9RAQo/transcript.md) |
 | — | Aswath Damodaran | [Session 3 (Undergraduate): Corporate Governance](https://www.youtube.com/watch?v=IWt9c5AvUwc) | — | — | [transcript](IWt9c5AvUwc/transcript.md) · [materials](IWt9c5AvUwc/materials/) |
 | — | David Carbutt | [Palantir's HUGE IMPACT On Hospitals!](https://www.youtube.com/watch?v=IWvmIiYshNw) | — | — | [transcript](IWvmIiYshNw/transcript.md) |
@@ -2653,7 +2653,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [INSTANTLY Improve Your Lat Pull-Down](https://www.youtube.com/watch?v=JaItEj41oFU) | — | — | [transcript](JaItEj41oFU/transcript.md) |
 | — | Riley Brown | [How to Design Apps That Look As Good as Apple (With No Code)](https://www.youtube.com/watch?v=JaUv32REOr8) | — | — | [transcript](JaUv32REOr8/transcript.md) |
 | — | Chris Raroque | [Fable 5 Is Back: Why I’m Actually Paying API Prices For It](https://www.youtube.com/watch?v=JalOWrtpYAE) | — | — | [transcript](JalOWrtpYAE/transcript.md) |
-| — | New Money | [Charlie Munger Just DOUBLED His Alibaba Position!](https://www.youtube.com/watch?v=JavygKq74sk) | — | — | [transcript](JavygKq74sk/transcript.md) |
+| — | New Money | [Charlie Munger Just DOUBLED His Alibaba Position!](https://www.youtube.com/watch?v=JavygKq74sk) | — | — | [transcript](JavygKq74sk/transcript.md) · [visuals](JavygKq74sk/visuals.md) |
 | — | Ben Yanes | [Why half reps don't exist](https://www.youtube.com/watch?v=JbUL6Un7QYM) | — | — | [transcript](JbUL6Un7QYM/transcript.md) |
 | — | Aswath Damodaran | [Accounting 101: A Preview](https://www.youtube.com/watch?v=Jbp3-AU9v_g) | — | — | [transcript](Jbp3-AU9v_g/transcript.md) |
 | — | JulienHimself | [They Like You… But They NEVER Choose You!](https://www.youtube.com/watch?v=Jc21Ja-Ptio) | — | — | [transcript](Jc21Ja-Ptio/transcript.md) |
@@ -5893,13 +5893,13 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Talking with Kaceytron \| Dr. K Interviews](https://www.youtube.com/watch?v=lFAIbzPOK2o) | — | — | [transcript](lFAIbzPOK2o/transcript.md) |
 | — | Aswath Damodaran | [Data Update 2 for 2020: A Retrospective on a Disruptive Decade (2010-19)](https://www.youtube.com/watch?v=lFdUSXsoSC0) | — | — | [transcript](lFdUSXsoSC0/transcript.md) · [materials](lFdUSXsoSC0/materials/) |
 | — | Tom Nash | [The Stock Market Apocalypse Just Started [This is BAD]](https://www.youtube.com/watch?v=lG-3uv3LMuI) | — | — | [transcript](lG-3uv3LMuI/transcript.md) |
-| — | Ticker Symbol: YOU | [NOT TOO LATE! Why I'm Buying Nvidia Stock (NVDA) BEFORE the Split!](https://www.youtube.com/watch?v=lGHSOhTDz1I) | — | — | [transcript](lGHSOhTDz1I/transcript.md) |
+| — | Ticker Symbol: YOU | [NOT TOO LATE! Why I'm Buying Nvidia Stock (NVDA) BEFORE the Split!](https://www.youtube.com/watch?v=lGHSOhTDz1I) | — | — | [transcript](lGHSOhTDz1I/transcript.md) · [visuals](lGHSOhTDz1I/visuals.md) |
 | — | JulienHimself | [The #1 CONFIDENCE HACK: Become Socially Invincible](https://www.youtube.com/watch?v=lGXaEL7O64U) | — | — | [transcript](lGXaEL7O64U/transcript.md) |
 | — | Aswath Damodaran | [Session 15: Investment Interactions, Side Costs and Side Benefits](https://www.youtube.com/watch?v=lGXifp-5eWs) | — | — | [transcript](lGXifp-5eWs/transcript.md) · [materials](lGXifp-5eWs/materials/) |
 | — | JulienHimself | [Why Being "Nice" Makes People Disrespect You](https://www.youtube.com/watch?v=lGyDb6e4YQA) | — | — | [transcript](lGyDb6e4YQA/transcript.md) |
 | — | David Carbutt | [Palantir - Morgan Stanley are Bullish!](https://www.youtube.com/watch?v=lHCkzIMr94Y) | — | — | [transcript](lHCkzIMr94Y/transcript.md) |
 | — | Riley Brown | [Build a iPhone mobile app with AI (No Coding Required)](https://www.youtube.com/watch?v=lHhhze3_i00) | — | — | [transcript](lHhhze3_i00/transcript.md) |
-| — | Ticker Symbol: YOU | [Why Stocks Will Crash (and What to Buy When They Do)](https://www.youtube.com/watch?v=lHtxvsNnR6Y) | — | — | [transcript](lHtxvsNnR6Y/transcript.md) |
+| — | Ticker Symbol: YOU | [Why Stocks Will Crash (and What to Buy When They Do)](https://www.youtube.com/watch?v=lHtxvsNnR6Y) | — | — | [transcript](lHtxvsNnR6Y/transcript.md) · [visuals](lHtxvsNnR6Y/visuals.md) |
 | — | HealthyGamerGG | [The Biology Of Why Men Isolate](https://www.youtube.com/watch?v=lJKmwM2cNro) | — | — | [transcript](lJKmwM2cNro/transcript.md) |
 | — | Aswath Damodaran | [In Practice Webcast #13: Dividend Assessment](https://www.youtube.com/watch?v=lJU-CH7xCbg) | — | — | [transcript](lJU-CH7xCbg/transcript.md) · [materials](lJU-CH7xCbg/materials/) |
 | — | David Carbutt | [Dan Ives 'Nobody Can Compete w/PALANTIR'](https://www.youtube.com/watch?v=lJmYo7Vlqkk) | — | — | [transcript](lJmYo7Vlqkk/transcript.md) |
