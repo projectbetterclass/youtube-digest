@@ -2566,7 +2566,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [80 mins of life hacks to level up your career](https://www.youtube.com/watch?v=Il-hzD6CRnw) | — | — | [transcript](Il-hzD6CRnw/transcript.md) |
 | — | Justin Sung | [3 Tips to Maximise Long Study Sessions](https://www.youtube.com/watch?v=IlmRRSp2PoU) | — | — | [transcript](IlmRRSp2PoU/transcript.md) |
 | — | JulienHimself | [You're Probably Perfect, And That's Why You Suck - How Your Brain Tricks You Into Mediocrity](https://www.youtube.com/watch?v=Ip41Wq0JWMU) | — | — | [transcript](Ip41Wq0JWMU/transcript.md) |
-| — | Tom Nash | [New Data Shows Early Signs of Accelerating Inflation](https://www.youtube.com/watch?v=IpzQh6F7kLk) | — | — | [transcript](IpzQh6F7kLk/transcript.md) |
+| — | Tom Nash | [New Data Shows Early Signs of Accelerating Inflation](https://www.youtube.com/watch?v=IpzQh6F7kLk) | — | — | [transcript](IpzQh6F7kLk/transcript.md) · [visuals](IpzQh6F7kLk/visuals.md) |
 | — | Ben Yanes | [Functional Training is KILLING YOUR GAINS! (here's why)](https://www.youtube.com/watch?v=IqM3p1edz40) | — | — | [transcript](IqM3p1edz40/transcript.md) |
 | — | Ben Yanes | [Why I Hate Mobility Training](https://www.youtube.com/watch?v=IqQCxDNZM40) | — | — | [transcript](IqQCxDNZM40/transcript.md) |
 | — | JulienHimself | [HIGH VALUE MINDSET: How My Values Changed As I Got Older...](https://www.youtube.com/watch?v=IqdciJ_bxWU) | — | — | [transcript](IqdciJ_bxWU/transcript.md) |
@@ -2587,7 +2587,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Palantir Signs HUGE New DEAL!](https://www.youtube.com/watch?v=Izy-bF1KEPo) | — | — | [transcript](Izy-bF1KEPo/transcript.md) |
 | — | Justin Sung | [How I Find The Perfect Book For Any Problem (Blinkist vs Shortform)](https://www.youtube.com/watch?v=J-9F6YFgeP8) | — | — | [transcript](J-9F6YFgeP8/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [9 most common mistakes investors make](https://www.youtube.com/watch?v=J0lVsnlEtyM) | — | — | [transcript](J0lVsnlEtyM/transcript.md) |
-| — | Tom Nash | [NEW CPI DATA INFLATION REPORT CHANGES EVERYTHING](https://www.youtube.com/watch?v=J13Y22FPjRE) | — | — | [transcript](J13Y22FPjRE/transcript.md) |
+| — | Tom Nash | [NEW CPI DATA INFLATION REPORT CHANGES EVERYTHING](https://www.youtube.com/watch?v=J13Y22FPjRE) | — | — | [transcript](J13Y22FPjRE/transcript.md) · [visuals](J13Y22FPjRE/visuals.md) |
 | — | JulienHimself | [Why Are You Holding Back? - Motivational Video (Feat. Julien Blanc)](https://www.youtube.com/watch?v=J1NnrsmSdHI) | — | — | [transcript](J1NnrsmSdHI/transcript.md) |
 | — | Aswath Damodaran | [Session 7: Equity Risk Premiums](https://www.youtube.com/watch?v=J1m0PKrQrH4) | — | — | [transcript](J1m0PKrQrH4/transcript.md) · [materials](J1m0PKrQrH4/materials/) |
 | — | Justin Sung | [How to Force Yourself To Achieve Your Goals (when you don’t feel like it)](https://www.youtube.com/watch?v=J2hLwfV1zxk) | — | — | [transcript](J2hLwfV1zxk/transcript.md) |
@@ -2595,14 +2595,14 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [You are a 25 Year Old Loner](https://www.youtube.com/watch?v=J4M5Den94M0) | — | — | [transcript](J4M5Den94M0/transcript.md) |
 | — | Greg Isenberg | [Startup Idea: Using AI to talk to the dead ft. Kevin Rose  [CLIP]](https://www.youtube.com/watch?v=J4UnNCc4n2s) | — | — | [transcript](J4UnNCc4n2s/transcript.md) |
 | — | Greg Isenberg | [Forget Zero Sum, Be Positive Sum with Harley Finkelstein \| Where It Happens](https://www.youtube.com/watch?v=J4Yu_UTUZR8) | — | — | [transcript](J4Yu_UTUZR8/transcript.md) |
-| — | New Money | [Jamie Dimon: The Economic Hurricane and Stock Market Crash of 2022 (Quantitative Tightening Begins)](https://www.youtube.com/watch?v=J4dN3oT1PVg) | — | — | [transcript](J4dN3oT1PVg/transcript.md) |
+| — | New Money | [Jamie Dimon: The Economic Hurricane and Stock Market Crash of 2022 (Quantitative Tightening Begins)](https://www.youtube.com/watch?v=J4dN3oT1PVg) | — | — | [transcript](J4dN3oT1PVg/transcript.md) · [visuals](J4dN3oT1PVg/visuals.md) |
 | — | Riley Brown | [I Built an AI Employee That ACTUALLY Works (Claude Opus Guide)](https://www.youtube.com/watch?v=J4yASL-0erU) | — | — | [transcript](J4yASL-0erU/transcript.md) |
 | — | Ticker Symbol: YOU | [🧠 Deep Learning: This Disruptive Innovation Could Rewrite (or Erase) Us All](https://www.youtube.com/watch?v=J583J5Ts5uE) | — | — | [transcript](J583J5Ts5uE/transcript.md) · [visuals](J583J5Ts5uE/visuals.md) |
 | — | Aswath Damodaran | [Session 9 (MBA): Bottom up Betas](https://www.youtube.com/watch?v=J5UN2YA0mUE) | — | — | [transcript](J5UN2YA0mUE/transcript.md) · [materials](J5UN2YA0mUE/materials/) |
 | — | David Carbutt | [Palantir's the next big tech GIANT](https://www.youtube.com/watch?v=J5YJ3nwzM0w) | — | — | [transcript](J5YJ3nwzM0w/transcript.md) |
 | — | Ben Yanes | [Modern Meathead Experience #18 - The Pump](https://www.youtube.com/watch?v=J8TR9ZZA2Zs) | — | — | [transcript](J8TR9ZZA2Zs/transcript.md) |
 | — | Ticker Symbol: YOU | [🔥 Cathie Wood Spent BILLIONS on These High Growth Stocks (Q3 Review)](https://www.youtube.com/watch?v=J9H3pu4fN7k) | — | — | [transcript](J9H3pu4fN7k/transcript.md) · [visuals](J9H3pu4fN7k/visuals.md) |
-| — | New Money | [Warren Buffett Keeps Buying These 3 Stocks...](https://www.youtube.com/watch?v=JBwc76o1SiU) | — | — | [transcript](JBwc76o1SiU/transcript.md) |
+| — | New Money | [Warren Buffett Keeps Buying These 3 Stocks...](https://www.youtube.com/watch?v=JBwc76o1SiU) | — | — | [transcript](JBwc76o1SiU/transcript.md) · [visuals](JBwc76o1SiU/visuals.md) |
 | — | David Carbutt | [Brad Gerstner & Cathie Wood Explain Why This Changes EVERYTHING](https://www.youtube.com/watch?v=JC02wZN_-yk) | — | — | [transcript](JC02wZN_-yk/transcript.md) |
 | — | David Carbutt | [Palantir, is Competition Finally Coming?](https://www.youtube.com/watch?v=JDnstFuugZ0) | — | — | [transcript](JDnstFuugZ0/transcript.md) |
 | — | Chris Raroque | [App Branding Masterclass](https://www.youtube.com/watch?v=JDwxt9fHofk) | — | — | [transcript](JDwxt9fHofk/transcript.md) |
@@ -2614,7 +2614,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 5: Risk and Return Models](https://www.youtube.com/watch?v=JFcvrF2wIqM) | — | — | [transcript](JFcvrF2wIqM/transcript.md) |
 | — | JulienHimself | [The War Of Art: How To Battle Resistance & The Importance Of TURNING PRO! (Steven Pressfield)](https://www.youtube.com/watch?v=JFuswxlUsJs) | — | — | [transcript](JFuswxlUsJs/transcript.md) |
 | — | JulienHimself | [THE BEST REFRAME EVER To Reduce Stress & Be Happier! Julien Blanc Reveals How To Reduce Stress](https://www.youtube.com/watch?v=JG8mbtiwcSo) | — | — | [transcript](JG8mbtiwcSo/transcript.md) |
-| — | Tom Nash | [Palantir Stock: This Changes EVERYTHING….GET READY!](https://www.youtube.com/watch?v=JGS9i19-8NY) | — | — | [transcript](JGS9i19-8NY/transcript.md) |
+| — | Tom Nash | [Palantir Stock: This Changes EVERYTHING….GET READY!](https://www.youtube.com/watch?v=JGS9i19-8NY) | — | — | [transcript](JGS9i19-8NY/transcript.md) · [visuals](JGS9i19-8NY/visuals.md) |
 | — | Aswath Damodaran | [Session 4 (Undergraduate): Conflicts of Interest and Corporate Objectives](https://www.youtube.com/watch?v=JGkQzlF4-AM) | — | — | [transcript](JGkQzlF4-AM/transcript.md) · [materials](JGkQzlF4-AM/materials/) |
 | — | Ticker Symbol: YOU | [Claude Just Killed Software Stocks (Here's What Happens Next)](https://www.youtube.com/watch?v=JGm_v3YFMes) | — | — | [transcript](JGm_v3YFMes/transcript.md) · [visuals](JGm_v3YFMes/visuals.md) |
 | — | Justin Sung | [How To Fix Your Attention Span (Before It's Too Late)](https://www.youtube.com/watch?v=JHQ7uieciiU) | — | — | [transcript](JHQ7uieciiU/transcript.md) |
