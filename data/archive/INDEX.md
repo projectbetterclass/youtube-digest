@@ -2561,7 +2561,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [BOMBSHELL About AI and National Defense!](https://www.youtube.com/watch?v=Ihg2RJXkUbs) | — | — | [transcript](Ihg2RJXkUbs/transcript.md) |
 | — | Chris Raroque | [I Accidentally Built Another App (And Learned A Lot)](https://www.youtube.com/watch?v=IiFTZUXzJBw) | — | — | [transcript](IiFTZUXzJBw/transcript.md) |
 | — | JulienHimself | [#1 CONFIDENCE HACK: How To Stop Being Insecure](https://www.youtube.com/watch?v=IiwvvV_xB-4) | — | — | [transcript](IiwvvV_xB-4/transcript.md) |
-| — | Tom Nash | [If you are an NVIDIA shareholder….GET READY](https://www.youtube.com/watch?v=IjTXYTnS1Ik) | — | — | [transcript](IjTXYTnS1Ik/transcript.md) |
+| — | Tom Nash | [If you are an NVIDIA shareholder….GET READY](https://www.youtube.com/watch?v=IjTXYTnS1Ik) | — | — | [transcript](IjTXYTnS1Ik/transcript.md) · [visuals](IjTXYTnS1Ik/visuals.md) |
 | — | Greg Isenberg | [I gave away $1M to prove anyone can build with AI](https://www.youtube.com/watch?v=IjYKIqvTyXg) | — | — | [transcript](IjYKIqvTyXg/transcript.md) |
 | — | Greg Isenberg | [80 mins of life hacks to level up your career](https://www.youtube.com/watch?v=Il-hzD6CRnw) | — | — | [transcript](Il-hzD6CRnw/transcript.md) |
 | — | Justin Sung | [3 Tips to Maximise Long Study Sessions](https://www.youtube.com/watch?v=IlmRRSp2PoU) | — | — | [transcript](IlmRRSp2PoU/transcript.md) |
@@ -2577,7 +2577,7 @@ Each transcript link points to the full text under this folder.
 | — | Chris Raroque | [My rapid app iteration process (also budgeting apps are hard) \| Building Luna ep.4](https://www.youtube.com/watch?v=Iv9Jj-sYp74) | — | — | [transcript](Iv9Jj-sYp74/transcript.md) |
 | — | JulienHimself | [It Took Me 18 YEARS To Realize You Could Do This...](https://www.youtube.com/watch?v=Ivwunm-XPHI) | — | — | [transcript](Ivwunm-XPHI/transcript.md) |
 | — | David Carbutt | [Palantir Saves Tyson Foods $150M a Year!!](https://www.youtube.com/watch?v=Iw9RAhB7VY0) | — | — | [transcript](Iw9RAhB7VY0/transcript.md) |
-| — | New Money | [How To Use The 2023 Recession To Build Wealth](https://www.youtube.com/watch?v=IwK_T0sufzE) | — | — | [transcript](IwK_T0sufzE/transcript.md) |
+| — | New Money | [How To Use The 2023 Recession To Build Wealth](https://www.youtube.com/watch?v=IwK_T0sufzE) | — | — | [transcript](IwK_T0sufzE/transcript.md) · [visuals](IwK_T0sufzE/visuals.md) |
 | — | Tom Nash | [Members Private Zoom Meeting Recording - Feb 8. 2023](https://www.youtube.com/watch?v=IwXGk5LOyQI) | — | — | [transcript](IwXGk5LOyQI/transcript.md) |
 | — | David Carbutt | [Alex Karp is Building a FK’in Juggernaut!](https://www.youtube.com/watch?v=Iwmu4zdrjis) | — | — | [transcript](Iwmu4zdrjis/transcript.md) |
 | — | Greg Isenberg | [Screensharing How to Start an AI Agent Business Today](https://www.youtube.com/watch?v=Ix43w_IssR8) | — | — | [transcript](Ix43w_IssR8/transcript.md) |
@@ -5851,7 +5851,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Why It's Hard To Focus (And What To Do About It)](https://www.youtube.com/watch?v=kwCp41BqbzQ) | — | — | [transcript](kwCp41BqbzQ/transcript.md) |
 | — | JulienHimself | [Julien Blanc's Speech For Building A Passionate Life: How To Bring Fun & Laughter Into Your Life!](https://www.youtube.com/watch?v=kwMeuYFfyWk) | — | — | [transcript](kwMeuYFfyWk/transcript.md) |
 | — | David Carbutt | [Palantir Founder DESTROYS BBC on Musk, Trump & Fires](https://www.youtube.com/watch?v=kweBx0UnOwU) | — | — | [transcript](kweBx0UnOwU/transcript.md) |
-| — | Ticker Symbol: YOU | [I WAS WRONG! Palantir's Plan to Dominate AI is Working](https://www.youtube.com/watch?v=kxqAjzp9ix0) | — | — | [transcript](kxqAjzp9ix0/transcript.md) |
+| — | Ticker Symbol: YOU | [I WAS WRONG! Palantir's Plan to Dominate AI is Working](https://www.youtube.com/watch?v=kxqAjzp9ix0) | — | — | [transcript](kxqAjzp9ix0/transcript.md) · [visuals](kxqAjzp9ix0/visuals.md) |
 | — | Aswath Damodaran | [Valuation Modeling: Excel as a tool](https://www.youtube.com/watch?v=kyKfJ_7-mdg) | — | — | [transcript](kyKfJ_7-mdg/transcript.md) · [materials](kyKfJ_7-mdg/materials/) |
 | — | Aswath Damodaran | [ROE, Returns to Shareholders, Good/Bad Companies and Efficient Markets: Back to Basics](https://www.youtube.com/watch?v=kyUettM26ME) | — | — | [transcript](kyUettM26ME/transcript.md) · [materials](kyUettM26ME/materials/) |
 | — | Aswath Damodaran | [Alternative Investing: Promise and  Performance!](https://www.youtube.com/watch?v=kyZ1KjV49nE) | — | — | [transcript](kyZ1KjV49nE/transcript.md) · [materials](kyZ1KjV49nE/materials/) |
