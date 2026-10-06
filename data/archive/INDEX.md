@@ -4714,7 +4714,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Therapist Answers: "What is Congruent Depression?"](https://www.youtube.com/watch?v=bDhqTf5eJH4) | — | — | [transcript](bDhqTf5eJH4/transcript.md) |
 | — | Tom Nash | [Palantir Founder / CEO Alex Karp JUST Dropped A Massive Bombshell](https://www.youtube.com/watch?v=bDtw3m7VPhM) | — | — | [transcript](bDtw3m7VPhM/transcript.md) |
 | — | HealthyGamerGG | [I’m Scared to Chase my Dreams](https://www.youtube.com/watch?v=bDvHCgw29NA) | — | — | [transcript](bDvHCgw29NA/transcript.md) |
-| — | BWB - Business With Brian | [Everyone Hates AI Right Now. Four Stocks That Are Bulletproof](https://www.youtube.com/watch?v=bGhRAjwTusg) | — | — | [transcript](bGhRAjwTusg/transcript.md) |
+| — | BWB - Business With Brian | [Everyone Hates AI Right Now. Four Stocks That Are Bulletproof](https://www.youtube.com/watch?v=bGhRAjwTusg) | — | — | [transcript](bGhRAjwTusg/transcript.md) · [visuals](bGhRAjwTusg/visuals.md) |
 | — | HealthyGamerGG | [Why New Years Resolutions Don't Work](https://www.youtube.com/watch?v=bHsPio5_PR4) | — | — | [transcript](bHsPio5_PR4/transcript.md) |
 | — | David Carbutt | [Palantir CTO BRUTALLY Honest About AI](https://www.youtube.com/watch?v=bIUUtJ9DrDI) | — | — | [transcript](bIUUtJ9DrDI/transcript.md) |
 | — | HealthyGamerGG | [How Dysthymia Steals Your Happiness](https://www.youtube.com/watch?v=bIh1UkkxAQM) | — | — | [transcript](bIh1UkkxAQM/transcript.md) |
