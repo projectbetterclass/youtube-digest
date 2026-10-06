@@ -209,3 +209,57 @@ def test_stored_only_reads_captured_videos_and_credit_errors_dont_mark(tmp_path,
     assert V.run_visuals(None, _channels(), state, _lib(), client=object(), budget=10, stored_only=True) == 0
     assert seen == ["vidOLD"]                         # vidNEW skipped: no stored frames
     assert state["visuals"] == {}                     # credit stop leaves it to retry later
+
+
+def test_download_retries_transient_errors_then_gives_up(monkeypatch):
+    calls, slept = [], []
+    outcomes = [RuntimeError("ERROR: unable to download video data: HTTP Error 403: Forbidden"),
+                RuntimeError("Read timed out."), "path/to/video.mp4"]
+
+    def fake_once(video_id, dest_dir, settings):
+        calls.append(video_id)
+        out = outcomes.pop(0)
+        if isinstance(out, Exception):
+            raise out
+        return out
+
+    import time as _time
+    monkeypatch.setattr(V, "_download_video_once", fake_once)
+    monkeypatch.setattr(_time, "sleep", slept.append)
+    assert V._download_video("vid", "C:/nonexistent-dir", None) == "path/to/video.mp4"
+    assert len(calls) == 3 and slept == list(V.DOWNLOAD_BACKOFF)
+
+    outcomes[:] = [RuntimeError("HTTP Error 403")] * 3
+    with pytest.raises(RuntimeError, match="403"):
+        V._download_video("vid", "C:/nonexistent-dir", None)
+
+
+def test_permanent_download_errors_are_not_retried(monkeypatch):
+    calls = []
+
+    def fake_once(video_id, dest_dir, settings):
+        calls.append(1)
+        raise RuntimeError("ERROR: [youtube] abc: Join this channel to get access to members-only content")
+
+    monkeypatch.setattr(V, "_download_video_once", fake_once)
+    with pytest.raises(RuntimeError):
+        V._download_video("vid", "C:/nonexistent-dir", None)
+    assert calls == [1]
+    assert V._is_transient_download_error(RuntimeError("download produced no file (format unavailable or too large)")) is False
+
+
+def test_capture_only_parallel_workers_handle_every_video(tmp_path, monkeypatch):
+    monkeypatch.setattr(C, "FRAMES_DIR", tmp_path)
+    lib = {"videos": {f"v{i:02d}": {"channel_id": "CID_ON", "channel": "On", "title": f"T{i}",
+                                     "url": f"u{i}", "published": f"2026-01-{i + 1:02d}"} for i in range(9)}}
+
+    def fake_capture(video, settings):
+        if video.video_id == "v03":
+            raise RuntimeError("Video unavailable")
+        V.save_frames(video.video_id, [])
+        return 0
+
+    monkeypatch.setattr(V, "capture_frames", fake_capture)
+    done, failed = V.run_capture_only(None, _channels(), {"visuals": {}}, lib, budget=100, workers=4)
+    assert (done, failed) == (8, 1)
+    assert all(V.has_stored_frames(f"v{i:02d}") for i in range(9))  # the failure is noted too

@@ -13,7 +13,8 @@ Examples:
     python scripts/run_visuals.py --video VIDEOID # force one specific archived video
     python scripts/run_visuals.py --capture-only --channel "Ticker Symbol: YOU" --budget 100
         # step 1 only: download + save candidate frames to frames/ (no API key needed);
-        # a later normal run reads them from disk instead of re-downloading
+        # a later normal run reads them from disk instead of re-downloading;
+        # add --workers 2 (or more) to download several videos at once
     python scripts/run_visuals.py --stored-only --channel "Tom Nash" --budget 25
         # read only already-captured videos (safe to run alongside a capture-only run)
 """
@@ -48,6 +49,8 @@ def main() -> int:
     parser.add_argument("--dry-run", action="store_true", help="Write visuals.md but don't save state/library")
     parser.add_argument("--stored-only", action="store_true",
                         help="Read only videos whose frames a capture-only run already saved")
+    parser.add_argument("--workers", type=int, default=1,
+                        help="With --capture-only: download this many videos at once")
     parser.add_argument("--capture-only", action="store_true",
                         help="Only download + save candidate frames to frames/ (no API key needed)")
     parser.add_argument("-v", "--verbose", action="store_true", help="Debug logging")
@@ -66,7 +69,8 @@ def main() -> int:
         from ytdigest.visuals import run_capture_only
 
         budget = args.budget if args.budget is not None else settings.visual_budget_per_run
-        done, failed = run_capture_only(settings, channels, state, library, budget, channel_filter=args.channel)
+        done, failed = run_capture_only(settings, channels, state, library, budget,
+                                        channel_filter=args.channel, workers=args.workers)
         print(f"\n{'=' * 60}\nCapture only: {done} video(s) captured, {failed} failed "
               f"→ {C.FRAMES_DIR}\n{'=' * 60}")
         return 0

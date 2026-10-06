@@ -177,7 +177,43 @@ def candidate_frames(video_path: str, settings: Settings) -> list[tuple[float, o
     return kept
 
 
+DOWNLOAD_ATTEMPTS = 3
+DOWNLOAD_BACKOFF = (5, 15)  # seconds before the 2nd and 3rd attempt
+
+
 def _download_video(video_id: str, dest_dir: str, settings: Settings) -> str:
+    """Download with retries: YouTube intermittently answers a video request with HTTP 403
+    or stalls (read timeout); asking again a few seconds later almost always works."""
+    import time
+
+    for attempt in range(DOWNLOAD_ATTEMPTS):
+        try:
+            return _download_video_once(video_id, dest_dir, settings)
+        except Exception as exc:  # noqa: BLE001 — retried, then re-raised
+            if attempt == DOWNLOAD_ATTEMPTS - 1 or not _is_transient_download_error(exc):
+                raise
+            for p in Path(dest_dir).glob(f"{video_id}.*"):  # drop any partial file
+                p.unlink(missing_ok=True)
+            log.info("%s: download attempt %d failed (%s) — retrying", video_id, attempt + 1, str(exc)[:80])
+            time.sleep(DOWNLOAD_BACKOFF[attempt])
+    raise AssertionError("unreachable")
+
+
+def _is_transient_download_error(exc: Exception) -> bool:
+    """403 / 429 / 5xx / timeouts / connection resets: worth another try. A private,
+    removed or members-only video is not."""
+    msg = str(exc).lower()
+    permanent = ("private video", "video unavailable", "members-only", "join this channel",
+                 "this video has been removed", "sign in to confirm your age", "too large")
+    if any(p in msg for p in permanent):
+        return False
+    transient = ("http error 403", "http error 429", "http error 5", "timed out", "timeout",
+                 "connection reset", "connection aborted", "remote end closed", "incompleteread",
+                 "unable to download video data", "produced no file")
+    return any(t in msg for t in transient)
+
+
+def _download_video_once(video_id: str, dest_dir: str, settings: Settings) -> str:
     """Download video-only ≤ visual_max_height to dest_dir; return the file path.
 
     No proxy: this job runs on the home runner, where the home IP is not blocked, so
@@ -195,6 +231,10 @@ def _download_video(video_id: str, dest_dir: str, settings: Settings) -> str:
         # Video-only, no audio, ≤ target height — no ffmpeg merge needed, small files.
         "format": f"bestvideo[height<={h}][ext=mp4]/bestvideo[height<={h}]/best[height<={h}]",
         "max_filesize": settings.max_video_bytes,
+        # yt-dlp's own resilience for flaky streams (fragments, slow sockets)
+        "retries": 5,
+        "fragment_retries": 10,
+        "socket_timeout": 30,
     }
     with yt_dlp.YoutubeDL(opts) as ydl:
         ydl.download([f"https://www.youtube.com/watch?v={video_id}"])
@@ -483,30 +523,38 @@ def run_capture_only(
     library: dict,
     budget: int,
     channel_filter: Optional[str] = None,
+    workers: int = 1,
 ) -> tuple[int, int]:
     """Capture frames for up to `budget` pending videos without reading them. (done, failed).
 
     Same pending pool and order as run_visuals, minus videos already captured. Needs no
     API key and never touches the visuals ledger — the reader marks videos done later.
-    A failed download is noted in the manifest so it isn't retried every run.
+    A failed download (after retries) is noted in the manifest so it isn't retried every
+    run. `workers` > 1 downloads several videos at once: YouTube caps each stream at a few
+    MB/s, so parallel streams are what make capture faster (frame analysis is cheap).
     """
+    from concurrent.futures import ThreadPoolExecutor
+
     pool = select_pending(channels, state, library, budget=10**9, channel_filter=channel_filter)
     pending = [v for v in pool if not has_stored_frames(v.video_id)][:budget]
     if not pending:
         log.info("Nothing left to capture.")
         return 0, 0
-    done = failed = 0
-    for video in pending:
+
+    def one(video: Video) -> bool:
         try:
             n = capture_frames(video, settings)
         except Exception as exc:  # noqa: BLE001 — one bad video shouldn't stop the batch
             log.warning("Capture failed for %s (%s): %s", video.title, video.video_id, exc)
             save_frames(video.video_id, [], error=str(exc)[:200])
-            failed += 1
-            continue
+            return False
         log.info("Captured %s: %d frame(s)", video.video_id, n)
-        done += 1
-    return done, failed
+        return True
+
+    with ThreadPoolExecutor(max_workers=max(1, workers)) as ex:
+        results = list(ex.map(one, pending))
+    done = sum(results)
+    return done, len(results) - done
 
 
 def _is_out_of_credit(exc: Exception) -> bool:
