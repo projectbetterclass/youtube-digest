@@ -3043,7 +3043,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Why Can't I Talk The Way I Do in My Mind](https://www.youtube.com/watch?v=N-Zel07vrro) | — | — | [transcript](N-Zel07vrro/transcript.md) |
 | — | Ben Yanes | [Lat Pulldown Complete Tutorial & Analysis](https://www.youtube.com/watch?v=N0CTzduPFSc) | — | — | [transcript](N0CTzduPFSc/transcript.md) |
 | — | Tom Nash | [The FED has a major problem…](https://www.youtube.com/watch?v=N0ZKemtR88U) | — | — | [transcript](N0ZKemtR88U/transcript.md) · [visuals](N0ZKemtR88U/visuals.md) |
-| — | New Money | [Warren Buffett's Advice for Young People Who Want to Be Rich](https://www.youtube.com/watch?v=N0eVxWevvN0) | — | — | [transcript](N0eVxWevvN0/transcript.md) |
+| — | New Money | [Warren Buffett's Advice for Young People Who Want to Be Rich](https://www.youtube.com/watch?v=N0eVxWevvN0) | — | — | [transcript](N0eVxWevvN0/transcript.md) · [visuals](N0eVxWevvN0/visuals.md) |
 | — | David Carbutt | [Anduril CEO... We’re Going VERTICAL! (Palmer Luckey)](https://www.youtube.com/watch?v=N0rAXiWv-ak) | — | — | [transcript](N0rAXiWv-ak/transcript.md) |
 | — | HealthyGamerGG | [Dr K Diagnoses Your Favorite Characters](https://www.youtube.com/watch?v=N3tMxNJnBJ0) | — | — | [transcript](N3tMxNJnBJ0/transcript.md) |
 | — | Tom Nash | [URGENT WARNING TO ALL INVESTORS (NOBODY WILL SEE THIS COMING)](https://www.youtube.com/watch?v=N42uMeKR_p0) | — | — | [transcript](N42uMeKR_p0/transcript.md) · [visuals](N42uMeKR_p0/visuals.md) |
@@ -3051,7 +3051,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [Everything I Warned You About Just Happened... All in One Week](https://www.youtube.com/watch?v=N4PJJzCCcK0) | — | — | [transcript](N4PJJzCCcK0/transcript.md) |
 | — | JulienHimself | [I Improved Her CONFIDENCE As Fast As I Could - LIVE DEMONSTRATION](https://www.youtube.com/watch?v=N4UrwBqClrY) | — | — | [transcript](N4UrwBqClrY/transcript.md) |
 | — | HealthyGamerGG | [Why You Never Feel Heard](https://www.youtube.com/watch?v=N50oUcXZ2YM) | — | — | [transcript](N50oUcXZ2YM/transcript.md) |
-| — | Tom Nash | [URGENT WARNING TO ALL STOCK MARKET INVESTORS](https://www.youtube.com/watch?v=N5NpxqdyzoQ) | — | — | [transcript](N5NpxqdyzoQ/transcript.md) |
+| — | Tom Nash | [URGENT WARNING TO ALL STOCK MARKET INVESTORS](https://www.youtube.com/watch?v=N5NpxqdyzoQ) | — | — | [transcript](N5NpxqdyzoQ/transcript.md) · [visuals](N5NpxqdyzoQ/visuals.md) |
 | — | HealthyGamerGG | [Fixing Unfixable Problems with Sky Williams [Interview]](https://www.youtube.com/watch?v=N5fkQNSaojI) | — | — | [transcript](N5fkQNSaojI/transcript.md) |
 | — | Tom Nash | [Alex Karp Reveals MIND-BLOWING News About Palantir](https://www.youtube.com/watch?v=N65pIvY-IWo) | — | — | [transcript](N65pIvY-IWo/transcript.md) · [visuals](N65pIvY-IWo/visuals.md) |
 | — | Aswath Damodaran | [Quiz 1: Review Session (Undergraduate)](https://www.youtube.com/watch?v=N6hPbNg_1fc) | — | — | [transcript](N6hPbNg_1fc/transcript.md) · [materials](N6hPbNg_1fc/materials/) |
@@ -3063,10 +3063,10 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Morning Zoom Recording - May 10, 2023](https://www.youtube.com/watch?v=NBPbjb7hJAs) | — | — | [transcript](NBPbjb7hJAs/transcript.md) |
 | — | Ben Yanes | [Squatting For Glutes - It's Not What You Think](https://www.youtube.com/watch?v=NBkqSoqLOxI) | — | — | [transcript](NBkqSoqLOxI/transcript.md) |
 | — | Greg Isenberg | [Replit CEO Builds an App with 100% AI in 20 Min: Future of Coding?](https://www.youtube.com/watch?v=NBsr3u0z4Hs) | — | — | [transcript](NBsr3u0z4Hs/transcript.md) |
-| — | New Money | [Warren Buffett: 3 Powerful Lessons for Investors](https://www.youtube.com/watch?v=NBtCpvb9c0U) | — | — | [transcript](NBtCpvb9c0U/transcript.md) |
+| — | New Money | [Warren Buffett: 3 Powerful Lessons for Investors](https://www.youtube.com/watch?v=NBtCpvb9c0U) | — | — | [transcript](NBtCpvb9c0U/transcript.md) · [visuals](NBtCpvb9c0U/visuals.md) |
 | — | Aswath Damodaran | [Snap, the Perishable Picture Company: Valuing the IPO](https://www.youtube.com/watch?v=NDK-N9wb5dw) | — | — | [transcript](NDK-N9wb5dw/transcript.md) · [materials](NDK-N9wb5dw/materials/) |
 | — | Riley Brown | [NEW Claude Projects Changes Everything](https://www.youtube.com/watch?v=NDTbUObZTlM) | — | — | [transcript](NDTbUObZTlM/transcript.md) |
-| — | Tom Nash | [Palantir CEO Alex Karp Just Said The UNTHINKABLE](https://www.youtube.com/watch?v=NEceSxAfLdU) | — | — | [transcript](NEceSxAfLdU/transcript.md) |
+| — | Tom Nash | [Palantir CEO Alex Karp Just Said The UNTHINKABLE](https://www.youtube.com/watch?v=NEceSxAfLdU) | — | — | [transcript](NEceSxAfLdU/transcript.md) · [visuals](NEceSxAfLdU/visuals.md) |
 | — | HealthyGamerGG | [I did EVERYTHING right. I still can't find love. \| Lovemaxxing w/ Dr. K](https://www.youtube.com/watch?v=NEe1tg6iC40) | — | — | [transcript](NEe1tg6iC40/transcript.md) |
 | — | David Carbutt | [Elon Musk’s Surprise Gift From NVIDIA CEO](https://www.youtube.com/watch?v=NEiUKP4viU4) | — | — | [transcript](NEiUKP4viU4/transcript.md) |
 | — | New Money | [How to Destroy a $100 Billion Valuation](https://www.youtube.com/watch?v=NEyN7JLN8wA) | — | — | [transcript](NEyN7JLN8wA/transcript.md) |
@@ -3077,7 +3077,7 @@ Each transcript link points to the full text under this folder.
 | — | New Money | [Is This Literally The Best Investing Strategy that Exists?](https://www.youtube.com/watch?v=NIL2mrHXo78) | — | — | [transcript](NIL2mrHXo78/transcript.md) |
 | — | Ben Yanes | [The Small Forearm Solution \| Learn Biomechanics](https://www.youtube.com/watch?v=NKEB03bfJZU) | — | — | [transcript](NKEB03bfJZU/transcript.md) |
 | — | HealthyGamerGG | [Dr. K Chats with @Maya](https://www.youtube.com/watch?v=NKpA26JF3Rw) | — | — | [transcript](NKpA26JF3Rw/transcript.md) |
-| — | Tom Nash | [Palantir JUST Announced Massive New Contract [This Changes Everything]](https://www.youtube.com/watch?v=NKtUUmDHbL0) | — | — | [transcript](NKtUUmDHbL0/transcript.md) |
+| — | Tom Nash | [Palantir JUST Announced Massive New Contract [This Changes Everything]](https://www.youtube.com/watch?v=NKtUUmDHbL0) | — | — | [transcript](NKtUUmDHbL0/transcript.md) · [visuals](NKtUUmDHbL0/visuals.md) |
 | — | Felix & Friends (Goat Academy) | [Trump to FLOOD the Market on THIS Date (Most Aren’t Ready)](https://www.youtube.com/watch?v=NLMbtCZeUrc) | — | — | [transcript](NLMbtCZeUrc/transcript.md) |
 | — | Tom Nash | [We really need to talk about Palantir...](https://www.youtube.com/watch?v=NLpm9K2BXis) | — | — | [transcript](NLpm9K2BXis/transcript.md) |
 | — | HealthyGamerGG | [Why You Can’t Stop Wearing a Mask](https://www.youtube.com/watch?v=NM0wzoWKSq4) | — | — | [transcript](NM0wzoWKSq4/transcript.md) |
@@ -6105,7 +6105,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [I Found A Way To Help INTROVERTS... (How To Change)](https://www.youtube.com/watch?v=n4-oK-1lsgk) | — | — | [transcript](n4-oK-1lsgk/transcript.md) |
 | — | HealthyGamerGG | [Adaptability: How To Rewire Your Brain for Success](https://www.youtube.com/watch?v=n4A5eRNyMrE) | — | — | [transcript](n4A5eRNyMrE/transcript.md) |
 | — | Aswath Damodaran | [Session 23: Dividends, Potential Dividends and Cash Balances](https://www.youtube.com/watch?v=n4TV0yVptwc) | — | — | [transcript](n4TV0yVptwc/transcript.md) · [materials](n4TV0yVptwc/materials/) |
-| — | Ticker Symbol: YOU | [I'm Buying Every Share I Can](https://www.youtube.com/watch?v=n4a53G6MJus) | — | — | [transcript](n4a53G6MJus/transcript.md) |
+| — | Ticker Symbol: YOU | [I'm Buying Every Share I Can](https://www.youtube.com/watch?v=n4a53G6MJus) | — | — | [transcript](n4a53G6MJus/transcript.md) · [visuals](n4a53G6MJus/visuals.md) |
 | — | HealthyGamerGG | [How to Process Trauma ft. CoconutB \| Dr. K Interviews](https://www.youtube.com/watch?v=n4jSkOjuLIg) | — | — | [transcript](n4jSkOjuLIg/transcript.md) |
 | — | Tom Nash | [Breaking: Warren Buffet Warns About Inflationary Stock Market Crash](https://www.youtube.com/watch?v=n5CqPtFDEj0) | — | — | [transcript](n5CqPtFDEj0/transcript.md) |
 | — | HealthyGamerGG | [Your Anger Controls Your Life](https://www.youtube.com/watch?v=n5CzEpYi6n0) | — | — | [transcript](n5CzEpYi6n0/transcript.md) |
