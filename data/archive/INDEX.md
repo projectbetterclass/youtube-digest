@@ -3754,7 +3754,7 @@ Each transcript link points to the full text under this folder.
 | — | Starter Story | [Faceless: From Immigrant to $1M/Year](https://www.youtube.com/watch?v=TNZmNIYv050) | — | — | [transcript](TNZmNIYv050/transcript.md) |
 | — | HealthyGamerGG | [Dr. K Reacts to Mental Health Comedy](https://www.youtube.com/watch?v=TNdNVXYwK7A) | — | — | [transcript](TNdNVXYwK7A/transcript.md) |
 | — | BWB - Business With Brian | [How to Buy I Bonds with Guaranteed 6.89% APY](https://www.youtube.com/watch?v=TNhID6oi3kE) | — | — | [transcript](TNhID6oi3kE/transcript.md) · [visuals](TNhID6oi3kE/visuals.md) |
-| — | Ticker Symbol: YOU | [🧬🧪 Talking Genomics with ARK Invest's Simon Barnett](https://www.youtube.com/watch?v=TO8_NdadMy8) | — | — | [transcript](TO8_NdadMy8/transcript.md) |
+| — | Ticker Symbol: YOU | [🧬🧪 Talking Genomics with ARK Invest's Simon Barnett](https://www.youtube.com/watch?v=TO8_NdadMy8) | — | — | [transcript](TO8_NdadMy8/transcript.md) · [visuals](TO8_NdadMy8/visuals.md) |
 | — | Ben Yanes | [How to Actually Hit Chest on Any Machine Press](https://www.youtube.com/watch?v=TOnxfzgmHMk) | — | — | [transcript](TOnxfzgmHMk/transcript.md) |
 | — | JulienHimself | [Subtle Ways People Communicate Their Value](https://www.youtube.com/watch?v=TOoItv6oiVU) | — | — | [transcript](TOoItv6oiVU/transcript.md) |
 | — | HealthyGamerGG | [The Truth Behind Finding Meaning and Purpose in Life \| Dr.K Interviews](https://www.youtube.com/watch?v=TOra1I7Fods) | — | — | [transcript](TOra1I7Fods/transcript.md) |
@@ -4720,7 +4720,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [How Dysthymia Steals Your Happiness](https://www.youtube.com/watch?v=bIh1UkkxAQM) | — | — | [transcript](bIh1UkkxAQM/transcript.md) |
 | — | New Money | [7 Huge Stocks You Need to Watch in 2024](https://www.youtube.com/watch?v=bJxpE2Q1Vgk) | — | — | [transcript](bJxpE2Q1Vgk/transcript.md) |
 | — | Tom Nash | [Tesla Stock: what to expect in 2022](https://www.youtube.com/watch?v=bKyq4vw9Tac) | — | — | [transcript](bKyq4vw9Tac/transcript.md) |
-| — | BWB - Business With Brian | [🚨These AI Stocks Will Print Millionaires (You are investing in AI wrong)](https://www.youtube.com/watch?v=bL6kmFvBsX8) | — | — | [transcript](bL6kmFvBsX8/transcript.md) |
+| — | BWB - Business With Brian | [🚨These AI Stocks Will Print Millionaires (You are investing in AI wrong)](https://www.youtube.com/watch?v=bL6kmFvBsX8) | — | — | [transcript](bL6kmFvBsX8/transcript.md) · [visuals](bL6kmFvBsX8/visuals.md) |
 | — | Aswath Damodaran | [Session 4A: Statistical Distributions - Applications in Finance & Investing](https://www.youtube.com/watch?v=bLO9-9dcdMw) | — | — | [transcript](bLO9-9dcdMw/transcript.md) · [materials](bLO9-9dcdMw/materials/) |
 | — | Aswath Damodaran | [Session 3: First Steps on Risk](https://www.youtube.com/watch?v=bLZlEBARdE8) | — | — | [transcript](bLZlEBARdE8/transcript.md) · [materials](bLZlEBARdE8/materials/) |
 | — | HealthyGamerGG | [Dr K talks to a PROUD Trump Supporter with David Pakman](https://www.youtube.com/watch?v=bMOF0Go6brw) | — | — | [transcript](bMOF0Go6brw/transcript.md) |
@@ -4737,7 +4737,7 @@ Each transcript link points to the full text under this folder.
 | — | Justin Sung | [How To Learn Any Skill So Fast It Feels Illegal](https://www.youtube.com/watch?v=bSDprg24pEA) | — | — | [transcript](bSDprg24pEA/transcript.md) |
 | — | New Money | [Warren Buffett's Advice for 2026.](https://www.youtube.com/watch?v=bSM5Pi5VVHM) | — | — | [transcript](bSM5Pi5VVHM/transcript.md) |
 | — | HealthyGamerGG | [Dr. K Explains: Fear-Of-Missing-Out ( FOMO )](https://www.youtube.com/watch?v=bTCiBNjsawU) | — | — | [transcript](bTCiBNjsawU/transcript.md) |
-| — | BWB - Business With Brian | [How to Buy I Bonds \| Strategies to Buy Now or Later](https://www.youtube.com/watch?v=bTrWokPMh58) | — | — | [transcript](bTrWokPMh58/transcript.md) |
+| — | BWB - Business With Brian | [How to Buy I Bonds \| Strategies to Buy Now or Later](https://www.youtube.com/watch?v=bTrWokPMh58) | — | — | [transcript](bTrWokPMh58/transcript.md) · [visuals](bTrWokPMh58/visuals.md) |
 | — | HealthyGamerGG | [The Dark Side of Empathy](https://www.youtube.com/watch?v=bUthNYRfBqU) | — | — | [transcript](bUthNYRfBqU/transcript.md) |
 | — | Greg Isenberg | [How Being Selfish Can Lead To Success \| Gaby Goldberg](https://www.youtube.com/watch?v=bVNBfYoWLpA) | — | — | [transcript](bVNBfYoWLpA/transcript.md) |
 | — | David Carbutt | [Palantir Dominating Transportation Industry!](https://www.youtube.com/watch?v=bW8xWKgVfz0) | — | — | [transcript](bW8xWKgVfz0/transcript.md) |
@@ -4886,7 +4886,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [Michael Burry: These Stocks Will Crash Next (More Pain Coming)](https://www.youtube.com/watch?v=chVqO-KIjiU) | — | — | [transcript](chVqO-KIjiU/transcript.md) |
 | — | HealthyGamerGG | [What Dr. K Struggles with...](https://www.youtube.com/watch?v=chuEIMgxnpg) | — | — | [transcript](chuEIMgxnpg/transcript.md) |
 | — | Ben Yanes | [The Worst Back Width Mistake](https://www.youtube.com/watch?v=cjO4QHXGv58) | — | — | [transcript](cjO4QHXGv58/transcript.md) |
-| — | BWB - Business With Brian | [New 401K & IRA Changes: Is Your Retirement at Risk?](https://www.youtube.com/watch?v=cjkW6mLwLeM) | — | — | [transcript](cjkW6mLwLeM/transcript.md) |
+| — | BWB - Business With Brian | [New 401K & IRA Changes: Is Your Retirement at Risk?](https://www.youtube.com/watch?v=cjkW6mLwLeM) | — | — | [transcript](cjkW6mLwLeM/transcript.md) · [visuals](cjkW6mLwLeM/visuals.md) |
 | — | BWB - Business With Brian | [T-Bills versus CDs \| Guaranteed 5%](https://www.youtube.com/watch?v=cjofPVYiGdM) | — | — | [transcript](cjofPVYiGdM/transcript.md) |
 | — | HealthyGamerGG | [Talking Life Purpose with Bobby Scar](https://www.youtube.com/watch?v=ckNUjZU1QF0) | — | — | [transcript](ckNUjZU1QF0/transcript.md) |
 | — | JulienHimself | [Julien Blanc Reveals How To Stop Self Sabotaging (Self Sabotage Why We Do It & How To Stop)](https://www.youtube.com/watch?v=ckRQhEMSl-Q) | — | — | [transcript](ckRQhEMSl-Q/transcript.md) |
