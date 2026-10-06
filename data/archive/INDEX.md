@@ -3801,7 +3801,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [A Viral Market Update XIV: A Wrap on the COVID market, premature or not!](https://www.youtube.com/watch?v=Tkccwe6MZEA) | — | — | [transcript](Tkccwe6MZEA/transcript.md) · [materials](Tkccwe6MZEA/materials/) |
 | — | Greg Isenberg | [I Met The Most Obsessed Man On The Internet](https://www.youtube.com/watch?v=Tl5UsFTO9iY) | — | — | [transcript](Tl5UsFTO9iY/transcript.md) |
 | — | BWB - Business With Brian | [The Next 10X Stocks Are Hiding in Plain Sight](https://www.youtube.com/watch?v=Tm8gyOArt1k) | — | — | [transcript](Tm8gyOArt1k/transcript.md) · [visuals](Tm8gyOArt1k/visuals.md) |
-| — | Ticker Symbol: YOU | [Is Nvidia Stock (NVDA) In Serious Trouble?](https://www.youtube.com/watch?v=TmL_548cSk0) | — | — | [transcript](TmL_548cSk0/transcript.md) |
+| — | Ticker Symbol: YOU | [Is Nvidia Stock (NVDA) In Serious Trouble?](https://www.youtube.com/watch?v=TmL_548cSk0) | — | — | [transcript](TmL_548cSk0/transcript.md) · [visuals](TmL_548cSk0/visuals.md) |
 | — | Riley Brown | [Beginners Guide to AI-Powered Coding With Cursor (No Coding Experience)](https://www.youtube.com/watch?v=TmLkFnduWWo) | — | — | [transcript](TmLkFnduWWo/transcript.md) |
 | — | HealthyGamerGG | [Dr. K Talks with Reckful about Loneliness and Abandonment [Pt. 4]](https://www.youtube.com/watch?v=TmPjGyvELRc) | — | — | [transcript](TmPjGyvELRc/transcript.md) |
 | — | HealthyGamerGG | [Your Job Doesn't Care About Your Mental Health](https://www.youtube.com/watch?v=TmQSN_Yq0uQ) | — | — | [transcript](TmQSN_Yq0uQ/transcript.md) |
