@@ -999,7 +999,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [This Stops 95% Of People From Being Confident](https://www.youtube.com/watch?v=4t5m8Yghvr0) | — | — | [transcript](4t5m8Yghvr0/transcript.md) |
 | — | JulienHimself | [Letting Go Is EASY When You Do This: How To Release Attachment (The Letting Go Technique)](https://www.youtube.com/watch?v=4uZw-7bTBEI) | — | — | [transcript](4uZw-7bTBEI/transcript.md) |
 | — | Ben Yanes | [Muscles = Overrated? \| Chest & Triceps](https://www.youtube.com/watch?v=4ui5W_1131g) | — | — | [transcript](4ui5W_1131g/transcript.md) |
-| — | New Money | [Talking Investing, Business and YouTube with @NateOBrien](https://www.youtube.com/watch?v=4uqJ5-krdyM) | — | — | [transcript](4uqJ5-krdyM/transcript.md) |
+| — | New Money | [Talking Investing, Business and YouTube with @NateOBrien](https://www.youtube.com/watch?v=4uqJ5-krdyM) | — | — | [transcript](4uqJ5-krdyM/transcript.md) · [visuals](4uqJ5-krdyM/visuals.md) |
 | — | Greg Isenberg | [Using Google Ads, Heygen AI, Perplexity to make you $$$](https://www.youtube.com/watch?v=4v7tJ55rzs4) | — | — | [transcript](4v7tJ55rzs4/transcript.md) |
 | — | Aswath Damodaran | [Icarus or Lazarus? The GoPro and LinkedIn Question](https://www.youtube.com/watch?v=4v8wnsMevTY) | — | — | [transcript](4v8wnsMevTY/transcript.md) · [materials](4v8wnsMevTY/materials/) |
 | — | BWB - Business With Brian | [Our Top 10 Stocks to Set It & Forget It!](https://www.youtube.com/watch?v=4vgg_-dkDC0) | — | — | [transcript](4vgg_-dkDC0/transcript.md) · [visuals](4vgg_-dkDC0/visuals.md) |
@@ -1046,7 +1046,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 5: Data Relationships](https://www.youtube.com/watch?v=5HIVw3kvZ20) | — | — | [transcript](5HIVw3kvZ20/transcript.md) · [materials](5HIVw3kvZ20/materials/) |
 | — | Ben Yanes | [My Favorite Lat Exercise EVER](https://www.youtube.com/watch?v=5HQdcJQM7bI) | — | — | [transcript](5HQdcJQM7bI/transcript.md) |
 | — | Tom Nash | [Billionaire Ron Baron Just Left CNBC Interviewer SPEECHLESS](https://www.youtube.com/watch?v=5IQ8Fo1uaXM) | — | — | [transcript](5IQ8Fo1uaXM/transcript.md) · [visuals](5IQ8Fo1uaXM/visuals.md) |
-| — | New Money | [Is Adobe Dying, or Presenting a Generational Buying Opportunity?](https://www.youtube.com/watch?v=5KVvKsGGwvg) | — | — | [transcript](5KVvKsGGwvg/transcript.md) |
+| — | New Money | [Is Adobe Dying, or Presenting a Generational Buying Opportunity?](https://www.youtube.com/watch?v=5KVvKsGGwvg) | — | — | [transcript](5KVvKsGGwvg/transcript.md) · [visuals](5KVvKsGGwvg/visuals.md) |
 | — | Starter Story | [I Make $845,601 Writing This Online...](https://www.youtube.com/watch?v=5MaPEK-yVVY) | — | — | [transcript](5MaPEK-yVVY/transcript.md) |
 | — | Ben Yanes | [Do THIS On Pec Deck FIRST](https://www.youtube.com/watch?v=5MgfM8OtbSA) | — | — | [transcript](5MgfM8OtbSA/transcript.md) |
 | — | Greg Isenberg | [7 $1M+ AI startup ideas you can launch tomorrow with $0](https://www.youtube.com/watch?v=5MseF3lv69k) | — | — | [transcript](5MseF3lv69k/transcript.md) |
@@ -1299,7 +1299,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [10 reasons you make bad investment decisions](https://www.youtube.com/watch?v=7c6rbWn6BCI) | — | — | [transcript](7c6rbWn6BCI/transcript.md) · [visuals](7c6rbWn6BCI/visuals.md) |
 | — | Greg Isenberg | [WTF Is an "AI Agent Loop"? Genius or Hype?](https://www.youtube.com/watch?v=7clJ8IH784Q) | — | — | [transcript](7clJ8IH784Q/transcript.md) |
 | — | Tom Nash | [How To Build a Bulletproof Portfolio For 2024](https://www.youtube.com/watch?v=7dWRmF8Yq0s) | — | — | [transcript](7dWRmF8Yq0s/transcript.md) · [visuals](7dWRmF8Yq0s/visuals.md) |
-| — | Tom Nash | [What’s Going On With Cathie Wood...?](https://www.youtube.com/watch?v=7dygWCQfyGY) | — | — | [transcript](7dygWCQfyGY/transcript.md) |
+| — | Tom Nash | [What’s Going On With Cathie Wood...?](https://www.youtube.com/watch?v=7dygWCQfyGY) | — | — | [transcript](7dygWCQfyGY/transcript.md) · [visuals](7dygWCQfyGY/visuals.md) |
 | — | David Carbutt | [If you are a PALANTIR shareholder….GET READY](https://www.youtube.com/watch?v=7eBcBgnka4c) | — | — | [transcript](7eBcBgnka4c/transcript.md) |
 | — | Justin Sung | [Can AI Help Me Learn Faster? (DALL E 2)](https://www.youtube.com/watch?v=7fFqdsuof0g) | — | — | [transcript](7fFqdsuof0g/transcript.md) |
 | — | Aswath Damodaran | [Session 5: Betas and Relative Risk](https://www.youtube.com/watch?v=7fNM_rTQVNA) | — | — | [transcript](7fNM_rTQVNA/transcript.md) · [materials](7fNM_rTQVNA/materials/) |
@@ -5054,7 +5054,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [Modern Meathead Experience #22 - Ethan's Training (part 1)](https://www.youtube.com/watch?v=dtysVuBzqco) | — | — | [transcript](dtysVuBzqco/transcript.md) |
 | — | Ben Yanes | [Why You Only Feel Your Back (3 solutions)](https://www.youtube.com/watch?v=duKhRMD_vsc) | — | — | [transcript](duKhRMD_vsc/transcript.md) |
 | — | HealthyGamerGG | [HG Presents: Touch Grass](https://www.youtube.com/watch?v=dud8iYkyArs) | — | — | [transcript](dud8iYkyArs/transcript.md) |
-| — | Ticker Symbol: YOU | [NVIDIA Changed Generative AI Forever (SIGGRAPH 2023 Supercut)](https://www.youtube.com/watch?v=dvRsZ4-wUGw) | — | — | [transcript](dvRsZ4-wUGw/transcript.md) |
+| — | Ticker Symbol: YOU | [NVIDIA Changed Generative AI Forever (SIGGRAPH 2023 Supercut)](https://www.youtube.com/watch?v=dvRsZ4-wUGw) | — | — | [transcript](dvRsZ4-wUGw/transcript.md) · [visuals](dvRsZ4-wUGw/visuals.md) |
 | — | Ben Yanes | [Modern Meathead Experience #51 - Exercise Hot Takes](https://www.youtube.com/watch?v=dvcSnmaqHD0) | — | — | [transcript](dvcSnmaqHD0/transcript.md) |
 | — | HealthyGamerGG | [What Even is Meditation?](https://www.youtube.com/watch?v=dvq48pfJa9w) | — | — | [transcript](dvq48pfJa9w/transcript.md) |
 | — | Ticker Symbol: YOU | [This AI Killed ChatGPT - You Just Don't Know It Yet](https://www.youtube.com/watch?v=dwrelX76C2s) | — | — | [transcript](dwrelX76C2s/transcript.md) |
@@ -7586,7 +7586,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [Stop Trying to Be "Somebody" & You're FREE to Be Anybody](https://www.youtube.com/watch?v=za0IkD2yxts) | — | — | [transcript](za0IkD2yxts/transcript.md) |
 | — | Aswath Damodaran | [Session 23: Potential Dividends and Actual Cash Returned](https://www.youtube.com/watch?v=za0YJjyLbTY) | — | — | [transcript](za0YJjyLbTY/transcript.md) · [materials](za0YJjyLbTY/materials/) |
 | — | BWB - Business With Brian | [𝐇𝐨𝐰 𝐭𝐨 𝐒𝐚𝐯𝐞 𝐎𝐧 𝐘𝐨𝐮𝐫 𝐓𝐚𝐱𝐞𝐬: 𝟗 𝐖𝐚𝐲𝐬 𝐭𝐨 𝐒𝐚𝐯𝐞 𝐘𝐨𝐮 𝐌𝐨𝐧𝐞𝐲](https://www.youtube.com/watch?v=zaYTxw_Ck1Q) | — | — | [transcript](zaYTxw_Ck1Q/transcript.md) · [visuals](zaYTxw_Ck1Q/visuals.md) |
-| — | BWB - Business With Brian | [The UNTHINKABLE Just Happened. Prep for the Dip!](https://www.youtube.com/watch?v=zbplIgHL8zk) | — | — | [transcript](zbplIgHL8zk/transcript.md) |
+| — | BWB - Business With Brian | [The UNTHINKABLE Just Happened. Prep for the Dip!](https://www.youtube.com/watch?v=zbplIgHL8zk) | — | — | [transcript](zbplIgHL8zk/transcript.md) · [visuals](zbplIgHL8zk/visuals.md) |
 | — | Tom Nash | [The End of Chinese Stock [Things Just Got Serious]](https://www.youtube.com/watch?v=zcaGLV1hM8A) | — | — | [transcript](zcaGLV1hM8A/transcript.md) |
 | — | HealthyGamerGG | [Revenge Porn, Deepfakes, and Parasocial Relationships](https://www.youtube.com/watch?v=zd7efB-WexU) | — | — | [transcript](zd7efB-WexU/transcript.md) |
 | — | Aswath Damodaran | [Session 12: Investment Returns - Earnings to Incremental Cash flows](https://www.youtube.com/watch?v=zdAw6zu4_sM) | — | — | [transcript](zdAw6zu4_sM/transcript.md) · [materials](zdAw6zu4_sM/materials/) |
@@ -7608,7 +7608,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [FALSE Claims That Autopilot WAS engaged in Tesla Accident](https://www.youtube.com/watch?v=zlGU5-4r4rs) | — | — | [transcript](zlGU5-4r4rs/transcript.md) |
 | — | David Carbutt | [2 MASSIVE Deals Just Dropped!](https://www.youtube.com/watch?v=zl_qpsRY3G8) | — | — | [transcript](zl_qpsRY3G8/transcript.md) |
 | — | New Money | [Michael Burry's Worrying Recession Warning (The White-Collar Crisis Begins)](https://www.youtube.com/watch?v=zmeRiOBmpok) | — | — | [transcript](zmeRiOBmpok/transcript.md) |
-| — | BWB - Business With Brian | [This ‘Always’ Happens Before a Market Correction](https://www.youtube.com/watch?v=zmxAWnk-Ank) | — | — | [transcript](zmxAWnk-Ank/transcript.md) |
+| — | BWB - Business With Brian | [This ‘Always’ Happens Before a Market Correction](https://www.youtube.com/watch?v=zmxAWnk-Ank) | — | — | [transcript](zmxAWnk-Ank/transcript.md) · [visuals](zmxAWnk-Ank/visuals.md) |
 | — | HealthyGamerGG | [Talking with @Trainwreckstv: Staying Grounded and Focused](https://www.youtube.com/watch?v=zn8vtW7Vaz4) | — | — | [transcript](zn8vtW7Vaz4/transcript.md) |
 | — | Aswath Damodaran | [Session 1: Introduction to Valuation](https://www.youtube.com/watch?v=znmQ7oMiQrM) | — | — | [transcript](znmQ7oMiQrM/transcript.md) |
 | — | Aswath Damodaran | [January 2019 Data Update 2: The Bond Market Message](https://www.youtube.com/watch?v=znoH5PkvNzI) | — | — | [transcript](znoH5PkvNzI/transcript.md) · [materials](znoH5PkvNzI/materials/) |
