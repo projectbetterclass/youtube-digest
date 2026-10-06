@@ -11,8 +11,8 @@ This repo is two things:
 ## Project state (keep this section current)
 
 ### Snapshot (2026-10-02)
-Library: **7,625 videos, 7,439 with transcripts**, 699 with linked documents, 73 with
-on-screen visuals (574 slides). 20 channels in `config/watchlist.yml`.
+Library: **7,625 videos, 7,439 with transcripts**, 699 with linked documents, 273 with
+on-screen visuals (2,396 charts/slides). 20 channels in `config/watchlist.yml`.
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
 disabled for this user"), so neither the cloud digest nor the visuals job is running;
@@ -80,7 +80,8 @@ What it does:
 - `tests/test_visuals.py` — no cv2/network needed
 - Output: `data/archive/<video_id>/visuals.md` alongside the transcript
 
-Opted in (`visual: true`): Ticker Symbol: YOU (63 done), David Carbutt (10), BWB, New Money,
+Opted in (`visual: true`): Ticker Symbol: YOU (163 read), BWB (100 read), David Carbutt (10 read,
++100 captured waiting), New Money,
 and — from the 2026-10-01 screen check, user's choice — Greg Isenberg, Tom Nash, Justin Sung,
 plus the borderline Riley Brown, Alex Hormozi, Starter Story, Chris Raroque.
 Checked and kept **audio-only**: Felix & Friends, HealthyGamerGG, JulienHimself, Ben Yanes,
@@ -91,10 +92,11 @@ User's current run order for screen capture: Ticker Symbol: YOU, BWB, David Carb
 
 **Capture-only mode (no API key needed):** `run_visuals.py --capture-only --channel X --budget N`
 downloads videos and saves candidate frames to `frames/<id>/` (gitignored, PC-only); a normal
-run later reads them with Claude vision instead of re-downloading. As of 2026-10-05 the next
-~100 videos each of Ticker Symbol: YOU, BWB and David Carbutt are captured (300 videos, 6,551
-frames, 306 MB) and **waiting to be read** — that needs `ANTHROPIC_API_KEY` in the PC's `.env`
-(still empty; the user has added Console credit). Then: `run_visuals.py --channel X --budget 100`.
+run later reads them with Claude vision instead of re-downloading. The PC's `.env` now has its
+own `ANTHROPIC_API_KEY` ("PC screen capture" key, 2026-10-06). On 2026-10-06 the captured
+Ticker Symbol: YOU and BWB batches were read (~9 charts kept per video, ~20s each). **David
+Carbutt's 100 captured videos are still waiting** — his frames are mostly b-roll, so the user
+should decide before spending on them: `run_visuals.py --channel "David Carbutt" --budget 25`.
 
 The visuals job only advances while the PC's runner is online; the cloud digest is
 independent. It keeps its own ledger `data/visuals_state.json` and writes only
