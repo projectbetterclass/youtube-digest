@@ -218,6 +218,29 @@ def _encode_jpeg(bgr, max_width: int = 1024) -> str:
     return base64.b64encode(buf.tobytes()).decode("ascii")
 
 
+def _slide_items(tool_input) -> list[dict]:
+    """The `slides` list from a submit_visuals call, tolerating JSON-as-string quirks.
+
+    The model occasionally returns `slides` (or the whole input) as a JSON-encoded string
+    instead of a structure; iterating that string yields characters, not dicts. Decode
+    such strings and drop anything that still isn't a dict.
+    """
+    if isinstance(tool_input, str):
+        try:
+            tool_input = json.loads(tool_input)
+        except ValueError:
+            return []
+    slides = tool_input.get("slides", []) if isinstance(tool_input, dict) else []
+    if isinstance(slides, str):
+        try:
+            slides = json.loads(slides)
+        except ValueError:
+            return []
+    if isinstance(slides, dict):
+        slides = [slides]
+    return [s for s in (slides or []) if isinstance(s, dict)]
+
+
 def describe_slides(
     video: Video,
     frames: list[tuple[float, object, float]],
@@ -257,7 +280,7 @@ def describe_slides(
     kept: list[dict] = []
     for block in message.content:
         if getattr(block, "type", None) == "tool_use" and block.name == "submit_visuals":
-            for item in block.input.get("slides", []) or []:
+            for item in _slide_items(block.input):
                 try:
                     idx = int(item.get("index"))
                 except (TypeError, ValueError):

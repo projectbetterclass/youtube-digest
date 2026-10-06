@@ -183,3 +183,13 @@ def test_save_and_load_frames_round_trip(tmp_path, monkeypatch):
     frames, err = V.load_frames("vidX")
     assert err == "" and [(ts, round(sc)) for ts, _, sc in frames] == [(12.5, 7), (40.0, 3)]
     assert frames[0][1].shape == (48, 64, 3)
+
+
+def test_slide_items_tolerates_json_strings_and_junk():
+    good = [{"index": 0, "description": "chart"}]
+    assert V._slide_items({"slides": good}) == good
+    assert V._slide_items({"slides": '[{"index": 0, "description": "chart"}]'}) == good
+    assert V._slide_items('{"slides": [{"index": 0, "description": "chart"}]}') == good
+    assert V._slide_items({"slides": ["oops", {"index": 0, "description": "chart"}]}) == good
+    assert V._slide_items({"slides": "not json"}) == []
+    assert V._slide_items({"slides": None}) == []
