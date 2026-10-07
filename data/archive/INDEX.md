@@ -6870,7 +6870,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [Achieve Extraordinary Success - Motivational Video (Feat. Julien Blanc)](https://www.youtube.com/watch?v=tbsqLWFHZ_I) | — | — | [transcript](tbsqLWFHZ_I/transcript.md) |
 | — | HealthyGamerGG | [Let's Talk about Perfectionism (Reddit Review)](https://www.youtube.com/watch?v=tcXCnYs6s_U) | — | — | [transcript](tcXCnYs6s_U/transcript.md) |
 | — | JulienHimself | [Super Rich: A Guide To Having It All (Russell Simmons Super Rich Book Review)](https://www.youtube.com/watch?v=td_VefV8SgA) | — | — | [transcript](td_VefV8SgA/transcript.md) |
-| — | Ticker Symbol: YOU | [A One In A Lifetime Crash Is Coming (3 Warning Signs)](https://www.youtube.com/watch?v=te3W5UHierw) | — | — | [transcript](te3W5UHierw/transcript.md) |
+| — | Ticker Symbol: YOU | [A One In A Lifetime Crash Is Coming (3 Warning Signs)](https://www.youtube.com/watch?v=te3W5UHierw) | — | — | [transcript](te3W5UHierw/transcript.md) · [visuals](te3W5UHierw/visuals.md) |
 | — | Ben Yanes | [How To Use Machines To Grow Your INNER Chest \| Learn Biomechanics](https://www.youtube.com/watch?v=teJTUcP87Z4) | — | — | [transcript](teJTUcP87Z4/transcript.md) |
 | — | David Carbutt | [Cathie Wood & Tasha Keeney Make HUGE Predictions!](https://www.youtube.com/watch?v=tfQUPE0UVIw) | — | — | [transcript](tfQUPE0UVIw/transcript.md) |
 | — | JulienHimself | [Never Run Out Of Things To Say... (CONFIDENCE HACKS)](https://www.youtube.com/watch?v=tfY8IAU_OYM) | — | — | [transcript](tfY8IAU_OYM/transcript.md) |
@@ -6897,7 +6897,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [The Pain In Growth Ends In One Place: Habit - Motivational Video (Feat. Julien Blanc)](https://www.youtube.com/watch?v=tpFqFQ-j2NI) | — | — | [transcript](tpFqFQ-j2NI/transcript.md) |
 | — | HealthyGamerGG | [Why You Are Always Unhappy](https://www.youtube.com/watch?v=tpfBu-PnWJ4) | — | — | [transcript](tpfBu-PnWJ4/transcript.md) |
 | — | Tom Nash | [TOM LEE: "THINGS ARE ABOUT TO GET ABSOLUTELY CRAZY"](https://www.youtube.com/watch?v=tqEdtt4Nte0) | — | — | [transcript](tqEdtt4Nte0/transcript.md) |
-| — | Ticker Symbol: YOU | [⚡ 🚀 ARKQ: More Tesla Than Tesla \| ARK Invest's BILLION Dollar Bet on the Autonomous Revolution](https://www.youtube.com/watch?v=tqMaH8U9c7g) | — | — | [transcript](tqMaH8U9c7g/transcript.md) |
+| — | Ticker Symbol: YOU | [⚡ 🚀 ARKQ: More Tesla Than Tesla \| ARK Invest's BILLION Dollar Bet on the Autonomous Revolution](https://www.youtube.com/watch?v=tqMaH8U9c7g) | — | — | [transcript](tqMaH8U9c7g/transcript.md) · [visuals](tqMaH8U9c7g/visuals.md) |
 | — | BWB - Business With Brian | [8 MUST KNOW Items For Getting Monetized on YouTube](https://www.youtube.com/watch?v=tqnADF_ogY4) | — | — | [transcript](tqnADF_ogY4/transcript.md) · [visuals](tqnADF_ogY4/visuals.md) |
 | — | Tom Nash | [Jerome Powell Inflation Strategy - My 2 Cents](https://www.youtube.com/watch?v=tr0PIvxsmDg) | — | — | [transcript](tr0PIvxsmDg/transcript.md) |
 | — | Ben Yanes | [The Truth About Overhead Press](https://www.youtube.com/watch?v=trIZFGcdGwU) | — | — | [transcript](trIZFGcdGwU/transcript.md) |
@@ -7034,7 +7034,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [Are these pull-downs bad?](https://www.youtube.com/watch?v=uxd3Zj7l7Ro) | — | — | [transcript](uxd3Zj7l7Ro/transcript.md) |
 | — | Tom Nash | [Dave Lee Shares His Mind Blowing Theory About Tesla's Future](https://www.youtube.com/watch?v=uz-IMgwxAxM) | — | — | [transcript](uz-IMgwxAxM/transcript.md) |
 | — | Aswath Damodaran | [The Bonfire of Venture Capital: The Good, Bad and Ugly side of Cash Burn](https://www.youtube.com/watch?v=uzaixCG5H7o) | — | — | [transcript](uzaixCG5H7o/transcript.md) · [materials](uzaixCG5H7o/materials/) |
-| — | Ticker Symbol: YOU | [💰 Cathie Wood Bets BIG on SQ & PYPL Stocks Disrupting Banks](https://www.youtube.com/watch?v=v-43rwVQzNU) | — | — | [transcript](v-43rwVQzNU/transcript.md) |
+| — | Ticker Symbol: YOU | [💰 Cathie Wood Bets BIG on SQ & PYPL Stocks Disrupting Banks](https://www.youtube.com/watch?v=v-43rwVQzNU) | — | — | [transcript](v-43rwVQzNU/transcript.md) · [visuals](v-43rwVQzNU/visuals.md) |
 | — | Tom Nash | [Tom Lee: “This Is The Best Investing Opportunity This Decade”](https://www.youtube.com/watch?v=v-hO7E0FvR0) | — | — | [transcript](v-hO7E0FvR0/transcript.md) |
 | — | Starter Story | [I sold my company](https://www.youtube.com/watch?v=v-uhjlMg9L0) | — | — | [transcript](v-uhjlMg9L0/transcript.md) |
 | — | David Carbutt | [Elon + NVIDIA CEO: Prepare for FK'in HUGE GROWTH!!](https://www.youtube.com/watch?v=v03UhecUzSU) | — | — | [transcript](v03UhecUzSU/transcript.md) |
