@@ -4790,7 +4790,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [How to Control Your Impulses](https://www.youtube.com/watch?v=bniu1U6wvR8) | — | — | [transcript](bniu1U6wvR8/transcript.md) |
 | — | Tom Nash | [I did a Tesla DCF (and the results blew me away!)](https://www.youtube.com/watch?v=bnrBuW_JqFY) | — | — | [transcript](bnrBuW_JqFY/transcript.md) · [visuals](bnrBuW_JqFY/visuals.md) |
 | — | David Carbutt | [Alex Karp on AWS & IBM Partnerships](https://www.youtube.com/watch?v=bo-OXHLrXFE) | — | — | [transcript](bo-OXHLrXFE/transcript.md) |
-| — | Tom Nash | [The Tesla and Palantir Collapse Has Apparently Just Started](https://www.youtube.com/watch?v=bo134v1x16U) | — | — | [transcript](bo134v1x16U/transcript.md) |
+| — | Tom Nash | [The Tesla and Palantir Collapse Has Apparently Just Started](https://www.youtube.com/watch?v=bo134v1x16U) | — | — | [transcript](bo134v1x16U/transcript.md) · [visuals](bo134v1x16U/visuals.md) |
 | — | HealthyGamerGG | [This is why I need a team...](https://www.youtube.com/watch?v=boCT4IbZPpQ) | — | — | [transcript](boCT4IbZPpQ/transcript.md) |
 | — | Justin Sung | [The Trick to Permanent Motivation (Productivity Coach)](https://www.youtube.com/watch?v=boo5gtr6oRU) | — | — | [transcript](boo5gtr6oRU/transcript.md) |
 | — | JulienHimself | [I Stopped Living By SOCIETY’S RULES & This Happened](https://www.youtube.com/watch?v=bp7ZibClXhE) | — | — | [transcript](bp7ZibClXhE/transcript.md) |
