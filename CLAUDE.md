@@ -104,12 +104,17 @@ Nash, BWB and New Money** — the valuation agent is the main consumer. Capture-
 `frames/`; `run_visuals.py --stored-only --channel X --budget 25` reads alongside without
 downloading. An out-of-credit API error stops a read batch without marking videos, so a
 re-run after topping up continues cleanly.
-**Progress (2026-10-06, 23:45):** BWB done (184/184); Ticker Symbol: YOU 260/412, Tom Nash
-133/869, New Money 56/440 read — 653 videos, 5,018 charts in the library. One capture-only
-job per channel (`--workers 2`), plus a stored-only reader that commits every batch. Capture
-is CPU-bound (~90 videos/hour in total); downloads retry 3× on 403s/timeouts, and only
-members-only videos fail for good (5 on Tom Nash). To resume after a reboot, start the
-capture-only runs for the unfinished channels again, then read with `--stored-only`.
+**Progress (2026-10-07, 03:20):** BWB done (184/184); Ticker Symbol: YOU 361/412, Tom Nash
+459/869, New Money 228/440 read — 1,252 videos, 8,530 charts in the library. Tom Nash's 8
+failures are members-only videos (can't be downloaded). Capture ran as one capture-only job
+per channel (`--workers 2`) plus a stored-only reader committing every batch, ~85 videos/hour.
+**PAUSED at 03:15 on 2026-10-07:** after ~3.5 h of 6 parallel downloads, YouTube started
+answering every download from the PC with "Sign in to confirm you're not a bot" (a temporary
+rate limit on the home connection). The jobs were stopped and the 38 videos wrongly marked
+failed were re-queued (23289cd6). PR #62 makes capture stop by itself on this check instead
+of marking videos — **merge it before restarting capture**. Resume only after a few hours'
+cool-down, more gently: one channel at a time with `--workers 1` or 2. Never work around the
+check with browser cookies.
 
 The visuals job only advances while the PC's runner is online; the cloud digest is
 independent. It keeps its own ledger `data/visuals_state.json` and writes only
