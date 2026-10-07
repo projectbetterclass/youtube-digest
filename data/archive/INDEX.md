@@ -7252,7 +7252,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [Felix Prehn & Ken Honda Podcast: The Japanese Art of Making Peace With Your Money](https://www.youtube.com/watch?v=wkz3nl8YM2E) | — | — | [transcript](wkz3nl8YM2E/transcript.md) |
 | — | HealthyGamerGG | [I Didn't Do Enough in College, How Do I Catch Up? \| Dr.K Interviews](https://www.youtube.com/watch?v=wllgjhJZLRo) | — | — | [transcript](wllgjhJZLRo/transcript.md) |
 | — | Ben Yanes | [Grow Your Brachialis \| Learn Biomechanics](https://www.youtube.com/watch?v=wmt-mh2SwlY) | — | — | [transcript](wmt-mh2SwlY/transcript.md) |
-| — | Ticker Symbol: YOU | [I'm Buying AMD Over Nvidia Stock in 2024 (Here's Why)](https://www.youtube.com/watch?v=wnCQ4ICBIfc) | — | — | [transcript](wnCQ4ICBIfc/transcript.md) |
+| — | Ticker Symbol: YOU | [I'm Buying AMD Over Nvidia Stock in 2024 (Here's Why)](https://www.youtube.com/watch?v=wnCQ4ICBIfc) | — | — | [transcript](wnCQ4ICBIfc/transcript.md) · [visuals](wnCQ4ICBIfc/visuals.md) |
 | — | Ticker Symbol: YOU | [E10: TESLA IN TROUBLE? Top 5 AI Stocks to Buy After Earnings](https://www.youtube.com/watch?v=wo-hXjzalIo) | — | — | [transcript](wo-hXjzalIo/transcript.md) |
 | — | David Carbutt | [Alex Karp: Fighting With Peter Thiel for 30 Years!](https://www.youtube.com/watch?v=wo_7tN7Vc70) | — | — | [transcript](wo_7tN7Vc70/transcript.md) |
 | — | David Carbutt | [Elon Musk’s About to 100X AI](https://www.youtube.com/watch?v=wolBlNz2tnw) | — | — | [transcript](wolBlNz2tnw/transcript.md) |
