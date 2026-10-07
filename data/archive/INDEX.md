@@ -3875,7 +3875,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Dr. K Chats with @Michael Reeves about Existential Dread](https://www.youtube.com/watch?v=UUC8qF5iDag) | — | — | [transcript](UUC8qF5iDag/transcript.md) |
 | — | Greg Isenberg | [4 startup ideas using viral loops and memes to get you paid (steal these $1M+/year ideas)](https://www.youtube.com/watch?v=UV1OtY88pF0) | — | — | [transcript](UV1OtY88pF0/transcript.md) |
 | — | Chris Raroque | [ellieplanner.com analytics demo](https://www.youtube.com/watch?v=UVhYiI4ygmo) | — | — | [transcript](UVhYiI4ygmo/transcript.md) |
-| — | Tom Nash | [The 5 Stocks with THE MOST upside for 2026](https://www.youtube.com/watch?v=UWCW9kgf7KU) | — | — | [transcript](UWCW9kgf7KU/transcript.md) |
+| — | Tom Nash | [The 5 Stocks with THE MOST upside for 2026](https://www.youtube.com/watch?v=UWCW9kgf7KU) | — | — | [transcript](UWCW9kgf7KU/transcript.md) · [visuals](UWCW9kgf7KU/visuals.md) |
 | — | Aswath Damodaran | [Session 8: Determinants of Betas](https://www.youtube.com/watch?v=UXI6idVlRas) | — | — | [transcript](UXI6idVlRas/transcript.md) · [materials](UXI6idVlRas/materials/) |
 | — | Justin Sung | [My Most POWERFUL Study Trick (Any Subject)](https://www.youtube.com/watch?v=UY2GO1ML-Bo) | — | — | [transcript](UY2GO1ML-Bo/transcript.md) |
 | — | BWB - Business With Brian | [𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐄𝐓𝐅 𝐛𝐲 𝐌𝐚𝐫𝐤𝐞𝐭 𝐂𝐚𝐩 𝐚𝐧𝐝 𝐇𝐢𝐠𝐡 𝐆𝐫𝐨𝐰𝐭𝐡: ETF Investing](https://www.youtube.com/watch?v=UY8Bi-MB1q0) | — | — | [transcript](UY8Bi-MB1q0/transcript.md) · [visuals](UY8Bi-MB1q0/visuals.md) |
@@ -3892,8 +3892,8 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [A Perspective on Female Loneliness](https://www.youtube.com/watch?v=UbGZaGzWdfs) | — | — | [transcript](UbGZaGzWdfs/transcript.md) |
 | — | Greg Isenberg | [I built an AI startup in 65 minutes (using ChatGPT, Leonardo AI, Kling AI, ElevenLabs)](https://www.youtube.com/watch?v=Uc3xMimbhkw) | — | — | [transcript](Uc3xMimbhkw/transcript.md) |
 | — | Aswath Damodaran | [The Corporate Tax Question: Facts and Fiction](https://www.youtube.com/watch?v=Uct2cCx1Jec) | — | — | [transcript](Uct2cCx1Jec/transcript.md) · [materials](Uct2cCx1Jec/materials/) |
-| — | Tom Nash | [If you are a TESLA shareholder….GET READY](https://www.youtube.com/watch?v=UdEAs9jjNQU) | — | — | [transcript](UdEAs9jjNQU/transcript.md) |
-| — | Tom Nash | [Palantir Q2 Financials Recap](https://www.youtube.com/watch?v=UeoJYAqP9gs) | — | — | [transcript](UeoJYAqP9gs/transcript.md) |
+| — | Tom Nash | [If you are a TESLA shareholder….GET READY](https://www.youtube.com/watch?v=UdEAs9jjNQU) | — | — | [transcript](UdEAs9jjNQU/transcript.md) · [visuals](UdEAs9jjNQU/visuals.md) |
+| — | Tom Nash | [Palantir Q2 Financials Recap](https://www.youtube.com/watch?v=UeoJYAqP9gs) | — | — | [transcript](UeoJYAqP9gs/transcript.md) · [visuals](UeoJYAqP9gs/visuals.md) |
 | — | Tom Nash | [Crowdstrike: The Most UNDERVALUED AI Stock In The Market](https://www.youtube.com/watch?v=UfKGIo6IgSk) | — | — | [transcript](UfKGIo6IgSk/transcript.md) |
 | — | JulienHimself | [The #1 SOCIAL ANXIETY HACK: Become Socially Invincible](https://www.youtube.com/watch?v=UfRBabxHExU) | — | — | [transcript](UfRBabxHExU/transcript.md) |
 | — | Ben Yanes | [The Invisible Variable That Changes Every Exercise](https://www.youtube.com/watch?v=UfjauFeHAFk) | — | — | [transcript](UfjauFeHAFk/transcript.md) |
@@ -3947,7 +3947,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [The #1 MONEY MINDSET: Become A Money Magnet](https://www.youtube.com/watch?v=VA8E7OVKsR0) | — | — | [transcript](VA8E7OVKsR0/transcript.md) |
 | — | Aswath Damodaran | [In Practice Webcast 10a: You have an optimal debt ratio, now what?](https://www.youtube.com/watch?v=VApq5ZRb1TU) | — | — | [transcript](VApq5ZRb1TU/transcript.md) · [materials](VApq5ZRb1TU/materials/) |
 | — | HealthyGamerGG | [How To Defuse Procrastination And Be Productive (Without Using Willpower)](https://www.youtube.com/watch?v=VBifDZwPiI4) | — | — | [transcript](VBifDZwPiI4/transcript.md) |
-| — | New Money | [Charlie Munger's Final Advice For 2024.](https://www.youtube.com/watch?v=VBklutCt414) | — | — | [transcript](VBklutCt414/transcript.md) |
+| — | New Money | [Charlie Munger's Final Advice For 2024.](https://www.youtube.com/watch?v=VBklutCt414) | — | — | [transcript](VBklutCt414/transcript.md) · [visuals](VBklutCt414/visuals.md) |
 | — | New Money | [Mohnish Pabrai's Brutally Honest Thoughts on the Stock Market.](https://www.youtube.com/watch?v=VClxzcbjpgA) | — | — | [transcript](VClxzcbjpgA/transcript.md) |
 | — | Greg Isenberg | [How to Hack Your Net Wealth w/ No Money Down](https://www.youtube.com/watch?v=VDzeUxreXPA) | — | — | [transcript](VDzeUxreXPA/transcript.md) |
 | — | HealthyGamerGG | [What Happens When a Gifted Kid Grows Up](https://www.youtube.com/watch?v=VEBDy7h_2y4) | — | — | [transcript](VEBDy7h_2y4/transcript.md) |
@@ -3956,7 +3956,7 @@ Each transcript link points to the full text under this folder.
 | — | BWB - Business With Brian | [𝐓𝐡𝐞 𝟓 𝐁𝐞𝐬𝐭 𝐇𝐢𝐠𝐡 𝐘𝐢𝐞𝐥𝐝 𝐂𝐡𝐞𝐜𝐤𝐢𝐧𝐠 𝐚𝐧𝐝 𝐒𝐚𝐯𝐢𝐧𝐠𝐬 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝟐𝟎𝟐𝟑](https://www.youtube.com/watch?v=VHkIMoa9vVw) | — | — | [transcript](VHkIMoa9vVw/transcript.md) · [visuals](VHkIMoa9vVw/visuals.md) |
 | — | Aswath Damodaran | [Shareholder Value to Stakeholder Interests: CEO Capitulation or Empty Doublespeak?](https://www.youtube.com/watch?v=VINIeZ2nHbQ) | — | — | [transcript](VINIeZ2nHbQ/transcript.md) · [materials](VINIeZ2nHbQ/materials/) |
 | — | Ben Yanes | [Lifting Gives You Pain - Now What?](https://www.youtube.com/watch?v=VIiR2tldZ4c) | — | — | [transcript](VIiR2tldZ4c/transcript.md) |
-| — | New Money | [This is Unprecedented.](https://www.youtube.com/watch?v=VIp026_Zlew) | — | — | [transcript](VIp026_Zlew/transcript.md) |
+| — | New Money | [This is Unprecedented.](https://www.youtube.com/watch?v=VIp026_Zlew) | — | — | [transcript](VIp026_Zlew/transcript.md) · [visuals](VIp026_Zlew/visuals.md) |
 | — | JulienHimself | [The No. 1 Enemy Of Massive Action - Motivational Video (Feat. Julien Blanc)](https://www.youtube.com/watch?v=VJBgseJxDLQ) | — | — | [transcript](VJBgseJxDLQ/transcript.md) |
 | — | Justin Sung | [Doctors vs Social Enterprise (And How the Public Harms Them BOTH)](https://www.youtube.com/watch?v=VK7weSXaMMU) | — | — | [transcript](VK7weSXaMMU/transcript.md) |
 | — | Tom Nash | [EMERGENCY Palantir Stock Update [Do This ASAP]](https://www.youtube.com/watch?v=VLHozrmq4X4) | — | — | [transcript](VLHozrmq4X4/transcript.md) |
@@ -6465,7 +6465,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Alex Karp - Palantir's Massive Exponential Growth](https://www.youtube.com/watch?v=qEufoVcBvLo) | — | — | [transcript](qEufoVcBvLo/transcript.md) |
 | — | Aswath Damodaran | [Session 4: Closing the books on the Corporate End Game](https://www.youtube.com/watch?v=qEyaxsOCO84) | — | — | [transcript](qEyaxsOCO84/transcript.md) · [materials](qEyaxsOCO84/materials/) |
 | — | Greg Isenberg | [Buying Happiness or Selling Sadness \| Andrew Wilkinson](https://www.youtube.com/watch?v=qFYH6i5MB7s) | — | — | [transcript](qFYH6i5MB7s/transcript.md) |
-| — | Ticker Symbol: YOU | [Top AI Stocks to Buy Now (ChatGPT Just Killed Intel Stock)](https://www.youtube.com/watch?v=qFmLPGb_AXg) | — | — | [transcript](qFmLPGb_AXg/transcript.md) |
+| — | Ticker Symbol: YOU | [Top AI Stocks to Buy Now (ChatGPT Just Killed Intel Stock)](https://www.youtube.com/watch?v=qFmLPGb_AXg) | — | — | [transcript](qFmLPGb_AXg/transcript.md) · [visuals](qFmLPGb_AXg/visuals.md) |
 | — | David Carbutt | [What It’s like Working Working w/ELON MUSK](https://www.youtube.com/watch?v=qGCr-nU00p0) | — | — | [transcript](qGCr-nU00p0/transcript.md) |
 | — | Riley Brown | [Most Important AI Innovations Are Changing EVERYTHING](https://www.youtube.com/watch?v=qHncKi2BEFI) | — | — | [transcript](qHncKi2BEFI/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Every Country is in Debt… Who is Lending the Money?](https://www.youtube.com/watch?v=qHtqMZhKRlU) | — | — | [transcript](qHtqMZhKRlU/transcript.md) |
