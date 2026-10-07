@@ -83,14 +83,14 @@ channels:
     visual: true             # borderline — on-screen business numbers; sample was mostly sponsor pages (screen check 2026-10-01)
   - name: "Alex Hormozi"
     channel_id: UCUyDOdBWhC1MCxEjC46d-zw
-    backfill: 30
+    backfill: 600            # whole channel (~522 videos) — user asked 2026-10-07 (Alex, then Leila, then Vinh)
     visual: true             # borderline — occasional model diagrams (screen check 2026-10-01)
   - name: "Vinh Giang"
     channel_id: UC9K9Wnz6t4cLnCdTzAVrXqQ
-    backfill: 30
+    backfill: 450            # whole channel (~394 videos) — user asked 2026-10-07, third in line
   - name: "Leila Hormozi"
     channel_id: UCxCcu9pet4dljrBLf8R5nwA
-    backfill: 30
+    backfill: 350            # whole channel (~292 videos) — user asked 2026-10-07, second in line
   - name: "Ben Yanes"
     channel_id: UCTwuK33U_RjE4bLkQJzG-cQ
     backfill: 700            # whole channel (~595 videos) — a user priority channel
