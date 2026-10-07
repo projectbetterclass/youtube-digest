@@ -4838,7 +4838,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [Stop Chasing Love And Relationships & Instead Do This!](https://www.youtube.com/watch?v=cH3liJX97pg) | — | — | [transcript](cH3liJX97pg/transcript.md) |
 | — | HealthyGamerGG | [How Ego Controls us and How to Control Ego](https://www.youtube.com/watch?v=cHFD2ycNsBs) | — | — | [transcript](cHFD2ycNsBs/transcript.md) |
 | — | Aswath Damodaran | [Session 21: Debt Design (Continued)](https://www.youtube.com/watch?v=cHmmQ6nhOy8) | — | — | [transcript](cHmmQ6nhOy8/transcript.md) · [materials](cHmmQ6nhOy8/materials/) |
-| — | Tom Nash | [Bloom Energy: The Next Palantir Hiding In Plain Sight](https://www.youtube.com/watch?v=cI10tYwEgC0) | — | — | [transcript](cI10tYwEgC0/transcript.md) |
+| — | Tom Nash | [Bloom Energy: The Next Palantir Hiding In Plain Sight](https://www.youtube.com/watch?v=cI10tYwEgC0) | — | — | [transcript](cI10tYwEgC0/transcript.md) · [visuals](cI10tYwEgC0/visuals.md) |
 | — | Ticker Symbol: YOU | [Nvidia's HUGE AI Breakthrough (Bigger Than ChatGPT)](https://www.youtube.com/watch?v=cJROlT_ccFM) | — | — | [transcript](cJROlT_ccFM/transcript.md) · [visuals](cJROlT_ccFM/visuals.md) |
 | — | Tom Nash | [Billionaire investor Ray Dalio says U.S. will outlaw Bitcoin](https://www.youtube.com/watch?v=cKMtyrF33_0) | — | — | [transcript](cKMtyrF33_0/transcript.md) · [visuals](cKMtyrF33_0/visuals.md) |
 | — | David Carbutt | [Internet BREAKS w/ World’s Most Advanced AI Robot](https://www.youtube.com/watch?v=cKVkMgAvxu4) | — | — | [transcript](cKVkMgAvxu4/transcript.md) |
@@ -4854,7 +4854,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [Should Tesla Be The Most Valuable Company on Earth? (TSLA Stock)](https://www.youtube.com/watch?v=cNrGcGtKSb8) | — | — | [transcript](cNrGcGtKSb8/transcript.md) · [visuals](cNrGcGtKSb8/visuals.md) |
 | — | HealthyGamerGG | [Your Low IQ Isn't What Holds You Back](https://www.youtube.com/watch?v=cNyiAFxUiLk) | — | — | [transcript](cNyiAFxUiLk/transcript.md) |
 | — | Tom Nash | [Fortinet [FTNT]: A Very Strong Stock With Multiple Catalysts](https://www.youtube.com/watch?v=cO2prAgTICU) | — | — | [transcript](cO2prAgTICU/transcript.md) · [visuals](cO2prAgTICU/visuals.md) |
-| — | Tom Nash | [Tesla Q3 Deliveries & Production Numbers Analysis](https://www.youtube.com/watch?v=cOX-EVMWUgo) | — | — | [transcript](cOX-EVMWUgo/transcript.md) |
+| — | Tom Nash | [Tesla Q3 Deliveries & Production Numbers Analysis](https://www.youtube.com/watch?v=cOX-EVMWUgo) | — | — | [transcript](cOX-EVMWUgo/transcript.md) · [visuals](cOX-EVMWUgo/visuals.md) |
 | — | HealthyGamerGG | [How to Survive Passive Aggressive CoWorkers](https://www.youtube.com/watch?v=cQFEon5vdqM) | — | — | [transcript](cQFEon5vdqM/transcript.md) |
 | — | David Carbutt | [Palantir - Google Partnership (5 Use Cases)](https://www.youtube.com/watch?v=cSY4Ph93e14) | — | — | [transcript](cSY4Ph93e14/transcript.md) |
 | — | Aswath Damodaran | [Valeant: Damaged Goods or Deeply Discounted Drug Company?](https://www.youtube.com/watch?v=cSZ4fjMHazg) | — | — | [transcript](cSZ4fjMHazg/transcript.md) · [materials](cSZ4fjMHazg/materials/) |
@@ -4869,9 +4869,9 @@ Each transcript link points to the full text under this folder.
 | — | New Money | [The Biggest Crack in the AI Narrative Has Finally Arrived.](https://www.youtube.com/watch?v=cXtosfAukLs) | — | — | [transcript](cXtosfAukLs/transcript.md) |
 | — | HealthyGamerGG | ["The more successful your mask, the lonelier you feel"](https://www.youtube.com/watch?v=cXw8cJolE5Y) | — | — | [transcript](cXw8cJolE5Y/transcript.md) |
 | — | Leila Hormozi | [Give me 17 minutes, and I’ll Make You Dangerously Consistent](https://www.youtube.com/watch?v=cXytK82N93Y) | — | — | [transcript](cXytK82N93Y/transcript.md) |
-| — | Tom Nash | [Stock Market Investors BEWARE](https://www.youtube.com/watch?v=cZKMhaIFZQ4) | — | — | [transcript](cZKMhaIFZQ4/transcript.md) |
+| — | Tom Nash | [Stock Market Investors BEWARE](https://www.youtube.com/watch?v=cZKMhaIFZQ4) | — | — | [transcript](cZKMhaIFZQ4/transcript.md) · [visuals](cZKMhaIFZQ4/visuals.md) |
 | — | Tom Nash | [Can Palantir Drop Back to $10 Per Share (Possible But Not Probable)](https://www.youtube.com/watch?v=cZTFibwnfx4) | — | — | [transcript](cZTFibwnfx4/transcript.md) |
-| — | Tom Nash | [If you are a Tesla shareholder….GET READY](https://www.youtube.com/watch?v=cZWQlziBsgM) | — | — | [transcript](cZWQlziBsgM/transcript.md) |
+| — | Tom Nash | [If you are a Tesla shareholder….GET READY](https://www.youtube.com/watch?v=cZWQlziBsgM) | — | — | [transcript](cZWQlziBsgM/transcript.md) · [visuals](cZWQlziBsgM/visuals.md) |
 | — | Tom Nash | [Tom Lee Just Said The UNTHINKABLE](https://www.youtube.com/watch?v=cZadq1tUYxQ) | — | — | [transcript](cZadq1tUYxQ/transcript.md) |
 | — | Greg Isenberg | [The framework for building AI startups from a product design genius](https://www.youtube.com/watch?v=c_6_6aLjlrk) | — | — | [transcript](c_6_6aLjlrk/transcript.md) |
 | — | David Carbutt | [This Is The Biggest Story Nobody's Talking About](https://www.youtube.com/watch?v=cakxlg_LPC8) | — | — | [transcript](cakxlg_LPC8/transcript.md) |
