@@ -5528,10 +5528,10 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [How To Be The Life Of ANY Party: Julien Blanc's "Secret Tricks" That Will Make You Magnetic!](https://www.youtube.com/watch?v=i2wabSKpOkI) | — | — | [transcript](i2wabSKpOkI/transcript.md) |
 | — | David Carbutt | [Palantir's $500m Contract is in the BAG](https://www.youtube.com/watch?v=i3VuW4AAHsY) | — | — | [transcript](i3VuW4AAHsY/transcript.md) |
 | — | Greg Isenberg | [Vercel's CEO Shares 5 AI Startup Ideas So Good You’ll Quit Your Job](https://www.youtube.com/watch?v=i43kYARbSGM) | — | — | [transcript](i43kYARbSGM/transcript.md) |
-| — | Tom Nash | [New Tesla FSD Demo Video From Ukraine - Fake or Real?](https://www.youtube.com/watch?v=i4S1TYggUIs) | — | — | [transcript](i4S1TYggUIs/transcript.md) |
+| — | Tom Nash | [New Tesla FSD Demo Video From Ukraine - Fake or Real?](https://www.youtube.com/watch?v=i4S1TYggUIs) | — | — | [transcript](i4S1TYggUIs/transcript.md) · [visuals](i4S1TYggUIs/visuals.md) |
 | — | Aswath Damodaran | [Session 9: The Right Financing Mix](https://www.youtube.com/watch?v=i4atCUbe_CM) | — | — | [transcript](i4atCUbe_CM/transcript.md) · [materials](i4atCUbe_CM/materials/) |
 | — | HealthyGamerGG | [Shame Isn't Something to Overcome Alone](https://www.youtube.com/watch?v=i5BE-AK4FKM) | — | — | [transcript](i5BE-AK4FKM/transcript.md) |
-| — | Tom Nash | [7 MUST Follow Rules To Survive The Recession](https://www.youtube.com/watch?v=i68tqbrUFS4) | — | — | [transcript](i68tqbrUFS4/transcript.md) |
+| — | Tom Nash | [7 MUST Follow Rules To Survive The Recession](https://www.youtube.com/watch?v=i68tqbrUFS4) | — | — | [transcript](i68tqbrUFS4/transcript.md) · [visuals](i68tqbrUFS4/visuals.md) |
 | — | New Money | [The 10 WORST Investing Mistakes to Make (Investing For Beginners)](https://www.youtube.com/watch?v=i6DVSMnfz8Y) | — | — | [transcript](i6DVSMnfz8Y/transcript.md) |
 | — | Aswath Damodaran | [Session 15: The Case (Lowe's Furniture) and Implications for Investment Analysis](https://www.youtube.com/watch?v=i6ijmkoAKqc) | — | — | [transcript](i6ijmkoAKqc/transcript.md) · [materials](i6ijmkoAKqc/materials/) |
 | — | Starter Story | [He Built A $2.5M/Year Business In 2 Years](https://www.youtube.com/watch?v=i6kCkGmJc9M) | — | — | [transcript](i6kCkGmJc9M/transcript.md) |
@@ -5542,7 +5542,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [DeepSeek R1 - Everything you need to know](https://www.youtube.com/watch?v=i9kTrcf-gDQ) | — | — | [transcript](i9kTrcf-gDQ/transcript.md) |
 | — | Aswath Damodaran | [Session 2: Shareholders, Stakeholders and the End Game in Business](https://www.youtube.com/watch?v=iB_KEfHySyA) | — | — | [transcript](iB_KEfHySyA/transcript.md) · [materials](iB_KEfHySyA/materials/) |
 | — | Greg Isenberg | [Strategies for growth hacking your product [CLIP]](https://www.youtube.com/watch?v=iBa1u9Z4s4M) | — | — | [transcript](iBa1u9Z4s4M/transcript.md) |
-| — | Tom Nash | [Tesla Q4 Vehicle Delivery Numbers Analysis and 2022 Forecast](https://www.youtube.com/watch?v=iCpWFae-u1Q) | — | — | [transcript](iCpWFae-u1Q/transcript.md) |
+| — | Tom Nash | [Tesla Q4 Vehicle Delivery Numbers Analysis and 2022 Forecast](https://www.youtube.com/watch?v=iCpWFae-u1Q) | — | — | [transcript](iCpWFae-u1Q/transcript.md) · [visuals](iCpWFae-u1Q/visuals.md) |
 | — | Ben Yanes | [2 Reasons Your Upper Pecs Won't Grow (and what to do instead)](https://www.youtube.com/watch?v=iD44-sVpxfA) | — | — | [transcript](iD44-sVpxfA/transcript.md) |
 | — | BWB - Business With Brian | [5 Dividend ETFs to Hold Forever - Easy Millions](https://www.youtube.com/watch?v=iDRxZkzJ3RM) | — | — | [transcript](iDRxZkzJ3RM/transcript.md) · [visuals](iDRxZkzJ3RM/visuals.md) |
 | — | Ticker Symbol: YOU | [TSMC DOOMED? China's Economic Crisis May Take Tech Stocks With It](https://www.youtube.com/watch?v=iDVNag9Pq7s) | — | — | [transcript](iDVNag9Pq7s/transcript.md) · [visuals](iDVNag9Pq7s/visuals.md) |
@@ -5550,7 +5550,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [The #1 Reason Your Lower Chest Won't Grow (and what to do about it)](https://www.youtube.com/watch?v=iDpy-JwQwkw) | — | — | [transcript](iDpy-JwQwkw/transcript.md) |
 | — | Ticker Symbol: YOU | [😨 Why Cathie Wood Sold Palantir from ALL ARK Invest Funds](https://www.youtube.com/watch?v=iDwtyxOltYY) | — | — | [transcript](iDwtyxOltYY/transcript.md) · [visuals](iDwtyxOltYY/visuals.md) |
 | — | HealthyGamerGG | [What the Research Says about DMT](https://www.youtube.com/watch?v=iEcbLpX_pi0) | — | — | [transcript](iEcbLpX_pi0/transcript.md) |
-| — | Tom Nash | [Palantir is about to have an Nvidia moment, but most investors will miss it...](https://www.youtube.com/watch?v=iFQWw-zAPZc) | — | — | [transcript](iFQWw-zAPZc/transcript.md) |
+| — | Tom Nash | [Palantir is about to have an Nvidia moment, but most investors will miss it...](https://www.youtube.com/watch?v=iFQWw-zAPZc) | — | — | [transcript](iFQWw-zAPZc/transcript.md) · [visuals](iFQWw-zAPZc/visuals.md) |
 | — | Ben Yanes | [Expert Breakdown: Chris Bumstead Chest Workout](https://www.youtube.com/watch?v=iG4sPj5mp2Q) | — | — | [transcript](iG4sPj5mp2Q/transcript.md) |
 | — | Justin Sung | [Why Stress is Actually a Good Thing](https://www.youtube.com/watch?v=iGMKADpsJg0) | — | — | [transcript](iGMKADpsJg0/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The FED Just Did the UNTHINKABLE (Global Monetary Reset Starts Now)](https://www.youtube.com/watch?v=iGd35DO24Mg) | — | — | [transcript](iGd35DO24Mg/transcript.md) |
