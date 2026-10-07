@@ -4803,8 +4803,8 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [This Instantly Makes 95% Of People More Confident](https://www.youtube.com/watch?v=breFWSYc-IY) | — | — | [transcript](breFWSYc-IY/transcript.md) |
 | — | David Carbutt | [Palantir Solving $40B Problem!](https://www.youtube.com/watch?v=bru7kOZeM4Y) | — | — | [transcript](bru7kOZeM4Y/transcript.md) |
 | — | David Carbutt | [Truth About Why Elon Musk Can’t Be Replaced](https://www.youtube.com/watch?v=brxaMsTUSQI) | — | — | [transcript](brxaMsTUSQI/transcript.md) |
-| — | Tom Nash | [Palantir Stock - URGENT WARNING](https://www.youtube.com/watch?v=bsLwfRzu6IU) | — | — | [transcript](bsLwfRzu6IU/transcript.md) |
-| — | Tom Nash | [Everything (Important) Jerome Powell Just Said](https://www.youtube.com/watch?v=btr7-t9kyrk) | — | — | [transcript](btr7-t9kyrk/transcript.md) |
+| — | Tom Nash | [Palantir Stock - URGENT WARNING](https://www.youtube.com/watch?v=bsLwfRzu6IU) | — | — | [transcript](bsLwfRzu6IU/transcript.md) · [visuals](bsLwfRzu6IU/visuals.md) |
+| — | Tom Nash | [Everything (Important) Jerome Powell Just Said](https://www.youtube.com/watch?v=btr7-t9kyrk) | — | — | [transcript](btr7-t9kyrk/transcript.md) · [visuals](btr7-t9kyrk/visuals.md) |
 | — | Ben Yanes | [You've Never Done This Glute Exercise](https://www.youtube.com/watch?v=bv5si_KGdPA) | — | — | [transcript](bv5si_KGdPA/transcript.md) |
 | — | HealthyGamerGG | [We Need To Talk About The AI Cheating Epidemic](https://www.youtube.com/watch?v=bvVsnSku72s) | — | — | [transcript](bvVsnSku72s/transcript.md) |
 | — | Tom Nash | [Recession Warning ⚠️ How To Prepare Your Stock Portfolio](https://www.youtube.com/watch?v=bvrFKX0czYs) | — | — | [transcript](bvrFKX0czYs/transcript.md) |
