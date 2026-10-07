@@ -4528,7 +4528,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [My Favorite Middle Delt Exercise, Hands-Down](https://www.youtube.com/watch?v=_I4Vktc19tk) | — | — | [transcript](_I4Vktc19tk/transcript.md) |
 | — | Ticker Symbol: YOU | [HUGE AI NEWS: NVIDIA Special Address at CES 2024 (Supercut)](https://www.youtube.com/watch?v=_ICD3lau_EE) | — | — | [transcript](_ICD3lau_EE/transcript.md) · [visuals](_ICD3lau_EE/visuals.md) |
 | — | David Carbutt | [Cathie Wood & Tom Lee Drop MASSIVE Predictions](https://www.youtube.com/watch?v=_IhR4F08U5U) | — | — | [transcript](_IhR4F08U5U/transcript.md) |
-| — | Tom Nash | [If you are a PALANTIR shareholder….GET READY](https://www.youtube.com/watch?v=_JGXlQh4Wsw) | — | — | [transcript](_JGXlQh4Wsw/transcript.md) |
+| — | Tom Nash | [If you are a PALANTIR shareholder….GET READY](https://www.youtube.com/watch?v=_JGXlQh4Wsw) | — | — | [transcript](_JGXlQh4Wsw/transcript.md) · [visuals](_JGXlQh4Wsw/visuals.md) |
 | — | New Money | [Charlie Munger loads up on Alibaba Stock!](https://www.youtube.com/watch?v=_JL7dnQRiG8) | — | — | [transcript](_JL7dnQRiG8/transcript.md) |
 | — | Riley Brown | [The New Cursor Agent is Insane (Full Tutorial)](https://www.youtube.com/watch?v=_JNCqY8ltSg) | — | — | [transcript](_JNCqY8ltSg/transcript.md) |
 | — | David Carbutt | [Alex Karp Proved Everyone Wrong](https://www.youtube.com/watch?v=_JimWrYg1k4) | — | — | [transcript](_JimWrYg1k4/transcript.md) |
@@ -4560,7 +4560,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [DB vs CABLE Lateral Raise (NEW STUDY) \| Learn Biomechanics](https://www.youtube.com/watch?v=_bb-O8o7LZA) | — | — | [transcript](_bb-O8o7LZA/transcript.md) |
 | — | New Money | [Warren Buffett is GETTING OUT!](https://www.youtube.com/watch?v=_c34B-bInJY) | — | — | [transcript](_c34B-bInJY/transcript.md) |
 | — | Aswath Damodaran | [The Difference Makers: Key Person(s) Value](https://www.youtube.com/watch?v=_cjUNmwvJD8) | — | — | [transcript](_cjUNmwvJD8/transcript.md) · [materials](_cjUNmwvJD8/materials/) |
-| — | Tom Nash | [WOW! Cathie Wood steps back? Really?](https://www.youtube.com/watch?v=_dmn1G82F8E) | — | — | [transcript](_dmn1G82F8E/transcript.md) |
+| — | Tom Nash | [WOW! Cathie Wood steps back? Really?](https://www.youtube.com/watch?v=_dmn1G82F8E) | — | — | [transcript](_dmn1G82F8E/transcript.md) · [visuals](_dmn1G82F8E/visuals.md) |
 | — | David Carbutt | [Alex Karp: Our Market is Growing! (UNSEEN FOOTAGE!)](https://www.youtube.com/watch?v=_dryWkW_iu4) | — | — | [transcript](_dryWkW_iu4/transcript.md) |
 | — | David Carbutt | [Palantir CTO Leaves Senate Speechless](https://www.youtube.com/watch?v=_fZKIzKYgBg) | — | — | [transcript](_fZKIzKYgBg/transcript.md) |
 | — | Greg Isenberg | [3 Non-Obvious Networking Strategies That Work](https://www.youtube.com/watch?v=_fnehw4VQqA) | — | — | [transcript](_fnehw4VQqA/transcript.md) |
@@ -4574,7 +4574,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [The Power of "I'm Sorry' With HotshotGG \| Dr. K Interviews](https://www.youtube.com/watch?v=_lRLZYri3Zo) | — | — | [transcript](_lRLZYri3Zo/transcript.md) |
 | — | David Carbutt | [Tom Lee Says THIS Was Your Buying Opportunity](https://www.youtube.com/watch?v=_lTZmMC1saw) | — | — | [transcript](_lTZmMC1saw/transcript.md) |
 | — | Ben Yanes | [The Split Squat - Biomechanics Explained](https://www.youtube.com/watch?v=_lqDGi1msn0) | — | — | [transcript](_lqDGi1msn0/transcript.md) |
-| — | Tom Nash | [Tesla Recalls 500,000 Cars](https://www.youtube.com/watch?v=_m9h-gLnUUY) | — | — | [transcript](_m9h-gLnUUY/transcript.md) |
+| — | Tom Nash | [Tesla Recalls 500,000 Cars](https://www.youtube.com/watch?v=_m9h-gLnUUY) | — | — | [transcript](_m9h-gLnUUY/transcript.md) · [visuals](_m9h-gLnUUY/visuals.md) |
 | — | HealthyGamerGG | [Dr. K Chats with @DoaenelYT about Toxic Positivity & Dating](https://www.youtube.com/watch?v=_mwm67Nmiz8) | — | — | [transcript](_mwm67Nmiz8/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [This Metal Is Set To Explode (Not Gold Or Silver)](https://www.youtube.com/watch?v=_opyvjj_BTQ) | — | — | [transcript](_opyvjj_BTQ/transcript.md) |
 | — | Aswath Damodaran | [The GE End Game: The Bataan Death March or Resurrection?](https://www.youtube.com/watch?v=_p1mxkW1Fls) | — | — | [transcript](_p1mxkW1Fls/transcript.md) · [materials](_p1mxkW1Fls/materials/) |
@@ -4587,11 +4587,11 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [Modern Meathead Experience #19 - Control & Lifting Mistakes](https://www.youtube.com/watch?v=_u8SOApu7Ys) | — | — | [transcript](_u8SOApu7Ys/transcript.md) |
 | — | Aswath Damodaran | [Discount Rate Myth 1: If you don't like betas, you cannot do DCF](https://www.youtube.com/watch?v=_uIowZm1DsY) | — | — | [transcript](_uIowZm1DsY/transcript.md) · [materials](_uIowZm1DsY/materials/) |
 | — | Greg Isenberg | [Minimum Viable Community With Alexis Ohanian \| Where It Happens Podcast](https://www.youtube.com/watch?v=_uPRruLfZoU) | — | — | [transcript](_uPRruLfZoU/transcript.md) |
-| — | Tom Nash | [Tesla December Deliveries (China) Hits Record. What It Means for the Stock.](https://www.youtube.com/watch?v=_ubEYqSJENA) | — | — | [transcript](_ubEYqSJENA/transcript.md) |
+| — | Tom Nash | [Tesla December Deliveries (China) Hits Record. What It Means for the Stock.](https://www.youtube.com/watch?v=_ubEYqSJENA) | — | — | [transcript](_ubEYqSJENA/transcript.md) · [visuals](_ubEYqSJENA/visuals.md) |
 | — | David Carbutt | [Ex-Google CEO Just Made the Case for PALANTIR (By Accident)](https://www.youtube.com/watch?v=_vIFfO56aJ0) | — | — | [transcript](_vIFfO56aJ0/transcript.md) |
 | — | Ben Yanes | [The WORST Beginner Mistake Nobody Talks About](https://www.youtube.com/watch?v=_vK49Ejpy3g) | — | — | [transcript](_vK49Ejpy3g/transcript.md) |
 | — | JulienHimself | [Stop Chasing Relationships & Instead Do This!](https://www.youtube.com/watch?v=_vXedoYS8GI) | — | — | [transcript](_vXedoYS8GI/transcript.md) |
-| — | Tom Nash | [🚨The 5 Stocks Print Millionaires (but most will be investing wrong)](https://www.youtube.com/watch?v=_vnTrY_7cH4) | — | — | [transcript](_vnTrY_7cH4/transcript.md) |
+| — | Tom Nash | [🚨The 5 Stocks Print Millionaires (but most will be investing wrong)](https://www.youtube.com/watch?v=_vnTrY_7cH4) | — | — | [transcript](_vnTrY_7cH4/transcript.md) · [visuals](_vnTrY_7cH4/visuals.md) |
 | — | New Money | [The U.S. Faces a Major Debt Problem](https://www.youtube.com/watch?v=_vyRpYPMxTo) | — | — | [transcript](_vyRpYPMxTo/transcript.md) |
 | — | David Carbutt | [Alex Karp's Secret to Making Palantir UNSTOPPABLE!](https://www.youtube.com/watch?v=_wSL8BsaVRA) | — | — | [transcript](_wSL8BsaVRA/transcript.md) |
 | — | JulienHimself | [How A PLASTIC BABY Changed Her Life](https://www.youtube.com/watch?v=_x8S53EDfxc) | — | — | [transcript](_x8S53EDfxc/transcript.md) |
@@ -4599,7 +4599,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Addressing Misogyny](https://www.youtube.com/watch?v=_z9jJFq3Hz0) | — | — | [transcript](_z9jJFq3Hz0/transcript.md) |
 | — | David Carbutt | [Dan Ives Just Made a Massive Prediction](https://www.youtube.com/watch?v=a-QSH1THpaY) | — | — | [transcript](a-QSH1THpaY/transcript.md) |
 | — | Leila Hormozi | [What It Really Takes to Build a $250M Business](https://www.youtube.com/watch?v=a0l48z18fJU) | — | — | [transcript](a0l48z18fJU/transcript.md) |
-| — | Tom Nash | [What is Cathie Wood Doing in 2024? [its not what you think]](https://www.youtube.com/watch?v=a0tb0LeXQSQ) | — | — | [transcript](a0tb0LeXQSQ/transcript.md) |
+| — | Tom Nash | [What is Cathie Wood Doing in 2024? [its not what you think]](https://www.youtube.com/watch?v=a0tb0LeXQSQ) | — | — | [transcript](a0tb0LeXQSQ/transcript.md) · [visuals](a0tb0LeXQSQ/visuals.md) |
 | — | Starter Story | [My app makes $41K/month](https://www.youtube.com/watch?v=a1EXyJlSx9g) | — | — | [transcript](a1EXyJlSx9g/transcript.md) |
 | — | Greg Isenberg | [I quit my job to make $6M/year with AI apps](https://www.youtube.com/watch?v=a2JBWwASzUU) | — | — | [transcript](a2JBWwASzUU/transcript.md) |
 | — | HealthyGamerGG | [Why You Can Never Clean Your Room](https://www.youtube.com/watch?v=a3IIYz-UlK0) | — | — | [transcript](a3IIYz-UlK0/transcript.md) |
