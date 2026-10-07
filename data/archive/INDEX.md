@@ -4197,7 +4197,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Palantir Just Made $200M Investment!](https://www.youtube.com/watch?v=XR4W7Pjs5Ew) | — | — | [transcript](XR4W7Pjs5Ew/transcript.md) |
 | — | David Carbutt | [Palantir: Drone Secret UNLEASHED](https://www.youtube.com/watch?v=XRH-sJyGQDE) | — | — | [transcript](XRH-sJyGQDE/transcript.md) |
 | — | David Carbutt | [Alex Karp - Our Products are F***ing Cool (Earnings Recap)](https://www.youtube.com/watch?v=XRYC_ucyFH0) | — | — | [transcript](XRYC_ucyFH0/transcript.md) |
-| — | New Money | [Why Warren Buffett is Keeping $144B out of the Stock Market](https://www.youtube.com/watch?v=XU2URT547Z0) | — | — | [transcript](XU2URT547Z0/transcript.md) |
+| — | New Money | [Why Warren Buffett is Keeping $144B out of the Stock Market](https://www.youtube.com/watch?v=XU2URT547Z0) | — | — | [transcript](XU2URT547Z0/transcript.md) · [visuals](XU2URT547Z0/visuals.md) |
 | — | Ben Yanes | [Can't Breathe During Rows? Watch This](https://www.youtube.com/watch?v=XU5pw71jDTY) | — | — | [transcript](XU5pw71jDTY/transcript.md) |
 | — | HealthyGamerGG | [Why Software Devs Keep Burning Out](https://www.youtube.com/watch?v=XW-02QiiHDM) | — | — | [transcript](XW-02QiiHDM/transcript.md) |
 | — | David Carbutt | [Palantir vs World's Hardest Problems - Shyam Sankar](https://www.youtube.com/watch?v=XWPYoAyMUn8) | — | — | [transcript](XWPYoAyMUn8/transcript.md) |
