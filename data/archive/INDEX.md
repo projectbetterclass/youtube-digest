@@ -4306,7 +4306,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Top 5 Stock Market News You Need To Know Today (Monday, April 5)](https://www.youtube.com/watch?v=YO6rI36C3Ok) | — | — | [transcript](YO6rI36C3Ok/transcript.md) · [visuals](YO6rI36C3Ok/visuals.md) |
 | — | Riley Brown | [I Built an AI Thumbnail Generator with Cursor Without Coding!](https://www.youtube.com/watch?v=YPXPuK58o38) | — | — | [transcript](YPXPuK58o38/transcript.md) |
 | — | Vinh Giang | [How To Make A Strong First Impression (That Lasts)](https://www.youtube.com/watch?v=YPnbERnTCkI) | — | — | [transcript](YPnbERnTCkI/transcript.md) |
-| — | Tom Nash | [The Stock Market Apocalypse Just Started](https://www.youtube.com/watch?v=YQ1Ni2GUE_Q) | — | — | [transcript](YQ1Ni2GUE_Q/transcript.md) |
+| — | Tom Nash | [The Stock Market Apocalypse Just Started](https://www.youtube.com/watch?v=YQ1Ni2GUE_Q) | — | — | [transcript](YQ1Ni2GUE_Q/transcript.md) · [visuals](YQ1Ni2GUE_Q/visuals.md) |
 | — | New Money | [Are We Literally Staring at Another Dot Com Bubble?](https://www.youtube.com/watch?v=YQWgf7oEnIk) | — | — | [transcript](YQWgf7oEnIk/transcript.md) |
 | — | HealthyGamerGG | [Healthy Gamer at CLTX Gaming Esports Panel](https://www.youtube.com/watch?v=YRKyliOVZVI) | — | — | [transcript](YRKyliOVZVI/transcript.md) |
 | — | JulienHimself | [The #1 SOCIAL ANXIETY HACK: Become Socially Unstoppable](https://www.youtube.com/watch?v=YRWHYeHA_nw) | — | — | [transcript](YRWHYeHA_nw/transcript.md) |
@@ -4315,7 +4315,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 6: Equity Risk Premiums](https://www.youtube.com/watch?v=YRtgxu52n38) | — | — | [transcript](YRtgxu52n38/transcript.md) · [materials](YRtgxu52n38/materials/) |
 | — | HealthyGamerGG | [Why You Can't Get Them Out Of Your Head (Limerence)](https://www.youtube.com/watch?v=YRwb-eUrso4) | — | — | [transcript](YRwb-eUrso4/transcript.md) |
 | — | HealthyGamerGG | ["I watch your videos but nothing changes"](https://www.youtube.com/watch?v=YSO_SBfjChA) | — | — | [transcript](YSO_SBfjChA/transcript.md) |
-| — | Tom Nash | [Why Tesla Stock is going to hit $3,000 way sooner than most people think...](https://www.youtube.com/watch?v=YSjg9ppvsIs) | — | — | [transcript](YSjg9ppvsIs/transcript.md) |
+| — | Tom Nash | [Why Tesla Stock is going to hit $3,000 way sooner than most people think...](https://www.youtube.com/watch?v=YSjg9ppvsIs) | — | — | [transcript](YSjg9ppvsIs/transcript.md) · [visuals](YSjg9ppvsIs/visuals.md) |
 | — | Ben Yanes | [Is anterior pelvic tilt a scam?](https://www.youtube.com/watch?v=YTV5k6kiI8I) | — | — | [transcript](YTV5k6kiI8I/transcript.md) |
 | — | HealthyGamerGG | [Your Constant Daydreaming Can Be Hurting Your Mental Health](https://www.youtube.com/watch?v=YUSi9tzdNiE) | — | — | [transcript](YUSi9tzdNiE/transcript.md) |
 | — | Ben Yanes | [Learn The Shoulder In 8 Minutes](https://www.youtube.com/watch?v=YUxakcQ_AVA) | — | — | [transcript](YUxakcQ_AVA/transcript.md) |
@@ -4328,7 +4328,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Does My Therapist Have A Therapist?](https://www.youtube.com/watch?v=YZk_OncFYu0) | — | — | [transcript](YZk_OncFYu0/transcript.md) |
 | — | Greg Isenberg | [OpenAI DevDay: Dots, Agents & $100B Opportunities](https://www.youtube.com/watch?v=Y_RevX5yMq8) | — | — | [transcript](Y_RevX5yMq8/transcript.md) |
 | — | Aswath Damodaran | [Valuation Tools Webcast #5: Capitalizing R&D](https://www.youtube.com/watch?v=Y_UpzqNk3I4) | — | — | [transcript](Y_UpzqNk3I4/transcript.md) · [materials](Y_UpzqNk3I4/materials/) |
-| — | Tom Nash | [URGENT Warning About Tesla](https://www.youtube.com/watch?v=Y_hpp1PngkY) | — | — | [transcript](Y_hpp1PngkY/transcript.md) |
+| — | Tom Nash | [URGENT Warning About Tesla](https://www.youtube.com/watch?v=Y_hpp1PngkY) | — | — | [transcript](Y_hpp1PngkY/transcript.md) · [visuals](Y_hpp1PngkY/visuals.md) |
 | — | Aswath Damodaran | [Session 20: Private Company Valuation](https://www.youtube.com/watch?v=Y_xqFmOrP2Y) | — | — | [transcript](Y_xqFmOrP2Y/transcript.md) |
 | — | Ben Yanes | [Master Your Chest Pressing With 6 Tips](https://www.youtube.com/watch?v=Ya7-QdXmHJo) | — | — | [transcript](Ya7-QdXmHJo/transcript.md) |
 | — | JulienHimself | [Which Movie Character Are You? - Julien Blanc Tells The Truth About Self-Sabotage & Why You LOVE It!](https://www.youtube.com/watch?v=YaXl0W5Oe9c) | — | — | [transcript](YaXl0W5Oe9c/transcript.md) |
@@ -4351,16 +4351,16 @@ Each transcript link points to the full text under this folder.
 | — | New Money | [The Berkshire Hathaway Shareholder Meeting (From Then To Now)](https://www.youtube.com/watch?v=YkPlk-tx8cs) | — | — | [transcript](YkPlk-tx8cs/transcript.md) |
 | — | Ticker Symbol: YOU | [⚠️ PREPARE NOW: A HUGE Stock Market Crash Is Coming](https://www.youtube.com/watch?v=YkqGDVxQE8s) | — | — | [transcript](YkqGDVxQE8s/transcript.md) · [visuals](YkqGDVxQE8s/visuals.md) |
 | — | HealthyGamerGG | [How to Deal with Haters on Social Media \| Dr.K Interviews](https://www.youtube.com/watch?v=Ykzu99TXeNo) | — | — | [transcript](Ykzu99TXeNo/transcript.md) |
-| — | Tom Nash | [Why The Global Computer Chip Shortage Happened (And Why It Means Trouble)](https://www.youtube.com/watch?v=YlTd8kOPTio) | — | — | [transcript](YlTd8kOPTio/transcript.md) |
+| — | Tom Nash | [Why The Global Computer Chip Shortage Happened (And Why It Means Trouble)](https://www.youtube.com/watch?v=YlTd8kOPTio) | — | — | [transcript](YlTd8kOPTio/transcript.md) · [visuals](YlTd8kOPTio/visuals.md) |
 | — | Ben Yanes | [Lat Prayers - Good or Garbage?](https://www.youtube.com/watch?v=Ylt6gfEiARo) | — | — | [transcript](Ylt6gfEiARo/transcript.md) |
 | — | David Carbutt | [Peter Thiel - Palantir & Cyber Security Problem](https://www.youtube.com/watch?v=YmPfNKhfEgA) | — | — | [transcript](YmPfNKhfEgA/transcript.md) |
 | — | HealthyGamerGG | [Why Your Perfectionism Keeps You From Doing Anything](https://www.youtube.com/watch?v=Ynew5KSbAQQ) | — | — | [transcript](Ynew5KSbAQQ/transcript.md) |
-| — | Tom Nash | [Elon Musk Just Dropped a MASSIVE Bombshell About Tesla](https://www.youtube.com/watch?v=YoRyGQIWrOY) | — | — | [transcript](YoRyGQIWrOY/transcript.md) |
+| — | Tom Nash | [Elon Musk Just Dropped a MASSIVE Bombshell About Tesla](https://www.youtube.com/watch?v=YoRyGQIWrOY) | — | — | [transcript](YoRyGQIWrOY/transcript.md) · [visuals](YoRyGQIWrOY/visuals.md) |
 | — | Aswath Damodaran | [The Greatest Cash Machine in History: An Analysis of Apple (February 2017)](https://www.youtube.com/watch?v=YocmFq9fpV4) | — | — | [transcript](YocmFq9fpV4/transcript.md) · [materials](YocmFq9fpV4/materials/) |
 | — | Ben Yanes | [CBUM Leg Day Explained](https://www.youtube.com/watch?v=Yp-TU00OPMc) | — | — | [transcript](Yp-TU00OPMc/transcript.md) |
 | — | Aswath Damodaran | [Session 15: Investment Returns II - Getting to Time Weighted Cash Flows](https://www.youtube.com/watch?v=YrHfFS4u5WE) | — | — | [transcript](YrHfFS4u5WE/transcript.md) |
 | — | Aswath Damodaran | [What do VCs prize and price? Lessons from Peloton, Uber and WeWork IPOs](https://www.youtube.com/watch?v=YrOMbIARyPc) | — | — | [transcript](YrOMbIARyPc/transcript.md) · [materials](YrOMbIARyPc/materials/) |
-| — | Tom Nash | [Why The Stock Market Is Freaking Out About Cathie Wood and Elon Musk](https://www.youtube.com/watch?v=YsEbk1Xrp68) | — | — | [transcript](YsEbk1Xrp68/transcript.md) |
+| — | Tom Nash | [Why The Stock Market Is Freaking Out About Cathie Wood and Elon Musk](https://www.youtube.com/watch?v=YsEbk1Xrp68) | — | — | [transcript](YsEbk1Xrp68/transcript.md) · [visuals](YsEbk1Xrp68/visuals.md) |
 | — | Felix & Friends (Goat Academy) | [IT’S DONE: The New Banking Rule Starts on THIS Date (Most Aren’t Ready)](https://www.youtube.com/watch?v=Ysb7QBgRaQ4) | — | — | [transcript](Ysb7QBgRaQ4/transcript.md) |
 | — | Aswath Damodaran | [Session 8: Regression Betas and beyond!](https://www.youtube.com/watch?v=YsjrO2leLFI) | — | — | [transcript](YsjrO2leLFI/transcript.md) · [materials](YsjrO2leLFI/materials/) |
 | — | Greg Isenberg | [Making $2,800/day with AI Design Agents (Runway + Midjourney)](https://www.youtube.com/watch?v=Ysq7-eZuyUk) | — | — | [transcript](Ysq7-eZuyUk/transcript.md) |
@@ -4370,7 +4370,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [A Therapist's Guide to Therapy](https://www.youtube.com/watch?v=YuLfFqPFrkc) | — | — | [transcript](YuLfFqPFrkc/transcript.md) |
 | — | Greg Isenberg | [$30M Writer: Never write AI slop again](https://www.youtube.com/watch?v=YuOSyRj3sXg) | — | — | [transcript](YuOSyRj3sXg/transcript.md) |
 | — | Aswath Damodaran | [Session 23: Actual versus Potential Dividends and Cash/Trust Nexus](https://www.youtube.com/watch?v=YuV8QZyvWX4) | — | — | [transcript](YuV8QZyvWX4/transcript.md) · [materials](YuV8QZyvWX4/materials/) |
-| — | Tom Nash | [The Twitter Acquisition - Risk Arbitrage Analysis](https://www.youtube.com/watch?v=Yv8jgcR2Idg) | — | — | [transcript](Yv8jgcR2Idg/transcript.md) |
+| — | Tom Nash | [The Twitter Acquisition - Risk Arbitrage Analysis](https://www.youtube.com/watch?v=Yv8jgcR2Idg) | — | — | [transcript](Yv8jgcR2Idg/transcript.md) · [visuals](Yv8jgcR2Idg/visuals.md) |
 | — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD (& Why Cuba Is Next After Iran)](https://www.youtube.com/watch?v=Yvt7AWPqCRA) | — | — | [transcript](Yvt7AWPqCRA/transcript.md) |
 | — | Aswath Damodaran | [The Corporate Life Cycle: The Key Ideas](https://www.youtube.com/watch?v=YwLAdkHYvAc) | — | — | [transcript](YwLAdkHYvAc/transcript.md) |
 | — | BWB - Business With Brian | [5 Growth ETFs That Make Millionaires (2 Are NEW)](https://www.youtube.com/watch?v=YxZ5KVP0xC4) | — | — | [transcript](YxZ5KVP0xC4/transcript.md) · [visuals](YxZ5KVP0xC4/visuals.md) |
@@ -4395,7 +4395,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [How to Leverage Nostalgia and Win at Marketing with Danny Trinh](https://www.youtube.com/watch?v=Z6sTgoRqV2Q) | — | — | [transcript](Z6sTgoRqV2Q/transcript.md) |
 | — | Greg Isenberg | [The Co-Founder Of A $75M+ Company Gave Me His BEST Business Ideas](https://www.youtube.com/watch?v=Z6yt891IBhI) | — | — | [transcript](Z6yt891IBhI/transcript.md) |
 | — | David Carbutt | [Peter Thiel: Palantir OUTSMARTED the U.S. Government](https://www.youtube.com/watch?v=Z7c3KhWbbCs) | — | — | [transcript](Z7c3KhWbbCs/transcript.md) |
-| — | Tom Nash | [Every Palantir Myth (BUSTED in 11 minutes)](https://www.youtube.com/watch?v=Z83F4C7Zlxg) | — | — | [transcript](Z83F4C7Zlxg/transcript.md) |
+| — | Tom Nash | [Every Palantir Myth (BUSTED in 11 minutes)](https://www.youtube.com/watch?v=Z83F4C7Zlxg) | — | — | [transcript](Z83F4C7Zlxg/transcript.md) · [visuals](Z83F4C7Zlxg/visuals.md) |
 | — | Ben Yanes | [Stop Making This Rear Delt Mistake](https://www.youtube.com/watch?v=Z8z2a1euZGo) | — | — | [transcript](Z8z2a1euZGo/transcript.md) |
 | — | JulienHimself | [Quitting Smoking Is Easier Than You Think…](https://www.youtube.com/watch?v=Z94qrmzoVTo) | — | — | [transcript](Z94qrmzoVTo/transcript.md) |
 | — | David Carbutt | [Cramer on Palantir “Greatest Quarter I've Ever Witnessed"](https://www.youtube.com/watch?v=ZBLqwYrN3cw) | — | — | [transcript](ZBLqwYrN3cw/transcript.md) |
