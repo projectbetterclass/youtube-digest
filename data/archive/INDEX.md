@@ -5660,7 +5660,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [Goldman's Shocking Warning](https://www.youtube.com/watch?v=j6urjv19dBo) | — | — | [transcript](j6urjv19dBo/transcript.md) |
 | — | David Carbutt | [Alex Karp Reveals Palantir's SHOCKING Q1!](https://www.youtube.com/watch?v=j7l0YzTl9ow) | — | — | [transcript](j7l0YzTl9ow/transcript.md) |
 | — | Tom Nash | [Tesla CEO Elon Musk Getting Sued](https://www.youtube.com/watch?v=j7qKoK2O-Xo) | — | — | [transcript](j7qKoK2O-Xo/transcript.md) · [visuals](j7qKoK2O-Xo/visuals.md) |
-| — | Tom Nash | [Losing Money in The Stock Market? Try This](https://www.youtube.com/watch?v=j81GRO-CENE) | — | — | [transcript](j81GRO-CENE/transcript.md) |
+| — | Tom Nash | [Losing Money in The Stock Market? Try This](https://www.youtube.com/watch?v=j81GRO-CENE) | — | — | [transcript](j81GRO-CENE/transcript.md) · [visuals](j81GRO-CENE/visuals.md) |
 | — | Ben Yanes | [How To Squat: Quads VS Glutes](https://www.youtube.com/watch?v=j9NH3-o5XXk) | — | — | [transcript](j9NH3-o5XXk/transcript.md) |
 | — | Aswath Damodaran | [Valeant: Information Vacuums, Management Credibility and Investment Value](https://www.youtube.com/watch?v=jAhMqNhL5ho) | — | — | [transcript](jAhMqNhL5ho/transcript.md) · [materials](jAhMqNhL5ho/materials/) |
 | — | David Carbutt | [Something Has Changed With AMD](https://www.youtube.com/watch?v=jAxnASY_Clg) | — | — | [transcript](jAxnASY_Clg/transcript.md) |
@@ -5673,7 +5673,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [What EVERY Investor Needs to Do with Their Money ASAP (Why Trump Flipped!)](https://www.youtube.com/watch?v=jEqsFXGvPks) | — | — | [transcript](jEqsFXGvPks/transcript.md) |
 | — | JulienHimself | [This Stops 95% Of People Pleasers From Being Confident](https://www.youtube.com/watch?v=jFODiqmUR7w) | — | — | [transcript](jFODiqmUR7w/transcript.md) |
 | — | Ticker Symbol: YOU | [Top 10 Stocks to Get Rich in 2024 (Without Getting Lucky)](https://www.youtube.com/watch?v=jG0gBi7Ps4U) | — | — | [transcript](jG0gBi7Ps4U/transcript.md) · [visuals](jG0gBi7Ps4U/visuals.md) |
-| — | Tom Nash | [Palantir To $500](https://www.youtube.com/watch?v=jGiFTC69q4g) | — | — | [transcript](jGiFTC69q4g/transcript.md) |
+| — | Tom Nash | [Palantir To $500](https://www.youtube.com/watch?v=jGiFTC69q4g) | — | — | [transcript](jGiFTC69q4g/transcript.md) · [visuals](jGiFTC69q4g/visuals.md) |
 | — | Riley Brown | [OMG! I'm using AI to create a the app I always wanted :)](https://www.youtube.com/watch?v=jGq2aNQwokY) | — | — | [transcript](jGq2aNQwokY/transcript.md) |
 | — | David Carbutt | [Alex Karp: We Will Revolutionise Airlines](https://www.youtube.com/watch?v=jH5sY06JfcU) | — | — | [transcript](jH5sY06JfcU/transcript.md) |
 | — | Aswath Damodaran | [Quiz 1 Review](https://www.youtube.com/watch?v=jH8L7cW6Yns) | — | — | [transcript](jH8L7cW6Yns/transcript.md) · [materials](jH8L7cW6Yns/materials/) |
