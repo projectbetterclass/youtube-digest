@@ -4691,7 +4691,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [SEX ED For Gamers](https://www.youtube.com/watch?v=azz4dzlccbg) | — | — | [transcript](azz4dzlccbg/transcript.md) |
 | — | Tom Nash | [Tesla and Elon Just Did The Unthinkable [This Changes Everything]](https://www.youtube.com/watch?v=b-1G9p1VGD4) | — | — | [transcript](b-1G9p1VGD4/transcript.md) · [visuals](b-1G9p1VGD4/visuals.md) |
 | — | David Carbutt | [Dan Ives Leaves Host SPEECHLESS on Tesla & Palantir](https://www.youtube.com/watch?v=b-EYIaa7rQc) | — | — | [transcript](b-EYIaa7rQc/transcript.md) |
-| — | Tom Nash | [URGENT: Major Warning for Stocks](https://www.youtube.com/watch?v=b0FYb-YMwG0) | — | — | [transcript](b0FYb-YMwG0/transcript.md) |
+| — | Tom Nash | [URGENT: Major Warning for Stocks](https://www.youtube.com/watch?v=b0FYb-YMwG0) | — | — | [transcript](b0FYb-YMwG0/transcript.md) · [visuals](b0FYb-YMwG0/visuals.md) |
 | — | Ben Yanes | [Why I Don't Count Reps (as a coach)](https://www.youtube.com/watch?v=b0amiYP71pU) | — | — | [transcript](b0amiYP71pU/transcript.md) |
 | — | David Carbutt | [Alex Karp Drops a Massive Warning](https://www.youtube.com/watch?v=b0s2gAAugHo) | — | — | [transcript](b0s2gAAugHo/transcript.md) |
 | — | Justin Sung | [Why NOTES kill good studying \| Study Clinic](https://www.youtube.com/watch?v=b12lnLc75to) | — | — | [transcript](b12lnLc75to/transcript.md) |
@@ -4749,7 +4749,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [Why NOBODY Respects You... (And It Shows)](https://www.youtube.com/watch?v=bXEXOdEyxFc) | — | — | [transcript](bXEXOdEyxFc/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [⚠️First Republic Bank Collapse Explained](https://www.youtube.com/watch?v=bXuT1OJAbeA) | — | — | [transcript](bXuT1OJAbeA/transcript.md) |
 | — | Tom Nash | [Did Palantir Just Become The World's Most Important Software Company?](https://www.youtube.com/watch?v=bY8dtykwDZ8) | — | — | [transcript](bY8dtykwDZ8/transcript.md) · [visuals](bY8dtykwDZ8/visuals.md) |
-| — | Tom Nash | [It's OVER \| Selling ALL My Stocks](https://www.youtube.com/watch?v=bZ6ss8T80TU) | — | — | [transcript](bZ6ss8T80TU/transcript.md) |
+| — | Tom Nash | [It's OVER \| Selling ALL My Stocks](https://www.youtube.com/watch?v=bZ6ss8T80TU) | — | — | [transcript](bZ6ss8T80TU/transcript.md) · [visuals](bZ6ss8T80TU/visuals.md) |
 | — | HealthyGamerGG | [Un-take the Black Pill](https://www.youtube.com/watch?v=bZLw4DGtTbA) | — | — | [transcript](bZLw4DGtTbA/transcript.md) |
 | — | David Carbutt | [Elon Musk’s About to Do Something HUGE!](https://www.youtube.com/watch?v=bZn87GmwYuw) | — | — | [transcript](bZn87GmwYuw/transcript.md) |
 | — | David Carbutt | [Will a Recession Hurt Palantir?](https://www.youtube.com/watch?v=b_Ei3Hki4mI) | — | — | [transcript](b_Ei3Hki4mI/transcript.md) |
@@ -4788,7 +4788,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [How To ALWAYS Stay Motivated](https://www.youtube.com/watch?v=bmvBTDPzzaY) | — | — | [transcript](bmvBTDPzzaY/transcript.md) |
 | — | HealthyGamerGG | [Reviewing Amouranth's WORST Unban Requests](https://www.youtube.com/watch?v=bngPWkMf_xQ) | — | — | [transcript](bngPWkMf_xQ/transcript.md) |
 | — | HealthyGamerGG | [How to Control Your Impulses](https://www.youtube.com/watch?v=bniu1U6wvR8) | — | — | [transcript](bniu1U6wvR8/transcript.md) |
-| — | Tom Nash | [I did a Tesla DCF (and the results blew me away!)](https://www.youtube.com/watch?v=bnrBuW_JqFY) | — | — | [transcript](bnrBuW_JqFY/transcript.md) |
+| — | Tom Nash | [I did a Tesla DCF (and the results blew me away!)](https://www.youtube.com/watch?v=bnrBuW_JqFY) | — | — | [transcript](bnrBuW_JqFY/transcript.md) · [visuals](bnrBuW_JqFY/visuals.md) |
 | — | David Carbutt | [Alex Karp on AWS & IBM Partnerships](https://www.youtube.com/watch?v=bo-OXHLrXFE) | — | — | [transcript](bo-OXHLrXFE/transcript.md) |
 | — | Tom Nash | [The Tesla and Palantir Collapse Has Apparently Just Started](https://www.youtube.com/watch?v=bo134v1x16U) | — | — | [transcript](bo134v1x16U/transcript.md) |
 | — | HealthyGamerGG | [This is why I need a team...](https://www.youtube.com/watch?v=boCT4IbZPpQ) | — | — | [transcript](boCT4IbZPpQ/transcript.md) |
