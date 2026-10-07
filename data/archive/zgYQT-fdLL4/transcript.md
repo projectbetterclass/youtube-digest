@@ -1,0 +1,5 @@
+# My biggest announcement ever…
+
+<https://www.youtube.com/watch?v=zgYQT-fdLL4>
+
+Ah, want to hear something insane? I'm launching my next book, $100 million Money Models. And it'll show you how to get more customers to spend more money with you in less time over and over again. And this isn't a small deal. It's a huge deal. And the event is August 16th and you can register absolutely free. And last time we did this, we had hundreds of thousands of people there live and we nearly broke the internet. For those of you who are curious what my next book is, it's already done. This launch is going to be even bigger. I'm spending millions of dollars on the launch itself and you can register for free and you can also pre-order a copy and get four amazing bonuses. And I'm going to give away one secret thing that I can't tell you what it is yet. What I can tell you is that it's more than an NFT. It's less than a Bitcoin, but you got to be there live. It's August 16th. Register for free and I'll see you there.
