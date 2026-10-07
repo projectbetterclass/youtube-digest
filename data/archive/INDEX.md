@@ -7142,7 +7142,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [Why Did The Best Bodybuilder Ever Train His Back Like This?](https://www.youtube.com/watch?v=vtNa4RE4HoQ) | — | — | [transcript](vtNa4RE4HoQ/transcript.md) |
 | — | Ticker Symbol: YOU | [Michael Burry on the Stock Market Crash - 2023 Deep Recession](https://www.youtube.com/watch?v=vtVNn-6aNbQ) | — | — | [transcript](vtVNn-6aNbQ/transcript.md) · [visuals](vtVNn-6aNbQ/visuals.md) |
 | — | New Money | [Look Inside Warren Buffett’s Latest Stock Moves!](https://www.youtube.com/watch?v=vu7nCb5AP_k) | — | — | [transcript](vu7nCb5AP_k/transcript.md) |
-| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This HUGE AI Chip Breakthrough](https://www.youtube.com/watch?v=vueJvHOXLJg) | — | — | [transcript](vueJvHOXLJg/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This HUGE AI Chip Breakthrough](https://www.youtube.com/watch?v=vueJvHOXLJg) | — | — | [transcript](vueJvHOXLJg/transcript.md) · [visuals](vueJvHOXLJg/visuals.md) |
 | — | Aswath Damodaran | [Session 22: Dividends - Measures and Drivers](https://www.youtube.com/watch?v=vuj6jLcrvOg) | — | — | [transcript](vuj6jLcrvOg/transcript.md) · [materials](vuj6jLcrvOg/materials/) |
 | — | HealthyGamerGG | [Let's Talk About Bipolar Disorder (What Happens When You Go Off Medication)](https://www.youtube.com/watch?v=vunPCeoynXk) | — | — | [transcript](vunPCeoynXk/transcript.md) |
 | — | HealthyGamerGG | ["I was told women don't like sensitive men..." \| Toxic Masculinity Interview](https://www.youtube.com/watch?v=vw-RHJ4rHhw) | — | — | [transcript](vw-RHJ4rHhw/transcript.md) |
