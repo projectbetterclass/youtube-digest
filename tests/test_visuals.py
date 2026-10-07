@@ -263,3 +263,41 @@ def test_capture_only_parallel_workers_handle_every_video(tmp_path, monkeypatch)
     done, failed = V.run_capture_only(None, _channels(), {"visuals": {}}, lib, budget=100, workers=4)
     assert (done, failed) == (8, 1)
     assert all(V.has_stored_frames(f"v{i:02d}") for i in range(9))  # the failure is noted too
+
+
+BOT = "ERROR: [youtube] abc: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser"
+
+
+def test_capture_only_stops_on_bot_check_without_marking(tmp_path, monkeypatch):
+    monkeypatch.setattr(C, "FRAMES_DIR", tmp_path)
+    lib = {"videos": {f"v{i:02d}": {"channel_id": "CID_ON", "channel": "On", "title": f"T{i}",
+                                     "url": f"u{i}", "published": f"2026-01-{i + 1:02d}"} for i in range(6)}}
+    attempts = []
+
+    def fake_capture(video, settings):
+        attempts.append(video.video_id)
+        if len(attempts) >= 2:  # newest first: v05 succeeds, then YouTube starts the bot check
+            raise RuntimeError(BOT)
+        V.save_frames(video.video_id, [])
+        return 0
+
+    monkeypatch.setattr(V, "capture_frames", fake_capture)
+    assert V.run_capture_only(None, _channels(), {"visuals": {}}, lib, budget=100) == (1, 0)
+    assert attempts == ["v05", "v04"]                       # stopped at the first bot check
+    assert [v for v in lib["videos"] if V.has_stored_frames(v)] == ["v05"]  # nothing marked
+    assert V._is_transient_download_error(RuntimeError(BOT)) is False       # and not retried
+
+
+def test_reader_stops_on_bot_check_and_requeues_old_bot_failures(tmp_path, monkeypatch):
+    monkeypatch.setattr(C, "FRAMES_DIR", tmp_path)
+    V.save_frames("vidOLD", [], error=BOT)  # noted as failed by a capture run before this fix
+    state = {"visuals": {}}
+    assert V.run_visuals(None, _channels(), state, _lib(), client=object(), budget=10, stored_only=True) == 0
+    assert state["visuals"] == {} and not V.has_stored_frames("vidOLD")  # back in the capture queue
+
+    def bot(video, settings, client):  # a live download hitting the check stops the run
+        raise RuntimeError(BOT)
+
+    monkeypatch.setattr(V, "process_video_visuals", bot)
+    assert V.run_visuals(None, _channels(), state, _lib(), client=object(), budget=10) == 0
+    assert state["visuals"] == {}

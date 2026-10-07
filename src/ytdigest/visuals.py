@@ -200,6 +200,14 @@ def _download_video(video_id: str, dest_dir: str, settings: Settings) -> str:
     raise AssertionError("unreachable")
 
 
+def _is_bot_check(exc: Exception) -> bool:
+    """YouTube's "Sign in to confirm you're not a bot": the whole PC is being rate-limited,
+    not this one video. Retrying, or moving on to the next video, only digs the hole deeper
+    (each attempt fails in a second and would be marked as a dead video), so callers stop
+    the run without marking anything; it clears by itself after a few hours."""
+    return "not a bot" in str(exc).lower()
+
+
 def _is_transient_download_error(exc: Exception) -> bool:
     """403 / 429 / 5xx / timeouts / connection resets: worth another try. A private,
     removed or members-only video is not."""
@@ -419,6 +427,13 @@ def save_frames(video_id: str, frames: list[tuple[float, object, float]], error:
     return d
 
 
+def clear_frames(video_id: str) -> None:
+    """Forget a capture-only result so the next capture run tries the video again."""
+    import shutil
+
+    shutil.rmtree(_frames_dir(video_id), ignore_errors=True)
+
+
 def load_frames(video_id: str) -> tuple[list[tuple[float, object, float]], str]:
     """(frames, error) from a capture-only run. frames is [] when none were kept."""
     d = _frames_dir(video_id)
@@ -531,9 +546,12 @@ def run_capture_only(
     Same pending pool and order as run_visuals, minus videos already captured. Needs no
     API key and never touches the visuals ledger — the reader marks videos done later.
     A failed download (after retries) is noted in the manifest so it isn't retried every
-    run. `workers` > 1 downloads several videos at once: YouTube caps each stream at a few
-    MB/s, so parallel streams are what make capture faster (frame analysis is cheap).
+    run -- except YouTube's "confirm you're not a bot" check, which stops the whole run and
+    notes nothing, so those videos are simply captured by a later run. `workers` > 1
+    downloads several videos at once: YouTube caps each stream at a few MB/s, so parallel
+    streams are what make capture faster (frame analysis is cheap).
     """
+    import threading
     from concurrent.futures import ThreadPoolExecutor
 
     pool = select_pending(channels, state, library, budget=10**9, channel_filter=channel_filter)
@@ -542,10 +560,21 @@ def run_capture_only(
         log.info("Nothing left to capture.")
         return 0, 0
 
-    def one(video: Video) -> bool:
+    bot_check = threading.Event()
+
+    def one(video: Video) -> Optional[bool]:  # None = not attempted (run stopped)
+        if bot_check.is_set():
+            return None
         try:
             n = capture_frames(video, settings)
         except Exception as exc:  # noqa: BLE001 — one bad video shouldn't stop the batch
+            if _is_bot_check(exc):
+                if not bot_check.is_set():
+                    bot_check.set()
+                    log.warning("YouTube is asking this PC to confirm it's not a bot -- stopping "
+                                "the capture, nothing marked. Wait a few hours, then re-run "
+                                "(with fewer --workers).")
+                return None
             log.warning("Capture failed for %s (%s): %s", video.title, video.video_id, exc)
             save_frames(video.video_id, [], error=str(exc)[:200])
             return False
@@ -554,8 +583,10 @@ def run_capture_only(
 
     with ThreadPoolExecutor(max_workers=max(1, workers)) as ex:
         results = list(ex.map(one, pending))
-    done = sum(results)
-    return done, len(results) - done
+    if bot_check.is_set():
+        log.warning("Stopped on the bot check: %d video(s) left for the next run.",
+                    sum(1 for r in results if r is None))
+    return sum(1 for r in results if r), sum(1 for r in results if r is False)
 
 
 def _is_out_of_credit(exc: Exception) -> bool:
@@ -600,6 +631,16 @@ def run_visuals(
         except Exception as exc:  # noqa: BLE001 — one bad video shouldn't stop the batch
             if _is_out_of_credit(exc):
                 log.warning("Anthropic credit balance is too low — stopping; top up and re-run.")
+                break
+            if _is_bot_check(exc):
+                if "capture failed earlier" in str(exc):
+                    # noted by a capture run from before the bot check stopped runs: re-queue
+                    clear_frames(video.video_id)
+                    log.info("%s: earlier capture hit YouTube's bot check — re-queued for capture",
+                             video.video_id)
+                    continue
+                log.warning("YouTube is asking this PC to confirm it's not a bot — stopping, "
+                            "nothing marked; re-run in a few hours.")
                 break
             log.warning("Visual capture failed for %s (%s): %s", video.title, video.video_id, exc)
             mark_visual_done(state, video.video_id, slides=0, error=str(exc)[:200])
