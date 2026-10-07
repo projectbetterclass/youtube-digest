@@ -7180,7 +7180,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [The Irony Of Selfishness: Once You Let Go Of What You Prize The Most, It Becomes Be Yours...](https://www.youtube.com/watch?v=wBoKdrwI6JQ) | — | — | [transcript](wBoKdrwI6JQ/transcript.md) |
 | — | David Carbutt | [Tech CEO Leaves Audience Speechless](https://www.youtube.com/watch?v=wC6jQLoDW4Y) | — | — | [transcript](wC6jQLoDW4Y/transcript.md) |
 | — | Justin Sung | [How to Turn PASSIVE Learning Into ACTIVE Learning (and Reduce Drowsiness)](https://www.youtube.com/watch?v=wC8oZGzInJk) | — | — | [transcript](wC8oZGzInJk/transcript.md) |
-| — | Ticker Symbol: YOU | [The Next 26 Days Will Make Millionaires in 2025 (Here's How)](https://www.youtube.com/watch?v=wCF5jO28H0c) | — | — | [transcript](wCF5jO28H0c/transcript.md) |
+| — | Ticker Symbol: YOU | [The Next 26 Days Will Make Millionaires in 2025 (Here's How)](https://www.youtube.com/watch?v=wCF5jO28H0c) | — | — | [transcript](wCF5jO28H0c/transcript.md) · [visuals](wCF5jO28H0c/visuals.md) |
 | — | BWB - Business With Brian | [Most Investors Are Missing The "AI Engine" (Full Stack Breakdown)](https://www.youtube.com/watch?v=wCiGXI2fmzM) | — | — | [transcript](wCiGXI2fmzM/transcript.md) · [visuals](wCiGXI2fmzM/visuals.md) |
 | — | New Money | [7 Steps to Unf*** Your Finances](https://www.youtube.com/watch?v=wDzSXwfW4Ps) | — | — | [transcript](wDzSXwfW4Ps/transcript.md) |
 | — | HealthyGamerGG | [Basic Survival is So Exhausting](https://www.youtube.com/watch?v=wEPZPRhNGGw) | — | — | [transcript](wEPZPRhNGGw/transcript.md) |
