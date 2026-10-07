@@ -5812,7 +5812,7 @@ Each transcript link points to the full text under this folder.
 | — | Riley Brown | [Build a FULL Web App With Claude With 2 SCREENSHOTS!](https://www.youtube.com/watch?v=kXnW4Hy4Z7o) | — | — | [transcript](kXnW4Hy4Z7o/transcript.md) |
 | — | David Carbutt | [Palantir Partners With Oculus Founder](https://www.youtube.com/watch?v=kY3k9uYw-Oc) | — | — | [transcript](kY3k9uYw-Oc/transcript.md) |
 | — | JulienHimself | [TOP SOCIAL ANXIETY HACKS: Become Socially Unstoppable](https://www.youtube.com/watch?v=kY5_sPQYKTo) | — | — | [transcript](kY5_sPQYKTo/transcript.md) |
-| — | Tom Nash | [I Found The Next Palantir Setup In AI](https://www.youtube.com/watch?v=kYMsO1UahAI) | — | — | [transcript](kYMsO1UahAI/transcript.md) |
+| — | Tom Nash | [I Found The Next Palantir Setup In AI](https://www.youtube.com/watch?v=kYMsO1UahAI) | — | — | [transcript](kYMsO1UahAI/transcript.md) · [visuals](kYMsO1UahAI/visuals.md) |
 | — | David Carbutt | [Alex Karp Just Said the Unthinkable](https://www.youtube.com/watch?v=kYh_RX_rB0o) | — | — | [transcript](kYh_RX_rB0o/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Trump to FLOOD the Market on THIS Date (Most Aren’t Ready)](https://www.youtube.com/watch?v=kZhSH5JT3Xs) | — | — | [transcript](kZhSH5JT3Xs/transcript.md) |
 | — | Aswath Damodaran | [Excess Return (EVA) Data: Guide to Spreadsheet](https://www.youtube.com/watch?v=kZzwtlIAx4U) | — | — | [transcript](kZzwtlIAx4U/transcript.md) · [materials](kZzwtlIAx4U/materials/) |
@@ -5825,12 +5825,12 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [A Once in a Lifetime Financial Event Is Starting](https://www.youtube.com/watch?v=ke859Dle_7M) | — | — | [transcript](ke859Dle_7M/transcript.md) · [visuals](ke859Dle_7M/visuals.md) |
 | — | HealthyGamerGG | [Dr. K and Mrs. K Relationship Advice Stream](https://www.youtube.com/watch?v=keJPw9iX1kw) | — | — | [transcript](keJPw9iX1kw/transcript.md) |
 | — | Aswath Damodaran | [Session 2: The End Game for a Business!](https://www.youtube.com/watch?v=kevJxT20xL8) | — | — | [transcript](kevJxT20xL8/transcript.md) · [materials](kevJxT20xL8/materials/) |
-| — | Tom Nash | [TOM LEE REVEALS HIS NEW TOP 5 STOCKS FOR 2025](https://www.youtube.com/watch?v=kfiIOxAWw7o) | — | — | [transcript](kfiIOxAWw7o/transcript.md) |
+| — | Tom Nash | [TOM LEE REVEALS HIS NEW TOP 5 STOCKS FOR 2025](https://www.youtube.com/watch?v=kfiIOxAWw7o) | — | — | [transcript](kfiIOxAWw7o/transcript.md) · [visuals](kfiIOxAWw7o/visuals.md) |
 | — | JulienHimself | [You’re Not In Love... You’re Just Afraid To Be Alone](https://www.youtube.com/watch?v=kfitv8sZOLM) | — | — | [transcript](kfitv8sZOLM/transcript.md) |
 | — | HealthyGamerGG | [Dr.K's Best Tip for Better Communication](https://www.youtube.com/watch?v=kfqhwlOM8B0) | — | — | [transcript](kfqhwlOM8B0/transcript.md) |
 | — | David Carbutt | [Palantir Partnering With Korean Government?](https://www.youtube.com/watch?v=kh_jFPD7ois) | — | — | [transcript](kh_jFPD7ois/transcript.md) |
-| — | Tom Nash | [The survival of Tesla depends on Ross Gerber (according to Ross Gerber)](https://www.youtube.com/watch?v=ki481cr_-_Y) | — | — | [transcript](ki481cr_-_Y/transcript.md) |
-| — | Tom Nash | [Palantir Q2 Earnings Recap](https://www.youtube.com/watch?v=kihRSYIljSQ) | — | — | [transcript](kihRSYIljSQ/transcript.md) |
+| — | Tom Nash | [The survival of Tesla depends on Ross Gerber (according to Ross Gerber)](https://www.youtube.com/watch?v=ki481cr_-_Y) | — | — | [transcript](ki481cr_-_Y/transcript.md) · [visuals](ki481cr_-_Y/visuals.md) |
+| — | Tom Nash | [Palantir Q2 Earnings Recap](https://www.youtube.com/watch?v=kihRSYIljSQ) | — | — | [transcript](kihRSYIljSQ/transcript.md) · [visuals](kihRSYIljSQ/visuals.md) |
 | — | Aswath Damodaran | [Session 4: Alternatives to Shareholder Value Maximization](https://www.youtube.com/watch?v=kl4-q8eIsGw) | — | — | [transcript](kl4-q8eIsGw/transcript.md) · [materials](kl4-q8eIsGw/materials/) |
 | — | New Money | [Is FIRE actually achievable? Can you retire early? (Financial Independence Retire Early)](https://www.youtube.com/watch?v=klVGlU4-VmQ) | — | — | [transcript](klVGlU4-VmQ/transcript.md) |
 | — | JulienHimself | ["NO GOING BACK!" - The Key To Stop Procrastinating (How To Stop Being Lazy & How To Be Productive)](https://www.youtube.com/watch?v=klYhQ_BUujE) | — | — | [transcript](klYhQ_BUujE/transcript.md) |
@@ -5889,7 +5889,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [If I Had LOW SELF ESTEEM, I'd Do This First...](https://www.youtube.com/watch?v=lCBAgqBC3xY) | — | — | [transcript](lCBAgqBC3xY/transcript.md) |
 | — | Ben Yanes | [The CORRECT Way to Dumbbell Curl \| Biceps Training](https://www.youtube.com/watch?v=lD4iua4XoaQ) | — | — | [transcript](lD4iua4XoaQ/transcript.md) |
 | — | Greg Isenberg | [Bolt.new Tutorial for Beginners (the Cursor AI and V0 Killer)](https://www.youtube.com/watch?v=lDMhK8DamuE) | — | — | [transcript](lDMhK8DamuE/transcript.md) |
-| — | Tom Nash | [Why Tesla Will DESTROY Every Other Investment In 2023](https://www.youtube.com/watch?v=lDsjetTmiGI) | — | — | [transcript](lDsjetTmiGI/transcript.md) |
+| — | Tom Nash | [Why Tesla Will DESTROY Every Other Investment In 2023](https://www.youtube.com/watch?v=lDsjetTmiGI) | — | — | [transcript](lDsjetTmiGI/transcript.md) · [visuals](lDsjetTmiGI/visuals.md) |
 | — | HealthyGamerGG | [Talking with Kaceytron \| Dr. K Interviews](https://www.youtube.com/watch?v=lFAIbzPOK2o) | — | — | [transcript](lFAIbzPOK2o/transcript.md) |
 | — | Aswath Damodaran | [Data Update 2 for 2020: A Retrospective on a Disruptive Decade (2010-19)](https://www.youtube.com/watch?v=lFdUSXsoSC0) | — | — | [transcript](lFdUSXsoSC0/transcript.md) · [materials](lFdUSXsoSC0/materials/) |
 | — | Tom Nash | [The Stock Market Apocalypse Just Started [This is BAD]](https://www.youtube.com/watch?v=lG-3uv3LMuI) | — | — | [transcript](lG-3uv3LMuI/transcript.md) |
