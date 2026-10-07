@@ -7253,10 +7253,10 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [I Didn't Do Enough in College, How Do I Catch Up? \| Dr.K Interviews](https://www.youtube.com/watch?v=wllgjhJZLRo) | — | — | [transcript](wllgjhJZLRo/transcript.md) |
 | — | Ben Yanes | [Grow Your Brachialis \| Learn Biomechanics](https://www.youtube.com/watch?v=wmt-mh2SwlY) | — | — | [transcript](wmt-mh2SwlY/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying AMD Over Nvidia Stock in 2024 (Here's Why)](https://www.youtube.com/watch?v=wnCQ4ICBIfc) | — | — | [transcript](wnCQ4ICBIfc/transcript.md) · [visuals](wnCQ4ICBIfc/visuals.md) |
-| — | Ticker Symbol: YOU | [E10: TESLA IN TROUBLE? Top 5 AI Stocks to Buy After Earnings](https://www.youtube.com/watch?v=wo-hXjzalIo) | — | — | [transcript](wo-hXjzalIo/transcript.md) |
+| — | Ticker Symbol: YOU | [E10: TESLA IN TROUBLE? Top 5 AI Stocks to Buy After Earnings](https://www.youtube.com/watch?v=wo-hXjzalIo) | — | — | [transcript](wo-hXjzalIo/transcript.md) · [visuals](wo-hXjzalIo/visuals.md) |
 | — | David Carbutt | [Alex Karp: Fighting With Peter Thiel for 30 Years!](https://www.youtube.com/watch?v=wo_7tN7Vc70) | — | — | [transcript](wo_7tN7Vc70/transcript.md) |
 | — | David Carbutt | [Elon Musk’s About to 100X AI](https://www.youtube.com/watch?v=wolBlNz2tnw) | — | — | [transcript](wolBlNz2tnw/transcript.md) |
-| — | Ticker Symbol: YOU | [GET IN EARLY! My Top 4 Investments Before Trump's Next Tariffs](https://www.youtube.com/watch?v=wplwN9q3GGI) | — | — | [transcript](wplwN9q3GGI/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! My Top 4 Investments Before Trump's Next Tariffs](https://www.youtube.com/watch?v=wplwN9q3GGI) | — | — | [transcript](wplwN9q3GGI/transcript.md) · [visuals](wplwN9q3GGI/visuals.md) |
 | — | Starter Story | [He's Launching A New $1M Business Every Month](https://www.youtube.com/watch?v=wqN-gjnpns8) | — | — | [transcript](wqN-gjnpns8/transcript.md) |
 | — | Ben Yanes | [Modern Meathead Experience #43 - Dr. Jeremy Dinkin: All Things Chiropractic](https://www.youtube.com/watch?v=wr47PlAsTwU) | — | — | [transcript](wr47PlAsTwU/transcript.md) |
 | — | Ben Yanes | [Leg Extensions Are The WORST Quad Exercise? \| Modern Meathead Experience #66](https://www.youtube.com/watch?v=wrm8RTmubEg) | — | — | [transcript](wrm8RTmubEg/transcript.md) |
@@ -7298,7 +7298,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [A Harvard Psychiatrist Explores Among Us](https://www.youtube.com/watch?v=xAgrVgw2S-c) | — | — | [transcript](xAgrVgw2S-c/transcript.md) |
 | — | New Money | [Charlie Munger Warns of High Inflation Consequences](https://www.youtube.com/watch?v=xAoBXI0VPcA) | — | — | [transcript](xAoBXI0VPcA/transcript.md) |
 | — | David Carbutt | [Why Palantir Keeps Changing the World](https://www.youtube.com/watch?v=xBWmfrHtLfs) | — | — | [transcript](xBWmfrHtLfs/transcript.md) |
-| — | Ticker Symbol: YOU | [What China's New AI Model DeepSeek Means For Nvidia (NVDA) & AMD Stocks](https://www.youtube.com/watch?v=xCA3Ng9CDvs) | — | — | [transcript](xCA3Ng9CDvs/transcript.md) |
+| — | Ticker Symbol: YOU | [What China's New AI Model DeepSeek Means For Nvidia (NVDA) & AMD Stocks](https://www.youtube.com/watch?v=xCA3Ng9CDvs) | — | — | [transcript](xCA3Ng9CDvs/transcript.md) · [visuals](xCA3Ng9CDvs/visuals.md) |
 | — | Ben Yanes | [Modern Meathead Experience #3 - 'Rehab' Training, Range of Motion Norms, Cuing & More](https://www.youtube.com/watch?v=xChBGrWL_kc) | — | — | [transcript](xChBGrWL_kc/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Banks *Just* Warned Big Clients](https://www.youtube.com/watch?v=xCyqmQL24Ew) | — | — | [transcript](xCyqmQL24Ew/transcript.md) |
 | — | Riley Brown | [How I’m Coding in 2026 (The Super-App Strategy)](https://www.youtube.com/watch?v=xDARu4U8_X0) | — | — | [transcript](xDARu4U8_X0/transcript.md) |
@@ -7306,7 +7306,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [Japan Just Triggered the Biggest Unwind in Financial History - GET READY NOW!](https://www.youtube.com/watch?v=xF080ud8Gyk) | — | — | [transcript](xF080ud8Gyk/transcript.md) |
 | — | Aswath Damodaran | [Brexit: The Signals amidst the Noise](https://www.youtube.com/watch?v=xFRzdGrK6GM) | — | — | [transcript](xFRzdGrK6GM/transcript.md) · [materials](xFRzdGrK6GM/materials/) |
 | — | HealthyGamerGG | [Why You Expect Everyone to Betray You](https://www.youtube.com/watch?v=xFxl8V8TFeA) | — | — | [transcript](xFxl8V8TFeA/transcript.md) |
-| — | Ticker Symbol: YOU | [GET IN EARLY! Top 3 AI Stocks I'm Buying Before Nvidia GTC](https://www.youtube.com/watch?v=xGytjbBLnWA) | — | — | [transcript](xGytjbBLnWA/transcript.md) |
+| — | Ticker Symbol: YOU | [GET IN EARLY! Top 3 AI Stocks I'm Buying Before Nvidia GTC](https://www.youtube.com/watch?v=xGytjbBLnWA) | — | — | [transcript](xGytjbBLnWA/transcript.md) · [visuals](xGytjbBLnWA/visuals.md) |
 | — | Tom Nash | [The UNTHINKABLE is About to Happen to SpaceX Stock](https://www.youtube.com/watch?v=xH8FM8oepkM) | — | — | [transcript](xH8FM8oepkM/transcript.md) |
 | — | HealthyGamerGG | [Why You Should NEVER Confess Your Love](https://www.youtube.com/watch?v=xHkcIRZa6lo) | — | — | [transcript](xHkcIRZa6lo/transcript.md) |
 | — | HealthyGamerGG | [Why We Shouldn't Leave Incels Behind](https://www.youtube.com/watch?v=xHmDJyVT3g0) | — | — | [transcript](xHmDJyVT3g0/transcript.md) |
@@ -7329,7 +7329,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Overcoming Guilt & Inceldom \| Dr. K Interviews](https://www.youtube.com/watch?v=xOVEkogq5QQ) | — | — | [transcript](xOVEkogq5QQ/transcript.md) |
 | — | Riley Brown | [Gemini 1.5 is Way More Powerful Than You Think](https://www.youtube.com/watch?v=xPQhZWE20vI) | — | — | [transcript](xPQhZWE20vI/transcript.md) |
 | — | Tom Nash | [The Federal Reserve Just F*cked The Entire Stock Market](https://www.youtube.com/watch?v=xQhAl2_2PqM) | — | — | [transcript](xQhAl2_2PqM/transcript.md) |
-| — | Ticker Symbol: YOU | [🧬 ARKG \| ARK Invest's MASSIVE Genomic Stock Trades (Q3 Finale)](https://www.youtube.com/watch?v=xR1REEo42G0) | — | — | [transcript](xR1REEo42G0/transcript.md) |
+| — | Ticker Symbol: YOU | [🧬 ARKG \| ARK Invest's MASSIVE Genomic Stock Trades (Q3 Finale)](https://www.youtube.com/watch?v=xR1REEo42G0) | — | — | [transcript](xR1REEo42G0/transcript.md) · [visuals](xR1REEo42G0/visuals.md) |
 | — | BWB - Business With Brian | [How to Buy T-Bills, Notes, & Bonds from Treasury Direct or Fidelity](https://www.youtube.com/watch?v=xRuRTanUUYE) | — | — | [transcript](xRuRTanUUYE/transcript.md) · [visuals](xRuRTanUUYE/visuals.md) |
 | — | HealthyGamerGG | [Thinkers vs. Do-ers: Why You Suck At Following Through](https://www.youtube.com/watch?v=xSBGYoS6z68) | — | — | [transcript](xSBGYoS6z68/transcript.md) |
 | — | Riley Brown | [I Used Cursor to Vibe Code a New Front End to Cursor](https://www.youtube.com/watch?v=xSbb3LZ9D_c) | — | — | [transcript](xSbb3LZ9D_c/transcript.md) |
