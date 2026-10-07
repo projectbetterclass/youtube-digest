@@ -6995,7 +6995,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [This Deal Changed Palantir Forever](https://www.youtube.com/watch?v=ucIkjQbg8bQ) | — | — | [transcript](ucIkjQbg8bQ/transcript.md) |
 | — | JulienHimself | [SOCIAL ANXIETY HACKS Everyone Should Know](https://www.youtube.com/watch?v=ucZ_4SzPQq0) | — | — | [transcript](ucZ_4SzPQq0/transcript.md) |
 | — | David Carbutt | [AI CEO Accidentally Reveals Why PLTR Is About To EXPLODE](https://www.youtube.com/watch?v=uce0rfPnvhw) | — | — | [transcript](uce0rfPnvhw/transcript.md) |
-| — | Ticker Symbol: YOU | [IT'S OVER! The Shocking Truth Behind Nvidia Partner Super Micro (SMCI Stock)](https://www.youtube.com/watch?v=ucfaq2HtR4w) | — | — | [transcript](ucfaq2HtR4w/transcript.md) |
+| — | Ticker Symbol: YOU | [IT'S OVER! The Shocking Truth Behind Nvidia Partner Super Micro (SMCI Stock)](https://www.youtube.com/watch?v=ucfaq2HtR4w) | — | — | [transcript](ucfaq2HtR4w/transcript.md) · [visuals](ucfaq2HtR4w/visuals.md) |
 | — | Greg Isenberg | [The Best Vibe Coding Tools in 2026](https://www.youtube.com/watch?v=ud0bv2J3xWY) | — | — | [transcript](ud0bv2J3xWY/transcript.md) |
 | — | New Money | [The Stock Market is Starting to Fail...](https://www.youtube.com/watch?v=ue054_ypazw) | — | — | [transcript](ue054_ypazw/transcript.md) |
 | — | Riley Brown | [The Rise of AI in Coding (Software Composer Podcast 0)](https://www.youtube.com/watch?v=ue3DYCOe-xw) | — | — | [transcript](ue3DYCOe-xw/transcript.md) |
@@ -7100,7 +7100,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Anduril’s Making The Biggest Bet in American Industry](https://www.youtube.com/watch?v=vVPcwIfT7Xw) | — | — | [transcript](vVPcwIfT7Xw/transcript.md) |
 | — | HealthyGamerGG | [The Medical Impacts of Overturning Roe v. Wade](https://www.youtube.com/watch?v=vVk7D4pwlfU) | — | — | [transcript](vVk7D4pwlfU/transcript.md) |
 | — | Ben Yanes | [Modern Meathead Experience #28 - Deloads](https://www.youtube.com/watch?v=vWVTzVsFJoQ) | — | — | [transcript](vWVTzVsFJoQ/transcript.md) |
-| — | Ticker Symbol: YOU | [Top 10 AI Stocks I'm Buying Now (Even Over Palantir Stock)](https://www.youtube.com/watch?v=vXpdMCcUZl4) | — | — | [transcript](vXpdMCcUZl4/transcript.md) |
+| — | Ticker Symbol: YOU | [Top 10 AI Stocks I'm Buying Now (Even Over Palantir Stock)](https://www.youtube.com/watch?v=vXpdMCcUZl4) | — | — | [transcript](vXpdMCcUZl4/transcript.md) · [visuals](vXpdMCcUZl4/visuals.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This UNSTOPPABLE AI Chip Company](https://www.youtube.com/watch?v=vYrMr2dAeao) | — | — | [transcript](vYrMr2dAeao/transcript.md) |
 | — | Greg Isenberg | [Bootstrapping An Eight-Figure Business \| Michael Martocci, SwagUp](https://www.youtube.com/watch?v=vZ4pCR_B9Lw) | — | — | [transcript](vZ4pCR_B9Lw/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Global Currency RESET Is Here - Here's How I'm Investing NOW](https://www.youtube.com/watch?v=vZQ6XJOC6no) | — | — | [transcript](vZQ6XJOC6no/transcript.md) |
@@ -7130,7 +7130,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Fear of Dying with Ethan Evans, VP Twitch Prime](https://www.youtube.com/watch?v=vhurfjC72Hk) | — | — | [transcript](vhurfjC72Hk/transcript.md) |
 | — | Riley Brown | [9 AI Agent Skills To Get Ahead of 99% of People](https://www.youtube.com/watch?v=vhyna9ur6Gc) | — | — | [transcript](vhyna9ur6Gc/transcript.md) |
 | — | Greg Isenberg | [Claude Fable 5 is BACK](https://www.youtube.com/watch?v=vjdHAWvVCP4) | — | — | [transcript](vjdHAWvVCP4/transcript.md) |
-| — | Ticker Symbol: YOU | [🔥 These ARK Invest Funds Are Ready to Explode (Q2 Finale)](https://www.youtube.com/watch?v=vk6qpPkg5tw) | — | — | [transcript](vk6qpPkg5tw/transcript.md) |
+| — | Ticker Symbol: YOU | [🔥 These ARK Invest Funds Are Ready to Explode (Q2 Finale)](https://www.youtube.com/watch?v=vk6qpPkg5tw) | — | — | [transcript](vk6qpPkg5tw/transcript.md) · [visuals](vk6qpPkg5tw/visuals.md) |
 | — | HealthyGamerGG | [Why You Feel Unlovable \| Viewer Interview](https://www.youtube.com/watch?v=voSPXSxBkZ8) | — | — | [transcript](voSPXSxBkZ8/transcript.md) |
 | — | HealthyGamerGG | [I'm in love with a streamer…](https://www.youtube.com/watch?v=vqhIx2nyFVM) | — | — | [transcript](vqhIx2nyFVM/transcript.md) |
 | — | HealthyGamerGG | [Nobody Cares How Stoic You Are (Anima/Animus)](https://www.youtube.com/watch?v=vr-EwLQCOIk) | — | — | [transcript](vr-EwLQCOIk/transcript.md) |
