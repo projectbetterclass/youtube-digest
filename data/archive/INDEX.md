@@ -5489,9 +5489,9 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [What Do Band Pull-Aparts Actually Do?](https://www.youtube.com/watch?v=hf036pPsjQQ) | — | — | [transcript](hf036pPsjQQ/transcript.md) |
 | — | Aswath Damodaran | [Session 10: Debt and its cost](https://www.youtube.com/watch?v=hfwYFncELWo) | — | — | [transcript](hfwYFncELWo/transcript.md) · [materials](hfwYFncELWo/materials/) |
 | — | Ticker Symbol: YOU | [Top 3 AI Stocks I'm Buying Now (Even Over NVIDIA Stock)](https://www.youtube.com/watch?v=hfzdMnuuGSg) | — | — | [transcript](hfzdMnuuGSg/transcript.md) · [visuals](hfzdMnuuGSg/visuals.md) |
-| — | Tom Nash | [This Is The Best Investing Opportunity This Decade (Don't Miss It)](https://www.youtube.com/watch?v=hg4Ody2ZJFI) | — | — | [transcript](hg4Ody2ZJFI/transcript.md) |
+| — | Tom Nash | [This Is The Best Investing Opportunity This Decade (Don't Miss It)](https://www.youtube.com/watch?v=hg4Ody2ZJFI) | — | — | [transcript](hg4Ody2ZJFI/transcript.md) · [visuals](hg4Ody2ZJFI/visuals.md) |
 | — | Aswath Damodaran | [The Violent Earnings Season: Price and Value Perspectives](https://www.youtube.com/watch?v=hgNPhzyt9GY) | — | — | [transcript](hgNPhzyt9GY/transcript.md) · [materials](hgNPhzyt9GY/materials/) |
-| — | Tom Nash | [The REAL Reason Palantir Stock is Crashing...](https://www.youtube.com/watch?v=hgcFuk4FiJw) | — | — | [transcript](hgcFuk4FiJw/transcript.md) |
+| — | Tom Nash | [The REAL Reason Palantir Stock is Crashing...](https://www.youtube.com/watch?v=hgcFuk4FiJw) | — | — | [transcript](hgcFuk4FiJw/transcript.md) · [visuals](hgcFuk4FiJw/visuals.md) |
 | — | HealthyGamerGG | [How Being Smart Makes You Lonely](https://www.youtube.com/watch?v=hgwg_c6sNKg) | — | — | [transcript](hgwg_c6sNKg/transcript.md) |
 | — | David Carbutt | [Alex Karp: Refused Contracts to Prevent Minority Torturing](https://www.youtube.com/watch?v=hh-2MfTw9aM) | — | — | [transcript](hh-2MfTw9aM/transcript.md) |
 | — | Tom Nash | [IMPORTANT WARNING TO ALL INVESTORS](https://www.youtube.com/watch?v=hh9h1qqV63o) | — | — | [transcript](hh9h1qqV63o/transcript.md) |
