@@ -7168,7 +7168,7 @@ Each transcript link points to the full text under this folder.
 | — | Starter Story | [This Insanely Simple App Makes $50K/Month](https://www.youtube.com/watch?v=uvIcGuN2iO8) | — | — | [transcript](uvIcGuN2iO8/transcript.md) |
 | — | JulienHimself | [How To Master DETACHMENT & Build Your Self Esteem](https://www.youtube.com/watch?v=uvXqqtgBpMw) | — | — | [transcript](uvXqqtgBpMw/transcript.md) |
 | — | David Carbutt | [Cathie Wood & David Sacks Make INSANE Predictions](https://www.youtube.com/watch?v=uvaYpUPLiaU) | — | — | [transcript](uvaYpUPLiaU/transcript.md) |
-| — | Tom Nash | [An Investment Opportunity Like This Won't Come Again... (Don’t Miss It)](https://www.youtube.com/watch?v=uvkPsCsvk-E) | — | — | [transcript](uvkPsCsvk-E/transcript.md) |
+| — | Tom Nash | [An Investment Opportunity Like This Won't Come Again... (Don’t Miss It)](https://www.youtube.com/watch?v=uvkPsCsvk-E) | — | — | [transcript](uvkPsCsvk-E/transcript.md) · [visuals](uvkPsCsvk-E/visuals.md) |
 | — | David Carbutt | [Bank of America BETS BIG on Palantir](https://www.youtube.com/watch?v=uw1SrSsSK1s) | — | — | [transcript](uw1SrSsSK1s/transcript.md) |
 | — | Aswath Damodaran | [Regime Changes and Value: An Aramco Valuation Follow up!](https://www.youtube.com/watch?v=uwP9X7IJj4I) | — | — | [transcript](uwP9X7IJj4I/transcript.md) · [materials](uwP9X7IJj4I/materials/) |
 | — | HealthyGamerGG | [Dr. K's Book - How To Raise A Healthy Gamer (Available Now)](https://www.youtube.com/watch?v=uwd8jyhw7vA) | — | — | [transcript](uwd8jyhw7vA/transcript.md) |
@@ -7176,7 +7176,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Great news!](https://www.youtube.com/watch?v=ux467T9dB8E) | — | — | [transcript](ux467T9dB8E/transcript.md) · [visuals](ux467T9dB8E/visuals.md) |
 | — | Aswath Damodaran | [Session 20 (MBA): Moving to the Optimal & The Right Kind of Debt](https://www.youtube.com/watch?v=ux4jtuWS28M) | — | — | [transcript](ux4jtuWS28M/transcript.md) · [materials](ux4jtuWS28M/materials/) |
 | — | Ben Yanes | [Are these pull-downs bad?](https://www.youtube.com/watch?v=uxd3Zj7l7Ro) | — | — | [transcript](uxd3Zj7l7Ro/transcript.md) |
-| — | Tom Nash | [Dave Lee Shares His Mind Blowing Theory About Tesla's Future](https://www.youtube.com/watch?v=uz-IMgwxAxM) | — | — | [transcript](uz-IMgwxAxM/transcript.md) |
+| — | Tom Nash | [Dave Lee Shares His Mind Blowing Theory About Tesla's Future](https://www.youtube.com/watch?v=uz-IMgwxAxM) | — | — | [transcript](uz-IMgwxAxM/transcript.md) · [visuals](uz-IMgwxAxM/visuals.md) |
 | — | Aswath Damodaran | [The Bonfire of Venture Capital: The Good, Bad and Ugly side of Cash Burn](https://www.youtube.com/watch?v=uzaixCG5H7o) | — | — | [transcript](uzaixCG5H7o/transcript.md) · [materials](uzaixCG5H7o/materials/) |
 | — | Ticker Symbol: YOU | [💰 Cathie Wood Bets BIG on SQ & PYPL Stocks Disrupting Banks](https://www.youtube.com/watch?v=v-43rwVQzNU) | — | — | [transcript](v-43rwVQzNU/transcript.md) · [visuals](v-43rwVQzNU/visuals.md) |
 | — | Tom Nash | [Tom Lee: “This Is The Best Investing Opportunity This Decade”](https://www.youtube.com/watch?v=v-hO7E0FvR0) | — | — | [transcript](v-hO7E0FvR0/transcript.md) |
