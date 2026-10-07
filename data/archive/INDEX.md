@@ -4431,7 +4431,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Insiders Are BUYING This Stock Like Never Before.](https://www.youtube.com/watch?v=ZNHkRNN395g) | — | — | [transcript](ZNHkRNN395g/transcript.md) · [visuals](ZNHkRNN395g/visuals.md) |
 | — | Greg Isenberg | [Inside the Brain of a 17-Year-Old $1M/Month AI Founder](https://www.youtube.com/watch?v=ZNIoIX0O-20) | — | — | [transcript](ZNIoIX0O-20/transcript.md) |
 | — | Aswath Damodaran | [Dividends, Buybacks and FCFE: Dataset Support](https://www.youtube.com/watch?v=ZNLVpHr-QNA) | — | — | [transcript](ZNLVpHr-QNA/transcript.md) · [materials](ZNLVpHr-QNA/materials/) |
-| — | Tom Nash | [Last Big Wealth Opportunity For A Decade (or MUCH longer...)](https://www.youtube.com/watch?v=ZNhBkX66Ikc) | — | — | [transcript](ZNhBkX66Ikc/transcript.md) |
+| — | Tom Nash | [Last Big Wealth Opportunity For A Decade (or MUCH longer...)](https://www.youtube.com/watch?v=ZNhBkX66Ikc) | — | — | [transcript](ZNhBkX66Ikc/transcript.md) · [visuals](ZNhBkX66Ikc/visuals.md) |
 | — | Tom Nash | [Tesla Stock Hits New Lows \| what’s next?](https://www.youtube.com/watch?v=ZPUBtyG31z8) | — | — | [transcript](ZPUBtyG31z8/transcript.md) · [visuals](ZPUBtyG31z8/visuals.md) |
 | — | Aswath Damodaran | [Review for Quiz 1 (MBA)](https://www.youtube.com/watch?v=ZPo46wQGfe0) | — | — | [transcript](ZPo46wQGfe0/transcript.md) · [materials](ZPo46wQGfe0/materials/) |
 | — | David Carbutt | [NVIDIA CEO Drops MASSIVE Warning](https://www.youtube.com/watch?v=ZQOVcnnNENo) | — | — | [transcript](ZQOVcnnNENo/transcript.md) |
@@ -4446,14 +4446,14 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 6: Financial Ratios](https://www.youtube.com/watch?v=ZXXF-rSaE9E) | — | — | [transcript](ZXXF-rSaE9E/transcript.md) · [materials](ZXXF-rSaE9E/materials/) |
 | — | HealthyGamerGG | [Should we really follow our dreams? \| Interview with bbno$](https://www.youtube.com/watch?v=ZXsuvceD-Ow) | — | — | [transcript](ZXsuvceD-Ow/transcript.md) |
 | — | HealthyGamerGG | [It's done! 4 Modules in 1 Bundle.](https://www.youtube.com/watch?v=ZYOfFk8zZW8) | — | — | [transcript](ZYOfFk8zZW8/transcript.md) |
-| — | Tom Nash | [We REALLY need to talk about what Michael Burry just said](https://www.youtube.com/watch?v=ZYSnoYuM0dY) | — | — | [transcript](ZYSnoYuM0dY/transcript.md) |
+| — | Tom Nash | [We REALLY need to talk about what Michael Burry just said](https://www.youtube.com/watch?v=ZYSnoYuM0dY) | — | — | [transcript](ZYSnoYuM0dY/transcript.md) · [visuals](ZYSnoYuM0dY/visuals.md) |
 | — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on GOOGLE vs NVIDIA Any Longer](https://www.youtube.com/watch?v=ZZ2nWg1QhR4) | — | — | [transcript](ZZ2nWg1QhR4/transcript.md) · [visuals](ZZ2nWg1QhR4/visuals.md) |
 | — | Aswath Damodaran | [Session 16: Wrapping up Investment Analysis](https://www.youtube.com/watch?v=ZZSIDJXzIII) | — | — | [transcript](ZZSIDJXzIII/transcript.md) · [materials](ZZSIDJXzIII/materials/) |
 | — | JulienHimself | [Psychological Tricks People Use To Make You Feel Inferior](https://www.youtube.com/watch?v=Z_LcCfGjJf0) | — | — | [transcript](Z_LcCfGjJf0/transcript.md) |
 | — | Aswath Damodaran | [Session 10: Quiz and Private Company Betas](https://www.youtube.com/watch?v=Zb0qKwDngDc) | — | — | [transcript](Zb0qKwDngDc/transcript.md) · [materials](Zb0qKwDngDc/materials/) |
 | — | David Carbutt | [Palantir’s 10X Advantage](https://www.youtube.com/watch?v=Zb6evHfuwcw) | — | — | [transcript](Zb6evHfuwcw/transcript.md) |
-| — | Tom Nash | [Stay Away from Didi and Alibaba Stock](https://www.youtube.com/watch?v=ZcHCh9ziWmI) | — | — | [transcript](ZcHCh9ziWmI/transcript.md) |
-| — | Tom Nash | [Tesla stock will get crushed like a souffle under a sledgehammer!](https://www.youtube.com/watch?v=ZcvLdUrT53Q) | — | — | [transcript](ZcvLdUrT53Q/transcript.md) |
+| — | Tom Nash | [Stay Away from Didi and Alibaba Stock](https://www.youtube.com/watch?v=ZcHCh9ziWmI) | — | — | [transcript](ZcHCh9ziWmI/transcript.md) · [visuals](ZcHCh9ziWmI/visuals.md) |
+| — | Tom Nash | [Tesla stock will get crushed like a souffle under a sledgehammer!](https://www.youtube.com/watch?v=ZcvLdUrT53Q) | — | — | [transcript](ZcvLdUrT53Q/transcript.md) · [visuals](ZcvLdUrT53Q/visuals.md) |
 | — | Ticker Symbol: YOU | [Cathie Wood on the Stock Market Crash (Deflationary Crisis)](https://www.youtube.com/watch?v=ZdFtF7rFTQk) | — | — | [transcript](ZdFtF7rFTQk/transcript.md) · [visuals](ZdFtF7rFTQk/visuals.md) |
 | — | JulienHimself | [Success And The Secret To Happiness - Motivational Video](https://www.youtube.com/watch?v=Ze6WrUR0JpA) | — | — | [transcript](Ze6WrUR0JpA/transcript.md) |
 | — | BWB - Business With Brian | [AI & Tech Driven -Top 8 Nuclear Stock to Make Us Millions!](https://www.youtube.com/watch?v=Zf6B0PD-LDQ) | — | — | [transcript](Zf6B0PD-LDQ/transcript.md) · [visuals](Zf6B0PD-LDQ/visuals.md) |
@@ -4465,7 +4465,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Palantir Head of Defence Makes HUGE China Predictions](https://www.youtube.com/watch?v=ZhymayLedX4) | — | — | [transcript](ZhymayLedX4/transcript.md) |
 | — | HealthyGamerGG | [Dealing with Unrealistic Expectations \| Dr.K Interviews](https://www.youtube.com/watch?v=ZkRGg-jY44k) | — | — | [transcript](ZkRGg-jY44k/transcript.md) |
 | — | JulienHimself | [SHADOW WORK 101: Become A "Shadow Whisperer"](https://www.youtube.com/watch?v=Zm5ehE-mSHQ) | — | — | [transcript](Zm5ehE-mSHQ/transcript.md) |
-| — | Tom Nash | [ARK Invest Just Dropped a MASSIVE Bombshell About Tesla](https://www.youtube.com/watch?v=Zm6hUumUISE) | — | — | [transcript](Zm6hUumUISE/transcript.md) |
+| — | Tom Nash | [ARK Invest Just Dropped a MASSIVE Bombshell About Tesla](https://www.youtube.com/watch?v=Zm6hUumUISE) | — | — | [transcript](Zm6hUumUISE/transcript.md) · [visuals](Zm6hUumUISE/visuals.md) |
 | — | Justin Sung | [Your teacher can't help you... @Cajun Koi Academy](https://www.youtube.com/watch?v=ZmhBLmZWhPM) | — | — | [transcript](ZmhBLmZWhPM/transcript.md) |
 | — | David Carbutt | [Bernie on Elon Musk: Nobody's Ready for What ELON's Building](https://www.youtube.com/watch?v=Zn9y43JU3aw) | — | — | [transcript](Zn9y43JU3aw/transcript.md) |
 | — | Ticker Symbol: YOU | [🚁 ARKX & ARKQ WILL FLY! \| Cathie Wood's Drone Stocks Will Soar! (ARK Invest Big Ideas 2021 Ep 3)](https://www.youtube.com/watch?v=ZnoZTp3cnao) | — | — | [transcript](ZnoZTp3cnao/transcript.md) · [visuals](ZnoZTp3cnao/visuals.md) |
@@ -4481,7 +4481,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [AMD's New GPUs Are BIG Trouble for Nvidia Stock (NVDA)](https://www.youtube.com/watch?v=ZqqCwJLwR2o) | — | — | [transcript](ZqqCwJLwR2o/transcript.md) · [visuals](ZqqCwJLwR2o/visuals.md) |
 | — | HealthyGamerGG | [Psychiatrist Reacts to ADHD TikToks](https://www.youtube.com/watch?v=ZrZHCl7O-ew) | — | — | [transcript](ZrZHCl7O-ew/transcript.md) |
 | — | David Carbutt | [Nobody's Talking About the Chokepoint in AI](https://www.youtube.com/watch?v=Zrr5-ar1IrU) | — | — | [transcript](Zrr5-ar1IrU/transcript.md) |
-| — | Tom Nash | [WARNING! Recession Will Start in a Few Months](https://www.youtube.com/watch?v=ZsSGiUedGD4) | — | — | [transcript](ZsSGiUedGD4/transcript.md) |
+| — | Tom Nash | [WARNING! Recession Will Start in a Few Months](https://www.youtube.com/watch?v=ZsSGiUedGD4) | — | — | [transcript](ZsSGiUedGD4/transcript.md) · [visuals](ZsSGiUedGD4/visuals.md) |
 | — | David Carbutt | [Palantir is Leading the Charge!](https://www.youtube.com/watch?v=ZsbjvCRSaA8) | — | — | [transcript](ZsbjvCRSaA8/transcript.md) |
 | — | Aswath Damodaran | [The Disruptive Duo: Amazon and Netflix!](https://www.youtube.com/watch?v=ZsjYQ2GTel0) | — | — | [transcript](ZsjYQ2GTel0/transcript.md) · [materials](ZsjYQ2GTel0/materials/) |
 | — | Tom Nash | [China and U.S agree deal on audit dispute - time to invest in China?](https://www.youtube.com/watch?v=ZuDd7gUiog0) | — | — | [transcript](ZuDd7gUiog0/transcript.md) |
@@ -4493,7 +4493,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Why Modern Dating Feels Like Parenting \| Lovemaxxing w/ Dr.](https://www.youtube.com/watch?v=ZwYrXkPJA1s) | — | — | [transcript](ZwYrXkPJA1s/transcript.md) |
 | — | JulienHimself | [“The Transformation Mastery Manifesto” By Julien Blanc (How To Let Go Of Trauma & Heal Yourself)](https://www.youtube.com/watch?v=ZxN4iJ8Rhdc) | — | — | [transcript](ZxN4iJ8Rhdc/transcript.md) |
 | — | David Carbutt | [Palantir Vs Snowflake + Palantir 60-70% Growth Rate?](https://www.youtube.com/watch?v=ZxzWTr-fD30) | — | — | [transcript](ZxzWTr-fD30/transcript.md) |
-| — | Tom Nash | [What The Palantir Demo Event REALLY Exposed, SpaceX, Coinbase IPO & More Stock Market News](https://www.youtube.com/watch?v=Zz1-y7Dd8lg) | — | — | [transcript](Zz1-y7Dd8lg/transcript.md) |
+| — | Tom Nash | [What The Palantir Demo Event REALLY Exposed, SpaceX, Coinbase IPO & More Stock Market News](https://www.youtube.com/watch?v=Zz1-y7Dd8lg) | — | — | [transcript](Zz1-y7Dd8lg/transcript.md) · [visuals](Zz1-y7Dd8lg/visuals.md) |
 | — | David Carbutt | [Ron Baron on Elon Musk: Nobody's Ready For What Elon's Building](https://www.youtube.com/watch?v=Zz1FbRM6dR8) | — | — | [transcript](Zz1FbRM6dR8/transcript.md) |
 | — | David Carbutt | [Alex Karp 'One Of World's Most Interesting Companies'](https://www.youtube.com/watch?v=Zz_0_JRaW1w) | — | — | [transcript](Zz_0_JRaW1w/transcript.md) |
 | — | David Carbutt | [Economist Drops BOMBSHELL on Palantir Co-Founder](https://www.youtube.com/watch?v=Zzd97HKB3iY) | — | — | [transcript](Zzd97HKB3iY/transcript.md) |
