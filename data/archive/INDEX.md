@@ -7337,7 +7337,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [The Truth About Creativity - Steal Like An Artist Book Review (Austin Kleon)](https://www.youtube.com/watch?v=xTkN8BQqv1M) | — | — | [transcript](xTkN8BQqv1M/transcript.md) |
 | — | BWB - Business With Brian | [Top AI ETF for 2025 : Millionaire Makers!](https://www.youtube.com/watch?v=xU8Cg0YTK0w) | — | — | [transcript](xU8Cg0YTK0w/transcript.md) · [visuals](xU8Cg0YTK0w/visuals.md) |
 | — | Tom Nash | [The Tragic Story of Sri Lanka's Collapse](https://www.youtube.com/watch?v=xUM6zX0k89Q) | — | — | [transcript](xUM6zX0k89Q/transcript.md) |
-| — | Ticker Symbol: YOU | [If You Hold Palantir Stock (PLTR)... GET READY!](https://www.youtube.com/watch?v=xUnI0E33t6s) | — | — | [transcript](xUnI0E33t6s/transcript.md) |
+| — | Ticker Symbol: YOU | [If You Hold Palantir Stock (PLTR)... GET READY!](https://www.youtube.com/watch?v=xUnI0E33t6s) | — | — | [transcript](xUnI0E33t6s/transcript.md) · [visuals](xUnI0E33t6s/visuals.md) |
 | — | Aswath Damodaran | [Session 3: The Risk Free Rate](https://www.youtube.com/watch?v=xV80dt1OZtQ) | — | — | [transcript](xV80dt1OZtQ/transcript.md) |
 | — | Tom Nash | [What's Cathie Wood Doing!? (Bought 2 Million PLTR Shares in January)](https://www.youtube.com/watch?v=xW0zs4MJ9rE) | — | — | [transcript](xW0zs4MJ9rE/transcript.md) |
 | — | HealthyGamerGG | [How Your ADHD Affects Your Relationships](https://www.youtube.com/watch?v=xWJEuVt0JRk) | — | — | [transcript](xWJEuVt0JRk/transcript.md) |
@@ -7358,7 +7358,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [I Can't Open Up To People IRL](https://www.youtube.com/watch?v=xb0ZpPZS_XE) | — | — | [transcript](xb0ZpPZS_XE/transcript.md) |
 | — | HealthyGamerGG | [Your Partner Is Depressed, What Do You Do?](https://www.youtube.com/watch?v=xcEVntNv9ik) | — | — | [transcript](xcEVntNv9ik/transcript.md) |
 | — | Greg Isenberg | [How to get 10x more out of Lovable, Cursor, v0](https://www.youtube.com/watch?v=xcIziZ3-tr4) | — | — | [transcript](xcIziZ3-tr4/transcript.md) |
-| — | Ticker Symbol: YOU | [Top 4 Stocks I'm Buying After DeepSeek (Even Over Nvidia Stock)](https://www.youtube.com/watch?v=xd7yO0OgrLY) | — | — | [transcript](xd7yO0OgrLY/transcript.md) |
+| — | Ticker Symbol: YOU | [Top 4 Stocks I'm Buying After DeepSeek (Even Over Nvidia Stock)](https://www.youtube.com/watch?v=xd7yO0OgrLY) | — | — | [transcript](xd7yO0OgrLY/transcript.md) · [visuals](xd7yO0OgrLY/visuals.md) |
 | — | JulienHimself | [How To Get Ahead Of 99% Of People... (Don't Ignore This)](https://www.youtube.com/watch?v=xd9vqNYFBS0) | — | — | [transcript](xd9vqNYFBS0/transcript.md) |
 | — | BWB - Business With Brian | [8 Best Fidelity Index Funds To Buy and Hold Forever: High Growth](https://www.youtube.com/watch?v=xdEunmLrhb4) | — | — | [transcript](xdEunmLrhb4/transcript.md) · [visuals](xdEunmLrhb4/visuals.md) |
 | — | Ben Yanes | [The #1 coaching concept no one talks about](https://www.youtube.com/watch?v=xdJYRAQXbMw) | — | — | [transcript](xdJYRAQXbMw/transcript.md) |
