@@ -4288,7 +4288,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Palantir Just PROVED Wall Street Wrong - Dan Ives](https://www.youtube.com/watch?v=YCyzQ43ptr4) | — | — | [transcript](YCyzQ43ptr4/transcript.md) |
 | — | Aswath Damodaran | [Revisiting Tesla in January 2023: The Great Unraveling or a Return to Normalcy?](https://www.youtube.com/watch?v=YDKIewKscLk) | — | — | [transcript](YDKIewKscLk/transcript.md) · [materials](YDKIewKscLk/materials/) |
 | — | Felix & Friends (Goat Academy) | [If You Don't Understand Gold, You Don't Understand Money](https://www.youtube.com/watch?v=YE1hxjLFxy0) | — | — | [transcript](YE1hxjLFxy0/transcript.md) |
-| — | Tom Nash | [Palantir Investors: GET READY!](https://www.youtube.com/watch?v=YFA5XvvzcdE) | — | — | [transcript](YFA5XvvzcdE/transcript.md) |
+| — | Tom Nash | [Palantir Investors: GET READY!](https://www.youtube.com/watch?v=YFA5XvvzcdE) | — | — | [transcript](YFA5XvvzcdE/transcript.md) · [visuals](YFA5XvvzcdE/visuals.md) |
 | — | HealthyGamerGG | [Why You Can’t Set Boundaries With Family Or Friends](https://www.youtube.com/watch?v=YGLMSgGCIPo) | — | — | [transcript](YGLMSgGCIPo/transcript.md) |
 | — | Riley Brown | [Build The Ultimate AI Second Brain With Notion + Codex](https://www.youtube.com/watch?v=YGWcFMR8gk8) | — | — | [transcript](YGWcFMR8gk8/transcript.md) |
 | — | New Money | [Jamie Dimon Explains How America's Economy Will Deflate (2026)](https://www.youtube.com/watch?v=YGXWzizs5bo) | — | — | [transcript](YGXWzizs5bo/transcript.md) |
