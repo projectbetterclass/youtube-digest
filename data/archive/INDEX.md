@@ -5494,7 +5494,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [The REAL Reason Palantir Stock is Crashing...](https://www.youtube.com/watch?v=hgcFuk4FiJw) | — | — | [transcript](hgcFuk4FiJw/transcript.md) · [visuals](hgcFuk4FiJw/visuals.md) |
 | — | HealthyGamerGG | [How Being Smart Makes You Lonely](https://www.youtube.com/watch?v=hgwg_c6sNKg) | — | — | [transcript](hgwg_c6sNKg/transcript.md) |
 | — | David Carbutt | [Alex Karp: Refused Contracts to Prevent Minority Torturing](https://www.youtube.com/watch?v=hh-2MfTw9aM) | — | — | [transcript](hh-2MfTw9aM/transcript.md) |
-| — | Tom Nash | [IMPORTANT WARNING TO ALL INVESTORS](https://www.youtube.com/watch?v=hh9h1qqV63o) | — | — | [transcript](hh9h1qqV63o/transcript.md) |
+| — | Tom Nash | [IMPORTANT WARNING TO ALL INVESTORS](https://www.youtube.com/watch?v=hh9h1qqV63o) | — | — | [transcript](hh9h1qqV63o/transcript.md) · [visuals](hh9h1qqV63o/visuals.md) |
 | — | David Carbutt | [Palantir Q3 Earnings Preview!](https://www.youtube.com/watch?v=hilbL34S6NM) | — | — | [transcript](hilbL34S6NM/transcript.md) |
 | — | Aswath Damodaran | [Session 14 (Undergraduate): Time Weighted Returns & Equity Analysis](https://www.youtube.com/watch?v=hjf2LN04zf8) | — | — | [transcript](hjf2LN04zf8/transcript.md) · [materials](hjf2LN04zf8/materials/) |
 | — | Riley Brown | [I Built & Published an iOS App in 493 Seconds (with backend)](https://www.youtube.com/watch?v=hl9oRrKhvzs) | — | — | [transcript](hl9oRrKhvzs/transcript.md) |
@@ -5513,11 +5513,11 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Investing Legends on AI Tsunami: What Happens Next Is Insane](https://www.youtube.com/watch?v=ht1cnjXketo) | — | — | [transcript](ht1cnjXketo/transcript.md) |
 | — | HealthyGamerGG | [You Don't Know What Discipline Means](https://www.youtube.com/watch?v=htOL5Z3ARt0) | — | — | [transcript](htOL5Z3ARt0/transcript.md) |
 | — | David Carbutt | [Palantir's Crypto Product](https://www.youtube.com/watch?v=hutpqRkToU0) | — | — | [transcript](hutpqRkToU0/transcript.md) |
-| — | Tom Nash | [What You Need to Do to Prepare for the Upcoming Recession](https://www.youtube.com/watch?v=hwYDsfNTrbA) | — | — | [transcript](hwYDsfNTrbA/transcript.md) |
+| — | Tom Nash | [What You Need to Do to Prepare for the Upcoming Recession](https://www.youtube.com/watch?v=hwYDsfNTrbA) | — | — | [transcript](hwYDsfNTrbA/transcript.md) · [visuals](hwYDsfNTrbA/visuals.md) |
 | — | Tom Nash | [Wednesday October 4, 2023 Zoom Meeting](https://www.youtube.com/watch?v=hxGchaTK7Sk) | — | — | [transcript](hxGchaTK7Sk/transcript.md) |
 | — | JulienHimself | [Why You're Still Insecure (Even When You Shouldn't Be)](https://www.youtube.com/watch?v=hyFQqCQEZks) | — | — | [transcript](hyFQqCQEZks/transcript.md) |
 | — | JulienHimself | [#1 CONFIDENCE HACK: Stop Caring What They Think](https://www.youtube.com/watch?v=hye4nCCTob8) | — | — | [transcript](hye4nCCTob8/transcript.md) |
-| — | Tom Nash | [What is going on with Palantir Stock?](https://www.youtube.com/watch?v=hylSuJGJRDo) | — | — | [transcript](hylSuJGJRDo/transcript.md) |
+| — | Tom Nash | [What is going on with Palantir Stock?](https://www.youtube.com/watch?v=hylSuJGJRDo) | — | — | [transcript](hylSuJGJRDo/transcript.md) · [visuals](hylSuJGJRDo/visuals.md) |
 | — | Greg Isenberg | [His 250M+ App Download Blueprint (Full Strategy)](https://www.youtube.com/watch?v=hyosynoNbSU) | — | — | [transcript](hyosynoNbSU/transcript.md) |
 | — | Justin Sung | [Watch This To Force Your Brain To Study FASTER](https://www.youtube.com/watch?v=hz4JKqoG_Mc) | — | — | [transcript](hz4JKqoG_Mc/transcript.md) |
 | — | HealthyGamerGG | [Why Failure is Liberating \|  Dr. K Interviews](https://www.youtube.com/watch?v=hzkgIOzBP7w) | — | — | [transcript](hzkgIOzBP7w/transcript.md) |
