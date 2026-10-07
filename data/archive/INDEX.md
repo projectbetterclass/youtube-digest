@@ -3577,7 +3577,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Palantir VP: " We Promised Zelensky..."](https://www.youtube.com/watch?v=RjkEo9zsqEw) | — | — | [transcript](RjkEo9zsqEw/transcript.md) |
 | — | David Carbutt | [Jensen on Palantir: Nobody’s Ready for What Karp Is Building](https://www.youtube.com/watch?v=RkBHJZAying) | — | — | [transcript](RkBHJZAying/transcript.md) |
 | — | Tom Nash | [They are lying to you about the 15% global tax agreement](https://www.youtube.com/watch?v=RkyEPnUTMnE) | — | — | [transcript](RkyEPnUTMnE/transcript.md) · [visuals](RkyEPnUTMnE/visuals.md) |
-| — | Tom Nash | [Should You Buy Stocks In THIS Market?](https://www.youtube.com/watch?v=RlSREKcfLdY) | — | — | [transcript](RlSREKcfLdY/transcript.md) |
+| — | Tom Nash | [Should You Buy Stocks In THIS Market?](https://www.youtube.com/watch?v=RlSREKcfLdY) | — | — | [transcript](RlSREKcfLdY/transcript.md) · [visuals](RlSREKcfLdY/visuals.md) |
 | — | JulienHimself | [I Used To Feel Lost In Life, Until I Changed This!](https://www.youtube.com/watch?v=Rm5T0OJQpAc) | — | — | [transcript](Rm5T0OJQpAc/transcript.md) |
 | — | New Money | [The Treasury Bond Collapse is Real.](https://www.youtube.com/watch?v=RmKX8myWBc8) | — | — | [transcript](RmKX8myWBc8/transcript.md) · [visuals](RmKX8myWBc8/visuals.md) |
 | — | Chris Raroque | [I’m making a Mac app instead (why and how)](https://www.youtube.com/watch?v=RpAo3DGkgjE) | — | — | [transcript](RpAo3DGkgjE/transcript.md) |
@@ -3587,7 +3587,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | ["Ralph Wiggum" AI Agent will 10x Claude Code/Amp](https://www.youtube.com/watch?v=RpvQH0r0ecM) | — | — | [transcript](RpvQH0r0ecM/transcript.md) |
 | — | Ticker Symbol: YOU | [I Can't Stay Quiet on Palantir Stock (PLTR) Any Longer](https://www.youtube.com/watch?v=Rq3JjUUgTBI) | — | — | [transcript](Rq3JjUUgTBI/transcript.md) · [visuals](Rq3JjUUgTBI/visuals.md) |
 | — | HealthyGamerGG | [Does ADHD Feel Like A Curse? Do this.](https://www.youtube.com/watch?v=Rq6K7yxaNaM) | — | — | [transcript](Rq6K7yxaNaM/transcript.md) |
-| — | Tom Nash | [Deutsche Bank Failing?](https://www.youtube.com/watch?v=RqJVfwIJfnY) | — | — | [transcript](RqJVfwIJfnY/transcript.md) |
+| — | Tom Nash | [Deutsche Bank Failing?](https://www.youtube.com/watch?v=RqJVfwIJfnY) | — | — | [transcript](RqJVfwIJfnY/transcript.md) · [visuals](RqJVfwIJfnY/visuals.md) |
 | — | Greg Isenberg | [Will Meta Bounce Back? (with Nikita Bier) \| Where It Happens \| Bonus Episode](https://www.youtube.com/watch?v=Rql6GZakVTI) | — | — | [transcript](Rql6GZakVTI/transcript.md) |
 | — | David Carbutt | [Alex Karp -We Have the World's Best Product](https://www.youtube.com/watch?v=RuTZrqN-XMs) | — | — | [transcript](RuTZrqN-XMs/transcript.md) |
 | — | Aswath Damodaran | [In Practice Webcast #10: Estimating an Optimal Debt Ratio](https://www.youtube.com/watch?v=RuaQvw5zHQQ) | — | — | [transcript](RuaQvw5zHQQ/transcript.md) · [materials](RuaQvw5zHQQ/materials/) |
@@ -3599,7 +3599,7 @@ Each transcript link points to the full text under this folder.
 | — | Justin Sung | [Learn Faster by Copying How Olympic Athletes Train](https://www.youtube.com/watch?v=RytJr22inm8) | — | — | [transcript](RytJr22inm8/transcript.md) |
 | — | David Carbutt | [Alex Karp's Pentagon Story Left Everyone SPEECHLESS](https://www.youtube.com/watch?v=Rz8E3tq9whE) | — | — | [transcript](Rz8E3tq9whE/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Devalued Overnight: The Biggest Reset Yet AHEAD](https://www.youtube.com/watch?v=RzAxCV6Gq14) | — | — | [transcript](RzAxCV6Gq14/transcript.md) |
-| — | Tom Nash | [Michael Saylor Leaves Entire CNBC Panel SPEECHLESS](https://www.youtube.com/watch?v=S-CgH4C1-5M) | — | — | [transcript](S-CgH4C1-5M/transcript.md) |
+| — | Tom Nash | [Michael Saylor Leaves Entire CNBC Panel SPEECHLESS](https://www.youtube.com/watch?v=S-CgH4C1-5M) | — | — | [transcript](S-CgH4C1-5M/transcript.md) · [visuals](S-CgH4C1-5M/visuals.md) |
 | — | HealthyGamerGG | [Why You Self Sabotage](https://www.youtube.com/watch?v=S0ud9-UGnBk) | — | — | [transcript](S0ud9-UGnBk/transcript.md) |
 | — | Aswath Damodaran | [Session 1: Introduction to Class - Broad themes and class details](https://www.youtube.com/watch?v=S0yIFh3oru8) | — | — | [transcript](S0yIFh3oru8/transcript.md) · [materials](S0yIFh3oru8/materials/) |
 | — | Greg Isenberg | [Gary Vaynerchuk Explains Why NFTs Won’t Fail \| Where It Happens Podcast](https://www.youtube.com/watch?v=S4KS1eABwPo) | — | — | [transcript](S4KS1eABwPo/transcript.md) |
@@ -3614,7 +3614,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [🤫 Google and Apple TV Can't Beat Roku (Here's Why)](https://www.youtube.com/watch?v=SAEdbjqhNOc) | — | — | [transcript](SAEdbjqhNOc/transcript.md) · [visuals](SAEdbjqhNOc/visuals.md) |
 | — | JulienHimself | [Cultivating "INEVITABILITY THINKING" - Julien Blanc Reveals How To Rewire Your Brain For Success!](https://www.youtube.com/watch?v=SAWUT4c7Mi4) | — | — | [transcript](SAWUT4c7Mi4/transcript.md) |
 | — | David Carbutt | [Palantir Shareholder Meeting (7th June, 2022)](https://www.youtube.com/watch?v=SB0f2_2dQ90) | — | — | [transcript](SB0f2_2dQ90/transcript.md) |
-| — | Tom Nash | [Tesla: Fair Value of $370?](https://www.youtube.com/watch?v=SBGOEPFLKn8) | — | — | [transcript](SBGOEPFLKn8/transcript.md) |
+| — | Tom Nash | [Tesla: Fair Value of $370?](https://www.youtube.com/watch?v=SBGOEPFLKn8) | — | — | [transcript](SBGOEPFLKn8/transcript.md) · [visuals](SBGOEPFLKn8/visuals.md) |
 | — | Riley Brown | [How to build a mobile app with Cursor in 53 minutes (No Coding)](https://www.youtube.com/watch?v=SBbAcXlmfe0) | — | — | [transcript](SBbAcXlmfe0/transcript.md) |
 | — | Ticker Symbol: YOU | [Top 10 Stocks I'm Buying to Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=SBs4LV0_PjA) | — | — | [transcript](SBs4LV0_PjA/transcript.md) · [visuals](SBs4LV0_PjA/visuals.md) |
 | — | Alex Hormozi | [If I Started A Personal Brand In 2026, I'd Do This - Dolly Parton](https://www.youtube.com/watch?v=SCi464zfAUM) | — | — | [transcript](SCi464zfAUM/transcript.md) |
@@ -3674,8 +3674,8 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Humanoid Robot Companies You've Completely Missed](https://www.youtube.com/watch?v=SdsoM4u6ZrI) | — | — | [transcript](SdsoM4u6ZrI/transcript.md) |
 | — | David Carbutt | [How Alex Karp Sells Palantir](https://www.youtube.com/watch?v=SfFVDlLaRQk) | — | — | [transcript](SfFVDlLaRQk/transcript.md) |
 | — | David Carbutt | [Palantir - $500M Army Contract](https://www.youtube.com/watch?v=SfFwYy4u-aY) | — | — | [transcript](SfFwYy4u-aY/transcript.md) |
-| — | New Money | [10 Things I Wish I Knew Before I Started Stock Market Investing](https://www.youtube.com/watch?v=SfLP1CgLP30) | — | — | [transcript](SfLP1CgLP30/transcript.md) |
-| — | New Money | [How to Calculate the Intrinsic Value of a Stock (Full Example)](https://www.youtube.com/watch?v=Shuu4f_5YMY) | — | — | [transcript](Shuu4f_5YMY/transcript.md) |
+| — | New Money | [10 Things I Wish I Knew Before I Started Stock Market Investing](https://www.youtube.com/watch?v=SfLP1CgLP30) | — | — | [transcript](SfLP1CgLP30/transcript.md) · [visuals](SfLP1CgLP30/visuals.md) |
+| — | New Money | [How to Calculate the Intrinsic Value of a Stock (Full Example)](https://www.youtube.com/watch?v=Shuu4f_5YMY) | — | — | [transcript](Shuu4f_5YMY/transcript.md) · [visuals](Shuu4f_5YMY/visuals.md) |
 | — | David Carbutt | [Cathie Wood: Once in a life investment opportunity is coming.](https://www.youtube.com/watch?v=Si88RuePHag) | — | — | [transcript](Si88RuePHag/transcript.md) |
 | — | HealthyGamerGG | [Stop Trying To Work Harder](https://www.youtube.com/watch?v=SiFlnf--5EA) | — | — | [transcript](SiFlnf--5EA/transcript.md) |
 | — | New Money | [How Warren Buffett Turned $1,000 into $165 Billion.](https://www.youtube.com/watch?v=Sihe65oGl_Q) | — | — | [transcript](Sihe65oGl_Q/transcript.md) |
@@ -3723,7 +3723,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Dr. K Teaches Mizkif How to Battle His ADHD](https://www.youtube.com/watch?v=T6p_tY5xjTA) | — | — | [transcript](T6p_tY5xjTA/transcript.md) |
 | — | David Carbutt | [Tom Lee & Dan Ives Call the Next Big Move](https://www.youtube.com/watch?v=T7FBALU7jxc) | — | — | [transcript](T7FBALU7jxc/transcript.md) |
 | — | Chris Raroque | [How I use my own app (ellieplanner.com) to timebox my day](https://www.youtube.com/watch?v=T7ubIkjfoYU) | — | — | [transcript](T7ubIkjfoYU/transcript.md) |
-| — | New Money | [2021 Goals: How to be Better with Money](https://www.youtube.com/watch?v=T8QQpmZPZ5E) | — | — | [transcript](T8QQpmZPZ5E/transcript.md) |
+| — | New Money | [2021 Goals: How to be Better with Money](https://www.youtube.com/watch?v=T8QQpmZPZ5E) | — | — | [transcript](T8QQpmZPZ5E/transcript.md) · [visuals](T8QQpmZPZ5E/visuals.md) |
 | — | JulienHimself | [STOP Trying To Be "Cool" & Instead Do This!](https://www.youtube.com/watch?v=T8_JsmJxHU8) | — | — | [transcript](T8_JsmJxHU8/transcript.md) |
 | — | HealthyGamerGG | [Why Video Games Are So Hard To Put Down (And How To Learn To Moderate)](https://www.youtube.com/watch?v=T8tq0xiOwKI) | — | — | [transcript](T8tq0xiOwKI/transcript.md) |
 | — | David Carbutt | [Dan Ives Drops His 2026 Predictions](https://www.youtube.com/watch?v=T9wnVjsA8QY) | — | — | [transcript](T9wnVjsA8QY/transcript.md) |
@@ -3738,7 +3738,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [SpaceX: The Most Tragic IPO In Stock Market History](https://www.youtube.com/watch?v=TEimEZVjN9o) | — | — | [transcript](TEimEZVjN9o/transcript.md) · [visuals](TEimEZVjN9o/visuals.md) |
 | — | David Carbutt | [Palantir Engineer on New Technology](https://www.youtube.com/watch?v=TFC-rfs4Ozo) | — | — | [transcript](TFC-rfs4Ozo/transcript.md) |
 | — | HealthyGamerGG | [How to Start to Find Purpose in Your Life](https://www.youtube.com/watch?v=TGGwCG6AFz4) | — | — | [transcript](TGGwCG6AFz4/transcript.md) |
-| — | New Money | [How I got banned from sports betting...  -  Arbitrage Betting Explained](https://www.youtube.com/watch?v=TGinzvSDayU) | — | — | [transcript](TGinzvSDayU/transcript.md) |
+| — | New Money | [How I got banned from sports betting...  -  Arbitrage Betting Explained](https://www.youtube.com/watch?v=TGinzvSDayU) | — | — | [transcript](TGinzvSDayU/transcript.md) · [visuals](TGinzvSDayU/visuals.md) |
 | — | Ticker Symbol: YOU | [E1: Tesla Earnings Disaster, Google Stock Crash & Best AI Stocks](https://www.youtube.com/watch?v=THPABU-UGT8) | — | — | [transcript](THPABU-UGT8/transcript.md) · [visuals](THPABU-UGT8/visuals.md) |
 | — | HealthyGamerGG | [Why You Can’t Turn Your Creativity Into ANYTHING](https://www.youtube.com/watch?v=TImmiAS1USQ) | — | — | [transcript](TImmiAS1USQ/transcript.md) |
 | — | JulienHimself | [Why Trying To Be "LIKED" Doesn't Work Anymore](https://www.youtube.com/watch?v=TJCBIzBD_x4) | — | — | [transcript](TJCBIzBD_x4/transcript.md) |
@@ -6377,7 +6377,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [5 $1M+ AI startup ideas from an indie hacker legend](https://www.youtube.com/watch?v=pNZWXnt2Qgk) | — | — | [transcript](pNZWXnt2Qgk/transcript.md) |
 | — | Ben Yanes | [I Wish I Knew This Before Using Cables](https://www.youtube.com/watch?v=pNdrOAO9zrU) | — | — | [transcript](pNdrOAO9zrU/transcript.md) |
 | — | JulienHimself | [Life Has A Cheat Code (Almost Nobody Uses It)](https://www.youtube.com/watch?v=pOAPob3C7s4) | — | — | [transcript](pOAPob3C7s4/transcript.md) |
-| — | Ticker Symbol: YOU | [Nvidia Just Killed AMD - These Companies are Next](https://www.youtube.com/watch?v=pOFFhWJNe7o) | — | — | [transcript](pOFFhWJNe7o/transcript.md) |
+| — | Ticker Symbol: YOU | [Nvidia Just Killed AMD - These Companies are Next](https://www.youtube.com/watch?v=pOFFhWJNe7o) | — | — | [transcript](pOFFhWJNe7o/transcript.md) · [visuals](pOFFhWJNe7o/visuals.md) |
 | — | JulienHimself | [The Pillars Of A Strong Identity (How To Be Grounded In Your Own Reality)](https://www.youtube.com/watch?v=pOvgGQUlKPE) | — | — | [transcript](pOvgGQUlKPE/transcript.md) |
 | — | David Carbutt | [Internet BREAKS w/ELON MUSK + Starship Launch!!!](https://www.youtube.com/watch?v=pOy3i-EaDQA) | — | — | [transcript](pOy3i-EaDQA/transcript.md) |
 | — | Ticker Symbol: YOU | [Trump's 15% Tariffs Will Make Millionaires in 2026 (Here's How)](https://www.youtube.com/watch?v=pPk9zHhP0ug) | — | — | [transcript](pPk9zHhP0ug/transcript.md) |
