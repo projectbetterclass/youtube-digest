@@ -4662,7 +4662,7 @@ Each transcript link points to the full text under this folder.
 | — | New Money | [The Evergrande Collapse: A Potential Trigger for an Economic Crisis?](https://www.youtube.com/watch?v=acwAtw4WuYs) | — | — | [transcript](acwAtw4WuYs/transcript.md) |
 | — | Tom Nash | [Tom Lee: Investors Have Never Seen Anything Like This...](https://www.youtube.com/watch?v=af8NIaJ2EHY) | — | — | [transcript](af8NIaJ2EHY/transcript.md) · [visuals](af8NIaJ2EHY/visuals.md) |
 | — | Tom Nash | [Will The Fed Pivot in December?](https://www.youtube.com/watch?v=afWEQelOAk8) | — | — | [transcript](afWEQelOAk8/transcript.md) · [visuals](afWEQelOAk8/visuals.md) |
-| — | Tom Nash | [History is About to Be Made... [Last Big Wealth Opportunity For A Decade]](https://www.youtube.com/watch?v=ag589INxdDk) | — | — | [transcript](ag589INxdDk/transcript.md) |
+| — | Tom Nash | [History is About to Be Made... [Last Big Wealth Opportunity For A Decade]](https://www.youtube.com/watch?v=ag589INxdDk) | — | — | [transcript](ag589INxdDk/transcript.md) · [visuals](ag589INxdDk/visuals.md) |
 | — | HealthyGamerGG | [Why ADHD Makes You Feel Broken](https://www.youtube.com/watch?v=agsEaSF4KaE) | — | — | [transcript](agsEaSF4KaE/transcript.md) |
 | — | Aswath Damodaran | [Session 2: The Objective in Corporate Finance - Utopia](https://www.youtube.com/watch?v=ai159vnoW1o) | — | — | [transcript](ai159vnoW1o/transcript.md) · [materials](ai159vnoW1o/materials/) |
 | — | New Money | [Robinhood CEO GRILLED by Elon Musk Over Gamestop Controversy (Full ClubHouse Interview)](https://www.youtube.com/watch?v=aicDIMtVld8) | — | — | [transcript](aicDIMtVld8/transcript.md) |
@@ -4677,14 +4677,14 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Jim Cramer JUST Dropped a Bombshell About Palantir](https://www.youtube.com/watch?v=apMxllGkvOA) | — | — | [transcript](apMxllGkvOA/transcript.md) · [visuals](apMxllGkvOA/visuals.md) |
 | — | Ticker Symbol: YOU | [💥 Will ARK Invest Survive This Stock Market Crash?](https://www.youtube.com/watch?v=aqVqjQiTtNc) | — | — | [transcript](aqVqjQiTtNc/transcript.md) · [visuals](aqVqjQiTtNc/visuals.md) |
 | — | JulienHimself | [Julien Blanc Gives It To You RAW... Triggering Success Advice That EVERY Successful Person Knows!](https://www.youtube.com/watch?v=arbO40s5ceI) | — | — | [transcript](arbO40s5ceI/transcript.md) |
-| — | Tom Nash | [How Elon Musk Destroyed The $2.6 Billion SolarCity Lawsuit Against Him](https://www.youtube.com/watch?v=ash9su0wxTM) | — | — | [transcript](ash9su0wxTM/transcript.md) |
+| — | Tom Nash | [How Elon Musk Destroyed The $2.6 Billion SolarCity Lawsuit Against Him](https://www.youtube.com/watch?v=ash9su0wxTM) | — | — | [transcript](ash9su0wxTM/transcript.md) · [visuals](ash9su0wxTM/visuals.md) |
 | — | Aswath Damodaran | [Data Update 5: The Bottom Line!](https://www.youtube.com/watch?v=aspuNCFF3TI) | — | — | [transcript](aspuNCFF3TI/transcript.md) · [materials](aspuNCFF3TI/materials/) |
 | — | Aswath Damodaran | [Session 2: Corporate Governance - The Board of Directors](https://www.youtube.com/watch?v=auDyN7CUUes) | — | — | [transcript](auDyN7CUUes/transcript.md) · [materials](auDyN7CUUes/materials/) |
 | — | BWB - Business With Brian | [I've Bought Every AI Correction Since 2018. Here's My List](https://www.youtube.com/watch?v=aup7LG54YRg) | — | — | [transcript](aup7LG54YRg/transcript.md) · [visuals](aup7LG54YRg/visuals.md) |
 | — | Chris Raroque | [Building a todo/calendar iOS widget for my app (coding day in the life)](https://www.youtube.com/watch?v=avJ_gimBPHs) | — | — | [transcript](avJ_gimBPHs/transcript.md) |
 | — | David Carbutt | [Palantir's Partnership With AWS](https://www.youtube.com/watch?v=avMuHaLJWfw) | — | — | [transcript](avMuHaLJWfw/transcript.md) |
 | — | Aswath Damodaran | [Session 9: More on beta - bottom up betas and private company betas](https://www.youtube.com/watch?v=awEyDWhEdhg) | — | — | [transcript](awEyDWhEdhg/transcript.md) · [materials](awEyDWhEdhg/materials/) |
-| — | Tom Nash | [How bad will inflation get in 2022 (and can the Fed really help?)](https://www.youtube.com/watch?v=awoe-TM6zMQ) | — | — | [transcript](awoe-TM6zMQ/transcript.md) |
+| — | Tom Nash | [How bad will inflation get in 2022 (and can the Fed really help?)](https://www.youtube.com/watch?v=awoe-TM6zMQ) | — | — | [transcript](awoe-TM6zMQ/transcript.md) · [visuals](awoe-TM6zMQ/visuals.md) |
 | — | Chris Raroque | [I went to Microsoft Build (as an iOS developer)](https://www.youtube.com/watch?v=awyUvDJJoFM) | — | — | [transcript](awyUvDJJoFM/transcript.md) |
 | — | Starter Story | [This app replaced my 9-5 ($155K/year)](https://www.youtube.com/watch?v=axH1e2cZSrw) | — | — | [transcript](axH1e2cZSrw/transcript.md) |
 | — | Tom Nash | [IMPORTANT WARNING: A Once in a Lifetime Event is Coming](https://www.youtube.com/watch?v=azbX3zILvQA) | — | — | [transcript](azbX3zILvQA/transcript.md) |
