@@ -4696,7 +4696,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Alex Karp Drops a Massive Warning](https://www.youtube.com/watch?v=b0s2gAAugHo) | — | — | [transcript](b0s2gAAugHo/transcript.md) |
 | — | Justin Sung | [Why NOTES kill good studying \| Study Clinic](https://www.youtube.com/watch?v=b12lnLc75to) | — | — | [transcript](b12lnLc75to/transcript.md) |
 | — | Greg Isenberg | [Claude Code Built My $450K Marketing Campaign](https://www.youtube.com/watch?v=b1mjQIiH7r4) | — | — | [transcript](b1mjQIiH7r4/transcript.md) |
-| — | Tom Nash | [Billionaire Steve Westly Just Dropped a MASSIVE Bombshell About Tesla](https://www.youtube.com/watch?v=b2176IiGRNU) | — | — | [transcript](b2176IiGRNU/transcript.md) |
+| — | Tom Nash | [Billionaire Steve Westly Just Dropped a MASSIVE Bombshell About Tesla](https://www.youtube.com/watch?v=b2176IiGRNU) | — | — | [transcript](b2176IiGRNU/transcript.md) · [visuals](b2176IiGRNU/visuals.md) |
 | — | HealthyGamerGG | [Do This Meditation Before Bed](https://www.youtube.com/watch?v=b2RhXCugEW4) | — | — | [transcript](b2RhXCugEW4/transcript.md) |
 | — | Ben Yanes | [STOP Doing Overhead Press (Here's Why)](https://www.youtube.com/watch?v=b4Mm1fE_z0o) | — | — | [transcript](b4Mm1fE_z0o/transcript.md) |
 | — | David Carbutt | [Dan Ives: Palantir’s $1,000,000,000,000 Opportunity.](https://www.youtube.com/watch?v=b4_FiBdRm5Y) | — | — | [transcript](b4_FiBdRm5Y/transcript.md) |
