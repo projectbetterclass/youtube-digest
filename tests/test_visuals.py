@@ -266,9 +266,55 @@ def test_capture_only_parallel_workers_handle_every_video(tmp_path, monkeypatch)
 
 
 BOT = "ERROR: [youtube] abc: Sign in to confirm you\u2019re not a bot. Use --cookies-from-browser"
+# yt-dlp 2026.08.19's other "YouTube is throttling this PC" wordings
+THROTTLES = [
+    BOT,
+    "ERROR: [youtube] abc: This content isn't available, try again later. The current session "
+    "has been rate-limited by YouTube for up to an hour. It is recommended to use `-t sleep`",
+    # the same reason with YouTube's curly apostrophe, which yt-dlp passes through un-rewritten
+    "ERROR: [youtube] abc: This content isn’t available, try again later.",
+    "ERROR: [youtube] abc: Video unavailable. YouTube is requiring a captcha challenge before playback",
+    "ERROR: [youtube] abc: All player responses are invalid. Your IP is likely being blocked by Youtube",
+    "ERROR: [youtube] abc: Failed to extract any player response; please report this issue on "
+    "https://github.com/yt-dlp/yt-dlp/issues",
+]
 
 
-def test_capture_only_stops_on_bot_check_without_marking(tmp_path, monkeypatch):
+@pytest.mark.parametrize("msg", THROTTLES)
+def test_throttle_wordings_are_recognised_and_not_retried(msg):
+    assert V._is_bot_check(RuntimeError(msg))
+    assert V._is_transient_download_error(RuntimeError(msg)) is False  # stop, don't hammer
+    # dead videos stay dead, and the Claude API's own rate limit isn't YouTube throttling
+    for other in ("ERROR: [youtube] abc: Join this channel to get access to members-only content",
+                  "ERROR: [youtube] abc: Private video. Sign in if you've been granted access",
+                  "ERROR: [youtube] abc: Sign in to confirm your age. This video may be inappropriate",
+                  "ERROR: [youtube] abc: Video unavailable. Please try again later.",
+                  "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': "
+                  "'... reduce the prompt length or the maximum tokens requested, or try again later.'}}"):
+        assert not V._is_bot_check(RuntimeError(other)), other
+
+
+def test_persistent_stream_429_is_retried_then_stops_the_capture(tmp_path, monkeypatch):
+    import time as _time
+
+    monkeypatch.setattr(C, "FRAMES_DIR", tmp_path)
+    monkeypatch.setattr(_time, "sleep", lambda s: None)
+    calls = []
+
+    def always_429(video_id, dest_dir, settings):
+        calls.append(video_id)
+        raise RuntimeError("ERROR: unable to download video data: HTTP Error 429: Too Many Requests")
+
+    monkeypatch.setattr(V, "_download_video_once", always_429)
+    monkeypatch.setattr(V, "capture_frames",
+                        lambda video, settings: V._download_video(video.video_id, str(tmp_path), settings))
+    assert V.run_capture_only(None, _channels(), {"visuals": {}}, _lib(), budget=10) == (0, 0)
+    assert calls == ["vidNEW"] * V.DOWNLOAD_ATTEMPTS          # retried, then the run stopped
+    assert not V.has_stored_frames("vidNEW") and not V.has_stored_frames("vidOLD")
+
+
+@pytest.mark.parametrize("msg", THROTTLES)
+def test_capture_only_stops_on_any_throttle_without_marking(tmp_path, monkeypatch, msg):
     monkeypatch.setattr(C, "FRAMES_DIR", tmp_path)
     lib = {"videos": {f"v{i:02d}": {"channel_id": "CID_ON", "channel": "On", "title": f"T{i}",
                                      "url": f"u{i}", "published": f"2026-01-{i + 1:02d}"} for i in range(6)}}
@@ -276,28 +322,38 @@ def test_capture_only_stops_on_bot_check_without_marking(tmp_path, monkeypatch):
 
     def fake_capture(video, settings):
         attempts.append(video.video_id)
-        if len(attempts) >= 2:  # newest first: v05 succeeds, then YouTube starts the bot check
-            raise RuntimeError(BOT)
+        if len(attempts) >= 2:
+            raise RuntimeError(msg)
         V.save_frames(video.video_id, [])
         return 0
 
     monkeypatch.setattr(V, "capture_frames", fake_capture)
     assert V.run_capture_only(None, _channels(), {"visuals": {}}, lib, budget=100) == (1, 0)
-    assert attempts == ["v05", "v04"]                       # stopped at the first bot check
-    assert [v for v in lib["videos"] if V.has_stored_frames(v)] == ["v05"]  # nothing marked
-    assert V._is_transient_download_error(RuntimeError(BOT)) is False       # and not retried
+    assert attempts == ["v05", "v04"]
+    assert [v for v in lib["videos"] if V.has_stored_frames(v)] == ["v05"]
 
 
-def test_reader_stops_on_bot_check_and_requeues_old_bot_failures(tmp_path, monkeypatch):
+def test_reader_requeues_every_old_throttle_failure(tmp_path, monkeypatch):
     monkeypatch.setattr(C, "FRAMES_DIR", tmp_path)
-    V.save_frames("vidOLD", [], error=BOT)  # noted as failed by a capture run before this fix
+    # both noted as failed by a capture run before this fix (newest first: vidNEW, vidOLD)
+    V.save_frames("vidNEW", [], error=THROTTLES[1][:200])
+    V.save_frames("vidOLD", [], error=BOT)
     state = {"visuals": {}}
     assert V.run_visuals(None, _channels(), state, _lib(), client=object(), budget=10, stored_only=True) == 0
-    assert state["visuals"] == {} and not V.has_stored_frames("vidOLD")  # back in the capture queue
+    assert state["visuals"] == {}                            # nothing marked failed ...
+    assert not V.has_stored_frames("vidNEW") and not V.has_stored_frames("vidOLD")  # ... both re-queued
 
-    def bot(video, settings, client):  # a live download hitting the check stops the run
-        raise RuntimeError(BOT)
 
-    monkeypatch.setattr(V, "process_video_visuals", bot)
+def test_live_throttle_stops_the_run_after_one_attempt(tmp_path, monkeypatch):
+    monkeypatch.setattr(C, "FRAMES_DIR", tmp_path)
+    calls = []
+
+    def throttled(video, settings, client):
+        calls.append(video.video_id)
+        raise RuntimeError(THROTTLES[1])
+
+    monkeypatch.setattr(V, "process_video_visuals", throttled)
+    state = {"visuals": {}}
     assert V.run_visuals(None, _channels(), state, _lib(), client=object(), budget=10) == 0
+    assert calls == ["vidNEW"]                               # stopped; vidOLD never tried
     assert state["visuals"] == {}

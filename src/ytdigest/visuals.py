@@ -200,12 +200,25 @@ def _download_video(video_id: str, dest_dir: str, settings: Settings) -> str:
     raise AssertionError("unreachable")
 
 
+# yt-dlp's wordings (checked in 2026.08.19) for "YouTube is throttling this PC", as opposed to
+# "this video is dead": the bot check, the guest-session rate limit ("This content isn't
+# available, try again later" -> "...rate-limited by YouTube for up to an hour"), the captcha
+# wall, the IP-block / no-player-response errors a 429 storm ends in (which can also mean an
+# outdated yt-dlp -- stopping is the right answer then too), and a 429 on the video stream that
+# outlasted _download_video's retries. Kept specific: a bare "try again later" would also match
+# per-video YouTube reasons and the Anthropic API's own rate-limit message.
+_THROTTLE_SIGNS = ("not a bot", "rate-limited by youtube", "content isn't available, try again later",
+                   "captcha challenge", "your ip is likely being blocked",
+                   "failed to extract any player response", "http error 429")
+
+
 def _is_bot_check(exc: Exception) -> bool:
-    """YouTube's "Sign in to confirm you're not a bot": the whole PC is being rate-limited,
-    not this one video. Retrying, or moving on to the next video, only digs the hole deeper
-    (each attempt fails in a second and would be marked as a dead video), so callers stop
-    the run without marking anything; it clears by itself after a few hours."""
-    return "not a bot" in str(exc).lower()
+    """YouTube is throttling the whole PC (the "confirm you're not a bot" check or one of its
+    siblings above), not refusing this one video. Retrying, or moving on to the next video,
+    only digs the hole deeper (each attempt fails in a second and would be marked as a dead
+    video), so callers stop the run without marking anything; it clears after a few hours."""
+    msg = str(exc).lower().replace("’", "'")  # YouTube writes "isn’t" / "you’re"
+    return any(s in msg for s in _THROTTLE_SIGNS)
 
 
 def _is_transient_download_error(exc: Exception) -> bool:
@@ -546,8 +559,9 @@ def run_capture_only(
     Same pending pool and order as run_visuals, minus videos already captured. Needs no
     API key and never touches the visuals ledger — the reader marks videos done later.
     A failed download (after retries) is noted in the manifest so it isn't retried every
-    run -- except YouTube's "confirm you're not a bot" check, which stops the whole run and
-    notes nothing, so those videos are simply captured by a later run. `workers` > 1
+    run -- except when YouTube throttles the PC ("confirm you're not a bot", "rate-limited",
+    captcha; see _is_bot_check), which stops the whole run and notes nothing, so those
+    videos are simply captured by a later run. `workers` > 1
     downloads several videos at once: YouTube caps each stream at a few MB/s, so parallel
     streams are what make capture faster (frame analysis is cheap).
     """
@@ -571,9 +585,9 @@ def run_capture_only(
             if _is_bot_check(exc):
                 if not bot_check.is_set():
                     bot_check.set()
-                    log.warning("YouTube is asking this PC to confirm it's not a bot -- stopping "
-                                "the capture, nothing marked. Wait a few hours, then re-run "
-                                "(with fewer --workers).")
+                    log.warning("YouTube is throttling this PC (bot check / rate limit): %s -- "
+                                "stopping the capture, nothing marked. Wait a few hours, then "
+                                "re-run (with fewer --workers).", str(exc)[:160])
                 return None
             log.warning("Capture failed for %s (%s): %s", video.title, video.video_id, exc)
             save_frames(video.video_id, [], error=str(exc)[:200])
@@ -634,12 +648,12 @@ def run_visuals(
                 break
             if _is_bot_check(exc):
                 if "capture failed earlier" in str(exc):
-                    # noted by a capture run from before the bot check stopped runs: re-queue
+                    # noted by a capture run from before throttling stopped runs: re-queue it
                     clear_frames(video.video_id)
-                    log.info("%s: earlier capture hit YouTube's bot check — re-queued for capture",
+                    log.info("%s: earlier capture was throttled by YouTube — re-queued for capture",
                              video.video_id)
                     continue
-                log.warning("YouTube is asking this PC to confirm it's not a bot — stopping, "
+                log.warning("YouTube is throttling this PC (bot check / rate limit) — stopping, "
                             "nothing marked; re-run in a few hours.")
                 break
             log.warning("Visual capture failed for %s (%s): %s", video.title, video.video_id, exc)
