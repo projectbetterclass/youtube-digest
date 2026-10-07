@@ -5774,9 +5774,9 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [LETTING GO MISTAKES 95% Of People Make & How To Fix Them](https://www.youtube.com/watch?v=kBRH7jZUybg) | — | — | [transcript](kBRH7jZUybg/transcript.md) |
 | — | David Carbutt | [Microsoft CEO's Huge Predictions STUN Host](https://www.youtube.com/watch?v=kCT3Kjmc-uQ) | — | — | [transcript](kCT3Kjmc-uQ/transcript.md) |
 | — | Greg Isenberg | [I can't believe we coded an app with AI in 67 mins (V0, Cursor AI, Replit, Claude AI)](https://www.youtube.com/watch?v=kDcM_xwmP3Q) | — | — | [transcript](kDcM_xwmP3Q/transcript.md) |
-| — | Tom Nash | [Will Tesla Stock Suffer Due To Inflation and Elevated Interest?](https://www.youtube.com/watch?v=kE_SKTyH0vY) | — | — | [transcript](kE_SKTyH0vY/transcript.md) |
+| — | Tom Nash | [Will Tesla Stock Suffer Due To Inflation and Elevated Interest?](https://www.youtube.com/watch?v=kE_SKTyH0vY) | — | — | [transcript](kE_SKTyH0vY/transcript.md) · [visuals](kE_SKTyH0vY/visuals.md) |
 | — | Ben Yanes | [Modern Meathead Experience #39 - Exercise Mechanics, Technique, & More](https://www.youtube.com/watch?v=kEhyMYT7yzw) | — | — | [transcript](kEhyMYT7yzw/transcript.md) |
-| — | Tom Nash | [Dear Graham Stephan …What I REALLY Think Of You [And Your Mansion]](https://www.youtube.com/watch?v=kFmCExSiWUM) | — | — | [transcript](kFmCExSiWUM/transcript.md) |
+| — | Tom Nash | [Dear Graham Stephan …What I REALLY Think Of You [And Your Mansion]](https://www.youtube.com/watch?v=kFmCExSiWUM) | — | — | [transcript](kFmCExSiWUM/transcript.md) · [visuals](kFmCExSiWUM/visuals.md) |
 | — | Aswath Damodaran | [Session 6: Equity Risk Premiums](https://www.youtube.com/watch?v=kG50tjpthFs) | — | — | [transcript](kG50tjpthFs/transcript.md) · [materials](kG50tjpthFs/materials/) |
 | — | Ticker Symbol: YOU | [Cathie Wood: These Stocks Will EXPLODE in 2023](https://www.youtube.com/watch?v=kG6MzOFT9RM) | — | — | [transcript](kG6MzOFT9RM/transcript.md) · [visuals](kG6MzOFT9RM/visuals.md) |
 | — | Ben Yanes | [Why Does Everyone Get Back Pain On This Machine?](https://www.youtube.com/watch?v=kGKKCVTlpoA) | — | — | [transcript](kGKKCVTlpoA/transcript.md) |
