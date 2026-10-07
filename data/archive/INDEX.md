@@ -5686,8 +5686,8 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Why Michael Burry's Recent Bets Predict The Downfall of The Stock Market](https://www.youtube.com/watch?v=jKV8QTyzTKk) | — | — | [transcript](jKV8QTyzTKk/transcript.md) · [visuals](jKV8QTyzTKk/visuals.md) |
 | — | David Carbutt | [Cathie Wood Makes a HUGEEEEE Prediction](https://www.youtube.com/watch?v=jKaFAn-2c9U) | — | — | [transcript](jKaFAn-2c9U/transcript.md) |
 | — | New Money | [Did Apple Just Have Its Moat Blocked? (Epic Games Lawsuit)](https://www.youtube.com/watch?v=jLTLEVmSPwI) | — | — | [transcript](jLTLEVmSPwI/transcript.md) |
-| — | Tom Nash | [The one thing EVERYONE is missing about Palantir](https://www.youtube.com/watch?v=jNYBBx0wU3A) | — | — | [transcript](jNYBBx0wU3A/transcript.md) |
-| — | Tom Nash | [URGENT: Major Warning for Stocks](https://www.youtube.com/watch?v=jNeC79x-ED4) | — | — | [transcript](jNeC79x-ED4/transcript.md) |
+| — | Tom Nash | [The one thing EVERYONE is missing about Palantir](https://www.youtube.com/watch?v=jNYBBx0wU3A) | — | — | [transcript](jNYBBx0wU3A/transcript.md) · [visuals](jNYBBx0wU3A/visuals.md) |
+| — | Tom Nash | [URGENT: Major Warning for Stocks](https://www.youtube.com/watch?v=jNeC79x-ED4) | — | — | [transcript](jNeC79x-ED4/transcript.md) · [visuals](jNeC79x-ED4/visuals.md) |
 | — | Tom Nash | [Most Investors Are Not Ready For What is About to Happen (Do This ASAP)](https://www.youtube.com/watch?v=jNxLE8qq8eg) | — | — | [transcript](jNxLE8qq8eg/transcript.md) |
 | — | HealthyGamerGG | [Your Goals Are Incompatible With Modern Life](https://www.youtube.com/watch?v=jOUoDCuKYbU) | — | — | [transcript](jOUoDCuKYbU/transcript.md) |
 | — | Tom Nash | [Elon Musk Reveals Tesla 2022 Goals (& Jokes about Retirement)](https://www.youtube.com/watch?v=jOWvHH43t38) | — | — | [transcript](jOWvHH43t38/transcript.md) |
