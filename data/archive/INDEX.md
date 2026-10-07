@@ -5624,13 +5624,13 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [The OpenAI Deal That Changes Everything](https://www.youtube.com/watch?v=iqCZCIyc-tI) | — | — | [transcript](iqCZCIyc-tI/transcript.md) |
 | — | Aswath Damodaran | [Session 9 (Undergraduate): Determinants of Betas](https://www.youtube.com/watch?v=iqE7iUr53y0) | — | — | [transcript](iqE7iUr53y0/transcript.md) · [materials](iqE7iUr53y0/materials/) |
 | — | David Carbutt | [Alex Karp's SHOCKING View on the Future of AI!](https://www.youtube.com/watch?v=iqF-qS2cDCA) | — | — | [transcript](iqF-qS2cDCA/transcript.md) |
-| — | Tom Nash | [Things are about to go CRAZY!](https://www.youtube.com/watch?v=iqXJrmDdCtI) | — | — | [transcript](iqXJrmDdCtI/transcript.md) |
+| — | Tom Nash | [Things are about to go CRAZY!](https://www.youtube.com/watch?v=iqXJrmDdCtI) | — | — | [transcript](iqXJrmDdCtI/transcript.md) · [visuals](iqXJrmDdCtI/visuals.md) |
 | — | Aswath Damodaran | [Session 19: Financing Mix - The Rest of the Story](https://www.youtube.com/watch?v=iqvjWuGxhM4) | — | — | [transcript](iqvjWuGxhM4/transcript.md) · [materials](iqvjWuGxhM4/materials/) |
 | — | Aswath Damodaran | [Session 12: Valuation](https://www.youtube.com/watch?v=iqyAHpXZ0Ws) | — | — | [transcript](iqyAHpXZ0Ws/transcript.md) · [materials](iqyAHpXZ0Ws/materials/) |
 | — | Aswath Damodaran | [A Tesla Revisit: Story Twists and Turns with Value Consequences](https://www.youtube.com/watch?v=iqyfByXmZHI) | — | — | [transcript](iqyfByXmZHI/transcript.md) · [materials](iqyfByXmZHI/materials/) |
 | — | Starter Story | [Meet The Kid Who Made $1M with ChatGPT](https://www.youtube.com/watch?v=irEi7DVBHdA) | — | — | [transcript](irEi7DVBHdA/transcript.md) |
 | — | David Carbutt | [You'll Love Palantir After This Video!](https://www.youtube.com/watch?v=it1kMu0Kal4) | — | — | [transcript](it1kMu0Kal4/transcript.md) |
-| — | Tom Nash | [History is about to repeat itself](https://www.youtube.com/watch?v=itCMrH3ZTD4) | — | — | [transcript](itCMrH3ZTD4/transcript.md) |
+| — | Tom Nash | [History is about to repeat itself](https://www.youtube.com/watch?v=itCMrH3ZTD4) | — | — | [transcript](itCMrH3ZTD4/transcript.md) · [visuals](itCMrH3ZTD4/visuals.md) |
 | — | David Carbutt | [NVIDIA Employee Impressed by Palantir!](https://www.youtube.com/watch?v=itF5TgKNimE) | — | — | [transcript](itF5TgKNimE/transcript.md) |
 | — | David Carbutt | [Cathie Wood Drops MASSIVE Prediction](https://www.youtube.com/watch?v=itlHIsNj6WY) | — | — | [transcript](itlHIsNj6WY/transcript.md) |
 | — | Ben Yanes | [Which Lateral Raise Is Best?](https://www.youtube.com/watch?v=iuf-y6pQDtU) | — | — | [transcript](iuf-y6pQDtU/transcript.md) |
@@ -5659,7 +5659,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Why You Wasted The Last 5 Years Of Your Life](https://www.youtube.com/watch?v=j6jrBZQo5fM) | — | — | [transcript](j6jrBZQo5fM/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Goldman's Shocking Warning](https://www.youtube.com/watch?v=j6urjv19dBo) | — | — | [transcript](j6urjv19dBo/transcript.md) |
 | — | David Carbutt | [Alex Karp Reveals Palantir's SHOCKING Q1!](https://www.youtube.com/watch?v=j7l0YzTl9ow) | — | — | [transcript](j7l0YzTl9ow/transcript.md) |
-| — | Tom Nash | [Tesla CEO Elon Musk Getting Sued](https://www.youtube.com/watch?v=j7qKoK2O-Xo) | — | — | [transcript](j7qKoK2O-Xo/transcript.md) |
+| — | Tom Nash | [Tesla CEO Elon Musk Getting Sued](https://www.youtube.com/watch?v=j7qKoK2O-Xo) | — | — | [transcript](j7qKoK2O-Xo/transcript.md) · [visuals](j7qKoK2O-Xo/visuals.md) |
 | — | Tom Nash | [Losing Money in The Stock Market? Try This](https://www.youtube.com/watch?v=j81GRO-CENE) | — | — | [transcript](j81GRO-CENE/transcript.md) |
 | — | Ben Yanes | [How To Squat: Quads VS Glutes](https://www.youtube.com/watch?v=j9NH3-o5XXk) | — | — | [transcript](j9NH3-o5XXk/transcript.md) |
 | — | Aswath Damodaran | [Valeant: Information Vacuums, Management Credibility and Investment Value](https://www.youtube.com/watch?v=jAhMqNhL5ho) | — | — | [transcript](jAhMqNhL5ho/transcript.md) · [materials](jAhMqNhL5ho/materials/) |
