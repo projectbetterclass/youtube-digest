@@ -5561,9 +5561,9 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Mental Health Bootcamp: Anxiety \| Healthy Gamer Webinar #2](https://www.youtube.com/watch?v=iK-T74wxkks) | — | — | [transcript](iK-T74wxkks/transcript.md) |
 | — | New Money | [The US Literally Cannot Repay Its National Debt.](https://www.youtube.com/watch?v=iK5dpPzjaPA) | — | — | [transcript](iK5dpPzjaPA/transcript.md) |
 | — | Justin Sung | [Write 10x LESS NOTES and 2x Better Grades \| STUDY CLINIC](https://www.youtube.com/watch?v=iKCq12gx80E) | — | — | [transcript](iKCq12gx80E/transcript.md) |
-| — | Tom Nash | [If you are a PALANTIR shareholder….GET READY](https://www.youtube.com/watch?v=iKF2v_G5P8w) | — | — | [transcript](iKF2v_G5P8w/transcript.md) |
+| — | Tom Nash | [If you are a PALANTIR shareholder….GET READY](https://www.youtube.com/watch?v=iKF2v_G5P8w) | — | — | [transcript](iKF2v_G5P8w/transcript.md) · [visuals](iKF2v_G5P8w/visuals.md) |
 | — | Riley Brown | [I Built an Entire Marketing Team With One AI Agent (no code with n8n)](https://www.youtube.com/watch?v=iLtU0wQvCBU) | — | — | [transcript](iLtU0wQvCBU/transcript.md) |
-| — | Tom Nash | [TESLA: Herbert Diess [Volkswagen Group CEO] Admits Defeat, Credits Elon](https://www.youtube.com/watch?v=iM-xf6gHX0I) | — | — | [transcript](iM-xf6gHX0I/transcript.md) |
+| — | Tom Nash | [TESLA: Herbert Diess [Volkswagen Group CEO] Admits Defeat, Credits Elon](https://www.youtube.com/watch?v=iM-xf6gHX0I) | — | — | [transcript](iM-xf6gHX0I/transcript.md) · [visuals](iM-xf6gHX0I/visuals.md) |
 | — | David Carbutt | [WTF is Happening to Amazon & Microsoft](https://www.youtube.com/watch?v=iNd1BsJpY2k) | — | — | [transcript](iNd1BsJpY2k/transcript.md) |
 | — | David Carbutt | [Palantir's Return on Investment](https://www.youtube.com/watch?v=iNmelQgYC5c) | — | — | [transcript](iNmelQgYC5c/transcript.md) |
 | — | New Money | [Michael Burry CALLS OUT The Fed's Inflation Metrics](https://www.youtube.com/watch?v=iOLA9vCFLe0) | — | — | [transcript](iOLA9vCFLe0/transcript.md) |
@@ -5574,7 +5574,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | ["Y Combinator Is Overrated" - Inside the brain of this 22-Year-Old who built Multiple Viral Products](https://www.youtube.com/watch?v=iSqGvjBoPh4) | — | — | [transcript](iSqGvjBoPh4/transcript.md) |
 | — | HealthyGamerGG | [What Do You Do When You Have a Panic Attack](https://www.youtube.com/watch?v=iT3Kqwp2LCY) | — | — | [transcript](iT3Kqwp2LCY/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The One Mistake That Makes Investors Poor](https://www.youtube.com/watch?v=iU7gawUa-98) | — | — | [transcript](iU7gawUa-98/transcript.md) |
-| — | Tom Nash | [This is a bad idea](https://www.youtube.com/watch?v=iUbPr1ChYVQ) | — | — | [transcript](iUbPr1ChYVQ/transcript.md) |
+| — | Tom Nash | [This is a bad idea](https://www.youtube.com/watch?v=iUbPr1ChYVQ) | — | — | [transcript](iUbPr1ChYVQ/transcript.md) · [visuals](iUbPr1ChYVQ/visuals.md) |
 | — | David Carbutt | [Joe Rogan Drops MASSIVE Warning on AI](https://www.youtube.com/watch?v=iUmglaa4zsY) | — | — | [transcript](iUmglaa4zsY/transcript.md) |
 | — | HealthyGamerGG | [Why Streamers feel like your best friend...](https://www.youtube.com/watch?v=iVuq0L2xi24) | — | — | [transcript](iVuq0L2xi24/transcript.md) |
 | — | Ben Yanes | [Seated Leg Curls: Steps to Perfect it](https://www.youtube.com/watch?v=iVvlZ3qawVo) | — | — | [transcript](iVvlZ3qawVo/transcript.md) |
@@ -5582,7 +5582,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Icahn exits, Buffett enters, Whither Apple? The Big Name Investor Effect](https://www.youtube.com/watch?v=iW7LBGwzxsE) | — | — | [transcript](iW7LBGwzxsE/transcript.md) · [materials](iW7LBGwzxsE/materials/) |
 | — | David Carbutt | [Alex Karp: Will Palantir Kill Jobs?](https://www.youtube.com/watch?v=iWJSiGNt4qo) | — | — | [transcript](iWJSiGNt4qo/transcript.md) |
 | — | Justin Sung | [The 2 MUST-HAVE Ingredients to Study Efficiently](https://www.youtube.com/watch?v=iWrxagzHSSY) | — | — | [transcript](iWrxagzHSSY/transcript.md) |
-| — | Tom Nash | [AAPL: Why Apple Stock Will Continue to Outperform in 2021](https://www.youtube.com/watch?v=iXDv5fAQO60) | — | — | [transcript](iXDv5fAQO60/transcript.md) |
+| — | Tom Nash | [AAPL: Why Apple Stock Will Continue to Outperform in 2021](https://www.youtube.com/watch?v=iXDv5fAQO60) | — | — | [transcript](iXDv5fAQO60/transcript.md) · [visuals](iXDv5fAQO60/visuals.md) |
 | — | New Money | [Peter Lynch: How to Invest in an Overvalued Market](https://www.youtube.com/watch?v=iX_8UI9frjE) | — | — | [transcript](iX_8UI9frjE/transcript.md) |
 | — | HealthyGamerGG | [The World Dr. K Doesn't Want to Live In](https://www.youtube.com/watch?v=iXdZS76agHM) | — | — | [transcript](iXdZS76agHM/transcript.md) |
 | — | Ticker Symbol: YOU | [Top 3 Chip Stocks I'm Buying Now (Over Nvidia Stock)](https://www.youtube.com/watch?v=iXqXOddmRp8) | — | — | [transcript](iXqXOddmRp8/transcript.md) · [visuals](iXqXOddmRp8/visuals.md) |
@@ -5600,7 +5600,7 @@ Each transcript link points to the full text under this folder.
 | — | New Money | [The Stock Market is 'Priced to Insanity'.](https://www.youtube.com/watch?v=idxW9VGdXoA) | — | — | [transcript](idxW9VGdXoA/transcript.md) |
 | — | David Carbutt | [Dan Ives Calls Palantir the MESSI of AI](https://www.youtube.com/watch?v=ieAVcRipaAc) | — | — | [transcript](ieAVcRipaAc/transcript.md) |
 | — | HealthyGamerGG | [Why Millennials Are Quitting Their Jobs \| Great Resignation + r/antiwork](https://www.youtube.com/watch?v=ieStO3JqWJ0) | — | — | [transcript](ieStO3JqWJ0/transcript.md) |
-| — | Tom Nash | [Cathie Wood and Elon Musk JUST Shocked The World...](https://www.youtube.com/watch?v=if3pC59pe6Q) | — | — | [transcript](if3pC59pe6Q/transcript.md) |
+| — | Tom Nash | [Cathie Wood and Elon Musk JUST Shocked The World...](https://www.youtube.com/watch?v=if3pC59pe6Q) | — | — | [transcript](if3pC59pe6Q/transcript.md) · [visuals](if3pC59pe6Q/visuals.md) |
 | — | David Carbutt | [Nvidia's $4.5T Monopoly:Why Nobody Can Leave](https://www.youtube.com/watch?v=ifk8HzXe4B4) | — | — | [transcript](ifk8HzXe4B4/transcript.md) |
 | — | HealthyGamerGG | [When to Change vs Accept Who You Are](https://www.youtube.com/watch?v=iflcK39wJ2M) | — | — | [transcript](iflcK39wJ2M/transcript.md) |
 | — | Riley Brown | [28 Insane Things Astra Can Do (2 Hour Course)](https://www.youtube.com/watch?v=ifz8NGHuHtY) | — | — | [transcript](ifz8NGHuHtY/transcript.md) |
