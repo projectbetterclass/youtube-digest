@@ -6983,12 +6983,12 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [Top 4 AI Stocks to Buy Now (ChatGPT Is Killing Google Stock)](https://www.youtube.com/watch?v=tSsI3eqxbUA) | — | — | [transcript](tSsI3eqxbUA/transcript.md) · [visuals](tSsI3eqxbUA/visuals.md) |
 | — | BWB - Business With Brian | [7 Best Cyber Security Stock of 2024: Massive Wave of Growth!](https://www.youtube.com/watch?v=tSwJAruVKeA) | — | — | [transcript](tSwJAruVKeA/transcript.md) · [visuals](tSwJAruVKeA/visuals.md) |
 | — | Aswath Damodaran | [Session 9: Bottom Up Betas](https://www.youtube.com/watch?v=tTtX9Zx4mgc) | — | — | [transcript](tTtX9Zx4mgc/transcript.md) · [materials](tTtX9Zx4mgc/materials/) |
-| — | Tom Nash | [Oracle is The Next Big AI Stock (That Nobody is Talking About)](https://www.youtube.com/watch?v=tUPxWwWLodM) | — | — | [transcript](tUPxWwWLodM/transcript.md) |
+| — | Tom Nash | [Oracle is The Next Big AI Stock (That Nobody is Talking About)](https://www.youtube.com/watch?v=tUPxWwWLodM) | — | — | [transcript](tUPxWwWLodM/transcript.md) · [visuals](tUPxWwWLodM/visuals.md) |
 | — | Greg Isenberg | [OpenAI Codex: Build Apps That Work For You 24/7](https://www.youtube.com/watch?v=tUeSxXHmE9w) | — | — | [transcript](tUeSxXHmE9w/transcript.md) |
 | — | BWB - Business With Brian | [I Got Rich in 2008. This Time It's Bigger](https://www.youtube.com/watch?v=tV3ABz5kQgs) | — | — | [transcript](tV3ABz5kQgs/transcript.md) · [visuals](tV3ABz5kQgs/visuals.md) |
 | — | Tom Nash | [Whistleblower Now Saying Twitter Intentionally Lied To Elon Musk](https://www.youtube.com/watch?v=tV64ojG4Y1w) | — | — | [transcript](tV64ojG4Y1w/transcript.md) · [visuals](tV64ojG4Y1w/visuals.md) |
 | — | Aswath Damodaran | [In Search of a Steady State: Inflation, Interest Rates and Value](https://www.youtube.com/watch?v=tVMo1awKOGA) | — | — | [transcript](tVMo1awKOGA/transcript.md) · [materials](tVMo1awKOGA/materials/) |
-| — | Tom Nash | [Scary News For Tesla...](https://www.youtube.com/watch?v=tW833ztii2Y) | — | — | [transcript](tW833ztii2Y/transcript.md) |
+| — | Tom Nash | [Scary News For Tesla...](https://www.youtube.com/watch?v=tW833ztii2Y) | — | — | [transcript](tW833ztii2Y/transcript.md) · [visuals](tW833ztii2Y/visuals.md) |
 | — | Ticker Symbol: YOU | [NVIDIA CEO Jensen Huang Leaves Everyone SPEECHLESS (CES Supercut)](https://www.youtube.com/watch?v=tXGlS460b_w) | — | — | [transcript](tXGlS460b_w/transcript.md) · [visuals](tXGlS460b_w/visuals.md) |
 | — | Aswath Damodaran | [Marking Time: Another year, a new semester and fresh classes!](https://www.youtube.com/watch?v=tXPY-34nflM) | — | — | [transcript](tXPY-34nflM/transcript.md) |
 | — | Justin Sung | [You're Overconfident About Your Skills (Here's Why)](https://www.youtube.com/watch?v=tXSNfuUilio) | — | — | [transcript](tXSNfuUilio/transcript.md) |
