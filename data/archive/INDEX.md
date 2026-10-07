@@ -6889,7 +6889,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Elon's Twitter Takeover and The Future of Social Media with Sriram Krishnan](https://www.youtube.com/watch?v=sivgW4U79DU) | — | — | [transcript](sivgW4U79DU/transcript.md) |
 | — | HealthyGamerGG | [Dr. K Plays The Client: Anxiety](https://www.youtube.com/watch?v=sje08Z_K1qA) | — | — | [transcript](sje08Z_K1qA/transcript.md) |
 | — | Alex Hormozi | [Give Me 47 minutes, And I'll Fix Your Small Business](https://www.youtube.com/watch?v=sjt5G3YPjmY) | — | — | [transcript](sjt5G3YPjmY/transcript.md) |
-| — | Tom Nash | [This Investing Opportunity Could Change (Early Investors) Life](https://www.youtube.com/watch?v=sk1s7CbaKbE) | — | — | [transcript](sk1s7CbaKbE/transcript.md) |
+| — | Tom Nash | [This Investing Opportunity Could Change (Early Investors) Life](https://www.youtube.com/watch?v=sk1s7CbaKbE) | — | — | [transcript](sk1s7CbaKbE/transcript.md) · [visuals](sk1s7CbaKbE/visuals.md) |
 | — | New Money | [5 Stocks the Smart Money is Buying for 2024.](https://www.youtube.com/watch?v=sl1IoOA2gw8) | — | — | [transcript](sl1IoOA2gw8/transcript.md) |
 | — | New Money | [Stock Splits are Secretly Pumping the Stock Market](https://www.youtube.com/watch?v=slAYBm6RiXg) | — | — | [transcript](slAYBm6RiXg/transcript.md) |
 | — | JulienHimself | [How To Be Unapologetically You (Even If Everyone Hates It)](https://www.youtube.com/watch?v=slBSEsEn9aQ) | — | — | [transcript](slBSEsEn9aQ/transcript.md) |
@@ -6909,7 +6909,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Rethinking Palantir...](https://www.youtube.com/watch?v=sqVm6XJYhjU) | — | — | [transcript](sqVm6XJYhjU/transcript.md) · [visuals](sqVm6XJYhjU/visuals.md) |
 | — | Ben Yanes | [Modern Meathead Experience #23 - Ethan's Training (part 2)](https://www.youtube.com/watch?v=srLhwmOOMjI) | — | — | [transcript](srLhwmOOMjI/transcript.md) |
 | — | Aswath Damodaran | [Country Risk: Determinants, Measures and Implications - The 2026 Edition](https://www.youtube.com/watch?v=sres2R8etKA) | — | — | [transcript](sres2R8etKA/transcript.md) · [materials](sres2R8etKA/materials/) |
-| — | Tom Nash | [Michael Burry Issues URGENT WARNING for Palantir](https://www.youtube.com/watch?v=ss2o-grr4qs) | — | — | [transcript](ss2o-grr4qs/transcript.md) |
+| — | Tom Nash | [Michael Burry Issues URGENT WARNING for Palantir](https://www.youtube.com/watch?v=ss2o-grr4qs) | — | — | [transcript](ss2o-grr4qs/transcript.md) · [visuals](ss2o-grr4qs/visuals.md) |
 | — | HealthyGamerGG | [A Guide To Living Without Regret (Using Science)](https://www.youtube.com/watch?v=ss7QOgJJlVQ) | — | — | [transcript](ss7QOgJJlVQ/transcript.md) |
 | — | David Carbutt | [Google Just Fired a Shot at Nvidia](https://www.youtube.com/watch?v=sua2qt4vzeQ) | — | — | [transcript](sua2qt4vzeQ/transcript.md) |
 | — | HealthyGamerGG | [Why Does Your ADHD Make Things So Hard?](https://www.youtube.com/watch?v=svD71EJWOBU) | — | — | [transcript](svD71EJWOBU/transcript.md) |
