@@ -108,13 +108,17 @@ re-run after topping up continues cleanly.
 459/869, New Money 228/440 read — 1,252 videos, 8,530 charts in the library. Tom Nash's 8
 failures are members-only videos (can't be downloaded). Capture ran as one capture-only job
 per channel (`--workers 2`) plus a stored-only reader committing every batch, ~85 videos/hour.
-**PAUSED at 03:15 on 2026-10-07:** after ~3.5 h of 6 parallel downloads, YouTube started
+**YouTube throttling, 2026-10-07 03:15:** after ~3.5 h of 6 parallel downloads, YouTube started
 answering every download from the PC with "Sign in to confirm you're not a bot" (a temporary
 rate limit on the home connection). The jobs were stopped and the 38 videos wrongly marked
-failed were re-queued (23289cd6). PR #62 makes capture stop by itself on this check instead
-of marking videos — **merge it before restarting capture**. Resume only after a few hours'
-cool-down, more gently: one channel at a time with `--workers 1` or 2. Never work around the
-check with browser cookies.
+failed were re-queued (23289cd6). It had cleared by 17:17 (14 h later).
+**Resumed 17:19, gently:** one channel at a time (Ticker → Tom Nash → New Money), `--workers 2`,
+under a supervisor script (session scratchpad `capture_chain.py`) that kills capture at the
+first throttle message and re-queues anything it noted. PR #62 builds that stop into
+`visuals.py` itself (bot check, rate limit, captcha, IP block, persistent 429), reviewed twice
+by multi-agent adversarial review; **the user must merge it** (the merge was blocked for me).
+Until it's merged, never run plain `--capture-only` jobs unsupervised. Never work around
+YouTube's check with browser cookies.
 
 The visuals job only advances while the PC's runner is online; the cloud digest is
 independent. It keeps its own ledger `data/visuals_state.json` and writes only
