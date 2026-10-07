@@ -6997,14 +6997,14 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [CONFIDENCE HACKS (I Wish I'd Known Sooner)](https://www.youtube.com/watch?v=tZgMW8A39BQ) | — | — | [transcript](tZgMW8A39BQ/transcript.md) |
 | — | HealthyGamerGG | [Dr. K gets a Haircut while giving Self-Care tips](https://www.youtube.com/watch?v=tZub0X8dl9M) | — | — | [transcript](tZub0X8dl9M/transcript.md) |
 | — | HealthyGamerGG | [How to Have A Personality](https://www.youtube.com/watch?v=t_NRIVq2vzM) | — | — | [transcript](t_NRIVq2vzM/transcript.md) |
-| — | Tom Nash | [IMPORTANT WARNING: A Once in a Lifetime Event is Coming in 2026](https://www.youtube.com/watch?v=ta0gA_sCxVg) | — | — | [transcript](ta0gA_sCxVg/transcript.md) |
+| — | Tom Nash | [IMPORTANT WARNING: A Once in a Lifetime Event is Coming in 2026](https://www.youtube.com/watch?v=ta0gA_sCxVg) | — | — | [transcript](ta0gA_sCxVg/transcript.md) · [visuals](ta0gA_sCxVg/visuals.md) |
 | — | BWB - Business With Brian | [Top 5 Monthly Dividend ETFs with High Growth](https://www.youtube.com/watch?v=taDuE6YYMiw) | — | — | [transcript](taDuE6YYMiw/transcript.md) · [visuals](taDuE6YYMiw/visuals.md) |
 | — | Aswath Damodaran | [Session 22: The Dividend Trade off - Good and Bad Reasons for Paying Dividends](https://www.youtube.com/watch?v=taDy3ukoxa0) | — | — | [transcript](taDy3ukoxa0/transcript.md) · [materials](taDy3ukoxa0/materials/) |
 | — | Ben Yanes | [Why You Hit A Plateau (and what to do)](https://www.youtube.com/watch?v=taF_OmzMcLM) | — | — | [transcript](taF_OmzMcLM/transcript.md) |
 | — | Greg Isenberg | [NFTs with Gary Vaynerchuk \| Where It Happens](https://www.youtube.com/watch?v=taaobzr-FCM) | — | — | [transcript](taaobzr-FCM/transcript.md) |
 | — | JulienHimself | [The Subtle Art Of Making People Like You: How To Be More Charismatic (Feat. Jeffy & Kinobody)](https://www.youtube.com/watch?v=tb8op-UV7k4) | — | — | [transcript](tb8op-UV7k4/transcript.md) |
 | — | HealthyGamerGG | [The Easiest Way To Stop Sabotaging Your Future](https://www.youtube.com/watch?v=tbjTrR8yeUc) | — | — | [transcript](tbjTrR8yeUc/transcript.md) |
-| — | Tom Nash | [The end of Palantir? (Why $PLTR is down and keeps dropping?)](https://www.youtube.com/watch?v=tbpowoLx-J8) | — | — | [transcript](tbpowoLx-J8/transcript.md) |
+| — | Tom Nash | [The end of Palantir? (Why $PLTR is down and keeps dropping?)](https://www.youtube.com/watch?v=tbpowoLx-J8) | — | — | [transcript](tbpowoLx-J8/transcript.md) · [visuals](tbpowoLx-J8/visuals.md) |
 | — | JulienHimself | [Achieve Extraordinary Success - Motivational Video (Feat. Julien Blanc)](https://www.youtube.com/watch?v=tbsqLWFHZ_I) | — | — | [transcript](tbsqLWFHZ_I/transcript.md) |
 | — | HealthyGamerGG | [Let's Talk about Perfectionism (Reddit Review)](https://www.youtube.com/watch?v=tcXCnYs6s_U) | — | — | [transcript](tcXCnYs6s_U/transcript.md) |
 | — | JulienHimself | [Super Rich: A Guide To Having It All (Russell Simmons Super Rich Book Review)](https://www.youtube.com/watch?v=td_VefV8SgA) | — | — | [transcript](td_VefV8SgA/transcript.md) |
@@ -7019,7 +7019,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [How to build a $1M+ Consumer SaaS App (step-by-step guide)](https://www.youtube.com/watch?v=tj5PzoqxLCQ) | — | — | [transcript](tj5PzoqxLCQ/transcript.md) |
 | — | Greg Isenberg | [Does Grok 4 Deserve a Spot In Your AI Stack? (Here's The Truth)](https://www.youtube.com/watch?v=tk2HbliM5u4) | — | — | [transcript](tk2HbliM5u4/transcript.md) |
 | — | Justin Sung | [Spend 1 Hour Studying to Save 20 Hrs Later](https://www.youtube.com/watch?v=tkkey3ADfCI) | — | — | [transcript](tkkey3ADfCI/transcript.md) |
-| — | Tom Nash | [Tom Lee Leaves Entire CNBC Panel SPEECHLESS about 2024](https://www.youtube.com/watch?v=tlGWyoyNNf0) | — | — | [transcript](tlGWyoyNNf0/transcript.md) |
+| — | Tom Nash | [Tom Lee Leaves Entire CNBC Panel SPEECHLESS about 2024](https://www.youtube.com/watch?v=tlGWyoyNNf0) | — | — | [transcript](tlGWyoyNNf0/transcript.md) · [visuals](tlGWyoyNNf0/visuals.md) |
 | — | Justin Sung | [If You Are Feeling Lost In Life, This Video Is For You](https://www.youtube.com/watch?v=tlcoIcOCV2g) | — | — | [transcript](tlcoIcOCV2g/transcript.md) |
 | — | Tom Nash | [Palantir Earnings Recap [Revealing My New 5 Year Price Target]](https://www.youtube.com/watch?v=tlogQIhTX_U) | — | — | [transcript](tlogQIhTX_U/transcript.md) |
 | — | Aswath Damodaran | [Session 4: Externalities, Alternative to Shareholder Wealth Maximization and the End Game](https://www.youtube.com/watch?v=tm--EaAn9xM) | — | — | [transcript](tm--EaAn9xM/transcript.md) |
