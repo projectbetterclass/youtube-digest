@@ -4796,7 +4796,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [I Stopped Living By SOCIETY’S RULES & This Happened](https://www.youtube.com/watch?v=bp7ZibClXhE) | — | — | [transcript](bp7ZibClXhE/transcript.md) |
 | — | David Carbutt | [Palantir's Future With Trump Will be HUGE](https://www.youtube.com/watch?v=bpCPfvSeBtE) | — | — | [transcript](bpCPfvSeBtE/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [If You Don't Understand the Petrodollar, You Don't Understand Money](https://www.youtube.com/watch?v=bpEFA4LH6MM) | — | — | [transcript](bpEFA4LH6MM/transcript.md) |
-| — | Tom Nash | [The FED Just RESET The Stock Market](https://www.youtube.com/watch?v=bq0BmJHpVGA) | — | — | [transcript](bq0BmJHpVGA/transcript.md) |
+| — | Tom Nash | [The FED Just RESET The Stock Market](https://www.youtube.com/watch?v=bq0BmJHpVGA) | — | — | [transcript](bq0BmJHpVGA/transcript.md) · [visuals](bq0BmJHpVGA/visuals.md) |
 | — | Justin Sung | [How To Change Your Life In 2025 (with Reverse Goal Setting)](https://www.youtube.com/watch?v=bq1x659j8mA) | — | — | [transcript](bq1x659j8mA/transcript.md) |
 | — | Starter Story | [I Made $1.5M From An App You’ve Never Heard Of](https://www.youtube.com/watch?v=bq3-qH-CpYQ) | — | — | [transcript](bq3-qH-CpYQ/transcript.md) |
 | — | David Carbutt | [Palantir's Most Important Industry?](https://www.youtube.com/watch?v=bqjzLUymREg) | — | — | [transcript](bqjzLUymREg/transcript.md) |
@@ -4807,7 +4807,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Everything (Important) Jerome Powell Just Said](https://www.youtube.com/watch?v=btr7-t9kyrk) | — | — | [transcript](btr7-t9kyrk/transcript.md) · [visuals](btr7-t9kyrk/visuals.md) |
 | — | Ben Yanes | [You've Never Done This Glute Exercise](https://www.youtube.com/watch?v=bv5si_KGdPA) | — | — | [transcript](bv5si_KGdPA/transcript.md) |
 | — | HealthyGamerGG | [We Need To Talk About The AI Cheating Epidemic](https://www.youtube.com/watch?v=bvVsnSku72s) | — | — | [transcript](bvVsnSku72s/transcript.md) |
-| — | Tom Nash | [Recession Warning ⚠️ How To Prepare Your Stock Portfolio](https://www.youtube.com/watch?v=bvrFKX0czYs) | — | — | [transcript](bvrFKX0czYs/transcript.md) |
+| — | Tom Nash | [Recession Warning ⚠️ How To Prepare Your Stock Portfolio](https://www.youtube.com/watch?v=bvrFKX0czYs) | — | — | [transcript](bvrFKX0czYs/transcript.md) · [visuals](bvrFKX0czYs/visuals.md) |
 | — | HealthyGamerGG | [Why Dr. K is NOT your savior](https://www.youtube.com/watch?v=bvyyd0bP9C8) | — | — | [transcript](bvyyd0bP9C8/transcript.md) |
 | — | JulienHimself | [This Stops 95% Of INTROVERTS From Being Social](https://www.youtube.com/watch?v=bwPQQBUq_Fo) | — | — | [transcript](bwPQQBUq_Fo/transcript.md) |
 | — | Tom Nash | [The “Soft Landing” Myth](https://www.youtube.com/watch?v=bxZzG3S_BJY) | — | — | [transcript](bxZzG3S_BJY/transcript.md) |
