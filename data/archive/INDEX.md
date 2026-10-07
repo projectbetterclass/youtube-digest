@@ -7426,7 +7426,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Palantir’s $600M Deal!](https://www.youtube.com/watch?v=y7kcWWd3qu4) | — | — | [transcript](y7kcWWd3qu4/transcript.md) |
 | — | Ben Yanes | [You're Face-Pulling Wrong](https://www.youtube.com/watch?v=y8Ikl103AkI) | — | — | [transcript](y8Ikl103AkI/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The UNTHINKABLE is about to happen to GOLD & Silver](https://www.youtube.com/watch?v=y8jcQ4565Og) | — | — | [transcript](y8jcQ4565Og/transcript.md) |
-| — | Ticker Symbol: YOU | [E22: NVIDIA'S HUGE AI Announcements Will Change Everything](https://www.youtube.com/watch?v=y8oHx6dPgqE) | — | — | [transcript](y8oHx6dPgqE/transcript.md) |
+| — | Ticker Symbol: YOU | [E22: NVIDIA'S HUGE AI Announcements Will Change Everything](https://www.youtube.com/watch?v=y8oHx6dPgqE) | — | — | [transcript](y8oHx6dPgqE/transcript.md) · [visuals](y8oHx6dPgqE/visuals.md) |
 | — | Aswath Damodaran | [Session 12: Show me the money: First steps in Return Measurement](https://www.youtube.com/watch?v=y8wqXTbzZFA) | — | — | [transcript](y8wqXTbzZFA/transcript.md) · [materials](y8wqXTbzZFA/materials/) |
 | — | JulienHimself | [Julien Blanc, Preston Smiles & Alexi Panos Teach You How To Become The Space For Growth And Change](https://www.youtube.com/watch?v=yAOJ7YPUNOY) | — | — | [transcript](yAOJ7YPUNOY/transcript.md) |
 | — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on AI Stocks Crashing Any Longer](https://www.youtube.com/watch?v=yASL644F-x0) | — | — | [transcript](yASL644F-x0/transcript.md) · [visuals](yASL644F-x0/visuals.md) |
@@ -7476,7 +7476,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Talking with Jade-Anh \| Dr. K Interviews](https://www.youtube.com/watch?v=yUGeyJSfJu4) | — | — | [transcript](yUGeyJSfJu4/transcript.md) |
 | — | Ben Yanes | [What Nobody Knows About Bench Press](https://www.youtube.com/watch?v=yUokYJRgi-o) | — | — | [transcript](yUokYJRgi-o/transcript.md) |
 | — | Greg Isenberg | [I can't believe he gave away these GENIUS 3 AI startup ideas (watch this)](https://www.youtube.com/watch?v=yVqjPqPx3e8) | — | — | [transcript](yVqjPqPx3e8/transcript.md) |
-| — | Ticker Symbol: YOU | [One Company Makes ALL Our Technology (and it's in Trouble)](https://www.youtube.com/watch?v=yWIoyFCXCew) | — | — | [transcript](yWIoyFCXCew/transcript.md) |
+| — | Ticker Symbol: YOU | [One Company Makes ALL Our Technology (and it's in Trouble)](https://www.youtube.com/watch?v=yWIoyFCXCew) | — | — | [transcript](yWIoyFCXCew/transcript.md) · [visuals](yWIoyFCXCew/visuals.md) |
 | — | HealthyGamerGG | [Why Meditation Makes You Healthier](https://www.youtube.com/watch?v=yWLCto4p_yM) | — | — | [transcript](yWLCto4p_yM/transcript.md) |
 | — | Tom Nash | [ISRG Stock Review](https://www.youtube.com/watch?v=yWRD1IMt2Hg) | — | — | [transcript](yWRD1IMt2Hg/transcript.md) |
 | — | HealthyGamerGG | [Therapist Explains "I'm anxious about appointments until they're over"](https://www.youtube.com/watch?v=yYBzNQGiHp8) | — | — | [transcript](yYBzNQGiHp8/transcript.md) |
