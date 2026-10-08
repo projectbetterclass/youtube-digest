@@ -115,8 +115,8 @@ Nash, BWB and New Money** — the valuation agent is the main consumer. Capture-
 downloading. An out-of-credit API error stops a read batch without marking videos, so a
 re-run after topping up continues cleanly.
 **Progress (2026-10-08, 07:20):** BWB done (184/184), **Ticker Symbol: YOU done (412/412)**,
-Tom Nash 806/869 (13 members-only, can't be downloaded), New Money 229/440 read. About 1,630
-videos read in the library; roughly 1 in 6 has no charts worth keeping (mostly talking heads).
+Tom Nash 806/869 (13 members-only, can't be downloaded), New Money 229/440 read. 1,653
+videos read in the library, 10,048 charts; 1 in 5 has no charts worth keeping (mostly talking heads).
 **YouTube throttling, 2026-10-07 03:15:** after ~3.5 h of 6 parallel downloads, YouTube started
 answering every download from the PC with "Sign in to confirm you're not a bot" (a temporary
 rate limit on the home connection). The jobs were stopped and the 38 videos wrongly marked
