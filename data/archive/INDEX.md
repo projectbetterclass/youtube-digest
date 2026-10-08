@@ -7224,7 +7224,7 @@ Each transcript link points to the full text under this folder.
 | — | Starter Story | [My Apps Make $4.5M/Year With $0 Marketing](https://www.youtube.com/watch?v=vLLBzUZr6-s) | — | — | [transcript](vLLBzUZr6-s/transcript.md) |
 | — | Ben Yanes | [The WORST Back Training Attachment](https://www.youtube.com/watch?v=vMJA42zM_Us) | — | — | [transcript](vMJA42zM_Us/transcript.md) |
 | — | Ben Yanes | [What Nobody Knows About Low Traps](https://www.youtube.com/watch?v=vMJFr_2gCiA) | — | — | [transcript](vMJFr_2gCiA/transcript.md) |
-| — | New Money | [Warren Buffett: How to Calculate the Instrinsic Value of a Stock](https://www.youtube.com/watch?v=vNx9_6vlaRw) | — | — | [transcript](vNx9_6vlaRw/transcript.md) |
+| — | New Money | [Warren Buffett: How to Calculate the Instrinsic Value of a Stock](https://www.youtube.com/watch?v=vNx9_6vlaRw) | — | — | [transcript](vNx9_6vlaRw/transcript.md) · [visuals](vNx9_6vlaRw/visuals.md) |
 | — | Aswath Damodaran | [Session 12: From Earnings to Cash flows](https://www.youtube.com/watch?v=vNyYkBLbrRU) | — | — | [transcript](vNyYkBLbrRU/transcript.md) · [materials](vNyYkBLbrRU/materials/) |
 | — | David Carbutt | [Palantir Shareholders, get ready!!](https://www.youtube.com/watch?v=vOS5o5_4wdk) | — | — | [transcript](vOS5o5_4wdk/transcript.md) |
 | — | JulienHimself | [What I Learned From Tech Billionaire & Real Life Iron Man: Elon Musk Ashlee Vance Book Review](https://www.youtube.com/watch?v=vO_p5PJOd48) | — | — | [transcript](vO_p5PJOd48/transcript.md) |
@@ -7235,7 +7235,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Discount Rate Myth 5: As rates approach zero, value goes to infinity!](https://www.youtube.com/watch?v=vR19Wsp4ks4) | — | — | [transcript](vR19Wsp4ks4/transcript.md) · [materials](vR19Wsp4ks4/materials/) |
 | — | Aswath Damodaran | [Spotify Loose Ends: Pricing, Subscriber Value and Big Data!](https://www.youtube.com/watch?v=vRFSXW00Aq8) | — | — | [transcript](vRFSXW00Aq8/transcript.md) · [materials](vRFSXW00Aq8/materials/) |
 | — | Tom Nash | [We Need to Have a Serious Talk About Stock Market YouTubers](https://www.youtube.com/watch?v=vRKRjDvpwxo) | — | — | [transcript](vRKRjDvpwxo/transcript.md) · [visuals](vRKRjDvpwxo/visuals.md) |
-| — | New Money | [How to Fix the 'Finfluencer' Problem (feat. @The Plain Bagel)](https://www.youtube.com/watch?v=vResby-vSOk) | — | — | [transcript](vResby-vSOk/transcript.md) |
+| — | New Money | [How to Fix the 'Finfluencer' Problem (feat. @The Plain Bagel)](https://www.youtube.com/watch?v=vResby-vSOk) | — | — | [transcript](vResby-vSOk/transcript.md) · [visuals](vResby-vSOk/visuals.md) |
 | — | Ben Yanes | [This Is The WORST Glute Exercise](https://www.youtube.com/watch?v=vRlZLU0l7uk) | — | — | [transcript](vRlZLU0l7uk/transcript.md) |
 | — | Ben Yanes | [Free Weights Aren't "Functional"](https://www.youtube.com/watch?v=vSg9iqWNv1U) | — | — | [transcript](vSg9iqWNv1U/transcript.md) |
 | — | Riley Brown | [Descript Full Guide: The Ultimate AI Video Editor](https://www.youtube.com/watch?v=vTOEsBgS8vc) | — | — | [transcript](vTOEsBgS8vc/transcript.md) |
@@ -7267,7 +7267,7 @@ Each transcript link points to the full text under this folder.
 | — | Vinh Giang | [How To Stop Sounding Unprofessional At Work](https://www.youtube.com/watch?v=vfu2zKpQjfE) | — | — | [transcript](vfu2zKpQjfE/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 1: The Search for a Unifying Theory](https://www.youtube.com/watch?v=vg6H9248onQ) | — | — | [transcript](vg6H9248onQ/transcript.md) · [materials](vg6H9248onQ/materials/) |
 | — | Ben Yanes | [You Must Try This BICEPS Exercise! \| Learn Biomechanics](https://www.youtube.com/watch?v=vgNWPrWzoxM) | — | — | [transcript](vgNWPrWzoxM/transcript.md) |
-| — | New Money | [I BOUGHT MY DREAM CAR!](https://www.youtube.com/watch?v=vh-6bCWjp0I) | — | — | [transcript](vh-6bCWjp0I/transcript.md) |
+| — | New Money | [I BOUGHT MY DREAM CAR!](https://www.youtube.com/watch?v=vh-6bCWjp0I) | — | — | [transcript](vh-6bCWjp0I/transcript.md) · [visuals](vh-6bCWjp0I/visuals.md) |
 | — | Alex Hormozi | [If you want 2026 to be the best year of your life, please watch this video...](https://www.youtube.com/watch?v=vhOV_Od0A3M) | — | — | [transcript](vhOV_Od0A3M/transcript.md) |
 | — | David Carbutt | [Alex Karp Gets to Meet CODESTRAP!](https://www.youtube.com/watch?v=vhQ0bPZRt-U) | — | — | [transcript](vhQ0bPZRt-U/transcript.md) |
 | — | HealthyGamerGG | [You Didn't Ask to be Born \| Psychiatrist Reacts to Euphoria pt. 1](https://www.youtube.com/watch?v=vhUa7V72H5s) | — | — | [transcript](vhUa7V72H5s/transcript.md) |
@@ -7280,7 +7280,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [I'm in love with a streamer…](https://www.youtube.com/watch?v=vqhIx2nyFVM) | — | — | [transcript](vqhIx2nyFVM/transcript.md) |
 | — | HealthyGamerGG | [Nobody Cares How Stoic You Are (Anima/Animus)](https://www.youtube.com/watch?v=vr-EwLQCOIk) | — | — | [transcript](vr-EwLQCOIk/transcript.md) |
 | — | Aswath Damodaran | [DataUpdate 9 for 2018: Dividends, Buybacks & Cash Balances](https://www.youtube.com/watch?v=vrjs-YWTdGY) | — | — | [transcript](vrjs-YWTdGY/transcript.md) · [materials](vrjs-YWTdGY/materials/) |
-| — | New Money | [Warren Buffett Just Invested $4.1 BILLION in a New Stock!](https://www.youtube.com/watch?v=vs82xjE9Obk) | — | — | [transcript](vs82xjE9Obk/transcript.md) |
+| — | New Money | [Warren Buffett Just Invested $4.1 BILLION in a New Stock!](https://www.youtube.com/watch?v=vs82xjE9Obk) | — | — | [transcript](vs82xjE9Obk/transcript.md) · [visuals](vs82xjE9Obk/visuals.md) |
 | — | Ben Yanes | [The Biggest Rear Delt Mistake](https://www.youtube.com/watch?v=vsdoK96MKEE) | — | — | [transcript](vsdoK96MKEE/transcript.md) |
 | — | JulienHimself | [This Stops 95% Of INTROVERTS From Being Confident](https://www.youtube.com/watch?v=vseaqr7KK2Q) | — | — | [transcript](vseaqr7KK2Q/transcript.md) |
 | — | HealthyGamerGG | [Psychology behind Gamer Rage \| Dr.K Explains](https://www.youtube.com/watch?v=vt9P98sZZog) | — | — | [transcript](vt9P98sZZog/transcript.md) |
