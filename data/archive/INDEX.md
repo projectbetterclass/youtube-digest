@@ -7436,14 +7436,14 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Steal Thomas Frank’s $100K/mo Passive Income Strategy](https://www.youtube.com/watch?v=x707WZd-l9s) | — | — | [transcript](x707WZd-l9s/transcript.md) |
 | — | Tom Nash | [The end of growth stocks?](https://www.youtube.com/watch?v=x78B4beRCY0) | — | — | [transcript](x78B4beRCY0/transcript.md) · [visuals](x78B4beRCY0/visuals.md) |
 | — | Aswath Damodaran | [Chapter/Session 3: The Corporate Life Cycle - Measures and Determinants](https://www.youtube.com/watch?v=x7dbavHECfc) | — | — | [transcript](x7dbavHECfc/transcript.md) · [materials](x7dbavHECfc/materials/) |
-| — | New Money | [Buffett's Honest Thoughts on the US Debt Situation.](https://www.youtube.com/watch?v=x7orlIiv4f8) | — | — | [transcript](x7orlIiv4f8/transcript.md) |
+| — | New Money | [Buffett's Honest Thoughts on the US Debt Situation.](https://www.youtube.com/watch?v=x7orlIiv4f8) | — | — | [transcript](x7orlIiv4f8/transcript.md) · [visuals](x7orlIiv4f8/visuals.md) |
 | — | Tom Nash | [Dan Ives Leaves Entire CNBC Panel SPEECHLESS about Tesla](https://www.youtube.com/watch?v=x8V2ktehSqY) | — | — | [transcript](x8V2ktehSqY/transcript.md) · [visuals](x8V2ktehSqY/visuals.md) |
 | — | Aswath Damodaran | [A Return to Teaching: The Spring 2023 Edition](https://www.youtube.com/watch?v=x8qna3jElZg) | — | — | [transcript](x8qna3jElZg/transcript.md) · [materials](x8qna3jElZg/materials/) |
 | — | Starter Story | [I Built a $1M SaaS 100% with No Code (Bubble)](https://www.youtube.com/watch?v=x9TUDb4sLE0) | — | — | [transcript](x9TUDb4sLE0/transcript.md) |
 | — | HealthyGamerGG | [DR.K_SECRET_VIDEO_DONT_UPLOAD.mp4](https://www.youtube.com/watch?v=x9bAP46ouEw) | — | — | [transcript](x9bAP46ouEw/transcript.md) |
 | — | Justin Sung | [Learning Expert plays Overrated Underrated with Study Techniques](https://www.youtube.com/watch?v=x9wsjsm0KBc) | — | — | [transcript](x9wsjsm0KBc/transcript.md) |
 | — | HealthyGamerGG | [A Harvard Psychiatrist Explores Among Us](https://www.youtube.com/watch?v=xAgrVgw2S-c) | — | — | [transcript](xAgrVgw2S-c/transcript.md) |
-| — | New Money | [Charlie Munger Warns of High Inflation Consequences](https://www.youtube.com/watch?v=xAoBXI0VPcA) | — | — | [transcript](xAoBXI0VPcA/transcript.md) |
+| — | New Money | [Charlie Munger Warns of High Inflation Consequences](https://www.youtube.com/watch?v=xAoBXI0VPcA) | — | — | [transcript](xAoBXI0VPcA/transcript.md) · [visuals](xAoBXI0VPcA/visuals.md) |
 | — | David Carbutt | [Why Palantir Keeps Changing the World](https://www.youtube.com/watch?v=xBWmfrHtLfs) | — | — | [transcript](xBWmfrHtLfs/transcript.md) |
 | — | Ticker Symbol: YOU | [What China's New AI Model DeepSeek Means For Nvidia (NVDA) & AMD Stocks](https://www.youtube.com/watch?v=xCA3Ng9CDvs) | — | — | [transcript](xCA3Ng9CDvs/transcript.md) · [visuals](xCA3Ng9CDvs/visuals.md) |
 | — | Ben Yanes | [Modern Meathead Experience #3 - 'Rehab' Training, Range of Motion Norms, Cuing & More](https://www.youtube.com/watch?v=xChBGrWL_kc) | — | — | [transcript](xChBGrWL_kc/transcript.md) |
@@ -7521,7 +7521,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [If You Have ADHD, You Are Likely To Be Depressed](https://www.youtube.com/watch?v=xkXpcs_an80) | — | — | [transcript](xkXpcs_an80/transcript.md) |
 | — | HealthyGamerGG | [Why You're Struggling With Discipline](https://www.youtube.com/watch?v=xkd36cJ6Z78) | — | — | [transcript](xkd36cJ6Z78/transcript.md) |
 | — | Chris Raroque | [I asked SF founders: should I keep bootstrapping?](https://www.youtube.com/watch?v=xlOyK8Pt3WQ) | — | — | [transcript](xlOyK8Pt3WQ/transcript.md) |
-| — | New Money | [Why Mohnish Pabrai Ditched Alibaba for Tencent](https://www.youtube.com/watch?v=xm2kvhRor3M) | — | — | [transcript](xm2kvhRor3M/transcript.md) |
+| — | New Money | [Why Mohnish Pabrai Ditched Alibaba for Tencent](https://www.youtube.com/watch?v=xm2kvhRor3M) | — | — | [transcript](xm2kvhRor3M/transcript.md) · [visuals](xm2kvhRor3M/visuals.md) |
 | — | Tom Nash | [China's Real Estate Bubble](https://www.youtube.com/watch?v=xmkEdzVGggI) | — | — | [transcript](xmkEdzVGggI/transcript.md) · [visuals](xmkEdzVGggI/visuals.md) |
 | — | HealthyGamerGG | [What To Do If You Stole Your Personality](https://www.youtube.com/watch?v=xnuDmmDu7is) | — | — | [transcript](xnuDmmDu7is/transcript.md) |
 | — | JulienHimself | [This Makes You INSECURE... (95% Of People Get This Wrong)](https://www.youtube.com/watch?v=xoAeU_WaftA) | — | — | [transcript](xoAeU_WaftA/transcript.md) |
@@ -7531,7 +7531,7 @@ Each transcript link points to the full text under this folder.
 | — | BWB - Business With Brian | [The Best Travel Credit Card: Benefits vs. Cost](https://www.youtube.com/watch?v=xqgLT5eKjIo) | — | — | [transcript](xqgLT5eKjIo/transcript.md) · [visuals](xqgLT5eKjIo/visuals.md) |
 | — | JulienHimself | [Make Your Life Like A Movie: How I Went From Being Broke & Homeless To Running A 7-Figure Business!](https://www.youtube.com/watch?v=xrU0jkZNcqI) | — | — | [transcript](xrU0jkZNcqI/transcript.md) |
 | — | Riley Brown | [Create a speaking animated character \| Midjourney + other AI Tools](https://www.youtube.com/watch?v=xrmNhW5ABg4) | — | — | [transcript](xrmNhW5ABg4/transcript.md) |
-| — | New Money | [The Stock Market's Valuation is Getting Ridiculous...](https://www.youtube.com/watch?v=xrnWCROTO20) | — | — | [transcript](xrnWCROTO20/transcript.md) |
+| — | New Money | [The Stock Market's Valuation is Getting Ridiculous...](https://www.youtube.com/watch?v=xrnWCROTO20) | — | — | [transcript](xrnWCROTO20/transcript.md) · [visuals](xrnWCROTO20/visuals.md) |
 | — | David Carbutt | [This AI juggernaut is going to make (smart) investors rich](https://www.youtube.com/watch?v=xsXcaznFAbM) | — | — | [transcript](xsXcaznFAbM/transcript.md) |
 | — | David Carbutt | [Palantir: ‘I would have been Surprised if...’](https://www.youtube.com/watch?v=xsfu4HJ8d1A) | — | — | [transcript](xsfu4HJ8d1A/transcript.md) |
 | — | Ben Yanes | [Modern Meathead Experience #17 - Rest times](https://www.youtube.com/watch?v=xsvC4NfqybQ) | — | — | [transcript](xsvC4NfqybQ/transcript.md) |
@@ -7556,7 +7556,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [China BANS video games - is Gaming a PROBLEM? Dr K talks](https://www.youtube.com/watch?v=y0wziXfR-Gk) | — | — | [transcript](y0wziXfR-Gk/transcript.md) |
 | — | Ben Yanes | [Modern Meathead Experience #26 - The Problem with Long Muscle Length Training](https://www.youtube.com/watch?v=y1aWU2rVHbs) | — | — | [transcript](y1aWU2rVHbs/transcript.md) |
 | — | BWB - Business With Brian | [𝐖𝐡𝐚𝐭 𝐂𝐚𝐮𝐬𝐞𝐬 𝐈𝐧𝐟𝐥𝐚𝐭𝐢𝐨𝐧 \| Explained with Humor](https://www.youtube.com/watch?v=y1aiy1y4eVA) | — | — | [transcript](y1aiy1y4eVA/transcript.md) · [visuals](y1aiy1y4eVA/visuals.md) |
-| — | New Money | [The Smart Money Just Doubled Down.](https://www.youtube.com/watch?v=y1g8JcJ3S8c) | — | — | [transcript](y1g8JcJ3S8c/transcript.md) |
+| — | New Money | [The Smart Money Just Doubled Down.](https://www.youtube.com/watch?v=y1g8JcJ3S8c) | — | — | [transcript](y1g8JcJ3S8c/transcript.md) · [visuals](y1g8JcJ3S8c/visuals.md) |
 | — | David Carbutt | [What Alex Karp Said Just Shocked Everyone](https://www.youtube.com/watch?v=y1q3SKUa-pI) | — | — | [transcript](y1q3SKUa-pI/transcript.md) |
 | — | HealthyGamerGG | [Pro Player Stress \| Dr.K Explains](https://www.youtube.com/watch?v=y29TVZTbA8g) | — | — | [transcript](y29TVZTbA8g/transcript.md) |
 | — | HealthyGamerGG | [Am I Running Out of Time to be Successful?](https://www.youtube.com/watch?v=y31i_FXNQRo) | — | — | [transcript](y31i_FXNQRo/transcript.md) |
@@ -7566,7 +7566,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Grief & Identity \| Interview with Hutch](https://www.youtube.com/watch?v=y49PZcSSSiU) | — | — | [transcript](y49PZcSSSiU/transcript.md) |
 | — | Ben Yanes | [A 6-Pack Exercise You've Never Tried \| Learn Biomechanics](https://www.youtube.com/watch?v=y4dbOSvNVI4) | — | — | [transcript](y4dbOSvNVI4/transcript.md) |
 | — | Tom Nash | [The G7 Global Minimum Corporate Tax Agreement - My Thoughts](https://www.youtube.com/watch?v=y59tQOxMtfg) | — | — | [transcript](y59tQOxMtfg/transcript.md) · [visuals](y59tQOxMtfg/visuals.md) |
-| — | New Money | [The Painful Task of Resetting the U.S. Economy](https://www.youtube.com/watch?v=y5U4xKPhfaQ) | — | — | [transcript](y5U4xKPhfaQ/transcript.md) |
+| — | New Money | [The Painful Task of Resetting the U.S. Economy](https://www.youtube.com/watch?v=y5U4xKPhfaQ) | — | — | [transcript](y5U4xKPhfaQ/transcript.md) · [visuals](y5U4xKPhfaQ/visuals.md) |
 | — | Ticker Symbol: YOU | [Tesla's Full Autonomy & Ride-Hailing, Google's AI Breakthrough, and ARK's HUGE Trading Week! (Ep 6)](https://www.youtube.com/watch?v=y6m4d8gxeEE) | — | — | [transcript](y6m4d8gxeEE/transcript.md) · [visuals](y6m4d8gxeEE/visuals.md) |
 | — | New Money | [Why I Ditched Technical Analysis.](https://www.youtube.com/watch?v=y6mY_raUB0o) | — | — | [transcript](y6mY_raUB0o/transcript.md) |
 | — | Ben Yanes | [Debunking The Dr. Mike Curl](https://www.youtube.com/watch?v=y6nxZDpmlBc) | — | — | [transcript](y6nxZDpmlBc/transcript.md) |
