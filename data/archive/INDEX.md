@@ -4383,7 +4383,7 @@ Each transcript link points to the full text under this folder.
 | — | Riley Brown | [I Built an AI Thumbnail Generator with Cursor Without Coding!](https://www.youtube.com/watch?v=YPXPuK58o38) | — | — | [transcript](YPXPuK58o38/transcript.md) |
 | — | Vinh Giang | [How To Make A Strong First Impression (That Lasts)](https://www.youtube.com/watch?v=YPnbERnTCkI) | — | — | [transcript](YPnbERnTCkI/transcript.md) |
 | — | Tom Nash | [The Stock Market Apocalypse Just Started](https://www.youtube.com/watch?v=YQ1Ni2GUE_Q) | — | — | [transcript](YQ1Ni2GUE_Q/transcript.md) · [visuals](YQ1Ni2GUE_Q/visuals.md) |
-| — | New Money | [Are We Literally Staring at Another Dot Com Bubble?](https://www.youtube.com/watch?v=YQWgf7oEnIk) | — | — | [transcript](YQWgf7oEnIk/transcript.md) |
+| — | New Money | [Are We Literally Staring at Another Dot Com Bubble?](https://www.youtube.com/watch?v=YQWgf7oEnIk) | — | — | [transcript](YQWgf7oEnIk/transcript.md) · [visuals](YQWgf7oEnIk/visuals.md) |
 | — | HealthyGamerGG | [Healthy Gamer at CLTX Gaming Esports Panel](https://www.youtube.com/watch?v=YRKyliOVZVI) | — | — | [transcript](YRKyliOVZVI/transcript.md) |
 | — | JulienHimself | [The #1 SOCIAL ANXIETY HACK: Become Socially Unstoppable](https://www.youtube.com/watch?v=YRWHYeHA_nw) | — | — | [transcript](YRWHYeHA_nw/transcript.md) |
 | — | David Carbutt | [Elon Musk Just Named Tesla's Biggest Threat](https://www.youtube.com/watch?v=YRaB7EfRm2c) | — | — | [transcript](YRaB7EfRm2c/transcript.md) |
