@@ -114,9 +114,12 @@ Nash, BWB and New Money** — the valuation agent is the main consumer. Capture-
 `frames/`; `run_visuals.py --stored-only --channel X --budget 25` reads alongside without
 downloading. An out-of-credit API error stops a read batch without marking videos, so a
 re-run after topping up continues cleanly.
-**Progress (2026-10-08, 07:20):** BWB done (184/184), **Ticker Symbol: YOU done (412/412)**,
-Tom Nash 806/869 (13 members-only, can't be downloaded), New Money 229/440 read. 1,653
-videos read in the library, 10,048 charts; 1 in 5 has no charts worth keeping (mostly talking heads).
+**DONE 2026-10-08 10:20 — the whole-channel plan is complete:** Ticker Symbol: YOU 412/412
+(3,509 charts), BWB 184/184 (1,714), Tom Nash 855/869 (2,756; the other 14 are members-only and
+can't be downloaded), New Money 440/440 (3,961). Library: 1,911 videos read, 1,568 with charts,
+12,076 charts. The API credit ran out once mid-run (the reader stopped cleanly, the user topped
+up, reading resumed). Nothing is running now. New uploads on these channels need a screen run
+after their transcripts arrive (supervised, see below, until PR #62 is merged).
 **YouTube throttling, 2026-10-07 03:15:** after ~3.5 h of 6 parallel downloads, YouTube started
 answering every download from the PC with "Sign in to confirm you're not a bot" (a temporary
 rate limit on the home connection). The jobs were stopped and the 38 videos wrongly marked
