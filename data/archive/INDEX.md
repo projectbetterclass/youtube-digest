@@ -7515,14 +7515,14 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [we need to talk... [about Palantir]](https://www.youtube.com/watch?v=xgMfJxea9KU) | — | — | [transcript](xgMfJxea9KU/transcript.md) · [visuals](xgMfJxea9KU/visuals.md) |
 | — | Ticker Symbol: YOU | [My Top 4 Investments To Get Rich in 2026 (Without Getting Lucky)](https://www.youtube.com/watch?v=xhG3E1RaX6c) | — | — | [transcript](xhG3E1RaX6c/transcript.md) · [visuals](xhG3E1RaX6c/visuals.md) |
 | — | BWB - Business With Brian | [The 10 Best Dividend ETFs To Invest In For 2023](https://www.youtube.com/watch?v=xiBkyxgbYxE) | — | — | [transcript](xiBkyxgbYxE/transcript.md) · [visuals](xiBkyxgbYxE/visuals.md) |
-| — | Tom Nash | [A Once in a Lifetime Investment Opportunity is Coming.](https://www.youtube.com/watch?v=xj3ejxMFHgI) | — | — | [transcript](xj3ejxMFHgI/transcript.md) |
+| — | Tom Nash | [A Once in a Lifetime Investment Opportunity is Coming.](https://www.youtube.com/watch?v=xj3ejxMFHgI) | — | — | [transcript](xj3ejxMFHgI/transcript.md) · [visuals](xj3ejxMFHgI/visuals.md) |
 | — | David Carbutt | [The Biggest Risk to Palantir.](https://www.youtube.com/watch?v=xk80nRy2qAU) | — | — | [transcript](xk80nRy2qAU/transcript.md) |
 | — | Tom Nash | [Palantir Just Did The Unthinkable](https://www.youtube.com/watch?v=xkGVbSP9jME) | — | — | [transcript](xkGVbSP9jME/transcript.md) · [visuals](xkGVbSP9jME/visuals.md) |
 | — | HealthyGamerGG | [If You Have ADHD, You Are Likely To Be Depressed](https://www.youtube.com/watch?v=xkXpcs_an80) | — | — | [transcript](xkXpcs_an80/transcript.md) |
 | — | HealthyGamerGG | [Why You're Struggling With Discipline](https://www.youtube.com/watch?v=xkd36cJ6Z78) | — | — | [transcript](xkd36cJ6Z78/transcript.md) |
 | — | Chris Raroque | [I asked SF founders: should I keep bootstrapping?](https://www.youtube.com/watch?v=xlOyK8Pt3WQ) | — | — | [transcript](xlOyK8Pt3WQ/transcript.md) |
 | — | New Money | [Why Mohnish Pabrai Ditched Alibaba for Tencent](https://www.youtube.com/watch?v=xm2kvhRor3M) | — | — | [transcript](xm2kvhRor3M/transcript.md) |
-| — | Tom Nash | [China's Real Estate Bubble](https://www.youtube.com/watch?v=xmkEdzVGggI) | — | — | [transcript](xmkEdzVGggI/transcript.md) |
+| — | Tom Nash | [China's Real Estate Bubble](https://www.youtube.com/watch?v=xmkEdzVGggI) | — | — | [transcript](xmkEdzVGggI/transcript.md) · [visuals](xmkEdzVGggI/visuals.md) |
 | — | HealthyGamerGG | [What To Do If You Stole Your Personality](https://www.youtube.com/watch?v=xnuDmmDu7is) | — | — | [transcript](xnuDmmDu7is/transcript.md) |
 | — | JulienHimself | [This Makes You INSECURE... (95% Of People Get This Wrong)](https://www.youtube.com/watch?v=xoAeU_WaftA) | — | — | [transcript](xoAeU_WaftA/transcript.md) |
 | — | HealthyGamerGG | [Why You Can't Leave Your House](https://www.youtube.com/watch?v=xoFkAui7_vs) | — | — | [transcript](xoFkAui7_vs/transcript.md) |
@@ -7538,7 +7538,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [The Once in a Lifetime 2026 Market Every Investor Must Prepare For](https://www.youtube.com/watch?v=xtGkCbIFu34) | — | — | [transcript](xtGkCbIFu34/transcript.md) |
 | — | Ticker Symbol: YOU | [The AI Bubble Is Popping (Which Will Make Smart Investors Rich)](https://www.youtube.com/watch?v=xtU9EIOd9i0) | — | — | [transcript](xtU9EIOd9i0/transcript.md) · [visuals](xtU9EIOd9i0/visuals.md) |
 | — | Justin Sung | [How to Effortlessly Enter DEEP WORK on Command](https://www.youtube.com/watch?v=xumUjW99b_0) | — | — | [transcript](xumUjW99b_0/transcript.md) |
-| — | Tom Nash | [This stock market is acting a fool…](https://www.youtube.com/watch?v=xuo-RK0Tbuc) | — | — | [transcript](xuo-RK0Tbuc/transcript.md) |
+| — | Tom Nash | [This stock market is acting a fool…](https://www.youtube.com/watch?v=xuo-RK0Tbuc) | — | — | [transcript](xuo-RK0Tbuc/transcript.md) · [visuals](xuo-RK0Tbuc/visuals.md) |
 | — | David Carbutt | [Elon, Karp & Jenson Made the Biggest Bet in Industrial History](https://www.youtube.com/watch?v=xv9l3aR0E7s) | — | — | [transcript](xv9l3aR0E7s/transcript.md) |
 | — | Justin Sung | [Why I Quit My Job as a Doctor: My Honest Story](https://www.youtube.com/watch?v=xvD7Ii-UUTc) | — | — | [transcript](xvD7Ii-UUTc/transcript.md) |
 | — | David Carbutt | [Elon Musk Stuns Cathie Wood & PBD](https://www.youtube.com/watch?v=xwKfNe2UQpk) | — | — | [transcript](xwKfNe2UQpk/transcript.md) |
@@ -7565,7 +7565,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Should I Make What I Like Doing My Job? Passion + Purpose](https://www.youtube.com/watch?v=y3gW3abT1hI) | — | — | [transcript](y3gW3abT1hI/transcript.md) |
 | — | HealthyGamerGG | [Grief & Identity \| Interview with Hutch](https://www.youtube.com/watch?v=y49PZcSSSiU) | — | — | [transcript](y49PZcSSSiU/transcript.md) |
 | — | Ben Yanes | [A 6-Pack Exercise You've Never Tried \| Learn Biomechanics](https://www.youtube.com/watch?v=y4dbOSvNVI4) | — | — | [transcript](y4dbOSvNVI4/transcript.md) |
-| — | Tom Nash | [The G7 Global Minimum Corporate Tax Agreement - My Thoughts](https://www.youtube.com/watch?v=y59tQOxMtfg) | — | — | [transcript](y59tQOxMtfg/transcript.md) |
+| — | Tom Nash | [The G7 Global Minimum Corporate Tax Agreement - My Thoughts](https://www.youtube.com/watch?v=y59tQOxMtfg) | — | — | [transcript](y59tQOxMtfg/transcript.md) · [visuals](y59tQOxMtfg/visuals.md) |
 | — | New Money | [The Painful Task of Resetting the U.S. Economy](https://www.youtube.com/watch?v=y5U4xKPhfaQ) | — | — | [transcript](y5U4xKPhfaQ/transcript.md) |
 | — | Ticker Symbol: YOU | [Tesla's Full Autonomy & Ride-Hailing, Google's AI Breakthrough, and ARK's HUGE Trading Week! (Ep 6)](https://www.youtube.com/watch?v=y6m4d8gxeEE) | — | — | [transcript](y6m4d8gxeEE/transcript.md) · [visuals](y6m4d8gxeEE/visuals.md) |
 | — | New Money | [Why I Ditched Technical Analysis.](https://www.youtube.com/watch?v=y6mY_raUB0o) | — | — | [transcript](y6mY_raUB0o/transcript.md) |
