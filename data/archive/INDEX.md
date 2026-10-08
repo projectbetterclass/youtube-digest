@@ -7662,7 +7662,7 @@ Each transcript link points to the full text under this folder.
 | — | New Money | [Wait, so is the U.S. in a Recession?](https://www.youtube.com/watch?v=ysNlN4gI4JA) | — | — | [transcript](ysNlN4gI4JA/transcript.md) |
 | — | Aswath Damodaran | [Session 7: Regression Betas](https://www.youtube.com/watch?v=ysxfbr3MdIg) | — | — | [transcript](ysxfbr3MdIg/transcript.md) · [materials](ysxfbr3MdIg/materials/) |
 | — | Ben Yanes | [Grow Your Forearms \| Learn Biomechanics](https://www.youtube.com/watch?v=ytDoM-Uk1tU) | — | — | [transcript](ytDoM-Uk1tU/transcript.md) |
-| — | Tom Nash | [If you are a PALANTIR shareholder….GET READY](https://www.youtube.com/watch?v=ytXlcDTz3fQ) | — | — | [transcript](ytXlcDTz3fQ/transcript.md) |
+| — | Tom Nash | [If you are a PALANTIR shareholder….GET READY](https://www.youtube.com/watch?v=ytXlcDTz3fQ) | — | — | [transcript](ytXlcDTz3fQ/transcript.md) · [visuals](ytXlcDTz3fQ/visuals.md) |
 | — | Riley Brown | [You need to sell your software somehow...](https://www.youtube.com/watch?v=yuRIKKh3bE4) | — | — | [transcript](yuRIKKh3bE4/transcript.md) |
 | — | Tom Nash | [Housing Market Crash 2021 (Meet Kevin is Wrong)](https://www.youtube.com/watch?v=yuWwRl_OXYM) | — | — | [transcript](yuWwRl_OXYM/transcript.md) · [visuals](yuWwRl_OXYM/visuals.md) |
 | — | Starter Story | [How I Built It: $20K/Month AI App as a Non-Technical Founder](https://www.youtube.com/watch?v=yue9in5oh64) | — | — | [transcript](yue9in5oh64/transcript.md) |
@@ -7679,13 +7679,13 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [This Is Palantir's REAL Plan for AI](https://www.youtube.com/watch?v=z7FTkLQzph4) | — | — | [transcript](z7FTkLQzph4/transcript.md) |
 | — | JulienHimself | [How ANYONE Can Have A Magnetic Personality - LIVE DEMONSTRATION](https://www.youtube.com/watch?v=z8ISawCSS9s) | — | — | [transcript](z8ISawCSS9s/transcript.md) |
 | — | David Carbutt | [Chamath and Dan Ives Drop a Massive Warning](https://www.youtube.com/watch?v=z8a4RCvBH3U) | — | — | [transcript](z8a4RCvBH3U/transcript.md) |
-| — | Tom Nash | ["How Tesla Fumbled" \| Fair or Total Hit Piece?](https://www.youtube.com/watch?v=z8pDNlROZDw) | — | — | [transcript](z8pDNlROZDw/transcript.md) |
+| — | Tom Nash | ["How Tesla Fumbled" \| Fair or Total Hit Piece?](https://www.youtube.com/watch?v=z8pDNlROZDw) | — | — | [transcript](z8pDNlROZDw/transcript.md) · [visuals](z8pDNlROZDw/visuals.md) |
 | — | HealthyGamerGG | [The Need for a Competing Interest \| Episode 008 Video Game Addiction](https://www.youtube.com/watch?v=z9AG7LsuVyU) | — | — | [transcript](z9AG7LsuVyU/transcript.md) |
 | — | Aswath Damodaran | [Data 2017 Update 10: The Pricing Game](https://www.youtube.com/watch?v=zAshTzvWJTI) | — | — | [transcript](zAshTzvWJTI/transcript.md) · [materials](zAshTzvWJTI/materials/) |
 | — | Felix & Friends (Goat Academy) | [US Panic: Japan’s Debt Bomb Just Exploded](https://www.youtube.com/watch?v=zBNP2EcgMko) | — | — | [transcript](zBNP2EcgMko/transcript.md) |
 | — | HealthyGamerGG | [Why Don't You Want To Do Anything After Binging 4 Hours of YouTube Videos...](https://www.youtube.com/watch?v=zBgCRJluWTc) | — | — | [transcript](zBgCRJluWTc/transcript.md) |
 | — | Ticker Symbol: YOU | [These 3 AI Stocks Will Skyrocket In 2026 (Don't Miss Out)](https://www.youtube.com/watch?v=zBlSEABSHYs) | — | — | [transcript](zBlSEABSHYs/transcript.md) · [visuals](zBlSEABSHYs/visuals.md) |
-| — | Tom Nash | [PLTR STOCK: Massive BOMBSHELL about Palantir JUST Dropped \| Michael Burry "500 Million" Tesla FUD...](https://www.youtube.com/watch?v=zC2NsmM6W08) | — | — | [transcript](zC2NsmM6W08/transcript.md) |
+| — | Tom Nash | [PLTR STOCK: Massive BOMBSHELL about Palantir JUST Dropped \| Michael Burry "500 Million" Tesla FUD...](https://www.youtube.com/watch?v=zC2NsmM6W08) | — | — | [transcript](zC2NsmM6W08/transcript.md) · [visuals](zC2NsmM6W08/visuals.md) |
 | — | HealthyGamerGG | [How ADHD Turns Waiting Into Wasting the Day](https://www.youtube.com/watch?v=zCKxgx0T_s4) | — | — | [transcript](zCKxgx0T_s4/transcript.md) |
 | — | Aswath Damodaran | [Session 18: Finishing up with Cost of Capital Optimization](https://www.youtube.com/watch?v=zDbBR8-myEQ) | — | — | [transcript](zDbBR8-myEQ/transcript.md) · [materials](zDbBR8-myEQ/materials/) |
 | — | David Carbutt | [Alex Karp Compares Palantir to Snowflake](https://www.youtube.com/watch?v=zDof8WgqNp0) | — | — | [transcript](zDof8WgqNp0/transcript.md) |
@@ -7697,7 +7697,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Beliefs, Anime & Happiness - Talking with @gigguk](https://www.youtube.com/watch?v=zHBilzHDl_Y) | — | — | [transcript](zHBilzHDl_Y/transcript.md) |
 | — | Greg Isenberg | [3 startup ideas from the co-founder of Loom (make $120k/mo)](https://www.youtube.com/watch?v=zJ7uKszetNE) | — | — | [transcript](zJ7uKszetNE/transcript.md) |
 | — | JulienHimself | [How To Make A Disrespectful Person Look Insecure](https://www.youtube.com/watch?v=zJG5JIwHR7w) | — | — | [transcript](zJG5JIwHR7w/transcript.md) |
-| — | Tom Nash | [This could send Tesla to $450](https://www.youtube.com/watch?v=zJvGIgXrHB0) | — | — | [transcript](zJvGIgXrHB0/transcript.md) |
+| — | Tom Nash | [This could send Tesla to $450](https://www.youtube.com/watch?v=zJvGIgXrHB0) | — | — | [transcript](zJvGIgXrHB0/transcript.md) · [visuals](zJvGIgXrHB0/visuals.md) |
 | — | Justin Sung | [My System For Learning Any Skill Without Wasting Time](https://www.youtube.com/watch?v=zKMZs6dLwPQ) | — | — | [transcript](zKMZs6dLwPQ/transcript.md) |
 | — | Tom Nash | [Tesla's Collapse](https://www.youtube.com/watch?v=zKhUczqxBDM) | — | — | [transcript](zKhUczqxBDM/transcript.md) |
 | — | Ticker Symbol: YOU | [Cathie Wood's SEVERE Recession Warning & Tesla Stock Trades](https://www.youtube.com/watch?v=zL2sxZbxlCs) | — | — | [transcript](zL2sxZbxlCs/transcript.md) · [visuals](zL2sxZbxlCs/visuals.md) |
@@ -7730,7 +7730,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [FDE: The $1M/Year AI Job Explained](https://www.youtube.com/watch?v=zXysLUTLjw4) | — | — | [transcript](zXysLUTLjw4/transcript.md) |
 | — | Ticker Symbol: YOU | [These Stocks Will Make Millionaires By 2029](https://www.youtube.com/watch?v=zYeJZu1hkdM) | — | — | [transcript](zYeJZu1hkdM/transcript.md) · [visuals](zYeJZu1hkdM/visuals.md) |
 | — | Ben Yanes | [How to Target Your Mid-Back (anatomy & analysis)](https://www.youtube.com/watch?v=zZ5ikjiFIVs) | — | — | [transcript](zZ5ikjiFIVs/transcript.md) |
-| — | Tom Nash | [Evergrande - The $340 Billion DISASTER](https://www.youtube.com/watch?v=zZDXjuL5jXQ) | — | — | [transcript](zZDXjuL5jXQ/transcript.md) |
+| — | Tom Nash | [Evergrande - The $340 Billion DISASTER](https://www.youtube.com/watch?v=zZDXjuL5jXQ) | — | — | [transcript](zZDXjuL5jXQ/transcript.md) · [visuals](zZDXjuL5jXQ/visuals.md) |
 | — | New Money | [My 3 Income Sources that Generate $30,845 per month](https://www.youtube.com/watch?v=z_FQqgFLRA0) | — | — | [transcript](z_FQqgFLRA0/transcript.md) |
 | — | JulienHimself | [Stop Trying to Be "Somebody" & You're FREE to Be Anybody](https://www.youtube.com/watch?v=za0IkD2yxts) | — | — | [transcript](za0IkD2yxts/transcript.md) |
 | — | Aswath Damodaran | [Session 23: Potential Dividends and Actual Cash Returned](https://www.youtube.com/watch?v=za0YJjyLbTY) | — | — | [transcript](za0YJjyLbTY/transcript.md) · [materials](za0YJjyLbTY/materials/) |
