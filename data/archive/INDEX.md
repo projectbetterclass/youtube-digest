@@ -7286,7 +7286,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Psychology behind Gamer Rage \| Dr.K Explains](https://www.youtube.com/watch?v=vt9P98sZZog) | — | — | [transcript](vt9P98sZZog/transcript.md) |
 | — | Ben Yanes | [Why Did The Best Bodybuilder Ever Train His Back Like This?](https://www.youtube.com/watch?v=vtNa4RE4HoQ) | — | — | [transcript](vtNa4RE4HoQ/transcript.md) |
 | — | Ticker Symbol: YOU | [Michael Burry on the Stock Market Crash - 2023 Deep Recession](https://www.youtube.com/watch?v=vtVNn-6aNbQ) | — | — | [transcript](vtVNn-6aNbQ/transcript.md) · [visuals](vtVNn-6aNbQ/visuals.md) |
-| — | New Money | [Look Inside Warren Buffett’s Latest Stock Moves!](https://www.youtube.com/watch?v=vu7nCb5AP_k) | — | — | [transcript](vu7nCb5AP_k/transcript.md) |
+| — | New Money | [Look Inside Warren Buffett’s Latest Stock Moves!](https://www.youtube.com/watch?v=vu7nCb5AP_k) | — | — | [transcript](vu7nCb5AP_k/transcript.md) · [visuals](vu7nCb5AP_k/visuals.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In This HUGE AI Chip Breakthrough](https://www.youtube.com/watch?v=vueJvHOXLJg) | — | — | [transcript](vueJvHOXLJg/transcript.md) · [visuals](vueJvHOXLJg/visuals.md) |
 | — | Aswath Damodaran | [Session 22: Dividends - Measures and Drivers](https://www.youtube.com/watch?v=vuj6jLcrvOg) | — | — | [transcript](vuj6jLcrvOg/transcript.md) · [materials](vuj6jLcrvOg/materials/) |
 | — | HealthyGamerGG | [Let's Talk About Bipolar Disorder (What Happens When You Go Off Medication)](https://www.youtube.com/watch?v=vunPCeoynXk) | — | — | [transcript](vunPCeoynXk/transcript.md) |
@@ -7308,13 +7308,13 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Alex Karp: All of Denmark is on Palantir](https://www.youtube.com/watch?v=w0u-DoTEEt0) | — | — | [transcript](w0u-DoTEEt0/transcript.md) |
 | — | Greg Isenberg | [Glif AI: The $10 App That Replaces a Full Creative Team](https://www.youtube.com/watch?v=w1OU6IdxF0Y) | — | — | [transcript](w1OU6IdxF0Y/transcript.md) |
 | — | JulienHimself | [How To Raise Your Self-Esteem & Build Self-Confidence (How To Be Confident ALL THE TIME!)](https://www.youtube.com/watch?v=w27nenP7fsQ) | — | — | [transcript](w27nenP7fsQ/transcript.md) |
-| — | New Money | [Growth vs Value Investing. Which is Better?](https://www.youtube.com/watch?v=w2OL4yV6TyI) | — | — | [transcript](w2OL4yV6TyI/transcript.md) |
+| — | New Money | [Growth vs Value Investing. Which is Better?](https://www.youtube.com/watch?v=w2OL4yV6TyI) | — | — | [transcript](w2OL4yV6TyI/transcript.md) · [visuals](w2OL4yV6TyI/visuals.md) |
 | — | Ben Yanes | [Athlean X Chest Workout Breakdown](https://www.youtube.com/watch?v=w2vt_gs775U) | — | — | [transcript](w2vt_gs775U/transcript.md) |
 | — | David Carbutt | [AI & Government: A DANGEROUS Game](https://www.youtube.com/watch?v=w3BFhX5CYaU) | — | — | [transcript](w3BFhX5CYaU/transcript.md) |
 | — | JulienHimself | [If You Can Give Me 23 Minutes, I'll Change Your Life](https://www.youtube.com/watch?v=w3KNdam4lyI) | — | — | [transcript](w3KNdam4lyI/transcript.md) |
 | — | JulienHimself | [Jealous Of Someone? Watch This! (Why You Should CELEBRATE Other People's Success)](https://www.youtube.com/watch?v=w3lXgZ_2PME) | — | — | [transcript](w3lXgZ_2PME/transcript.md) |
 | — | Starter Story | [This app replaced my 9-5 ($150K/year)](https://www.youtube.com/watch?v=w3zxMrwWrt0) | — | — | [transcript](w3zxMrwWrt0/transcript.md) |
-| — | New Money | [Charlie Munger: The 5 Investing Tricks That Made Him a Billionaire](https://www.youtube.com/watch?v=w4d0e3Jpu9s) | — | — | [transcript](w4d0e3Jpu9s/transcript.md) |
+| — | New Money | [Charlie Munger: The 5 Investing Tricks That Made Him a Billionaire](https://www.youtube.com/watch?v=w4d0e3Jpu9s) | — | — | [transcript](w4d0e3Jpu9s/transcript.md) · [visuals](w4d0e3Jpu9s/visuals.md) |
 | — | Aswath Damodaran | [The Fed did it!](https://www.youtube.com/watch?v=w53VF5Wl4lY) | — | — | [transcript](w53VF5Wl4lY/transcript.md) · [materials](w53VF5Wl4lY/materials/) |
 | — | HealthyGamerGG | [The Addiction You Have (That You Don't Know About)](https://www.youtube.com/watch?v=w5HhFDIoNEs) | — | — | [transcript](w5HhFDIoNEs/transcript.md) |
 | — | David Carbutt | [Palantir Founder Leaves Audience Speechless on ELON MUSK](https://www.youtube.com/watch?v=w6Hms3aPdTs) | — | — | [transcript](w6Hms3aPdTs/transcript.md) |
@@ -7327,7 +7327,7 @@ Each transcript link points to the full text under this folder.
 | — | Justin Sung | [How to Turn PASSIVE Learning Into ACTIVE Learning (and Reduce Drowsiness)](https://www.youtube.com/watch?v=wC8oZGzInJk) | — | — | [transcript](wC8oZGzInJk/transcript.md) |
 | — | Ticker Symbol: YOU | [The Next 26 Days Will Make Millionaires in 2025 (Here's How)](https://www.youtube.com/watch?v=wCF5jO28H0c) | — | — | [transcript](wCF5jO28H0c/transcript.md) · [visuals](wCF5jO28H0c/visuals.md) |
 | — | BWB - Business With Brian | [Most Investors Are Missing The "AI Engine" (Full Stack Breakdown)](https://www.youtube.com/watch?v=wCiGXI2fmzM) | — | — | [transcript](wCiGXI2fmzM/transcript.md) · [visuals](wCiGXI2fmzM/visuals.md) |
-| — | New Money | [7 Steps to Unf*** Your Finances](https://www.youtube.com/watch?v=wDzSXwfW4Ps) | — | — | [transcript](wDzSXwfW4Ps/transcript.md) |
+| — | New Money | [7 Steps to Unf*** Your Finances](https://www.youtube.com/watch?v=wDzSXwfW4Ps) | — | — | [transcript](wDzSXwfW4Ps/transcript.md) · [visuals](wDzSXwfW4Ps/visuals.md) |
 | — | HealthyGamerGG | [Basic Survival is So Exhausting](https://www.youtube.com/watch?v=wEPZPRhNGGw) | — | — | [transcript](wEPZPRhNGGw/transcript.md) |
 | — | HealthyGamerGG | [Why You Lie to Avoid Conflict](https://www.youtube.com/watch?v=wF5lt3Pjils) | — | — | [transcript](wF5lt3Pjils/transcript.md) |
 | — | Tom Nash | [Alex Karp Explains Why PLTR Will Be The Best Software Company Ever](https://www.youtube.com/watch?v=wG_l0zGnDko) | — | — | [transcript](wG_l0zGnDko/transcript.md) · [visuals](wG_l0zGnDko/visuals.md) |
