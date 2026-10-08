@@ -7301,7 +7301,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Claude Design: Full Walkthrough. I'm blown away.](https://www.youtube.com/watch?v=vyLaimDeK_g) | — | — | [transcript](vyLaimDeK_g/transcript.md) |
 | — | Greg Isenberg | [Reviewing Claude Opus 4.5](https://www.youtube.com/watch?v=vyZX0oQozzc) | — | — | [transcript](vyZX0oQozzc/transcript.md) |
 | — | Ben Yanes | [Modern Meathead Experience #30 - Should you do every set to failure?](https://www.youtube.com/watch?v=vzQ5V_hcS-w) | — | — | [transcript](vzQ5V_hcS-w/transcript.md) |
-| — | Tom Nash | [PLTR: Something Crazy Just Happened!](https://www.youtube.com/watch?v=vzvIxAMwdUY) | — | — | [transcript](vzvIxAMwdUY/transcript.md) |
+| — | Tom Nash | [PLTR: Something Crazy Just Happened!](https://www.youtube.com/watch?v=vzvIxAMwdUY) | — | — | [transcript](vzvIxAMwdUY/transcript.md) · [visuals](vzvIxAMwdUY/visuals.md) |
 | — | HealthyGamerGG | [How to Avoid Being a People Pleaser and Set Boundaries](https://www.youtube.com/watch?v=w-MB1PDThEg) | — | — | [transcript](w-MB1PDThEg/transcript.md) |
 | — | Aswath Damodaran | [Session 14: Investment Returns I- Setting the Table](https://www.youtube.com/watch?v=w0WE8jsG-Ig) | — | — | [transcript](w0WE8jsG-Ig/transcript.md) |
 | — | Aswath Damodaran | [Session 1: Introduction to statistics](https://www.youtube.com/watch?v=w0dsBZn7DsI) | — | — | [transcript](w0dsBZn7DsI/transcript.md) · [materials](w0dsBZn7DsI/materials/) |
@@ -7390,7 +7390,7 @@ Each transcript link points to the full text under this folder.
 | — | Riley Brown | [AI Music: The End of Music as We Know It (In-Depth)](https://www.youtube.com/watch?v=whxbRkeJQKA) | — | — | [transcript](whxbRkeJQKA/transcript.md) |
 | — | Aswath Damodaran | [Data Update 6 for 2026: In Search of Profitability and Value!](https://www.youtube.com/watch?v=wipmKevNjAk) | — | — | [transcript](wipmKevNjAk/transcript.md) · [materials](wipmKevNjAk/materials/) |
 | — | Tom Nash | [The end of Palantir? (Why $PLTR is down and keeps dropping?)](https://www.youtube.com/watch?v=wj0cd2yUCnQ) | — | — | [transcript](wj0cd2yUCnQ/transcript.md) · [visuals](wj0cd2yUCnQ/visuals.md) |
-| — | Tom Nash | [Aswath Damodoran Leaves Entire CNBC Panel SPEECHLESS](https://www.youtube.com/watch?v=wjLp6gApn7g) | — | — | [transcript](wjLp6gApn7g/transcript.md) |
+| — | Tom Nash | [Aswath Damodoran Leaves Entire CNBC Panel SPEECHLESS](https://www.youtube.com/watch?v=wjLp6gApn7g) | — | — | [transcript](wjLp6gApn7g/transcript.md) · [visuals](wjLp6gApn7g/visuals.md) |
 | — | Aswath Damodaran | [Mean Reversion: Statistical Fact or Dangerous Delusion?](https://www.youtube.com/watch?v=wjVA6XqkWuI) | — | — | [transcript](wjVA6XqkWuI/transcript.md) · [materials](wjVA6XqkWuI/materials/) |
 | — | Greg Isenberg | [Master the Art of AI-first Products with Dave Rogenmoser's Winning Formula](https://www.youtube.com/watch?v=wjVkiHU6osI) | — | — | [transcript](wjVkiHU6osI/transcript.md) |
 | — | Aswath Damodaran | [Session 17: The Debt/Equity Trade off](https://www.youtube.com/watch?v=wk6yec9pGAs) | — | — | [transcript](wk6yec9pGAs/transcript.md) · [materials](wk6yec9pGAs/materials/) |
@@ -7434,10 +7434,10 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [What High Performers KNOW That YOU Don't](https://www.youtube.com/watch?v=x6NSpxthHw4) | — | — | [transcript](x6NSpxthHw4/transcript.md) |
 | — | Aswath Damodaran | [Session 4 (MBA): Closing the books on the objective function](https://www.youtube.com/watch?v=x6mvXMSqEvo) | — | — | [transcript](x6mvXMSqEvo/transcript.md) · [materials](x6mvXMSqEvo/materials/) |
 | — | Greg Isenberg | [Steal Thomas Frank’s $100K/mo Passive Income Strategy](https://www.youtube.com/watch?v=x707WZd-l9s) | — | — | [transcript](x707WZd-l9s/transcript.md) |
-| — | Tom Nash | [The end of growth stocks?](https://www.youtube.com/watch?v=x78B4beRCY0) | — | — | [transcript](x78B4beRCY0/transcript.md) |
+| — | Tom Nash | [The end of growth stocks?](https://www.youtube.com/watch?v=x78B4beRCY0) | — | — | [transcript](x78B4beRCY0/transcript.md) · [visuals](x78B4beRCY0/visuals.md) |
 | — | Aswath Damodaran | [Chapter/Session 3: The Corporate Life Cycle - Measures and Determinants](https://www.youtube.com/watch?v=x7dbavHECfc) | — | — | [transcript](x7dbavHECfc/transcript.md) · [materials](x7dbavHECfc/materials/) |
 | — | New Money | [Buffett's Honest Thoughts on the US Debt Situation.](https://www.youtube.com/watch?v=x7orlIiv4f8) | — | — | [transcript](x7orlIiv4f8/transcript.md) |
-| — | Tom Nash | [Dan Ives Leaves Entire CNBC Panel SPEECHLESS about Tesla](https://www.youtube.com/watch?v=x8V2ktehSqY) | — | — | [transcript](x8V2ktehSqY/transcript.md) |
+| — | Tom Nash | [Dan Ives Leaves Entire CNBC Panel SPEECHLESS about Tesla](https://www.youtube.com/watch?v=x8V2ktehSqY) | — | — | [transcript](x8V2ktehSqY/transcript.md) · [visuals](x8V2ktehSqY/visuals.md) |
 | — | Aswath Damodaran | [A Return to Teaching: The Spring 2023 Edition](https://www.youtube.com/watch?v=x8qna3jElZg) | — | — | [transcript](x8qna3jElZg/transcript.md) · [materials](x8qna3jElZg/materials/) |
 | — | Starter Story | [I Built a $1M SaaS 100% with No Code (Bubble)](https://www.youtube.com/watch?v=x9TUDb4sLE0) | — | — | [transcript](x9TUDb4sLE0/transcript.md) |
 | — | HealthyGamerGG | [DR.K_SECRET_VIDEO_DONT_UPLOAD.mp4](https://www.youtube.com/watch?v=x9bAP46ouEw) | — | — | [transcript](x9bAP46ouEw/transcript.md) |
@@ -7475,7 +7475,7 @@ Each transcript link points to the full text under this folder.
 | — | Leila Hormozi | [You're Not Lazy: How to Make a Comeback and LEVEL UP Your Life](https://www.youtube.com/watch?v=xO4lpL0FNLg) | — | — | [transcript](xO4lpL0FNLg/transcript.md) |
 | — | HealthyGamerGG | [Overcoming Guilt & Inceldom \| Dr. K Interviews](https://www.youtube.com/watch?v=xOVEkogq5QQ) | — | — | [transcript](xOVEkogq5QQ/transcript.md) |
 | — | Riley Brown | [Gemini 1.5 is Way More Powerful Than You Think](https://www.youtube.com/watch?v=xPQhZWE20vI) | — | — | [transcript](xPQhZWE20vI/transcript.md) |
-| — | Tom Nash | [The Federal Reserve Just F*cked The Entire Stock Market](https://www.youtube.com/watch?v=xQhAl2_2PqM) | — | — | [transcript](xQhAl2_2PqM/transcript.md) |
+| — | Tom Nash | [The Federal Reserve Just F*cked The Entire Stock Market](https://www.youtube.com/watch?v=xQhAl2_2PqM) | — | — | [transcript](xQhAl2_2PqM/transcript.md) · [visuals](xQhAl2_2PqM/visuals.md) |
 | — | Ticker Symbol: YOU | [🧬 ARKG \| ARK Invest's MASSIVE Genomic Stock Trades (Q3 Finale)](https://www.youtube.com/watch?v=xR1REEo42G0) | — | — | [transcript](xR1REEo42G0/transcript.md) · [visuals](xR1REEo42G0/visuals.md) |
 | — | BWB - Business With Brian | [How to Buy T-Bills, Notes, & Bonds from Treasury Direct or Fidelity](https://www.youtube.com/watch?v=xRuRTanUUYE) | — | — | [transcript](xRuRTanUUYE/transcript.md) · [visuals](xRuRTanUUYE/visuals.md) |
 | — | HealthyGamerGG | [Thinkers vs. Do-ers: Why You Suck At Following Through](https://www.youtube.com/watch?v=xSBGYoS6z68) | — | — | [transcript](xSBGYoS6z68/transcript.md) |
@@ -7483,10 +7483,10 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Palantir Founder’s Bombshells on Fixing America](https://www.youtube.com/watch?v=xSkpN4XptPo) | — | — | [transcript](xSkpN4XptPo/transcript.md) |
 | — | JulienHimself | [The Truth About Creativity - Steal Like An Artist Book Review (Austin Kleon)](https://www.youtube.com/watch?v=xTkN8BQqv1M) | — | — | [transcript](xTkN8BQqv1M/transcript.md) |
 | — | BWB - Business With Brian | [Top AI ETF for 2025 : Millionaire Makers!](https://www.youtube.com/watch?v=xU8Cg0YTK0w) | — | — | [transcript](xU8Cg0YTK0w/transcript.md) · [visuals](xU8Cg0YTK0w/visuals.md) |
-| — | Tom Nash | [The Tragic Story of Sri Lanka's Collapse](https://www.youtube.com/watch?v=xUM6zX0k89Q) | — | — | [transcript](xUM6zX0k89Q/transcript.md) |
+| — | Tom Nash | [The Tragic Story of Sri Lanka's Collapse](https://www.youtube.com/watch?v=xUM6zX0k89Q) | — | — | [transcript](xUM6zX0k89Q/transcript.md) · [visuals](xUM6zX0k89Q/visuals.md) |
 | — | Ticker Symbol: YOU | [If You Hold Palantir Stock (PLTR)... GET READY!](https://www.youtube.com/watch?v=xUnI0E33t6s) | — | — | [transcript](xUnI0E33t6s/transcript.md) · [visuals](xUnI0E33t6s/visuals.md) |
 | — | Aswath Damodaran | [Session 3: The Risk Free Rate](https://www.youtube.com/watch?v=xV80dt1OZtQ) | — | — | [transcript](xV80dt1OZtQ/transcript.md) |
-| — | Tom Nash | [What's Cathie Wood Doing!? (Bought 2 Million PLTR Shares in January)](https://www.youtube.com/watch?v=xW0zs4MJ9rE) | — | — | [transcript](xW0zs4MJ9rE/transcript.md) |
+| — | Tom Nash | [What's Cathie Wood Doing!? (Bought 2 Million PLTR Shares in January)](https://www.youtube.com/watch?v=xW0zs4MJ9rE) | — | — | [transcript](xW0zs4MJ9rE/transcript.md) · [visuals](xW0zs4MJ9rE/visuals.md) |
 | — | HealthyGamerGG | [How Your ADHD Affects Your Relationships](https://www.youtube.com/watch?v=xWJEuVt0JRk) | — | — | [transcript](xWJEuVt0JRk/transcript.md) |
 | — | Starter Story | [I Built Two Apps That Make $120K/Month](https://www.youtube.com/watch?v=xWnqY2Mav4s) | — | — | [transcript](xWnqY2Mav4s/transcript.md) |
 | — | HealthyGamerGG | [Journey to Pro-Gaming, Confidence, Family ft. Broxah](https://www.youtube.com/watch?v=xWtY6fcn1hM) | — | — | [transcript](xWtY6fcn1hM/transcript.md) |
