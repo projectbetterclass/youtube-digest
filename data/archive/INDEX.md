@@ -7129,7 +7129,7 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [I Just Learned This After 14 Years of Business](https://www.youtube.com/watch?v=uYds0zcAFWM) | — | — | [transcript](uYds0zcAFWM/transcript.md) |
 | — | David Carbutt | [Elon Musk, Peter Thiel & Alex Karp All Have This in Common.](https://www.youtube.com/watch?v=u_89-Nz3epM) | — | — | [transcript](u_89-Nz3epM/transcript.md) |
 | — | Aswath Damodaran | [Session 1 (Undergraduate): Introduction to Class](https://www.youtube.com/watch?v=ua4oVQ46F98) | — | — | [transcript](ua4oVQ46F98/transcript.md) · [materials](ua4oVQ46F98/materials/) |
-| — | Tom Nash | [The Stock Market Apocalypse Just Started [Do This ASAP]](https://www.youtube.com/watch?v=uaqizVc4PHQ) | — | — | [transcript](uaqizVc4PHQ/transcript.md) |
+| — | Tom Nash | [The Stock Market Apocalypse Just Started [Do This ASAP]](https://www.youtube.com/watch?v=uaqizVc4PHQ) | — | — | [transcript](uaqizVc4PHQ/transcript.md) · [visuals](uaqizVc4PHQ/visuals.md) |
 | — | David Carbutt | [What the Heck is Palantir’s Ontology?](https://www.youtube.com/watch?v=uay4Hv_h1hw) | — | — | [transcript](uay4Hv_h1hw/transcript.md) |
 | — | Alex Hormozi | [If you're ambitious and in your 20s or 30s, please watch this.](https://www.youtube.com/watch?v=ub1D6RQocRU) | — | — | [transcript](ub1D6RQocRU/transcript.md) |
 | — | Aswath Damodaran | [Session 7: Costs of Debt and Capital](https://www.youtube.com/watch?v=ubeZj_duhW8) | — | — | [transcript](ubeZj_duhW8/transcript.md) · [materials](ubeZj_duhW8/materials/) |
@@ -7230,7 +7230,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [What I Learned From Tech Billionaire & Real Life Iron Man: Elon Musk Ashlee Vance Book Review](https://www.youtube.com/watch?v=vO_p5PJOd48) | — | — | [transcript](vO_p5PJOd48/transcript.md) |
 | — | Greg Isenberg | [Forecasting the Future of Tech with Scott Belsky \| Where It Happens](https://www.youtube.com/watch?v=vPJV_S0zlAI) | — | — | [transcript](vPJV_S0zlAI/transcript.md) |
 | — | David Carbutt | [Joe Lonsdale STUNS CNBC Host](https://www.youtube.com/watch?v=vPijQA0i478) | — | — | [transcript](vPijQA0i478/transcript.md) |
-| — | Tom Nash | [Recession ahead? The bond-market is flashing a major warning.](https://www.youtube.com/watch?v=vPkybn5qKAI) | — | — | [transcript](vPkybn5qKAI/transcript.md) |
+| — | Tom Nash | [Recession ahead? The bond-market is flashing a major warning.](https://www.youtube.com/watch?v=vPkybn5qKAI) | — | — | [transcript](vPkybn5qKAI/transcript.md) · [visuals](vPkybn5qKAI/visuals.md) |
 | — | Riley Brown | [Build an App, Buy a Domain, and Deploy it with Cursor in 18 minutes](https://www.youtube.com/watch?v=vQDAxWS9OXc) | — | — | [transcript](vQDAxWS9OXc/transcript.md) |
 | — | Aswath Damodaran | [Discount Rate Myth 5: As rates approach zero, value goes to infinity!](https://www.youtube.com/watch?v=vR19Wsp4ks4) | — | — | [transcript](vR19Wsp4ks4/transcript.md) · [materials](vR19Wsp4ks4/materials/) |
 | — | Aswath Damodaran | [Spotify Loose Ends: Pricing, Subscriber Value and Big Data!](https://www.youtube.com/watch?v=vRFSXW00Aq8) | — | — | [transcript](vRFSXW00Aq8/transcript.md) · [materials](vRFSXW00Aq8/materials/) |
