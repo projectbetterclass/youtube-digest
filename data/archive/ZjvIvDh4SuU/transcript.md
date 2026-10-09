@@ -1,0 +1,5 @@
+# Do everything BEFORE you're ready 👊
+
+<https://www.youtube.com/watch?v=ZjvIvDh4SuU>
+
+one of the questions that I'd often get all the time during q a is Vin how did you know you were ready and you know to be honest with you I didn't know the answer to that question but because I felt like I knew it all I felt like I had to have the answers and therefore I would say things like when I have lots of money when I found the right team when my parents and all of my friends support me I thought those were the things necessary for you to feel ready and I would say all these things because I feared the words I don't know when I first was performing magic I wasn't ready to become a professional magician but I did it anyway I wasn't ready to become a professional speaker yet I did it anyway and I know for a fact now that any project that I do moving forward into the future and present I'm not going to be ready for any of them the point is you'll never feel ready that the moment where you feel like everything is set and everything is good to go that moment never arrives so the punch line is do everything before you're ready

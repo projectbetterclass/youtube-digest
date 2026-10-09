@@ -1,0 +1,5 @@
+# Stop saying UMM and AHH
+
+<https://www.youtube.com/watch?v=zdVDo2XaJ2w>
+
+i'm using the words um and i'm not confident so did you mean to say that we should practice not using these and use the right words yeah of course and then thank you for the question you know often when we use fillers and non-words it's not replacing anything that's meaningful we're just afraid of silence and what happens is every time there's a silence um you know uh or i could just say the thing about silence is when you learn how to get more comfortable with it when you feel like saying um ah and so or like just replace it with silence just pause wow and the craziest thing the pause is one of the most important notes in the world of music and when you listen to orchestral music it builds to a crescendo really big crescendo and then it just pauses and it's one of the most beautiful notes in music yet when we speak we never use one of the most beautiful notes and when you pause the most beautiful thing about when you pause is you give people time to think about what you just said notice how you're thinking about what i'm saying yes and i will practice this thank you so much i loved

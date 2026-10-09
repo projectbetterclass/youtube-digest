@@ -1,0 +1,5 @@
+# "The most impactful thing I've done for myself" | STAGE Communication Workshop
+
+<https://www.youtube.com/watch?v=-buZHVEER-c>
+
+for me this is my second time through the workshop it's a little bit different for me i work at google i remember when i first started there and i was always thinking i'm not speaking enough i'm speaking too much i'm saying stuff they don't care about all of those things i think were true if i had had the tools that i'm picking up here in the stage workshop i could have done a lot better i take a lot of classes there's a lot of classes offered for free at google and they're all quite good this one differs in what vin brings to it in the intensity of the preparation he's put into it and then what he gives is it's obvious that he's bringing his whole emotional self and not just his intellectual self and we all i think get caught up in what he brings to this and we feel much more motivated than i've felt really in any other course i've taken for me this has been really the most impactful thing that i've done for myself [Music] you

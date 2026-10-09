@@ -1,0 +1,5 @@
+# Practice communication ONE thing at a time
+
+<https://www.youtube.com/watch?v=-DckU3ibEY0>
+
+common question i've been getting on social media is vin what do i work on first with my communication skills well you get to pick say for example you picked volume because your base volume is quite low for example then for seven days all you work on is bringing your base volume higher trying to bring it to a six or a seven out of ten then at the end of the seven days check your base volume if it has improved then you get to work onto the next thing if it hasn't improved then you got to keep on working on volume for the next seven days again okay that's a good pause point and just keep the keep it rolling yeah and then i'll say okay all right that's how the greatest communicators in the world become the greatest communicators by focusing on just one thing at a time it's how the greatest musicians in the world become the greatest musicians on the world by just focusing on one thing at a time cool sweet thanks bro
