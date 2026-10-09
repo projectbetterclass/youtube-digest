@@ -199,3 +199,18 @@ Key files:
 - `src/ytdigest/visuals.py` — Phase 2 on-screen visual capture
 - `.github/workflows/digest.yml` — cloud runner workflow
 - `.github/workflows/visuals.yml` — self-hosted visual capture workflow
+
+---
+
+## Reviewing the tool (the review contract)
+
+A review of the tool is **grounded by construction** — read the code and run `pytest` before any remark:
+- **Read before you remark** — open the files under `src/ytdigest/`; cite `path:line`; no claim you
+  haven't read the code for.
+- **Run `pytest` before concluding** (no network / API key needed); never say something passes you didn't run.
+- **Judge against this repo's rules** — summaries grounded in the transcript (never invented), stay
+  critical / never financial advice, safe-linked-materials-only, secrets from CI never committed — not generic style.
+- **Every finding cites `path:line`** + the check that proves it; specific, falsifiable, most-serious first.
+
+Run a full pass with **`/review`** (`.claude/commands/review.md`). (When answering *content* questions
+from the library, the "ask your library" rules above apply instead.)
