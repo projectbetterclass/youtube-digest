@@ -1,0 +1,5 @@
+# HUGE ANNOUNCEMENT
+
+<https://www.youtube.com/watch?v=zZyRg4Fzabk>
+
+I have amazing news. I think that when I die, the thing that I will be most proud of is not the businesses that I've built, but the books that I've written. Alex Mosy, 100 million dollar offers, sold over 430,000 copies. I launched it before I had an audience. I have been working for 2 years on a single project that launches on August 19th. Great writing comes from a place of wanting to add to the body of knowledge. 100 million leads is finally here. We're launching it on August 19th at a live event. I'm going to make this the Super Bowl for entrepreneurship. I put a million bucks into the event to make it unbelievable for you guys and hopefully there's a spoiler nation and go over the top with the amount of things we've been giving away. But it's only going to be for people who are live there with me. So, you're not going to miss it. Go to the link acquisition.com/leads and I will see you guys there. Invite your friends.
