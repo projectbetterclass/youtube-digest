@@ -10,9 +10,9 @@ This repo is two things:
 
 ## Project state (keep this section current)
 
-### Snapshot (2026-10-02)
-Library: **7,625 videos, 7,439 with transcripts**, 699 with linked documents, 273 with
-on-screen visuals (2,396 charts/slides). 20 channels in `config/watchlist.yml`.
+### Snapshot (2026-10-09)
+Library: **8,750 videos, 8,550 with transcripts**, 699 with linked documents, 1,911 with
+on-screen visuals read (12,076 charts/slides). 20 channels in `config/watchlist.yml`.
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
 disabled for this user"), so neither the cloud digest nor the visuals job is running;
@@ -49,10 +49,12 @@ All YouTube traffic (RSS, transcripts, yt-dlp) goes through a **Webshare residen
 so cloud IPs aren't blocked. Secrets needed: `ANTHROPIC_API_KEY`, `WEBSHARE_PROXY_USERNAME`,
 `WEBSHARE_PROXY_PASSWORD`. Webshare plan: 3 GB/month (cycle resets on the 24th); a
 transcript fetch costs ~0.5 MB because it downloads the whole watch page. The Sep 24 – Oct 24
-cycle is estimated at **~2.9 of 3 GB** used after the whole-channel runs and Alex Hormozi's
-150 on 2026-10-07 — **no big backfills until it resets on Oct 24**; routine "collect my
-priority channels" runs are small. (The PC has no Webshare API key, so usage is an estimate;
-the Webshare dashboard has the exact figure.)
+cycle: the user's Webshare dashboard showed **2.5 of 3 GB** (19,870 requests) on 2026-10-08
+21:58; ~975 transcripts since then put it at an estimated **~2.85–2.9 GB** — **no big runs until
+it resets on Oct 24**; a "collect my priority channels" catch-up (~20–50 videos) is fine.
+Measured cost this cycle: **~0.35–0.43 MB per transcript**. The PC has no Webshare API key, so
+ask the user for the dashboard figure before any big run. (Its "projected usage" warning is a
+straight-line extrapolation; ignore it.)
 
 ### Back-catalog backfill
 - **Aswath Damodaran:** effectively done. 819 of his 1,413 videos collected (771 with
@@ -67,13 +69,11 @@ the Webshare dashboard has the exact figure.)
   Ben Yanes 612, JulienHimself 572, Greg Isenberg 455, New Money 440, Ticker Symbol: YOU 412,
   Felix & Friends 243, Justin Sung 236, Starter Story 203, Riley Brown 190, BWB 184. The few
   without a transcript are unplayable (private/removed), captions-off, or non-English.
-- **Alex Hormozi → Leila Hormozi → Vinh Giang: whole channel** (user's choice and order,
-  2026-10-07; targets 600 / 350 / 450). Alex is at **229 of ~522** after a capped run on
-  2026-10-07 (proxy data nearly used up). **After the 24 Oct reset:** run
-  `local_collect.py --channel "Alex Hormozi"` for the remaining ~290, then `--channel "Leila
-  Hormozi"` (~252 left), then `--channel "Vinh Giang"` (~349 left). They are not in `PRIORITY`.
-  While `local_collect.py` runs, pause the screen reader (both commit `data/` in the same
-  working copy) and restart it afterwards.
+- **Alex Hormozi, Leila Hormozi, Vinh Giang: whole channel, complete 2026-10-09** (user's
+  choice and order; targets 600 / 350 / 450): Alex 573 (558 with transcripts), Leila 305 (299),
+  Vinh 411 (409). They are not in `PRIORITY`; collect their new uploads with
+  `local_collect.py --channel "<name>"` when the user asks. While `local_collect.py` runs, pause
+  the screen reader if one is running (both commit `data/` in the same working copy).
 - **Other channels** (Chris Raroque, Aswath): at their target as of 2026-10-02.
   No transcript collection has run for the priority channels since 2026-10-02, so their
   newer uploads (20+ by 2026-10-07) wait for the next "collect my priority channels".
@@ -131,10 +131,16 @@ first throttle message and re-queues anything it noted. PR #62 builds that stop 
 by multi-agent adversarial review; **the user must merge it** (the merge was blocked for me).
 Until it's merged, never run plain `--capture-only` jobs unsupervised. Never work around
 YouTube's check with browser cookies.
-**Run detached:** jobs started as Claude Code background tasks die when the session closes
-(that stopped capture at 21:32 on 2026-10-07). Since 2026-10-08 the supervisor and the
-stored-only reader are started with PowerShell `Start-Process -WindowStyle Hidden` so they
-survive the session; logs are in the session scratchpad (`cap_chain.err.log`, `read_loop8.err.log`).
+**Long jobs live only as long as the chat session.** Anything started from a Claude Code
+session is killed when that session closes, including processes launched with PowerShell
+`Start-Process` (they stay in the session's Windows job). That stopped capture at 21:32 on
+2026-10-07 and a transcript run at 22:13 on 2026-10-08. Run long jobs in-session with
+keep-awake on, and tell the user to keep the chat open; or give them the command to paste into
+their own PowerShell window. The app's Terminal-panel tool would outlive the session, but on
+this PC its shell integration file is missing, so it can't type commands. Both
+`local_collect.py` (saves every 10) and the visuals reader (ledger per batch) resume cleanly
+after a kill. Before committing, delete transcript folders from a cut-off batch that aren't in
+`library.json`.
 A download that drops mid-file ("N bytes read, M more expected") is noted as failed by the
 current code but is not a dead video: re-queue it (delete its ledger entry and `frames/<id>/`).
 
