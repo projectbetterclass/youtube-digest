@@ -1,0 +1,5 @@
+# What makes a great communicator?
+
+<https://www.youtube.com/watch?v=PYChByzWibM>
+
+when you see a great presenter when you see a great communicator sometimes you don't know what makes them great A lot of the times we don't know we just feel oh I feel drawn to this person I feel drawn to that person and what I want to do during this experience is you may know not you probably don't know what to look for right now when you see a great communicator it may just seem like a whole bunch of patterns you don't know what it is that you're looking for over the next two days I'm going to show you exactly what to look for I'm going to show you the patterns the behavioral changes that you can make to help you become more influential more engaging and when you go back to your own lives on Monday I promise you you will be able to see the patterns among the unknown now you'll be able to see the Unseen you won't look at communication the same again that's my goal for you to help you identify all the invisible things that great communicators do over the next two days [Music]

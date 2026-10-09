@@ -1,0 +1,5 @@
+# When your son visits you at work 🥺
+
+<https://www.youtube.com/watch?v=P2weefVSfhE>
+
+Xander what's up hey Xander hey how are you yeah oh I love you xanna can you say hi everybody hi everybody hey Xander oh hey sander hi hi I love you I love you can you give me a kiss oh that's penguin That's my wife either do you want to go yeah okay all right all right oh you wanna you wanna read a book when we first brought Xander in he had to be outside the first time oh you're welcome you're welcome you're welcome okay yeah oh you're welcome Xander look your teachers are here say hi hi oh that's so oh thank you for bringing him in for the wind oh thank you can we please give penwin a round of applause yeah oh thank you thank you thank you for loving me and letting me do this I I wouldn't be here without her support so she gets about two percent of the credit so that's uh yeah and that's enough hey thank you I'll come spend time with you okay all right love you thanks for bringing him in first time he's got to come up how cool is that step by step baby and soon he'll be teaching this class
