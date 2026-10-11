@@ -109,3 +109,12 @@ channels:
   - name: "JulienHimself"
     channel_id: UCaN4Pe5JEsWzAByY2WfxxjQ
     backfill: 700            # whole channel (~572 videos) — a user priority channel; audio only
+  - name: "Sean Nalewanyj"
+    channel_id: UCGXRegKvroyGv8HbN35AjKA
+    backfill: 450            # whole channel (~397 videos + 289 Shorts) — user asked 2026-10-11 (training)
+  - name: "TheQuadfatherBW"
+    channel_id: UCdhPsaLVKArZ0c1nOq2m9Qw
+    backfill: 20             # whole channel (~6 videos + 67 Shorts) — user asked 2026-10-11 (training)
+  - name: "JPG Coaching"
+    channel_id: UCnb-F1mP6q0Aj-e5pXuUTog
+    backfill: 40             # whole channel (~25 videos + 306 Shorts) — user asked 2026-10-11 (training)
