@@ -1,0 +1,5 @@
+# You’re the problem. Not the program.
+
+<https://www.youtube.com/watch?v=bc_GTKa4oLc>
+
+if every set that you're doing feels easy the problem is you because it's funny I've had people join my teams and they're like oh I don't know if this is enough for me I was doing a lot more before try harder I promise it works I knew that wasn't coming up again I was pretty confident about six so I told myself a couple reps higher just because I think you should always mentally overshoot what you're pretty sure you can do just so you don't tap out at whatever rep you are pretty sure you can do because a lot of people when they go in the gym they know what they can do from last session so let's say you know I'm pretty confident I can do 100 for six I'm going to tell myself I'm going to get eight or nine that way I have that mental drive to keep pushing as hard as I can till the end of the set cuz that's where a lot of people go wrong if you're not getting those hard reps at the end of the set kind of a wasted set if every rep was easy and by kind of I mean it was so
