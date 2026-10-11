@@ -1,0 +1,5 @@
+# Step up alternatives for big glutes
+
+<https://www.youtube.com/shorts/2l99pLBk5XM>
+
+Best step-up alternatives for big glutes, big legs. Let's go. Single-leg hack squats with a high foot placement. If you want to work the middle quad muscle like I'm doing here, you can have that back foot on the ground pushing into the floor as you come up. This one [music] is absolutely brutal and can also be done for the quads as well if you use a lower foot placement. Single-leg pendulum squat. This is a great option if you want to get more quad out of the exercise due to the arc of the machine. You could use a higher foot placement if you wanted more hip extension like the glutes and adductor magnus that inner thigh muscle for people not familiar with that term. Last but not least, one of my favorite unilateral exercises for the legs, the single-leg leg press. All of the exercises shown are going to be more stable options compared to your traditional step-up, so try them out next time you're in the gym and grow some big glutes and legs.

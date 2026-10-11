@@ -1,0 +1,5 @@
+# Do I miss the 2022 gym era?
+
+<https://www.youtube.com/shorts/Nob0GkbuIwI>
+
+JPG, do you miss the 2022 gym era? This is when I was at like my peak social media wise. I was posting five, 10, 15 times in a day on a pretty much daily basis. And I will say, no, I don't really miss that because I think that now, while it may seem like a lot of people have paralysis by analysis, they're over analyzing things and doing a bunch of goofy stuff in the gym, I think on average, people have a better understanding of what makes muscles grow. They have a better understanding of nutrition just because there was such a big push for more evidence-based, science-based training. Despite there still being a ton of misinformation within the fitness community on social media platforms, it's definitely way better than it used to be. And if you're asking more so for me and if I miss that peak of my social media posting, not really, because I never got into this to be a famous person. Being famous sounds terrible. That sounds like a huge hassle. I love being able to walk around anonymous and not have to worry about that.

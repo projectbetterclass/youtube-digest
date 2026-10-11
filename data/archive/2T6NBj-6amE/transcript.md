@@ -1,0 +1,5 @@
+# Still think it’s a solid variation 😗
+
+<https://www.youtube.com/shorts/2T6NBj-6amE>
+
+I always find it funny when somebody uses a machine in a way that it wasn't intended for, even though it's a perfectly valid way of using it and it's hitting the muscle that they're trying to hit, but people in the comments just can't seem to wrap their head around it and they think that it's just being extra. Just do lateral raises. I'm sorry, what do you think that he was doing? Because what he was doing is essentially the same thing as using a lateral raise machine at the gym. I personally love doing a dumbbell lateral raise, but if I was at a gym without a machine for it, then doing something like this is totally valid if you want something with a more stability. And like I was saying, it's essentially the same thing as using this machine at the gym. This is an abduction machine and he's training shoulder abduction. So, don't knock something just because you don't understand it. Great exercise variation and I hope this video helped to clarify why things like this may have a place within your program.

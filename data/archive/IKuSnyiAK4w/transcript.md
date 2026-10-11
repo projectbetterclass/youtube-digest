@@ -1,0 +1,5 @@
+# I got you Kai
+
+<https://www.youtube.com/shorts/IKuSnyiAK4w>
+
+Kai, I know you can afford my coaching, but I'm still going to give you this advice for free because everybody should know how to do a proper push down. The biggest mistake that I saw that you were making was you were letting the upper arm drift forward on pretty much every single rep. Think about keeping some tension in your upper back, keeping that upper arm pulled back slightly. That way it keeps the upper arm fixed in place. Once your upper arm is fixed in place, only move about the elbow. Keep everything else still. You don't need your hips, your knees, your upper body coming into play to try to move that weight. Allow for a full bend in the elbow to lengthen your triceps as much as possible with this exercise and then fully extend the arm coming to a lock out. I recommend staying fairly close to the cables. That way that length in that elbow bend position is going to be loaded well. And if you put all this together, you'll have a great looking tricep push down.
