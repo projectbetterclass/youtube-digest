@@ -1,0 +1,5 @@
+# STOP using a band - here’s why!
+
+<https://www.youtube.com/shorts/P_pLgrYbiZQ>
+
+today let's talk about why it's probably not a great idea to use a band whenever you're doing rdls the primary goal of any hinge is to train this motion called hip extension but when you introduce a band that pushes the leg inward you have to push outward against it and pushing outward against anything is going to directly decrease your ability to push backward with tissues like the glute Max so if your goals are simply just to train a hinge motion ditch the band so you can just focus on muscles that do this there's nothing inherently wrong with loading this direction but if you're trying to load this direction at the same time that you're trying to load this hinge motion you're just going to decrease the force in muscles that actually perform the hinge motion as a trade-off for always trying to push outward against that band so whenever you're doing RDL just ditch the band and do something separate to train that motion and isolation

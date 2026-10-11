@@ -1,0 +1,5 @@
+# DON'T Do This: Glutes
+
+<https://www.youtube.com/shorts/TO-riOrjLMI>
+
+stop doing hyperextensions like this don't Arch round your upper back think hip thrust at the top RDL as you lower intentionally rounding over your spine in a hip extension is not the best idea the glutes attached from the hip to the femur which means that when they contract they need something on the other side of this Pivot Point to be able to contract maximally if you intentionally tuck your hips and round your spine when you get to the top you're actually going to limit the range of motion into the squeeze position allowing a neutral to a slightly extended spine actually allows you to get more range and more contraction out of the glutes in the shore position so if I were you I would focus on a neutral to a slightly extended posture so that you can train the full range of hip extension because again if you're rounding over you're actually going to limit the amount of contraction that the glutes can create and your capacity to train that fully shorten position which is really the purpose of any hyperextension

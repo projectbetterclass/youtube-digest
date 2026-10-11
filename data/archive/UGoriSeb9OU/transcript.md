@@ -1,0 +1,5 @@
+# Don't Make this Middle Delt Mistake
+
+<https://www.youtube.com/shorts/UGoriSeb9OU>
+
+[Music] [Applause] four actually don't think there's anything wrong with doing partial range of motion lateral raises but there's a big difference between just using the bottom under control and Swinging your entire body to move the load and in addition if you're doing a dumbbell lateral raise in the partial range it's likely that leaning sideways on a bench will do much more for the middle portions of the deltoid if that's what you're trying to Target this is because when you lay sideways on a bench resistance is actually pushing your hand into the body which is much more specific to the middle delts as compared to a dumb where the traps are really going to manage a lot of the bottom of the range of motion so if you are going to do partials for the middle delt I recommend either using a dumbbell and laying sideways on a bench or simply just using a cable and loading the bottom portion of the range either way for the middle delts you want the arm to be pushed into the body you don't necessarily want a resistance that's pulling the arm downward

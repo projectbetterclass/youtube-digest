@@ -1,0 +1,5 @@
+# Should you lean on dips?
+
+<https://www.youtube.com/shorts/TiD65xmIIas>
+
+what's the difference between doing a dip where your torso is more Lean Forward versus doing a dip where your torso is more upright whenever you're not super far lean forward and you're more relatively upright your elbow travels really far back behind your body and because your hand is pretty far forward that direction of resistance is pretty far from the elbow and not that far from the shoulder so the more upright you are the more triceps recruitment that you'll actually see what happens when the Torso leans farther forward the Torso leans forward the hand usually becomes more close to being directly underneath the elbow meaning that the direction resist distance is actually pushing upward like this and so it's not as far from the elbow and a little bit farther from the shoulder so assuming you're stable in both variations the farther this way you move the more chest recruitment you'll have and the farther this way you move the more triceps recruitment you'll have neither one of these is better than the other pick the one that is best suited and comfortable for your goals

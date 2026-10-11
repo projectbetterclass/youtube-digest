@@ -1,0 +1,5 @@
+# STOP "Shoulders Back & Down"!
+
+<https://www.youtube.com/shorts/66t3jS0qdEc>
+
+[Music] let's talk about why pinning your scals backward is not a good idea on a pulling motion the shoulder girdle consists mainly of three bones collar bone the shoulder blade and the upper arm when any one of these three bones moves the other bones need to move in tandem one of the main purposes of doing a pull down is to train the lats most specifically the major function of these lats is to basically pull the shoulder girdle backwards so if you're restricting your shoulder blades from moving forward you're missing out on all this additional length and tension that you could create through these lats instead of trying to lock your shoulder blade backward as you just move the upper arm let everything come upward and downward together that's how the shoulder griddle is supposed to function and even if your goals were more specific to the traps and the romboid to lengthen all these guys you would actually want to still allow that shoulder blade to come forward and backward as you pull

@@ -1,0 +1,5 @@
+# What’s the best lifting shoe?
+
+<https://www.youtube.com/shorts/cXmpj75iqQY>
+
+what kind of shoe should you wear whenever you're lifting in general there are two major categories of shoes you have a more supportive shoe which is generally sort of fluffier in the bottom and then you have a less supported shoe which is generally flatter when it comes to training in the gym especially whenever we're pressing into anything with our foot we want a shoe that has a very rigid sole we don't want to have a shoe that's super squishy like this one because often times when we push into anything with this one there ends up being some kind of give to the shoe that actually makes any kind of lower body press less stable so anytime you're doing any kind of lower body pressing motion whether it's a squat a split squat a leg press or a hack squat make sure that you're using a shoe that has a really rigid Sole and a really flat sole this also goes for Motions like CF raises where you want to make sure that your foot isn't bending around the Implement that you're using

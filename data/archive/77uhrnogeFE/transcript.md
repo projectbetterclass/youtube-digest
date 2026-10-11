@@ -1,0 +1,5 @@
+# The 2 BEST middle delt exercises?
+
+<https://www.youtube.com/shorts/77uhrnogeFE>
+
+here are my two personal favorite middle delt exercises to grow much bigger shoulders the first exercise is called the crotch lateral raise where you set the cable origin up well between your legs when you do this make sure that the angle that you're raising at is slightly forward to backward and not directly out to the side this kind of a raising motion will be really good for targeting the portion of your middle delt sort of in the middle and then slightly on the front exercise number two is a wire raise also done with a cable this variation make sure that you anchor the cable origin on the opposite side hip also make sure that when you're doing the raise that your arm is coming Inward and outward so that you're reaching across this way and so that you end up moving away from your body more than you do forward this particular variation will be really good for targeting the middle portion of the middle delt and then the one that runs slightly behind it with both of these exercises you cover the entire stimulus that you need for your middle delt

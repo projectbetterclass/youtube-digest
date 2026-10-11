@@ -1,0 +1,5 @@
+# Which curl is best?
+
+<https://www.youtube.com/shorts/_NgH6M0unXU>
+
+a oh my God a new emotion [Music] wow incline curls and face away curls are both great options for training the biceps neither one is necessarily better they just do different things because the arm is behind the Torso in both positions both of the biceps will get a little bit more of a stretch but if you're using a dumbbell the resistance is downward which actually means that it's heaviest toward the squeeze position whereas the face away curl because it's angled backward will load more of the bottom portion of the range in other words the face away cable curl is simply just heavier toward a more lengthened position of the biceps and the dumbbell incline curl is heavier toward a more squeezed or shortened position of the biceps both of these variations are likely worth introducing at some point in your training because they'll challenge slightly different portions of the range of motion and there's no reason that you can't just do both kinds of variations for a more complete bicep stimulus

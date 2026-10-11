@@ -1,0 +1,5 @@
+# How does grip change lat recruitment?
+
+<https://www.youtube.com/shorts/cfOmPeAzNqo>
+
+[Music] let's talk about why changing your grip is not going to change lat recruitment the lower lats run from low to high the upper lats kind of run more horizontally so the way that you would train these differently than you would train these is by doing a more vertical motion which would stretch these guys more and then if you wanted to train the upper lats you would do more of a horizontal motion like a row so pull Downs are more specific to the lower portions and rows are more specific to the upper portions your lats obviously don't turn your palm upward and downward so if you turn your palms upward or downward but you don't actually change the direction of resistance to be more vertical or more horizontal then you're not going to change the recruitment of the lats so again more vertical direction of resistance equals more vertical lats and more horizontal direction of resistance equals more upper lats if you don't change the resistance and you just change the grip nothing will change

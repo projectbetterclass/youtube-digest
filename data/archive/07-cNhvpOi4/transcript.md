@@ -1,0 +1,5 @@
+# Do THIS On Rope Triceps Extensions
+
+<https://www.youtube.com/shorts/07-cNhvpOi4>
+
+[Music] let's talk about why this actually works for the triceps whenever you're doing a rope extension this is the direction of resistance when your arms are in front of your body and this direction is kind of far from the shoulder but also far from the elbow so both the shoulder and the elbow have to work pretty hard to stabilize this motion but when you take your arms from being out in front of your body to now bringing your hands inward resistance actually moves a lot closer to the shoulder while staying far from the elbow so essentially when you take the direction of resistance from being here to now being here your shoulder actually has to work a lot less but your elbow still has to do a lot of work to push the Rope down so if you're using a rope it's not a bad idea to have your arms closer to your body so that again you can decrease resistance on the shoulder while maximizing resistance on the elbow

@@ -1,0 +1,5 @@
+# STOp doing this to train abs!
+
+<https://www.youtube.com/shorts/3hkgGtklMPY>
+
+You'll never do sit-ups again after doing these. Let's get it. If you want to train your abs, you can't just swing a weight around. That's basically just a shoulder exercise. So, to load your abs, you actually need to move your spine either side to side, front to back, or in some kind of rotation with some kind of resistance that actually asks your abs to work. So, what that might look like for a front crunch is something like this where you're doing a lat pulldown crunch where you're actually allowing your spine to bend and straighten as you go through the range. You can also sit sideways on the pulldown with your leg under the pulldown and open up that side of the rib cage to train more of the obliques. If you wanted to train a rotation, you could just use the lower cable and simply turn and twist from there with some kind of support next to the hip. In any case, you need to be loading your trunk directly. You can't just have a weight in your arms and flail it around.

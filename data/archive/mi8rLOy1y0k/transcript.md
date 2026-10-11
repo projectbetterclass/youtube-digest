@@ -1,0 +1,5 @@
+# Don't Do THIS On Rows
+
+<https://www.youtube.com/shorts/mi8rLOy1y0k>
+
+I don't know why this is still a thing but keeping your back straight during rast is the reason you're looking like Spongebob Square back I get my upper body against the wrist grab the handles and what I don't want to do now is keep my back straight I let my shoulders round forward we're trying to train the upper back and the lats and we're moving the arm back behind the body what we need is a stable base off of which we can actually move the arm backward the reason that's something like a chest support goes here is so that when we pull backward the force that would otherwise be tugging us forward is limited so that all the stress can go directly to the upper back in the lat tissues in other words when the spine is moving over the chest pad we lose specific tension to the muscles we're trying to train so for these reasons if you're using a chest support don't round your back over the chest support keep your spine nice and straight against the chest support so that you can actually use it

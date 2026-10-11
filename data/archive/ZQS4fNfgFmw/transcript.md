@@ -1,0 +1,5 @@
+# Why do some machines feel heavier?
+
+<https://www.youtube.com/shorts/ZQS4fNfgFmw>
+
+[Music] here's a simple way to understand why these kinds of hack squats feel much heavier than these kinds of hack squats this kind of hack squat is much more vertical than this kind of hack squat because the direction of gravity is always straight upward and downward when you start to move downward in this kind of emotion much more of the weight of the hack Squad is actually interacting with your body but on this variation much more the weight of the hack squat is being taken up by the machine which means that proportionately less weight is being applied through the feet in other words the vertical distance that the weight travels is much greater in the steeper variation as compared to the variation that's much more horizontal so this variation covers much more distance vertically this one covers a lot less distance vertically and that's why if you're lifting 100 lb in either case a greater percentage of this 100 lb will be lifted across this distance as compared to this distance

@@ -1,0 +1,5 @@
+# How to improve the face-pull
+
+<https://www.youtube.com/shorts/P7tD3DL5jpc>
+
+[Music] doing face pulls like this can be a great way to train the middle delts but here's one problem with it and how to make it even better if you're pulling a cable backward like this the force of the cable does want to pull your arm forward but it also wants to rotate your arm downward like this and rotating your arm this way against the cable isn't really doing anything for your middle delts so instead of doing bent face pulls like this simply straighten your arm and angle the cable more across your body so that you can not only stretch the middle and the rear delts more you can also load them much more in a stretch position doing this kind of a cable motion will be much more specific to the delts as compared to the traps and the shoulder rotators both of these variations can be great but the second one will be more specific to the delts whereas the first one will be more specific to the traps and rotator cuff muscles

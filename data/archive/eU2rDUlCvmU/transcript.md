@@ -1,0 +1,5 @@
+# 2 Lateral Raises For GROWTH!
+
+<https://www.youtube.com/shorts/eU2rDUlCvmU>
+
+what's the difference between a lateral raise where the cable is behind your back versus in front of and across your body let's use this strap to look at the anatomy of the delts front delts run on the front side of the shoulder like this the middle delt runs on the side of the shoulder like this and the rear delt attaches to the back of the shoulder like this so if you're doing a Cable raise where your arm stretches behind your back you're going to be targeting more of the front delt than the middle delt if you're doing a y raise where your arm is getting pulled in front of your body you're going to be targeting more of the back side of the middle delt as well as the rear delt so if your goals are really more to Target the front half of the deltoid then choose the variation that stretches the arm slightly behind the body but if you're trying to Target the back half of the deltoid choose the variation where your arm is stretching in front of your body where you're pulling more backward neither variation is better than the other they simply just Target different things

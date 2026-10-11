@@ -1,0 +1,5 @@
+# Which back exercises are BEST?
+
+<https://www.youtube.com/shorts/2LMQIRzeyOg>
+
+god of war god of R of skib there is absolutely nothing wrong with doing isolated motions for the back doing Motions like bent over rows aren't necessarily bad but there's a lot greater of a stability requirement in all the Erectors to actually manage this motion and so because of this a bent over row will involve much more recruitment of the erector muscles in the hips compared to the lats and the rest of the upper back so if you want to Target the lats or the upper back I recommend using a more stable variation with a chest support a lat pull down support or a bench so that you can limit the Recruitment and the stability involvement of all the Erectors in the hips and so that you can just focus on the pulling tissues like the lats the rhomboids the rear delts the Terry's major and the traps this whole old school versus new school way of thinking is pretty stupid because there's no reason that you can't just do both kinds of motions

@@ -1,0 +1,5 @@
+# Bench Press DOESN'T Train Chest?
+
+<https://www.youtube.com/shorts/H0FPbxsWIf4>
+
+[Music] let's just think about this from a physics perspective holding a weight in your hand in a bench press pulls your arm backward it also pulls your whole shoulder girdle backward your pecs are the only muscle group that both pulls the shoulder girdle forward and the upper arm forward simultaneously so the bench press is a fine exercise for training this motion and specifically the pecs this is kind of ridiculous that this even needs to be said but if you're performing a bench press motion and you're not feeling your pecs you simply need to just change the way that you're doing the bench press many people try to use way too much load and their arms are just sort of flailing all over the place and as a consequence there's not much of an isolated Focus to feel more of your pecs on a bench make sure that you're keeping your chest proud and make sure that you're allowing the arm to come back in a comfortable position and just try to use the bottom half of the range which is the portion of the range where the pecs will contribute most

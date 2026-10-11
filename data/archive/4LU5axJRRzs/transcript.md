@@ -1,0 +1,5 @@
+# The problem with DB pullovers
+
+<https://www.youtube.com/shorts/4LU5axJRRzs>
+
+why are dumbbell pullovers not a great lat exercise the dumbbell pullover is mostly loaded in this position where the arm is being pushed directly backward but the function of the lats is to pull the whole shoulder gdle and the arm downward in addition to backward meaning that the lats can actually retract the shoulder blade and also depress the shoulder blade down so while there is load on the lats because the lats can pull the arm forward from this position the direction of resistance is literally doing the opposite thing that we would want for the lats to be able to contract most for the lats to contract most you would want something that either pulling you forward and upward or straight forward like this and when we're in this overhead position and a load pulls us backward lower pecs the Terry's major as well as a long head of the triceps are going to be the prime movers to pull the arm forward this does not make the dumbbell pullover a bad exercise by any means but rather just an exercise that is less specific to training lats as compared to your traditional pull downs and rows

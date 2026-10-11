@@ -1,0 +1,5 @@
+# Avoid this pressing mistake!
+
+<https://www.youtube.com/shorts/r4rQejo0ihc>
+
+when people really just focus on the resistance initially what I tend to find is that they'll start to do all sorts of things at the shoulder in protraction and retraction before they've actually gained an ability to control this bone now why is this bone so important to control well if we look at it from this perspective what we can see the Arc of this bone given that it is an arc and it is pivoting around this point mainly right it will change direction substantially right so just pay attention to this bone try to ignore the forearm segment the forearm segment and looking at it in tandem with the hand can really muddy the water in terms of a clear visual here the beginning of the motion at the bottom this bone is pivoting just upward it's just really moving in line with this blue strap and then in the top it's actually moving much more horizontally in line with something that looks more like this so what does that mean well in the bottom of the motion the direction of this bone is upward toward the ceiling and then it's actually inward toward the center of the body
