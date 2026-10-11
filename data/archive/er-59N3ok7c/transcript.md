@@ -1,0 +1,5 @@
+# Did you know you have 5 quad muscles?
+
+<https://www.youtube.com/shorts/er-59N3ok7c>
+
+all right so I was sent this picture by a couple people asking like what the heck is up with the fact that there are like 20 quads on that leg and like 20 quads on this leg over here and um fun fact there was a study in 2016 that found that there's actually a fifth quad and the fifth quad the name of the fifth quad is the tensor vastus intermedius which is basically like that big bulgy thing up on the side there you can see it in most like really really jacked lean people uh but just thought I'd pop on here to mention that because it's something that's really cool so shout out to this uh this individual for for posting this pick because it's something that's really cool to see especially like in the right lighting and that tensor vastus again is that one that's sort of bulging out and on top of the VL and sort of next to the recthem rage sort of over there so fun fact and I'll link the study in the uh in the comments or the the caption whatever the heck it is um so that all of you can check it out if you want to

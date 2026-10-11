@@ -1,0 +1,5 @@
+# Don’t make THIS cable flye mistake
+
+<https://www.youtube.com/shorts/1Zo91EyUMPQ>
+
+is why you should stop doing standing cable flies even though a cable fly isn't loaded as directly backward as a press might be we still need something behind our upper backs in order to actually be able to produce a significant amount of force forward so in the back of a fly when we initiate motion forward the inertia of that weight is going to want to take our entire body backward what you notice with a lot of people who start to get fatigued without any sort of support back here is that you start to notice a lot more motion through the trunk and as a consequence a lot more recruitment through things like ABS instead of just purely packs again trying to move both of your arms forward without anything to actually serve as a counter force or an anchor behind you is trying to fire a cannon out of a canoe and ultimately we're going to be able to produce much more Force directly through the packs and only through the pecs when we're moving with a support behind our upper backs

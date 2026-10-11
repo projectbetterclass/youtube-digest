@@ -1,0 +1,5 @@
+# Train Your Lats Doing This
+
+<https://www.youtube.com/shorts/1piH3JLxey8>
+
+right arm path for every single division of the lats first of all the uppermost or thoracic division of the lats are going to be most advantaged with the row where your arm is sort of coming down and across your body something like this can either be done on a machine or with cables or with a dumbbell middle division or lumbar division the lats will be a very similar arm path but just slightly higher up to stretch those fibers because they run slightly more vertical for something mostly lumbar lat specific we would want to do something that's similar to the thoracic row but just a little bit higher up something like this again can be done with the cable a machine or a dumbbell as long as you set it up in the proper direction lastly the most vertical or iliac costal division of the lats are going to be the ones that run most vertically so we're going to want to stretch our arm up and across the body and doing something like this where we're doing something more resembling a pull down but where the arm is still not coming up overhead

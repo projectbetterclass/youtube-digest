@@ -1,0 +1,5 @@
+# FIX your DB pressing pain with this tip
+
+<https://www.youtube.com/shorts/ivbNh0ltuvM>
+
+lot of times what will happen is people will set the bench angle this height let's say they're doing a more Vertical Press okay and what they'll do is they'll sort of raise their arm out like this and when you look at them from the side they try to get into that degree of shoulder rotation and they can't right so what is this other than just not 90 degrees from the floor right slightly forward so if you can picture if I put a weight in Frank's hand right now Frank's arm will want to be internally rotated so now all of a sudden instead of just managing the upward and downward force that we're trying to load the delts the pecs Etc what we're doing is we're having to manage all of this complicated rotation and all of that co-contraction around the shoulder is not only going to make us much weaker but it's going to create a lot of complication for the nervous system and may result in some degree of shoulder discomfort

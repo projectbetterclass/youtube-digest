@@ -1,0 +1,5 @@
+# Fix Your Incline Press! #shorts
+
+<https://www.youtube.com/shorts/_FhKpIBS68E>
+
+If you want to maximize the effectiveness of your incline press setup, here's how you do it. Step one, and this is the most important step, is to set the bench at an appropriate angle relative to your range of mobility. An easy way to do that is to sit down first and basically just see if you can rotate your arms up to a position where your forearm is perpendicular to the floor. If you set the incline too high like this, what you'll end up doing is basically setting your arm at an angle where you either have to arch through your back or press forward and up as opposed to directly up. Lowering the angle just a little bit from that point can help, but you also have to keep in mind that you won't be able to stretch your arm far behind your body if the angle is too high. So, usually I find about a 45° angle is great for most incline presses and allows you to put your forearm at an angle where your wrist is directly over your elbow and where your pressing power is maximized. If you enjoyed this video, please like and share for more.

@@ -1,0 +1,5 @@
+# Do this if you can’t feel your glutes.
+
+<https://www.youtube.com/shorts/W22IYqPB4CU>
+
+you can't connect with your glutes on this exercise it's usually because of one or two reasons the first reason is that you're trying to do the entire range the glutes are really only going to be super active in the top half of this range so the first correction is range of motion really just try to use the top half of the range and include pauses at the top second reason maybe a queuing issue so what we really want to pay attention to is contact of our hips into the pad and in addition the contact at the back of our leg into the back pad so you really need to make sure that you're wedged into these two places as you go through the range of motion so again I'm really just using the top half of the range and I'm squeezing at the top and I'm making sure that my thighs are thoroughly pressed into the thigh pad the quads really and then the back legs are essentially kicking backward my leg were actually out of this machine what you would sort of Imagine is your leg kicking up and backward as your knee is straight give those two Corrections a try

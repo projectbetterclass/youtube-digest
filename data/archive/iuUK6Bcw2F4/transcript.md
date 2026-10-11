@@ -1,0 +1,5 @@
+# Rows: Avoid THIS Mistake
+
+<https://www.youtube.com/shorts/iuUK6Bcw2F4>
+
+why is it a mistake to round your back over a chest support like this when you're doing rows whenever we're trying to train the upper back and the lats and we're moving the arm back behind the body what we need is a stable base off of which we can actually move the arm backward the reason that something like a chest support goes here is so that when we pull backward the force that would otherwise be tugging us forward is limited so that all the stress can go directly to the upper back and the lat tissues in other words when the spine is moving over the chest pad we lose specific tension to the muscles we're trying to train so for these reasons if you're using a chest support don't round your back over the chest support keep your spine nice and straight against the chest support so that you can actually use it we're set my back is flat that's full protraction that's letting my spine round like a piece of full protraction full retraction flat back full protraction full retraction

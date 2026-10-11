@@ -1,0 +1,5 @@
+# How are forward and reverse lunges different?
+
+<https://www.youtube.com/shorts/geUPeeqyGT0>
+
+how is muscle recruitment different in a forward lunge compared to a reverse lunge a simple way to think about this is a forward lunge is kind of like going downstairs and a reverse lunge is kind of like walking upstairs whenever you're walking downstairs you have to shift your weight backward when this happens your knee moves farther away from you and as a consequence your knee gets loaded more when you're walking upstairs though you actually have to shift your weight forward as opposed to backward when more of your weight has to shift forward you actually have to push your hips back further so doing forward lunges and walking downstairs is more of a quad dominant activity doing reverse lunges and walking upstairs is more of a hip dominant activity both the forward and the reverse lunge are great exercises that both train the quads the glutes the hamstrings and the adductors but which one you choose should depend on your goals and specifically what you're trying to work most
