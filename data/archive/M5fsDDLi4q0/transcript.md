@@ -1,0 +1,5 @@
+# Stop taking creatine until you do this...
+
+<https://www.youtube.com/shorts/M5fsDDLi4q0>
+
+Stop taking creatine until you do this. Why the [ __ ] are you supplementing creatine when you can get it from beef or sardines in way better amounts? It's a [ __ ] supplement. Why the [ __ ] are you supplementing it if you can get it from real food? Given that creatine has been shown to improve brain function, this is probably the last dude that should be throwing it in the trash. I mean, sure, creatine is found in whole foods, but unless you're eating literal kilograms of meat every single day, you're not getting enough to fully saturate the muscles and maximize its effects. You can force-feed yourself sardines and walk around smelling like a fish market dumpster all day, or just take one tiny scoop of powder and get your entire daily dose right there. At this point, we have over a thousand published studies on creatine showing that it can increase strength, muscle growth, cognitive performance. It's safe. It's relatively cheap. No, it's not some kind of magic potion you need for results. But if you want the very best results, then there's no good reason to skip

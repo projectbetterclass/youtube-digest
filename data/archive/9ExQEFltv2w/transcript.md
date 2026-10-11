@@ -1,0 +1,5 @@
+# Why Did Ronnie Coleman Do This Before Every Set?
+
+<https://www.youtube.com/shorts/9ExQEFltv2w>
+
+Why did Ronnie Coleman do this before every set? Yeah, buddy. Wait, baby. Time to bleed. You might think it was all for show, but according to the latest science, hyping yourself up before you lift actually does make you stronger. Researchers reviewed 27 studies and found that a preset hype ritual was helpful in the majority of cases, though some methods work better than others. Motivational selft talk, whether people said it out loud or kept it in their head, that was effective in 89% of studies. visualization where they mentally rehearsed the lift in detail. That was effective 68% of the time, but the most effective strategy was just letting people freestyle it. When lifters use their own preferred method without any outside instructions, performance improved in 92% of cases. So, if you're serious about maximizing your gains, casually jumping into your sets on autopilot isn't the play. You don't necessarily have to go full-blown Ronnie, but taking a moment to pause, lock in, and get into the right headsp space first can make a real

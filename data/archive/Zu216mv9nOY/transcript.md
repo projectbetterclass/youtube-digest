@@ -1,0 +1,5 @@
+# This is a gamechanger for your chest workouts...
+
+<https://www.youtube.com/shorts/Zu216mv9nOY>
+
+[Music] Finally, a barbell that's designed to train the pecs through a complete range of motion and allow for a full squeeze at the top. Except it doesn't actually do that at all. Even with these sliding handles added, the resistance is still moving in a straight line toward the floor at all points in the range. And there's virtually no challenge against that inward motion. They basically just took a regular barbell press and then said, "How can we make this shittier?" and then charge $2,000 for it. If you actually want to train your chest in that squeezed position, your best option would be a fly variation using a pec deck or cables. Or you could also do a seated cable press or certain converging chest press machines would work as well. Basically, any movement where you have to actively resist your hands from being pulled apart at the top. As for this thing, it's basically just a glorified dumbbell press, only more awkward and way more expensive.

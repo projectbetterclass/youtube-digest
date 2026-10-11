@@ -1,0 +1,5 @@
+# Creatine Causes Hair Loss? (New Study!)
+
+<https://www.youtube.com/shorts/AieyYNgDMaE>
+
+If you're a guy who takes creatine and you actually care about your hairline, you need to know this. A brand new study just dropped and it's the first one ever to directly test whether creatine causes hair loss. And we're not just talking about hormone levels. They did actual hair follicle imaging, too. So, forget the Reddit rumors and random Jim Bro anecdotes. This is what the most up-to-date science actually says. Researchers tracked 45 resistance trained men over the course of 12 weeks. One group took 5 g of creatine per day, while the other got a placebo. What were the results? No significant increase in DHT, which is the main hormone that drives male pattern baldness. No change in the ratio of DHT to testosterone. And most importantly, no change in hair density, thickness, or growth phases. The whole idea that creatine makes you go bald stems from one questionable paper on rugby players back in 2009. But this new study pretty much buries it. You're not avoiding hair loss by skipping creatine. You're just leaving gains on the
