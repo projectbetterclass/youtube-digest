@@ -117,7 +117,13 @@ progress below), and — from the 2026-10-01 screen check, user's choice — Gre
 plus the borderline Riley Brown, Alex Hormozi, Starter Story, Chris Raroque.
 **David Carbutt: transcripts only** since 2026-10-06 (user's choice; 20 videos were read, then
 switched off — his frames are mostly b-roll). Checked and kept **audio-only**: Felix & Friends, HealthyGamerGG, JulienHimself, Ben Yanes,
-Chris Williamson, Leila Hormozi, Vinh Giang, The Diary Of A CEO; Aswath is excluded (his
+Chris Williamson, Leila Hormozi, Vinh Giang, The Diary Of A CEO, and (screen check 2026-10-11, 17 sampled
+videos/Shorts, frames reviewed against the transcripts) Sean Nalewanyj, TheQuadfatherBW, JPG Coaching; Ben
+Yanes's Shorts too. These creators teach by talking: frames are speech subtitles, exercise labels, b-roll and
+ads. Exceptions, small: Sean's videos sometimes show a study screenshot (citation + design); JPG Coaching's
+music-only Shorts carry their one-line tip as on-screen text. If ever wanted, read only Shorts flagged
+`music_captions` (a few cents), and sample Shorts evenly over their length (the pipeline's frames cluster in
+the first ~15 s, missing later tips). Aswath is excluded (his
 slides are PDFs). Every channel has now been checked. Visuals can be switched on for a
 channel later without re-fetching transcripts — the job enriches videos already in the library.
 User's run order for screen capture: Ticker Symbol: YOU, Tom Nash, BWB, New Money.

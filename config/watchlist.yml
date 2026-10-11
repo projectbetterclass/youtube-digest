@@ -114,11 +114,14 @@ channels:
     channel_id: UCGXRegKvroyGv8HbN35AjKA
     backfill: 450            # whole channel (~397 videos + 289 Shorts) — user asked 2026-10-11 (training)
     shorts: 350              # all Shorts (~289)
+    visual: false            # audio only (screen check 2026-10-11: talking head + b-roll; only the odd study screenshot)
   - name: "TheQuadfatherBW"
     channel_id: UCdhPsaLVKArZ0c1nOq2m9Qw
     backfill: 20             # whole channel (~6 videos + 67 Shorts) — user asked 2026-10-11 (training)
     shorts: 100              # all Shorts (~67)
+    visual: false            # audio only (screen check 2026-10-11: speech captions, b-roll, self-promo)
   - name: "JPG Coaching"
     channel_id: UCnb-F1mP6q0Aj-e5pXuUTog
     backfill: 40             # whole channel (~25 videos + 306 Shorts) — user asked 2026-10-11 (training)
     shorts: 350              # all Shorts (~306)
+    visual: false            # audio only (screen check 2026-10-11; music-only Shorts carry text on screen, see CLAUDE.md)
