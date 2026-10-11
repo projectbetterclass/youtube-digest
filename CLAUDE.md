@@ -76,6 +76,19 @@ straight-line extrapolation; ignore it.)
   Vinh 411 (409). They are not in `PRIORITY`; collect their new uploads with
   `local_collect.py --channel "<name>"` when the user asks. While `local_collect.py` runs, pause
   the screen reader if one is running (both commit `data/` in the same working copy).
+- **Training channels (user, 2026-10-11): Sean Nalewanyj, TheQuadfatherBW, JPG Coaching** added
+  (whole channel). Ben Yanes (already complete) is the fourth training channel. Done so far:
+  TheQuadfatherBW 6 videos, JPG Coaching 25. **After the 24 Oct proxy reset:** Sean Nalewanyj's
+  ~397 videos (`local_collect.py --channel "Sean Nalewanyj"`) and **their YouTube Shorts**:
+  Ben Yanes ~684, Sean ~289, TheQuadfatherBW ~67, JPG Coaching ~306 (~1,346, ~550 MB). Shorts need
+  the per-channel `shorts: N` support from the open `shorts-backfill` PR (the collector otherwise
+  reads only the Videos tab). The webshare dashboard showed 2.9 / 3.0 GB on 2026-10-11.
+- **Instagram:** the user asked to collect these creators' Instagram Reels too. Decision: don't
+  scrape Instagram (no captions to fetch, needs a login, against Instagram's terms, risks the
+  account). Their Reels are mostly cross-posted as YouTube Shorts, so the Shorts route covers them;
+  a one-off reel that's only on Instagram can be transcribed by hand from a file the user saves.
+  Many training Shorts/Reels are music + text on screen: their captions are lyrics, flagged
+  `music_captions` by the Shorts PR; their content needs screen capture to be read.
 - **Other channels** (Chris Raroque, Aswath): at their target as of 2026-10-02.
   No transcript collection has run for the priority channels since 2026-10-02, so their
   newer uploads (20+ by 2026-10-07) wait for the next "collect my priority channels".
