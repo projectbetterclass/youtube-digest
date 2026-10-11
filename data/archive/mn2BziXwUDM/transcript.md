@@ -1,0 +1,5 @@
+# Explaining deadlifts with my cat
+
+<https://www.youtube.com/shorts/mn2BziXwUDM>
+
+If you do deadlifts like this, with a straighter knee, you'll be targeting more of your hamstrings. But, if you allow your knees to bend as you go down, now you're going to involve more of the quads, less of the hamstrings, and a lot more of the glutes. So, this is how I would do a deadlift if I were trying to train my hamstrings most, and then just going from there to a knee bend a little bit lower is going to be biased much more toward the glutes, most in the bottom position, but throughout the entirety of the range. A really simple hack to do this without having to think as much about the motion is for the hamstrings version, think more about bringing the weight down toward your heels, and for the glute version, think about bringing the weight down a little bit more toward your midfoot and a little bit lower to the ground. Both are fantastic options, it really just depends on what you're trying to do. If you want to learn more about biomechanics for free, comment the word lesson and I'll send you 30 free lessons on biomechanics.

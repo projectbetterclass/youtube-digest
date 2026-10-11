@@ -1,0 +1,5 @@
+# The biggest hidden back muscle
+
+<https://www.youtube.com/shorts/CSqFnky1yy4>
+
+What the actual [ __ ] is this muscle? Because a lot of people think that it's just a part of the lats, but it's not. This muscle is called the teres major and it's heavily underrated in my opinion. People call it the lats little helper, but it's not really little at all. Here are two exercises to train it. First is a normal pullover, except lean over. Make sure that the cable is pulling upward relative to your arm in the bottom position. Want to imagine the cable is pulling your arms to the ceiling rather than pulling your arms to the origin of the cable. Second is the traditional wide grip pull down with pauses in the bottom position. Pullover exercise will target more of the lengthened range of the muscle and the pull down exercise will target more of the shortened range of the muscle. Teres major is of course involved in pretty much any motion that recruits your lats. If you really want to maximize growth for this muscle, I recommend doing exercises that are a little bit more specific to it. If you want a much more in-depth analysis of this muscle, click on the related video.

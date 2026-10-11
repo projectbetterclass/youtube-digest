@@ -1,0 +1,5 @@
+# pov: you STILL listen to squat U?!?!
+
+<https://www.youtube.com/shorts/GZzImnwF7ew>
+
+POV, you start doing reverse planks every day and your pelvic tilt vanishes, your stomach looks flatter, and you can finally start feeling your deep core muscles. But, what this viral clip doesn't show are the common mistakes that can make this exercise either a complete [music] waste of time or a game-changer at reversing the poor postures you get from sitting all day. >> POV, you're still listening to people like Squat University who, with complete false confidence, convince you that you have problems >> pelvic tilt vanishes, >> that they know the answer to your problems >> start doing reverse planks every day >> without ever meeting you or looking at you or working with you. And also, that you have problems that can be fixed like you're a car who's being taken to a car shop. >> game-changer at reversing the poor postures you get >> with specific exercise interventions. Ah, yes, the most scientific statement of all. Sitting all day, this one exercise fixes everything. Science.
