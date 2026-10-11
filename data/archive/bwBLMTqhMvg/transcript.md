@@ -1,0 +1,5 @@
+# The silent fat loss killer...
+
+<https://www.youtube.com/shorts/bwBLMTqhMvg>
+
+The reason you're not losing fat might not be what you think. It's not always the obvious stuff like too much pizza and ice cream. A lot of the times it's the smaller items that sneak in without being tracked. Olive oil is a prime example because even though it's healthy, it's also the single most calorie dense thing in your kitchen. One tablespoon is 120 calories right there. And if you're just free pouring it like you're lubing up your chicken for reasons that aren't culinary, you could easily be tripling that amount without realizing it. Same goes for other high calorie dense foods like nuts, nut butters, salads, condiments, smoothies. They don't seem like much on their own, but over the course of the whole day, it ends up being death by a thousand bites, licks, and squirts. And what you thought was a 500 calorie deficit is actually closer to maintenance. So before you blame your metabolism or genetics, take a week and weigh absolutely everything you're consuming with zero exceptions. [Music]

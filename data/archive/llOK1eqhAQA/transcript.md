@@ -1,0 +1,5 @@
+# You don't need 4 chest exercises
+
+<https://www.youtube.com/shorts/llOK1eqhAQA>
+
+If you want to build a chest so thick and wide that your nipples end up in different time zones, stop making this common [music] mistake. You don't need four different chest exercises with 10 plus sets per session like you see in all these high volume bodybuilding routines. [music] Beyond a certain point, you're not stimulating more growth. You're just creating additional muscle damage and fatigue that prolongs recovery time and reduces [music] how much frequency you can apply. The pecs are a relatively simple muscle that mainly function to adduct the humorris, aka bring your arm across your body. If you're truly training hard with good technique, 1 to two movements per session is usually enough to get the job done. And anywhere from around 4 to eight [music] total weekly sets, 10 at the most. I'm not saying higher volumes don't work, but most people will see better results by focusing on quality rather than [music] quantity. And I created a free chest training guide that covers everything you need to maximize your gains. Click the link here and I'll send it

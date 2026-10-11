@@ -1,0 +1,5 @@
+# Is creatine actually safe?
+
+<https://www.youtube.com/shorts/U--pWj5gKlU>
+
+Most people will tell you that creatine is perfectly safe, but do you know what the research actually shows? This new study analyzed data from 685 human clinical trials, including over 25,000 people taking either creatine or a placebo. They looked at everything: kidney and liver function, cardiovascular markers, hydration status, gastrointestinal health, 49 different side effects in total. In people who took the placebo, the [music] rate of reported side effects was just 4.2%. And in those who took the creatine, it was the same, 4.6%, which isn't statistically significant. And these weren't just regular gym goers, either. It included elderly populations, children, even Parkinson's patients taking 10 grams a day for up to 8 years. [music] Creatine is the most proven supplement available for increasing strength and lean body mass, and the safety profile is just as solid. And I created a free creatine guide that explains everything you need to know, including the best forms, dosing, timing, and other tips. Click the link here and I'll send it

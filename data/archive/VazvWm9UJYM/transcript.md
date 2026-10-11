@@ -1,0 +1,5 @@
+# Dudes who take gear but still look natty
+
+<https://www.youtube.com/shorts/VazvWm9UJYM>
+
+Name something more pathetic than dudes who take gear just to look natty. I'll wait. Look, I get that genetics are a factor and that everyone responds differently to the drugs, but if you've gone as far as shutting down your natural testosterone production, injecting multiple compounds every week, risking all the possible side effects, paying for it every month, and when people look at you, they don't immediately assume you're on something. You [ __ ] up. Either your training and diet are trash, meaning you're just relying on the gear as a crutch, or you're still a beginner who hopped on straight away without building any sort of foundation first, which is equally as embarrassing. PEDs are a personal choice, and I have nothing against anyone doing it responsibly, but most of these guys in the gym didn't need a cycle. They just needed a proper program and a few more years of consistency. To get your free muscle building and fat loss guide, click the link here.

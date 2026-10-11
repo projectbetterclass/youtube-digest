@@ -1,0 +1,5 @@
+# The most overrated muscle building technique?
+
+<https://www.youtube.com/shorts/uLTfxvbbZj0>
+
+This guy gets a super deep stretch on every rep, but this guy just trains hard using a standard range of motion. Who will end up bigger and stronger? Well, a brand new study put [music] this to the test. Researchers had participants train one side of their body with peak tension [music] in the stretch and the other in the squeeze. After 10 weeks, they measured their gains using MRI scans. So, which strategy built more muscle? Well, for shoulders, there was no difference between [music] groups. For glutes, no difference. But, for chest, also no difference. Across all muscles tested, growth was essentially the same. Now, this is just one study, and some muscles might benefit more from the stretch based on other research. You probably don't want to cut out the lengthened position entirely, [music] but as long as you're training hard with solid technique and focusing on progressive overload, it's not something you need to exaggerate or obsess over.

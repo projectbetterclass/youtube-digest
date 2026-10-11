@@ -1,0 +1,5 @@
+# Stop training back like this 👎
+
+<https://www.youtube.com/shorts/a-Xg1GZ3DEI>
+
+Number one mistake people make when doing a one- arm row is they think too much about driving their hand towards their chest. By doing this, you're just going to overengage your bicep. Instead, think about driving your elbow back towards your hip. Elbow to the hip, elbow 90° at the top of the movement. So many people get this wrong, not just on dumbbell rows, but on all of their back exercises. [music] And it's the reason why you mostly feel it in your arms instead of your back. For all pulling exercises, you want to make sure that the line of force from the weight is running in line with your forearms. If your forearms are angled backward or forward excessively, [music] you'll be shifting emphasis onto elbow flexion or extension, and those smaller arm muscles will become the weak link in the [music] movement. It's a small tweak, but will make a big difference to your back gains. And I created a free back training guide that covers everything you need to maximize your results. Click the link here and I'll send it

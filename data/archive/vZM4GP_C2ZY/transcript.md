@@ -1,0 +1,5 @@
+# 3 Best Natural Testosterone Boosters 💪
+
+<https://www.youtube.com/shorts/vZM4GP_C2ZY>
+
+How much extra muscle would you gain if you took three of the most researchbacked natural testosterone boosters for 6 months straight? First is ashwagandha. Multiple studies show testosterone increases of around 10 to 20% and one found a 167% boost in sperm count if that's something you're optimizing for. Second is fenugreek. It raised total testosterone by up to 25% in this study and increased free testosterone in another. And third is tonat ali. A 2022 meta analysis showed an average boost of around 20% and reductions in cortisol as well. Stack all three together and combined with proper training and diet, you would gain approximately 0 lb of extra muscle. Wait, what? Yeah, that's right. Because even in a best case scenario where your levels increased by 1 to 200 nanog per deciliter, it still wouldn't be enough to directly drive new muscle growth. Testosterone levels need to go well above the normal range at more like 10 times that amount to see meaningful gains. similar to what steroid users injecting actual testosterone experience.

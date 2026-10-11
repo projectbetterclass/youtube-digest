@@ -1,0 +1,5 @@
+# Preacher curls are "safe"?
+
+<https://www.youtube.com/shorts/Z4_p0bQV2ms>
+
+So many people will try to tell [music] you that preacher curls are a safe exercise, and they are as long as you follow a few simple steps. Just [music] make sure you're adequately warmed up first before moving into your heavier working sets, and that you're using an amount of weight you can lift under [music] control with a deli centric and without using body momentum or swinging out of the bottom position. Lower reps [music] in the 5 to 7 range and training all the way to failure are both acceptable. But if preacher curls are a newer movement for [music] you, then it might be a good idea to start with slightly higher reps more toward the 8 to 10 range and leave a rep or two [music] in the tank on your sets just to acclimate yourself a bit first. Oh, and that was just some footage from my previous tricep surgery, but [music] I'm all good now. And if you want my free arm training guide that covers everything you need to maximize your gains, click the link here [music] and I'll send it to

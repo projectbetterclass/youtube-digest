@@ -1,0 +1,5 @@
+# The truth about building a great physique
+
+<https://www.youtube.com/shorts/kVdPiR-pVSs>
+
+Getting in shape is not what you think it is. It's not this flashy hyped-up thing you see in all these dramatic motivational reels with inspirational quotes and [ __ ] 99% of it is monotony. Basic repetitive tasks over and over again. It's waking up and sitting there in silence eating your [ __ ] protein oatmeal. It's walking into the gym at 2:00 p.m. on a random Tuesday in February to do leg curls. If you really want to succeed at this, you have to embrace the boredom. Sure, you'll get motivational highs here and there. Training can be fun. I enjoy a nice girthy arm pump as much as the next guy, but it's not going to be that way 24/7. And when the motivation fades or you're flat-out unmotivated and don't feel like doing anything, you have to keep taking the same actions regardless. People see the end product of someone with a great physique and imagine some cinematic highlight reel of how they got there, but their success, just like most success, it was built by doing the boring [ __ ] day in and day out when no one was watching.
