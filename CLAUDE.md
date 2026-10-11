@@ -10,8 +10,8 @@ This repo is two things:
 
 ## Project state (keep this section current)
 
-### Snapshot (2026-10-09)
-Library: **8,750 videos, 8,550 with transcripts**, 699 with linked documents, 1,911 with
+### Snapshot (2026-10-11)
+Library: **10,510 videos, 10,208 with transcripts**, 699 with linked documents, 1,911 with
 on-screen visuals read (12,076 charts/slides). 23 channels in `config/watchlist.yml` (8,781 videos, 8,580 with transcripts on 2026-10-11).
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
@@ -76,22 +76,16 @@ straight-line extrapolation; ignore it.)
   Vinh 411 (409). They are not in `PRIORITY`; collect their new uploads with
   `local_collect.py --channel "<name>"` when the user asks. While `local_collect.py` runs, pause
   the screen reader if one is running (both commit `data/` in the same working copy).
-- **Training channels (user, 2026-10-11): Sean Nalewanyj, TheQuadfatherBW, JPG Coaching** added
-  (whole channel). Ben Yanes (already complete) is the fourth training channel. Done so far:
-  TheQuadfatherBW 6 videos, JPG Coaching 25, **Sean Nalewanyj 240 of ~397** (2026-10-11 evening,
-  when the proxy data ran out; the user will buy a top-up, then continue). Left: Sean's ~157 videos
-  + Shorts below. Collect with a guard: when the proxy runs out every fetch fails with ProxyError
-  and local_collect would record each remaining video as "no transcript" (skipped for good); stop
-  at the first `No transcript for ... (ProxyError` line, then delete state/library/archive entries
-  whose `transcript_miss` mentions ProxyError, and transcript folders not in library.json.
-  Originally planned for after the 24 Oct reset: Sean Nalewanyj's
-  ~397 videos (`local_collect.py --channel "Sean Nalewanyj"`) and **their YouTube Shorts**:
-  Ben Yanes ~684, Sean ~289, TheQuadfatherBW ~67, JPG Coaching ~306 (~1,346, ~550 MB). Shorts
-  support is merged (PR #63, 2026-10-11): per-channel `shorts: N` in the watchlist, collected only
-  with `local_collect.py --channel "<name>" --shorts`, one channel at a time. A plain run never
-  collects Shorts (opt-in), so "collect my priority channels" stays a small catch-up. Shorts whose
-  captions are just "[Music]" get `music_captions` (content on screen; needs screen capture).
-  The Webshare dashboard showed 2.9 / 3.0 GB on 2026-10-11.
+- **Training channels (user, 2026-10-11): Sean Nalewanyj, TheQuadfatherBW, JPG Coaching** added,
+  with Ben Yanes the fourth. **All collected 2026-10-11, videos + Shorts** (the proxy ran out once
+  mid-run; the guarded run stopped cleanly, the user bought a new 1 GB Webshare plan, it resumed):
+  Ben Yanes 598 videos + 684 Shorts, Sean Nalewanyj 397 + 289, TheQuadfatherBW 6 + 67, JPG Coaching
+  25 + 306. 36 Shorts are flagged `music_captions` (Ben 19, Sean 12, JPG 5): their content is on
+  screen; reading just those would cost ~65 cents if the user ever wants it. New Shorts later need
+  `local_collect.py --channel "<name>" --shorts`. Guard for any big run: when the proxy runs out every
+  fetch fails with ProxyError and would be recorded as "no transcript"; stop at the first
+  `No transcript for ... (ProxyError` line, delete entries whose `transcript_miss` mentions
+  ProxyError, and transcript folders not in library.json.
 - **Instagram:** the user asked to collect these creators' Instagram Reels too. Decision: don't
   scrape Instagram (no captions to fetch, needs a login, against Instagram's terms, risks the
   account). Their Reels are mostly cross-posted as YouTube Shorts, so the Shorts route covers them;
