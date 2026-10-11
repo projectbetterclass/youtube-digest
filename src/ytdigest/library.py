@@ -36,7 +36,7 @@ def save_library(path: Path | str, library: dict) -> None:
 
 def record_from_brief(brief: Brief) -> dict:
     v = brief.video
-    return {
+    rec = {
         "channel": v.channel_name,
         "channel_id": v.channel_id,  # lets Phase 2 match opted-in channels reliably
         "title": v.title,
@@ -48,6 +48,12 @@ def record_from_brief(brief: Brief) -> dict:
         "transcript_available": brief.transcript_available,
         "transcript_path": f"data/archive/{v.video_id}/transcript.md",
     }
+    # Only when true, so the ~9,000 existing records don't all change shape.
+    if v.short or "/shorts/" in (v.url or ""):
+        rec["short"] = True
+    if brief.music_captions:
+        rec["music_captions"] = True
+    return rec
 
 
 def add_brief(library: dict, brief: Brief) -> None:
@@ -127,6 +133,8 @@ def render_index(library: dict, archive_dir: Path | None = None) -> str:
             sources += f" · [materials]({vid}/materials/)"
         if _has_visuals(vid, r, archive_dir):
             sources += f" · [visuals]({vid}/visuals.md)"
+        if r.get("short") or "/shorts/" in url:
+            sources += " · Short" + (" (music; content on screen)" if r.get("music_captions") else "")
         out.append(
             f"| {date} | {channel} | {video_cell} | {verdict} | {takeaway} | {sources} |"
         )

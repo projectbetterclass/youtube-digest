@@ -38,9 +38,10 @@ def mark_processed(
     *,
     had_materials: bool = False,
     transcript_available: bool = False,
+    transcript_miss: str = "",
 ) -> None:
     """Record a video as done, plus signals Phase 2 will use for auto-detection."""
-    state.setdefault("processed", {})[video.video_id] = {
+    rec = state.setdefault("processed", {})[video.video_id] = {
         "title": video.title,
         "channel": video.channel_name,
         "published": video.published.isoformat() if video.published else None,
@@ -48,6 +49,8 @@ def mark_processed(
         "had_materials": had_materials,
         "transcript_available": transcript_available,
     }
+    if transcript_miss and not transcript_available:  # only on misses, to keep records small
+        rec["transcript_miss"] = transcript_miss[:120]
 
 
 def visual_done(state: dict, video_id: str) -> bool:

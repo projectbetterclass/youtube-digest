@@ -18,6 +18,7 @@ class Video:
     url: str
     published: Optional[datetime] = None
     description: str = ""
+    short: bool = False  # a YouTube Short (from the channel's Shorts tab)
 
 
 @dataclass
@@ -59,6 +60,10 @@ class Brief:
     listed_links: list[Link] = field(default_factory=list)
     downloaded_materials: list[Material] = field(default_factory=list)
     archive_dir: str = ""
+    # A Short whose captions are mostly [music] markers: what the creator says is on screen
+    music_captions: bool = False
+    # Why there's no transcript (fetch_transcript's reason, e.g. "TranscriptsDisabled: ...")
+    transcript_miss: str = ""
 
     @property
     def had_materials(self) -> bool:

@@ -44,3 +44,15 @@ def test_failed_this_run_picks_only_this_runs_misses_for_these_channels():
     }}
     got = local_collect.failed_this_run(state, {"Ben Yanes"}, "2026-09-29T09:00:00+00:00")
     assert got == ["a"]
+
+
+def test_retry_pass_skips_videos_that_simply_have_no_captions():
+    state = {"processed": {
+        "blk": {"channel": "A", "transcript_available": False, "processed_at": "2026-10-24T10:00:00+00:00",
+                "transcript_miss": "RequestBlocked: YouTube is blocking requests from your IP"},
+        "off": {"channel": "A", "transcript_available": False, "processed_at": "2026-10-24T10:00:00+00:00",
+                "transcript_miss": "TranscriptsDisabled: subtitles are disabled for this video"},
+        "old": {"channel": "A", "transcript_available": False, "processed_at": "2026-10-24T10:00:00+00:00"},
+    }}
+    got = local_collect.failed_this_run(state, {"A"}, "2026-10-24T09:00:00+00:00")
+    assert sorted(got) == ["blk", "old"]  # a block (or an unknown reason) is retried; captions-off isn't
