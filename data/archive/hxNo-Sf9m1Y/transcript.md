@@ -1,0 +1,5 @@
+# Protein Is Overrated For Muscle Growth
+
+<https://www.youtube.com/shorts/hxNo-Sf9m1Y>
+
+When I was in high school, I used to set my alarm for 3:00 a.m. every night to wake [music] up, slam a protein shake, and then go back to sleep because I thought the more protein I ate, the more muscle I'd build. Now, you're probably not going to those extremes, but there's a good chance you think you need way more protein than you actually do. This meta-analysis of over 70 studies showed that once you're around 0.7 g of protein per pound of body weight daily or 1.6 g per kilo, you're basically covered. So, if you weigh 180 lb, that's only 125 g of protein. For most people, a couple solid meals and a shake is really all you'll need. I like to use a slightly higher target of 0.8 g per pound just in case, and during an aggressive cut, there might be a small benefit to going a bit higher, but shoveling back huge amounts of protein every day probably won't noticeably improve your gains, and it just means less room for carbs that could actually support your training. [music] To get your free muscle building and fat loss guide, click the link here.

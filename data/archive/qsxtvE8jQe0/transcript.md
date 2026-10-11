@@ -1,0 +1,5 @@
+# I’m f*cking gorgeous
+
+<https://www.youtube.com/shorts/qsxtvE8jQe0>
+
+Ta-da, I'm gorgeous. >> [music] [laughter] >> Anyway, just a reminder that the Train with sale for my 40th birthday is still live until midnight where you can save up to 40% off your membership. The app combines everything I've learned over the past 20 plus years of training, coaching, making mistakes, figuring out what actually works and removing all the fitness industry BS that doesn't. Three workouts a week for about an hour is enough to build muscle and lose fat efficiently once your intensity, technique, and programming are all dialed in, and that's exactly what you'll learn inside. It's the same way I train personally and that thousands of other members are using right now. Higher frequency programs are available if you want the option. You also get progress tracking tools, exercise tutorials, daily nutrition targets, educational video lessons. It's everything you need to achieve your goal physique in one place. Just go to trainwithjason.com to get started and I'll see you inside.

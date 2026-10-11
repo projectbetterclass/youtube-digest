@@ -1,0 +1,5 @@
+# 1 Hack To Maximize Biceps Hypertrophy
+
+<https://www.youtube.com/shorts/XzvFHP3wTFg>
+
+Guys, always say barbell curls will lead to bigger arms. >> They definitely will. >> Dumbbell curls are way better. And in this video >> They're not necessarily better. >> hack that you can use to maximize hypertrophy >> There aren't really any hacks when it comes to building bigger biceps. That's not the answer. No. I mean, you can do that if you want, but it's not going to do anything special for you. >> 10 to 13 slow and controlled reps >> 13 reps wholly cardio. >> This right here forces double the amount of time under tension >> You don't need to worry about time under tension. Just focus on pushing your sets close to failure and you'll be good. >> Do this probably and you're going to get well over a minute of hypertrophy in your biceps. >> A minute of hypertrophy? >> is everything when it comes to gaining muscle. >> Hypertrophy is gaining muscle. They're the same thing. >> I'll send you a guy >> No, I'm not going to do that. No. No.

@@ -1,0 +1,5 @@
+# If you trained like your favorite bodybuilder...
+
+<https://www.youtube.com/shorts/x2SU8wQ62Pg>
+
+If you trained like your favorite bodybuilder but didn't make the gains you expected, here's why. It's because he is taking a lot of steroids. And you're not. So, See, what most people don't realize is that steroids don't just help you train harder and recover faster. No, steroids are literally a direct independent muscle-building stimulus even in the absence of training. And if you add top-tier genetics into the mix, now you're not even in the same universe anymore. You can copy their training and diet all you want, but you have almost no way of knowing what's actually contributing to the results. Does he have those huge striated delts because of this specific sequence of exercises, sets, and reps? Or would this actually be a terrible way for you to train as an average natural? And his shoulders would have looked insane anyway because he has enough gear flowing through his system to tranquilize a very large horse. You don't know, and honestly, most of the time he probably doesn't either. To get your free muscle-building and fat-loss guide, click the link here.

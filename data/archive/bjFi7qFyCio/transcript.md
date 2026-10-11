@@ -1,0 +1,5 @@
+# Fat loss is way harder after 40
+
+<https://www.youtube.com/shorts/bjFi7qFyCio>
+
+Easy to stay lean now, but wait until you hit your 40s and then we'll talk. [music] Well, I am in my 40s now and I'm actually leaner than I was in my 20s. Your metabolism does slow down with age, but not in the way that you think. In this massive study out of Duke University, researchers measured daily energy expenditure in over 6,000 people from infancy all the way up to age 95. And what they found was surprising. Your metabolism doesn't drop in your 30s, not your 40s, not even in your 50s. It doesn't even start to decline until around age 60, and even then it's less than 1% per year. So, why do people tend to gain fat as they get older? It's pretty simple. [music] They're sitting more, working out less, dealing with higher stress, sleeping worse, and gradually letting their calorie intake creep up over time. It's a result of changes to their lifestyle, not their biology. But, if you keep your training and diet in check, there's no reason why you can't get lean well into your 40s, 50s, and beyond. To get your free fat loss guide, click the link here.

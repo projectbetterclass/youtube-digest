@@ -1,0 +1,5 @@
+# Stop doing upper/lower 👎
+
+<https://www.youtube.com/shorts/AepZZKeGzyc>
+
+An upper-lower split sounds awesome until you realize how long it takes to hit every single upper body muscle group appropriately. I will be going back to a push-pull. I'm not going to the gym for 2 hours anymore. Two to three sets for chest, four to five sets for back, and then two sets for shoulders, biceps, and triceps. Some people can even get away with one set here. If an upper body session takes you much more than an hour, it's because you're cramming in unnecessary exercises and too many total sets, which is not only a waste of time, but could even end up hurting your results rather than helping them. Six total exercises can get the job done, maximum eight, and to get in more exercise variety, you can just rotate between an upper A and an upper B. But if you have the right structure dialed in, upper-lower is one of, if not the best splits you can do for maximizing your gains. It's actually my personal favorite. It's the number one program people use inside TrainWith, and if you want the exact setup, you can get started at trainwithapp.com.
