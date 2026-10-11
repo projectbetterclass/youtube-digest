@@ -38,10 +38,12 @@ names; they haven't decided on the others.
   user the commands above when the PC copy needs updating.
 - Chat history is **not** shared between sessions — anything every session should know
   goes in this file.
-- **Who reads this library:** the Valuation Agent (`video_source.py`, private repo) and the
-  Assistant (`scripts/video_source.py`, public repo) — one video by URL (transcript + chart
-  readings), or `--search "words"` across every video (ranked, with excerpts). The two copies
-  are the same code (only the path to this repo differs); change both together.
+- **Who reads this library:** the Valuation Agent (`video_source.py`, private repo), the
+  Assistant (`scripts/video_source.py`, public repo) and, since 2026-10-11, the exercise app
+  intensity-applied (`scripts/video_source.py`, private; for Ben Yanes, the training channel)
+  — one video by URL (transcript + chart readings), or `--search "words"` across every video
+  (ranked, with excerpts). The three copies are the same code (only the path to this repo
+  differs); change all three together. Event watcher and Market-Forensics have no access.
 
 ### How the daily job runs
 Runs on **GitHub-hosted cloud runners** (`ubuntu-latest`) 3×/day (06:00 / 14:00 / 22:00 UTC).
