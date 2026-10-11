@@ -1,0 +1,5 @@
+# Fix Your Bench Pressing to Maximize Growth
+
+<https://www.youtube.com/shorts/LiA7P3BZAnE>
+
+[Music] let's see what we can do about that so first thing i'm noticing is that you're pressing from somewhere up here right now this is probably why you feel like you're working out your armpits this is going to put more stress on the connective tissue your pec tendon so if we were to bring it down a bit now you're not only going to be able to alleviate that but you're also going to be getting a better stretch on the pecs in this position as well so run with this and then i also want you to focus on slowing down the eccentrics to the point where you can feel that your chest is fully taut so stretched and then you're going to focus on driving your inner arm into the side of your chest with a dumbbell press you're not locked in place like a barbell so it's not a smith machine or a barbell press where you're just pressing up and down with this we can actually focus on driving the inner arm into the side of your chest and you're going to get a much better effective chest press if you put this all together hope that helps and make sure you like and follow
