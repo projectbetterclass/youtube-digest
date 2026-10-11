@@ -1,0 +1,5 @@
+# Which kind of row should you do?
+
+<https://www.youtube.com/shorts/67ZIEwSvKyc>
+
+what's the difference between a chest supported row and a free weight row whenever we're doing a row the force of that row wants to pull our entire bodies toward the load when we use a chest support and we put something on the front of our rib cage the chest support stops our bodies from moving with our arm but if we're just pulling backward with no chest support our entire body is getting pulled forward with the load so the Erectors actually have to serve the same exact function as the chest support does this means that whenever we're using a chest support the motion that we're doing is going to be more focused toward the muscles that move the arm backward and whenever we're not using a chest support we're going to be limited in how much we can train the muscles that pull the arm backward by whatever we can stabilize at the back of the spine so if you're trying to train your lats and upper back use the chest support but if you're trying to train your lats upper back and spinal extensors don't use the chest support

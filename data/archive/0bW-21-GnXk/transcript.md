@@ -1,0 +1,5 @@
+# How to train chest - the complete training & anatomy guide
+
+<https://www.youtube.com/shorts/0bW-21-GnXk>
+
+here's a simple guide on how to understand and train all of the different parts of the PEC major there are three major parts to the PEC the upper pecs run from the inner clavicle to the upper arm the middle pecs run all along the sternum also to the upper arm and the lower pecs run from the rib cage to the upper arm so to train each of them we just have to set up a load Direction that's parallel to all the directions of the fibers train the upper PEC we can use a wider arm path that goes slightly low to slightly high dumbbell presses and cable presses are a fantastic way to manipulate the angles so that you can Target the upper peack more specifically to train the middle pecs presses and flies done in a fairly horizontal Direction all work well and to train the lower pecs presses done at an angle high to low like decline presses with dumbbells or cables all work well and it's probably beneficial to train both presses and flies because they train a different portion of the range of motion of the PEC

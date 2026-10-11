@@ -1,0 +1,5 @@
+# Lat training - the complete guide
+
+<https://www.youtube.com/shorts/XNs_Ml-ORfk>
+
+a simple guide on how to understand and train all the different parts of your lats understanding the lats is very simple there are two major parts part number one runs side to side and is more horizontal part number two runs up and down and are more vertical because they run more forward this way both of them need an arm path that is tighter to the body so if you're trying to train the more horizontal portion do some kind of rowing motion with your arms tighter to your body and if you want to train the more vertical portion do some kind of pull down also with your arms more narrow to your body with the rowing type motions make sure that you're really allowing the arm to travel forward into protraction and with the pull down motions make sure that you're really allowing the arm to travel up into elevation the lats are really really good at moving the shoulder girdle as a whole so you want to make sure whether you're doing a more horizontal thing or a more vertical thing that you're allowing the shoulder to move freely

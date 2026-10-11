@@ -1,0 +1,5 @@
+# Fix your rope triceps extension!
+
+<https://www.youtube.com/shorts/mKlw--3XSWE>
+
+do people's shoulders rotate like this whenever they do rope triceps extensions well there are multiple reasons for this the main one is the limitation of the Rope the Rope only allows us to spread our hands so far especially if we're using a lot of weight but the normal path of most people's elbows goes inward to outward not just straight up and downward with the Rope so if the elbow wants to take our hand outward but we have to aim downward we have to use something else to get us down there and this is why often times you see people's shoulders slumping over and specifically moving outward so that they can actually continue to extend the arm and do the motion so if you find this to be problematic for whatever reason simply just take one end of the Rope grab it and use it for a single arm rope cable extension instead of doing it with two arms you'll be able to load the elbow much more specifically and as a consequence you probably won't see nearly as much motion through the shoulder where you might not want it

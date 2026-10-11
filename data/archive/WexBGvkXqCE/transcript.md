@@ -1,0 +1,5 @@
+# How to warm up: the complete tutorial
+
+<https://www.youtube.com/shorts/WexBGvkXqCE>
+
+here's a simple guide on how to warm up on every exercise the warm-up includes Three Steps step number one pick a light weight to start with step number two do between two and five reps with that weight step number three add weight then simply go back to step one and repeat the process until you get to your working weight for the day and if you need to do exercises that are similar to band pull aparts and rotator cuff exercises in all likelihood your exercise selection and execution needs Improvement any exercise that is supposed to activate the muscles that you're trying to train in the first place should be the exercises that you're doing in the gym in other words if the exercises that you're doing don't activate the muscles that you're trying to train then those exercises have a problem so instead of spending 10 to 20 minutes before every workout doing unrelated activities just start with the first exercise that you're doing for that day and gradually increase the load until you get to your working sets

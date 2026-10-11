@@ -1,0 +1,5 @@
+# Why is this grip so strong?
+
+<https://www.youtube.com/shorts/JlBwxTvBAc4>
+
+Why is our grip stronger when we hold something in the tips of our fingers versus the base of our palm? When you grip something with a full grip, this will represent the line of force and we can see that the line of force is actually a certain distance from the fingers and a certain distance from the knuckles. When you grip something in the tips of your fingers, that line of force actually moves closer to the knuckles and closer to the fingers. What the change in grip does is as we move closer to a fingertip grip, that line of force actually moves closer to the joints and as a consequence, torque to those joints is lower. In addition, if we think about the muscles that run up through the wrist and into the fingers that control actually being able to hold stuff, when we move toward a more closed palm position versus a looser grip, we actually move toward a shorter muscle length, which is a weaker position to be in from a muscle standpoint.

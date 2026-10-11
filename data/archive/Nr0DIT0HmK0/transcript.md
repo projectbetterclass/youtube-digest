@@ -1,0 +1,5 @@
+# Why should you train your shin muscles?
+
+<https://www.youtube.com/shorts/Nr0DIT0HmK0>
+
+What's the point of including a motion like this throughout your training week? The muscles that run on the front side of the shin play a huge role in stabilizing both the ankle and the knee. You can train them by performing a motion that looks like this. Neglecting to train this kind of motion at some point throughout the week is kind of like training biceps without training triceps. Many of us just want to grow the calves which sit on the opposite side of these muscles. It's important to remember that contraction on one side of a joint, i.e. in something like a calf raise, is dependent directly on how well we can stabilize the joint from the opposite side. So make sure that if you are doing a ton of calf work that you're also training the opposite motion. If you don't have access to the specific piece of equipment that I showed, you can simply set the same motion up with a cable. All you have to do is grab a D handle, loop it around the front of your ankle, use a bench for support, and train the exact same motion.

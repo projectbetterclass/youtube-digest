@@ -1,0 +1,5 @@
+# Seated vs standing calves - which should you do?
+
+<https://www.youtube.com/shorts/byrQxkvyMHA>
+
+what's the difference between the seated calf rays and the standing calf Rays there are two major portions of the calf one is the gastrus which crosses the knee and runs down to the back of the ankle the second is the Solus which runs from the back of the Shins also down to the back of the heel bone what this means is that when the knee position changes the outer calves change length but the under calves don't so when we do a standing calf raise the outer calves are fully stretched what this means is that the outer calves will stop and start the motion from the bottom position when the knee bends and we move toward a seated calf raay some of the muscle length that we had in the standing calf raay is lost so what happens is slack gets put in the outer calf and as a consequence the Solus muscle now stops and starts the motion from the bottom position rather than the outer calf the seated calf rays will likely be more Solus dominant and the standing calf rays will be more gastrock dominant

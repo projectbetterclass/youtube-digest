@@ -1,0 +1,5 @@
+# STOP doing this during hip thrusts!
+
+<https://www.youtube.com/shorts/6m8Mjn-KjaQ>
+
+why should you not use a band around your knees whenever you're doing hip thrusts whenever we're doing hip thrusts the primary action we're loading is hip extension meaning the femur moves back behind the body from the front this is a forward to backward motion not a side to side motion and whenever you put a band around your knees and you try to resist it outward you're creating an outward Force instead of a backward force in other words if you're primarily loading your hip in this direction it makes no sense to try to load inward to outward this would kind of be like doing the seated abduction machine having a band underneath of your leg pulling you upward it wouldn't make any sense for every degree of effort you push outward you're actually losing an efficiency in being able to push backward and so instead of getting something out of One Direction you're essentially getting nothing out of two directions so if you're loading your hips in this direction in any exercise stop using a band to load you in a Direction that's perpendicular to the one you're trying to load

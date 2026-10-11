@@ -1,0 +1,5 @@
+# Why are leg extensions built like this?
+
+<https://www.youtube.com/shorts/9hBWmBXf3fc>
+
+have you ever wondered why leg extensions are angled backwards so that your hips are below your knees the first reason is purely practical if you were to make a leg extension that was parallel to the floor you need to build it up really high because people's feet would just be running into the ground but the second reason is really because of stability when we get to the top of a leg extension there's a force that's created from the foot all the way to the hip and that Force basically wants to pull us up and out of the seat so to limit the stability challenge tipping the entire leg extension backwards actually moves more of our Center of mass toward the hips as opposed to the feet and when this happens when we get to the top of the motion it's actually a lot easier to stabilize this discrepancy in angle being parallel to the floor versus TIP backward is also why some leg extensions just feel smoother than others and more stable than others

@@ -1,0 +1,5 @@
+# What cable height is best?
+
+<https://www.youtube.com/shorts/pMYJPFRuHwU>
+
+what's the difference between a Cable raise with the cable origin at the bottom versus higher up around the height of your hip answer this question or anyone related to it simply look the angle of the cable and its relationship to the forearm when it's not 90° it's going to be lighter and when it's moving toward 90° it's going to start to get heavier once you get past 90° and this angle starts to get more acute then it's also going to get lighter so the cable raised with the cable at the bottom is heaviest somewhere in the mid-range and the hip height cable lateral is much heavier at the bottom and lighter at the top so if you want to train more combination of The Middle delts and The Traps put the cable origin a little bit lower so that you can train more of the full range but if you just want to train the middle delts train the bottom end of the range where the middle delts are more active and don't worry about going higher up the traps may be more active

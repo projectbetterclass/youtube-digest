@@ -1,0 +1,5 @@
+# You need this smith press tip
+
+<https://www.youtube.com/shorts/oCHj8Sp7icc>
+
+this is the most important Smith pressing tip that you're ever going to hear have you ever sat down on a Smith press and basically spent like 5 minutes guessing where to put your grip because every time you go to the bottom of the motion it doesn't feel good but every time you go to the top of the motion it does feel good if that's you what you want to do is basically just start from the bottom of the motion instead of starting from the top of the motion so rather than starting with an elbow locked position you start at the bottom where your elbows are bent and where you can appropriately arrange your grip so that your hands fall directly over your forearms and then where your forearms fall directly over your elbows starting from the bottom essentially allows you to find that perfect position both in terms of bar placement and arm path and as a consequence you end up doing perfect reps every single time right from the beginning of the set

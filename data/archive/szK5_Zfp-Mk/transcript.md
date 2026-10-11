@@ -1,0 +1,5 @@
+# Why are muscles like Chinese finger traps?
+
+<https://www.youtube.com/shorts/szK5_Zfp-Mk>
+
+why are the muscles in our body just like a Chinese finger trap all the skeletal muscles in our body are sort of woven together in this helical like fashion what this means is that whenever muscles get longer all of these individual fibers get more parallel with each other and as a consequence when muscles stretch they actually get stronger but when muscles shorten all of these fibers you can see actually move away from being parallel to one another and as a consequence they get weaker and now actually lose their ability to generate as much tension this is why muscles are actually stronger in their more lengthened positions and why they get weaker toward their short position and actually lose tension in the context of exercise though it's important that we not just focus on this more stretch stronger position but also that we make sure we own the shortened end of the range to make sure that we maintain a full contraction ability throughout the entire range of every muscle

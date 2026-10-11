@@ -1,0 +1,5 @@
+# Fix your overhead DB extension!
+
+<https://www.youtube.com/shorts/4hB9ysb-aXk>
+
+this exercise can be an okay variant for some people but for a lot of people I find that it actually bothers their elbows and shoulders here's a quick tip that you can use to basically eliminate that step number one is to raise the angle of the incline to about 45° then sit down on the bench sideways and push the dumbbell overhead with a single arm when you go single arm you'll be able to load the shoulder a little bit more effectively and as a consequence the elbow might align better with the direction of resistance from this perspective you can see my upper arm is 90° from the floor and in addition you can see that the dumbbell just wants to push my forearm down on top of my upper arm rather than being sort of loaded this way and sideways if you struggle with the shoulder stability you can simply use the other hand to support your biceps and then prop it up against your head to use again as some kind of anchor or support for the motion give this one a try and see if it feels better

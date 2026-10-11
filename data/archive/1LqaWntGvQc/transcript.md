@@ -1,0 +1,5 @@
+# How are these biceps exercises different?
+
+<https://www.youtube.com/shorts/1LqaWntGvQc>
+
+what's the difference between doing a curl with your arm behind your body versus in front of your body both heads of the biceps run from the shoulder blade all the way down to the forearm what this means is that they lengthen and shorten with elbow motion but also with shoulder motion so when we pull the arm back and behind the body because the biceps run on the front side of the joint they stretch more and when we bring the arm up and in front of the body they shorten a little bit so if you bring your arm back and behind your body and do curls that way that'll be training a more stretch position of both of the biceps and if the arm goes forward and we do curls like an a preacher curl that'll train a more short important position of both of the biceps because the curl with your arm behind your body trains a slightly different position than the one with your arm in front of your body it's probably worth doing both variations at some point during your training week

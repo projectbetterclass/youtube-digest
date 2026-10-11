@@ -1,0 +1,5 @@
+# Should you use cables or DBs to press?
+
+<https://www.youtube.com/shorts/h2m4PpDZRFI>
+
+what are the differences between a dumbbell press and a cable press if this band represents the line of force of a dumbbell at the bottom it wants to pull our arm down and at the top it wants to pull our arm down what this means is that there's a significant amount of loading at the bottom and not very much at all at the top if we're doing a cable press the cable can be angled outward at the bottom and it can remain outward at the top even though the cable is still heavier in this position as compared to this one there's a much higher degree of force maintained at the top of a cable press as compared to a dumbbell press so if you're only really looking to challenge the bottom of the motion then choose the dumbbell press as it drops off toward the top but if you're looking to train the lock position make sure that you're using a cable so that you can actually have a resistance there if you want to train more of the total range choose the cable press but if you only really want to load the bottom end of the range choose the dumbbell press

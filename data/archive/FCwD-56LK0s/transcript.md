@@ -1,0 +1,5 @@
+# What does the overhead extension do?
+
+<https://www.youtube.com/shorts/FCwD-56LK0s>
+
+asking whether or not the overhead triceps extension does or does not Target the long head of the triceps is kind of the same as asking if a leg extension targets the quads the obvious answer is yes and anyone that says anything different is likely just making up some degree of nonsense so that they can differentiate themselves on social media it also doesn't even really make sense to have this conversation to begin with specifically because it's highly likely that you're going to do more than one triceps extension within a given week even if one kind of extension was substantially differentiated than other kinds of extensions you would still be doing all of them throughout the course of a single week and not just picking a single one although there may be certain scenarios and context in which more Nuance is required and as a consequence more Nuance conversation is required social media and social media reals are certainly not a place to do that
