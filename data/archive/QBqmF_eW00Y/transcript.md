@@ -1,0 +1,5 @@
+# Stop taking your pre-workout like this
+
+<https://www.youtube.com/shorts/QBqmF_eW00Y>
+
+I see so many of you guys in the gym slamming your pre-workout and then getting under the bar 5 minutes later, or even worse, you're sipping on it through the workout like it's a cappuccino. The problem is that caffeine and other pre-workout ingredients need time for the effects to peak, which means you're missing the benefits at the most important time. The first few sets of the workout are where you're generating the strongest growth stimulus, since that's when you're at your freshest and can push with the most effort and focus. Don't be fooled by the beta alanine tingles that show up more quickly. The tingling itself has no performance benefit, and it doesn't mean the other ingredients have kicked in. I take my scoop of Pure Form around 30 minutes before my first heavy set, which gives the ingredients enough time to take effect while still keeping them active through the rest of the session. Take your pre-workout in the car, take it on the walk-in, but just stop taking it directly at the rack.

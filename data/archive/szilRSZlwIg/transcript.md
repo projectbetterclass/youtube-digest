@@ -1,0 +1,5 @@
+# If you eat 100 grams of protein in one meal...
+
+<https://www.youtube.com/shorts/szilRSZlwIg>
+
+If you eat more than 30 grams of protein in one meal, what happens to the rest? Does it all go to waste or can your body still use some of it to build muscle? Well, that's exactly what researchers put to the test and if you're serious about maximizing your gains, you should probably know this. They had a group of guys perform a full body workout and then gave them either 25 or 100 grams of protein. Over the next 12 hours, they took blood samples and muscle biopsies to see how much of it actually went toward muscle growth. The results were pretty interesting. The group that ate 25 grams had a spike in protein synthesis which dropped back to base line after about 4 hours. But the 100 gram group, not only was the spike bigger, but it stayed elevated for the entire 12-hour period. There was no cutoff point where the extra protein was wasted, their bodies just used it over a longer stretch of time. So no, your body won't suddenly stop absorbing your protein if you cross the 30 gram mark. That's nothing more than outdated broscience.

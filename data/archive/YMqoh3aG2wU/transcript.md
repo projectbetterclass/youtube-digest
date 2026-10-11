@@ -1,0 +1,5 @@
+# Do this before every set for better gains...
+
+<https://www.youtube.com/shorts/YMqoh3aG2wU>
+
+If you're not doing this before every set, you're leaving gains on the table. It's such a simple thing, but I see people skipping it all the time. So, maybe they're scrolling on their phone or having a conversation or distracted by something unrelated, and then without any hesitation, they just grab the weight and start pumping out the reps. If you're truly training with the effort and focus needed to build muscle at your full potential, there should always be at least a brief moment before each set where you pause, [music] mentally dial in, and get clear on exactly what you're about to do. So, what did you lift last workout and what are you aiming to beat today? Are there any quick form cues to remind yourself of? Are you planning to leave a rep in the tank or push all the way to failure? You don't have to analyze every set to death, but you shouldn't be jumping straight in on autopilot. If you're serious about getting the best result, the set starts before you pick up the weight. To get your free muscle building and fat loss guide, click the link here.
