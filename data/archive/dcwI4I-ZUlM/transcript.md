@@ -1,0 +1,5 @@
+# Is This GOOD Skull Crusher Technique?
+
+<https://www.youtube.com/shorts/dcwI4I-ZUlM>
+
+I see a lot of people saying that you should do Skull Crushers like this where the arms are coming up and over the head for extra range of motion at the elbow but the problem with this is that it actually takes tension away from the triceps the reason is because if you're using a dumbbell and the resistance direction is downward then this line of resistance is just falling directly through the elbow which means that even though your elbow is moving more the resistance drops off so substantially that the only load is actually at the shoulder so what I would recommend if you want to actually load the stretch position is instead of going all the way back here like this keep your arm slightly forward so that you can actually load a distance away from the elbow and if you want to load the stretch even more you can move your arm even further forward so that your hand is just getting smooshed into your shoulder

@@ -1,0 +1,5 @@
+# STOP Warming Up Like This!
+
+<https://www.youtube.com/shorts/O33mTJ1qTZI>
+
+so bad it's not so bad at all [Music] cold if you need to do 10 different exercises to warm up for your pull day it means that you need to fix issues on the pull day itself rather than just adding more things beforehand if any movement in the gym hurts then you should first look at that specific motion so that you can troubleshoot it to make it not hurt whether that means doing a different variation entirely or just simply changing the variation that you're already doing so that you can make it more comfortable a simple example on a pull down would just be to change the angle of your torso maybe to leaning more backward if you're already leaning forward changing your grip maybe moving it wider if it's too narrow moving it more narrow if you think it's too wide changing the grip from supinated to neutral or from neutral to pronated or from pronated to neutral whatever it happens to be just alter the exercise selections that you're making so that they can be more comfortable rather than doing a bunch of things beforehand which don't actually fix the root of the issue

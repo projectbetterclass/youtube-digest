@@ -1,0 +1,5 @@
+# Is your back asymmetrical?
+
+<https://www.youtube.com/shorts/a3rtSObR2zA>
+
+does one side of your Erectors look much larger than the other if it does and it's something that you want to work on there's a simple way to Target one side of the Erectors both groups of Erectors run all the way on the back side of the spine and when they contract they pull like this which creates this kind of arching motion but instead of doing regular back extensions which train both sides what you can actually do to train one side of the Erectors is to actually rotate your trunk to the side that you want to work and then perform back extensions that way so if I just wanted to work the left Erectors I would rotate first to the left and then do back extensions like this you can do this in a bunch of different ways but my two favorites are to use a hyperextension machine and you can also just do these motions with a freee dumbbell and again the principle is the same rotate to the side that you want to work and then extend against that direction

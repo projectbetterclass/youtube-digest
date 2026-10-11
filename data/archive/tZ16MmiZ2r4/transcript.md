@@ -1,0 +1,5 @@
+# What does this cable lateral raise target?
+
+<https://www.youtube.com/shorts/tZ16MmiZ2r4>
+
+what's the point of doing a cable lateral raise where your arm comes slightly forward in front of your body like this you bring the arm forward and in front of the body the back portions of the middle delt are going to be the ones that stretch the most and as you pull your arm upward and backward some of the middle and rear delts are going to be able to move your arm in that direction this kind of a y raise motion is going to be more specific to the back half of the deltoid some of the Mell and some of the rear Dell contributing most this would be different from more of a front raise if your arm were coming behind your body because your front delt would contribute more in that case just think of it this way if you're raising in a backward Direction some of the middle delt will contribute but the stuff on the back side of the joint has to be able to pull the arm backward and this is different from doing just a straight lateral raise out to the side which will be more specific just to the middle delt itself

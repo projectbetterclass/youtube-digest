@@ -1,0 +1,5 @@
+# STOP Using Cables Like this!
+
+<https://www.youtube.com/shorts/IvieYGkvyQk>
+
+I see a lot of people doing this kind of a thing on a cable stack so that the balls of the cable don't hit each other when you're doing something like a triceps extension or a lateral raise and my advice is to stop doing this reason is because cables are really really good in tension which is this kind of a force not very good in bending which would be this kind of a force when you bend a cable like this around a carabiner you're going to create an excessive stress on one side of the cable which it's not designed as well to deal with over time this creates a fraying on one side of the cable so that it becomes more likely to break when someone is using it so instead of wrapping the Carabiner around the cable itself you can simply just wrap your thumb around the top of the ball of the cable and use What's called the hook grip will keep the cable nice and stable in your hand without actually having to grip it very hard and if you're really concerned about the balls running into each other you can simply just do a single arm variation instead of a double arm variation

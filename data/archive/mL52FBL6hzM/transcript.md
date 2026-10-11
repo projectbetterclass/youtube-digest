@@ -1,0 +1,5 @@
+# Try this pec exercise!
+
+<https://www.youtube.com/shorts/mL52FBL6hzM>
+
+what's the point of doing a machine press with a single arm like this to train the fully stretched position of the PEX you need to bring your arm behind your body but to train the fully shortened position which is highly valuable you need to actually bring your arm across your body with a single arm and if you're set up normally in the chest press machine you won't be able to actually load that position across your body so what you can do is actually turn toward the working arm so from a relative standpoint as you press forward you're actually pressing across your body to some degree to train that fully squeezed position so when you set up normally on the machine you'll be training more of the stretch position of the pack when you do it single arm turned into the working side you'll be training more of the short position of the PC both variations have value for different reasons and it's likely that you should include some kind of variation like these in your program at some point

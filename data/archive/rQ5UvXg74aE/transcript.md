@@ -1,0 +1,5 @@
+# STOP Doing This Glute Motion...
+
+<https://www.youtube.com/shorts/rQ5UvXg74aE>
+
+was wondering maybe could I make you my baby we do the unthinkable would it make us this is definitely not going to be a top shelf exercise here's a much better alternative set up some kind of single leg split squat variation and hold the resistance in your nonworking hand make sure that the hand that's not holding the weight is holding onto something else so that you're not unstable when you perform the split squat you can use a slight twisting motion into the working leg so that the upper portions of your glute Max as well as your posterior glute me can wrap underneath and around the pelvis as your legs come slightly up and across your body there are many different ways to set this up and you can use a dumbbell a cable or even a barbell to do this motion if you want to do it in a leg press you can also just turn into the working side leg that your leg comes up and across your body instead of up and forward or up and out

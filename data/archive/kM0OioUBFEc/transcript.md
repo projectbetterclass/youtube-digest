@@ -1,0 +1,5 @@
+# Why bench is not a lat exercise:
+
+<https://www.youtube.com/shorts/kM0OioUBFEc>
+
+lot of people make the argument that the lats are really important in a bench press pcks are not going to do much for your maximum bench press they're probably going to be the least important the most important muscles are going to be your triceps and your lats and while they are important in the motion we certainly shouldn't be calling a bench press a lat exercise these are the lats they run from the upper arm down through the back side of the body which means that when they contract they pull the shoulder girdle backward and downward as well as the upper arm meaning if your lats contract too substantially they will literally pull your arm in the opposite direction that you're trying to move it in this is why we do rows and pull Downs to train the lats because rows and pull Downs pull the shoulder gdle forward not backward so at best we can say that the lats specifically contribute to making sure that the shoulder girdle is stable as the PC pull the arm forward and in front of the body

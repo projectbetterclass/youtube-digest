@@ -1,0 +1,5 @@
+# Is this the best leg press ever?
+
+<https://www.youtube.com/shorts/_y9ylnm2vGs>
+
+this is one of the first ever Nautilus leg presses made and to be honest it's design is still one of the best of all time now why is that a couple major things number one is the starting position of the hips relative to the spine notice that at the bottom position the hips are at a very open angle in other words your femur and your shin have so much range of motion to travel whereas in a lot of leg presses now today your leg starts basically halfway up through the range of motion another thing is the pad placement a lot of leg presses today just have handles for you to grab at your hands this machine actually had shoulder pads to function as a direct anchor against which you can press downward in addition the foot plates function separately and the foot plates are also tipped this way so that the front of the ankle can start in a really open position that ankle range of motion doesn't become a limiter a lot of leg presses today aren't angled this way but they're angled this way so you just end up jamming your ankle into the foot plate a lot of the times

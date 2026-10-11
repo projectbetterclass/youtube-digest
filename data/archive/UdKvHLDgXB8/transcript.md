@@ -1,0 +1,5 @@
+# Can you Isolate Each Biceps?
+
+<https://www.youtube.com/shorts/UdKvHLDgXB8>
+
+Why would you want to do a curl with your arms out to the sides like this? Imagine that this pink band represents your biceps. Short head runs at an inward angle like this, and the long head runs more along the bone like this. So, when you bring your arm out wide to the side and back behind the body, that short head actually stretches a little bit more than the long head. When you do a curl like this in this position, your short head might be able to create more tension, or at least get a little bit more length when your arm is back here. If you wanted to stretch your long head more, you would bring your arm a little bit more down to your side, potentially slightly behind your body. Regardless of the curl variation that you do, both heads of the biceps will always contribute. But, if your arm is up here and behind your body, your short head will stretch a little bit more. And, if your arm is down here and behind your body, your long head will stretch a little more.

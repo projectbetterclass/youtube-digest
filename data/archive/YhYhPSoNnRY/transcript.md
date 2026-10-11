@@ -1,0 +1,5 @@
+# Try THIS Forearm Exercise!
+
+<https://www.youtube.com/shorts/YhYhPSoNnRY>
+
+straight bar wrist curls could be a fantastic option to train the front side of the forearms some people don't feel great when they have to force their palms into this position and the reason is really because when these bones have to fold over one another you're not going to be able to bend your wrist as much so a great alternative is to grab two free moving handles and attach them to the same cable stack when you use dandles you can adjust the orientation of your forearms so that they're in a more neutral and stronger position if you want to make these heavy in the squeeze position you can stand right above the cable but if you want to make them heavier toward a more lengthy position you can simply anchor your wrists on something like your legs so that there's more tension in the stretch position because this motion is highly adjustable you can turn your wrists in any orientation you want do whatever is most comfortable and feels strongest to you

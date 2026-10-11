@@ -1,0 +1,5 @@
+# The BEST rear delt exercise?
+
+<https://www.youtube.com/shorts/iWGZrcAm5C4>
+
+Both variations of this reverse fly are great options. One isn't better than the other, they just do different things. Generally speaking, when you do the double arm reverse fly, the motion's going to be a lot harder toward the back portion of the range as compared to the front. What this means is that the rear delts still get plenty of work, but proportionally the traps have to be much more involved. In comparison, the single arm variation allows you to stretch your arm across your body, which does put more length in the rear delts and proportionally allows them to do a little bit more work, especially if you're not bringing your arm all the way back behind your body. So, it's not that the single arm variation is better, it's just that it's slightly more specific to the rear delt as opposed to the rear delts and the traps together. Keep in mind that both variations involve both muscle groups, but the proportion of rear delt involvement will likely be greater in the single arm variation.

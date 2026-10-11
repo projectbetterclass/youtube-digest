@@ -1,0 +1,5 @@
+# Improve this curl!
+
+<https://www.youtube.com/shorts/21OYXkAK3uI>
+
+this curling variation that Dr Mike recently repop poize is a great exercise to train the stretch position of the biceps but here's a very simple change that you can make to make it even better for the biceps instead of hanging your arm off the bench where your shoulder joint has to do a lot of work to just hold your arm there what you can do is turn sideways on the bench pull your chest up so there's that same degree of stretch in the arm then support the bottom of the upper arm on the edge of the bench so that there's just loading on the elbow rather than the elbow and the shoulder this way you'll still have the stretch on the biceps from the shoulder but the forces will be much more specific to the Elbow so that you can just focus on the curl and in addition when you do it this way it's much heavier toward the stretch position where you're much stronger so in this case the resistance is actually a little bit better matched to your strength both variations of these curls are going to be great options so you should try both and see which one that you like better

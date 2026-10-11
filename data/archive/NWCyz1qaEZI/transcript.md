@@ -1,0 +1,5 @@
+# How To: Stretch The Lats
+
+<https://www.youtube.com/shorts/NWCyz1qaEZI>
+
+what's the purpose of doing a single arm row like this where your arm stretches across your body all of these lats wrap around the rib cage like a cable wraps around a pulley this is known as an anatomical pulley which actually comes from joint structure and function one of the seminal textbooks on biomechanics when you set up so that your arm actually gets dragged across your body by a resistance your lats actually increase their length because they're being stretched around the surface of the rib cage and when the arm is more horizontal and being pulled across the body like this higher portions of the lats will specifically get the most amount of stretch and they'll be the guys to actually have to pull the arm out of that position if you really want to focus on the upper portions of your lats which will make you much wider and this kind of single arm row variation is a great way to Target the stretch position of those upper lats

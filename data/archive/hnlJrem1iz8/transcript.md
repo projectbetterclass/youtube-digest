@@ -1,0 +1,5 @@
+# You've never tried this upper pec exercise
+
+<https://www.youtube.com/shorts/hnlJrem1iz8>
+
+I bet you've never tried this upper chest exercise I said let's talk about why this could be a great exercise for targeting the upper pecs the upper pecs run like this into the upper arm which means that the arm path that'll be most specific to targeting them is actually a slightly wider arm path where you're coming from wide inward toward the clavicle directly in other words when you move like this and a wider arm path you're following these upper PEC fibers directly as compared to if your arm were ending up lower where the middle and the lower chest would contribute more now this landmine setup may be a bit Goofy and impractical for you to set up in your gym so what you can do is just mimic these anatomical principles in something like a cable fly where you're bringing your arm in a little bit more of a wide path using a cable parallel to the arm you can also do this in a machine setting again keeping a little bit of a wider arm path and aiming to take your upper arm straight into the middle of your clavicle

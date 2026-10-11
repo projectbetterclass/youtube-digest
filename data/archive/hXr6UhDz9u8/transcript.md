@@ -1,0 +1,5 @@
+# STOP Pressing Like This!?
+
+<https://www.youtube.com/shorts/hXr6UhDz9u8>
+
+stop doing this pointing your forearms inward or outward during bench press since it increases the risk of shoulder injury instead keep your forearms vertically straight having your elbows outside of your hands or having your elbows inside of your hands is not more inherently dangerous than having them stacked when your hand falls inside of your elbow all that's doing is it's allowing the triceps to do more work in the press and when you have your hand outside the elbow just asking the muscles of the shoulder and the chest to do more work relative to the triceps and then stacking your hand in your elbow like this will just provide a blend of the tri trips in the chest ultimately all these motions involve the chest and the triceps if you want your triceps to do more work put your hands more narrow if you want your chest to do more work you can put your hands in a stack position or slightly wider none of these variations is more dangerous than any of the others they simply just do different things and recruit different proportions of different muscles

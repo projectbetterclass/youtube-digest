@@ -1,0 +1,5 @@
+# Try this trap exercise:
+
+<https://www.youtube.com/shorts/oRSwO8fYQSA>
+
+I need to cook I actually think this is a great exercise for training the upper traps the middle traps and the rear delts but here's a simple way you can make it even more effective instead of forcing your arms behind your body and doing this you can angle a cable pulley low to the floor in front of you and load your arm so that it's coming from in front of your body to behind your body what this will do is it will pull the arm slightly more forward which will provide more stretch and tension in the upper and the middle traps and as you start to pull backward and upward you'll get more range of motion out of the rear delts and both of the traps this kind of a shrug row motion will just provide more stretch and more contraction ability for the upper traps the middle traps and the rear delts as compared to the variation where you're keeping your arms behind your back and if you don't have access to a cable machine or a good attachment that you like you can simply take some kind of freee implement hinge slightly forward and then pull backward and upward in that same direction

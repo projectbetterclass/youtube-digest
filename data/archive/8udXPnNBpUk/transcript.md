@@ -1,0 +1,5 @@
+# Why does this happen on shoulder press?
+
+<https://www.youtube.com/shorts/8udXPnNBpUk>
+
+why is it that the first rep in many cases is so much more difficult than the subsequent reps two main reasons number one is inertia anything that's already moving is generally easier to keep moving and anything that isn't moving is harder to start to get moving this is why if you're pushing a sled it's easier to continue to push the sled than it is to initiate the motion of the sled reason number two is stored elastic energy also is intend function much like bands and when you stretch them out they're ready to recoil actively but if you're kicking weights up for the first time and you're trying to initiate their motion you don't have that store tension and when you come down from the top that's the equivalent to basically stretching the band out so that it can recoil back out of the bottom so for these reasons just remember that often times the first rep in many exercises is going to be harder than the second third and fourth

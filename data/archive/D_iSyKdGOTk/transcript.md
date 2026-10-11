@@ -1,0 +1,5 @@
+# The Leg Extension You've Never Done
+
+<https://www.youtube.com/shorts/D_iSyKdGOTk>
+
+what's the purpose of doing cable leg extensions set up like this rectus florus crosses both the hip and the knee it's the only two-joint quad muscle so to fully lengthen it we have to bend the knee and then also bring the leg behind the body like this when you set up with your leg anchored on the floor in this way while your upper body is braced against the cable stack you can create a very stable environment off of which you can do a leg extension and because the foot will be constrained by the floor and it will run into it you can really just use this variation to train the most stretch position the wreck them and this variation is complimentary to the traditional leg extension where your hip is in a bent position so your rectus femoris can get fully shortened cable extension variation isn't necessarily better or worse than the traditional leg extension it just allows you to train a different quality of the rectus Fus through its fully stretched range and training a muscle through its entire contractile range is likely to be beneficial for a variety of different reasons

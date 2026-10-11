@@ -1,0 +1,5 @@
+# Do THIS On Hanging Leg Raises
+
+<https://www.youtube.com/shorts/ag5ZotR2N4Q>
+
+hanging leg raises can be a great exercise to train the ABS but doing them in the normal way presents one major issue is that anytime you go to raise your legs upward and forward there's going to be an equal and opposite force that pushes you backward a lot of times this results in people just swinging backward and forward instead of just using their abs and hip flexors to move the load so what you need to do is put something behind the body so that when you raise your pelvis in your hips have something to push back against this is no different from having something like a bench behind your back whenever you're doing any kind of press you set this up in a cable machine using a Long Bar and attaching it to either side of the stack you can also just enter a normal rack and use a barbell with a pad instead in any case just make sure that when you're raising your legs and you're tucking your pelvis you have something behind your spine

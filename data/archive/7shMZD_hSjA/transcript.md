@@ -1,0 +1,5 @@
+# Why are machine hip thrusts harder?
+
+<https://www.youtube.com/shorts/7shMZD_hSjA>
+
+[Music] so why is it that you can use a lot more weight on a freee hip thrust as compared to a machine hip thrust think about it this way if you were holding a 10 lb stick and you held it out in front of you and it was this long versus if you tripled the length and held it out in front of you still 10 lb the longer stick is going to actually be much harder to hold so in the same sense if you're doing a hip thrust and the weight is directly stacked over top of your hip joint like in a free weight hip thrust it's going to be much lighter compared to a machine where a machine has a pad here and then it has a lever that basically extends out and holds the weight farther away from The Joint so it's not that you're stronger in the freee hip thrust it's just that the weight is suspended directly over the joint compared to being suspended away from the joint on something that is pivoting at a much longer distance

@@ -1,0 +1,5 @@
+# How to target each pec on a chest flye machine:
+
+<https://www.youtube.com/shorts/Cwouc9w2-R8>
+
+how do you target all the different portions of your chest specifically on a PEC flying machine if you're trying to Target the upper portions of the chest you want to lean your whole body very slightly forward so that the path can be slightly low to slightly high if you want to shift the recruitment down toward the middle portions of the chest what you can do is just sit perfectly parallel to the backpad and do them so that your arm is ending up toward the middle of your sternum where those inner fibers run and then if you want to Target the lower most portions of your chest what you're going to want to do is actually lean back or just simply arch your back upward so that your arm path can be slightly more high to low so for the upper portions of the chest a slight lean forward for the lower portions of the chest a slight lean backward and for the middle portions of the chest somewhere in between the two

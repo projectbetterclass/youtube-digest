@@ -1,0 +1,5 @@
+# Why would you do this row?
+
+<https://www.youtube.com/shorts/zfUg3I5hWYI>
+
+what's the purpose of doing a row like this your arm is stretched out like this in front of your body you're really really strong as you pull further and further back where you get weaker and weaker and most kinds of rows are loaded so that it's easier here and it's harder here meaning that it's easier where you're stronger and it's harder where you're weaker when you use a free weight row machine like this one and step a little bit backward behind the machine what you can do is make it much harder in this stretch position and much easier in this short position so that the resistance matches your strength in both position positions the reason that the machine will be lighter in the more stretched position of this exercise is because it's farther from the Pivot Point as the weight moves over top of the Pivot Point the machine applies less resistance to you so this kind of step back row variation will be a really really great way to Target this most stretched position of these lats

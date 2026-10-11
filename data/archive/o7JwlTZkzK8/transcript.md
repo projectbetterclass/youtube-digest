@@ -1,0 +1,5 @@
+# Why Does This Happen On Leg Extensions?
+
+<https://www.youtube.com/shorts/o7JwlTZkzK8>
+
+Why do your legs sometimes shake like this whenever you doing a leg extension? There are many different reasons for this, but here are two of the main ones. The first one is if you have your femur too far off of the seat and not supported enough, you'll be a lot less stable compared to if your leg is back like this and fully supported close to the joint. This kind of shifting instability can create excessive contraction around the hips, which will create this appearance of convulsion in the legs. The second major reason is not having your hips and your spine anchored enough down into the seat. This can either come from not pulling upward hard enough on the handles, you're simply using a lot of load, your hips just might be getting pulled up and out of the seat anyway. So, you either need to focus more on pulling up on the handles, or you could simply use one leg at a time so that the stability demand on the trunk and hips is lower.

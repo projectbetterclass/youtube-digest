@@ -1,0 +1,5 @@
+# Pull-Downs VS Pull-Ups?
+
+<https://www.youtube.com/shorts/08grAm4GNe0>
+
+There are two main reasons that this happens. Number one is that pull-ups require greater coordination demand on the rest of the body as compared to just the pulling muscles. In a pull-down, you have the stability of the pad, and you don't really have to worry about anything else other than just pulling down. But, in the pull-up, you not only have to worry about swinging back and forth, but also coordinating your arms and your elbows around the bar above you. In essence, you can basically manipulate a pull-down a lot more so that it's individually comfortable for your anatomy relative to a pull-up, which is a little bit more restrictive in terms of the options that you have. The second main reason is that pulleys create mechanical advantage over any load that you're lifting. In essence, what this means is that any load that you're lifting with a pulley is probably going to be easier to lift than if you were just using your body and your body weight to coordinate the motion, at least relative to the same amount of load.

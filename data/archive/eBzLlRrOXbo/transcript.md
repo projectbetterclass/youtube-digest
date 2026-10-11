@@ -1,0 +1,5 @@
+# What does reverse grip bench do?
+
+<https://www.youtube.com/shorts/eBzLlRrOXbo>
+
+What's the difference between doing a reverse grip bench press and a regular bench press? If you use the reverse grip, your arms will naturally tend to move in tighter to your ribcage. When you use a relatively more narrow arm path, your middle and lower pecs tend to be able to stretch and contract more to contribute to the motion. When you move your arms wide and out to the side, there tends to be a little bit more of a bias toward the upper and the middle pecs as opposed to the middle and the lower pecs. However, the recruitment between the different chest muscles can vary greatly depending on whether your ribcage is more barrel-chested or whether your ribcage is a little bit flatter or more narrow. In general though, if you want to target the upper pecs more than the other ones, you're probably better off pressing at a little bit more of an incline angle. But if you want to hit all your pecs together, flat bench press can be a great option as long as it's comfortable and sustainable for you.

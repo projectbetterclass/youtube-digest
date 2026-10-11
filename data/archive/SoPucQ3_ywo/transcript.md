@@ -1,0 +1,5 @@
+# Doing lateral raises on the seated abduction?
+
+<https://www.youtube.com/shorts/SoPucQ3_ywo>
+
+[Music] because this is the moment you realize something inside you is broken a lot of people may think this is silly but I think it's pretty great it demonstrates a really cool principle which is just that every single machine and every Implement you use in the gym is just a way to provide Force to your body in other words whether you're grabbing a dumbbell a cable or you're laying down on an abduction adduction machine ultimately in order to load the middle deltoid all we need to do is provide some kind of force which is smooshing the arm toward the body so even though you might think this is ridiculous this is no different from adjusting the setting on a cable machine to do a different exercise or doing different exercises on a Smith machine so that you can accomplish a more specific goal ultimately if your goal is to train the middle Del you just need to load your arm in a way where the force is pushing your arm into your body and you're resisting the load outward against that

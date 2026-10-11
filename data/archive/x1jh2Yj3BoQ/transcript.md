@@ -1,0 +1,5 @@
+# STOP Doing This RDL For Growth!
+
+<https://www.youtube.com/shorts/x1jh2Yj3BoQ>
+
+doing cable rdls like this is not a great way to load the glutes and the hamstrings and the reason is because when you're doing a hinge and you have a resistance Direction that's pulling you forward not only is it less specific to loading the hip joint compared to the rest of the spine but if you have nothing in front of you you're basically just going to be falling over forward trying to resist not falling on your face so instead what I would recommend is angling the resistance straight downward beneath you like a traditional free weight RDL so that you can hinge forward and back backward and just simply push downward through the floor rather than having to try to resist not just falling over the entire time hyperextensions are a great example of a similar loading angle but where you have stability on the front side of your thigh and the back side of your shin so that you can actually create high output through the hips in either case just make sure that you're stable and make sure that you're actually loading the hips rather than your coordination to not fall over
