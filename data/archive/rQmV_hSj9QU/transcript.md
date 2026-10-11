@@ -1,0 +1,5 @@
+# Why way should you face on the smith machine?
+
+<https://www.youtube.com/shorts/rQmV_hSj9QU>
+
+you're facing out this way. You will feel more of your quads pulling. This is for me. This is a more natural position and I'm able to go down in more of a straighter line and squeeze a lot of my glutes. Imagine that this is the line of your Smith machine. If you face this way so that your eyes are pointed in the direction of the angle, the joint that can bend in this direction is the one that will get worked more. In other words, because the knee bends in the direction of the angle, the knee will contribute to moving the Smith upward and downward more easily. But if you turn around and face in this direction so that the angle you're squatting is actually opposite to the angle of the machine. Now the knee joint bends this way and the hip joint actually moves in the direction the machine is going. So facing this way will be more of a quad dominant squat and facing this way will be more of a hip dominant squat. Both kinds of squats will involve both the quads and the hips, but which direction you face can further bias either the knees or the hips

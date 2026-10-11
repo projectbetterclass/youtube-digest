@@ -1,0 +1,5 @@
+# Stop Saying THIS About Chest Presses
+
+<https://www.youtube.com/shorts/qVKZ6EYJ-ws>
+
+This is not correct. Let's talk about why. Whenever you're doing a wider kind of press, you're simply just biasing more of the upper fibers of the chest compared to the lower. And if you stay at the same angle and move your arm lower this way, you'll simply just be able to stretch the middle and the lower portions of the chest a little bit more. So, it's not that the wide press is dangerous or that the narrow press is safe. It's simply that the wide press will target more of the upper portions of the chest and the narrower press will target more of the middle and lower portions of the chest. And whether an exercise is safe or not entirely depends on how much load you're using, whether or not that's appropriate for you, and how much overall volume is attributed to the muscles and the joints that you're training. So instead of saying this is bad and this is good, we can simply just identify the differences in muscle recruitment and pick the variation that is appropriate to our goal.

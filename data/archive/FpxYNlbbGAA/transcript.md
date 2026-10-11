@@ -1,0 +1,5 @@
+# A Must-Know Cable Lateral Raise Technique
+
+<https://www.youtube.com/shorts/FpxYNlbbGAA>
+
+[Music] if using the lightest weight on a cable stack is still too heavy for you here's a really easy way to problem solve for that instead of grabbing the cable handle and putting it in your hand and trying to do the raises take a d handle Loop it around your hand and up closer to your elbow so that the load is applied basically half the distance from the shoulder if you go from lifting something farther away from the joint to closer to the Joint you'll basically cut the resistance substantially so that you can then start to use a weight on lateral raises that is appropriate for you this change can also be subtle you don't have to put it halfway up your arm you can simply just Loop the handle slightly closer to the wrist joint around the backside of your hand and that may be enough for you to start to use the lightest weight on the cable stack you can also consider using this strategy whenever you're making jumps from pin to pin if the next pin down is just way too heavy for you

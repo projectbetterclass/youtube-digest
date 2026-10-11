@@ -1,0 +1,5 @@
+# Fix your chest supported row INSTANTLY!
+
+<https://www.youtube.com/shorts/EuCpf0CDnxc>
+
+have you ever done this chest supported row and found that you were suffocating when you were doing the motion if you have here's a quick solution for you instead of placing the lower parts of your rib cage on the chest support place the higher part of the rib cage on the chest support the reason you can't breathe is because the lower ribs are going to be the ones to move to be able to actually pull air in and out of the body if you put the chest support here you're just going to be smooshing that and preventing those lower ribs from moving the ribs up high are much more rigid and won't move when you put them into the chest support you can do this simply by just leaning your trunk a little bit more forward and making sure that more pressure is higher up on the ribs as opposed to lower something else you could do is grab a towel and put it higher up so that the chest support is actually thicker toward the top of your chest and this will create a little bit of a distance away from the lower ribs

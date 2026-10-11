@@ -1,0 +1,5 @@
+# Which is a better shrug motion?
+
+<https://www.youtube.com/shorts/S1PGDH1kgGU>
+
+never quit yeah I couldn't neither one of these variations is better than the other they just do different things if you keep your arm at your side and you stay upright as you perform the shrug you'll be targeting both the upper traps and the middle traps and the levator scapula but if you hinge forward as you do the shrug all you're doing is you're changing the angle of retraction now you're pulling the shoulder blade slightly backward as you pull it upward and therefore the middle traps will be proportionately more biased over either the upper traps or the levator scapula so if you want a good blend of all those three muscles I would do the vertical variation but if you want to Target proportionately more of the middle traps I would do the variation where you're leaning over and you're coming slightly backward both of these options are fantastic and you should pick the one that's simply more specific to your goal

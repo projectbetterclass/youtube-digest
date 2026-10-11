@@ -1,0 +1,5 @@
+# This is NOT true about the triceps
+
+<https://www.youtube.com/shorts/J6ZanxGbgzI>
+
+A lot of people seem to think that simply changing your grip on a triceps extension will change which head of the triceps you recruit. News flash, the triceps attached to a bone called the ona. And when you twist your hand around, the ona is not twisting. Which basically means that whether your palm is up, down, or somewhere in between, that will not change which head of the triceps you recruit. If you want to change which head of the triceps you recruit, you're going to want to modify what happens at the shoulder. So specifically, if you want to train more of the long head of the triceps as relates to other exercises, just keep your arm fixed. Don't move your arm. Overhead extension, extension at your side. If you want to train more of the single joint head, the one that don't cross the shoulder, do some sort of pressing motion. This could be any one of your traditional compound presses. But if you want to be more specific to the triceps, this could be something like a triceps push-up or something like a cabled triceps

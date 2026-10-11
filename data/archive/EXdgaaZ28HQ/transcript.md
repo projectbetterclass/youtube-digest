@@ -1,0 +1,5 @@
+# Don’t make THIS DB row mistake.
+
+<https://www.youtube.com/shorts/EXdgaaZ28HQ>
+
+Are you still making this dumbbell row mistake? Can you spot it? Well, if your goals are to target your back, what you don't want to do during a dumbbell row is twist and rotate your spine all over the place. Why? Well, because none of the actual pulling muscles perform this action. This is an action that is performed by the obliques and the QL's and the spinal erectors. So instead of reaching your entire body to the floor and turning your chest away from the dumbbell, which by the way will take a lot of stress and stretch off of the lats, which is often the target muscle. Keep your opposite non-working hand firmly planted like this. You want to imagine that you're shoving something away from you with that non-working hand the entire time. You might not be able to use as much load this way because you're isolating your back to a greater degree and using fewer spinal muscles to move the load. But if the purpose of your doing a dumbbell row is to target your pulling muscles, then you want to limit motion of your spine and just maximize motion of the shoulder and the shoulder blade.

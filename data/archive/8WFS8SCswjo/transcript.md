@@ -1,0 +1,5 @@
+# AVOID This Chest Exercise
+
+<https://www.youtube.com/shorts/8WFS8SCswjo>
+
+[Music] my enemy you are my enemy see who you are let's talk about why this isn't a good chest exercise all the different portions of the PEC stretch substantially when the arm is brought behind the body and the more that the arm and the shoulder girl move backward more leverage that all these guys are going to get to pull the arm forward but when you're using a really really narrow grip your arm gets restricted from moving backward and your elbow has to drive outward and when the elbow drives outward like this there's actually a lot more load on the elbow relative to the shoulder think about it this way if you are pressing against something like this it's basically just a triceps press where your elbows are moving outward and inward whenever we want to actually challenge the PEC we need to bring the weight away from the shoulder and the arm behind the body so that those pecs can stretch to pull the arm forward so instead of using this weird V bar thing just face the normal Direction and do a normal Smith Press

@@ -1,0 +1,5 @@
+# How to leg press for quads
+
+<https://www.youtube.com/shorts/cnafZBxWRjU>
+
+press know the difference quads feet together knee should be at a 90° angle in most cases this is not how you're going to be able to bias the quads in a leg press to bias your quads in a leg press substantially all you need to do is make sure that this bone is getting smooshed into this bone in other words your heel needs to get smooshed towards your butt when you move the shin 90° from the foot plate most of what is being loaded is actually the hip not the knee so to change that all we need to do is put our feet really really low predominantly push against the leg press with your toes compared to having your foot higher up at 90° pushing more through your heels using a middle ground between these two will Target the quads plenty if you really want to make your quads the rate limiter I'd recommend putting your feet as low as you can comfortably get them so that you can basically just make the motion a knee motion rather than a hip dominant motion [Music]

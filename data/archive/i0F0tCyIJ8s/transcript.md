@@ -1,0 +1,5 @@
+# Stop wasting time in the gym!
+
+<https://www.youtube.com/shorts/i0F0tCyIJ8s>
+
+While there's nothing inherently wrong with just training this motion directly, if you really want to improve the muscles like the rhomboids, the traps, and the serratus anterior, you probably at some point need to actually integrate this motion with actual load and progression over time. So, instead of doing these unloaded, you can just integrate this motion into something like a row or a regular press done at a slightly low to high angle. And when you integrate motion of the shoulder blade with motion of the arm, you'll also be actually training all the coordination between tissues of the arm and the shoulder girdle rather than just the shoulder girdle in isolation. In addition, you'll actually be able to progress these motions and load them more substantially over time to improve the muscle's ability to control the shoulder blade. If you just train this motion unloaded for a long period of time, at some point your progress is likely to stall out or start to move backwards.
