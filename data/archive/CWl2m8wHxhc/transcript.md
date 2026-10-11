@@ -1,0 +1,5 @@
+# Eric Janicki EXPOSES Me?!
+
+<https://www.youtube.com/shorts/CWl2m8wHxhc>
+
+All right, everyone. Eric Janicki made a video calling me out, but before we watch and react to this video live, what I'm going to do is demonstrate something very important about this kind of interaction. So, here I have posted this comment two or three times now just to see what happens. I'm going to copy it back in and paste it. And what you will notice is it's here right now. You can see it right here, and I'll go over the major points of all that stuff I'm saying here as just as a response to this video. What you'll see is if I reload this video >> with this family and go down, oh, look, it will not be there. Oh, look, it will not be there. Let's do it one more time just to really double-triple check. All right, I've made the comment. I'm hanging out. Okay, here we are. Let's reload. Okay, and we scroll back down. Oh, guess what? The comment is not there. So, just as we're going through this video, I want you all to just keep that in mind. Why might someone do that on their channel for someone else?

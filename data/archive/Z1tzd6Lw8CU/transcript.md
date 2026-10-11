@@ -1,0 +1,5 @@
+# The #1 Row Mistake
+
+<https://www.youtube.com/shorts/Z1tzd6Lw8CU>
+
+Most people go years without realizing that they're making this one crucial mistake on rows, which is that instead of keeping their chest fixed in a position, what they do is as they pull, they start to turn their spine this way. And then, as they load the stretch, they start to turn their spine in the opposite direction. Why is this a mistake? Well, because the rowing muscles do not turn the trunk. The muscles that turn the trunk are muscles like your obliques, which are not what we're trying to target with any pulling motion. Here's a simple way to fix it. Whenever you're pulling with a single arm, let's say it's my left arm, make sure that your right arm is preventing your body from twisting in any direction. If I'm pulling like this, my right arm should be pulling me a little bit in this direction, and also a little bit forward to prevent me from slouching and rotating as I pull.
