@@ -1,0 +1,5 @@
+# HOW TO Barbell Shoulder Press
+
+<https://www.youtube.com/shorts/c2Eq9PmzoBA>
+
+The seated barbell press is by far the best way to train the shoulders in a stable position. Most people do this wrong. This is how you do it right. Most people don't realize this, but when you're doing the barbell press, you want to have your head move back to create space [music] for that bar to drop down. If you don't pull your head back, the bar will knock you on the head, or you'll change bar path and hurt your shoulders. These are the three steps to do it right. Step number one is hand and foot position, staggered stance, and bulldog grip. Step two, move your head back. Bring the bar down to your clavicles while simultaneously keeping your elbows forward. Step number three, press [music] and when it gets to your nose, push your head forward. You want to make sure you end your movement with your head forward and your elbows locked, your shoulders [music] back and down like this. Do this if you want boulders for shoulders.

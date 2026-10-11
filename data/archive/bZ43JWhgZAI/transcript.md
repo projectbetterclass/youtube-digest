@@ -1,0 +1,5 @@
+# HOW TO Back Extensions
+
+<https://www.youtube.com/shorts/bZ43JWhgZAI>
+
+The back extension is by far the best exercise to train the back, glutes, and hamstring under a stretch position. Most people do this wrong. This is how you do it right. When most people perform this movement, they predominantly only use their lower back and not [music] their glutes and their hamstrings. And as a byproduct, they end up with a sore lower back. This is how [music] you do it right. Step number one, frost your hands and round your upper back. And as you drop into the movement, [music] you slowly want to take that rounded chest and lift it up. So start rounded. As you drop, lift your chest up. Step two is you want to hang down here and the primary thing you're trying to feel is that stretch in your hamstrings. Step three, [music] round your upper back and squeeze your glutes to lift you back up. If by the end of this movement you've got a mad lower back pump, you've [music] messed up. Start again. And the goal is to feel in your hamstrings and your glutes.

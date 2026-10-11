@@ -1,0 +1,5 @@
+# HOW TO Barbell Bench Press
+
+<https://www.youtube.com/shorts/8truxdnEa44>
+
+The barbell bench press is by far the best way to show people you are a mad dog. Tim Star said this best. No chess, no sex. >> No chess, no sex. >> The way I hit a 200 kilo bench press at nationals is with this one cheat code. It's called force coupling. Force coupling [music] is the idea that a single muscle does not produce as much force as the collective. In the bench press, it works like this. Simply put, tension in the heel creates tension in the quad, which creates tension in your hips, creates tension in your upper chest, which creates tension in your shoulders, which allows you to create stability to press. Lastly, you want to make sure you're in bulldog grip. So, you're here and you're not [music] here. Bonus tip, when setting up, start with a bar in your hands. As you come down, pull your elbows into your sides and pull your shoulders back and down. Then, when the bar touches your chest, simply push your upper back into the bench and [music] lock the elbows.

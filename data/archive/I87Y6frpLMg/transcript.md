@@ -1,0 +1,5 @@
+# Leg Extension Setup and Technique
+
+<https://www.youtube.com/shorts/I87Y6frpLMg>
+
+The leg extension is by far the best way to grow your quads. Most people do it wrong. I'll show you how to do it right. Step number one, take the seat, push it all the way back. Regardless of how tall you are, the reason why you went all the way back is because when you get in the leg extension, it allows you to stretch your quads the most. If it's too far forward, you won't get as much of a quad stretch. Step number two is you want to squeeze your glutes and then sit on your glutes. By squeezing your glutes and then sitting on your glutes, it allows you to pre-tension your quads. Lastly, grab the handles like so and extend all the way up till you can feel your quads flex. Most people swing the weight. The problem with that is you'll get a lot of knee pain and not enough muscle stim. Solution: control it slowly and then squeeze the quadriceps. That way, you get a lot less knee pain and a lot more muscle stim. And fundamentally, if you stay less injured, you'll have bigger quads.

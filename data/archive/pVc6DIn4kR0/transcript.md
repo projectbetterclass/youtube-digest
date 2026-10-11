@@ -1,0 +1,5 @@
+# Lose Fat or Gain Muscle
+
+<https://www.youtube.com/shorts/pVc6DIn4kR0>
+
+So being skinny fat is confusing because the more you lose, the worse the problem gets. You might be confused on the directions to take. Do you put on muscle first or do you lose the fat? So fundamentally the problem is you have a high amount of body fat and you can't see any of the muscle. As you start to lose the weight, you just get skinnier and skinnier. But this is the thing, fat is an endocrineic organ. The more fat you have on your body, the more it aromatizes testosterone to estrogen and blunts insulin sensitivity. The reason why you don't want to blind insulin sensitivity is because insulin is what helps get glucose outside the body into the muscle. When it's in the muscle, it can perform and help you recover a lot better. Step number one is to get you in a better hormonal position by getting that fat off your body and then we can start putting muscle tissue on. And plus, who wants to build muscle tissue when they can't see it anyways? Get the fat off. So when you do put on muscle tissue, you can actually

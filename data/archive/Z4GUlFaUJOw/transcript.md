@@ -1,0 +1,5 @@
+# HOW TO Leg Curl
+
+<https://www.youtube.com/shorts/Z4GUlFaUJOw>
+
+The lying hamstring curl is by far the best way to grow your hamstrings. Most people do it wrong. And this is how you do it right. So step number one is you want to adjust the seat so the pad sits right underneath the calf. You don't want it to go too low, nor do you want it to go too high. Step number two is foot position. What you want to do is you want to have your foot dorsy flexed, not plant, just a fancy word for feet up, not feet down. Step number three is bracing. Most people grab these handles. I like to grab above the seat and push downwards like this. This allows you to create stability in the movement. So, step number four is not just pull off. As you pull up, you want to take your knee and push it down and back. Last step, most people sometimes don't go all the way down. They sometimes stop a lot shorter. What I want you to do is tense your quads at the end. Re-engage the movement. Save this video if you want giant hamstrings.

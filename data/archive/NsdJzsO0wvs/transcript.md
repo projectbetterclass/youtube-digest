@@ -1,0 +1,5 @@
+# The Staggered Stance DB RDL
+
+<https://www.youtube.com/shorts/NsdJzsO0wvs>
+
+The staggered stance dumbbell Romanian deadlift. By far the best way to train a single leg under a stretch position. Most people do it wrong. This is how you do it right. Step number one is all in the stance. When you stagger stance, all you have to do is take your feet, place it back until your toes are in the middle of your second foot, the foot that you want to place under tension, you simply lift the heel up and alleviates all the tension off this leg. Now, this one's working. From here, you simply just push the hips back and stretch all the way to the ground and feel the hamstring stretch the entire time. What I personally like to do, place all the pressure on the ball of my foot. And as I push down into the ground, I slowly shift the pressure into my heels, then back into the ball of my foot. Stand back up while simultaneously squeezing my glutes to finish the move. If you don't squeeze your glutes, you'll get a lot of lower back issues. When you come all the way up, all the pressure will be on your lower

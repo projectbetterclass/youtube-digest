@@ -1,0 +1,5 @@
+# HOW TO T Bar Row
+
+<https://www.youtube.com/shorts/6Tg4eUT1pdo>
+
+The T- bar row is by far the best way to train the upper back. Most people do this wrong. This is how you do this right. Most people do this movement as a lat movement. What I want to teach you how to do is how to perform this movement as an upper back movement. Most people will hold the bar in their fingertips. I want you to [music] hold it in the palm of your hand. This will give you the most stability. I call this the gorilla grip. This movement is [music] two simple steps. Pull the shoulders back as far as they can go. Then pull the elbows as far back as they can go. Squeeze your shoulder blades together and extend. Bonus tip, keep the chest up the whole time. You should feel this movement in the rhomboids. So, what you're trying to do is you're trying to perform this movement until [music] you can no longer bend the elbows anymore. Once you get to that point, place the weight down in an extended position. This is [music] how it will look like.

@@ -1,0 +1,5 @@
+# The BIGGEST Mistake That KILLS Gains
+
+<https://www.youtube.com/shorts/vYUswr5ets8>
+
+What are some mistakes that people [music] make that really kill games? >> Every game's fun when you know the rules of the game. But if you're running into the walls of the labyrinth, you'll never get out of the maze. If you're training in such a way that's causing >> [music] >> pain or denigration of the joints and structures, you're not going to enjoy training that much. Training, if done correctly, can be regenerative, not degenerative. So, it's so important to learn how to train correctly, and it's one thing I wish I learned when I was much, much younger. >> Yeah. >> They don't train correctly, >> [music] >> and because they don't train correctly, they get very injured. And it's very hard to progress when you're injured. The most important thing you can possibly do is learn how to train correctly, the right techniques. Find someone in your life who knows how to perform without injury. The easiest way to do that is just get a coach, because you can just buy their experience. Cuz you might not know very many jacked people.

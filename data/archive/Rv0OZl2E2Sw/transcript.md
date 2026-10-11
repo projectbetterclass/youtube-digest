@@ -1,0 +1,5 @@
+# Fast vs Slow Reps: Which Actually Builds More Muscle?
+
+<https://www.youtube.com/shorts/Rv0OZl2E2Sw>
+
+Is it better to train fast or to train slow for building muscle? So, when you're training fast, what you're doing is you're essentially taking the weight and you're squeezing the muscle as rapidly as you can, trying to accelerate the weight as fast you can in your arms. When you're going slow, what you're trying to do is create a constant velocity and squeezing it all the way at the top and then milking the essentials. The benefit of going fast is you can create a lot of force production, meaning you can create a higher amount of stimulus on the cell. However, the action of going fast runs into one key problem. injuries. Over enough time, you have a higher probable chance of injury. When you train slow compared to training fast, you get there with a lot less injuries. And my thing is, you're going to get there anyways. Why get there with an injury riddled body? That's no fun. And that's why I train slow, cuz injuries are
