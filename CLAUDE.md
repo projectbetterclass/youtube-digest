@@ -81,8 +81,10 @@ straight-line extrapolation; ignore it.)
   TheQuadfatherBW 6 videos, JPG Coaching 25. **After the 24 Oct proxy reset:** Sean Nalewanyj's
   ~397 videos (`local_collect.py --channel "Sean Nalewanyj"`) and **their YouTube Shorts**:
   Ben Yanes ~684, Sean ~289, TheQuadfatherBW ~67, JPG Coaching ~306 (~1,346, ~550 MB). Shorts need
-  the per-channel `shorts: N` support from the open `shorts-backfill` PR (the collector otherwise
-  reads only the Videos tab). The webshare dashboard showed 2.9 / 3.0 GB on 2026-10-11.
+  **PR #63** (per-channel `shorts: N`; the collector otherwise reads only the Videos tab) — the user
+  must merge it. Then: `local_collect.py --channel "<name>" --shorts`, one channel at a time. A plain
+  run never collects Shorts (opt-in), so "collect my priority channels" stays a small catch-up.
+  The Webshare dashboard showed 2.9 / 3.0 GB on 2026-10-11.
 - **Instagram:** the user asked to collect these creators' Instagram Reels too. Decision: don't
   scrape Instagram (no captions to fetch, needs a login, against Instagram's terms, risks the
   account). Their Reels are mostly cross-posted as YouTube Shorts, so the Shorts route covers them;
