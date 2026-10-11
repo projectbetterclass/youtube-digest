@@ -1,0 +1,5 @@
+# Get strong if you want to get big
+
+<https://www.youtube.com/shorts/KPCvg7J5MXM>
+
+[music] [music] >> Yeah, so Cbum didn't post that and I'm pretty sure he would never prescribe to such nonsense because throughout his entire bodybuilding career, he has always pushed heavy ass weight. If you want to get as big as you can and build a really aesthetic physique, you should be focused on trying to get stronger. This is how you build some serious muscle. As you get stronger, as your muscles get bigger, they will adapt. So, to elicit a hypertrophic response, to see growth, you're going to have to continue to try to push more weight, more reps. 150s by the way, on the incline, not light. The idea that bodybuilders have show muscle and aren't actually functional and strong is just ridiculous because any person that you see that is rather large with a lot of muscle mass is very strong. Watch out for the BS online, guys, and check out my training teams if you want training that's actually going to help you grow.

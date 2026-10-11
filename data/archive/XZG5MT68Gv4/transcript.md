@@ -1,0 +1,5 @@
+# @Maroon sooo how old are you now? 💀
+
+<https://www.youtube.com/shorts/XZG5MT68Gv4>
+
+Dude, the last time I saw you, I was genuinely 10 years old. Oh my god. Dude, you guys are making me feel old. I don't know how old he is now. Maybe he's 11, but like some of the people who I've met in person, they would be like, "Hey man, I don't know if you remember, but uh we actually took a picture together back in like 2020, 2021." Mind you, this is a grown man with a beard standing in front of me and he's like, "Do you remember me?" And then they'll show me the picture and it's a picture of them as like a small child before they went through puberty that looks nothing like they look now. And I'm just like, "I actually don't remember you uh because one, you look completely different than you did before and that was also like a half decade ago." Which makes me feel kind of old, but you know, hey, it's better than not being around. So, yeah, you uh you just made me feel old, but uh that's okay because, you know, life happens, time happens, time passes and I I hope you're doing well.

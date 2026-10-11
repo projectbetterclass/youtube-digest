@@ -1,0 +1,5 @@
+# Not sure whether you should lean forward or back during seated hip abduction?
+
+<https://www.youtube.com/shorts/VIhjO-WR6sM>
+
+Oh, man. If I want to target the upper glute max, so the top of that big glute muscle, then I'm going to be doing these in more hip flexion, so sitting [music] more upright like this. You could even potentially lean forward a little bit. Now, if you are trying to target the gluteus medius, that side booty muscle, then you want less hip flexion. So, if you have a machine that allows you to recline the seat, then that would be ideal. This position is going to be better for training the gluteus medius now. Now, if your machine doesn't recline like this one does, what you can do is scoot forward in the seat, extend your knee, take your foot off the foot plate, and perform them like this. That way the hip is less flexed. You can always stick a yoga block in between your thighs and the pads. That way you get a bit more range of motion. Hope this helps, and as always make sure to like and follow for more.
