@@ -80,10 +80,11 @@ straight-line extrapolation; ignore it.)
   (whole channel). Ben Yanes (already complete) is the fourth training channel. Done so far:
   TheQuadfatherBW 6 videos, JPG Coaching 25. **After the 24 Oct proxy reset:** Sean Nalewanyj's
   ~397 videos (`local_collect.py --channel "Sean Nalewanyj"`) and **their YouTube Shorts**:
-  Ben Yanes ~684, Sean ~289, TheQuadfatherBW ~67, JPG Coaching ~306 (~1,346, ~550 MB). Shorts need
-  **PR #63** (per-channel `shorts: N`; the collector otherwise reads only the Videos tab) — the user
-  must merge it. Then: `local_collect.py --channel "<name>" --shorts`, one channel at a time. A plain
-  run never collects Shorts (opt-in), so "collect my priority channels" stays a small catch-up.
+  Ben Yanes ~684, Sean ~289, TheQuadfatherBW ~67, JPG Coaching ~306 (~1,346, ~550 MB). Shorts
+  support is merged (PR #63, 2026-10-11): per-channel `shorts: N` in the watchlist, collected only
+  with `local_collect.py --channel "<name>" --shorts`, one channel at a time. A plain run never
+  collects Shorts (opt-in), so "collect my priority channels" stays a small catch-up. Shorts whose
+  captions are just "[Music]" get `music_captions` (content on screen; needs screen capture).
   The Webshare dashboard showed 2.9 / 3.0 GB on 2026-10-11.
 - **Instagram:** the user asked to collect these creators' Instagram Reels too. Decision: don't
   scrape Instagram (no captions to fetch, needs a login, against Instagram's terms, risks the
@@ -136,17 +137,17 @@ re-run after topping up continues cleanly.
 can't be downloaded), New Money 440/440 (3,961). Library: 1,911 videos read, 1,568 with charts,
 12,076 charts. The API credit ran out once mid-run (the reader stopped cleanly, the user topped
 up, reading resumed). Nothing is running now. New uploads on these channels need a screen run
-after their transcripts arrive (supervised, see below, until PR #62 is merged).
+after their transcripts arrive (gently: one channel at a time, `--workers 2`).
 **YouTube throttling, 2026-10-07 03:15:** after ~3.5 h of 6 parallel downloads, YouTube started
 answering every download from the PC with "Sign in to confirm you're not a bot" (a temporary
 rate limit on the home connection). The jobs were stopped and the 38 videos wrongly marked
 failed were re-queued (23289cd6). It had cleared by 17:17 (14 h later).
 **Resumed 17:19, gently:** one channel at a time (Ticker → Tom Nash → New Money), `--workers 2`,
 under a supervisor script (session scratchpad `capture_chain.py`) that kills capture at the
-first throttle message and re-queues anything it noted. PR #62 builds that stop into
-`visuals.py` itself (bot check, rate limit, captcha, IP block, persistent 429), reviewed twice
-by multi-agent adversarial review; **the user must merge it** (the merge was blocked for me).
-Until it's merged, never run plain `--capture-only` jobs unsupervised. Never work around
+first throttle message and re-queues anything it noted. **That stop is now built into
+`visuals.py` (PR #62, merged 2026-10-11):** on a bot check, rate limit, captcha, IP block or a
+persistent 429, capture stops the whole run and marks nothing, and an old throttle note is
+re-queued; plain `--capture-only` runs are safe without the supervisor. Never work around
 YouTube's check with browser cookies.
 **Long jobs live only as long as the chat session.** Anything started from a Claude Code
 session is killed when that session closes, including processes launched with PowerShell
