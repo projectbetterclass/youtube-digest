@@ -1,0 +1,5 @@
+# PROPER CURLS 🔥
+
+<https://www.youtube.com/shorts/qAabnbNAmQE>
+
+the best way to develop the peak of the bicep it's all about i've been getting tagged in this one a bunch so let's take a look at the two different variations that he showed so the first one here is the one that he said not to do and this was his alternative movement instead i actually favor this form here keeping these caps slightly back for stability and then standing upright not having the elbows driven forward as now you have the shoulders working to stabilize the movement which is going to take away from the biceps output not to mention with this form here you are losing tension as you move up through the movement so as you can see with the top position of his curl here as you move through that curl you're losing more and more tension on the biceps and it becomes more of a shoulder isometric in this top position the joints are all stacked so there's essentially minimal tension on the biceps but the shoulders are still actively working to hold your arms in that position

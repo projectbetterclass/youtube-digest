@@ -1,0 +1,5 @@
+# Gatekeeping Pulldowns?? 😳
+
+<https://www.youtube.com/shorts/k27_XqDhT38>
+
+stop doing lap pull Downs if you can't do pull-ups guys a massive mistake is now I didn't realize that you had to earn the right to use the lat pull-down machine this would make more sense for something like saying don't load a squat if you can't do a bodyweight squat yet however saying that you cannot use the lot pull down machine because you cannot do a pull-up yet doesn't really make too much sense to me the lap pull down compared to a pull-up are very similar movements depending on the handles you're using and how you execute of course if someone is not able to do a bodyweight pull-up yet without assistance then doing a lap pull down can be a way to regress the movement and build up strength with a more stable exercise a lot of the women that I've worked with over the years had a secondary goal of being able to do some pull-ups and guess what I would typically prescribe something like pull Downs to help with that and what do you know as they progressively overloaded and got stronger with those pull Downs it was helping with their Pull-Ups so do your pull Downs

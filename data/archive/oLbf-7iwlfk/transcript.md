@@ -1,0 +1,5 @@
+# CABLE PRESSING 101
+
+<https://www.youtube.com/shorts/oLbf-7iwlfk>
+
+let's learn how to set up your cable pressing for the front delts lower middle and upper chest line the cable up with your forearms and where you're pressing to for the front delts you're driving your upper arm up towards your head pay attention to how the cable lines up with my forearm for the upper chest i'm driving my upper arm towards the middle of my clavicles just look at the difference between the arm path of the upper chest press and the front delt press for the sternal or middle pec the cable is still at a slight low to high angle instead of driving to the midline of the clavicles you're now going to focus on driving that upper arm to the midline of the pecs for the lower chest we're using a high to low cable angle now again line the cables up with your forearms and this time you're going to be driving towards the lower portion of your pecs an easy way to set these up would be seeing where your forearms are in the most contracted position and then matching the cable angle to that

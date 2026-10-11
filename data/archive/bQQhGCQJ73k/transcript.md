@@ -1,0 +1,5 @@
+# DEADLY DIPS ☠️
+
+<https://www.youtube.com/shorts/bQQhGCQJ73k>
+
+if you've never tried out doing dips like this then your chest and your triceps will thank you we're going to start out more tip forward I like to have my feet in front of me which helps me do so by pushing my hips back or you could also have a friend behind you holding your legs control The Eccentric getting a nice stretch on the pecs making sure not to go past your active range of motion where the shoulders start to round load heavy enough so that you're doing around six to eight reps or use enough assistance so that you're able to get around six to eight reps then once you're close to failure you're going to switch to a more upright position if you were truly close to failure on those more tip forward dips then you'll probably only get around three to five more reps in this position if you're unable to load your dips then this technique may not be for you but if you're really good at dips and want to challenge yourself then try this out make sure to like and follow for more efficient training tips and if you try this out let me know in the comments oh and good luck

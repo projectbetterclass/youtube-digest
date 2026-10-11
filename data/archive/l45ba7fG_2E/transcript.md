@@ -1,0 +1,5 @@
+# PANTS FOR GUYS THAT LIFT
+
+<https://www.youtube.com/shorts/l45ba7fG_2E>
+
+let's talk pants for guys who lift first off this might hurt some feelings if you are having trouble with finding pants that fit you may need to start that summer cut a little bit sooner because i've never really had issue with finding pants to fit even with bigger legs the only time that i did is when i bolt way too hard one of my favorite brands in general for basics uniqlo has the smart two-way stretch ankle pants i must have a dozen pairs of uniqlo pants and they're only around 50 bucks so i think they're a pretty good deal you can dress them up you can dress them down if you want something that's a bit more affordable american eagle has their flex line and you can usually find these on sale for around 20 to 35 bucks i'm also a fan of banana republic's traveler pants they are usually around 100 bucks but you can catch them on sale for a good deal sometimes even sub 40 bucks i also like the tapered rapid movement chinos four jeans i really like madewell they do free hemming you can also get cheap jeans from american eagle j-crew is also solid

@@ -1,0 +1,5 @@
+# JPGCOACHING UPPER BODY DAY
+
+<https://www.youtube.com/shorts/D_mHAkxqfkc>
+
+this was my first upper body session since i got my tattoo and i'm currently running a four week strength phase before i get back to my hypertrophy training for my first movement i did three to five reps of a flat dumbbell bench not going to failure for those familiar with it i'm doing around seven to eight rpe then i did eight to ten reps of a clavicular cable press this day has a more upper back focus so i did three to five reps of these t-bar rows using the angled neutral grip handles finished up back with six to eight reps of an upper back bias pulled down using these angles 90 grip handles for biceps i did this mechanical drop set where i did normal standing supinated curls and then once i got close to failure i switched to hammer curls and did those to complete failure great way to finish off the elbow flexors for delts all i did were these standing dumbbell lateral raises and that was it for the full session make sure to like and follow for more

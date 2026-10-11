@@ -1,0 +1,5 @@
+# JPGCOACHING- IMPROVE YOUR PUSHDOWNS
+
+<https://www.youtube.com/shorts/0PpwAcgvBuo>
+
+Instead of using a single small rope when doing your triceps pushdowns, try switching to a longer rope. Doing pushdowns in this internally rotated position will lessen the output for the long head of the triceps. Instead, try using a longer rope, which will allow you to better line up the long head with its origin on the scapula by allowing for natural flare of the upper arms. With this, you can also keep the shoulders in slight extension, which will allow for a better contraction on the triceps. Slightly retract the scapula for better stability and keep your upper arm fixed in place as you extend. Now, if you do not have a rope that is this long, then you can just use two of those smaller ropes and get the same effect. Here's an example of that and also an example of how you can place more tension in the shortened position. By standing more upright and creating more of a 90° angle with the cables in relation to my forearm, will now place more tension in that fully contracted position. Make sure you like and follow for more.

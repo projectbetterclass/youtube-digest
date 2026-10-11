@@ -1,0 +1,5 @@
+# The best workout split?
+
+<https://www.youtube.com/shorts/h3bZ7ikZkjI>
+
+This is the best possible split to maximize your growth. Is what I would be saying if there was one. Now, if anybody, any trainer tells you that they have the perfect split layout to get the best growth possible, then run in the opposite direction because there's no such thing. What matters more is the contents of that split and there's no magic split layout throughout the week, whether it be a bro split or a full body split, that are going to really maximize your growth. What you need to be doing is paying attention to your execution in the gym, how close to failure that you're training, how you're eating, how you're sleeping. You could have the perfect program put in front of you for you at that time, but if you don't execute on it properly, then it doesn't matter. Stop focusing on the little little things and start focusing on the big picture. That is going to be your execution in the gym, getting good recovery, meaning sleeping well, making sure that you are fueling yourself properly for your workout, so eating enough, and if you're doing all that, you're going to be just fine.

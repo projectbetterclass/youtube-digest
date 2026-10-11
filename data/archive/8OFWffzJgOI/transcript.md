@@ -1,0 +1,5 @@
+# The “Secret” to Recomping
+
+<https://www.youtube.com/shorts/8OFWffzJgOI>
+
+[Music] for everyone who is asking if this is true or not recomposition is a hundred percent a thing however it is much easier for beginners new lifters and those who are D trained so those who were fit previously perhaps they were working out for a couple of years fell off for six plus months don't have as much muscle mass now they're gonna have a much easier time recomping if you are a seasoned lifter your experience you've got a solid base already then it's not as likely or not as easy for you to Recon but you could still do it for lifters like that in a lot of cases they would make faster progress if they actually did a real gaining phase eating above their maintenance and then same thing if they wanted to lose body fat eating in a deficit however for beginner lifters especially those that would classify themselves as skinny fat I would stay around maintenance for the first year or two like I said at the start you're more likely to be able to recomposition in comparison to other more experienced lifters so take advantage of it

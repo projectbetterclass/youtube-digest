@@ -1,0 +1,5 @@
+# GROW THOSE PECS
+
+<https://www.youtube.com/shorts/WnlZsa4m7oo>
+
+want to be able to hit your lower chest but don't have this machine and it's too much of a hassle to set up a good lower chest cable press well that was exactly the case at this gym i lifted at so i may do by setting the seat up as high as possible and then scooting my butt forward and leaning back i was able to target the lower chest pretty nicely notice how i'm allowing my elbows to bend as i'm coming back to take some of the load off the biceps then as i come forward i'm fully extending my arms and driving them into the side of my chest and here's a side view so you can see exactly what i'm doing pay attention to the angle of my upper arm in relation to my chest the costal lower chest fibers run a bit more vertically in comparison to the sternal the mid pec and the clavicular head which is the upper chest when setting this up have the upper arms pointed towards the bottom of your chest when you're in the fully contracted position

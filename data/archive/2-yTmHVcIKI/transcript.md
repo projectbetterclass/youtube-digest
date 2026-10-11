@@ -1,0 +1,5 @@
+# February 22, 2024
+
+<https://www.youtube.com/shorts/2-yTmHVcIKI>
+
+the reason you get no results at the gym is because you use machines like this these are ineffective they do nothing go use dumbbells or do compound lifts that's how you gain real muscle and and get way more fit these things it's pathetic don't do it all right how come nobody told me that when you use machines the growth that you see from that is fake muscle I've been wanting to gain real muscle this entire time this is very unfortunate oh thankfully we have data on this and the data shows that there is not going to be a significant difference between using free weighs and Mach gen that was a 2023 study that lined up well with this meta analysis that essentially said the same thing the main thing that you should be concerned about when picking between either is if you're trying to get strong with free weights then you should train with free weights if you want to get stronger at machines then you should train with machines that is simply due to training specificity and getting better at coordinating those exercises I'll post this video after this

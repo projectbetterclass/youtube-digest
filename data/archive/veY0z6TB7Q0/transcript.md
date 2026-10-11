@@ -1,0 +1,5 @@
+# CHEST AND BACK WORKOUT
+
+<https://www.youtube.com/shorts/veY0z6TB7Q0>
+
+hit a chest back bicep day with my longtime buddy Dwayne fun fact he helped teach me how to pose for my first show another fun fact he also designed the hoodie and t-shirt that I'm wearing so if you're ever in Richmond check out the spot his shop we started off the session with five to seven reps of the seated flat Hammer press then we hit eight to ten reps of this bilateral clavicular cable press for the upper chest excellent movement if you're looking for something a bit better to replace your flies with this workout has more of an upper back focus so we did five to seven reps of the t-bar row with the angled neutral grip that way we're involving a bit more rear delt in this pull if you wanted more traps and rhomboids then you could always use the pronated grip at the top to finish off back we did these seated pull Downs shout out gym pin for the attachment in angled 90s for the grip six to eight reps of those then it was time to move on to biceps where we did the seated no cheek curls again doing anywhere from six to eight reps if you try this out let me know how it goes

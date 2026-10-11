@@ -1,0 +1,5 @@
+# GOBLET SQUATS ARE MID 🥴
+
+<https://www.youtube.com/shorts/Yf9vXtKpuHU>
+
+i still have not found any good reason aside from perhaps a teaching tool to use goblet squats in your program a goblet squat has similar limitations to a front squat but worse not only are you going to be greatly limited with the weight that you can load due to your serratus anterior your upper back but you're also going to be limited now due to your arms so it's even worse than a front squat in that regard so instead of picking a movement where you're more likely to fail due to holding the weight in that position use movements that you're going to be able to load much heavier that have better bracing and here's a few examples of that something like a barbell back squat would even be a better option than a front squat or a goblet squat i can't think of too many reasons that i would program a goblet squat for hypertrophy as there's just so many better exercises out there movements where you'll be able to take the legs to a close proximity to failure versus failing due to holding the weight in that position make sure to like and follow for more

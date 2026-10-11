@@ -1,0 +1,5 @@
+# FLYS VS PRESSING
+
+<https://www.youtube.com/shorts/0vOMIYrCQ-E>
+
+Some of you may have noticed that I don't post about flies as frequently as I did before. This is because I've been phasing flies out of my programming and my clients' programming for quite some time. The scenarios in which I'd use a fly now or if somebody had elbow issues or if they just really enjoy the movement, which is why I do them sometimes. When you have the arms very abducted like in a pec deck fly, the coracobrachialis is going to have better leverage for that motion. When you bring the arms tighter into the body, the pecs will have better leverage and you'll be able to train the chest through a larger range of motion. So, you don't even necessarily get a better stretch when doing a fly versus a pressing movement, which is the argument that a lot of people have. Hopefully, you've caught on by now, but I've been showing fly variants that I've used in the past and the pressing movements that I've now replaced them with. Drop any questions in the comments and make sure to like and follow for more.

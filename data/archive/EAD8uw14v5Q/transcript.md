@@ -1,0 +1,5 @@
+# HOW NOT TO SPEAK TO PEOPLE
+
+<https://www.youtube.com/shorts/EAD8uw14v5Q>
+
+I be in that [ __ ] phone am I going to be in the [ __ ] background and break your [ __ ] phone what the [ __ ] is your issue bro I don't like in the [ __ ] background you're not going to be in the background [ __ ] off you [ __ ] look I can totally understand not wanting to be filmed in the gym wherever you are but there are much much nicer ways to go about asking someone to stop filming you unless your gym has a strict policy about not filming it's very normal for people to want to record their sets in this day and age whether it's for social media or perhaps for their coach whoever it's something I recommend a lot of people do if they even just want to be able to review their form and watch it back later and if you're socially inept here's here's a good example of how you could go about doing that hey I noticed the recording and I really don't want to be in the background of your video would you mind not filming me and then typically the response when you ask nicely or even just don't be an [ __ ] in general would be yeah of course I'll move the camera

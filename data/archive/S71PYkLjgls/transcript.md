@@ -1,0 +1,5 @@
+# November 2, 2024
+
+<https://www.youtube.com/shorts/S71PYkLjgls>
+
+Let's talk gym etiquette real quick because clearly somebody missed a class or two. Leaving your water bottle, your lifting straps, your belt, etc. on a machine or bench is an easy way to let people know that you're still using that. Perhaps you need to run to the little boys or girls room or get a drink of water. If you know somebody is still using a bench or machine and their stuff is on it, don't touch their stuff. That's their stuff. He even went on in the comments to say that this wasn't staged. Those were people's water bottles that he was just taking off the benches which I don't really understand considering there's other open benches. Now, I've been in situations where somebody was hogging a bench or machine, they're doing some circuit or talking to a friend way across the gym, and all I do is I go and talk to them like a person and ask if I can work in. Or I just ask if they're actually still using that bench machine because sometimes people forget. They're human. Nine out of 10 times they will let you work in or just say you could have it.

@@ -1,0 +1,5 @@
+# Thigh Clapper 3000 Hack
+
+<https://www.youtube.com/shorts/hUMykTMxzoU>
+
+nice little sweep on your inner thigh and get that thickness on your leg as a whole versus having just that straight up and down looking leg that a lot of people have because they've never used that machine so the machine in question being the thigh Clapper 3000 here and I'm going to show you how to get a little bit more out of this machine every time that you use it this is how most people will go to set up this machine just doing it seated and then spreading apart the pads as far as they can however doing it that way you're typically going to lose a little bit of range of motion in that length and position there this is why I like to set up standing setting up the pads a little bit outside of my normal range of motion that way I can get my full ROM as I move through the length and position you can see the difference in this picture here try it out and you'll get a much better stretch on your adductors if you were limited in your range of motion before hope that helps and as always make sure to like and follow for more efficient training tips
