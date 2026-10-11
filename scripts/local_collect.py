@@ -10,6 +10,10 @@ write data/ at the same time. Log: %LOCALAPPDATA%\\ytdigest\\local_collect.log
 
     python scripts/local_collect.py                          # the PRIORITY channels below
     python scripts/local_collect.py --channel "Ben Yanes"    # or name channels explicitly
+    python scripts/local_collect.py --channel "Ben Yanes" --shorts   # also their Shorts (`shorts: N`)
+
+Shorts are only collected with --shorts: a plain run never lists a channel's Shorts tab, so a
+routine catch-up can't turn into hundreds of Shorts on the metered proxy.
 """
 from __future__ import annotations
 
@@ -83,18 +87,26 @@ def push(names: list[str], n: int) -> None:
     git("push", "-q", "origin", "main")
 
 
+# fetch_transcript reasons that won't change on a retry: the video has no usable captions.
+PERMANENT_MISSES = ("TranscriptsDisabled", "NoTranscriptFound", "VideoUnavailable", "VideoUnplayable",
+                    "AgeRestricted", "InvalidVideoId", "empty transcript")
+
+
 def failed_this_run(state: dict, names: set[str], since: str) -> list[str]:
-    """Videos from these channels recorded without a transcript during this run.
+    """Videos from these channels recorded without a transcript during this run, worth a retry.
 
     Through the rotating proxy these are mostly a 429 on one exit IP (YouTube's "sorry"
-    page) rather than a video with no captions, so they are worth one retry.
+    page) rather than a video with no captions, so they get one retry. A miss whose recorded
+    reason says the video simply has no captions (common for music-only Shorts) is skipped:
+    fetching it again would only spend proxy data.
     """
     return [vid for vid, r in state.get("processed", {}).items()
             if r.get("channel") in names and not r.get("transcript_available")
-            and (r.get("processed_at") or "") >= since]
+            and (r.get("processed_at") or "") >= since
+            and not (r.get("transcript_miss") or "").startswith(PERMANENT_MISSES)]
 
 
-def collect(names: list[str], max_total: int) -> int:
+def collect(names: list[str], max_total: int, shorts: bool = False) -> int:
     settings, channels = C.load_config()
     chans = select_channels(channels, names)
     batch = dataclasses.replace(settings, backfill_budget_per_run=BATCH)
@@ -104,7 +116,7 @@ def collect(names: list[str], max_total: int) -> int:
     while total < max_total:
         LOCK.touch()  # keep the lock fresh through a long run
         state, library = load_state(C.STATE_PATH), load_library(C.LIBRARY_PATH)
-        n = run_backfill(batch, chans, state, library, cache=cache)
+        n = run_backfill(batch, chans, state, library, cache=cache, include_shorts=shorts)
         if n:
             _save(state, library)
         total += n
@@ -121,7 +133,7 @@ def collect(names: list[str], max_total: int) -> int:
         for vid in retry:
             del state["processed"][vid]
         n = run_backfill(dataclasses.replace(settings, backfill_budget_per_run=len(retry)),
-                         chans, state, library, cache=cache)
+                         chans, state, library, cache=cache, include_shorts=shorts)
         _save(state, library)
         still = len(failed_this_run(state, {c.name for c in chans}, since))
         log.info("retried %d without a transcript: %d re-imported, %d still without", len(retry), n, still)
@@ -134,6 +146,8 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--channel", action="append", help="watchlist channel name (repeatable; default: PRIORITY)")
     ap.add_argument("--max", type=int, default=2000, help="safety cap on transcripts pulled in one run")
+    ap.add_argument("--shorts", action="store_true",
+                    help="also collect the channels' Shorts (those with `shorts: N` in the watchlist)")
     args = ap.parse_args()
     args.channel = args.channel or PRIORITY
 
@@ -153,7 +167,7 @@ def main() -> int:
             log.info("cloud digest is committing again — local collector standing down")
             return 0
         git("pull", "-q", "--rebase", "--autostash", "origin", "main")
-        n = collect(args.channel, args.max)
+        n = collect(args.channel, args.max, shorts=args.shorts)
         log.info("done: %d new transcript(s)%s", n, ", pushed" if n else "")
         return 0
     except Exception:  # noqa: BLE001 — log it; the next scheduled run retries

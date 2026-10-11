@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 import time
 
 import requests
@@ -40,11 +41,11 @@ def _opts(**extra) -> dict:
     return o
 
 
-def enumerate_channel(channel_id: str, limit: int) -> list[tuple[str, str]]:
-    """Up to `limit` most-recent (video_id, title) for a channel, newest first."""
+def enumerate_channel(channel_id: str, limit: int, tab: str = "videos") -> list[tuple[str, str]]:
+    """Up to `limit` most-recent (video_id, title) on a channel tab ("videos" or "shorts"), newest first."""
     import yt_dlp
 
-    url = f"https://www.youtube.com/channel/{channel_id}/videos"
+    url = f"https://www.youtube.com/channel/{channel_id}/{tab}"
     with yt_dlp.YoutubeDL(_opts(extract_flat=True, playlistend=limit)) as ydl:
         info = ydl.extract_info(url, download=False)
     return [(e["id"], e.get("title") or "") for e in (info.get("entries") or []) if e.get("id")]
@@ -87,9 +88,36 @@ def _candidates_for(channel: Channel) -> list[tuple[str, str]]:
     return enumerate_channel(channel.channel_id, channel.backfill)
 
 
+def _short_candidates(channel: Channel) -> list[tuple[str, str]]:
+    """(video_id, title) of the channel's most-recent Shorts, up to `channel.shorts` (0 = none)."""
+    if channel.shorts <= 0:
+        return []
+    return enumerate_channel(channel.channel_id, channel.shorts, tab="shorts")
+
+
+_MUSIC = re.compile(r"\[\s*music\s*\]", re.I)
+
+
+def _music_only_captions(text: str) -> bool:
+    """True when a Short's captions are [music] markers with next to no words.
+
+    Many training Shorts are a song plus text on screen: their captions are then just
+    "[Music]", and the creator's actual tips are only in the picture. Rule: at least one
+    marker and at most ~5 other words per marker. Calibrated on the library's Shorts: the
+    one music-only Short sits at ~1.7 words per marker, while spoken Shorts with music under
+    them sit at 15-31, so they aren't flagged. Captions that write out a song's words (with or
+    without markers) can't be told apart from speech this way and are not flagged.
+    """
+    markers = len(_MUSIC.findall(text))
+    if markers < 1:
+        return False
+    words = re.findall(r"[A-Za-z][A-Za-z']*", _MUSIC.sub(" ", text))
+    return len(words) <= 5 * markers
+
+
 def import_video(video: Video, settings: Settings, session=None, fetch_materials: bool = False) -> Brief:
     """Archive a video's transcript (and optionally its linked slides). Raises TranscriptBlocked."""
-    text, ok, blocked, _ = fetch_transcript(video.video_id, settings.transcript_languages)
+    text, ok, blocked, reason = fetch_transcript(video.video_id, settings.transcript_languages)
     if blocked:
         raise TranscriptBlocked(video.video_id)
 
@@ -103,10 +131,14 @@ def import_video(video: Video, settings: Settings, session=None, fetch_materials
         except Exception as exc:  # noqa: BLE001 — materials are best-effort
             log.warning("Backfill materials failed for %s: %s", video.video_id, exc)
 
+    music = bool(video.short and ok and text and _music_only_captions(text))
     vdir = C.ARCHIVE_DIR / video.video_id
     (vdir / "materials").mkdir(parents=True, exist_ok=True)
     with open(vdir / "transcript.md", "w", encoding="utf-8") as fh:
         fh.write(f"# {video.title}\n\n<{video.url}>\n\n")
+        if music:  # an italic note line: readers that skip placeholder notes skip it too
+            fh.write("_A Short whose captions are mostly music: its content is probably shown "
+                     "as text on screen, not spoken._\n\n")
         fh.write(text if (ok and text) else "_No transcript/captions were available for this video._")
         fh.write("\n")
     for i, m in enumerate(materials, start=1):
@@ -124,18 +156,26 @@ def import_video(video: Video, settings: Settings, session=None, fetch_materials
         listed_links=listed,
         downloaded_materials=materials,
         archive_dir=f"data/archive/{video.video_id}",
+        music_captions=music,
+        transcript_miss="" if ok else (reason or "no transcript"),
     )
 
 
 def run_backfill(
     settings: Settings, channels: list[Channel], state: dict, library: dict,
-    cache: dict | None = None,
+    cache: dict | None = None, include_shorts: bool = False,
 ) -> int:
     """Drip up to backfill_budget_per_run past videos into the library. Returns the count.
 
     `cache` (channel_id -> candidates) lets a caller that runs several batches in a row
     enumerate each channel once instead of once per batch — enumeration goes through the
     metered proxy, and a whole-channel listing is many pages.
+
+    Shorts are opt-in per run: with `include_shorts`, a channel with `shorts: N` also gets
+    its N most-recent Shorts, after its videos. Routine runs (the cloud drip, a plain
+    "collect my priority channels") leave it off, so a channel's Shorts tab is only listed and
+    fetched when someone asks for it. The Videos and Shorts listings are separate: either can
+    fail without losing the other.
     """
     budget = settings.backfill_budget_per_run
     if budget <= 0:
@@ -146,20 +186,38 @@ def run_backfill(
     for channel in channels:
         if imported >= budget:
             break
-        if channel.backfill <= 0:
+        wants_shorts = include_shorts and channel.shorts > 0
+        if channel.backfill <= 0 and not wants_shorts:
             continue
-        try:
-            if cache is not None and channel.channel_id in cache:
-                candidates = cache[channel.channel_id]
-            else:
-                candidates = _candidates_for(channel)
+        candidates: list[tuple[str, str, bool]] = []
+        if channel.backfill > 0:
+            try:
+                if cache is not None and channel.channel_id in cache:
+                    videos = cache[channel.channel_id]
+                else:
+                    videos = _candidates_for(channel)
+                    if cache is not None:
+                        cache[channel.channel_id] = videos
+                candidates += [(v, t, False) for v, t in videos]
+            except Exception as exc:  # noqa: BLE001 — one bad channel shouldn't stop the drip
+                log.warning("Backfill enumerate failed for %s: %s", channel.name, exc)
+        if wants_shorts:
+            key = f"{channel.channel_id}#shorts"
+            try:
+                if cache is not None and key in cache:
+                    shorts = cache[key]
+                else:
+                    shorts = _short_candidates(channel)
+                    if cache is not None:
+                        cache[key] = shorts
+            except Exception as exc:  # noqa: BLE001 — e.g. "does not have a shorts tab"
+                log.warning("Backfill Shorts listing failed for %s: %s", channel.name, exc)
+                shorts = []
                 if cache is not None:
-                    cache[channel.channel_id] = candidates
-        except Exception as exc:  # noqa: BLE001 — one bad channel shouldn't stop the drip
-            log.warning("Backfill enumerate failed for %s: %s", channel.name, exc)
-            continue
+                    cache[key] = shorts  # don't re-list a missing tab on every batch
+            candidates += [(v, t, True) for v, t in shorts]
 
-        for vid, title in candidates:
+        for vid, title, short in candidates:
             if imported >= budget:
                 break
             if is_processed(state, vid):
@@ -167,7 +225,9 @@ def run_backfill(
             video = Video(
                 video_id=vid, title=title, channel_name=channel.name,
                 channel_id=channel.channel_id,
-                url=f"https://www.youtube.com/watch?v={vid}", published=None, description="",
+                url=(f"https://www.youtube.com/shorts/{vid}" if short
+                     else f"https://www.youtube.com/watch?v={vid}"),
+                published=None, description="", short=short,
             )
             time.sleep(settings.transcript_delay_seconds)  # throttle
             try:
@@ -179,7 +239,9 @@ def run_backfill(
                 log.warning("Backfill failed for %s (%s): %s", title, vid, exc)
                 continue
             add_brief(library, brief)
-            mark_processed(state, video, had_materials=brief.had_materials, transcript_available=brief.transcript_available)
+            mark_processed(state, video, had_materials=brief.had_materials,
+                           transcript_available=brief.transcript_available,
+                           transcript_miss=brief.transcript_miss)
             imported += 1
 
     return imported

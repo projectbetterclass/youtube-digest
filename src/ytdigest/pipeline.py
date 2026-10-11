@@ -12,7 +12,7 @@ import requests
 from anthropic import Anthropic
 
 from . import config as C
-from .backfill import run_backfill
+from .backfill import _music_only_captions, run_backfill
 from .config import Settings
 from .delivery import deliver_github_issue
 from .digest import render_digest, write_digest
@@ -28,13 +28,17 @@ from .transcript import TranscriptBlocked, fetch_transcript
 log = logging.getLogger(__name__)
 
 
-def _write_archive(video: Video, transcript_text: str, transcript_ok: bool, materials: list[Material]) -> str:
+def _write_archive(video: Video, transcript_text: str, transcript_ok: bool, materials: list[Material],
+                   music: bool = False) -> str:
     """Persist transcript + extracted material text under data/archive/<video_id>/."""
     vdir = C.ARCHIVE_DIR / video.video_id
     (vdir / "materials").mkdir(parents=True, exist_ok=True)
 
     with open(vdir / "transcript.md", "w", encoding="utf-8") as fh:
         fh.write(f"# {video.title}\n\n<{video.url}>\n\n")
+        if music:  # same italic note as the back-catalog importer writes
+            fh.write("_A Short whose captions are mostly music: its content is probably shown "
+                     "as text on screen, not spoken._\n\n")
         if transcript_ok and transcript_text:
             fh.write(transcript_text)
         else:
@@ -65,7 +69,8 @@ def process_video(
     materials = gather_materials(links, settings, session=session)
 
     data = summarize(video, transcript_text, transcript_ok, materials, links, settings, client=client)
-    archive_dir = _write_archive(video, transcript_text, transcript_ok, materials)
+    music = bool(video.short and transcript_ok and transcript_text and _music_only_captions(transcript_text))
+    archive_dir = _write_archive(video, transcript_text, transcript_ok, materials, music=music)
 
     return Brief(
         video=video,
@@ -79,6 +84,7 @@ def process_video(
         listed_links=[ln for ln in links if ln.kind == "list"],
         downloaded_materials=materials,
         archive_dir=archive_dir,
+        music_captions=music,
     )
 
 

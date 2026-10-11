@@ -83,6 +83,7 @@ def parse_feed(xml_bytes: bytes, channel: Channel) -> list[Video]:
                 url=url,
                 published=published,
                 description=description,
+                short="/shorts/" in (url or ""),
             )
         )
     return videos
