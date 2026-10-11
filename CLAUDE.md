@@ -78,7 +78,13 @@ straight-line extrapolation; ignore it.)
   the screen reader if one is running (both commit `data/` in the same working copy).
 - **Training channels (user, 2026-10-11): Sean Nalewanyj, TheQuadfatherBW, JPG Coaching** added
   (whole channel). Ben Yanes (already complete) is the fourth training channel. Done so far:
-  TheQuadfatherBW 6 videos, JPG Coaching 25. **After the 24 Oct proxy reset:** Sean Nalewanyj's
+  TheQuadfatherBW 6 videos, JPG Coaching 25, **Sean Nalewanyj 240 of ~397** (2026-10-11 evening,
+  when the proxy data ran out; the user will buy a top-up, then continue). Left: Sean's ~157 videos
+  + Shorts below. Collect with a guard: when the proxy runs out every fetch fails with ProxyError
+  and local_collect would record each remaining video as "no transcript" (skipped for good); stop
+  at the first `No transcript for ... (ProxyError` line, then delete state/library/archive entries
+  whose `transcript_miss` mentions ProxyError, and transcript folders not in library.json.
+  Originally planned for after the 24 Oct reset: Sean Nalewanyj's
   ~397 videos (`local_collect.py --channel "Sean Nalewanyj"`) and **their YouTube Shorts**:
   Ben Yanes ~684, Sean ~289, TheQuadfatherBW ~67, JPG Coaching ~306 (~1,346, ~550 MB). Shorts
   support is merged (PR #63, 2026-10-11): per-channel `shorts: N` in the watchlist, collected only
