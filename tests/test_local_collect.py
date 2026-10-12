@@ -56,3 +56,95 @@ def test_retry_pass_skips_videos_that_simply_have_no_captions():
     }}
     got = local_collect.failed_this_run(state, {"A"}, "2026-10-24T09:00:00+00:00")
     assert sorted(got) == ["blk", "old"]  # a block (or an unknown reason) is retried; captions-off isn't
+
+
+def test_playlist_id_from_a_link_or_a_bare_id():
+    pid = "PLqnSdW-e2Bah9Lh0MBn7JjW5kswNUDcZd"
+    assert local_collect.playlist_id(pid) == pid
+    assert local_collect.playlist_id(f"https://www.youtube.com/playlist?list={pid}") == pid
+    assert local_collect.playlist_id(f"https://youtube.com/watch?v=abc&list={pid}&index=3") == pid
+    with pytest.raises(SystemExit):
+        local_collect.playlist_id("https://www.youtube.com/watch?v=abc")
+
+
+def _sandbox(tmp_path, monkeypatch):
+    """Point the collector at an empty data/ and record pushes instead of running git."""
+    from ytdigest import backfill
+    from ytdigest.config import Settings
+
+    C = local_collect.C
+    monkeypatch.setattr(C, "DATA_DIR", tmp_path)
+    monkeypatch.setattr(C, "ARCHIVE_DIR", tmp_path / "archive")
+    monkeypatch.setattr(C, "STATE_PATH", tmp_path / "state.json")
+    monkeypatch.setattr(C, "LIBRARY_PATH", tmp_path / "library.json")
+    monkeypatch.setattr(C, "INDEX_PATH", tmp_path / "archive" / "INDEX.md")
+    monkeypatch.setattr(C, "load_config", lambda: (Settings(transcript_delay_seconds=0), []))
+    (tmp_path / "archive").mkdir()
+    lock = tmp_path / "lock"
+    lock.touch()
+    monkeypatch.setattr(local_collect, "LOCK", lock)
+    pushes = []
+    monkeypatch.setattr(local_collect, "push", lambda label, n: pushes.append((label, n)))
+    return backfill, pushes
+
+
+def test_collect_playlist_pulls_in_order_retries_misses_and_keeps_the_order(tmp_path, monkeypatch):
+    import json
+
+    from ytdigest.state import load_state, save_state
+
+    backfill, pushes = _sandbox(tmp_path, monkeypatch)
+    listing = {"id": "PLx", "title": "Buddhism made simple", "channel": "Owner", "channel_id": "UCo",
+               "videos": [{"id": v, "title": f"t{v}", "channel": ch, "channel_id": "UC" + ch, "duration": 300}
+                          for v, ch in (("a", "Owner"), ("b", "Owner"), ("c", "Guest"), ("off", "Owner"))]}
+    monkeypatch.setattr(local_collect, "playlist_listing", lambda pid: listing)
+    # From an earlier run: c missed because the proxy ran out, "off" has no captions at all.
+    save_state(local_collect.C.STATE_PATH, {"processed": {
+        "c": {"channel": "Guest", "transcript_available": False, "processed_at": "2026-10-01T00:00:00+00:00",
+              "transcript_miss": "ProxyError: out of data"},
+        "off": {"channel": "Owner", "transcript_available": False, "processed_at": "2026-10-01T00:00:00+00:00",
+                "transcript_miss": "TranscriptsDisabled: subtitles are disabled"},
+    }})
+    calls = []
+
+    def fake_fetch(vid, langs):
+        calls.append(vid)
+        if vid == "b" and calls.count("b") == 1:  # a 429 on one exit IP: works on the retry
+            return "", False, False, "RequestBlocked: too many requests"
+        return f"words of {vid}", True, False, ""
+
+    monkeypatch.setattr(backfill, "fetch_transcript", fake_fetch)
+    assert local_collect.collect_playlist("PLx", 2000) == 3
+    assert calls == ["a", "b", "c", "b"]  # in order, then the one retry; "off" is never re-fetched
+    state = load_state(local_collect.C.STATE_PATH)
+    assert all(state["processed"][v]["transcript_available"] for v in "abc")
+    assert pushes == [("playlist: Buddhism made simple", 3)]
+    saved = json.loads((tmp_path / "playlists" / "PLx.json").read_text(encoding="utf-8"))
+    assert [v["id"] for v in saved["videos"]] == ["a", "b", "c", "off"]
+    assert "words of c" in (tmp_path / "archive" / "c" / "transcript.md").read_text(encoding="utf-8")
+
+    # Run again: nothing new, nothing missing, the listing unchanged, so nothing to push.
+    calls.clear()
+    assert local_collect.collect_playlist("PLx", 2000) == 0
+    assert calls == [] and len(pushes) == 1
+
+
+def test_collect_still_retries_this_runs_misses_after_the_refactor(tmp_path, monkeypatch):
+    from ytdigest.config import Channel, Settings
+
+    backfill, pushes = _sandbox(tmp_path, monkeypatch)
+    chans = [Channel(name="A", channel_id="UCa", backfill=5)]
+    monkeypatch.setattr(local_collect.C, "load_config", lambda: (Settings(transcript_delay_seconds=0), chans))
+    monkeypatch.setattr(backfill, "_candidates_for", lambda ch: [("x", "tx"), ("y", "ty")])
+    calls = []
+
+    def fake_fetch(vid, langs):
+        calls.append(vid)
+        if vid == "y" and calls.count("y") == 1:
+            return "", False, False, "RequestBlocked: too many requests"
+        return "hi", True, False, ""
+
+    monkeypatch.setattr(backfill, "fetch_transcript", fake_fetch)
+    assert local_collect.collect(["A"], 2000) == 2
+    assert calls == ["x", "y", "y"]
+    assert pushes == [("A", 2)]

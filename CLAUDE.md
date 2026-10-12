@@ -99,6 +99,13 @@ straight-line extrapolation; ignore it.)
   2026-09-22 (user chose not to catch them up).
 - **Aswath's interviews on other channels** (173 transcripts + a CSV of 302 appearances)
   live in the separate Valuation Agent repo, not here.
+- **Playlists the user names** (since 2026-10-12): `local_collect.py --playlist <id or link>`
+  pulls one playlist's videos in playlist order, from whatever channel (nothing is added to
+  the watchlist), and keeps the order in `data/playlists/<id>.json` (title, channel, and each
+  video's id, title, channel, length). Re-running it fetches only new videos and earlier misses.
+  ~0.4 MB of proxy per video. First one: the **Buddha playlist** `PLqnSdW-e2Bah9Lh0MBn7JjW5kswNUDcZd`
+  (the Buddha's teaching in plain words), for the Buddha goal in the user's time-tracker
+  app (the Assistant repo); the user has listened to it once already.
 
 ### Phase 2 — on-screen visual capture (runs on the self-hosted runner)
 What it does:
