@@ -127,5 +127,6 @@ channels:
     visual: false            # audio only (screen check 2026-10-11; music-only Shorts carry text on screen, see CLAUDE.md)
   - name: "Invest with Henry"
     channel_id: UC2Zg12phLyX1KTnH6D47d9g
-    backfill: 1000           # whole channel (size not checked from the cloud; ~37M views) — user named it 2026-10-14 (options trading)
+    backfill: 1000           # whole channel (883 videos on 2026-10-14) — user named it 2026-10-14 (options trading)
+    shorts: 120              # all Shorts (89 on 2026-10-14) — user asked for the entire channel
     visual: false            # screen check pending: option chains and P/L diagrams may be worth reading later
