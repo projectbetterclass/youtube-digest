@@ -272,7 +272,8 @@ def test_run_playlist_imports_in_order_skipping_done_ones(monkeypatch):
 
     seen = []
 
-    def fake_import(video, settings, session=None, fetch_materials=False):
+    def fake_import(video, settings, session=None, fetch_materials=False, any_language=False):
+        assert any_language  # a playlist takes captions in any language
         seen.append(video.video_id)
         return Brief(video=video, transcript_available=True, key_points=[], takeaway="",
                      verdict="", verdict_reason="")
@@ -293,7 +294,7 @@ def test_run_playlist_stops_at_an_ip_block(monkeypatch):
     from ytdigest.config import Settings
     from ytdigest.transcript import TranscriptBlocked
 
-    def fake_import(video, settings, session=None, fetch_materials=False):
+    def fake_import(video, settings, session=None, fetch_materials=False, any_language=False):
         if video.video_id == "b":
             raise TranscriptBlocked(video.video_id)
         return Brief(video=video, transcript_available=True, key_points=[], takeaway="",
@@ -303,3 +304,21 @@ def test_run_playlist_stops_at_an_ip_block(monkeypatch):
     state = {}
     n = backfill.run_playlist(Settings(transcript_delay_seconds=0), _playlist("a", "b", "c"), state, {}, 10)
     assert n == 1 and list(state["processed"]) == ["a"]  # b and c wait for a re-run
+
+
+def test_import_video_any_language_keeps_own_captions_under_a_note(tmp_path, monkeypatch):
+    from ytdigest import backfill
+    from ytdigest import config as C
+    from ytdigest.config import Settings
+
+    monkeypatch.setattr(C, "ARCHIVE_DIR", tmp_path)
+    monkeypatch.setattr(backfill, "fetch_transcript_any_language", lambda vid, langs: (
+        ("de vier edele waarheden", True, False, "", "Dutch (auto-generated)") if vid == "nl"
+        else ("the four noble truths", True, False, "", "")))
+    v = lambda vid: Video(video_id=vid, title="T", channel_name="A", channel_id="UCa", url="u")
+    for vid in ("nl", "en"):
+        backfill.import_video(v(vid), Settings(transcript_languages=["en"]), any_language=True)
+    nl = (tmp_path / "nl" / "transcript.md").read_text(encoding="utf-8")
+    assert "_The captions are in Dutch (auto-generated): this video has none in en._" in nl
+    assert nl.rstrip().endswith("de vier edele waarheden")
+    assert "captions are in" not in (tmp_path / "en" / "transcript.md").read_text(encoding="utf-8")

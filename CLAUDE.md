@@ -103,6 +103,10 @@ straight-line extrapolation; ignore it.)
   pulls one playlist's videos in playlist order, from whatever channel (nothing is added to
   the watchlist), and keeps the order in `data/playlists/<id>.json` (title, channel, and each
   video's id, title, channel, length). Re-running it fetches only new videos and earlier misses.
+  A playlist takes captions in **any language**: a video with none in `transcript_languages`
+  keeps its own-language captions (hand-made before auto-generated), under an italic note in
+  `transcript.md` naming the language. Channel runs and the cloud digest stay English-only.
+  (The Buddha playlist's first run, 2026-10-14, found no English captions; this fixed it.)
   ~0.4 MB of proxy per video. First one: the **Buddha playlist** `PLqnSdW-e2Bah9Lh0MBn7JjW5kswNUDcZd`
   (the Buddha's teaching in plain words), for the Buddha goal in the user's time-tracker
   app (the Assistant repo); the user has listened to it once already.

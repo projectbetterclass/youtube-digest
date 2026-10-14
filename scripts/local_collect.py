@@ -98,22 +98,27 @@ def push(label: str, n: int) -> None:
 # fetch_transcript reasons that won't change on a retry: the video has no usable captions.
 PERMANENT_MISSES = ("TranscriptsDisabled", "NoTranscriptFound", "VideoUnavailable", "VideoUnplayable",
                     "AgeRestricted", "InvalidVideoId", "empty transcript")
+# A playlist run takes captions in any language, so "none in the configured languages"
+# (NoTranscriptFound) is worth fetching again there.
+PLAYLIST_PERMANENT = tuple(m for m in PERMANENT_MISSES if m != "NoTranscriptFound")
 
 
-def failed_this_run(state: dict, names: set[str], since: str, ids: set[str] | None = None) -> list[str]:
+def failed_this_run(state: dict, names: set[str], since: str, ids: set[str] | None = None,
+                    permanent: tuple[str, ...] = PERMANENT_MISSES) -> list[str]:
     """Videos from these channels recorded without a transcript during this run, worth a retry.
 
     Through the rotating proxy these are mostly a 429 on one exit IP (YouTube's "sorry"
     page) rather than a video with no captions, so they get one retry. A miss whose recorded
     reason says the video simply has no captions (common for music-only Shorts) is skipped:
     fetching it again would only spend proxy data. `ids` narrows it to those videos (a
-    playlist run); `since=""` means any run, not just this one.
+    playlist run); `since=""` means any run, not just this one; `permanent` lists the miss
+    reasons not worth a retry.
     """
     return [vid for vid, r in state.get("processed", {}).items()
             if r.get("channel") in names and not r.get("transcript_available")
             and (ids is None or vid in ids)
             and (r.get("processed_at") or "") >= since
-            and not (r.get("transcript_miss") or "").startswith(PERMANENT_MISSES)]
+            and not (r.get("transcript_miss") or "").startswith(permanent)]
 
 
 def _drain(label: str, run, misses, max_total: int, changed: bool = False) -> int:
@@ -193,10 +198,11 @@ def collect_playlist(pid: str, max_total: int) -> int:
     changed = save_playlist(playlist)
     ids = {v["id"] for v in playlist["videos"]}
     names = {v["channel"] for v in playlist["videos"]}
-    # A re-run finishes the playlist: misses from an earlier run (say the proxy ran out) are
-    # fetched again. Videos that simply have no captions are left alone.
+    # A re-run finishes the playlist: misses from an earlier run (say the proxy ran out, or an
+    # older collector that only took English captions) are fetched again. Videos with no
+    # captions at all are left alone.
     state = load_state(C.STATE_PATH)
-    stale = failed_this_run(state, names, "", ids)
+    stale = failed_this_run(state, names, "", ids, PLAYLIST_PERMANENT)
     if stale:
         for vid in stale:
             del state["processed"][vid]
@@ -207,7 +213,8 @@ def collect_playlist(pid: str, max_total: int) -> int:
         return run_playlist(settings, playlist, state, library, budget)
 
     return _drain(f"playlist: {playlist['title'] or pid}", run,
-                  lambda state, since: failed_this_run(state, names, since, ids), max_total, changed)
+                  lambda state, since: failed_this_run(state, names, since, ids, PLAYLIST_PERMANENT),
+                  max_total, changed)
 
 
 def main() -> int:

@@ -78,3 +78,64 @@ def test_timeout_session_sets_a_default_timeout(monkeypatch):
     monkeypatch.setattr(requests.Session, "request", lambda self, *a, **kw: seen.update(kw))
     T._TimeoutSession().get("https://example.com")
     assert seen["timeout"] == T.REQUEST_TIMEOUT
+
+
+class NoTranscriptFound(Exception):  # name matches the library's, which _pick keys on
+    pass
+
+
+class _Track:
+    def __init__(self, code, language, generated, text):
+        self.language_code, self.language, self.is_generated, self._text = code, language, generated, text
+
+    def fetch(self):
+        return [_Snip(self._text)]
+
+
+def _listing_api(tracks, calls):
+    """A stand-in whose list() returns `tracks` (find_transcript matches by language code)."""
+
+    class Found(list):
+        def find_transcript(self, langs):
+            for t in self:
+                if t.language_code in langs:
+                    return t
+            raise NoTranscriptFound("none in " + ",".join(langs))
+
+    class FakeApi:
+        def __init__(self, proxy_config=None, http_client=None):
+            calls.append(http_client)
+
+        def list(self, video_id):
+            return Found(tracks)
+
+        def fetch(self, video_id, languages):
+            raise AssertionError("any_language lists, it doesn't fetch by language")
+
+    return FakeApi
+
+
+def test_any_language_takes_the_videos_own_captions_hand_made_first(monkeypatch):
+    calls = []
+    monkeypatch.setattr(T, "_build_proxy_config", lambda: object())
+    monkeypatch.setattr(T, "YouTubeTranscriptApi", _listing_api([
+        _Track("th", "Thai (auto-generated)", True, "auto"),
+        _Track("th", "Thai", False, "hand made"),
+    ], calls))
+    assert T.fetch_transcript_any_language("vid", ["en"]) == ("hand made", True, False, "", "Thai")
+
+
+def test_any_language_still_prefers_the_configured_language(monkeypatch):
+    monkeypatch.setattr(T, "_build_proxy_config", lambda: object())
+    monkeypatch.setattr(T, "YouTubeTranscriptApi", _listing_api([
+        _Track("th", "Thai", False, "thai"), _Track("en", "English (auto-generated)", True, "english"),
+    ], []))
+    assert T.fetch_transcript_any_language("vid", ["en"]) == ("english", True, False, "", "")
+
+
+def test_any_language_with_no_captions_is_a_miss(monkeypatch):
+    calls = []
+    monkeypatch.setattr(T, "_build_proxy_config", lambda: object())
+    monkeypatch.setattr(T, "YouTubeTranscriptApi", _listing_api([], calls))
+    text, ok, blocked, reason, lang = T.fetch_transcript_any_language("vid", ["en"])
+    assert (ok, blocked, lang) == (False, False, "") and reason.startswith("NoTranscriptFound") and len(calls) == 1
