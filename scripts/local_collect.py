@@ -11,16 +11,23 @@ write data/ at the same time. Log: %LOCALAPPDATA%\\ytdigest\\local_collect.log
     python scripts/local_collect.py                          # the PRIORITY channels below
     python scripts/local_collect.py --channel "Ben Yanes"    # or name channels explicitly
     python scripts/local_collect.py --channel "Ben Yanes" --shorts   # also their Shorts (`shorts: N`)
+    python scripts/local_collect.py --playlist PLxxxx         # one playlist the user names (id or URL)
 
 Shorts are only collected with --shorts: a plain run never lists a channel's Shorts tab, so a
 routine catch-up can't turn into hundreds of Shorts on the metered proxy.
+
+A playlist run pulls that playlist's videos in order, whatever channel they're from, and keeps
+the order in data/playlists/<id>.json (readers use it to follow the playlist as a course).
+Re-running it fetches only what's new or still missing.
 """
 from __future__ import annotations
 
 import argparse
 import dataclasses
+import json
 import logging
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -32,7 +39,8 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 
 from ytdigest import config as C  # noqa: E402 — importing config also loads .env (proxy creds)
-from ytdigest.backfill import run_backfill  # noqa: E402
+from ytdigest.backfill import playlist_listing, run_backfill, run_playlist  # noqa: E402
+from ytdigest.fsutil import atomic_write_text  # noqa: E402
 from ytdigest.library import load_library, save_library, write_index  # noqa: E402
 from ytdigest.state import load_state, save_state  # noqa: E402
 
@@ -77,12 +85,12 @@ def _save(state, library) -> None:
     write_index(C.INDEX_PATH, library)
 
 
-def push(names: list[str], n: int) -> None:
+def push(label: str, n: int) -> None:
     """Commit data/ and push, the way the cloud job does."""
     git("add", "data/")
     if not git("diff", "--cached", "--name-only"):
         return  # nothing changed — nothing to commit
-    git("commit", "-q", "-m", f"local: +{n} transcripts ({', '.join(names)})")
+    git("commit", "-q", "-m", f"local: +{n} transcripts ({label})")
     git("pull", "-q", "--rebase", "--autostash", "origin", "main")
     git("push", "-q", "origin", "main")
 
@@ -92,54 +100,114 @@ PERMANENT_MISSES = ("TranscriptsDisabled", "NoTranscriptFound", "VideoUnavailabl
                     "AgeRestricted", "InvalidVideoId", "empty transcript")
 
 
-def failed_this_run(state: dict, names: set[str], since: str) -> list[str]:
+def failed_this_run(state: dict, names: set[str], since: str, ids: set[str] | None = None) -> list[str]:
     """Videos from these channels recorded without a transcript during this run, worth a retry.
 
     Through the rotating proxy these are mostly a 429 on one exit IP (YouTube's "sorry"
     page) rather than a video with no captions, so they get one retry. A miss whose recorded
     reason says the video simply has no captions (common for music-only Shorts) is skipped:
-    fetching it again would only spend proxy data.
+    fetching it again would only spend proxy data. `ids` narrows it to those videos (a
+    playlist run); `since=""` means any run, not just this one.
     """
     return [vid for vid, r in state.get("processed", {}).items()
             if r.get("channel") in names and not r.get("transcript_available")
+            and (ids is None or vid in ids)
             and (r.get("processed_at") or "") >= since
             and not (r.get("transcript_miss") or "").startswith(PERMANENT_MISSES)]
 
 
-def collect(names: list[str], max_total: int, shorts: bool = False) -> int:
-    settings, channels = C.load_config()
-    chans = select_channels(channels, names)
-    batch = dataclasses.replace(settings, backfill_budget_per_run=BATCH)
-    cache: dict = {}  # enumerate each channel once per run, not once per batch
+def _drain(label: str, run, misses, max_total: int, changed: bool = False) -> int:
+    """Import in batches with `run(budget, state, library)` until a batch comes back short,
+    saving and pushing as it goes; then give this run's misses (`misses(state, since)`) one
+    retry. `changed` says data/ was already changed, so there is something to push."""
     since = datetime.now(timezone.utc).isoformat()
     total = pushed = 0
     while total < max_total:
         LOCK.touch()  # keep the lock fresh through a long run
         state, library = load_state(C.STATE_PATH), load_library(C.LIBRARY_PATH)
-        n = run_backfill(batch, chans, state, library, cache=cache, include_shorts=shorts)
+        n = run(BATCH, state, library)
         if n:
             _save(state, library)
         total += n
         log.info("batch +%d (total %d)", n, total)
         if total - pushed >= PUSH_EVERY:  # get progress off the PC during a long run
-            push(names, total - pushed)
+            push(label, total - pushed)
             pushed = total
         if n < BATCH:
             break
 
     state, library = load_state(C.STATE_PATH), load_library(C.LIBRARY_PATH)
-    retry = failed_this_run(state, {c.name for c in chans}, since)
+    retry = misses(state, since)
     if retry:
         for vid in retry:
             del state["processed"][vid]
-        n = run_backfill(dataclasses.replace(settings, backfill_budget_per_run=len(retry)),
-                         chans, state, library, cache=cache, include_shorts=shorts)
+        n = run(len(retry), state, library)
         _save(state, library)
-        still = len(failed_this_run(state, {c.name for c in chans}, since))
+        still = len(misses(state, since))
         log.info("retried %d without a transcript: %d re-imported, %d still without", len(retry), n, still)
-    if total > pushed or retry:  # the retry pass rewrites state even when nothing new arrived
-        push(names, total - pushed)
+    if total > pushed or retry or changed:  # the retry pass rewrites state even when nothing new arrived
+        push(label, total - pushed)
     return total
+
+
+def collect(names: list[str], max_total: int, shorts: bool = False) -> int:
+    settings, channels = C.load_config()
+    chans = select_channels(channels, names)
+    chan_names = {c.name for c in chans}
+    cache: dict = {}  # enumerate each channel once per run, not once per batch
+
+    def run(budget, state, library):
+        return run_backfill(dataclasses.replace(settings, backfill_budget_per_run=budget),
+                            chans, state, library, cache=cache, include_shorts=shorts)
+
+    return _drain(", ".join(names), run, lambda state, since: failed_this_run(state, chan_names, since),
+                  max_total)
+
+
+def playlist_id(arg: str) -> str:
+    """The playlist id from an id or any YouTube link that carries `list=`."""
+    m = re.search(r"[?&]list=([\w-]+)", arg)
+    pid = m.group(1) if m else arg.strip()
+    if not re.fullmatch(r"[\w-]{10,}", pid):
+        raise SystemExit(f"Not a playlist id or link: {arg}")
+    return pid
+
+
+def save_playlist(playlist: dict) -> bool:
+    """Write data/playlists/<id>.json (the playlist in order). True when it changed."""
+    path = C.DATA_DIR / "playlists" / f"{playlist['id']}.json"
+    text = json.dumps(playlist, ensure_ascii=False, indent=2) + "\n"
+    if path.exists() and path.read_text(encoding="utf-8") == text:
+        return False
+    path.parent.mkdir(parents=True, exist_ok=True)
+    atomic_write_text(path, text)
+    return True
+
+
+def collect_playlist(pid: str, max_total: int) -> int:
+    """Pull one playlist's transcripts in playlist order, whatever channels its videos are from."""
+    settings, _ = C.load_config()
+    playlist = playlist_listing(pid)
+    if not playlist["videos"]:
+        raise SystemExit(f"Playlist {pid} lists no videos (private, or a wrong id?)")
+    changed = save_playlist(playlist)
+    ids = {v["id"] for v in playlist["videos"]}
+    names = {v["channel"] for v in playlist["videos"]}
+    # A re-run finishes the playlist: misses from an earlier run (say the proxy ran out) are
+    # fetched again. Videos that simply have no captions are left alone.
+    state = load_state(C.STATE_PATH)
+    stale = failed_this_run(state, names, "", ids)
+    if stale:
+        for vid in stale:
+            del state["processed"][vid]
+        save_state(C.STATE_PATH, state)
+        changed = True
+
+    def run(budget, state, library):
+        return run_playlist(settings, playlist, state, library, budget)
+
+    return _drain(f"playlist: {playlist['title'] or pid}", run,
+                  lambda state, since: failed_this_run(state, names, since, ids), max_total, changed)
 
 
 def main() -> int:
@@ -148,7 +216,11 @@ def main() -> int:
     ap.add_argument("--max", type=int, default=2000, help="safety cap on transcripts pulled in one run")
     ap.add_argument("--shorts", action="store_true",
                     help="also collect the channels' Shorts (those with `shorts: N` in the watchlist)")
+    ap.add_argument("--playlist", help="collect one playlist instead (its id or link), in playlist order")
     args = ap.parse_args()
+    if args.playlist and (args.channel or args.shorts):
+        ap.error("--playlist can't be combined with --channel or --shorts")
+    pid = playlist_id(args.playlist) if args.playlist else None
     args.channel = args.channel or PRIORITY
 
     LOG_DIR.mkdir(parents=True, exist_ok=True)
@@ -167,11 +239,17 @@ def main() -> int:
             log.info("cloud digest is committing again — local collector standing down")
             return 0
         git("pull", "-q", "--rebase", "--autostash", "origin", "main")
-        n = collect(args.channel, args.max, shorts=args.shorts)
+        if pid:
+            n = collect_playlist(pid, args.max)
+            print(f"done: {n} new transcript(s) from playlist {pid}")  # run by hand: say so on screen
+        else:
+            n = collect(args.channel, args.max, shorts=args.shorts)
         log.info("done: %d new transcript(s)%s", n, ", pushed" if n else "")
         return 0
     except Exception:  # noqa: BLE001 — log it; the next scheduled run retries
         log.exception("run failed")
+        if pid:
+            print(f"run failed — see {LOG_DIR / 'local_collect.log'}")
         return 1
     finally:
         LOCK.unlink(missing_ok=True)

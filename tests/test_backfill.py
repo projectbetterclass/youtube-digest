@@ -219,3 +219,87 @@ def test_shorts_links_mark_shorts_even_from_rss_and_old_records():
     assert "Short (music; content on screen)" in rows["Erectors"]
     assert rows["Old short"].endswith("· Short |")   # a record from before the flag, by its link
     assert "Short" not in rows["Long talk"]
+
+
+# ── Playlists (one the user names; any channel, in playlist order) ─────────────────────
+
+def test_playlist_listing_keeps_order_and_each_videos_channel(monkeypatch):
+    import sys
+    import types
+
+    from ytdigest import backfill
+
+    info = {"title": "Buddhism made simple", "channel": "Owner", "channel_id": "UCown", "entries": [
+        {"id": "v1", "title": "The Four Noble Truths", "duration": 612.0},
+        {"id": "v2", "title": "[Private video]"},
+        {"id": "v3", "title": "Guest talk", "channel": "Guest", "channel_id": "UCgst", "duration": None},
+        {"id": "v4", "title": "[Deleted video]"},
+        {"title": "no id"},
+    ]}
+
+    class FakeYDL:
+        def __init__(self, opts):
+            self.opts = opts
+
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *a):
+            return False
+
+        def extract_info(self, url, download):
+            assert url.endswith("list=PLabc") and not download and self.opts["extract_flat"]
+            return info
+
+    monkeypatch.setitem(sys.modules, "yt_dlp", types.SimpleNamespace(YoutubeDL=FakeYDL))
+    got = backfill.playlist_listing("PLabc")
+    assert (got["id"], got["title"], got["channel"]) == ("PLabc", "Buddhism made simple", "Owner")
+    assert [v["id"] for v in got["videos"]] == ["v1", "v3"]  # gone slots dropped, order kept
+    assert got["videos"][0] == {"id": "v1", "title": "The Four Noble Truths", "channel": "Owner",
+                                "channel_id": "UCown", "duration": 612}
+    assert (got["videos"][1]["channel"], got["videos"][1]["duration"]) == ("Guest", None)
+
+
+def _playlist(*ids):
+    return {"id": "PLx", "title": "P", "channel": "Owner", "channel_id": "UCo",
+            "videos": [{"id": v, "title": f"t{v}", "channel": "Owner", "channel_id": "UCo",
+                        "duration": None} for v in ids]}
+
+
+def test_run_playlist_imports_in_order_skipping_done_ones(monkeypatch):
+    from ytdigest import backfill
+    from ytdigest.config import Settings
+
+    seen = []
+
+    def fake_import(video, settings, session=None, fetch_materials=False):
+        seen.append(video.video_id)
+        return Brief(video=video, transcript_available=True, key_points=[], takeaway="",
+                     verdict="", verdict_reason="")
+
+    monkeypatch.setattr(backfill, "import_video", fake_import)
+    state = {"processed": {"b": {"channel": "Owner"}}}
+    library = {}
+    settings = Settings(transcript_delay_seconds=0)
+    assert backfill.run_playlist(settings, _playlist("a", "b", "c", "d"), state, library, 2) == 2
+    assert seen == ["a", "c"]
+    rec = library["videos"]["c"]
+    assert (rec["channel"], rec["channel_id"], rec["url"]) == ("Owner", "UCo", "https://www.youtube.com/watch?v=c")
+    assert state["processed"]["c"]["channel"] == "Owner"
+
+
+def test_run_playlist_stops_at_an_ip_block(monkeypatch):
+    from ytdigest import backfill
+    from ytdigest.config import Settings
+    from ytdigest.transcript import TranscriptBlocked
+
+    def fake_import(video, settings, session=None, fetch_materials=False):
+        if video.video_id == "b":
+            raise TranscriptBlocked(video.video_id)
+        return Brief(video=video, transcript_available=True, key_points=[], takeaway="",
+                     verdict="", verdict_reason="")
+
+    monkeypatch.setattr(backfill, "import_video", fake_import)
+    state = {}
+    n = backfill.run_playlist(Settings(transcript_delay_seconds=0), _playlist("a", "b", "c"), state, {}, 10)
+    assert n == 1 and list(state["processed"]) == ["a"]  # b and c wait for a re-run

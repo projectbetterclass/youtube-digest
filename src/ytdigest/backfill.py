@@ -70,6 +70,38 @@ def enumerate_playlist(playlist_id: str, limit: int = 10000) -> list[str]:
     return [e["id"] for e in (info.get("entries") or []) if e.get("id")]
 
 
+# What a flat listing shows for a playlist slot whose video is gone: nothing to fetch.
+_GONE = ("[Deleted video]", "[Private video]")
+
+
+def playlist_listing(playlist_id: str, limit: int = 10000) -> dict:
+    """A playlist's title, owner and videos in playlist order (metadata only, one listing).
+
+    Each video carries its own channel (a playlist can mix channels), falling back to the
+    playlist's owner, plus its length in seconds when YouTube gives it. Deleted and private
+    slots are left out.
+    """
+    import yt_dlp
+
+    with yt_dlp.YoutubeDL(_opts(extract_flat=True, playlistend=limit)) as ydl:
+        info = ydl.extract_info(f"https://www.youtube.com/playlist?list={playlist_id}", download=False)
+    owner = info.get("channel") or info.get("uploader") or ""
+    owner_id = info.get("channel_id") or info.get("uploader_id") or ""
+    videos = []
+    for e in info.get("entries") or []:
+        if not e.get("id") or (e.get("title") or "") in _GONE:
+            continue
+        videos.append({
+            "id": e["id"],
+            "title": e.get("title") or "",
+            "channel": e.get("channel") or e.get("uploader") or owner,
+            "channel_id": e.get("channel_id") or e.get("uploader_id") or owner_id,
+            "duration": int(e["duration"]) if e.get("duration") else None,
+        })
+    return {"id": playlist_id, "title": info.get("title") or "", "channel": owner,
+            "channel_id": owner_id, "videos": videos}
+
+
 def _fetch_description(video_id: str) -> str:
     import yt_dlp
 
@@ -229,19 +261,53 @@ def run_backfill(
                      else f"https://www.youtube.com/watch?v={vid}"),
                 published=None, description="", short=short,
             )
-            time.sleep(settings.transcript_delay_seconds)  # throttle
             try:
-                brief = import_video(video, settings, session=session, fetch_materials=channel.materials)
+                if _import_one(video, settings, session, state, library, channel.materials):
+                    imported += 1
             except TranscriptBlocked:
                 log.warning("Backfill hit a transcript IP-block; stopping drip (resumes next run).")
                 return imported
-            except Exception as exc:  # noqa: BLE001
-                log.warning("Backfill failed for %s (%s): %s", title, vid, exc)
-                continue
-            add_brief(library, brief)
-            mark_processed(state, video, had_materials=brief.had_materials,
-                           transcript_available=brief.transcript_available,
-                           transcript_miss=brief.transcript_miss)
-            imported += 1
 
     return imported
+
+
+def run_playlist(settings: Settings, playlist: dict, state: dict, library: dict, budget: int) -> int:
+    """Import up to `budget` of a playlist's videos not yet in the library, in playlist order.
+
+    `playlist` is what playlist_listing returns. Videos keep their own channel, so a
+    playlist can bring in channels that aren't on the watchlist (the user named the playlist).
+    """
+    session = requests.Session()
+    imported = 0
+    for v in playlist["videos"]:
+        if imported >= budget:
+            break
+        if is_processed(state, v["id"]):
+            continue
+        video = Video(video_id=v["id"], title=v["title"], channel_name=v["channel"],
+                      channel_id=v["channel_id"], url=f"https://www.youtube.com/watch?v={v['id']}")
+        try:
+            if _import_one(video, settings, session, state, library):
+                imported += 1
+        except TranscriptBlocked:
+            log.warning("Playlist import hit a transcript IP-block; stopping (a re-run resumes).")
+            break
+    return imported
+
+
+def _import_one(video: Video, settings: Settings, session, state: dict, library: dict,
+                materials: bool = False) -> bool:
+    """Throttle, import one video and record it. False when it failed (logged); raises TranscriptBlocked."""
+    time.sleep(settings.transcript_delay_seconds)  # throttle
+    try:
+        brief = import_video(video, settings, session=session, fetch_materials=materials)
+    except TranscriptBlocked:
+        raise
+    except Exception as exc:  # noqa: BLE001
+        log.warning("Backfill failed for %s (%s): %s", video.title, video.video_id, exc)
+        return False
+    add_brief(library, brief)
+    mark_processed(state, video, had_materials=brief.had_materials,
+                   transcript_available=brief.transcript_available,
+                   transcript_miss=brief.transcript_miss)
+    return True
