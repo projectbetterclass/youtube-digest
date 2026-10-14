@@ -81,13 +81,42 @@ def _build_proxy_config():
 
 
 def fetch_transcript(video_id: str, languages: list[str]) -> tuple[str, bool, bool, str]:
-    """Return (text, ok, blocked, reason).
+    """Return (text, ok, blocked, reason); see _fetch."""
+    return _fetch(video_id, languages, any_language=False)[:4]
+
+
+def fetch_transcript_any_language(video_id: str, languages: list[str]) -> tuple[str, bool, bool, str, str]:
+    """Like fetch_transcript, but a video with no captions in `languages` gives its own-language
+    captions instead (made by hand before auto-generated). Returns (text, ok, blocked, reason,
+    language): `language` names the captions taken ("Thai (auto-generated)"), or "" when they
+    are in one of `languages`."""
+    return _fetch(video_id, languages, any_language=True)
+
+
+def _pick(api, video_id: str, languages: list[str]):
+    """(fetched captions, language name or "") for any_language: `languages` first, else the video's own."""
+    found = api.list(video_id)
+    try:
+        t = found.find_transcript(list(languages))
+        return t.fetch(), ""
+    except Exception as exc:  # noqa: BLE001
+        if type(exc).__name__ != "NoTranscriptFound":
+            raise
+        own = sorted(found, key=lambda t: bool(t.is_generated))  # hand-made first
+        if not own:
+            raise
+        return own[0].fetch(), own[0].language
+
+
+def _fetch(video_id: str, languages: list[str], any_language: bool) -> tuple[str, bool, bool, str, str]:
+    """Return (text, ok, blocked, reason, language).
 
     text    : space-joined caption text (empty when ok is False)
     ok      : whether a transcript was retrieved
     blocked : True if the failure was an IP rate-limit (transient) — caller should
               DEFER the video and retry it on a later run, not finalize it.
     reason  : short reason when ok is False (for logging / the brief)
+    language: with any_language, the captions' language when it isn't one of `languages`
     """
     proxy_config = _build_proxy_config()
     # Rotating proxy: retry blocks and network errors immediately on a fresh IP.
@@ -98,7 +127,10 @@ def fetch_transcript(video_id: str, languages: list[str]) -> tuple[str, bool, bo
         last = attempt == attempts - 1
         try:
             api = YouTubeTranscriptApi(proxy_config=proxy_config, http_client=_TimeoutSession())
-            fetched = api.fetch(video_id, languages=list(languages))
+            if any_language:
+                fetched, language = _pick(api, video_id, languages)
+            else:
+                fetched, language = api.fetch(video_id, languages=list(languages)), ""
         except Exception as exc:  # noqa: BLE001 — any failure means "no usable transcript"
             reason = f"{type(exc).__name__}: {exc}".strip()
             blocked = _is_ip_block(exc)
@@ -111,7 +143,7 @@ def fetch_transcript(video_id: str, languages: list[str]) -> tuple[str, bool, bo
             log.info("No transcript for %s (%s)", video_id, reason[:200])
             # With a rotating pool, exhausting the attempts isn't an IP block of *ours* —
             # record it as a miss (the caller can retry later) instead of halting the run.
-            return "", False, blocked and not proxy_config, reason
+            return "", False, blocked and not proxy_config, reason, ""
 
         parts = []
         for snippet in fetched:
@@ -120,7 +152,7 @@ def fetch_transcript(video_id: str, languages: list[str]) -> tuple[str, bool, bo
                 parts.append(piece)
         text = " ".join(parts).strip()
         if not text:
-            return "", False, False, "empty transcript"
-        return text, True, False, ""
+            return "", False, False, "empty transcript", ""
+        return text, True, False, "", language
 
-    return "", False, not proxy_config, reason
+    return "", False, not proxy_config, reason, ""

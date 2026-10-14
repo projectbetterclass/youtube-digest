@@ -98,24 +98,29 @@ def test_collect_playlist_pulls_in_order_retries_misses_and_keeps_the_order(tmp_
                "videos": [{"id": v, "title": f"t{v}", "channel": ch, "channel_id": "UC" + ch, "duration": 300}
                           for v, ch in (("a", "Owner"), ("b", "Owner"), ("c", "Guest"), ("off", "Owner"))]}
     monkeypatch.setattr(local_collect, "playlist_listing", lambda pid: listing)
-    # From an earlier run: c missed because the proxy ran out, "off" has no captions at all.
+    # From earlier runs: c missed because the proxy ran out, a ran under the English-only
+    # collector (none in English), and "off" has no captions at all.
     save_state(local_collect.C.STATE_PATH, {"processed": {
         "c": {"channel": "Guest", "transcript_available": False, "processed_at": "2026-10-01T00:00:00+00:00",
               "transcript_miss": "ProxyError: out of data"},
         "off": {"channel": "Owner", "transcript_available": False, "processed_at": "2026-10-01T00:00:00+00:00",
                 "transcript_miss": "TranscriptsDisabled: subtitles are disabled"},
+        "a": {"channel": "Owner", "transcript_available": False, "processed_at": "2026-10-14T00:00:00+00:00",
+              "transcript_miss": "NoTranscriptFound: No transcripts were found for any of the requested langua"},
     }})
     calls = []
 
     def fake_fetch(vid, langs):
         calls.append(vid)
         if vid == "b" and calls.count("b") == 1:  # a 429 on one exit IP: works on the retry
-            return "", False, False, "RequestBlocked: too many requests"
-        return f"words of {vid}", True, False, ""
+            return "", False, False, "RequestBlocked: too many requests", ""
+        return f"words of {vid}", True, False, "", ("Thai (auto-generated)" if vid == "a" else "")
 
-    monkeypatch.setattr(backfill, "fetch_transcript", fake_fetch)
+    monkeypatch.setattr(backfill, "fetch_transcript", lambda *a: (_ for _ in ()).throw(AssertionError("English-only fetch")))
+    monkeypatch.setattr(backfill, "fetch_transcript_any_language", fake_fetch)
     assert local_collect.collect_playlist("PLx", 2000) == 3
     assert calls == ["a", "b", "c", "b"]  # in order, then the one retry; "off" is never re-fetched
+    assert "_The captions are in Thai (auto-generated)" in (tmp_path / "archive" / "a" / "transcript.md").read_text(encoding="utf-8")
     state = load_state(local_collect.C.STATE_PATH)
     assert all(state["processed"][v]["transcript_available"] for v in "abc")
     assert pushes == [("playlist: Buddhism made simple", 3)]
@@ -148,3 +153,11 @@ def test_collect_still_retries_this_runs_misses_after_the_refactor(tmp_path, mon
     assert local_collect.collect(["A"], 2000) == 2
     assert calls == ["x", "y", "y"]
     assert pushes == [("A", 2)]
+
+
+def test_none_in_english_is_final_for_a_channel_but_retried_for_a_playlist():
+    rec = {"channel": "A", "transcript_available": False, "processed_at": "2026-10-14T10:00:00+00:00",
+           "transcript_miss": "NoTranscriptFound: No transcripts were found for any of the requested langua"}
+    state = {"processed": {"v": rec}}
+    assert local_collect.failed_this_run(state, {"A"}, "") == []
+    assert local_collect.failed_this_run(state, {"A"}, "", {"v"}, local_collect.PLAYLIST_PERMANENT) == ["v"]

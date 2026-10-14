@@ -27,7 +27,7 @@ from .materials import gather_materials
 from .models import Brief, Video
 from .proxies import youtube_proxy_url
 from .state import is_processed, mark_processed
-from .transcript import TranscriptBlocked, fetch_transcript
+from .transcript import TranscriptBlocked, fetch_transcript, fetch_transcript_any_language
 
 log = logging.getLogger(__name__)
 
@@ -147,9 +147,17 @@ def _music_only_captions(text: str) -> bool:
     return len(words) <= 5 * markers
 
 
-def import_video(video: Video, settings: Settings, session=None, fetch_materials: bool = False) -> Brief:
-    """Archive a video's transcript (and optionally its linked slides). Raises TranscriptBlocked."""
-    text, ok, blocked, reason = fetch_transcript(video.video_id, settings.transcript_languages)
+def import_video(video: Video, settings: Settings, session=None, fetch_materials: bool = False,
+                 any_language: bool = False) -> Brief:
+    """Archive a video's transcript (and optionally its linked slides). Raises TranscriptBlocked.
+
+    With `any_language`, a video with no captions in the configured languages keeps its
+    own-language captions, under a note naming the language (used for playlists the user names).
+    """
+    if any_language:
+        text, ok, blocked, reason, lang = fetch_transcript_any_language(video.video_id, settings.transcript_languages)
+    else:
+        (text, ok, blocked, reason), lang = fetch_transcript(video.video_id, settings.transcript_languages), ""
     if blocked:
         raise TranscriptBlocked(video.video_id)
 
@@ -171,6 +179,9 @@ def import_video(video: Video, settings: Settings, session=None, fetch_materials
         if music:  # an italic note line: readers that skip placeholder notes skip it too
             fh.write("_A Short whose captions are mostly music: its content is probably shown "
                      "as text on screen, not spoken._\n\n")
+        if ok and lang:  # same italic-note form: the captions aren't in a configured language
+            fh.write(f"_The captions are in {lang}: this video has none in "
+                     f"{', '.join(settings.transcript_languages)}._\n\n")
         fh.write(text if (ok and text) else "_No transcript/captions were available for this video._")
         fh.write("\n")
     for i, m in enumerate(materials, start=1):
@@ -275,7 +286,8 @@ def run_playlist(settings: Settings, playlist: dict, state: dict, library: dict,
     """Import up to `budget` of a playlist's videos not yet in the library, in playlist order.
 
     `playlist` is what playlist_listing returns. Videos keep their own channel, so a
-    playlist can bring in channels that aren't on the watchlist (the user named the playlist).
+    playlist can bring in channels that aren't on the watchlist (the user named the playlist),
+    and a video with no captions in the configured languages keeps its own-language ones.
     """
     session = requests.Session()
     imported = 0
@@ -287,7 +299,7 @@ def run_playlist(settings: Settings, playlist: dict, state: dict, library: dict,
         video = Video(video_id=v["id"], title=v["title"], channel_name=v["channel"],
                       channel_id=v["channel_id"], url=f"https://www.youtube.com/watch?v={v['id']}")
         try:
-            if _import_one(video, settings, session, state, library):
+            if _import_one(video, settings, session, state, library, any_language=True):
                 imported += 1
         except TranscriptBlocked:
             log.warning("Playlist import hit a transcript IP-block; stopping (a re-run resumes).")
@@ -296,11 +308,12 @@ def run_playlist(settings: Settings, playlist: dict, state: dict, library: dict,
 
 
 def _import_one(video: Video, settings: Settings, session, state: dict, library: dict,
-                materials: bool = False) -> bool:
+                materials: bool = False, any_language: bool = False) -> bool:
     """Throttle, import one video and record it. False when it failed (logged); raises TranscriptBlocked."""
     time.sleep(settings.transcript_delay_seconds)  # throttle
     try:
-        brief = import_video(video, settings, session=session, fetch_materials=materials)
+        brief = import_video(video, settings, session=session, fetch_materials=materials,
+                             **({"any_language": True} if any_language else {}))
     except TranscriptBlocked:
         raise
     except Exception as exc:  # noqa: BLE001
