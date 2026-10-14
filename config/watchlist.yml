@@ -125,3 +125,7 @@ channels:
     backfill: 40             # whole channel (~25 videos + 306 Shorts) — user asked 2026-10-11 (training)
     shorts: 350              # all Shorts (~306)
     visual: false            # audio only (screen check 2026-10-11; music-only Shorts carry text on screen, see CLAUDE.md)
+  - name: "Invest with Henry"
+    channel_id: UC2Zg12phLyX1KTnH6D47d9g
+    backfill: 1000           # whole channel (size not checked from the cloud; ~37M views) — user named it 2026-10-14 (options trading)
+    visual: false            # screen check pending: option chains and P/L diagrams may be worth reading later
