@@ -1,0 +1,5 @@
+# 41 ＂အ‌ခြေခံဉာဏ်နှစ်ပါးနှင့် အနတ္တအမြင် ၂၁＂  Dr. Soe Lwin  မန္တလေးတကောင်းကျောင်းတိုက် ၁၅-၃-၂၀၂၆
+
+<https://www.youtube.com/watch?v=SK57PKFD7EU>
+
+_No transcript/captions were available for this video._
