@@ -1,0 +1,5 @@
+# THIS is the most Important Indicator in Trading
+
+<https://www.youtube.com/shorts/U1aATk1aJHg>
+
+The Ballinger band, hands down the most important indicator that you can ever use in trading period. The Ballinger band looks at what is normal and what is not normal is using something called the bell curve. A bell curve kind of looks like this. Okay, you'll see it on the screen right now. It gives you some options. Yahoo Finance will give you a period, 20 trading days, which is like roughly one month. And the two standard deviations, this is what I'm explaining to you. A two move standard deviation would be about 95% of the data on the bell curve. Okay, the very very center zero standard deviation would basically be let's say that you were a man, you are 5' 10 and you have a son. Your son on a zero standard deviation is going to also be about 510 based on genetics. One standard deviation would be 6'1 and two standard deviations would be 6'4. Right? So you can basically see how the bowlinger band works for the stock right here. You can see that SoFi is trading within the Ballinger band a majority of the time.

@@ -1,0 +1,5 @@
+# Why SoFi is one of my TOP Stock Picks for 2025 & 2026
+
+<https://www.youtube.com/shorts/4bsHhMfQh_Q>
+
+So is a stock that I really like for a lot of reasons. So I've covered it in several of my videos. Essentially, I think that the business is disrupting the dinosaurs, which are banks. When I was working at Goldman Sachs, their systems were very like old, okay? And a lot of banks have a businessheavy model because they have physical stores. They have a lot of employees. So is really revolutionizing that because they're combining technology and finance and they're a fintech company. So what makes fintech amazing is that the margins of the business are higher and the market cap is 16 billion which is like really low but if this company continues on the trajectory that it's going at right like last year they lost money this year they made money so they've just become a very profitable company and I see them growing a lot more. So just to point out the beta is 1.6 which means that if the market moves up by 1% this stock is going to move 1.6% 6% on

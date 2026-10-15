@@ -1,0 +1,5 @@
+# Selling Puts is Not as Dangerous as you Think (Max Loss Explained)
+
+<https://www.youtube.com/shorts/eJQqzVfKx2A>
+
+the negative $20,000 is not actually how much like I can lose. I know it looks like extremely scary. You're thinking to yourself like, "Oh my gosh, I'm going to make $800, but I can lose 20,000." Well, the max loss here isn't really correct. In theory, it's correct, but it's like calculating the stock going down to zero. It's just not going to happen. Like a high quality stock can't even fall like 50%. If you sell puts on like, you know, Apple, probably not even going to fall 10%. Looking at the max loss is really scary and it would be the equivalent of like getting in your car and the max loss on you driving is you losing your life. You might not live today. Okay, that is actually the truth. But most people still get in their car, they drive to work and we still have to go about our days and go to the grocery store, etc. Although this is really scary. Yes, you're tying up the $20,000, but you're not really like at risk of losing the entire amount.
