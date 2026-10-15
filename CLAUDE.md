@@ -10,8 +10,8 @@ This repo is two things:
 
 ## Project state (keep this section current)
 
-### Snapshot (2026-10-11)
-Library: **10,510 videos, 10,208 with transcripts**, 699 with linked documents, 1,911 with
+### Snapshot (2026-10-15)
+Library: **11,462 videos, 11,097 with transcripts**, 699 with linked documents, 1,911 with
 on-screen visuals read (12,076 charts/slides). 24 channels in `config/watchlist.yml` (Invest with Henry added 2026-10-14, not yet collected); about 1,350 of the videos are YouTube Shorts.
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
@@ -111,13 +111,14 @@ straight-line extrapolation; ignore it.)
   (the Buddha's teaching in plain words), for the Buddha goal in the user's time-tracker
   app (the Assistant repo); the user has listened to it once already.
 - **Invest with Henry** (`UC2Zg12phLyX1KTnH6D47d9g`, options trading; user named it 2026-10-14
-  for the Options trading branch of their time-tracker app): added to the watchlist with a
-  whole-channel target (`backfill: 1000`; catalog size not checked, since a cloud session can't
-  reach YouTube). Not collected yet and not in `PRIORITY`: collect with `local_collect.py
-  --channel "Invest with Henry"` when the user asks, after they confirm the proxy has room
-  (a few hundred videos ≈ 0.4 MB each). He sells paid courses, and his return figures are his
-  own claims, so stay critical when answering from his videos. Screen check pending
-  (`visual: false` until then).
+  for the Options trading branch of their time-tracker app): whole channel incl. Shorts (`backfill:
+  1000`, `shorts: 120`). **All 883 videos collected (2026-10-14/15)**, plus 27 of his 89 Shorts; the
+  proxy data (the 1 GB plan bought 2026-10-11) ran out at 22:32 on 2026-10-15 and the guarded run
+  stopped cleanly. **Left: ~62 Shorts (~25 MB)** — collect after the 24 Oct reset with
+  `local_collect.py --channel "Invest with Henry" --shorts` (guarded). Not in `PRIORITY`. He sells
+  paid courses, and his return figures are his own claims, so stay critical when answering from his
+  videos. Screen check pending (`visual: false` until then): option chains and P/L diagrams may be
+  worth reading.
 
 ### Phase 2 — on-screen visual capture (runs on the self-hosted runner)
 What it does:
