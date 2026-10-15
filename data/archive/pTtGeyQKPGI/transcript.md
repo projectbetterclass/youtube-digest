@@ -1,0 +1,5 @@
+# Stop Day Trading, Try Night Trading Instead
+
+<https://www.youtube.com/shorts/pTtGeyQKPGI>
+
+If you bought Micron everyday when the stock market closed and sold it the next morning when it dropped, you'd be up 138 million percent on paper. Now, imagine you do the opposite. You bought everyday when the market opens and then you sold it when it closed. That same Micron trade would be down over 99%. And apparently, this isn't the only stock that does this. A research paper found a weird phenomena across multiple markets across the world. It basically shows that if you buy the stock when the market closes and sell the next morning when it opens, you're statistically most likely to gain profit. So, what is actually going on? Well, there's two different crowds that are actually trading in two different time periods. Individuals tend to trade smaller positions at the open while big institutions trade during the day into the close because that's where the most liquidity is. The paper says that trades earn their money while the market's closed and you're skipping the part that actually pays. Share this with a friend and make sure that you follow for more.
