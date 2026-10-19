@@ -12,7 +12,7 @@ This repo is two things:
 
 ### Snapshot (2026-10-15)
 Library: **11,462 videos, 11,097 with transcripts**, 699 with linked documents, 1,911 with
-on-screen visuals read (12,076 charts/slides). 24 channels in `config/watchlist.yml` (Invest with Henry added 2026-10-14, not yet collected); about 1,350 of the videos are YouTube Shorts.
+on-screen visuals read (12,076 charts/slides). 24 channels in `config/watchlist.yml` (Invest with Henry added 2026-10-14, collected 2026-10-15); about 1,350 of the videos are YouTube Shorts.
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
 disabled for this user"), so neither the cloud digest nor the visuals job is running;
