@@ -95,6 +95,10 @@ straight-line extrapolation; ignore it.)
 - **Other channels** (Chris Raroque, Aswath): at their target as of 2026-10-02.
   No transcript collection has run for the priority channels since 2026-10-02, so their
   newer uploads (20+ by 2026-10-07) wait for the next "collect my priority channels".
+  **Without the proxy** (home connection; run with WEBSHARE_PROXY_USERNAME/PASSWORD set empty):
+  safe, since an IP block stops the run without marking anything, but YouTube allows few: on
+  2026-10-19 it gave 15 (Felix 7, Greg Isenberg 4, Ticker 2, HealthyGamerGG 2) then IpBlocked.
+  Use it only for a handful; the rest waits for the proxy reset.
   Chris Williamson and The Diary Of A CEO are new-uploads-only and miss everything since
   2026-09-22 (user chose not to catch them up).
 - **Aswath's interviews on other channels** (173 transcripts + a CSV of 302 appearances)
