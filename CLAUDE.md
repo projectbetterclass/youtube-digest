@@ -133,7 +133,11 @@ straight-line extrapolation; ignore it.)
   A playlist takes captions in **any language**: a video with none in `transcript_languages`
   keeps its own-language captions (hand-made before auto-generated), under an italic note in
   `transcript.md` naming the language. Channel runs and the cloud digest stay English-only.
-  (The Buddha playlist's first run, 2026-10-14, found no English captions; this fixed it.)
+  (The Buddha playlist's first run, 2026-10-14 20:32–20:38, started minutes before this fix was
+  merged and looked for English only: **all 42 videos are still without a transcript**, each a
+  `NoTranscriptFound` miss = captions exist in another language. Re-run
+  `local_collect.py --playlist PLqnSdW-e2Bah9Lh0MBn7JjW5kswNUDcZd` after the proxy reset (~17 MB);
+  it retries these misses. Checked 2026-10-23.)
   ~0.4 MB of proxy per video. First one: the **Buddha playlist** `PLqnSdW-e2Bah9Lh0MBn7JjW5kswNUDcZd`
   (the Buddha's teaching in plain words), for the Buddha goal in the user's time-tracker
   app (the Assistant repo); the user has listened to it once already.
