@@ -10,9 +10,12 @@ This repo is two things:
 
 ## Project state (keep this section current)
 
-### Snapshot (2026-10-15)
-Library: **11,462 videos, 11,097 with transcripts**, 699 with linked documents, 1,911 with
-on-screen visuals read (12,076 charts/slides). 24 channels in `config/watchlist.yml` (Invest with Henry added 2026-10-14, collected 2026-10-15); about 1,350 of the videos are YouTube Shorts.
+### Snapshot (2026-10-23)
+Library: **11,477 videos, 11,112 with transcripts**, 699 with linked documents, 1,911 with
+on-screen visuals read (12,076 charts/slides). 24 channels in `config/watchlist.yml` (Invest with Henry added 2026-10-14, collected 2026-10-15) plus the 42-video Buddha playlist (no transcripts yet, see Playlists below); 1,568 of the videos are YouTube Shorts.
+**The daily local job is ON since 2026-10-23** (details below). Proxy data is used up until
+the next Webshare reset; whether the 1 GB plan bought 2026-10-11 replaced the 3 GB plan (then
+no 3 GB reset on 24 Oct) is unconfirmed — ask the user to check the dashboard.
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
 disabled for this user"), so neither the cloud digest nor the visuals job is running;
@@ -28,7 +31,8 @@ and pushes `data/`. It stands down by itself once the cloud digest commits again
 `local_collect.py` itself isn't scheduled (it's for back catalogs, earlier misses and named
 channels); for any of that, only collect the channels the user names.
 
-**Daily local job (user asked 2026-10-23: "run every day when the pc is on"):**
+**Daily local job (user asked 2026-10-23: "run every day when the pc is on"; PR #66, merged and
+switched on 2026-10-23 at the user's request):**
 `scripts/daily_local.py`, run by the Windows Task Scheduler task **"YouTube library - daily"**
 (install/update: `powershell -ExecutionPolicy Bypass -File scripts\install_daily_task.ps1`;
 turn off: same with `-Remove`). It checks hourly 10:00–24:00 and 15 min after log-on, runs at
@@ -49,6 +53,9 @@ proxy too: when every feed fails, the run doesn't count and retries hourly); sta
 cloud digest commits again; shares `local_collect.py`'s lock. Log:
 `%LOCALAPPDATA%\ytdigest\daily.log`; last result (OK/FAILED + counts): `daily_status.txt` next
 to it. Expected cost: ~65–130 MB of proxy a month, well under $1/month of API credit.
+First run under the scheduler (2026-10-23 15:31): every feed got `402 Payment Required` from the
+proxy, so it reported FAILED and retries hourly until the proxy data is back. To check on it:
+read `daily_status.txt` / `daily.log`, or `Get-ScheduledTaskInfo -TaskName "YouTube library - daily"`.
 
 ### Where the copies live
 - **User's PC (Windows):** working copy at `C:\Users\Gebruiker\Downloads\Youtube Scraper`
