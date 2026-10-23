@@ -39,7 +39,8 @@ def test_discover_takes_new_uploads_and_shorts_only_where_switched_on():
         "UCr": [_v("r-short", train, days_ago=2, short=True)],
     }
     state = {"processed": {"t-done": {}}}
-    new = D.discover(S, [talk, train], state, NOW, fetch=lambda ch: feeds[ch.channel_id], sleep=lambda s: None)
+    new, failed = D.discover(S, [talk, train], state, NOW, fetch=lambda ch: feeds[ch.channel_id], sleep=lambda s: None)
+    assert failed == 0
     assert [v.video_id for _, v in new] == ["r-short", "t-new"]  # oldest first; Shorts only on Train
 
 
@@ -49,7 +50,7 @@ def test_new_uploads_only_channels_keep_the_short_window():
     feeds = {"UCw": [_v("w-20d", whole, days_ago=20)],
              "UCn": [_v("n-20d", new_only, days_ago=20), _v("n-2d", new_only, days_ago=2)]}
     s = Settings(request_delay_seconds=0, transcript_delay_seconds=0, max_age_days=5)
-    new = D.discover(s, [whole, new_only], {}, NOW, fetch=lambda ch: feeds[ch.channel_id], sleep=lambda s: None)
+    new, _ = D.discover(s, [whole, new_only], {}, NOW, fetch=lambda ch: feeds[ch.channel_id], sleep=lambda s: None)
     assert [v.video_id for _, v in new] == ["w-20d", "n-2d"]
 
 
@@ -61,7 +62,8 @@ def test_one_failing_feed_does_not_stop_the_rest():
             raise RuntimeError("feed down")
         return [_v("b1", b)]
 
-    assert [v.video_id for _, v in D.discover(S, [a, b], {}, NOW, fetch=fetch, sleep=lambda s: None)] == ["b1"]
+    new, failed = D.discover(S, [a, b], {}, NOW, fetch=fetch, sleep=lambda s: None)
+    assert [v.video_id for _, v in new] == ["b1"] and failed == 1
 
 
 def test_collect_stops_at_a_proxy_run_out_and_marks_nothing_after_it(monkeypatch):

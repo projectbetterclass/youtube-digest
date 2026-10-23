@@ -106,18 +106,20 @@ def preflight() -> str:
     return pull_or_merge("daily: library records kept from an earlier run (local)")
 
 
-def discover(settings, channels, state, now, fetch=fetch_channel_videos, sleep=time.sleep) -> list:
-    """New uploads from every channel's RSS feed, oldest first. Shorts only where switched on.
+def discover(settings, channels, state, now, fetch=fetch_channel_videos, sleep=time.sleep) -> tuple[list, int]:
+    """(new uploads from every channel's RSS feed oldest first, number of feeds that failed).
 
-    New-uploads-only channels (no `backfill`) keep the cloud digest's short window
-    (`max_age_days`), so their older uploads aren't caught up behind the user's back.
+    Shorts only where switched on. New-uploads-only channels (no `backfill`) keep the cloud
+    digest's short window (`max_age_days`), so their older uploads aren't caught up behind the
+    user's back.
     """
-    found = []
+    found, failed = [], 0
     for ch in channels:
         try:
             videos = fetch(ch)
         except Exception as exc:  # noqa: BLE001 — one bad feed shouldn't stop the rest
             log.warning("feed failed for %s: %s", ch.name, exc)
+            failed += 1
             continue
         max_age = MAX_AGE_DAYS if ch.backfill > 0 else settings.max_age_days
         for v in select_new_videos(videos, state, max_age, now=now):
@@ -131,7 +133,7 @@ def discover(settings, channels, state, now, fetch=fetch_channel_videos, sleep=t
         if v.video_id not in seen:
             seen.add(v.video_id)
             out.append((ch, v))
-    return out
+    return out, failed
 
 
 def _save(state, library) -> None:
@@ -317,8 +319,12 @@ def main(argv=None) -> int:
             return 0
         settings, channels = C.load_config()
         state, library = load_state(C.STATE_PATH), load_library(C.LIBRARY_PATH)
-        new = discover(settings, channels, state, now)
+        new, failed = discover(settings, channels, state, now)
         log.info("%d new upload(s) on %d channels", len(new), len({ch.name for ch, _ in new}))
+        # Every feed failing means the proxy data is used up (feeds go through it too) or the
+        # PC is offline: screen capture still runs, but the run doesn't count, so the next
+        # hourly check tries again (it costs nothing while the proxy refuses).
+        feeds_down = bool(channels) and failed == len(channels)
         done = collect(settings, new, state, library)
         read = 0
         if not args.no_visuals and os.environ.get("ANTHROPIC_API_KEY"):
@@ -333,6 +339,8 @@ def main(argv=None) -> int:
         got = sum(1 for _, v in done if library.get("videos", {}).get(v.video_id, {}).get("transcript_available"))
         problem = commit_and_push(f"daily: +{got} transcripts, +{read} screen captures (local)")
         summary = f"{len(new)} new found, {len(done)} collected ({got} with transcripts), {read} screen-captured"
+        if feeds_down and not problem:
+            problem = "every channel feed failed (proxy data used up, or offline); retrying at the next check"
         if problem:
             log.error("%s — %s", summary, problem)
             set_status(now, False, f"{summary}; {problem}")

@@ -42,7 +42,8 @@ uncaptured uploads on `visual: true` channels (needs the PC's `ANTHROPIC_API_KEY
 and pushes `data/`. On a push conflict it merges library records (theirs + ours) instead of
 stopping; it refuses (and says so) when the copy isn't on `main`, a rebase is half-done, or
 unpushed local commits touch files outside `data/`. It stops cleanly, marking nothing, when the
-proxy data runs out (every attempt a ProxyError) or YouTube blocks the PC; stands down once the
+proxy data runs out (every attempt a ProxyError) or YouTube blocks the PC (RSS goes through the
+proxy too: when every feed fails, the run doesn't count and retries hourly); stands down once the
 cloud digest commits again; shares `local_collect.py`'s lock. Log:
 `%LOCALAPPDATA%\ytdigest\daily.log`; last result (OK/FAILED + counts): `daily_status.txt` next
 to it. Expected cost: ~65–130 MB of proxy a month, well under $1/month of API credit.
