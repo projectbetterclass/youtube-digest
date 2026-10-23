@@ -116,6 +116,21 @@ def test_capture_candidates_are_recent_uploads_on_visual_channels_newest_first(m
     assert [v.video_id for v in D.capture_candidates([chart, talk], vstate, library, NOW)] == ["c-new"]
 
 
+def test_uploads_collected_without_a_date_get_it_from_the_feed_and_are_captured():
+    chart = Channel(name="Chart", channel_id="UCc", backfill=100, visual=True)
+    library = {"videos": {"c-recent": _rec(chart, None),       # collected by local_collect, no date
+                          "c-catalog": _rec(chart, None)}}     # old back catalog: not in the feed
+    feed = [_v("c-recent", chart, days_ago=4), _v("c-new", chart, days_ago=1)]
+    dates = {}
+    new, _ = D.discover(S, [chart], {"processed": {"c-recent": {}}}, NOW,
+                        fetch=lambda ch: feed, sleep=lambda s: None, dates=dates)
+    assert [v.video_id for _, v in new] == ["c-new"]               # already collected: not again
+    assert D.fill_missing_dates(library, dates) == 1
+    assert library["videos"]["c-recent"]["published"].startswith((NOW - timedelta(days=4)).date().isoformat())
+    assert library["videos"]["c-catalog"]["published"] is None
+    assert [v.video_id for v in D.capture_candidates([chart], {"visuals": {}}, library, NOW)] == ["c-recent"]
+
+
 def test_capture_stops_on_throttle_and_marks_nothing_after_it():
     chart = Channel(name="Chart", channel_id="UCc", visual=True)
     todo = [_v(f"c{i}", chart) for i in range(4)]

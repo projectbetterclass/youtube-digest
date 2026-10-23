@@ -106,12 +106,13 @@ def preflight() -> str:
     return pull_or_merge("daily: library records kept from an earlier run (local)")
 
 
-def discover(settings, channels, state, now, fetch=fetch_channel_videos, sleep=time.sleep) -> tuple[list, int]:
+def discover(settings, channels, state, now, fetch=fetch_channel_videos, sleep=time.sleep,
+             dates=None) -> tuple[list, int]:
     """(new uploads from every channel's RSS feed oldest first, number of feeds that failed).
 
     Shorts only where switched on. New-uploads-only channels (no `backfill`) keep the cloud
     digest's short window (`max_age_days`), so their older uploads aren't caught up behind the
-    user's back.
+    user's back. `dates`, if given, is filled with every feed video's upload date.
     """
     found, failed = [], 0
     for ch in channels:
@@ -121,6 +122,8 @@ def discover(settings, channels, state, now, fetch=fetch_channel_videos, sleep=t
             log.warning("feed failed for %s: %s", ch.name, exc)
             failed += 1
             continue
+        if dates is not None:
+            dates.update({v.video_id: v.published for v in videos if v.published})
         max_age = MAX_AGE_DAYS if ch.backfill > 0 else settings.max_age_days
         for v in select_new_videos(videos, state, max_age, now=now):
             if v.short and ch.shorts <= 0:
@@ -134,6 +137,19 @@ def discover(settings, channels, state, now, fetch=fetch_channel_videos, sleep=t
             seen.add(v.video_id)
             out.append((ch, v))
     return out, failed
+
+
+def fill_missing_dates(library, dates) -> int:
+    """Give library records stored without an upload date (collected back-catalog style, e.g.
+    by local_collect.py) the date their channel's feed shows. Only a channel's newest uploads
+    are in its feed, so this marks recent uploads as recent and leaves back catalogs dateless."""
+    n = 0
+    for vid, published in dates.items():
+        rec = library.get("videos", {}).get(vid)
+        if rec is not None and not rec.get("published"):
+            rec["published"] = published.isoformat()
+            n += 1
+    return n
 
 
 def _save(state, library) -> None:
@@ -319,8 +335,12 @@ def main(argv=None) -> int:
             return 0
         settings, channels = C.load_config()
         state, library = load_state(C.STATE_PATH), load_library(C.LIBRARY_PATH)
-        new, failed = discover(settings, channels, state, now)
+        dates = {}
+        new, failed = discover(settings, channels, state, now, dates=dates)
         log.info("%d new upload(s) on %d channels", len(new), len({ch.name for ch, _ in new}))
+        dated = fill_missing_dates(library, dates)
+        if dated:
+            log.info("gave %d earlier-collected upload(s) their date from the feeds", dated)
         # Every feed failing means the proxy data is used up (feeds go through it too) or the
         # PC is offline: screen capture still runs, but the run doesn't count, so the next
         # hourly check tries again (it costs nothing while the proxy refuses).

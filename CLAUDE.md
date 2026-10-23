@@ -38,7 +38,9 @@ reads the RSS feed (15 newest uploads); collects transcripts (no briefs) for upl
 last 30 days not yet in the library — 5 days (`max_age_days`) for the new-uploads-only channels
 Chris Williamson and The Diary Of A CEO, so their skipped backlog stays skipped; Shorts only
 where `shorts:` is set — at most 150 per run; then screen-captures up to 10 recent (≤30 days)
-uncaptured uploads on `visual: true` channels (needs the PC's `ANTHROPIC_API_KEY`); then commits
+uncaptured uploads on `visual: true` channels (needs the PC's `ANTHROPIC_API_KEY`; uploads that
+`local_collect.py` stored without a date get it from the feed, back catalogs stay dateless and
+are never captured by it); then commits
 and pushes `data/`. On a push conflict it merges library records (theirs + ours) instead of
 stopping; it refuses (and says so) when the copy isn't on `main`, a rebase is half-done, or
 unpushed local commits touch files outside `data/`. It stops cleanly, marking nothing, when the
