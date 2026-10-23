@@ -828,6 +828,7 @@ Each transcript link points to the full text under this folder.
 | — | Sean Nalewanyj | [Peptide influencers need to stop](https://www.youtube.com/shorts/1viZnrfWO9o) | — | — | [transcript](1viZnrfWO9o/transcript.md) · Short |
 | — | Sean Nalewanyj | [Do steroids make you dumber?](https://www.youtube.com/shorts/1vohFbXb49M) | — | — | [transcript](1vohFbXb49M/transcript.md) · Short |
 | — | David Carbutt | [NVIDIA CEO Makes JAW-DROPPING Prediction](https://www.youtube.com/watch?v=1wEWIOeR820) | — | — | [transcript](1wEWIOeR820/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [Trump Just Admitted Dollar Reset (Most Don't Understand the Plan)](https://www.youtube.com/watch?v=1wi_-c3HbDY) | — | — | [transcript](1wi_-c3HbDY/transcript.md) |
 | — | TheQuadfatherBW | [How to eat out and stay jacked - Episode 2](https://www.youtube.com/watch?v=1xEzMtPdkrA) | — | — | [transcript](1xEzMtPdkrA/transcript.md) |
 | — | Justin Sung | [Why your Learning Style makes you WORSE](https://www.youtube.com/watch?v=1xJupIiiBhc) | — | — | [transcript](1xJupIiiBhc/transcript.md) |
 | — | Tom Nash | [Oracle Stock is a MASTERPIECE](https://www.youtube.com/watch?v=1xpfsFsvYuE) | — | — | [transcript](1xpfsFsvYuE/transcript.md) · [visuals](1xpfsFsvYuE/visuals.md) |
@@ -1682,6 +1683,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [I built a Cash Flowing Online Directory in 54 minutes (using Ahrefs and WordPress)](https://www.youtube.com/watch?v=6rAHkSyzfNA) | — | — | [transcript](6rAHkSyzfNA/transcript.md) |
 | — | Aswath Damodaran | [Session: Closing Session](https://www.youtube.com/watch?v=6rDxY30qgvQ) | — | — | [transcript](6rDxY30qgvQ/transcript.md) · [materials](6rDxY30qgvQ/materials/) |
 | — | Justin Sung | [How ChatGPT Slowly Destroys Your Brain](https://www.youtube.com/watch?v=6sJ50Ybp44I) | — | — | [transcript](6sJ50Ybp44I/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [They Crashed Gold on Purpose (Here's the Real Debt Crisis Plan)](https://www.youtube.com/watch?v=6t4o34kxXnU) | — | — | [transcript](6t4o34kxXnU/transcript.md) |
 | — | Sean Nalewanyj | [Best lateral raise for capped delts](https://www.youtube.com/shorts/6t6rjYDF40M) | — | — | [transcript](6t6rjYDF40M/transcript.md) · Short |
 | — | Aswath Damodaran | [January 2019 Data Update 9: Playing the Pricing Game](https://www.youtube.com/watch?v=6tMRA9sMgBo) | — | — | [transcript](6tMRA9sMgBo/transcript.md) |
 | — | Greg Isenberg | [1 profitable startup idea hiding in plain sight](https://www.youtube.com/watch?v=6toiKwcR1_g) | — | — | [transcript](6toiKwcR1_g/transcript.md) |
@@ -2163,6 +2165,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [Why you SHOULD use cuffs on lateral raises!](https://www.youtube.com/shorts/9U_XAMgqvng) | — | — | [transcript](9U_XAMgqvng/transcript.md) · Short |
 | — | Greg Isenberg | [The Future of Marketing \| Where It Happens Podcast](https://www.youtube.com/watch?v=9Uib-jqTSaQ) | — | — | [transcript](9Uib-jqTSaQ/transcript.md) |
 | — | Vinh Giang | [5 Speaking Traps That Make Smart People Look Insecure](https://www.youtube.com/watch?v=9Uzvqk4Q4LM) | — | — | [transcript](9Uzvqk4Q4LM/transcript.md) |
+| — | Felix & Friends (Goat Academy) | [The Global Credit Reset Is Here (and Why Silver is Next)](https://www.youtube.com/watch?v=9V9SyhslOtk) | — | — | [transcript](9V9SyhslOtk/transcript.md) |
 | — | Justin Sung | [Study music is Overrated: Learning Expert Explains WHY](https://www.youtube.com/watch?v=9VAwuzuyu3A) | — | — | [transcript](9VAwuzuyu3A/transcript.md) |
 | — | Invest with Henry | [URGENT: WATCH BEFORE MONDAY 930am! #SOFI #SPY #TSLA #PLTR #NVDA #AMD](https://www.youtube.com/watch?v=9VNPV0EZKKs) | — | — | [transcript](9VNPV0EZKKs/transcript.md) |
 | — | Invest with Henry | [Time to Invest? (I was right in this video)](https://www.youtube.com/watch?v=9VOb5lcIotU) | — | — | [transcript](9VOb5lcIotU/transcript.md) |
@@ -3880,6 +3883,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Country Risk: A 2019 mid-year update](https://www.youtube.com/watch?v=JVg7TOiXUfQ) | — | — | [transcript](JVg7TOiXUfQ/transcript.md) · [materials](JVg7TOiXUfQ/materials/) |
 | — | Aswath Damodaran | [Valuation Tools Webcast #8: Terminal Value](https://www.youtube.com/watch?v=JW-S4BVSZV0) | — | — | [transcript](JW-S4BVSZV0/transcript.md) |
 | — | Greg Isenberg | [Why Graph Engineering will 10x your Claude/Codex](https://www.youtube.com/watch?v=JWhICz1QR8M) | — | — | [transcript](JWhICz1QR8M/transcript.md) |
+| — | HealthyGamerGG | [Why "AI Replacing Developers" Won't Work](https://www.youtube.com/watch?v=JX9xNgN0vmk) | — | — | [transcript](JX9xNgN0vmk/transcript.md) |
 | — | Tom Nash | [Wolfe Research: "Tesla can surge 30%"](https://www.youtube.com/watch?v=JXCS5oTpad8) | — | — | [transcript](JXCS5oTpad8/transcript.md) · [visuals](JXCS5oTpad8/visuals.md) |
 | — | Aswath Damodaran | [Data Update 2 for 2021: The Price of Risk!](https://www.youtube.com/watch?v=JXq4RINVNEY) | — | — | [transcript](JXq4RINVNEY/transcript.md) · [materials](JXq4RINVNEY/materials/) |
 | — | Aswath Damodaran | [Share Count Confusion: Dilution, Employee Options and Multiple Share Classes!](https://www.youtube.com/watch?v=JY5le5IzbgE) | — | — | [transcript](JY5le5IzbgE/transcript.md) · [materials](JY5le5IzbgE/materials/) |
@@ -6983,6 +6987,7 @@ Each transcript link points to the full text under this folder.
 | — | Sean Nalewanyj | [Whey Protein Powder Scam: "Amino Acid Spiking"](https://www.youtube.com/watch?v=aUOIhS9B2aA) | — | — | [transcript](aUOIhS9B2aA/transcript.md) |
 | — | JPG Coaching | [7 Ways To Improve Sleep for Better Gains](https://www.youtube.com/shorts/aUUP1DacxyU) | — | — | [transcript](aUUP1DacxyU/transcript.md) · Short |
 | — | Alex Hormozi | [How to Get Anyone to Do Anything You Want](https://www.youtube.com/watch?v=aUnorufFIq8) | — | — | [transcript](aUnorufFIq8/transcript.md) |
+| — | HealthyGamerGG | [How Gambling Devours Young Men](https://www.youtube.com/watch?v=aVDsRkwiUUQ) | — | — | [transcript](aVDsRkwiUUQ/transcript.md) |
 | — | JulienHimself | [STOP "Playing It Safe" & Instead Do This!](https://www.youtube.com/watch?v=aVLfzLqJ4Zk) | — | — | [transcript](aVLfzLqJ4Zk/transcript.md) |
 | — | Leila Hormozi | [How to go from $0 to MILLIONAIRE [33 min training]](https://www.youtube.com/watch?v=aVfCrCpS0wY) | — | — | [transcript](aVfCrCpS0wY/transcript.md) |
 | — | Leila Hormozi | [How I REPROGRAM myself for success in love, money & happiness](https://www.youtube.com/watch?v=aWQS8yA9RjE) | — | — | [transcript](aWQS8yA9RjE/transcript.md) |
@@ -11477,8 +11482,3 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [Give Me 42 Minutes, I'll Show You How To Sell Like The Top 1%](https://www.youtube.com/watch?v=zzleYxkf39k) | — | — | [transcript](zzleYxkf39k/transcript.md) |
 | — | New Money | [Should Warren Buffett Buy Tesla Stock?](https://www.youtube.com/watch?v=zzmZWrSWU7Q) | — | — | [transcript](zzmZWrSWU7Q/transcript.md) · [visuals](zzmZWrSWU7Q/visuals.md) |
 | — | Vinh Giang | [They Spelled My Name Wrong...](https://www.youtube.com/watch?v=zzoPFGdF4BA) | — | — | [transcript](zzoPFGdF4BA/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [The Global Credit Reset Is Here (and Why Silver is Next)](https://www.youtube.com/watch?v=9V9SyhslOtk) | — | — | [transcript](9V9SyhslOtk/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [They Crashed Gold on Purpose (Here's the Real Debt Crisis Plan)](https://www.youtube.com/watch?v=6t4o34kxXnU) | — | — | [transcript](6t4o34kxXnU/transcript.md) |
-| — | Felix & Friends (Goat Academy) | [Trump Just Admitted Dollar Reset (Most Don't Understand the Plan)](https://www.youtube.com/watch?v=1wi_-c3HbDY) | — | — | [transcript](1wi_-c3HbDY/transcript.md) |
-| — | HealthyGamerGG | [Why "AI Replacing Developers" Won't Work](https://www.youtube.com/watch?v=JX9xNgN0vmk) | — | — | [transcript](JX9xNgN0vmk/transcript.md) |
-| — | HealthyGamerGG | [How Gambling Devours Young Men](https://www.youtube.com/watch?v=aVDsRkwiUUQ) | — | — | [transcript](aVDsRkwiUUQ/transcript.md) |
