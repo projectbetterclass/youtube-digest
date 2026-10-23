@@ -139,3 +139,31 @@ def test_any_language_with_no_captions_is_a_miss(monkeypatch):
     monkeypatch.setattr(T, "YouTubeTranscriptApi", _listing_api([], calls))
     text, ok, blocked, reason, lang = T.fetch_transcript_any_language("vid", ["en"])
     assert (ok, blocked, lang) == (False, False, "") and reason.startswith("NoTranscriptFound") and len(calls) == 1
+
+
+def test_proxy_out_of_data_is_reported_as_a_block(monkeypatch):
+    # The Webshare plan's data is used up: every attempt fails at the proxy itself.
+    # Reported as a block, so collectors stop and mark nothing (not "no transcript").
+    class ProxyError(requests.exceptions.ConnectionError):  # same name as requests' ProxyError
+        pass
+
+    calls = []
+    monkeypatch.setattr(T, "_build_proxy_config", lambda: object())
+    monkeypatch.setattr(T, "YouTubeTranscriptApi", _fake_api(
+        [ProxyError("Tunnel connection failed: 402 Payment Required")] * T.PROXY_ATTEMPTS, calls))
+    _, ok, blocked, reason = T.fetch_transcript("vid", ["en"])
+    assert (ok, blocked) == (False, True) and reason.startswith("ProxyError")
+    assert len(calls) == T.PROXY_ATTEMPTS   # still tried every fresh exit IP first
+
+
+def test_one_proxy_refusal_among_other_errors_is_a_miss(monkeypatch):
+    # Timeouts, then the proxy refuses only the last attempt: a hiccup, not a run-out.
+    class ProxyError(requests.exceptions.ConnectionError):
+        pass
+
+    monkeypatch.setattr(T, "_build_proxy_config", lambda: object())
+    outcomes = [requests.exceptions.ReadTimeout("slow")] * (T.PROXY_ATTEMPTS - 1) + [ProxyError("reset")]
+    monkeypatch.setattr(T, "YouTubeTranscriptApi", _fake_api(outcomes, []))
+    _, ok, blocked, reason = T.fetch_transcript("vid", ["en"])
+    assert (ok, blocked) == (False, False) and reason.startswith("ProxyError")
+

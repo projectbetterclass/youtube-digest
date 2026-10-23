@@ -24,9 +24,31 @@ the PC (not possible from a cloud session):
 PC has no Anthropic key) for the user's **priority channels: JulienHimself, HealthyGamerGG,
 Ben Yanes, Tom Nash, Ticker Symbol: YOU, BWB, David Carbutt, Felix & Friends, New Money,
 Starter Story, Greg Isenberg, Riley Brown, Justin Sung** (`PRIORITY` in the script), through the Webshare proxy (`.env`), then commits
-and pushes `data/`. It stands down by itself once the cloud digest commits again. Nothing
-schedules it — the user chose to trigger it by hand. Only collect the channels the user
-names; they haven't decided on the others.
+and pushes `data/`. It stands down by itself once the cloud digest commits again.
+`local_collect.py` itself isn't scheduled (it's for back catalogs, earlier misses and named
+channels); for any of that, only collect the channels the user names.
+
+**Daily local job (user asked 2026-10-23: "run every day when the pc is on"):**
+`scripts/daily_local.py`, run by the Windows Task Scheduler task **"YouTube library - daily"**
+(install/update: `powershell -ExecutionPolicy Bypass -File scripts\install_daily_task.ps1`;
+turn off: same with `-Remove`). It checks hourly 10:00–24:00 and 15 min after log-on, runs at
+most twice a day (12 h after its last *successful* run, so a failed run is retried at the next
+check), with no window, independent of chat sessions. Each run, for every watchlist channel:
+reads the RSS feed (15 newest uploads); collects transcripts (no briefs) for uploads from the
+last 30 days not yet in the library — 5 days (`max_age_days`) for the new-uploads-only channels
+Chris Williamson and The Diary Of A CEO, so their skipped backlog stays skipped; Shorts only
+where `shorts:` is set — at most 150 per run; then screen-captures up to 10 recent (≤30 days)
+uncaptured uploads on `visual: true` channels (needs the PC's `ANTHROPIC_API_KEY`; uploads that
+`local_collect.py` stored without a date get it from the feed, back catalogs stay dateless and
+are never captured by it); then commits
+and pushes `data/`. On a push conflict it merges library records (theirs + ours) instead of
+stopping; it refuses (and says so) when the copy isn't on `main`, a rebase is half-done, or
+unpushed local commits touch files outside `data/`. It stops cleanly, marking nothing, when the
+proxy data runs out (every attempt a ProxyError) or YouTube blocks the PC (RSS goes through the
+proxy too: when every feed fails, the run doesn't count and retries hourly); stands down once the
+cloud digest commits again; shares `local_collect.py`'s lock. Log:
+`%LOCALAPPDATA%\ytdigest\daily.log`; last result (OK/FAILED + counts): `daily_status.txt` next
+to it. Expected cost: ~65–130 MB of proxy a month, well under $1/month of API credit.
 
 ### Where the copies live
 - **User's PC (Windows):** working copy at `C:\Users\Gebruiker\Downloads\Youtube Scraper`
@@ -99,8 +121,9 @@ straight-line extrapolation; ignore it.)
   safe, since an IP block stops the run without marking anything, but YouTube allows few: on
   2026-10-19 it gave 15 (Felix 7, Greg Isenberg 4, Ticker 2, HealthyGamerGG 2) then IpBlocked.
   Use it only for a handful; the rest waits for the proxy reset.
-  Chris Williamson and The Diary Of A CEO are new-uploads-only and miss everything since
-  2026-09-22 (user chose not to catch them up).
+  Chris Williamson and The Diary Of A CEO are new-uploads-only and miss everything from
+  2026-09-22 until about 2026-10-18 (user chose not to catch them up); the daily local job
+  takes their new uploads from then on (its 5-day window).
 - **Aswath's interviews on other channels** (173 transcripts + a CSV of 302 appearances)
   live in the separate Valuation Agent repo, not here.
 - **Playlists the user names** (since 2026-10-12): `local_collect.py --playlist <id or link>`
@@ -110,7 +133,11 @@ straight-line extrapolation; ignore it.)
   A playlist takes captions in **any language**: a video with none in `transcript_languages`
   keeps its own-language captions (hand-made before auto-generated), under an italic note in
   `transcript.md` naming the language. Channel runs and the cloud digest stay English-only.
-  (The Buddha playlist's first run, 2026-10-14, found no English captions; this fixed it.)
+  (The Buddha playlist's first run, 2026-10-14 20:32–20:38, started minutes before this fix was
+  merged and looked for English only: **all 42 videos are still without a transcript**, each a
+  `NoTranscriptFound` miss = captions exist in another language. Re-run
+  `local_collect.py --playlist PLqnSdW-e2Bah9Lh0MBn7JjW5kswNUDcZd` after the proxy reset (~17 MB);
+  it retries these misses. Checked 2026-10-23.)
   ~0.4 MB of proxy per video. First one: the **Buddha playlist** `PLqnSdW-e2Bah9Lh0MBn7JjW5kswNUDcZd`
   (the Buddha's teaching in plain words), for the Buddha goal in the user's time-tracker
   app (the Assistant repo); the user has listened to it once already.

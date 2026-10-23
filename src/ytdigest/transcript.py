@@ -123,6 +123,7 @@ def _fetch(video_id: str, languages: list[str], any_language: bool) -> tuple[str
     # Single IP (home/no proxy): one retry after a 20s back-off, only for a block.
     attempts = PROXY_ATTEMPTS if proxy_config else 2
     reason = ""
+    proxy_refusals = 0
     for attempt in range(attempts):
         last = attempt == attempts - 1
         try:
@@ -134,6 +135,7 @@ def _fetch(video_id: str, languages: list[str], any_language: bool) -> tuple[str
         except Exception as exc:  # noqa: BLE001 — any failure means "no usable transcript"
             reason = f"{type(exc).__name__}: {exc}".strip()
             blocked = _is_ip_block(exc)
+            proxy_refusals += type(exc).__name__ == "ProxyError"
             if proxy_config and (blocked or isinstance(exc, requests.RequestException)) and not last:
                 continue  # new exit IP on the next attempt
             if not proxy_config and blocked and not last:
@@ -143,7 +145,12 @@ def _fetch(video_id: str, languages: list[str], any_language: bool) -> tuple[str
             log.info("No transcript for %s (%s)", video_id, reason[:200])
             # With a rotating pool, exhausting the attempts isn't an IP block of *ours* —
             # record it as a miss (the caller can retry later) instead of halting the run.
-            return "", False, blocked and not proxy_config, reason, ""
+            # Except when the proxy itself refuses every attempt (ProxyError: the plan's data
+            # is used up, or the proxy is unreachable): then every later video would fail the
+            # same way and be recorded as having no transcript, so report it as a block — the
+            # caller stops and marks nothing. One refusal among other errors is just a hiccup.
+            proxy_down = bool(proxy_config) and proxy_refusals == attempts
+            return "", False, (blocked and not proxy_config) or proxy_down, reason, ""
 
         parts = []
         for snippet in fetched:
