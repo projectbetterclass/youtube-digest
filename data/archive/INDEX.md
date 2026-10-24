@@ -770,6 +770,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 15: The Tesla Bot Case and Side Benefits/Costs in Projects](https://www.youtube.com/watch?v=1ctuQkQoFZk) | — | — | [transcript](1ctuQkQoFZk/transcript.md) · [materials](1ctuQkQoFZk/materials/) |
 | — | Tom Nash | [The Real Estate Crash 2023](https://www.youtube.com/watch?v=1d08iOdJSnw) | — | — | [transcript](1d08iOdJSnw/transcript.md) · [visuals](1d08iOdJSnw/visuals.md) |
 | — | New Money | [How the Inverted Yield Curve Reliably Predicts Recessions.](https://www.youtube.com/watch?v=1d2NGMKxhj4) | — | — | [transcript](1d2NGMKxhj4/transcript.md) · [visuals](1d2NGMKxhj4/visuals.md) |
+| — | Riley Brown | [Gemini 4 is HERE… But Fable 5.5 Is TERRIFYING](https://www.youtube.com/watch?v=1d7P3ewd9AA) | — | — | [transcript](1d7P3ewd9AA/transcript.md) |
 | — | HealthyGamerGG | [PSYCHEDELICS: A Conversation With Rick Doblin \| Dr. K Interviews](https://www.youtube.com/watch?v=1e2h-awLC-s) | — | — | [transcript](1e2h-awLC-s/transcript.md) |
 | — | Invest with Henry | [Top 5 Stocks I'm Buying Right Now for HUGE Growth](https://www.youtube.com/watch?v=1eHUjwOEqkk) | — | — | [transcript](1eHUjwOEqkk/transcript.md) |
 | — | Aswath Damodaran | [Chapter/Session 12: Valuing Mature Firms](https://www.youtube.com/watch?v=1esgFI00KUE) | — | — | [transcript](1esgFI00KUE/transcript.md) · [materials](1esgFI00KUE/materials/) |
@@ -1104,6 +1105,7 @@ Each transcript link points to the full text under this folder.
 | — | Justin Sung | [How I Ranked 1st at Monash University: 4-step Framework](https://www.youtube.com/watch?v=3Z7frfjiEcM) | — | — | [transcript](3Z7frfjiEcM/transcript.md) |
 | — | HealthyGamerGG | [How to Stop Locking Up in Conversations](https://www.youtube.com/watch?v=3ZeQJeTpVMI) | — | — | [transcript](3ZeQJeTpVMI/transcript.md) |
 | — | Sean Nalewanyj | ["How Long Should My Workout Be?" (Ideal Workout Length)](https://www.youtube.com/watch?v=3ZprYed3CPw) | — | — | [transcript](3ZprYed3CPw/transcript.md) |
+| — | BWB - Business With Brian | [Generational Wealth Is Being Built Now. Don’t Be Left Behind](https://www.youtube.com/watch?v=3ZvWbsE_tFQ) | — | — | [transcript](3ZvWbsE_tFQ/transcript.md) |
 | — | Greg Isenberg | [I got a private lesson on Google's NEW Nano Banana AI Model](https://www.youtube.com/watch?v=3Zvk4AMCrG8) | — | — | [transcript](3Zvk4AMCrG8/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [*this* is why everything just changed](https://www.youtube.com/watch?v=3_0Ym0RIaik) | — | — | [transcript](3_0Ym0RIaik/transcript.md) |
 | — | Ben Yanes | [Modern Meathead Experience #36 - Strength](https://www.youtube.com/watch?v=3_10pdXnq3c) | — | — | [transcript](3_10pdXnq3c/transcript.md) |
@@ -1261,6 +1263,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | ["Machines Aren't Functional" - Really?](https://www.youtube.com/watch?v=4NdOqWVjJn0) | — | — | [transcript](4NdOqWVjJn0/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The End of the Petrodollar – Most Aren't Ready](https://www.youtube.com/watch?v=4NuzBZRk4v8) | — | — | [transcript](4NuzBZRk4v8/transcript.md) |
 | — | Riley Brown | [Codex Mobile App Released (Complete Setup Guide)](https://www.youtube.com/watch?v=4OiLljSo-hw) | — | — | [transcript](4OiLljSo-hw/transcript.md) |
+| — | Riley Brown | [How Smart People Are Using AI Right Now (7 Insane Use Cases)](https://www.youtube.com/watch?v=4PO0x-myitw) | — | — | [transcript](4PO0x-myitw/transcript.md) |
 | — | HealthyGamerGG | [The Honest Truth of ADHD & Adderall Meds](https://www.youtube.com/watch?v=4PTl27tTmfY) | — | — | [transcript](4PTl27tTmfY/transcript.md) |
 | — | Alex Hormozi | [#1 Mistake I'm Seeing Gyms Make Right Now [ALEX HORMOZI]](https://www.youtube.com/watch?v=4PX-hE6LTSU) | — | — | [transcript](4PX-hE6LTSU/transcript.md) |
 | — | Ben Yanes | [The #1 Pressing Mistake (& how to fix)](https://www.youtube.com/shorts/4PYJuN-AbSM) | — | — | [transcript](4PYJuN-AbSM/transcript.md) · Short |
@@ -3639,6 +3642,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [The Sharing Economy comes home! The Airbnb IPO (at long last)!](https://www.youtube.com/watch?v=I2bl-R7vQh8) | — | — | [transcript](I2bl-R7vQh8/transcript.md) · [materials](I2bl-R7vQh8/materials/) |
 | — | BWB - Business With Brian | [Which Cheap Stock Could Explode Next?](https://www.youtube.com/watch?v=I2byxVGZwkA) | — | — | [transcript](I2byxVGZwkA/transcript.md) · [visuals](I2byxVGZwkA/visuals.md) |
 | — | TheQuadfatherBW | [How to safely warm up leg extensions - Episode 3](https://www.youtube.com/watch?v=I32g6TckfFo) | — | — | [transcript](I32g6TckfFo/transcript.md) |
+| — | BWB - Business With Brian | [These 4 Stocks Pulled Back. The Spring Is Loaded](https://www.youtube.com/watch?v=I3tyDUSTRq4) | — | — | [transcript](I3tyDUSTRq4/transcript.md) |
 | — | HealthyGamerGG | [Why You Can't Really Fix Your Sibling's Mental Health](https://www.youtube.com/watch?v=I4-j53VLbRg) | — | — | [transcript](I4-j53VLbRg/transcript.md) |
 | — | Tom Nash | [Billionaire Ron Baron Just Dropped another MASSIVE Bombshell About Tesla](https://www.youtube.com/watch?v=I4G2CYSNT6E) | — | — | [transcript](I4G2CYSNT6E/transcript.md) · [visuals](I4G2CYSNT6E/visuals.md) |
 | — | Ben Yanes | [Fix your pulldowns by doing this…](https://www.youtube.com/shorts/I5kY38LyNUg) | — | — | [transcript](I5kY38LyNUg/transcript.md) · Short (music; content on screen) |
@@ -3893,6 +3897,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Data Update 2 for 2021: The Price of Risk!](https://www.youtube.com/watch?v=JXq4RINVNEY) | — | — | [transcript](JXq4RINVNEY/transcript.md) · [materials](JXq4RINVNEY/materials/) |
 | — | Aswath Damodaran | [Share Count Confusion: Dilution, Employee Options and Multiple Share Classes!](https://www.youtube.com/watch?v=JY5le5IzbgE) | — | — | [transcript](JY5le5IzbgE/transcript.md) · [materials](JY5le5IzbgE/materials/) |
 | — | Justin Sung | [Video Games Made Me LESS Lazy (As an Ex-Doctor)](https://www.youtube.com/watch?v=JY66Ldk79TU) | — | — | [transcript](JY66Ldk79TU/transcript.md) |
+| — | BWB - Business With Brian | [Nvidia Just Delivered Massive News for These 10 Stocks](https://www.youtube.com/watch?v=JYF40KTxQpA) | — | — | [transcript](JYF40KTxQpA/transcript.md) |
 | — | JPG Coaching | [July 21, 2024](https://www.youtube.com/shorts/JZFV-fKczro) | — | — | [transcript](JZFV-fKczro/transcript.md) · Short |
 | — | Ben Yanes | ["Compound" and "Isolation" Exercises Don't Exist](https://www.youtube.com/watch?v=JZaRcpVO4GM) | — | — | [transcript](JZaRcpVO4GM/transcript.md) |
 | — | Aswath Damodaran | [Data Update 5 for 2025: It is a small world after all!](https://www.youtube.com/watch?v=JZzuZznpgfc) | — | — | [transcript](JZzuZznpgfc/transcript.md) · [materials](JZzuZznpgfc/materials/) |
@@ -6618,6 +6623,7 @@ Each transcript link points to the full text under this folder.
 | — | Starter Story | [My Side Project Makes $15K/Month (Quit My 9-5)](https://www.youtube.com/watch?v=ZGwQoRw7mh8) | — | — | [transcript](ZGwQoRw7mh8/transcript.md) |
 | — | JulienHimself | [Why You Still People Please (Even When You Shouldn't)](https://www.youtube.com/watch?v=ZHduEYrPIYo) | — | — | [transcript](ZHduEYrPIYo/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying This AI Stock Hand Over Fist (Here's Why)](https://www.youtube.com/watch?v=ZHlFIctxBDs) | — | — | [transcript](ZHlFIctxBDs/transcript.md) · [visuals](ZHlFIctxBDs/visuals.md) |
+| — | Riley Brown | [How I’m Actually Using Claude Duet (After 10 Hours of Testing)](https://www.youtube.com/watch?v=ZIBI6FiLxgQ) | — | — | [transcript](ZIBI6FiLxgQ/transcript.md) |
 | — | David Carbutt | [Palantir Director: How AI Could Save the UK](https://www.youtube.com/watch?v=ZIGY7CORzRM) | — | — | [transcript](ZIGY7CORzRM/transcript.md) |
 | — | Invest with Henry | [URGENT: WATCH BEFORE MONDAY 930am! #SOFI #SPY #PLTR #NVDA #TSLA](https://www.youtube.com/watch?v=ZI_6_N98rVY) | — | — | [transcript](ZI_6_N98rVY/transcript.md) |
 | — | HealthyGamerGG | [Why Being the Most Reliable Person Is Ruining You](https://www.youtube.com/watch?v=ZIjBj63W8KU) | — | — | [transcript](ZIjBj63W8KU/transcript.md) |
@@ -7846,6 +7852,7 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [How the top 1% make their money](https://www.youtube.com/watch?v=fD-sxKiB30M) | — | — | [transcript](fD-sxKiB30M/transcript.md) |
 | — | Vinh Giang | [Communication exists on a continuum](https://www.youtube.com/watch?v=fD0bKuV7Ea8) | — | — | [transcript](fD0bKuV7Ea8/transcript.md) |
 | — | Aswath Damodaran | [The Margin of Safety: Tool for Action or Excuse for Inaction](https://www.youtube.com/watch?v=fD4eidcxoEM) | — | — | [transcript](fD4eidcxoEM/transcript.md) · [materials](fD4eidcxoEM/materials/) |
+| — | Riley Brown | [Start Using Claude Code For EVERYTHING (Trust Me)](https://www.youtube.com/watch?v=fDE5R4fSq2w) | — | — | [transcript](fDE5R4fSq2w/transcript.md) |
 | — | New Money | [The Stock Market is Getting Chaotic... (Howard Marks Explains)](https://www.youtube.com/watch?v=fDUvFDdMAMQ) | — | — | [transcript](fDUvFDdMAMQ/transcript.md) · [visuals](fDUvFDdMAMQ/visuals.md) |
 | — | Justin Sung | [You're Not Stupid: How To Never Lose Focus Again](https://www.youtube.com/watch?v=fDpBqMCugZg) | — | — | [transcript](fDpBqMCugZg/transcript.md) |
 | — | Layman Dhamma | [42＂အ‌ခြေခံဉာဏ်နှစ်ပါးနှင့် အနတ္တအမြင် ၂၁ Q&A＂ Dr.  Soe Lwin မန္တလေးတကောင်းကျောင်းတိုက် ၁၅-၃-၂၀၂၆](https://www.youtube.com/watch?v=fDurWWvysmw) | — | — | [transcript](fDurWWvysmw/transcript.md) |
@@ -8686,6 +8693,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [Maximize glute growth with this technique](https://www.youtube.com/shorts/k-bmyGh-VJU) | — | — | [transcript](k-bmyGh-VJU/transcript.md) · Short |
 | — | Sean Nalewanyj | [Do Chest Workouts Make Women's Breasts Smaller?](https://www.youtube.com/watch?v=k0cjLu-RVMc) | — | — | [transcript](k0cjLu-RVMc/transcript.md) |
 | — | HealthyGamerGG | [How High Performers Get Ahead](https://www.youtube.com/watch?v=k0iUzEJQ1so) | — | — | [transcript](k0iUzEJQ1so/transcript.md) |
+| — | BWB - Business With Brian | [AI Stocks Are on Sale. It Won’t Last](https://www.youtube.com/watch?v=k1xJbNAGmFg) | — | — | [transcript](k1xJbNAGmFg/transcript.md) |
 | — | BWB - Business With Brian | [Brokered CDs on Fidelity 2023: How to Buy New and Secondary CDs](https://www.youtube.com/watch?v=k206NBcB1fo) | — | — | [transcript](k206NBcB1fo/transcript.md) · [visuals](k206NBcB1fo/visuals.md) |
 | — | David Carbutt | [Dan Ives’s HUGE Palantir & NVIDIA Predictions!!](https://www.youtube.com/watch?v=k25LVL__vCU) | — | — | [transcript](k25LVL__vCU/transcript.md) |
 | — | JPG Coaching | [Gatekeeping Pulldowns?? 😳](https://www.youtube.com/shorts/k27_XqDhT38) | — | — | [transcript](k27_XqDhT38/transcript.md) · Short |
@@ -11492,11 +11500,3 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [Give Me 42 Minutes, I'll Show You How To Sell Like The Top 1%](https://www.youtube.com/watch?v=zzleYxkf39k) | — | — | [transcript](zzleYxkf39k/transcript.md) |
 | — | New Money | [Should Warren Buffett Buy Tesla Stock?](https://www.youtube.com/watch?v=zzmZWrSWU7Q) | — | — | [transcript](zzmZWrSWU7Q/transcript.md) · [visuals](zzmZWrSWU7Q/visuals.md) |
 | — | Vinh Giang | [They Spelled My Name Wrong...](https://www.youtube.com/watch?v=zzoPFGdF4BA) | — | — | [transcript](zzoPFGdF4BA/transcript.md) |
-| — | BWB - Business With Brian | [AI Stocks Are on Sale. It Won’t Last](https://www.youtube.com/watch?v=k1xJbNAGmFg) | — | — | [transcript](k1xJbNAGmFg/transcript.md) |
-| — | BWB - Business With Brian | [These 4 Stocks Pulled Back. The Spring Is Loaded](https://www.youtube.com/watch?v=I3tyDUSTRq4) | — | — | [transcript](I3tyDUSTRq4/transcript.md) |
-| — | BWB - Business With Brian | [Generational Wealth Is Being Built Now. Don’t Be Left Behind](https://www.youtube.com/watch?v=3ZvWbsE_tFQ) | — | — | [transcript](3ZvWbsE_tFQ/transcript.md) |
-| — | BWB - Business With Brian | [Nvidia Just Delivered Massive News for These 10 Stocks](https://www.youtube.com/watch?v=JYF40KTxQpA) | — | — | [transcript](JYF40KTxQpA/transcript.md) |
-| — | Riley Brown | [How I’m Actually Using Claude Duet (After 10 Hours of Testing)](https://www.youtube.com/watch?v=ZIBI6FiLxgQ) | — | — | [transcript](ZIBI6FiLxgQ/transcript.md) |
-| — | Riley Brown | [How Smart People Are Using AI Right Now (7 Insane Use Cases)](https://www.youtube.com/watch?v=4PO0x-myitw) | — | — | [transcript](4PO0x-myitw/transcript.md) |
-| — | Riley Brown | [Gemini 4 is HERE… But Fable 5.5 Is TERRIFYING](https://www.youtube.com/watch?v=1d7P3ewd9AA) | — | — | [transcript](1d7P3ewd9AA/transcript.md) |
-| — | Riley Brown | [Start Using Claude Code For EVERYTHING (Trust Me)](https://www.youtube.com/watch?v=fDE5R4fSq2w) | — | — | [transcript](fDE5R4fSq2w/transcript.md) |
