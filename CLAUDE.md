@@ -10,8 +10,8 @@ This repo is two things:
 
 ## Project state (keep this section current)
 
-### Snapshot (2026-10-24)
-Library: **11,495 videos, 11,130 with transcripts**, 699 with linked documents, 1,911 with
+### Snapshot (2026-10-27)
+Library: **11,511 videos, 11,146 with transcripts**, 699 with linked documents, 1,911 with
 on-screen visuals read (12,076 charts/slides). 24 channels in `config/watchlist.yml` (Invest with Henry added 2026-10-14, collected 2026-10-15) plus the 42-video Buddha playlist (no transcripts yet, see Playlists below); 1,568 of the videos are YouTube Shorts.
 **The daily local job is ON since 2026-10-23** (details below). Proxy data is used up until
 the next Webshare reset; whether the 1 GB plan bought 2026-10-11 replaced the 3 GB plan (then
@@ -124,11 +124,16 @@ straight-line extrapolation; ignore it.)
 - **Other channels** (Chris Raroque, Aswath): at their target as of 2026-10-02.
   No transcript collection has run for the priority channels since 2026-10-02, so their
   newer uploads (20+ by 2026-10-07) wait for the next "collect my priority channels".
-  **Without the proxy** (home connection; run with WEBSHARE_PROXY_USERNAME/PASSWORD set empty):
+  **Without the proxy** (home connection; run with WEBSHARE_PROXY_USERNAME/PASSWORD set empty —
+  from **bash** (`WEBSHARE_PROXY_USERNAME= WEBSHARE_PROXY_PASSWORD= .venv/Scripts/python.exe ...`);
+  in Windows PowerShell `$env:X = ''` *deletes* the variable, so `.env` refills it and the proxy is used):
   safe, since an IP block stops the run without marking anything, but YouTube allows few: on
   2026-10-19 it gave 15 (Felix 7, Greg Isenberg 4, Ticker 2, HealthyGamerGG 2) then IpBlocked;
   on 2026-10-24 (user asked, block had lifted after 5 days) 18 more (BWB 5, Riley Brown 4,
-  HealthyGamerGG 4, Felix 3, Ticker 1, Greg 1) then IpBlocked again, in ~2 minutes.
+  HealthyGamerGG 4, Felix 3, Ticker 1, Greg 1) then IpBlocked again, in ~2 minutes; on
+  2026-10-27 (3 days later) 16 more (Riley Brown 6, Felix 2, Starter Story 2, New Money 2,
+  HealthyGamerGG 1, Greg 1, Ticker 1, BWB 1) then IpBlocked. The proxy still answered 402 on
+  2026-10-27, three days after the expected 24 Oct reset: the 3 GB plan most likely didn't renew.
   Use it only for a handful; the rest waits for the proxy reset.
   Chris Williamson and The Diary Of A CEO are new-uploads-only and miss everything from
   2026-09-22 until about 2026-10-18 (user chose not to catch them up); the daily local job
