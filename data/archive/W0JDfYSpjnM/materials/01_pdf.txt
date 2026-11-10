@@ -1,0 +1,339 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/AnthropicFollowUp.pdf
+
+Pushback and Response!
+Aswath Damodaran
+2
+§I knew that my post on Anthropic would draw strong 
+reactions, when I made it public last week.  
+§I have no interest in selling my estimate of value to the rest 
+of the world, both because I don't have a dog in this race and 
+also because I don't own the high ground here. 
+§That is why I made my model open to changes that you can 
+make to my story and inputs, and while you have to trust my 
+mechanics, I tried to faithfully carry your inputs into value. 
+§Much of the pushback I have received has been thoughtful 
+and productive, some of it has been emotional and some of it, 
+in my view, reflects a fundamental disconnect with market 
+history , current market pricing and just basic business 
+sense.
+3
+§I plan to play devil's advocate with my own valuation, 
+looking at my story inputs, and ranking them in order of 
+fragility, partly to stress-test my value estimate and partly to 
+reinforce some corporate finance first principles.
+§This does require that I
+§Understand how my story tracks through the valuation and 
+affects the final value – which is why I keep my valuations 
+parsimonious.
+§Be open about which of my story lines (and assumptions) are 
+most fragile and potentially weakest
+Aswath Damodaran
+5
+§Value per share: Though I have a share count, created by adding the shares 
+reported as outstanding in the balance sheet to the restricted shares 
+granted to employees, that share count will change before the public 
+offering, as bankers adjust it to deliver on a per share value that they 
+believe will make the company more "sellable". 
+§Cost of capital choices: I used a 9.74% cost of capital which incorporates 
+risky technology cost of equity and a cost of debt based on a BB+ rating 
+for the company, putting the company at close to the 90th percentile of US 
+companies in 2026. 
+§Compute commitments: I In my valuation, my estimate of contractual 
+commitments results in an aggregated value of just over $450 billion and a 
+present value of about $373 billion. It is possible that these numbers will 
+need revisiting as details emerge of these commitments, but this will 
+remain a long-term issue for anyone valuing or pricing the company. 
+§Dilution Risk: Anthropic, like many young companies, has used its equity 
+as currency, paying employees with restricted stock and options and as an 
+add-on to borrow money in the form of convertible bonds. In addition, if 
+the company needs to raise capital in future years, it will issue additional 
+shares for that purpose, and the larger its ambitions, the greater these 
+issuance will be.
+6
+§The equity value that I obtain for Anthropic is close to the 
+lower end of the offering price estimates, and some, but as I 
+noted at the time that I posted it, and will reinforce again now, it 
+is a function of not just an upbeat story about the company , 
+but also one about how the AI products and services 
+market will evolve over time. 
+§To the question that some posed about whether I was 
+concerned that I could be wrong, of course I am, but what 
+difference does being concerned make? 
+§I would, of course, rather be right than wrong, but I am 
+trying to forecast the future, and it is a guarantee that I will be 
+wrong. That said, though, I am more uncertain and exposed 
+on some parts of my story line than others, and here is how 
+I would rank them for Anthropic.
+7
+8
+§I described the governance structure at Anthropic in my last post, 
+describing the combination of a public benefit corporation and a 
+voting structure that leaves founders in control, no matter how much 
+capital the company raises in equity markets, as a red flag. 
+§I did get some pushback from some, primarily in technology, arguing that 
+this is a good feature, not a bad one, since these are smart people who 
+understand AI better than anyone else in the world. 
+§Even if you accept these views as facts, I would still argue, perhaps even more 
+forcefully, that concentrating power in the hands of founders is a bad idea. 
+§Anthropic has a plausible or even probable pathways to business riches, but 
+those pathways come with setbacks (technological, regulatory, competitive), 
+and you need management that can respond quickly and change. 
+§For the latter to happen, you need outsiders, often not as immersed or even as 
+informed on the technology front, but with different backgrounds and 
+experiences, to call attention to management missteps and push for change. 
+§I don't know any of the founders of Anthropic, and this may be unfair, but 
+they seem to share a worldview (not surprising) and operate in an 
+echo chamber. 
+Aswath Damodaran
+9
+10
+Aswath Damodaran
+11
+§I know that for some of you, the cost of capital of 9.74% is the main 
+stumbling block, as you put it "the fatal flaw" in the valuation, but I do not 
+think so, and I will address why later in the post.
+§I also know that for others, the notion of a money-losing company 
+borrowing hundreds of billions, either directly as debt or through 
+contractual commitments, creates a failure risk probability that is so 
+high that the rest of the valuation is moot. I agree with you on the 
+general argument that some players in the AI ecosystem, but Anthropic is 
+no Coreweave, especially if you consider that most of its debt is in 
+contractual commitments spread out over time and that it will have a cash 
+balance large enough to cover its first few years of those commitments.
+§It is on the regulatory risk front that I worry the most about being 
+wrong, because regulatory risk is as much driven by politics as it is driven 
+by economics. You could be one major election away from onerous 
+regulations, where unlike my base case, where those regulations cost you 
+only a small slice of your operating profits, they take a major bite out of 
+revenues and profits.
+12
+§At this point, you are probably why, if I am this uncertain 
+about a company's future, I would even consider investing 
+in it and it is a question that I have pondered for as long as I 
+have been an investor. Uncertainty is a feature of investing, no 
+matter what you invest in, with the differences across 
+investments lying in how much uncertainty you face, rather than 
+whether you face. 
+§There are four responses that an investor can take to 
+uncertainty:
+§Avoid investments with high uncertainty entirely
+§Use a “margin of safety”
+§Let the law of large numbers work in your favor
+13
+14
+§If I had a million dollars in investable funds, would I invest 
+that money in Anthropic, even if it trades at less than your 
+assessed value? 
+§The answer would be no, given the uncertainties associated 
+with the future of the company, but that answer would change if 
+my portfolio became less concentrated, since its performance 
+would be less a function of any individual company's performance 
+(good or bad). 
+§In effect, I am giving the law of large numbers as an ally to not 
+only reduce my risk exposure to individual companies, but also 
+as a basis for making investments in far riskier stocks than I would 
+normally invest in.
+15
+Aswath Damodaran
+16
+17
+§Among those who disagreed with me, the reasoning varied, but 
+I was disappointed, albeit not surprised, that the biggest 
+single reason outside of "my gut tells me that Anthropic is 
+worth nothing" was a judgment that my cost of capital 
+estimate for the company (9.74%) was much too low. 
+§I was disappointed because I don't think that the cost of 
+capital is at the center of the DCF universe (and I used 
+words to that effect in my original valuation) but the lack of 
+surprise at its prominence comes from observing appraisers 
+and analysts obsess over this number, often without 
+understanding what it is designed to measure and without a 
+frame of reference (as to what a reasonable value for it is), and 
+using it as a receptacle for their hopes, fears and fantasies.
+18
+19
+20
+§While there is much to be learned from modern portfolio 
+theory, one of its more deleterious consequences has been a 
+dumbing down of the cost of equity, where intuition and 
+common sense are supplanted by heated arguments about 
+the capital asset pricing model and betas. 
+§To bring the discussion back to good sense, it is better to start 
+with a recognition that the cost of equity for an investor 
+should reflect what investors can earn elsewhere in the 
+market on an investment of equivalent risk and understand 
+that is what all these models try to measure, often imperfectly. 
+§That number is subjective can vary across investors, based 
+on risk aversion, but the requirement that you can earn that 
+number elsewhere creates a reality check.
+21
+22
+23
+Aswath Damodaran
+24
+•If you believe that the cost of equity should be 15% for the average US firm, 
+given that nominal growth in the US economy is about 5% and that the average 
+return on equity across US firms is about 20% (and that is a generous estimate), 
+the PE ratio for US firms today should be roughly 7.27. 
+•Given that the actual forward PE ratio is closer to 20, you have two 
+choices. One is to sell all your equities, though I am not sure where you would 
+put that money, and the other is to revisit your cost of equity assessment.
+25
+§One reason that the Anthropic cost of capital discussion may 
+have been hijacked is the almost mindless use of debt in 
+funding data centers, a practice that I have strongly attacked as 
+senseless for both the borrowers and for the lenders. 
+§With Coreweave as poster child, this has led to an explosion of 
+concerns about default risk and in market-implied default rates and 
+spreads for some companies. 
+§By extension, Anthropic has become part of this discussion because of 
+the compute commitments that it has locked in, for good and bad 
+reasons. 
+§In fact, the argument for a higher cost of capital goes as follows. If 
+it costs Anthropic 10% or more to borrow money today , it 
+should have a much higher cost of equity to reflect the 
+residual risk. 
+§That intuition breaks down for a simple reason. The cost of debt 
+for companies in this space is high, because of worries about 
+default, and the cost of debt in the cost of capital calculation is 
+designed for going concerns.
+26Aswath Damodaran
+27Aswath Damodaran
+§My estimate for the cost of debt for Anthropic reflects their 
+bond rating of BB+, and it is not a value destroyer for two 
+reasons. 
+§First, Anthropic may owe a lot in commitments, but they are spread 
+out over time, with about $60 billion coming due next year and $76 
+billion the year after. Those are large commitments, but Anthropic 
+has a cash balance of $114 billion, which will increase to over 
+$200 billion after the IPO. 
+§Second, I am not ignoring the risk of default, because I am 
+incorporating a failure risk of 10%, where Anthropic does run 
+into headwinds, is unable to meet its contractual obligations and has 
+to make fire sale. If your concerns about default are higher, that is 
+the number you should be moving, not the cost of capital. 
+§In fact, if you ignore failure risk, as many analysts do, and 
+try to jam default risk it into cost of capital, you would need 
+a cost of capital of about 11% to arrive at an estimate of value 
+close to mine.
+28Aswath Damodaran
+29
+§It is true, based on this table, that you could push the cost of 
+capital for Anthropic higher, perhaps towards the 90th 
+percentile of technology firms, and give it a cost of capital 
+of 12%, but there are two caveats. 
+§The first is that you would then have to set the failure rate to 0%, 
+since the costs of capital in this table do not adjust for failure (and 
+especially so at the higher risk percentiles). 
+§The second is that your cost of capital, in your valuation, has to 
+change over time to be consistent with your story line for 
+Anthropic as a company . 
+§Thus, if you see Anthropic scaling up revenues over time 
+and profits turning positive, its cost of capital will move 
+towards a more typical cost of capital for tech companies over 
+time. If you don't see that happening, you don't need a high 
+cost of capital to conclude that Anthropic is worth little or 
+even nothing.
+30
+§ I know that there are analysts and investors out there who 
+have picked a required rate of return as their hurdle rate 
+for investing and never revisit that number, and almost as many 
+CFOs who do the same for the hurdle rates at companies. 
+§With individual investors and privately owned businesses, 
+the consequences of setting an artificially high cost of capital 
+are personal, and if, after being made aware of them, you stick 
+with a 25% cost of capital, you should. 
+§With institutional investors and publicly traded companies, 
+you are investing other people's money, and you have to 
+consider the costs they will bear because of your overreach.
+Aswath Damodaran
+31Aswath Damodaran
+§With subgroups of professional investors, especially venture 
+capitalists and private equity, the numbers that they offer as 
+target or expected returns are so staggeringly out of sync 
+with reality that the cynic in you should wonder whether these 
+numbers are marketing props and financial metrics.
+§I believe that active investors who promise their clients too 
+much (as a expected return) will overreach in terms of the 
+risks they take, and if the target returns they promise are set 
+too high (relative to what they should be), these equity 
+investors will spend their time looking for ten or hundred 
+baggers, rather than solid long term investments.
+32
+§While it is true that company hurdle rates are for internal use and not often 
+visible from the outside, surveys of CFOs, asking them about what the 
+costs of capital are for their company, often come back with the conclusion 
+that these hurdle are set about 2-3% higher than justified by market 
+numbers. 
+§Again, you may be tempted to let this practice go, as just being 
+conservative, and protecting companies from taking bad investments. Here 
+again, though, there is a trade off. For companies that estimate returns on 
+projects rigorously, having a higher hurdle rate than appropriate will 
+mean the good investments will be left untaken. 
+§Early in a company's life, when project choices are plentiful, this may not 
+be a deal breaker, but as companies mature, it will cost investors in the 
+company, as the company holds on to cash and does not invest. 
+§There is another, and potentially an even more dangerous consequence 
+that undermines the entire process of investment analysis. When 
+hurdle rates are set unrealistically high, relative to what you can earn in the 
+market, managers, recognizing that they will never find investments that 
+earn more than those hurdle rates will start to skew cashflows and growth 
+upwards to compensate for discount rates being too high. 
+Aswath Damodaran
+33Aswath Damodaran
+34
+§If you stick with unrealistically high hurdle rates. you will find 
+it difficult, if not impossible, to find equities that can deliver 
+those rates. 
+§I can assure you that with a 20% cost of equity , for instance, there is 
+not one firm in the S&P 500 that will be undervalued for you to invest 
+in, and if you do find firms that look undervalued in the broader market, 
+it is because they are basket-case firms on the verge of tipping over. 
+§Thus, a reasonable and logical follow-up would be to reduce or even 
+eliminate your equity exposure in your portfolio, though if your 
+unreasonableness on hurdle rates carries over into other asset classes, 
+you will find no risky asset class that meets your rate of return criteria.
+§More dangerously, it will leave you open to scams, where your 
+search for high return investments will lead you invest with a 
+"friend of a friend" or a "Y ouTube investment celebrity", who will 
+claim to have found a way to deliver more than your hurdle rate 
+with investing alchemy.
+Aswath Damodaran
+35
+§For businesses with private owners, setting the hurdle rate 
+too high will lead them to be more conservative in taking 
+investments, opening the door to more aggressive 
+competition, often from publicly traded companies or private 
+business competitors with more reasonable hurdle rates. 
+§The bigger danger here again is when you get ready to sell, 
+you will sell your business for too low a price. You will 
+facilitated in this process by private company appraisers who 
+come up with costs of capital that are outlandishly high, 
+usually getting there with what they call the "build up" 
+approach, a nonsensical piling on of premiums that are either 
+thinly sourced (a small cap premium that ceases to exist in 
+1981), double counted (an illiquidity premium, with an 
+additional illiquidity discount of value) or just made up to (a 
+non a company-specific risk premium, where a number is 
+added on to get to whatever discount rate you want).
+Aswath Damodaran
+36
+§In my view, the key assumption that drives almost of the others 
+is my trillion-dollar revenue projection in a decade for that 
+company, insofar that if that does not come to fruition, it will ripple 
+through my other assumptions, with lower profit margins and 
+higher failure risk following. 
+§That should make it the central question that we should be 
+debating, and my extended discourse on why making cost of 
+capital your last stand is as much designed to bring attention back 
+to things that matter as to restoring some balance to discussions of 
+what a reasonable or high cost of capital for a company can be.
+§Yo u  are, of course, welcome to quote anynumber you want as 
+the cost of equity, but while you are entitled to your opinions, you 
+are not entitled to make up facts. 
+§When you claim that the cost of equity is 12%, 15% or 20% for a 
+typical firm, you are valuing a company in Turkish lira or 
+Zambian kwacha (where inflation is 15%+) or in Afghanistan 
+or South Sudan (where country risk is daunting) or just making 
+up stuff! 
+Aswath Damodaran

@@ -1,0 +1,254 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/AITrade.pdf
+
+AI Builders, AI Suppliers, AI Products and AI Customers
+Aswath Damodaran
+2
+§When I posted my valuation of Anthropic a few days ago, I 
+noted that turbulence lay ahead, both for the company and 
+the market. I did not expect that turbulence to be this forceful 
+and this soon, but markets don't have an obligation to wait until 
+it is convenient for investors, to adjust to new realities. 
+§With the election results on November 3 acting as a catalyst, 
+investors initially responded positively with stocks up on 
+Wednesday, but reversed course sharply on Thursday , with 
+the NASDAQ down close to 6% and the S&P 500 declining 
+4%. 
+§The AI trade, which has been a constant in market 
+discourse this year again came into play, and my reaction 
+was that it was being used, as it has all through the year, as a 
+shield against more productive discussions about both the AI 
+business and the overall market.
+3
+§There are many players that are lumped together as AI 
+companies, from those spending the money building the data 
+centers to the firms benefiting from selling the builders the 
+ingredients for these data centers to the companies that are 
+leasing these data centers for long periods and immense costs 
+(with the LLMs in the lead) to use to create their AI agents, 
+models and products.
+§I will argue that while all of these groups benefit, at least in 
+general, from AI's success at creating large and profitable 
+markets, we are reaching a point in the AI disruption, where 
+their interests and payoffs will diverge, with implications 
+for both the businesses and investors.
+4
+§My journey on AI started with a selfish and narrow intent, 
+which was to evaluate an investment I made in Nvidia in 2018, 
+for reasons entirely unrelated to AI. I thought that Nvidia, at the 
+time, was a innovative chip company with more pricing power 
+than many  in its peer group, and felt that it was undervalued, 
+given its prospects. 
+§Since much of Nvidia's supersized success was being propelled 
+by AI demand, that required me to take my first look at how 
+big the AI market would be, and how well Nvidia was 
+positioned to take advantage of that market. 
+§If you have read my multiple posts on Nvidia over the last three 
+years, you are aware of my decision to sell Nvidia in four 
+installments, with the last one happening earlier this year. As 
+many of you have been quick to point out, my decision to 
+gradually decrease my Nvidia position has led me to leave 
+money on the table, but I have no regrets.
+5
+6
+Suppliers Builders Products End users
+Hope & Hype 1st group to 
+see revenues/ 
+earnings
+AI cap ex will 
+have negative 
+effect on both 
+earnings and 
+cash flows
+Developing 
+products & 
+services. Pre-
+revenues, loss-
+making
+Test users using 
+AI products
+Investment Continued 
+growth, albeit 
+at slower 
+pace, as scale 
+up
+Portion of the AI 
+can be leased 
+out, allowing for 
+some  
+monetization
+Products 
+introduced, and 
+from small scale, 
+growth can be 
+exponential
+Mix of early 
+adopters and 
+experimenters, 
+in a subset of 
+industries
+Business BuildingHave fully 
+formed 
+business 
+models, but 
+revenue 
+growth rates 
+will start to 
+ease.
+Revenues and 
+earnings from 
+existing 
+investments
+Jockeying for 
+position in the 
+market, looking 
+for ways to 
+differentiate 
+themselves and 
+preserve pricing 
+powe
+Receiving end of 
+sales pitches for 
+AI products and 
+services
+7
+§There is one common element that holds them together and that is 
+the value of all of the players in the ecosystem ultimately will 
+be determined by how big the AI customer group becomes, and 
+that is where much of the discussion of total markets and revenues 
+converge. 
+§As I noted in my earlier posts on AI, if the end market for AI products 
+and services is small, either because of its imperfections as a tool or 
+replacement for employees, regulatory restrictions or limited reach, the 
+entire AI ecosystem (builders, suppliers and product businesses will all 
+feel the pain. 
+§Conversely, if AI delivers on its promise as a powerful productivity 
+tool that works across many businesses, all of them benefit, albeit in 
+different forms. In addition, if one of the groups faces growth and 
+survival challenges, those pains will spread into the other groups as 
+well. 
+§That may explain why you see so much circular financing in 
+the AI ecosystem, where financially better- positioned and 
+stronger players like Nvidia investing in or offer financing 
+guarantees to players in the other groups, either to ensure survival 
+or to provide an impetus for continued investment spending.
+Aswath Damodaran
+8
+§These businesses also have competing interests, but the 
+expenses for one business become revenues for another, and bad 
+decisions by one group can create benefit for others. 
+§Thus, if AI builders choose to build too much infrastructure, 
+too quickly, it will hurt them and their shareholders, but that 
+overbuilding will be a bonanza for the AI suppliers, as chips, 
+equipment, power and real estate players all benefit from the 
+overbuilding. 
+§Once built, it is in the AI builders' interests to lease out the 
+infrastructure for longer periods than merited, locking in 
+their revenue stream, but for the AI product companies, those 
+long-term commitments can increase default risk.
+§For much of AI's early existence, the commonalities have 
+overwhelmed the competing interests, with the groups tending to 
+move together on news, mostly about the size of the AI market.
+§As the AI disruption moves through the disruption, it is inevitable that 
+this will change, with the market differentiating across groups, 
+picking winners and losers.
+9Aswath Damodaran
+§Public vs Private: Data availability and the requirement that there be a 
+market price restricts the sample to publicly traded companies. That 
+not only reduces the sample size and creates sampling bias, but it also has 
+disparate effects across the different groups. 
+§Missed companies and changing sample: Since there is no separate 
+accounting categorization for AI-related revenues and expenses, I 
+relied on public descriptions of the largest companies operating in each of 
+three AI groupings. 
+§Not pure plays: Most of the companies in this sample operate in other 
+businesses, many of which pre-date their entry into AI. This is especially 
+true of the hyperscalers, where Amazon, Alphabet, Meta and Microsoft 
+have legacy businesses that generate large earnings and stand-alone 
+market value
+§In multiple groupings: Some of the companies in this sample can take issue 
+with the grouping that I have included them or operate in more than one 
+grouping. Meta, Alphabet and Microsoft, in addition to be major investors 
+in AI cap ex, are working on their own versions of LLM (Muse for Meta, 
+Gemini for Alphabet and Co-Pilot for Microsoft) to enter the product 
+market.
+10
+11
+12
+13
+14Aswath Damodaran
+15
+§I am seldom certain about anything in markets, but I am close 
+to certain that there is a big market delusion in AI, I think 
+that AI, because of its reach and potential, almost certainly has 
+led to over investment, by AI builders, over commitments to 
+compute power by LLM companies and over pricing, by the 
+market, at least in the aggregate. 
+§The correction, when it comes, will cause pain, but the pain 
+will be distributed unevenly, and for those who believe that AI 
+has potential but have found the companies in the space over 
+priced, it will provide opportunities. 
+§Before you decide that this (the over investment, over pricing 
+and subsequent correction)  is a problem, it is worth noting 
+that this phenomenon is a feature, not a bug, that is 
+associated with uncertainty and big change, and that it is, in 
+spite of the costs of the cleanup, is a pre-requisite for change.
+16
+§Uncertainty about correction (when and what form): Even if you are right that 
+investor and business overconfidence has lead to overreach, you need the 
+market to come to agree with you, and it is difficult, if not impossible, to try 
+to predict when in will happen, and what form it will take. 
+§Catalysts for correction:The catalysts that trigger the correction can sometimes 
+be big news stories, but more often, it is a collection of small cuts that 
+eventually leads to market adjustment. The big market delusion is ultimately 
+built on a behavioral characteristic (over confidence) and the correction has 
+as much to do with investor psychology, as with financial fundamentals. 
+§Acting in the fact of uncertainty:If you are an investor of long standing in one 
+of AI’s winners, use each correction phase to sell a portion of your shares. 
+You w ill g ive up  up s id e, by d oing  s o, but you w ill not b e c om p letely ex p os ed , 
+when the correction happens. If you decide to buy AI stocks after the 
+correction, don’t wait for the bottom, since you may never hit it. 
+§Go where it is darkest:  If you are an AI advocate, and you have generated 
+supersized returns over the last four or five years from just buying companies in 
+the AI space, in my views, you are entering a phase, where if your AI 
+optimism holds, you should prepare yourself for more periods like last 
+Thursday , where the market mood on AI darkens, and use those periods to 
+e more discriminating in your AI investment choices.
+17
+§As I noted in an earlier post, IPOs are priced, and after not 
+hearing talk of annualized revenue run rates for a few weeks, there 
+was a leak that Anthropic's ARR for October hit $80 billion, which 
+was touted as both good news (by some) and bad news by others. 
+§The truth is that pricing is a mood and momentum game, and it is 
+undeniable that the mood has darkened for not just AI but the 
+market in the last two weeks. If you throw in bankers who are 
+terrified of over pricing a trillion-dollar plus offering and 
+picking up the pieces, the pressures to lower the offer pricing 
+only get stronger.
+§On the valuation front, it is not market mood that matters but 
+events that have changed the fundamentals Just to give you a 
+measure of how sensitive the Anthropic valuation is to these 
+changes, increasing how much Anthropic will have to invest to add 
+compute power in future years (by lowering the sales to cap ratio 
+from 3 to 2.5) and increasing the drag on margins from regulation 
+(from 5% to 7.5%) reduces the estimated equity value to $1.25 
+trillion, even if you leave the target revenues at a trillion dollars.
+18
+§I hope that we stop talking about "the AI trade", as a catch all for AI 
+companies, and start differentiating between the different groups "AI 
+builder" or the "AI Supplier" or the "AI product trade, for two reasons.
+§The first is that as the AI business starts to take form, there will be developments 
+that are good for one group and bad for others; the election results clearly 
+affected AI suppliers more negatively than it did AI builders. 
+§The second is that when you have crisis developments, the market may lose 
+its head and mark down all AI companies indiscriminately, offering you the 
+chance to buy those that you believe should not have been marked down.
+§I also think that it is time that we hold off on making overly broad 
+assessments of the AI business that reflect more our emotions and 
+priors than the facts on the ground. 
+§Thus, if you start with the presumption that the entire phenomenon is a 
+"bubble”, your mind is already made up and no AI company, no matter what 
+group it belongs to, will be worth its price. 
+§At the other extreme, if you are so dazzled by the technology that you see this 
+as a sure win, you are setting yourself for disappointment, because not only are 
+there no sure wins in equity markets, but the pathway to AI nirvana will be come 
+with challenges that test your faith.

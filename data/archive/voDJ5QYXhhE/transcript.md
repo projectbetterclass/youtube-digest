@@ -1,0 +1,5 @@
+# Ab workouts are dumb.
+
+<https://www.youtube.com/shorts/voDJ5QYXhhE>
+
+Flailing around on your living room floor is not the answer to six-pack abs. You don't do [music] this to train your chest, you don't do this to train your quads, so why the are you doing this to train your abs? These 8 [music] to 15-minute high-rep bodyweight routines you see plastered all over your feed are basically the worst of both worlds, a light cardio session that burns very few calories and a muscle-building workout that builds very little muscle. You can't spot reduce fat, so this does nothing to specifically lean down your midsection, and your abs are a muscle just like any other, which means they should be trained the same way. Push close to failure, take proper rest periods, and progressively overload them over time. Instead of turning your ab training into an interpretive dance routine, you'd get better results in less time by literally just doing two hard sets of weighted crunches at the end of your session and calling it a day. To get your free muscle-building and fat loss guide, click the link here.

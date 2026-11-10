@@ -252,6 +252,18 @@
       "url": "https://www.youtube.com/shorts/-5ePq3yLhCc",
       "verdict": ""
     },
+    "-6PuYw92m1c": {
+      "channel": "The Diary Of A CEO",
+      "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
+      "had_materials": false,
+      "published": "2026-11-09T08:00:33+00:00",
+      "takeaway": "",
+      "title": "Katt Williams: They Tied Me To A Pole And Beat Me Bloody Every Week!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/-6PuYw92m1c/transcript.md",
+      "url": "https://www.youtube.com/watch?v=-6PuYw92m1c",
+      "verdict": ""
+    },
     "-79wJoWh7tE": {
       "channel": "JulienHimself",
       "channel_id": "UCaN4Pe5JEsWzAByY2WfxxjQ",
@@ -1501,6 +1513,18 @@
       "url": "https://www.youtube.com/watch?v=-gfL7AtRcp8",
       "verdict": ""
     },
+    "-gqYldhjZVk": {
+      "channel": "Justin Sung",
+      "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
+      "had_materials": false,
+      "published": "2026-10-24T04:26:29+00:00",
+      "takeaway": "",
+      "title": "How to memorise (almost) anything you read in 20 minutes",
+      "transcript_available": true,
+      "transcript_path": "data/archive/-gqYldhjZVk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=-gqYldhjZVk",
+      "verdict": ""
+    },
     "-hO25aMakGs": {
       "channel": "Ben Yanes",
       "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
@@ -1650,7 +1674,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-06T13:30:20+00:00",
       "takeaway": "",
       "title": "Stock Prices are Mathematically Impossible.",
       "transcript_available": true,
@@ -2703,6 +2727,18 @@
       "url": "https://www.youtube.com/watch?v=0FeHGmeqcX0",
       "verdict": ""
     },
+    "0Fuxa5V-YnY": {
+      "channel": "Ticker Symbol: YOU",
+      "channel_id": "UC7kCeZ53sli_9XwuQeFxLqw",
+      "had_materials": false,
+      "published": "2026-11-04T19:42:51+00:00",
+      "takeaway": "",
+      "title": "This AI Stock Crash is a Gift. Here's How I'm Investing.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/0Fuxa5V-YnY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=0Fuxa5V-YnY",
+      "verdict": ""
+    },
     "0FvgPeRovD4": {
       "channel": "Ticker Symbol: YOU",
       "channel_id": "UC7kCeZ53sli_9XwuQeFxLqw",
@@ -2807,6 +2843,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/0J_pR9NKLYw/transcript.md",
       "url": "https://www.youtube.com/watch?v=0J_pR9NKLYw",
+      "verdict": ""
+    },
+    "0Jpx6eNfpoo": {
+      "channel": "Justin Sung",
+      "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
+      "had_materials": false,
+      "published": "2026-10-30T11:59:45+00:00",
+      "takeaway": "",
+      "title": "In 32 Minutes, You'll Actually Understand Procrastination (and how to cure it)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/0Jpx6eNfpoo/transcript.md",
+      "url": "https://www.youtube.com/watch?v=0Jpx6eNfpoo",
       "verdict": ""
     },
     "0JqH1_l0b9M": {
@@ -4129,7 +4177,7 @@
     "0pTXwulvxzA": {
       "channel": "Aswath Damodaran",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-29T22:05:19+00:00",
       "takeaway": "",
       "title": "Information Timing and Release: The Debate over Quarterly Reporting and Fed Guidance!",
       "transcript_available": true,
@@ -5330,7 +5378,7 @@
       "channel": "Felix & Friends (Goat Academy)",
       "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-23T13:00:37+00:00",
       "takeaway": "",
       "title": "The UNTHINKABLE is About to Happen to Your Portfolio",
       "transcript_available": true,
@@ -5360,6 +5408,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/1V5ll_ddmKU/transcript.md",
       "url": "https://www.youtube.com/watch?v=1V5ll_ddmKU",
+      "verdict": ""
+    },
+    "1VF1RZw9-V8": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-11-02T15:20:59+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Make better gains. Join my 3-5 day programs. 🔗 in my bio",
+      "transcript_available": true,
+      "transcript_path": "data/archive/1VF1RZw9-V8/transcript.md",
+      "url": "https://www.youtube.com/shorts/1VF1RZw9-V8",
       "verdict": ""
     },
     "1W6kpSh7VMU": {
@@ -5582,7 +5643,7 @@
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-01T20:30:04+00:00",
       "takeaway": "",
       "title": "Masterclass: How FDEs make $1M/yr deploying AI agents",
       "transcript_available": true,
@@ -5726,7 +5787,7 @@
       "channel": "Riley Brown",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-16T17:30:21+00:00",
       "takeaway": "",
       "title": "Gemini 4 is HERE… But Fable 5.5 Is TERRIFYING",
       "transcript_available": true,
@@ -7206,6 +7267,18 @@
       "url": "https://www.youtube.com/shorts/2LMQIRzeyOg",
       "verdict": ""
     },
+    "2LULm7kcEH0": {
+      "channel": "Chris Williamson",
+      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
+      "had_materials": false,
+      "published": "2026-11-07T16:00:32+00:00",
+      "takeaway": "",
+      "title": "Your Home Might Be Destroying Your Health (& how to fix it) - Michael Feldstein",
+      "transcript_available": true,
+      "transcript_path": "data/archive/2LULm7kcEH0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=2LULm7kcEH0",
+      "verdict": ""
+    },
     "2LeeaqA2KL4": {
       "channel": "Sean Nalewanyj",
       "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
@@ -7801,6 +7874,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/2cXqWebj4Rg/transcript.md",
       "url": "https://www.youtube.com/watch?v=2cXqWebj4Rg",
+      "verdict": ""
+    },
+    "2cXtEmwGuiA": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-11-09T20:44:19+00:00",
+      "takeaway": "",
+      "title": "How \"Muscle Confusion\" Ruins Your Gym Progress",
+      "transcript_available": true,
+      "transcript_path": "data/archive/2cXtEmwGuiA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=2cXtEmwGuiA",
       "verdict": ""
     },
     "2cocDtxotBE": {
@@ -8620,6 +8705,19 @@
       "url": "https://www.youtube.com/watch?v=3-K_VfHOJhg",
       "verdict": ""
     },
+    "303Bq_Ga8yQ": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-10-21T15:20:47+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "The Secret To Grow Your Legs 3x Faster",
+      "transcript_available": true,
+      "transcript_path": "data/archive/303Bq_Ga8yQ/transcript.md",
+      "url": "https://www.youtube.com/shorts/303Bq_Ga8yQ",
+      "verdict": ""
+    },
     "3098LugQFOM": {
       "channel": "JPG Coaching",
       "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
@@ -8962,7 +9060,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-24T07:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "HOW TO DB Incline Fly",
@@ -8981,6 +9079,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/3BgdhHXJ-CU/transcript.md",
       "url": "https://www.youtube.com/watch?v=3BgdhHXJ-CU",
+      "verdict": ""
+    },
+    "3BmNDRtd9tA": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-10-28T14:45:02+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Upper/Lower is so stupid",
+      "transcript_available": true,
+      "transcript_path": "data/archive/3BmNDRtd9tA/transcript.md",
+      "url": "https://www.youtube.com/shorts/3BmNDRtd9tA",
       "verdict": ""
     },
     "3CGi7t4lA_U": {
@@ -9547,6 +9658,19 @@
       "url": "https://www.youtube.com/watch?v=3Te_Tb6Y_KI",
       "verdict": ""
     },
+    "3U6mFe-R5Bc": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-11-02T15:10:57+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "No matter what @Leo Skepi goal is with his physique this isn’t an effective way to get it done.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/3U6mFe-R5Bc/transcript.md",
+      "url": "https://www.youtube.com/shorts/3U6mFe-R5Bc",
+      "verdict": ""
+    },
     "3UFbC2vvHLI": {
       "channel": "Leila Hormozi",
       "channel_id": "UCxCcu9pet4dljrBLf8R5nwA",
@@ -9812,6 +9936,18 @@
       "url": "https://www.youtube.com/watch?v=3Y8XP63zRa0",
       "verdict": ""
     },
+    "3YK1HP_q5xU": {
+      "channel": "David Carbutt",
+      "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
+      "had_materials": false,
+      "published": "2026-10-30T12:00:22+00:00",
+      "takeaway": "",
+      "title": "Dan Ives Issues Huge Market Warning",
+      "transcript_available": true,
+      "transcript_path": "data/archive/3YK1HP_q5xU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=3YK1HP_q5xU",
+      "verdict": ""
+    },
     "3YkUN7_Uj0w": {
       "channel": "Aswath Damodaran",
       "had_materials": false,
@@ -9875,7 +10011,7 @@
       "channel": "BWB - Business With Brian",
       "channel_id": "UCyqlbzLoYtpqDXwRI9Yh5LA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-08T19:42:56+00:00",
       "takeaway": "",
       "title": "Generational Wealth Is Being Built Now. Don’t Be Left Behind",
       "transcript_available": true,
@@ -10241,7 +10377,7 @@
       "channel": "Riley Brown",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-26T21:00:54+00:00",
       "takeaway": "",
       "title": "The Most Terrifying Week in AI History...",
       "transcript_available": true,
@@ -10980,6 +11116,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/41EvCgwPrDc/transcript.md",
       "url": "https://www.youtube.com/watch?v=41EvCgwPrDc",
+      "verdict": ""
+    },
+    "41M5G21vALE": {
+      "channel": "Tom Nash",
+      "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
+      "had_materials": false,
+      "published": "2026-10-29T15:53:07+00:00",
+      "takeaway": "",
+      "title": "I’m seeing the Palantir setup again",
+      "transcript_available": true,
+      "transcript_path": "data/archive/41M5G21vALE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=41M5G21vALE",
       "verdict": ""
     },
     "41YbGBZkaDk": {
@@ -11859,7 +12007,7 @@
       "channel": "Riley Brown",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-22T19:27:08+00:00",
       "takeaway": "",
       "title": "How Smart People Are Using AI Right Now (7 Insane Use Cases)",
       "transcript_available": true,
@@ -14021,6 +14169,19 @@
       "url": "https://www.youtube.com/watch?v=5MseF3lv69k",
       "verdict": ""
     },
+    "5NQULmPco1g": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-10-30T03:20:02+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Tips for rear delts",
+      "transcript_available": true,
+      "transcript_path": "data/archive/5NQULmPco1g/transcript.md",
+      "url": "https://www.youtube.com/shorts/5NQULmPco1g",
+      "verdict": ""
+    },
     "5NkUq28qXBs": {
       "channel": "David Carbutt",
       "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
@@ -14510,6 +14671,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/5e6BVYXX1Lw/transcript.md",
       "url": "https://www.youtube.com/watch?v=5e6BVYXX1Lw",
+      "verdict": ""
+    },
+    "5ernU9Vk6y0": {
+      "channel": "Justin Sung",
+      "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
+      "had_materials": false,
+      "published": "2026-11-06T01:38:50+00:00",
+      "takeaway": "",
+      "title": "Why You're Always Tired Between 1pm to 4pm (and what to do about it)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/5ernU9Vk6y0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=5ernU9Vk6y0",
       "verdict": ""
     },
     "5hbDbKbuUWM": {
@@ -15113,7 +15286,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-22T06:30:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "HOW TO Machine Hip Thrust",
@@ -15411,6 +15584,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/66ydXP9ii1o/transcript.md",
       "url": "https://www.youtube.com/watch?v=66ydXP9ii1o",
+      "verdict": ""
+    },
+    "67BmkptgTms": {
+      "channel": "Greg Isenberg",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "had_materials": false,
+      "published": "2026-11-02T19:15:08+00:00",
+      "takeaway": "",
+      "title": "The $1M+ Solo Grok Bot Business (Full Course)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/67BmkptgTms/transcript.md",
+      "url": "https://www.youtube.com/watch?v=67BmkptgTms",
       "verdict": ""
     },
     "67Cbb3DyIxA": {
@@ -16344,7 +16529,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-14T06:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "HOW TO T Bar Row",
@@ -16501,7 +16686,7 @@
       "channel": "Justin Sung",
       "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-28T00:02:44+00:00",
       "takeaway": "",
       "title": "5 Habits That Instantly Make You Look Smarter (and think faster)",
       "transcript_available": true,
@@ -18706,7 +18891,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-26T07:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "HOW TO Preacher Curls",
@@ -20106,6 +20291,18 @@
       "url": "https://www.youtube.com/watch?v=89bpvKQvsiA",
       "verdict": ""
     },
+    "89sTk4r8F58": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-11-05T00:00:21+00:00",
+      "takeaway": "",
+      "title": "This $5,200 Trade Collects $1,100/mo Income",
+      "transcript_available": true,
+      "transcript_path": "data/archive/89sTk4r8F58/transcript.md",
+      "url": "https://www.youtube.com/watch?v=89sTk4r8F58",
+      "verdict": ""
+    },
     "8A0HKiqG9ow": {
       "channel": "Vinh Giang",
       "channel_id": "UC9K9Wnz6t4cLnCdTzAVrXqQ",
@@ -20707,6 +20904,18 @@
       "url": "https://www.youtube.com/watch?v=8QN23ZThdRY",
       "verdict": ""
     },
+    "8QPd6WD9Zzg": {
+      "channel": "Riley Brown",
+      "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
+      "had_materials": false,
+      "published": "2026-11-02T21:20:19+00:00",
+      "takeaway": "",
+      "title": "I Built My Most Useful App Ever (Full Guide)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/8QPd6WD9Zzg/transcript.md",
+      "url": "https://www.youtube.com/watch?v=8QPd6WD9Zzg",
+      "verdict": ""
+    },
     "8QnGMml2OvE": {
       "channel": "Leila Hormozi",
       "channel_id": "UCxCcu9pet4dljrBLf8R5nwA",
@@ -20939,7 +21148,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-17T06:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "5 Foods To AVOID For FAT LOSS",
@@ -21011,7 +21220,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-23T07:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "Fat Loss Starts With Water — Here’s Why",
@@ -21049,7 +21258,7 @@
       "channel": "BWB - Business With Brian",
       "channel_id": "UCyqlbzLoYtpqDXwRI9Yh5LA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-22T17:45:06+00:00",
       "takeaway": "",
       "title": "If You Missed the Last Midterm Rally... It’s Happening Again",
       "transcript_available": true,
@@ -21717,6 +21926,18 @@
       "url": "https://www.youtube.com/watch?v=8uwhdvBiUX4",
       "verdict": ""
     },
+    "8vETGN8awJw": {
+      "channel": "HealthyGamerGG",
+      "channel_id": "UClHVl2N3jPEbkNJVx-ItQIQ",
+      "had_materials": false,
+      "published": "2026-11-04T16:00:08+00:00",
+      "takeaway": "",
+      "title": "Is Your Depression Just Laziness? | Dr. K Reacts To Mental Health Crowd Work",
+      "transcript_available": true,
+      "transcript_path": "data/archive/8vETGN8awJw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=8vETGN8awJw",
+      "verdict": ""
+    },
     "8vXoI7lUroQ": {
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
@@ -22269,7 +22490,7 @@
       "channel": "Felix & Friends (Goat Academy)",
       "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-26T13:00:06+00:00",
       "takeaway": "",
       "title": "Lab Gold Is Coming (This Is the Real Trap)",
       "transcript_available": true,
@@ -23439,6 +23660,18 @@
       "url": "https://www.youtube.com/watch?v=9e7rpz5mEXA",
       "verdict": ""
     },
+    "9emjRl37D5A": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-10-24T15:00:47+00:00",
+      "takeaway": "",
+      "title": "How I’d Invest $100,000 While the Market Is Bleeding",
+      "transcript_available": true,
+      "transcript_path": "data/archive/9emjRl37D5A/transcript.md",
+      "url": "https://www.youtube.com/watch?v=9emjRl37D5A",
+      "verdict": ""
+    },
     "9g6ErC0O9g0": {
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
@@ -24547,7 +24780,7 @@
     "AAi9QIl6gw8": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
-      "published": null,
+      "published": "2026-08-20T21:14:24+00:00",
       "takeaway": "",
       "title": "AI's Bar Mitzvah Moment? From Hype & Hope to Business Questions!",
       "transcript_available": true,
@@ -24804,6 +25037,30 @@
       "transcript_available": true,
       "transcript_path": "data/archive/AH_R5cZNFFc/transcript.md",
       "url": "https://www.youtube.com/watch?v=AH_R5cZNFFc",
+      "verdict": ""
+    },
+    "AIjuCbOvw94": {
+      "channel": "David Carbutt",
+      "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
+      "had_materials": false,
+      "published": "2026-10-31T11:57:17+00:00",
+      "takeaway": "",
+      "title": "Elon Musk Stuns Joe Rogan",
+      "transcript_available": true,
+      "transcript_path": "data/archive/AIjuCbOvw94/transcript.md",
+      "url": "https://www.youtube.com/watch?v=AIjuCbOvw94",
+      "verdict": ""
+    },
+    "AJt-_GHxYGY": {
+      "channel": "Felix Nikolas Prehn",
+      "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
+      "had_materials": false,
+      "published": "2026-11-09T13:00:38+00:00",
+      "takeaway": "",
+      "title": "3 Million Accounts FROZEN Overnight: You’re Next, Warns the IMF",
+      "transcript_available": true,
+      "transcript_path": "data/archive/AJt-_GHxYGY/transcript.md",
+      "url": "https://www.youtube.com/watch?v=AJt-_GHxYGY",
       "verdict": ""
     },
     "AK_ClO4NR-I": {
@@ -25523,7 +25780,7 @@
       "channel": "Justin Sung",
       "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
       "had_materials": false,
-      "published": null,
+      "published": "2026-06-27T22:40:06+00:00",
       "takeaway": "",
       "title": "Productivity is Hard Until You Build Systems Like This",
       "transcript_available": true,
@@ -25922,7 +26179,7 @@
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-29T19:25:16+00:00",
       "takeaway": "",
       "title": "SaaS is dead?",
       "transcript_available": true,
@@ -25959,7 +26216,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-06-21T13:02:59+00:00",
       "takeaway": "",
       "title": "Elon Musk's $1 Trillion Net Worth, Explained.",
       "transcript_available": true,
@@ -26695,7 +26952,7 @@
       "channel": "Ticker Symbol: YOU",
       "channel_id": "UC7kCeZ53sli_9XwuQeFxLqw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-09-24T15:07:28+00:00",
       "takeaway": "",
       "title": "The 2027 AI Bubble: Even Bigger Than Dotcom?",
       "transcript_available": true,
@@ -28281,7 +28538,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-15T13:48:58+00:00",
       "takeaway": "",
       "title": "‘Big Short’ Investor: The AI Narrative is Falling Apart.",
       "transcript_available": true,
@@ -28793,6 +29050,19 @@
       "url": "https://www.youtube.com/shorts/CEhCPAHYVAs",
       "verdict": ""
     },
+    "CEwAeTRqZqI": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-10-30T03:17:07+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Update- got stronger 👍🏽",
+      "transcript_available": true,
+      "transcript_path": "data/archive/CEwAeTRqZqI/transcript.md",
+      "url": "https://www.youtube.com/shorts/CEwAeTRqZqI",
+      "verdict": ""
+    },
     "CFz4okeCWtw": {
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
@@ -29023,7 +29293,7 @@
       "channel": "Ticker Symbol: YOU",
       "channel_id": "UC7kCeZ53sli_9XwuQeFxLqw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-03T18:59:48+00:00",
       "takeaway": "",
       "title": "NVIDIA Made Me Rich. I'm Buying This Stock Next.",
       "transcript_available": true,
@@ -29265,7 +29535,7 @@
       "channel": "Justin Sung",
       "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-25T03:09:43+00:00",
       "takeaway": "",
       "title": "My Exact 14-Step Guide To Learn Anything Faster",
       "transcript_available": true,
@@ -32925,6 +33195,19 @@
       "url": "https://www.youtube.com/watch?v=E0G0CBOuXIk",
       "verdict": ""
     },
+    "E178RoE1kjU": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-10-27T14:15:18+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Nvidia Price Target Revealed for 2027",
+      "transcript_available": true,
+      "transcript_path": "data/archive/E178RoE1kjU/transcript.md",
+      "url": "https://www.youtube.com/shorts/E178RoE1kjU",
+      "verdict": ""
+    },
     "E1bo8VG8NRc": {
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
@@ -34175,6 +34458,19 @@
       "url": "https://www.youtube.com/watch?v=Ec41cSp_tWc",
       "verdict": ""
     },
+    "EcHo0YSerQg": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-10-28T12:32:21+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Stop lifting correctly",
+      "transcript_available": true,
+      "transcript_path": "data/archive/EcHo0YSerQg/transcript.md",
+      "url": "https://www.youtube.com/shorts/EcHo0YSerQg",
+      "verdict": ""
+    },
     "EcQ2ZOOYDy0": {
       "channel": "Ben Yanes",
       "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
@@ -35187,7 +35483,7 @@
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-09-30T15:10:34+00:00",
       "takeaway": "",
       "title": "A Once in a Lifetime Financial Reset is Coming. (Why Stocks Are Next)",
       "transcript_available": true,
@@ -35413,7 +35709,7 @@
       "channel": "Felix & Friends (Goat Academy)",
       "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-17T13:00:06+00:00",
       "takeaway": "",
       "title": "The Last Time THIS Happened the Global Stock Market RESET  | Felix Nikolas Prehn",
       "transcript_available": true,
@@ -36015,7 +36311,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-19T06:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "Sacrifice",
@@ -37806,7 +38102,7 @@
       "channel": "Ticker Symbol: YOU",
       "channel_id": "UC7kCeZ53sli_9XwuQeFxLqw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-19T22:28:14+00:00",
       "takeaway": "",
       "title": "This Pullback is a Gift. I'm Buying These Stocks NOW.",
       "transcript_available": true,
@@ -37876,7 +38172,7 @@
       "channel": "Felix & Friends (Goat Academy)",
       "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-29T13:00:36+00:00",
       "takeaway": "",
       "title": "A Once In A 100 Year Investment Opportunity Just Started (Most Aren’t Ready)",
       "transcript_available": true,
@@ -37936,7 +38232,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-25T07:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "You Can Change Your Perception of Hard",
@@ -38815,7 +39111,7 @@
     "GxKra1L2TCY": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-05T20:18:37+00:00",
       "takeaway": "",
       "title": "This Is A Historic Buying Opportunity (98% Will Miss It)",
       "transcript_available": true,
@@ -39576,7 +39872,7 @@
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-26T18:35:28+00:00",
       "takeaway": "",
       "title": "The $1,000/hour 1-person AI business",
       "transcript_available": true,
@@ -39671,7 +39967,7 @@
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-27T13:32:25+00:00",
       "takeaway": "",
       "title": "Dips Never Last: I’m Buying These 3 Stocks Now.",
       "transcript_available": true,
@@ -39728,6 +40024,19 @@
       "url": "https://www.youtube.com/watch?v=HNlvZrsKsbU",
       "verdict": ""
     },
+    "HO8tcPqaqe0": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-10-31T17:58:40+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Will this really develop horse glutes?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/HO8tcPqaqe0/transcript.md",
+      "url": "https://www.youtube.com/shorts/HO8tcPqaqe0",
+      "verdict": ""
+    },
     "HOWb_3bOgTE": {
       "channel": "Justin Sung",
       "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
@@ -39738,6 +40047,19 @@
       "transcript_available": false,
       "transcript_path": "data/archive/HOWb_3bOgTE/transcript.md",
       "url": "https://www.youtube.com/watch?v=HOWb_3bOgTE",
+      "verdict": ""
+    },
+    "HP6JIq89H4s": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-10-27T15:00:31+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "The worst protein powder you can buy",
+      "transcript_available": true,
+      "transcript_path": "data/archive/HP6JIq89H4s/transcript.md",
+      "url": "https://www.youtube.com/shorts/HP6JIq89H4s",
       "verdict": ""
     },
     "HPrxhoKz_mI": {
@@ -39874,6 +40196,18 @@
       "url": "https://www.youtube.com/watch?v=HS1CRYXeGSU",
       "verdict": ""
     },
+    "HSHarDrdFyQ": {
+      "channel": "Felix Nikolas Prehn",
+      "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
+      "had_materials": false,
+      "published": "2026-11-01T13:00:30+00:00",
+      "takeaway": "",
+      "title": "THIS is the Day Iran Breaks the Market (& Why Gold is Next)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/HSHarDrdFyQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=HSHarDrdFyQ",
+      "verdict": ""
+    },
     "HSg7cDuWtzQ": {
       "channel": "JulienHimself",
       "channel_id": "UCaN4Pe5JEsWzAByY2WfxxjQ",
@@ -39944,6 +40278,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/HU7oP5VeXoM/transcript.md",
       "url": "https://www.youtube.com/watch?v=HU7oP5VeXoM",
+      "verdict": ""
+    },
+    "HUCDvFHLLVg": {
+      "channel": "Chris Williamson",
+      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
+      "had_materials": false,
+      "published": "2026-11-10T16:00:05+00:00",
+      "takeaway": "",
+      "title": "“Our Brains Have Weird Powers That We’re Disconnected From” - Robert Greene",
+      "transcript_available": true,
+      "transcript_path": "data/archive/HUCDvFHLLVg/transcript.md",
+      "url": "https://www.youtube.com/watch?v=HUCDvFHLLVg",
       "verdict": ""
     },
     "HU_tRlgIXb8": {
@@ -40401,6 +40747,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/HipbeOQn0Us/transcript.md",
       "url": "https://www.youtube.com/watch?v=HipbeOQn0Us",
+      "verdict": ""
+    },
+    "Hj6tqPAJdAQ": {
+      "channel": "Tom Nash",
+      "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
+      "had_materials": false,
+      "published": "2026-11-03T15:30:02+00:00",
+      "takeaway": "",
+      "title": "The UNTHINKABLE is About to Happen to Palantir Stock",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Hj6tqPAJdAQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Hj6tqPAJdAQ",
       "verdict": ""
     },
     "HjqOGIKjqOk": {
@@ -41144,7 +41502,7 @@
       "channel": "BWB - Business With Brian",
       "channel_id": "UCyqlbzLoYtpqDXwRI9Yh5LA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-11T13:00:11+00:00",
       "takeaway": "",
       "title": "These 4 Stocks Pulled Back. The Spring Is Loaded",
       "transcript_available": true,
@@ -42140,6 +42498,18 @@
       "url": "https://www.youtube.com/watch?v=IUI5MEskL1I",
       "verdict": ""
     },
+    "IULoJhCOb2U": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-11-05T18:00:08+00:00",
+      "takeaway": "",
+      "title": "Learn Price Action Before The Market Flips Again",
+      "transcript_available": true,
+      "transcript_path": "data/archive/IULoJhCOb2U/transcript.md",
+      "url": "https://www.youtube.com/watch?v=IULoJhCOb2U",
+      "verdict": ""
+    },
     "IVEGx2x7GEI": {
       "channel": "HealthyGamerGG",
       "channel_id": "UClHVl2N3jPEbkNJVx-ItQIQ",
@@ -43062,6 +43432,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/IxtyFXvamTI/transcript.md",
       "url": "https://www.youtube.com/watch?v=IxtyFXvamTI",
+      "verdict": ""
+    },
+    "Iy8Krhtp9Vc": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-10-24T13:40:21+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Why is nuance scary?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Iy8Krhtp9Vc/transcript.md",
+      "url": "https://www.youtube.com/shorts/Iy8Krhtp9Vc",
       "verdict": ""
     },
     "Iy8twxPYzb0": {
@@ -44311,7 +44694,7 @@
       "channel": "BWB - Business With Brian",
       "channel_id": "UCyqlbzLoYtpqDXwRI9Yh5LA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-04T15:32:36+00:00",
       "takeaway": "",
       "title": "Nvidia Just Delivered Massive News for These 10 Stocks",
       "transcript_available": true,
@@ -44611,7 +44994,7 @@
       "channel": "Felix & Friends (Goat Academy)",
       "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-12T13:00:28+00:00",
       "takeaway": "",
       "title": "Why the Global Monetary Reset Has Just Begun (Saudi, Yemen & Gold)",
       "transcript_available": true,
@@ -45378,6 +45761,18 @@
       "url": "https://www.youtube.com/watch?v=JyiDypPrSV8",
       "verdict": ""
     },
+    "Jz-hkeGopnk": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-11-03T23:08:50+00:00",
+      "takeaway": "",
+      "title": "An Honest Conversation About Life as Fitness Creators | Alec Blenis",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Jz-hkeGopnk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Jz-hkeGopnk",
+      "verdict": ""
+    },
     "JzXuCs4u2co": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -45484,6 +45879,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/K1oUbTEPOlk/transcript.md",
       "url": "https://www.youtube.com/watch?v=K1oUbTEPOlk",
+      "verdict": ""
+    },
+    "K3FEtb_Swbw": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-11-02T15:12:36+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Maybe one day I’ll have enough fomo to want to prep again",
+      "transcript_available": true,
+      "transcript_path": "data/archive/K3FEtb_Swbw/transcript.md",
+      "url": "https://www.youtube.com/shorts/K3FEtb_Swbw",
       "verdict": ""
     },
     "K3MWWTugE7E": {
@@ -46167,7 +46575,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-11T13:16:08+00:00",
       "takeaway": "",
       "title": "Michael Burry Just Made a Big New Bet...",
       "transcript_available": true,
@@ -46258,6 +46666,18 @@
       "url": "https://www.youtube.com/watch?v=KVpqcgux86I",
       "verdict": ""
     },
+    "KWE66LAr3TA": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-10-27T14:00:26+00:00",
+      "takeaway": "",
+      "title": "The Stock Market Just Diverged—Here’s What It Means",
+      "transcript_available": true,
+      "transcript_path": "data/archive/KWE66LAr3TA/transcript.md",
+      "url": "https://www.youtube.com/watch?v=KWE66LAr3TA",
+      "verdict": ""
+    },
     "KWIiJ0gyIU8": {
       "channel": "David Carbutt",
       "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
@@ -46274,7 +46694,7 @@
       "channel": "Felix & Friends (Goat Academy)",
       "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-14T13:00:39+00:00",
       "takeaway": "",
       "title": "THE BOND MARKET IS BREAKING — Here's What Happens Next",
       "transcript_available": true,
@@ -46763,6 +47183,18 @@
       "url": "https://www.youtube.com/watch?v=KgOv6DPHZAs",
       "verdict": ""
     },
+    "KgS3hbpxTzE": {
+      "channel": "Starter Story",
+      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "had_materials": false,
+      "published": "2026-11-04T18:00:08+00:00",
+      "takeaway": "",
+      "title": "I turned a viral idea into a $25K/month app",
+      "transcript_available": true,
+      "transcript_path": "data/archive/KgS3hbpxTzE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=KgS3hbpxTzE",
+      "verdict": ""
+    },
     "Kgl1HrWhUVc": {
       "channel": "Invest with Henry",
       "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
@@ -47015,7 +47447,7 @@
       "channel": "Justin Sung",
       "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-14T10:08:46+00:00",
       "takeaway": "",
       "title": "11 Tiny Habits To Learn and Think Like The Top 1%",
       "transcript_available": true,
@@ -47095,6 +47527,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/KprIkM_cHQA/transcript.md",
       "url": "https://www.youtube.com/watch?v=KprIkM_cHQA",
+      "verdict": ""
+    },
+    "KqpG6VJY0xM": {
+      "channel": "JulienHimself",
+      "channel_id": "UCaN4Pe5JEsWzAByY2WfxxjQ",
+      "had_materials": false,
+      "published": "2026-11-03T12:58:09+00:00",
+      "takeaway": "",
+      "title": "It’s Time We Talked About My Past…",
+      "transcript_available": true,
+      "transcript_path": "data/archive/KqpG6VJY0xM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=KqpG6VJY0xM",
       "verdict": ""
     },
     "KrkkHT65jZI": {
@@ -47826,6 +48270,18 @@
       "url": "https://www.youtube.com/watch?v=LBYwqvQL5UI",
       "verdict": ""
     },
+    "LBny5igyZbM": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-10-26T14:37:04+00:00",
+      "takeaway": "",
+      "title": "The UNTHINKABLE is About to Happen to Your Portfolio",
+      "transcript_available": true,
+      "transcript_path": "data/archive/LBny5igyZbM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=LBny5igyZbM",
+      "verdict": ""
+    },
     "LC-Zc29BMCA": {
       "channel": "Sean Nalewanyj",
       "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
@@ -48162,6 +48618,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/LKAvQYCKhhM/transcript.md",
       "url": "https://www.youtube.com/watch?v=LKAvQYCKhhM",
+      "verdict": ""
+    },
+    "LKc0LQAP2Uw": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-10-23T18:44:00+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Cats are like machines",
+      "transcript_available": true,
+      "transcript_path": "data/archive/LKc0LQAP2Uw/transcript.md",
+      "url": "https://www.youtube.com/shorts/LKc0LQAP2Uw",
       "verdict": ""
     },
     "LKpKqGc_uQ4": {
@@ -48593,6 +49062,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/LYdJ3dfNCVs/transcript.md",
       "url": "https://www.youtube.com/watch?v=LYdJ3dfNCVs",
+      "verdict": ""
+    },
+    "LYfp-U2p-AI": {
+      "channel": "David Carbutt",
+      "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
+      "had_materials": false,
+      "published": "2026-10-30T19:00:35+00:00",
+      "takeaway": "",
+      "title": "Elon Musk Predicts the Worst",
+      "transcript_available": true,
+      "transcript_path": "data/archive/LYfp-U2p-AI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=LYfp-U2p-AI",
       "verdict": ""
     },
     "LYomocq6Dpo": {
@@ -50772,7 +51253,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-09-13T17:05:19+00:00",
       "takeaway": "",
       "title": "Is the U.S. Running Out of Lenders?",
       "transcript_available": true,
@@ -50878,7 +51359,7 @@
     "MXLF8b15GhQ": {
       "channel": "Chris Raroque",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-03T15:05:24+00:00",
       "takeaway": "",
       "title": "How I Make Apps FEEL Premium (5 examples)",
       "transcript_available": true,
@@ -51533,6 +52014,18 @@
       "url": "https://www.youtube.com/watch?v=Mst4hreQYl0",
       "verdict": ""
     },
+    "MsycifAWVts": {
+      "channel": "David Carbutt",
+      "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
+      "had_materials": false,
+      "published": "2026-11-04T16:05:42+00:00",
+      "takeaway": "",
+      "title": "Mark Cuban Just Dropped an Elon Musk Bombshell",
+      "transcript_available": true,
+      "transcript_path": "data/archive/MsycifAWVts/transcript.md",
+      "url": "https://www.youtube.com/watch?v=MsycifAWVts",
+      "verdict": ""
+    },
     "Mt8MRdR_FwY": {
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
@@ -51567,6 +52060,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/MtrN9iyKRwk/transcript.md",
       "url": "https://www.youtube.com/watch?v=MtrN9iyKRwk",
+      "verdict": ""
+    },
+    "Mu6UxBuVPK8": {
+      "channel": "David Carbutt",
+      "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
+      "had_materials": false,
+      "published": "2026-11-05T14:53:50+00:00",
+      "takeaway": "",
+      "title": "Tesla Makes the Bet of a LIFETIME",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Mu6UxBuVPK8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=Mu6UxBuVPK8",
       "verdict": ""
     },
     "MuF2unxpOXo": {
@@ -52122,6 +52627,18 @@
       "url": "https://www.youtube.com/watch?v=N6hra9D8LWo",
       "verdict": ""
     },
+    "N6lSqVkoXEM": {
+      "channel": "Felix Nikolas Prehn",
+      "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
+      "had_materials": false,
+      "published": "2026-11-05T13:36:31+00:00",
+      "takeaway": "",
+      "title": "Get Ready For The BIGGEST Stock Market RESET Of Your Lifetime!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/N6lSqVkoXEM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=N6lSqVkoXEM",
+      "verdict": ""
+    },
     "N72azy1CXok": {
       "channel": "Sean Nalewanyj",
       "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
@@ -52330,7 +52847,7 @@
       "channel": "Ticker Symbol: YOU",
       "channel_id": "UC7kCeZ53sli_9XwuQeFxLqw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-25T18:25:04+00:00",
       "takeaway": "",
       "title": "If You Missed NVIDIA Stock, These Will Be Even Bigger",
       "transcript_available": true,
@@ -52806,7 +53323,7 @@
     "NQKIJU7TmTc": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
-      "published": null,
+      "published": "2026-06-04T21:57:07+00:00",
       "takeaway": "",
       "title": "The Numbers are in: A Post-Prospectus SpaceX Valuation!",
       "transcript_available": true,
@@ -53451,6 +53968,20 @@
       "url": "https://www.youtube.com/watch?v=NlwP7f1dOBA",
       "verdict": ""
     },
+    "NlwzxjLKAjc": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "music_captions": true,
+      "published": "2026-10-13T14:45:08+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Low Rep Lateral Raises Are Stupid",
+      "transcript_available": true,
+      "transcript_path": "data/archive/NlwzxjLKAjc/transcript.md",
+      "url": "https://www.youtube.com/shorts/NlwzxjLKAjc",
+      "verdict": ""
+    },
     "Nm2gBR5LWkM": {
       "channel": "Vinh Giang",
       "channel_id": "UC9K9Wnz6t4cLnCdTzAVrXqQ",
@@ -53871,6 +54402,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/Nv6p-l60gxI/transcript.md",
       "url": "https://www.youtube.com/watch?v=Nv6p-l60gxI",
+      "verdict": ""
+    },
+    "NvT2_mnoaBw": {
+      "channel": "David Carbutt",
+      "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
+      "had_materials": false,
+      "published": "2026-11-08T19:32:22+00:00",
+      "takeaway": "",
+      "title": "NVIDIA's CEO Just Dropped a Bombshell",
+      "transcript_available": true,
+      "transcript_path": "data/archive/NvT2_mnoaBw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=NvT2_mnoaBw",
       "verdict": ""
     },
     "NvfIYJ53OVE": {
@@ -56749,7 +57292,7 @@
       "channel": "Ticker Symbol: YOU",
       "channel_id": "UC7kCeZ53sli_9XwuQeFxLqw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-13T17:18:12+00:00",
       "takeaway": "",
       "title": "Top Stocks I'm Buying To Get Rich Without Getting Lucky",
       "transcript_available": true,
@@ -57142,7 +57685,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-28T14:30:01+00:00",
       "takeaway": "",
       "title": "Elon Musk Explains How the AI Bubble Will Burst.",
       "transcript_available": true,
@@ -58972,7 +59515,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-05-30T13:30:27+00:00",
       "takeaway": "",
       "title": "The New 13F Filings Were Wild...",
       "transcript_available": true,
@@ -59185,7 +59728,7 @@
       "channel": "Sean Nalewanyj",
       "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-08T15:00:26+00:00",
       "short": true,
       "takeaway": "",
       "title": "Stop disrespecting your isolation exercises",
@@ -60110,6 +60653,19 @@
       "url": "https://www.youtube.com/watch?v=Qq7EDBpP_0U",
       "verdict": ""
     },
+    "QqjDKllPKj8": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-11-07T15:00:28+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "\"I got chest day today!\"",
+      "transcript_available": true,
+      "transcript_path": "data/archive/QqjDKllPKj8/transcript.md",
+      "url": "https://www.youtube.com/shorts/QqjDKllPKj8",
+      "verdict": ""
+    },
     "Qr12GAXQ6_4": {
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
@@ -60723,6 +61279,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/R7eSCVM2N1I/transcript.md",
       "url": "https://www.youtube.com/watch?v=R7eSCVM2N1I",
+      "verdict": ""
+    },
+    "R7jC6TUB8P4": {
+      "channel": "Justin Sung",
+      "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
+      "had_materials": false,
+      "published": "2026-10-16T21:42:43+00:00",
+      "takeaway": "",
+      "title": "If You’re A Slow Learner, I’ll Help You Fix It In 17 Minutes",
+      "transcript_available": true,
+      "transcript_path": "data/archive/R7jC6TUB8P4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=R7jC6TUB8P4",
       "verdict": ""
     },
     "R8Go0gmkcuU": {
@@ -61812,7 +62380,7 @@
       "channel": "Justin Sung",
       "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-04T08:58:43+00:00",
       "takeaway": "",
       "title": "If Mindmaps Don’t Work For You, Watch This Video",
       "transcript_available": true,
@@ -61979,7 +62547,7 @@
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-22T04:59:07+00:00",
       "takeaway": "",
       "title": "The UNTHINKABLE is About to Happen to Stocks (Emergency Update)",
       "transcript_available": true,
@@ -62020,6 +62588,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/RgkluvWPmeY/transcript.md",
       "url": "https://www.youtube.com/watch?v=RgkluvWPmeY",
+      "verdict": ""
+    },
+    "Rh0zXJOfvnc": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-11-06T15:00:25+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Pre-workout is better than creatine?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/Rh0zXJOfvnc/transcript.md",
+      "url": "https://www.youtube.com/shorts/Rh0zXJOfvnc",
       "verdict": ""
     },
     "RheER286xuM": {
@@ -64859,6 +65440,19 @@
       "url": "https://www.youtube.com/shorts/T52710lozpA",
       "verdict": ""
     },
+    "T5B2u6TptVc": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-11-09T06:17:28+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "very cool stuff 🫩",
+      "transcript_available": true,
+      "transcript_path": "data/archive/T5B2u6TptVc/transcript.md",
+      "url": "https://www.youtube.com/shorts/T5B2u6TptVc",
+      "verdict": ""
+    },
     "T5lrTgqeFkU": {
       "channel": "Justin Sung",
       "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
@@ -65670,7 +66264,7 @@
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-31T13:45:16+00:00",
       "takeaway": "",
       "title": "History is About to Be Made... It's Worse Than You Think",
       "transcript_available": true,
@@ -66084,6 +66678,19 @@
       "url": "https://www.youtube.com/watch?v=TcFjU642Yhk",
       "verdict": ""
     },
+    "TcMm8U3sQW4": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-10-27T16:13:28+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Are you actually squatting?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/TcMm8U3sQW4/transcript.md",
+      "url": "https://www.youtube.com/shorts/TcMm8U3sQW4",
+      "verdict": ""
+    },
     "TcNXapSsl7w": {
       "channel": "Ben Yanes",
       "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
@@ -66207,7 +66814,7 @@
       "channel": "Felix & Friends (Goat Academy)",
       "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-19T13:00:06+00:00",
       "takeaway": "",
       "title": "What Holds Its Value In a Currency Reset, and Why?",
       "transcript_available": true,
@@ -66530,7 +67137,7 @@
       "channel": "Chris Raroque",
       "channel_id": "UC4x3CR25WSlvMJUtSPPzwwg",
       "had_materials": false,
-      "published": null,
+      "published": "2026-09-28T16:05:14+00:00",
       "takeaway": "",
       "title": "I Built A New App In 1 Week",
       "transcript_available": true,
@@ -67309,7 +67916,7 @@
       "channel": "Riley Brown",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-10T20:03:25+00:00",
       "takeaway": "",
       "title": "All of Claude and Grok Bot's New Updates (Insane)",
       "transcript_available": true,
@@ -67886,6 +68493,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/UUC8qF5iDag/transcript.md",
       "url": "https://www.youtube.com/watch?v=UUC8qF5iDag",
+      "verdict": ""
+    },
+    "UV0Z4pVFVro": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-11-09T06:24:58+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Chest supported row set ups for people who aren’t blessed with a gym with a good row machine",
+      "transcript_available": true,
+      "transcript_path": "data/archive/UV0Z4pVFVro/transcript.md",
+      "url": "https://www.youtube.com/shorts/UV0Z4pVFVro",
       "verdict": ""
     },
     "UV1OtY88pF0": {
@@ -69236,7 +69856,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-02T13:35:17+00:00",
       "takeaway": "",
       "title": "Mohnish Pabrai's Brutally Honest Thoughts on the Stock Market.",
       "transcript_available": true,
@@ -70864,6 +71484,18 @@
       "url": "https://www.youtube.com/watch?v=VyhmtQCbOgc",
       "verdict": ""
     },
+    "VyqLmiZSLG4": {
+      "channel": "Chris Williamson",
+      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
+      "had_materials": false,
+      "published": "2026-11-09T16:00:18+00:00",
+      "takeaway": "",
+      "title": "The Life You Want Will Cost You Everything - Bugzy Malone (4K)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/VyqLmiZSLG4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=VyqLmiZSLG4",
+      "verdict": ""
+    },
     "VyvMfMhqX40": {
       "channel": "Vinh Giang",
       "channel_id": "UC9K9Wnz6t4cLnCdTzAVrXqQ",
@@ -70957,6 +71589,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/W-E6fqoKUrY/transcript.md",
       "url": "https://www.youtube.com/watch?v=W-E6fqoKUrY",
+      "verdict": ""
+    },
+    "W0JDfYSpjnM": {
+      "channel": "Aswath Damodaran",
+      "channel_id": "UCLvnJL8htRR1T9cbSccaoVw",
+      "had_materials": true,
+      "published": "2026-11-03T20:07:20+00:00",
+      "takeaway": "",
+      "title": "Heeding the Feedback Loop: A follow-up to my Anthropic Valuation",
+      "transcript_available": true,
+      "transcript_path": "data/archive/W0JDfYSpjnM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=W0JDfYSpjnM",
       "verdict": ""
     },
     "W0ZUSb8FVL8": {
@@ -71862,7 +72506,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-15T06:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "How Do You Know if You’re Training Hard Enough",
@@ -71946,7 +72590,7 @@
       "channel": "Riley Brown",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-09T16:08:49+00:00",
       "takeaway": "",
       "title": "ChatGPT Dots Is WAY More Powerful Than You Think",
       "transcript_available": true,
@@ -72270,7 +72914,7 @@
     "WhY5EF1_LjQ": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
-      "published": null,
+      "published": "2026-04-23T21:18:29+00:00",
       "takeaway": "",
       "title": "To Trillion(s) and Beyond: The SpaceX IPO Odyssey",
       "transcript_available": true,
@@ -72983,6 +73627,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/X2SJQkxMzmg/transcript.md",
       "url": "https://www.youtube.com/shorts/X2SJQkxMzmg",
+      "verdict": ""
+    },
+    "X2T92MVx7xs": {
+      "channel": "Starter Story",
+      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "had_materials": false,
+      "published": "2026-11-08T18:00:14+00:00",
+      "takeaway": "",
+      "title": "How I Made $1M Building 30 Micro-Apps",
+      "transcript_available": true,
+      "transcript_path": "data/archive/X2T92MVx7xs/transcript.md",
+      "url": "https://www.youtube.com/watch?v=X2T92MVx7xs",
       "verdict": ""
     },
     "X2szta-M4LQ": {
@@ -76015,7 +76671,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-20T13:42:14+00:00",
       "takeaway": "",
       "title": "Are We Literally Staring at Another Dot Com Bubble?",
       "transcript_available": true,
@@ -76222,7 +76878,7 @@
       "channel": "Riley Brown",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-28T22:20:09+00:00",
       "takeaway": "",
       "title": "My AI Setup Feels Like Cheating (Here's All of It)",
       "transcript_available": true,
@@ -76437,7 +77093,7 @@
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-09-29T21:25:07+00:00",
       "takeaway": "",
       "title": "OpenAI DevDay: Dots, Agents & $100B Opportunities",
       "transcript_available": true,
@@ -78093,6 +78749,18 @@
       "url": "https://www.youtube.com/watch?v=ZEIPj7QbZeI",
       "verdict": ""
     },
+    "ZEImdkhIF6g": {
+      "channel": "Tom Nash",
+      "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
+      "had_materials": false,
+      "published": "2026-10-25T17:57:30+00:00",
+      "takeaway": "",
+      "title": "🚨MAJOR BUY: Last EASY Wealth Opportunity For Decades",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ZEImdkhIF6g/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ZEImdkhIF6g",
+      "verdict": ""
+    },
     "ZF6rIxErQ74": {
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
@@ -78180,7 +78848,7 @@
       "channel": "Riley Brown",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-23T20:50:23+00:00",
       "takeaway": "",
       "title": "How I’m Actually Using Claude Duet (After 10 Hours of Testing)",
       "transcript_available": true,
@@ -78460,6 +79128,19 @@
       "url": "https://www.youtube.com/watch?v=ZNIoIX0O-20",
       "verdict": ""
     },
+    "ZNKsS-uS1q0": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-11-03T15:00:28+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "10 Muscle Building Hot Takes",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ZNKsS-uS1q0/transcript.md",
+      "url": "https://www.youtube.com/shorts/ZNKsS-uS1q0",
+      "verdict": ""
+    },
     "ZNLVpHr-QNA": {
       "channel": "Aswath Damodaran",
       "had_materials": false,
@@ -78583,7 +79264,7 @@
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-09-28T18:15:04+00:00",
       "takeaway": "",
       "title": "$5T opportunity: AI Roll Ups",
       "transcript_available": true,
@@ -79553,7 +80234,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-02T17:41:44+00:00",
       "takeaway": "",
       "title": "'Big Short' Investor Explains How the AI Bubble Will Burst",
       "transcript_available": true,
@@ -80446,6 +81127,19 @@
       "url": "https://www.youtube.com/watch?v=_O_6QBhwZts",
       "verdict": ""
     },
+    "_OtbbEPEr_g": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-10-15T15:00:38+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Progressive Overload is a LIE",
+      "transcript_available": true,
+      "transcript_path": "data/archive/_OtbbEPEr_g/transcript.md",
+      "url": "https://www.youtube.com/shorts/_OtbbEPEr_g",
+      "verdict": ""
+    },
     "_OyRR0ocPus": {
       "channel": "Ben Yanes",
       "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
@@ -80953,6 +81647,18 @@
       "url": "https://www.youtube.com/shorts/_hDuk4_QOaI",
       "verdict": ""
     },
+    "_hFiiaf6Mi8": {
+      "channel": "David Carbutt",
+      "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
+      "had_materials": false,
+      "published": "2026-11-06T13:38:52+00:00",
+      "takeaway": "",
+      "title": "No One Sees What Elon & Palantir Are Building",
+      "transcript_available": true,
+      "transcript_path": "data/archive/_hFiiaf6Mi8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=_hFiiaf6Mi8",
+      "verdict": ""
+    },
     "_hc6cM1arco": {
       "channel": "Vinh Giang",
       "channel_id": "UC9K9Wnz6t4cLnCdTzAVrXqQ",
@@ -81094,6 +81800,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/_lqDGi1msn0/transcript.md",
       "url": "https://www.youtube.com/watch?v=_lqDGi1msn0",
+      "verdict": ""
+    },
+    "_m1XcP1addc": {
+      "channel": "BWB - Business With Brian",
+      "channel_id": "UCyqlbzLoYtpqDXwRI9Yh5LA",
+      "had_materials": false,
+      "published": "2026-11-01T14:00:22+00:00",
+      "takeaway": "",
+      "title": "A Dip Like This Only Comes Once a Decade",
+      "transcript_available": true,
+      "transcript_path": "data/archive/_m1XcP1addc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=_m1XcP1addc",
       "verdict": ""
     },
     "_m9h-gLnUUY": {
@@ -81928,6 +82646,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/a6YkleOJvyA/transcript.md",
       "url": "https://www.youtube.com/shorts/a6YkleOJvyA",
+      "verdict": ""
+    },
+    "a7HKg-2hbyc": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-10-30T03:16:24+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "The problem with fitness social media",
+      "transcript_available": true,
+      "transcript_path": "data/archive/a7HKg-2hbyc/transcript.md",
+      "url": "https://www.youtube.com/shorts/a7HKg-2hbyc",
       "verdict": ""
     },
     "a7KlSG6gPCc": {
@@ -82943,6 +83674,19 @@
       "url": "https://www.youtube.com/watch?v=aXolO9XSB1Y",
       "verdict": ""
     },
+    "aYJO56DgH7k": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-10-19T15:24:38+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Pre-Workout Crack",
+      "transcript_available": true,
+      "transcript_path": "data/archive/aYJO56DgH7k/transcript.md",
+      "url": "https://www.youtube.com/shorts/aYJO56DgH7k",
+      "verdict": ""
+    },
     "aYgDscyF_Xc": {
       "channel": "JulienHimself",
       "channel_id": "UCaN4Pe5JEsWzAByY2WfxxjQ",
@@ -83067,7 +83811,7 @@
     "a_ORzZ9eG40": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-18T20:11:27+00:00",
       "takeaway": "",
       "title": "I'm Buying Every Share I Can (Investors Aren't Ready)",
       "transcript_available": true,
@@ -83607,6 +84351,19 @@
       "url": "https://www.youtube.com/watch?v=aqbEX6tAg70",
       "verdict": ""
     },
+    "aqjeBZOHFaw": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-11-02T15:22:57+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Biasing the biceps",
+      "transcript_available": true,
+      "transcript_path": "data/archive/aqjeBZOHFaw/transcript.md",
+      "url": "https://www.youtube.com/shorts/aqjeBZOHFaw",
+      "verdict": ""
+    },
     "aqxkUbgLITA": {
       "channel": "Ben Yanes",
       "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
@@ -84080,6 +84837,18 @@
       "url": "https://www.youtube.com/watch?v=b2RhXCugEW4",
       "verdict": ""
     },
+    "b3tMAOFB71o": {
+      "channel": "Greg Isenberg",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "had_materials": false,
+      "published": "2026-11-04T20:30:20+00:00",
+      "takeaway": "",
+      "title": "8 Businesses for the AI Age",
+      "transcript_available": true,
+      "transcript_path": "data/archive/b3tMAOFB71o/transcript.md",
+      "url": "https://www.youtube.com/watch?v=b3tMAOFB71o",
+      "verdict": ""
+    },
     "b4Mm1fE_z0o": {
       "channel": "Ben Yanes",
       "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
@@ -84163,6 +84932,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/b5JhfGHafZA/transcript.md",
       "url": "https://www.youtube.com/watch?v=b5JhfGHafZA",
+      "verdict": ""
+    },
+    "b5dQcKlaKXI": {
+      "channel": "David Carbutt",
+      "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
+      "had_materials": false,
+      "published": "2026-10-31T17:56:55+00:00",
+      "takeaway": "",
+      "title": "AMD & NVIDIA Are About to Go Bonkers",
+      "transcript_available": true,
+      "transcript_path": "data/archive/b5dQcKlaKXI/transcript.md",
+      "url": "https://www.youtube.com/watch?v=b5dQcKlaKXI",
       "verdict": ""
     },
     "b6j4EGvcXBw": {
@@ -84406,7 +85187,7 @@
       "channel": "BWB - Business With Brian",
       "channel_id": "UCyqlbzLoYtpqDXwRI9Yh5LA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-09-20T16:49:40+00:00",
       "takeaway": "",
       "title": "Everyone Hates AI Right Now. Four Stocks That Are Bulletproof",
       "transcript_available": true,
@@ -84809,7 +85590,7 @@
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-06T14:30:39+00:00",
       "takeaway": "",
       "title": "13 Businesses for the Age of AI",
       "transcript_available": true,
@@ -84853,6 +85634,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/bRBd7wTjoJg/transcript.md",
       "url": "https://www.youtube.com/watch?v=bRBd7wTjoJg",
+      "verdict": ""
+    },
+    "bRERpUGzwzU": {
+      "channel": "Chris Williamson",
+      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
+      "had_materials": false,
+      "published": "2026-11-06T16:00:21+00:00",
+      "takeaway": "",
+      "title": "Women Are Moving Left. Men Aren’t Following.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/bRERpUGzwzU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=bRERpUGzwzU",
       "verdict": ""
     },
     "bSDprg24pEA": {
@@ -86066,6 +86859,18 @@
       "url": "https://www.youtube.com/watch?v=btr7-t9kyrk",
       "verdict": ""
     },
+    "bv1sB_RaNcE": {
+      "channel": "Felix Nikolas Prehn",
+      "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
+      "had_materials": false,
+      "published": "2026-11-07T13:00:25+00:00",
+      "takeaway": "",
+      "title": "What Insiders Are BUYING Like Never Before",
+      "transcript_available": true,
+      "transcript_path": "data/archive/bv1sB_RaNcE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=bv1sB_RaNcE",
+      "verdict": ""
+    },
     "bv5si_KGdPA": {
       "channel": "Ben Yanes",
       "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
@@ -86941,6 +87746,19 @@
       "url": "https://www.youtube.com/watch?v=cJxUyzzhWmY",
       "verdict": ""
     },
+    "cK44LpzPtjs": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-10-29T13:17:19+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Muscle confusion IS real",
+      "transcript_available": true,
+      "transcript_path": "data/archive/cK44LpzPtjs/transcript.md",
+      "url": "https://www.youtube.com/shorts/cK44LpzPtjs",
+      "verdict": ""
+    },
     "cKMtyrF33_0": {
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
@@ -87486,6 +88304,18 @@
       "url": "https://www.youtube.com/watch?v=cakxlg_LPC8",
       "verdict": ""
     },
+    "cbkQCsrubBM": {
+      "channel": "BWB - Business With Brian",
+      "channel_id": "UCyqlbzLoYtpqDXwRI9Yh5LA",
+      "had_materials": false,
+      "published": "2026-11-08T14:00:29+00:00",
+      "takeaway": "",
+      "title": "I Bought the 2020 Crash. I’m Doing It Again With This Plan",
+      "transcript_available": true,
+      "transcript_path": "data/archive/cbkQCsrubBM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=cbkQCsrubBM",
+      "verdict": ""
+    },
     "ccEBl-mDbE4": {
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
@@ -87508,6 +88338,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/ccmXwEzlZ1I/transcript.md",
       "url": "https://www.youtube.com/watch?v=ccmXwEzlZ1I",
+      "verdict": ""
+    },
+    "cd1xrO2q9HU": {
+      "channel": "Aswath Damodaran",
+      "channel_id": "UCLvnJL8htRR1T9cbSccaoVw",
+      "had_materials": true,
+      "published": "2026-10-28T18:04:54+00:00",
+      "takeaway": "",
+      "title": "The Prospectus is here: My (but not the) Anthropic IPO Valuation!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/cd1xrO2q9HU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=cd1xrO2q9HU",
       "verdict": ""
     },
     "cd4sk8Yu1dY": {
@@ -89218,7 +90060,7 @@
     "dNEWqinHrW8": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
-      "published": null,
+      "published": "2026-08-11T00:52:38+00:00",
       "takeaway": "",
       "title": "Lessons from Leo: The Dark Side of Investment Conviction!",
       "transcript_available": true,
@@ -89593,6 +90435,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/dXCAyqM2zWY/transcript.md",
       "url": "https://www.youtube.com/watch?v=dXCAyqM2zWY",
+      "verdict": ""
+    },
+    "dXIkaWZCO0c": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-11-04T13:00:17+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "STOCKS ARE ABOUT TO RIP (Don't Miss This)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/dXIkaWZCO0c/transcript.md",
+      "url": "https://www.youtube.com/shorts/dXIkaWZCO0c",
       "verdict": ""
     },
     "dXKzST0FE-A": {
@@ -93166,7 +94021,7 @@
       "channel": "Felix & Friends (Goat Academy)",
       "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-15T13:00:12+00:00",
       "takeaway": "",
       "title": "Wall Street Is Quietly Selling AI (And Nobody’s Told You) | Felix Nikolas Prehn",
       "transcript_available": true,
@@ -93334,7 +94189,7 @@
       "channel": "Riley Brown",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-15T18:24:45+00:00",
       "takeaway": "",
       "title": "Start Using Claude Code For EVERYTHING (Trust Me)",
       "transcript_available": true,
@@ -94256,7 +95111,7 @@
     "fbesNIjd_pY": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
-      "published": null,
+      "published": "2026-06-18T22:06:27+00:00",
       "takeaway": "",
       "title": "The Indexing Question: Should SpaceX, OpenAI and Anthropic be in the S&P 500?",
       "transcript_available": true,
@@ -95051,6 +95906,19 @@
       "url": "https://www.youtube.com/watch?v=fxyhIXZ6Yog",
       "verdict": ""
     },
+    "fxyz7CTYV8s": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-10-30T03:13:47+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Want thicker arms?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/fxyz7CTYV8s/transcript.md",
+      "url": "https://www.youtube.com/shorts/fxyz7CTYV8s",
+      "verdict": ""
+    },
     "fy-dRa9nhz4": {
       "channel": "Sean Nalewanyj",
       "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
@@ -95746,7 +96614,7 @@
       "channel": "Ben Yanes",
       "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-28T14:00:21+00:00",
       "takeaway": "",
       "title": "Why Lifting “Correctly” Is Ruining Your Technique",
       "transcript_available": true,
@@ -96137,6 +97005,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/gVbeZXl_q0A/transcript.md",
       "url": "https://www.youtube.com/watch?v=gVbeZXl_q0A",
+      "verdict": ""
+    },
+    "gVzBA0v-w3U": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-11-05T14:18:41+00:00",
+      "takeaway": "",
+      "title": "The Unnoticed Beauty of Texting",
+      "transcript_available": true,
+      "transcript_path": "data/archive/gVzBA0v-w3U/transcript.md",
+      "url": "https://www.youtube.com/watch?v=gVzBA0v-w3U",
       "verdict": ""
     },
     "gWDCGmY8Svc": {
@@ -97061,6 +97941,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/gyIfXuoeYhQ/transcript.md",
       "url": "https://www.youtube.com/watch?v=gyIfXuoeYhQ",
+      "verdict": ""
+    },
+    "gyMFGRFfaKw": {
+      "channel": "Aswath Damodaran",
+      "channel_id": "UCLvnJL8htRR1T9cbSccaoVw",
+      "had_materials": true,
+      "published": "2026-11-09T12:06:03+00:00",
+      "takeaway": "",
+      "title": "Deconstructing the AI Trade: Market Meltdown, Correction or Clean up?",
+      "transcript_available": true,
+      "transcript_path": "data/archive/gyMFGRFfaKw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=gyMFGRFfaKw",
       "verdict": ""
     },
     "gyf-osOlwDE": {
@@ -98966,6 +99858,18 @@
       "url": "https://www.youtube.com/watch?v=hnnwqjSEKZw",
       "verdict": ""
     },
+    "hnxn16HtLIk": {
+      "channel": "Starter Story",
+      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "had_materials": false,
+      "published": "2026-11-01T18:00:28+00:00",
+      "takeaway": "",
+      "title": "How I Built It: $400K/Month iOS App",
+      "transcript_available": true,
+      "transcript_path": "data/archive/hnxn16HtLIk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=hnxn16HtLIk",
+      "verdict": ""
+    },
     "ho6HURspuwM": {
       "channel": "JulienHimself",
       "channel_id": "UCaN4Pe5JEsWzAByY2WfxxjQ",
@@ -99122,6 +100026,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/hstDr_1QHxU/transcript.md",
       "url": "https://www.youtube.com/watch?v=hstDr_1QHxU",
+      "verdict": ""
+    },
+    "hsxo5pi5OTQ": {
+      "channel": "Aswath Damodaran",
+      "channel_id": "UCLvnJL8htRR1T9cbSccaoVw",
+      "had_materials": true,
+      "published": "2026-10-22T22:00:51+00:00",
+      "takeaway": "",
+      "title": "From Eyeballs to ARR: Buzzy Pricing Metrics and the AI Trade!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/hsxo5pi5OTQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=hsxo5pi5OTQ",
       "verdict": ""
     },
     "ht1cnjXketo": {
@@ -100192,6 +101108,19 @@
       "url": "https://www.youtube.com/watch?v=iOLA9vCFLe0",
       "verdict": ""
     },
+    "iOR7t-scJyQ": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-11-09T06:20:37+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "I have spurts of motivation with posting but I doubt I’ll ever post with the same frequency again",
+      "transcript_available": true,
+      "transcript_path": "data/archive/iOR7t-scJyQ/transcript.md",
+      "url": "https://www.youtube.com/shorts/iOR7t-scJyQ",
+      "verdict": ""
+    },
     "iPO9RoCu5ls": {
       "channel": "David Carbutt",
       "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
@@ -100571,7 +101500,7 @@
       "channel": "Ben Yanes",
       "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-25T13:54:14+00:00",
       "takeaway": "",
       "title": "The Hidden Cost of Becoming Successful",
       "transcript_available": true,
@@ -100884,7 +101813,7 @@
     "ig2ewJ9wx2Y": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
-      "published": null,
+      "published": "2026-05-06T21:05:43+00:00",
       "takeaway": "",
       "title": "An Ode to Restraint: Lessons from the Tim Cook Legacy!",
       "transcript_available": true,
@@ -102035,7 +102964,7 @@
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-15T20:40:35+00:00",
       "takeaway": "",
       "title": "Make cool things with AI that people buy (Gemini 4 Argon)",
       "transcript_available": true,
@@ -102509,6 +103438,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/jR3AaaY_gS4/transcript.md",
       "url": "https://www.youtube.com/watch?v=jR3AaaY_gS4",
+      "verdict": ""
+    },
+    "jRLeEDTWPo4": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-11-01T14:53:39+00:00",
+      "takeaway": "",
+      "title": "🚨 MAJOR BUY: Last EASY Wealth Opportunity For Decades",
+      "transcript_available": true,
+      "transcript_path": "data/archive/jRLeEDTWPo4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=jRLeEDTWPo4",
       "verdict": ""
     },
     "jR_D80L3Zas": {
@@ -103143,7 +104084,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-06-06T13:24:33+00:00",
       "takeaway": "",
       "title": "I Valued the SpaceX IPO Like Warren Buffett...",
       "transcript_available": true,
@@ -103745,7 +104686,7 @@
       "channel": "BWB - Business With Brian",
       "channel_id": "UCyqlbzLoYtpqDXwRI9Yh5LA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-18T13:00:11+00:00",
       "takeaway": "",
       "title": "AI Stocks Are on Sale. It Won’t Last",
       "transcript_available": true,
@@ -105407,7 +106348,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-21T06:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "Summer Body Ready",
@@ -106719,7 +107660,7 @@
     "lSjzGHPpzic": {
       "channel": "Chris Raroque",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-24T15:15:27+00:00",
       "takeaway": "",
       "title": "Lets talk about Codex (why i switched)",
       "transcript_available": true,
@@ -107088,7 +108029,7 @@
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-15T05:55:33+00:00",
       "takeaway": "",
       "title": "If I Started Investing in 2026, This is What I'd Do (My Exact Plan)",
       "transcript_available": true,
@@ -107598,6 +108539,19 @@
       "url": "https://www.youtube.com/shorts/lxAY6mk1KI8",
       "verdict": ""
     },
+    "lyFLTraZ-VU": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-11-02T15:15:23+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "My teams are only a dollar a day. Try it out and see for yourself.",
+      "transcript_available": false,
+      "transcript_path": "data/archive/lyFLTraZ-VU/transcript.md",
+      "url": "https://www.youtube.com/shorts/lyFLTraZ-VU",
+      "verdict": ""
+    },
     "lyqk7zxbCKs": {
       "channel": "Greg Isenberg",
       "had_materials": false,
@@ -107843,7 +108797,7 @@
       "channel": "Felix & Friends (Goat Academy)",
       "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-27T13:00:28+00:00",
       "takeaway": "",
       "title": "Europe Is Collapsing (Is America Next?)",
       "transcript_available": true,
@@ -108012,7 +108966,7 @@
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-20T10:38:48+00:00",
       "takeaway": "",
       "title": "The Best AI Stocks To Buy In 2026 ",
       "transcript_available": true,
@@ -108273,6 +109227,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/mHAhV8YIlks/transcript.md",
       "url": "https://www.youtube.com/watch?v=mHAhV8YIlks",
+      "verdict": ""
+    },
+    "mHWrPLIwHZU": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-10-29T18:58:00+00:00",
+      "takeaway": "",
+      "title": "I Said SOFI Earnings Will Do This. Here’s What's Next!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/mHWrPLIwHZU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=mHWrPLIwHZU",
       "verdict": ""
     },
     "mH_u2KBsCg4": {
@@ -109386,6 +110352,18 @@
       "url": "https://www.youtube.com/watch?v=mjfZ3dkuxPA",
       "verdict": ""
     },
+    "mjv7RZYTu-s": {
+      "channel": "HealthyGamerGG",
+      "channel_id": "UClHVl2N3jPEbkNJVx-ItQIQ",
+      "had_materials": false,
+      "published": "2026-11-07T16:00:13+00:00",
+      "takeaway": "",
+      "title": "I Asked 100 Devs What AI Is ACTUALLY Doing To Their Jobs",
+      "transcript_available": true,
+      "transcript_path": "data/archive/mjv7RZYTu-s/transcript.md",
+      "url": "https://www.youtube.com/watch?v=mjv7RZYTu-s",
+      "verdict": ""
+    },
     "mk5mgbX7UvY": {
       "channel": "The Diary Of A CEO",
       "had_materials": false,
@@ -109768,6 +110746,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/mt7hRJSjiqo/transcript.md",
       "url": "https://www.youtube.com/watch?v=mt7hRJSjiqo",
+      "verdict": ""
+    },
+    "muT6lQ2rQ60": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-11-02T15:00:38+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "\"You had one more\"",
+      "transcript_available": false,
+      "transcript_path": "data/archive/muT6lQ2rQ60/transcript.md",
+      "url": "https://www.youtube.com/shorts/muT6lQ2rQ60",
       "verdict": ""
     },
     "muYzlqHPJ4w": {
@@ -110407,7 +111398,7 @@
       "channel": "Justin Sung",
       "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-20T22:06:08+00:00",
       "takeaway": "",
       "title": "How to Learn So Fast People Assume You're Naturally Gifted",
       "transcript_available": true,
@@ -110774,6 +111765,18 @@
       "url": "https://www.youtube.com/watch?v=nPh6ggYmAug",
       "verdict": ""
     },
+    "nPvVsXSYY6w": {
+      "channel": "David Carbutt",
+      "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
+      "had_materials": false,
+      "published": "2026-11-10T12:30:07+00:00",
+      "takeaway": "",
+      "title": "A Once in a Lifetime Opportunity Is Coming for NVIDIA & Meta",
+      "transcript_available": true,
+      "transcript_path": "data/archive/nPvVsXSYY6w/transcript.md",
+      "url": "https://www.youtube.com/watch?v=nPvVsXSYY6w",
+      "verdict": ""
+    },
     "nQ20zaUBgBc": {
       "channel": "Ben Yanes",
       "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
@@ -110836,7 +111839,7 @@
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-21T19:15:33+00:00",
       "takeaway": "",
       "title": "The 9 Stages of AI Agent Adoption, Explained",
       "transcript_available": true,
@@ -112992,6 +113995,19 @@
       "url": "https://www.youtube.com/watch?v=oQwE4Uhfo44",
       "verdict": ""
     },
+    "oRBGDmn4FMc": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-11-09T06:22:55+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Setting a baseline timer for 2-3min is a good idea but you can always just rest longer if needed",
+      "transcript_available": true,
+      "transcript_path": "data/archive/oRBGDmn4FMc/transcript.md",
+      "url": "https://www.youtube.com/shorts/oRBGDmn4FMc",
+      "verdict": ""
+    },
     "oRMG_HpOAN4": {
       "channel": "Alex Hormozi",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
@@ -113206,6 +114222,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/oVGJeBe_xGA/transcript.md",
       "url": "https://www.youtube.com/watch?v=oVGJeBe_xGA",
+      "verdict": ""
+    },
+    "oVHsGB1J07o": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-11-02T16:19:32+00:00",
+      "takeaway": "",
+      "title": "5 LEAPS Options I’m Buying NOW (Huge Opportunity)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/oVHsGB1J07o/transcript.md",
+      "url": "https://www.youtube.com/watch?v=oVHsGB1J07o",
       "verdict": ""
     },
     "oVKaXNY2cYU": {
@@ -113633,6 +114661,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/oezR_wGsXbE/transcript.md",
       "url": "https://www.youtube.com/shorts/oezR_wGsXbE",
+      "verdict": ""
+    },
+    "ofmTLI86w6Y": {
+      "channel": "David Carbutt",
+      "channel_id": "UC__d7jgOunIVFz6TU_t1QOQ",
+      "had_materials": false,
+      "published": "2026-11-03T01:24:11+00:00",
+      "takeaway": "",
+      "title": "Palantir's CEO Just Said the UNTHINKABLE!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/ofmTLI86w6Y/transcript.md",
+      "url": "https://www.youtube.com/watch?v=ofmTLI86w6Y",
       "verdict": ""
     },
     "ofs1Zu2XHqE": {
@@ -114146,7 +115186,7 @@
     "osSWqOI0yp4": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-11T19:05:21+00:00",
       "takeaway": "",
       "title": "3 Stocks Quietly Making Millionaires (98% Will Miss It)",
       "transcript_available": true,
@@ -114550,6 +115590,18 @@
       "url": "https://www.youtube.com/watch?v=p39nLmVtOjc",
       "verdict": ""
     },
+    "p3IobYMbMT0": {
+      "channel": "JulienHimself",
+      "channel_id": "UCaN4Pe5JEsWzAByY2WfxxjQ",
+      "had_materials": false,
+      "published": "2026-11-08T13:24:59+00:00",
+      "takeaway": "",
+      "title": "You’re NOT \"Broken\" (Your Ego Just Loves The Attention)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/p3IobYMbMT0/transcript.md",
+      "url": "https://www.youtube.com/watch?v=p3IobYMbMT0",
+      "verdict": ""
+    },
     "p3KhYe2NRIo": {
       "channel": "Vinh Giang",
       "channel_id": "UC9K9Wnz6t4cLnCdTzAVrXqQ",
@@ -114852,6 +115904,30 @@
       "url": "https://www.youtube.com/watch?v=pFgbw8sHfSY",
       "verdict": ""
     },
+    "pFscaR3gkfU": {
+      "channel": "Chris Williamson",
+      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
+      "had_materials": false,
+      "published": "2026-11-08T16:00:37+00:00",
+      "takeaway": "",
+      "title": "How To Develop Good Taste (the #1 skill today)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/pFscaR3gkfU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=pFscaR3gkfU",
+      "verdict": ""
+    },
+    "pGa5NivEWy8": {
+      "channel": "Tom Nash",
+      "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
+      "had_materials": false,
+      "published": "2026-10-19T12:29:11+00:00",
+      "takeaway": "",
+      "title": "This Market Dip is a GIFT (7 Stocks to Buy NOW)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/pGa5NivEWy8/transcript.md",
+      "url": "https://www.youtube.com/watch?v=pGa5NivEWy8",
+      "verdict": ""
+    },
     "pGrN4YLFuNc": {
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
@@ -114935,6 +116011,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/pIxK-2SxGC0/transcript.md",
       "url": "https://www.youtube.com/watch?v=pIxK-2SxGC0",
+      "verdict": ""
+    },
+    "pJ6afXnbJVk": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-10-25T16:27:32+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Tendinitis is a great teacher",
+      "transcript_available": true,
+      "transcript_path": "data/archive/pJ6afXnbJVk/transcript.md",
+      "url": "https://www.youtube.com/shorts/pJ6afXnbJVk",
       "verdict": ""
     },
     "pJTzIkPjifg": {
@@ -115580,6 +116669,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/p_zfmdb7oZ4/transcript.md",
       "url": "https://www.youtube.com/shorts/p_zfmdb7oZ4",
+      "verdict": ""
+    },
+    "paV3t1SaYYk": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-11-09T06:27:36+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Old video but I think the message is helpful for those in my DMs asking me about rehab",
+      "transcript_available": true,
+      "transcript_path": "data/archive/paV3t1SaYYk/transcript.md",
+      "url": "https://www.youtube.com/shorts/paV3t1SaYYk",
       "verdict": ""
     },
     "paZlfDTlYs8": {
@@ -116262,7 +117364,7 @@
       "channel": "Starter Story",
       "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-28T17:00:22+00:00",
       "takeaway": "",
       "title": "I Make $30K/Month From the Most Boring Website on the Internet",
       "transcript_available": true,
@@ -117831,7 +118933,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-16T07:45:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "HOW TO Pec Deck",
@@ -118441,6 +119543,19 @@
       "url": "https://www.youtube.com/watch?v=qvsp0gRd6EA",
       "verdict": ""
     },
+    "qwChYfVzFTI": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-10-30T13:40:46+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "You can’t “fix” posture",
+      "transcript_available": true,
+      "transcript_path": "data/archive/qwChYfVzFTI/transcript.md",
+      "url": "https://www.youtube.com/shorts/qwChYfVzFTI",
+      "verdict": ""
+    },
     "qwQrwPhK06I": {
       "channel": "HealthyGamerGG",
       "channel_id": "UClHVl2N3jPEbkNJVx-ItQIQ",
@@ -118500,6 +119615,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/qyramLcTM30/transcript.md",
       "url": "https://www.youtube.com/watch?v=qyramLcTM30",
+      "verdict": ""
+    },
+    "qzv_NasNjZQ": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-11-09T20:38:07+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "The reason you can't find good exercises",
+      "transcript_available": true,
+      "transcript_path": "data/archive/qzv_NasNjZQ/transcript.md",
+      "url": "https://www.youtube.com/shorts/qzv_NasNjZQ",
       "verdict": ""
     },
     "r-0ADQoOun4": {
@@ -118944,6 +120072,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/r8NXCf0BNGs/transcript.md",
       "url": "https://www.youtube.com/watch?v=r8NXCf0BNGs",
+      "verdict": ""
+    },
+    "r8SHE3MikaU": {
+      "channel": "Ben Yanes",
+      "channel_id": "UCTwuK33U_RjE4bLkQJzG-cQ",
+      "had_materials": false,
+      "published": "2026-11-08T18:15:09+00:00",
+      "takeaway": "",
+      "title": "How The Fitness Industry Kills Your Love For Fitness",
+      "transcript_available": true,
+      "transcript_path": "data/archive/r8SHE3MikaU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=r8SHE3MikaU",
       "verdict": ""
     },
     "r9iibd2HYjw": {
@@ -119597,7 +120737,7 @@
       "channel": "Justin Sung",
       "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
       "had_materials": false,
-      "published": null,
+      "published": "2026-09-26T08:55:34+00:00",
       "takeaway": "",
       "title": "How To Think So Intelligently People Say You’re a Genius",
       "transcript_available": true,
@@ -119657,7 +120797,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-26T07:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "HOW TO Pull-ups",
@@ -119892,6 +121032,19 @@
       "transcript_available": false,
       "transcript_path": "data/archive/rY0dLrxnfmI/transcript.md",
       "url": "https://www.youtube.com/shorts/rY0dLrxnfmI",
+      "verdict": ""
+    },
+    "rZv64Vg9O7k": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-11-04T11:45:24+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "The Stock Market Could EXPLODE After This Election",
+      "transcript_available": true,
+      "transcript_path": "data/archive/rZv64Vg9O7k/transcript.md",
+      "url": "https://www.youtube.com/shorts/rZv64Vg9O7k",
       "verdict": ""
     },
     "r_FT9q4ucgw": {
@@ -120296,7 +121449,7 @@
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-08T18:30:11+00:00",
       "takeaway": "",
       "title": "8 GitHub Repos To Go Viral and Make Money",
       "transcript_available": true,
@@ -120355,7 +121508,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-18T06:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "HOW TO Lying Leg Raise",
@@ -120697,6 +121850,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/rzTS6Nz8ATQ/transcript.md",
       "url": "https://www.youtube.com/watch?v=rzTS6Nz8ATQ",
+      "verdict": ""
+    },
+    "s-H0yY1OPII": {
+      "channel": "Tom Nash",
+      "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
+      "had_materials": false,
+      "published": "2026-11-08T17:23:33+00:00",
+      "takeaway": "",
+      "title": "The UNTHINKABLE is About to Happen to Stocks (Emergency Update)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/s-H0yY1OPII/transcript.md",
+      "url": "https://www.youtube.com/watch?v=s-H0yY1OPII",
       "verdict": ""
     },
     "s-ITMcC1JNg": {
@@ -121591,7 +122756,7 @@
       "channel": "Felix & Friends (Goat Academy)",
       "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-21T13:00:16+00:00",
       "takeaway": "",
       "title": "The Last Time Central Banks Did THIS, Gold Went Vertical (Most Aren't Ready)",
       "transcript_available": true,
@@ -121926,6 +123091,18 @@
       "url": "https://www.youtube.com/watch?v=sTdM00on9D0",
       "verdict": ""
     },
+    "sTynwCiOQoc": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-11-04T14:02:04+00:00",
+      "takeaway": "",
+      "title": "The UNTHINKABLE is About to Happen to Palantir Stock",
+      "transcript_available": true,
+      "transcript_path": "data/archive/sTynwCiOQoc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=sTynwCiOQoc",
+      "verdict": ""
+    },
     "sUadiL3yULY": {
       "channel": "Invest with Henry",
       "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
@@ -121948,6 +123125,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/sV3pI_xH_Q0/transcript.md",
       "url": "https://www.youtube.com/watch?v=sV3pI_xH_Q0",
+      "verdict": ""
+    },
+    "sVQQ_jhI3eg": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-10-23T15:00:27+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "WHY?!",
+      "transcript_available": true,
+      "transcript_path": "data/archive/sVQQ_jhI3eg/transcript.md",
+      "url": "https://www.youtube.com/shorts/sVQQ_jhI3eg",
       "verdict": ""
     },
     "sW-fzkFtQns": {
@@ -122756,7 +123946,7 @@
     "sres2R8etKA": {
       "channel": "Aswath Damodaran",
       "had_materials": true,
-      "published": null,
+      "published": "2026-07-15T21:39:12+00:00",
       "takeaway": "",
       "title": "Country Risk: Determinants, Measures and Implications - The 2026 Edition",
       "transcript_available": true,
@@ -122801,11 +123991,23 @@
       "url": "https://www.youtube.com/shorts/ssLuESizogM",
       "verdict": ""
     },
+    "st2fw260BxE": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-10-25T18:57:02+00:00",
+      "takeaway": "",
+      "title": "Why Doesn't Everybody Sell Covered Calls? (And Why I Do)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/st2fw260BxE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=st2fw260BxE",
+      "verdict": ""
+    },
     "st61aKW8P5A": {
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-28T17:40:18+00:00",
       "takeaway": "",
       "title": "$100M ARR Founder: The Next Big AI Opportunity",
       "transcript_available": true,
@@ -122865,7 +124067,7 @@
       "channel": "Ticker Symbol: YOU",
       "channel_id": "UC7kCeZ53sli_9XwuQeFxLqw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-30T20:10:04+00:00",
       "takeaway": "",
       "title": "Anthropic Is Going Public. Here's How I'm Investing In It.",
       "transcript_available": true,
@@ -124250,7 +125452,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-13T20:30:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "Fitness Street Interview",
@@ -124847,7 +126049,7 @@
       "channel": "Greg Isenberg",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-19T17:50:26+00:00",
       "takeaway": "",
       "title": "Meta Muse Will Create 1,000 Millionaires",
       "transcript_available": true,
@@ -125945,6 +127147,18 @@
       "url": "https://www.youtube.com/watch?v=uJokZPBEMec",
       "verdict": ""
     },
+    "uJuxenfe-NU": {
+      "channel": "Greg Isenberg",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "had_materials": false,
+      "published": "2026-11-09T18:15:17+00:00",
+      "takeaway": "",
+      "title": "AI Agents are too good at marketing now",
+      "transcript_available": true,
+      "transcript_path": "data/archive/uJuxenfe-NU/transcript.md",
+      "url": "https://www.youtube.com/watch?v=uJuxenfe-NU",
+      "verdict": ""
+    },
     "uK3agwRdhmQ": {
       "channel": "Ben Yanes",
       "had_materials": false,
@@ -126906,7 +128120,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-25T13:12:03+00:00",
       "takeaway": "",
       "title": "You Only Need to Get Rich Once. (Mohnish Pabrai Interview)",
       "transcript_available": true,
@@ -127221,7 +128435,7 @@
       "channel": "Tom Nash",
       "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-04T17:01:13+00:00",
       "takeaway": "",
       "title": "If you are a PALANTIR shareholder….GET READY",
       "transcript_available": true,
@@ -127418,6 +128632,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/ux4jtuWS28M/transcript.md",
       "url": "https://www.youtube.com/watch?v=ux4jtuWS28M",
+      "verdict": ""
+    },
+    "uxSQqPcayzk": {
+      "channel": "Vinh Giang",
+      "channel_id": "UC9K9Wnz6t4cLnCdTzAVrXqQ",
+      "had_materials": false,
+      "published": "2026-11-08T16:00:14+00:00",
+      "takeaway": "",
+      "title": "Why Nobody Has Close Friends Anymore",
+      "transcript_available": true,
+      "transcript_path": "data/archive/uxSQqPcayzk/transcript.md",
+      "url": "https://www.youtube.com/watch?v=uxSQqPcayzk",
       "verdict": ""
     },
     "uxbQ_DZvinA": {
@@ -127764,6 +128990,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/v9D11_K5T8c/transcript.md",
       "url": "https://www.youtube.com/watch?v=v9D11_K5T8c",
+      "verdict": ""
+    },
+    "v9yr0ZA-grQ": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-11-06T19:15:55+00:00",
+      "takeaway": "",
+      "title": "18 Lessons That Save You $100,000 in This Market",
+      "transcript_available": true,
+      "transcript_path": "data/archive/v9yr0ZA-grQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=v9yr0ZA-grQ",
       "verdict": ""
     },
     "vAPSXdvQrz4": {
@@ -128307,6 +129545,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/vMv9qPN06Wg/transcript.md",
       "url": "https://www.youtube.com/watch?v=vMv9qPN06Wg",
+      "verdict": ""
+    },
+    "vMvkR8WEOpE": {
+      "channel": "Riley Brown",
+      "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
+      "had_materials": false,
+      "published": "2026-10-31T14:00:02+00:00",
+      "takeaway": "",
+      "title": "ChatGPT Just Changed A LOT AGAIN (Here’s What’s New)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/vMvkR8WEOpE/transcript.md",
+      "url": "https://www.youtube.com/watch?v=vMvkR8WEOpE",
       "verdict": ""
     },
     "vNXkcKdE3DQ": {
@@ -129282,6 +130532,19 @@
       "url": "https://www.youtube.com/shorts/vmCCeDRDFgA",
       "verdict": ""
     },
+    "voDJ5QYXhhE": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-10-12T15:00:13+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "Ab workouts are dumb.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/voDJ5QYXhhE/transcript.md",
+      "url": "https://www.youtube.com/shorts/voDJ5QYXhhE",
+      "verdict": ""
+    },
     "voF8ON1x9Xo": {
       "channel": "JPG Coaching",
       "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
@@ -129349,7 +130612,7 @@
       "channel": "TheQuadfatherBW",
       "channel_id": "UCdhPsaLVKArZ0c1nOq2m9Qw",
       "had_materials": false,
-      "published": null,
+      "published": "2026-02-20T06:00:00+00:00",
       "short": true,
       "takeaway": "",
       "title": "HOW TO Barbell Squat",
@@ -130467,6 +131730,18 @@
       "url": "https://www.youtube.com/shorts/wHZDun56kzI",
       "verdict": ""
     },
+    "wH_J_SdRxrQ": {
+      "channel": "Chris Raroque",
+      "channel_id": "UC4x3CR25WSlvMJUtSPPzwwg",
+      "had_materials": false,
+      "published": "2026-11-10T16:30:01+00:00",
+      "takeaway": "",
+      "title": "My New App Got 1,800 Signups (But We Have a Problem)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/wH_J_SdRxrQ/transcript.md",
+      "url": "https://www.youtube.com/watch?v=wH_J_SdRxrQ",
+      "verdict": ""
+    },
     "wIUYaUyjwf8": {
       "channel": "Invest with Henry",
       "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
@@ -130817,7 +132092,7 @@
       "channel": "New Money",
       "channel_id": "UCvSXMi2LebwJEM1s4bz5IBA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-27T13:58:38+00:00",
       "takeaway": "",
       "title": "Warren Buffett's Bombshell Confession About Google...",
       "transcript_available": true,
@@ -131607,6 +132882,18 @@
       "url": "https://www.youtube.com/watch?v=wolBlNz2tnw",
       "verdict": ""
     },
+    "wp-BzhR_1i4": {
+      "channel": "Invest with Henry",
+      "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
+      "had_materials": false,
+      "published": "2026-11-02T01:15:04+00:00",
+      "takeaway": "",
+      "title": "If You Missed Palantir or Nvidia. This is Far Bigger",
+      "transcript_available": true,
+      "transcript_path": "data/archive/wp-BzhR_1i4/transcript.md",
+      "url": "https://www.youtube.com/watch?v=wp-BzhR_1i4",
+      "verdict": ""
+    },
     "wpZdY0eR4WU": {
       "channel": "Invest with Henry",
       "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
@@ -131677,6 +132964,18 @@
       "transcript_available": true,
       "transcript_path": "data/archive/wrm8RTmubEg/transcript.md",
       "url": "https://www.youtube.com/watch?v=wrm8RTmubEg",
+      "verdict": ""
+    },
+    "wrqmw0t4qpM": {
+      "channel": "Felix Nikolas Prehn",
+      "channel_id": "UCJtfma0mE_XrBAD9uakcjfA",
+      "had_materials": false,
+      "published": "2026-11-03T13:00:25+00:00",
+      "takeaway": "",
+      "title": "The UNTHINKABLE is about to Happen to Stocks",
+      "transcript_available": true,
+      "transcript_path": "data/archive/wrqmw0t4qpM/transcript.md",
+      "url": "https://www.youtube.com/watch?v=wrqmw0t4qpM",
       "verdict": ""
     },
     "wsGrMgtsKOs": {
@@ -134039,6 +135338,18 @@
       "url": "https://www.youtube.com/watch?v=xsvC4NfqybQ",
       "verdict": ""
     },
+    "xt4GRXqVAAc": {
+      "channel": "Chris Raroque",
+      "channel_id": "UC4x3CR25WSlvMJUtSPPzwwg",
+      "had_materials": false,
+      "published": "2026-10-21T14:53:34+00:00",
+      "takeaway": "",
+      "title": "My Biggest Mistakes Becoming a Full-Time App Developer (Q&A)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/xt4GRXqVAAc/transcript.md",
+      "url": "https://www.youtube.com/watch?v=xt4GRXqVAAc",
+      "verdict": ""
+    },
     "xtB4gCrnR1Y": {
       "channel": "Sean Nalewanyj",
       "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
@@ -134297,7 +135608,7 @@
       "channel": "BWB - Business With Brian",
       "channel_id": "UCyqlbzLoYtpqDXwRI9Yh5LA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-09-13T14:44:53+00:00",
       "takeaway": "",
       "title": "If You Missed Palantir at $25... It's Happening Again",
       "transcript_available": true,
@@ -135323,6 +136634,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/yNDvwpESSoo/transcript.md",
       "url": "https://www.youtube.com/shorts/yNDvwpESSoo",
+      "verdict": ""
+    },
+    "yNOwUPxEyxY": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-10-29T14:33:19+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "If you lifted in the early 2000s...",
+      "transcript_available": true,
+      "transcript_path": "data/archive/yNOwUPxEyxY/transcript.md",
+      "url": "https://www.youtube.com/shorts/yNOwUPxEyxY",
       "verdict": ""
     },
     "yNPR-O2iigo": {
@@ -136681,6 +138005,18 @@
       "url": "https://www.youtube.com/watch?v=zBgCRJluWTc",
       "verdict": ""
     },
+    "zBkrl2oASXw": {
+      "channel": "Tom Nash",
+      "channel_id": "UCJwKCyEIFHwUOPQQ-4kC1Zw",
+      "had_materials": false,
+      "published": "2026-11-02T16:21:40+00:00",
+      "takeaway": "",
+      "title": "Palantir Could Hit $1,000 (But ONLY If This Happens TODAY)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/zBkrl2oASXw/transcript.md",
+      "url": "https://www.youtube.com/watch?v=zBkrl2oASXw",
+      "verdict": ""
+    },
     "zBlSEABSHYs": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
@@ -136944,7 +138280,7 @@
       "channel": "Justin Sung",
       "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
       "had_materials": false,
-      "published": null,
+      "published": "2026-07-14T06:58:40+00:00",
       "takeaway": "",
       "title": "My System For Learning Any Skill Without Wasting Time",
       "transcript_available": true,
@@ -137325,6 +138661,18 @@
       "url": "https://www.youtube.com/watch?v=zTmX2hDyrdw",
       "verdict": ""
     },
+    "zU0jqYKTgMs": {
+      "channel": "Riley Brown",
+      "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
+      "had_materials": false,
+      "published": "2026-11-08T21:01:20+00:00",
+      "takeaway": "",
+      "title": "This NEW Claude Update Changes EVERYTHING (Claude Code From Your Phone)",
+      "transcript_available": true,
+      "transcript_path": "data/archive/zU0jqYKTgMs/transcript.md",
+      "url": "https://www.youtube.com/watch?v=zU0jqYKTgMs",
+      "verdict": ""
+    },
     "zUNk-nVFK88": {
       "channel": "Invest with Henry",
       "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
@@ -137364,7 +138712,7 @@
       "channel": "BWB - Business With Brian",
       "channel_id": "UCyqlbzLoYtpqDXwRI9Yh5LA",
       "had_materials": false,
-      "published": null,
+      "published": "2026-10-25T13:26:39+00:00",
       "takeaway": "",
       "title": "Nvidia Just Gave Away the Next Boom (THIS IS HUGE!)",
       "transcript_available": true,
@@ -137434,7 +138782,7 @@
     "zYeJZu1hkdM": {
       "channel": "Ticker Symbol: YOU",
       "had_materials": false,
-      "published": null,
+      "published": "2026-08-24T20:15:25+00:00",
       "takeaway": "",
       "title": "These Stocks Will Make Millionaires By 2029",
       "transcript_available": true,
@@ -137827,6 +139175,19 @@
       "url": "https://www.youtube.com/watch?v=zh9r78Wd0kI",
       "verdict": ""
     },
+    "zhsFX5PYAbc": {
+      "channel": "Sean Nalewanyj",
+      "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
+      "had_materials": false,
+      "published": "2026-10-30T15:00:27+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "I'm sorry.",
+      "transcript_available": true,
+      "transcript_path": "data/archive/zhsFX5PYAbc/transcript.md",
+      "url": "https://www.youtube.com/shorts/zhsFX5PYAbc",
+      "verdict": ""
+    },
     "ziBpn_W0TRw": {
       "channel": "Invest with Henry",
       "channel_id": "UC2Zg12phLyX1KTnH6D47d9g",
@@ -137994,6 +139355,19 @@
       "transcript_available": true,
       "transcript_path": "data/archive/znHCbrevLEE/transcript.md",
       "url": "https://www.youtube.com/watch?v=znHCbrevLEE",
+      "verdict": ""
+    },
+    "znYv6XolKbk": {
+      "channel": "JPGCOACHING",
+      "channel_id": "UCnb-F1mP6q0Aj-e5pXuUTog",
+      "had_materials": false,
+      "published": "2026-10-30T03:18:56+00:00",
+      "short": true,
+      "takeaway": "",
+      "title": "If you want triceps that pop you need to understand how the three heads of the triceps work",
+      "transcript_available": true,
+      "transcript_path": "data/archive/znYv6XolKbk/transcript.md",
+      "url": "https://www.youtube.com/shorts/znYv6XolKbk",
       "verdict": ""
     },
     "znmQ7oMiQrM": {

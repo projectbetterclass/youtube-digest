@@ -1,0 +1,318 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/AnthropicIPO.pdf
+
+To trillions and beyond!
+Aswath Damodaran
+2
+§I am a dabbler, by nature, moving on from topic to topic, but this 
+year, I have spent more time than usual on one topic, AI, but it 
+seems to be part of almost every business or economy related 
+story. 
+§I started my analysis of how AI would affect the rest of us, from 
+doomsday to do-nothing scenarios, largely in response to Citrini and 
+Citadel reports on the topic. in August 2026, I took my first big picture 
+look at AI as a business, which I titled its bar mitzvah moment, with a 
+look at its potential market, business economics and moats. 
+§Just last week, I argued that both Anthropic and OpenAI would be 
+priced, rather than valued, for their initial public offerings, using what I 
+called buzzy metrics (like annualized run rates) and promised that I 
+would try to value the company, when it filed its prospectus. 
+§On October 26, 2026, Anthropic filed its prospectus, and at the 
+risk of being called hopelessly wrong by both bulls and bears, I 
+will try to value the company, using what I see as its most likely 
+pathway, while also leaving the door open for you to disagree with 
+me, and pick your own pathways to valuing the company.
+3
+§Before I delve into the details of the S-1 filed by Anthropic, it is 
+worth noting that at 416 pages, it is long and filled with 
+distractions, as has become the case with almost every initial 
+public offering in the last two decades. 
+§I chronicled this trend in my post titled Disclosure diarrhea, 
+arguing that while filings have become longer, they have 
+become less informative). 
+§The Anthropic IPO has useful information that both bulls and 
+bears will spin to justify their priors, and the table below 
+classifies key disclosures, broken down by valuation input into 
+revenue growth, profitability, risk and reinvestment categories,
+4
+5
+6
+7
+8
+§Revenue growth
+§Pluses: The company is growing quickly, and for at least of the subset of users that have tried its products, it 
+is delivering on its promise. 
+§Minuses: The revenue growth rate is clearly coming down, as scale, competition and compute power 
+constraints all work against the company, and the fact that it is so interconnected in both operating and 
+financing with other big players in the AI game does lead to the potential for double counting and 
+opacity.
+§Profitability
+§Pluses: The expenses for Anthropic, across categories, are growing slower than revenues and that is 
+helping reduce operating losses and putting it on a glide path to not just profitability, but significant 
+profitability. 
+§Minuses: Notwithstanding one quarter's numbers, the company is not quite ready to deliver sustained 
+profits yet and  will require significant revenue growth to keep ahead of the expenses that will hit the 
+income statement from compute power commitments.
+§Reinvestment for Growth
+§Pluses: The immense compute power commitments taken on by Anthropic is largely responsible for the 
+high gross profit margins reported by the company, because they have moved company's biggest expense 
+from the variable to the fixed operating cost column. 
+§Minuses: Not only does this increase the company's operating leverage, but also will result in further 
+commitments down the road, as compute power needs to be replenished and grown.
+§Risk
+§Pluses: The company has built a buffer against risk in the form of a very large cash balance, which will be 
+added to in the IPO, and it is is possible that companies will become reliant on its products, 
+§Minuses: It is exposed to risk on three dimensions - in operations, from high operating leverage, in financing, 
+because of its contractual content cost commitments and on survival, since it is dependent on growth to 
+meet its obligations.
+Aswath Damodaran
+9
+§Over the next few days, don't be surprised to see people make 
+equally strong cases for and against Anthropic using their spin 
+of the data in the prospectus. 
+§Neither side will be convinced or convincing and will emerge 
+with their priors about Anthropic reinforced. 
+§I think that too much time and effort is being spent on going 
+through this prospectus, as if it contains the answers to every 
+question you may have on AI, when, in truth, it is a snapshot of a 
+young company that is evolving. 
+§This prospectus, at least in my view, is analogous to reading a 
+report card for a kindergartner, a precocious and talented one 
+perhaps, but still a kindergartner, and trying to determine how 
+much, if any, to set into a college fund.
+§As a final note, try to stay away from conspiracy theories about a 
+cabal of AI players or accounting fraud.
+10
+§The prospectus, with all of its disclosures, is still a 
+document rooted in the past, and the value of a business lies 
+in your expectations for the future. 
+§In this section, I am planning to leave the safety of the 
+historical disclosures and embark on forecasting the 
+future, knowing fully well that I am going to be wrong, and 
+perhaps even massively wrong, in my attempts. 
+§At each step of the story, I will offer you a chance to disagree 
+with my take, and provide your own, with the resulting change 
+in inputs. I know that you are busy, but if you can humor me and 
+play alone, we may both benefit.
+11
+12
+§I believe that AI will have the power to disrupt some 
+industries, and that its most powerful (and highest priced) 
+models will displace white collar (and highly paid) 
+employees, yielding an end market size of $5 trillion or greater 
+for its products.
+§ In my view, and that is based on a very early reading of the AI 
+business today, Anthropic is aiming for the premium portion of 
+the market and looks like a leader in that portion of the 
+market. 
+§The one emerging add on is Anthropic's ambition (made explicit 
+in the prospectus) to be a player in a subset of the businesses that 
+its agents are disruption, with the pharmaceutical business 
+emerging as a potential play. 
+§With that story in place, I believe that it is plausible that 
+Anthropic's revenues could approach a trillion dollars in a 
+decade. For perspective, there is only no company in the 
+world with more than a trillion in revenues today , with 
+Amazon and Walmart sitting at around $700-$750 billion.
+13
+14
+§To estimate where margins will converge, it may help to start 
+with the recognition that the AI product and service market, 
+once established, is likely to have 
+§a mass market segment where models, many of which may be 
+open-sourced and less powerful, will compete for customers 
+primarily on pricing, and 
+§a premium segment, where frontier models, many of which will 
+remain closed models, powered by client data, dominate. 
+§The operating margins for the former are more likely to 
+resemble those of business services (roughly 10%), whereas 
+the operating margins for the latter will converge on the 
+operating margins of enterprise software (close to 40%), with 
+compute power and R&D becoming the reinvestment needed to 
+deliver these products.
+15
+§Anthropic is targeting the premium market, as reflected not 
+only in its current revenue breakdown, with almost 80% from 
+enterprises paying based on usage, but also in its focus on 
+using its newly acquired compute power to build next 
+generation models rather than service current clients. 
+§I will assume an end-mix of 75% of revenues from 
+premium products, and 25% from the mass market, giving 
+me an unadjusted pre-tax operating margin of 32.5%; that 
+would put them at the ninth decile of US companies in 
+2026.
+16
+17
+§The nature of compute power, and especially with the chips 
+that represent a large percentage of costs, is that investments 
+will age quickly and will need replacement, which is an 
+indication that if Anthropic's growth ambitions come to fruition, 
+there will be more reinvestment needed in future years, to both 
+replenish and grow compute power. 
+§It is true that technology may make chips cheaper, but that 
+may be more than offset by new models demanding 
+proportionately more power, and if you add in the real estate 
+and power needs, there is room for disagreement. 
+§I do believe that the compute power crunch will stay in place for 
+the near term, but will ease over time, and that belief translates 
+into my assumption that Anthropic will need to invest about $1 
+for every $3 in additional revenues, going forward. That would 
+be in line with what technology companies are generating as 
+revenues per dollar of invested capital today , but with the leap 
+in revenues that Anthropic is forecasting, it will translate into 
+large dollar reinvestment each year.
+18
+19
+§The AI business is still evolving, and while Anthropic's growth and 
+customer stickiness are noteworthy, I am just being realistic when I 
+contend that the business will face challenges as it grows, and 
+lives through market and economic turmoil. 
+§Thus, for companies spending on AI as a tool, we do not know 
+whether they will cut back their spending, and if so how much, 
+in bad times, and for those who plan to replace employees with AI 
+agents, whether the pace and extent of usage will change with the 
+economy. 
+§The number that is designed to convey this risk into the valuation 
+is the cost of capital, and for Anthropic, assuming that it carries 
+the risk of large technology companies with an added burden 
+of the compute commitments, I will estimate a cost of capital 
+of 9.74%. Again, for perspective, note that the median cost of 
+capital for US firms in September 2026 was 9.16% and that 
+9.74% is close to the third quartile (of 9.88%).
+20
+21
+§The main talking point for many Anthropic bears is the compute 
+commitment that runs into hundreds of billions, creating fixed 
+costs that will be a drag on profitability, especially if revenue 
+growth falls short of expectations, as well as the risk of distress. 
+§While bondholders are right to be trepidatious about this 
+possibility and will point to the current bond rating of BB+ for the 
+company as backing, there are two reasons why failure risk will be 
+suppressed. 
+§The first is that the company has the cash balance to sustain itself 
+through the near terms and meet its contractual obligations. 
+§The second is that, as a high-profile trillion-dollar plus company, it will 
+have access to capital. 
+§I do believe, though, that if revenues grow at anemic rates, both 
+these benefits will dissipate, as cash gets burned through and the 
+market cap collapses, and I will estimate a probability of failure 
+of 10% for the company , with a loss of half its value if that 
+happen.
+22
+Aswath Damodaran
+23Aswath Damodaran
+§With AI companies, the question with regulatory risk is not 
+whether it will show up, but when it does, what form it will 
+take. 
+§Anthropic and OpenAI have both invited the government to 
+restrict how this business will grow, and while there may be 
+the cynical rationale of keeping out competition (especially 
+from China) for these pleas, the regulations and restrictions are 
+coming. 
+§As with social media companies, the effect of these regulations 
+will not be a cessation of the business but an increase in 
+operating expenses and perhaps some lost revenues. 
+§I estimate that the regulatory effects are likely to be mild, 
+at least on a relative basis, and that it will shave my initial 
+operating margin estimate of 32.5%, for Anthropic, down to 
+27.5% (a reduction of 5%).
+24Aswath Damodaran
+Aswath Damodaran
+26
+§The worst-case Anthropic story , where target revenues limp to 
+$200 billion in 2036, margins converge on the mass market (10%), 
+compute power stays scarce and costly (sales to capital of one), 
+cost of capital rises to the third quartile for US companies (9.88%) 
+and the regulatory effect on margins is drastic yields worthless 
+equity, In fact, the value of equity is -$373 billion, and the 
+company will cease to exist.
+§The best-case Anthropic story, where target revenues surge to 
+$1.5 trillion in 2036, margins converge on the premium market 
+(40%), compute power becomes cheap (sales to capital of four), 
+cost of capital falls to the first quartile for US companies (7.79%) 
+and the regulatory effect on margins is non-existent yields a value 
+of $4.04 trillion for equity .
+§While I believe that the best case and worse case scenarios are 
+both unlikely, you can assess your own story for the company, 
+with the resulting value, applying what I call the 3P test: Is it 
+possible? Is it plausible? Is it probable? Investing is a personal 
+decision, and whether you choose to buy Anthropic, sell it short or 
+sit on the sidelines, you should base it on your own assessment.
+27
+§In my view, it is a measure of the power that shareholder (in 
+public) and outside investors (in private businesses) have to 
+change the way businesses are run, if they disagree with current 
+management. 
+§It is therefore true that this power will be greater at companies 
+where boards are more willing to push back against CEOs and 
+will diminish when you change the rules of engagement to make it 
+more difficult for shareholders to push for change. 
+§I have long argued that the institutional investors who sat on their 
+hands, when Google decided to break a precedent, at least in 
+US markets, at its initial public offering by issuing shares with 
+different voting rights. Their success has opened the door for a 
+host of tech companies that have used the same structure to 
+protect founder power at companies and effectively reduced the 
+power that shareholders at these companies have to push for 
+change to selling their shares and moving on.
+Aswath Damodaran
+28
+Aswath Damodaran
+29
+§he company has structured itself as a public benefit 
+corporation, and in its prospectus, it states that "we may make 
+decisions that we believe appropriately balance the pecuniary 
+interests of our stockholders, the best interests of those materially 
+affected by our conduct, and the Company Purpose, but that 
+negatively impact the short-, medium-, or long-term performance of 
+our business or the market price". 
+§Given the worries that people have about AI being a force for 
+destruction, a concern that Dario Amodei has actively cultivated, 
+this protection against shareholder power may seem to be a good 
+thing, but we need to be open eyed about what this structure does. 
+§It does not protect society from AI's evils, but puts that power 
+in the hands of the few (the founders and members of the benefit 
+trust) at the top of Anthropic, hoping that they use that power well. 
+If you, as an investor, have had bad experiences with top 
+management at companies using corporate responsibility and ESG 
+as cover for self-serving activity and hypocrisy, the Anthropic 
+structure is that structure on steroids.
+Aswath Damodaran
+30
+§On the first trading day, insiders (but not founders and certain 
+major figures) will be permitted to sell up to 10% of their shares. 
+§The remaining shares will be unlocked in tranches, across the 
+first 180 days of trading, and founders and key named figures will 
+be allowed to trade after 365 days. 
+§I think that too much is made of share unlocking, perhaps 
+because it gives investors and journalists something to talk 
+about before unlock dates. With companies like Anthropic, where 
+you have large institutional investors in the game, and plenty of 
+liquidity, the effects of these unlocks is likely to be muted. My view, 
+though, also reflects a belief that the smart money (which 
+presumably includes all of those selling at the unlock) is not that 
+smart and that their selling has far less informational value than 
+you might believe,
+§
+Aswath Damodaran
+31
+§At the IPO, Anthropic will be priced, and that almost everyone who trades the 
+stock right after the offering will be pricing, not valuing the stock. 
+§If it is priced well above my estimate of $1.48 trillion, I will sit out the frenzy. 
+To the question of why I would not sell short, if it is priced well above my value, 
+my response is that while I have faith in my valuation, with a range around my 
+estimate, I have no reason to believe that the market will see the error of its 
+ways, if it has made an error, and correct within my time horizon.
+§Once Anthropic starts trading, the story will continue, and given AI's 
+presence in the economy and markets, I can guarantee you that it will be a 
+roller coaster. It is possible that we have underestimated the possible payoff 
+from AI, and that Anthropic continues to rise in market cap, but it is just as 
+possible that major parts of the storyline, from revenue growth to margins 
+to risk, will come under stress, leading the market to reassess what it 
+thinks Anthropic should be priced at. 
+§Obviously, those stresses will also cause my estimate of the value to change, but 
+it not just a possibility but almost a guarantee that there will be a day that 
+Anthropic will be undervalued, and it may be sooner than you think. The 
+structure of the company, with the public benefit facade and the voting rights 
+abuse, will require a much larger discount on my value estimate, but the market 
+may accommodate that requirement as well.
+Aswath Damodaran

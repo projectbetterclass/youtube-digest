@@ -1,0 +1,167 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/PricingAI.pdf
+
+Frames of reference and mispricing!
+Aswath Damodaran
+2
+§I was in San Francisco last week to talk to NYU Stern Alumni on 
+October 15, and it was the day that Anthropic had a pre-IPO 
+meeting with prospective investors. 
+§During the meeting,  Anthropic reported an annual revenue run 
+rate (ARR) of $67 billion, a metric that those who track the 
+company have adopted with gusto, with an estimate that the ARR 
+would exceed $100 billion by the end of the year. 
+§In the late nineties, dot.com companies were priced not just on 
+the number of visitors to their websites, but on eyeballs, where 
+Mary Meeker argued that ad spending at these companies was 
+correlated with time that these visitors spent on websites 
+(eyeballs) rather than total visitors. 
+§I will try to lay out the rationale for why pricing supplants 
+valuation in young companies and why that pricing almost 
+always has to be built around messy metrics like eyeballs and 
+ARR.
+3
+4
+§Chronological age: The first and simplest choice is to look at 
+the age of a business, putting companies that have been in 
+operation for short periods into the young company grouping 
+and classifying those that have been in operation for longer as 
+mature. 
+§Industry grouping: Another choice is categorizing industry 
+groups into life cycle stages and assuming that any company 
+that belongs to a specific group is in the same stage. For 
+decades, investors have viewed technology as a shorthand for 
+growth and put technology companies into the earlier stages of 
+the life cycle and utilities as mature or even declining and put 
+all utility companies into the same life cycle stage.
+5
+6
+7
+8
+§Financial statements: The current financial statements of a 
+company provide information on unit economics, 
+profitability and risk, and historical financial statements are 
+useful in assessing growth in the business and changes in 
+business profitability. 
+§Market size and growth: Knowing the size of the total market 
+that a company is aiming for, and how quickly it is growing 
+can help put reasonability constraints on the growth rate and 
+market you estimate for a company. 
+§Industry statistics: As you forecast profit margins and the risk 
+profile for a company, having that information for the cross 
+section of companies in the industry can establish bounds 
+and help in making estimates.
+9
+10
+OpenAI has a pending round of capital raise ahead 
+of an IPO, where they expect to raise $30 billion 
+with a pricing for the company of roughly $1.4 
+trillion.
+11
+12
+For Anthropic, for instance, at the time of the VC round, the 
+expected pricing for the IPO was $1.15 trillion, well below what 
+the expectations are today, and reflective of how much can change 
+over short periods with young companies, and the $965 billion 
+pricing in the VC round would have represented a $150 billion 
+discount on the estimate.
+13
+14
+15
+16
+§Yo u  c a n  ma ke  t h e  case that Anthropic is cheaper than 
+OpenAI, based upon the most recent ARR or the ARR in 
+2026, but OpenAI is cheaper relative to expected revenues in 
+2030, compute costs/capacity and based on user count. 
+§Yo u  c a n  s e e  t h a t  e a c h  o f  t h e s e  p r i c i n g  mu l t i p l e s  c o me s  wi t h  
+caveats, with obvious explanations for differences, some in how 
+the metric is computed and some in fundamentals.
+§No matter which of these pricing metrics you use, though, the 
+truth is that both Anthropic and OpenAI may be 
+overpriced, and our judgment is about which company is 
+less overpriced.
+17
+§If you are pricing a company in a business, where there are 
+lots of publicly traded companies, you will not only have a 
+choice of pricing multiples, but also more robust pricing, since 
+each of the companies has an updated market price and the 
+financial statements are standardized (GAAP or IFRS).
+§If you are pricing a company in a business, where there lots 
+of companies that are privately held, as is often the case 
+when you have a nascent business with lots of potential, you are 
+confronting a challenge that many venture capitalists face, and 
+you can try to get the most recent pricing for each company, 
+though that pricing will often be dated (depending on when 
+the last capital raise was) and sometimes untrustworthy.
+§Yo u r  most difficult challenge will be when you are pricing a 
+company in a business, where you have both very few 
+companies in the space, and almost none are publicly traded.
+18
+19
+§Yo u  can price a company based upon any metric that you 
+choose to use, assuming that it is viable, but if pressed on 
+which metric is the best one, I will deflect (and perhaps deliver 
+a non-response), because I don't believe that there is a 
+"best" metric for pricing. 
+§The key, though, is that no matter what metric you pick, you 
+should think through how that metric will play out in the 
+company's value and what you need to control for in your 
+pricing.
+§And since pricing is statistics, first and foremost, you want to 
+choose a metric where you can get more firms in your peer 
+group.
+20
+Control variable Effect on PE
+Higher earnings growth Increase PE ratio
+Higher ROE (lower reinvestment) Increase PE ratio
+Higher risk (cost of equity) Decrease PE ratio
+21
+Control variable Effect on EV/Sales
+Higher revenue growth Increase EV/Sales ratios
+Higher operating margins Increase EV/Sales ratios
+Higher expected return on capital Increase EV/Sales ratios
+Higher risk  (cost of capital) Decrease EV/Sales ratios
+22Aswath Damodaran
+§As you can see, for Anthropic to be highly priced relative to revenue, its 
+revenues will have to not only grow a lot but do so quickly, making the 
+revenue growth rate and the speed at which it ramps up the first 
+determinants. 
+§The second component is profitability, since the company is reporting 
+sizable losses now, and can expect to do so in the near term. Here, there 
+are two key determinants that will drive value, with the first being unit 
+economics, since having higher gross margins will ease the pathway from 
+losses to profits, and the second being economies of scale, with compute 
+costs growing slower than revenues, pushing up operating margins. 
+§The third is risk, with operating risk (from evolving business models), 
+financial risk (from the compute commitments) and regulatory risk (from 
+restrictions on AI) all coming into play; companies that are less exposed to 
+these risks should be worth more. T
+§o make a case for Anthropic at a $1.5 or $2 trillion pricing, you will have to 
+make defensible arguments for sky-high revenue growth in the early 
+year, a surge in operating margins to 30% or higher, with favorable 
+unit economics and economies of scale providing tailwinds and a risk 
+profile that quickly converges towards the average, as regulatory 
+risks recede and the business model finds it feet.
+23
+§As Anthropic heads towards its initial public offering, my suggestion is that 
+you step back from the frenzy, since like the parable of the six blind men 
+who visit an elephant, and having touched different parts of it, come away 
+with wildly different descriptions of the animal, there will be Anthropic 
+bulls and bears who will latch on to a part of the company's lore and spin 
+tales about its future. 
+§For bulls, that story is going to be anchored in a belief that AI's reach in terms of 
+market will be massive, that Anthropic will be one of the big winners in that 
+market and that it will find a way to convert its dominance into market share and 
+high profits; the pricing will be tied to high revenue growth and great unit 
+economics (with high gross margins). 
+§For bears, the story will be premised on an AI market that struggles to get off 
+the ground, and Anthropic, as a company, being constrained by weak 
+corporate governance and an untrustworthy management. Their pricing 
+argument will point to the revenue growth that will be lower than anticipated, 
+which combined with their compute commitments will lead to profit margin 
+compression, making the nosebleed multiples of revenues that you will be 
+paying for the company an overpricing. 
+§I will not be taking sides here, but not because I am copping out. It is 
+because I am investor at heart and feel more comfortable making my 
+decision based upon an intrinsic valuation of Anthropic, with all its 
+flaws and uncertainties, which will have to wait until the full prospectus 
+gets filed.
