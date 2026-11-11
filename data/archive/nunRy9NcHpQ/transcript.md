@@ -1,0 +1,5 @@
+# Leveraged Option Trading
+
+<https://www.youtube.com/shorts/nunRy9NcHpQ>
+
+there is a paradigm to investing which is you need to spot new trends early but most of the time those Trends are smaller cap companies although I'm an advocate for going after large companies that are not growing as fast so how do you balance this Paradigm well this Paradigm exists in all areas of life you need to mix around your decision making so in terms of mixing around your strategy what you need to do is for example an option trading I personally prefer a little bit of poor man's covered calls 5 to 10% in Poor Man's covered calls on big cap stocks that's because big cap companies are very stable in growing but they're not going to grow that much that's why I would use a smaller more leverage strategy like the poor man's covered call to invest in stable technology companies that way when they do go up let's say 10% in a given year which is what the stock market typically does I can actually benefit 20 or 30% because I'm using a leveraged option strategy that is safe

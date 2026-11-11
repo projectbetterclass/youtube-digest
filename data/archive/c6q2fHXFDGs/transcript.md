@@ -1,0 +1,5 @@
+# Placing Option Trade
+
+<https://www.youtube.com/shorts/c6q2fHXFDGs>
+
+let's just say that we want to make a really really small account trade okay let's say that we only have $500 to trade what you would do in this scenario is you would just sell something that's really close to the money 6 days out so you can go for let's say the 150 okay so we're going to sell the 150 if we look at the Delta it actually is pretty low so let me actually expand this to 13 days out I just wanted to see more strike prices there are no more strike prices so okay let's do this I'm actually going to do the 152 and A2 because the 150 is pretty low Delta that is actually even a little too low for me so let's sell this the 1522 and then if I go buy the 150 this is a $250 spread and you're making $71 on $1 179 now what you need is you need Amazon to stay above the 152.5 because if it doesn't below 152 A2 you start to lose money with your break even point being about 15179 but here this is an option income strategy where you're actually collecting premium up front

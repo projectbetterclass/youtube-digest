@@ -1,0 +1,5 @@
+# Weekly Option Income Versus Monthly Income
+
+<https://www.youtube.com/shorts/bJtj8VC6yWo>
+
+In terms of expiration date, a lot of people ask me do you go for weekly options or go for 2-week options? And here's the thing, it doesn't really matter and it also really matters. Short-term, if you have more time on your hands, you can go for short-term expirations. However, because I work with lots of busy folks that are doctors, lawyers, whatever, they don't have as much time. So, doing weekly options isn't as feasible. Yes, as a beginner, weekly options are more exciting, you get more feedback and you understand what you're doing quicker because you have more orders that you are placing. However, as you scale your portfolio, as you have more money and as you have more experience, you're not going to be as addicted and obsessed with trading. And to be completely honest, you can get the same results by doing monthly options as you do weekly. Because whether you collect $1,000 a week or $4,000 a month, it's the same thing, right?

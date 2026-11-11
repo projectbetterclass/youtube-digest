@@ -1,0 +1,5 @@
+# When should you close an option?
+
+<https://www.youtube.com/shorts/ZGWZjdRtxNs>
+
+for me I look to close an option before the 50% Mark so if it's a month out I Look to close it at 2 weeks if it's 2 months out I Look to close it at 4 weeks only though if I have made a certain amount of profit that profit isn't specific sometimes for me it might be 30% 40% or 50% you need to set this goal before you enter the position because coming in with the plan is going to make you a lot more successful than trying to figure out in the moment because what happens and I've seen this over and over again from coaching 4,000 students they typically get greedy and if you get greedy in the moment then you're too much into the situation to really understand logically what has happened so you need to zoom out have a plan when you go into the situation and then once you're in the middle of the situation don't get emotional use logic and take your profits early if you see a really good return in a short amount of time

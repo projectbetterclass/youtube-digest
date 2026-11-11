@@ -1,0 +1,5 @@
+# Trading will do this
+
+<https://www.youtube.com/shorts/V2HhTaAoZCI>
+
+one of the things that really blew me back was this financial adviser who was managing like a billion dollars he said the point of the market is to make the most amount of people feel stupid literally the point of the market is to prove the most amount of people wrong so if you want to be successful you cannot really look at what is happening out there in the market for example you can't be copying the most popular Trends you actually need to spot early Trends before they are popular that's why I always say looking at YouTube for stock advice and basically looking at whatever is hype like we see what's hype right you see those stocks being covered all the time those hype stocks are the exact stocks that are likely to pull back and they're really likely to experience a lot of panic selling you never want to invest in a business that you don't personally understand that's why I tell everyone you want to keep investing very simple
