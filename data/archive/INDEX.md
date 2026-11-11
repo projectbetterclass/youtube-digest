@@ -570,6 +570,7 @@ Each transcript link points to the full text under this folder.
 | — | Vinh Giang | [Practice communication ONE thing at a time](https://www.youtube.com/watch?v=-DckU3ibEY0) | — | — | [transcript](-DckU3ibEY0/transcript.md) |
 | — | Layman Dhamma | [17 ＂အခြေခံဉာဏ်၂ပါးနှင့်အနတ္တအမြင် အပိုင်း ၉＂   Dr  Soe Lwin မန္တလေးတကောင်းကျောင်း ၃၀ ၁၁ ၂၀၂၅](https://www.youtube.com/watch?v=-E9hVsCG2uI) | — | — | [transcript](-E9hVsCG2uI/transcript.md) |
 | — | David Carbutt | [China Just Rejected Nvidia (Here's Why)](https://www.youtube.com/watch?v=-ELYsLV35Ec) | — | — | [transcript](-ELYsLV35Ec/transcript.md) · [visuals](-ELYsLV35Ec/visuals.md) |
+| — | Invest with Henry | [2X Call Option](https://www.youtube.com/shorts/-F65QkqD45Q) | — | — | [transcript](-F65QkqD45Q/transcript.md) · Short |
 | — | New Money | [Michael Burry's BIG Bet On Inflation (The Big Short 2.0?)](https://www.youtube.com/watch?v=-FP3RkNBJ94) | — | — | [transcript](-FP3RkNBJ94/transcript.md) · [visuals](-FP3RkNBJ94/visuals.md) |
 | — | Riley Brown | [Building an App with ZERO Coding Knowledge is NOW Possible (Claude 3.7 in Cursor)](https://www.youtube.com/watch?v=-FRBotBLc1o) | — | — | [transcript](-FRBotBLc1o/transcript.md) |
 | — | David Carbutt | [Internet BREAKS! Cathie Wood Makes Huge ELON MUSK Predictions](https://www.youtube.com/watch?v=-FU9QH7HafY) | — | — | [transcript](-FU9QH7HafY/transcript.md) · [visuals](-FU9QH7HafY/visuals.md) |
@@ -1403,6 +1404,7 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [I Blew Up a Business Through 3 Small Changes (Just Copy Me)](https://www.youtube.com/watch?v=3yAiVjcImQ4) | — | — | [transcript](3yAiVjcImQ4/transcript.md) |
 | — | Aswath Damodaran | [In Practice Webcast #1: Corporate Governance](https://www.youtube.com/watch?v=3yCJeFpgt-Y) | — | — | [transcript](3yCJeFpgt-Y/transcript.md) · [materials](3yCJeFpgt-Y/materials/) |
 | — | David Carbutt | [Tom Lee OBLITERATES AI Bubble Fears in Epic Showdown](https://www.youtube.com/watch?v=3yKhkJ054qo) | — | — | [transcript](3yKhkJ054qo/transcript.md) |
+| — | Invest with Henry | [Option Trading - Mind Blowing #shorts](https://www.youtube.com/shorts/3zFRIX57dP0) | — | — | [transcript](3zFRIX57dP0/transcript.md) · Short |
 | — | Justin Sung | [How To Train Yourself To Be A Genius (5 Methods)](https://www.youtube.com/watch?v=3znAl0QH1eE) | — | — | [transcript](3znAl0QH1eE/transcript.md) |
 | — | Ben Yanes | [The MOST Important Concept In Lifting](https://www.youtube.com/watch?v=3zvF6M-r0PM) | — | — | [transcript](3zvF6M-r0PM/transcript.md) |
 | — | TheQuadfatherBW | [Single Arm Lat Pulldown](https://www.youtube.com/shorts/4-LMlgG3EXQ) | — | — | [transcript](4-LMlgG3EXQ/transcript.md) · Short |
@@ -1864,6 +1866,7 @@ Each transcript link points to the full text under this folder.
 | — | New Money | [Where will Tesla be in 10 years? (w/ @HyperChangeTV)](https://www.youtube.com/watch?v=6br-fRTVYAI) | — | — | [transcript](6br-fRTVYAI/transcript.md) · [visuals](6br-fRTVYAI/visuals.md) |
 | — | Leila Hormozi | [How to Think Like the Top 1%](https://www.youtube.com/watch?v=6by3XnwdsMQ) | — | — | [transcript](6by3XnwdsMQ/transcript.md) |
 | — | Tom Nash | [Ray Dalio: "Jerome Powell is WRONG"](https://www.youtube.com/watch?v=6ccxSRx5LGc) | — | — | [transcript](6ccxSRx5LGc/transcript.md) · [visuals](6ccxSRx5LGc/visuals.md) |
+| — | Invest with Henry | [Invest To Get Rich](https://www.youtube.com/shorts/6ckkjUaR2p0) | — | — | [transcript](6ckkjUaR2p0/transcript.md) · Short |
 | — | Sean Nalewanyj | [Small But Strong? Big But Weak? 4 Reasons](https://www.youtube.com/watch?v=6d7-fWZnJdI) | — | — | [transcript](6d7-fWZnJdI/transcript.md) |
 | — | Leila Hormozi | [This Video Will Get You Ahead of 99% of People](https://www.youtube.com/watch?v=6djE0-PyXQo) | — | — | [transcript](6djE0-PyXQo/transcript.md) |
 | — | Ben Yanes | [The Problem With Reverse Flyes (with an easy fix)](https://www.youtube.com/watch?v=6dy6_cRTmzk) | — | — | [transcript](6dy6_cRTmzk/transcript.md) |
@@ -3049,6 +3052,7 @@ Each transcript link points to the full text under this folder.
 | — | Riley Brown | [How I Built My Dream Studio in San Francisco](https://www.youtube.com/watch?v=DBchIUAAcNM) | — | — | [transcript](DBchIUAAcNM/transcript.md) |
 | — | Vinh Giang | [Striking Thoughts by Bruce Lee \| Vinh & Ali Show (EP#7)](https://www.youtube.com/watch?v=DBvgqYLBjno) | — | — | [transcript](DBvgqYLBjno/transcript.md) |
 | — | HealthyGamerGG | [Psychiatrist Breaks Down...a Sociopath? \| Dr. K Interviews](https://www.youtube.com/watch?v=DCEJQ2pQCF0) | — | — | [transcript](DCEJQ2pQCF0/transcript.md) |
+| — | Invest with Henry | [$100,000 Wash Sale Rule Tips To Save Taxes](https://www.youtube.com/shorts/DCO4_y8aBzI) | — | — | [transcript](DCO4_y8aBzI/transcript.md) · Short |
 | — | BWB - Business With Brian | [Double Your Money in 5 Years with These Dividend Stock!](https://www.youtube.com/watch?v=DDBZ1OO8KHk) | — | — | [transcript](DDBZ1OO8KHk/transcript.md) · [visuals](DDBZ1OO8KHk/visuals.md) |
 | — | JulienHimself | [STOP Chasing A Specific Person & Instead Do This!](https://www.youtube.com/watch?v=DDmqrbSdzPo) | — | — | [transcript](DDmqrbSdzPo/transcript.md) |
 | — | Ticker Symbol: YOU | [IT'S OVER! I Can't Stay Quiet on Nvidia Stock (NVDA) Crashing Any Longer](https://www.youtube.com/watch?v=DEmwOcKiUU8) | — | — | [transcript](DEmwOcKiUU8/transcript.md) · [visuals](DEmwOcKiUU8/visuals.md) |
@@ -9302,6 +9306,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [Fix your rope triceps extension!](https://www.youtube.com/shorts/mKlw--3XSWE) | — | — | [transcript](mKlw--3XSWE/transcript.md) · Short |
 | — | Ben Yanes | [Try this pec exercise!](https://www.youtube.com/shorts/mL52FBL6hzM) | — | — | [transcript](mL52FBL6hzM/transcript.md) · Short |
 | — | Ben Yanes | [Fix your ankle mobility with this tip #biomechanics #musclebuilding #mobility](https://www.youtube.com/shorts/mLFIpi6r02k) | — | — | [transcript](mLFIpi6r02k/transcript.md) · Short |
+| — | Invest with Henry | [YOU CAN CONTROL THE STOCK MARKET](https://www.youtube.com/shorts/mLWFv9-YmXE) | — | — | [transcript](mLWFv9-YmXE/transcript.md) · Short |
 | — | Tom Nash | [Will China save Russia? (It’s Complicated)](https://www.youtube.com/watch?v=mLz5_LcBcGQ) | — | — | [transcript](mLz5_LcBcGQ/transcript.md) · [visuals](mLz5_LcBcGQ/visuals.md) |
 | — | Tom Nash | [This is the worst thing you can do right now. Don’t do it!](https://www.youtube.com/watch?v=mMoMdgykdDk) | — | — | [transcript](mMoMdgykdDk/transcript.md) · [visuals](mMoMdgykdDk/visuals.md) |
 | — | Ticker Symbol: YOU | [This BIG Mistake at NASA Started the Metaverse](https://www.youtube.com/watch?v=mMrbH08Jj7c) | — | — | [transcript](mMrbH08Jj7c/transcript.md) · [visuals](mMrbH08Jj7c/visuals.md) |
@@ -11712,8 +11717,3 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [Give Me 42 Minutes, I'll Show You How To Sell Like The Top 1%](https://www.youtube.com/watch?v=zzleYxkf39k) | — | — | [transcript](zzleYxkf39k/transcript.md) |
 | — | New Money | [Should Warren Buffett Buy Tesla Stock?](https://www.youtube.com/watch?v=zzmZWrSWU7Q) | — | — | [transcript](zzmZWrSWU7Q/transcript.md) · [visuals](zzmZWrSWU7Q/visuals.md) |
 | — | Vinh Giang | [They Spelled My Name Wrong...](https://www.youtube.com/watch?v=zzoPFGdF4BA) | — | — | [transcript](zzoPFGdF4BA/transcript.md) |
-| — | Invest with Henry | [Invest To Get Rich](https://www.youtube.com/shorts/6ckkjUaR2p0) | — | — | [transcript](6ckkjUaR2p0/transcript.md) · Short |
-| — | Invest with Henry | [YOU CAN CONTROL THE STOCK MARKET](https://www.youtube.com/shorts/mLWFv9-YmXE) | — | — | [transcript](mLWFv9-YmXE/transcript.md) · Short |
-| — | Invest with Henry | [2X Call Option](https://www.youtube.com/shorts/-F65QkqD45Q) | — | — | [transcript](-F65QkqD45Q/transcript.md) · Short |
-| — | Invest with Henry | [$100,000 Wash Sale Rule Tips To Save Taxes](https://www.youtube.com/shorts/DCO4_y8aBzI) | — | — | [transcript](DCO4_y8aBzI/transcript.md) · Short |
-| — | Invest with Henry | [Option Trading - Mind Blowing #shorts](https://www.youtube.com/shorts/3zFRIX57dP0) | — | — | [transcript](3zFRIX57dP0/transcript.md) · Short |
