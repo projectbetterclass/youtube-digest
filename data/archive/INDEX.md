@@ -1,10 +1,18 @@
 # 📚 Library index
 
-11639 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+11647 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-11 | Chris Williamson | [“I Will Cut Off Anyone For My Inner Peace” - Bugzy Malone](https://www.youtube.com/watch?v=qz-o0yyxgk4) | — | — | [transcript](qz-o0yyxgk4/transcript.md) |
+| 2026-11-11 | HealthyGamerGG | [Dr K Breaks Down the World’s Strangest Addictions](https://www.youtube.com/watch?v=RElLqVIiV_c) | — | — | [transcript](RElLqVIiV_c/transcript.md) |
+| 2026-11-11 | Invest with Henry | [This $2,500 Trade Collects $1,000 Income](https://www.youtube.com/watch?v=WsxGTJ6B2Wg) | — | — | [transcript](WsxGTJ6B2Wg/transcript.md) |
+| 2026-11-11 | Riley Brown | [I Spent $5,000 Using Claude Fable 5.2 (This Feels Different)](https://www.youtube.com/watch?v=XQfbNtp67OE) | — | — | [transcript](XQfbNtp67OE/transcript.md) |
+| 2026-11-11 | Felix Nikolas Prehn | [The Monetary Reset Just Went Nuclear. Here's Who Pays](https://www.youtube.com/watch?v=Rp6I1AIw1Oo) | — | — | [transcript](Rp6I1AIw1Oo/transcript.md) |
+| 2026-11-10 | BWB - Business With Brian | [Best Monthly Dividend ETFs That Still Grow Your Money](https://www.youtube.com/watch?v=XCQcwwauIb0) | — | — | [transcript](XCQcwwauIb0/transcript.md) |
+| 2026-11-10 | Invest with Henry | [An Opportunity Like This Won't Come Again... (Emergency Update)](https://www.youtube.com/watch?v=Ul3P2ddsPys) | — | — | [transcript](Ul3P2ddsPys/transcript.md) |
+| 2026-11-10 | Greg Isenberg | [Claude Fable 5.2: How I’d Make Money With It](https://www.youtube.com/watch?v=G3i2k6DdI0o) | — | — | [transcript](G3i2k6DdI0o/transcript.md) |
 | 2026-11-10 | Chris Raroque | [My New App Got 1,800 Signups (But We Have a Problem)](https://www.youtube.com/watch?v=wH_J_SdRxrQ) | — | — | [transcript](wH_J_SdRxrQ/transcript.md) |
 | 2026-11-10 | Chris Williamson | [“Our Brains Have Weird Powers That We’re Disconnected From” - Robert Greene](https://www.youtube.com/watch?v=HUCDvFHLLVg) | — | — | [transcript](HUCDvFHLLVg/transcript.md) |
 | 2026-11-10 | David Carbutt | [A Once in a Lifetime Opportunity Is Coming for NVIDIA & Meta](https://www.youtube.com/watch?v=nPvVsXSYY6w) | — | — | [transcript](nPvVsXSYY6w/transcript.md) |
