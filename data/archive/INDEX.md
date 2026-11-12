@@ -1,10 +1,17 @@
 # 📚 Library index
 
-11717 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+11724 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-12 | Riley Brown | [I Vibe Coded a $100K/Month App in One Afternoon (Claude Projects)](https://www.youtube.com/watch?v=VnJiHSS5Pjk) | — | — | [transcript](VnJiHSS5Pjk/transcript.md) |
+| 2026-11-12 | Leila Hormozi | [Before You Break Anything In Your Business Please Watch This](https://www.youtube.com/watch?v=jH-ZL_xCOJI) | — | — | [transcript](jH-ZL_xCOJI/transcript.md) |
+| 2026-11-12 | Chris Williamson | [Why Atheists Keep Finding God (in everything) - Alex O’Connor (4K)](https://www.youtube.com/watch?v=OLwQ5A3sRyI) | — | — | [transcript](OLwQ5A3sRyI/transcript.md) |
+| 2026-11-12 | Invest with Henry | [Down On NVDA, NBIS or Bloom Eneregy? Do this NOW!](https://www.youtube.com/watch?v=3i0_zK1wLnQ) | — | — | [transcript](3i0_zK1wLnQ/transcript.md) |
+| 2026-11-12 | David Carbutt | [NVIDIA CEO Resigns After Viral Humiliation!](https://www.youtube.com/watch?v=IUP8bvObd20) | — | — | [transcript](IUP8bvObd20/transcript.md) |
+| 2026-11-12 | Sean Nalewanyj | [If you're getting stronger but not bigger...](https://www.youtube.com/shorts/rK3UxHRQ6QI) | — | — | [transcript](rK3UxHRQ6QI/transcript.md) · Short |
+| 2026-11-12 | The Diary Of A CEO | [The Brain Doctor That Figured Out The Cause Of Dementia - Dr. David Perlmutter](https://www.youtube.com/watch?v=FRoQOzZRcpw) | — | — | [transcript](FRoQOzZRcpw/transcript.md) |
 | 2026-11-11 | Ben Yanes | [Afraid of tearing your biceps?](https://www.youtube.com/shorts/w7dwZnb50qU) | — | — | [transcript](w7dwZnb50qU/transcript.md) · Short |
 | 2026-11-11 | Greg Isenberg | [New ChatGPT, Claude Whiteboards, Google Carbon: LIVE reaction](https://www.youtube.com/watch?v=MnW6mm_dHpM) | — | — | [transcript](MnW6mm_dHpM/transcript.md) |
 | 2026-11-11 | Greg Isenberg | [New ChatGPT, Claude Whiteboards, Google Carbon: LIVE reaction](https://www.youtube.com/watch?v=6DT8Cy2rnd0) | — | — | [transcript](6DT8Cy2rnd0/transcript.md) |
