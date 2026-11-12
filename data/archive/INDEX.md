@@ -1,10 +1,15 @@
 # 📚 Library index
 
-11712 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+11717 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-11 | Ben Yanes | [Afraid of tearing your biceps?](https://www.youtube.com/shorts/w7dwZnb50qU) | — | — | [transcript](w7dwZnb50qU/transcript.md) · Short |
+| 2026-11-11 | Greg Isenberg | [New ChatGPT, Claude Whiteboards, Google Carbon: LIVE reaction](https://www.youtube.com/watch?v=MnW6mm_dHpM) | — | — | [transcript](MnW6mm_dHpM/transcript.md) |
+| 2026-11-11 | Greg Isenberg | [New ChatGPT, Claude Whiteboards, Google Carbon: LIVE reaction](https://www.youtube.com/watch?v=6DT8Cy2rnd0) | — | — | [transcript](6DT8Cy2rnd0/transcript.md) |
+| 2026-11-11 | Greg Isenberg | [Use Grok Bot Better Than 99% of People (Full Course)](https://www.youtube.com/watch?v=1cWZ7Ekff6E) | — | — | [transcript](1cWZ7Ekff6E/transcript.md) |
+| 2026-11-11 | Starter Story | [I made $100K in 3 months with this AI wrapper](https://www.youtube.com/watch?v=P3RVeg8YCg0) | — | — | [transcript](P3RVeg8YCg0/transcript.md) |
 | 2026-11-11 | Chris Williamson | [“I Will Cut Off Anyone For My Inner Peace” - Bugzy Malone](https://www.youtube.com/watch?v=qz-o0yyxgk4) | — | — | [transcript](qz-o0yyxgk4/transcript.md) |
 | 2026-11-11 | HealthyGamerGG | [Dr K Breaks Down the World’s Strangest Addictions](https://www.youtube.com/watch?v=RElLqVIiV_c) | — | — | [transcript](RElLqVIiV_c/transcript.md) |
 | 2026-11-11 | Invest with Henry | [This $2,500 Trade Collects $1,000 Income](https://www.youtube.com/watch?v=WsxGTJ6B2Wg) | — | — | [transcript](WsxGTJ6B2Wg/transcript.md) |

@@ -152,6 +152,11 @@
       "error": "",
       "slides": 13
     },
+    "-gqYldhjZVk": {
+      "at": "2026-11-12T08:25:40.581582+00:00",
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgxiR5U8NG5AFa3GdGc4M'}",
+      "slides": 0
+    },
     "-jTDoDhXJXA": {
       "at": "2026-10-06T16:38:57.833437+00:00",
       "error": "",
@@ -461,6 +466,11 @@
       "at": "2026-10-06T20:01:18.609047+00:00",
       "error": "",
       "slides": 2
+    },
+    "1cWZ7Ekff6E": {
+      "at": "2026-11-12T08:11:32.992613+00:00",
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgxhLbnWtBCnxukfGS6Kz'}",
+      "slides": 0
     },
     "1d08iOdJSnw": {
       "at": "2026-10-06T20:06:40.998582+00:00",
@@ -882,6 +892,11 @@
       "error": "",
       "slides": 0
     },
+    "4PO0x-myitw": {
+      "at": "2026-11-12T08:28:18.434559+00:00",
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgxiciMDwk2fRdjtMEyRC'}",
+      "slides": 0
+    },
     "4QiGb-E17sQ": {
       "at": "2026-10-06T20:46:01.411966+00:00",
       "error": "",
@@ -1140,6 +1155,11 @@
     "6BzHDY3pl0s": {
       "at": "2026-10-06T17:07:35.987755+00:00",
       "error": "",
+      "slides": 0
+    },
+    "6DT8Cy2rnd0": {
+      "at": "2026-11-12T08:08:13.758724+00:00",
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgxh5uvkppYEQz1BfKhjV'}",
       "slides": 0
     },
     "6GEXM_EKMTE": {
@@ -3527,6 +3547,11 @@
       "error": "",
       "slides": 8
     },
+    "MnW6mm_dHpM": {
+      "at": "2026-11-12T08:02:40.235296+00:00",
+      "error": "ERROR: [youtube] MnW6mm_dHpM: This live event will begin in a few moments.",
+      "slides": 0
+    },
     "MnmMyuMnfOY": {
       "at": "2026-09-12T19:16:08.901572+00:00",
       "error": "",
@@ -3926,6 +3951,11 @@
       "at": "2026-10-06T18:48:33.862775+00:00",
       "error": "",
       "slides": 14
+    },
+    "P3RVeg8YCg0": {
+      "at": "2026-11-12T08:12:36.289664+00:00",
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgxhRGPqavM1Gfr5HsW9e'}",
+      "slides": 0
     },
     "PBDG4DbBMIA": {
       "at": "2026-10-06T17:18:21.334753+00:00",
@@ -5337,6 +5367,11 @@
       "error": "",
       "slides": 9
     },
+    "ZEImdkhIF6g": {
+      "at": "2026-11-12T08:14:02.659494+00:00",
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgxhXddCHZUuuCHfHQc6r'}",
+      "slides": 0
+    },
     "ZF6rIxErQ74": {
       "at": "2026-10-07T16:28:19.926880+00:00",
       "error": "",
@@ -5356,6 +5391,11 @@
       "at": "2026-09-22T19:31:03.499449+00:00",
       "error": "",
       "slides": 8
+    },
+    "ZIBI6FiLxgQ": {
+      "at": "2026-11-12T08:26:48.072947+00:00",
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgxiW43hJTJvZ3JdnAyd6'}",
+      "slides": 0
     },
     "ZMeF47UUIx4": {
       "at": "2026-10-07T16:28:31.145560+00:00",
@@ -8972,6 +9012,11 @@
       "error": "",
       "slides": 10
     },
+    "ugwLvcyRPKc": {
+      "at": "2026-11-12T08:23:18.479264+00:00",
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgxiEbwQ1J2Wc54UiKcdi'}",
+      "slides": 0
+    },
     "uhPfccN0T_Q": {
       "at": "2026-10-07T19:27:18.975132+00:00",
       "error": "",
@@ -9675,6 +9720,11 @@
     "zU0jqYKTgMs": {
       "at": "2026-11-10T17:31:31.801261+00:00",
       "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgueRULZmwLuc8FJgjS7t'}",
+      "slides": 0
+    },
+    "zVc-S0Od8_0": {
+      "at": "2026-11-12T08:16:13.078445+00:00",
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgxhhFDbWENmVXmfNUE65'}",
       "slides": 0
     },
     "zYeJZu1hkdM": {
