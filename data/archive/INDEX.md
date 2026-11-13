@@ -1,10 +1,12 @@
 # 📚 Library index
 
-11724 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+11726 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-13 | Justin Sung | [How to Use Al Without Letting It Think for You (my full framework)](https://www.youtube.com/watch?v=yFtB-ekr8d4) | — | — | [transcript](yFtB-ekr8d4/transcript.md) |
+| 2026-11-12 | Invest with Henry | [Jensen Huang Resigned! What's Next For Nvidia?](https://www.youtube.com/watch?v=Ub_NbI7z6xg) | — | — | [transcript](Ub_NbI7z6xg/transcript.md) |
 | 2026-11-12 | Riley Brown | [I Vibe Coded a $100K/Month App in One Afternoon (Claude Projects)](https://www.youtube.com/watch?v=VnJiHSS5Pjk) | — | — | [transcript](VnJiHSS5Pjk/transcript.md) |
 | 2026-11-12 | Leila Hormozi | [Before You Break Anything In Your Business Please Watch This](https://www.youtube.com/watch?v=jH-ZL_xCOJI) | — | — | [transcript](jH-ZL_xCOJI/transcript.md) |
 | 2026-11-12 | Chris Williamson | [Why Atheists Keep Finding God (in everything) - Alex O’Connor (4K)](https://www.youtube.com/watch?v=OLwQ5A3sRyI) | — | — | [transcript](OLwQ5A3sRyI/transcript.md) |
