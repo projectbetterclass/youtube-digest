@@ -44,7 +44,7 @@ from ytdigest import config as C  # noqa: E402 — importing config also loads .
 from ytdigest import visuals as V  # noqa: E402
 from ytdigest.backfill import import_video  # noqa: E402
 from ytdigest.feeds import fetch_channel_videos  # noqa: E402
-from ytdigest.library import add_brief, load_library, save_library, write_index  # noqa: E402
+from ytdigest.library import add_brief, load_library, save_library, use_watchlist_names, write_index  # noqa: E402
 from ytdigest.state import (load_state, mark_processed, mark_visual_done, save_state,  # noqa: E402
                             select_new_videos, visual_done)
 from ytdigest.transcript import TranscriptBlocked  # noqa: E402
@@ -341,6 +341,9 @@ def main(argv=None) -> int:
         dated = fill_missing_dates(library, dates)
         if dated:
             log.info("gave %d earlier-collected upload(s) their date from the feeds", dated)
+        renamed = use_watchlist_names(library, state, channels)
+        if renamed:
+            log.info("filed %d video(s) under their watchlist channel name", renamed)
         # Every feed failing means the proxy data is used up (feeds go through it too) or the
         # PC is offline: screen capture still runs, but the run doesn't count, so the next
         # hourly check tries again (it costs nothing while the proxy refuses).

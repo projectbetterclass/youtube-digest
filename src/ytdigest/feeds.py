@@ -66,7 +66,6 @@ def parse_feed(xml_bytes: bytes, channel: Channel) -> list[Video]:
             if link_el is not None and link_el.get("href")
             else f"https://www.youtube.com/watch?v={vid}"
         )
-        author = (entry.findtext(f"{_ATOM}author/{_ATOM}name") or channel.name).strip()
         published = _parse_dt(entry.findtext(f"{_ATOM}published") or "")
 
         description = ""
@@ -78,7 +77,9 @@ def parse_feed(xml_bytes: bytes, channel: Channel) -> list[Video]:
             Video(
                 video_id=vid,
                 title=title,
-                channel_name=author,
+                # The watchlist name, not the feed's <author>: that is the channel's current
+                # YouTube display name, which changes when a creator renames the channel.
+                channel_name=channel.name,
                 channel_id=channel.channel_id,
                 url=url,
                 published=published,

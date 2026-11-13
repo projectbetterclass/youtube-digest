@@ -2,7 +2,8 @@
 
 from datetime import datetime, timezone
 
-from ytdigest.library import add_brief, render_index
+from ytdigest.config import Channel
+from ytdigest.library import add_brief, render_index, use_watchlist_names
 from ytdigest.models import Brief, Video
 
 
@@ -41,3 +42,18 @@ def test_render_index_row_and_escaping():
 def test_render_index_empty():
     md = render_index({"videos": {}})
     assert "0 videos archived" in md
+
+
+def test_use_watchlist_names_refiles_renamed_channel():
+    channels = [Channel(name="JPG Coaching", channel_id="UCjpg")]
+    library = {"videos": {
+        "a": {"channel": "JPGCOACHING", "channel_id": "UCjpg"},
+        "b": {"channel": "JPG Coaching", "channel_id": "UCjpg"},
+        "c": {"channel": "Layman Dhamma", "channel_id": "UCother"},  # playlist video: own channel
+    }}
+    state = {"processed": {"a": {"channel": "JPGCOACHING"}, "c": {"channel": "Layman Dhamma"}}}
+    assert use_watchlist_names(library, state, channels) == 1
+    assert {r["channel"] for k, r in library["videos"].items() if k != "c"} == {"JPG Coaching"}
+    assert library["videos"]["c"]["channel"] == "Layman Dhamma"
+    assert state["processed"]["a"]["channel"] == "JPG Coaching"
+    assert use_watchlist_names(library, state, channels) == 0  # idempotent
