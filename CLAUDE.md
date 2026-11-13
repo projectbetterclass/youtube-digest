@@ -16,9 +16,9 @@ on-screen visuals read (12,076 charts/slides). 24 channels in `config/watchlist.
 **The daily local job is ON since 2026-10-23** (details below). The proxy came back on
 2026-11-10 (1 GB plan, see "How the daily job runs"); that day's run took 109 transcripts.
 On 2026-11-11 Invest with Henry's remaining Shorts (+65) and the Buddha playlist (+42, all in
-Burmese) were collected. **The PC's `ANTHROPIC_API_KEY` is rejected since 2026-11-10**
-(`401 invalid x-api-key`): screen capture fails without marking anything until the user puts a
-new key in `.env`.
+Burmese) were collected. The PC's `ANTHROPIC_API_KEY` was rejected 2026-11-10 to 11-13
+(`401 invalid x-api-key`; screen capture failed without marking anything); the user put a new
+key in `.env` on 2026-11-13 and it tests OK.
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
 disabled for this user"), so neither the cloud digest nor the visuals job is running;
