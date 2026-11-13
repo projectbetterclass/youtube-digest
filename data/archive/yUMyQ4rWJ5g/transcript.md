@@ -1,0 +1,5 @@
+# Full ROM depends on the goal
+
+<https://www.youtube.com/shorts/yUMyQ4rWJ5g>
+
+Before you come for me and tell me that's not a full range of motion, a full range of motion depends on the goal. Now, for me and my goal of hitting my front and side delts, that is a perfect range of motion for me because this machine here gets harder into the lockout position. And I found previously, when I was doing my sets, with a full range of motion, that it was failing first due to my triceps and I couldn't get as much volume through this range here where the delts were being trained most effectively. So, what did I do this session? I cut out that top range of motion. Not to mention, I have triceps right after this and I have two other presses right before this. So, I really don't need a ton of extra medial and lateral head volume from this exercise, which is what I would be getting. I'm going to go do a push-down, which is going to better isolate my triceps and include the long head. So, for this, [music] this ROM here is a full range of motion for the delts.
