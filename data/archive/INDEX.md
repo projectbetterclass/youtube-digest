@@ -1,6 +1,6 @@
 # 📚 Library index
 
-11813 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+11814 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
@@ -15,6 +15,7 @@ Each transcript link points to the full text under this folder.
 | 2026-11-13 | Felix Nikolas Prehn | [Big Banks are Panicking](https://www.youtube.com/watch?v=aZuTOOwxdW4) | — | — | [transcript](aZuTOOwxdW4/transcript.md) |
 | 2026-11-13 | David Carbutt | [The UNTHINKABLE Just Happened to Palantir](https://www.youtube.com/watch?v=GywRS2Cezd4) | — | — | [transcript](GywRS2Cezd4/transcript.md) |
 | 2026-11-13 | Justin Sung | [How to Use Al Without Letting It Think for You (my full framework)](https://www.youtube.com/watch?v=yFtB-ekr8d4) | — | — | [transcript](yFtB-ekr8d4/transcript.md) |
+| 2026-11-13 | Paper Billions | [Why Nvidia Would Fail Without Jensen Huang](https://www.youtube.com/watch?v=Vy1m4ZXNzpo) | — | — | [transcript](Vy1m4ZXNzpo/transcript.md) |
 | 2026-11-12 | Invest with Henry | [Jensen Huang Resigned! What's Next For Nvidia?](https://www.youtube.com/watch?v=Ub_NbI7z6xg) | — | — | [transcript](Ub_NbI7z6xg/transcript.md) |
 | 2026-11-12 | Riley Brown | [I Vibe Coded a $100K/Month App in One Afternoon (Claude Projects)](https://www.youtube.com/watch?v=VnJiHSS5Pjk) | — | — | [transcript](VnJiHSS5Pjk/transcript.md) |
 | 2026-11-12 | Leila Hormozi | [Before You Break Anything In Your Business Please Watch This](https://www.youtube.com/watch?v=jH-ZL_xCOJI) | — | — | [transcript](jH-ZL_xCOJI/transcript.md) |
