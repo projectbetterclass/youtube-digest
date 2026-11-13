@@ -13,9 +13,12 @@ This repo is two things:
 ### Snapshot (2026-10-27)
 Library: **11,511 videos, 11,146 with transcripts**, 699 with linked documents, 1,911 with
 on-screen visuals read (12,076 charts/slides). 24 channels in `config/watchlist.yml` (Invest with Henry added 2026-10-14, collected 2026-10-15) plus the 42-video Buddha playlist (no transcripts yet, see Playlists below); 1,568 of the videos are YouTube Shorts.
-**The daily local job is ON since 2026-10-23** (details below). Proxy data is used up until
-the next Webshare reset; whether the 1 GB plan bought 2026-10-11 replaced the 3 GB plan (then
-no 3 GB reset on 24 Oct) is unconfirmed — ask the user to check the dashboard.
+**The daily local job is ON since 2026-10-23** (details below). The proxy came back on
+2026-11-10 (1 GB plan, see "How the daily job runs"); that day's run took 109 transcripts.
+On 2026-11-11 Invest with Henry's remaining Shorts (+65) and the Buddha playlist (+42, all in
+Burmese) were collected. **The PC's `ANTHROPIC_API_KEY` is rejected since 2026-11-10**
+(`401 invalid x-api-key`): screen capture fails without marking anything until the user puts a
+new key in `.env`.
 
 **GitHub Actions is currently disabled on the account** (HTTP 422 "Actions has been
 disabled for this user"), so neither the cloud digest nor the visuals job is running;
@@ -78,12 +81,11 @@ read `daily_status.txt` / `daily.log`, or `Get-ScheduledTaskInfo -TaskName "YouT
 Runs on **GitHub-hosted cloud runners** (`ubuntu-latest`) 3×/day (06:00 / 14:00 / 22:00 UTC).
 All YouTube traffic (RSS, transcripts, yt-dlp) goes through a **Webshare residential proxy**
 so cloud IPs aren't blocked. Secrets needed: `ANTHROPIC_API_KEY`, `WEBSHARE_PROXY_USERNAME`,
-`WEBSHARE_PROXY_PASSWORD`. Webshare plan: 3 GB/month (cycle resets on the 24th); a
-transcript fetch costs ~0.5 MB because it downloads the whole watch page. The Sep 24 – Oct 24
-cycle: the user's Webshare dashboard showed **2.5 of 3 GB** (19,870 requests) on 2026-10-08
-21:58; ~975 transcripts since then put it at an estimated **~2.85–2.9 GB** — **no big runs until
-it resets on Oct 24**; a "collect my priority channels" catch-up (~20–50 videos) is fine.
-Measured cost this cycle: **~0.35–0.43 MB per transcript**. The PC has no Webshare API key, so
+`WEBSHARE_PROXY_PASSWORD`. **Webshare plan (user's dashboard, 2026-11-13): Rotating
+Residential, 1 GB/month, $3.50, renews on the 10th (next 2026-12-10).** The old 3 GB plan
+(reset on the 24th) is gone. A transcript fetch costs **~0.35–0.43 MB** (it downloads the whole
+watch page). The Nov 10 – Dec 10 cycle: ~240 transcripts by 2026-11-13 ≈ **~100 MB used**; the
+daily job needs ~65–130 MB a month, so roughly 750 MB is free for named runs. The PC has no Webshare API key, so
 ask the user for the dashboard figure before any big run. (Its "projected usage" warning is a
 straight-line extrapolation; ignore it.)
 
