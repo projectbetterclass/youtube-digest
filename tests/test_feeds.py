@@ -30,6 +30,13 @@ def test_parse_feed_extracts_fields():
     assert "github.com/example/neural-render" in recent.description
 
 
+def test_parse_feed_uses_watchlist_name_not_feed_author():
+    # The feed's <author> is the channel's YouTube display name, which changes on a rename.
+    renamed = Channel(name="Watchlist Name", channel_id=CHANNEL.channel_id)
+    videos = parse_feed(FIXTURE.read_bytes(), renamed)
+    assert {v.channel_name for v in videos} == {"Watchlist Name"}
+
+
 def test_select_new_videos_filters_old_and_processed():
     videos = _videos()
     now = datetime(2026, 8, 27, 6, 0, tzinfo=timezone.utc)

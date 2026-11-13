@@ -34,6 +34,28 @@ def save_library(path: Path | str, library: dict) -> None:
     atomic_write_text(path, json.dumps(library, indent=2, sort_keys=True, ensure_ascii=False) + "\n")
 
 
+def use_watchlist_names(library: dict, state: dict, channels) -> int:
+    """File every watchlist channel's videos under its watchlist name, matched on channel_id.
+
+    Records once took the name from the RSS feed, i.e. the channel's YouTube display name, so a
+    channel that renamed itself got its newer uploads filed under the new name. Returns how
+    many library records changed; their state.json entries follow.
+    """
+    names = {c.channel_id: c.name for c in channels}
+    processed = state.get("processed", {})
+    n = 0
+    for vid, rec in library.get("videos", {}).items():
+        name = names.get(rec.get("channel_id"))
+        if not name:
+            continue
+        if rec.get("channel") != name:
+            rec["channel"] = name
+            n += 1
+        if vid in processed and processed[vid].get("channel") != name:
+            processed[vid]["channel"] = name
+    return n
+
+
 def record_from_brief(brief: Brief) -> dict:
     v = brief.video
     rec = {
