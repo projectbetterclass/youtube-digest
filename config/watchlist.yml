@@ -130,3 +130,7 @@ channels:
     backfill: 1000           # whole channel (883 videos on 2026-10-14) — user named it 2026-10-14 (options trading)
     shorts: 120              # all Shorts (89 on 2026-10-14) — user asked for the entire channel
     visual: false            # screen check pending: option chains and P/L diagrams may be worth reading later
+  - name: "Big A"
+    channel_id: UCdBXOyqr8cDshsp7kcKDAkg
+    backfill: 300            # newest 300 of 1,724 videos (@AtriocClips, markets/tech/business), user's choice 2026-11-14
+    visual: false            # transcripts only, no Shorts (user asked)
