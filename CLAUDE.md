@@ -157,6 +157,11 @@ straight-line extrapolation; ignore it.)
   ~0.4 MB of proxy per video. First one: the **Buddha playlist** `PLqnSdW-e2Bah9Lh0MBn7JjW5kswNUDcZd`
   (the Buddha's teaching in plain words), for the Buddha goal in the user's time-tracker
   app (the Assistant repo); the user has listened to it once already.
+- **Big A** (`UCdBXOyqr8cDshsp7kcKDAkg`, @AtriocClips, markets/tech/business; user named it 2026-11-14
+  for its business topics): **newest 300 of ~1,724 videos, transcripts only, no Shorts, no screen
+  capture** (user's choice). Collected 2026-11-14: 300 videos, 299 with transcripts (~120 MB of proxy;
+  stored without dates, like other back catalogs). On the watchlist, so the daily job takes his new uploads.
+  Not in `PRIORITY`.
 - **Invest with Henry** (`UC2Zg12phLyX1KTnH6D47d9g`, options trading; user named it 2026-10-14
   for the Options trading branch of their time-tracker app): whole channel incl. Shorts (`backfill:
   1000`, `shorts: 120`). **All 883 videos collected (2026-10-14/15)**, plus 27 of his 89 Shorts; the
