@@ -1,6 +1,6 @@
 # 📚 Library index
 
-12116 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12121 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
@@ -66,11 +66,13 @@ Each transcript link points to the full text under this folder.
 | 2026-11-08 | Vinh Giang | [Why Nobody Has Close Friends Anymore](https://www.youtube.com/watch?v=uxSQqPcayzk) | — | — | [transcript](uxSQqPcayzk/transcript.md) |
 | 2026-11-08 | BWB - Business With Brian | [I Bought the 2020 Crash. I’m Doing It Again With This Plan](https://www.youtube.com/watch?v=cbkQCsrubBM) | — | — | [transcript](cbkQCsrubBM/transcript.md) |
 | 2026-11-08 | JulienHimself | [You’re NOT "Broken" (Your Ego Just Loves The Attention)](https://www.youtube.com/watch?v=p3IobYMbMT0) | — | — | [transcript](p3IobYMbMT0/transcript.md) |
+| 2026-11-08 | Alex Hormozi | [How To Make More Money Than You Deserve (My 2027 Framework)](https://www.youtube.com/watch?v=pwZJcLZc3_Y) | — | — | [transcript](pwZJcLZc3_Y/transcript.md) |
 | 2026-11-07 | Big A | [There's A Red Wave Too](https://www.youtube.com/watch?v=CGvLLQqLx7E) | — | — | [transcript](CGvLLQqLx7E/transcript.md) |
 | 2026-11-07 | Chris Williamson | [Your Home Might Be Destroying Your Health (& how to fix it) - Michael Feldstein](https://www.youtube.com/watch?v=2LULm7kcEH0) | — | — | [transcript](2LULm7kcEH0/transcript.md) |
 | 2026-11-07 | HealthyGamerGG | [I Asked 100 Devs What AI Is ACTUALLY Doing To Their Jobs](https://www.youtube.com/watch?v=mjv7RZYTu-s) | — | — | [transcript](mjv7RZYTu-s/transcript.md) |
 | 2026-11-07 | Sean Nalewanyj | ["I got chest day today!"](https://www.youtube.com/shorts/QqjDKllPKj8) | — | — | [transcript](QqjDKllPKj8/transcript.md) · Short |
 | 2026-11-07 | Felix & Friends (Goat Academy) | [What Insiders Are BUYING Like Never Before](https://www.youtube.com/watch?v=bv1sB_RaNcE) | — | — | [transcript](bv1sB_RaNcE/transcript.md) |
+| 2026-11-07 | Alex Hormozi | [If You Only Watch One Wealth Video, Make It This](https://www.youtube.com/watch?v=Ys3o-iqGcoE) | — | — | [transcript](Ys3o-iqGcoE/transcript.md) |
 | 2026-11-06 | Invest with Henry | [18 Lessons That Save You $100,000 in This Market](https://www.youtube.com/watch?v=v9yr0ZA-grQ) | — | — | [transcript](v9yr0ZA-grQ/transcript.md) |
 | 2026-11-06 | Chris Williamson | [Women Are Moving Left. Men Aren’t Following.](https://www.youtube.com/watch?v=bRERpUGzwzU) | — | — | [transcript](bRERpUGzwzU/transcript.md) |
 | 2026-11-06 | Sean Nalewanyj | [Pre-workout is better than creatine?](https://www.youtube.com/shorts/Rh0zXJOfvnc) | — | — | [transcript](Rh0zXJOfvnc/transcript.md) · Short |
@@ -130,6 +132,7 @@ Each transcript link points to the full text under this folder.
 | 2026-10-30 | JPG Coaching | [Update- got stronger 👍🏽](https://www.youtube.com/shorts/CEwAeTRqZqI) | — | — | [transcript](CEwAeTRqZqI/transcript.md) · Short |
 | 2026-10-30 | JPG Coaching | [The problem with fitness social media](https://www.youtube.com/shorts/a7HKg-2hbyc) | — | — | [transcript](a7HKg-2hbyc/transcript.md) · Short |
 | 2026-10-30 | JPG Coaching | [Want thicker arms?](https://www.youtube.com/shorts/fxyz7CTYV8s) | — | — | [transcript](fxyz7CTYV8s/transcript.md) · Short |
+| 2026-10-30 | Alex Hormozi | [Change My Mind, Win $10,000](https://www.youtube.com/watch?v=Uzr0gv4N4-s) | — | — | [transcript](Uzr0gv4N4-s/transcript.md) |
 | 2026-10-29 | Greg Isenberg | [SaaS is dead?](https://www.youtube.com/watch?v=AqqjH_uv-_w) | — | — | [transcript](AqqjH_uv-_w/transcript.md) |
 | 2026-10-29 | Big A | [I Asked An Oil Expert Why This Is Happening..](https://www.youtube.com/watch?v=8DyCfbgHew0) | — | — | [transcript](8DyCfbgHew0/transcript.md) |
 | 2026-10-29 | Invest with Henry | [I Said SOFI Earnings Will Do This. Here’s What's Next!](https://www.youtube.com/watch?v=mHWrPLIwHZU) | — | — | [transcript](mHWrPLIwHZU/transcript.md) |
@@ -170,6 +173,7 @@ Each transcript link points to the full text under this folder.
 | 2026-10-23 | Ben Yanes | [Cats are like machines](https://www.youtube.com/shorts/LKc0LQAP2Uw) | — | — | [transcript](LKc0LQAP2Uw/transcript.md) · Short |
 | 2026-10-23 | Sean Nalewanyj | [WHY?!](https://www.youtube.com/shorts/sVQQ_jhI3eg) | — | — | [transcript](sVQQ_jhI3eg/transcript.md) · Short |
 | 2026-10-23 | Felix & Friends (Goat Academy) | [The UNTHINKABLE is About to Happen to Your Portfolio](https://www.youtube.com/watch?v=1UekQcI23G8) | — | — | [transcript](1UekQcI23G8/transcript.md) |
+| 2026-10-23 | Alex Hormozi | [How I Would Build a Personal Brand in 2027 (If I Had to Start Over)](https://www.youtube.com/watch?v=5rOIS7GHD5Y) | — | — | [transcript](5rOIS7GHD5Y/transcript.md) |
 | 2026-10-22 | Aswath Damodaran | [From Eyeballs to ARR: Buzzy Pricing Metrics and the AI Trade!](https://www.youtube.com/watch?v=hsxo5pi5OTQ) | — | — | [transcript](hsxo5pi5OTQ/transcript.md) · [materials](hsxo5pi5OTQ/materials/) |
 | 2026-10-22 | Riley Brown | [How Smart People Are Using AI Right Now (7 Insane Use Cases)](https://www.youtube.com/watch?v=4PO0x-myitw) | — | — | [transcript](4PO0x-myitw/transcript.md) |
 | 2026-10-22 | BWB - Business With Brian | [If You Missed the Last Midterm Rally... It’s Happening Again](https://www.youtube.com/watch?v=8aRHUhVcSqQ) | — | — | [transcript](8aRHUhVcSqQ/transcript.md) |
@@ -187,6 +191,7 @@ Each transcript link points to the full text under this folder.
 | 2026-10-16 | Justin Sung | [If You’re A Slow Learner, I’ll Help You Fix It In 17 Minutes](https://www.youtube.com/watch?v=R7jC6TUB8P4) | — | — | [transcript](R7jC6TUB8P4/transcript.md) |
 | 2026-10-16 | Riley Brown | [Gemini 4 is HERE… But Fable 5.5 Is TERRIFYING](https://www.youtube.com/watch?v=1d7P3ewd9AA) | — | — | [transcript](1d7P3ewd9AA/transcript.md) |
 | 2026-10-16 | Big A | [They Are Backstabbing Him](https://www.youtube.com/watch?v=0Qzc_S8a1eE) | — | — | [transcript](0Qzc_S8a1eE/transcript.md) |
+| 2026-10-16 | Alex Hormozi | [If I could start over in business, I’d do this sooner](https://www.youtube.com/watch?v=H8QfAfCbOXs) | — | — | [transcript](H8QfAfCbOXs/transcript.md) |
 | 2026-10-15 | Greg Isenberg | [Make cool things with AI that people buy (Gemini 4 Argon)](https://www.youtube.com/watch?v=jEOUUAPC1sc) | — | — | [transcript](jEOUUAPC1sc/transcript.md) |
 | 2026-10-15 | Riley Brown | [Start Using Claude Code For EVERYTHING (Trust Me)](https://www.youtube.com/watch?v=fDE5R4fSq2w) | — | — | [transcript](fDE5R4fSq2w/transcript.md) |
 | 2026-10-15 | Sean Nalewanyj | [Progressive Overload is a LIE](https://www.youtube.com/shorts/_OtbbEPEr_g) | — | — | [transcript](_OtbbEPEr_g/transcript.md) · Short |
