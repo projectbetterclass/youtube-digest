@@ -1,6 +1,6 @@
 # 📚 Library index
 
-11814 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+11914 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
@@ -810,6 +810,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [Why You FREEZE When People Look At You](https://www.youtube.com/watch?v=0QDLoXfAx8g) | — | — | [transcript](0QDLoXfAx8g/transcript.md) |
 | — | JPG Coaching | [Do you do this for quads?](https://www.youtube.com/shorts/0QkTrywsA50) | — | — | [transcript](0QkTrywsA50/transcript.md) · Short |
 | — | David Carbutt | [$10 000 000 000 Bet Cathie Wood Is Making on Tesla](https://www.youtube.com/watch?v=0QrUSo4uO_Y) | — | — | [transcript](0QrUSo4uO_Y/transcript.md) |
+| — | Big A | [They Are Backstabbing Him](https://www.youtube.com/watch?v=0Qzc_S8a1eE) | — | — | [transcript](0Qzc_S8a1eE/transcript.md) |
 | — | Sean Nalewanyj | [You don't need to hit every muscle twice a week](https://www.youtube.com/shorts/0R7ltBlD1BI) | — | — | [transcript](0R7ltBlD1BI/transcript.md) · Short |
 | — | Ben Yanes | [The most profitable lie in fitness](https://www.youtube.com/watch?v=0REN79vmJgA) | — | — | [transcript](0REN79vmJgA/transcript.md) |
 | — | JulienHimself | [You Made SELF LOVE Impossible (On Purpose)](https://www.youtube.com/watch?v=0RJ7K8j4Lgk) | — | — | [transcript](0RJ7K8j4Lgk/transcript.md) |
@@ -852,6 +853,8 @@ Each transcript link points to the full text under this folder.
 | — | Invest with Henry | [$100/Day Option Strategy With 280% Trade](https://www.youtube.com/watch?v=0dC6SzAurVA) | — | — | [transcript](0dC6SzAurVA/transcript.md) |
 | — | Tom Nash | [How to invest in a bear market](https://www.youtube.com/watch?v=0dProVmDWaY) | — | — | [transcript](0dProVmDWaY/transcript.md) · [visuals](0dProVmDWaY/visuals.md) |
 | — | HealthyGamerGG | [The Future of 5up \| Using 500 IQ to Find Purpose](https://www.youtube.com/watch?v=0dj-GwR5T88) | — | — | [transcript](0dj-GwR5T88/transcript.md) |
+| — | Big A | [He Actually Said It...](https://www.youtube.com/watch?v=0eDAWbMt0TU) | — | — | [transcript](0eDAWbMt0TU/transcript.md) |
+| — | Big A | [The First Domino Is Falling..](https://www.youtube.com/watch?v=0efDCjIVQ4c) | — | — | [transcript](0efDCjIVQ4c/transcript.md) |
 | — | David Carbutt | [JP Morgan CEO STUNS EVERYONE on AI](https://www.youtube.com/watch?v=0eujPZDD-Ho) | — | — | [transcript](0eujPZDD-Ho/transcript.md) |
 | — | Invest with Henry | [Leopold Aschenbrenner Just Lost $35 Billion in One Day](https://www.youtube.com/watch?v=0f1snCiTLpw) | — | — | [transcript](0f1snCiTLpw/transcript.md) |
 | — | New Money | [Warren Buffett's Annual Letter to Shareholders (2021)](https://www.youtube.com/watch?v=0f7Gsw9quiY) | — | — | [transcript](0f7Gsw9quiY/transcript.md) · [visuals](0f7Gsw9quiY/visuals.md) |
@@ -1111,6 +1114,7 @@ Each transcript link points to the full text under this folder.
 | — | New Money | [Peter Lynch’s Warning for the 2023 Recession](https://www.youtube.com/watch?v=228h8BnCnSk) | — | — | [transcript](228h8BnCnSk/transcript.md) · [visuals](228h8BnCnSk/visuals.md) |
 | — | Layman Dhamma | [05 ＂ အ‌ခြေခံဉာဏ်နှစ်ပါးနှင့် အနတ္တအမြင် အပိုင်း ၃ ＂မန္တလေး   ၂၈-၉-၂၅   Dr Soe Lwin (Mandalay)](https://www.youtube.com/watch?v=22EB-9YdBS0) | — | — | [transcript](22EB-9YdBS0/transcript.md) |
 | — | Invest with Henry | [Tesla Stock Split Strategy - $3,000 soon!? (Buy Now!?)](https://www.youtube.com/watch?v=22Eja4SfigE) | — | — | [transcript](22Eja4SfigE/transcript.md) |
+| — | Big A | [We Finally Got A Deal](https://www.youtube.com/watch?v=237dFIiyDuY) | — | — | [transcript](237dFIiyDuY/transcript.md) |
 | — | Tom Nash | [Inflation, New Tom Lee Prediction and Presidential Debate Thoughts…](https://www.youtube.com/watch?v=23KIsyOFctk) | — | — | [transcript](23KIsyOFctk/transcript.md) · [visuals](23KIsyOFctk/visuals.md) |
 | — | Vinh Giang | [How to stop people from interrupting you](https://www.youtube.com/watch?v=23aRD22xFh8) | — | — | [transcript](23aRD22xFh8/transcript.md) |
 | — | Tom Nash | [NVIDIA: DON’T SAY YOU DIDN’T KNOW \| Earnings Preview](https://www.youtube.com/watch?v=247JpqzM5Gc) | — | — | [transcript](247JpqzM5Gc/transcript.md) · [visuals](247JpqzM5Gc/visuals.md) |
@@ -1187,6 +1191,7 @@ Each transcript link points to the full text under this folder.
 | — | New Money | [Ray Dalio's Warning of a Prolonged Recession in 2022 (Stagflation Explained)](https://www.youtube.com/watch?v=2Y2n5v2OflM) | — | — | [transcript](2Y2n5v2OflM/transcript.md) · [visuals](2Y2n5v2OflM/visuals.md) |
 | — | HealthyGamerGG | [You're Stuck Because You Refuse to Grow Up](https://www.youtube.com/watch?v=2Z3RcXlNaMw) | — | — | [transcript](2Z3RcXlNaMw/transcript.md) |
 | — | Justin Sung | [What I Learnt After 3000 Days Of Scheduling](https://www.youtube.com/watch?v=2ZS5Ek0PtcI) | — | — | [transcript](2ZS5Ek0PtcI/transcript.md) |
+| — | Big A | [The Crisis Got.... Weirder](https://www.youtube.com/watch?v=2_6LNBYGT0A) | — | — | [transcript](2_6LNBYGT0A/transcript.md) |
 | — | David Carbutt | [Cathie Wood & Alex Karp Make the Call of a LIFETIME](https://www.youtube.com/watch?v=2_I62co8phE) | — | — | [transcript](2_I62co8phE/transcript.md) |
 | — | Justin Sung | [Learning Coach Rates Productivity Apps](https://www.youtube.com/watch?v=2_U0n2KciB0) | — | — | [transcript](2_U0n2KciB0/transcript.md) |
 | — | Starter Story | [I Quit My Job at Meta to Build a $30K/Month SaaS](https://www.youtube.com/watch?v=2_lpZ503ZGg) | — | — | [transcript](2_lpZ503ZGg/transcript.md) |
@@ -1255,6 +1260,7 @@ Each transcript link points to the full text under this folder.
 | — | Sean Nalewanyj | [Avoid This Supplement Scam ⚠️](https://www.youtube.com/shorts/2xIAkNkeBYU) | — | — | [transcript](2xIAkNkeBYU/transcript.md) · Short |
 | — | Layman Dhamma | [25 ＂အ‌ခြေခံဉာဏ်နှစ်ပါးနှင့် အနတ္တအမြင် အပိုင်း ၁၃＂Dr.  Soe Lwin မန္တလေးတကောင်းကျောင်းတိုက် ၂၃-၁-၂၀၂၆](https://www.youtube.com/watch?v=2xJ0gRFYRhk) | — | — | [transcript](2xJ0gRFYRhk/transcript.md) |
 | — | HealthyGamerGG | [Talking Depression with Reckful [Pt. 2]](https://www.youtube.com/watch?v=2yQpzk_xhH0) | — | — | [transcript](2yQpzk_xhH0/transcript.md) |
+| — | Big A | [The AI Chip Boom Has Gotten Insane](https://www.youtube.com/watch?v=2yd1KA1HBsc) | — | — | [transcript](2yd1KA1HBsc/transcript.md) |
 | — | JPG Coaching | [JPGCOACHING- 4 EXERCISE LEG DAY](https://www.youtube.com/shorts/2zEz2-e4UKI) | — | — | [transcript](2zEz2-e4UKI/transcript.md) · Short |
 | — | HealthyGamerGG | [Can You 'Change' Your Personality?](https://www.youtube.com/watch?v=2zOe9Kd2n-w) | — | — | [transcript](2zOe9Kd2n-w/transcript.md) |
 | — | Vinh Giang | [The PREP Framework: How To Communicate Confidently In Any Situation!](https://www.youtube.com/watch?v=2zvvQj9ezWg) | — | — | [transcript](2zvvQj9ezWg/transcript.md) |
@@ -1469,6 +1475,7 @@ Each transcript link points to the full text under this folder.
 | — | Sean Nalewanyj | [Athlean-X's ABSURD Arm Training Advice (Is This For Real?)](https://www.youtube.com/watch?v=46V2_l4gYz0) | — | — | [transcript](46V2_l4gYz0/transcript.md) |
 | — | Riley Brown | [Learn 95% of Codex in 30 minutes](https://www.youtube.com/watch?v=474wZZHoWN4) | — | — | [transcript](474wZZHoWN4/transcript.md) |
 | — | Ben Yanes | [Breaking down Jalen Brunson's workout](https://www.youtube.com/shorts/476cY1KirCA) | — | — | [transcript](476cY1KirCA/transcript.md) · Short |
+| — | Big A | [The "Ghost Fleet" Is Insane](https://www.youtube.com/watch?v=477_0GiS-dw) | — | — | [transcript](477_0GiS-dw/transcript.md) |
 | — | Ben Yanes | [Why Perfect Technique Doesn't Exist \| Biomechanics Academy Podcast #2](https://www.youtube.com/watch?v=47FVVxbP3aU) | — | — | [transcript](47FVVxbP3aU/transcript.md) |
 | — | Ben Yanes | [The Most Underrated Back Muscle (and how to train it)](https://www.youtube.com/watch?v=47HPtplkllw) | — | — | [transcript](47HPtplkllw/transcript.md) |
 | — | Starter Story | [I Made $500K From 8 Different Income Streams](https://www.youtube.com/watch?v=47QXbPGyzBI) | — | — | [transcript](47QXbPGyzBI/transcript.md) |
@@ -1528,6 +1535,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [AWS Vice President on Palantir](https://www.youtube.com/watch?v=4RfQnIb4gnk) | — | — | [transcript](4RfQnIb4gnk/transcript.md) |
 | — | Ticker Symbol: YOU | [Forget NVIDIA. This Is The New King of AI.](https://www.youtube.com/watch?v=4Ry3Jv_U8I8) | — | — | [transcript](4Ry3Jv_U8I8/transcript.md) · [visuals](4Ry3Jv_U8I8/visuals.md) |
 | — | Felix & Friends (Goat Academy) | [Wall Street Just Gave a Dire Warning (Most Aren’t Ready)](https://www.youtube.com/watch?v=4SY_tSw64Cs) | — | — | [transcript](4SY_tSw64Cs/transcript.md) |
+| — | Big A | [It's Starting to Break](https://www.youtube.com/watch?v=4TB52lrSiGg) | — | — | [transcript](4TB52lrSiGg/transcript.md) |
 | — | David Carbutt | [Dan Ives: This Stock is a Double Table POUNDER!](https://www.youtube.com/watch?v=4TQsx771-yU) | — | — | [transcript](4TQsx771-yU/transcript.md) |
 | — | Aswath Damodaran | [Session 10: Inflation, the Hidden Tax](https://www.youtube.com/watch?v=4UKaQpe1Yfs) | — | — | [transcript](4UKaQpe1Yfs/transcript.md) · [materials](4UKaQpe1Yfs/materials/) |
 | — | JulienHimself | [How To Cure The Disease To Please - LIVE DEMONSTRATION](https://www.youtube.com/watch?v=4USJ4uuawp4) | — | — | [transcript](4USJ4uuawp4/transcript.md) |
@@ -1712,6 +1720,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [GET IN EARLY! I'm Investing In 3 HUGE AI Trends (COMPUTEX 2025)](https://www.youtube.com/watch?v=5VsJJC5_8uI) | — | — | [transcript](5VsJJC5_8uI/transcript.md) · [visuals](5VsJJC5_8uI/visuals.md) |
 | — | Tom Nash | [Don’t panic. Relax. Everything will be fine 👊](https://www.youtube.com/watch?v=5Vsk3Vcgt1M) | — | — | [transcript](5Vsk3Vcgt1M/transcript.md) · [visuals](5Vsk3Vcgt1M/visuals.md) |
 | — | David Carbutt | [NVIDIA CEO: A 1,000,000X is Coming.](https://www.youtube.com/watch?v=5W1k6kaVpiY) | — | — | [transcript](5W1k6kaVpiY/transcript.md) |
+| — | Big A | [These Layoffs Backfired Instantly (ft. Primeagen)](https://www.youtube.com/watch?v=5WrGfsh7x5U) | — | — | [transcript](5WrGfsh7x5U/transcript.md) |
 | — | Riley Brown | [GPT 5.5 + Codex Just Became the Best Model Ever](https://www.youtube.com/watch?v=5XZxmkjsNos) | — | — | [transcript](5XZxmkjsNos/transcript.md) |
 | — | Leila Hormozi | [Become Addicted To Discipline With These 6 Strategies](https://www.youtube.com/watch?v=5XhfNHswGsU) | — | — | [transcript](5XhfNHswGsU/transcript.md) |
 | — | Greg Isenberg | [Ex-Google Guy's Framework for Building a $1M AI GPT Wrapper Startup (Design Sprint)](https://www.youtube.com/watch?v=5YTzBbfipD0) | — | — | [transcript](5YTzBbfipD0/transcript.md) |
@@ -2021,6 +2030,7 @@ Each transcript link points to the full text under this folder.
 | — | JPG Coaching | [THIS MADE MY CHEST TOO BIG ☹️](https://www.youtube.com/shorts/7EDrtw9q-Fs) | — | — | [transcript](7EDrtw9q-Fs/transcript.md) · Short |
 | — | Aswath Damodaran | [Session 21(MBA): More Debt Design & First Steps on Dividends](https://www.youtube.com/watch?v=7EO4v4qZRdI) | — | — | [transcript](7EO4v4qZRdI/transcript.md) · [materials](7EO4v4qZRdI/materials/) |
 | — | David Carbutt | [Palantir’s AI Weapon Is Too Powerful to Deploy](https://www.youtube.com/watch?v=7Er10YM-iXg) | — | — | [transcript](7Er10YM-iXg/transcript.md) |
+| — | Big A | [This is Getting Scary](https://www.youtube.com/watch?v=7F7v9QzQmAw) | — | — | [transcript](7F7v9QzQmAw/transcript.md) |
 | — | Leila Hormozi | [How to Talk So Clearly People Assume You’re Brilliant](https://www.youtube.com/watch?v=7FiKGWYA65g) | — | — | [transcript](7FiKGWYA65g/transcript.md) |
 | — | Ben Yanes | [Why did Arnold do this?](https://www.youtube.com/shorts/7FzpEVc7Ntg) | — | — | [transcript](7FzpEVc7Ntg/transcript.md) · Short |
 | — | Invest with Henry | [Tesla Stock JUST Announced 5-to-1 Stock Split!! Buy or Sell?](https://www.youtube.com/watch?v=7GI6XJt3TgQ) | — | — | [transcript](7GI6XJt3TgQ/transcript.md) |
@@ -2090,9 +2100,11 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [If you are a PALANTIR shareholder….GET READY](https://www.youtube.com/watch?v=7eBcBgnka4c) | — | — | [transcript](7eBcBgnka4c/transcript.md) |
 | — | JPG Coaching | [JPGYM VLOG#10 PUSH DAY FT JOEY SWOLL & GARROT COELHO PART 1/3](https://www.youtube.com/watch?v=7edeO2cafxg) | — | — | [transcript](7edeO2cafxg/transcript.md) |
 | — | JPG Coaching | [PULLOVERS](https://www.youtube.com/watch?v=7eoECcHzC3o) | — | — | [transcript](7eoECcHzC3o/transcript.md) |
+| — | Big A | [The Yen Bailout Didn't Work](https://www.youtube.com/watch?v=7eoVAG7M7gM) | — | — | [transcript](7eoVAG7M7gM/transcript.md) |
 | — | Justin Sung | [Can AI Help Me Learn Faster? (DALL E 2)](https://www.youtube.com/watch?v=7fFqdsuof0g) | — | — | [transcript](7fFqdsuof0g/transcript.md) |
 | — | Aswath Damodaran | [Session 5: Betas and Relative Risk](https://www.youtube.com/watch?v=7fNM_rTQVNA) | — | — | [transcript](7fNM_rTQVNA/transcript.md) · [materials](7fNM_rTQVNA/materials/) |
 | — | Aswath Damodaran | [The School bell rings: Time for class!](https://www.youtube.com/watch?v=7fXv-EO5mVg) | — | — | [transcript](7fXv-EO5mVg/transcript.md) |
+| — | Big A | [This Needs to Stop](https://www.youtube.com/watch?v=7fhhmuOM0dU) | — | — | [transcript](7fhhmuOM0dU/transcript.md) |
 | — | David Carbutt | [Jensen Huang Just Revealed The Next Phase](https://www.youtube.com/watch?v=7fk2hUJwVoo) | — | — | [transcript](7fk2hUJwVoo/transcript.md) |
 | — | HealthyGamerGG | [Why The Holidays Suck](https://www.youtube.com/watch?v=7fofx_vVHvU) | — | — | [transcript](7fofx_vVHvU/transcript.md) |
 | — | Greg Isenberg | [3 AI app ideas that are goldmines (and how to grow them)](https://www.youtube.com/watch?v=7gUG10e_rPw) | — | — | [transcript](7gUG10e_rPw/transcript.md) |
@@ -2167,6 +2179,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 8:  Introduction to Equity Valuation](https://www.youtube.com/watch?v=82V2CafoYs0) | — | — | [transcript](82V2CafoYs0/transcript.md) · [materials](82V2CafoYs0/materials/) |
 | — | Ben Yanes | [The Most Important Back Training Tip](https://www.youtube.com/watch?v=83Tf9RYA8Z4) | — | — | [transcript](83Tf9RYA8Z4/transcript.md) |
 | — | Greg Isenberg | [AI Agents are the new SaaS](https://www.youtube.com/watch?v=83fWzQSWB10) | — | — | [transcript](83fWzQSWB10/transcript.md) |
+| — | Big A | [This Is Always A Bad Sign](https://www.youtube.com/watch?v=83k16gfVTMk) | — | — | [transcript](83k16gfVTMk/transcript.md) |
 | — | New Money | [Why Most Investors Lose Money.](https://www.youtube.com/watch?v=83l9uJm4dNo) | — | — | [transcript](83l9uJm4dNo/transcript.md) · [visuals](83l9uJm4dNo/visuals.md) |
 | — | Aswath Damodaran | [Session 9: Terminal Value](https://www.youtube.com/watch?v=83yR6EFEl5Y) | — | — | [transcript](83yR6EFEl5Y/transcript.md) |
 | — | Riley Brown | [Claude Opus: Everything You Need to Know](https://www.youtube.com/watch?v=84NkgiTcOdo) | — | — | [transcript](84NkgiTcOdo/transcript.md) |
@@ -2202,6 +2215,7 @@ Each transcript link points to the full text under this folder.
 | — | Sean Nalewanyj | ["Do I Need Protein Powder To Build Muscle?"](https://www.youtube.com/watch?v=8CaW10vgfzo) | — | — | [transcript](8CaW10vgfzo/transcript.md) |
 | — | Invest with Henry | [My Big Dip](https://www.youtube.com/watch?v=8Ct4wBozIt0) | — | — | [transcript](8Ct4wBozIt0/transcript.md) |
 | — | Ben Yanes | [The BEST Leg Extension Video EVER](https://www.youtube.com/watch?v=8DpfmuB1v8Y) | — | — | [transcript](8DpfmuB1v8Y/transcript.md) |
+| — | Big A | [I Asked An Oil Expert Why This Is Happening..](https://www.youtube.com/watch?v=8DyCfbgHew0) | — | — | [transcript](8DyCfbgHew0/transcript.md) |
 | — | Justin Sung | [Helping a Professional Learn Faster - Private Coaching Call](https://www.youtube.com/watch?v=8E0QZkU9ujw) | — | — | [transcript](8E0QZkU9ujw/transcript.md) |
 | — | JPG Coaching | [While there probably are chuds doing barbell hip thrusts, you're not a chud just bc you like them](https://www.youtube.com/shorts/8E6gR1iQCws) | — | — | [transcript](8E6gR1iQCws/transcript.md) · Short |
 | — | David Carbutt | [Palantir Co-Founder EXPOSED The TRUTH About The Left's Collapse](https://www.youtube.com/watch?v=8ENfAvnAvSU) | — | — | [transcript](8ENfAvnAvSU/transcript.md) |
@@ -2215,6 +2229,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | ["If I Could Only Do One Lat Exercise..."](https://www.youtube.com/watch?v=8GvvSs16qQU) | — | — | [transcript](8GvvSs16qQU/transcript.md) |
 | — | JulienHimself | [How To Spot Toxic People: Watch Out For These Warning Signs! (How To Deal With Toxic People)](https://www.youtube.com/watch?v=8HIaN0AqM9k) | — | — | [transcript](8HIaN0AqM9k/transcript.md) |
 | — | Ben Yanes | [The Best Lateral Raise Tip You've Never Heard Of](https://www.youtube.com/watch?v=8HgVZN4j-k0) | — | — | [transcript](8HgVZN4j-k0/transcript.md) |
+| — | Big A | [This Is An Invasion](https://www.youtube.com/watch?v=8Hi0XP8P9ww) | — | — | [transcript](8Hi0XP8P9ww/transcript.md) |
 | — | Tom Nash | [ANET Stock - The Investment Opportunity of a Lifetime](https://www.youtube.com/watch?v=8IINb0z0OP0) | — | — | [transcript](8IINb0z0OP0/transcript.md) · [visuals](8IINb0z0OP0/visuals.md) |
 | — | Sean Nalewanyj | [How To Lose Stubborn Fat In 1 WEEK? (Dr. Mike Diamonds DEBUNKED!)](https://www.youtube.com/watch?v=8IeLZHDoMak) | — | — | [transcript](8IeLZHDoMak/transcript.md) |
 | — | New Money | [HUGE Announcements at Tesla Battery Day! (Highlights)](https://www.youtube.com/watch?v=8IiZtRX6kXg) | — | — | [transcript](8IiZtRX6kXg/transcript.md) · [visuals](8IiZtRX6kXg/visuals.md) |
@@ -2242,6 +2257,7 @@ Each transcript link points to the full text under this folder.
 | — | Greg Isenberg | [Cursor AI Agents Work Like 10 Developers (Cursor VP Live Demo)](https://www.youtube.com/watch?v=8QN23ZThdRY) | — | — | [transcript](8QN23ZThdRY/transcript.md) |
 | — | Leila Hormozi | [I sold 3 companies for $50,000,000+ by age 29...[7 tips to sell your business for millions]](https://www.youtube.com/watch?v=8QnGMml2OvE) | — | — | [transcript](8QnGMml2OvE/transcript.md) |
 | — | Chris Raroque | [I built an AI agent I actually use every day (code available)](https://www.youtube.com/watch?v=8R6fYMJLI5E) | — | — | [transcript](8R6fYMJLI5E/transcript.md) |
+| — | Big A | [His Class Was Actually Great](https://www.youtube.com/watch?v=8RE_jvDtRVg) | — | — | [transcript](8RE_jvDtRVg/transcript.md) |
 | — | Sean Nalewanyj | [Whey Protein is JUNK](https://www.youtube.com/shorts/8R_gkQ2-Ngo) | — | — | [transcript](8R_gkQ2-Ngo/transcript.md) · Short |
 | — | Ben Yanes | [Press-Around Tutorial (Short Postion Pec Training)](https://www.youtube.com/watch?v=8Ra0swX5-zg) | — | — | [transcript](8Ra0swX5-zg/transcript.md) |
 | — | Aswath Damodaran | [Session 13: Time Weighted Returns, Equity Analysis and Dealing with Uncertainty](https://www.youtube.com/watch?v=8RkE8ra8o5Y) | — | — | [transcript](8RkE8ra8o5Y/transcript.md) · [materials](8RkE8ra8o5Y/materials/) |
@@ -2274,6 +2290,7 @@ Each transcript link points to the full text under this folder.
 | — | BWB - Business With Brian | [Palantir Investors: BUCKLE UP!  Because Palantir is Winning!](https://www.youtube.com/watch?v=8d9RvymPGqY) | — | — | [transcript](8d9RvymPGqY/transcript.md) · [visuals](8d9RvymPGqY/visuals.md) |
 | — | David Carbutt | [Alex Karp on US Government Business](https://www.youtube.com/watch?v=8doyAMdkHCU) | — | — | [transcript](8doyAMdkHCU/transcript.md) |
 | — | Invest with Henry | [The 5 TOP Stocks To Buy in March 2021 (High Growth)](https://www.youtube.com/watch?v=8dreUtXXZ-w) | — | — | [transcript](8dreUtXXZ-w/transcript.md) |
+| — | Big A | [Why Is Every Gaming Company Doing This](https://www.youtube.com/watch?v=8f1o9-AMau8) | — | — | [transcript](8f1o9-AMau8/transcript.md) |
 | — | Sean Nalewanyj | [Training Hard But Still Look Small? Here's Why](https://www.youtube.com/watch?v=8f4NGBCIU2I) | — | — | [transcript](8f4NGBCIU2I/transcript.md) |
 | — | Ben Yanes | [Grow Massive Lats (ONLY 2 exercises)](https://www.youtube.com/watch?v=8foptmKmjdA) | — | — | [transcript](8foptmKmjdA/transcript.md) |
 | — | New Money | [Michael Burry Just SHORTED Tesla Stock!](https://www.youtube.com/watch?v=8g42EMG_9Dw) | — | — | [transcript](8g42EMG_9Dw/transcript.md) · [visuals](8g42EMG_9Dw/visuals.md) |
@@ -2527,6 +2544,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [How the World Makes Us Depressed](https://www.youtube.com/watch?v=A-T2cCCIACk) | — | — | [transcript](A-T2cCCIACk/transcript.md) |
 | — | Tom Nash | [Last Big Wealth Opportunity For A Decade (Get READY!)](https://www.youtube.com/watch?v=A-UimFiyHTU) | — | — | [transcript](A-UimFiyHTU/transcript.md) · [visuals](A-UimFiyHTU/visuals.md) |
 | — | Leila Hormozi | [The 5 Mistakes That Will Put You Out Of Business](https://www.youtube.com/watch?v=A-qyq6elbwE) | — | — | [transcript](A-qyq6elbwE/transcript.md) |
+| — | Big A | [The Only Graph That Matters](https://www.youtube.com/watch?v=A-xnUF60aKA) | — | — | [transcript](A-xnUF60aKA/transcript.md) |
 | — | David Carbutt | [Palantir, Snowflake & Amazon](https://www.youtube.com/watch?v=A07OEPq9qcw) | — | — | [transcript](A07OEPq9qcw/transcript.md) |
 | — | Leila Hormozi | [Balancing work, life, relationships (my first AMA)](https://www.youtube.com/watch?v=A0qonZmo7nE) | — | — | [transcript](A0qonZmo7nE/transcript.md) |
 | — | Alex Hormozi | [Why Ambitious People Stay Mediocre](https://www.youtube.com/watch?v=A248pGXTSoY) | — | — | [transcript](A248pGXTSoY/transcript.md) |
@@ -2736,6 +2754,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [AMD'S HUGE AI Chip Announcements to Take Down Nvidia (Supercut)](https://www.youtube.com/watch?v=BICuEALqBEA) | — | — | [transcript](BICuEALqBEA/transcript.md) · [visuals](BICuEALqBEA/visuals.md) |
 | — | Ben Yanes | [How to solve the lateral raise problem](https://www.youtube.com/shorts/BIh1uUlT1gk) | — | — | [transcript](BIh1uUlT1gk/transcript.md) · Short |
 | — | Invest with Henry | [5X Your Money With This Small Account Options Strategies](https://www.youtube.com/watch?v=BIv8zCwprAI) | — | — | [transcript](BIv8zCwprAI/transcript.md) |
+| — | Big A | [This Is Very Very Funny](https://www.youtube.com/watch?v=BJ9EsL34nG8) | — | — | [transcript](BJ9EsL34nG8/transcript.md) |
 | — | David Carbutt | [Palantir, How Catching Terrorists Leads to Solving Cancer](https://www.youtube.com/watch?v=BJFDQBTsMu4) | — | — | [transcript](BJFDQBTsMu4/transcript.md) |
 | — | TheQuadfatherBW | [The HACK To Make Weight Loss Easier](https://www.youtube.com/shorts/BJYw7VvnGOI) | — | — | [transcript](BJYw7VvnGOI/transcript.md) · Short |
 | — | Invest with Henry | [Trump’s Tariffs Just Created the BIGGEST Opportunity of 2025 (Don’t Miss This)](https://www.youtube.com/watch?v=BJww_lri9dE) | — | — | [transcript](BJww_lri9dE/transcript.md) |
@@ -2749,6 +2768,7 @@ Each transcript link points to the full text under this folder.
 | — | Starter Story | [How I Made $65K in 3 Days](https://www.youtube.com/watch?v=BNr1JOQdSN0) | — | — | [transcript](BNr1JOQdSN0/transcript.md) |
 | — | Alex Hormozi | [How to Become Ultra Wealthy (4 Methods)](https://www.youtube.com/watch?v=BO_59sGxztY) | — | — | [transcript](BO_59sGxztY/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [US Panic: Japan’s Debt Just Collapsed](https://www.youtube.com/watch?v=BP171WxPXU4) | — | — | [transcript](BP171WxPXU4/transcript.md) |
+| — | Big A | [We Reached The Max](https://www.youtube.com/watch?v=BPCD6T4kHis) | — | — | [transcript](BPCD6T4kHis/transcript.md) |
 | — | Sean Nalewanyj | [Mike Israetel Vs. Mike Mentzer (The Truth)](https://www.youtube.com/shorts/BPVFe4YJw_Q) | — | — | [transcript](BPVFe4YJw_Q/transcript.md) · Short |
 | — | BWB - Business With Brian | [Top CD Rates Today: Guaranteed 5% APY on Certificate of Deposit](https://www.youtube.com/watch?v=BPrbA22Cr48) | — | — | [transcript](BPrbA22Cr48/transcript.md) · [visuals](BPrbA22Cr48/visuals.md) |
 | — | New Money | [Jamie Dimon's Brutally Honest Thoughts on the US Economy.](https://www.youtube.com/watch?v=BQx_zqP78Y0) | — | — | [transcript](BQx_zqP78Y0/transcript.md) · [visuals](BQx_zqP78Y0/visuals.md) |
@@ -2818,6 +2838,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [Why Low Reps Aren't "For Strength"](https://www.youtube.com/watch?v=BkzpT-aLew4) | — | — | [transcript](BkzpT-aLew4/transcript.md) |
 | — | Vinh Giang | [How to Think on the Spot & Become More Articulate (#AskVinh Q&A Ep. 3)](https://www.youtube.com/watch?v=BlrCVoh5gsk) | — | — | [transcript](BlrCVoh5gsk/transcript.md) |
 | — | Invest with Henry | [The Story of Billionaire NIO Founder - William Li](https://www.youtube.com/watch?v=BmZUc2DynEc) | — | — | [transcript](BmZUc2DynEc/transcript.md) |
+| — | Big A | [Another One Bites The Dust](https://www.youtube.com/watch?v=BmsdIMYWx8A) | — | — | [transcript](BmsdIMYWx8A/transcript.md) |
 | — | Aswath Damodaran | [Data 2017 Update 4: Country  Risk](https://www.youtube.com/watch?v=BmtdVKFw_mw) | — | — | [transcript](BmtdVKFw_mw/transcript.md) · [materials](BmtdVKFw_mw/materials/) |
 | — | Sean Nalewanyj | [How To Gain Muscle AND Lose Fat At The Same Time (REAL TRUTH)](https://www.youtube.com/watch?v=BnOO3Dsj3vU) | — | — | [transcript](BnOO3Dsj3vU/transcript.md) |
 | — | Alex Hormozi | [My 4-Part Invesing Model (with real example)](https://www.youtube.com/watch?v=BnvkMpUu-7c) | — | — | [transcript](BnvkMpUu-7c/transcript.md) |
@@ -2901,6 +2922,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Dan Ives Goes NUCLEAR!](https://www.youtube.com/watch?v=CG_TcBuZRQo) | — | — | [transcript](CG_TcBuZRQo/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Missed The AI Boom? This Is 10 Times Bigger.](https://www.youtube.com/watch?v=CGkM68EG0CA) | — | — | [transcript](CGkM68EG0CA/transcript.md) |
 | — | Ben Yanes | [Why rotator cuff drills don’t help you](https://www.youtube.com/shorts/CGphylyQ7Ac) | — | — | [transcript](CGphylyQ7Ac/transcript.md) · Short |
+| — | Big A | [There's A Red Wave Too](https://www.youtube.com/watch?v=CGvLLQqLx7E) | — | — | [transcript](CGvLLQqLx7E/transcript.md) |
 | — | Invest with Henry | [Tom Lee: "We're at structural low" URGENT WARNING TO ALL INVESTORS](https://www.youtube.com/watch?v=CHXbcpPFVOs) | — | — | [transcript](CHXbcpPFVOs/transcript.md) |
 | — | Tom Nash | [Tesla: The Big Lie](https://www.youtube.com/watch?v=CHrzRuKw154) | — | — | [transcript](CHrzRuKw154/transcript.md) · [visuals](CHrzRuKw154/visuals.md) |
 | — | HealthyGamerGG | [Ludwig and Dr. K's Journey of Death and Consciousness](https://www.youtube.com/watch?v=CHzOedHm_kM) | — | — | [transcript](CHzOedHm_kM/transcript.md) |
@@ -2945,6 +2967,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [The biggest hidden back muscle](https://www.youtube.com/shorts/CSqFnky1yy4) | — | — | [transcript](CSqFnky1yy4/transcript.md) · Short |
 | — | Sean Nalewanyj | [Bodybuilding is NOT Functional!](https://www.youtube.com/shorts/CTnruk6yi0Y) | — | — | [transcript](CTnruk6yi0Y/transcript.md) · Short |
 | — | Ben Yanes | [Lat Pull-Downs Don't Target Your Lats (here's why)](https://www.youtube.com/watch?v=CTq0RQfztdQ) | — | — | [transcript](CTq0RQfztdQ/transcript.md) |
+| — | Big A | [The Kids (Actually) Can't Read](https://www.youtube.com/watch?v=CV8Ok7Uxm2w) | — | — | [transcript](CV8Ok7Uxm2w/transcript.md) |
 | — | Invest with Henry | [24 Year Old Billionaire Investor Bet BIG on these 5 AI Stocks (should you follow?)](https://www.youtube.com/watch?v=CVegDAawxaw) | — | — | [transcript](CVegDAawxaw/transcript.md) |
 | — | JulienHimself | [The Reason You're Failing At Self-Help: Julien Blanc Reveals The Truth They Didn't Tell You](https://www.youtube.com/watch?v=CVmaPU378YY) | — | — | [transcript](CVmaPU378YY/transcript.md) |
 | — | Ben Yanes | [How To (Actually) Train The 6-Pack](https://www.youtube.com/watch?v=CW2iKfAspoM) | — | — | [transcript](CW2iKfAspoM/transcript.md) |
@@ -3192,6 +3215,7 @@ Each transcript link points to the full text under this folder.
 | — | Starter Story | [My App Made $120K in 24 Hours](https://www.youtube.com/watch?v=DkmStHS8NP0) | — | — | [transcript](DkmStHS8NP0/transcript.md) |
 | — | Aswath Damodaran | [Session 1: Corporate Finance - Big Picture and Themes](https://www.youtube.com/watch?v=Dl9FNzWPgI4) | — | — | [transcript](Dl9FNzWPgI4/transcript.md) · [materials](Dl9FNzWPgI4/materials/) |
 | — | Ben Yanes | [Why Ranking Exercises Is Dumb](https://www.youtube.com/watch?v=DlXgWM57sPk) | — | — | [transcript](DlXgWM57sPk/transcript.md) |
+| — | Big A | [Tech Bros Are Losing Touch](https://www.youtube.com/watch?v=Dl_WJawQEgo) | — | — | [transcript](Dl_WJawQEgo/transcript.md) |
 | — | Greg Isenberg | [Inside the AI Startup That Added $1M ARR in 7 Days](https://www.youtube.com/watch?v=Dll36oKiovU) | — | — | [transcript](Dll36oKiovU/transcript.md) |
 | — | Sean Nalewanyj | [Whey Protein Vs. Whole Foods](https://www.youtube.com/watch?v=DlqOASCqgLo) | — | — | [transcript](DlqOASCqgLo/transcript.md) |
 | — | Leila Hormozi | [How To Stop Burnout and Level Up Like The 1% Elite](https://www.youtube.com/watch?v=DmenYQ_MEEA) | — | — | [transcript](DmenYQ_MEEA/transcript.md) |
@@ -3232,6 +3256,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [I Was Wrong. This Is a Historic Buying Opportunity.](https://www.youtube.com/watch?v=DzN-IOA-png) | — | — | [transcript](DzN-IOA-png/transcript.md) · [visuals](DzN-IOA-png/visuals.md) |
 | — | Leila Hormozi | [Watch this BEFORE Your Job Interview](https://www.youtube.com/watch?v=DzbFBgGUGdU) | — | — | [transcript](DzbFBgGUGdU/transcript.md) |
 | — | David Carbutt | [Alex Karp: Palantir's Secret is](https://www.youtube.com/watch?v=Dzv4xNp9bnI) | — | — | [transcript](Dzv4xNp9bnI/transcript.md) |
+| — | Big A | [Tim Is Finally Cooked](https://www.youtube.com/watch?v=DzyiR0NuTZ8) | — | — | [transcript](DzyiR0NuTZ8/transcript.md) |
 | — | JulienHimself | [The Hook Point: How To Make People Chase You](https://www.youtube.com/watch?v=E-DfoOau8-4) | — | — | [transcript](E-DfoOau8-4/transcript.md) |
 | — | David Carbutt | [NVIDIA Shareholders... GET READY!!!](https://www.youtube.com/watch?v=E-F5-0_-WGY) | — | — | [transcript](E-F5-0_-WGY/transcript.md) |
 | — | New Money | [The US is About to Run Out of Money... Again.](https://www.youtube.com/watch?v=E0G0CBOuXIk) | — | — | [transcript](E0G0CBOuXIk/transcript.md) · [visuals](E0G0CBOuXIk/visuals.md) |
@@ -3623,6 +3648,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [95% Of People HIDE Their Charisma - LIVE DEMONSTRATION](https://www.youtube.com/watch?v=GGQvmr_DQx0) | — | — | [transcript](GGQvmr_DQx0/transcript.md) |
 | — | Starter Story | [The Underdog: From Dead Broke to $30,000,000](https://www.youtube.com/watch?v=GGxUH6EXF9I) | — | — | [transcript](GGxUH6EXF9I/transcript.md) |
 | — | Sean Nalewanyj | [1000 calories of donuts every day?](https://www.youtube.com/shorts/GHMp0bBvRzA) | — | — | [transcript](GHMp0bBvRzA/transcript.md) · Short |
+| — | Big A | [He's Going To Get Away With It](https://www.youtube.com/watch?v=GHozhI10SIk) | — | — | [transcript](GHozhI10SIk/transcript.md) |
 | — | HealthyGamerGG | [I Tried Intermittent Fasting for Technology - Does it Really Work?](https://www.youtube.com/watch?v=GI594-ha2SQ) | — | — | [transcript](GI594-ha2SQ/transcript.md) |
 | — | Alex Hormozi | [You’re Wasting 80% of Your Time (here’s how to fix it)](https://www.youtube.com/watch?v=GIRkQQHzsxI) | — | — | [transcript](GIRkQQHzsxI/transcript.md) |
 | — | Invest with Henry | [Bloom Energy Stock Could EXPLODE — Here’s My Strategy (BE)](https://www.youtube.com/watch?v=GIuU-vC8olE) | — | — | [transcript](GIuU-vC8olE/transcript.md) |
@@ -3690,6 +3716,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Wirecard – $17.5 Billion Valuation Based Entirely on LIES](https://www.youtube.com/watch?v=Gj1LpymqJFA) | — | — | [transcript](Gj1LpymqJFA/transcript.md) · [visuals](Gj1LpymqJFA/visuals.md) |
 | — | Aswath Damodaran | [Data Update 5 for 2024: Profitability - The End Game for Business?](https://www.youtube.com/watch?v=GjCPRQfT_xM) | — | — | [transcript](GjCPRQfT_xM/transcript.md) · [materials](GjCPRQfT_xM/materials/) |
 | — | Alex Hormozi | [Billionaire Recession Advice: Stop Investing in THIS (2023)](https://www.youtube.com/watch?v=GkL2KDOf2NM) | — | — | [transcript](GkL2KDOf2NM/transcript.md) |
+| — | Big A | [The Dumbest Insider Traders](https://www.youtube.com/watch?v=Gkp52V8RvYI) | — | — | [transcript](Gkp52V8RvYI/transcript.md) |
 | — | Vinh Giang | [Don't Be Afraid To Overpromise, It Allows You To Stretch Yourself!](https://www.youtube.com/watch?v=Gl2jRbRgINM) | — | — | [transcript](Gl2jRbRgINM/transcript.md) |
 | — | Leila Hormozi | [My $100M Hiring Strategy](https://www.youtube.com/watch?v=Gm161frNZ-0) | — | — | [transcript](Gm161frNZ-0/transcript.md) |
 | — | Aswath Damodaran | [Bitcoin Blowback: Back to the Drawing Board?](https://www.youtube.com/watch?v=GmH7GdSmSsU) | — | — | [transcript](GmH7GdSmSsU/transcript.md) · [materials](GmH7GdSmSsU/materials/) |
@@ -3942,6 +3969,7 @@ Each transcript link points to the full text under this folder.
 | — | Sean Nalewanyj | [If your lifts have stalled, do this...](https://www.youtube.com/shorts/IEHkxjJoVXM) | — | — | [transcript](IEHkxjJoVXM/transcript.md) · Short |
 | — | HealthyGamerGG | [Why Women Are Right About Astrology](https://www.youtube.com/watch?v=IEc1gti61eQ) | — | — | [transcript](IEc1gti61eQ/transcript.md) |
 | — | Vinh Giang | [Why You Should Take BOLD Action](https://www.youtube.com/watch?v=IEjdbT8IKgk) | — | — | [transcript](IEjdbT8IKgk/transcript.md) |
+| — | Big A | [I Have Too Much To Say About This](https://www.youtube.com/watch?v=IEmVcRnRde8) | — | — | [transcript](IEmVcRnRde8/transcript.md) |
 | — | Alex Hormozi | [You'll Find This Video When You Need it Most](https://www.youtube.com/watch?v=IFElGv5ZmRM) | — | — | [transcript](IFElGv5ZmRM/transcript.md) |
 | — | Greg Isenberg | [9 biggest startup ideas right now (AI, B2C, mobile etc)](https://www.youtube.com/watch?v=IFLY6L3YPGo) | — | — | [transcript](IFLY6L3YPGo/transcript.md) |
 | — | HealthyGamerGG | [How To Grieve \| Coping With Death](https://www.youtube.com/watch?v=IFUilP8grFQ) | — | — | [transcript](IFUilP8grFQ/transcript.md) |
@@ -4193,6 +4221,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [Why you always feel your back](https://www.youtube.com/shorts/Je49Z_Tx-Nc) | — | — | [transcript](Je49Z_Tx-Nc/transcript.md) · Short (music; content on screen) |
 | — | Alex Hormozi | [Sell Anything To Anyone With This Unusual Method](https://www.youtube.com/watch?v=JfbtySq6_B4) | — | — | [transcript](JfbtySq6_B4/transcript.md) |
 | — | Alex Hormozi | [Serial CEO Sells 4 Companies Using This Ancient Business Strategy](https://www.youtube.com/watch?v=JfcIUxa8Nn0) | — | — | [transcript](JfcIUxa8Nn0/transcript.md) |
+| — | Big A | [Extremely Radicalizing Interview](https://www.youtube.com/watch?v=Jfr6R3uB23o) | — | — | [transcript](Jfr6R3uB23o/transcript.md) |
 | — | JPG Coaching | [WE LOVE POSITIVE GYM CULTURE](https://www.youtube.com/shorts/Jfu7lKEpN10) | — | — | [transcript](Jfu7lKEpN10/transcript.md) · Short |
 | — | Felix & Friends (Goat Academy) | [A Once In A 100 Year Investment Opportunity Just Started (Most Aren’t Ready) \| Felix Nikolas Prehn](https://www.youtube.com/watch?v=Jgj1muikMNU) | — | — | [transcript](Jgj1muikMNU/transcript.md) |
 | — | HealthyGamerGG | [Life's an RPG And You Messed Up Your Build](https://www.youtube.com/watch?v=JgkYRyqloVA) | — | — | [transcript](JgkYRyqloVA/transcript.md) |
@@ -4523,6 +4552,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [$86,400 Free Every Single Day](https://www.youtube.com/watch?v=L_2RLUjGLYI) | — | — | [transcript](L_2RLUjGLYI/transcript.md) · [visuals](L_2RLUjGLYI/visuals.md) |
 | — | Starter Story | [How to Use AI to Find a $1M Idea [Reddit, Claude]](https://www.youtube.com/watch?v=L_FY6aW9cJ4) | — | — | [transcript](L_FY6aW9cJ4/transcript.md) |
 | — | Tom Nash | [Tesla Stock - URGENT WARNING](https://www.youtube.com/watch?v=L_HlNyJ9NH0) | — | — | [transcript](L_HlNyJ9NH0/transcript.md) · [visuals](L_HlNyJ9NH0/visuals.md) |
+| — | Big A | [The $5000 Bribe](https://www.youtube.com/watch?v=L_O1a3RnnaQ) | — | — | [transcript](L_O1a3RnnaQ/transcript.md) |
 | — | Aswath Damodaran | [Session 21: Debt Design and Dividend Basics](https://www.youtube.com/watch?v=L_yBanjQNR8) | — | — | [transcript](L_yBanjQNR8/transcript.md) · [materials](L_yBanjQNR8/materials/) |
 | — | Tom Nash | [The Painful Truth About Palantir Finally Revealed](https://www.youtube.com/watch?v=LaSLruu4rys) | — | — | [transcript](LaSLruu4rys/transcript.md) · [visuals](LaSLruu4rys/visuals.md) |
 | — | Aswath Damodaran | [Data Update 8 for 2025: The Draw and Drawbacks of Debt](https://www.youtube.com/watch?v=LacfrEOh8kw) | — | — | [transcript](LacfrEOh8kw/transcript.md) · [materials](LacfrEOh8kw/materials/) |
@@ -4535,6 +4565,7 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [13 Ways to DESTROY Your Competition (Legally)](https://www.youtube.com/watch?v=Lc8DNduiwKA) | — | — | [transcript](Lc8DNduiwKA/transcript.md) |
 | — | Aswath Damodaran | [Data 2017 Update 8: Debt, the Dark and Light Side!](https://www.youtube.com/watch?v=LcEE5ry3wFE) | — | — | [transcript](LcEE5ry3wFE/transcript.md) · [materials](LcEE5ry3wFE/materials/) |
 | — | David Carbutt | [Palantir Co-Founder on Inflation](https://www.youtube.com/watch?v=LcIoYOvUTEQ) | — | — | [transcript](LcIoYOvUTEQ/transcript.md) |
+| — | Big A | [Insane Shift in South America](https://www.youtube.com/watch?v=Ld2hkBPYZ3c) | — | — | [transcript](Ld2hkBPYZ3c/transcript.md) |
 | — | Ben Yanes | [I Forgot That I Love The Fitness Industry](https://www.youtube.com/watch?v=LeNEyDhddQM) | — | — | [transcript](LeNEyDhddQM/transcript.md) |
 | — | Ben Yanes | [Machines Are Useless For Beginners - Really?](https://www.youtube.com/watch?v=LeQwIVoEiSc) | — | — | [transcript](LeQwIVoEiSc/transcript.md) |
 | — | Riley Brown | [How to Turn ChatGPT into an Unstoppable Virtual Employee Army](https://www.youtube.com/watch?v=LeU_h8iUqkw) | — | — | [transcript](LeU_h8iUqkw/transcript.md) |
@@ -4611,6 +4642,7 @@ Each transcript link points to the full text under this folder.
 | — | Sean Nalewanyj | [Should You Do Cardio Before Or After Weights?](https://www.youtube.com/watch?v=M-cpnBQh9oM) | — | — | [transcript](M-cpnBQh9oM/transcript.md) |
 | — | JulienHimself | [How To Deal With A Breakup & Get Over Your Ex - Don't Make These ROOKIE Mistakes (Breakup Manifesto)](https://www.youtube.com/watch?v=M0ctRMR8qXM) | — | — | [transcript](M0ctRMR8qXM/transcript.md) |
 | — | HealthyGamerGG | [You Can’t Live Your Life To The Fullest](https://www.youtube.com/watch?v=M1DIwzXlTX4) | — | — | [transcript](M1DIwzXlTX4/transcript.md) |
+| — | Big A | [This Wasn't Good Enough](https://www.youtube.com/watch?v=M1EQor1C3rc) | — | — | [transcript](M1EQor1C3rc/transcript.md) |
 | — | David Carbutt | [Palantir: Snowflake or Competition Coming?](https://www.youtube.com/watch?v=M1KuNyfPHq4) | — | — | [transcript](M1KuNyfPHq4/transcript.md) |
 | — | David Carbutt | [Cathie Wood’s RoboTaxi Prediction is Shocking](https://www.youtube.com/watch?v=M1St1ZWb9RM) | — | — | [transcript](M1St1ZWb9RM/transcript.md) |
 | — | JPG Coaching | [One of the most common mistakes with upper back biased rows](https://www.youtube.com/shorts/M1kpAdQIoI4) | — | — | [transcript](M1kpAdQIoI4/transcript.md) · Short |
@@ -4646,6 +4678,7 @@ Each transcript link points to the full text under this folder.
 | — | Sean Nalewanyj | [5 Tips To Eliminate Skull Crushers Elbow Pain](https://www.youtube.com/watch?v=MBZc8x8IPXc) | — | — | [transcript](MBZc8x8IPXc/transcript.md) |
 | — | Invest with Henry | [Urgent: MUST BUYS](https://www.youtube.com/watch?v=MCDXBRLBwvs) | — | — | [transcript](MCDXBRLBwvs/transcript.md) |
 | — | Sean Nalewanyj | [The Best And Worst Fat Loss Strategies (IQ Scale)](https://www.youtube.com/shorts/MCThLJYRcl8) | — | — | [transcript](MCThLJYRcl8/transcript.md) · Short |
+| — | Big A | [He's Gone](https://www.youtube.com/watch?v=MCoAnPZ8_ms) | — | — | [transcript](MCoAnPZ8_ms/transcript.md) |
 | — | HealthyGamerGG | [Dr. K Becomes the Client with No Motivation](https://www.youtube.com/watch?v=MD0Ei5agKkE) | — | — | [transcript](MD0Ei5agKkE/transcript.md) |
 | — | Invest with Henry | [Electric Car Stock Analysis \| A Good Buy or Sell? June/July 2020 NIO, NKLA, TSLA](https://www.youtube.com/watch?v=MD2guwhsvVM) | — | — | [transcript](MD2guwhsvVM/transcript.md) |
 | — | Ben Yanes | [How to Properly Hammer Curl (2 exercises)](https://www.youtube.com/watch?v=MD3fBF9qGz0) | — | — | [transcript](MD3fBF9qGz0/transcript.md) |
@@ -4882,6 +4915,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Valuation Tools Webcast #3: Implied Equity Risk Premiums](https://www.youtube.com/watch?v=NZICjFahlPU) | — | — | [transcript](NZICjFahlPU/transcript.md) |
 | — | Ben Yanes | [Once You See This, You'll Never See Lifting The Same](https://www.youtube.com/watch?v=NZU1GnOuxP8) | — | — | [transcript](NZU1GnOuxP8/transcript.md) |
 | — | Aswath Damodaran | [Session 6: Cost of Debt and Capital](https://www.youtube.com/watch?v=N_FH89DCdGs) | — | — | [transcript](N_FH89DCdGs/transcript.md) |
+| — | Big A | [The EU is Pissed...](https://www.youtube.com/watch?v=N_xlRa3ZIYE) | — | — | [transcript](N_xlRa3ZIYE/transcript.md) |
 | — | Ticker Symbol: YOU | [WARNING: If You Hold Nvidia Stock (NVDA)... GET READY](https://www.youtube.com/watch?v=NaTiQ8fvhiQ) | — | — | [transcript](NaTiQ8fvhiQ/transcript.md) · [visuals](NaTiQ8fvhiQ/visuals.md) |
 | — | David Carbutt | [No One Understands What Elon Just Said About 2026](https://www.youtube.com/watch?v=NadCFjOIBXY) | — | — | [transcript](NadCFjOIBXY/transcript.md) |
 | — | Vinh Giang | [5 Steps To Deliver A Heartfelt Apology](https://www.youtube.com/watch?v=NbBXWhpa0Pw) | — | — | [transcript](NbBXWhpa0Pw/transcript.md) |
@@ -4982,6 +5016,7 @@ Each transcript link points to the full text under this folder.
 | — | Riley Brown | [Astra Built Me an Entire Product Launch (UGC, Videos, and Website)](https://www.youtube.com/watch?v=O8pzzIP1RyM) | — | — | [transcript](O8pzzIP1RyM/transcript.md) |
 | — | David Carbutt | [Alex Karp is Losing His Mind](https://www.youtube.com/watch?v=O91MC_uTlV0) | — | — | [transcript](O91MC_uTlV0/transcript.md) |
 | — | Ticker Symbol: YOU | [🔥 Intel's Collapse \| ARK Invest Big Tech Predictions That Are Coming True NOW](https://www.youtube.com/watch?v=O9QoGhcYoRI) | — | — | [transcript](O9QoGhcYoRI/transcript.md) · [visuals](O9QoGhcYoRI/visuals.md) |
+| — | Big A | [This is a Meltdown](https://www.youtube.com/watch?v=O9gnEnIZAmM) | — | — | [transcript](O9gnEnIZAmM/transcript.md) |
 | — | JPG Coaching | [The dawg in me would never allow that](https://www.youtube.com/shorts/O9nIE1meZVk) | — | — | [transcript](O9nIE1meZVk/transcript.md) · Short |
 | — | HealthyGamerGG | [Why Men CAN'T Ask For Help.](https://www.youtube.com/watch?v=OAbmiSXzFrw) | — | — | [transcript](OAbmiSXzFrw/transcript.md) |
 | — | Greg Isenberg | [He Built MY Startup Idea and Sold It in 8 Days ($15K Side Hustle)](https://www.youtube.com/watch?v=OAqCyVuZ_6o) | — | — | [transcript](OAqCyVuZ_6o/transcript.md) |
@@ -5113,6 +5148,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 6: Equity Risk Premiums](https://www.youtube.com/watch?v=Or8VGMUOqBY) | — | — | [transcript](Or8VGMUOqBY/transcript.md) · [materials](Or8VGMUOqBY/materials/) |
 | — | Leila Hormozi | [Why your business is NOT GROWING...3 things to FIX RIGHT NOW!](https://www.youtube.com/watch?v=OrKw2LTB1HA) | — | — | [transcript](OrKw2LTB1HA/transcript.md) |
 | — | David Carbutt | [Dan Ives GIGANTIC Tesla Prediction](https://www.youtube.com/watch?v=OrbPdXO3R8w) | — | — | [transcript](OrbPdXO3R8w/transcript.md) |
+| — | Big A | [Pawn Shops Are Seeing What The Market Isn't](https://www.youtube.com/watch?v=OsE45Qfix8Q) | — | — | [transcript](OsE45Qfix8Q/transcript.md) |
 | — | BWB - Business With Brian | [I Was Ranked #1: My Top Stock Picks for 2026 📈](https://www.youtube.com/watch?v=OsEeetpStF4) | — | — | [transcript](OsEeetpStF4/transcript.md) · [visuals](OsEeetpStF4/visuals.md) |
 | — | HealthyGamerGG | [Ice Poseidon: Autism, Misunderstood, Giving Control to Viewer](https://www.youtube.com/watch?v=OsMwS82_9vU) | — | — | [transcript](OsMwS82_9vU/transcript.md) |
 | — | Invest with Henry | [URGENT: WATCH BEFORE MONDAY 930am! #SOFI #SPY #PLTR #NVDA #TSLA](https://www.youtube.com/watch?v=OsYX0aRB7qY) | — | — | [transcript](OsYX0aRB7qY/transcript.md) |
@@ -5154,6 +5190,7 @@ Each transcript link points to the full text under this folder.
 | — | Vinh Giang | [When your son visits you at work 🥺](https://www.youtube.com/watch?v=P2weefVSfhE) | — | — | [transcript](P2weefVSfhE/transcript.md) |
 | — | David Carbutt | [Palantir's CTO Reveals EPIC Military Strategy](https://www.youtube.com/watch?v=P3AZjz_7hCQ) | — | — | [transcript](P3AZjz_7hCQ/transcript.md) |
 | — | David Carbutt | [Tesla’s Robotaxi Fleet's About to Go Vertical](https://www.youtube.com/watch?v=P3c5vQAss8U) | — | — | [transcript](P3c5vQAss8U/transcript.md) |
+| — | Big A | [Worst Stock Picks Of All Time](https://www.youtube.com/watch?v=P3raCxhQG4s) | — | — | [transcript](P3raCxhQG4s/transcript.md) |
 | — | Sean Nalewanyj | [Fitness influencer aren't telling you this](https://www.youtube.com/shorts/P4BAOjIFvqw) | — | — | [transcript](P4BAOjIFvqw/transcript.md) · Short |
 | — | Starter Story | [I Built A $30K/Month App: Here's My Exact Process](https://www.youtube.com/watch?v=P4QodeA_lQ0) | — | — | [transcript](P4QodeA_lQ0/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [The Investment Opportunity of a Lifetime Is Here (But Not For Long)](https://www.youtube.com/watch?v=P4YKp0sf_pw) | — | — | [transcript](P4YKp0sf_pw/transcript.md) |
@@ -5171,6 +5208,7 @@ Each transcript link points to the full text under this folder.
 | — | Invest with Henry | [Options Trading for Beginners 2025 FULL FREE COURSE (6+ Hours)](https://www.youtube.com/shorts/P7bxMdVxfN8) | — | — | [transcript](P7bxMdVxfN8/transcript.md) · Short |
 | — | Aswath Damodaran | [Session 13 (MBA): Time Weighted CF returns, Uncertainty & Equity Analysis](https://www.youtube.com/watch?v=P7cZgQbBhJE) | — | — | [transcript](P7cZgQbBhJE/transcript.md) · [materials](P7cZgQbBhJE/materials/) |
 | — | Ben Yanes | [How to improve the face-pull](https://www.youtube.com/shorts/P7tD3DL5jpc) | — | — | [transcript](P7tD3DL5jpc/transcript.md) · Short |
+| — | Big A | [The Myth of Gen Z Religion](https://www.youtube.com/watch?v=P81IwLR1lDc) | — | — | [transcript](P81IwLR1lDc/transcript.md) |
 | — | Aswath Damodaran | [Pricing Ratios: Dataset Support](https://www.youtube.com/watch?v=P87WFfCMvYI) | — | — | [transcript](P87WFfCMvYI/transcript.md) · [materials](P87WFfCMvYI/materials/) |
 | — | Sean Nalewanyj | [How To Build Big Arms (The SIMPLE Truth!)](https://www.youtube.com/watch?v=PAH5jVuvijU) | — | — | [transcript](PAH5jVuvijU/transcript.md) |
 | — | Alex Hormozi | [IMPORTANT: How to get more sex and increase your revenue...(this works)](https://www.youtube.com/watch?v=PArqypiHcyQ) | — | — | [transcript](PArqypiHcyQ/transcript.md) |
@@ -5292,6 +5330,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Dan Ives Silences CNBC Host w/ Tesla Bombshells.](https://www.youtube.com/watch?v=Pr-ORBs1eUI) | — | — | [transcript](Pr-ORBs1eUI/transcript.md) |
 | — | Greg Isenberg | [Watch me use AI to make millions in ecommerce](https://www.youtube.com/watch?v=PrP_aGVLBMI) | — | — | [transcript](PrP_aGVLBMI/transcript.md) |
 | — | Invest with Henry | [SOFI & Robinhood Investors BEWARE— Don't Make This Mistake!](https://www.youtube.com/watch?v=PrdA0HeF2lo) | — | — | [transcript](PrdA0HeF2lo/transcript.md) |
+| — | Big A | [The Worst Business Decision](https://www.youtube.com/watch?v=PredD1xwka8) | — | — | [transcript](PredD1xwka8/transcript.md) |
 | — | Leila Hormozi | [WATCH THIS if you are drowning in problems](https://www.youtube.com/watch?v=PrkLlDju0Xc) | — | — | [transcript](PrkLlDju0Xc/transcript.md) |
 | — | David Carbutt | [Palantir & Microsoft Just Made a MASSIVE Move](https://www.youtube.com/watch?v=PsXkOFrCg0w) | — | — | [transcript](PsXkOFrCg0w/transcript.md) |
 | — | Aswath Damodaran | [Data Update 4 for 2025: Interest Rates, Inflation and the Fed!](https://www.youtube.com/watch?v=Pt-tJJZNFPo) | — | — | [transcript](Pt-tJJZNFPo/transcript.md) · [materials](Pt-tJJZNFPo/materials/) |
@@ -5433,6 +5472,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [8.3% Inflation Is Actually A Good Thing (NOT CLICKBAIT)](https://www.youtube.com/watch?v=QhGwsHl19to) | — | — | [transcript](QhGwsHl19to/transcript.md) · [visuals](QhGwsHl19to/visuals.md) |
 | — | New Money | [Ray Dalio: We're Already in Another Depression](https://www.youtube.com/watch?v=Qish0DGcMuA) | — | — | [transcript](Qish0DGcMuA/transcript.md) · [visuals](Qish0DGcMuA/visuals.md) |
 | — | HealthyGamerGG | [Nostalgia, and Getting Stuck in the Past](https://www.youtube.com/watch?v=Qj7QGthvAdk) | — | — | [transcript](Qj7QGthvAdk/transcript.md) |
+| — | Big A | [Did He Fake It?](https://www.youtube.com/watch?v=QjRJomScDEw) | — | — | [transcript](QjRJomScDEw/transcript.md) |
 | — | JulienHimself | [Kill Your Ego Before It Kills You: Julien Blanc Reveals How To Get Rid Of Ego (Ego Is The Enemy)](https://www.youtube.com/watch?v=QjSrPR55lMk) | — | — | [transcript](QjSrPR55lMk/transcript.md) |
 | — | JulienHimself | [What To Expect When Improving - Sculpture Masterpieces Are All Ugly Rocks For Years](https://www.youtube.com/watch?v=QjewlC0zMWo) | — | — | [transcript](QjewlC0zMWo/transcript.md) |
 | — | JulienHimself | [You Don't Have To HIDE... (Drop The Mask)](https://www.youtube.com/watch?v=Qk6tG5BNQDM) | — | — | [transcript](Qk6tG5BNQDM/transcript.md) |
@@ -5499,6 +5539,7 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [The 4 Stages of Entrepreneurship](https://www.youtube.com/watch?v=R7Fin9HFhoM) | — | — | [transcript](R7Fin9HFhoM/transcript.md) |
 | — | Alex Hormozi | [This is why I was Poor](https://www.youtube.com/watch?v=R7JOslrt51o) | — | — | [transcript](R7JOslrt51o/transcript.md) |
 | — | Felix & Friends (Goat Academy) | [Bank of America’s Shocking Warning](https://www.youtube.com/watch?v=R7eSCVM2N1I) | — | — | [transcript](R7eSCVM2N1I/transcript.md) |
+| — | Big A | [This is Real Progress](https://www.youtube.com/watch?v=R7gIXTTn7G0) | — | — | [transcript](R7gIXTTn7G0/transcript.md) |
 | — | Ben Yanes | [This Has Gone Too Far](https://www.youtube.com/watch?v=R8Go0gmkcuU) | — | — | [transcript](R8Go0gmkcuU/transcript.md) |
 | — | New Money | [Michael Burry Just Sold His ENTIRE Stock Portfolio...](https://www.youtube.com/watch?v=R8yAB1SNJCc) | — | — | [transcript](R8yAB1SNJCc/transcript.md) · [visuals](R8yAB1SNJCc/visuals.md) |
 | — | Tom Nash | [Commodities Expert: Russia Sanctions May Backfire on U.S.](https://www.youtube.com/watch?v=R992yNAHi3Q) | — | — | [transcript](R992yNAHi3Q/transcript.md) · [visuals](R992yNAHi3Q/visuals.md) |
@@ -5646,6 +5687,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Not Wanting to Die, but Not Wanting to Live \| Dr. K Interviews](https://www.youtube.com/watch?v=RwIx9lii4ns) | — | — | [transcript](RwIx9lii4ns/transcript.md) |
 | — | Ticker Symbol: YOU | [E11: IS TESLA DOOMED? Top AI Stocks to Buy After Earnings](https://www.youtube.com/watch?v=RwSjPxlFFto) | — | — | [transcript](RwSjPxlFFto/transcript.md) · [visuals](RwSjPxlFFto/visuals.md) |
 | — | David Carbutt | [Palantir CTO Drops BOMBSHELL on U.S. Defense](https://www.youtube.com/watch?v=Rwj4Evbn7Y0) | — | — | [transcript](Rwj4Evbn7Y0/transcript.md) |
+| — | Big A | [A Wave Of Foreclosures Is Coming (ft. Melody Wright)](https://www.youtube.com/watch?v=RxjMN91pg5s) | — | — | [transcript](RxjMN91pg5s/transcript.md) |
 | — | Starter Story | [This crazy simple app makes $50K/month](https://www.youtube.com/watch?v=RypUD_Fuaqw) | — | — | [transcript](RypUD_Fuaqw/transcript.md) |
 | — | Justin Sung | [Learn Faster by Copying How Olympic Athletes Train](https://www.youtube.com/watch?v=RytJr22inm8) | — | — | [transcript](RytJr22inm8/transcript.md) |
 | — | David Carbutt | [Alex Karp's Pentagon Story Left Everyone SPEECHLESS](https://www.youtube.com/watch?v=Rz8E3tq9whE) | — | — | [transcript](Rz8E3tq9whE/transcript.md) |
@@ -5805,6 +5847,7 @@ Each transcript link points to the full text under this folder.
 | — | JPG Coaching | [Level up your front lat spread! If you still have a hard time then you might just need bigger lats 🤠](https://www.youtube.com/shorts/SviXHLDKg7E) | — | — | [transcript](SviXHLDKg7E/transcript.md) · Short |
 | — | Invest with Henry | [Why I Left Goldman Sachs to Become a Pro Options Trader](https://www.youtube.com/watch?v=SwMyBZeCYWM) | — | — | [transcript](SwMyBZeCYWM/transcript.md) |
 | — | Sean Nalewanyj | [Apple Watches Are Bullsh*t?](https://www.youtube.com/shorts/SwR56iRTe_s) | — | — | [transcript](SwR56iRTe_s/transcript.md) · Short |
+| — | Big A | [They Did The Impossible](https://www.youtube.com/watch?v=SwXHxBIJfR4) | — | — | [transcript](SwXHxBIJfR4/transcript.md) |
 | — | Greg Isenberg | [2 $1M+ EdTech Startups you can launch tomorrow](https://www.youtube.com/watch?v=Swxsv1SgCiA) | — | — | [transcript](Swxsv1SgCiA/transcript.md) |
 | — | Greg Isenberg | [How to build SaaS App in a weekend using AI (Steal This)](https://www.youtube.com/watch?v=Sx6k6uctfXE) | — | — | [transcript](Sx6k6uctfXE/transcript.md) |
 | — | JulienHimself | [SHADOW WORK Tricks I Use To Make People Confident](https://www.youtube.com/watch?v=Sx86BDFycdk) | — | — | [transcript](Sx86BDFycdk/transcript.md) |
@@ -5891,6 +5934,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [Subtle Ways People Communicate Their Value](https://www.youtube.com/watch?v=TOoItv6oiVU) | — | — | [transcript](TOoItv6oiVU/transcript.md) |
 | — | HealthyGamerGG | [The Truth Behind Finding Meaning and Purpose in Life \| Dr.K Interviews](https://www.youtube.com/watch?v=TOra1I7Fods) | — | — | [transcript](TOra1I7Fods/transcript.md) |
 | — | New Money | [Ray Dalio: Are We Facing A Stock Market Bubble in 2024?](https://www.youtube.com/watch?v=TOxRywe2Xl0) | — | — | [transcript](TOxRywe2Xl0/transcript.md) · [visuals](TOxRywe2Xl0/visuals.md) |
+| — | Big A | [This Is A Warning](https://www.youtube.com/watch?v=TP1o74C_XgE) | — | — | [transcript](TP1o74C_XgE/transcript.md) |
 | — | Riley Brown | [How I Created a Professional Landing Page with AI (Custom Style in 10 Minutes)](https://www.youtube.com/watch?v=TPBd8If-ryQ) | — | — | [transcript](TPBd8If-ryQ/transcript.md) |
 | — | New Money | [Why Warren Buffett is Preparing for a Stock Market Correction](https://www.youtube.com/watch?v=TRq8HSpu1ZY) | — | — | [transcript](TRq8HSpu1ZY/transcript.md) · [visuals](TRq8HSpu1ZY/visuals.md) |
 | — | HealthyGamerGG | [The Neuroscience Behind Male Rage](https://www.youtube.com/watch?v=TRsEi1Ce-XA) | — | — | [transcript](TRsEi1Ce-XA/transcript.md) |
@@ -5974,6 +6018,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [90% Of My CONFIDENCE Comes From This...](https://www.youtube.com/watch?v=Tte8lu_px_w) | — | — | [transcript](Tte8lu_px_w/transcript.md) |
 | — | JulienHimself | [How To Find Your Passion: How To Discover What You Want & How To Find Your Purpose In Life!](https://www.youtube.com/watch?v=Tu-M2ZbXWl0) | — | — | [transcript](Tu-M2ZbXWl0/transcript.md) |
 | — | Alex Hormozi | ["I'm Facing A Billion Dollar Decision" [Ep 012]](https://www.youtube.com/watch?v=Tu6YDG0AZ5k) | — | — | [transcript](Tu6YDG0AZ5k/transcript.md) |
+| — | Big A | [Never Been So Happy To Be Wrong](https://www.youtube.com/watch?v=TuT1xP0vYmA) | — | — | [transcript](TuT1xP0vYmA/transcript.md) |
 | — | HealthyGamerGG | [How Do I Poop In Public?](https://www.youtube.com/watch?v=TumgOCSUsWo) | — | — | [transcript](TumgOCSUsWo/transcript.md) |
 | — | Invest with Henry | [This Barclay’s Option Strategy Made me 12% a Week EP.1](https://www.youtube.com/watch?v=TuqW0dbIzyQ) | — | — | [transcript](TuqW0dbIzyQ/transcript.md) |
 | — | Invest with Henry | [Optionsfy for Trading Options #trading #optionsfy](https://www.youtube.com/shorts/Tuxwi4d2QR4) | — | — | [transcript](Tuxwi4d2QR4/transcript.md) · Short |
@@ -6037,6 +6082,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Dan Ives Just Called Palantir a MUST-BUY](https://www.youtube.com/watch?v=UGSIN_50W2c) | — | — | [transcript](UGSIN_50W2c/transcript.md) |
 | — | Ben Yanes | [Don't Make this Middle Delt Mistake](https://www.youtube.com/shorts/UGoriSeb9OU) | — | — | [transcript](UGoriSeb9OU/transcript.md) · Short |
 | — | Vinh Giang | [HOW TO INNOVATE (THE BEATLES STRATEGY)](https://www.youtube.com/watch?v=UH256xjbIGo) | — | — | [transcript](UH256xjbIGo/transcript.md) |
+| — | Big A | [What Can You Do?](https://www.youtube.com/watch?v=UHAufTvmmRQ) | — | — | [transcript](UHAufTvmmRQ/transcript.md) |
 | — | Ticker Symbol: YOU | [🔥 3 Stocks to Buy As the Market Crashes (High Growth)](https://www.youtube.com/watch?v=UHfIXZKaqQU) | — | — | [transcript](UHfIXZKaqQU/transcript.md) · [visuals](UHfIXZKaqQU/visuals.md) |
 | — | David Carbutt | [Palantir Signs $22M Contract!](https://www.youtube.com/watch?v=UHgf7l1oVRk) | — | — | [transcript](UHgf7l1oVRk/transcript.md) |
 | — | JulienHimself | [Why "Self-Help" Is A WASTE OF TIME: What The Gurus Don't Tell You  - Transformation Mastery (3 of 5)](https://www.youtube.com/watch?v=UInoxKbKyJI) | — | — | [transcript](UInoxKbKyJI/transcript.md) |
@@ -6103,6 +6149,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [If you are a TESLA shareholder….GET READY](https://www.youtube.com/watch?v=UdEAs9jjNQU) | — | — | [transcript](UdEAs9jjNQU/transcript.md) · [visuals](UdEAs9jjNQU/visuals.md) |
 | — | Ben Yanes | [Can you Isolate Each Biceps?](https://www.youtube.com/shorts/UdKvHLDgXB8) | — | — | [transcript](UdKvHLDgXB8/transcript.md) · Short |
 | — | Leila Hormozi | [Answering Your Most Asked Business Questions for 27min](https://www.youtube.com/watch?v=UdpBVextp3I) | — | — | [transcript](UdpBVextp3I/transcript.md) |
+| — | Big A | [We're Blockading The Blockade](https://www.youtube.com/watch?v=UekKb2HiR8k) | — | — | [transcript](UekKb2HiR8k/transcript.md) |
 | — | Tom Nash | [Palantir Q2 Financials Recap](https://www.youtube.com/watch?v=UeoJYAqP9gs) | — | — | [transcript](UeoJYAqP9gs/transcript.md) · [visuals](UeoJYAqP9gs/visuals.md) |
 | — | Tom Nash | [Crowdstrike: The Most UNDERVALUED AI Stock In The Market](https://www.youtube.com/watch?v=UfKGIo6IgSk) | — | — | [transcript](UfKGIo6IgSk/transcript.md) · [visuals](UfKGIo6IgSk/visuals.md) |
 | — | JulienHimself | [The #1 SOCIAL ANXIETY HACK: Become Socially Invincible](https://www.youtube.com/watch?v=UfRBabxHExU) | — | — | [transcript](UfRBabxHExU/transcript.md) |
@@ -6116,6 +6163,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [ROM Is Overrated (The TRUTH!)](https://www.youtube.com/watch?v=UhD2p8eoywU) | — | — | [transcript](UhD2p8eoywU/transcript.md) |
 | — | Leila Hormozi | [Watch this if you're afraid of starting your first business](https://www.youtube.com/watch?v=UhaStxP6CZY) | — | — | [transcript](UhaStxP6CZY/transcript.md) |
 | — | JPG Coaching | [Make better gains. Join my 3-5 day programs.](https://www.youtube.com/shorts/Ui6nSUuCakM) | — | — | [transcript](Ui6nSUuCakM/transcript.md) · Short |
+| — | Big A | [They Are Spending Millions To Stop Him](https://www.youtube.com/watch?v=UibViLRv4x0) | — | — | [transcript](UibViLRv4x0/transcript.md) |
 | — | HealthyGamerGG | [Why Your Favorite Content Creators Are Depressed](https://www.youtube.com/watch?v=UigGWCXzWJ0) | — | — | [transcript](UigGWCXzWJ0/transcript.md) |
 | — | Invest with Henry | [Buy Alibaba Stock Dip? BIG OPPORTUNITY(Put Credit Spread)](https://www.youtube.com/watch?v=UjS78T2NCCc) | — | — | [transcript](UjS78T2NCCc/transcript.md) |
 | — | Ben Yanes | [Stop Doing THIS On Biceps Curls](https://www.youtube.com/shorts/UjWpAM_3JOQ) | — | — | [transcript](UjWpAM_3JOQ/transcript.md) · Short |
@@ -6139,8 +6187,10 @@ Each transcript link points to the full text under this folder.
 | — | Invest with Henry | [Lemonade Insurance (Should You Buy $LMND?) \|Disruptive Innovation IPO Stock](https://www.youtube.com/watch?v=UtLRio4_qzI) | — | — | [transcript](UtLRio4_qzI/transcript.md) |
 | — | HealthyGamerGG | [The Secret Reason Why Women Reject You](https://www.youtube.com/watch?v=Uu2vnc7nrlY) | — | — | [transcript](Uu2vnc7nrlY/transcript.md) |
 | — | Alex Hormozi | [give me 14 minutes and you'll learn how to be absurdly happy with your life](https://www.youtube.com/watch?v=UulLbNJMpTg) | — | — | [transcript](UulLbNJMpTg/transcript.md) |
+| — | Big A | [He Actually Did It](https://www.youtube.com/watch?v=UwNcjKcvg04) | — | — | [transcript](UwNcjKcvg04/transcript.md) |
 | — | Alex Hormozi | [The Alex Hormozi Guide to Haters [REVEALED]](https://www.youtube.com/watch?v=UxQJ64BNuco) | — | — | [transcript](UxQJ64BNuco/transcript.md) |
 | — | Invest with Henry | [⚠️URGENT Warning: [WATCH NOW] IF You Own Palantir, Nvidia, SoFi, Tesla](https://www.youtube.com/watch?v=UxwhAiDaQ_E) | — | — | [transcript](UxwhAiDaQ_E/transcript.md) |
+| — | Big A | [Truly Hilarious Interview](https://www.youtube.com/watch?v=Uy9VWoZqXKE) | — | — | [transcript](Uy9VWoZqXKE/transcript.md) |
 | — | HealthyGamerGG | [Why You Fail When It Comes To Dopamine](https://www.youtube.com/watch?v=UyUirzxxkZ0) | — | — | [transcript](UyUirzxxkZ0/transcript.md) |
 | — | Justin Sung | [If You Have A Bad Memory, I’ll Help You Fix It In 28 Minutes](https://www.youtube.com/watch?v=UyiKBkUZ2xc) | — | — | [transcript](UyiKBkUZ2xc/transcript.md) |
 | — | David Carbutt | [Palantir's Totally Dominating.](https://www.youtube.com/watch?v=UyuUPuHiwvM) | — | — | [transcript](UyuUPuHiwvM/transcript.md) |
@@ -6378,6 +6428,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [IT STARTED: The Stock Market Crash (What You NEED to Know)](https://www.youtube.com/watch?v=WH-wyXmZKZI) | — | — | [transcript](WH-wyXmZKZI/transcript.md) · [visuals](WH-wyXmZKZI/visuals.md) |
 | — | Aswath Damodaran | [In Practice Webcast 13a: Following up on Dividend Assessment](https://www.youtube.com/watch?v=WH8lFQxUblE) | — | — | [transcript](WH8lFQxUblE/transcript.md) · [materials](WH8lFQxUblE/materials/) |
 | — | Felix & Friends (Goat Academy) | [The Global Monetary Reset Is Here; EVERYTHING You Need To Know](https://www.youtube.com/watch?v=WHAOB5oB79k) | — | — | [transcript](WHAOB5oB79k/transcript.md) |
+| — | Big A | [I Have To Crack Down](https://www.youtube.com/watch?v=WIBEDHpwohg) | — | — | [transcript](WIBEDHpwohg/transcript.md) |
 | — | Ben Yanes | [Why does this help you squat?](https://www.youtube.com/shorts/WIr1jVqnUoM) | — | — | [transcript](WIr1jVqnUoM/transcript.md) · Short |
 | — | David Carbutt | [Cathie, NVIDIA CEO & Tom Lee Make HUGE Predictions!](https://www.youtube.com/watch?v=WIvldNRcClc) | — | — | [transcript](WIvldNRcClc/transcript.md) |
 | — | HealthyGamerGG | [The Reason You Can’t Find Purpose](https://www.youtube.com/watch?v=WIwcvBlyl0c) | — | — | [transcript](WIwcvBlyl0c/transcript.md) |
@@ -6669,6 +6720,7 @@ Each transcript link points to the full text under this folder.
 | — | Sean Nalewanyj | [20 Low Calorie Sauces To Add Flavor To Your Meals](https://www.youtube.com/watch?v=XwrFh2HjgpY) | — | — | [transcript](XwrFh2HjgpY/transcript.md) |
 | — | Alex Hormozi | [You're Setting Goals Wrong](https://www.youtube.com/watch?v=XwzU4RikbGs) | — | — | [transcript](XwzU4RikbGs/transcript.md) |
 | — | David Carbutt | [Palantir: Recession, Inflation & US Revenue](https://www.youtube.com/watch?v=XxILLknkV58) | — | — | [transcript](XxILLknkV58/transcript.md) |
+| — | Big A | [We've Got A New Trade War](https://www.youtube.com/watch?v=XxXEDfkjPOU) | — | — | [transcript](XxXEDfkjPOU/transcript.md) |
 | — | HealthyGamerGG | [Why You're Behind in Life \| Viewer Interview](https://www.youtube.com/watch?v=Xxb-HovgjjM) | — | — | [transcript](Xxb-HovgjjM/transcript.md) |
 | — | Aswath Damodaran | [Session 25: Valuation - The Last Frontier!](https://www.youtube.com/watch?v=XxdjBiF0bVc) | — | — | [transcript](XxdjBiF0bVc/transcript.md) · [materials](XxdjBiF0bVc/materials/) |
 | — | Felix & Friends (Goat Academy) | [A Once in a Lifetime Financial Reset is Coming. (Why Gold is Next)](https://www.youtube.com/watch?v=XyDktgyuK2c) | — | — | [transcript](XyDktgyuK2c/transcript.md) |
@@ -6712,6 +6764,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [Normal shrugs are bad???](https://www.youtube.com/shorts/YDNTvCOjufI) | — | — | [transcript](YDNTvCOjufI/transcript.md) · Short |
 | — | JPG Coaching | [Train those hamstrings twin 🙏](https://www.youtube.com/shorts/YDodxTyJYAw) | — | — | [transcript](YDodxTyJYAw/transcript.md) · Short |
 | — | Felix & Friends (Goat Academy) | [If You Don't Understand Gold, You Don't Understand Money](https://www.youtube.com/watch?v=YE1hxjLFxy0) | — | — | [transcript](YE1hxjLFxy0/transcript.md) |
+| — | Big A | [The DOW Didn't Save Her](https://www.youtube.com/watch?v=YEhZ8pGov8c) | — | — | [transcript](YEhZ8pGov8c/transcript.md) |
 | — | Tom Nash | [Palantir Investors: GET READY!](https://www.youtube.com/watch?v=YFA5XvvzcdE) | — | — | [transcript](YFA5XvvzcdE/transcript.md) · [visuals](YFA5XvvzcdE/visuals.md) |
 | — | Alex Hormozi | [watch this if you're tired of being broke](https://www.youtube.com/watch?v=YFA8AS5Cu2w) | — | — | [transcript](YFA8AS5Cu2w/transcript.md) |
 | — | Ben Yanes | [Stop making this leg curl mistake!](https://www.youtube.com/shorts/YGFBqZ-VvrY) | — | — | [transcript](YGFBqZ-VvrY/transcript.md) · Short |
@@ -7131,6 +7184,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [DB vs CABLE Lateral Raise (NEW STUDY) \| Learn Biomechanics](https://www.youtube.com/watch?v=_bb-O8o7LZA) | — | — | [transcript](_bb-O8o7LZA/transcript.md) |
 | — | Sean Nalewanyj | [Instagram Q&A (Embarrassing Gym Moments, Steroid Use, Meaning Of Life)](https://www.youtube.com/watch?v=_blybw7VIYc) | — | — | [transcript](_blybw7VIYc/transcript.md) |
 | — | New Money | [Warren Buffett is GETTING OUT!](https://www.youtube.com/watch?v=_c34B-bInJY) | — | — | [transcript](_c34B-bInJY/transcript.md) · [visuals](_c34B-bInJY/visuals.md) |
+| — | Big A | [This Is So Obvious](https://www.youtube.com/watch?v=_c3O0XvZN5U) | — | — | [transcript](_c3O0XvZN5U/transcript.md) |
 | — | Aswath Damodaran | [The Difference Makers: Key Person(s) Value](https://www.youtube.com/watch?v=_cjUNmwvJD8) | — | — | [transcript](_cjUNmwvJD8/transcript.md) · [materials](_cjUNmwvJD8/materials/) |
 | — | Tom Nash | [WOW! Cathie Wood steps back? Really?](https://www.youtube.com/watch?v=_dmn1G82F8E) | — | — | [transcript](_dmn1G82F8E/transcript.md) · [visuals](_dmn1G82F8E/visuals.md) |
 | — | David Carbutt | [Alex Karp: Our Market is Growing! (UNSEEN FOOTAGE!)](https://www.youtube.com/watch?v=_dryWkW_iu4) | — | — | [transcript](_dryWkW_iu4/transcript.md) |
@@ -7164,6 +7218,7 @@ Each transcript link points to the full text under this folder.
 | — | Felix & Friends (Goat Academy) | [This Metal Is Set To Explode (Not Gold Or Silver)](https://www.youtube.com/watch?v=_opyvjj_BTQ) | — | — | [transcript](_opyvjj_BTQ/transcript.md) |
 | — | Invest with Henry | [WOW - Buying Call Options](https://www.youtube.com/shorts/_ot1ORasuMU) | — | — | [transcript](_ot1ORasuMU/transcript.md) · Short |
 | — | Aswath Damodaran | [The GE End Game: The Bataan Death March or Resurrection?](https://www.youtube.com/watch?v=_p1mxkW1Fls) | — | — | [transcript](_p1mxkW1Fls/transcript.md) · [materials](_p1mxkW1Fls/materials/) |
+| — | Big A | [He Actually Did It](https://www.youtube.com/watch?v=_pDZ5W5vga4) | — | — | [transcript](_pDZ5W5vga4/transcript.md) |
 | — | Invest with Henry | [NIO Stock Financial Model Analysis (Price Target)](https://www.youtube.com/watch?v=_pq_KHzEiIU) | — | — | [transcript](_pq_KHzEiIU/transcript.md) |
 | — | TheQuadfatherBW | [Tricep Cable Overhead Extension](https://www.youtube.com/shorts/_qJIvdV78TM) | — | — | [transcript](_qJIvdV78TM/transcript.md) · Short |
 | — | Greg Isenberg | [I built 5 AI Agents in 36 Minutes to save me 20+ hours of work a week](https://www.youtube.com/watch?v=_qr7ogLpTJs) | — | — | [transcript](_qr7ogLpTJs/transcript.md) |
@@ -7948,6 +8003,7 @@ Each transcript link points to the full text under this folder.
 | — | Ticker Symbol: YOU | [This AI Killed ChatGPT - You Just Don't Know It Yet](https://www.youtube.com/watch?v=dwrelX76C2s) | — | — | [transcript](dwrelX76C2s/transcript.md) · [visuals](dwrelX76C2s/visuals.md) |
 | — | Riley Brown | [I Gave OpenClaw Blender Skills (The Results are INSANE)](https://www.youtube.com/watch?v=dxlyCPGCvy8) | — | — | [transcript](dxlyCPGCvy8/transcript.md) |
 | — | New Money | [Warren Buffett is Selling the S&P 500?](https://www.youtube.com/watch?v=dxy5RJnm-FI) | — | — | [transcript](dxy5RJnm-FI/transcript.md) · [visuals](dxy5RJnm-FI/visuals.md) |
+| — | Big A | [The Spirit Airlines Drama is Crazy](https://www.youtube.com/watch?v=dy-1hNRl10M) | — | — | [transcript](dy-1hNRl10M/transcript.md) |
 | — | Sean Nalewanyj | [How Not To Bench Press](https://www.youtube.com/shorts/dy74dAoOV58) | — | — | [transcript](dy74dAoOV58/transcript.md) · Short |
 | — | Sean Nalewanyj | [The #1 Biggest Bodybuilding Supplement Ripoff](https://www.youtube.com/watch?v=dyFcpzb_P-s) | — | — | [transcript](dyFcpzb_P-s/transcript.md) |
 | — | JulienHimself | [I DESTROYED My Comfort Zone & This Happened...](https://www.youtube.com/watch?v=dyZOfenN2Os) | — | — | [transcript](dyZOfenN2Os/transcript.md) |
@@ -7998,6 +8054,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Fear of Failure, Overanalyzing, and Escaping into Fantasy \| Dr. K Interviews](https://www.youtube.com/watch?v=eACv26uAG5I) | — | — | [transcript](eACv26uAG5I/transcript.md) |
 | — | Invest with Henry | [3 Tesla Option Trades to Make 50% Easily](https://www.youtube.com/watch?v=eAOhbUJJ5LM) | — | — | [transcript](eAOhbUJJ5LM/transcript.md) |
 | — | Ben Yanes | [STOP Doing “Shoulders Back & Down!](https://www.youtube.com/shorts/eAmqysCoWaE) | — | — | [transcript](eAmqysCoWaE/transcript.md) · Short |
+| — | Big A | [This is a Global Crisis](https://www.youtube.com/watch?v=eBPLIMLMmzw) | — | — | [transcript](eBPLIMLMmzw/transcript.md) |
 | — | Sean Nalewanyj | [Athlean-X Proves The Haters Wrong With REAL Weights??](https://www.youtube.com/watch?v=eBgZ4XbsDfI) | — | — | [transcript](eBgZ4XbsDfI/transcript.md) |
 | — | David Carbutt | [Am I Buying Palantir Stock?](https://www.youtube.com/watch?v=eBqZSAwcQ8w) | — | — | [transcript](eBqZSAwcQ8w/transcript.md) |
 | — | New Money | [The Housing Crisis that's Collapsing an Economy](https://www.youtube.com/watch?v=eBz6936CqUk) | — | — | [transcript](eBz6936CqUk/transcript.md) · [visuals](eBz6936CqUk/visuals.md) |
@@ -8061,6 +8118,7 @@ Each transcript link points to the full text under this folder.
 | — | Invest with Henry | [Hyliion Stock Analysis! (BUY!?) SHLL Price Target $35! Merger Date!](https://www.youtube.com/watch?v=e_9dMlzjMrs) | — | — | [transcript](e_9dMlzjMrs/transcript.md) |
 | — | Tom Nash | [Extremely Important Video For All Tesla Investors.](https://www.youtube.com/watch?v=e_LWdpBlPCI) | — | — | [transcript](e_LWdpBlPCI/transcript.md) · [visuals](e_LWdpBlPCI/visuals.md) |
 | — | Riley Brown | [How I'm making money with AI Workflows and Agents (Full Tutorial)](https://www.youtube.com/watch?v=e_M_Wavx-EQ) | — | — | [transcript](e_M_Wavx-EQ/transcript.md) |
+| — | Big A | [Can We Trust Him?](https://www.youtube.com/watch?v=ea8UYXiJueg) | — | — | [transcript](ea8UYXiJueg/transcript.md) |
 | — | Greg Isenberg | [How To 4X Your Conversion Rates In 2024](https://www.youtube.com/watch?v=eaEgEQkp4Fc) | — | — | [transcript](eaEgEQkp4Fc/transcript.md) |
 | — | Ticker Symbol: YOU | [GET IN EARLY! Top 3 AI Stocks I'm Buying Before Nvidia GTC](https://www.youtube.com/watch?v=eaLHfo-GZ0o) | — | — | [transcript](eaLHfo-GZ0o/transcript.md) · [visuals](eaLHfo-GZ0o/visuals.md) |
 | — | Justin Sung | [How to use Anki like a PRO (by a Learning Expert)](https://www.youtube.com/watch?v=eauQac_23R0) | — | — | [transcript](eauQac_23R0/transcript.md) |
@@ -8179,6 +8237,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [What New Fat Research Actually Says](https://www.youtube.com/watch?v=fJWmCx3xLXg) | — | — | [transcript](fJWmCx3xLXg/transcript.md) |
 | — | New Money | [Warren Buffett: How to Survive an Oil Crisis](https://www.youtube.com/watch?v=fKMjNogl28I) | — | — | [transcript](fKMjNogl28I/transcript.md) · [visuals](fKMjNogl28I/visuals.md) |
 | — | HealthyGamerGG | [What TikTok Does to Your Brain](https://www.youtube.com/watch?v=fKWp7R3zXG0) | — | — | [transcript](fKWp7R3zXG0/transcript.md) |
+| — | Big A | [The British Elections Were A Wipeout](https://www.youtube.com/watch?v=fLMpy1-XUjM) | — | — | [transcript](fLMpy1-XUjM/transcript.md) |
 | — | Invest with Henry | [I Bought $50K Of This Stock \| Top 3 Stocks To Buy Now](https://www.youtube.com/watch?v=fLlGt31bVQA) | — | — | [transcript](fLlGt31bVQA/transcript.md) |
 | — | HealthyGamerGG | [I Investigated Peptides, Here's What I Learned](https://www.youtube.com/watch?v=fLnpI4pJaR0) | — | — | [transcript](fLnpI4pJaR0/transcript.md) |
 | — | Tom Nash | [I'm BACK! (Tesla Earnings, Michael Burry New Warning, Recession Update)](https://www.youtube.com/watch?v=fLtRCgrSNKA) | — | — | [transcript](fLtRCgrSNKA/transcript.md) · [visuals](fLtRCgrSNKA/visuals.md) |
@@ -8239,6 +8298,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Teaching our Discord Users Dharma](https://www.youtube.com/watch?v=fe6ZYTfWRik) | — | — | [transcript](fe6ZYTfWRik/transcript.md) |
 | — | HealthyGamerGG | [The Authentic Self Psychology \| Dr.K Explains](https://www.youtube.com/watch?v=ff1C2ku2J2U) | — | — | [transcript](ff1C2ku2J2U/transcript.md) |
 | — | Sean Nalewanyj | [This doesn't mean you had a good workout...](https://www.youtube.com/shorts/ff9xFQqOurU) | — | — | [transcript](ff9xFQqOurU/transcript.md) · Short |
+| — | Big A | [How Do People Fall For This](https://www.youtube.com/watch?v=ffAK-fx0Z4k) | — | — | [transcript](ffAK-fx0Z4k/transcript.md) |
 | — | HealthyGamerGG | [Coping, Attachment & Chaos - Talking with xQc @xQc](https://www.youtube.com/watch?v=ffFdqC73N8s) | — | — | [transcript](ffFdqC73N8s/transcript.md) |
 | — | Ben Yanes | [Do THIS for upper pecs!](https://www.youtube.com/shorts/ffJLGaIYMhY) | — | — | [transcript](ffJLGaIYMhY/transcript.md) · Short |
 | — | BWB - Business With Brian | [I Backtested 4 Billionaire Portfolios. The Winner Is Shocking](https://www.youtube.com/watch?v=fgyCd77YZow) | — | — | [transcript](fgyCd77YZow/transcript.md) · [visuals](fgyCd77YZow/visuals.md) |
@@ -8284,6 +8344,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Fairness Opinions: Time to fish or cut bait!](https://www.youtube.com/watch?v=fumkkYEu_tk) | — | — | [transcript](fumkkYEu_tk/transcript.md) |
 | — | Ben Yanes | [What's the BEST Biceps Exercise? The Anatomy of Lifting](https://www.youtube.com/watch?v=fv6paSVMXLM) | — | — | [transcript](fv6paSVMXLM/transcript.md) |
 | — | Invest with Henry | [3 BEST CHEAP GROWTH Stocks I Bought This Week! (UNDERVALUED)](https://www.youtube.com/watch?v=fvP66W55IOQ) | — | — | [transcript](fvP66W55IOQ/transcript.md) |
+| — | Big A | [This Makes No Mathematical Sense](https://www.youtube.com/watch?v=fvd2JyIGrTQ) | — | — | [transcript](fvd2JyIGrTQ/transcript.md) |
 | — | HealthyGamerGG | [Why I Work 7 Days A Week... (Productivity and Burnout)](https://www.youtube.com/watch?v=fvj7D2DT1JQ) | — | — | [transcript](fvj7D2DT1JQ/transcript.md) |
 | — | David Carbutt | [The Secret History of Palantir](https://www.youtube.com/watch?v=fwEqxtQWHbA) | — | — | [transcript](fwEqxtQWHbA/transcript.md) |
 | — | Ben Yanes | [Short legs = better squat?](https://www.youtube.com/shorts/fwlLmtq0AVg) | — | — | [transcript](fwlLmtq0AVg/transcript.md) · Short |
@@ -8460,6 +8521,7 @@ Each transcript link points to the full text under this folder.
 | — | Invest with Henry | [$4,500/mo Spread Trading (Small Account)](https://www.youtube.com/watch?v=h-1sVxdK880) | — | — | [transcript](h-1sVxdK880/transcript.md) |
 | — | Aswath Damodaran | [A Viral Market Update VIII: A Crisis test of Value vs Growth, Active vs Passive, Small vs Large!](https://www.youtube.com/watch?v=h-7G-QI6HKA) | — | — | [transcript](h-7G-QI6HKA/transcript.md) · [materials](h-7G-QI6HKA/materials/) |
 | — | JulienHimself | [How To NOT Be Boring: 5 Secrets That You IRRESISTIBLE](https://www.youtube.com/watch?v=h0RL_RvK81w) | — | — | [transcript](h0RL_RvK81w/transcript.md) |
+| — | Big A | [He's Playing All Sides](https://www.youtube.com/watch?v=h1MgBJnAv_Y) | — | — | [transcript](h1MgBJnAv_Y/transcript.md) |
 | — | Sean Nalewanyj | [Brown Rice Vs. White Rice?](https://www.youtube.com/watch?v=h1OWk6R97hw) | — | — | [transcript](h1OWk6R97hw/transcript.md) |
 | — | Aswath Damodaran | [Country Risk: The 2024 Update](https://www.youtube.com/watch?v=h1Q2Mg48y0I) | — | — | [transcript](h1Q2Mg48y0I/transcript.md) · [materials](h1Q2Mg48y0I/materials/) |
 | — | Ben Yanes | [Should you use cables or DBs to press?](https://www.youtube.com/shorts/h2m4PpDZRFI) | — | — | [transcript](h2m4PpDZRFI/transcript.md) · Short |
@@ -8528,6 +8590,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Alex Karp Leaves Audience Speechless on Palantir's Q3 Earnings Call](https://www.youtube.com/watch?v=hLg45qG1Lr0) | — | — | [transcript](hLg45qG1Lr0/transcript.md) |
 | — | Ticker Symbol: YOU | [💡 ARK Invest BIG IDEAS 2021 \| RIP Intel, Innovations in AR/Gaming, AI Rules the World (Ep 1: ARKW)](https://www.youtube.com/watch?v=hLnOoXopfow) | — | — | [transcript](hLnOoXopfow/transcript.md) · [visuals](hLnOoXopfow/visuals.md) |
 | — | Riley Brown | [I Cloned a $1.275 Billion App In 30 Minutes](https://www.youtube.com/watch?v=hLsP4gULKWs) | — | — | [transcript](hLsP4gULKWs/transcript.md) |
+| — | Big A | [What Just Happened](https://www.youtube.com/watch?v=hMArdJ1qJT0) | — | — | [transcript](hMArdJ1qJT0/transcript.md) |
 | — | David Carbutt | [Cathie Wood on GIGANTIC Day for ELON MUSK!](https://www.youtube.com/watch?v=hMEPD6_7KtU) | — | — | [transcript](hMEPD6_7KtU/transcript.md) |
 | — | Aswath Damodaran | [A Viral Market Update III: Price vs Value, Investing vs Trading!](https://www.youtube.com/watch?v=hMEvkP4Y3uM) | — | — | [transcript](hMEvkP4Y3uM/transcript.md) · [materials](hMEvkP4Y3uM/materials/) |
 | — | TheQuadfatherBW | [Standing Calf Raise](https://www.youtube.com/shorts/hMFDAnzYFbI) | — | — | [transcript](hMFDAnzYFbI/transcript.md) · Short |
@@ -8696,6 +8759,7 @@ Each transcript link points to the full text under this folder.
 | — | Vinh Giang | [A simple PHONE hack to practice communication skills](https://www.youtube.com/watch?v=iIP0G5GV-3Q) | — | — | [transcript](iIP0G5GV-3Q/transcript.md) |
 | — | Ben Yanes | [How are these back exercises different?](https://www.youtube.com/shorts/iJ5k99IJk6Y) | — | — | [transcript](iJ5k99IJk6Y/transcript.md) · Short |
 | — | Felix & Friends (Goat Academy) | [Iran Oil Crisis: What's About to Happen to Your Gold & Silver](https://www.youtube.com/watch?v=iJ63xafWM1s) | — | — | [transcript](iJ63xafWM1s/transcript.md) |
+| — | Big A | ["Keep Kicking The Can"](https://www.youtube.com/watch?v=iJYgf8mrHOA) | — | — | [transcript](iJYgf8mrHOA/transcript.md) |
 | — | David Carbutt | [NVIDIA CEO Stuns Legendary Investor](https://www.youtube.com/watch?v=iJcGk-XL0Zs) | — | — | [transcript](iJcGk-XL0Zs/transcript.md) |
 | — | HealthyGamerGG | [Mental Health Bootcamp: Anxiety \| Healthy Gamer Webinar #2](https://www.youtube.com/watch?v=iK-T74wxkks) | — | — | [transcript](iK-T74wxkks/transcript.md) |
 | — | New Money | [The US Literally Cannot Repay Its National Debt.](https://www.youtube.com/watch?v=iK5dpPzjaPA) | — | — | [transcript](iK5dpPzjaPA/transcript.md) · [visuals](iK5dpPzjaPA/visuals.md) |
@@ -8873,7 +8937,9 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Alex Karp: We Will Revolutionise Airlines](https://www.youtube.com/watch?v=jH5sY06JfcU) | — | — | [transcript](jH5sY06JfcU/transcript.md) |
 | — | Aswath Damodaran | [Quiz 1 Review](https://www.youtube.com/watch?v=jH8L7cW6Yns) | — | — | [transcript](jH8L7cW6Yns/transcript.md) · [materials](jH8L7cW6Yns/materials/) |
 | — | Tom Nash | [Workhorse Group (WKHS) Stock Analysis (USPS Contract Impact)](https://www.youtube.com/watch?v=jHIsTvkTL80) | — | — | [transcript](jHIsTvkTL80/transcript.md) · [visuals](jHIsTvkTL80/visuals.md) |
+| — | Big A | [Who Could Have Seen This Coming...](https://www.youtube.com/watch?v=jHOaPCi1S8w) | — | — | [transcript](jHOaPCi1S8w/transcript.md) |
 | — | Tom Nash | [Google: The BIG Winner of AI](https://www.youtube.com/watch?v=jH_Luon63Nw) | — | — | [transcript](jH_Luon63Nw/transcript.md) · [visuals](jH_Luon63Nw/visuals.md) |
+| — | Big A | [This Stock Market Is Imploding](https://www.youtube.com/watch?v=jHgLV38_rDc) | — | — | [transcript](jHgLV38_rDc/transcript.md) |
 | — | Greg Isenberg | [Why You Should Start a Business For Older Adults](https://www.youtube.com/watch?v=jHvPWXVsbYY) | — | — | [transcript](jHvPWXVsbYY/transcript.md) |
 | — | David Carbutt | [NVIDIA CEO’s ‘Elon’ Story Leaves ROGAN Speechless!](https://www.youtube.com/watch?v=jIVjmc52JkA) | — | — | [transcript](jIVjmc52JkA/transcript.md) |
 | — | Vinh Giang | [Subtle Art of Not Giving A F**k by Mark Manson \| The Vinh & Ali Show (EP#32)](https://www.youtube.com/watch?v=jIZA7piXCXU) | — | — | [transcript](jIZA7piXCXU/transcript.md) |
@@ -8962,6 +9028,7 @@ Each transcript link points to the full text under this folder.
 | — | Invest with Henry | [$700 Day Trade! (Small Account 4 Leg Option Trade)](https://www.youtube.com/watch?v=jmb8KnkcDhc) | — | — | [transcript](jmb8KnkcDhc/transcript.md) |
 | — | Invest with Henry | [Rolling Options Masterclass: How to Roll Every Single Options Trading Strategy](https://www.youtube.com/watch?v=jn0w_Ue65uA) | — | — | [transcript](jn0w_Ue65uA/transcript.md) |
 | — | David Carbutt | [Peter Thiel - Investing in Facebook, Palantir & Monopolies](https://www.youtube.com/watch?v=jnml05O6Th8) | — | — | [transcript](jnml05O6Th8/transcript.md) |
+| — | Big A | [Everything Is Everything Now](https://www.youtube.com/watch?v=jp7hM1vKRpY) | — | — | [transcript](jp7hM1vKRpY/transcript.md) |
 | — | Tom Nash | [Tesla just made their Checkmate move \| This will end Ford / GM](https://www.youtube.com/watch?v=jpFJQ6RP1VI) | — | — | [transcript](jpFJQ6RP1VI/transcript.md) · [visuals](jpFJQ6RP1VI/visuals.md) |
 | — | Starter Story | [I Built an App with Cursor, Made $30K, and Quit My Job.](https://www.youtube.com/watch?v=jpSY4MlWX50) | — | — | [transcript](jpSY4MlWX50/transcript.md) |
 | — | Sean Nalewanyj | [The TRUTH About Losing Lower Ab Fat (NO B.S)](https://www.youtube.com/watch?v=jphmpn5opE8) | — | — | [transcript](jphmpn5opE8/transcript.md) |
@@ -9137,6 +9204,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [Why Someone Hates You for No Reason (Displaced Hatred)](https://www.youtube.com/watch?v=kqriaA0MQlo) | — | — | [transcript](kqriaA0MQlo/transcript.md) |
 | — | Ben Yanes | [What's the point of drag curls?](https://www.youtube.com/shorts/krBXqGxY7II) | — | — | [transcript](krBXqGxY7II/transcript.md) · Short |
 | — | Leila Hormozi | [If You Want to Scale, STOP Doing This...](https://www.youtube.com/watch?v=krF-WJfRydc) | — | — | [transcript](krF-WJfRydc/transcript.md) |
+| — | Big A | [The SpaceX IPO Keeps Getting Worse](https://www.youtube.com/watch?v=krOEMBqwicM) | — | — | [transcript](krOEMBqwicM/transcript.md) |
 | — | JulienHimself | [Stop Being A FAKE "People Pleaser" 👉 Be REAL Instead!](https://www.youtube.com/watch?v=ks3Tn45hhOw) | — | — | [transcript](ks3Tn45hhOw/transcript.md) |
 | — | JulienHimself | [Should You Improve Or Accept Yourself? (How To Love Yourself & Improve Yourself At The Same Time)](https://www.youtube.com/watch?v=ksU02CuVAPo) | — | — | [transcript](ksU02CuVAPo/transcript.md) |
 | — | David Carbutt | [Rio Tinto CEO Reveals AI SECRETS!](https://www.youtube.com/watch?v=ksXh_cqgP-4) | — | — | [transcript](ksXh_cqgP-4/transcript.md) |
@@ -9152,6 +9220,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [Julien Blanc's Speech For Building A Passionate Life: How To Bring Fun & Laughter Into Your Life!](https://www.youtube.com/watch?v=kwMeuYFfyWk) | — | — | [transcript](kwMeuYFfyWk/transcript.md) |
 | — | David Carbutt | [Palantir Founder DESTROYS BBC on Musk, Trump & Fires](https://www.youtube.com/watch?v=kweBx0UnOwU) | — | — | [transcript](kweBx0UnOwU/transcript.md) |
 | — | Ticker Symbol: YOU | [I WAS WRONG! Palantir's Plan to Dominate AI is Working](https://www.youtube.com/watch?v=kxqAjzp9ix0) | — | — | [transcript](kxqAjzp9ix0/transcript.md) · [visuals](kxqAjzp9ix0/visuals.md) |
+| — | Big A | [These Meetings Said A Lot](https://www.youtube.com/watch?v=kxu80OymvJs) | — | — | [transcript](kxu80OymvJs/transcript.md) |
 | — | Invest with Henry | [If You Hold TESLA STOCK (TSLA) ... GET READY](https://www.youtube.com/watch?v=ky-UuX33Ooo) | — | — | [transcript](ky-UuX33Ooo/transcript.md) |
 | — | Aswath Damodaran | [Valuation Modeling: Excel as a tool](https://www.youtube.com/watch?v=kyKfJ_7-mdg) | — | — | [transcript](kyKfJ_7-mdg/transcript.md) · [materials](kyKfJ_7-mdg/materials/) |
 | — | Aswath Damodaran | [ROE, Returns to Shareholders, Good/Bad Companies and Efficient Markets: Back to Basics](https://www.youtube.com/watch?v=kyUettM26ME) | — | — | [transcript](kyUettM26ME/transcript.md) · [materials](kyUettM26ME/materials/) |
@@ -9225,6 +9294,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [The Biology Of Why Men Isolate](https://www.youtube.com/watch?v=lJKmwM2cNro) | — | — | [transcript](lJKmwM2cNro/transcript.md) |
 | — | Aswath Damodaran | [In Practice Webcast #13: Dividend Assessment](https://www.youtube.com/watch?v=lJU-CH7xCbg) | — | — | [transcript](lJU-CH7xCbg/transcript.md) · [materials](lJU-CH7xCbg/materials/) |
 | — | David Carbutt | [Dan Ives 'Nobody Can Compete w/PALANTIR'](https://www.youtube.com/watch?v=lJmYo7Vlqkk) | — | — | [transcript](lJmYo7Vlqkk/transcript.md) |
+| — | Big A | [The Safest Market Is Breaking. Everywhere.](https://www.youtube.com/watch?v=lK38Hb3Bp6I) | — | — | [transcript](lK38Hb3Bp6I/transcript.md) |
 | — | Aswath Damodaran | [Session 7: Equity Risk Premiums & First steps on Betas](https://www.youtube.com/watch?v=lL3cdChtx5U) | — | — | [transcript](lL3cdChtx5U/transcript.md) · [materials](lL3cdChtx5U/materials/) |
 | — | Tom Nash | [The END of Tesla's Reign?](https://www.youtube.com/watch?v=lLlTlmpcmmM) | — | — | [transcript](lLlTlmpcmmM/transcript.md) · [visuals](lLlTlmpcmmM/visuals.md) |
 | — | Aswath Damodaran | [Data Update 3 for 2022: The Inflation Effect on Investing](https://www.youtube.com/watch?v=lMEyjqXBU4U) | — | — | [transcript](lMEyjqXBU4U/transcript.md) · [materials](lMEyjqXBU4U/materials/) |
@@ -9288,6 +9358,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [The BEST Shoulder Health Exercise](https://www.youtube.com/watch?v=lkqGntUugb0) | — | — | [transcript](lkqGntUugb0/transcript.md) |
 | — | Sean Nalewanyj | [You don't need 4 chest exercises](https://www.youtube.com/shorts/llOK1eqhAQA) | — | — | [transcript](llOK1eqhAQA/transcript.md) · Short |
 | — | Tom Nash | [PLTR: Remaining Very Bullish After Stellar Q2 Earnings](https://www.youtube.com/watch?v=llh7eP2XcsE) | — | — | [transcript](llh7eP2XcsE/transcript.md) · [visuals](llh7eP2XcsE/visuals.md) |
+| — | Big A | [The 25th Amendment](https://www.youtube.com/watch?v=llhLu7bwgUU) | — | — | [transcript](llhLu7bwgUU/transcript.md) |
 | — | JulienHimself | [Want To Be Happy? Just "Let Go" (Julien Blanc Shares The Secret To Living A Life Worth Living)](https://www.youtube.com/watch?v=lmQ_ukE-zME) | — | — | [transcript](lmQ_ukE-zME/transcript.md) |
 | — | David Carbutt | [Palantir's Short Report Exposed!!](https://www.youtube.com/watch?v=lmfIiQwXc48) | — | — | [transcript](lmfIiQwXc48/transcript.md) |
 | — | JulienHimself | [REALITY CHECK: The Problem With “Follow Your Dreams” (I Wish Someone Told Me This Sooner)](https://www.youtube.com/watch?v=lmwr9qWGXaI) | — | — | [transcript](lmwr9qWGXaI/transcript.md) |
@@ -9403,6 +9474,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [Internet BREAKS w/Elon Musk & NVIDIA CEO's Predictions!](https://www.youtube.com/watch?v=mOAUsOmmjXI) | — | — | [transcript](mOAUsOmmjXI/transcript.md) |
 | — | Alex Hormozi | [Reopening the Right Way (ALEX HORMOZI)](https://www.youtube.com/watch?v=mOKl6dodMTg) | — | — | [transcript](mOKl6dodMTg/transcript.md) |
 | — | Sean Nalewanyj | [The "Rest Pause" Training Method](https://www.youtube.com/watch?v=mOjhvKO9gag) | — | — | [transcript](mOjhvKO9gag/transcript.md) |
+| — | Big A | [The Most Profitable Movie Ever](https://www.youtube.com/watch?v=mP8zHQo7kzU) | — | — | [transcript](mP8zHQo7kzU/transcript.md) |
 | — | JPG Coaching | [BICEP TRI SET FT. SILENT MIKE AND BART KWAN](https://www.youtube.com/shorts/mPB-Ue5TZog) | — | — | [transcript](mPB-Ue5TZog/transcript.md) · Short |
 | — | David Carbutt | [Stanley Druckenmiller on Palantir Stock](https://www.youtube.com/watch?v=mQ3KQBkIl7E) | — | — | [transcript](mQ3KQBkIl7E/transcript.md) |
 | — | HealthyGamerGG | [CAFFEINE - Everything You Need To Know](https://www.youtube.com/watch?v=mQAqh_MJWeI) | — | — | [transcript](mQAqh_MJWeI/transcript.md) |
@@ -9412,6 +9484,7 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [How to Get Rich for Service-Based Businesses (Thank Me Later)](https://www.youtube.com/watch?v=mRlSb0O5QNU) | — | — | [transcript](mRlSb0O5QNU/transcript.md) |
 | — | HealthyGamerGG | [How to Make Friends After Moving](https://www.youtube.com/watch?v=mRtMfF131Kk) | — | — | [transcript](mRtMfF131Kk/transcript.md) |
 | — | Ben Yanes | [Grow Your Chest \| Learn Biomechanics](https://www.youtube.com/watch?v=mSEiBd0tQag) | — | — | [transcript](mSEiBd0tQag/transcript.md) |
+| — | Big A | [He Apologized](https://www.youtube.com/watch?v=mSIgTMRcYL4) | — | — | [transcript](mSIgTMRcYL4/transcript.md) |
 | — | Aswath Damodaran | [A 2022 Zomato Update: Price, Value and the Gap!](https://www.youtube.com/watch?v=mSaco3SXJNM) | — | — | [transcript](mSaco3SXJNM/transcript.md) · [materials](mSaco3SXJNM/materials/) |
 | — | Aswath Damodaran | [Facebook: Friendless, but still formidable!](https://www.youtube.com/watch?v=mSmgox_zDIg) | — | — | [transcript](mSmgox_zDIg/transcript.md) · [materials](mSmgox_zDIg/materials/) |
 | — | Felix & Friends (Goat Academy) | [US Debt Downgrade \| Will Markets Implode?](https://www.youtube.com/watch?v=mTORDICcIgw) | — | — | [transcript](mTORDICcIgw/transcript.md) |
@@ -9494,6 +9567,7 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [If I Wanted to Create a Business That Runs Itself, Here's What I'd Do](https://www.youtube.com/watch?v=mr4Pw66_490) | — | — | [transcript](mr4Pw66_490/transcript.md) |
 | — | Starter Story | [I Make $50K/Month From This One Widget](https://www.youtube.com/watch?v=mr4YV-9MY0Q) | — | — | [transcript](mr4YV-9MY0Q/transcript.md) |
 | — | Invest with Henry | [NEW Options Strategy for HUGE Passive Income](https://www.youtube.com/watch?v=mrRsAasTUx4) | — | — | [transcript](mrRsAasTUx4/transcript.md) |
+| — | Big A | [It's Been 100 Days](https://www.youtube.com/watch?v=mrXrCUo4T5A) | — | — | [transcript](mrXrCUo4T5A/transcript.md) |
 | — | David Carbutt | [NEW Palantir Contract!](https://www.youtube.com/watch?v=mriJC_ApCbA) | — | — | [transcript](mriJC_ApCbA/transcript.md) |
 | — | Sean Nalewanyj | [5 Bodybuilding Supplement Scams & Myths To Avoid](https://www.youtube.com/watch?v=msPQtkyFJzw) | — | — | [transcript](msPQtkyFJzw/transcript.md) |
 | — | BWB - Business With Brian | [Stocks I'm Buying BEFORE the Fed Cuts December Rates](https://www.youtube.com/watch?v=msgRI_oxbP0) | — | — | [transcript](msgRI_oxbP0/transcript.md) · [visuals](msgRI_oxbP0/visuals.md) |
@@ -9755,6 +9829,7 @@ Each transcript link points to the full text under this folder.
 | — | New Money | [Inside Bill Gates' $17B Defensive Stock Portfolio. (Mid 2020)](https://www.youtube.com/watch?v=oQpLTRgpLiU) | — | — | [transcript](oQpLTRgpLiU/transcript.md) · [visuals](oQpLTRgpLiU/visuals.md) |
 | — | Tom Nash | [Powell Crashed The Stock Market, Again; Meet Kevin Leaving YouTube, Again \| The Tom Nash Show](https://www.youtube.com/watch?v=oQqamakDCEU) | — | — | [transcript](oQqamakDCEU/transcript.md) · [visuals](oQqamakDCEU/visuals.md) |
 | — | JulienHimself | [I Spent 17 Years Improving My CHARISMA... (My Most Important Lesson)](https://www.youtube.com/watch?v=oQwE4Uhfo44) | — | — | [transcript](oQwE4Uhfo44/transcript.md) |
+| — | Big A | [Moscow Is Burning](https://www.youtube.com/watch?v=oRJmd8Ck-Gw) | — | — | [transcript](oRJmd8Ck-Gw/transcript.md) |
 | — | Alex Hormozi | [13 Years of No BS Business Advice in 79 Mins](https://www.youtube.com/watch?v=oRMG_HpOAN4) | — | — | [transcript](oRMG_HpOAN4/transcript.md) |
 | — | Ben Yanes | [Try this trap exercise:](https://www.youtube.com/shorts/oRSwO8fYQSA) | — | — | [transcript](oRSwO8fYQSA/transcript.md) · Short |
 | — | Alex Hormozi | [If I Wanted to Monetize An Audience in 2026, This is What I Would Do](https://www.youtube.com/watch?v=oRqnTOT9ZG8) | — | — | [transcript](oRqnTOT9ZG8/transcript.md) |
@@ -9819,6 +9894,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [PLTR Stock: Palantir JUST Did Something Amazing (Game Over)](https://www.youtube.com/watch?v=oicq01vGFNM) | — | — | [transcript](oicq01vGFNM/transcript.md) · [visuals](oicq01vGFNM/visuals.md) |
 | — | Ben Yanes | [AVOID side bends???](https://www.youtube.com/shorts/oidEb6XGgWk) | — | — | [transcript](oidEb6XGgWk/transcript.md) · Short |
 | — | Sean Nalewanyj | [Is Jeff Nippard Right About Calf Training?](https://www.youtube.com/shorts/oidlDgPdBGY) | — | — | [transcript](oidlDgPdBGY/transcript.md) · Short |
+| — | Big A | [The Numbers Don't Add up...](https://www.youtube.com/watch?v=ojFjQiJa2e8) | — | — | [transcript](ojFjQiJa2e8/transcript.md) |
 | — | Alex Hormozi | [How I Scaled My Sales Team [Compensation, Recruiting & Training]](https://www.youtube.com/watch?v=okA9Yt2KZuk) | — | — | [transcript](okA9Yt2KZuk/transcript.md) |
 | — | Greg Isenberg | [The Step-by-Step Plan to Go From $0 to $10M+](https://www.youtube.com/watch?v=okEHpwG-vmU) | — | — | [transcript](okEHpwG-vmU/transcript.md) |
 | — | Justin Sung | [How to Remember Everything You Read](https://www.youtube.com/watch?v=okHkUIW46ks) | — | — | [transcript](okHkUIW46ks/transcript.md) |
@@ -9929,6 +10005,7 @@ Each transcript link points to the full text under this folder.
 | — | Aswath Damodaran | [Session 32: Terminal Value](https://www.youtube.com/watch?v=pN5dOi5OmCI) | — | — | [transcript](pN5dOi5OmCI/transcript.md) |
 | — | Greg Isenberg | [5 $1M+ AI startup ideas from an indie hacker legend](https://www.youtube.com/watch?v=pNZWXnt2Qgk) | — | — | [transcript](pNZWXnt2Qgk/transcript.md) |
 | — | Ben Yanes | [I Wish I Knew This Before Using Cables](https://www.youtube.com/watch?v=pNdrOAO9zrU) | — | — | [transcript](pNdrOAO9zrU/transcript.md) |
+| — | Big A | [ELECTION NIGHT WAS UNREAL](https://www.youtube.com/watch?v=pNxvhXiH4PM) | — | — | [transcript](pNxvhXiH4PM/transcript.md) |
 | — | JulienHimself | [Life Has A Cheat Code (Almost Nobody Uses It)](https://www.youtube.com/watch?v=pOAPob3C7s4) | — | — | [transcript](pOAPob3C7s4/transcript.md) |
 | — | Ticker Symbol: YOU | [Nvidia Just Killed AMD - These Companies are Next](https://www.youtube.com/watch?v=pOFFhWJNe7o) | — | — | [transcript](pOFFhWJNe7o/transcript.md) · [visuals](pOFFhWJNe7o/visuals.md) |
 | — | Vinh Giang | [How I Broke Out of My Shell 😬](https://www.youtube.com/watch?v=pOSKNpes_5Q) | — | — | [transcript](pOSKNpes_5Q/transcript.md) |
@@ -9985,6 +10062,7 @@ Each transcript link points to the full text under this folder.
 | — | Ben Yanes | [How to train abs](https://www.youtube.com/shorts/pinFFzatxT8) | — | — | [transcript](pinFFzatxT8/transcript.md) · Short |
 | — | HealthyGamerGG | [How to Deal with Unwanted Thoughts](https://www.youtube.com/watch?v=pj8AEjNE6VY) | — | — | [transcript](pj8AEjNE6VY/transcript.md) |
 | — | Invest with Henry | [URGENT: Tesla Stock (TSLA) Shareholders Need to Do THIS ASAP](https://www.youtube.com/watch?v=pjUTGjhsajI) | — | — | [transcript](pjUTGjhsajI/transcript.md) |
+| — | Big A | [This Has Got To Be Ragebait](https://www.youtube.com/watch?v=pk5oslsSBTY) | — | — | [transcript](pk5oslsSBTY/transcript.md) |
 | — | Ben Yanes | [How I deal with 'haters' online](https://www.youtube.com/shorts/pkFV23hAbcQ) | — | — | [transcript](pkFV23hAbcQ/transcript.md) · Short |
 | — | HealthyGamerGG | [Psychiatrist Reacts To Career And Burnout TikTok](https://www.youtube.com/watch?v=pkKt_sU2hsM) | — | — | [transcript](pkKt_sU2hsM/transcript.md) |
 | — | Ben Yanes | [The Problem With Cable Curls](https://www.youtube.com/shorts/pkPOL5PHHSU) | — | — | [transcript](pkPOL5PHHSU/transcript.md) · Short |
@@ -10167,6 +10245,7 @@ Each transcript link points to the full text under this folder.
 | — | David Carbutt | [This Is The Moment Elon Warned About](https://www.youtube.com/watch?v=qi3Drn8yfHU) | — | — | [transcript](qi3Drn8yfHU/transcript.md) |
 | — | David Carbutt | [Elon Musk Just Changed Everything for Palantir](https://www.youtube.com/watch?v=qjXkAQufAgI) | — | — | [transcript](qjXkAQufAgI/transcript.md) |
 | — | HealthyGamerGG | [Splitting up](https://www.youtube.com/watch?v=qkaPV_VLyrA) | — | — | [transcript](qkaPV_VLyrA/transcript.md) |
+| — | Big A | [NVIDIA Spy Scandal Goes Deeper Than You Thought](https://www.youtube.com/watch?v=ql3qBe7rsVo) | — | — | [transcript](ql3qBe7rsVo/transcript.md) |
 | — | HealthyGamerGG | [Why You're The Least Valuable Friend](https://www.youtube.com/watch?v=ql5sWIEAcFw) | — | — | [transcript](ql5sWIEAcFw/transcript.md) |
 | — | Riley Brown | [How to Grow an Audience if You Have 0 Followers](https://www.youtube.com/watch?v=ql7stLKXzds) | — | — | [transcript](ql7stLKXzds/transcript.md) |
 | — | David Carbutt | [Alex Karp - Palantir's $4.5B Revenue Target](https://www.youtube.com/watch?v=ql92ekG_cLQ) | — | — | [transcript](ql92ekG_cLQ/transcript.md) |
@@ -10198,6 +10277,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [What Enlightenment Does to Your Brain](https://www.youtube.com/watch?v=qwQrwPhK06I) | — | — | [transcript](qwQrwPhK06I/transcript.md) |
 | — | Sean Nalewanyj | [No time to workout? Bullsh*t.](https://www.youtube.com/shorts/qwsm2L7WyXI) | — | — | [transcript](qwsm2L7WyXI/transcript.md) · Short |
 | — | Alex Hormozi | [Watch these 55 minutes if you want to be a millionaire in 2022..](https://www.youtube.com/watch?v=qxQIcDrre1E) | — | — | [transcript](qxQIcDrre1E/transcript.md) |
+| — | Big A | [He Didn't Get It (Again)](https://www.youtube.com/watch?v=qy9U04sEBpI) | — | — | [transcript](qy9U04sEBpI/transcript.md) |
 | — | David Carbutt | [Palantir is Disrupting USA Forever](https://www.youtube.com/watch?v=qyo8qkhmceg) | — | — | [transcript](qyo8qkhmceg/transcript.md) |
 | — | HealthyGamerGG | [You Can Beat Stress In Today's World - Here's How](https://www.youtube.com/watch?v=qyramLcTM30) | — | — | [transcript](qyramLcTM30/transcript.md) |
 | — | Aswath Damodaran | [ESG's Russia Test: Trial by Fire or Crash and Burn?](https://www.youtube.com/watch?v=r-0ADQoOun4) | — | — | [transcript](r-0ADQoOun4/transcript.md) · [materials](r-0ADQoOun4/materials/) |
@@ -10441,6 +10521,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [3 Proven Ways To Make $1,000,000 (Easier Than You Think)](https://www.youtube.com/watch?v=sEfUuSMq36M) | — | — | [transcript](sEfUuSMq36M/transcript.md) · [visuals](sEfUuSMq36M/visuals.md) |
 | — | Ben Yanes | [STOP doing this during hip thrusts!](https://www.youtube.com/shorts/sFaPACqfOO0) | — | — | [transcript](sFaPACqfOO0/transcript.md) · Short |
 | — | Alex Hormozi | [Why I don't go home for the holidays](https://www.youtube.com/watch?v=sGHbp0Vr1dQ) | — | — | [transcript](sGHbp0Vr1dQ/transcript.md) |
+| — | Big A | [The Google Keynote Was Absurd](https://www.youtube.com/watch?v=sGLl3lmWQ8c) | — | — | [transcript](sGLl3lmWQ8c/transcript.md) |
 | — | Ben Yanes | [Exercise Tutorial: Cable Lateral Raise](https://www.youtube.com/watch?v=sGWL4zGA9nI) | — | — | [transcript](sGWL4zGA9nI/transcript.md) |
 | — | Alex Hormozi | [How to Speak So Well People Give You Money](https://www.youtube.com/watch?v=sGakuNs9mT4) | — | — | [transcript](sGakuNs9mT4/transcript.md) |
 | — | Invest with Henry | [Day in the Life of a Retired Wallstreet Trader in Dubai 2026](https://www.youtube.com/watch?v=sGsYF80ttGg) | — | — | [transcript](sGsYF80ttGg/transcript.md) |
@@ -10563,6 +10644,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [URGENT WARNING TO ALL STOCK MARKET INVESTORS](https://www.youtube.com/watch?v=sylaAHr7ksg) | — | — | [transcript](sylaAHr7ksg/transcript.md) · [visuals](sylaAHr7ksg/visuals.md) |
 | — | Ben Yanes | [Why are muscles like Chinese finger traps?](https://www.youtube.com/shorts/szK5_Zfp-Mk) | — | — | [transcript](szK5_Zfp-Mk/transcript.md) · Short |
 | — | Sean Nalewanyj | [If you eat 100 grams of protein in one meal...](https://www.youtube.com/shorts/szilRSZlwIg) | — | — | [transcript](szilRSZlwIg/transcript.md) · Short |
+| — | Big A | [I'm Genuinely Angry About This](https://www.youtube.com/watch?v=szpZcBAoOKU) | — | — | [transcript](szpZcBAoOKU/transcript.md) |
 | — | Invest with Henry | [If You Missed Palantir... These 5 AI Stocks are Next](https://www.youtube.com/watch?v=t-7ILKqI8Kw) | — | — | [transcript](t-7ILKqI8Kw/transcript.md) |
 | — | Aswath Damodaran | [January 2019 Data Update 3: Playing the Numbers Game](https://www.youtube.com/watch?v=t-7OTAGc3g4) | — | — | [transcript](t-7OTAGc3g4/transcript.md) · [materials](t-7OTAGc3g4/materials/) |
 | — | David Carbutt | [Elon GOES ALL IN on OPTIMUS](https://www.youtube.com/watch?v=t-NR6n6MG7Q) | — | — | [transcript](t-NR6n6MG7Q/transcript.md) |
@@ -10644,6 +10726,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [NEW! Dr. K's Guide to Mental Health: ADHD Expansion Module](https://www.youtube.com/watch?v=tQ7hjxKLDas) | — | — | [transcript](tQ7hjxKLDas/transcript.md) |
 | — | Leila Hormozi | [Big Business Branding Advice](https://www.youtube.com/watch?v=tQYZgJQr1qU) | — | — | [transcript](tQYZgJQr1qU/transcript.md) |
 | — | Riley Brown | [Deepseek Explained](https://www.youtube.com/watch?v=tR2azlV7RlQ) | — | — | [transcript](tR2azlV7RlQ/transcript.md) |
+| — | Big A | [The Last Great Businessman](https://www.youtube.com/watch?v=tRKqdrIsnVY) | — | — | [transcript](tRKqdrIsnVY/transcript.md) |
 | — | HealthyGamerGG | [3 Motivation Styles determined by Personality](https://www.youtube.com/watch?v=tRWX21lW_bU) | — | — | [transcript](tRWX21lW_bU/transcript.md) |
 | — | Chris Raroque | [My approach to experimental features (and why they don't make it into the product)](https://www.youtube.com/watch?v=tShK1pruNJ8) | — | — | [transcript](tShK1pruNJ8/transcript.md) |
 | — | Ticker Symbol: YOU | [Top 4 AI Stocks to Buy Now (ChatGPT Is Killing Google Stock)](https://www.youtube.com/watch?v=tSsI3eqxbUA) | — | — | [transcript](tSsI3eqxbUA/transcript.md) · [visuals](tSsI3eqxbUA/visuals.md) |
@@ -10891,6 +10974,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [“The Happiness Manifesto 2.0” By Julien Blanc (How To Let Go & How To Be Happy All The Time)](https://www.youtube.com/watch?v=uk1Z2rmEMaY) | — | — | [transcript](uk1Z2rmEMaY/transcript.md) |
 | — | JulienHimself | ["How To Be Happy All The Time" - Julien Blanc Teaches You How To End Suffering FOR GOOD!](https://www.youtube.com/watch?v=uktG69d70NM) | — | — | [transcript](uktG69d70NM/transcript.md) |
 | — | Sean Nalewanyj | [Why I Don't Show My Workouts On YouTube](https://www.youtube.com/watch?v=ulz8mYXYpqM) | — | — | [transcript](ulz8mYXYpqM/transcript.md) |
+| — | Big A | [He's Not Leaving](https://www.youtube.com/watch?v=um5GSJbjOuQ) | — | — | [transcript](um5GSJbjOuQ/transcript.md) |
 | — | David Carbutt | [If You're an Nvidia Shareholder… Get Ready](https://www.youtube.com/watch?v=un-zPxCpLDk) | — | — | [transcript](un-zPxCpLDk/transcript.md) |
 | — | Invest with Henry | [Sell Puts On Nvidia (NVDA) Stock at this Strike Price](https://www.youtube.com/watch?v=un4xbKgdkEY) | — | — | [transcript](un4xbKgdkEY/transcript.md) |
 | — | Aswath Damodaran | [Session 5: Accounting Inconsistencies](https://www.youtube.com/watch?v=un6-H_wOizM) | — | — | [transcript](un6-H_wOizM/transcript.md) · [materials](un6-H_wOizM/materials/) |
@@ -11215,6 +11299,7 @@ Each transcript link points to the full text under this folder.
 | — | JulienHimself | [Stop Caring What Other People Think Of You! (Overcoming Approval Addiction)](https://www.youtube.com/watch?v=wW8yzTUFcts) | — | — | [transcript](wW8yzTUFcts/transcript.md) |
 | — | JulienHimself | [Julien Blanc & Ryan Holiday Discuss "Ego Is The Enemy"](https://www.youtube.com/watch?v=wWBTCNyp5GQ) | — | — | [transcript](wWBTCNyp5GQ/transcript.md) |
 | — | Ben Yanes | [STOP Doing This Curl (try this instead)](https://www.youtube.com/shorts/wWQkVEFYeI0) | — | — | [transcript](wWQkVEFYeI0/transcript.md) · Short (music; content on screen) |
+| — | Big A | [Every Car CEO Is Freaking Out](https://www.youtube.com/watch?v=wWouD_CCmqI) | — | — | [transcript](wWouD_CCmqI/transcript.md) |
 | — | Ticker Symbol: YOU | [IT'S OVER. I Can't Stay Quiet on Tesla Stock (TSLA) Any Longer](https://www.youtube.com/watch?v=wWpApU_SLeY) | — | — | [transcript](wWpApU_SLeY/transcript.md) · [visuals](wWpApU_SLeY/visuals.md) |
 | — | Felix & Friends (Goat Academy) | [This is ALWAYS What Happens Right Before Everything COLLAPSES](https://www.youtube.com/watch?v=wXBQMvUswSM) | — | — | [transcript](wXBQMvUswSM/transcript.md) |
 | — | David Carbutt | [Palantir: Chinese & Russian Attacks](https://www.youtube.com/watch?v=wXCHYYD_uvI) | — | — | [transcript](wXCHYYD_uvI/transcript.md) |
@@ -11257,6 +11342,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Aswath Damodoran Leaves Entire CNBC Panel SPEECHLESS](https://www.youtube.com/watch?v=wjLp6gApn7g) | — | — | [transcript](wjLp6gApn7g/transcript.md) · [visuals](wjLp6gApn7g/visuals.md) |
 | — | Aswath Damodaran | [Mean Reversion: Statistical Fact or Dangerous Delusion?](https://www.youtube.com/watch?v=wjVA6XqkWuI) | — | — | [transcript](wjVA6XqkWuI/transcript.md) · [materials](wjVA6XqkWuI/materials/) |
 | — | Greg Isenberg | [Master the Art of AI-first Products with Dave Rogenmoser's Winning Formula](https://www.youtube.com/watch?v=wjVkiHU6osI) | — | — | [transcript](wjVkiHU6osI/transcript.md) |
+| — | Big A | [He's Out Of Ideas](https://www.youtube.com/watch?v=wjr26PGSz2M) | — | — | [transcript](wjr26PGSz2M/transcript.md) |
 | — | Aswath Damodaran | [Session 17: The Debt/Equity Trade off](https://www.youtube.com/watch?v=wk6yec9pGAs) | — | — | [transcript](wk6yec9pGAs/transcript.md) · [materials](wk6yec9pGAs/materials/) |
 | — | Ticker Symbol: YOU | [🤩 PERFECT STOCK? Cathie Wood & Warren Buffett BOTH Hold This Stock!](https://www.youtube.com/watch?v=wk8xQw4UFr8) | — | — | [transcript](wk8xQw4UFr8/transcript.md) · [visuals](wk8xQw4UFr8/visuals.md) |
 | — | Ben Yanes | [Which row should you do?](https://www.youtube.com/shorts/wkGkNR4ziMU) | — | — | [transcript](wkGkNR4ziMU/transcript.md) · Short |
@@ -11264,6 +11350,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [I Didn't Do Enough in College, How Do I Catch Up? \| Dr.K Interviews](https://www.youtube.com/watch?v=wllgjhJZLRo) | — | — | [transcript](wllgjhJZLRo/transcript.md) |
 | — | Sean Nalewanyj | [Do Essential Amino Acid Supplements Build Muscle? (EAA Review)](https://www.youtube.com/watch?v=wmVQYJZ7UqY) | — | — | [transcript](wmVQYJZ7UqY/transcript.md) |
 | — | Ben Yanes | [Grow Your Brachialis \| Learn Biomechanics](https://www.youtube.com/watch?v=wmt-mh2SwlY) | — | — | [transcript](wmt-mh2SwlY/transcript.md) |
+| — | Big A | [The Xbox Comeback Is A Mirage](https://www.youtube.com/watch?v=wmux_XCAo44) | — | — | [transcript](wmux_XCAo44/transcript.md) |
 | — | Ticker Symbol: YOU | [I'm Buying AMD Over Nvidia Stock in 2024 (Here's Why)](https://www.youtube.com/watch?v=wnCQ4ICBIfc) | — | — | [transcript](wnCQ4ICBIfc/transcript.md) · [visuals](wnCQ4ICBIfc/visuals.md) |
 | — | Ticker Symbol: YOU | [E10: TESLA IN TROUBLE? Top 5 AI Stocks to Buy After Earnings](https://www.youtube.com/watch?v=wo-hXjzalIo) | — | — | [transcript](wo-hXjzalIo/transcript.md) · [visuals](wo-hXjzalIo/visuals.md) |
 | — | David Carbutt | [Alex Karp: Fighting With Peter Thiel for 30 Years!](https://www.youtube.com/watch?v=wo_7tN7Vc70) | — | — | [transcript](wo_7tN7Vc70/transcript.md) |
@@ -11304,6 +11391,7 @@ Each transcript link points to the full text under this folder.
 | — | HealthyGamerGG | [How Cops Use Psychology To Make You Talk](https://www.youtube.com/watch?v=x-9Nr7GigbE) | — | — | [transcript](x-9Nr7GigbE/transcript.md) |
 | — | Leila Hormozi | [Why You Should Stop Saying “Sorry”](https://www.youtube.com/watch?v=x-VvtSQt6t4) | — | — | [transcript](x-VvtSQt6t4/transcript.md) |
 | — | Chris Raroque | [My App Hit $1000/mo (But We Have A Problem)](https://www.youtube.com/watch?v=x-XIo_RyMek) | — | — | [transcript](x-XIo_RyMek/transcript.md) |
+| — | Big A | [Insanely Smug Fake Cowboy](https://www.youtube.com/watch?v=x0HgbGBrd90) | — | — | [transcript](x0HgbGBrd90/transcript.md) |
 | — | Aswath Damodaran | [In Practice Webcast #8: Analyzing a typical project](https://www.youtube.com/watch?v=x0VJaqv9YW4) | — | — | [transcript](x0VJaqv9YW4/transcript.md) · [materials](x0VJaqv9YW4/materials/) |
 | — | Alex Hormozi | [I lived on $0 income for 3 years growing my business...](https://www.youtube.com/watch?v=x1CtbsEqxW0) | — | — | [transcript](x1CtbsEqxW0/transcript.md) |
 | — | HealthyGamerGG | [Why We Don't Pick Your Subreddit Posts](https://www.youtube.com/watch?v=x1NVTCvErww) | — | — | [transcript](x1NVTCvErww/transcript.md) |
@@ -11498,6 +11586,7 @@ Each transcript link points to the full text under this folder.
 | — | Tom Nash | [Palantir Stock at $7: Buy? Hold? or Sell?](https://www.youtube.com/watch?v=y05r0He841o) | — | — | [transcript](y05r0He841o/transcript.md) · [visuals](y05r0He841o/visuals.md) |
 | — | Vinh Giang | [Atomic Habits by James Clear \| The Vinh & Ali Show (EP#10)](https://www.youtube.com/watch?v=y0G6o92uSZ0) | — | — | [transcript](y0G6o92uSZ0/transcript.md) |
 | — | Vinh Giang | [How to Express Yourself Better](https://www.youtube.com/watch?v=y0ST6nc6F5c) | — | — | [transcript](y0ST6nc6F5c/transcript.md) |
+| — | Big A | [Hollywood Is Panicking](https://www.youtube.com/watch?v=y0_-YzGvPfI) | — | — | [transcript](y0_-YzGvPfI/transcript.md) |
 | — | HealthyGamerGG | [China BANS video games - is Gaming a PROBLEM? Dr K talks](https://www.youtube.com/watch?v=y0wziXfR-Gk) | — | — | [transcript](y0wziXfR-Gk/transcript.md) |
 | — | Ben Yanes | [Modern Meathead Experience #26 - The Problem with Long Muscle Length Training](https://www.youtube.com/watch?v=y1aWU2rVHbs) | — | — | [transcript](y1aWU2rVHbs/transcript.md) |
 | — | BWB - Business With Brian | [𝐖𝐡𝐚𝐭 𝐂𝐚𝐮𝐬𝐞𝐬 𝐈𝐧𝐟𝐥𝐚𝐭𝐢𝐨𝐧 \| Explained with Humor](https://www.youtube.com/watch?v=y1aiy1y4eVA) | — | — | [transcript](y1aiy1y4eVA/transcript.md) · [visuals](y1aiy1y4eVA/visuals.md) |
@@ -11677,6 +11766,7 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [I Challenged My Team To Replace Themselves with AI](https://www.youtube.com/watch?v=z7X95bn2T6A) | — | — | [transcript](z7X95bn2T6A/transcript.md) |
 | — | JulienHimself | [How ANYONE Can Have A Magnetic Personality - LIVE DEMONSTRATION](https://www.youtube.com/watch?v=z8ISawCSS9s) | — | — | [transcript](z8ISawCSS9s/transcript.md) |
 | — | David Carbutt | [Chamath and Dan Ives Drop a Massive Warning](https://www.youtube.com/watch?v=z8a4RCvBH3U) | — | — | [transcript](z8a4RCvBH3U/transcript.md) |
+| — | Big A | [Insane Last Minute Betrayal](https://www.youtube.com/watch?v=z8h4S3mC850) | — | — | [transcript](z8h4S3mC850/transcript.md) |
 | — | Tom Nash | ["How Tesla Fumbled" \| Fair or Total Hit Piece?](https://www.youtube.com/watch?v=z8pDNlROZDw) | — | — | [transcript](z8pDNlROZDw/transcript.md) · [visuals](z8pDNlROZDw/visuals.md) |
 | — | HealthyGamerGG | [The Need for a Competing Interest \| Episode 008 Video Game Addiction](https://www.youtube.com/watch?v=z9AG7LsuVyU) | — | — | [transcript](z9AG7LsuVyU/transcript.md) |
 | — | Aswath Damodaran | [Data 2017 Update 10: The Pricing Game](https://www.youtube.com/watch?v=zAshTzvWJTI) | — | — | [transcript](zAshTzvWJTI/transcript.md) · [materials](zAshTzvWJTI/materials/) |
@@ -11819,3 +11909,13 @@ Each transcript link points to the full text under this folder.
 | — | Alex Hormozi | [Give Me 42 Minutes, I'll Show You How To Sell Like The Top 1%](https://www.youtube.com/watch?v=zzleYxkf39k) | — | — | [transcript](zzleYxkf39k/transcript.md) |
 | — | New Money | [Should Warren Buffett Buy Tesla Stock?](https://www.youtube.com/watch?v=zzmZWrSWU7Q) | — | — | [transcript](zzmZWrSWU7Q/transcript.md) · [visuals](zzmZWrSWU7Q/visuals.md) |
 | — | Vinh Giang | [They Spelled My Name Wrong...](https://www.youtube.com/watch?v=zzoPFGdF4BA) | — | — | [transcript](zzoPFGdF4BA/transcript.md) |
+| — | Big A | [He Can't Back Out](https://www.youtube.com/watch?v=vKojetxjbKE) | — | — | [transcript](vKojetxjbKE/transcript.md) |
+| — | Big A | [The Cartel's New Money Maker](https://www.youtube.com/watch?v=D-TIpMKOess) | — | — | [transcript](D-TIpMKOess/transcript.md) |
+| — | Big A | [This Is Insanely Stupid](https://www.youtube.com/watch?v=ibioTPBpW94) | — | — | [transcript](ibioTPBpW94/transcript.md) |
+| — | Big A | [The MAGA Coalition Is Imploding](https://www.youtube.com/watch?v=aVn6-FKaE08) | — | — | [transcript](aVn6-FKaE08/transcript.md) |
+| — | Big A | [The Resume Is Completely Dead](https://www.youtube.com/watch?v=7GSyScKBOfw) | — | — | [transcript](7GSyScKBOfw/transcript.md) |
+| — | Big A | [Everyone's Trying To Get Their Money Out](https://www.youtube.com/watch?v=l-7HXhRTzCw) | — | — | [transcript](l-7HXhRTzCw/transcript.md) |
+| — | Big A | [His Billion Dollar Gamble..](https://www.youtube.com/watch?v=Z4wbzYfEkr4) | — | — | [transcript](Z4wbzYfEkr4/transcript.md) |
+| — | Big A | [This Is Starting To Spiral](https://www.youtube.com/watch?v=Bc8jQ88ZBec) | — | — | [transcript](Bc8jQ88ZBec/transcript.md) |
+| — | Big A | [This Never Never Never Happens](https://www.youtube.com/watch?v=Z5p_KfsJp4o) | — | — | [transcript](Z5p_KfsJp4o/transcript.md) |
+| — | Big A | [Why Is Everyone Taking These](https://www.youtube.com/watch?v=F7Gv1TXGaX8) | — | — | [transcript](F7Gv1TXGaX8/transcript.md) |
