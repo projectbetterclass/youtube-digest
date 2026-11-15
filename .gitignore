@@ -13,3 +13,6 @@ __pycache__/
 .venv/
 venv/
 .pytest_cache/
+
+# Audiobook transcripts: whole books, kept on the PC only (repo is public)
+audiobooks/
