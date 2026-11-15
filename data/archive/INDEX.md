@@ -1,10 +1,15 @@
 # 📚 Library index
 
-12130 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12135 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-15 | Starter Story | [This App Made Over $100K in 1 Year](https://www.youtube.com/watch?v=B7b_2LaWOzs) | — | — | [transcript](B7b_2LaWOzs/transcript.md) · [visuals](B7b_2LaWOzs/visuals.md) |
+| 2026-11-15 | Chris Williamson | [Is Fantasising About Someone Else Cheating? - Alex O’Connor](https://www.youtube.com/watch?v=31wz1Tx3Bk8) | — | — | [transcript](31wz1Tx3Bk8/transcript.md) |
+| 2026-11-15 | Tom Nash | [A Once in a 100 Year Investment Opportunity Just Started (What and Where I'm Buying)](https://www.youtube.com/watch?v=BhfrDbWz9xY) | — | — | [transcript](BhfrDbWz9xY/transcript.md) · [visuals](BhfrDbWz9xY/visuals.md) |
+| 2026-11-15 | Ben Yanes | [Lifting Is Just Meditating With Weights](https://www.youtube.com/watch?v=YrPbucGKL8w) | — | — | [transcript](YrPbucGKL8w/transcript.md) |
+| 2026-11-15 | BWB - Business With Brian | [The AI Panic Started. Here’s What 16 YouTubers Are Buying](https://www.youtube.com/watch?v=uc81ZM85WMc) | — | — | [transcript](uc81ZM85WMc/transcript.md) · [visuals](uc81ZM85WMc/visuals.md) |
 | 2026-11-14 | Riley Brown | [The Biggest Week in Claude History...](https://www.youtube.com/watch?v=j5BDkyEcML4) | — | — | [transcript](j5BDkyEcML4/transcript.md) · [visuals](j5BDkyEcML4/visuals.md) |
 | 2026-11-14 | David Carbutt | [Alex Karp's Warning Proves Elon's Trillion-Dollar Bet](https://www.youtube.com/watch?v=xa8idsRq8N4) | — | — | [transcript](xa8idsRq8N4/transcript.md) |
 | 2026-11-14 | Ben Yanes | [I LOVE hate comments](https://www.youtube.com/shorts/vPf6acNbYNA) | — | — | [transcript](vPf6acNbYNA/transcript.md) · Short |
