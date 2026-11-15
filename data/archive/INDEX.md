@@ -1,10 +1,19 @@
 # 📚 Library index
 
-12121 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12130 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-14 | Riley Brown | [The Biggest Week in Claude History...](https://www.youtube.com/watch?v=j5BDkyEcML4) | — | — | [transcript](j5BDkyEcML4/transcript.md) · [visuals](j5BDkyEcML4/visuals.md) |
+| 2026-11-14 | David Carbutt | [Alex Karp's Warning Proves Elon's Trillion-Dollar Bet](https://www.youtube.com/watch?v=xa8idsRq8N4) | — | — | [transcript](xa8idsRq8N4/transcript.md) |
+| 2026-11-14 | Ben Yanes | [I LOVE hate comments](https://www.youtube.com/shorts/vPf6acNbYNA) | — | — | [transcript](vPf6acNbYNA/transcript.md) · Short |
+| 2026-11-14 | Chris Williamson | [“We Won 3 Grammys and Still Felt Like Failures” - Dan + Shay (Live Performance)](https://www.youtube.com/watch?v=T7TaS2jPNLA) | — | — | [transcript](T7TaS2jPNLA/transcript.md) |
+| 2026-11-14 | HealthyGamerGG | [How To Not Be Afraid Of The Future](https://www.youtube.com/watch?v=Zm6umzXVJOE) | — | — | [transcript](Zm6umzXVJOE/transcript.md) |
+| 2026-11-14 | Big A | [No More Planes](https://www.youtube.com/watch?v=ufUvTWQD0tE) | — | — | [transcript](ufUvTWQD0tE/transcript.md) |
+| 2026-11-14 | Felix & Friends (Goat Academy) | [Nobody's Talking About The HIDDEN CRISIS Diesel Shock Gets Worse \| Felix Nikolas Prehn & Paul Sankey](https://www.youtube.com/watch?v=QPVE-V8zPwE) | — | — | [transcript](QPVE-V8zPwE/transcript.md) |
+| 2026-11-14 | David Carbutt | [A Once in a Lifetime Opportunity is Coming](https://www.youtube.com/watch?v=9eLAWgMxf7M) | — | — | [transcript](9eLAWgMxf7M/transcript.md) |
+| 2026-11-14 | New Money | [Michael Burry: The TRUTH About the Anthropic and OpenAI IPOs...](https://www.youtube.com/watch?v=RVKV45INs4o) | — | — | [transcript](RVKV45INs4o/transcript.md) · [visuals](RVKV45INs4o/visuals.md) |
 | 2026-11-14 | Invest with Henry | [Cathie Wood Is Bullish on NVIDIA Stock… Here's My Options Trade](https://www.youtube.com/watch?v=rS-ipjJCWxc) | — | — | [transcript](rS-ipjJCWxc/transcript.md) |
 | 2026-11-14 | Felix & Friends (Goat Academy) | [Meet Felix Nikolas Prehn — Economist, Former Investment Banker, Founder of The Prehn Institute](https://www.youtube.com/watch?v=RCw8knUZMLs) | — | — | [transcript](RCw8knUZMLs/transcript.md) |
 | 2026-11-13 | David Carbutt | [Cathie Wood on Jensen Huang: Nobody's Ready for What NVIDIA Is Building](https://www.youtube.com/watch?v=FZgrB8-FA0Y) | — | — | [transcript](FZgrB8-FA0Y/transcript.md) |
