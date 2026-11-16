@@ -1,10 +1,17 @@
 # 📚 Library index
 
-12135 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12142 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-16 | Ben Yanes | [What's The Best Triceps Exercise?](https://www.youtube.com/watch?v=zTwBb-7AJeM) | — | — | [transcript](zTwBb-7AJeM/transcript.md) |
+| 2026-11-16 | Chris Williamson | [The Strange Freedom To Be Disliked - James Blunt (4K)](https://www.youtube.com/watch?v=hrHAk5Er8io) | — | — | [transcript](hrHAk5Er8io/transcript.md) |
+| 2026-11-16 | Sean Nalewanyj | [Worst bodybuilding genetics ever](https://www.youtube.com/shorts/ZdDuyWAVijo) | — | — | [transcript](ZdDuyWAVijo/transcript.md) · Short |
+| 2026-11-16 | Felix & Friends (Goat Academy) | [The FEDs UNTHINKABLE Interest Rate RESET](https://www.youtube.com/watch?v=mhaLcRIkJiI) | — | — | [transcript](mhaLcRIkJiI/transcript.md) |
+| 2026-11-16 | The Diary Of A CEO | [Russian Sex Spy: I Was Trained To Control A Man's Mind With Sex! \| John Kiriakou & Aliia Roza](https://www.youtube.com/watch?v=1mDHHi398ig) | — | — | [transcript](1mDHHi398ig/transcript.md) |
+| 2026-11-16 | David Carbutt | [The Most Unbelievable Rocket Launch In History](https://www.youtube.com/watch?v=DbCXpWfMkD8) | — | — | [transcript](DbCXpWfMkD8/transcript.md) |
+| 2026-11-15 | Invest with Henry | [Nvidia: I Won't Say it Again. Buy LEAPs Monday 9:30am](https://www.youtube.com/watch?v=terD3n_yL_4) | — | — | [transcript](terD3n_yL_4/transcript.md) |
 | 2026-11-15 | Starter Story | [This App Made Over $100K in 1 Year](https://www.youtube.com/watch?v=B7b_2LaWOzs) | — | — | [transcript](B7b_2LaWOzs/transcript.md) · [visuals](B7b_2LaWOzs/visuals.md) |
 | 2026-11-15 | Chris Williamson | [Is Fantasising About Someone Else Cheating? - Alex O’Connor](https://www.youtube.com/watch?v=31wz1Tx3Bk8) | — | — | [transcript](31wz1Tx3Bk8/transcript.md) |
 | 2026-11-15 | Tom Nash | [A Once in a 100 Year Investment Opportunity Just Started (What and Where I'm Buying)](https://www.youtube.com/watch?v=BhfrDbWz9xY) | — | — | [transcript](BhfrDbWz9xY/transcript.md) · [visuals](BhfrDbWz9xY/visuals.md) |
