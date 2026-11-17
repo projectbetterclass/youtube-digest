@@ -1,10 +1,21 @@
 # 📚 Library index
 
-12142 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12153 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-17 | Chris Williamson | [“I Got Stabbed With A Screwdriver At 11 Years Old” - Bugzy Malone](https://www.youtube.com/watch?v=16BlQ_5xs4A) | — | — | [transcript](16BlQ_5xs4A/transcript.md) |
+| 2026-11-17 | David Carbutt | [Amazon's & Google Bet of a LIFETIME Just Paid Off!](https://www.youtube.com/watch?v=xO_vf4muQwg) | — | — | [transcript](xO_vf4muQwg/transcript.md) |
+| 2026-11-17 | JPG Coaching | [Make better gains. Join my 3-5 day programs. 🔗 in my bio](https://www.youtube.com/shorts/znITEDAD78Q) | — | — | [transcript](znITEDAD78Q/transcript.md) · Short (music; content on screen) |
+| 2026-11-17 | JPG Coaching | [If you can train this hard you WILL grow](https://www.youtube.com/shorts/2x51HTgUV0s) | — | — | [transcript](2x51HTgUV0s/transcript.md) · Short |
+| 2026-11-17 | JPG Coaching | [Unconventional exercise variations that I’ve actually programmed for myself in the past](https://www.youtube.com/shorts/JO2ojVL5riE) | — | — | [transcript](JO2ojVL5riE/transcript.md) · Short |
+| 2026-11-17 | JPG Coaching | [Is this a game changer for big legs?](https://www.youtube.com/shorts/Cui2tiYB6D8) | — | — | [transcript](Cui2tiYB6D8/transcript.md) · Short |
+| 2026-11-17 | JPG Coaching | [Eat more fiber](https://www.youtube.com/shorts/epCHcBJ7O_Q) | — | — | [transcript](epCHcBJ7O_Q/transcript.md) · Short |
+| 2026-11-17 | JPG Coaching | [There’s a time and place for a squat using that form/rom and it's not when the goal is quads.](https://www.youtube.com/shorts/CJhiEKqvwPk) | — | — | [transcript](CJhiEKqvwPk/transcript.md) · Short |
+| 2026-11-17 | JPG Coaching | [Katana extension set-up](https://www.youtube.com/shorts/xYFS0w_rLIc) | — | — | [transcript](xYFS0w_rLIc/transcript.md) · Short |
+| 2026-11-16 | David Carbutt | [Once In a Generation Wealth Event is About to Happen](https://www.youtube.com/watch?v=PeApex-TUYk) | — | — | [transcript](PeApex-TUYk/transcript.md) |
+| 2026-11-16 | Alex Hormozi | [The Most Valuable Sales Training You’ll Ever Watch [FULL BLUEPRINT]](https://www.youtube.com/watch?v=oVPXgRs0IdI) | — | — | [transcript](oVPXgRs0IdI/transcript.md) · [visuals](oVPXgRs0IdI/visuals.md) |
 | 2026-11-16 | Ben Yanes | [What's The Best Triceps Exercise?](https://www.youtube.com/watch?v=zTwBb-7AJeM) | — | — | [transcript](zTwBb-7AJeM/transcript.md) |
 | 2026-11-16 | Chris Williamson | [The Strange Freedom To Be Disliked - James Blunt (4K)](https://www.youtube.com/watch?v=hrHAk5Er8io) | — | — | [transcript](hrHAk5Er8io/transcript.md) |
 | 2026-11-16 | Sean Nalewanyj | [Worst bodybuilding genetics ever](https://www.youtube.com/shorts/ZdDuyWAVijo) | — | — | [transcript](ZdDuyWAVijo/transcript.md) · Short |
