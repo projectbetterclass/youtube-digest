@@ -1,10 +1,17 @@
 # 📚 Library index
 
-12156 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12163 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-18 | Starter Story | [How I Built It: $600K/Month SaaS](https://www.youtube.com/watch?v=PoEJ9t9rUb4) | — | — | [transcript](PoEJ9t9rUb4/transcript.md) · [visuals](PoEJ9t9rUb4/visuals.md) |
+| 2026-11-18 | HealthyGamerGG | [Can A Partner ACTUALLY Fix You? \| Dr. K Reacts To Mental Health Memes](https://www.youtube.com/watch?v=2rOzAk9r6_A) | — | — | [transcript](2rOzAk9r6_A/transcript.md) |
+| 2026-11-18 | Chris Williamson | [What Religion Looked Like 150,000 Years Ago - Alex O’Connor](https://www.youtube.com/watch?v=ZLE8JJJzSv4) | — | — | [transcript](ZLE8JJJzSv4/transcript.md) |
+| 2026-11-18 | Sean Nalewanyj | [Mike Israetel BBL Surgery](https://www.youtube.com/shorts/AVJhGEWQgVs) | — | — | [transcript](AVJhGEWQgVs/transcript.md) · Short |
+| 2026-11-18 | Felix & Friends (Goat Academy) | [They Crashed Gold on Purpose (Here's the Real 2027 Plan)](https://www.youtube.com/watch?v=3hnUkqVj3_M) | — | — | [transcript](3hnUkqVj3_M/transcript.md) |
+| 2026-11-18 | JulienHimself | [You're Playing it Too "Safe" (And EVERYONE Can Tell)](https://www.youtube.com/watch?v=XcyfkBh0G6I) | — | — | [transcript](XcyfkBh0G6I/transcript.md) |
+| 2026-11-18 | Big A | [He Wants To Come Back](https://www.youtube.com/watch?v=rzaBdTC77T4) | — | — | [transcript](rzaBdTC77T4/transcript.md) |
 | 2026-11-17 | David Carbutt | [The World Economy Is Standing on ONE Leg](https://www.youtube.com/watch?v=CXZDaYOcvk8) | — | — | [transcript](CXZDaYOcvk8/transcript.md) |
 | 2026-11-17 | Invest with Henry | [The 6 Stocks Set To Recover Super Fast](https://www.youtube.com/watch?v=P_qC8tgR9YE) | — | — | [transcript](P_qC8tgR9YE/transcript.md) |
 | 2026-11-17 | Chris Raroque | [I REBUILT My Oldest App (Revenue Jumped 41%)](https://www.youtube.com/watch?v=_3Slvs-LDGE) | — | — | [transcript](_3Slvs-LDGE/transcript.md) · [visuals](_3Slvs-LDGE/visuals.md) |
