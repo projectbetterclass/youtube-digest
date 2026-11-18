@@ -1,10 +1,13 @@
 # 📚 Library index
 
-12153 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12156 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-17 | David Carbutt | [The World Economy Is Standing on ONE Leg](https://www.youtube.com/watch?v=CXZDaYOcvk8) | — | — | [transcript](CXZDaYOcvk8/transcript.md) |
+| 2026-11-17 | Invest with Henry | [The 6 Stocks Set To Recover Super Fast](https://www.youtube.com/watch?v=P_qC8tgR9YE) | — | — | [transcript](P_qC8tgR9YE/transcript.md) |
+| 2026-11-17 | Chris Raroque | [I REBUILT My Oldest App (Revenue Jumped 41%)](https://www.youtube.com/watch?v=_3Slvs-LDGE) | — | — | [transcript](_3Slvs-LDGE/transcript.md) · [visuals](_3Slvs-LDGE/visuals.md) |
 | 2026-11-17 | Chris Williamson | [“I Got Stabbed With A Screwdriver At 11 Years Old” - Bugzy Malone](https://www.youtube.com/watch?v=16BlQ_5xs4A) | — | — | [transcript](16BlQ_5xs4A/transcript.md) |
 | 2026-11-17 | David Carbutt | [Amazon's & Google Bet of a LIFETIME Just Paid Off!](https://www.youtube.com/watch?v=xO_vf4muQwg) | — | — | [transcript](xO_vf4muQwg/transcript.md) |
 | 2026-11-17 | JPG Coaching | [Make better gains. Join my 3-5 day programs. 🔗 in my bio](https://www.youtube.com/shorts/znITEDAD78Q) | — | — | [transcript](znITEDAD78Q/transcript.md) · Short (music; content on screen) |
