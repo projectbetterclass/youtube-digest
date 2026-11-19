@@ -1,10 +1,14 @@
 # 📚 Library index
 
-12163 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12167 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-19 | Aswath Damodaran | [From Aggregate Equity Value to Per Share Value: An Anthropic IPO update!](https://www.youtube.com/watch?v=JpfTrtSE1j8) | — | — | [transcript](JpfTrtSE1j8/transcript.md) · [materials](JpfTrtSE1j8/materials/) |
+| 2026-11-18 | Greg Isenberg | [Build a 1 Person Media Machine With Grok Bot](https://www.youtube.com/watch?v=vKobP6DkC1E) | — | — | [transcript](vKobP6DkC1E/transcript.md) · [visuals](vKobP6DkC1E/visuals.md) |
+| 2026-11-18 | Ticker Symbol: YOU | [Get In Early. This Stock Will Make Millionaires By 2029.](https://www.youtube.com/watch?v=CE70E2DZYZU) | — | — | [transcript](CE70E2DZYZU/transcript.md) · [visuals](CE70E2DZYZU/visuals.md) |
+| 2026-11-18 | Riley Brown | [Claude Is Taking Over (NEW Artifacts Are Insane)](https://www.youtube.com/watch?v=7N1AE5Y87GU) | — | — | [transcript](7N1AE5Y87GU/transcript.md) · [visuals](7N1AE5Y87GU/visuals.md) |
 | 2026-11-18 | Starter Story | [How I Built It: $600K/Month SaaS](https://www.youtube.com/watch?v=PoEJ9t9rUb4) | — | — | [transcript](PoEJ9t9rUb4/transcript.md) · [visuals](PoEJ9t9rUb4/visuals.md) |
 | 2026-11-18 | HealthyGamerGG | [Can A Partner ACTUALLY Fix You? \| Dr. K Reacts To Mental Health Memes](https://www.youtube.com/watch?v=2rOzAk9r6_A) | — | — | [transcript](2rOzAk9r6_A/transcript.md) |
 | 2026-11-18 | Chris Williamson | [What Religion Looked Like 150,000 Years Ago - Alex O’Connor](https://www.youtube.com/watch?v=ZLE8JJJzSv4) | — | — | [transcript](ZLE8JJJzSv4/transcript.md) |
