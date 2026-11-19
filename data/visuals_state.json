@@ -467,6 +467,11 @@
       "error": "",
       "slides": 2
     },
+    "1_ADARdbZ5k": {
+      "at": "2026-11-19T20:03:01.259639+00:00",
+      "error": "ERROR: m3u8 download detected but ffmpeg could not be found. Please install",
+      "slides": 0
+    },
     "1cWZ7Ekff6E": {
       "at": "2026-11-12T08:11:32.992613+00:00",
       "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgxhLbnWtBCnxukfGS6Kz'}",
@@ -1541,6 +1546,11 @@
       "at": "2026-10-06T21:56:59.186622+00:00",
       "error": "",
       "slides": 8
+    },
+    "8nECKCMd2w0": {
+      "at": "2026-11-19T20:04:56.207214+00:00",
+      "error": "",
+      "slides": 2
     },
     "8nNbLiwaD0w": {
       "at": "2026-10-06T21:39:10.179813+00:00",

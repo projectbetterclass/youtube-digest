@@ -1,10 +1,17 @@
 # 📚 Library index
 
-12167 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12174 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-19 | Riley Brown | [Building with Google Neon and Claude Fable / Opus](https://www.youtube.com/watch?v=1_ADARdbZ5k) | — | — | [transcript](1_ADARdbZ5k/transcript.md) |
+| 2026-11-19 | David Carbutt | [Elon Musk Stuns Andrew Ross Sorkin](https://www.youtube.com/watch?v=mE4hkBAuoXY) | — | — | [transcript](mE4hkBAuoXY/transcript.md) |
+| 2026-11-19 | Invest with Henry | [HUGE Nvidia Update! I'm Up $600,000 On My Biggest Position](https://www.youtube.com/watch?v=Kg0224jpyyc) | — | — | [transcript](Kg0224jpyyc/transcript.md) |
+| 2026-11-19 | Ben Yanes | [Nobody Has Taught You How To ACTUALLY Lift (Until Now)](https://www.youtube.com/watch?v=iKUHXRBtAYY) | — | — | [transcript](iKUHXRBtAYY/transcript.md) |
+| 2026-11-19 | Chris Williamson | [What We Get Wrong About Angry Young Men - Ashley Walters (4K)](https://www.youtube.com/watch?v=xC-2FmWaROY) | — | — | [transcript](xC-2FmWaROY/transcript.md) |
+| 2026-11-19 | Tom Nash | [🚨ANTHROPIC Will Print Millionaires (but most will be investing wrong)](https://www.youtube.com/watch?v=8nECKCMd2w0) | — | — | [transcript](8nECKCMd2w0/transcript.md) · [visuals](8nECKCMd2w0/visuals.md) |
+| 2026-11-19 | The Diary Of A CEO | [Senator Bernie Sanders: Iran Wasn't Trump's Idea. Someone Else Pushed Him Into It!](https://www.youtube.com/watch?v=eocM1C3HfQg) | — | — | [transcript](eocM1C3HfQg/transcript.md) |
 | 2026-11-19 | Aswath Damodaran | [From Aggregate Equity Value to Per Share Value: An Anthropic IPO update!](https://www.youtube.com/watch?v=JpfTrtSE1j8) | — | — | [transcript](JpfTrtSE1j8/transcript.md) · [materials](JpfTrtSE1j8/materials/) |
 | 2026-11-18 | Greg Isenberg | [Build a 1 Person Media Machine With Grok Bot](https://www.youtube.com/watch?v=vKobP6DkC1E) | — | — | [transcript](vKobP6DkC1E/transcript.md) · [visuals](vKobP6DkC1E/visuals.md) |
 | 2026-11-18 | Ticker Symbol: YOU | [Get In Early. This Stock Will Make Millionaires By 2029.](https://www.youtube.com/watch?v=CE70E2DZYZU) | — | — | [transcript](CE70E2DZYZU/transcript.md) · [visuals](CE70E2DZYZU/visuals.md) |
