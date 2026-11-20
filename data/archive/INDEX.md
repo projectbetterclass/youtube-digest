@@ -1,10 +1,12 @@
 # 📚 Library index
 
-12174 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12176 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-20 | Justin Sung | [If Active Recall Isn't Working For You, Watch This Video](https://www.youtube.com/watch?v=Vhg775rpt3s) | — | — | [transcript](Vhg775rpt3s/transcript.md) · [visuals](Vhg775rpt3s/visuals.md) |
+| 2026-11-19 | Aswath Damodaran | [The Value of Human Frailty: Nvidia faces a Jensen Test!](https://www.youtube.com/watch?v=kldDGZ-C0MU) | — | — | [transcript](kldDGZ-C0MU/transcript.md) · [materials](kldDGZ-C0MU/materials/) |
 | 2026-11-19 | Riley Brown | [Building with Google Neon and Claude Fable / Opus](https://www.youtube.com/watch?v=1_ADARdbZ5k) | — | — | [transcript](1_ADARdbZ5k/transcript.md) |
 | 2026-11-19 | David Carbutt | [Elon Musk Stuns Andrew Ross Sorkin](https://www.youtube.com/watch?v=mE4hkBAuoXY) | — | — | [transcript](mE4hkBAuoXY/transcript.md) |
 | 2026-11-19 | Invest with Henry | [HUGE Nvidia Update! I'm Up $600,000 On My Biggest Position](https://www.youtube.com/watch?v=Kg0224jpyyc) | — | — | [transcript](Kg0224jpyyc/transcript.md) |

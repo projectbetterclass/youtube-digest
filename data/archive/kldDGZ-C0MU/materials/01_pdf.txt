@@ -1,0 +1,255 @@
+Source: https://pages.stern.nyu.edu/~adamodar/pdfiles/blog/CEONvidia.pdf
+
+To err is human, to value that error is just as human!
+Aswath Damodaran
+2
+§In the last few weeks, full of big stories, the biggest story was the 
+fall from grace of Jensen Huang and the consequences for 
+Nvidia, investors, and the players in the AI trade. 
+§The initial story , with its potent mix of personal fallibility and 
+security concerns, related to Jensen’s affair with Alice Huang, 
+who news stories labeled a Chinese spy, though the evidence on 
+the ground is still thin. 
+§I had planned to write about the story then, but on the road in Asia 
+and with teaching commitments, put it off for a couple of days, and 
+over those days, the story took a turn, with stories of dalliances 
+with Nvidia employees. 
+§The week culminated with Nvidia’s board asking Jensen to 
+step down, and his agreeing, perhaps bringing to an end one of 
+the more eventful and productive stints as a CEO in history. 
+§I have no desire to debate the moral aspects of this story, and I 
+will let others take sides on whether the board should or should 
+not have fired Jensen, but I will focus on the question of what 
+Jensen stepping down as CEO might mean for Nvidia’s value.
+3
+§Storyteller: Every business is built around a story, and that story drives its 
+valuation and sometimes its pricing. While that story is grounded in the 
+company’ s products and the markets that it seeks, it is the top manager’ s job to 
+craft and tell the story to investors, employees and to consumers. 
+§Business manager: It is of course CEO’s job to manage the business that they are 
+put in charge off, but that can span the spectrum from building a business 
+model, for young companies, to working on ways to scale up a business for high 
+growth firms to defending a business model for mature businesses to scaling 
+down the model, as the company enters the declining phase.
+§People leader: Organizations are composed of people, including suppliers, 
+employees and customers, and it is the top management’s job to lead these 
+people, though the nature of that leadership will also shift as a company ages. 
+§Public face: For better or worse, the CEO represents the public face of the 
+company with investors, regulators and others, and the role they play will vary 
+across groups and across the life cycle. 
+§Succession planner: There is a final aspect of a CEO’ s job that is often ignored 
+but can be key to extending a company’s life cycle, and that is preparing for a 
+succession, where a new management is readied, for a handover, when it comes 
+due.
+4
+§In sum, while the list of roles that CEOs play and the functions 
+that they provide is long, the role and functions that get 
+emphasized will shift as companies move through the life 
+cycle. 
+§Early in the life cycle, it is the visionary component that 
+comes front and center, moving on to business building and 
+people leader as the company's business model takes form, 
+and as the business scales and matures, the CEO's 
+primary mission becomes playing defense (competitors, 
+regulators and governments), and managing succession.
+5
+1. Macro versus micro: Businesses that are driven more by macroeconomic movements, such 
+as those in interest rates or commodity prices, will be less affected by who manages them 
+than companies whose success can be traced to company-specific actions on which products to produce, how to price them and where to market them. 
+2. Competitive advantage: The nature of the competitive advantages possessed by a business 
+can also affect how much management matters. In companies with long-standing and legacy 
+competitive advantages, management has more of a caretaking role, than at companies that 
+constantly need to reinvent their competitive advantages. 
+3. Transition: Management matters more when businesses are at transition points, i.e., start-ups that are seeking out venture capital for the first time, or companies on the verge of an initial 
+public offering or mature/declining firms ahead of a restructuring, since management actions 
+can not only make a significant difference between success and failure, but investor reactions 
+can also be governed by how much they trust management.
+4. Upside and Downside: There is one final parameter that management at companies can be judged upon, and that is whether they operate in businesses where success is keyed by 
+whether you create upside of by protecting against downside, with the former falling under 
+the category of taking advantage of opportunities and the latter under risk management. In 
+young companies, it is the former that will dominate, but as companies mature, the latter will 
+become more important.
+5. Corporate Life Cycle: At the risk of generalizing, management matters more at start-ups and very young companies, since it must deliver not just on vision but on business-building than at 
+mature firms, that have strong competitive advantages and are in good financial position, 
+where management can be on autopilot. As firms go into decline, management will matter 
+again, since management in denial or desperation can cost shareholders a great deal.
+6
+7
+8
+§With this framework, valuing a key person or persons becomes 
+a simple exercise, albeit one that may require complex 
+assumption. 
+§To estimate key person value, you value the company twice, 
+once with the key persons included, with all that they bring 
+to it’s cash flows and value, and then again, without those 
+key persons, reflecting the changes that will occur to value 
+inputs:
+§Value of key person(s) = Value of business with key person - Value 
+of business without key person
+§The CEO valuation approach, while general, can not only yield 
+different values for key people, but also generate a value 
+effect that is negative for a CEO whose influence has 
+become malignant.
+Aswath Damodaran
+9
+10
+§Until a few weeks ago, the question that investors in Nvidia 
+were asking was how much value Jensen Huang was 
+adding to Nvidia. 
+§As the founder of the company and the architect of its rise to a 
+mega cap company, he was admired for his business-
+building prowess, but over the last five years of the AI boom, 
+he has been far more than the CEO of a company providing the 
+chips for the AI build-up. 
+§By investing in some of the companies in the AI chain and 
+providing financing (directly or as guarantees) for others, 
+he has nurtured the AI cap ex boom from which Nvidia 
+benefits.
+11
+§The first story about Jensen's affairs broke on October 29, with 
+the story of his relationship with Alice Huang, with 
+mentions about a China connection. 
+§In the following week, the story stayed in the headlines, with 
+news of more affairs with employees who worked at Nvidia 
+and reported to him, a violation of corporate rules.
+§ With the White House chiming in, the board had no choice 
+but to act and after an emergency meeting, Jensen announced 
+on November 12 that he was stepping down as CEO. 
+§The board's appointment of Collette Kress, Nvidia's CFO, 
+as interim CEO has done nothing to quell the scandal, as 
+the debate has turned to who the company would hire as a 
+permanent CEO, with the twist that Jensen Huang could return.
+12
+Aswath Damodaran
+13
+1. The first is that while there is an interim CEO in place, a replacement 
+has not been announced yet, and to estimate what Nvidia will lose in 
+value from Jensen’s exit requires that we know the identity of the 
+person who will replace him at the top of the company.
+2. The second is that it is worth remembering that even after he steps 
+down as CEO, Jensen will own a sizable stake in the company, with allies 
+in the company, and it is unclear how much he will work with the 
+replacement CEO; the more willing he is to provide guidance and 
+direction, the smaller the value effect should be.
+3. The third is that this will be a test of the strength of the management 
+team that Jensen has built at the company, and whether it can run the 
+company without him directly calling the shots.
+4. Finally, this is no longer just an intra-company issue, since the Chinese 
+spy angle has opened the doors to congressional hearings and 
+legal consequences, both of which can have effects on Nvidia’s 
+operations, at least in the near term.
+5. Hanging over all of these uncertainty is the question of whether 
+some of Nvidia's biggest investors and aggrieved employees will 
+engineer a return for Jensen.
+14
+Aswath Damodaran
+15
+§As founder of Nvidia, and CEO for its entire existence, Nvidia’ s 
+story is intertwined with Jensen Huang’ s and it is undeniable that 
+the company is constructed in his image – opportunistic in 
+seeking out new markets and nurturing relationships with 
+other players in the ecosystem for their benefit. 
+§I know that the board’ s decision to ask Jensen to step down as 
+CEO has evoked strong reactions on both sides. 
+§Those in support of the board’s action note that Jensen’s affairs with 
+employees who reported to him was a flagrant violation of 
+corporate policy, coupled with the security lapses in his other affair, 
+merited the response. 
+§Those who oppose the action argue that the it is unclear whether Ms, 
+Huang was a Chinese spy and that Jensen is far too critical not just 
+to Nvidia as a company but also to the AI disruption that the company 
+should keep him on. 
+§Both sides, though, should agree that Jensen has been an 
+extraordinary chief executive and that Nvidia would not be the 
+company it is today , without him at the helm.
+16
+17
+§My estimate of the value of equity for Nvidia, prior to last 
+week’s events, is $4.8 billion, roughly $200 per share, a 
+significant jump over my estimates of its equity value from a 
+year prior, but a reflection of the company’s capacity to keep 
+growing at scale and preserve profit margins.
+§On October 29, the day that the story of Jensen's affair 
+broke, the conpany's market capitalization was $5.2 
+trillion, about 8% above my estimated value.
+§Now (on November 19) that Nvidia's market capitalization 
+has been marked down to $3.6 trillion, you may be tempted 
+to conclude that the stock is significantly undervalued now, 
+but that assumes that Nvidia's value has not changed as it has 
+lost its CEO, and struggles with the aftermath of the scandal.
+18
+§In the short term, the Jensen affair can have three 
+consequences. 
+§One, and I think that this is unlikely, is that Nvidia sees a drop off in 
+orders from customers, affecting revenue growth. 
+§The second, perhaps more likely, is that a transition to a new CEO 
+might delay or hold up decisions that affect revenue generation 
+or create costs in the near term. 
+§The third is that the legal and legislative blowback, especially 
+with the China twist to the story, can have regulatory or legislative 
+consequences that affect next year’s operations. 
+§No matter what the reason, if it is truly temporary, the 
+percentage change in Nvidia’s equity value is contained, 
+with a 5- 10% drop in most scenarios.
+19
+§In the long term, there is the possibility that without Jensen at 
+the helm, Nvidia will operate differently, perhaps pulling back 
+on financing of customers and easing the relentless marketing 
+that has made them the unstoppable force they have been in 
+the AI business. The long-term effect on value will depend on 
+how much revenue growth rates and margins decline from the 
+base case:
+Aswath Damodaran
+20
+§Will Jensen Huang Return?Spurred on by Jensen's stated willingness to come back and pushback from large shareholders in the company who feel that the company needs him, 
+there is a chance (Kalshi estimates a 10% chance).
+§If replaced, how good will his replacement be?If Jensen is out as CEO, the final choice 
+on who will be Nvidia’s next CEO is up in the air with internal names (including Colette Kress, the interim CEO and Ian Buck, VP for hyper scale), CEOs of other chip companies 
+(Renee Haas, CEO of ARM, Lisa Su, CEO of AMD as well big name ex-CEOs of other large 
+companies (Tim Cook at Apple). The board will be balancing the need for someone who understands the AI chip business with that of a crisis leader, who can manage the company 
+through trying times. 
+§If replaced, how much will Jensen be willing to work with his replacement? Closely 
+linked to the choice of replacement CEO will be the role that Jensen plays in Nvidia in the months or perhaps even years to come. 
+§How strong are the layers of management at Nvidia under the CEO?From all accounts, 
+the people that he has chosen to run Nvidia seem smart and competent, and many are 
+intensely loyal to the company. The test will be whether they can find ways to deliver the same results without the spark of Jensen’s intuition and long-term vision.
+§Does the China story have legs? If Alice Huang does have official ties to the Chinese 
+government and Nvidia has been using business fronts in Asia to sell its chips to the 
+Chinese government, in violation of US law, the consequences will not only be more damaging but also persist no matter who is CEO and perhaps become worse if Jensen 
+returns to his post.
+Aswath Damodaran
+21
+§If you believe that the board will find a competent 
+replacement CEO for Nvidia, that Jensen will stay 
+involved, even informally , in big decisions, that the strong 
+management team will stay intact and that the China twist 
+is overblown, the value drop will be small. 
+§If, as the weeks go through, the process becomes ugly and 
+contentious, there is a real risk that you could get a CEO 
+mismatch, burn bridges with the company’s founder and 
+builder and lose management personnel, resulting in a 
+much greater loss of value, with any China-related 
+scandals adding to the loss. 
+Aswath Damodaran
+22
+§Jensen Huang has been a great CEO, but last week was a reminder that he 
+is human, and that the same can be said about Elon Musk, Dario Amodei, Sam 
+Altman and the other stars who are ensconced at the top of the biggest 
+companies in the AI space. Thus, it is a given that they too will not only make 
+mistakes, some of which they will reluctant to confront, and even more 
+unwilling to reverse. 
+§The essence of corporate governance is that even the very best managers 
+need restraints to prevent overreach, and that giving them complete 
+power in perpetuity is a recipe for regret. 
+§A CEO that is newly hired may be humble and willing to listen, but the longer 
+that CEO stays entrenched, the more likely it is that he or she will 
+accumulate power, create boards that are rubber stamps and acquire an ego, 
+completing the transition to Imperial CEO.
+§Nvidia’ s travails should make us more appreciative of founders who build 
+companies that can outlast them and find ways to make themselves 
+dispensable. 
+§Yo u  may not like Bill Gates, but he left Microsoft, while still in his fifties, and the 
+company barely missed a beat and has gone on to greener pastures. 
+§The pictures of Jeff Bezos, at his wedding or in his speedos on a yacht may make 
+you cringe, but to the extent that it does not make you stop using Amazon Prime or sell your Amazon stock, he has succeeded in building an entity that can outlive him.
+Aswath Damodaran
