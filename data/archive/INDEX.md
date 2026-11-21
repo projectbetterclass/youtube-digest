@@ -1,10 +1,19 @@
 # 📚 Library index
 
-12176 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12185 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-21 | Big A | [The Anthropic IPO Didn't Help](https://www.youtube.com/watch?v=I2XAug-Uz6M) | — | — | [transcript](I2XAug-Uz6M/transcript.md) |
+| 2026-11-20 | David Carbutt | [Investigating SBF's $37 Billion Anthropic Investment](https://www.youtube.com/watch?v=bt_ozxdBzjg) | — | — | [transcript](bt_ozxdBzjg/transcript.md) |
+| 2026-11-20 | Greg Isenberg | [Gemini 4 Neon: the most underrated model of the year](https://www.youtube.com/watch?v=tCY7zMknCJQ) | — | — | [transcript](tCY7zMknCJQ/transcript.md) · [visuals](tCY7zMknCJQ/visuals.md) |
+| 2026-11-20 | Riley Brown | [Gemini Neon Just Caught Up To Claude (And It’s HALF the Price)](https://www.youtube.com/watch?v=LNIrmrZ_0gY) | — | — | [transcript](LNIrmrZ_0gY/transcript.md) · [visuals](LNIrmrZ_0gY/visuals.md) |
+| 2026-11-20 | HealthyGamerGG | [Why Small Talk Feels So Awkward](https://www.youtube.com/watch?v=GfSaHPh0g6Y) | — | — | [transcript](GfSaHPh0g6Y/transcript.md) |
+| 2026-11-20 | Chris Williamson | [Why The Media Tried To Destroy James Blunt](https://www.youtube.com/watch?v=1h3Al1lBDmM) | — | — | [transcript](1h3Al1lBDmM/transcript.md) |
+| 2026-11-20 | David Carbutt | [Elon Musk on Zelensky: Nobody Understands What SpaceX Built](https://www.youtube.com/watch?v=304_MP8DOCc) | — | — | [transcript](304_MP8DOCc/transcript.md) |
+| 2026-11-20 | Sean Nalewanyj | [Creatine builds muscle WITHOUT lifting?](https://www.youtube.com/shorts/nbwiW5C5pBQ) | — | — | [transcript](nbwiW5C5pBQ/transcript.md) · Short |
+| 2026-11-20 | Felix & Friends (Goat Academy) | [The UNTHINKABLE is About to Happen to the Dollar (& Why Gold and Silver are Next)](https://www.youtube.com/watch?v=h1YOS55OyYk) | — | — | [transcript](h1YOS55OyYk/transcript.md) |
 | 2026-11-20 | Justin Sung | [If Active Recall Isn't Working For You, Watch This Video](https://www.youtube.com/watch?v=Vhg775rpt3s) | — | — | [transcript](Vhg775rpt3s/transcript.md) · [visuals](Vhg775rpt3s/visuals.md) |
 | 2026-11-19 | Aswath Damodaran | [The Value of Human Frailty: Nvidia faces a Jensen Test!](https://www.youtube.com/watch?v=kldDGZ-C0MU) | — | — | [transcript](kldDGZ-C0MU/transcript.md) · [materials](kldDGZ-C0MU/materials/) |
 | 2026-11-19 | Riley Brown | [Building with Google Neon and Claude Fable / Opus](https://www.youtube.com/watch?v=1_ADARdbZ5k) | — | — | [transcript](1_ADARdbZ5k/transcript.md) |
