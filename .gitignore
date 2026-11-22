@@ -16,3 +16,6 @@ venv/
 
 # Audiobook transcripts: whole books, kept on the PC only (repo is public)
 audiobooks/
+
+# Library Buildout dashboard generators + their output (published as an artifact, not to git)
+dashboard/
