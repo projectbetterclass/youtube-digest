@@ -2172,6 +2172,11 @@
       "error": "",
       "slides": 0
     },
+    "Ce_wXQ1BJjE": {
+      "at": "2026-11-22T20:03:05.019658+00:00",
+      "error": "ERROR: \r[download] Got error: 2858 bytes read, 10171128 more expected. Giving up after 5 retries",
+      "slides": 0
+    },
     "CfC0rFGTecQ": {
       "at": "2026-10-06T22:11:59.183794+00:00",
       "error": "",
@@ -8582,6 +8587,11 @@
       "error": "",
       "slides": 3
     },
+    "rRI0iH-cpjg": {
+      "at": "2026-11-22T20:04:58.740986+00:00",
+      "error": "",
+      "slides": 6
+    },
     "rTzQ0b9vcAQ": {
       "at": "2026-10-07T19:10:05.462566+00:00",
       "error": "",
@@ -9291,6 +9301,11 @@
       "at": "2026-10-08T08:01:08.455968+00:00",
       "error": "",
       "slides": 12
+    },
+    "vPWlDsmxjSo": {
+      "at": "2026-11-22T20:06:59.394131+00:00",
+      "error": "",
+      "slides": 15
     },
     "vPkybn5qKAI": {
       "at": "2026-10-08T05:23:57.017706+00:00",

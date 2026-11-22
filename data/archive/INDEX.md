@@ -1,10 +1,19 @@
 # 📚 Library index
 
-12192 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12201 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-22 | Starter Story | [He Scaled a Reddit Micro-SaaS to $40K/Month](https://www.youtube.com/watch?v=Ce_wXQ1BJjE) | — | — | [transcript](Ce_wXQ1BJjE/transcript.md) |
+| 2026-11-22 | Chris Williamson | [The Biggest Hole In The Atheist Argument - Alex O’Connor](https://www.youtube.com/watch?v=fOFOOivcg5Q) | — | — | [transcript](fOFOOivcg5Q/transcript.md) |
+| 2026-11-22 | Ben Yanes | [The truth about dips](https://www.youtube.com/shorts/bJrhMMO2USs) | — | — | [transcript](bJrhMMO2USs/transcript.md) · Short |
+| 2026-11-22 | Ben Yanes | [STOP pulling narrow for lats?](https://www.youtube.com/shorts/b6fgqwKmDU4) | — | — | [transcript](b6fgqwKmDU4/transcript.md) · Short |
+| 2026-11-22 | Ben Yanes | [Your program might be backwards](https://www.youtube.com/shorts/7LJGCqyaf44) | — | — | [transcript](7LJGCqyaf44/transcript.md) · Short |
+| 2026-11-22 | Alex Hormozi | [It’s Unsexy, But Will Grow Your Business Dangerously FAST](https://www.youtube.com/watch?v=rRI0iH-cpjg) | — | — | [transcript](rRI0iH-cpjg/transcript.md) · [visuals](rRI0iH-cpjg/visuals.md) |
+| 2026-11-22 | Felix & Friends (Goat Academy) | [Why investing isn't working anymore](https://www.youtube.com/watch?v=JdwdHq1Nl7M) | — | — | [transcript](JdwdHq1Nl7M/transcript.md) |
+| 2026-11-22 | BWB - Business With Brian | [The World Is Falling Apart. These 5 Stocks Patch It Together](https://www.youtube.com/watch?v=vPWlDsmxjSo) | — | — | [transcript](vPWlDsmxjSo/transcript.md) · [visuals](vPWlDsmxjSo/visuals.md) |
+| 2026-11-22 | David Carbutt | [Jensen Huang Did The UNTHINKABLE!](https://www.youtube.com/watch?v=SJjR7Iw5UGA) | — | — | [transcript](SJjR7Iw5UGA/transcript.md) |
 | 2026-11-21 | David Carbutt | [Jensen Huang Stuns Donald Trump](https://www.youtube.com/watch?v=AKvhN1ncHmQ) | — | — | [transcript](AKvhN1ncHmQ/transcript.md) |
 | 2026-11-21 | Riley Brown | [Is Claude Still Worth Paying 30x For? \| Billion-Dollar Founder Suhail Doshi](https://www.youtube.com/watch?v=K2UEMxBTu9M) | — | — | [transcript](K2UEMxBTu9M/transcript.md) · [visuals](K2UEMxBTu9M/visuals.md) |
 | 2026-11-21 | David Carbutt | [Cathie Wood on Elon Musk: Nobody’s Ready for What Elon Is Building](https://www.youtube.com/watch?v=eYT7iCVQxLc) | — | — | [transcript](eYT7iCVQxLc/transcript.md) |
