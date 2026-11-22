@@ -1,10 +1,17 @@
 # 📚 Library index
 
-12185 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12192 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-21 | David Carbutt | [Jensen Huang Stuns Donald Trump](https://www.youtube.com/watch?v=AKvhN1ncHmQ) | — | — | [transcript](AKvhN1ncHmQ/transcript.md) |
+| 2026-11-21 | Riley Brown | [Is Claude Still Worth Paying 30x For? \| Billion-Dollar Founder Suhail Doshi](https://www.youtube.com/watch?v=K2UEMxBTu9M) | — | — | [transcript](K2UEMxBTu9M/transcript.md) · [visuals](K2UEMxBTu9M/visuals.md) |
+| 2026-11-21 | David Carbutt | [Cathie Wood on Elon Musk: Nobody’s Ready for What Elon Is Building](https://www.youtube.com/watch?v=eYT7iCVQxLc) | — | — | [transcript](eYT7iCVQxLc/transcript.md) |
+| 2026-11-21 | Chris Williamson | [The Perfect Storm Reshaping The Global Economy - Steve Keen (4K)](https://www.youtube.com/watch?v=zoGoRBYKQrg) | — | — | [transcript](zoGoRBYKQrg/transcript.md) |
+| 2026-11-21 | HealthyGamerGG | [Why Every Little Criticism Destroys You](https://www.youtube.com/watch?v=ToZhRR3BKvA) | — | — | [transcript](ToZhRR3BKvA/transcript.md) |
+| 2026-11-21 | Sean Nalewanyj | [Stop wasting time on "pyramid sets"](https://www.youtube.com/shorts/W1wfMrVOD_g) | — | — | [transcript](W1wfMrVOD_g/transcript.md) · Short |
+| 2026-11-21 | Ben Yanes | [Stop Pulling 'Narrow' For Lats](https://www.youtube.com/watch?v=jWLcrLaDLEk) | — | — | [transcript](jWLcrLaDLEk/transcript.md) |
 | 2026-11-21 | Big A | [The Anthropic IPO Didn't Help](https://www.youtube.com/watch?v=I2XAug-Uz6M) | — | — | [transcript](I2XAug-Uz6M/transcript.md) |
 | 2026-11-20 | David Carbutt | [Investigating SBF's $37 Billion Anthropic Investment](https://www.youtube.com/watch?v=bt_ozxdBzjg) | — | — | [transcript](bt_ozxdBzjg/transcript.md) |
 | 2026-11-20 | Greg Isenberg | [Gemini 4 Neon: the most underrated model of the year](https://www.youtube.com/watch?v=tCY7zMknCJQ) | — | — | [transcript](tCY7zMknCJQ/transcript.md) · [visuals](tCY7zMknCJQ/visuals.md) |
