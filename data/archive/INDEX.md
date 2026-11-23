@@ -1,10 +1,21 @@
 # 📚 Library index
 
-12201 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12212 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-23 | David Carbutt | [Jensen Huang Stuns the World!](https://www.youtube.com/watch?v=Ri1EFbw_4EQ) | — | — | [transcript](Ri1EFbw_4EQ/transcript.md) |
+| 2026-11-23 | Greg Isenberg | [SaaS is Over? Build a robotics company in 2027.](https://www.youtube.com/watch?v=TXzJ4pGW59o) | — | — | [transcript](TXzJ4pGW59o/transcript.md) · [visuals](TXzJ4pGW59o/visuals.md) |
+| 2026-11-23 | Sean Nalewanyj | [NEVER do this exercise...](https://www.youtube.com/shorts/iz3JJIpBnnQ) | — | — | [transcript](iz3JJIpBnnQ/transcript.md) · Short |
+| 2026-11-23 | Chris Williamson | [The Most Powerful Men In History Were Absolute Freaks - Fin Taylor & Horatio Gould (4K)](https://www.youtube.com/watch?v=HHxO1Dul3BU) | — | — | [transcript](HHxO1Dul3BU/transcript.md) |
+| 2026-11-23 | Ben Yanes | [Every Good Exercise Self-Destructs](https://www.youtube.com/watch?v=xzw-J1z74ZE) | — | — | [transcript](xzw-J1z74ZE/transcript.md) |
+| 2026-11-23 | Tom Nash | [The UNTHINKABLE Just Happened to NVIDIA (Get READY!)](https://www.youtube.com/watch?v=k8KL1hUVtSc) | — | — | [transcript](k8KL1hUVtSc/transcript.md) · [visuals](k8KL1hUVtSc/visuals.md) |
+| 2026-11-23 | Invest with Henry | [Unthinkable Is Coming this week](https://www.youtube.com/watch?v=Dc_kyAHYSwk) | — | — | [transcript](Dc_kyAHYSwk/transcript.md) |
+| 2026-11-23 | JulienHimself | [It's Not Them, It's YOU (Sorry...)](https://www.youtube.com/watch?v=_R_tOdwiRcg) | — | — | [transcript](_R_tOdwiRcg/transcript.md) |
+| 2026-11-23 | The Diary Of A CEO | [The Man Who Predicted The Last Crash WARNS A Recession Starts If These 2 Fail! \| Steve Eisman](https://www.youtube.com/watch?v=4Unch--PmW0) | — | — | [transcript](4Unch--PmW0/transcript.md) |
+| 2026-11-22 | David Carbutt | [Watch Palmer Luckey Destroy False Elon Musk Narrative](https://www.youtube.com/watch?v=obu0O05sbfo) | — | — | [transcript](obu0O05sbfo/transcript.md) |
+| 2026-11-22 | Tom Nash | [The UNTHINKABLE is About to Happen to Stocks](https://www.youtube.com/watch?v=Grtqt6C9l7w) | — | — | [transcript](Grtqt6C9l7w/transcript.md) · [visuals](Grtqt6C9l7w/visuals.md) |
 | 2026-11-22 | Starter Story | [He Scaled a Reddit Micro-SaaS to $40K/Month](https://www.youtube.com/watch?v=Ce_wXQ1BJjE) | — | — | [transcript](Ce_wXQ1BJjE/transcript.md) |
 | 2026-11-22 | Chris Williamson | [The Biggest Hole In The Atheist Argument - Alex O’Connor](https://www.youtube.com/watch?v=fOFOOivcg5Q) | — | — | [transcript](fOFOOivcg5Q/transcript.md) |
 | 2026-11-22 | Ben Yanes | [The truth about dips](https://www.youtube.com/shorts/bJrhMMO2USs) | — | — | [transcript](bJrhMMO2USs/transcript.md) · Short |
