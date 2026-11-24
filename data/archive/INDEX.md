@@ -1,10 +1,15 @@
 # 📚 Library index
 
-12212 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12217 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-24 | Sean Nalewanyj | [Not getting stronger on lateral raises? Do this](https://www.youtube.com/shorts/Yj4VFsTFQTw) | — | — | [transcript](Yj4VFsTFQTw/transcript.md) · Short |
+| 2026-11-24 | Felix & Friends (Goat Academy) | [They're About to Reset Stocks, Gold and Silver](https://www.youtube.com/watch?v=gI9adlNbiXI) | — | — | [transcript](gI9adlNbiXI/transcript.md) |
+| 2026-11-24 | David Carbutt | [The UNTHINKABLE is About to Happen to AMD & NVIDIA](https://www.youtube.com/watch?v=uOxO9B51nss) | — | — | [transcript](uOxO9B51nss/transcript.md) |
+| 2026-11-24 | David Carbutt | [The Real Reason Nvidia Needs Jensen Huang](https://www.youtube.com/watch?v=4aGPjLqvWzQ) | — | — | [transcript](4aGPjLqvWzQ/transcript.md) |
+| 2026-11-23 | Big A | [He's Back](https://www.youtube.com/watch?v=69nTuZmphM0) | — | — | [transcript](69nTuZmphM0/transcript.md) |
 | 2026-11-23 | David Carbutt | [Jensen Huang Stuns the World!](https://www.youtube.com/watch?v=Ri1EFbw_4EQ) | — | — | [transcript](Ri1EFbw_4EQ/transcript.md) |
 | 2026-11-23 | Greg Isenberg | [SaaS is Over? Build a robotics company in 2027.](https://www.youtube.com/watch?v=TXzJ4pGW59o) | — | — | [transcript](TXzJ4pGW59o/transcript.md) · [visuals](TXzJ4pGW59o/visuals.md) |
 | 2026-11-23 | Sean Nalewanyj | [NEVER do this exercise...](https://www.youtube.com/shorts/iz3JJIpBnnQ) | — | — | [transcript](iz3JJIpBnnQ/transcript.md) · Short |
