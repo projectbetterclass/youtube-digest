@@ -1,10 +1,18 @@
 # 📚 Library index
 
-12217 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12225 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-25 | HealthyGamerGG | [Dr. K Tries To Guess The Diagnoses](https://www.youtube.com/watch?v=NEU3UW7KSUk) | — | — | [transcript](NEU3UW7KSUk/transcript.md) |
+| 2026-11-25 | Chris Williamson | [Men Will Literally Invade Russia Instead Of Going To Therapy - Fin & Horatio](https://www.youtube.com/watch?v=y7fZtvVP2_U) | — | — | [transcript](y7fZtvVP2_U/transcript.md) |
+| 2026-11-25 | Invest with Henry | [Watch Before Wednesday 930am #NVDA #SOFI #PLTR #QQQ](https://www.youtube.com/watch?v=0HfYdOaFmD0) | — | — | [transcript](0HfYdOaFmD0/transcript.md) |
+| 2026-11-25 | David Carbutt | [Meta Stunned by AMD & NVIDIA](https://www.youtube.com/watch?v=Pl_NICQ2gko) | — | — | [transcript](Pl_NICQ2gko/transcript.md) |
+| 2026-11-24 | Ticker Symbol: YOU | [JENSEN'S BACK! I'm Buying These Stocks (Even Over NVIDIA)](https://www.youtube.com/watch?v=4lDl2CxlURY) | — | — | [transcript](4lDl2CxlURY/transcript.md) · [visuals](4lDl2CxlURY/visuals.md) |
+| 2026-11-24 | David Carbutt | [Anthropic & OpenAI are About to Go Exponential](https://www.youtube.com/watch?v=bkhOpSre0dE) | — | — | [transcript](bkhOpSre0dE/transcript.md) |
+| 2026-11-24 | Invest with Henry | [The UNTHINKABLE is About to Happen to NVIDIA (NOT What You Think)](https://www.youtube.com/watch?v=4CsR5nD0UNY) | — | — | [transcript](4CsR5nD0UNY/transcript.md) |
+| 2026-11-24 | Chris Williamson | [Why The UK Has One Of The Worst Qualities Of Life - Economist Steve Keen](https://www.youtube.com/watch?v=6y5epgU740o) | — | — | [transcript](6y5epgU740o/transcript.md) |
 | 2026-11-24 | Sean Nalewanyj | [Not getting stronger on lateral raises? Do this](https://www.youtube.com/shorts/Yj4VFsTFQTw) | — | — | [transcript](Yj4VFsTFQTw/transcript.md) · Short |
 | 2026-11-24 | Felix & Friends (Goat Academy) | [They're About to Reset Stocks, Gold and Silver](https://www.youtube.com/watch?v=gI9adlNbiXI) | — | — | [transcript](gI9adlNbiXI/transcript.md) |
 | 2026-11-24 | David Carbutt | [The UNTHINKABLE is About to Happen to AMD & NVIDIA](https://www.youtube.com/watch?v=uOxO9B51nss) | — | — | [transcript](uOxO9B51nss/transcript.md) |
