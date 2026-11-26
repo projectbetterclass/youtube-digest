@@ -1,10 +1,16 @@
 # 📚 Library index
 
-12230 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12236 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-26 | Chris Williamson | [Q&A: Age Gaps, Sexual Frustration & Performance Anxiety](https://www.youtube.com/watch?v=kIQPEWLfp5Y) | — | — | [transcript](kIQPEWLfp5Y/transcript.md) |
+| 2026-11-26 | Sean Nalewanyj | ["I don't have time to work out"](https://www.youtube.com/shorts/DyAZI2RxBe8) | — | — | [transcript](DyAZI2RxBe8/transcript.md) · Short |
+| 2026-11-26 | David Carbutt | [Chamath on SpaceX: Nobody's Ready for What Elon Musk Is Building](https://www.youtube.com/watch?v=IxqLdGnPiZo) | — | — | [transcript](IxqLdGnPiZo/transcript.md) |
+| 2026-11-26 | Invest with Henry | [Buying LEAPs on NVDA at $125](https://www.youtube.com/watch?v=ZE_CC7ipRK8) | — | — | [transcript](ZE_CC7ipRK8/transcript.md) |
+| 2026-11-26 | Felix & Friends (Goat Academy) | [Stock & Silver RESET Is Here - Here's How I'm Investing In 2027](https://www.youtube.com/watch?v=kVcK_QMVqpk) | — | — | [transcript](kVcK_QMVqpk/transcript.md) |
+| 2026-11-26 | The Diary Of A CEO | [The Hacker Who Hunts Predators: Do These 3 Things Before You Get Hacked! \| Ryan "0day" Montgomery](https://www.youtube.com/watch?v=Uj81Qo15wBc) | — | — | [transcript](Uj81Qo15wBc/transcript.md) |
 | 2026-11-25 | David Carbutt | [Drone Company Makes Huge Announcement](https://www.youtube.com/watch?v=ar-7-Uvxm3I) | — | — | [transcript](ar-7-Uvxm3I/transcript.md) |
 | 2026-11-25 | Invest with Henry | [Exactly how I'd turn $50k into $200k with LEAPS Options ASAP (without taking crazy risk)](https://www.youtube.com/watch?v=fzTMtLZweN8) | — | — | [transcript](fzTMtLZweN8/transcript.md) |
 | 2026-11-25 | BWB - Business With Brian | [I Bought the 2008 Sell-Off. It Made Me a Millionaire](https://www.youtube.com/watch?v=6Z_xwk2RjSo) | — | — | [transcript](6Z_xwk2RjSo/transcript.md) · [visuals](6Z_xwk2RjSo/visuals.md) |
