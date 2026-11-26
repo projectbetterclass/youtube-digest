@@ -1,10 +1,15 @@
 # 📚 Library index
 
-12225 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12230 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-25 | David Carbutt | [Drone Company Makes Huge Announcement](https://www.youtube.com/watch?v=ar-7-Uvxm3I) | — | — | [transcript](ar-7-Uvxm3I/transcript.md) |
+| 2026-11-25 | Invest with Henry | [Exactly how I'd turn $50k into $200k with LEAPS Options ASAP (without taking crazy risk)](https://www.youtube.com/watch?v=fzTMtLZweN8) | — | — | [transcript](fzTMtLZweN8/transcript.md) |
+| 2026-11-25 | BWB - Business With Brian | [I Bought the 2008 Sell-Off. It Made Me a Millionaire](https://www.youtube.com/watch?v=6Z_xwk2RjSo) | — | — | [transcript](6Z_xwk2RjSo/transcript.md) · [visuals](6Z_xwk2RjSo/visuals.md) |
+| 2026-11-25 | Tom Nash | [The UNTHINKABLE is About to Happen to Stocks (Emergency Update)](https://www.youtube.com/watch?v=sYNLzOQbFCc) | — | — | [transcript](sYNLzOQbFCc/transcript.md) · [visuals](sYNLzOQbFCc/visuals.md) |
+| 2026-11-25 | Starter Story | [I Built 3 Apps to $100K/month: This is My Playbook](https://www.youtube.com/watch?v=E_z1t_Iw9jM) | — | — | [transcript](E_z1t_Iw9jM/transcript.md) · [visuals](E_z1t_Iw9jM/visuals.md) |
 | 2026-11-25 | HealthyGamerGG | [Dr. K Tries To Guess The Diagnoses](https://www.youtube.com/watch?v=NEU3UW7KSUk) | — | — | [transcript](NEU3UW7KSUk/transcript.md) |
 | 2026-11-25 | Chris Williamson | [Men Will Literally Invade Russia Instead Of Going To Therapy - Fin & Horatio](https://www.youtube.com/watch?v=y7fZtvVP2_U) | — | — | [transcript](y7fZtvVP2_U/transcript.md) |
 | 2026-11-25 | Invest with Henry | [Watch Before Wednesday 930am #NVDA #SOFI #PLTR #QQQ](https://www.youtube.com/watch?v=0HfYdOaFmD0) | — | — | [transcript](0HfYdOaFmD0/transcript.md) |
