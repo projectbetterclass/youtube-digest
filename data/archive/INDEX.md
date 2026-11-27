@@ -1,10 +1,11 @@
 # 📚 Library index
 
-12236 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12237 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-26 | David Carbutt | [Cathie Wood Makes the Bet of a LIFETIME on SpaceX](https://www.youtube.com/watch?v=psI6wKbxylk) | — | — | [transcript](psI6wKbxylk/transcript.md) |
 | 2026-11-26 | Chris Williamson | [Q&A: Age Gaps, Sexual Frustration & Performance Anxiety](https://www.youtube.com/watch?v=kIQPEWLfp5Y) | — | — | [transcript](kIQPEWLfp5Y/transcript.md) |
 | 2026-11-26 | Sean Nalewanyj | ["I don't have time to work out"](https://www.youtube.com/shorts/DyAZI2RxBe8) | — | — | [transcript](DyAZI2RxBe8/transcript.md) · Short |
 | 2026-11-26 | David Carbutt | [Chamath on SpaceX: Nobody's Ready for What Elon Musk Is Building](https://www.youtube.com/watch?v=IxqLdGnPiZo) | — | — | [transcript](IxqLdGnPiZo/transcript.md) |
