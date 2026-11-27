@@ -1,10 +1,17 @@
 # 📚 Library index
 
-12237 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
+12244 videos archived. This is the index for asking questions about the content — see the repo `CLAUDE.md` for how to answer.
 Each transcript link points to the full text under this folder.
 
 | Date | Channel | Video | Verdict | Takeaway | Sources |
 |---|---|---|---|---|---|
+| 2026-11-27 | David Carbutt | [Palantir Co-Founder Stunned by Elon Musk](https://www.youtube.com/watch?v=fUN_lTt_45s) | — | — | [transcript](fUN_lTt_45s/transcript.md) |
+| 2026-11-27 | Tom Nash | [🚨MAJOR BUY: Last EASY Wealth Opportunity For Decades](https://www.youtube.com/watch?v=xMXKZM2CRuQ) | — | — | [transcript](xMXKZM2CRuQ/transcript.md) · [visuals](xMXKZM2CRuQ/visuals.md) |
+| 2026-11-27 | Ben Yanes | [You'll Never Hit Upper Chest The Same After This](https://www.youtube.com/watch?v=zOcjgMkjxTk) | — | — | [transcript](zOcjgMkjxTk/transcript.md) |
+| 2026-11-27 | Chris Williamson | [The Moral Double Standards Of GTA VI](https://www.youtube.com/watch?v=cPlWAcSJNgY) | — | — | [transcript](cPlWAcSJNgY/transcript.md) |
+| 2026-11-27 | Sean Nalewanyj | [Insane Muscle Building Theory](https://www.youtube.com/shorts/_FvWeAKbWVU) | — | — | [transcript](_FvWeAKbWVU/transcript.md) · Short |
+| 2026-11-27 | David Carbutt | [SpaceX Is Betting on Tesla's Megapacks](https://www.youtube.com/watch?v=ufDOlDeqwGI) | — | — | [transcript](ufDOlDeqwGI/transcript.md) |
+| 2026-11-27 | Justin Sung | [Cognitive Biases: The Psychology of Irrational Decisions](https://www.youtube.com/watch?v=xUBUOEQR7Kw) | — | — | [transcript](xUBUOEQR7Kw/transcript.md) · [visuals](xUBUOEQR7Kw/visuals.md) |
 | 2026-11-26 | David Carbutt | [Cathie Wood Makes the Bet of a LIFETIME on SpaceX](https://www.youtube.com/watch?v=psI6wKbxylk) | — | — | [transcript](psI6wKbxylk/transcript.md) |
 | 2026-11-26 | Chris Williamson | [Q&A: Age Gaps, Sexual Frustration & Performance Anxiety](https://www.youtube.com/watch?v=kIQPEWLfp5Y) | — | — | [transcript](kIQPEWLfp5Y/transcript.md) |
 | 2026-11-26 | Sean Nalewanyj | ["I don't have time to work out"](https://www.youtube.com/shorts/DyAZI2RxBe8) | — | — | [transcript](DyAZI2RxBe8/transcript.md) · Short |

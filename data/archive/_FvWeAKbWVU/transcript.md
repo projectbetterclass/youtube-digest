@@ -1,0 +1,5 @@
+# Insane Muscle Building Theory
+
+<https://www.youtube.com/shorts/_FvWeAKbWVU>
+
+All right, this might be the most insane muscle building theory out there, but hear me out. What if what if building muscle is actually simple? And the only reason people think it's so complicated is because fitness coaches and influencers need to make it seem complicated so they can keep coming up with new content that convinces you there's some special method you haven't discovered yet or some mistake you're making that's killing your gains. Even though in reality most of the stuff they talk about will make little to no difference to your actual results in the big picture and getting jacked and lean mainly just comes down to applying a few key principles over the long term. But if everybody understood that there'd be way less stuff to talk about on here and 90% of the fitness industry would go out of business. So they just continue making up random to keep you coming back for more. That would be that would be crazy if that was true.
